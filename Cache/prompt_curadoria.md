@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T02:02:46.411612+00:00
+Última coleta: 2026-10-29T02:12:47.242600+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          898
-  🇨🇳 China          841
+  🇯🇵 Japão          894
+  🇨🇳 China          840
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  874
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean won, Indonesian rupiah lead Asian currencies higher
+  - [japan] Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen
+  - [korea] Samsung Electronics posts record profit in Q3 on AI chip supercycle
+  - [korea] Why is Samsung Electronics stock sliding today?
+  - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [china] CHINA PBOC CONDUCTS CNY115 BLN VIA 7-DAY REVERSE REPO THURS
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
-  - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5
   - [korea] Sk Hynix Considering Various Ways To Increase Competitiveness Of Solidigm
   - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
@@ -45,18 +49,14 @@ Total: 3000 manchetes
   - [korea] Key facts: SK hynix posts record profit; ₩100T return, HBM4 gains
   - [japan] Nikkei May Decline Amid Caution Over U.S., Japan Monetary Policy — Market Talk
   - [japan] Although the Bank of Japan judged that the underlying price trend had reached the target level of 2%, the posi
+  - [korea] Korea’s growth rate improves amid freeze on U.S. Federal Reserve interest rate… Bank of Korea plans additional
+  - [korea] Despite the US interest rate freeze, will the Bank of Korea bring out its ‘hoe’ again? Weighted on November hi
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 36% Upside
   - [china] Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] South Korea’s Manufacturing Sentiment Weakens Slightly
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [japan] Japan girds for new wave of food price hikes as tanker rates soar
-  - [korea] Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK
-  - [japan] ``We do not accept the burden of local governments'', as pointed out by House of Councilors member Gaku Hasega
-  - [japan] [Chaos] France's large-scale demonstrations and riots: "Plummeting retail stocks," "increased burden on insura
-  - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
-  - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
-  - [japan] Behind the Odakyu "base" in a quiet residential area of ​​Setagaya, 5 minutes walk from Kitami Station, "train
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T02:02:46+00:00",
+      "published_utc": "2026-10-29T02:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

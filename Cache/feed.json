@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T02:02:46.411612+00:00",
- "collected_at_utc": "2026-10-29T02:02:46.411612+00:00",
+ "generated_at_utc": "2026-10-29T02:12:47.242600+00:00",
+ "collected_at_utc": "2026-10-29T02:12:47.242600+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 898,
-  "china": 841,
+  "japan": 894,
+  "china": 840,
   "taiwan": 387,
-  "korea": 874
+  "korea": 879
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 32.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T01:31:07+00:00"
+   "newest": "2026-10-29T02:04:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T00:48:21+00:00"
+   "newest": "2026-10-29T02:00:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T01:44:55+00:00"
+   "newest": "2026-10-29T02:08:10+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:37:02+00:00"
+   "newest": "2026-10-27T16:38:02+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:25:23+00:00"
+   "newest": "2026-10-27T05:46:33+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T02:02:17+00:00"
+   "newest": "2026-10-29T02:12:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T01:00:02+00:00"
+   "newest": "2026-10-28T21:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:31:03+00:00"
+   "newest": "2026-10-28T23:34:02+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,95 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:00:00+00:00"
+   "newest": "2026-10-28T23:35:39+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won, Indonesian rupiah lead Asian currencies higher",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F026:0-south-korean-won-indonesian-rupiah-lead-asian-currencies-higher/",
+   "published_utc": "2026-10-29T02:12:07+00:00",
+   "title_original": "South Korean won, Indonesian rupiah lead Asian currencies higher",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "515001d0a33385d8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46E2DO:0-denso-corporation-to-buy-back-up-to-3-99-own-shares-worth-200-billion-yen/",
+   "published_utc": "2026-10-29T02:11:55+00:00",
+   "title_original": "Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e1787e625bdeda6c"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Samsung Electronics posts record profit in Q3 on AI chip supercycle",
+   "url": "https://www.koreaherald.com/article/10918815",
+   "published_utc": "2026-10-29T02:08:10+00:00",
+   "title_original": "Samsung Electronics posts record profit in Q3 on AI chip supercycle",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "76ca6a2f84e6f177"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock sliding today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4981346",
+   "published_utc": "2026-10-29T02:01:13+00:00",
+   "title_original": "Why is Samsung Electronics stock sliding today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "40748f9b420b54f4"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Samsung posts record profit in Q3 on AI chip boom",
+   "url": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289",
+   "published_utc": "2026-10-29T01:54:37+00:00",
+   "title_original": "Samsung posts record profit in Q3 on AI chip boom",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2d09c27d75a3e10b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -393,23 +478,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fc18226147727b33"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Samsung posts record profit in Q3 on AI chip boom",
-   "url": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289",
-   "published_utc": "2026-10-29T01:30:19+00:00",
-   "title_original": "Samsung posts record profit in Q3 on AI chip boom",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2d09c27d75a3e10b"
   },
   {
    "source_id": "tradingview_live",
@@ -825,6 +893,41 @@
    "live_wire": false,
    "manual": false,
    "id": "26c86835261ce4bb"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "전자신문",
+   "title_en": "Korea’s growth rate improves amid freeze on U.S. Federal Reserve interest rate… Bank of Korea plans additional hike in November",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3aFU0QWc0X3hUUXktSHcyOEgwR1RHaURuSTAwNDlJWkZqWC05djRSTUNjZ2ttYnJpZ2h2OVphbWxlRGd2bDhGWnJlbXdnUQ?oc=5",
+   "published_utc": "2026-10-28T23:35:39+00:00",
+   "title_original": "미 연준 기준금리 동결 속 韓 성장률 호조…한은, 11월 추가 인상 '무게'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c5e46d0a275f5a7f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Despite the US interest rate freeze, will the Bank of Korea bring out its ‘hoe’ again? Weighted on November hike",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBteTlUSFF5T1h0NkYzZjVNR2hkSzBlaWtXaTRHaW5zbTJMbjIyaXQ5bVFYN3RrU3d2ajRPMHJuNVd0OElySzkyZV8tSU9VS1ZsVXVWbHI5MHhNY2VCMTlqdNIBYEFVX3lxTFBteTlUSFF5T1h0NkYzZjVNR2hkSzBlaWtXaTRHaW5zbTJMbjIyaXQ5bVFYN3RrU3d2ajRPMHJuNVd0OElySzkyZV8tSU9VS1ZsVXVWbHI5MHhNY2VCMTlqdA?oc=5",
+   "published_utc": "2026-10-28T22:28:04+00:00",
+   "title_original": "美 금리 동결에도 한은 또 '호미' 꺼내나…11월 인상에 무게",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "52959fe3be453cb5"
   },
   {
    "source_id": "tradingview_live",
@@ -6160,9 +6263,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -6174,7 +6277,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0facd9f9793a1c33"
+   "id": "8166e1f4e20d2cef"
   },
   {
    "source_id": "tradingview_live",
@@ -6420,6 +6523,23 @@
    "live_wire": true,
    "manual": false,
    "id": "85dfda3021e00ea7"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Asia-focused banks face capital squeeze due to inflation, bond turbulence",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3c0Nl9IZUxGNGlIRFlNSW0xRUIzUTkxZlZJYVhtWjI5NXlGNFVJcm1IMnNMNVFWZVV4c0toYkxQYjB5Z3VXanB2ZE5ycUxERkRObDhkYUw3RGlrbFlzMVM3OXpyRVZhLTNnMkZhMkhHRU9oeGpuOHBDUWtkNkprSkZuQWVlSWtxYllmX1NlWkdqOHVWZzlubGs0WExDR29iVl95S1paMEhzOEFob1JkQWxpeTlGcnZO?oc=5",
+   "published_utc": "2026-10-26T10:26:27+00:00",
+   "title_original": "Asia-focused banks face capital squeeze due to inflation, bond turbulence",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fbc58d46a7a3101"
   },
   {
    "source_id": "nhk_economy",
@@ -7299,24 +7419,6 @@
    "id": "8ad0e6381b5427fd"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBob3haUVpMWHhBcXZNUUdLa0sxV1ptN0dNMFVEZkk0RENUYkJWemw3eE9GNVhRdzNVSHpYam1Pb2VBZFBMdHo2NV9wR1NQYzBlVnNzTGc3cVRramNzbVA4ZlVR?oc=5",
-   "published_utc": "2026-10-26T02:56:03+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7d1cb03ad8a1b50"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to announce steps to boost shareholder returns on Wednesday",
@@ -7454,6 +7556,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8025,24 +8145,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9044,6 +9146,24 @@
    "id": "9f5caab2bcd6c61a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "published_utc": "2026-10-23T14:14:15+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d30db5f10da9efb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
    "title_en": "Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026",
@@ -9373,6 +9493,23 @@
    "live_wire": false,
    "manual": false,
    "id": "187c3c434f8b9aa5"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "데일리환경",
+   "title_en": "Bank of Korea freezes base interest rate at 3.00%... Check the effect of raising twice",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PX1VtYUdGbVdneC1aWEFRSzBQNmE2Tzl1Uk1JWE4xdkpCOTk0cVozRWFsSmJQQUpkZ3ZuUmtEcGpHY0FpemI4Z1A2S0p6T3EyS2VGZTUyN3ByblpXbXc?oc=5",
+   "published_utc": "2026-10-23T11:13:22+00:00",
+   "title_original": "한국은행, 기준금리 3.00% 동결…두 차례 인상 효과 점검",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "faacacf63c38d904"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -10366,6 +10503,24 @@
    "id": "d33e8bd8bf1f3b44"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스토마토",
+   "title_en": "Mortgage interest rates rise even though base interest rates are frozen",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TM1Z4a0xoVlJIcVlLNTdMczU1YnktNk5wVE1zdDhramMtQjhvUW1oVVdNVE9JSUVHdElrNDNza1drdVRNRjF6bm4xZ0NEYXJTbGdYV3BxNTlwMXdiODhzTw?oc=5",
+   "published_utc": "2026-10-23T05:29:50+00:00",
+   "title_original": "기준금리 동결에도 주담대 금리 더 오른다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26f37b9e2f183669"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "SK hynix resumes bond investment with $2.3bn allocation",
@@ -11003,6 +11158,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a29d72095c68ae17"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "시사캐스트",
+   "title_en": "[Policy Focus] Bank of Korea freezes base interest rate by 3%... Rising prices and financial risks remain",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80UGdpcWQzUkRHQ0k1WjNVOVc5S0l1d3BrNWFCZlo2MmMwQUVsSzh6TDdUWUZ5ckpSTXpuTHE2WEFtaVAwNm52UXVyLWJieC1iWjVZc2cwSUo3bG4wNkhaNHMwZnMxWERj?oc=5",
+   "published_utc": "2026-10-23T00:49:06+00:00",
+   "title_original": "[정책포커스] 한국은행, 기준금리 3% 동결…물가 오름세·금융 리스크 상존",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94712f14ae9e07a4"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -11885,6 +12058,23 @@
    "id": "effef059bf271013"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "머니투데이",
+   "title_en": "'Adjusting the pace of tightening', the Bank of Korea freezes base interest rate by 3%... Will there be a raise next month? - Money Today",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oOGJOT3JKUkE4bmxHVWlKa1hlN3hZdnF4TUEtLVdIaUdNTDNNRm9MN0NCSjRoakh1MXJGWlg5SEhVN1ZGZjl4TXR4TFR5OHB6YUdGMGUwSUpxTUJCT1JvdzFkUFF1bW0wczJn0gFwQVVfeXFMTzRiM3lyb1hiUjY1LTRlbXdfMTJ4WTJHTnZQdy1FX01wWlhUUWxkMnJZd2JibmRybEtfWE9memhEOU9VckpwQm9xMTZCb3BKYzRhT0pMcFRpVHB2alg2YXRWYlhqeDNlV0xEcFNzMDZoaQ?oc=5",
+   "published_utc": "2026-10-22T18:57:00+00:00",
+   "title_original": "'긴축 속도조절' 한은, 기준금리 3% 동결… 내달 인상 나설까 - 머니투데이",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b6d3d092598de326"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "US blocks two devices with Chinese-made surveillance chips",
@@ -12126,6 +12316,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b956c5e157b4ed5d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "시사캐스트",
+   "title_en": "[Economic Outlook] The Bank of Korea freezes its base interest rate at 3.0% per annum... “We will continue the austerity stance.”",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qenpQQTNIdnlXWDRFUTNvM3NVODNPZEtobTdCdTRhR0dUU1pUQTM4WVMtQkd6d3JvM0R1M2xybFJGTVNmMUp5UFJBZlZCUVc5MGNvVnBLYnJDTlNCU2dkVmJ0aG80ajdx?oc=5",
+   "published_utc": "2026-10-22T12:44:56+00:00",
+   "title_original": "[경제전망] 한은 기준금리 연 3.0% 동결…\"긴축 기조 이어갈 것\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2158821b5b8fcf9c"
   },
   {
    "source_id": "investing_live",
@@ -12557,6 +12765,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e08d80a328df73a3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KBS 뉴스",
+   "title_en": "Bank of Korea freezes base interest rate... Additional increase ‘weight’ in November",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GU2FoY25KN3lwSDNMUWVEV2wxdUFFT2lqTkVidDU2WDNmOW52X3FEZlRCaGlZamVldXBGVjFSVF9KTW1qOEJXUnF6NXlmTkVCY2t5YlU5VDV5R0E?oc=5",
+   "published_utc": "2026-10-22T09:03:00+00:00",
+   "title_original": "한은, 기준금리 동결…11월 추가 인상 ‘무게’",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4289abdd23771bb"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -13215,41 +13440,6 @@
    "id": "95a73a535b93ece1"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "Base interest rate frozen at 3%... Bank of Korea governor raises concerns about fiscal sustainability",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmMWRNV0VUOHNKOEZLdjZLc09TS0FreE5sWHRXQVlsbXhtc1k0X1NQSFNFZWd0cDVyaTRrNFZPQ3JqZTZ0cFViOG9pUDNzbjRZaE9aelE4QTQtTmh2OUhucWJIcHUxT1J2VmdCR09qSQ?oc=5",
-   "published_utc": "2026-10-22T05:33:00+00:00",
-   "title_original": "기준금리 3% 동결...한은 총재, 재정 지속성 우려도",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5807e6e3a9c6f80"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "아이뉴스24",
-   "title_en": "Bank of Korea freezes base interest rate at 3.00% [iPhoto]",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ic0p6Uy1rc3U0a1V1TGY1d3BjT2owZVM4UVoxcjBzTERBSXlfOXUxUi1DeHZHV2p6dnhWQ2hRMTczX2RvdHFyekpHTQ?oc=5",
-   "published_utc": "2026-10-22T05:31:07+00:00",
-   "title_original": "한국은행, 기준금리 3.00% 동결 [아이포토]",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ce6560b2775086c"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Japan's trade deficit nearly doubles in Apr.-Sep.",
@@ -13266,23 +13456,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1633ec5dca1f0608"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴닉",
-   "title_en": "Bank of Korea freezes base interest rate at 3.00%... Will interest rates rise again in November?",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wYjY2VW5XbVZnRmpOSlgta2gyS3ZHSTRfaHcwUnQxaUpqTG9WQWw3OWRFWWRNNnM4eEJiVHpiWXI2TnVnaTBQMmJlNWdGdFliRFFv?oc=5",
-   "published_utc": "2026-10-22T05:30:00+00:00",
-   "title_original": "한국은행 기준금리 3.00% 동결…11월 금리 다시 오를까?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9fb57b943a61e395"
   },
   {
    "source_id": "gn_jp_investing",
@@ -20885,6 +21058,23 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
+   "title_en": "Basic situation of the national real estate market from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSVVlanRWY19fOXkycWtaaGFhRnJWcU5WdjhRNjc2TkdqbDF5X2ZhYTVFZG1meGFPUXIwdGoxSWJuaEVvcDE4U3dlLWtTa3M5NjZWd01LT2tEWEdyWXV6TzZGazBBWVhNVkU4UjJTRQ?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "2026年1—9月份全国房地产市场基本情况",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ebb2c7b6d0f517e8"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
    "title_en": "Basic situation of national fixed asset investment from January to September 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhcGhyODdyQlU0SkNHQmhqQ3VRSElXMGRQZEN0R29ZdzhSLVJ4dExTSTJ4RUZFaFR6ajJqWkJyVjRlTERuSEVhRnh2RzgyVnhxbXFESDIxNWNwNEd3eFhjVWFyemVQeHRvenVvQmV6SQ?oc=5",
    "published_utc": "2026-10-19T07:00:00+00:00",
@@ -21656,23 +21846,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3df267849337c57c"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Basic situation of the national real estate market from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSVVlanRWY19fOXkycWtaaGFhRnJWcU5WdjhRNjc2TkdqbDF5X2ZhYTVFZG1meGFPUXIwdGoxSWJuaEVvcDE4U3dlLWtTa3M5NjZWd01LT2tEWEdyWXV6TzZGazBBWVhNVkU4UjJTRQ?oc=5",
-   "published_utc": "2026-10-19T02:00:00+00:00",
-   "title_original": "2026年1—9月份全国房地产市场基本情况",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ebb2c7b6d0f517e8"
   },
   {
    "source_id": "gn_kr_mk",
@@ -38066,23 +38239,6 @@
    "id": "c05facc9c538d349"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is Samsung Electronics stock sliding today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4943063",
-   "published_utc": "2026-10-12T04:18:04+00:00",
-   "title_original": "Why is Samsung Electronics stock sliding today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3a8dcdfcd2f26f34"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "TradingView",
    "title_en": "China’s money market: Funds continue to be abundant, and the central bank’s reverse repurchase operations exceed expectations, boosting optimism",
@@ -51710,164 +51866,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dda07b91aae50983"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "House of Representatives Opposition Diet Committee Chairman and others call for careful deliberation of consumption tax reduction bill",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261002de53872",
-   "published_utc": "2026-10-02T06:47:19+00:00",
-   "title_original": "衆参 野党国会対策委員長ら“消費税減税法案 丁寧な審議を”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2b125773fad660fd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Policy Stimulus Package Still Positive Step Despite Limited Scale — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261002001010:0/",
-   "published_utc": "2026-10-02T06:44:00+00:00",
-   "title_original": "China's Policy Stimulus Package Still Positive Step Despite Limited Scale — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c6a63f2132b5035e"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Inflation increases in Tokyo's 23 wards by more than 2% for the first time in 8 months (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwNHNIUzVmUndDVTRoWHppWE43WEVKSnNmVk5SbnhtMHhtcm9GWVU0T3kzcFRiSlQtNmRocEE5czVyQ0RJbGYyQndycldpZHJwblpQQ0tFZE9fRGY0UkZEOERBVy1idWxwM0xMaGFtWDF2Vkh1TjJKYmQxNUk5cWc?oc=5",
-   "published_utc": "2026-10-02T06:39:17+00:00",
-   "title_original": "東京23区 物価上げ幅拡大 8か月ぶり2％超上昇（ABEMA TIMES）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "19ee2d3b2d87724e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "이투데이",
-   "title_en": "Citi: “Core inflation is still strong… Korea will raise the base interest rate in November and February next year.”",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qQ2Jjc2dkQm95dkpxd0l6YWpaNG5rMk51R2lsVWMtQ3lWZXg0WEJkRWY0bW5xTVYwU0tmdE01eDYtRmxWam9ZY1lNWU9LRi1GTENlVg?oc=5",
-   "published_utc": "2026-10-02T06:33:00+00:00",
-   "title_original": "씨티 \"근원물가 여전히 끈끈⋯한은 11월·내년 2월 기준금리 인상할 것\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5338d72db15932e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Long-term JGB yields rise toward multi-decade highs as inflation signs mount",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45O090:0-long-term-jgb-yields-rise-toward-multi-decade-highs-as-inflation-signs-mount/",
-   "published_utc": "2026-10-02T06:22:30+00:00",
-   "title_original": "Long-term JGB yields rise toward multi-decade highs as inflation signs mount",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8295c1df55b379a4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hankyu Hanshin Holdings, Inc. - To Expand The Limit For Its Share Buybacks Up To 5.16% Worth 50 Billion Yen From 3.14% Worth 30 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45N1O9:0-hankyu-hanshin-holdings-inc-to-expand-the-limit-for-its-share-buybacks-up-to-5-16-worth-50-billion-yen-from-3-14-worth-30-billion-yen/",
-   "published_utc": "2026-10-02T06:03:16+00:00",
-   "title_original": "Hankyu Hanshin Holdings, Inc. - To Expand The Limit For Its Share Buybacks Up To 5.16% Worth 50 Billion Yen From 3.14% Worth 30 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b68fec6aeb9cc087"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261002000270:0/",
-   "published_utc": "2026-10-02T05:14:00+00:00",
-   "title_original": "South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4b7cbf2592405407"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261002000101:0/",
-   "published_utc": "2026-10-02T05:08:00+00:00",
-   "title_original": "Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d1fa3902d8523fa1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Retail JGB sales surge more than 80% as rates rise",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45O07G:0-retail-jgb-sales-surge-more-than-80-as-rates-rise/",
-   "published_utc": "2026-10-02T04:59:55+00:00",
-   "title_original": "Retail JGB sales surge more than 80% as rates rise",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "49148043158b765e"
   },
   {
    "source_id": "manual_ia",
