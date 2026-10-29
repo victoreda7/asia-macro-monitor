@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T19:52:43.724387+00:00
+Última coleta: 2026-10-29T20:02:43.962880+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          874
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 557516.13, Implies 88% Upside
   - [china] Evolution Metals Secures 754 Tons of Feedstock to Help Build a Supply Chain Beyond China (NASDAQ: EMAT)
   - [korea] Samsung Electronics Stocks Decline 4.13% With Memory Profits Masking Device Weakness
@@ -48,6 +49,7 @@ Total: 3000 manchetes
   - [china] European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 202
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
+  - [japan] BoJ Preview: Hawkish Hold
   - [japan] Prime Minister Takaichi held a press conference regarding the future response to "emergency drastic change mit
   - [korea] Samsung prevê que escassez de chips de IA se agrave
   - [china] China Names New Politburo Member, Plans Party Congress in 2027
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Volkswagen expects exports to compensate for part of the slowdown in China, says chief financial officer
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
   - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
-  - [japan] [After the mid-term elections, ``Stocks will go up no matter what happens''] The future of the ``US stock mark
-  - [taiwan] Taiwan central bank board members flag inflation woes, minutes show
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T19:52:43+00:00",
+      "published_utc": "2026-10-29T20:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
