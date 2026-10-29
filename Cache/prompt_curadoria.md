@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T07:42:46.176515+00:00
+Última coleta: 2026-10-29T07:52:43.013076+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
+  🇯🇵 Japão          896
   🇨🇳 China          839
   🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [japan] House of Representatives Finance and Financial Affairs Committee: Consumption tax reduction bill: Ruling and o
   - [china] Sensodyne maker Haleon cuts revenue growth forecast due to weak flu season and disruptions in China
   - [china] Sensodyne maker Haleon cuts revenue growth forecast on weak flu season, China disruption
   - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Quarterly Dividend for Third Quarter 2026
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Capex Plan for FY 2026
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
+  - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
   - [japan] Yen strengthens against dollar following Warsh's remarks
   - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
@@ -37,7 +39,6 @@ Total: 3000 manchetes
   - [korea] Korea's chip boom catches US Fed chair's eye
   - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
   - [china] The central bank launches 1 trillion yuan in overnight reverse repurchases
-  - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [japan] Japan bonds steady ahead of BOJ decision; strong auction lends support
   - [korea] BOK board member flags won volatility despite AI chip export boom - RTRS
   - [japan] Popular entertainer shocked by overseas prices. Snacks in LA cost 1,500 yen if they were in Japan...Studios ar
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's yuan hits 4-year high versus dollar after Fed decision
   - [japan] BOJ preview October: hawkish hold expected as inflation remains sticky
   - [korea] Samsung sees chip shortage worsening, but keeps investors in suspense on returns
-  - [china] China Focus: China's sustained housing upgrades keep urban decay at bay
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T07:42:46+00:00",
+      "published_utc": "2026-10-29T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
