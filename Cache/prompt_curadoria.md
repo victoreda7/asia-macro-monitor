@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T16:52:46.948170+00:00
+Última coleta: 2026-10-29T17:02:46.290952+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          880
+  🇯🇵 Japão          879
   🇨🇳 China          847
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  890
+  🇰🇷 Coreia do Sul  891
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to gradually reduce gasoline subsidies from Dec.: Takaichi
   - [china] Xin Yuan Enterprises Says Ocean Vivo To Buy 32.4 Million Shares For HK$2.21 Per Share
   - [china] AOS: China divestiture sharpens the portfolio as boiler growth offsets inflation and softer demand
   - [korea] Why are Micron, SK Hynix and SanDisk shares falling on Thursday?
   - [japan] US GDP +3.4% growth rate from July to September Expansion of consumer AI investment
   - [japan] AI boom, soaring memory prices lift Japan's chip exports 41%
   - [taiwan] AUO: Display weakness drove a TWD 2.5bn Q3 net loss as Q4 revenue is set to soften
+  - [china] China Makes First Inquiry for US Wheat Since Trump-Xi Summit
   - [japan] European Central Bank leaves interest rates unchanged for the first time in two meetings
   - [china] EU to Add €2 Fee on E-Commerce Imports Ahead of Holiday Season
   - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] RemeGen Q3 Net Profit At 610.9 Million Yuan
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
   - [china] Governor of the Central Bank: Tightening again if necessary will maintain the housing market in a situation of
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Decision on Share Disposition
-  - [japan] Yomiuri: Sumitomo Mitsui Trust Bank to Launch 10 Billion Yen Anime Fund
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T16:52:47+00:00",
+      "published_utc": "2026-10-29T17:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
