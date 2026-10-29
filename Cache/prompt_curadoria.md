@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T20:32:44.946930+00:00
+Última coleta: 2026-10-29T20:42:44.855104+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          875
+  🇯🇵 Japão          876
   🇨🇳 China          845
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  897
+  🇹🇼 Taiwan         381
+  🇰🇷 Coreia do Sul  898
 
 ## O que já está no feed (não repita)
 
+  - [japan] Demand for Kidalt isn't the only thing...The real aim of Don Quijote's parent company's acquisition of Toys R 
   - [korea] Samsung Electronics: AI-led Memory records lifted Q3 operating profit above KRW 100T; costs pressure DX
   - [japan] European Central Bank leaves policy interest rate unchanged, focus of policy decision in December
   - [japan] Bank of Japan outlook for maintaining policy interest rate; focus on determining whether to reach 2% inflation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi held a press conference regarding the future response to "emergency drastic change mit
   - [korea] Samsung prevê que escassez de chips de IA se agrave
   - [china] China Names New Politburo Member, Plans Party Congress in 2027
-  - [china] Geely Profit Climbs as Surging Exports Help Offset China Slump
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T20:32:45+00:00",
+      "published_utc": "2026-10-29T20:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
