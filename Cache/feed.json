@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T17:52:45.041438+00:00",
- "collected_at_utc": "2026-10-29T17:52:45.041438+00:00",
+ "generated_at_utc": "2026-10-29T18:02:44.651294+00:00",
+ "collected_at_utc": "2026-10-29T18:02:44.651294+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 877,
-  "china": 847,
+  "china": 846,
   "taiwan": 383,
-  "korea": 893
+  "korea": 894
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:20:00+00:00"
+   "newest": "2026-10-29T02:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
    "newest": "2026-10-29T05:50:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T14:26:35+00:00"
+   "newest": "2026-10-29T17:58:57+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T17:51:42+00:00"
+   "newest": "2026-10-29T18:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T13:44:07+00:00"
+   "newest": "2026-10-29T10:41:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Samsung Electronics Stocks Decline 4.13% With Memory Profits Masking Device Weakness",
+   "url": "https://www.tradingview.com/news/gurufocus:6670accee094b:0-samsung-electronics-stocks-decline-4-13-with-memory-profits-masking-device-weakness/",
+   "published_utc": "2026-10-29T17:58:21+00:00",
+   "title_original": "Samsung Electronics Stocks Decline 4.13% With Memory Profits Masking Device Weakness",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b4994084aa9e3372"
+  },
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
@@ -1236,23 +1253,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dd936186df8b94f3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Beijing Compass Technology Development Q3 Net Loss At 91.1 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F0WO:0-beijing-compass-technology-development-q3-net-loss-at-91-1-million-yuan/",
-   "published_utc": "2026-10-29T08:53:08+00:00",
-   "title_original": "Beijing Compass Technology Development Q3 Net Loss At 91.1 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4d2681a96fa26cd3"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5749,8 +5749,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -5765,7 +5765,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -26295,6 +26295,23 @@
    "id": "ebc443accb19e2b1"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
+   "published_utc": "2026-10-16T20:49:00+00:00",
+   "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b4180c2c98b1e85"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clears support funds",
@@ -27984,23 +28001,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5550786906e36fe3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXZKeHhaeUE0MFFqemhUcGpFQ0dsV1JIMjZNMDQzcFpzUnFScHFFQlRfbEFaSzkzN0ItQW5yZndPRVZwUzNmZGVHdTJtS2t3SWg0WjUzaURGdFZERjRwclNqYUZ4enRJcFA1YkQtdmNOZS05amFIekwxTjVKVXk1Y2ZoV3N3M1c2R0xwTEJyRTN2d3ZxZ3hObWtzOHdmVm10MDI2VDZWc2sxcDZxMEVVX0NtN3JiOUthNU1tMA?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aef029472eb5bfa5"
   },
   {
    "source_id": "gn_tw_digitimes",
