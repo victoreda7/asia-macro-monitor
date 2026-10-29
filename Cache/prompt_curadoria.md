@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T06:12:43.822845+00:00
+Última coleta: 2026-10-29T06:22:44.462098+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          898
+  🇯🇵 Japão          897
   🇨🇳 China          837
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  882
+  🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea's chip boom catches US Fed chair's eye
   - [china] The central bank launches 1 trillion yuan in overnight reverse repurchases
   - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [japan] Japan bonds steady ahead of BOJ decision; strong auction lends support
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China clean tech exports to cut global emissions by Brazil-sized amount in 2026
   - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
   - [korea] Samsung Electronics posts $80bn in chip profit in Q3
-  - [taiwan] Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T06:12:44+00:00",
+      "published_utc": "2026-10-29T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
