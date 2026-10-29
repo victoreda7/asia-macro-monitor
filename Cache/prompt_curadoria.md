@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T08:22:45.196269+00:00
+Última coleta: 2026-10-29T08:32:44.391003+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
-  🇨🇳 China          839
-  🇹🇼 Taiwan         384
+  🇯🇵 Japão          896
+  🇨🇳 China          841
+  🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [china] China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision
+  - [china] Loongson Technology Q3 Net Loss At 188.6 Million Yuan
+  - [china] Muyuan Foods Q3 Net Loss At 3.2 Billion Yuan
   - [china] CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan
   - [taiwan] Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising serve
   - [japan] Markets Shouldn't Take BOJ Rate Hikes for Granted — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo Gas Co Ltd - To Buy Back Up To 3.6% Of Shares Worth 50 Billion Yen
   - [japan] [Today's Oha Biz October 29th (Thursday)] The point of the Fed leaving interest rates unchanged is
   - [korea] Samsung's Chip Profit Drives Another Record Quarter — Update
-  - [korea] South Korean Won Recovers on Dollar Weakness
-  - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
-  - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T08:22:45+00:00",
+      "published_utc": "2026-10-29T08:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

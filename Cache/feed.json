@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T08:22:45.196269+00:00",
- "collected_at_utc": "2026-10-29T08:22:45.196269+00:00",
+ "generated_at_utc": "2026-10-29T08:32:44.391003+00:00",
+ "collected_at_utc": "2026-10-29T08:32:44.391003+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 897,
-  "china": 839,
-  "taiwan": 384,
+  "japan": 896,
+  "china": 841,
+  "taiwan": 383,
   "korea": 880
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T03:51:27+00:00"
+   "newest": "2026-10-29T02:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T08:07:09+00:00"
+   "newest": "2026-10-29T08:24:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T07:02:42+00:00"
+   "newest": "2026-10-28T12:46:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T08:05:05+00:00"
+   "newest": "2026-10-29T08:30:12+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:30:51+00:00"
+   "newest": "2026-10-29T06:36:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T08:22:00+00:00"
+   "newest": "2026-10-29T08:31:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T07:37:17+00:00"
+   "newest": "2026-10-29T08:13:16+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0AK:0-china-stocks-slip-as-tech-gauges-hit-over-one-year-lows-overshadowing-fed-rate-decision/",
+   "published_utc": "2026-10-29T08:31:33+00:00",
+   "title_original": "China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f2d89e032a28e432"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Loongson Technology Q3 Net Loss At 188.6 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F0UQ:0-loongson-technology-q3-net-loss-at-188-6-million-yuan/",
+   "published_utc": "2026-10-29T08:31:05+00:00",
+   "title_original": "Loongson Technology Q3 Net Loss At 188.6 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "343365fc9e244f16"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Muyuan Foods Q3 Net Loss At 3.2 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F0UA:0-muyuan-foods-q3-net-loss-at-3-2-billion-yuan/",
+   "published_utc": "2026-10-29T08:25:30+00:00",
+   "title_original": "Muyuan Foods Q3 Net Loss At 3.2 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3051283766fcc3fb"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1444,40 +1495,6 @@
    "id": "2fc680c78c457ad1"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China clean tech exports to cut global emissions by Brazil-sized amount in 2026",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E0J0:0-china-clean-tech-exports-to-cut-global-emissions-by-brazil-sized-amount-in-2026/",
-   "published_utc": "2026-10-29T02:35:14+00:00",
-   "title_original": "China clean tech exports to cut global emissions by Brazil-sized amount in 2026",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8f15e794a514c4b5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46E2J0:0-mito-securities-co-ltd-to-buy-back-up-to-1-68-own-shares-worth-800-million-yen/",
-   "published_utc": "2026-10-29T02:32:10+00:00",
-   "title_original": "Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6d020ffb0277aa32"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung Electronics posts $80bn in chip profit in Q3",
@@ -1493,23 +1510,6 @@
    "live_wire": false,
    "manual": false,
    "id": "74d72589c28bc5cd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Benzinga",
-   "title_en": "Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares",
-   "url": "https://www.tradingview.com/news/benzinga:75eca2297094b:0-cathie-wood-piles-into-archer-joby-for-third-straight-day-as-ark-dumps-amd-tsmc-shares/",
-   "published_utc": "2026-10-29T02:27:04+00:00",
-   "title_original": "Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5ee07dd9e38dc8d5"
   },
   {
    "source_id": "investing_live",
