@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-29T16:12:44.893376+00:00",
- "collected_at_utc": "2026-10-29T16:12:44.893376+00:00",
+ "generated_at_utc": "2026-10-29T16:22:46.689659+00:00",
+ "collected_at_utc": "2026-10-29T16:22:46.689659+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 383,
   "korea": 889
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T14:10:43+00:00"
+   "newest": "2026-10-29T13:02:42+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "newest": "2026-10-29T05:50:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T16:12:00+00:00"
+   "newest": "2026-10-29T16:22:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T10:41:51+00:00"
+   "newest": "2026-10-29T13:44:07+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:34:07+00:00"
+   "newest": "2026-10-29T08:34:53+00:00"
   }
  ],
  "items": [
@@ -5681,8 +5681,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -5697,7 +5697,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -8425,7 +8425,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스토마토",
    "title_en": "Bank of Korea, Director of Monetary Policy Choi Chang-ho appointed as 'Assistant Vice Governor for Monetary Policy and Markets'",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtMGd4Vll2WjNxVUNsLXBEX21DS0hQX3htLUdRckttWGF2MWRPWHVySzNlVW9QT3Z3M2IxZC1rNDFlS0dPMEVoNkxxMndXSE5Xd1ZXczlUTXV2Vi1wSWVqZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tSGlzLTZpVVM2MkxCcmtxeWFVTVdWdjFkSE1XalN2U09mdjN3Y1hhTTc4UWRRVm1fb3RnLWotTGhCZWhPdVBTaTFFZERmS01WTjl1MVBtaVEtNUY5bWNpZA?oc=5",
    "published_utc": "2026-10-26T09:17:32+00:00",
    "title_original": "한은, '통화정책·시장 담당 부총재보'에 최창호 통화정책국장",
    "region": "korea",
@@ -8437,7 +8437,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7aa49798506a4672"
+   "id": "d40d5c6fffddf9d9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -9671,6 +9671,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kYXM5YUF1NlRvUTZEdjJEVjNJNXZqMDZiai1FcGM3RVVGaVZwOUx2YlpMbHpydlZMV1VUNUhkaE9ud2VvdjlGLUlWRk5XMGVuNGgxZFhZYnN1b2kyeHc?oc=5",
+   "published_utc": "2026-10-26T00:27:36+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "80c3ba148e83c89b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank invested 700 billion MLF, the performance of Cambrian, Tianqi Lithium, etc. increased significantly, and the actual controller of Sanan Optoelectronics was arrested",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWk9wNzBhVEJsM3lfNXd4LWRaUmdRYmh4bkRFZ0lvTU9jRGxybi1TbVUyZkRRZHg2QzF2Z2Mzc1ZTVE01MHEzU2lLVmU0Q05HbGctTHY1UFhaU0diWTZZdHlVam93MElMUVVFb0JZUTJnU3l1OE9LdjQ0Z2lqN3M5Qi1iQnFfeXQ0NUF4LQ?oc=5",
@@ -9685,24 +9703,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
