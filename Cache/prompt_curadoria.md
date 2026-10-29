@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T10:32:45.971536+00:00
+Última coleta: 2026-10-29T10:42:45.534005+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          843
+  🇨🇳 China          844
   🇹🇼 Taiwan         381
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [china] Volkswagen expects exports to compensate for part of the slowdown in China, says chief financial officer
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
   - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
   - [japan] [After the mid-term elections, ``Stocks will go up no matter what happens''] The future of the ``US stock mark
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment
   - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
   - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
-  - [japan] Bank of Japan decides to reach 2% price target, policy interest rate will be maintained (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T10:32:46+00:00",
+      "published_utc": "2026-10-29T10:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
