@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T07:32:47.577678+00:00
+Última coleta: 2026-10-29T07:42:46.176515+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          896
+  🇯🇵 Japão          895
   🇨🇳 China          839
   🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  883
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] Sensodyne maker Haleon cuts revenue growth forecast due to weak flu season and disruptions in China
+  - [china] Sensodyne maker Haleon cuts revenue growth forecast on weak flu season, China disruption
   - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
   - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
   - [japan] Japan's Nikkei rises on Advantest profit outlook as BOJ looms
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
   - [japan] Yen strengthens against dollar following Warsh's remarks
   - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
+  - [japan] BREAKING NEWS: ANA Holdings' April-Sept. net profit drops 11.8% to 67.09 billion yen
   - [japan] Bank of Japan Monetary Policy Meeting: Will the inflation rate reach 2%? (ABEMA TIMES)
   - [korea] S. Korea eyes virtuous cycle via green economic growth
   - [korea] Korea's chip boom catches US Fed chair's eye
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ preview October: hawkish hold expected as inflation remains sticky
   - [korea] Samsung sees chip shortage worsening, but keeps investors in suspense on returns
   - [china] China Focus: China's sustained housing upgrades keep urban decay at bay
-  - [japan] Bank of Japan holds monetary policy meeting from today, policy interest rate expected to remain unchanged
-  - [japan] Bank of Japan expects to keep interest rates unchanged, determined to reach inflation rate target of 2% (TV As
-  - [china] Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.1062
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T07:32:47+00:00",
+      "published_utc": "2026-10-29T07:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
