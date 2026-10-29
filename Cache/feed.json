@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T01:12:45.558355+00:00",
- "collected_at_utc": "2026-10-29T01:12:45.558355+00:00",
+ "generated_at_utc": "2026-10-29T01:22:44.619448+00:00",
+ "collected_at_utc": "2026-10-29T01:22:44.619448+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
-  "china": 838,
-  "taiwan": 387,
-  "korea": 870
+  "japan": 902,
+  "china": 839,
+  "taiwan": 386,
+  "korea": 873
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": "",
-   "newest": "2026-10-28T20:26:18+08:00"
+   "newest": "2026-10-29T09:09:37+08:00"
   },
   {
    "source_id": "investing_live",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T01:07:13+00:00"
+   "newest": "2026-10-29T01:16:31+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T13:04:46+00:00"
+   "newest": "2026-10-28T16:58:38+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T15:00:08+00:00"
+   "newest": "2026-10-28T22:00:10+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T01:02:08+00:00"
+   "newest": "2026-10-29T01:22:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T00:51:32+00:00"
+   "newest": "2026-10-29T00:56:43+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T01:00:02+00:00"
+   "newest": "2026-10-28T21:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T23:34:02+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
+   "url": "https://www.koreaherald.com/article/10918653",
+   "published_utc": "2026-10-29T01:16:31+00:00",
+   "title_original": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfec4ed935d1a65b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028017557_20261028017612:0-correct-samsung-electronics-chip-business-posted-record-profit-of-krw106-5t-in-3q-not-krw106-5/",
+   "published_utc": "2026-10-29T01:11:00+00:00",
+   "title_original": "Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8ff2f95d601009c8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028017557_20261028017604:0-samsung-electronics-chip-business-posted-record-profit-of-krw106-5t-in-3q/",
+   "published_utc": "2026-10-29T01:10:00+00:00",
+   "title_original": "Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "604a88dd5bfc3348"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -411,23 +462,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2d09c27d75a3e10b"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOVNFZVZyR2FfNl9ISnViLUhBTUdKcElfU1J3RTBVU002UjlRb3RKdGJJbmI4ZHZpaTN0NGIwTkJ1Y2c0OXVsT24zRWRPQ2VoUFIwVHFfQU9wZw?oc=5",
-   "published_utc": "2026-10-29T01:00:02+00:00",
-   "title_original": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9836bb0937828c29"
   },
   {
    "source_id": "tradingview_live",
@@ -688,6 +722,23 @@
    "live_wire": true,
    "manual": false,
    "id": "5a3c9cb4fe2c8b97"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNG1sVkZyNW9pc1pzY0h3RVdfMjFNa3NUTWFzaVN2TFFRbndqVGwyTEZad2JzYnZ0Q3FKNmRYY05GQy1vcnJ0bDBzMV9ZbG1SVzlnWUdabGdqZ3JndU1waGFwZzRKdUxXYTJfNjRkQWpfaEZUN3cwWVNlVFRwZVBabHhPQWdjV1RhOE5xanBiZlloU1dEaE01NzdOeTFmVURxMnhSMWR1ZWpDSXVNZUxUeF9kejVyR2JVSHpRbDBaVUdqWmR1bmRmYzgwU0NVaXfSAc8BQVVfeXFMT2NZYy1saWR1ejE4NU5mR0NqOXNnWDB1TEFUejVjYW9GSF9hQ2VsQTMxT3ExTG8zMkdhck02a0ZYZEhZaW5WdVk0N2ZqWnpQb0dyUEg4el9mbkZjeHJGSXd0NDlNTlF0dWFBb0NhU3Y1aEx0YkpPTmRLbHRLck9BWmw1SHc3R0hMaWw0NUpaTjdVV0wzM21RekxWS1VXWTU1MlJYZTFoLW1uR0I1d19TSURjSVdhdjJLZ004cm9BeExEWlZZMmFkQS0tWExndHZN?oc=5",
+   "published_utc": "2026-10-28T22:00:10+00:00",
+   "title_original": "Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1cddb7d8c3a5e2d"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -1171,6 +1222,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7af50778e05b145a"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "‘Highly respected’: China’s vice-minister of finance lands senior role at IMF",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTkwakx4NzJNMVRpV0NabkFQR3VQc09mOFJ5ay1qUnVTMGFEQkMzY2RtdUR5alFBUU1Qd1BRMXNKWFp5UUpPYTZnVklCWm1jdWd6U0x1eWo5YVdIcGR3eVNaeFU0QkE3UkJZVnZQemk5S2lxT3pxWTY3M3M0ODRQOFMwdlVnYUpJWWlVZXJTUlQxOU40SXkzQkF5NHI2azRxdDJGTzhxUUN4Rkk5dndfakxwLTlQWjVTeHNGZ3FRUm5qbHdXYWxXanlXNXc3bGVvS3pnendsdDLSAdgBQVVfeXFMUGlSZTJITTVWZjEtM2hvay1YNlN2SFhWTjJJZDVtWC1JSUpkZHZmRHRSOTdJUW1rTTJlSVFCS0pBUkdnMkx2Z2hHc2hUZ21WR294WGhqR2JVVDZZMVJBcXlGVklZSzBVc3BMdVZod0ZybVFxLWhIMktwM0UyeGJiUzdpM3pSdlhLT3lBa3dKcFJscjRiekx1UGMtYzdDMzItUFZpc0FLNV93MTVtMHRTSkxZQzBlZTV2UGhSX2ZUdXFoNGhmRWt4Yk5BY2d6S1c1eXlxamc4LVR0?oc=5",
+   "published_utc": "2026-10-28T14:55:30+00:00",
+   "title_original": "‘Highly respected’: China’s vice-minister of finance lands senior role at IMF",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ddc60146e1ce5785"
   },
   {
    "source_id": "tradingview_live",
@@ -10227,6 +10295,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5abf1f301a8a9ea8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "엠에스투데이",
+   "title_en": "Bank of Korea continues tightening despite interest rate freeze... 3.5% expected next year",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTUh0QWNRa2liZm8xZ1NzRlBXVGE0QkhCclZhYTRMeU9VczBNN2NOaVBsZ1J0dHJfMVBxakRMOV9hc1NILUhGbkhaUUc5WFRDLVZJTlJoM2FSc0ZNMVJNZHhFbEM3aERodEdHbtIBcEFVX3lxTE9oN2VscWJ4UnBvOVV2cmR5VGIzcm5Bc2xONXJqMmhiNW1ZQzhCc3RNUmZmWWZzaXE2Q1l4cUVqRHgwZl9sV1U1UkNnOWdiYnlXSmNUTzY0X25LenlrLTA3Q0xoU3E0ZmNkdDFmX1RrV1M?oc=5",
+   "published_utc": "2026-10-23T04:46:35+00:00",
+   "title_original": "한은 금리 동결에도 긴축 지속…내년 3.5% 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9aef027679eb8962"
   },
   {
    "source_id": "gn_jp_investing",
@@ -28362,23 +28447,6 @@
    "id": "51a413bc8920483f"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -28395,6 +28463,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51786,92 +51871,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dcae14b6d347af3f"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the frame",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3BmeDJzNy13UzRFeEx3dTF1MlA3MUdha3kwZlNDdC0wcDMzUnNBZ0E4blBIcFlUWEtlMXROaEVDWXVyU0g5VHVMemxLYm1lS3BKaldzVVBVZEl6OGVrSmZQZUlNMTBqRDlIb1NTUWtqVFQ5OVhHWjNKaTZfZ0xJU2duVlJSWnhST3NtQlJhbGdZdzl1eFhvSQ?oc=5",
-   "published_utc": "2026-10-02T03:47:47+00:00",
-   "title_original": "TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the frame",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "169b99ace4d9a43c"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar edge lower after softer-than-expected U.S. payrolls data",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3hRWkJrejhaU3Jvb2ZaYy04allxM3NDZjN2UC10SDd4UnB3N21SQ2VqeEtySUY2TEIzNGRQbldmTHI1Qzc1dkVoR0hvQ2I5MU9jclFEdGpFNkhTeFYxY2tUTTZyWVpGaW9talQ1NUNlSkltbHVfUklCd01mT0xuYWxKX2RkVlhFUzZTZ3BlQ2NWTHQtRE5lam11cHBVNHIyZTg5cnN3QUtiSkdHVWF3MnRfMjFGWGFOai1lWTJBYw?oc=5",
-   "published_utc": "2026-10-02T03:40:03+00:00",
-   "title_original": "Dollar edge lower after softer-than-expected U.S. payrolls data",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c88daa47f119cfbc"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan does not need excessively loose monetary policy, economy minister says",
-   "url": "https://www.investing.com/news/economy-news/japan-does-not-need-excessively-loose-monetary-policy-economy-minister-says-4928867",
-   "published_utc": "2026-10-02T03:31:13+00:00",
-   "title_original": "Japan does not need excessively loose monetary policy, economy minister says",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "092878d296159105"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261001010433:0/",
-   "published_utc": "2026-10-02T03:10:00+00:00",
-   "title_original": "China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4114459d29a628ab"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock prices fall; moves to sell rising stocks before the release of US employment statistics",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261002de53831",
-   "published_utc": "2026-10-02T03:06:00+00:00",
-   "title_original": "株価 値下がり アメリカ雇用統計発表前に値上がり銘柄売る動き",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "260ce97971749622"
   },
   {
    "source_id": "manual_ia",

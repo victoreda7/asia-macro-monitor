@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T01:12:45.558355+00:00
+Última coleta: 2026-10-29T01:22:44.619448+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
-  🇨🇳 China          838
-  🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  870
+  🇯🇵 Japão          902
+  🇨🇳 China          839
+  🇹🇼 Taiwan         386
+  🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
+  - [korea] Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5
+  - [korea] Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q
   - [korea] Samsung Electronics approves W30tr dividend on record Q3 profit
   - [korea] Samsung registra lucro recorde no terceiro trimestre graças ao boom dos chips de IA
   - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
   - [korea] Samsung posts record profit in Q3 on AI chip boom
-  - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
   - [korea] Samsung Electronics Q3 2026 Earnings Call Is Live
   - [korea] Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
@@ -37,6 +39,7 @@ Total: 3000 manchetes
   - [japan] Nikkei May Decline Amid Caution Over U.S., Japan Monetary Policy — Market Talk
   - [japan] Although the Bank of Japan judged that the underlying price trend had reached the target level of 2%, the posi
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 36% Upside
+  - [china] Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] South Korea’s Manufacturing Sentiment Weakens Slightly
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix: AI-led memory demand drove record Q3 results and ~KRW 100T in planned FY2026 shareholder returns
   - [japan] Japan weighs corporate tax hike to fund defense buildup
   - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
-  - [korea] SK hynix Stocks Rally 10.89% With Buyback Cancellation Split in Focus
-  - [china] Tunisia sets 3.1 pct economic growth target for 2027
-  - [korea] US sanctions North Korean network accused of defrauding businesses
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T01:12:45+00:00",
+      "published_utc": "2026-10-29T01:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
