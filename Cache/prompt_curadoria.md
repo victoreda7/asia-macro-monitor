@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T03:22:45.333081+00:00
+Última coleta: 2026-10-29T03:32:44.723227+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          896
-  🇨🇳 China          840
-  🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  879
+  🇯🇵 Japão          895
+  🇨🇳 China          841
+  🇹🇼 Taiwan         384
+  🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
@@ -47,16 +47,16 @@ Total: 3000 manchetes
   - [korea] Samsung posts record quarterly profit as AI-driven chip demand surges
   - [korea] Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q
   - [korea] Samsung Electronics approves W30tr dividend on record Q3 profit
-  - [korea] Samsung registra lucro recorde no terceiro trimestre graças ao boom dos chips de IA
+  - [korea] Samsung prevê que a escassez de chips se agrave, mas mantém os investidores em suspense quanto aos retornos
   - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
   - [korea] Samsung Electronics Q3 2026 Earnings Call Is Live
   - [korea] Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
   - [korea] Samsung Electronics 3Q Net KRW75.136T Vs. Net KRW12.226T >005930.SE
   - [korea] Samsung Electronics: AI-led memory drove record Q3 revenue and operating profit above KRW 100T
+  - [korea] Samsung registra lucro recorde no terceiro trimestre graças ao boom dos chips de IA
   - [korea] Samsung Electronics 3Q Oper Pft KRW107.441T Vs. Pft KRW12.166T >005930.SE
   - [korea] Samsung Electronics 3Q Rev KRW195.253T Vs. KRW86.062T >005930.SE
-  - [japan] [Tokyo Foreign Exchange] Dollar, high 157 yen level = Scuffle ahead of Bank of Japan decision meeting (9:00 a.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T03:22:45+00:00",
+      "published_utc": "2026-10-29T03:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
