@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T12:42:44.916874+00:00
+Última coleta: 2026-10-29T12:52:44.294433+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          887
+  🇯🇵 Japão          886
   🇨🇳 China          847
-  🇹🇼 Taiwan         381
+  🇹🇼 Taiwan         382
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
@@ -41,6 +41,7 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
   - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
   - [china] Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan
+  - [taiwan] AUO sells Taichung plant to TSMC for NT$38.8B, scraps Quanta deal
   - [china] Alphabet spells out more AI capex, China+1 doesn't add up
   - [china] CanSemi Tech Q3 Net Loss At 349.1 Million Yuan
   - [china] Shanxi Taigang Stainless Steel Q3 Net Loss At 355.1 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Muyuan Foods Q3 Net Loss At 3.2 Billion Yuan
   - [china] CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan
   - [taiwan] Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising serve
-  - [japan] Markets Shouldn't Take BOJ Rate Hikes for Granted — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T12:42:45+00:00",
+      "published_utc": "2026-10-29T12:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
