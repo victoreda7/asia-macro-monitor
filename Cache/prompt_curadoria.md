@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T20:02:43.962880+00:00
+Última coleta: 2026-10-29T20:12:43.415503+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          874
+  🇯🇵 Japão          875
   🇨🇳 China          846
-  🇹🇼 Taiwan         384
+  🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  896
 
 ## O que já está no feed (não repita)
 
+  - [japan] European Central Bank leaves policy interest rate unchanged, focus of policy decision in December
+  - [japan] Bank of Japan outlook for maintaining policy interest rate; focus on determining whether to reach 2% inflation
   - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 557516.13, Implies 88% Upside
   - [china] Evolution Metals Secures 754 Tons of Feedstock to Help Build a Supply Chain Beyond China (NASDAQ: EMAT)
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Names New Politburo Member, Plans Party Congress in 2027
   - [china] Geely Profit Climbs as Surging Exports Help Offset China Slump
   - [china] Volkswagen expects exports to compensate for part of the slowdown in China, says chief financial officer
-  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
-  - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T20:02:44+00:00",
+      "published_utc": "2026-10-29T20:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
