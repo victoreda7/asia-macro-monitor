@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T14:42:44.284043+00:00
+Última coleta: 2026-10-29T14:52:44.069610+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          877
-  🇨🇳 China          851
+  🇯🇵 Japão          878
+  🇨🇳 China          850
   🇹🇼 Taiwan         382
   🇰🇷 Coreia do Sul  890
 
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
   - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
   - [china] Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan
+  - [japan] Prime Minister Takaichi held the 15th Economic and Fiscal Council Meeting in 2026
   - [taiwan] AUO sells Taichung plant to TSMC for NT$38.8B, scraps Quanta deal
   - [china] Alphabet spells out more AI capex, China+1 doesn't add up
-  - [china] CanSemi Tech Q3 Net Loss At 349.1 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T14:42:44+00:00",
+      "published_utc": "2026-10-29T14:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
