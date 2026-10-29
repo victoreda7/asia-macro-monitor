@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T16:22:46.689659+00:00
+Última coleta: 2026-10-29T16:32:46.263609+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          880
-  🇨🇳 China          848
+  🇯🇵 Japão          881
+  🇨🇳 China          847
   🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  889
 
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [china] European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 202
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
+  - [japan] Prime Minister Takaichi held a press conference regarding the future response to "emergency drastic change mit
   - [korea] Samsung prevê que escassez de chips de IA se agrave
   - [china] China Names New Politburo Member, Plans Party Congress in 2027
   - [china] Geely Profit Climbs as Surging Exports Help Offset China Slump
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Electricity charges for November hit record highs for seven major companies
   - [japan] Yomiuri: Ward in Central Tokyo Calls on Condominium Developers to Prohibit Resale Within 5 Years
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
-  - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T16:22:46+00:00",
+      "published_utc": "2026-10-29T16:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
