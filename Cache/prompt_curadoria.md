@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T18:02:44.651294+00:00
+Última coleta: 2026-10-29T18:12:44.692105+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          877
-  🇨🇳 China          846
+  🇯🇵 Japão          876
+  🇨🇳 China          847
   🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  894
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung Electronics Stocks Decline 4.13% With Memory Profits Masking Device Weakness
+  - [china] European stocks closed higher as the Federal Reserve and the European Central Bank kept interest rates unchang
   - [japan] Japan to gradually reduce gasoline subsidies from Dec.: Takaichi
   - [china] Xin Yuan Enterprises Says Ocean Vivo To Buy 32.4 Million Shares For HK$2.21 Per Share
   - [china] AOS: China divestiture sharpens the portfolio as boiler growth offsets inflation and softer demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan central bank board members flag inflation woes, minutes show
   - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
   - [china] RemeGen Q3 Net Profit At 610.9 Million Yuan
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T18:02:44+00:00",
+      "published_utc": "2026-10-29T18:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
