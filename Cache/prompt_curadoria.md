@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T04:52:46.106395+00:00
+Última coleta: 2026-10-29T05:02:46.749363+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          896
-  🇨🇳 China          841
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  880
+  🇯🇵 Japão          897
+  🇨🇳 China          839
+  🇹🇼 Taiwan         385
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
+  - [korea] Samsung's Chip Profit Drives Another Record Quarter — Update
   - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
   - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
   - [japan] Toyoda Gosei - To Buy Back Up To 6.1% Own Shares Worth 30 Billion Yen
@@ -34,6 +36,7 @@ Total: 3000 manchetes
   - [korea] Banks' household mortgage lending rates up for 5th month in Sept.
   - [japan] Yen Steadies Ahead of BOJ Policy Decision
   - [japan] The Bank of Japan has determined that the inflation rate will reach 2%, and is expected to leave the policy ra
+  - [japan] Is the inflation rate determined to reach 2%? The Bank of Japan is expected to leave the policy rate unchanged
   - [japan] Will the inflation rate reach 2%? The Bank of Japan is expected to leave the policy rate unchanged (TV Asahi (
   - [taiwan] Taiwan central bank head deems AI bubble crash scenario extreme
   - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation, with a net investment of 115 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Expects Chip Supply Shortages to Persist Through 2028
   - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation today
   - [china] CHINA PBOC CONDUCTS CNY115 BLN VIA 7-DAY REVERSE REPO THURS
-  - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO THURS
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
-  - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T04:52:46+00:00",
+      "published_utc": "2026-10-29T05:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
