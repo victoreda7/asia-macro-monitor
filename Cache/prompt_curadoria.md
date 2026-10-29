@@ -7,16 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T23:32:44.163847+00:00
+Última coleta: 2026-10-29T23:42:44.058733+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          876
-  🇨🇳 China          846
-  🇹🇼 Taiwan         380
-  🇰🇷 Coreia do Sul  898
+  🇯🇵 Japão          881
+  🇨🇳 China          844
+  🇹🇼 Taiwan         379
+  🇰🇷 Coreia do Sul  896
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN OCT TOKYO CPI: PROCESSED FOOD +3.0% (+0.71 POINT) VS. +3.6% (+0.83 POINT) IN SEPT
+  - [japan] JAPAN OCT TOKYO CPI: ENERGY +2.2% Y/Y (+0.09 POINT CONTRIBUTION), VS. -1.9% (-0.08 POINT) IN SEPT
+  - [japan] JAPAN OCT TOKYO INFLATION RATE STAYS HIGH AFTER SURGING IN SEPT WHEN PRICE-CUTTING EFFECTS OF FREE BASE WATER 
+  - [japan] JAPAN SEPT S/A UNEMPLOYMENT RATE 2.4% (AUG 2.5%); MEDIAN FORECAST 2.5% (RANGE: 2.4% TO 2.5%)
+  - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
+  - [japan] JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT +3.0%); MEDIAN FORECAST +2.8% (RANGE: +2
+  - [japan] Tokyo Oct core CPI rises 2.6% yr/yr
+  - [japan] JAPAN OCT TOKYO CORE CPI (EX-FRESH FOOD) +2.6% Y/Y (SEPT +2.7 %), MEDIAN FORECAST +2.7% (RANGE: +2.4% TO +2.8%
+  - [japan] JAPAN OCT TOKYO TOTAL CPI +2.8% Y/Y (SEPT +2.7%); MEDIAN FORECAST +2.7% (RANGE: +2.4% to +2.9%)
+  - [korea] South Korea Retail Sales Rebound in September
+  - [korea] South Korea Industrial Output Growth Strongest on Record
   - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Hong Kong Housing Secretary Resigns Over Deadly Fire Oversight Failures
   - [japan] Japan Data, Rate Decision Due On Friday
@@ -46,17 +57,6 @@ Total: 3000 manchetes
   - [china] Jiangxi Zhengbang Tech Q3 Net Loss At 353.8 Million Yuan
   - [china] Maanshan Iron & Steel Q3 Net Loss At 108.3 Million Yuan
   - [china] Shanghai Yuyuan Tourist Mart Q3 Net Profit At 6.7 Million Yuan
-  - [china] China Longyuan Power Group: Solar expansion lifted capacity, but weaker wind conditions weighed on 9M earnings
-  - [china] Jiangsu Yanghe Distillery Q3 Net Loss At 770.9 Million Yuan
-  - [china] Sanan Optoelectronics Q3 Net Loss At 22.5 Million Yuan
-  - [china] Kunlun Tech Q3 Net Loss At 1.1 Billion Yuan
-  - [korea] SK Hynix Is Sold Out Through 2029 as Seagate Locks In Demand Into 2030
-  - [japan] Japan plans to start reducing gasoline subsidies from December
-  - [japan] Ritsumeikan Counterproposal to the consumption tax reduction bill: “50,000 yen benefit to tax-exempt household
-  - [china] Former President Peng Huainan was also impostored by the central bank: people should not be deceived | Sankei
-  - [china] European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 202
-  - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
-  - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T23:32:44+00:00",
+      "published_utc": "2026-10-29T23:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
