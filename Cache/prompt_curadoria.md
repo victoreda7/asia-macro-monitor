@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T03:32:44.723227+00:00
+Última coleta: 2026-10-29T03:42:45.326238+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
+  🇯🇵 Japão          894
   🇨🇳 China          841
-  🇹🇼 Taiwan         384
+  🇹🇼 Taiwan         385
   🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [china] China Focus: China's sustained housing upgrades keep urban decay at bay
   - [japan] Bank of Japan expects to keep interest rates unchanged, determined to reach inflation rate target of 2% (TV As
   - [china] Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.1062
+  - [korea] Banks' household mortgage lending rates up for 5th month in Sept.
   - [japan] Yen Steadies Ahead of BOJ Policy Decision
   - [japan] Will the inflation rate reach 2%? The Bank of Japan is expected to leave the policy rate unchanged (TV Asahi (
   - [taiwan] Taiwan central bank head deems AI bubble crash scenario extreme
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
   - [china] China clean tech exports to cut global emissions by Brazil-sized amount in 2026
   - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
+  - [taiwan] Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares
   - [korea] Earnings call transcript: Samsung Electronics posts record Q3 2026 profit
   - [korea] South Korean won, Indonesian rupiah lead Asian currencies higher
   - [japan] Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen
@@ -51,12 +54,9 @@ Total: 3000 manchetes
   - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
   - [korea] Samsung Electronics Q3 2026 Earnings Call Is Live
   - [korea] Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus
+  - [korea] Samsung sees chip shortage worsening, but keeps investors in suspense on returns
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
   - [korea] Samsung Electronics 3Q Net KRW75.136T Vs. Net KRW12.226T >005930.SE
-  - [korea] Samsung Electronics: AI-led memory drove record Q3 revenue and operating profit above KRW 100T
-  - [korea] Samsung registra lucro recorde no terceiro trimestre graças ao boom dos chips de IA
-  - [korea] Samsung Electronics 3Q Oper Pft KRW107.441T Vs. Pft KRW12.166T >005930.SE
-  - [korea] Samsung Electronics 3Q Rev KRW195.253T Vs. KRW86.062T >005930.SE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T03:32:44+00:00",
+      "published_utc": "2026-10-29T03:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

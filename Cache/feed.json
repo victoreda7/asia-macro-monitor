@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T03:32:44.723227+00:00",
- "collected_at_utc": "2026-10-29T03:32:44.723227+00:00",
+ "generated_at_utc": "2026-10-29T03:42:45.326238+00:00",
+ "collected_at_utc": "2026-10-29T03:42:45.326238+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 895,
+  "japan": 894,
   "china": 841,
-  "taiwan": 384,
+  "taiwan": 385,
   "korea": 880
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:12:14+00:00"
+   "newest": "2026-10-29T02:10:55+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T15:56:13+00:00"
+   "newest": "2026-10-28T07:21:57+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-29T12:01:06+09:00"
+   "newest": "2026-10-29T12:35:47+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-29T12:30:58+09:00"
+   "newest": "2026-10-29T12:36:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T01:00:00+00:00"
+   "newest": "2026-10-28T22:20:02+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T03:31:51+00:00"
+   "newest": "2026-10-29T03:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:51:30+00:00"
+   "newest": "2026-10-29T03:28:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T21:00:03+00:00"
+   "newest": "2026-10-29T03:00:09+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:06:02+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T23:35:39+00:00"
+   "newest": "2026-10-28T10:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China Focus: China's sustained housing upgrades keep urban decay at bay",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83LVNLaXo1MVo1T01kU2VOTnZxYkdvdmloVUp3SGstVE9yWEQ3eG1zNnpxUjdmVlM1eHl5anVnQUF6RlpRVFBsWUlxTzhFZC1DTWxjdjVmN1dqeTZUZjFZQzRwQnFZanRiRGtRQmw1NG1VTUtxZll3T3J4a1Q?oc=5",
+   "published_utc": "2026-10-29T03:28:00+00:00",
+   "title_original": "China Focus: China's sustained housing upgrades keep urban decay at bay",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "48c20e826cb1acc2"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -363,9 +380,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RGlzaFVsakJ1THVFdnBMbHJnQ0E2Si1SbWxUN014SUZsbWlnZElSNU9rQm1jbUNyUkwzOFNRWVZGRWpxM2tKT2JWVlA1Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3JhTUpmLTNSYlNHZ2oxd1otOGF3VG9wYlJsMGRIdnVjRmdrdHV3TE5CQW83U0FDR3NfUGtzbVBpRFlGazcteENlbTlNRXRnZl82d3FSNXczYXRqTEJLOVl0UXVzcURwMWhZbGV1ZjFnWDNzWk8zak5EUy1kVHlWWUNWQ2hMV2xL?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -377,7 +394,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e054b19593281a7b"
+   "id": "caaceae1bc852a60"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Banks' household mortgage lending rates up for 5th month in Sept.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzcHI5M2k1VHg5Y25DbEl1SzRSRTlWTnRZRzZWTnFuZTQzRTljOE5qbm0yLXYwemEwTC1LUmVOUWdjSGx6UGluWVc0aHUwdHZNYkNWV281MWJfdw?oc=5",
+   "published_utc": "2026-10-29T03:00:09+00:00",
+   "title_original": "Banks' household mortgage lending rates up for 5th month in Sept.",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "be363dbbaa56de1d"
   },
   {
    "source_id": "tradingview_live",
@@ -554,6 +588,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6d020ffb0277aa32"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Benzinga",
+   "title_en": "Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares",
+   "url": "https://www.tradingview.com/news/benzinga:75eca2297094b:0-cathie-wood-piles-into-archer-joby-for-third-straight-day-as-ark-dumps-amd-tsmc-shares/",
+   "published_utc": "2026-10-29T02:27:04+00:00",
+   "title_original": "Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5ee07dd9e38dc8d5"
   },
   {
    "source_id": "investing_live",
@@ -932,6 +983,23 @@
    "id": "c4bacfabc403256f"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "Samsung sees chip shortage worsening, but keeps investors in suspense on returns",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
+   "published_utc": "2026-10-29T00:56:00+00:00",
+   "title_original": "Samsung sees chip shortage worsening, but keeps investors in suspense on returns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "428744cb58ae4ac3"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's New Export Restrictions Protect Its AI Crown Jewels",
@@ -1179,7 +1247,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Although the Bank of Japan judged that the underlying price trend had reached the target level of 2%, the positive price increase that it aimed for about 14 years ago has still not been achieved.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNzFzMVdRcmV4UHpvNlZsRE9uM2VqMTFTT1ZjS3JhWllGZnhvRFNzZTV4QXZQTXk4WWRZQXdpY2tLelFYckdJdVpXUFpmb1VVTmxQUlNDWWlZd196WU5jNEw1VG9aYVE2LUp4ci0xc3JiX21Jb0NCWnRCQ1JiX2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd0Fyb1gyc3dSRVpjanBMUTB6VU5VMkY4RGo5bS1ST1VKd3dVbVROOXY0cDI5WWRwM203bUFXVlF6bkZBd1RNZF9USzhoZERDeTZHNGZXSEh5VE15TmxmU2Z0UjJxRU5PSkxNQ19POGRiU3ZpUFBIN3k2eGg2ZFMxYWg2dHR5bjVn?oc=5",
    "published_utc": "2026-10-28T23:28:18+00:00",
    "title_original": "日銀は基調的な物価が2％の目標水準に到達と判断も、約14年前に目指した良い物価上昇はなお実現されず",
    "region": "japan",
@@ -1191,7 +1259,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "26c86835261ce4bb"
+   "id": "7150dd4c22d170bd"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -4238,8 +4306,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -4254,7 +4322,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -12271,23 +12339,6 @@
    "id": "947952a8ebce67d7"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
-   "published_utc": "2026-10-22T21:09:57+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "099657ed920ba39c"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering trade friction with Europe and the US | Business | Toyo Keizai Online",
@@ -12303,6 +12354,23 @@
    "live_wire": false,
    "manual": false,
    "id": "abda22d11ccbdbdf"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmhJMkZNNjM5TkpjNnVnME9DWHc1Wkhoa0NqX1A5bWR3bHh3aURpTGRDbjVia3V1QXlBSG5mNFpONmdUbXBoT0huYUFlXzdHX2RsXzVMakw4aE5ZMXRiblB2UWdnb3d4WUN5aDkxLVdMMHdPREctRG85MkdhUFJKbTRlUk83WHdCaE0zU0VKaEVma3N6QXh4ZlA2MU5iUUpFYVp5TkRBM0hrQQ?oc=5",
+   "published_utc": "2026-10-22T20:54:00+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9b95392a85fcfbe5"
   },
   {
    "source_id": "investing_fx",
@@ -12688,7 +12756,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdVNnSXpoRnQzU1NLclMxTlpSTDFHNV9OV0NEX1dvNHlpM0JkOFFBV1lTaUY5UFkwU0RBdFB1dmxTaUV6TF9LWDYtRFZhYk9DZkZiU2piRzQtY2RzZWhabFp2LWR0TWJMSmFGOTBmVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
    "published_utc": "2026-10-22T14:02:00+00:00",
    "title_original": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
    "region": "korea",
@@ -12701,7 +12769,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fb749003d99f6b60"
+   "id": "f36a5b6c7b5629c6"
   },
   {
    "source_id": "tradingview_live",
@@ -13376,6 +13444,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
+   "published_utc": "2026-10-22T07:47:42+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e77a77dfde09eac"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -13424,23 +13509,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZHlMWDhjLUFKOHVFeWNsQUVuTkZpRFFEcVJ0aDVKd3Q1MTF1R1RQQlUxRGQ3U1BTTl9jOVBKWThvQTc3T01tZlA1ZXZVNVZKWTdHRXN4OW9NME5nM0pWNk83SkZEeDJK?oc=5",
-   "published_utc": "2026-10-22T07:29:00+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "18a4ce030ce56544"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51801,77 +51869,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cb039e002ecec755"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmpVSDRzNGJ6YXhXTVJtS3JPYkxBOU16ZnhpQTZDeFRqR2JIWlFvYlRwLXJYSU1DZlNGMkt6OU9LLXU4QjFyOExnbWFuZG1SeC1VN2FlOFhybF9TalY4Vi1wV2lxbmhycTBWQ05Dczc3d0M2cHFkX2hpRFhyMGRHa0REM2wyc0pZSF9RclI3dWk1U0F2ckUxQWtRNlk5Qm5FSk9xeXV4ZlhkUU9HNVVfUW5JNktOc0txcFZCMEZ6OF9hRmFwa3hfUXdJZUV0VW8?oc=5",
-   "published_utc": "2026-10-02T08:52:05+00:00",
-   "title_original": "Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "06a5f0d7e69e92fb"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "블루밍비트",
-   "title_en": "September prices rise to 2% again... The Bank of Korea said, “October will rise by around 3%.”",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6Q3l0T3QtalNvSUdUbTIxVnl5bzZyN3N5bVNaNkJheDNLcE95S3ZKTUxNSUNYWWtTOVhqWWlfeVA5VFBVY0ZWV1RfZ2wxVFBH?oc=5",
-   "published_utc": "2026-10-02T08:38:04+00:00",
-   "title_original": "9월 물가 다시 2%대…한은 \"10월은 3% 안팎 오를 것\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6312e3e1ce1458c5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45N1LM:0-art-group-buys-6-87-equity-interests-in-edgeon-for-krw-585-75-million/",
-   "published_utc": "2026-10-02T08:22:22+00:00",
-   "title_original": "Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a824c499a2634998"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261002001311:0/",
-   "published_utc": "2026-10-02T08:05:00+00:00",
-   "title_original": "China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f550ddb2df6d1e24"
   },
   {
    "source_id": "manual_ia",
