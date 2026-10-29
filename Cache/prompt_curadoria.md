@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T16:42:44.958133+00:00
+Última coleta: 2026-10-29T16:52:46.948170+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          881
-  🇨🇳 China          846
+  🇯🇵 Japão          880
+  🇨🇳 China          847
   🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [china] Xin Yuan Enterprises Says Ocean Vivo To Buy 32.4 Million Shares For HK$2.21 Per Share
   - [china] AOS: China divestiture sharpens the portfolio as boiler growth offsets inflation and softer demand
   - [korea] Why are Micron, SK Hynix and SanDisk shares falling on Thursday?
   - [japan] US GDP +3.4% growth rate from July to September Expansion of consumer AI investment
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Governor of the Central Bank: Tightening again if necessary will maintain the housing market in a situation of
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Decision on Share Disposition
   - [japan] Yomiuri: Sumitomo Mitsui Trust Bank to Launch 10 Billion Yen Anime Fund
-  - [japan] Electricity charges for November hit record highs for seven major companies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T16:42:45+00:00",
+      "published_utc": "2026-10-29T16:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
