@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T03:12:44.498815+00:00",
- "collected_at_utc": "2026-10-29T03:12:44.498815+00:00",
+ "generated_at_utc": "2026-10-29T03:22:45.333081+00:00",
+ "collected_at_utc": "2026-10-29T03:22:45.333081+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 893,
-  "china": 839,
+  "japan": 896,
+  "china": 840,
   "taiwan": 385,
-  "korea": 883
+  "korea": 879
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 45,
+   "count": 47,
    "error": "",
-   "newest": "2026-10-29T09:09:37+08:00"
+   "newest": "2026-10-29T10:15:43+08:00"
   },
   {
    "source_id": "investing_live",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T16:38:02+00:00"
+   "newest": "2026-10-26T18:08:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-29T11:58:41+09:00"
+   "newest": "2026-10-29T12:14:58+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:51:32+00:00"
+   "newest": "2026-10-29T03:08:33+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T00:56:00+00:00"
+   "newest": "2026-10-29T01:42:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T22:20:02+00:00"
+   "newest": "2026-10-29T01:00:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T03:10:59+00:00"
+   "newest": "2026-10-29T03:21:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:50:00+00:00"
+   "newest": "2026-10-29T03:12:08+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T23:34:02+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,79 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan expects to keep interest rates unchanged, determined to reach inflation rate target of 2% (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTmYteFpqcEcyRWgxR1UzdnRSQXoxdWwzbHhvdHduSlVqdWFvQ1M3T1RTRVN4NW8wWFdHUmxjaU9ieUI2dTVtOS1GckU0WHBGWTBESEYyVFFyRXJVal9KOThOMGx6VTNPVDJ0SEhqZWd1SHZwbEs1bDlTZXdUcDQ?oc=5",
+   "published_utc": "2026-10-29T03:12:08+00:00",
+   "title_original": "日銀 金利据え置く見通し 物価上昇率目標の“2％到達”判断か（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "de3e77f9852ff144"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RGlzaFVsakJ1THVFdnBMbHJnQ0E2Si1SbWxUN014SUZsbWlnZElSNU9rQm1jbUNyUkwzOFNRWVZGRWpxM2tKT2JWVlA1Zw?oc=5",
+   "published_utc": "2026-10-29T03:08:33+00:00",
+   "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e054b19593281a7b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Steadies Ahead of BOJ Policy Decision",
+   "url": "https://www.tradingview.com/news/te_news:596049:0-yen-steadies-ahead-of-boj-policy-decision/",
+   "published_utc": "2026-10-29T02:58:01+00:00",
+   "title_original": "Yen Steadies Ahead of BOJ Policy Decision",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "26544e7ecd348ec2"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Will the inflation rate reach 2%? The Bank of Japan is expected to leave the policy rate unchanged (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDWUVWbWYtVnpKdWUyZzh4dExlYW84Yld2OXJXQ3BRanRiNmJfMDh6Mzd0MHZ2dFB6bWJZVUtDeXNtdldORTByTEZRbW10NE9LQkNQTXVVNTNzaVZWYlRuaWVUdW1ZeERXbmgyLVVNV3BjNHBIelF4Wjh1bEdGUUU?oc=5",
+   "published_utc": "2026-10-29T02:56:24+00:00",
+   "title_original": "物価上昇率“2％到達”判断か 日銀、政策金利据え置く見通し（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eafc63381a9c49f6"
+  },
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
@@ -1089,7 +1162,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Although the Bank of Japan judged that the underlying price trend had reached the target level of 2%, the positive price increase that it aimed for about 14 years ago has still not been achieved.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNzFzMVdRcmV4UHpvNlZsRE9uM2VqMTFTT1ZjS3JhWllGZnhvRFNzZTV4QXZQTXk4WWRZQXdpY2tLelFYckdJdVpXUFpmb1VVTmxQUlNDWWlZd196WU5jNEw1VG9aYVE2LUp4ci0xc3JiX21Jb0NCWnRCQ1JiX2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd0Fyb1gyc3dSRVpjanBMUTB6VU5VMkY4RGo5bS1ST1VKd3dVbVROOXY0cDI5WWRwM203bUFXVlF6bkZBd1RNZF9USzhoZERDeTZHNGZXSEh5VE15TmxmU2Z0UjJxRU5PSkxNQ19POGRiU3ZpUFBIN3k2eGg2ZFMxYWg2dHR5bjVn?oc=5",
    "published_utc": "2026-10-28T23:28:18+00:00",
    "title_original": "日銀は基調的な物価が2％の目標水準に到達と判断も、約14年前に目指した良い物価上昇はなお実現されず",
    "region": "japan",
@@ -1101,7 +1174,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "26c86835261ce4bb"
+   "id": "7150dd4c22d170bd"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -6488,9 +6561,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -6502,7 +6575,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8166e1f4e20d2cef"
+   "id": "0facd9f9793a1c33"
   },
   {
    "source_id": "tradingview_live",
@@ -7819,24 +7892,6 @@
    "id": "c39539e469407cde"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Major banks have increased their information protection budgets for next year significantly since th..",
@@ -8406,6 +8461,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -29035,23 +29108,6 @@
    "id": "51a413bc8920483f"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -29068,6 +29124,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51799,77 +51872,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1c307fe313ac1af2"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Ministry of Finance and Economy ◇Promotion of Deputy Director △Public relations Officer Kim Young-h..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93d1lGSkpsU2tyOGh4ZmlQa1RhZXh3bzdSWjBBTkhZNWRCdXltYWk3VFl3M3l3ZEs1UzhkRm95SnJQZ1lTamxIV0pSQkpVM2NydEE?oc=5",
-   "published_utc": "2026-10-02T07:59:46+00:00",
-   "title_original": "Ministry of Finance and Economy ◇Promotion of Deputy Director △Public relations Officer Kim Young-h..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "161b192a2194e1af"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스토마토",
-   "title_en": "From inflation to oil prices and exchange rates... The Bank of Korea is set to test interest rates",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xVTZsR1E3eGszaFJNQUEyTWpzRVFJZERaTF9kVUFUZXN5NUY1N1ZzNl90X3VkWTZGVlZGVkdmZVNKZW9wZS14T3RLbVdQekg1Wkw2N3E2QWZlcFhfc2lBVA?oc=5",
-   "published_utc": "2026-10-02T07:58:44+00:00",
-   "title_original": "물가부터 유가·환율까지…금리 시험대 선 한은",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "084d6971573041bf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:273c190a41950:0-sk-hynix-inc-stock-12-month-price-target-cut-to-krw-3287582-16-implies-79-upside/",
-   "published_utc": "2026-10-02T07:20:00+00:00",
-   "title_original": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "210dba541d14d08c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "[Breaking] Chey Tae-won Moves to Sell KRW 944 Billion SK Stake, Matching Property Division for Roh Soh-young",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zZnF6bnJGR1BVWmZmQkQ3VWx5U2lBU25VcmY5VmJodVlkWWlJci1oZ25vd1FjRWhMdG1nTU1yTk1MTTNGTG03R3ZlVmJUWVhoRWFr?oc=5",
-   "published_utc": "2026-10-02T07:08:07+00:00",
-   "title_original": "[Breaking] Chey Tae-won Moves to Sell KRW 944 Billion SK Stake, Matching Property Division for Roh Soh-young",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5eff7e31d9118dd0"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T03:12:44.498815+00:00
+Última coleta: 2026-10-29T03:22:45.333081+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          893
-  🇨🇳 China          839
+  🇯🇵 Japão          896
+  🇨🇳 China          840
   🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  883
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan expects to keep interest rates unchanged, determined to reach inflation rate target of 2% (TV As
+  - [china] Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.1062
+  - [japan] Yen Steadies Ahead of BOJ Policy Decision
+  - [japan] Will the inflation rate reach 2%? The Bank of Japan is expected to leave the policy rate unchanged (TV Asahi (
   - [taiwan] Taiwan central bank head deems AI bubble crash scenario extreme
   - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation, with a net investment of 115 
   - [taiwan] AI, semiconductors drive foreign investor gains, weakening Taiwan dollar
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics 3Q Oper Pft KRW107.441T Vs. Pft KRW12.166T >005930.SE
   - [korea] Samsung Electronics 3Q Rev KRW195.253T Vs. KRW86.062T >005930.SE
   - [japan] [Tokyo Foreign Exchange] Dollar, high 157 yen level = Scuffle ahead of Bank of Japan decision meeting (9:00 a.
-  - [korea] Russia imports North Korean workers disguised as students, report shows
-  - [japan] US Federal Reserve keeps interest rates unchanged
-  - [taiwan] The Fed's two committee members opposed keeping interest rates on hold, and the issue of inflation remains unr
-  - [taiwan] Three major points of the Federal Reserve: Two members oppose maintaining interest rates, fighting inflation, 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T03:12:44+00:00",
+      "published_utc": "2026-10-29T03:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
