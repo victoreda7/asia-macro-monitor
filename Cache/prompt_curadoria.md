@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T02:22:42.528680+00:00
+Última coleta: 2026-10-29T02:32:44.444098+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
-  🇨🇳 China          840
+  🇨🇳 China          838
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  879
+  🇰🇷 Coreia do Sul  881
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
+  - [korea] Earnings call transcript: Samsung Electronics posts record Q3 2026 profit
   - [korea] South Korean won, Indonesian rupiah lead Asian currencies higher
   - [japan] Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen
-  - [korea] Samsung Electronics posts record profit in Q3 on AI chip supercycle
-  - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation today
   - [korea] Why is Samsung Electronics stock sliding today?
+  - [korea] Samsung Electronics posts record profit in Q3 on AI chip supercycle
   - [korea] Samsung posts record profit in Q3 on AI chip boom
+  - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation today
   - [china] CHINA PBOC CONDUCTS CNY115 BLN VIA 7-DAY REVERSE REPO THURS
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 36% Upside
   - [china] Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
-  - [korea] South Korea’s Manufacturing Sentiment Weakens Slightly
-  - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T02:22:42+00:00",
+      "published_utc": "2026-10-29T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
