@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T09:12:44.387085+00:00
+Última coleta: 2026-10-29T09:22:45.688466+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          844
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  881
+  🇯🇵 Japão          890
+  🇨🇳 China          843
+  🇹🇼 Taiwan         382
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
+  - [china] Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan
   - [china] Alphabet spells out more AI capex, China+1 doesn't add up
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [china] CanSemi Tech Q3 Net Loss At 349.1 Million Yuan
   - [china] Shanxi Taigang Stainless Steel Q3 Net Loss At 355.1 Million Yuan
   - [china] Beijing Compass Technology Development Q3 Net Loss At 91.1 Million Yuan
+  - [korea] Samsung Electronics' Investment in Facility Investment at Article 85...Responding to semiconductor boom with l
+  - [korea] Samsung Electronics Co. Investments in Facilities Investment at Article 85
   - [japan] Kddi: To Expand London Data Centre With 47 Billion Yen Land Acquisition
   - [korea] The Seoul Metropolitan Government has set aside 55.7445 trillion won for next year's budget. It is t..
   - [korea] Federal Reserve freezes base interest rate, ‘taking a breather’… Bank of Korea weighs ‘November hike’
@@ -50,13 +54,9 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
   - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
+  - [korea] The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy
   - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
   - [japan] BREAKING NEWS: ANA Holdings' April-Sept. net profit drops 11.8% to 67.09 billion yen
-  - [japan] Bank of Japan Monetary Policy Meeting: Will the inflation rate reach 2%? (ABEMA TIMES)
-  - [korea] S. Korea eyes virtuous cycle via green economic growth
-  - [korea] Korea's chip boom catches US Fed chair's eye
-  - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
-  - [japan] Yen strengthens against dollar following Warsh's remarks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T09:12:44+00:00",
+      "published_utc": "2026-10-29T09:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

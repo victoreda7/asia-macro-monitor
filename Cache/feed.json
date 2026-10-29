@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T09:12:44.387085+00:00",
- "collected_at_utc": "2026-10-29T09:12:44.387085+00:00",
+ "generated_at_utc": "2026-10-29T09:22:45.688466+00:00",
+ "collected_at_utc": "2026-10-29T09:22:45.688466+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 892,
-  "china": 844,
-  "taiwan": 383,
-  "korea": 881
+  "japan": 890,
+  "china": 843,
+  "taiwan": 382,
+  "korea": 885
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:55:00+00:00"
+   "newest": "2026-10-29T08:20:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:30:51+00:00"
+   "newest": "2026-10-29T06:36:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T09:12:03+00:00"
+   "newest": "2026-10-29T09:21:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T03:00:09+00:00"
+   "newest": "2026-10-28T21:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T00:49:00+00:00"
+   "newest": "2026-10-29T01:41:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:46:40+00:00"
+   "newest": "2026-10-29T09:08:02+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "London Stock Exchange",
+   "title_en": "REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-10-29:newsml_RSc0030Ba:0-reg-samsung-electronics-samsung-elec-smsd-transactions-with-affiliate-company/",
+   "published_utc": "2026-10-29T09:21:31+00:00",
+   "title_original": "REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "039252de12b45223"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F0YF:0-beijing-capital-development-q3-net-loss-at-1-1-billion-yuan/",
+   "published_utc": "2026-10-29T09:16:42+00:00",
+   "title_original": "Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4a280254182dbfe9"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -427,6 +461,40 @@
    "live_wire": true,
    "manual": false,
    "id": "4d2681a96fa26cd3"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics' Investment in Facility Investment at Article 85...Responding to semiconductor boom with largest investment ever",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWU40NVlZVDJZc2RqWlVXMk53N0xlRVkyUWZBeFdKSk5oWUJpS1RfODhqMUI3Y0JUTmpIU21rYmJ3NHctUWl2ZWlGVmI3ckdDZ0tB?oc=5",
+   "published_utc": "2026-10-29T08:52:31+00:00",
+   "title_original": "Samsung Electronics' Investment in Facility Investment at Article 85...Responding to semiconductor boom with largest investment ever",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e80f1efa90d78449"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics Co. Investments in Facilities Investment at Article 85",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZW5aTHc5VHB5eGpTcWRTWXMycWVQeTZUZ2FtTXVNQkJfYXhoWk9rN0x5RVRQcFNWdlFydC00NnA5Z3FCMUlpRGFCcWUxd2gwM2c4?oc=5",
+   "published_utc": "2026-10-29T08:51:25+00:00",
+   "title_original": "Samsung Electronics Co. Investments in Facilities Investment at Article 85",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "518e4f26b455530b"
   },
   {
    "source_id": "tradingview_live",
@@ -912,6 +980,24 @@
    "id": "7dda43189b988204"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "더팩트",
+   "title_en": "The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy Committee meets eight times a year",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
+   "published_utc": "2026-10-29T06:51:00+00:00",
+   "title_original": "한은, 내년 첫 기준금리 결정 1월 14일…금통위 연 8차례 개최",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "27be5918f1a65a63"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significantly",
@@ -1241,40 +1327,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f210b0d38825cb30"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China stocks slip as tech weakness overshadows Fed rate decision",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F04E:0-china-stocks-slip-as-tech-weakness-overshadows-fed-rate-decision/",
-   "published_utc": "2026-10-29T04:24:40+00:00",
-   "title_original": "China stocks slip as tech weakness overshadows Fed rate decision",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1721506645569c62"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 32% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:59d63efbeae0c:0-advantest-corp-stock-12-month-price-target-raised-to-jpy-45945-45-implies-32-upside/",
-   "published_utc": "2026-10-29T04:20:00+00:00",
-   "title_original": "Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 32% Upside",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3a0bc0ce3fadb17a"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1963,7 +2015,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Yuan Funding Has Deeper Drivers Than Yields, Top Economist Says",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPODlXSFB6T3JoamxCZmIxN2JJQmdlNVRZdWNSdWFockpRMFkySG5OVU1XbS1QbDBOZU1Mc0toYnVtc25OYnY1UWJNMXFXa01Vb0l4OXA3Ums0Sms2Zjh1WWFybHhxUGN4YktWN1BfV0k3ZzZMeDR0ckd5M3lVNmVBWFBUMVh6NFVzVVVrVVRiR2NvUC1FN2JlSDk0WXFOYUJ0eVBKTVVlbVU0bVR6bjh5QW9JQQ?oc=5",
    "published_utc": "2026-10-28T23:00:00+00:00",
@@ -13596,7 +13648,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdVNnSXpoRnQzU1NLclMxTlpSTDFHNV9OV0NEX1dvNHlpM0JkOFFBV1lTaUY5UFkwU0RBdFB1dmxTaUV6TF9LWDYtRFZhYk9DZkZiU2piRzQtY2RzZWhabFp2LWR0TWJMSmFGOTBmVQ?oc=5",
    "published_utc": "2026-10-22T14:02:00+00:00",
    "title_original": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
    "region": "korea",
@@ -13609,7 +13661,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f36a5b6c7b5629c6"
+   "id": "fb749003d99f6b60"
   },
   {
    "source_id": "tradingview_live",
@@ -30033,23 +30085,6 @@
    "id": "51a413bc8920483f"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -30066,6 +30101,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51820,57 +51872,6 @@
    "live_wire": false,
    "manual": false,
    "id": "69cc39ba49b7c88d"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "Can Britain really afford to diverge from EU tariffs on Chinese EVs?",
-   "url": "https://www.scmp.com/opinion/world-opinion/article/3369331/can-britain-really-afford-diverge-eu-tariffs-chinese-evs?utm_source=rss_feed",
-   "published_utc": "2026-10-03T08:30:09+00:00",
-   "title_original": "Can Britain really afford to diverge from EU tariffs on Chinese EVs?",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6bf4104ba58210cf"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "OPINION: Japan must improve fiscal credibility as long-term rates rise",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XdThCeGVCeVpIZHdPR2R1RDlSSjZsTXlCM0lneDlTS0RzVmVzSy0yREw3VWlmY3QzUE85MmVDdTJBSUlPY1I1dk1MMHFGUlotR0hpdWVjcVlaQQ?oc=5",
-   "published_utc": "2026-10-03T07:00:00+00:00",
-   "title_original": "OPINION: Japan must improve fiscal credibility as long-term rates rise",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5fed613cf597187"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
-   "published_utc": "2026-10-03T07:00:00+00:00",
-   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e3fe8194e680dde"
   },
   {
    "source_id": "manual_ia",
