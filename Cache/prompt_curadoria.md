@@ -7,16 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T03:12:44.576116+00:00
+Última coleta: 2026-10-30T03:22:44.950625+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
+  🇯🇵 Japão          918
   🇨🇳 China          826
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  888
+  🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [japan] MNI BOJ DECIDES TO KEEP POLICY RATE AT 1.25%
+  - [japan] BOJ BOARD FY26 MEDIAN GDP FORECAST +0.7% VS. +0.6% IN JULY; FY27 FORECAST +0.7% VS. +0.8% IN JULY; FY28 FORECA
+  - [japan] Analysts react to BOJ decision to keep rates steady
+  - [japan] BOJ BOARD FY27 MEDIAN CORE CPI FORECAST +2.6% VS. +2.4% IN JULY; FY28 FORECAST +2.0% VS. +2.0% IN JULY
+  - [japan] BOJ QUARTERLY OUTLOOK REPORT: BOARD FY26 MEDIAN CORE CPI (EX-FRESH FOOD) FORECAST +2.5% VS. +2.5% IN JULY
+  - [japan] BOJ keeps interest rates steady, signals further rate hikes
+  - [japan] BOJ: TO CONSIDER TIMING, PACE OF POLICY RATE ADJUSTMENT BY CLOSELY WATCHING IMPACT OF MIDEAST CONFLICT, RISKS 
+  - [japan] Stock price temporarily fell by 1,900 yen; AI/semiconductor-related stocks were sold off
+  - [japan] BOJ: TO CONTINUE HIKING RATES IN LINE WITH GDP, CPI, GIVEN UNDERLYING INFLATION LARGELY CONSISTENT WITH 2% TAR
   - [japan] BOJ holds interest rates, raises 2027 inflation outlook
   - [japan] BOJ REPEATS JULY OUTLOOK REPORT: RISKS TO ECONOMIC GROWTH LARGELY BALANCED, THOSE TO INFLATION REMAINS SKEWED 
   - [japan] BOJ: UNDERLYING INFLATION IS NOW CONSISTENT WITH 2% PRICE TARGET
@@ -37,7 +46,6 @@ Total: 3000 manchetes
   - [japan] Consumer price index in Tokyo's 23 wards rises by 2.6% Prices will increase for 1,477 food items in November K
   - [japan] Bank of Japan Governor Ueda on the verge of a monetary policy meeting (Jiji Shin)
   - [japan] Sanwa Holdings Corporation - To Buy Back Up To 1.8% Of Shares Worth 10 Billion Yen
-  - [japan] Stock price temporarily fell by 1,600 yen, AI/semiconductor-related stocks were sold off
   - [japan] Japanese bonds rally as investors seek havens ahead of BOJ decision
   - [korea] Malaysian ringgit, Korean won lead Asian FX gains; Taiwan dollar slips
   - [japan] Japan Industrial Output Climbs 2.2% In September
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO FRI
   - [korea] SK reshuffles energy chiefs, names SK hynix development head to new US role
-  - [taiwan] Beyond nanometers: AI forces Taiwan's semiconductor ecosystem to compete at system level
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7138 FRI VS 6.7147
-  - [korea] South Korea's Inflation Could Ease in October, Poll Shows — Market Talk
-  - [japan] 46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft
-  - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 6
-  - [japan] JGB Yields Fall Ahead of BOJ Rate Decision — Market Talk
-  - [korea] Hanmi Semiconductor Q3 Operating Profit 90.8 Billion Won, Up 34% From Year Earlier
-  - [korea] South Korea's Export Growth Likely Accelerated in October, Poll Shows — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T03:12:44+00:00",
+      "published_utc": "2026-10-30T03:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
