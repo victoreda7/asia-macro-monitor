@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T09:12:47.089350+00:00",
- "collected_at_utc": "2026-10-30T09:12:47.089350+00:00",
+ "generated_at_utc": "2026-10-30T09:22:46.440250+00:00",
+ "collected_at_utc": "2026-10-30T09:22:46.440250+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 923,
-  "china": 839,
-  "taiwan": 367,
-  "korea": 871
+  "china": 842,
+  "taiwan": 366,
+  "korea": 869
  },
- "elapsed_s": 31.5,
+ "elapsed_s": 31.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T05:01:26+00:00"
+   "newest": "2026-10-30T09:11:15+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T08:53:06+00:00"
+   "newest": "2026-10-30T09:12:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T08:24:28+00:00"
+   "newest": "2026-10-30T09:12:27+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T06:34:28+00:00"
+   "newest": "2026-10-30T09:11:13+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T07:23:43+00:00"
+   "newest": "2026-10-30T08:19:47+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:11:02+00:00"
+   "newest": "2026-10-30T09:16:50+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T07:59:00+00:00"
+   "newest": "2026-10-30T08:36:22+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T18:01:04+09:00"
+   "newest": "2026-10-30T18:11:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
-   "newest": "2026-10-30T09:07:18+00:00"
+   "newest": "2026-10-30T09:09:19+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T05:04:00+00:00"
+   "newest": "2026-10-29T20:06:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T09:12:05+00:00"
+   "newest": "2026-10-30T09:20:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,24 @@
  "items": [
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "Next week, 1.749 billion yuan of reverse repos will mature in the central bank’s open market.",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92bFNzTW4zRTdNQldXSUZGSFVyUHVCT1FMX0JZSFV6LW5fSjV3TDVwNElNTGNnMzZFb2s3NnpVTWRlXzVVTGVOYmNSMA?oc=5",
+   "published_utc": "2026-10-30T09:09:19+00:00",
+   "title_original": "下周央行公开市场将有17490亿元逆回购到期",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b244f1f3832720b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Central Bank: Starting from November 2, 2026, bidding for overnight reverse repurchase operations will be launched every working day",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yUjVwekoyQ1JmSzlsYW9rZ3dRSW9ZYVlaeGU0cExuYWZHY3JBdEZDQ0s2UTI4bldPcUFHZ0gxdVB6aHRBVGpMZUhJMXlIcjhTa2d6cHhnOXZQbVYwNUdweTgwMEJsZw?oc=5",
@@ -378,6 +396,23 @@
    "id": "7d14bacc316dcd41"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched every working day",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NY3h0SEdkTjFWQjNia05ta0ZBT1ZEOTlDSFFKZC1GSjlwY0oydFBZTnRydG5scnFSQkVBeFhkZzN1OF9OX2tvamlsSjdYX2xBWnVHOUN3ajJ4eHhRa01QNjJqbS13bi0waVE?oc=5",
+   "published_utc": "2026-10-30T09:05:36+00:00",
+   "title_original": "央行：11月2日起，每个工作日开展隔夜逆回购操作招标",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce3716ab00033126"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is achieving the 2% target with good price increases that was initially aimed at a dream that cannot be fulfilled? (Bank of Japan Governor Press Conference) (NRI researcher's commentary on current events)",
@@ -395,6 +430,23 @@
    "live_wire": false,
    "manual": false,
    "id": "53f5a1b9a132922f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "Central Bank: Conduct bidding for overnight reverse repurchase operations every working day",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12ZWZxaUlUd3FQaS1MaXJMR19yT3ZlU0o5M0xsUjFRc2hnNG93VV93b1BhNFk4XzJwbXYyaXRrMEY3bm0zN3hSaEtNaw?oc=5",
+   "published_utc": "2026-10-30T09:03:22+00:00",
+   "title_original": "央行：每个工作日开展隔夜逆回购操作招标",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc1e68d84a40a277"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -448,24 +500,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5f22e4167cb37ee1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yen gains after BOJ; AI jitters dent dollar",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46G0FN:0-yen-gains-after-boj-ai-jitters-dent-dollar/",
-   "published_utc": "2026-10-30T08:56:09+00:00",
-   "title_original": "Yen gains after BOJ; AI jitters dent dollar",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9a36e1f98d6da683"
   },
   {
    "source_id": "tradingview_live",
@@ -588,6 +622,25 @@
    "live_wire": true,
    "manual": false,
    "id": "c54d7eb7d4eb68ef"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BOJ says 2% inflation target generally achieved, maintains policy rate",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByT0VpSldDQnJkUkN3WENmV0ZUX1h5SjNEWUZ5eEprVmFDRWpobVBuellrV0QwakhaRFhlSTdqbG1UcnFkNjU1ZG01MENmU0xNY3BYY2RReWpCZw?oc=5",
+   "published_utc": "2026-10-30T08:36:22+00:00",
+   "title_original": "BOJ says 2% inflation target generally achieved, maintains policy rate",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "258a29c952368526"
   },
   {
    "source_id": "tradingview_live",
@@ -847,6 +900,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d8a20fe82a07bb9c"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3h0TFB0SVlMbFNPQVE2bGE4ZllsT29XUGR1Mkt5eHZKeXk1WDh2OWhxSFF3aXMyWm5oUzhjZC1EbWxJUTZ3c1FWS2pPZENLdHNPaUlUM1h4V2tEdmVFX0lMWGZrMTRpR3Y1SGpmbUhPUUVQUVotNGFOWlpBcklfSlMwN3QzQU50dldHQldUWkNWRG5jZWxMRzlfNmlOOFF5XzlWVHl3WnY3dEg4?oc=5",
+   "published_utc": "2026-10-30T08:19:47+00:00",
+   "title_original": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "790b224abc2222fa"
   },
   {
    "source_id": "nhk_economy",
@@ -2470,6 +2541,24 @@
    "id": "c9fc3d46c8c24094"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财中社",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation with an interest rate of 1.40% and a net investment of 115 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SMDJFVkZ1VnVlcy13bV9HLTNZQ29IZ0dwdWIyQlkwWjRsaU10QWt1blQ1STlqRWNkYzRheVh0SWNPanVkNVJGTm9IazNEa3FVV3RBOXVsU0lSQVIwc1ZRR2IxVDQ?oc=5",
+   "published_utc": "2026-10-30T02:55:00+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作 利率1.40% 净投放1150亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "85f8ce5e27f10f71"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan manufacturing demand rises as bank property loans decline",
@@ -2592,6 +2681,24 @@
    "id": "b01d777277a49078"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Yen has brief gain after BOJ, while AI jitters weigh on dollar",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5",
+   "published_utc": "2026-10-30T01:48:00+00:00",
+   "title_original": "Yen has brief gain after BOJ, while AI jitters weigh on dollar",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "919a0093b26a6b2a"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "SK reshuffles energy chiefs, names SK hynix development head to new US role",
@@ -2612,7 +2719,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Beyond nanometers: AI forces Taiwan's semiconductor ecosystem to compete at system level",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUNWS3NEVlJMZVhOYS1DeVVyNm9fdDByRHBPVjNnQVpRekdPMFYyaks1Y3E3TjdyMmdER3AxSVJJTENsRlRfalFDNjJYcWdJTzc2MGc4UVA1ZVk5WTZYaUFRSFhDcEVhb25SYWZsWlFnakFVNmlqVjdIckdqLXJYTm9wZHhvSS1kZUFXN3BIdlJZQnFlQ2ljSWZoS0IyUFc3OWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9scVI4THNqZEZWbEZJcldQRkxOS3gxamhNRDhjQzd5eGtzdmdDb1JpbE9SaUNJVkJfN1B1NW8ycUxKWURTVDVIbGVlb0J5ejJma1hZOXlrdjhLQUw4dThB?oc=5",
    "published_utc": "2026-10-30T01:39:08+00:00",
    "title_original": "Beyond nanometers: AI forces Taiwan's semiconductor ecosystem to compete at system level",
    "region": "taiwan",
@@ -2623,7 +2730,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d67f05ce1cb07476"
+   "id": "2fe80162fece65ba"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2696,24 +2803,6 @@
    "id": "8fbd287de03d87f4"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Tokyo core inflation holds above BOJ target in Oct as rate decision looms",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1VZYlRselUyT0diOHdYMk11cERCSF8zSHotQi02ZW90LW9PWHBWeE81RXBTVEJoTFJsX1pRUHgyUS1wNEcyZi1CdEQ0UUxDOUprMjRjakc5Q1dyNk83RWViOVlqbEZXVHptMTNwQlVQQWdWYUlCSGt4M2Zobm8wU3BILXJ6NTJZUDRQdnVYN0cyclc1LTRMckdWb19ER3RlMXBnQVkyTGQ2WHdqRXQzbTFndkxkTE9RRzBBOTJlVTEyZFVYMGhZcHdEdFg?oc=5",
-   "published_utc": "2026-10-30T00:02:35+00:00",
-   "title_original": "Tokyo core inflation holds above BOJ target in Oct as rate decision looms",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "15f4f56dda24a7e9"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up",
@@ -2730,6 +2819,24 @@
    "live_wire": false,
    "manual": false,
    "id": "54c8a59c9186d8d1"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Tokyo core inflation holds above BOJ target in Oct as rate decision looms",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMG0xNHhuRW5qT2lQeldabC0zYnNSQm1GcUNTdC1qLXZxSWN3blFydlNDQjFoaFgwRXgxRThXc09aQThCNnJfSjZiSkNWUnYydjUtbVBZT1lyVjQyekdDblM5YXQ0TWhYWlFsM25MN1F3OXdtT01obkRGbHhPVWZnekNPNHU5R2xFWmNKWVF1UkNGZ1h1MVBSaXl3TnVQMTlIWFMxMzJiblNYcG91RzRfa2o0TDNfTzBFMk1RT0xoRzdmUGMwRVlsaGx0Yw?oc=5",
+   "published_utc": "2026-10-30T00:00:00+00:00",
+   "title_original": "Tokyo core inflation holds above BOJ target in Oct as rate decision looms",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4c4b0d799ebf9ca9"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4793,9 +4900,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3JhTUpmLTNSYlNHZ2oxd1otOGF3VG9wYlJsMGRIdnVjRmdrdHV3TE5CQW83U0FDR3NfUGtzbVBpRFlGazcteENlbTlNRXRnZl82d3FSNXczYXRqTEJLOVl0UXVzcURwMWhZbGV1ZjFnWDNzWk8zak5EUy1kVHlWWUNWQ2hMV2xL?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -4807,7 +4914,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b921c83c0da75290"
+   "id": "caaceae1bc852a60"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5106,6 +5213,24 @@
    "id": "676c80b7b3ded0f9"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "网易新闻客户端",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xY2xSQ3BPdHU5TzBSdFRZYzNobUFzNEUyejJYeWhndndVV0duaGJ2Xy1VdWNUeDJqNHd5cnZFdUUxS25DeFdHTHZUYXk5d2tZbG1vbXVGSXI1MmJI?oc=5",
+   "published_utc": "2026-10-29T02:06:00+00:00",
+   "title_original": "央行今日开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c0843f9467ed6637"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "IT조선",
    "title_en": "Bank of Korea: “US interest rate freeze, European and Japanese monetary policies also need to be confirmed”",
@@ -5140,24 +5265,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ae73d0a85a9e07fa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:23+00:00",
-   "title_original": "央行今日开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc19cfd413de5a65"
   },
   {
    "source_id": "gn_kr_bok",
@@ -5441,7 +5548,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -5452,7 +5559,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ad537082c2c93f5e"
+   "id": "703eacfba1e67ab6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -12418,6 +12525,24 @@
    "id": "8ad0e6381b5427fd"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBob3haUVpMWHhBcXZNUUdLa0sxV1ptN0dNMFVEZkk0RENUYkJWemw3eE9GNVhRdzNVSHpYam1Pb2VBZFBMdHo2NV9wR1NQYzBlVnNzTGc3cVRramNzbVA4ZlVR?oc=5",
+   "published_utc": "2026-10-26T02:56:03+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a7d1cb03ad8a1b50"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to announce steps to boost shareholder returns on Wednesday",
@@ -12750,6 +12875,24 @@
    "id": "502351d29f0aed8f"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "SK hynix weighs $12.1 billion special dividend, newspaper says",
@@ -12765,24 +12908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
-   "published_utc": "2026-10-25T23:58:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -14178,24 +14303,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
-   "published_utc": "2026-10-23T14:14:15+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
@@ -51834,109 +51941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "89855cc8789f5341"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ's Sato signals support for future rate hikes, Kyodo reports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45S1J9:0-boj-s-sato-signals-support-for-future-rate-hikes-kyodo-reports/",
-   "published_utc": "2026-10-06T22:00:11+00:00",
-   "title_original": "BOJ's Sato signals support for future rate hikes, Kyodo reports",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a0adbc5862a76e39"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Is it wrong to say that \"Japanese houses are high-performance\"? \"The weakest function in developed countries\" as pointed out by a talented real estate salesman Manga \"Honest Real Estate\" (Volume 22, Episode 175) | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958699?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-06T22:00:00+00:00",
-   "title_original": "｢日本の住宅は高性能｣は間違い？ 敏腕不動産営業が指摘する\"先進国で最弱の機能\" 漫画｢正直不動産｣（第22集 第175話） | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f20d9d7d67877e99"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机网易网",
-   "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan three-month buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrdmMtUWtTOHV1RVk4X3FVOGJOMkh3Nng0Q2lKZ1lWSHgwV0Y2R2tYcncycThZSTVVVWdna3kzZ1dGTy10eFRveUhBUGlxSmQxbUVpMg?oc=5",
-   "published_utc": "2026-10-06T21:50:21+00:00",
-   "title_original": "央行：10月8日将开展12000亿元3个月期买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34975e099e6ec8a9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "NLST Stock Jumps 18% After Micron’s $600M License Deal — Retail Now Awaits SK Hynix",
-   "url": "https://www.tradingview.com/news/stocktwits:7a3281d5e094b:0-nlst-stock-jumps-18-after-micron-s-600m-license-deal-retail-now-awaits-sk-hynix/",
-   "published_utc": "2026-10-06T21:43:31+00:00",
-   "title_original": "NLST Stock Jumps 18% After Micron’s $600M License Deal — Retail Now Awaits SK Hynix",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "628260d579a9742b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "대한경제",
-   "title_en": "[Second financial institutions hit by a wave of high interest rates] The era of interest rates 3.0... Profitability ‘emergency light’",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xbUJtN0c2emlxZ3hfVE9pMHpSYzN0SWEwOHZkRmp5cjZwT2pwdE42Wkg4OF85cm1hTk4xSVpjaDNLZUJEQXVYQjZoZUhfdGtaSXZRcnZQNEs0OXB5cHZ2MjhDNVl6Z3BsNmx6ZXZLbjFPR2c?oc=5",
-   "published_utc": "2026-10-06T21:20:34+00:00",
-   "title_original": "[고금리 파도 덮친 2금융권]금리 3.0시대…수익성 ‘비상등’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da3374f50c289070"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "TSMC boosts US investments to $265B on AI boom: report",
-   "url": "https://www.tradingview.com/news/seekingalpha:98e976090094b:0-tsmc-boosts-us-investments-to-265b-on-ai-boom-report/",
-   "published_utc": "2026-10-06T21:13:56+00:00",
-   "title_original": "TSMC boosts US investments to $265B on AI boom: report",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f8c1ba80daf445da"
   },
   {
    "source_id": "manual_ia",

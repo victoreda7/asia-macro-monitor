@@ -7,23 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T09:12:47.089350+00:00
+Última coleta: 2026-10-30T09:22:46.440250+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          839
-  🇹🇼 Taiwan         367
-  🇰🇷 Coreia do Sul  871
+  🇨🇳 China          842
+  🇹🇼 Taiwan         366
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [china] Next week, 1.749 billion yuan of reverse repos will mature in the central bank’s open market.
   - [china] Central Bank: Starting from November 2, 2026, bidding for overnight reverse repurchase operations will be laun
   - [japan] Market moves ``as expected'' at Bank of Japan meeting, with limited movement even after announcement of accele
+  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [japan] Is achieving the 2% target with good price increases that was initially aimed at a dream that cannot be fulfil
+  - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
   - [japan] Why did the Bank of Japan aim for 2%? Adjust the economy and prices by moving interest rates
   - [china] Yonyou Network Technology Q3 Net Loss At 318.6 Million Yuan
   - [japan] Bank of Japan Is Likely to Roll out Two More Hikes — Market Talk
-  - [japan] Yen gains after BOJ; AI jitters dent dollar
   - [china] Jinko Solar Q3 Net Loss At 290.4 Million Yuan
   - [taiwan] Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments
   - [china] Chinese Yuan traded below 6.65
@@ -31,6 +33,7 @@ Total: 3000 manchetes
   - [korea] The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..
   - [japan] Chief Cabinet Secretary Kihara: ``Appropriately operate monetary policy to achieve the 2% price stability targ
   - [china] China Life Insurance Q3 Net Loss At 45.1 Billion Yuan
+  - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
   - [china] Trump’s days of running US-China relations on personal ties are numbered
   - [japan] BOJ's Decision to Hold Likely to Have Limited Impact on Yen — Market Talk
@@ -46,6 +49,7 @@ Total: 3000 manchetes
   - [china] BBMG Q3 Net Loss At 1.5 Billion Yuan
   - [japan] BOJ chief Ueda says 2% inflation goal not yet sustainably achieved
   - [taiwan] Taiwan Q3 preliminary GDP beats forecasts on solid AI demand
+  - [japan] USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision
   - [japan] Today's Oha Biz October 30th (Friday) What is the terminal rate (achieved interest rate)?
   - [japan] Bank of Japan Likely to Wait Before Further Tightening — Market Talk
   - [china] Qi An Xin Tech Q3 Net Loss At 757.5 Million Yuan
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] New China Life Insurance Q3 Net Loss At 511 Million Yuan
   - [taiwan] Taiwan 3Q GDP +3.21% From 2Q
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transaction with Affiliate Company
-  - [taiwan] Taiwan 3Q GDP +14.36% On Year; Market Expected +12.0%
-  - [china] Advanced Micro-Fabrication Equipment Inc China Q3 Net Profit Up 159.0% Y/Y
-  - [japan] ``Underlying price increase rate'' reached 2% target; Bank of Japan Governor Ueda says ``The outlook will rema
-  - [korea] ADX Says Units Of PLUS Korea Manufacturing Core Alliance Index ETF Will Be Listed On ADX On Nov 02
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T09:12:47+00:00",
+      "published_utc": "2026-10-30T09:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
