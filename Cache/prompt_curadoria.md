@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T09:32:46.049311+00:00
+Última coleta: 2026-10-30T09:42:44.674831+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
@@ -17,8 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen market: Small price movements Limited impact of the Bank of Japan’s monetary policy meeting
+  - [japan] BOJ declares victory in hitting price target, signals near-term hikes By Reuters
+  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [china] Anhui Jianghuai Automobile Group Q3 Net Loss At 391.8 Million Yuan
   - [taiwan] Soaring inflation erodes purchasing power, and French people tighten their pants to survive
+  - [japan] Bank of Japan ETF sale, Finance Minister Katayama ``Considering how to handle the increase'' (Reuters)
   - [china] Henan Dayou Energy Q3 Net Loss At 436.4 Million Yuan
   - [china] Shanghai Electric Power: Q3 profit nearly vanished as lower tariffs and higher fuel costs pressured results
   - [china] Next week, 1.749 billion yuan of reverse repos will mature in the central bank’s open market.
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ May Move Away From Predictable Hiking Cadence Beyond March 2027 — Market Talk
   - [china] BBMG Q3 Net Loss At 1.5 Billion Yuan
   - [japan] BOJ chief Ueda says 2% inflation goal not yet sustainably achieved
-  - [taiwan] Taiwan Q3 preliminary GDP beats forecasts on solid AI demand
-  - [japan] USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision
-  - [japan] Today's Oha Biz October 30th (Friday) What is the terminal rate (achieved interest rate)?
-  - [japan] Bank of Japan Likely to Wait Before Further Tightening — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T09:32:46+00:00",
+      "published_utc": "2026-10-30T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
