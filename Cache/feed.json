@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T10:42:43.888051+00:00",
- "collected_at_utc": "2026-10-30T10:42:43.888051+00:00",
+ "generated_at_utc": "2026-10-30T10:52:43.032436+00:00",
+ "collected_at_utc": "2026-10-30T10:52:43.032436+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 923,
-  "china": 850,
-  "taiwan": 364,
+  "japan": 922,
+  "china": 852,
+  "taiwan": 363,
   "korea": 863
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:33:45+00:00"
+   "newest": "2026-10-30T09:49:36+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T19:06:32+09:00"
+   "newest": "2026-10-30T19:47:50+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T19:38:32+09:00"
+   "newest": "2026-10-30T19:50:27+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T10:32:00+00:00"
+   "newest": "2026-10-30T10:51:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:47:57+00:00"
+   "newest": "2026-10-30T07:53:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:49:19+00:00"
+   "newest": "2026-10-30T10:50:04+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-30T09:26:07+00:00"
+   "newest": "2026-10-30T10:46:26+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-10-30T06:16:50+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:46:01+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Memory Crunch Cements CXMT as China's Chip Champion",
+   "url": "https://www.tradingview.com/news/DJN_DN20261030003991:0-memory-crunch-cements-cxmt-as-china-s-chip-champion/",
+   "published_utc": "2026-10-30T10:37:00+00:00",
+   "title_original": "Memory Crunch Cements CXMT as China's Chip Champion",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9cbd4fe8e597ab82"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -361,6 +378,23 @@
    "live_wire": false,
    "manual": false,
    "id": "310523ca4b042a61"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G17A:0-yonghui-superstores-q3-net-loss-at-82-7-million-yuan/",
+   "published_utc": "2026-10-30T10:31:46+00:00",
+   "title_original": "Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c81c89b77d631de8"
   },
   {
    "source_id": "gn_tw_cna",
@@ -816,6 +850,25 @@
    "live_wire": true,
    "manual": false,
    "id": "0003f8a1c0fc9041"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Illustration] Bank of Japan Governor says that the 2% target is “generally consistent” = key price inflation has not yet been achieved in a sustainable and stable manner (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PczFlMVk4UXB6ejBBYlkwV0wyTW52djBTMkNsREhyVkpvdERWMElfeFFKbV9lckpzbW1Jd0FPMURjLW1sbktZVHdyUnJnVllmS0lzRy1iSGVzeFM4S3J2c0RYTjA5Smd3d3J0ZGt5Vkx5TTdVY242czlkTG5Fa1E?oc=5",
+   "published_utc": "2026-10-30T09:20:07+00:00",
+   "title_original": "【図解】日銀総裁、2％目標と「おおむね整合的」＝基調物価、持続的・安定的達成まだ（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "14088373ccdf0aff"
   },
   {
    "source_id": "tradingview_live",
@@ -1357,40 +1410,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1bba6fa1fb2f3bc8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chip designer MediaTek says AI demand growth will continue 'for sure'",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E0HL:0-chip-designer-mediatek-says-ai-demand-growth-will-continue-for-sure/",
-   "published_utc": "2026-10-30T08:25:58+00:00",
-   "title_original": "Chip designer MediaTek says AI demand growth will continue 'for sure'",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "270c90810021561b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ May Move Away From Predictable Hiking Cadence Beyond March 2027 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261030002587:0-boj-may-move-away-from-predictable-hiking-cadence-beyond-march-2027-market-talk/",
-   "published_utc": "2026-10-30T08:25:00+00:00",
-   "title_original": "BOJ May Move Away From Predictable Hiking Cadence Beyond March 2027 — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5813b941c6428525"
   },
   {
    "source_id": "nikkei_asia",
@@ -2310,24 +2329,6 @@
    "id": "fe8a59badc8351e2"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Analysts consider the Bank of Japan meeting to be hawkish even if it remains unchanged; focus on announcement to reach 2% and hike in price outlook (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81Sm5QaTdfcWlPOWFFZ08wSERzVzFhNUxqdlM3Y19xT0hWaG9BM3kxR3BGLXUyUC01Rnh4U2pwSURJdDFsMmVmamNCcVltV2ppTk5sWG40WU1RSy1ScVI5SF9odWNLdnJwZ2hhYmRmRTkydW0tWm1NaW1qR1JpSDg?oc=5",
-   "published_utc": "2026-10-30T04:24:39+00:00",
-   "title_original": "日銀会合、据え置きもタカ派的とアナリストら受け止め 2％到達表明と物価見通し引き上げに注目（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5d810856dca082c"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Analysts react to BOJ decision to keep rates steady",
@@ -2455,7 +2456,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
    "region": "china",
@@ -2467,7 +2468,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4f00fb7b2bbfe979"
+   "id": "a6acbb66c5e322c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5132,24 +5133,6 @@
    "id": "30b0b131ce2f111a"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
-   "published_utc": "2026-10-29T04:07:30+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "72c3836b9f7c92c3"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com",
@@ -5643,6 +5626,24 @@
    "id": "f646667b10266f0d"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb29LRE5ydUVkMkM1Sy1VR3RuclQ2U3NBV1FwOTdmZk02LXlLSktXd3JuZExZMlNpeFQ3d1pLT2I2OFFLN2ZwbFhtUzBkUUVGN0g4QnFDTjltWmxFUFVzNUh4NHVTV2JTQUtYTWwtQU9PajJBaUs1Qmo2Um9Zemc?oc=5",
+   "published_utc": "2026-10-29T01:29:41+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26c7660a9fae0602"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
@@ -5888,7 +5889,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -5899,7 +5900,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "703eacfba1e67ab6"
+   "id": "ad537082c2c93f5e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -10246,6 +10247,23 @@
    "id": "bcc5ac9a3dc6d63e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "\"Peak-cutting and valley-filling\" precise adjustment, MLF volume reduction continuation in October",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmpDVTZmeVN6UmlheUVVbU5MWE9oaE53NmFfUjk4cDdOR1BIZ2l3U0FWV2xwN2I0ZjE0emtYRk11TjZTb1FLV2VyTi1OLW9BeDhKaTNWR2I4M0Q5YmRFOVVwbjlUamdPSzFSMjdzUk5VSkJ4enlzTkRPTmVkQlp4ZW1ZZnJkeUpNZ08zbnNRMUxPSVRuNHUzRg?oc=5",
+   "published_utc": "2026-10-27T02:35:31+00:00",
+   "title_original": "“削峰填谷”精准调节 10月MLF缩量续作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "245918283b09f1e1"
+  },
+  {
    "source_id": "kantei_jnews",
    "source_name": "Kantei 首相官邸",
    "title_en": "Prime Minister Takaichi held a summit meeting with Prime Minister Tarek Rahman of the People's Republic of Bangladesh",
@@ -11513,7 +11531,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
@@ -12415,23 +12433,6 @@
    "live_wire": false,
    "manual": false,
    "id": "16a4ac8e60c90522"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "\"Peak-cutting and valley-filling\" precise adjustment, MLF volume reduction continuation in October",
-   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORG5EdzhtYVNGQjlqWF9hT2lvRm92QkxkUXJMSVF3MlhKM0JMYmZFVkZGQW94TjlQZG00S0hyR1JQVFhpSndwSnFMbkJBcjA1c2J1M2dUWGVES3E5M0lSMmswWm9oSms3U2xhelk3UlFfeThsWURjeWg3RkhhMDl2bDRveEpZSzM5eXFLTVg5aTRsTVFISjdLY2dpS3VadlZwTkxQbkVwbVZjTlpUSC14R2kyRFphRWFBb0NfWnItLTdCYlZVT0o3ZjZZWmlLb2ZnbEpVUkwzSXdPMGp5UTNyZWRMV3lGOVRsRlFpQ2QwMjFIMEZCT2pHalNPZHlXVEY2NmFUdUNjaDl0bW1BckVKRWJsYW9PT1lLbHVsdjU4ZHdZWTc3X0hYcGVzS3RhVjdjNS1ubzU1UmZIWDhDbFFEU0NNcjY?oc=5",
-   "published_utc": "2026-10-26T07:00:00+00:00",
-   "title_original": "“削峰填谷”精准调节 10月MLF缩量续作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e1a8c55470b6e26"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -14628,9 +14629,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xT3VaUFg3ZzYxWlNDNUFyeFdDT2ZmdnpBUTAtUmtsUWhQeVZ3eHJwTTRCTWtPQzBRM3UwaE9OUnJNbGczQVRnRlBmaTBMWmxuWF9pY1RUQjhOT1RtQnVuWTBUQ0VXazZtM3lGRGRuR1FWYWZCZ25QcQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
    "published_utc": "2026-10-23T14:14:15+00:00",
    "title_original": "央行开展7000亿元1年期MLF操作",
    "region": "china",
@@ -14642,7 +14643,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6d0566560d90a238"
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
