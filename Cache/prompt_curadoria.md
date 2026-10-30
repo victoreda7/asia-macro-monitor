@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T19:12:43.871073+00:00
+Última coleta: 2026-10-30T19:25:32.664546+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
   🇨🇳 China          868
-  🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  849
+  🇹🇼 Taiwan         362
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 549580.65, Implies 88% Upside
   - [china] Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten
   - [japan] Japan's Omron eyes India as export base for blood pressure monitors
   - [japan] Bank of Japan's price increase rate reaches 2% for the first time in 14 years 1,500 food items will have price
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Chief Cabinet Secretary Kihara: “We hope for appropriate monetary policy management” Bank of Japan’s “2% price
   - [china] The "anchor change" of the central bank's policy interest rate is implemented: the 7-day reverse repo is offic
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried ou
-  - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T19:12:44+00:00",
+      "published_utc": "2026-10-30T19:25:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
