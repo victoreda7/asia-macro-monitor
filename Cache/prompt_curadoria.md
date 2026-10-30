@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T20:02:42.954343+00:00
+Última coleta: 2026-10-30T20:12:44.040557+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
-  🇨🇳 China          866
-  🇹🇼 Taiwan         362
+  🇯🇵 Japão          922
+  🇨🇳 China          865
+  🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [japan] Ruling party looks for voting schedule on consumption tax reduction bill Opposition party urges Prime Minister
+  - [japan] Bank of Japan will shift focus to fixation once prices reach 2%; focus on how to proceed with interest rate hi
   - [korea] Samsung Stocks Decline 3% With Semiconductor Profit Concentration in Focus
   - [korea] SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 549580.65, Implies 88% Upside
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] [Emin Yilmaz talks] What will happen? The future of Japanese stocks/Is it a waste to just rely on Orkan? / Cur
   - [japan] Fixed mortgage interest rates to be lowered by four major banks starting in November
   - [taiwan] Taiwan Q3 GDP growth hits 14.36%, highest in 48 years
-  - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
-  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T20:02:43+00:00",
+      "published_utc": "2026-10-30T20:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
