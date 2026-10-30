@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T03:22:44.950625+00:00",
- "collected_at_utc": "2026-10-30T03:22:44.950625+00:00",
+ "generated_at_utc": "2026-10-30T03:32:44.227315+00:00",
+ "collected_at_utc": "2026-10-30T03:32:44.227315+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 918,
-  "china": 826,
-  "taiwan": 369,
-  "korea": 887
+  "japan": 922,
+  "china": 828,
+  "taiwan": 368,
+  "korea": 882
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T00:07:35+00:00"
+   "newest": "2026-10-30T02:59:53+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T02:54:20+00:00"
+   "newest": "2026-10-30T03:24:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T02:54:20+00:00"
+   "newest": "2026-10-30T03:24:35+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T00:42:22+00:00"
+   "newest": "2026-10-30T03:13:27+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T03:06:00+00:00"
+   "newest": "2026-10-30T03:23:38+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T12:07:00+09:00"
+   "newest": "2026-10-30T12:28:36+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T12:18:39+09:00"
+   "newest": "2026-10-30T12:26:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-29T05:50:00+00:00"
+   "newest": "2026-10-30T01:48:35+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T03:21:33+00:00"
+   "newest": "2026-10-30T03:32:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T01:00:02+00:00"
+   "newest": "2026-10-30T01:10:31+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,180 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also confirmed to be deliberated",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68222",
+   "published_utc": "2026-10-30T03:28:36+00:00",
+   "title_original": "消費税減税法案 来月4日質疑 国民民主党の対案も審議入り確認",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4c12c9dc37b76e0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Japan Holds Fire While Signaling Rate Hikes Ahead",
+   "url": "https://www.tradingview.com/news/DJN_DN20261029020764:0-bank-of-japan-holds-fire-while-signaling-rate-hikes-ahead/",
+   "published_utc": "2026-10-30T03:28:00+00:00",
+   "title_original": "Bank of Japan Holds Fire While Signaling Rate Hikes Ahead",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2d28bc7c10332d1a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "BOJ KEEPS VIEW: ECONOMIC RISK GENERALLY BALANCED",
+   "url": "https://www.tradingview.com/news/dpa_afx:85e4bc98d42e2:0-boj-keeps-view-economic-risk-generally-balanced/",
+   "published_utc": "2026-10-30T03:27:53+00:00",
+   "title_original": "BOJ KEEPS VIEW: ECONOMIC RISK GENERALLY BALANCED",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "57697fd3b54f9768"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "BOJ: TAKATA PROPOSES TO LIFT RATE TO 1.5%; DEFEATED BY MAJORITY",
+   "url": "https://www.tradingview.com/news/dpa_afx:47c3f5e60c354:0-boj-takata-proposes-to-lift-rate-to-1-5-defeated-by-majority/",
+   "published_utc": "2026-10-30T03:27:07+00:00",
+   "title_original": "BOJ: TAKATA PROPOSES TO LIFT RATE TO 1.5%; DEFEATED BY MAJORITY",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d14f3b5f91e4e0cc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "BOJ: POLICY DECISION BY 8-TO-1 VOTING; TAKATA DISSENTS",
+   "url": "https://www.tradingview.com/news/dpa_afx:14b1e53ce3fe6:0-boj-policy-decision-by-8-to-1-voting-takata-dissents/",
+   "published_utc": "2026-10-30T03:26:44+00:00",
+   "title_original": "BOJ: POLICY DECISION BY 8-TO-1 VOTING; TAKATA DISSENTS",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8c89b10195e4b882"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ: PACE OF SELLING OF ITS ETF HOLDINGS TO RISE TO ABOUT Y860 BLN A YEAR FROM ABOUT Y330 BLN ON BOOK VALUE BASIS, EFFECTIVE JAN 2027",
+   "url": "https://www.tradingview.com/news/macenews:0aa3969ab094b:0-boj-pace-of-selling-of-its-etf-holdings-to-rise-to-about-y860-bln-a-year-from-about-y330-bln-on-book-value-basis-effective-jan-2027/",
+   "published_utc": "2026-10-30T03:26:00+00:00",
+   "title_original": "BOJ: PACE OF SELLING OF ITS ETF HOLDINGS TO RISE TO ABOUT Y860 BLN A YEAR FROM ABOUT Y330 BLN ON BOOK VALUE BASIS, EFFECTIVE JAN 2027",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3b0ab840c4df0f1d"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ keeps interest rates steady, signals further rate hikes",
+   "url": "https://www.investing.com/news/economy-news/boj-keeps-interest-rates-steady-signals-further-rate-hikes-4985752",
+   "published_utc": "2026-10-30T03:24:35+00:00",
+   "title_original": "BOJ keeps interest rates steady, signals further rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a941ed56b16ef68e"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Analysts react to BOJ decision to keep rates steady",
+   "url": "https://www.investing.com/news/economy-news/analysts-react-to-boj-decision-to-keep-rates-steady-4985754",
+   "published_utc": "2026-10-30T03:24:19+00:00",
+   "title_original": "Analysts react to BOJ decision to keep rates steady",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f662116b5b16f1fa"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Underlying inflation \"generally consistent\" with 2% target: BOJ",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOHpuRjc0Y2N5OTNLS0JIdjcwUHFtaUtrbXBGbGJTTkg0SlIxYUFFY0NoOU1aVDNvNXFzLUt4SnFVZzhBUk1kdk9QNjZyYU5rd29pZEc1amxrdw?oc=5",
+   "published_utc": "2026-10-30T03:23:38+00:00",
+   "title_original": "BREAKING NEWS: Underlying inflation \"generally consistent\" with 2% target: BOJ",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b543504767b82a66"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ BOARD UNANIMOUSLY DECIDES TO ACCELERATE SELLING OF BANK’S ETF HOLDINGS AT ABOUT 0.1% OF MARKET TRADING VALUE FROM 0.05%",
+   "url": "https://www.tradingview.com/news/macenews:cc403a86a094b:0-boj-board-unanimously-decides-to-accelerate-selling-of-bank-s-etf-holdings-at-about-0-1-of-market-trading-value-from-0-05/",
+   "published_utc": "2026-10-30T03:23:00+00:00",
+   "title_original": "BOJ BOARD UNANIMOUSLY DECIDES TO ACCELERATE SELLING OF BANK’S ETF HOLDINGS AT ABOUT 0.1% OF MARKET TRADING VALUE FROM 0.05%",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "76e07b43121673fc"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "MNI BOJ DECIDES TO KEEP POLICY RATE AT 1.25%",
@@ -359,6 +533,24 @@
    "live_wire": true,
    "manual": false,
    "id": "055f8b28a22337a3"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ keeps interest rates steady as expected; says CPI inflation now at target",
+   "url": "https://www.investing.com/news/economy-news/boj-keeps-interest-rates-steady-as-expected-says-cpi-inflation-now-at-target-4985753",
+   "published_utc": "2026-10-30T03:21:08+00:00",
+   "title_original": "BOJ keeps interest rates steady as expected; says CPI inflation now at target",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "edc2e907b81f4e14"
   },
   {
    "source_id": "tradingview_live",
@@ -378,23 +570,6 @@
    "live_wire": true,
    "manual": false,
    "id": "49df45bbd8db3d5b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Analysts react to BOJ decision to keep rates steady",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G069:0-analysts-react-to-boj-decision-to-keep-rates-steady/",
-   "published_utc": "2026-10-30T03:16:36+00:00",
-   "title_original": "Analysts react to BOJ decision to keep rates steady",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "03210109438ec954"
   },
   {
    "source_id": "tradingview_live",
@@ -435,23 +610,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ keeps interest rates steady, signals further rate hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TRYEQ:0-boj-keeps-interest-rates-steady-signals-further-rate-hikes/",
-   "published_utc": "2026-10-30T03:14:14+00:00",
-   "title_original": "BOJ keeps interest rates steady, signals further rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0e685d47b008a112"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "BOJ: TO CONSIDER TIMING, PACE OF POLICY RATE ADJUSTMENT BY CLOSELY WATCHING IMPACT OF MIDEAST CONFLICT, RISKS TO QUARTERLY GDP, CPI OUTLOOK",
    "url": "https://www.tradingview.com/news/macenews:1924b4a35094b:0-boj-to-consider-timing-pace-of-policy-rate-adjustment-by-closely-watching-impact-of-mideast-conflict-risks-to-quarterly-gdp-cpi-outlook/",
@@ -470,11 +628,29 @@
    "id": "ebd3c1d1ffcef3c7"
   },
   {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian currencies mixed as dollar retreats, yen steadies ahead of BOJ decision",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749",
+   "published_utc": "2026-10-30T03:13:27+00:00",
+   "title_original": "Asian currencies mixed as dollar retreats, yen steadies ahead of BOJ decision",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bdb71bea6d2ac401"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Stock price temporarily fell by 1,900 yen; AI/semiconductor-related stocks were sold off",
    "url": "https://news.web.nhk/newsweb/na/nd-20261030de68260",
-   "published_utc": "2026-10-30T03:13:55+00:00",
+   "published_utc": "2026-10-30T03:13:00+00:00",
    "title_original": "株価 一時1900円下落 AI・半導体関連が売られる",
    "region": "japan",
    "topics": [
@@ -505,6 +681,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3f4fd121500430c5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ sets ETF sale pace at 860 billion yen a year",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3SK00V:0-boj-sets-etf-sale-pace-at-860-billion-yen-a-year/",
+   "published_utc": "2026-10-30T03:12:59+00:00",
+   "title_original": "BOJ sets ETF sale pace at 860 billion yen a year",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6529f218ca293f89"
   },
   {
    "source_id": "nikkei_asia",
@@ -561,6 +755,23 @@
    "live_wire": true,
    "manual": false,
    "id": "9b13128fa29b9448"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "BoJ Holds Rates as Expected",
+   "url": "https://www.tradingview.com/news/te_news:596555:0-boj-holds-rates-as-expected/",
+   "published_utc": "2026-10-30T03:09:39+00:00",
+   "title_original": "BoJ Holds Rates as Expected",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "25fa6855549de156"
   },
   {
    "source_id": "tradingview_live",
@@ -756,24 +967,6 @@
    "live_wire": false,
    "manual": false,
    "id": "af462cf2146976fa"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also confirmed to be deliberated",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68222",
-   "published_utc": "2026-10-30T03:01:11+00:00",
-   "title_original": "消費税減税法案 来月4日質疑 国民民主党の対案も審議入り確認",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4c12c9dc37b76e0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -985,6 +1178,24 @@
    "id": "c893ab4d72acf4d1"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On October 30, the central bank launched a 15 billion yuan 7-day reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oMGJzVTNUZDA4RlJiRnVCYUFpOW5hZnVrZWhEUVNmRWE2TTlFZjg0RllwVnJiOTBvWmd3aXUzLXZMbEg1V2xUVWpGcHBNMFlyLVkyY1VUaWE4c3RoVVFNRDJlVHhhZDNB?oc=5",
+   "published_utc": "2026-10-30T01:48:35+00:00",
+   "title_original": "10月30日央行开展150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "977671d185b74589"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA PBOC CONDUCTS CNY150 BLN VIA 7-DAY REVERSE REPO FRI",
@@ -1121,92 +1332,6 @@
    "id": "c52fccc9d04bdbf8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y3.1T Of TD-Bills Nov 6",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029020546:0-japan-mof-to-auction-y3-1t-of-td-bills-nov-6/",
-   "published_utc": "2026-10-30T01:20:00+00:00",
-   "title_original": "Japan MOF To Auction Y3.1T Of TD-Bills Nov 6",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b121de106be9cf10"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "JGB Yields Fall Ahead of BOJ Rate Decision — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029020538:0-jgb-yields-fall-ahead-of-boj-rate-decision-market-talk/",
-   "published_utc": "2026-10-30T01:14:00+00:00",
-   "title_original": "JGB Yields Fall Ahead of BOJ Rate Decision — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "13fe4aceb77c9c71"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hanmi Semiconductor Q3 Operating Profit 90.8 Billion Won, Up 34% From Year Earlier",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46F3PV:0-hanmi-semiconductor-q3-operating-profit-90-8-billion-won-up-34-from-year-earlier/",
-   "published_utc": "2026-10-30T01:13:33+00:00",
-   "title_original": "Hanmi Semiconductor Q3 Operating Profit 90.8 Billion Won, Up 34% From Year Earlier",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a642154f79f5a048"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Export Growth Likely Accelerated in October, Poll Shows — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029020500:0-south-korea-s-export-growth-likely-accelerated-in-october-poll-shows-market-talk/",
-   "published_utc": "2026-10-30T00:59:00+00:00",
-   "title_original": "South Korea's Export Growth Likely Accelerated in October, Poll Shows — Market Talk",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7bd5f45469efc620"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan bond yields on track for weekly rise as BOJ decision looms",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46G016:0-japan-bond-yields-on-track-for-weekly-rise-as-boj-decision-looms/",
-   "published_utc": "2026-10-30T00:53:47+00:00",
-   "title_original": "Japan bond yields on track for weekly rise as BOJ decision looms",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b160d08a98ae5e82"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Tokyo's 23 Wards Consumer Price Index rises by 2.6%, exceeding 2% for 2 consecutive months October Announcement by the Ministry of Internal Affairs and Communications (TV Asahi Network (ANN))",
@@ -1222,23 +1347,6 @@
    "live_wire": false,
    "manual": false,
    "id": "64c2fe38cada9376"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "APR: Record 3Q revenue growth led by cosmetics, partly offset by KRW strength",
-   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4282387:0-apr-record-3q-revenue-growth-led-by-cosmetics-partly-offset-by-krw-strength/",
-   "published_utc": "2026-10-30T00:41:53+00:00",
-   "title_original": "APR: Record 3Q revenue growth led by cosmetics, partly offset by KRW strength",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aad5d0a2fb41aff5"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2933,8 +3041,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더팩트",
    "title_en": "The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy Committee meets eight times a year",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRDN1MFY4U1NQQko4MlR0TXJOU3lDTVJ3SjA4RjUzaTNWczZjeDVlc3E5V1RHVkdFT08xMnRIczhtMzdqU1NEMmRqN3JCbEV4eGduLTY2dFExQdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
-   "published_utc": "2026-10-29T06:51:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
+   "published_utc": "2026-10-29T06:51:00+00:00",
    "title_original": "한은, 내년 첫 기준금리 결정 1월 14일…금통위 연 8차례 개최",
    "region": "korea",
    "topics": [
@@ -2945,7 +3053,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fffe022a4ea0fd55"
+   "id": "27be5918f1a65a63"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3195,24 +3303,6 @@
    "id": "30b0b131ce2f111a"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
-   "published_utc": "2026-10-29T04:07:30+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "72c3836b9f7c92c3"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com",
@@ -3321,9 +3411,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWdiMGpneE5zbGpZZVRfWENfVEVKZHZJTFI3aFhnS0QzSkhBZzFlWWlwTVB2VGJpTFRtcHp0c3laVUp4b0VleHdOSEF2QlNObFpuMUtJNkpZeE1uTXo0b1lDSHZwWjBHY2FqT3R3WjVqc3ZCMHB1R2k4NDZvdklLQVNOQ2M2NXdybm1R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -3335,7 +3425,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a31086249153c216"
+   "id": "b921c83c0da75290"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3669,6 +3759,24 @@
    "live_wire": false,
    "manual": false,
    "id": "bc19cfd413de5a65"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb29LRE5ydUVkMkM1Sy1VR3RuclQ2U3NBV1FwOTdmZk02LXlLSktXd3JuZExZMlNpeFQ3d1pLT2I2OFFLN2ZwbFhtUzBkUUVGN0g4QnFDTjltWmxFUFVzNUh4NHVTV2JTQUtYTWwtQU9PajJBaUs1Qmo2Um9Zemc?oc=5",
+   "published_utc": "2026-10-29T01:29:41+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26c7660a9fae0602"
   },
   {
    "source_id": "korea_herald_biz",
@@ -9541,9 +9649,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "新浪网",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -9555,7 +9663,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0facd9f9793a1c33"
+   "id": "8166e1f4e20d2cef"
   },
   {
    "source_id": "tradingview_live",
@@ -10858,24 +10966,6 @@
    "id": "8ad0e6381b5427fd"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBob3haUVpMWHhBcXZNUUdLa0sxV1ptN0dNMFVEZkk0RENUYkJWemw3eE9GNVhRdzNVSHpYam1Pb2VBZFBMdHo2NV9wR1NQYzBlVnNzTGc3cVRramNzbVA4ZlVR?oc=5",
-   "published_utc": "2026-10-26T02:56:03+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7d1cb03ad8a1b50"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to announce steps to boost shareholder returns on Wednesday",
@@ -10978,24 +11068,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3a3f57c11641a184"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
-   "published_utc": "2026-10-26T02:13:49+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1033a50b0d22ef1a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -11224,6 +11296,24 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -12638,6 +12728,24 @@
    "id": "9f5caab2bcd6c61a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "published_utc": "2026-10-23T14:14:15+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d30db5f10da9efb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
    "title_en": "Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026",
@@ -13190,6 +13298,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2a922b0ae1a17cb8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank takes action! 700 billion MLF operation is coming",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4el9jbDdSektnb1lHMU5idHpPZDV1Z28taWp6VkVwQ0ZiVEFycGo1NFhoS3llV3FLUHhZeGhBM2hCMHpBbExZdjVqcWZQZWlVSEhaSU85c0UtQ2otX3N2c0J2SkpRSjlUTWZHU3VldHlUMUlUNWc?oc=5",
+   "published_utc": "2026-10-23T10:06:03+00:00",
+   "title_original": "央行出手！7000亿MLF操作来了",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9bf28169c068684"
   },
   {
    "source_id": "tradingview_live",
@@ -51784,127 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cbd20645eb7fec19"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ may signal underlying inflation has hit 2% goal, sources say",
-   "url": "https://www.investing.com/news/economy-news/boj-may-signal-underlying-inflation-has-hit-2-goal-sources-say-4933347",
-   "published_utc": "2026-10-06T04:30:28+00:00",
-   "title_original": "BOJ may signal underlying inflation has hit 2% goal, sources say",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9a532e8b452e4263"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Samsung steps up HBM cooling as TSMC expands CoWoS",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY09abGxiTXlNZm5oaWJnYjcwZnZSSkNCSW12WTctbE4zLWVvV0E3amlPMEtwbVZMQVAzZ1dKZlZHZk1Sb3I1cmxOMTVaSFVTdGp5VFdYWGZxM014SW90bUU0WDZwc01YNncwNHZPdzBTbTVkUjk2Nlpuc0xuemNwX3dlVWdob3o3SHc?oc=5",
-   "published_utc": "2026-10-06T04:15:08+00:00",
-   "title_original": "Samsung steps up HBM cooling as TSMC expands CoWoS",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0afad4987e51c57a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan bonds pare losses after strong auction, but fiscal worries weigh",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45S03F:0-japan-bonds-pare-losses-after-strong-auction-but-fiscal-worries-weigh/",
-   "published_utc": "2026-10-06T04:09:13+00:00",
-   "title_original": "Japan bonds pare losses after strong auction, but fiscal worries weigh",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "59322570a1869cb5"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian currencies mixed as dollar climbs, euro nears 17-month low",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTAzUGRWbWdpNm1DMU0wcEpiS09kTWRocDRQci00ZzQ3TEtweTNhdlM0QXBDVWZzSUhFNWdQbHlHSTI3YldzQlJESDlKbXpaazU5NlF3dWVySnIwN0x2OXVES3ItSnhZZGk3NTVDeGw5SFhnZU9UeDdsR1NqTjBCdVdXTHBkNDVZMGtBblhwcUdNRVNjLTRXOUt3OFFwOEo4VnFxdUFNUzk1QkE2U2c3a1Rn?oc=5",
-   "published_utc": "2026-10-06T03:59:21+00:00",
-   "title_original": "Asian currencies mixed as dollar climbs, euro nears 17-month low",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "316af893b5bc315c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Solidigm expands Taiwan SSD production base to tap AI server supply chain",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU1GclpybjQ4RjV3S1JPTnFTRlJlbm5lWXp2RDhJQ1V3Y3RQVTRDc2dSZTMwOERDSWxVdnlnTVlYV1lxbmluYnMxRC1tenNSU25qeTFFNXZrbnhJenUxRFBtU0lQTHlhRGc4akY0NHZHU2JLdV9RWGduZ2k4ZU40aS1SY1RHd2J4dDZKamRBTUxjem1Tdk1N?oc=5",
-   "published_utc": "2026-10-06T03:57:53+00:00",
-   "title_original": "Solidigm expands Taiwan SSD production base to tap AI server supply chain",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "85a17ca7fcc6b4d7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "투데이타임즈",
-   "title_en": "Bank of Korea ahead of the Monetary Policy Committee in October… The variables that determine the base interest rate are",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hSlJTZTF6MEwzTXFQNm9ZR2g5ZjcxOGxNVW9WamtLZmRGQnJGZkZEZURmRHFuT1RVSTVtdlR1cHU4ZWlhMmVfUHQ3Z0hUamU1eEE?oc=5",
-   "published_utc": "2026-10-06T03:00:59+00:00",
-   "title_original": "10월 금통위 앞둔 한국은행…기준금리 결정 가를 변수는",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1f39ad56e97730f1"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festival main venue (TV Kanazawa)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZjlOYkhSNllEb18xWEo4QVJFMUJQdk44TU1Gc0RrNU1YVE41NnZlZTZ6dDN1dWFFcF9SQzM4YmU3dTRuX2dMcl9hdTBobDBMd2NwVHVnTWJrQVV2bVE2azVRNV9kSjF1ZE9sTFIxbmVUMU1MNlNWbEg4Y0pnTjA?oc=5",
-   "published_utc": "2026-10-06T02:47:00+00:00",
-   "title_original": "日銀地下金庫にガラス玉の世界地図 金沢まちなか芸術祭メイン会場でお披露目（テレビ金沢）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d3f111702e6fec1"
   },
   {
    "source_id": "manual_ia",
