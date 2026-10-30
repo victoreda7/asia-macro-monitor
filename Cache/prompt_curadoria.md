@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T06:22:41.589142+00:00
+Última coleta: 2026-10-30T06:32:44.820801+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          938
@@ -17,7 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Watch BOJ Governor Ueda's press conference (Japanese only)
   - [korea] Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix
+  - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
   - [japan] Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q
   - [china] China's green energy exports hit record high, one year's carbon reduction can equal Brazil's entire year's car
   - [japan] BOJ keeps policy rate unchanged at 1.25%, raises annual ETF sales pace to 860 billion yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters
   - [japan] BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation
   - [japan] BOJ keeps interest rates steady, signals further rate hikes
-  - [japan] Bank of Japan ETF sales pace doubles, completion time shortened from 112 years to 43 years (Mainichi Shimbun)
-  - [china] China Elevates Key Figure in Purges With Rare Politburo Pick
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T06:22:41+00:00",
+      "published_utc": "2026-10-30T06:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
