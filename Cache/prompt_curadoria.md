@@ -7,16 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T03:32:44.227315+00:00
+Última coleta: 2026-10-30T03:42:45.663264+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          828
-  🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  882
+  🇯🇵 Japão          927
+  🇨🇳 China          825
+  🇹🇼 Taiwan         369
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ TO ADJUST POLICY TO ANCHOR UNDERLYING INFLATION
+  - [japan] BOJ KEEPS VIEW: UPSIDE RISK TO PRICES
+  - [japan] BOJ: AIMS TO STABILIZE UNDERLYING INFLATION AROUND 2%
+  - [china] China's yuan hits over 4-year high, set for fourth monthly gain
+  - [japan] Bank of Japan leaves policy rate unchanged at 1.25%
+  - [japan] Bank of Japan decides to keep policy rate unchanged at 1.25% Monetary Policy Meeting
+  - [japan] Bank of Japan Likely Declaring Win in Deflation Battle — Market Talk
+  - [japan] BOJ: UNDERLYING INFLATION CONSISTENT WITH 2% TARGET
+  - [japan] BREAKING NEWS: BOJ flags Middle East, AI demand, forex as risks to economy, prices
+  - [japan] Sparx Group Co., Ltd. - To Buy Back Up To 0.45% Of Shares Worth 500 Million Yen
   - [japan] Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also 
   - [japan] Bank of Japan Holds Fire While Signaling Rate Hikes Ahead
   - [japan] BOJ KEEPS VIEW: ECONOMIC RISK GENERALLY BALANCED
@@ -27,8 +37,10 @@ Total: 3000 manchetes
   - [japan] Analysts react to BOJ decision to keep rates steady
   - [japan] BREAKING NEWS: Underlying inflation "generally consistent" with 2% target: BOJ
   - [japan] BOJ BOARD UNANIMOUSLY DECIDES TO ACCELERATE SELLING OF BANK’S ETF HOLDINGS AT ABOUT 0.1% OF MARKET TRADING VAL
+  - [japan] Japan 10Y Yield Falls as BOJ Holds Rates
   - [japan] MNI BOJ DECIDES TO KEEP POLICY RATE AT 1.25%
   - [japan] BOJ keeps interest rates steady as expected; says CPI inflation now at target
+  - [japan] Yen Strengthens as BOJ Keeps Rates Unchanged
   - [japan] BOJ BOARD FY26 MEDIAN GDP FORECAST +0.7% VS. +0.6% IN JULY; FY27 FORECAST +0.7% VS. +0.8% IN JULY; FY28 FORECA
   - [japan] BOJ BOARD FY27 MEDIAN CORE CPI FORECAST +2.6% VS. +2.4% IN JULY; FY28 FORECAST +2.0% VS. +2.0% IN JULY
   - [japan] BOJ QUARTERLY OUTLOOK REPORT: BOARD FY26 MEDIAN CORE CPI (EX-FRESH FOOD) FORECAST +2.5% VS. +2.5% IN JULY
@@ -45,18 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ BOARD MEMBER TAKATA CALLS FOR RATE HIKE TO 1.50% NOW, ARGUING THAT MONETARY POLICY IS IN NEW PHASE AS UNDE
   - [japan] Nikkei Futures Extend Losses After BOJ Outcome, Now Down 2.8% at 62910 Vs Down 2.5% Prior
   - [japan] BOJ says Japan has generally achieved 2% inflation target
-  - [japan] Policy rate unchanged at 1.25% Bank of Japan Monetary Policy Meeting (TV Asahi (ANN))
-  - [japan] BOJ BOARD VOTE ON SHORT-TERM RATE TARGET IS 8 TO 1
-  - [japan] BANK OF JAPAN BOARD LEAVES OVERNIGHT INTEREST RATE TARGET AT 1.25% AFTER RAISING IT FROM 1% IN SEPT
-  - [japan] BREAKING NEWS: BOJ leaves benchmark interest rate unchanged at 1.25%
-  - [japan] (Reference) Outlook Report and Indicators Related to Underlying Inflation
-  - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
-  - [japan] Statement on Monetary Policy
-  - [taiwan] Amazon 3Q26 earnings call: TSMC capacity behind AWS's choice to start selling its own AI chips
-  - [japan] Bank of Japan Monetary Policy Meeting Direction of maintaining policy interest rate Focus on price decisions
-  - [japan] Consumer price index in Tokyo's 23 wards rises by 2.6% Prices will increase for 1,477 food items in November K
-  - [japan] Bank of Japan Governor Ueda on the verge of a monetary policy meeting (Jiji Shin)
-  - [japan] Sanwa Holdings Corporation - To Buy Back Up To 1.8% Of Shares Worth 10 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T03:32:44+00:00",
+      "published_utc": "2026-10-30T03:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
