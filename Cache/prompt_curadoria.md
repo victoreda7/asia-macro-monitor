@@ -7,28 +7,42 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T00:12:43.449542+00:00
+Última coleta: 2026-10-30T00:22:44.488663+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
-  🇨🇳 China          830
-  🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  890
+  🇯🇵 Japão          909
+  🇨🇳 China          829
+  🇹🇼 Taiwan         374
+  🇰🇷 Coreia do Sul  888
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +3.9% M/M (ADJUSTED FOR UPWARD BIAS), OCT +0.8%
+  - [japan] JAPAN SEPT RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES, CLOTHING
+  - [japan] JAPAN SEPT RETAIL SALES -0.7% M/M; AUG -0.9%
+  - [japan] MNI JAPAN SEPT RETAIL SALES +2.3% Y/Y; AUG +2.9%
+  - [japan] JAPAN SEPT FACTORY OUTPUT POSTS 1ST M/M RISE IN 3 MONTHS
+  - [japan] JAPAN METI KEEPS ITS VIEW AFTER DOWNGRADING IT IN AUG REPORT: RETAIL SALES TAKING ONE STEP FORWARD AND ONE STE
+  - [japan] JAPAN Q3 GDP CAPEX FORECAST BY ECONOMISTS IN SEPT 30-OCT 7 ESP SURVEY TO SHOW +0.95% Q/Q VS. -0.9% IN Q2, -1.0
   - [japan] MNI JAPAN SEPT FACTORY OUTPUT +2.2% M/M; AUG -2.4%
+  - [japan] JAPAN Q3 CAPITAL GOODS SHIPMENTS (EX-TRANSPORT EQUIPMENT) +8.8% Q/Q VS. -0.4% IN Q2, INDICATING CAPEX IN Q3 GD
+  - [japan] JAPAN Q3 GDP SEEN SLOWING TO NEARLY FLAT (+0.08%) ANNUALIZED FROM +1.4% IN Q2, WHICH WAS LED BY NET EXPORT, PR
+  - [taiwan] Taiwan semiconductor output to hit NT$9.1 trillion as TSIA urges stable power
   - [japan] JAPAN JULY-SEPT INDUSTRIAL OUTPUT +0.3% Q/Q VS. +0.2% IN APR-JUNE, +2.5% Q/Q IN JAN-MAR, +0.3% Q/Q IN OCT-DEC 
   - [japan] JAPAN SEPT INDUSTRIAL OUTPUT: 8 OUT OF 15 INDUSTRIES POST RISE, 7 ARE DOWN
   - [japan] Japan Industrial Output Rebounds, Pointing to Economic Resilience
   - [japan] JAPAN METI: SEPT INDUSTRIAL OUTPUT M/M RISE LED BY PASSENGER CARS, CHIP MAKING EQUIPMENT, CONVEYORS/CRANES
   - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
+  - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com
   - [korea] Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up
+  - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms
   - [japan] JAPAN OCT TOKYO CORE-CORE CPI +2.6% Y/Y; SEPT +2.9%
   - [japan] JAPAN SEPT RETAIL SALES +2.3% Y/Y (AUG REVISED TO +2.7% FROM +3.4%); 7TH STRAIGHT RISE; MEDIAN FORECAST +3.2% 
   - [japan] JAPAN SEPT RETAIL SALES -0.7% M/M (AUG REVISED TO -0.9% FROM -1.2%); MEDIAN FORECAST +1.0%(RANGE: +0.1% TO +2.
+  - [japan] Japan Industrial Output Rebounds More than Expected
   - [japan] MNI JAPAN OCT TOKYO CORE CPI +2.6% Y/Y; SEPT +2.7%
   - [japan] Consumer prices in Tokyo's wards increased by 2.6% to 103.3 in October...2% level for 2 consecutive months (Yo
+  - [japan] Japan Retail Sales Growth Eases to 3-Month Low
   - [japan] Tokyo prices rise 2.6% in October; growth and contraction continue at 2% level (Kyodo News)
   - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +1.9% Y/Y (AUG REVISED TO +2.7% FROM +3.4%), 4TH STRAIGHT RISE; MEDIAN FORECAST +
   - [japan] Japan Jul-Sep Industrial Output +0.3% on Quarter
@@ -43,20 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo core inflation exceeds BOJ target in October
   - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
   - [japan] JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT REVISED +2.9%, AUG +2.0%); MEDIAN FORECA
-  - [japan] Tokyo Inflation Remains Above 2%, Fueling Rate-Hike Bets
-  - [japan] JAPAN SEPT EMPLOYMENT UP 330,000 Y/Y AT 68.96 MILLION FOR 2ND STRAIGHT RISE, AFTER RISING 140,000 IN AUG
-  - [japan] Japan Tokyo Core Inflation Eases for 1st Time in 5 Months
-  - [japan] JAPAN OCT TOKYO CPI: PROCESSED FOOD +3.0% (+0.71 POINT) VS. +3.6% (+0.83 POINT) IN SEPT
-  - [japan] JAPAN OCT TOKYO CPI: ENERGY +2.2% Y/Y (+0.09 POINT CONTRIBUTION), VS. -1.9% (-0.08 POINT) IN SEPT
-  - [japan] JAPAN OCT TOKYO INFLATION RATE STAYS HIGH AFTER SURGING IN SEPT WHEN PRICE-CUTTING EFFECTS OF FREE BASE WATER 
-  - [japan] JAPAN SEPT S/A UNEMPLOYMENT RATE 2.4% (AUG 2.5%); MEDIAN FORECAST 2.5% (RANGE: 2.4% TO 2.5%)
-  - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
-  - [japan] JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT +3.0%); MEDIAN FORECAST +2.8% (RANGE: +2
-  - [japan] Tokyo Oct core CPI rises 2.6% yr/yr
-  - [japan] JAPAN OCT TOKYO CORE CPI (EX-FRESH FOOD) +2.6% Y/Y (SEPT +2.7 %), MEDIAN FORECAST +2.7% (RANGE: +2.4% TO +2.8%
-  - [japan] JAPAN OCT TOKYO TOTAL CPI +2.8% Y/Y (SEPT +2.7%); MEDIAN FORECAST +2.7% (RANGE: +2.4% to +2.9%)
-  - [korea] South Korea Retail Sales Rebound in September
-  - [korea] South Korea Industrial Output Growth Strongest on Record
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T00:12:43+00:00",
+      "published_utc": "2026-10-30T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
