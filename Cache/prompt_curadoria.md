@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T07:52:45.830594+00:00
+Última coleta: 2026-10-30T08:02:44.923040+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          940
-  🇨🇳 China          829
+  🇯🇵 Japão          938
+  🇨🇳 China          831
   🇹🇼 Taiwan         362
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
-  - [japan] Yen has brief gain after BOJ, while AI jitters weigh on dollar
+  - [taiwan] Taiwan's Inflation Likely to Remain Elevated — Market Talk
+  - [china] Audi cuts 2026 outlook on China weakness, price pressure
+  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] Bank of Japan Governor says that the 2% target is "generally consistent" with the underlying price index still
   - [korea] Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display
   - [japan] Bank of Japan Governor Ueda says, ``It is important to achieve a sustained and stable inflation rate of 2%, an
@@ -34,7 +36,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: All BOJ board members agree inflation consistent with 2% goal: Ueda
   - [japan] BREAKING NEWS: BOJ chief declines to comment on reviewing accord with gov't on deflation
   - [japan] Bank of Japan Governor reviews joint statement and makes no comment (Kyodo News)
-  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] BREAKING NEWS: BOJ monetary policy focus more on anchoring inflation to target: Ueda
   - [japan] BOJ Governor Ueda’s comments at news conference
   - [japan] BREAKING NEWS: BOJ to continue raising rates looking at inflation, other factors: Ueda
@@ -47,6 +48,7 @@ Total: 3000 manchetes
   - [japan] Tokyo Electron Ltd - To Buy Back Up To 1.1% Own Shares Worth 150 Billion Yen
   - [japan] Macroscope: Bank of Japan's policy focus is on fixing the price target, indicating the need for timely interes
   - [japan] Autobacs Seven Co Ltd - To Buy Back Up To 2.55% Own Shares Worth 3.6 Billion Yen
+  - [china] Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027
   - [japan] TDK: AI-related demand and yen weakness drove higher results; FY27 outlook rose, dividend forecast fell
   - [japan] East Japan Railway Company: H1 growth and revised FY2027 targets accompany a newly integrated real estate busi
   - [japan] [Tokyo Foreign Exchange] Dollar, high 157 yen = scuffles waiting for the Bank of Japan governor's conference (
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] The dollar was flat at 157 yen at 3 p.m., with the Bank of Japan's decision showing little surprise and likely
   - [korea] Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix
   - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
-  - [japan] Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q
-  - [china] China's green energy exports hit record high, one year's carbon reduction can equal Brazil's entire year's car
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T07:52:46+00:00",
+      "published_utc": "2026-10-30T08:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

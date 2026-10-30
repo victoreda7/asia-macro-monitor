@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-30T07:52:45.830594+00:00",
- "collected_at_utc": "2026-10-30T07:52:45.830594+00:00",
+ "generated_at_utc": "2026-10-30T08:02:44.923040+00:00",
+ "collected_at_utc": "2026-10-30T08:02:44.923040+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 940,
-  "china": 829,
+  "japan": 938,
+  "china": 831,
   "taiwan": 362,
   "korea": 869
  },
- "elapsed_s": 31.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 49,
+   "count": 51,
    "error": "",
-   "newest": "2026-10-30T14:00:00+09:00"
+   "newest": "2026-10-30T17:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T05:01:26+00:00"
+   "newest": "2026-10-30T05:00:13+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T07:24:20+00:00"
+   "newest": "2026-10-30T07:53:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T07:12:55+00:00"
+   "newest": "2026-10-30T07:43:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T07:45:54+00:00"
+   "newest": "2026-10-30T07:16:52+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T16:51:12+09:00"
+   "newest": "2026-10-30T16:58:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T07:52:00+00:00"
+   "newest": "2026-10-30T08:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:16:50+00:00"
+   "newest": "2026-10-29T21:59:44+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,21 +345,54 @@
  "items": [
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yen has brief gain after BOJ, while AI jitters weigh on dollar",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46G06H:0-yen-has-brief-gain-after-boj-while-ai-jitters-weigh-on-dollar/",
-   "published_utc": "2026-10-30T07:39:06+00:00",
-   "title_original": "Yen has brief gain after BOJ, while AI jitters weigh on dollar",
-   "region": "japan",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan's Inflation Likely to Remain Elevated — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261030002437:0-taiwan-s-inflation-likely-to-remain-elevated-market-talk/",
+   "published_utc": "2026-10-30T08:01:00+00:00",
+   "title_original": "Taiwan's Inflation Likely to Remain Elevated — Market Talk",
+   "region": "taiwan",
    "topics": [
-    "monetary",
-    "fx"
+    "inflation"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "f8f27344e1378a0f"
+   "id": "70a03c69c16c5e3b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Audi cuts 2026 outlook on China weakness, price pressure",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N45F03F:0-audi-cuts-2026-outlook-on-china-weakness-price-pressure/",
+   "published_utc": "2026-10-30T08:00:00+00:00",
+   "title_original": "Audi cuts 2026 outlook on China weakness, price pressure",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8960f83a05665bf9"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
+   "url": "https://www.investing.com/news/economy-news/bank-of-japan-to-hold-rates-signal-further-hikes-4985276",
+   "published_utc": "2026-10-30T07:43:19+00:00",
+   "title_original": "BOJ declares victory in hitting price target, signals near-term hikes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "744af785cec60aba"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -648,23 +681,6 @@
    "id": "c8c0f00cf0a1cca8"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
-   "url": "https://www.investing.com/news/economy-news/bank-of-japan-to-hold-rates-signal-further-hikes-4985276",
-   "published_utc": "2026-10-30T07:00:44+00:00",
-   "title_original": "BOJ declares victory in hitting price target, signals near-term hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "744af785cec60aba"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ monetary policy focus more on anchoring inflation to target: Ueda",
@@ -876,6 +892,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c23845602b420119"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtHNmtTTlFhejZ5b0h1V3JYNG52aGxkMDVxZVluMkduXzNfb1NzQXhXLXV6NmRDNXZfNFdUV2daay1oYlZid2pCSXJCZ0RXcFNrSllKYjRJWTFPUTJpWWRoZUFia3FxTWp6cU0wbGFpd3V4RkNKekgwYS13Y3hNTmZCalA5QnY0M2xxNXJBU09QcVVwQ25pMXhjZm5QY05IZXhRdzlDZGpHM1BPNXBJazZiWQ?oc=5",
+   "published_utc": "2026-10-30T06:33:00+00:00",
+   "title_original": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e05dc74f659ae68f"
   },
   {
    "source_id": "tradingview_live",
@@ -1776,24 +1809,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c05d5b1f75fbbaba"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "Bank of Japan holds rates, says inflation trend hits target for first time",
-   "url": "https://www.tradingview.com/news/cnbctv:4e6e6fe41094b:0/",
-   "published_utc": "2026-10-30T03:41:53+00:00",
-   "title_original": "Bank of Japan holds rates, says inflation trend hits target for first time",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "07f522ee6dce542b"
   },
   {
    "source_id": "yahoo_business",
@@ -4514,6 +4529,24 @@
    "id": "30b0b131ce2f111a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
+   "published_utc": "2026-10-29T04:07:30+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c3836b9f7c92c3"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com",
@@ -4987,24 +5020,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bc19cfd413de5a65"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb29LRE5ydUVkMkM1Sy1VR3RuclQ2U3NBV1FwOTdmZk02LXlLSktXd3JuZExZMlNpeFQ3d1pLT2I2OFFLN2ZwbFhtUzBkUUVGN0g4QnFDTjltWmxFUFVzNUh4NHVTV2JTQUtYTWwtQU9PajJBaUs1Qmo2Um9Zemc?oc=5",
-   "published_utc": "2026-10-29T01:29:41+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26c7660a9fae0602"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10877,7 +10892,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪网",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
@@ -11590,6 +11605,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0da31c0c99aa5cbf"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "“We must implement preemptive monetary policy beyond data”... ‘Monetary policy expert’ Park Jong-woo retires as Deputy Governor of the Bank of Korea",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yS3pvWXZLQXEyRjBVbENxb2FqSVlIS0hZSnN0Q3lnc3VzWUxIc3Q4WWlFX19URWVrT0JvN1RvRGsxa3JyeGpzdjZ6Yzl0Q05qMy1WY1IzTTNhZw?oc=5",
+   "published_utc": "2026-10-26T08:31:35+00:00",
+   "title_original": "\"데이터 넘어 선제적 통화정책 펼쳐야\"…'통화정책통' 박종우 한은 부총재보 퇴임",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d86a5666e298eec8"
   },
   {
    "source_id": "gn_kr_mk",
@@ -13957,9 +13990,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪网",
    "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xT3VaUFg3ZzYxWlNDNUFyeFdDT2ZmdnpBUTAtUmtsUWhQeVZ3eHJwTTRCTWtPQzBRM3UwaE9OUnJNbGczQVRnRlBmaTBMWmxuWF9pY1RUQjhOT1RtQnVuWTBUQ0VXazZtM3lGRGRuR1FWYWZCZ25QcQ?oc=5",
    "published_utc": "2026-10-23T14:14:15+00:00",
    "title_original": "央行开展7000亿元1年期MLF操作",
    "region": "china",
@@ -13971,7 +14004,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7d30db5f10da9efb"
+   "id": "6d0566560d90a238"
   },
   {
    "source_id": "tradingview_live",
@@ -15484,23 +15517,6 @@
    "id": "264fd1160bcdef67"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHB5MEE0cmR1Y205c1BfamIzclJFY05ia3F1NmVsaUZCV01uY3lyQzRyay1wNjd6eGdwMldHdERWcmRNQ3dab2dvRHhEem9YWDlCNVRxUThjME9iOENjdEREam5uRlZFUzVMTHlXMTZQWnZrYU9Qa3hUUWtrc0prcVpvNXlLSlB4NjdpWlAycUtKMDV4endEWk5idTI4UVVtMWJZSDZjWjdVU2x3UUoycHpfRS0zVnJoZmEtbw?oc=5",
-   "published_utc": "2026-10-23T04:17:36+00:00",
-   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "240723b44d97f05a"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | Sankei",
@@ -16003,6 +16019,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bbd445f1ef7415ef"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFozZC1HRk1kZnZZcWRka1M0U1RYbTdfRzZUVklsal9QcDZrZW4zTFlJZHlZT3hyWXRxaHdSTno0em9KNmhyU1l3eFk1anpuNDdhTEwzb0ExeHBQbnNxOFowU3pKTXZTRno0TGNibDhUcE5GWW9BdHZ3N053SExoQVdFR29kMzMydTdCbDdVMmM1MDBCc3pfX0lKUEhQT28xdlNsV3hoRWV1di1uZkdNVnBHby10OTZpLXJuYg?oc=5",
+   "published_utc": "2026-10-23T00:52:00+00:00",
+   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c86a3e798d4a45f5"
   },
   {
    "source_id": "investing_live",
@@ -51903,40 +51936,6 @@
    "live_wire": false,
    "manual": false,
    "id": "98ea0be84a3be706"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal",
-   "url": "https://www.tradingview.com/news/gurufocus:e7d84ef27094b:0-tsmc-stocks-drop-as-musk-confirms-terafab-talks-without-a-deal/",
-   "published_utc": "2026-10-06T18:11:16+00:00",
-   "title_original": "TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b611b75b66e08775"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXotNFg0SW5LTUZxQ09TWjlDNGdtWnNvckU2dW4tZ0xKakxEYXBZb0ltblA3MHZzMXlSanh4TThxSktldmpTQ0Z2UmZUQWE3d0Q3YjRJMGhkVGJnbllyWXZUbzRXWmIyNjkydVVCTFJaMEZKOTh3bFVGZE9zQm9feU80LV9BYlpfaUxBZl80bU9tTnNudGRkRERHY2pLLXhPMVA5bGJsRl9uWG1sQzl4aVNfbGtBVHlyYXFkN1VaR1hMMl9XNXFN?oc=5",
-   "published_utc": "2026-10-06T16:22:45+00:00",
-   "title_original": "South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f36f996c50656a2f"
   },
   {
    "source_id": "manual_ia",
