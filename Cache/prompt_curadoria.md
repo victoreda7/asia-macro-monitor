@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T00:32:44.902487+00:00
+Última coleta: 2026-10-30T00:42:44.461027+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          910
-  🇨🇳 China          828
+  🇯🇵 Japão          908
+  🇨🇳 China          829
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  889
+  🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [korea] APR: Record 3Q revenue growth led by cosmetics, partly offset by KRW strength
+  - [korea] SK Hynix's Free Operating Cash Flow Likely to Grow Further in 4Q — Market Talk
+  - [taiwan] Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten thei
   - [japan] Industrial production index for September was 2.2% higher than the previous month
   - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +3.9% M/M (ADJUSTED FOR UPWARD BIAS), OCT +0.8%
   - [japan] JAPAN SEPT RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES, CLOTHING
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Sep Inventory-Shipments Ratio +2.0% on Month
   - [japan] Japan Sep Shipments +0.6% on Month
   - [japan] Japan September factory output rises 2.2% month-on-month
-  - [japan] MNI JAPAN SEPT JOBLESS RATE FALLS TO 2.4% FROM AUG 2.5%
-  - [japan] Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk
-  - [japan] Japan Jobless Rate Unexpectedly Eases
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T00:32:45+00:00",
+      "published_utc": "2026-10-30T00:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

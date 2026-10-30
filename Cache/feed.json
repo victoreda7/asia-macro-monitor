@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T00:32:44.902487+00:00",
- "collected_at_utc": "2026-10-30T00:32:44.902487+00:00",
+ "generated_at_utc": "2026-10-30T00:42:44.461027+00:00",
+ "collected_at_utc": "2026-10-30T00:42:44.461027+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 910,
-  "china": 828,
+  "japan": 908,
+  "china": 829,
   "taiwan": 373,
-  "korea": 889
+  "korea": 890
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:27:47+00:00"
+   "newest": "2026-10-29T22:24:05+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T12:47:50+00:00"
+   "newest": "2026-10-29T22:00:18+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T00:30:56+00:00"
+   "newest": "2026-10-30T00:41:53+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T23:10:00+00:00"
+   "newest": "2026-10-30T00:32:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-30T09:15:00+09:00"
+   "newest": "2026-10-30T09:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "APR: Record 3Q revenue growth led by cosmetics, partly offset by KRW strength",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4282387:0-apr-record-3q-revenue-growth-led-by-cosmetics-partly-offset-by-krw-strength/",
+   "published_utc": "2026-10-30T00:41:53+00:00",
+   "title_original": "APR: Record 3Q revenue growth led by cosmetics, partly offset by KRW strength",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aad5d0a2fb41aff5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix's Free Operating Cash Flow Likely to Grow Further in 4Q — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261029020465:0-sk-hynix-s-free-operating-cash-flow-likely-to-grow-further-in-4q-market-talk/",
+   "published_utc": "2026-10-30T00:41:00+00:00",
+   "title_original": "SK Hynix's Free Operating Cash Flow Likely to Grow Further in 4Q — Market Talk",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a6734c9ca08de411"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten their belts | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jUkpLeEppM0t1LUVTT0J2S2RsNk9zR3dsQmUyTFBUN0FiSEoxTDJUUWdJbnFTNnlYbjl3cjVwY0VRblJKbldmR2hYS2VzU0hUTzUxeXRJMW9uOURzZEFN?oc=5",
+   "published_utc": "2026-10-30T00:32:00+00:00",
+   "title_original": "通膨升溫侵蝕購買力法國人嘆能源食品齊漲勒緊褲腰帶生活| 國際",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9db1e97b3e645522"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1322,6 +1374,23 @@
    "id": "fd47797567c066b5"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Hong Kong’s wider yuan push: a gateway to the world?",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVngzcGR4OVRSSXA0VHNDcXFlU0VIRUxmb205ZDhkMGlNQmlwck8tRGhtb0d4UEhacll4Z2x5MmQ4bWs2bnZHYmd1OW92Q2ZFUWl4SUIzMzBBX0RFbndlb2MxSS1xcU44QnM4WlFDZmk0YTZvM0lRTENjRFcyWTA0blV2WFpHSHhJcGY4N1owVTZETFE1Y1RueFd6ZG9MaFBvMmU5TGUtbFoyUmwzd0440gGvAUFVX3lxTE1LcW1PLXJacEFsaU9yUENvSE5rcjh3NmV5NFB0UlZmSWF0WEc4X0JjUWMwc2JyM3pjSnB1eklLM05QeW9OQVhDTEVQU3pKWVlnMTU2XzFSTVFqTXowM1JtX0FVUndPbnJnLXR4TGdwakJHbldWNmJvUXh5N0NJT2NoOHcwMEJHN2dzVDg1Tkx4NDFucVhtYU8zZ1VOYk5sM285TGNZelh4WFJIcHl3bHM?oc=5",
+   "published_utc": "2026-10-29T22:00:18+00:00",
+   "title_original": "Hong Kong’s wider yuan push: a gateway to the world?",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "82e43a8e2c18c9ee"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Bank of Japan to hold rates, signal further hikes By Reuters",
@@ -2051,6 +2120,23 @@
    "id": "b584fb43e2cd0cad"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcy1XMnJsZEJsNUwxOVB1LWhGV2dXellEM1dVVmYxc0ZKYk9oMEs2WEJGcmZsLWFiUUQxREdWOFFvUXYwV2VUWHF6M2NBbURtWVJqWHd2clVISmdKVGEzQzdJRngwcUFPYUlBZFJndG5WRTBUcENrUG9Hci1NMGxpSFV5X3hRWXdmZ05ISkpwZUpaRmdTemFrYXk5Qk1BbWN2dEZXY05hTS1lWHc2QTQtZ1NB?oc=5",
+   "published_utc": "2026-10-29T07:44:38+00:00",
+   "title_original": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2dd137aef65bc7fa"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment",
@@ -2227,8 +2313,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더팩트",
    "title_en": "The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy Committee meets eight times a year",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRDN1MFY4U1NQQko4MlR0TXJOU3lDTVJ3SjA4RjUzaTNWczZjeDVlc3E5V1RHVkdFT08xMnRIczhtMzdqU1NEMmRqN3JCbEV4eGduLTY2dFExQdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
-   "published_utc": "2026-10-29T06:51:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
+   "published_utc": "2026-10-29T06:51:00+00:00",
    "title_original": "한은, 내년 첫 기준금리 결정 1월 14일…금통위 연 8차례 개최",
    "region": "korea",
    "topics": [
@@ -2239,7 +2325,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fffe022a4ea0fd55"
+   "id": "27be5918f1a65a63"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -5498,23 +5584,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c89eeb1163f7aade"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcy1XMnJsZEJsNUwxOVB1LWhGV2dXellEM1dVVmYxc0ZKYk9oMEs2WEJGcmZsLWFiUUQxREdWOFFvUXYwV2VUWHF6M2NBbURtWVJqWHd2clVISmdKVGEzQzdJRngwcUFPYUlBZFJndG5WRTBUcENrUG9Hci1NMGxpSFV5X3hRWXdmZ05ISkpwZUpaRmdTemFrYXk5Qk1BbWN2dEZXY05hTS1lWHc2QTQtZ1NB?oc=5",
-   "published_utc": "2026-10-27T23:49:00+00:00",
-   "title_original": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2dd137aef65bc7fa"
   },
   {
    "source_id": "investing_live",
@@ -8978,7 +9047,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "금융신문",
+   "source_name": "한국금융신문",
    "title_en": "[Profile] Choi Chang-ho, Assistant Vice President for Monetary Policy and Markets at the Bank of Korea",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNWxvWW9vNDM1UE5SYWFwb19tcjcxYVdhanI4UnRpT2JLMHdfb0RlajhkRm5PcFhhZ2Z2N05QTWx0c3VMb3RaOF83UXRneHNKZjR6RVZ3a1p0VVoxbVVJSHEycmh3RllQN0R4blRuU0ZNY3FZX2Z0Yzc2Y1Q?oc=5",
    "published_utc": "2026-10-26T11:33:55+00:00",
@@ -51819,74 +51888,6 @@
    "live_wire": false,
    "manual": false,
    "id": "51d154391bec380c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Taiwan Forex Reserves Edge Lower",
-   "url": "https://www.tradingview.com/news/te_news:589489:0-taiwan-forex-reserves-edge-lower/",
-   "published_utc": "2026-10-05T08:30:53+00:00",
-   "title_original": "Taiwan Forex Reserves Edge Lower",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9d7deb4d09dec6fa"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261005de54694",
-   "published_utc": "2026-10-05T08:21:00+00:00",
-   "title_original": "ラピダス 半導体設計17社と連携 量産へ受注目指す",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d536b4f4a425f990"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan service sector growth slows in September, PMI shows",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjdhdC1oSFJGd0xFRVp0LVpyd29HMEVhdnpjZG5iM0ZsS1h3bjFfcWVBTnBUekpWT0VjMTRIQ1phelR2SEZFRlVuc09tczJPMy1ERUVpM1VUOU1zVlhVZFlZcnNhMllHWkpFSUcyRWw5cTNMdEdZZi16a1k3X1Y2UTVWNnNKS2h6LXJZeFhLN0pVcTJFUVZ3RzdBZkw3anN3WURqaUNHSVprT1dCOWFXNVBGVnN3TVhLNnRlRg?oc=5",
-   "published_utc": "2026-10-05T08:15:57+00:00",
-   "title_original": "Japan service sector growth slows in September, PMI shows",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "36d5e7d5c6eee084"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "부산일보",
-   "title_en": "Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdGFOclJjRHNxb2cwMGNXTXYybmthSm5FMkV4S29pN0FvTFFDNXhwTVNXbjdPbldRQkNvM2lodC00LWJRemhDSk1iUG5kT0dkQTRxX0pUTWVCNHlreFktVmNFdkVFT05yRHZYbnVUa0hqbm1ta285SQ?oc=5",
-   "published_utc": "2026-10-05T08:14:27+00:00",
-   "title_original": "주식 팔고 예금할까… 은행가 예금금리 ‘인상 랠리’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4bb6f4c956c2404"
   },
   {
    "source_id": "manual_ia",
