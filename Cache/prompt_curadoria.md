@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T13:12:44.880135+00:00
+Última coleta: 2026-10-30T13:22:43.638401+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
   🇨🇳 China          855
-  🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  856
+  🇹🇼 Taiwan         362
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside
   - [china] News Analysis: What China's new consumption trends say about its economy
   - [taiwan] 113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
   - [japan] BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.
   - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
-  - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T13:12:45+00:00",
+      "published_utc": "2026-10-30T13:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
