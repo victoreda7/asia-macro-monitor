@@ -7,27 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T12:22:42.978010+00:00
+Última coleta: 2026-10-30T12:32:52.188122+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          852
-  🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  859
+  🇯🇵 Japão          927
+  🇨🇳 China          853
+  🇹🇼 Taiwan         362
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
+  - [japan] [Emin Yilmaz talks] What will happen? The future of Japanese stocks/Is it a waste to just rely on Orkan? / Cur
   - [japan] Japan govt. to spend another $7.3 bil. on fuel subsidy
   - [japan] Fixed mortgage interest rates to be lowered by four major banks starting in November
   - [taiwan] Taiwan Q3 GDP growth hits 14.36%, highest in 48 years
   - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
+  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Chief Cabinet Secretary Kihara: “We hope for appropriate monetary policy management” Bank of Japan’s “2% price
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
   - [taiwan] Intel warning sparks chip rout as PC weakness clouds turnaround
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
-  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
   - [china] Important adjustments from the central bank will be implemented starting next week
@@ -47,16 +48,15 @@ Total: 3000 manchetes
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
-  - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
   - [japan] BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.
+  - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
   - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
   - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
+  - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
   - [japan] Bank of Japan Governor Ueda holds press conference, reaching 2% price target: Experts say this (Reuters)
-  - [china] BAIC BluePark New Energy Technology Q3 Net Loss At 922.0 Million Yuan
-  - [japan] BOJ stays pat on rates, signals inflation target reached
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T12:22:43+00:00",
+      "published_utc": "2026-10-30T12:32:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
