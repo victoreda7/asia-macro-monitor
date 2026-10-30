@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T16:22:43.686824+00:00
+Última coleta: 2026-10-30T16:32:43.061103+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          862
-  🇹🇼 Taiwan         362
-  🇰🇷 Coreia do Sul  855
+  🇯🇵 Japão          920
+  🇨🇳 China          863
+  🇹🇼 Taiwan         363
+  🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
 
+  - [china] Weyerhaeuser expects to triple China log shipments in fourth quarter
+  - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside
   - [japan] Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit
   - [china] China's State Council appoints, removes officials
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027
   - [china] Important adjustments from the central bank will be implemented starting next week
   - [japan] Angle: Bank of Japan continues to raise interest rates to keep the underlying price level at 2%. Is the “next 
-  - [china] Memory Crunch Cements CXMT as China's Chip Champion — Update
-  - [china] The central bank releases important information
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T16:22:43+00:00",
+      "published_utc": "2026-10-30T16:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
