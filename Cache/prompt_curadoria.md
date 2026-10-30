@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T13:32:43.655574+00:00
+Última coleta: 2026-10-30T13:42:45.918395+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          855
+  🇯🇵 Japão          925
+  🇨🇳 China          856
   🇹🇼 Taiwan         362
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside
   - [china] News Analysis: What China's new consumption trends say about its economy
+  - [china] Big announcement from the central bank! It will officially come into effect next Monday!
   - [taiwan] 113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
-  - [japan] BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.
-  - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T13:32:43+00:00",
+      "published_utc": "2026-10-30T13:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
