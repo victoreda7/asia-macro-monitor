@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T21:22:45.229203+00:00
+Última coleta: 2026-10-30T21:32:48.682635+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          864
-  🇹🇼 Taiwan         362
+  🇨🇳 China          865
+  🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
   - [taiwan] Intel on course for worst day ever, triggers global chip rout
   - [japan] Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices a
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] When will the Bank of Japan raise interest rates next? Will the policy interest rate exceed 2%? #Expert Topi (
   - [china] News Analysis: What China's new consumption trends say about its economy
   - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
-  - [china] Big announcement from the central bank! It will officially come into effect next Monday!
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T21:22:45+00:00",
+      "published_utc": "2026-10-30T21:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
