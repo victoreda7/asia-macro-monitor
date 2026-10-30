@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T13:52:44.816826+00:00
+Última coleta: 2026-10-30T14:02:45.031261+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama understands the Bank of Japan's judgment is "consistent with the 2% target" (Jiji Pr
   - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
+  - [japan] Higher yields now hurting AI stock bull as bond markets police capex: BofA
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
-  - [japan] Japan’s inflation rate reaches 2% target, Bank of Japan President: 13 years of hard work to meet important mil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T13:52:45+00:00",
+      "published_utc": "2026-10-30T14:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
