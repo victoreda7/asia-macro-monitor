@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T02:32:44.258750+00:00
+Última coleta: 2026-10-30T02:42:45.781270+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
+  🇯🇵 Japão          911
   🇨🇳 China          826
-  🇹🇼 Taiwan         369
+  🇹🇼 Taiwan         370
   🇰🇷 Coreia do Sul  893
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sanwa Holdings Corporation - To Buy Back Up To 1.8% Of Shares Worth 10 Billion Yen
   - [japan] Stock price temporarily fell by 1,600 yen, AI/semiconductor-related stocks were sold off
   - [japan] Japanese bonds rally as investors seek havens ahead of BOJ decision
   - [korea] Malaysian ringgit, Korean won lead Asian FX gains; Taiwan dollar slips
@@ -30,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO FRI
   - [korea] SK reshuffles energy chiefs, names SK hynix development head to new US role
+  - [taiwan] Beyond nanometers: AI forces Taiwan's semiconductor ecosystem to compete at system level
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7138 FRI VS 6.7147
   - [korea] South Korea's Inflation Could Ease in October, Poll Shows — Market Talk
   - [japan] 46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN Q3 GDP SEEN SLOWING TO NEARLY FLAT (+0.08%) ANNUALIZED FROM +1.4% IN Q2, WHICH WAS LED BY NET EXPORT, PR
   - [taiwan] Taiwan semiconductor output to hit NT$9.1 trillion as TSIA urges stable power
   - [japan] JAPAN JULY-SEPT INDUSTRIAL OUTPUT +0.3% Q/Q VS. +0.2% IN APR-JUNE, +2.5% Q/Q IN JAN-MAR, +0.3% Q/Q IN OCT-DEC 
-  - [japan] JAPAN SEPT INDUSTRIAL OUTPUT: 8 OUT OF 15 INDUSTRIES POST RISE, 7 ARE DOWN
-  - [japan] Japan Industrial Output Rebounds, Pointing to Economic Resilience
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T02:32:44+00:00",
+      "published_utc": "2026-10-30T02:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
