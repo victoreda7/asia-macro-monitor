@@ -7,20 +7,32 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T03:02:45.562696+00:00
+Última coleta: 2026-10-30T03:12:44.576116+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          914
-  🇨🇳 China          827
+  🇯🇵 Japão          917
+  🇨🇳 China          826
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  890
+  🇰🇷 Coreia do Sul  888
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ holds interest rates, raises 2027 inflation outlook
+  - [japan] BOJ REPEATS JULY OUTLOOK REPORT: RISKS TO ECONOMIC GROWTH LARGELY BALANCED, THOSE TO INFLATION REMAINS SKEWED 
+  - [japan] BOJ: UNDERLYING INFLATION IS NOW CONSISTENT WITH 2% PRICE TARGET
+  - [japan] BOJ REPEATS: THERE’S RISK OF UNDERLING INFLATION DEVIATING UPWARD ABOVE BANK’S 2% PRICE STABILITY TARGET AS CO
+  - [japan] BOJ BOARD MEMBER TAKATA CALLS FOR RATE HIKE TO 1.50% NOW, ARGUING THAT MONETARY POLICY IS IN NEW PHASE AS UNDE
+  - [japan] Nikkei Futures Extend Losses After BOJ Outcome, Now Down 2.8% at 62910 Vs Down 2.5% Prior
+  - [japan] BOJ says Japan has generally achieved 2% inflation target
+  - [japan] Policy rate unchanged at 1.25% Bank of Japan Monetary Policy Meeting (TV Asahi (ANN))
+  - [japan] BOJ BOARD VOTE ON SHORT-TERM RATE TARGET IS 8 TO 1
+  - [japan] BANK OF JAPAN BOARD LEAVES OVERNIGHT INTEREST RATE TARGET AT 1.25% AFTER RAISING IT FROM 1% IN SEPT
+  - [japan] BREAKING NEWS: BOJ leaves benchmark interest rate unchanged at 1.25%
   - [japan] (Reference) Outlook Report and Indicators Related to Underlying Inflation
   - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
   - [japan] Statement on Monetary Policy
   - [japan] Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also 
+  - [taiwan] Amazon 3Q26 earnings call: TSMC capacity behind AWS's choice to start selling its own AI chips
   - [japan] Bank of Japan Monetary Policy Meeting Direction of maintaining policy interest rate Focus on price decisions
   - [japan] Consumer price index in Tokyo's 23 wards rises by 2.6% Prices will increase for 1,477 food items in November K
   - [japan] Bank of Japan Governor Ueda on the verge of a monetary policy meeting (Jiji Shin)
@@ -45,18 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB Yields Fall Ahead of BOJ Rate Decision — Market Talk
   - [korea] Hanmi Semiconductor Q3 Operating Profit 90.8 Billion Won, Up 34% From Year Earlier
   - [korea] South Korea's Export Growth Likely Accelerated in October, Poll Shows — Market Talk
-  - [japan] Japan bond yields on track for weekly rise as BOJ decision looms
-  - [japan] Tokyo's 23 Wards Consumer Price Index rises by 2.6%, exceeding 2% for 2 consecutive months October Announcemen
-  - [korea] APR: Record 3Q revenue growth led by cosmetics, partly offset by KRW strength
-  - [korea] SK Hynix's Free Operating Cash Flow Likely to Grow Further in 4Q — Market Talk
-  - [taiwan] Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten thei
-  - [japan] Industrial production index for September was 2.2% higher than the previous month
-  - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +3.9% M/M (ADJUSTED FOR UPWARD BIAS), OCT +0.8%
-  - [japan] JAPAN SEPT RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES, CLOTHING
-  - [japan] JAPAN SEPT RETAIL SALES -0.7% M/M; AUG -0.9%
-  - [japan] MNI JAPAN SEPT RETAIL SALES +2.3% Y/Y; AUG +2.9%
-  - [japan] JAPAN SEPT FACTORY OUTPUT POSTS 1ST M/M RISE IN 3 MONTHS
-  - [japan] JAPAN METI KEEPS ITS VIEW AFTER DOWNGRADING IT IN AUG REPORT: RETAIL SALES TAKING ONE STEP FORWARD AND ONE STE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T03:02:45+00:00",
+      "published_utc": "2026-10-30T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
