@@ -7,17 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T09:52:43.774312+00:00
+Última coleta: 2026-10-30T10:02:42.617691+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
-  🇨🇳 China          848
+  🇯🇵 Japão          919
+  🇨🇳 China          849
   🇹🇼 Taiwan         365
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
+  - [china] China's central bank steps up shift toward overnight rate as policy anchor
+  - [china] BAIC BluePark New Energy Technology Q3 Net Loss At 922.0 Million Yuan
+  - [japan] BOJ stays pat on rates, signals inflation target reached
   - [china] Cinda Real Estate Q3 Net Loss At 1.2 Billion Yuan
+  - [china] JZJ Chain Drugstore Q3 Net Loss At 312.5 Million Yuan
+  - [china] National Silicon Industry Group Q3 Net Profit At 236.7 Million Yuan
   - [japan] Yen Rises On BoJ's Hawkish Pause
   - [china] CRRC, Units Signs Major Contracts Totalling About 71.0 Billion Yuan
   - [japan] Yen market: Small price movements Limited impact of the Bank of Japan’s monetary policy meeting
@@ -44,19 +50,13 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments
   - [china] Chinese Yuan traded below 6.65
   - [japan] Japan to consider how to handle BOJ ETF surplus in FY2027 budget, Katayama says
+  - [taiwan] AI Darling Taiwan Extends Economic Growth Run Unseen Since 1987
   - [korea] The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..
   - [japan] Chief Cabinet Secretary Kihara: ``Appropriately operate monetary policy to achieve the 2% price stability targ
   - [china] China Life Insurance Q3 Net Loss At 45.1 Billion Yuan
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
   - [china] Trump’s days of running US-China relations on personal ties are numbered
-  - [japan] BOJ's Decision to Hold Likely to Have Limited Impact on Yen — Market Talk
-  - [taiwan] Chip design company MediaTek says growth in demand for AI will "absolutely" continue
-  - [china] Flat Glass Q3 Net Loss At 472.7 Million Yuan
-  - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
-  - [china] New Hope Liuhe Q3 Net Loss At 865.8 Million Yuan
-  - [china] China set to lose LNG import crown to Japan on weak demand
-  - [taiwan] Taiwan Q3 GDP Growth Beats Expectations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T09:52:43+00:00",
+      "published_utc": "2026-10-30T10:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
