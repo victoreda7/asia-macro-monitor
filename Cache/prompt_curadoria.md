@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T19:32:46.261400+00:00
+Última coleta: 2026-10-30T19:42:44.519185+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          868
+  🇨🇳 China          866
   🇹🇼 Taiwan         362
-  🇰🇷 Coreia do Sul  850
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Stocks Decline 3% With Semiconductor Profit Concentration in Focus
+  - [korea] SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 549580.65, Implies 88% Upside
   - [china] Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten
   - [japan] Japan's Omron eyes India as export base for blood pressure monitors
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Chief Cabinet Secretary Kihara: “We hope for appropriate monetary policy management” Bank of Japan’s “2% price
-  - [china] The "anchor change" of the central bank's policy interest rate is implemented: the 7-day reverse repo is offic
-  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried ou
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T19:32:46+00:00",
+      "published_utc": "2026-10-30T19:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
