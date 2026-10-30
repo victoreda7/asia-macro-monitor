@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T14:32:46.206020+00:00
+Última coleta: 2026-10-30T14:42:45.533612+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why is SK hynix stock sliding today?
   - [china] IR: Strong orders and higher guidance offset China pricing pressure and inflation headwinds
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan judges that underlying inflation has reached 2%, postponing interest rate hike as it marks a tur
   - [japan] Finance Minister Katayama understands the Bank of Japan's judgment is "consistent with the 2% target" (Jiji Pr
   - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
-  - [china] Memory Crunch Cements CXMT as China's Chip Champion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T14:32:46+00:00",
+      "published_utc": "2026-10-30T14:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
