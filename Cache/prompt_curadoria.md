@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T12:02:47.036254+00:00
+Última coleta: 2026-10-30T12:12:45.340648+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -21,21 +21,27 @@ Total: 3000 manchetes
   - [japan] Japan govt. to spend another $7.3 bil. on fuel subsidy
   - [japan] Fixed mortgage interest rates to be lowered by four major banks starting in November
   - [taiwan] Taiwan Q3 GDP growth hits 14.36%, highest in 48 years
+  - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
+  - [japan] Chief Cabinet Secretary Kihara: “We hope for appropriate monetary policy management” Bank of Japan’s “2% price
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
   - [china] Important adjustments from the central bank will be implemented starting next week
+  - [japan] Angle: Bank of Japan continues to raise interest rates to keep the underlying price level at 2%. Is the “next 
   - [china] Memory Crunch Cements CXMT as China's Chip Champion — Update
   - [china] The central bank releases important information
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
   - [taiwan] Tainan station tightens rules for popular public piano
   - [japan] Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates a
+  - [japan] Finance Minister Katayama understands the Bank of Japan's judgment is "consistent with the 2% target" (Jiji Pr
+  - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
   - [japan] Japan’s inflation rate reaches 2% target, Bank of Japan President: 13 years of hard work to meet important mil
+  - [japan] Bank of Japan determines that 2% inflation target has been achieved (Jiji Press)
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
@@ -46,17 +52,11 @@ Total: 3000 manchetes
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
   - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
+  - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
   - [japan] Bank of Japan Governor Ueda holds press conference, reaching 2% price target: Experts say this (Reuters)
   - [china] BAIC BluePark New Energy Technology Q3 Net Loss At 922.0 Million Yuan
   - [japan] BOJ stays pat on rates, signals inflation target reached
   - [china] Cinda Real Estate Q3 Net Loss At 1.2 Billion Yuan
-  - [japan] Yen gains after BOJ; AI jitters dent dollar By Reuters
-  - [china] JZJ Chain Drugstore Q3 Net Loss At 312.5 Million Yuan
-  - [china] National Silicon Industry Group Q3 Net Profit At 236.7 Million Yuan
-  - [japan] Yen Rises On BoJ's Hawkish Pause
-  - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
-  - [china] CRRC, Units Signs Major Contracts Totalling About 71.0 Billion Yuan
-  - [japan] Yen market: Small price movements Limited impact of the Bank of Japan’s monetary policy meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T12:02:47+00:00",
+      "published_utc": "2026-10-30T12:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
