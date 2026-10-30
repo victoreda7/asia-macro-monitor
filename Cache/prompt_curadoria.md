@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T04:12:45.632010+00:00
+Última coleta: 2026-10-30T04:22:46.822169+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          938
-  🇨🇳 China          823
-  🇹🇼 Taiwan         364
+  🇨🇳 China          824
+  🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 111.26, Implies 35% Upside
+  - [japan] Japan GDP Data Key to Timing Next BOJ Hike — Market Talk
   - [japan] 2% inflation target reached: Bank of Japan opinion
   - [japan] Janome Corp - To Buy Back Up To 5.98% Of Shares Worth 1 Billion Yen
   - [japan] Analysts react to BOJ decision to keep rates steady
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan's key price inflation target is "generally consistent" with the 2% target, the first time since 
   - [japan] BOJ: POLICY DECISION BY 8-TO-1 VOTING; TAKATA DISSENTS
   - [japan] BOJ: PACE OF SELLING OF ITS ETF HOLDINGS TO RISE TO ABOUT Y860 BLN A YEAR FROM ABOUT Y330 BLN ON BOOK VALUE BA
-  - [japan] BREAKING NEWS: Underlying inflation "generally consistent" with 2% target: BOJ
-  - [japan] BOJ BOARD UNANIMOUSLY DECIDES TO ACCELERATE SELLING OF BANK’S ETF HOLDINGS AT ABOUT 0.1% OF MARKET TRADING VAL
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T04:12:45+00:00",
+      "published_utc": "2026-10-30T04:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
