@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T00:22:44.488663+00:00
+Última coleta: 2026-10-30T00:32:44.902487+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
-  🇨🇳 China          829
-  🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  888
+  🇯🇵 Japão          910
+  🇨🇳 China          828
+  🇹🇼 Taiwan         373
+  🇰🇷 Coreia do Sul  889
 
 ## O que já está no feed (não repita)
 
+  - [japan] Industrial production index for September was 2.2% higher than the previous month
   - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +3.9% M/M (ADJUSTED FOR UPWARD BIAS), OCT +0.8%
   - [japan] JAPAN SEPT RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES, CLOTHING
   - [japan] JAPAN SEPT RETAIL SALES -0.7% M/M; AUG -0.9%
@@ -34,6 +35,7 @@ Total: 3000 manchetes
   - [japan] JAPAN METI: SEPT INDUSTRIAL OUTPUT M/M RISE LED BY PASSENGER CARS, CHIP MAKING EQUIPMENT, CONVEYORS/CRANES
   - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
   - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com
+  - [japan] Bank of Japan to hold rates, signal further hikes
   - [korea] Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up
   - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms
   - [japan] JAPAN OCT TOKYO CORE-CORE CPI +2.6% Y/Y; SEPT +2.9%
@@ -43,6 +45,7 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN OCT TOKYO CORE CPI +2.6% Y/Y; SEPT +2.7%
   - [japan] Consumer prices in Tokyo's wards increased by 2.6% to 103.3 in October...2% level for 2 consecutive months (Yo
   - [japan] Japan Retail Sales Growth Eases to 3-Month Low
+  - [japan] Tokyo core inflation exceeds BOJ target in October
   - [japan] Tokyo prices rise 2.6% in October; growth and contraction continue at 2% level (Kyodo News)
   - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +1.9% Y/Y (AUG REVISED TO +2.7% FROM +3.4%), 4TH STRAIGHT RISE; MEDIAN FORECAST +
   - [japan] Japan Jul-Sep Industrial Output +0.3% on Quarter
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN SEPT JOBLESS RATE FALLS TO 2.4% FROM AUG 2.5%
   - [japan] Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk
   - [japan] Japan Jobless Rate Unexpectedly Eases
-  - [japan] Tokyo core inflation exceeds BOJ target in October
-  - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
-  - [japan] JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT REVISED +2.9%, AUG +2.0%); MEDIAN FORECA
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T00:22:44+00:00",
+      "published_utc": "2026-10-30T00:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
