@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T12:12:45.340648+00:00
+Última coleta: 2026-10-30T12:22:42.978010+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
   🇨🇳 China          852
-  🇹🇼 Taiwan         362
-  🇰🇷 Coreia do Sul  860
+  🇹🇼 Taiwan         363
+  🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
   - [japan] Japan govt. to spend another $7.3 bil. on fuel subsidy
   - [japan] Fixed mortgage interest rates to be lowered by four major banks starting in November
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
   - [japan] Chief Cabinet Secretary Kihara: “We hope for appropriate monetary policy management” Bank of Japan’s “2% price
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
+  - [taiwan] Intel warning sparks chip rout as PC weakness clouds turnaround
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
@@ -52,11 +54,9 @@ Total: 3000 manchetes
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
   - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
-  - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
   - [japan] Bank of Japan Governor Ueda holds press conference, reaching 2% price target: Experts say this (Reuters)
   - [china] BAIC BluePark New Energy Technology Q3 Net Loss At 922.0 Million Yuan
   - [japan] BOJ stays pat on rates, signals inflation target reached
-  - [china] Cinda Real Estate Q3 Net Loss At 1.2 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T12:12:45+00:00",
+      "published_utc": "2026-10-30T12:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
