@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T15:12:45.096456+00:00",
- "collected_at_utc": "2026-10-30T15:12:45.096456+00:00",
+ "generated_at_utc": "2026-10-30T15:22:47.167834+00:00",
+ "collected_at_utc": "2026-10-30T15:22:47.167834+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
-  "china": 859,
+  "japan": 920,
+  "china": 860,
   "taiwan": 362,
   "korea": 858
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T14:54:45+00:00"
+   "newest": "2026-10-30T15:13:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T14:54:45+00:00"
+   "newest": "2026-10-30T15:12:44+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:36:27+00:00"
+   "newest": "2026-10-30T10:38:44+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T12:15:07+00:00"
+   "newest": "2026-10-30T12:43:37+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T14:30:07+00:00"
+   "newest": "2026-10-30T15:13:30+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T15:11:01+00:00"
+   "newest": "2026-10-30T15:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T14:07:24+00:00"
+   "newest": "2026-10-30T14:52:28+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T01:10:31+00:00"
+   "newest": "2026-10-29T22:06:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -361,6 +361,24 @@
    "id": "37e484ae7a44407e"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan judges that inflation rate will reach 2%; future focus will be on countering upside risks...Governor Kazuo Ueda: ``All nine policy committee members agree''",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DcnJTR2VOOEZWOEZKQ1JucF8xQWg3MlZ0RUl0TkJOWUJNSHZfOWQ2RVhnSnBfZnF3OTVxRGtfYnp6Q1N1YUZlMmtDa1k5dFlKS2xSSmF4cjZIWmhfZTRQay1XUGJ4cThvdDRlUnpoRWRXRUFRaWNoQ1VIUnczZkU?oc=5",
+   "published_utc": "2026-10-30T14:52:28+00:00",
+   "title_original": "物価上昇率２％到達と日銀判断、今後は上振れリスク対応に力点…植田和男総裁「政策委員９人全員の判断一致」",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "318e03c791e6d1ff"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Why is SK hynix stock sliding today?",
@@ -410,23 +428,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c30d71c519d21ef4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "“Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5",
-   "published_utc": "2026-10-30T14:07:24+00:00",
-   "title_original": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "81fe2b205bd96ed1"
   },
   {
    "source_id": "gn_tw_cna",
@@ -563,24 +564,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43d709540a839413"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan judges that inflation rate will reach 2%; future focus will be on countering upside risks...Governor Kazuo Ueda: ``All nine policy committee members agree''",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DcnJTR2VOOEZWOEZKQ1JucF8xQWg3MlZ0RUl0TkJOWUJNSHZfOWQ2RVhnSnBfZnF3OTVxRGtfYnp6Q1N1YUZlMmtDa1k5dFlKS2xSSmF4cjZIWmhfZTRQay1XUGJ4cThvdDRlUnpoRWRXRUFRaWNoQ1VIUnczZkU?oc=5",
-   "published_utc": "2026-10-30T12:48:34+00:00",
-   "title_original": "物価上昇率２％到達と日銀判断、今後は上振れリスク対応に力点…植田和男総裁「政策委員９人全員の判断一致」",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "318e03c791e6d1ff"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1089,6 +1072,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ae5230b075082987"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "“Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5",
+   "published_utc": "2026-10-30T10:38:44+00:00",
+   "title_original": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "81fe2b205bd96ed1"
   },
   {
    "source_id": "tradingview_live",
@@ -2329,24 +2329,6 @@
    "id": "dd79875b7a712c4e"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnIxanJBcWQ1dHowT2hmRjlUcmJLVWwzbDIzV3d3aXRuc21iNDhvelBOdno0MEZMcDRyV3JTZy1LQVZIRVdBYWI1cDFyN2YyNGM2NUFkMDBUejhfTjF2d2IxWkRZejRBblh1NnF2ZHdmM1pESjMyemRZSm5JanNaRmNJb0Ewd2ZSbGk2a1lDM0xiX1kzQ2FKRFp4ZGRUcVZzZVZKQV9EQXIzaGFsNDd0TzA3V1VWeHNMTkZkdkFXcjdXbWRQ?oc=5",
-   "published_utc": "2026-10-30T07:23:43+00:00",
-   "title_original": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b881cd999ea78e2c"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "BOJ to accelerate ETF sales, more than doubling pace from January",
@@ -2472,6 +2454,24 @@
    "live_wire": false,
    "manual": false,
    "id": "433cc018b5f7523a"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGllZVJ3Yy1rLUtlWUpodTFMSVREbzFMcTBOb2pnTzNmdUZTZHRSbTlVSy00S1RMUXdpZ2RkWjFzWmM3THVONUU5UU1kUDYxWjgzZ0xqc2NUTEJWdUhlc2x3VEJ5NTltSXJ0LTNCV184blh4YTFmZGNpWlpWV01aQTU1NWtVMVZISTd4SGk0aTg3OXdjRGhvTVhRdW1lejkzTUxHa19aYkhTYUxiMjg3X0VPSUpOSmlnN0lraDFpN2ZZdWc?oc=5",
+   "published_utc": "2026-10-30T06:54:35+00:00",
+   "title_original": "Asian currencies mixed as yen steadies after BOJ hold, dollar weakens",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "821924cc202c2a66"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -4703,6 +4703,23 @@
    "live_wire": false,
    "manual": false,
    "id": "11c33182ecb0fe1a"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "BYD’s export surge helps offset sales weakness in China",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEpuelBlNjZGc3E0Q1M4dWlKbFdMbngwbldHU3F4bWdOWlBWOUlkV1BjRGZKd2p5WUF4aWF2MkNvWExOamwteXk1STh1ejctdjlvV01Sdjh6SF9Cck1tRlFXcTNyWU9uSE5BX1JGMGpQYUtzaFN2R2JXWXo1b1hwY2NmRjI?oc=5",
+   "published_utc": "2026-10-29T10:51:23+00:00",
+   "title_original": "BYD’s export surge helps offset sales weakness in China",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4e17ce2c32361de6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -12426,24 +12443,6 @@
    "id": "3f20e5bcf5f19e10"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "중앙일보",
-   "title_en": "Choi Chang-ho, Director of Monetary Policy Bureau, appointed Assistant Vice Governor for Monetary Policy and Markets at the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pbVAzazJqVDNWMFVNR0N5WXZaTWxNbmJKZU5mYWtWbUI1VUZWak1wMmpkS0JMZVpaRU5jWC1lYV9uYVl3c2Qyd1hfYjBDaGMyc19NMkRB?oc=5",
-   "published_utc": "2026-10-26T09:03:07+00:00",
-   "title_original": "한은 통화정책·시장 부총재보에 최창호 통화정책국장",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b52d4330b199d825"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
@@ -12652,6 +12651,24 @@
    "live_wire": false,
    "manual": false,
    "id": "4b2ff2daa99b47c6"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Choi Chang-ho, Director of Monetary Policy Bureau, appointed Assistant Vice Governor for Monetary Policy and Markets at the Bank of Korea",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ybDNmdHdoQ0NLc1dvbHo4dmtULXlBZXlHSUNBa1ZZTkpRZG5OQ084WUp1VlVyUG9vaWVNUHNUbC1tczZjM2FHU3hONmx1em9uWUZ6YnJpSGFaX0NvUkNERNIBYEFVX3lxTE8ybDNmdHdoQ0NLc1dvbHo4dmtULXlBZXlHSUNBa1ZZTkpRZG5OQ084WUp1VlVyUG9vaWVNUHNUbC1tczZjM2FHU3hONmx1em9uWUZ6YnJpSGFaX0NvUkNERA?oc=5",
+   "published_utc": "2026-10-26T08:39:22+00:00",
+   "title_original": "한은 통화정책·시장 부총재보에 최창호 통화정책국장",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9053115dc2d6be5e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -21815,23 +21832,6 @@
    "id": "fe2aa6488984d19c"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTJWTDBIVzBrOHFiVG1FNzhHNmZ2b013MTRuU05Kb194R3dhbXBXdVFtSG1qWUNkMjdQSUJpTGhHS200eV8wTS1OaXBKMFVPaXhsMTg4WVlCRVh3dXh1Mk5FdUxZNGZiMEdESGZKbEpvZTQ0RnhRM09aOGxsT2ZOZ2g0SHg2NlgxNDVwOTY2N0IxWjA?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1cadf4969f0fa604"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
@@ -22281,6 +22281,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2984ec8fca8a1331"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTJWTDBIVzBrOHFiVG1FNzhHNmZ2b013MTRuU05Kb194R3dhbXBXdVFtSG1qWUNkMjdQSUJpTGhHS200eV8wTS1OaXBKMFVPaXhsMTg4WVlCRVh3dXh1Mk5FdUxZNGZiMEdESGZKbEpvZTQ0RnhRM09aOGxsT2ZOZ2g0SHg2NlgxNDVwOTY2N0IxWjA?oc=5",
+   "published_utc": "2026-10-21T03:45:00+00:00",
+   "title_original": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1cadf4969f0fa604"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51941,23 +51958,6 @@
    "live_wire": false,
    "manual": false,
    "id": "78b8e61f9d91bb0d"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nd0d2YkNrZ0VtNjZ2V0tnU0I4eGJfbjlJYVdLSVAxLXF5NE1GZVFsNkx0aU9yRzhoc2dFZWFnaENINUNPdTRIWnBKWmNLSlltWXRVNXQxYW5QZw?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "97bc9925c96981c0"
   },
   {
    "source_id": "manual_ia",
