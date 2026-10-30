@@ -7,17 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T07:42:43.075646+00:00
+Última coleta: 2026-10-30T07:52:45.830594+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          940
   🇨🇳 China          829
-  🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  868
+  🇹🇼 Taiwan         362
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen has brief gain after BOJ, while AI jitters weigh on dollar
+  - [japan] Bank of Japan Governor says that the 2% target is "generally consistent" with the underlying price index still
+  - [korea] Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display
+  - [japan] Bank of Japan Governor Ueda says, ``It is important to achieve a sustained and stable inflation rate of 2%, an
+  - [japan] Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
+  - [japan] Bank of Japan cuts, ETF trading accelerates "limited impact" (Joint Communications)
   - [china] UNIQLO Shanghai Flagship Store Renovation Japanese Retailer in China Moves to Review Stores
+  - [japan] Inflation rate is "mostly consistent", says Bank of Japan governor, 14 years on from deflation (Kyodo News)
+  - [japan] Bank of Japan decides to keep policy interest rate unchanged at 1.25%; underlying price increase rate is ``gen
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 110.56, Implies 34% Upside
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 554096.77, Implies 89% Upside
   - [japan] BOJ to accelerate ETF sales, more than doubling pace from January
@@ -27,7 +35,9 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ chief declines to comment on reviewing accord with gov't on deflation
   - [japan] Bank of Japan Governor reviews joint statement and makes no comment (Kyodo News)
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
+  - [japan] BREAKING NEWS: BOJ monetary policy focus more on anchoring inflation to target: Ueda
   - [japan] BOJ Governor Ueda’s comments at news conference
+  - [japan] BREAKING NEWS: BOJ to continue raising rates looking at inflation, other factors: Ueda
   - [japan] Bank Of Japan Holds Key Rate As Expected
   - [japan] BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%
   - [japan] Makita Corporation - To Buy Back Up To 3.9% Own Shares Worth 40 Billion Yen
@@ -47,16 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
   - [japan] Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q
   - [china] China's green energy exports hit record high, one year's carbon reduction can equal Brazil's entire year's car
-  - [japan] Morning Bid: One last central bank surprise
-  - [japan] BOJ keeps policy rate unchanged at 1.25%, raises annual ETF sales pace to 860 billion yen
-  - [japan] Bank of Japan maintains policy interest rate at around 1.25%, indicates inflation rate reaches ``target of 2%'
-  - [japan] Japan Housing Starts Unexpectedly Drop
-  - [japan] FOCUS: After decades of deflation, BOJ faces test of maintaining price stability
-  - [japan] Japan's industrial production growth hits fastest pace since January; retail sales slow to 2.3% Y/Y
-  - [japan] BOJ says 2% inflation target achieved, holds rates steady
-  - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
-  - [china] European Central Bank President Christine Lagarde admitted that she could no longer remain neutral and would l
-  - [taiwan] Taiwan's manufacturing sector stays in fast-growth mode in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T07:42:43+00:00",
+      "published_utc": "2026-10-30T07:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
