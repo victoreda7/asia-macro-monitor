@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T12:32:52.188122+00:00
+Última coleta: 2026-10-30T12:42:44.609989+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
+  - [china] Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027
   - [china] Important adjustments from the central bank will be implemented starting next week
   - [japan] Angle: Bank of Japan continues to raise interest rates to keep the underlying price level at 2%. Is the “next 
   - [china] Memory Crunch Cements CXMT as China's Chip Champion — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
   - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
   - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
-  - [japan] Bank of Japan Governor Ueda holds press conference, reaching 2% price target: Experts say this (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T12:32:52+00:00",
+      "published_utc": "2026-10-30T12:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

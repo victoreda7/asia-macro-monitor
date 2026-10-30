@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-30T12:32:52.188122+00:00",
- "collected_at_utc": "2026-10-30T12:32:52.188122+00:00",
+ "generated_at_utc": "2026-10-30T12:42:44.609989+00:00",
+ "collected_at_utc": "2026-10-30T12:42:44.609989+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 362,
   "korea": 858
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:08:45+00:00"
+   "newest": "2026-10-30T11:17:02+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:14:47+00:00"
+   "newest": "2026-10-30T08:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T12:14:59+00:00"
+   "newest": "2026-10-30T12:36:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T12:13:05+00:00"
+   "newest": "2026-10-30T12:36:55+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T12:32:20+00:00"
+   "newest": "2026-10-30T12:42:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:51:10+00:00"
+   "newest": "2026-10-30T07:53:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-10-30T01:10:31+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-10-30T06:46:01+00:00"
   }
  ],
  "items": [
@@ -588,6 +588,23 @@
    "live_wire": false,
    "manual": false,
    "id": "38ad202af302f15d"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtHNmtTTlFhejZ5b0h1V3JYNG52aGxkMDVxZVluMkduXzNfb1NzQXhXLXV6NmRDNXZfNFdUV2daay1oYlZid2pCSXJCZ0RXcFNrSllKYjRJWTFPUTJpWWRoZUFia3FxTWp6cU0wbGFpd3V4RkNKekgwYS13Y3hNTmZCalA5QnY0M2xxNXJBU09QcVVwQ25pMXhjZm5QY05IZXhRdzlDZGpHM1BPNXBJazZiWQ?oc=5",
+   "published_utc": "2026-10-30T11:17:02+00:00",
+   "title_original": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e05dc74f659ae68f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2346,23 +2363,6 @@
    "id": "932da97d7112caa0"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtHNmtTTlFhejZ5b0h1V3JYNG52aGxkMDVxZVluMkduXzNfb1NzQXhXLXV6NmRDNXZfNFdUV2daay1oYlZid2pCSXJCZ0RXcFNrSllKYjRJWTFPUTJpWWRoZUFia3FxTWp6cU0wbGFpd3V4RkNKekgwYS13Y3hNTmZCalA5QnY0M2xxNXJBU09QcVVwQ25pMXhjZm5QY05IZXhRdzlDZGpHM1BPNXBJazZiWQ?oc=5",
-   "published_utc": "2026-10-30T06:33:00+00:00",
-   "title_original": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e05dc74f659ae68f"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China Elevates Military Leader to Politburo, Ratifies Party Expulsions",
@@ -2766,7 +2766,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Elevates Key Figure in Purges With Rare Politburo Pick",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTFEUkJPS1RkTnVsMk9zLVFGcUhpRkc2Y0F5QVktSFp1MUp3ZFRZcU1iWmU1eGR5RDllN3RTMHI2aTZPbk5Ic25UajdrZjktTWlwdmFSMXc3YVgzZnZvUGl2d1Z2ME5wNlFhSUVaWDBweTA2ZXRIcXEyTjgtVHpTMkVTT2dvNVEtRzdQeWUtLU5EbjNGNkFHbUdhaEhTNXRwdW90VkdzSDlWQQ?oc=5",
    "published_utc": "2026-10-30T03:47:00+00:00",
@@ -4020,7 +4020,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "JPMorgan Asset Sees Yuan Gaining 10% as Global Push Deepens",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFpfNUVDQVZ2akctZGhqSGQ5LXNFT0pmUDdlQlc3M1lWM244T2xwRFhUT0pWeldfaTRRRFhpdlhZd1dlV3I0aDh1X3g2dERuWWJGMktpQlNXWE9XbllSQlBzOWZWd1B4MDM1OUJGT3lFMmtRN0YwOWdPTWxnaVh1VXVYYlpWakdxSHUtam00LU9fQ01yemZxS1pDWWZndjJ6bFlUd3dlUkVQNW9GU3c?oc=5",
    "published_utc": "2026-10-29T23:30:06+00:00",
@@ -6149,7 +6149,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -6160,7 +6160,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ad537082c2c93f5e"
+   "id": "703eacfba1e67ab6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -14906,9 +14906,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xT3VaUFg3ZzYxWlNDNUFyeFdDT2ZmdnpBUTAtUmtsUWhQeVZ3eHJwTTRCTWtPQzBRM3UwaE9OUnJNbGczQVRnRlBmaTBMWmxuWF9pY1RUQjhOT1RtQnVuWTBUQ0VXazZtM3lGRGRuR1FWYWZCZ25QcQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
    "published_utc": "2026-10-23T14:14:15+00:00",
    "title_original": "央行开展7000亿元1年期MLF操作",
    "region": "china",
@@ -14920,7 +14920,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6d0566560d90a238"
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
