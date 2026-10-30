@@ -7,21 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T09:02:44.858100+00:00
+Última coleta: 2026-10-30T09:12:47.089350+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          840
-  🇹🇼 Taiwan         366
-  🇰🇷 Coreia do Sul  872
+  🇯🇵 Japão          923
+  🇨🇳 China          839
+  🇹🇼 Taiwan         367
+  🇰🇷 Coreia do Sul  871
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: Starting from November 2, 2026, bidding for overnight reverse repurchase operations will be laun
+  - [japan] Market moves ``as expected'' at Bank of Japan meeting, with limited movement even after announcement of accele
+  - [japan] Is achieving the 2% target with good price increases that was initially aimed at a dream that cannot be fulfil
+  - [japan] Why did the Bank of Japan aim for 2%? Adjust the economy and prices by moving interest rates
   - [china] Yonyou Network Technology Q3 Net Loss At 318.6 Million Yuan
   - [japan] Bank of Japan Is Likely to Roll out Two More Hikes — Market Talk
   - [japan] Yen gains after BOJ; AI jitters dent dollar
   - [china] Jinko Solar Q3 Net Loss At 290.4 Million Yuan
+  - [taiwan] Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments
+  - [china] Chinese Yuan traded below 6.65
+  - [japan] Japan to consider how to handle BOJ ETF surplus in FY2027 budget, Katayama says
   - [korea] The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..
+  - [japan] Chief Cabinet Secretary Kihara: ``Appropriately operate monetary policy to achieve the 2% price stability targ
   - [china] China Life Insurance Q3 Net Loss At 45.1 Billion Yuan
   - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
   - [china] Trump’s days of running US-China relations on personal ties are numbered
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [china] Advanced Micro-Fabrication Equipment Inc China Q3 Net Profit Up 159.0% Y/Y
   - [japan] ``Underlying price increase rate'' reached 2% target; Bank of Japan Governor Ueda says ``The outlook will rema
   - [korea] ADX Says Units Of PLUS Korea Manufacturing Core Alliance Index ETF Will Be Listed On ADX On Nov 02
-  - [taiwan] Taiwan's Inflation Likely to Remain Elevated — Market Talk
-  - [taiwan] Taiwan Q3 preliminary GDP +14.36%, better than forecast
-  - [china] Key facts: Haleon (HLN) Q3 +2.6%; China import pause; £500m buyback
-  - [japan] Japan's anime market tops 4 tril. yen for 1st time
-  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
-  - [japan] Bank of Japan Governor says that the 2% target is "generally consistent" with the underlying price index still
-  - [japan] BREAKING NEWS: BOJ's plan to step up ETF selling will have limited market impact: Ueda
-  - [korea] Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T09:02:45+00:00",
+      "published_utc": "2026-10-30T09:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
