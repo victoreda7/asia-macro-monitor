@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T02:22:44.485637+00:00
+Última coleta: 2026-10-30T02:32:44.258750+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
-  🇨🇳 China          827
+  🇯🇵 Japão          912
+  🇨🇳 China          826
   🇹🇼 Taiwan         369
   🇰🇷 Coreia do Sul  893
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price temporarily fell by 1,600 yen, AI/semiconductor-related stocks were sold off
+  - [japan] Japanese bonds rally as investors seek havens ahead of BOJ decision
   - [korea] Malaysian ringgit, Korean won lead Asian FX gains; Taiwan dollar slips
   - [japan] Japan Industrial Output Climbs 2.2% In September
   - [japan] Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN JULY-SEPT INDUSTRIAL OUTPUT +0.3% Q/Q VS. +0.2% IN APR-JUNE, +2.5% Q/Q IN JAN-MAR, +0.3% Q/Q IN OCT-DEC 
   - [japan] JAPAN SEPT INDUSTRIAL OUTPUT: 8 OUT OF 15 INDUSTRIES POST RISE, 7 ARE DOWN
   - [japan] Japan Industrial Output Rebounds, Pointing to Economic Resilience
-  - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com
-  - [japan] JAPAN METI: SEPT INDUSTRIAL OUTPUT M/M RISE LED BY PASSENGER CARS, CHIP MAKING EQUIPMENT, CONVEYORS/CRANES
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T02:22:44+00:00",
+      "published_utc": "2026-10-30T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
