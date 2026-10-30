@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T06:12:43.836787+00:00
+Última coleta: 2026-10-30T06:18:51.340998+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          938
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix
   - [japan] Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q
   - [china] China's green energy exports hit record high, one year's carbon reduction can equal Brazil's entire year's car
   - [japan] BOJ keeps policy rate unchanged at 1.25%, raises annual ETF sales pace to 860 billion yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ keeps interest rates steady, signals further rate hikes
   - [japan] Bank of Japan ETF sales pace doubles, completion time shortened from 112 years to 43 years (Mainichi Shimbun)
   - [china] China Elevates Key Figure in Purges With Rare Politburo Pick
-  - [japan] [Breaking News] Bank of Japan has determined that the ``underlying inflation rate'' target of 2% has been virt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T06:12:44+00:00",
+      "published_utc": "2026-10-30T06:18:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
