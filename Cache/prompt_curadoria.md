@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T15:02:46.869510+00:00
+Última coleta: 2026-10-30T15:12:45.096456+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
   🇨🇳 China          859
-  🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  857
+  🇹🇼 Taiwan         362
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?
   - [korea] Why is SK hynix stock sliding today?
   - [china] IR: Strong orders and higher guidance offset China pricing pressure and inflation headwinds
+  - [china] Overnight reverse repurchase is "on the job", and the policy interest rate has officially changed its anchor
   - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank releases important information
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
   - [taiwan] Tainan station tightens rules for popular public piano
-  - [japan] Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates a
-  - [japan] Bank of Japan judges that underlying inflation has reached 2%, postponing interest rate hike as it marks a tur
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T15:02:47+00:00",
+      "published_utc": "2026-10-30T15:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
