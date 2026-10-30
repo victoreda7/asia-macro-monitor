@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T01:22:43.340453+00:00
+Última coleta: 2026-10-30T01:32:43.851063+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          908
-  🇨🇳 China          829
+  🇯🇵 Japão          909
+  🇨🇳 China          827
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  890
+  🇰🇷 Coreia do Sul  891
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Inflation Could Ease in October, Poll Shows — Market Talk
+  - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 6
+  - [japan] JGB Yields Fall Ahead of BOJ Rate Decision — Market Talk
+  - [korea] Hanmi Semiconductor Q3 Operating Profit 90.8 Billion Won, Up 34% From Year Earlier
   - [korea] South Korea's Export Growth Likely Accelerated in October, Poll Shows — Market Talk
   - [japan] Japan bond yields on track for weekly rise as BOJ decision looms
   - [japan] Tokyo's 23 Wards Consumer Price Index rises by 2.6%, exceeding 2% for 2 consecutive months October Announcemen
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Retail Sales Growth Eases to 3-Month Low
   - [japan] Tokyo prices rose 2.6% in October (Kyodo News)
   - [japan] Tokyo core inflation exceeds BOJ target in October
-  - [japan] Tokyo prices rise 2.6% in October; growth and contraction continue at 2% level (Kyodo News)
-  - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +1.9% Y/Y (AUG REVISED TO +2.7% FROM +3.4%), 4TH STRAIGHT RISE; MEDIAN FORECAST +
-  - [japan] Japan Jul-Sep Industrial Output +0.3% on Quarter
-  - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +2.2% M/M (AUG REVISED TO -2.4% FROM -1.7%); 1ST RISE IN 3 MONTHS; MEDIAN FORECAS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T01:22:43+00:00",
+      "published_utc": "2026-10-30T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
