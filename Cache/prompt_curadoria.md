@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T11:02:44.375872+00:00
+Última coleta: 2026-10-30T11:12:45.332875+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [japan] Is achieving the 2% target with good price increases that was initially aimed at a dream that cannot be fulfil
   - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
-  - [japan] Why did the Bank of Japan aim for 2%? Adjust the economy and prices by moving interest rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T11:02:44+00:00",
+      "published_utc": "2026-10-30T11:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
