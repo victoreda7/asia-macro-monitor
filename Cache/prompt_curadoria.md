@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T14:12:44.215774+00:00
+Última coleta: 2026-10-30T14:22:44.781591+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          857
-  🇹🇼 Taiwan         363
+  🇯🇵 Japão          921
+  🇨🇳 China          858
+  🇹🇼 Taiwan         364
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] IR: Strong orders and higher guidance offset China pricing pressure and inflation headwinds
+  - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
   - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama understands the Bank of Japan's judgment is "consistent with the 2% target" (Jiji Pr
   - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
-  - [japan] Higher yields now hurting AI stock bull as bond markets police capex: BofA
-  - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T14:12:44+00:00",
+      "published_utc": "2026-10-30T14:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
