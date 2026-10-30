@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T00:02:44.806314+00:00
+Última coleta: 2026-10-30T00:10:25.915544+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          902
-  🇨🇳 China          831
-  🇹🇼 Taiwan         377
+  🇯🇵 Japão          905
+  🇨🇳 China          830
+  🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [japan] MNI JAPAN SEPT FACTORY OUTPUT +2.2% M/M; AUG -2.4%
+  - [japan] JAPAN JULY-SEPT INDUSTRIAL OUTPUT +0.3% Q/Q VS. +0.2% IN APR-JUNE, +2.5% Q/Q IN JAN-MAR, +0.3% Q/Q IN OCT-DEC 
+  - [japan] JAPAN SEPT INDUSTRIAL OUTPUT: 8 OUT OF 15 INDUSTRIES POST RISE, 7 ARE DOWN
+  - [japan] Japan Industrial Output Rebounds, Pointing to Economic Resilience
+  - [japan] JAPAN METI: SEPT INDUSTRIAL OUTPUT M/M RISE LED BY PASSENGER CARS, CHIP MAKING EQUIPMENT, CONVEYORS/CRANES
+  - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
   - [korea] Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up
   - [japan] JAPAN OCT TOKYO CORE-CORE CPI +2.6% Y/Y; SEPT +2.9%
   - [japan] JAPAN SEPT RETAIL SALES +2.3% Y/Y (AUG REVISED TO +2.7% FROM +3.4%); 7TH STRAIGHT RISE; MEDIAN FORECAST +3.2% 
@@ -33,9 +39,9 @@ Total: 3000 manchetes
   - [japan] Japan September factory output rises 2.2% month-on-month
   - [japan] MNI JAPAN SEPT JOBLESS RATE FALLS TO 2.4% FROM AUG 2.5%
   - [japan] Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk
-  - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
   - [japan] Japan Jobless Rate Unexpectedly Eases
   - [japan] Tokyo core inflation exceeds BOJ target in October
+  - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
   - [japan] JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT REVISED +2.9%, AUG +2.0%); MEDIAN FORECA
   - [japan] Tokyo Inflation Remains Above 2%, Fueling Rate-Hike Bets
   - [japan] JAPAN SEPT EMPLOYMENT UP 330,000 Y/Y AT 68.96 MILLION FOR 2ND STRAIGHT RISE, AFTER RISING 140,000 IN AUG
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT TOKYO TOTAL CPI +2.8% Y/Y (SEPT +2.7%); MEDIAN FORECAST +2.7% (RANGE: +2.4% to +2.9%)
   - [korea] South Korea Retail Sales Rebound in September
   - [korea] South Korea Industrial Output Growth Strongest on Record
-  - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
-  - [china] Hong Kong Housing Secretary Resigns Over Deadly Fire Oversight Failures
-  - [japan] Japan Data, Rate Decision Due On Friday
-  - [japan] Bank of Japan to hold rates, signal further hikes By Reuters
-  - [japan] Bank of Japan to hold rates, signal further hikes
-  - [japan] Demand for Kidalt isn't the only thing...The real aim of Don Quijote's parent company's acquisition of Toys R 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T00:02:45+00:00",
+      "published_utc": "2026-10-30T00:10:26+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
