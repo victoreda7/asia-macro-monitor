@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T04:42:45.408295+00:00",
- "collected_at_utc": "2026-10-30T04:42:45.408295+00:00",
+ "generated_at_utc": "2026-10-30T04:52:42.900154+00:00",
+ "collected_at_utc": "2026-10-30T04:52:42.900154+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 940,
-  "china": 824,
-  "taiwan": 364,
-  "korea": 872
+  "japan": 941,
+  "china": 825,
+  "taiwan": 363,
+  "korea": 871
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T12:30:08+00:00"
+   "newest": "2026-10-30T02:46:31+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T04:18:31+00:00"
+   "newest": "2026-10-30T04:40:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T03:49:13+00:00"
+   "newest": "2026-10-30T04:49:28+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T03:33:25+00:00"
+   "newest": "2026-10-30T03:56:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T04:40:39+00:00"
+   "newest": "2026-10-30T04:51:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T01:47:51+00:00"
+   "newest": "2026-10-29T22:46:10+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:29:48+00:00"
+   "newest": "2026-10-30T04:34:07+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T23:49:48+00:00"
+   "newest": "2026-10-30T04:44:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, Nikkei Says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44Z01M:0-daiwa-securities-group-backed-fund-to-acquire-part-of-tokyo-garden-terrace-kioicho-for-over-300-billion-yen-nikkei-says/",
+   "published_utc": "2026-10-30T04:49:08+00:00",
+   "title_original": "Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, Nikkei Says",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8345ca85476e83c"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Foxconn unveils three new EV models as it expands contract manufacturing push",
+   "url": "https://www.investing.com/news/stock-market-news/foxconn-unveils-three-new-ev-models-as-it-expands-contract-manufacturing-push-4985791",
+   "published_utc": "2026-10-30T04:40:10+00:00",
+   "title_original": "Foxconn unveils three new EV models as it expands contract manufacturing push",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a417de60112464c6"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Key points from the Bank of Japan governor's conference: Policy significance of reaching the 2% target, next interest rate hike, AI-related trends, and other price risks (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SmRKRllZVGNubVZoa0Nvelg0M20zOTFRa1NCQ1VVMTZ5X2RrOW1mV01lajlUam1kUnoyaHBTVWRLdjk1VVlGME5abUdUNUJGT3N3TWh2TF9iLUNhN3VOTzZYcXM0c25PMThlMnN0SU9peTU3M0tiTW45c05xQ2c?oc=5",
+   "published_utc": "2026-10-30T04:34:07+00:00",
+   "title_original": "日銀総裁会見のポイント：2％目標到達の政策的意義、次回利上げ ＡＩ関連動向など物価リスク（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8beee5bd56b25336"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -611,6 +664,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 7-day reverse repurchase of 15 billion yuan on October 30, with a net investment of 15 billion yuan_Company News_Finance",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kd0taU0tvX0xxaGUxbnRIUmpvdmp5MHpiNEdCLVNxYkNTcnM2ZWR2N2VYVDY3eDN3N2ZpN2NidzI4SU1DYjVjYUtROU5Ic3RCYTI4QmxSTVRJc1pQNmFPYg?oc=5",
+   "published_utc": "2026-10-30T04:00:00+00:00",
+   "title_original": "央行10月30日开展150亿元7天逆回购净投放150亿元_公司新闻_财经",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3780fb350a254e85"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
@@ -626,23 +697,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4f00fb7b2bbfe979"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVHdSZVRkTldtMFN6bWZ2alNvY2UzQWlqMGpoaDZKeDJHcHhicG1aOVo4T3BldHZOY3FSVldtSnUyLVNnaE91WTRhcDZaR1JYV2tyMzVQRXFCdw?oc=5",
-   "published_utc": "2026-10-30T03:56:36+00:00",
-   "title_original": "BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a38e1c5de19eda1"
   },
   {
    "source_id": "gn_jp_investing",
@@ -661,6 +715,23 @@
    "live_wire": false,
    "manual": false,
    "id": "71e34d41f9839f31"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVHdSZVRkTldtMFN6bWZ2alNvY2UzQWlqMGpoaDZKeDJHcHhicG1aOVo4T3BldHZOY3FSVldtSnUyLVNnaE91WTRhcDZaR1JYV2tyMzVQRXFCdw?oc=5",
+   "published_utc": "2026-10-30T03:56:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a38e1c5de19eda1"
   },
   {
    "source_id": "investing_econ",
@@ -1477,25 +1548,6 @@
    "live_wire": false,
    "manual": false,
    "id": "918eb3bd5186f275"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "BOJ: TO CONTINUE HIKING RATES IN LINE WITH GDP, CPI, GIVEN UNDERLYING INFLATION LARGELY CONSISTENT WITH 2% TARGET, FINANCIAL CONDITIONS ACCOMMODATIVE",
-   "url": "https://www.tradingview.com/news/macenews:4f8ba9f6b094b:0-boj-to-continue-hiking-rates-in-line-with-gdp-cpi-given-underlying-inflation-largely-consistent-with-2-target-financial-conditions-accommodative/",
-   "published_utc": "2026-10-30T03:13:00+00:00",
-   "title_original": "BOJ: TO CONTINUE HIKING RATES IN LINE WITH GDP, CPI, GIVEN UNDERLYING INFLATION LARGELY CONSISTENT WITH 2% TARGET, FINANCIAL CONDITIONS ACCOMMODATIVE",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3f4fd121500430c5"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3810,8 +3862,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더팩트",
    "title_en": "The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy Committee meets eight times a year",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRDN1MFY4U1NQQko4MlR0TXJOU3lDTVJ3SjA4RjUzaTNWczZjeDVlc3E5V1RHVkdFT08xMnRIczhtMzdqU1NEMmRqN3JCbEV4eGduLTY2dFExQdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
-   "published_utc": "2026-10-29T06:51:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
+   "published_utc": "2026-10-29T06:51:00+00:00",
    "title_original": "한은, 내년 첫 기준금리 결정 1월 14일…금통위 연 8차례 개최",
    "region": "korea",
    "topics": [
@@ -3822,7 +3874,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fffe022a4ea0fd55"
+   "id": "27be5918f1a65a63"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -4070,24 +4122,6 @@
    "live_wire": false,
    "manual": false,
    "id": "30b0b131ce2f111a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
-   "published_utc": "2026-10-29T04:07:30+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "72c3836b9f7c92c3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4534,7 +4568,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -4546,6 +4580,24 @@
    "live_wire": false,
    "manual": false,
    "id": "bc19cfd413de5a65"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb29LRE5ydUVkMkM1Sy1VR3RuclQ2U3NBV1FwOTdmZk02LXlLSktXd3JuZExZMlNpeFQ3d1pLT2I2OFFLN2ZwbFhtUzBkUUVGN0g4QnFDTjltWmxFUFVzNUh4NHVTV2JTQUtYTWwtQU9PajJBaUs1Qmo2Um9Zemc?oc=5",
+   "published_utc": "2026-10-29T01:29:41+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26c7660a9fae0602"
   },
   {
    "source_id": "korea_herald_biz",
@@ -13498,9 +13550,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xT3VaUFg3ZzYxWlNDNUFyeFdDT2ZmdnpBUTAtUmtsUWhQeVZ3eHJwTTRCTWtPQzBRM3UwaE9OUnJNbGczQVRnRlBmaTBMWmxuWF9pY1RUQjhOT1RtQnVuWTBUQ0VXazZtM3lGRGRuR1FWYWZCZ25QcQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
    "published_utc": "2026-10-23T14:14:15+00:00",
    "title_original": "央行开展7000亿元1年期MLF操作",
    "region": "china",
@@ -13512,7 +13564,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6d0566560d90a238"
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
@@ -51877,58 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f10b163e383367ec"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWxydGRxeGV6eFBoMzd4dGN1aV9rQVV6UTFhLTE0NFozWW10Yk5ndkQ0QkpFX2EwdkJfSzhxTXdZV0p3ZDZXZVNWVC0tLTBvMlR5ZWx4bnVWekpKWVdxNmRqQ2d1VkNOVjdwczY1cWlOZ1JITEtpcnRfc1daMFlGZGNtdnVDVXp4b3l3NW9leWlMUWhuMGZIYXE2Y3Q0VGdTQlFyMktGSkdMZ1VFZUlGSFdKT3k5Szg?oc=5",
-   "published_utc": "2026-10-06T09:05:46+00:00",
-   "title_original": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a836af08811c0a03"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AMD to expand Taiwan supply chain investment as AI demand drives capacity needs",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlI4bXotTmNpNDUwRjlCSHRxLU5YMUN3VDJMR2JOVll0emFyRS14VnNyZUJrYUJBN2NobEFkWC1yZUU4UUlXMjF5V0xTWDViMVpuV1gtdl9hYndUX3V6dlVmLWNvOUl5YlFLQmUwcGE0X240NEdVN3hTdHZTNFIwaTE2TW1XQzhJTnlITVBBUF91TkpVN01NcHI2YzhzeVdMVjRv?oc=5",
-   "published_utc": "2026-10-06T08:48:53+00:00",
-   "title_original": "AMD to expand Taiwan supply chain investment as AI demand drives capacity needs",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "49f9461cce249518"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zY3o2clhqb3BrLTEyT1RmM2RXUmZ0OFJGTGgzSWRnWlV2X2g1Vk9WUTBhckMxOVZrZDVUeng0S2M1WFBRZU5pdy1BSE5WaTJzeEE?oc=5",
-   "published_utc": "2026-10-06T08:48:15+00:00",
-   "title_original": "Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "941f4b70533ccf45"
   },
   {
    "source_id": "manual_ia",

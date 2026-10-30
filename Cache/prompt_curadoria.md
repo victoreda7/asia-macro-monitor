@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T04:42:45.408295+00:00
+Última coleta: 2026-10-30T04:52:42.900154+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          940
-  🇨🇳 China          824
-  🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  872
+  🇯🇵 Japão          941
+  🇨🇳 China          825
+  🇹🇼 Taiwan         363
+  🇰🇷 Coreia do Sul  871
 
 ## O que já está no feed (não repita)
 
+  - [japan] Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, N
+  - [taiwan] Foxconn unveils three new EV models as it expands contract manufacturing push
+  - [japan] Key points from the Bank of Japan governor's conference: Policy significance of reaching the 2% target, next i
   - [japan] Although the Bank of Japan judges that the underlying price level has reached the 2% target, good price increa
   - [japan] The Bank of Japan announced that the inflation rate has reached the 2% target and kept interest rates unchange
   - [japan] Analysts consider the Bank of Japan meeting to be hawkish even if it remains unchanged; focus on announcement 
@@ -32,9 +35,10 @@ Total: 3000 manchetes
   - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
   - [japan] Statement on Monetary Policy
   - [japan] BOJ Hold Comes With Critical Shift in Inflation View — Market Talk
+  - [china] The central bank launched a 7-day reverse repurchase of 15 billion yuan on October 30, with a net investment o
   - [china] The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 bill
-  - [japan] BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation
   - [japan] Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters
+  - [japan] BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation
   - [japan] BOJ keeps interest rates steady, signals further rate hikes
   - [japan] Bank of Japan ETF sales pace doubles, completion time shortened from 112 years to 43 years (Mainichi Shimbun)
   - [japan] [Breaking News] Bank of Japan has determined that the ``underlying inflation rate'' target of 2% has been virt
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Likely Declaring Win in Deflation Battle — Market Talk
   - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
   - [japan] BOJ: UNDERLYING INFLATION CONSISTENT WITH 2% TARGET
-  - [japan] BOJ keeps interest rates steady as expected; says CPI inflation now at target By Investing.com
-  - [japan] BREAKING NEWS: BOJ flags Middle East, AI demand, forex as risks to economy, prices
-  - [japan] Bank of Japan accelerates pace of ETF sales to around 860 billion yen annually from January 2027 (Reuters)
-  - [japan] Sparx Group Co., Ltd. - To Buy Back Up To 0.45% Of Shares Worth 500 Million Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T04:42:45+00:00",
+      "published_utc": "2026-10-30T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
