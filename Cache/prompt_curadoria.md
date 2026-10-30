@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T04:52:42.900154+00:00
+Última coleta: 2026-10-30T05:02:45.628346+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          941
@@ -17,6 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ says 2% inflation target achieved, holds rates steady
+  - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
+  - [taiwan] Taiwan's manufacturing sector stays in fast-growth mode in September
   - [japan] Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, N
   - [taiwan] Foxconn unveils three new EV models as it expands contract manufacturing push
   - [japan] Key points from the Bank of Japan governor's conference: Policy significance of reaching the 2% target, next i
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's yuan hits over 4-year high, set for fourth monthly gain
   - [japan] Bank of Japan leaves policy rate unchanged at 1.25%
   - [japan] Bank of Japan decides to keep policy rate unchanged at 1.25% Monetary Policy Meeting
-  - [japan] Bank of Japan Likely Declaring Win in Deflation Battle — Market Talk
-  - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
-  - [japan] BOJ: UNDERLYING INFLATION CONSISTENT WITH 2% TARGET
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T04:52:43+00:00",
+      "published_utc": "2026-10-30T05:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
