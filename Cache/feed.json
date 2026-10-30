@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T11:32:44.993643+00:00",
- "collected_at_utc": "2026-10-30T11:32:44.993643+00:00",
+ "generated_at_utc": "2026-10-30T11:42:43.696495+00:00",
+ "collected_at_utc": "2026-10-30T11:42:43.696495+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 923,
+  "japan": 924,
   "china": 854,
-  "taiwan": 361,
+  "taiwan": 360,
   "korea": 862
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T11:10:10+00:00"
+   "newest": "2026-10-30T11:34:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T10:43:35+00:00"
+   "newest": "2026-10-30T11:28:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T07:00:00+00:00"
+   "newest": "2026-10-30T11:23:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T20:04:34+09:00"
+   "newest": "2026-10-30T20:39:18+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:53:06+00:00"
+   "newest": "2026-10-30T08:29:23+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T11:31:50+00:00"
+   "newest": "2026-10-30T11:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:45:34+00:00"
+   "newest": "2026-10-30T08:44:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68715",
+   "published_utc": "2026-10-30T11:31:35+00:00",
+   "title_original": "9月原油輸入は4か月ぶり減少 パイプライン停止が影響か",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "312c72fadd4e77bd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "ShareCast",
@@ -695,6 +712,26 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qeTk4YU9ySjlqc1I0TFIyN2NxcGpOT3VsQTdTYlpKM3h6MldpVHlGMU04Zkw4ajRwY21xSjllRnJNbWVzYldnUllOOW94WmlDWTgtYzBCQ3ZqYXpHTzFZMGlMMlc3ajM0ZVZKQ09NV1g3UnhVZ18xcHFDOERMWHc?oc=5",
+   "published_utc": "2026-10-30T09:53:23+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fd0c09da45300452"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Governor Ueda holds press conference, reaching 2% price target: Experts say this (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVkd5RjZsdmxaWW1CekRtOGVwbjBnV3ppMGlPOHNDdTFBNU1BUWdfWG9RNnJDalpFbzRWaS16RXJmclpDVWJiZ09EVGhtRVZUUUU5NjBqRDFIREc1ZUl1QVYzcTBVWGJrU0l3eW5xN2wzUFgweXIxeHhUbzVKMnc?oc=5",
    "published_utc": "2026-10-30T09:51:56+00:00",
@@ -837,10 +874,10 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVAyLVBDeUV3SjI2ZU5Ucm1tZXNYd1UxZmE0Mm16Vl9EeU1Zc3pLWHpvRGt4dGpHUjNUbFpHMjJzZnNNZV82OVVGdEtCT3hBdUEzNC1WUm1vWjdQSnVMZmZqelU0eGNoVktMQkI1X1RobEtjemw5cHAwRDhyNHVkNWZ5M204V3dlUnJ6cnNB?oc=5",
    "published_utc": "2026-10-30T09:41:07+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達 (テレビ朝日系（ANN）)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -852,7 +889,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "37a9d2a743bc3db5"
+   "id": "833f6dbef70a52ce"
   },
   {
    "source_id": "tradingview_live",
@@ -2326,24 +2363,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a8c529826cc2bc14"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan says it expects the inflation rate to “reach 2%” for the first time since the target was introduced in 2013, leaving policy interest rates unchanged (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93b3dYUmY0d0NUVHcwaU9CM1VkMndCSUdTVE9XWFJDcG04MW54VEhRWFYxcklaYUJOUWJqS2s2YUVyRkt4ekpIM3hGbFl4cGlLakNTcWR3NlZVaTRjd283ZlJHSEVtaEM2UDFqUnIybWMxN3F4aFlibU9va3JGN2c?oc=5",
-   "published_utc": "2026-10-30T04:54:21+00:00",
-   "title_original": "日銀 物価上昇率“2％到達”と見解示す 目標導入の2013年以降初 政策金利は据え置き（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a89eda34fed8263"
   },
   {
    "source_id": "investing_live",
@@ -3912,6 +3931,24 @@
    "live_wire": false,
    "manual": false,
    "id": "213bcddb21aa9a42"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Important adjustments from the central bank will be implemented starting next week",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaZVpOT1N3NGtPYmpadXdES2pFVUpHa0FpSk5hbEtXc1Z1aE9FYnpiTk5EcmhueXBTRzd5dUtDczQwcXM5UEtKekZhcmlLVmJqdXVsZ28tVWNvT2RVRFE5SERULXJEdw?oc=5",
+   "published_utc": "2026-10-29T20:37:39+00:00",
+   "title_original": "央行重要调整，下周起实施",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b56b8c73c8f3b62c"
   },
   {
    "source_id": "toyo_keizai",
@@ -51926,40 +51963,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5bb42a102d8fd88f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "汇通网 Fx678",
-   "title_en": "India's central bank deposit reserve ratio was 3% on October 7, with an expected value of 3% and a previous value of 3%_Foreign Exchange Dynamic Report",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OMzItQ01ZQi1wOGEtaWZ4SzdmZHRtcmExczVOR0J2V3N2Rm4yc0N0b0gxN2YxOEUxdHJyRW83ZzVqcDhZYzdIVFNwWjBiei1Hb1FWRGY3WXRoY1dERkVxbTdJcVRTb0E?oc=5",
-   "published_utc": "2026-10-07T04:41:15+00:00",
-   "title_original": "印度 10月7日央行存款准备金率3%,预期值3%,前值3%_外汇动态报道",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ae8d8b7f796e3ec"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Chip price hikes loom as Taiwan IC designers brace to pass on costs through 2027",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41Z2FKYXhfcGFJMV9MXzMyb3hkaUxYUURBRWFGdklqTklaYUJhNV9MNnF3UTc2SFpYeVNUNXRoNjZwanpTWEdCMkljWWJqbGVqRHRMMEMtVy1NUmxPSTQ3cQ?oc=5",
-   "published_utc": "2026-10-07T04:01:01+00:00",
-   "title_original": "Chip price hikes loom as Taiwan IC designers brace to pass on costs through 2027",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d67211017d6c7e44"
   },
   {
    "source_id": "manual_ia",
