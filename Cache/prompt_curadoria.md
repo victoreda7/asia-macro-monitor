@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T19:42:44.519185+00:00
+Última coleta: 2026-10-30T19:52:44.603310+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
@@ -39,11 +39,11 @@ Total: 3000 manchetes
   - [taiwan] Intel on course for worst day ever, triggers global chip rout
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
+  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
   - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
   - [china] Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside
-  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [japan] When will the Bank of Japan raise interest rates next? Will the policy interest rate exceed 2%? #Expert Topi (
   - [china] News Analysis: What China's new consumption trends say about its economy
   - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T19:42:44+00:00",
+      "published_utc": "2026-10-30T19:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
