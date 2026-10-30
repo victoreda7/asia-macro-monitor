@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-30T02:12:44.286810+00:00",
- "collected_at_utc": "2026-10-30T02:12:44.286810+00:00",
+ "generated_at_utc": "2026-10-30T02:22:44.485637+00:00",
+ "collected_at_utc": "2026-10-30T02:22:44.485637+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 911,
   "china": 827,
-  "taiwan": 370,
-  "korea": 892
+  "taiwan": 369,
+  "korea": 893
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T14:17:00+00:00"
+   "newest": "2026-10-30T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T01:41:40+00:00"
+   "newest": "2026-10-30T02:12:48+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
-   "newest": "2026-10-29T03:08:33+00:00"
+   "newest": "2026-10-29T05:50:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T01:30:08+00:00"
+   "newest": "2026-10-30T02:12:12+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T02:10:21+00:00"
+   "newest": "2026-10-30T02:20:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:46:10+00:00"
+   "newest": "2026-10-29T19:45:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T01:10:31+00:00"
+   "newest": "2026-10-29T01:00:02+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Malaysian ringgit, Korean won lead Asian FX gains; Taiwan dollar slips",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G06X:0-malaysian-ringgit-korean-won-lead-asian-fx-gains-taiwan-dollar-slips/",
+   "published_utc": "2026-10-30T02:14:42+00:00",
+   "title_original": "Malaysian ringgit, Korean won lead Asian FX gains; Taiwan dollar slips",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "966a0d9cba40f901"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -449,23 +466,6 @@
    "id": "c893ab4d72acf4d1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Internal Affairs and Communications",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68199",
-   "published_utc": "2026-10-30T01:48:27+00:00",
-   "title_original": "完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b01d777277a49078"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA PBOC CONDUCTS CNY150 BLN VIA 7-DAY REVERSE REPO FRI",
@@ -481,6 +481,23 @@
    "live_wire": true,
    "manual": false,
    "id": "436d20bd634b66c1"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Internal Affairs and Communications",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68199",
+   "published_utc": "2026-10-30T01:48:00+00:00",
+   "title_original": "完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b01d777277a49078"
   },
   {
    "source_id": "tradingview_live",
@@ -1877,7 +1894,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Makes First Inquiry for US Wheat Since Trump-Xi Summit",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNno1U1dZRUM1RmlvS1h0Ul92R19WM0xzLXlnNnNpV0w5anZMX3AtU0w2RDVNTVNMSmx2OEdEQ05Yd0VqSzBZRWxqMG5oakRrbUhtdlE2ZVBlMmotWURDb0pwQlpOYlZQMHM2T18zTTdhWnpUTXl1RE1IdVZKWkFkdllsVjFSeVZnZklhc0x6Q1hkeG5rX0N5M0hnM0k3a0duSWdvTzhKXzNuUkJqdkxjYg?oc=5",
    "published_utc": "2026-10-29T15:21:59+00:00",
@@ -2640,8 +2657,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더팩트",
    "title_en": "The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy Committee meets eight times a year",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRDN1MFY4U1NQQko4MlR0TXJOU3lDTVJ3SjA4RjUzaTNWczZjeDVlc3E5V1RHVkdFT08xMnRIczhtMzdqU1NEMmRqN3JCbEV4eGduLTY2dFExQdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
-   "published_utc": "2026-10-29T06:51:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
+   "published_utc": "2026-10-29T06:51:00+00:00",
    "title_original": "한은, 내년 첫 기준금리 결정 1월 14일…금통위 연 8차례 개최",
    "region": "korea",
    "topics": [
@@ -2652,7 +2669,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fffe022a4ea0fd55"
+   "id": "27be5918f1a65a63"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3010,9 +3027,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWdiMGpneE5zbGpZZVRfWENfVEVKZHZJTFI3aFhnS0QzSkhBZzFlWWlwTVB2VGJpTFRtcHp0c3laVUp4b0VleHdOSEF2QlNObFpuMUtJNkpZeE1uTXo0b1lDSHZwWjBHY2FqT3R3WjVqc3ZCMHB1R2k4NDZvdklLQVNOQ2M2NXdybm1R?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -3024,7 +3041,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b921c83c0da75290"
+   "id": "a31086249153c216"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -9213,9 +9230,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -9227,7 +9244,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8166e1f4e20d2cef"
+   "id": "0facd9f9793a1c33"
   },
   {
    "source_id": "tradingview_live",
@@ -9374,7 +9391,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국금융신문",
+   "source_name": "금융신문",
    "title_en": "[Profile] Choi Chang-ho, Assistant Vice President for Monetary Policy and Markets at the Bank of Korea",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNWxvWW9vNDM1UE5SYWFwb19tcjcxYVdhanI4UnRpT2JLMHdfb0RlajhkRm5PcFhhZ2Z2N05QTWx0c3VMb3RaOF83UXRneHNKZjR6RVZ3a1p0VVoxbVVJSHEycmh3RllQN0R4blRuU0ZNY3FZX2Z0Yzc2Y1Q?oc=5",
    "published_utc": "2026-10-26T11:33:55+00:00",
@@ -10528,6 +10545,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8ad0e6381b5427fd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBob3haUVpMWHhBcXZNUUdLa0sxV1ptN0dNMFVEZkk0RENUYkJWemw3eE9GNVhRdzNVSHpYam1Pb2VBZFBMdHo2NV9wR1NQYzBlVnNzTGc3cVRramNzbVA4ZlVR?oc=5",
+   "published_utc": "2026-10-26T02:56:03+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a7d1cb03ad8a1b50"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -12290,24 +12325,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
-   "published_utc": "2026-10-23T14:14:15+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
@@ -51871,23 +51888,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bf24496c5966c604"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2h0c3lxc2dnMzBkcUp2UUlteUVyWkxmRWNsOFlsVW9UeHdLWndDcWw4bi1TNXRCY21jNGg3OS1uMWZPYVhPOE9LY1p5emYyQXNBVFlkQ0c4NWIyN3Q3bU1aUElJbS1RMVI2eEFLZXJ0dE4yZUFYa25iTlJXejlVNlcxV3NrZzZySy0xQnlZTlVfbW9xWktMcWV0Y1RDRUtxZVU3QnZMejg0TFVBclN3ck5sclBtM0U2SU12Z051aTZoRWpDMldESFUtUWJfZw?oc=5",
-   "published_utc": "2026-10-05T18:35:07+00:00",
-   "title_original": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70d388625c3f216a"
   },
   {
    "source_id": "manual_ia",

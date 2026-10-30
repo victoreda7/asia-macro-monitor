@@ -7,24 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T02:12:44.286810+00:00
+Última coleta: 2026-10-30T02:22:44.485637+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          911
   🇨🇳 China          827
-  🇹🇼 Taiwan         370
-  🇰🇷 Coreia do Sul  892
+  🇹🇼 Taiwan         369
+  🇰🇷 Coreia do Sul  893
 
 ## O que já está no feed (não repita)
 
+  - [korea] Malaysian ringgit, Korean won lead Asian FX gains; Taiwan dollar slips
   - [japan] Japan Industrial Output Climbs 2.2% In September
   - [japan] Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters
   - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
   - [japan] Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar
   - [japan] Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also 
   - [korea] Hyundai Glovis : Q3 revenue reached KRW 9,053.6bn as logistics and shipping growth lifted earnings
-  - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
   - [china] CHINA PBOC CONDUCTS CNY150 BLN VIA 7-DAY REVERSE REPO FRI
+  - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO FRI
   - [korea] SK reshuffles energy chiefs, names SK hynix development head to new US role
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7138 FRI VS 6.7147
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Industrial Output Rebounds, Pointing to Economic Resilience
   - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com
   - [japan] JAPAN METI: SEPT INDUSTRIAL OUTPUT M/M RISE LED BY PASSENGER CARS, CHIP MAKING EQUIPMENT, CONVEYORS/CRANES
-  - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T02:12:44+00:00",
+      "published_utc": "2026-10-30T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
