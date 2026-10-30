@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T12:42:44.609989+00:00
+Última coleta: 2026-10-30T12:52:45.330139+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
   🇨🇳 China          853
-  🇹🇼 Taiwan         362
-  🇰🇷 Coreia do Sul  858
+  🇹🇼 Taiwan         363
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] 113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
   - [japan] [Emin Yilmaz talks] What will happen? The future of Japanese stocks/Is it a waste to just rely on Orkan? / Cur
@@ -55,7 +56,6 @@ Total: 3000 manchetes
   - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
-  - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
   - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T12:42:44+00:00",
+      "published_utc": "2026-10-30T12:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
