@@ -7,18 +7,32 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T08:12:43.936003+00:00
+Última coleta: 2026-10-30T08:22:45.102112+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          939
-  🇨🇳 China          831
-  🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  870
+  🇯🇵 Japão          931
+  🇨🇳 China          834
+  🇹🇼 Taiwan         363
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] Taiwan's Inflation Likely to Remain Elevated — Market Talk
+  - [japan] BOJ chief Ueda says 2% inflation goal not yet sustainably achieved
+  - [taiwan] Taiwan Q3 preliminary GDP beats forecasts on solid AI demand
+  - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
+  - [japan] Today's Oha Biz October 30th (Friday) What is the terminal rate (achieved interest rate)?
+  - [japan] Bank of Japan Likely to Wait Before Further Tightening — Market Talk
+  - [china] Qi An Xin Tech Q3 Net Loss At 757.5 Million Yuan
   - [china] Audi cuts 2026 outlook on China weakness, price pressure
+  - [china] New China Life Insurance Q3 Net Loss At 511 Million Yuan
+  - [taiwan] Taiwan 3Q GDP +3.21% From 2Q
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transaction with Affiliate Company
+  - [taiwan] Taiwan 3Q GDP +14.36% On Year; Market Expected +12.0%
+  - [china] Advanced Micro-Fabrication Equipment Inc China Q3 Net Profit Up 159.0% Y/Y
+  - [korea] ADX Says Units Of PLUS Korea Manufacturing Core Alliance Index ETF Will Be Listed On ADX On Nov 02
+  - [taiwan] Taiwan's Inflation Likely to Remain Elevated — Market Talk
+  - [taiwan] Taiwan Q3 preliminary GDP +14.36%, better than forecast
+  - [china] Key facts: Haleon (HLN) Q3 +2.6%; China import pause; £500m buyback
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] Bank of Japan Governor says that the 2% target is "generally consistent" with the underlying price index still
   - [japan] BREAKING NEWS: BOJ's plan to step up ETF selling will have limited market impact: Ueda
@@ -43,20 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank Of Japan Holds Key Rate As Expected
   - [japan] BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%
   - [japan] Makita Corporation - To Buy Back Up To 3.9% Own Shares Worth 40 Billion Yen
-  - [japan] "Bank of Japan decides to maintain status quo, announces achievement of 2% inflation target" Ushisankuma's bon
-  - [japan] Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes — Update
-  - [japan] Mitsubishi Electric Corporation - To Buy Back Up To 3.91% Own Shares Worth 200 Billion Yen
-  - [japan] Tokyo Electron Ltd - To Buy Back Up To 1.1% Own Shares Worth 150 Billion Yen
-  - [japan] Macroscope: Bank of Japan's policy focus is on fixing the price target, indicating the need for timely interes
-  - [japan] Autobacs Seven Co Ltd - To Buy Back Up To 2.55% Own Shares Worth 3.6 Billion Yen
-  - [china] Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027
-  - [japan] TDK: AI-related demand and yen weakness drove higher results; FY27 outlook rose, dividend forecast fell
-  - [japan] East Japan Railway Company: H1 growth and revised FY2027 targets accompany a newly integrated real estate busi
-  - [japan] [Tokyo Foreign Exchange] Dollar, high 157 yen = scuffles waiting for the Bank of Japan governor's conference (
-  - [japan] Watch BOJ Governor Ueda's press conference (Japanese only)
-  - [china] China Elevates Military Leader to Politburo, Ratifies Party Expulsions
-  - [japan] The dollar was flat at 157 yen at 3 p.m., with the Bank of Japan's decision showing little surprise and likely
-  - [korea] Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T08:12:44+00:00",
+      "published_utc": "2026-10-30T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
