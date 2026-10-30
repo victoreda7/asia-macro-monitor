@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T06:52:43.879229+00:00
+Última coleta: 2026-10-30T07:02:44.940163+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          940
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [japan] Autobacs Seven Co Ltd - To Buy Back Up To 2.55% Own Shares Worth 3.6 Billion Yen
   - [japan] TDK: AI-related demand and yen weakness drove higher results; FY27 outlook rose, dividend forecast fell
   - [japan] East Japan Railway Company: H1 growth and revised FY2027 targets accompany a newly integrated real estate busi
+  - [japan] [Tokyo Foreign Exchange] Dollar, high 157 yen = scuffles waiting for the Bank of Japan governor's conference (
   - [japan] Watch BOJ Governor Ueda's press conference (Japanese only)
   - [china] China Elevates Military Leader to Politburo, Ratifies Party Expulsions
   - [japan] The dollar was flat at 157 yen at 3 p.m., with the Bank of Japan's decision showing little surprise and likely
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan's underlying price increase rate “effectively reached 2% target”; policy interest rate unchanged
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 111.26, Implies 35% Upside
   - [japan] Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
-  - [japan] Analysts react to BOJ decision to keep rates steady
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T06:52:44+00:00",
+      "published_utc": "2026-10-30T07:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
