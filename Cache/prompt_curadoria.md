@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T22:42:44.290213+00:00
+Última coleta: 2026-10-30T22:52:54.880434+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
+  🇯🇵 Japão          924
   🇨🇳 China          867
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  852
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
   - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
   - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
   - [china] Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan
-  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T22:42:44+00:00",
+      "published_utc": "2026-10-30T22:52:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
