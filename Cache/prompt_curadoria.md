@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T03:52:49.358700+00:00
+Última coleta: 2026-10-30T04:02:43.912454+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
+  🇯🇵 Japão          937
   🇨🇳 China          824
-  🇹🇼 Taiwan         366
+  🇹🇼 Taiwan         364
   🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
+  - [japan] Statement on Monetary Policy
+  - [japan] BOJ Hold Comes With Critical Shift in Inflation View — Market Talk
   - [japan] Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar
   - [japan] Nikkei Extends Losses, Yen Strengthens After BOJ Decisions — Market Talk
   - [japan] Bank of Japan Holds Fire While Signaling Rate Hikes Ahead
@@ -49,14 +52,11 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Underlying inflation "generally consistent" with 2% target: BOJ
   - [japan] BOJ BOARD UNANIMOUSLY DECIDES TO ACCELERATE SELLING OF BANK’S ETF HOLDINGS AT ABOUT 0.1% OF MARKET TRADING VAL
   - [japan] Japan 10Y Yield Falls as BOJ Holds Rates
+  - [japan] BREAKING NEWS: BOJ to accelerate pace of sales of ETF holdings
   - [japan] MNI BOJ DECIDES TO KEEP POLICY RATE AT 1.25%
   - [japan] BOJ keeps interest rates steady as expected; says CPI inflation now at 2% target
   - [japan] Yen Strengthens as BOJ Keeps Rates Unchanged
   - [japan] In October, the consumer price index in Tokyo’s 23 wards increased by 2.6% (ABEMA TIMES)
-  - [japan] BOJ BOARD FY26 MEDIAN GDP FORECAST +0.7% VS. +0.6% IN JULY; FY27 FORECAST +0.7% VS. +0.8% IN JULY; FY28 FORECA
-  - [japan] BOJ BOARD FY27 MEDIAN CORE CPI FORECAST +2.6% VS. +2.4% IN JULY; FY28 FORECAST +2.0% VS. +2.0% IN JULY
-  - [japan] Bank of Japan judges that it has reached its 2% price increase target to end deflation...Decided to leave inte
-  - [japan] [Breaking News] Bank of Japan postpones further interest rate hike, decides to keep policy rate unchanged at 1
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T03:52:49+00:00",
+      "published_utc": "2026-10-30T04:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
