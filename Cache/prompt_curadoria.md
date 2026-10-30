@@ -7,28 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T04:22:46.822169+00:00
+Última coleta: 2026-10-30T04:32:44.596570+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          938
-  🇨🇳 China          824
+  🇯🇵 Japão          939
+  🇨🇳 China          823
   🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 111.26, Implies 35% Upside
+  - [japan] BOJ keeps rates steady, declares victory in hitting price target
+  - [japan] Analysts react to BOJ decision to keep rates steady
   - [japan] Japan GDP Data Key to Timing Next BOJ Hike — Market Talk
   - [japan] 2% inflation target reached: Bank of Japan opinion
   - [japan] Janome Corp - To Buy Back Up To 5.98% Of Shares Worth 1 Billion Yen
-  - [japan] Analysts react to BOJ decision to keep rates steady
   - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
   - [japan] Statement on Monetary Policy
   - [japan] BOJ Hold Comes With Critical Shift in Inflation View — Market Talk
   - [china] The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 bill
   - [japan] BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation
+  - [japan] Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters
   - [japan] BOJ keeps interest rates steady, signals further rate hikes
-  - [japan] BOJ keeps rates steady, declares victory in hitting price target
   - [japan] Bank of Japan ETF sales pace doubles, completion time shortened from 112 years to 43 years (Mainichi Shimbun)
   - [japan] [Breaking News] Bank of Japan has determined that the ``underlying inflation rate'' target of 2% has been virt
   - [japan] Nikkei Extends Losses, Yen Strengthens After BOJ Decisions — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ: TAKATA PROPOSES TO LIFT RATE TO 1.5%; DEFEATED BY MAJORITY
   - [japan] Bank of Japan's key price inflation target is "generally consistent" with the 2% target, the first time since 
   - [japan] BOJ: POLICY DECISION BY 8-TO-1 VOTING; TAKATA DISSENTS
-  - [japan] BOJ: PACE OF SELLING OF ITS ETF HOLDINGS TO RISE TO ABOUT Y860 BLN A YEAR FROM ABOUT Y330 BLN ON BOOK VALUE BA
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T04:22:47+00:00",
+      "published_utc": "2026-10-30T04:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
