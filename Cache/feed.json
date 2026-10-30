@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T11:42:43.696495+00:00",
- "collected_at_utc": "2026-10-30T11:42:43.696495+00:00",
+ "generated_at_utc": "2026-10-30T11:52:44.972182+00:00",
+ "collected_at_utc": "2026-10-30T11:52:44.972182+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 924,
-  "china": 854,
-  "taiwan": 360,
+  "china": 853,
+  "taiwan": 361,
   "korea": 862
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:34:14+00:00"
+   "newest": "2026-10-30T08:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:01:37+00:00"
+   "newest": "2026-10-30T10:50:37+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T11:17:07+00:00"
+   "newest": "2026-10-30T11:24:59+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T11:41:00+00:00"
+   "newest": "2026-10-30T11:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:47:57+00:00"
+   "newest": "2026-10-30T07:53:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:34:32+00:00"
+   "newest": "2026-10-30T10:44:57+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-30T10:46:26+00:00"
+   "newest": "2026-10-30T11:49:41+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:16:50+00:00"
+   "newest": "2026-10-29T22:06:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -376,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "42ebc33293238204"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank officially announced that the policy interest rate has officially \"changed the anchor\", and the latest interpretation is here!",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZYTZpYkRqSGF2MVBVckl6WVd5MVl4T0I4V1BYSjFVNlFrbVQ2eWdCd0JVOWdQMVNWX09HenlZWXFvcEJQQkZGaG8wLTZyaEtMVzcwaDRZa2pGOG9XLUZtTw?oc=5",
+   "published_utc": "2026-10-30T11:24:59+00:00",
+   "title_original": "央行官宣，政策利率正式 “换锚”，最新解读来了！",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64932174917b3e27"
   },
   {
    "source_id": "tradingview_live",
@@ -480,6 +497,24 @@
    "live_wire": false,
    "manual": false,
    "id": "05d386e86216baea"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates as it marks a turning point in policy change after 14 years (Sankei Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTDF5ZjJJU0FRYzRGeHU4aGgxLVJ0dEl5VmU2MkotWENZYmFabFRyM3ZZNEg3SW9MUEJ4NDVhai1FdE5ETDRmWDVvZ19YaXhpSjN6NHFmS19zTGlYNEpkdFhhWHQtek1DRDVXS2pYdENsblI3OW1JQ0puVTNlZDg?oc=5",
+   "published_utc": "2026-10-30T10:44:57+00:00",
+   "title_original": "日銀、基調物価2％到達と判断 14年越しで政策転換の節目に、利上げは見送り（産経新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "55623505035843a3"
   },
   {
    "source_id": "tradingview_live",
@@ -640,6 +675,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5f3348cebf228871"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wUzEzSVBwWTloVGtQYUlEXzd2UElDcGZPQjMwS0JEUDk5VktXLXMtWElhODEya2l3VkZ1dFVBZURpcXZiVHpxcmNlY1lTcnBLdHlZckdGUTBWUQ?oc=5",
+   "published_utc": "2026-10-30T10:04:22+00:00",
+   "title_original": "BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d92fdb2456b33df9"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1434,6 +1487,23 @@
    "live_wire": false,
    "manual": false,
    "id": "258a29c952368526"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Chip designer MediaTek says AI demand growth will continue 'for sure'",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXIzeTN1VVNoSXB4bTY4c3NDc1ZyQldMWVE3ald2NFJEc0JkR0hYTjFxZEluX3FfU0M0Wmk1S0VzZW10NnlJY2xUcmhCd3RBOGNjZFQ1TnN3UHdsOTd6UXQwYk84dGpJbFE3Y1p1WXBPWWRPVHAycXp4Sy1ETzFnU0oxb0VhTXZIanpsV2pZSHU3WGZNQm9mYzc3Q0w1NXB5N2NXd2hyT3BERzhDYzJIckVaZDdCVWs3MVQ5cy1mUQ?oc=5",
+   "published_utc": "2026-10-30T08:34:07+00:00",
+   "title_original": "Chip designer MediaTek says AI demand growth will continue 'for sure'",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8c7b8962aa184fe"
   },
   {
    "source_id": "tradingview_live",
@@ -2257,24 +2327,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b4c51caf940ca965"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan maintains policy interest rate at around 1.25%, indicates inflation rate reaches ``target of 2%'' (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWMEgxdjdTQVRRTmg5b3UtTWFuMzl3dUdrWlE3WmZibnUzdE9VaUZJemJlcllqM2NLc25KYkpnZEt2WFQ3My1aWDBzel8wLWhacFVEQVl2M3Q4MGQ5SkNVS3ZQTWxETWNuR0xTUkhIZS1OeG1GWFFzZmJ6YnR5UTQ?oc=5",
-   "published_utc": "2026-10-30T05:20:53+00:00",
-   "title_original": "日銀 政策金利1.25％程度に維持 物価上昇率「目標の2％」に到達との見解示す（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d9fa8b7ca7f2df11"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -8837,7 +8889,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zb3ZiZkRtZXo0NzlyeDJlcXR4YURWSm1IMDRwUFFHWFhlbzdwV1drUUh1WVhQaTRpeUxSMVVMZkJ5bnVVSUhDZ045VzJ5c2hNejlUSmVsUzZQckowVHAyNDlMUDNyaWUyYWtrWllHb3d0OGg3dGFWTl9QNWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDE2Ums1SjdYTi1FNVZseU9ScFJnc25BSUU2cTkxeXJCdEZlZDVLTmJQZ1JINWRuZkRESnJmaU8yelRtRS1TWVktd3BXR05saUVjMUxQWW5RSWI3NTBsd2otS1BsUmdVcnVNTEl2NDBOQk9HVDMwSG0tY09nbUpSdWtIOGV2UExrdXlNTg?oc=5",
    "published_utc": "2026-10-27T18:18:15+00:00",
    "title_original": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
    "region": "china",
@@ -8848,7 +8900,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "93a6870684bfe769"
+   "id": "73292a0a6dd041b7"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51912,57 +51964,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab9ef5da7556b892"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "富途牛牛",
-   "title_en": "As of October 7, the central bank's deposit reserve ratio is 3%, expected to be 3%, and the previous value was 3%.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGRUaUpheWhDa0NFRHhicFFfOFo4VjY3MEZyYmtZRmROdG1NdzBvSFo2dTNCT1ZOSWZpWDZtdmI3UnYxUHJpUWlmX0NzTkZuZkFmdFBabzBxZEd4eWl0MXVPdHZ5TmlSaUtCRWhKTHhZTGgySm5OQnRrQ3ZZWm9fcTRaclBsQ09VOEFTVjFIV2Z0dUM4Q0UxWnhn?oc=5",
-   "published_utc": "2026-10-07T05:02:43+00:00",
-   "title_original": "印度至10月7日央行存款准备金率 3%，预期3%，前值3%。",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ed6f6f33428d55ac"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Consumption Activity Index",
-   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
-   "published_utc": "2026-10-07T05:00:00+00:00",
-   "title_original": "Consumption Activity Index",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "59b2bbbcbbf50853"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "富途牛牛",
-   "title_en": "India's central bank's reverse repurchase rate is 3.35% as of October 7, compared with the previous value of 3.35%.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2VSV1R4aGhncTM5XzBmZ1hBbk50b2kzM21YUnlmcXd1MHRMUms1MTh3X3phRGZRVjFld0ZnRUZZUjY0dElyOGFQbHQyeFg1ZV83RVpFRC12WVdDRWpBMC1MT1VFMFZncW8xcTZSWnZjNHRmYnRhX2dNaWVLSnYzUkpYZGJFWnA3aUZobGVRTWVNbjdB?oc=5",
-   "published_utc": "2026-10-07T04:41:16+00:00",
-   "title_original": "印度至10月7日央行逆回购利率 3.35%，前值3.35%。",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5bb42a102d8fd88f"
   },
   {
    "source_id": "manual_ia",

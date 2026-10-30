@@ -7,24 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T11:42:43.696495+00:00
+Última coleta: 2026-10-30T11:52:44.972182+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
-  🇨🇳 China          854
-  🇹🇼 Taiwan         360
+  🇨🇳 China          853
+  🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
+  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
   - [china] Memory Crunch Cements CXMT as China's Chip Champion — Update
   - [china] The central bank releases important information
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
   - [taiwan] Tainan station tightens rules for popular public piano
+  - [japan] Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates a
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
@@ -34,6 +36,7 @@ Total: 3000 manchetes
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
   - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
+  - [japan] BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.
   - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [taiwan] Taiwan's ICT export market ranked third in the world last year, and computers and peripheral equipment jumped 
   - [china] Anhui Jianghuai Automobile Group Q3 Net Loss At 391.8 Million Yuan
-  - [taiwan] Soaring inflation erodes purchasing power, and French people tighten their pants to survive
-  - [japan] Bank of Japan ETF sale, Finance Minister Katayama ``Considering how to handle the increase'' (Reuters)
-  - [china] Henan Dayou Energy Q3 Net Loss At 436.4 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T11:42:43+00:00",
+      "published_utc": "2026-10-30T11:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
