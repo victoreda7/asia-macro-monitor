@@ -7,26 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T05:42:43.940426+00:00
+Última coleta: 2026-10-30T05:52:45.382996+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          941
-  🇨🇳 China          827
-  🇹🇼 Taiwan         363
+  🇯🇵 Japão          939
+  🇨🇳 China          828
+  🇹🇼 Taiwan         364
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [japan] Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q
+  - [china] China's green energy exports hit record high, one year's carbon reduction can equal Brazil's entire year's car
   - [japan] BOJ keeps policy rate unchanged at 1.25%, raises annual ETF sales pace to 860 billion yen
+  - [japan] Bank of Japan maintains policy interest rate at around 1.25%, indicates inflation rate reaches ``target of 2%'
   - [japan] Japan Housing Starts Unexpectedly Drop
   - [japan] FOCUS: After decades of deflation, BOJ faces test of maintaining price stability
   - [japan] Japan's industrial production growth hits fastest pace since January; retail sales slow to 2.3% Y/Y
   - [japan] BOJ says 2% inflation target achieved, holds rates steady
   - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
   - [china] European Central Bank President Christine Lagarde admitted that she could no longer remain neutral and would l
+  - [taiwan] Taiwan's manufacturing sector stays in fast-growth mode in September
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] Bank of Japan says it expects the inflation rate to “reach 2%” for the first time since the target was introdu
-  - [taiwan] Taiwan's manufacturing sector stays in fast-growth mode in September
   - [japan] Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, N
   - [taiwan] Foxconn unveils three new EV models as it expands contract manufacturing push
   - [japan] The Bank of Japan should conduct appropriate monetary policy to achieve the price target sustainably and stabl
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan ETF sales pace doubles, completion time shortened from 112 years to 43 years (Mainichi Shimbun)
   - [china] China Elevates Key Figure in Purges With Rare Politburo Pick
   - [japan] [Breaking News] Bank of Japan has determined that the ``underlying inflation rate'' target of 2% has been virt
-  - [japan] Nikkei Extends Losses, Yen Strengthens After BOJ Decisions — Market Talk
-  - [japan] Bank of Japan Holds Fire While Signaling Rate Hikes Ahead
-  - [japan] BOJ SEES FY28 CORE CPI +2.0% VS. JULY 2.0%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T05:42:44+00:00",
+      "published_utc": "2026-10-30T05:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
