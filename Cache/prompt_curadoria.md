@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T10:02:42.617691+00:00
+Última coleta: 2026-10-30T10:12:45.779074+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          919
-  🇨🇳 China          849
-  🇹🇼 Taiwan         365
+  🇯🇵 Japão          920
+  🇨🇳 China          850
+  🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
+  - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
+  - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
   - [china] BAIC BluePark New Energy Technology Q3 Net Loss At 922.0 Million Yuan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..
   - [japan] Chief Cabinet Secretary Kihara: ``Appropriately operate monetary policy to achieve the 2% price stability targ
   - [china] China Life Insurance Q3 Net Loss At 45.1 Billion Yuan
-  - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
-  - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
-  - [china] Trump’s days of running US-China relations on personal ties are numbered
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T10:02:42+00:00",
+      "published_utc": "2026-10-30T10:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
