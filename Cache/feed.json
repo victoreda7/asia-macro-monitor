@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T01:32:43.851063+00:00",
- "collected_at_utc": "2026-10-30T01:32:43.851063+00:00",
+ "generated_at_utc": "2026-10-30T01:42:46.211161+00:00",
+ "collected_at_utc": "2026-10-30T01:42:46.211161+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 909,
-  "china": 827,
-  "taiwan": 373,
+  "japan": 908,
+  "china": 829,
+  "taiwan": 372,
   "korea": 891
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T14:17:00+00:00"
+   "newest": "2026-10-28T15:06:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T00:01:57+00:00"
+   "newest": "2026-10-29T22:02:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T01:27:41+00:00"
+   "newest": "2026-10-30T01:32:50+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T12:48:24+00:00"
+   "newest": "2026-10-30T01:20:14+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T01:30:00+00:00"
+   "newest": "2026-10-30T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T01:31:18+00:00"
+   "newest": "2026-10-30T01:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T19:45:51+00:00"
+   "newest": "2026-10-29T22:46:10+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T00:43:53+00:00"
+   "newest": "2026-10-29T23:55:09+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T01:10:31+00:00"
+   "newest": "2026-10-29T01:00:02+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7138 FRI VS 6.7147",
+   "url": "https://www.tradingview.com/news/dpa_afx:9562b3023d2ba:0-china-sets-yuan-central-parity-at-6-7138-fri-vs-6-7147/",
+   "published_utc": "2026-10-30T01:36:49+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7138 FRI VS 6.7147",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d86c702154ea216d"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "South Korea's Inflation Could Ease in October, Poll Shows — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261029020552:0-south-korea-s-inflation-could-ease-in-october-poll-shows-market-talk/",
@@ -359,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8de81b466279829b"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTGlna25uWUlwVW1MYURFUm9RVVNiSXFvdEZyRXZwbHRCbWlVNUVaVGNLdVUxY1BaM1NJSk5HcS1SR2ZSM0M4aFVESjN4WWNwNHBRTTZOZFpyQQ?oc=5",
+   "published_utc": "2026-10-30T01:20:14+00:00",
+   "title_original": "46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c52fccc9d04bdbf8"
   },
   {
    "source_id": "tradingview_live",
@@ -2450,8 +2484,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더팩트",
    "title_en": "The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy Committee meets eight times a year",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRDN1MFY4U1NQQko4MlR0TXJOU3lDTVJ3SjA4RjUzaTNWczZjeDVlc3E5V1RHVkdFT08xMnRIczhtMzdqU1NEMmRqN3JCbEV4eGduLTY2dFExQdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
-   "published_utc": "2026-10-29T06:51:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVdIBVEFVX3lxTE9jclhnNERuRWRDTzFGOTdybGZNZHMtYzZON3A5b3VldXVTNEhHOWIzWGtfWGJFeVNrNjBPRFZselh4ejlhTGp3Wi0wU2dhOExNaTlVVQ?oc=5",
+   "published_utc": "2026-10-29T06:51:00+00:00",
    "title_original": "한은, 내년 첫 기준금리 결정 1월 14일…금통위 연 8차례 개최",
    "region": "korea",
    "topics": [
@@ -2462,7 +2496,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fffe022a4ea0fd55"
+   "id": "27be5918f1a65a63"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3133,6 +3167,24 @@
    "id": "d5d81fd12a7ce7d0"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "산경투데이",
+   "title_en": "Despite the U.S. Federal Reserve's interest rate freeze, the Bank of Korea is pressured to further increase... November Monetary Policy Committee meeting",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45T1l6cXdaTE85Wm9UcmZmYWIyUkNWOTg0emNCdUNWMTd2bWpqRTlEazl3ejJnRkp0ZjUzVHBiMUFSSXdldHlRdDVoMHZwNWtfVHFfMDZBRjZEOXZOUUFYTGpZRzFoRVdxQWFCOXo1NGthcmxt0gF0QVVfeXFMTjlPWXpxd1pMTzlab1RyZmZhYjJSQ1Y5ODR6Y0J1Q1YxN3ZtampFOURrOXd6MmdGSnRmNTNUcGIxQVJJd2V0eVF0NWgwdnA1a19UcV8wNkFGNkQ5dk5RQVhMallHMWhFV3FBYUI5ejU0a2FybG0?oc=5",
+   "published_utc": "2026-10-29T01:57:07+00:00",
+   "title_original": "美 연준 금리 동결에도 한은 추가 인상 압박…11월 금통위 촉각",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ae73d0a85a9e07fa"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
@@ -3497,24 +3549,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8775057870a94408"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "산경투데이",
-   "title_en": "Despite the U.S. Federal Reserve's interest rate freeze, the Bank of Korea is pressured to further increase... November Monetary Policy Committee meeting",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kTXRvLTNDeWpLV2JlMEwxVUFUZWpvdno1Z2FnSGU0VDVucmdSMEIyeWJ3OGpKT2g0YUVydVM3WTBwakFRNGtlZTZueS1HNHFRSUJXeEx5bnBoanNnX3k4WWk2NUh6VVp1aTlTeV9RejHSAXRBVV95cUxOOU9ZenF3WkxPOVpvVHJmZmFiMlJDVjk4NHpjQnVDVjE3dm1qakU5RGs5d3oyZ0ZKdGY1M1RwYjFBUkl3ZXR5UXQ1aDB2cDVrX1RxXzA2QUY2RDl2TlFBWExqWUcxaEVXcUFhQjl6NTRrYXJsbQ?oc=5",
-   "published_utc": "2026-10-28T22:48:10+00:00",
-   "title_original": "美 연준 금리 동결에도 한은 추가 인상 압박…11월 금통위 촉각",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f8f264a469bf898"
   },
   {
    "source_id": "gn_kr_bok",
@@ -12485,6 +12519,23 @@
    "id": "8fdc93f50ddb2ee5"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "In Depth: China’s Hybrid Export Boom Faces New EU Limits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzNIZ0VsMDlxbjZSWXU3R1doLV9CQmZ5NDBkd0FQSjh2YlRFZE1aLVI4MElTV0hGSmQzenRiQVc2b28zaFVQZVVkc1NxMHBvMUpOWWlYaWF3X0hlekZtOXlkZFg5TEJNZjVhajFNVndtQnVESHdmWkpwdEpjcWxHSWg5UWpBZFlsbmlVeF9qTlBDaHFybzVwNDBCSWlJTnE0enNGcHFuSnI5NVZkU3c?oc=5",
+   "published_utc": "2026-10-23T11:03:00+00:00",
+   "title_original": "In Depth: China’s Hybrid Export Boom Faces New EU Limits",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "86eedd6eaa190a8e"
+  },
+  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Could Europe’s cost-of-living protests sharpen EU-China trade tensions?",
@@ -13579,6 +13630,23 @@
    "id": "264fd1160bcdef67"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHB5MEE0cmR1Y205c1BfamIzclJFY05ia3F1NmVsaUZCV01uY3lyQzRyay1wNjd6eGdwMldHdERWcmRNQ3dab2dvRHhEem9YWDlCNVRxUThjME9iOENjdEREam5uRlZFUzVMTHlXMTZQWnZrYU9Qa3hUUWtrc0prcVpvNXlLSlB4NjdpWlAycUtKMDV4endEWk5idTI4UVVtMWJZSDZjWjdVU2x3UUoycHpfRS0zVnJoZmEtbw?oc=5",
+   "published_utc": "2026-10-23T04:17:36+00:00",
+   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "240723b44d97f05a"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | Sankei",
@@ -14098,23 +14166,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bbd445f1ef7415ef"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFozZC1HRk1kZnZZcWRka1M0U1RYbTdfRzZUVklsal9QcDZrZW4zTFlJZHlZT3hyWXRxaHdSTno0em9KNmhyU1l3eFk1anpuNDdhTEwzb0ExeHBQbnNxOFowU3pKTXZTRno0TGNibDhUcE5GWW9BdHZ3N053SExoQVdFR29kMzMydTdCbDdVMmM1MDBCc3pfX0lKUEhQT28xdlNsV3hoRWV1di1uZkdNVnBHby10OTZpLXJuYg?oc=5",
-   "published_utc": "2026-10-23T00:52:00+00:00",
-   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c86a3e798d4a45f5"
   },
   {
    "source_id": "investing_live",
@@ -17863,23 +17914,6 @@
    "id": "25bcaf4609eac4f5"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVGJxa0ZVZlNlRHROdjdnNjAzQjVOZlhWTHgzSzVMeWZBTXB6MUR5SzlSeEhPRW5QMHNiQnAweWhjOTdjYmFsWm96NTBoaVpPNHhKUjNUSzRKQQ?oc=5",
-   "published_utc": "2026-10-21T14:17:37+00:00",
-   "title_original": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec85aea956112af3"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "PR Newswire",
    "title_en": "ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, China",
@@ -18809,6 +18843,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fe2aa6488984d19c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVGJxa0ZVZlNlRHROdjdnNjAzQjVOZlhWTHgzSzVMeWZBTXB6MUR5SzlSeEhPRW5QMHNiQnAweWhjOTdjYmFsWm96NTBoaVpPNHhKUjNUSzRKQQ?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "title_original": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec85aea956112af3"
   },
   {
    "source_id": "focus_taiwan",
@@ -51836,57 +51887,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f2a95bcd236d1777"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Japan and Australia finance ministers meet to launch new dialogue framework",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261005de54890",
-   "published_utc": "2026-10-05T12:03:28+00:00",
-   "title_original": "日豪財務相が会談 新たな対話の枠組みを立ち上げへ",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7965652ae048afa8"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan's chip industry capitalizes on growth in India semiconductor industry",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QYkhhejNBdHdsUDNRVjlHZE1KLTdESkJySEgwcFpuTFAzSTlwNWdiS3JDZjZvaVNUU2F0WmdrVlU0MWJIdHFiSnA3S3VOZWdGbWF2dEo3THJSQQ?oc=5",
-   "published_utc": "2026-10-05T12:03:00+00:00",
-   "title_original": "Japan's chip industry capitalizes on growth in India semiconductor industry",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4bcf2a2593fce8c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "MarketWatch",
-   "title_en": "Musk hints TSMC may join his mega chip venture, and Intel's stock is taking a hit",
-   "url": "https://www.tradingview.com/news/DJN_SN20261005004212:0/",
-   "published_utc": "2026-10-05T11:28:00+00:00",
-   "title_original": "Musk hints TSMC may join his mega chip venture, and Intel's stock is taking a hit",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6f6aca9b28b9a639"
   },
   {
    "source_id": "manual_ia",

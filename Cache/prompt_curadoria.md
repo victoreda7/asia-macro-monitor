@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T01:32:43.851063+00:00
+Última coleta: 2026-10-30T01:42:46.211161+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
-  🇨🇳 China          827
-  🇹🇼 Taiwan         373
+  🇯🇵 Japão          908
+  🇨🇳 China          829
+  🇹🇼 Taiwan         372
   🇰🇷 Coreia do Sul  891
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7138 FRI VS 6.7147
   - [korea] South Korea's Inflation Could Ease in October, Poll Shows — Market Talk
+  - [japan] 46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 6
   - [japan] JGB Yields Fall Ahead of BOJ Rate Decision — Market Talk
   - [korea] Hanmi Semiconductor Q3 Operating Profit 90.8 Billion Won, Up 34% From Year Earlier
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN OCT TOKYO CORE CPI +2.6% Y/Y; SEPT +2.7%
   - [japan] Consumer prices in Tokyo's wards increased by 2.6% to 103.3 in October...2% level for 2 consecutive months (Yo
   - [japan] Japan Retail Sales Growth Eases to 3-Month Low
-  - [japan] Tokyo prices rose 2.6% in October (Kyodo News)
-  - [japan] Tokyo core inflation exceeds BOJ target in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T01:32:44+00:00",
+      "published_utc": "2026-10-30T01:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
