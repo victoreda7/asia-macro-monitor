@@ -7,24 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T10:12:45.779074+00:00
+Última coleta: 2026-10-30T10:22:45.776135+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
   🇨🇳 China          850
-  🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  867
+  🇹🇼 Taiwan         364
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
   - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
+  - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
   - [china] BAIC BluePark New Energy Technology Q3 Net Loss At 922.0 Million Yuan
   - [japan] BOJ stays pat on rates, signals inflation target reached
   - [china] Cinda Real Estate Q3 Net Loss At 1.2 Billion Yuan
+  - [japan] Yen gains after BOJ; AI jitters dent dollar By Reuters
   - [china] JZJ Chain Drugstore Q3 Net Loss At 312.5 Million Yuan
   - [china] National Silicon Industry Group Q3 Net Profit At 236.7 Million Yuan
   - [japan] Yen Rises On BoJ's Hawkish Pause
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Yuan traded below 6.65
   - [japan] Japan to consider how to handle BOJ ETF surplus in FY2027 budget, Katayama says
   - [taiwan] AI Darling Taiwan Extends Economic Growth Run Unseen Since 1987
-  - [korea] The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..
-  - [japan] Chief Cabinet Secretary Kihara: ``Appropriately operate monetary policy to achieve the 2% price stability targ
-  - [china] China Life Insurance Q3 Net Loss At 45.1 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T10:12:46+00:00",
+      "published_utc": "2026-10-30T10:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
