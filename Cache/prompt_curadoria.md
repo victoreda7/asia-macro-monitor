@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T15:52:44.142593+00:00
+Última coleta: 2026-10-30T16:02:43.159966+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
@@ -48,6 +48,7 @@ Total: 3000 manchetes
   - [china] The central bank announced important adjustments, which will be implemented starting next week!
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
+  - [japan] BOJ stays pat on rates, signals inflation target reached
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
   - [china] Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027
   - [china] Important adjustments from the central bank will be implemented starting next week
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank releases important information
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
   - [taiwan] Tainan station tightens rules for popular public piano
-  - [japan] Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates a
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T15:52:44+00:00",
+      "published_utc": "2026-10-30T16:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
