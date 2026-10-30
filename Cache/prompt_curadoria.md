@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T00:52:44.849959+00:00
+Última coleta: 2026-10-30T01:02:43.085619+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          908
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Export Growth Likely Accelerated in October, Poll Shows — Market Talk
+  - [japan] Japan bond yields on track for weekly rise as BOJ decision looms
   - [japan] Tokyo's 23 Wards Consumer Price Index rises by 2.6%, exceeding 2% for 2 consecutive months October Announcemen
   - [korea] APR: Record 3Q revenue growth led by cosmetics, partly offset by KRW strength
   - [korea] SK Hynix's Free Operating Cash Flow Likely to Grow Further in 4Q — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +1.9% Y/Y (AUG REVISED TO +2.7% FROM +3.4%), 4TH STRAIGHT RISE; MEDIAN FORECAST +
   - [japan] Japan Jul-Sep Industrial Output +0.3% on Quarter
   - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +2.2% M/M (AUG REVISED TO -2.4% FROM -1.7%); 1ST RISE IN 3 MONTHS; MEDIAN FORECAS
-  - [japan] JAPAN SEPT EMPLOYMENT Y/Y RISES AS HIRING INCREASES IN HEALTHCARE/WELFARE, TELECOMS
-  - [japan] Japan Sep Inventory-Shipments Ratio +2.0% on Month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T00:52:45+00:00",
+      "published_utc": "2026-10-30T01:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
