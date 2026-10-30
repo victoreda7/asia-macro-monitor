@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-30T14:22:44.781591+00:00",
- "collected_at_utc": "2026-10-30T14:22:44.781591+00:00",
+ "generated_at_utc": "2026-10-30T14:32:46.206020+00:00",
+ "collected_at_utc": "2026-10-30T14:32:46.206020+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 364,
   "korea": 857
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 56,
+   "count": 58,
    "error": "",
-   "newest": "2026-10-30T18:49:26+08:00"
+   "newest": "2026-10-30T19:49:31+08:00"
   },
   {
    "source_id": "investing_live",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T14:02:26+00:00"
+   "newest": "2026-10-30T14:30:07+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T14:21:59+00:00"
+   "newest": "2026-10-30T14:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-10-30T01:10:31+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:44:13+00:00"
+   "newest": "2026-10-30T14:00:20+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-10-30T06:46:01+00:00"
   }
  ],
  "items": [
@@ -637,11 +637,11 @@
    "id": "7fa49c4844b0fab8"
   },
   {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan Q3 GDP growth hits 14.36%, highest in 48 years",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UMG5PMnZzNElYOEtQS2Qyd1FaWWRwUUlIRlpLNUdZak1MNnpvYlJxU0NmbWtSVlhkV2VVUmVmSDRLd2h2LVBDWWttTEdyQWhZSFNNQ3JDOA?oc=5",
-   "published_utc": "2026-10-30T11:49:00+00:00",
+   "url": "https://focustaiwan.tw/business/202610300021",
+   "published_utc": "2026-10-30T11:49:31+00:00",
    "title_original": "Taiwan Q3 GDP growth hits 14.36%, highest in 48 years",
    "region": "taiwan",
    "topics": [
@@ -651,7 +651,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "15d888982d71d793"
+   "id": "1eaf676956236542"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1287,26 +1287,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
-   "published_utc": "2026-10-30T09:53:23+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f4f41965caec86f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3RNZEdZQkhTUl9BWXZqTkFoSUJFZ0N0NzRIRW41QzBlbjdmQ014QmVjY1hqb0pqMmJLQ012SXBWMFNqWFZnWUtnbS1Pa0ZtOVo1YjFMWGhaZnA5SGE4OEY2M3hLX3FZM1d1cDV4THZGZEM1QmcyU05YTWljWkpPcUpnS0ludHJ0UkhFTUJn?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
@@ -1482,6 +1462,26 @@
    "live_wire": true,
    "manual": false,
    "id": "80686e4fc28752aa"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
+   "published_utc": "2026-10-30T09:41:07+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "tradingview_live",
@@ -6299,7 +6299,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -6310,7 +6310,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ad537082c2c93f5e"
+   "id": "703eacfba1e67ab6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27153,23 +27153,6 @@
    "id": "a6afcef16cf07b63"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -27185,6 +27168,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
