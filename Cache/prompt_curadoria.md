@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T12:52:45.330139+00:00
+Última coleta: 2026-10-30T13:02:44.731200+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          853
+  🇯🇵 Japão          925
+  🇨🇳 China          855
   🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] News Analysis: What China's new consumption trends say about its economy
   - [taiwan] 113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
@@ -27,8 +28,10 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Chief Cabinet Secretary Kihara: “We hope for appropriate monetary policy management” Bank of Japan’s “2% price
+  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried ou
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
   - [taiwan] Intel warning sparks chip rout as PC weakness clouds turnaround
+  - [china] The central bank announced important adjustments, which will be implemented starting next week!
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
   - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
-  - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
-  - [china] China's central bank steps up shift toward overnight rate as policy anchor
-  - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T12:52:45+00:00",
+      "published_utc": "2026-10-30T13:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
