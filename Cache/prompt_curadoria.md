@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T08:02:44.923040+00:00
+Última coleta: 2026-10-30T08:12:43.936003+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          938
+  🇯🇵 Japão          939
   🇨🇳 China          831
-  🇹🇼 Taiwan         362
-  🇰🇷 Coreia do Sul  869
+  🇹🇼 Taiwan         360
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] Audi cuts 2026 outlook on China weakness, price pressure
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] Bank of Japan Governor says that the 2% target is "generally consistent" with the underlying price index still
+  - [japan] BREAKING NEWS: BOJ's plan to step up ETF selling will have limited market impact: Ueda
   - [korea] Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display
   - [japan] Bank of Japan Governor Ueda says, ``It is important to achieve a sustained and stable inflation rate of 2%, an
   - [japan] Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Elevates Military Leader to Politburo, Ratifies Party Expulsions
   - [japan] The dollar was flat at 157 yen at 3 p.m., with the Bank of Japan's decision showing little surprise and likely
   - [korea] Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix
-  - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T08:02:45+00:00",
+      "published_utc": "2026-10-30T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
