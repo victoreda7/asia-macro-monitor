@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T02:52:43.637301+00:00
+Última coleta: 2026-10-30T03:02:45.562696+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
-  🇨🇳 China          826
-  🇹🇼 Taiwan         370
-  🇰🇷 Coreia do Sul  893
+  🇯🇵 Japão          914
+  🇨🇳 China          827
+  🇹🇼 Taiwan         369
+  🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [japan] (Reference) Outlook Report and Indicators Related to Underlying Inflation
+  - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
+  - [japan] Statement on Monetary Policy
+  - [japan] Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also 
+  - [japan] Bank of Japan Monetary Policy Meeting Direction of maintaining policy interest rate Focus on price decisions
+  - [japan] Consumer price index in Tokyo's 23 wards rises by 2.6% Prices will increase for 1,477 food items in November K
+  - [japan] Bank of Japan Governor Ueda on the verge of a monetary policy meeting (Jiji Shin)
   - [japan] Sanwa Holdings Corporation - To Buy Back Up To 1.8% Of Shares Worth 10 Billion Yen
   - [japan] Stock price temporarily fell by 1,600 yen, AI/semiconductor-related stocks were sold off
   - [japan] Japanese bonds rally as investors seek havens ahead of BOJ decision
@@ -25,7 +32,6 @@ Total: 3000 manchetes
   - [japan] Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters
   - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
   - [japan] Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar
-  - [japan] Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also 
   - [korea] Hyundai Glovis : Q3 revenue reached KRW 9,053.6bn as logistics and shipping growth lifted earnings
   - [china] CHINA PBOC CONDUCTS CNY150 BLN VIA 7-DAY REVERSE REPO FRI
   - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN SEPT RETAIL SALES +2.3% Y/Y; AUG +2.9%
   - [japan] JAPAN SEPT FACTORY OUTPUT POSTS 1ST M/M RISE IN 3 MONTHS
   - [japan] JAPAN METI KEEPS ITS VIEW AFTER DOWNGRADING IT IN AUG REPORT: RETAIL SALES TAKING ONE STEP FORWARD AND ONE STE
-  - [japan] JAPAN Q3 GDP CAPEX FORECAST BY ECONOMISTS IN SEPT 30-OCT 7 ESP SURVEY TO SHOW +0.95% Q/Q VS. -0.9% IN Q2, -1.0
-  - [japan] MNI JAPAN SEPT FACTORY OUTPUT +2.2% M/M; AUG -2.4%
-  - [japan] JAPAN Q3 CAPITAL GOODS SHIPMENTS (EX-TRANSPORT EQUIPMENT) +8.8% Q/Q VS. -0.4% IN Q2, INDICATING CAPEX IN Q3 GD
-  - [japan] JAPAN Q3 GDP SEEN SLOWING TO NEARLY FLAT (+0.08%) ANNUALIZED FROM +1.4% IN Q2, WHICH WAS LED BY NET EXPORT, PR
-  - [taiwan] Taiwan semiconductor output to hit NT$9.1 trillion as TSIA urges stable power
-  - [japan] JAPAN JULY-SEPT INDUSTRIAL OUTPUT +0.3% Q/Q VS. +0.2% IN APR-JUNE, +2.5% Q/Q IN JAN-MAR, +0.3% Q/Q IN OCT-DEC 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T02:52:43+00:00",
+      "published_utc": "2026-10-30T03:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
