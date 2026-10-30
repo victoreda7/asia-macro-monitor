@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T11:12:45.332875+00:00",
- "collected_at_utc": "2026-10-30T11:12:45.332875+00:00",
+ "generated_at_utc": "2026-10-30T11:22:45.607933+00:00",
+ "collected_at_utc": "2026-10-30T11:22:45.607933+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 922,
+  "japan": 923,
   "china": 852,
-  "taiwan": 363,
+  "taiwan": 362,
   "korea": 863
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T10:48:15+00:00"
+   "newest": "2026-10-30T11:12:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T10:03:25+00:00"
+   "newest": "2026-10-30T11:10:15+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:36:05+00:00"
+   "newest": "2026-10-30T11:21:02+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 27,
    "error": "",
    "newest": "2026-10-30T09:09:19+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T11:12:24+00:00"
+   "newest": "2026-10-30T11:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T07:53:48+00:00"
+   "newest": "2026-10-30T04:47:57+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:16:50+00:00"
+   "newest": "2026-10-29T22:06:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261030005371:0-japanese-yen-gains-modest-as-boj-rate-rise-prospects-well-priced-market-talk/",
+   "published_utc": "2026-10-30T11:21:00+00:00",
+   "title_original": "Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e5cb9be67ed6b79a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Memory Crunch Cements CXMT as China's Chip Champion — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261030005275:0-memory-crunch-cements-cxmt-as-china-s-chip-champion-update/",
+   "published_utc": "2026-10-30T11:13:00+00:00",
+   "title_original": "Memory Crunch Cements CXMT as China's Chip Champion — Update",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c36f51fe243250d7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -431,6 +466,25 @@
    "live_wire": false,
    "manual": false,
    "id": "d8fdad60fe4b35ba"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan determines that 2% inflation target has been achieved (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oRkxoa2dWQmR3R21VbEVwU3VNQnZUOHpZYlFHbjVoV1lYUDlCNTRQaS00V1Nfa0dEMXBCam0tYWVpYU95NUV5aW5OZ3FLUXBUWE9YVXpxMHo1UWlaOGZvMzdDdHc3OVg3aVUxOHBYZmhhRk9oRHZuRmY1NEtvT28?oc=5",
+   "published_utc": "2026-10-30T10:25:16+00:00",
+   "title_original": "日銀、物価２％目標到達と判断（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "538ad06e2f3248a0"
   },
   {
    "source_id": "tradingview_live",
@@ -694,6 +748,26 @@
    "id": "80686e4fc28752aa"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
+   "published_utc": "2026-10-30T09:41:07+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37a9d2a743bc3db5"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "CRRC, Units Signs Major Contracts Totalling About 71.0 Billion Yuan",
@@ -796,24 +870,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2c7332003d5d23a0"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten their belts | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jUkpLeEppM0t1LUVTT0J2S2RsNk9zR3dsQmUyTFBUN0FiSEoxTDJUUWdJbnFTNnlYbjl3cjVwY0VRblJKbldmR2hYS2VzU0hUTzUxeXRJMW9uOURzZEFN?oc=5",
-   "published_utc": "2026-10-30T09:26:00+00:00",
-   "title_original": "通膨升溫侵蝕購買力法國人嘆能源食品齊漲勒緊褲腰帶生活| 國際",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9db1e97b3e645522"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1376,40 +1432,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6701d978933f0e81"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China set to lose LNG import crown to Japan on weak demand",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46G0CV:0-china-set-to-lose-lng-import-crown-to-japan-on-weak-demand/",
-   "published_utc": "2026-10-30T08:27:04+00:00",
-   "title_original": "China set to lose LNG import crown to Japan on weak demand",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5a77540dc8d15fac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Taiwan Q3 GDP Growth Beats Expectations",
-   "url": "https://www.tradingview.com/news/te_news:596700:0-taiwan-q3-gdp-growth-beats-expectations/",
-   "published_utc": "2026-10-30T08:26:57+00:00",
-   "title_original": "Taiwan Q3 GDP Growth Beats Expectations",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a9d92d103ea32ba9"
   },
   {
    "source_id": "nikkei_asia",
@@ -2273,44 +2295,6 @@
    "id": "00a7fe1de0ad4730"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Key points from the Bank of Japan governor's conference: Policy significance of reaching the 2% target, next interest rate hike, AI-related trends, and other price risks (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SmRKRllZVGNubVZoa0Nvelg0M20zOTFRa1NCQ1VVMTZ5X2RrOW1mV01lajlUam1kUnoyaHBTVWRLdjk1VVlGME5abUdUNUJGT3N3TWh2TF9iLUNhN3VOTzZYcXM0c25PMThlMnN0SU9peTU3M0tiTW45c05xQ2c?oc=5",
-   "published_utc": "2026-10-30T04:34:07+00:00",
-   "title_original": "日銀総裁会見のポイント：2％目標到達の政策的意義、次回利上げ ＡＩ関連動向など物価リスク（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8beee5bd56b25336"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Although the Bank of Japan judges that the underlying price level has reached the 2% target, good price increases are still not realized: Political risks due to increased sales of ETFs (Monetary Policy Meeting) (current affairs commentary by NRI researchers)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemNPVFBOdldFeVFQd1dMaDh2M0twaVZVLW5MaEczQi1MaTdaaWp2T0pBWkdIOEdVbmZueHF0ZF9STWtGM1FTY0h2aTJnWE9JdTBCYTU2VEl0OWEyWlNUTG50Q25DWU5vLVdWZTc2RkJaWTdmalJSM0YtdkZhYkw1NzVuQ3luVGlW?oc=5",
-   "published_utc": "2026-10-30T04:29:48+00:00",
-   "title_original": "日銀は基調的な物価が2％の目標に到達と判断も、良い物価上昇はなお実現されず：ETF売却増加による政治的リスク（金融政策決定会合）（NRI研究員の時事解説）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "917d06200fc8fbb3"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "The Bank of Japan announced that the inflation rate has reached the 2% target and kept interest rates unchanged at 1.25% | International",
@@ -3107,6 +3091,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2fe80162fece65ba"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten their belts | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jUkpLeEppM0t1LUVTT0J2S2RsNk9zR3dsQmUyTFBUN0FiSEoxTDJUUWdJbnFTNnlYbjl3cjVwY0VRblJKbldmR2hYS2VzU0hUTzUxeXRJMW9uOURzZEFN?oc=5",
+   "published_utc": "2026-10-30T00:32:00+00:00",
+   "title_original": "通膨升溫侵蝕購買力法國人嘆能源食品齊漲勒緊褲腰帶生活| 國際",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9db1e97b3e645522"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8730,7 +8732,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zb3ZiZkRtZXo0NzlyeDJlcXR4YURWSm1IMDRwUFFHWFhlbzdwV1drUUh1WVhQaTRpeUxSMVVMZkJ5bnVVSUhDZ045VzJ5c2hNejlUSmVsUzZQckowVHAyNDlMUDNyaWUyYWtrWllHb3d0OGg3dGFWTl9QNWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDE2Ums1SjdYTi1FNVZseU9ScFJnc25BSUU2cTkxeXJCdEZlZDVLTmJQZ1JINWRuZkRESnJmaU8yelRtRS1TWVktd3BXR05saUVjMUxQWW5RSWI3NTBsd2otS1BsUmdVcnVNTEl2NDBOQk9HVDMwSG0tY09nbUpSdWtIOGV2UExrdXlNTg?oc=5",
    "published_utc": "2026-10-27T18:18:15+00:00",
    "title_original": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
    "region": "china",
@@ -8741,7 +8743,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "93a6870684bfe769"
+   "id": "73292a0a6dd041b7"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -13216,24 +13218,6 @@
    "id": "502351d29f0aed8f"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "SK hynix weighs $12.1 billion special dividend, newspaper says",
@@ -13249,6 +13233,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
+   "published_utc": "2026-10-25T23:58:00+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",

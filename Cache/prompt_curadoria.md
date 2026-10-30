@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T11:12:45.332875+00:00
+Última coleta: 2026-10-30T11:22:45.607933+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
+  🇯🇵 Japão          923
   🇨🇳 China          852
-  🇹🇼 Taiwan         363
+  🇹🇼 Taiwan         362
   🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
+  - [china] Memory Crunch Cements CXMT as China's Chip Champion — Update
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
   - [japan] Japan’s inflation rate reaches 2% target, Bank of Japan President: 13 years of hard work to meet important mil
+  - [japan] Bank of Japan determines that 2% inflation target has been achieved (Jiji Press)
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
@@ -37,13 +40,13 @@ Total: 3000 manchetes
   - [china] JZJ Chain Drugstore Q3 Net Loss At 312.5 Million Yuan
   - [china] National Silicon Industry Group Q3 Net Profit At 236.7 Million Yuan
   - [japan] Yen Rises On BoJ's Hawkish Pause
+  - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
   - [china] CRRC, Units Signs Major Contracts Totalling About 71.0 Billion Yuan
   - [japan] Yen market: Small price movements Limited impact of the Bank of Japan’s monetary policy meeting
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes By Reuters
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [taiwan] Taiwan's ICT export market ranked third in the world last year, and computers and peripheral equipment jumped 
   - [china] Anhui Jianghuai Automobile Group Q3 Net Loss At 391.8 Million Yuan
-  - [taiwan] Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten thei
   - [taiwan] Soaring inflation erodes purchasing power, and French people tighten their pants to survive
   - [japan] Bank of Japan ETF sale, Finance Minister Katayama ``Considering how to handle the increase'' (Reuters)
   - [china] Henan Dayou Energy Q3 Net Loss At 436.4 Million Yuan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Starting from November 2, 2026, bidding for overnight reverse repurchase operations will be laun
   - [china] China's central bank to conduct overnight reserve repos every working day from November 2, rate at 1.25%
   - [japan] Market moves ``as expected'' at Bank of Japan meeting, with limited movement even after announcement of accele
-  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
-  - [japan] Is achieving the 2% target with good price increases that was initially aimed at a dream that cannot be fulfil
-  - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T11:12:45+00:00",
+      "published_utc": "2026-10-30T11:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
