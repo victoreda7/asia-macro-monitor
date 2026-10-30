@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T16:42:46.055571+00:00
+Última coleta: 2026-10-30T16:52:45.231544+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          863
+  🇯🇵 Japão          919
+  🇨🇳 China          864
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  852
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside
   - [japan] Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit
   - [china] China's State Council appoints, removes officials
+  - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?
   - [japan] Bank of Japan judges that inflation rate will reach 2%; future focus will be on countering upside risks...Gove
   - [korea] Why is SK hynix stock sliding today?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [japan] BOJ stays pat on rates, signals inflation target reached
-  - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T16:42:46+00:00",
+      "published_utc": "2026-10-30T16:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
