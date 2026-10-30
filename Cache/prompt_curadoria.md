@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T19:52:44.603310+00:00
+Última coleta: 2026-10-30T20:02:42.954343+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [korea] Samsung Stocks Decline 3% With Semiconductor Profit Concentration in Focus
   - [korea] SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 549580.65, Implies 88% Upside
+  - [china] The central bank optimizes the short-end interest rate control mechanism and will carry out overnight reverse 
   - [china] Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten
   - [japan] Japan's Omron eyes India as export base for blood pressure monitors
   - [japan] Bank of Japan's price increase rate reaches 2% for the first time in 14 years 1,500 food items will have price
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Q3 GDP growth hits 14.36%, highest in 48 years
   - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
-  - [japan] Chief Cabinet Secretary Kihara: “We hope for appropriate monetary policy management” Bank of Japan’s “2% price
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T19:52:44+00:00",
+      "published_utc": "2026-10-30T20:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
