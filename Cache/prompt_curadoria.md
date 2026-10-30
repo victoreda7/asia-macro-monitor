@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T08:52:43.339358+00:00
+Última coleta: 2026-10-30T09:02:44.858100+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          839
+  🇯🇵 Japão          922
+  🇨🇳 China          840
   🇹🇼 Taiwan         366
   🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [china] Yonyou Network Technology Q3 Net Loss At 318.6 Million Yuan
+  - [japan] Bank of Japan Is Likely to Roll out Two More Hikes — Market Talk
+  - [japan] Yen gains after BOJ; AI jitters dent dollar
+  - [china] Jinko Solar Q3 Net Loss At 290.4 Million Yuan
+  - [korea] The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..
   - [china] China Life Insurance Q3 Net Loss At 45.1 Billion Yuan
   - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
   - [china] Trump’s days of running US-China relations on personal ties are numbered
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor says that the 2% target is "generally consistent" with the underlying price index still
   - [japan] BREAKING NEWS: BOJ's plan to step up ETF selling will have limited market impact: Ueda
   - [korea] Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display
-  - [japan] Bank of Japan Governor Ueda says, ``It is important to achieve a sustained and stable inflation rate of 2%, an
-  - [japan] Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
-  - [japan] Bank of Japan cuts, ETF trading accelerates "limited impact" (Joint Communications)
-  - [china] UNIQLO Shanghai Flagship Store Renovation Japanese Retailer in China Moves to Review Stores
-  - [japan] Inflation rate is "mostly consistent", says Bank of Japan governor, 14 years on from deflation (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T08:52:43+00:00",
+      "published_utc": "2026-10-30T09:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
