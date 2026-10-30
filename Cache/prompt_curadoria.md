@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T01:52:45.624050+00:00
+Última coleta: 2026-10-30T02:02:46.517145+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          908
-  🇨🇳 China          829
+  🇯🇵 Japão          909
+  🇨🇳 China          828
   🇹🇼 Taiwan         371
   🇰🇷 Coreia do Sul  892
 
 ## O que já está no feed (não repita)
 
+  - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
+  - [japan] Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also 
   - [korea] Hyundai Glovis : Q3 revenue reached KRW 9,053.6bn as logistics and shipping growth lifted earnings
   - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
   - [china] CHINA PBOC CONDUCTS CNY150 BLN VIA 7-DAY REVERSE REPO FRI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com
   - [japan] Bank of Japan to hold rates, signal further hikes
   - [korea] Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up
-  - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms
-  - [japan] JAPAN OCT TOKYO CORE-CORE CPI +2.6% Y/Y; SEPT +2.9%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T01:52:45+00:00",
+      "published_utc": "2026-10-30T02:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
