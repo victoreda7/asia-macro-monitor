@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T22:52:54.880434+00:00
+Última coleta: 2026-10-30T22:54:36.814210+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
+  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
   - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
@@ -53,7 +54,6 @@ Total: 3000 manchetes
   - [china] Overnight reverse repurchase is "on the job", and the policy interest rate has officially changed its anchor
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
-  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
   - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
   - [china] Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T22:52:55+00:00",
+      "published_utc": "2026-10-30T22:54:36+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
