@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T05:22:43.132920+00:00
+Última coleta: 2026-10-30T05:32:44.476729+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          939
+  🇯🇵 Japão          940
   🇨🇳 China          827
   🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  871
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ keeps policy rate unchanged at 1.25%, raises annual ETF sales pace to 860 billion yen
+  - [japan] Japan Housing Starts Unexpectedly Drop
   - [japan] Japan's industrial production growth hits fastest pace since January; retail sales slow to 2.3% Y/Y
   - [japan] BOJ says 2% inflation target achieved, holds rates steady
   - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
@@ -33,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Analysts consider the Bank of Japan meeting to be hawkish even if it remains unchanged; focus on announcement 
   - [japan] Bank of Japan's underlying price increase rate “effectively reached 2% target”; policy interest rate unchanged
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 111.26, Implies 35% Upside
+  - [japan] Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
   - [japan] Analysts react to BOJ decision to keep rates steady
   - [japan] Bank of Japan believes that the inflation rate will reach 2% for the first time since the target was introduce
   - [taiwan] Intel tells Taiwan's chip suppliers to build service capacity early
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Holds Fire While Signaling Rate Hikes Ahead
   - [japan] BOJ SEES FY28 CORE CPI +2.0% VS. JULY 2.0%
   - [japan] BOJ SEES FY27 CORE CPI +2.6% VS. JULY +2.4%
-  - [japan] BOJ SEES FY26 CORE CPI +2.5% VS. JULY 2.5%
-  - [japan] Bank of Japan holds rates, says inflation trend hits target for first time
-  - [japan] BOJ TO ADJUST POLICY TO ANCHOR UNDERLYING INFLATION
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T05:22:43+00:00",
+      "published_utc": "2026-10-30T05:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
