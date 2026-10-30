@@ -7,17 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T06:32:44.820801+00:00
+Última coleta: 2026-10-30T06:42:43.703807+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          938
-  🇨🇳 China          828
+  🇨🇳 China          829
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  870
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [japan] Makita Corporation - To Buy Back Up To 3.9% Own Shares Worth 40 Billion Yen
+  - [japan] Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes — Update
+  - [japan] Mitsubishi Electric Corporation - To Buy Back Up To 3.91% Own Shares Worth 200 Billion Yen
+  - [japan] Tokyo Electron Ltd - To Buy Back Up To 1.1% Own Shares Worth 150 Billion Yen
+  - [japan] Autobacs Seven Co Ltd - To Buy Back Up To 2.55% Own Shares Worth 3.6 Billion Yen
+  - [japan] TDK: AI-related demand and yen weakness drove higher results; FY27 outlook rose, dividend forecast fell
+  - [japan] East Japan Railway Company: H1 growth and revised FY2027 targets accompany a newly integrated real estate busi
   - [japan] Watch BOJ Governor Ueda's press conference (Japanese only)
+  - [china] China Elevates Military Leader to Politburo, Ratifies Party Expulsions
+  - [japan] The dollar was flat at 157 yen at 3 p.m., with the Bank of Japan's decision showing little surprise and likely
   - [korea] Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix
   - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
   - [japan] Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Intel tells Taiwan's chip suppliers to build service capacity early
   - [japan] Japan GDP Data Key to Timing Next BOJ Hike — Market Talk
   - [japan] 2% inflation target reached: Bank of Japan opinion
-  - [japan] Janome Corp - To Buy Back Up To 5.98% Of Shares Worth 1 Billion Yen
-  - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
-  - [japan] Statement on Monetary Policy
-  - [japan] BOJ Hold Comes With Critical Shift in Inflation View — Market Talk
-  - [china] The central bank launched a 7-day reverse repurchase of 15 billion yuan on October 30, with a net investment o
-  - [china] The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 bill
-  - [japan] Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters
-  - [japan] BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation
-  - [japan] BOJ keeps interest rates steady, signals further rate hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T06:32:45+00:00",
+      "published_utc": "2026-10-30T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
