@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T14:42:45.533612+00:00
+Última coleta: 2026-10-30T14:52:44.167132+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [korea] Why is SK hynix stock sliding today?
   - [china] IR: Strong orders and higher guidance offset China pricing pressure and inflation headwinds
+  - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside
   - [japan] When will the Bank of Japan raise interest rates next? Will the policy interest rate exceed 2%? #Expert Topi (
   - [china] News Analysis: What China's new consumption trends say about its economy
+  - [japan] Bank of Japan judges that inflation rate will reach 2%; future focus will be on countering upside risks...Gove
   - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
   - [china] Big announcement from the central bank! It will officially come into effect next Monday!
   - [taiwan] 113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Tainan station tightens rules for popular public piano
   - [japan] Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates a
   - [japan] Bank of Japan judges that underlying inflation has reached 2%, postponing interest rate hike as it marks a tur
-  - [japan] Finance Minister Katayama understands the Bank of Japan's judgment is "consistent with the 2% target" (Jiji Pr
-  - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T14:42:45+00:00",
+      "published_utc": "2026-10-30T14:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
