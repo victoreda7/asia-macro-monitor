@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T09:22:46.440250+00:00
+Última coleta: 2026-10-30T09:32:46.049311+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          842
-  🇹🇼 Taiwan         366
-  🇰🇷 Coreia do Sul  869
+  🇯🇵 Japão          920
+  🇨🇳 China          847
+  🇹🇼 Taiwan         365
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [china] Anhui Jianghuai Automobile Group Q3 Net Loss At 391.8 Million Yuan
+  - [taiwan] Soaring inflation erodes purchasing power, and French people tighten their pants to survive
+  - [china] Henan Dayou Energy Q3 Net Loss At 436.4 Million Yuan
+  - [china] Shanghai Electric Power: Q3 profit nearly vanished as lower tariffs and higher fuel costs pressured results
   - [china] Next week, 1.749 billion yuan of reverse repos will mature in the central bank’s open market.
   - [china] Central Bank: Starting from November 2, 2026, bidding for overnight reverse repurchase operations will be laun
+  - [china] China's central bank to conduct overnight reserve repos every working day from November 2, rate at 1.25%
   - [japan] Market moves ``as expected'' at Bank of Japan meeting, with limited movement even after announcement of accele
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [japan] Is achieving the 2% target with good price increases that was initially aimed at a dream that cannot be fulfil
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision
   - [japan] Today's Oha Biz October 30th (Friday) What is the terminal rate (achieved interest rate)?
   - [japan] Bank of Japan Likely to Wait Before Further Tightening — Market Talk
-  - [china] Qi An Xin Tech Q3 Net Loss At 757.5 Million Yuan
-  - [china] Audi cuts 2026 outlook on China weakness, price pressure
-  - [china] New China Life Insurance Q3 Net Loss At 511 Million Yuan
-  - [taiwan] Taiwan 3Q GDP +3.21% From 2Q
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transaction with Affiliate Company
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T09:22:46+00:00",
+      "published_utc": "2026-10-30T09:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
