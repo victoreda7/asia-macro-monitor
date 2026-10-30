@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T20:42:43.048437+00:00
+Última coleta: 2026-10-30T20:52:45.125650+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Interest rates rise due to coreweave shock... What will happen to the Nikkei Stock Average, which fell sharply
+  - [japan] Dollar rises for October as rate hike bets remain elevated, euro and yen slip
   - [japan] Yen set for third straight daily gain against dollar after BOJ holds rates
   - [taiwan] Foxconn unveils 3 EVs to grow contract manufacturing business
   - [japan] Ruling party looks for voting schedule on consumption tax reduction bill Opposition party urges Prime Minister
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Big announcement from the central bank! It will officially come into effect next Monday!
   - [taiwan] 113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
-  - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
-  - [japan] [Emin Yilmaz talks] What will happen? The future of Japanese stocks/Is it a waste to just rely on Orkan? / Cur
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T20:42:43+00:00",
+      "published_utc": "2026-10-30T20:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

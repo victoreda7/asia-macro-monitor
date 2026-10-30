@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-30T20:42:43.048437+00:00",
- "collected_at_utc": "2026-10-30T20:42:43.048437+00:00",
+ "generated_at_utc": "2026-10-30T20:52:45.125650+00:00",
+ "collected_at_utc": "2026-10-30T20:52:45.125650+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 362,
   "korea": 851
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T20:25:54+00:00"
+   "newest": "2026-10-30T20:44:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T20:12:22+00:00"
+   "newest": "2026-10-30T20:42:48+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T14:21:47+00:00"
+   "newest": "2026-10-30T20:44:36+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T17:02:32+00:00"
+   "newest": "2026-10-30T18:09:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T20:41:48+00:00"
+   "newest": "2026-10-30T20:52:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T01:10:31+00:00"
+   "newest": "2026-10-29T22:06:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-31T05:30:00+09:00"
+   "newest": "2026-10-31T05:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T14:00:20+00:00"
+   "newest": "2026-10-30T08:44:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,11 +344,46 @@
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Interest rates rise due to coreweave shock... What will happen to the Nikkei Stock Average, which fell sharply in October, and the focus after the US midterm elections | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-30T20:45:00+00:00",
+   "title_original": "コアウィーブ･ショックに金利上昇…10月に大きく下げた日経平均株価の行方とアメリカ中間選挙後の焦点 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "675357cd20fc4a1c"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749",
+   "published_utc": "2026-10-30T20:44:36+00:00",
+   "title_original": "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b6d389a681f1aaed"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Yen set for third straight daily gain against dollar after BOJ holds rates",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46G1AU:0-yen-set-for-third-straight-daily-gain-against-dollar-after-boj-holds-rates/",
-   "published_utc": "2026-10-30T20:31:33+00:00",
+   "url": "https://www.investing.com/news/economy-news/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar-4985701",
+   "published_utc": "2026-10-30T20:37:12+00:00",
    "title_original": "Yen set for third straight daily gain against dollar after BOJ holds rates",
    "region": "japan",
    "topics": [
@@ -357,9 +392,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "e865b6f98014f6bf"
+   "id": "24832489fbef0892"
   },
   {
    "source_id": "nikkei_asia",
@@ -1474,9 +1509,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "“Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGx2SUhvSlFRSmt4N1RfelN4dk9UeXBhZEFzSlY0VnhkUWFtSFowc0xYMXB3SDgwYUl6T2RkYXN2enhiVVBOTVRXY0JYa3lFMEJfMGplOWZqd3RlOWtucE5vQ01jekE3WUtiZ3BKSTNFV3lmdG1fbDMwQjNPQWlIMld6d21BSmxCTU9JanFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5",
    "published_utc": "2026-10-30T10:38:44+00:00",
-   "title_original": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話 (時事通信)",
+   "title_original": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
    "region": "japan",
    "topics": [
     "monetary"
@@ -1485,7 +1520,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7006b88c6fc98187"
+   "id": "81fe2b205bd96ed1"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnIxanJBcWQ1dHowT2hmRjlUcmJLVWwzbDIzV3d3aXRuc21iNDhvelBOdno0MEZMcDRyV3JTZy1LQVZIRVdBYWI1cDFyN2YyNGM2NUFkMDBUejhfTjF2d2IxWkRZejRBblh1NnF2ZHdmM1pESjMyemRZSm5JanNaRmNJb0Ewd2ZSbGk2a1lDM0xiX1kzQ2FKRFp4ZGRUcVZzZVZKQV9EQXIzaGFsNDd0TzA3V1VWeHNMTkZkdkFXcjdXbWRQ?oc=5",
+   "published_utc": "2026-10-30T10:38:44+00:00",
+   "title_original": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7cb79a19bd88211b"
   },
   {
    "source_id": "tradingview_live",
@@ -1734,26 +1786,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
-   "published_utc": "2026-10-30T09:53:23+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f4f41965caec86f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3RNZEdZQkhTUl9BWXZqTkFoSUJFZ0N0NzRIRW41QzBlbjdmQ014QmVjY1hqb0pqMmJLQ012SXBWMFNqWFZnWUtnbS1Pa0ZtOVo1YjFMWGhaZnA5SGE4OEY2M3hLX3FZM1d1cDV4THZGZEM1QmcyU05YTWljWkpPcUpnS0ludHJ0UkhFTUJn?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
@@ -1910,6 +1942,26 @@
    "live_wire": true,
    "manual": false,
    "id": "80686e4fc28752aa"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
+   "published_utc": "2026-10-30T09:41:07+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3173,7 +3225,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
    "region": "china",
@@ -3185,7 +3237,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4f00fb7b2bbfe979"
+   "id": "a6acbb66c5e322c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3472,24 +3524,6 @@
    "id": "748362a38acb771d"
   },
   {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asian currencies mixed as dollar retreats, yen steadies ahead of BOJ decision",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749",
-   "published_utc": "2026-10-30T03:13:27+00:00",
-   "title_original": "Asian currencies mixed as dollar retreats, yen steadies ahead of BOJ decision",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bdb71bea6d2ac401"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Stock price temporarily fell by 1,900 yen; AI/semiconductor-related stocks were sold off",
@@ -3737,24 +3771,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b6c60129cc5ff40b"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
-   "url": "https://www.investing.com/news/economy-news/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar-4985701",
-   "published_utc": "2026-10-30T01:54:36+00:00",
-   "title_original": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0851c327f7474698"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6488,7 +6504,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -12407,27 +12423,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQi1nMWVMLXpvZzFKM2FNVWdnYkZhbHpUQjgwWWVhUWFpVHktZml3OWhPNzVPckdtb0syREtNZEFYcmRybFpScnMtMTF2N1E0VVd6a29ZTk1vQlVDdDN4cEZMbjNVSktXbXZod0x3MWhnLVJpLV83OERFWHFCSjM4TVZnQi04SGx4bkF1UmtaUHBEdw?oc=5",
-   "published_utc": "2026-10-26T13:45:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d1968e166e164599"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -12439,7 +12437,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0facd9f9793a1c33"
+   "id": "8166e1f4e20d2cef"
   },
   {
    "source_id": "tradingview_live",
@@ -14125,6 +14123,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
+   "published_utc": "2026-10-25T23:58:00+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51937,24 +51953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1861405b1421580a"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
-   "published_utc": "2026-10-07T09:21:24+00:00",
-   "title_original": "高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "manual_ia",
