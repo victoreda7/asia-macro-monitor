@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T10:22:45.776135+00:00
+Última coleta: 2026-10-30T10:32:46.764283+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
+  🇯🇵 Japão          921
   🇨🇳 China          850
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
   - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments
   - [china] Chinese Yuan traded below 6.65
   - [japan] Japan to consider how to handle BOJ ETF surplus in FY2027 budget, Katayama says
-  - [taiwan] AI Darling Taiwan Extends Economic Growth Run Unseen Since 1987
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T10:22:46+00:00",
+      "published_utc": "2026-10-30T10:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
