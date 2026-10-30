@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T07:02:44.940163+00:00
+Última coleta: 2026-10-30T07:12:44.157348+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          940
-  🇨🇳 China          827
+  🇯🇵 Japão          941
+  🇨🇳 China          828
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  869
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
-  - [japan] BOJ Governor Ueda's comments at news conference
+  - [japan] BOJ to accelerate ETF sales, more than doubling pace from January
+  - [japan] Japan Housing Starts Fall 2.7% In September
+  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
+  - [japan] BOJ Governor Ueda’s comments at news conference
   - [japan] Bank Of Japan Holds Key Rate As Expected
   - [japan] BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%
   - [japan] Makita Corporation - To Buy Back Up To 3.9% Own Shares Worth 40 Billion Yen
@@ -45,7 +48,6 @@ Total: 3000 manchetes
   - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
   - [china] European Central Bank President Christine Lagarde admitted that she could no longer remain neutral and would l
   - [taiwan] Taiwan's manufacturing sector stays in fast-growth mode in September
-  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] Bank of Japan says it expects the inflation rate to “reach 2%” for the first time since the target was introdu
   - [japan] Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, N
   - [taiwan] Foxconn unveils three new EV models as it expands contract manufacturing push
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] The Bank of Japan announced that the inflation rate has reached the 2% target and kept interest rates unchange
   - [japan] Analysts consider the Bank of Japan meeting to be hawkish even if it remains unchanged; focus on announcement 
   - [japan] Bank of Japan's underlying price increase rate “effectively reached 2% target”; policy interest rate unchanged
-  - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 111.26, Implies 35% Upside
-  - [japan] Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T07:02:45+00:00",
+      "published_utc": "2026-10-30T07:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
