@@ -7,26 +7,39 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T23:52:44.560653+00:00
+Última coleta: 2026-10-30T00:02:44.806314+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          890
-  🇨🇳 China          837
-  🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  894
+  🇯🇵 Japão          902
+  🇨🇳 China          831
+  🇹🇼 Taiwan         377
+  🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [korea] Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up
+  - [japan] JAPAN OCT TOKYO CORE-CORE CPI +2.6% Y/Y; SEPT +2.9%
+  - [japan] JAPAN SEPT RETAIL SALES +2.3% Y/Y (AUG REVISED TO +2.7% FROM +3.4%); 7TH STRAIGHT RISE; MEDIAN FORECAST +3.2% 
+  - [japan] JAPAN SEPT RETAIL SALES -0.7% M/M (AUG REVISED TO -0.9% FROM -1.2%); MEDIAN FORECAST +1.0%(RANGE: +0.1% TO +2.
+  - [japan] MNI JAPAN OCT TOKYO CORE CPI +2.6% Y/Y; SEPT +2.7%
+  - [japan] Consumer prices in Tokyo's wards increased by 2.6% to 103.3 in October...2% level for 2 consecutive months (Yo
+  - [japan] Tokyo prices rise 2.6% in October; growth and contraction continue at 2% level (Kyodo News)
+  - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +1.9% Y/Y (AUG REVISED TO +2.7% FROM +3.4%), 4TH STRAIGHT RISE; MEDIAN FORECAST +
+  - [japan] Japan Jul-Sep Industrial Output +0.3% on Quarter
+  - [japan] JAPAN SEPT INDUSTRIAL OUTPUT +2.2% M/M (AUG REVISED TO -2.4% FROM -1.7%); 1ST RISE IN 3 MONTHS; MEDIAN FORECAS
+  - [japan] JAPAN SEPT EMPLOYMENT Y/Y RISES AS HIRING INCREASES IN HEALTHCARE/WELFARE, TELECOMS
   - [japan] Japan Sep Inventory-Shipments Ratio +2.0% on Month
   - [japan] Japan Sep Shipments +0.6% on Month
   - [japan] Japan September factory output rises 2.2% month-on-month
   - [japan] MNI JAPAN SEPT JOBLESS RATE FALLS TO 2.4% FROM AUG 2.5%
   - [japan] Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk
   - [japan] October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year
+  - [japan] Japan Jobless Rate Unexpectedly Eases
   - [japan] Tokyo core inflation exceeds BOJ target in October
   - [japan] JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT REVISED +2.9%, AUG +2.0%); MEDIAN FORECA
   - [japan] Tokyo Inflation Remains Above 2%, Fueling Rate-Hike Bets
   - [japan] JAPAN SEPT EMPLOYMENT UP 330,000 Y/Y AT 68.96 MILLION FOR 2ND STRAIGHT RISE, AFTER RISING 140,000 IN AUG
+  - [japan] Japan Tokyo Core Inflation Eases for 1st Time in 5 Months
   - [japan] JAPAN OCT TOKYO CPI: PROCESSED FOOD +3.0% (+0.71 POINT) VS. +3.6% (+0.83 POINT) IN SEPT
   - [japan] JAPAN OCT TOKYO CPI: ENERGY +2.2% Y/Y (+0.09 POINT CONTRIBUTION), VS. -1.9% (-0.08 POINT) IN SEPT
   - [japan] JAPAN OCT TOKYO INFLATION RATE STAYS HIGH AFTER SURGING IN SEPT WHEN PRICE-CUTTING EFFECTS OF FREE BASE WATER 
@@ -44,19 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan to hold rates, signal further hikes By Reuters
   - [japan] Bank of Japan to hold rates, signal further hikes
   - [japan] Demand for Kidalt isn't the only thing...The real aim of Don Quijote's parent company's acquisition of Toys R 
-  - [korea] Samsung Electronics: AI-led Memory records lifted Q3 operating profit above KRW 100T; costs pressure DX
-  - [japan] European Central Bank leaves policy interest rate unchanged, focus of policy decision in December
-  - [japan] Bank of Japan outlook for maintaining policy interest rate; focus on determining whether to reach 2% inflation
-  - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
-  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 557516.13, Implies 88% Upside
-  - [china] Evolution Metals Secures 754 Tons of Feedstock to Help Build a Supply Chain Beyond China (NASDAQ: EMAT)
-  - [korea] Samsung Electronics Stocks Decline 4.13% With Memory Profits Masking Device Weakness
-  - [china] European stocks closed higher as the Federal Reserve and the European Central Bank kept interest rates unchang
-  - [japan] Japan to gradually reduce gasoline subsidies from Dec.: Takaichi
-  - [china] Xin Yuan Enterprises Says Ocean Vivo To Buy 32.4 Million Shares For HK$2.21 Per Share
-  - [china] AOS: China divestiture sharpens the portfolio as boiler growth offsets inflation and softer demand
-  - [korea] Why are Micron, SK Hynix and SanDisk shares falling on Thursday?
-  - [japan] US GDP +3.4% growth rate from July to September Expansion of consumer AI investment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T23:52:44+00:00",
+      "published_utc": "2026-10-30T00:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
