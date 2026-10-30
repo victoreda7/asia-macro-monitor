@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T17:52:45.387609+00:00
+Última coleta: 2026-10-30T18:02:43.185284+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
+  🇯🇵 Japão          921
   🇨🇳 China          865
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
@@ -46,7 +46,6 @@ Total: 3000 manchetes
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
   - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
   - [japan] [Emin Yilmaz talks] What will happen? The future of Japanese stocks/Is it a waste to just rely on Orkan? / Cur
-  - [japan] Japan govt. to spend another $7.3 bil. on fuel subsidy
   - [japan] Fixed mortgage interest rates to be lowered by four major banks starting in November
   - [taiwan] Taiwan Q3 GDP growth hits 14.36%, highest in 48 years
   - [japan] Bank of Japan Governor Ueda says price stability target “reached 2%” and leaves policy interest rate unchanged
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
   - [taiwan] Intel warning sparks chip rout as PC weakness clouds turnaround
   - [china] The central bank announced important adjustments, which will be implemented starting next week!
+  - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T17:52:45+00:00",
+      "published_utc": "2026-10-30T18:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
