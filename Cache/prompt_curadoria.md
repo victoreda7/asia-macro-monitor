@@ -7,20 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T09:42:44.674831+00:00
+Última coleta: 2026-10-30T09:52:43.774312+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          847
+  🇨🇳 China          848
   🇹🇼 Taiwan         365
-  🇰🇷 Coreia do Sul  868
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] Cinda Real Estate Q3 Net Loss At 1.2 Billion Yuan
+  - [japan] Yen Rises On BoJ's Hawkish Pause
+  - [china] CRRC, Units Signs Major Contracts Totalling About 71.0 Billion Yuan
   - [japan] Yen market: Small price movements Limited impact of the Bank of Japan’s monetary policy meeting
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes By Reuters
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
+  - [taiwan] Taiwan's ICT export market ranked third in the world last year, and computers and peripheral equipment jumped 
   - [china] Anhui Jianghuai Automobile Group Q3 Net Loss At 391.8 Million Yuan
+  - [taiwan] Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten thei
   - [taiwan] Soaring inflation erodes purchasing power, and French people tighten their pants to survive
   - [japan] Bank of Japan ETF sale, Finance Minister Katayama ``Considering how to handle the increase'' (Reuters)
   - [china] Henan Dayou Energy Q3 Net Loss At 436.4 Million Yuan
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] New Hope Liuhe Q3 Net Loss At 865.8 Million Yuan
   - [china] China set to lose LNG import crown to Japan on weak demand
   - [taiwan] Taiwan Q3 GDP Growth Beats Expectations
-  - [japan] Yen Rises Against Majors
-  - [taiwan] Chip designer MediaTek says AI demand growth will continue 'for sure'
-  - [japan] BOJ May Move Away From Predictable Hiking Cadence Beyond March 2027 — Market Talk
-  - [china] BBMG Q3 Net Loss At 1.5 Billion Yuan
-  - [japan] BOJ chief Ueda says 2% inflation goal not yet sustainably achieved
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T09:42:44+00:00",
+      "published_utc": "2026-10-30T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
