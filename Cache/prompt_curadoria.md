@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T21:02:45.582786+00:00
+Última coleta: 2026-10-30T21:12:42.631116+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Intel on course for worst day ever, triggers global chip rout
   - [japan] Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices a
   - [japan] Interest rates rise due to coreweave shock... What will happen to the Nikkei Stock Average, which fell sharply
   - [japan] Dollar rises for October as rate hike bets remain elevated, euro and yen slip
@@ -44,7 +45,6 @@ Total: 3000 manchetes
   - [korea] Why is SK hynix stock sliding today?
   - [china] IR: Strong orders and higher guidance offset China pricing pressure and inflation headwinds
   - [china] Overnight reverse repurchase is "on the job", and the policy interest rate has officially changed its anchor
-  - [taiwan] Intel on course for worst day ever, triggers global chip rout
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T21:02:45+00:00",
+      "published_utc": "2026-10-30T21:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
