@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T08:22:45.102112+00:00
+Última coleta: 2026-10-30T08:32:43.904556+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          834
+  🇯🇵 Japão          932
+  🇨🇳 China          833
   🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [china] Trump’s days of running US-China relations on personal ties are numbered
   - [japan] BOJ chief Ueda says 2% inflation goal not yet sustainably achieved
   - [taiwan] Taiwan Q3 preliminary GDP beats forecasts on solid AI demand
   - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
@@ -29,10 +30,12 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transaction with Affiliate Company
   - [taiwan] Taiwan 3Q GDP +14.36% On Year; Market Expected +12.0%
   - [china] Advanced Micro-Fabrication Equipment Inc China Q3 Net Profit Up 159.0% Y/Y
+  - [japan] ``Underlying price increase rate'' reached 2% target; Bank of Japan Governor Ueda says ``The outlook will rema
   - [korea] ADX Says Units Of PLUS Korea Manufacturing Core Alliance Index ETF Will Be Listed On ADX On Nov 02
   - [taiwan] Taiwan's Inflation Likely to Remain Elevated — Market Talk
   - [taiwan] Taiwan Q3 preliminary GDP +14.36%, better than forecast
   - [china] Key facts: Haleon (HLN) Q3 +2.6%; China import pause; £500m buyback
+  - [japan] Japan's anime market tops 4 tril. yen for 1st time
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] Bank of Japan Governor says that the 2% target is "generally consistent" with the underlying price index still
   - [japan] BREAKING NEWS: BOJ's plan to step up ETF selling will have limited market impact: Ueda
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ monetary policy focus more on anchoring inflation to target: Ueda
   - [japan] BOJ Governor Ueda’s comments at news conference
   - [japan] BREAKING NEWS: BOJ to continue raising rates looking at inflation, other factors: Ueda
-  - [japan] Bank Of Japan Holds Key Rate As Expected
-  - [japan] BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%
-  - [japan] Makita Corporation - To Buy Back Up To 3.9% Own Shares Worth 40 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T08:22:45+00:00",
+      "published_utc": "2026-10-30T08:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
