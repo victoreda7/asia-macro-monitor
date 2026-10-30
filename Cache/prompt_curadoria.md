@@ -7,20 +7,32 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T08:32:43.904556+00:00
+Última coleta: 2026-10-30T08:42:44.022203+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          833
-  🇹🇼 Taiwan         363
+  🇯🇵 Japão          924
+  🇨🇳 China          838
+  🇹🇼 Taiwan         366
   🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [china] China Life Insurance Q3 Net Loss At 45.1 Billion Yuan
+  - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
   - [china] Trump’s days of running US-China relations on personal ties are numbered
+  - [japan] BOJ's Decision to Hold Likely to Have Limited Impact on Yen — Market Talk
+  - [taiwan] Chip design company MediaTek says growth in demand for AI will "absolutely" continue
+  - [china] Flat Glass Q3 Net Loss At 472.7 Million Yuan
+  - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
+  - [china] New Hope Liuhe Q3 Net Loss At 865.8 Million Yuan
+  - [china] China set to lose LNG import crown to Japan on weak demand
+  - [taiwan] Taiwan Q3 GDP Growth Beats Expectations
+  - [japan] Yen Rises Against Majors
+  - [taiwan] Chip designer MediaTek says AI demand growth will continue 'for sure'
+  - [japan] BOJ May Move Away From Predictable Hiking Cadence Beyond March 2027 — Market Talk
+  - [china] BBMG Q3 Net Loss At 1.5 Billion Yuan
   - [japan] BOJ chief Ueda says 2% inflation goal not yet sustainably achieved
   - [taiwan] Taiwan Q3 preliminary GDP beats forecasts on solid AI demand
-  - [japan] BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over
   - [japan] Today's Oha Biz October 30th (Friday) What is the terminal rate (achieved interest rate)?
   - [japan] Bank of Japan Likely to Wait Before Further Tightening — Market Talk
   - [china] Qi An Xin Tech Q3 Net Loss At 757.5 Million Yuan
@@ -45,18 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan cuts, ETF trading accelerates "limited impact" (Joint Communications)
   - [china] UNIQLO Shanghai Flagship Store Renovation Japanese Retailer in China Moves to Review Stores
   - [japan] Inflation rate is "mostly consistent", says Bank of Japan governor, 14 years on from deflation (Kyodo News)
-  - [japan] Bank of Japan decides to keep policy interest rate unchanged at 1.25%; underlying price increase rate is ``gen
-  - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 110.56, Implies 34% Upside
-  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 554096.77, Implies 89% Upside
-  - [japan] BOJ to accelerate ETF sales, more than doubling pace from January
-  - [japan] Japan Housing Starts Fall 2.7% In September
-  - [japan] Bank of Japan Governor says interest rate hike will be decided including next meeting (Kyodo News)
-  - [japan] BREAKING NEWS: All BOJ board members agree inflation consistent with 2% goal: Ueda
-  - [japan] BREAKING NEWS: BOJ chief declines to comment on reviewing accord with gov't on deflation
-  - [japan] Bank of Japan Governor reviews joint statement and makes no comment (Kyodo News)
-  - [japan] BREAKING NEWS: BOJ monetary policy focus more on anchoring inflation to target: Ueda
-  - [japan] BOJ Governor Ueda’s comments at news conference
-  - [japan] BREAKING NEWS: BOJ to continue raising rates looking at inflation, other factors: Ueda
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T08:32:44+00:00",
+      "published_utc": "2026-10-30T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
