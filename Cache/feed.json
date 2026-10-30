@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-30T13:22:43.638401+00:00",
- "collected_at_utc": "2026-10-30T13:22:43.638401+00:00",
+ "generated_at_utc": "2026-10-30T13:24:45.375673+00:00",
+ "collected_at_utc": "2026-10-30T13:24:45.375673+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 362,
   "korea": 857
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:14:47+00:00"
+   "newest": "2026-10-30T08:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T13:21:36+00:00"
+   "newest": "2026-10-30T13:23:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:51:10+00:00"
+   "newest": "2026-10-30T07:53:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-10-30T06:46:01+00:00"
   }
  ],
  "items": [
@@ -1117,6 +1117,26 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
+   "published_utc": "2026-10-30T09:53:23+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2f4f41965caec86f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3RNZEdZQkhTUl9BWXZqTkFoSUJFZ0N0NzRIRW41QzBlbjdmQ014QmVjY1hqb0pqMmJLQ012SXBWMFNqWFZnWUtnbS1Pa0ZtOVo1YjFMWGhaZnA5SGE4OEY2M3hLX3FZM1d1cDV4THZGZEM1QmcyU05YTWljWkpPcUpnS0ludHJ0UkhFTUJn?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
@@ -1292,26 +1312,6 @@
    "live_wire": true,
    "manual": false,
    "id": "80686e4fc28752aa"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
-   "published_utc": "2026-10-30T09:41:07+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "tradingview_live",
@@ -6235,7 +6235,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -6246,7 +6246,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ad537082c2c93f5e"
+   "id": "703eacfba1e67ab6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -7769,7 +7769,7 @@
    "source_name": "中央社 CNA",
    "title_en": "Israel fears change, opposition temporarily leads in exit polls",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pM1Ata0x5aGlDajZENFViSTdyTXpjdHJseWVPajhLZ19KdlVCMUdIaU12blRnSEhGbWNrNWhRV1Jwb0JISzZ6Y3M2UGZPWk1RZmEw?oc=5",
-   "published_utc": "2026-10-28T07:05:14+00:00",
+   "published_utc": "2026-10-28T07:05:57+00:00",
    "title_original": "以色列恐變天 出口民調反對派暫領先",
    "region": "taiwan",
    "topics": [
@@ -11877,7 +11877,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪网",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
