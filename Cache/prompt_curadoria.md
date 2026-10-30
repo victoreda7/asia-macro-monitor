@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T06:42:43.703807+00:00
+Última coleta: 2026-10-30T06:52:43.879229+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          938
-  🇨🇳 China          829
+  🇯🇵 Japão          940
+  🇨🇳 China          827
   🇹🇼 Taiwan         364
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Governor Ueda's comments at news conference
+  - [japan] Bank Of Japan Holds Key Rate As Expected
+  - [japan] BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%
   - [japan] Makita Corporation - To Buy Back Up To 3.9% Own Shares Worth 40 Billion Yen
   - [japan] Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes — Update
   - [japan] Mitsubishi Electric Corporation - To Buy Back Up To 3.91% Own Shares Worth 200 Billion Yen
@@ -31,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
   - [japan] Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q
   - [china] China's green energy exports hit record high, one year's carbon reduction can equal Brazil's entire year's car
+  - [japan] Morning Bid: One last central bank surprise
   - [japan] BOJ keeps policy rate unchanged at 1.25%, raises annual ETF sales pace to 860 billion yen
   - [japan] Bank of Japan maintains policy interest rate at around 1.25%, indicates inflation rate reaches ``target of 2%'
   - [japan] Japan Housing Starts Unexpectedly Drop
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 111.26, Implies 35% Upside
   - [japan] Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady
   - [japan] Analysts react to BOJ decision to keep rates steady
-  - [japan] Bank of Japan believes that the inflation rate will reach 2% for the first time since the target was introduce
-  - [taiwan] Intel tells Taiwan's chip suppliers to build service capacity early
-  - [japan] Japan GDP Data Key to Timing Next BOJ Hike — Market Talk
-  - [japan] 2% inflation target reached: Bank of Japan opinion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T06:42:43+00:00",
+      "published_utc": "2026-10-30T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

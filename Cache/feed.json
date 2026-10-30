@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T06:42:43.703807+00:00",
- "collected_at_utc": "2026-10-30T06:42:43.703807+00:00",
+ "generated_at_utc": "2026-10-30T06:52:43.879229+00:00",
+ "collected_at_utc": "2026-10-30T06:52:43.879229+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 938,
-  "china": 829,
+  "japan": 940,
+  "china": 827,
   "taiwan": 364,
   "korea": 869
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:19:00+00:00"
+   "newest": "2026-10-30T06:37:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T06:14:03+00:00"
+   "newest": "2026-10-30T06:42:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T03:13:27+00:00"
+   "newest": "2026-10-30T06:34:28+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T03:40:27+00:00"
+   "newest": "2026-10-30T03:56:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:13:09+00:00"
+   "newest": "2026-10-30T06:50:46+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-30T06:28:49+00:00"
+   "newest": "2026-10-30T06:47:28+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T05:08:00+00:00"
+   "newest": "2026-10-30T06:41:50+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T15:31:28+09:00"
+   "newest": "2026-10-30T15:48:46+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T03:15:00+00:00"
+   "newest": "2026-10-30T05:36:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:00:18+00:00"
+   "newest": "2026-10-30T01:00:15+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T06:42:07+00:00"
+   "newest": "2026-10-30T06:51:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:47:57+00:00"
+   "newest": "2026-10-30T01:47:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ Governor Ueda's comments at news conference",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G0F0:0-boj-governor-ueda-s-comments-at-news-conference/",
+   "published_utc": "2026-10-30T06:48:15+00:00",
+   "title_original": "BOJ Governor Ueda's comments at news conference",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "81cb193cfbd5f30d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Bank Of Japan Holds Key Rate As Expected",
+   "url": "https://www.tradingview.com/news/dpa_afx:5e242ad336778:0-bank-of-japan-holds-key-rate-as-expected/",
+   "published_utc": "2026-10-30T06:43:59+00:00",
+   "title_original": "Bank Of Japan Holds Key Rate As Expected",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5f441f92c504ad24"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vNWhTRlF5aVZfT01VYTU5R3d3RGdFU0FTS3h2SVpDVVVMTFQwREJJNmZGSVZyVWFXWDJKY0RzQkZ6WE1RZ0pkVV9BY2NPREpFU0FHdXhtblhCZw?oc=5",
+   "published_utc": "2026-10-30T06:41:50+00:00",
+   "title_original": "BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "317a9720fc780cc9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -584,6 +637,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c51cde44c28fa79d"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Morning Bid: One last central bank surprise",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnh1c0RRbEdjWjNFbmduTzhBOVl2ZmpkUzFjaFZZajVLdjdDN1kyek0yTW5pY092QmRNbmVWNFdrazNZR0dnZE5HR05sT1RBVkRxTEZkV3UzYXB1YXJaMi1VYS1oR1NJc2czSGd5VHVLaE5abmxHLVdzcWgwZE5lMjlxQQ?oc=5",
+   "published_utc": "2026-10-30T05:36:00+00:00",
+   "title_original": "Morning Bid: One last central bank surprise",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b4c51caf940ca965"
   },
   {
    "source_id": "tradingview_live",
@@ -854,7 +924,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Although the Bank of Japan judges that the underlying price level has reached the 2% target, good price increases are still not realized: Political risks due to increased sales of ETFs (Monetary Policy Meeting) (current affairs commentary by NRI researchers)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45WUlSYk1CNnB1dWxfc09ITmRjOGRyUXJjc1RyU0pNVmhYYnNBUFhmVEpQaGpPcTV2YVVHQXhZV0lmLXRYWUlPQnZyWW1QYkhFdjd3aWFzeXFRd1ZTS2tuSWZfTGNyb1lmUG5iQTlaQWNmMHNjejhNdkNTU2hTNGM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemNPVFBOdldFeVFQd1dMaDh2M0twaVZVLW5MaEczQi1MaTdaaWp2T0pBWkdIOEdVbmZueHF0ZF9STWtGM1FTY0h2aTJnWE9JdTBCYTU2VEl0OWEyWlNUTG50Q25DWU5vLVdWZTc2RkJaWTdmalJSM0YtdkZhYkw1NzVuQ3luVGlW?oc=5",
    "published_utc": "2026-10-30T04:29:48+00:00",
    "title_original": "日銀は基調的な物価が2％の目標に到達と判断も、良い物価上昇はなお実現されず：ETF売却増加による政治的リスク（金融政策決定会合）（NRI研究員の時事解説）",
    "region": "japan",
@@ -867,7 +937,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fdfa44dd0b637ce9"
+   "id": "917d06200fc8fbb3"
   },
   {
    "source_id": "gn_tw_cna",
@@ -974,24 +1044,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f662116b5b16f1fa"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan believes that the inflation rate will reach 2% for the first time since the target was introduced in 2013 (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTT3VOYjBHWVVvWno1YUttSUt3Nmx0bkc1V3dEQWNvajUwc2dtLTNnTjhvOHhnMU5UU3lpd2J6TU95R0tGci1acGtkc0hWY20wd3NHejNfWnZzUGxyaUdDanluVjZBN25sV1BtSUM1OE83TmpqUjE1bEF0YWhfOUk?oc=5",
-   "published_utc": "2026-10-30T04:14:53+00:00",
-   "title_original": "日銀、物価上昇率「2%到達」の見解 13年の目標導入以降で初めて（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ec598647d4cde58"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1470,42 +1522,6 @@
    "id": "4ddbf79ca0d0dc90"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Bank of Japan Likely Declaring Win in Deflation Battle — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029020912:0-bank-of-japan-likely-declaring-win-in-deflation-battle-market-talk/",
-   "published_utc": "2026-10-30T03:37:00+00:00",
-   "title_original": "Bank of Japan Likely Declaring Win in Deflation Battle — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "63473e8821788451"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "BOJ: UNDERLYING INFLATION CONSISTENT WITH 2% TARGET",
-   "url": "https://www.tradingview.com/news/dpa_afx:04118acb7999e:0-boj-underlying-inflation-consistent-with-2-target/",
-   "published_utc": "2026-10-30T03:34:24+00:00",
-   "title_original": "BOJ: UNDERLYING INFLATION CONSISTENT WITH 2% TARGET",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "37e05b3495ed9fa8"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ keeps interest rates steady as expected; says CPI inflation now at target By Investing.com",
@@ -1576,6 +1592,26 @@
    "live_wire": false,
    "manual": false,
    "id": "53eed5b9061a38a1"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "BOJ Inflation Target Signal Supports Yen Gains, Strategists Say",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWttd2NsRnZyWmZQX3Ita0FtWUxFWGRlTncxVllpNmVEaGg1M084RnZTNDVQeU9PVkQ4TlJIUm1Ga19RLU5PSnJIdGZxblR1U1cwSG5mYWgwSEJwcTZiQ2JCSVEwblRMSnBEWXRUeE1kMEpkMzNMYTJCRFJCU2UxSEJHeklGdDVBRDAzbHVYalUzU1BiLVB1SkdNYWxhUC1IdGhnTmxCT3dtcHhFaHJYZk9Qbw?oc=5",
+   "published_utc": "2026-10-30T03:32:00+00:00",
+   "title_original": "BOJ Inflation Target Signal Supports Yen Gains, Strategists Say",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ecb55027c38b8a9e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1918,6 +1954,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6c64d30b1eca7139"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan believes that the inflation rate will reach 2% for the first time since the target was introduced in 2013 (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTT3VOYjBHWVVvWno1YUttSUt3Nmx0bkc1V3dEQWNvajUwc2dtLTNnTjhvOHhnMU5UU3lpd2J6TU95R0tGci1acGtkc0hWY20wd3NHejNfWnZzUGxyaUdDanluVjZBN25sV1BtSUM1OE83TmpqUjE1bEF0YWhfOUk?oc=5",
+   "published_utc": "2026-10-30T03:08:14+00:00",
+   "title_original": "日銀、物価上昇率「2%到達」の見解 13年の目標導入以降で初めて（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6ec598647d4cde58"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5051,7 +5105,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -5062,7 +5116,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "703eacfba1e67ab6"
+   "id": "ad537082c2c93f5e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -10676,7 +10730,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
@@ -12097,6 +12151,24 @@
    "id": "3a3f57c11641a184"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
+   "published_utc": "2026-10-26T02:13:49+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1033a50b0d22ef1a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -12323,24 +12395,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -15266,23 +15320,6 @@
    "id": "264fd1160bcdef67"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHB5MEE0cmR1Y205c1BfamIzclJFY05ia3F1NmVsaUZCV01uY3lyQzRyay1wNjd6eGdwMldHdERWcmRNQ3dab2dvRHhEem9YWDlCNVRxUThjME9iOENjdEREam5uRlZFUzVMTHlXMTZQWnZrYU9Qa3hUUWtrc0prcVpvNXlLSlB4NjdpWlAycUtKMDV4endEWk5idTI4UVVtMWJZSDZjWjdVU2x3UUoycHpfRS0zVnJoZmEtbw?oc=5",
-   "published_utc": "2026-10-23T04:17:36+00:00",
-   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "240723b44d97f05a"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | Sankei",
@@ -15802,6 +15839,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bbd445f1ef7415ef"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFozZC1HRk1kZnZZcWRka1M0U1RYbTdfRzZUVklsal9QcDZrZW4zTFlJZHlZT3hyWXRxaHdSTno0em9KNmhyU1l3eFk1anpuNDdhTEwzb0ExeHBQbnNxOFowU3pKTXZTRno0TGNibDhUcE5GWW9BdHZ3N053SExoQVdFR29kMzMydTdCbDdVMmM1MDBCc3pfX0lKUEhQT28xdlNsV3hoRWV1di1uZkdNVnBHby10OTZpLXJuYg?oc=5",
+   "published_utc": "2026-10-23T00:52:00+00:00",
+   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c86a3e798d4a45f5"
   },
   {
    "source_id": "investing_live",
@@ -51875,58 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bf1519dc9db36fe5"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY Edges Higher as Markets Focus on Data and the BoJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNek9vcjBDVzQ2SHcxZFVjVVlVbFB2U3c0YVR5SmhLZ0lXMkdZQ3lPWlBZdXl6NkEwejJpN2dlUFBkMDMwQjh3RldwMVFJMlRGXy1OUDFJeDJVZUVmeHZRRWF5cFBlSVFybksxM3lJODdTcTNlNzRlNHdITkZPWHozbDI1enBrb1RabmpUeTRZWExrVXFINk9NTlN0bU15bGhxTURB?oc=5",
-   "published_utc": "2026-10-06T13:00:21+00:00",
-   "title_original": "USD/JPY Edges Higher as Markets Focus on Data and the BoJ",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec34f5b1eefdb498"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China turns on the export taps as LME zinc squeeze grinds on: Andy Home",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45R0HH:0-china-turns-on-the-export-taps-as-lme-zinc-squeeze-grinds-on-andy-home/",
-   "published_utc": "2026-10-06T13:00:00+00:00",
-   "title_original": "China turns on the export taps as LME zinc squeeze grinds on: Andy Home",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a512316eccf01ab7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "MORE U.S. AUGUST TRADE: CHINA DEFICIT UP TO $16.4 BILLION FROM $15.2 BILLION IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:5396f1536094b:0-more-u-s-august-trade-china-deficit-up-to-16-4-billion-from-15-2-billion-in-july/",
-   "published_utc": "2026-10-06T12:37:00+00:00",
-   "title_original": "MORE U.S. AUGUST TRADE: CHINA DEFICIT UP TO $16.4 BILLION FROM $15.2 BILLION IN JULY",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "39a458e2301254e4"
   },
   {
    "source_id": "manual_ia",
