@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T05:32:44.476729+00:00",
- "collected_at_utc": "2026-10-30T05:32:44.476729+00:00",
+ "generated_at_utc": "2026-10-30T05:42:43.940426+00:00",
+ "collected_at_utc": "2026-10-30T05:42:43.940426+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 940,
+  "japan": 941,
   "china": 827,
   "taiwan": 363,
-  "korea": 870
+  "korea": 869
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:01:00+00:00"
+   "newest": "2026-10-30T05:36:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T04:14:47+00:00"
+   "newest": "2026-10-30T02:17:26+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T03:33:45+00:00"
+   "newest": "2026-10-30T03:56:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T03:33:25+00:00"
+   "newest": "2026-10-30T05:08:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T13:58:12+00:00"
+   "newest": "2026-10-30T00:42:02+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T13:28:33+09:00"
+   "newest": "2026-10-30T14:41:20+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T14:28:53+09:00"
+   "newest": "2026-10-30T14:38:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "newest": "2026-10-30T04:00:00+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T03:40:00+00:00"
+   "newest": "2026-10-30T04:26:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T05:31:30+00:00"
+   "newest": "2026-10-30T05:41:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T21:59:44+00:00"
+   "newest": "2026-10-30T01:10:31+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -377,6 +377,24 @@
    "live_wire": true,
    "manual": false,
    "id": "ec477526263da479"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQW9VUEJoNjhxM2pBaDZvTHQwdmZ5MWRreWFUMWpISTBJOUVvZTc4WUZzTnoxdzlpN213QmhuYW9qY3prYjM2WGZtMHhySndaZ1lZM3kwVUxDdw?oc=5",
+   "published_utc": "2026-10-30T05:08:00+00:00",
+   "title_original": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8695eca309e6c66"
   },
   {
    "source_id": "tradingview_live",
@@ -4317,9 +4335,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWdiMGpneE5zbGpZZVRfWENfVEVKZHZJTFI3aFhnS0QzSkhBZzFlWWlwTVB2VGJpTFRtcHp0c3laVUp4b0VleHdOSEF2QlNObFpuMUtJNkpZeE1uTXo0b1lDSHZwWjBHY2FqT3R3WjVqc3ZCMHB1R2k4NDZvdklLQVNOQ2M2NXdybm1R?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -4331,7 +4349,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b921c83c0da75290"
+   "id": "a31086249153c216"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4630,6 +4648,24 @@
    "id": "676c80b7b3ded0f9"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "网易新闻客户端",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xY2xSQ3BPdHU5TzBSdFRZYzNobUFzNEUyejJYeWhndndVV0duaGJ2Xy1VdWNUeDJqNHd5cnZFdUUxS25DeFdHTHZUYXk5d2tZbG1vbXVGSXI1MmJI?oc=5",
+   "published_utc": "2026-10-29T02:06:00+00:00",
+   "title_original": "央行今日开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c0843f9467ed6637"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "IT조선",
    "title_en": "Bank of Korea: “US interest rate freeze, European and Japanese monetary policies also need to be confirmed”",
@@ -4664,24 +4700,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ae73d0a85a9e07fa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:23+00:00",
-   "title_original": "央行今日开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc19cfd413de5a65"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -10572,9 +10590,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -10586,7 +10604,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8166e1f4e20d2cef"
+   "id": "0facd9f9793a1c33"
   },
   {
    "source_id": "tradingview_live",
@@ -11887,6 +11905,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8ad0e6381b5427fd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBob3haUVpMWHhBcXZNUUdLa0sxV1ptN0dNMFVEZkk0RENUYkJWemw3eE9GNVhRdzNVSHpYam1Pb2VBZFBMdHo2NV9wR1NQYzBlVnNzTGc3cVRramNzbVA4ZlVR?oc=5",
+   "published_utc": "2026-10-26T02:56:03+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a7d1cb03ad8a1b50"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -13651,24 +13687,6 @@
    "id": "9f5caab2bcd6c61a"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
-   "published_utc": "2026-10-23T14:14:15+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d30db5f10da9efb"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
    "title_en": "Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026",
@@ -15162,23 +15180,6 @@
    "id": "264fd1160bcdef67"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHB5MEE0cmR1Y205c1BfamIzclJFY05ia3F1NmVsaUZCV01uY3lyQzRyay1wNjd6eGdwMldHdERWcmRNQ3dab2dvRHhEem9YWDlCNVRxUThjME9iOENjdEREam5uRlZFUzVMTHlXMTZQWnZrYU9Qa3hUUWtrc0prcVpvNXlLSlB4NjdpWlAycUtKMDV4endEWk5idTI4UVVtMWJZSDZjWjdVU2x3UUoycHpfRS0zVnJoZmEtbw?oc=5",
-   "published_utc": "2026-10-23T04:17:36+00:00",
-   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "240723b44d97f05a"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | Sankei",
@@ -15698,6 +15699,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bbd445f1ef7415ef"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFozZC1HRk1kZnZZcWRka1M0U1RYbTdfRzZUVklsal9QcDZrZW4zTFlJZHlZT3hyWXRxaHdSTno0em9KNmhyU1l3eFk1anpuNDdhTEwzb0ExeHBQbnNxOFowU3pKTXZTRno0TGNibDhUcE5GWW9BdHZ3N053SExoQVdFR29kMzMydTdCbDdVMmM1MDBCc3pfX0lKUEhQT28xdlNsV3hoRWV1di1uZkdNVnBHby10OTZpLXJuYg?oc=5",
+   "published_utc": "2026-10-23T00:52:00+00:00",
+   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c86a3e798d4a45f5"
   },
   {
    "source_id": "investing_live",
@@ -23073,23 +23091,6 @@
    "id": "e6d1c7ea76445882"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzE3WTMyNzZfUzJnb0c4SmVxQlB0ZlI3dkh4LXEtc1d4T2hvQkx5SnM3YWxON3h4Y1c0ZlFfNnRSQjRkaUNteEVsSEx0X3c3U0NkWVVyOXRmaS1JYVFqUV9PZ2RpSUJEVUUweWRWRHBmYVFScFNLcG5kaFh6LTRxb0ZGQ1dDTVY5dzlteXlPb2o3TmJVa1RLWnl2SEE?oc=5",
-   "published_utc": "2026-10-20T07:08:00+00:00",
-   "title_original": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c224d58709d418b"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "오피니언뉴스",
    "title_en": "Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual freeze on the 22nd",
@@ -23123,6 +23124,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5aa8fdba097a496d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzE3WTMyNzZfUzJnb0c4SmVxQlB0ZlI3dkh4LXEtc1d4T2hvQkx5SnM3YWxON3h4Y1c0ZlFfNnRSQjRkaUNteEVsSEx0X3c3U0NkWVVyOXRmaS1JYVFqUV9PZ2RpSUJEVUUweWRWRHBmYVFScFNLcG5kaFh6LTRxb0ZGQ1dDTVY5dzlteXlPb2o3TmJVa1RLWnl2SEE?oc=5",
+   "published_utc": "2026-10-20T07:00:00+00:00",
+   "title_original": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c224d58709d418b"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51910,23 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a21ba3d6ecbe5d32"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Goldman sees Korean FX intervention risk if won strengthens sharply By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWFkSDBhd3JNQVNWblp3dG40UUhaaHdXU2ZQZlB4Mk4ybTJRUTQzMWxMdmhKbEpuQm5EMVNFYnBCYmczb0c3REprMzY3M2NoQlVwNWlBal9DNHlReWJhREJSMFphRURMZjJZdWhPRUtFVHRiSERTd29JSGFKZGlpWk1menhXXzFEeXRMcXE1RWU5Wi1VYXNTSHFSeVdUWTdrS3J4NU1TNXlGWEVaU245SE5KVEpvSS1pcDNvMGl3SkdNSW1URVFN?oc=5",
-   "published_utc": "2026-10-06T10:40:48+00:00",
-   "title_original": "Goldman sees Korean FX intervention risk if won strengthens sharply By Investing.com",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dd5f334ffdbb7238"
   },
   {
    "source_id": "manual_ia",

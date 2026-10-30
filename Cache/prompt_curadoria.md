@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T05:32:44.476729+00:00
+Última coleta: 2026-10-30T05:42:43.940426+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          940
+  🇯🇵 Japão          941
   🇨🇳 China          827
   🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  870
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
   - [japan] BOJ keeps policy rate unchanged at 1.25%, raises annual ETF sales pace to 860 billion yen
   - [japan] Japan Housing Starts Unexpectedly Drop
+  - [japan] FOCUS: After decades of deflation, BOJ faces test of maintaining price stability
   - [japan] Japan's industrial production growth hits fastest pace since January; retail sales slow to 2.3% Y/Y
   - [japan] BOJ says 2% inflation target achieved, holds rates steady
   - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei Extends Losses, Yen Strengthens After BOJ Decisions — Market Talk
   - [japan] Bank of Japan Holds Fire While Signaling Rate Hikes Ahead
   - [japan] BOJ SEES FY28 CORE CPI +2.0% VS. JULY 2.0%
-  - [japan] BOJ SEES FY27 CORE CPI +2.6% VS. JULY +2.4%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T05:32:44+00:00",
+      "published_utc": "2026-10-30T05:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
