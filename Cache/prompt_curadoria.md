@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T16:32:43.061103+00:00
+Última coleta: 2026-10-30T16:42:46.055571+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
+  🇯🇵 Japão          921
   🇨🇳 China          863
-  🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  854
+  🇹🇼 Taiwan         364
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen gains after BOJ holds rates, dollar slips
+  - [china] China's State Council studies guiding principles of key Party plenum
   - [china] Weyerhaeuser expects to triple China log shipments in fourth quarter
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside
   - [japan] Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit
@@ -26,6 +28,7 @@ Total: 3000 manchetes
   - [korea] Why is SK hynix stock sliding today?
   - [china] IR: Strong orders and higher guidance offset China pricing pressure and inflation headwinds
   - [china] Overnight reverse repurchase is "on the job", and the policy interest rate has officially changed its anchor
+  - [taiwan] Intel on course for worst day ever, triggers global chip rout
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [japan] BOJ stays pat on rates, signals inflation target reached
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
-  - [china] Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027
-  - [china] Important adjustments from the central bank will be implemented starting next week
-  - [japan] Angle: Bank of Japan continues to raise interest rates to keep the underlying price level at 2%. Is the “next 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T16:32:43+00:00",
+      "published_utc": "2026-10-30T16:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
