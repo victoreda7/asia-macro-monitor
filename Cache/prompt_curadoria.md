@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T01:42:46.211161+00:00
+Última coleta: 2026-10-30T01:52:45.624050+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          908
   🇨🇳 China          829
-  🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  891
+  🇹🇼 Taiwan         371
+  🇰🇷 Coreia do Sul  892
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hyundai Glovis : Q3 revenue reached KRW 9,053.6bn as logistics and shipping growth lifted earnings
+  - [japan] Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Inte
+  - [china] CHINA PBOC CONDUCTS CNY150 BLN VIA 7-DAY REVERSE REPO FRI
+  - [japan] Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar
+  - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO FRI
+  - [korea] SK reshuffles energy chiefs, names SK hynix development head to new US role
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7138 FRI VS 6.7147
   - [korea] South Korea's Inflation Could Ease in October, Poll Shows — Market Talk
   - [japan] 46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Sept. industrial output growth hits 15-yr high on chips; retail sales, investment also up
   - [japan] Tokyo core inflation holds above BOJ target in Oct as rate decision looms
   - [japan] JAPAN OCT TOKYO CORE-CORE CPI +2.6% Y/Y; SEPT +2.9%
-  - [japan] JAPAN SEPT RETAIL SALES +2.3% Y/Y (AUG REVISED TO +2.7% FROM +3.4%); 7TH STRAIGHT RISE; MEDIAN FORECAST +3.2% 
-  - [japan] JAPAN SEPT RETAIL SALES -0.7% M/M (AUG REVISED TO -0.9% FROM -1.2%); MEDIAN FORECAST +1.0%(RANGE: +0.1% TO +2.
-  - [japan] Japan Industrial Output Rebounds More than Expected
-  - [japan] MNI JAPAN OCT TOKYO CORE CPI +2.6% Y/Y; SEPT +2.7%
-  - [japan] Consumer prices in Tokyo's wards increased by 2.6% to 103.3 in October...2% level for 2 consecutive months (Yo
-  - [japan] Japan Retail Sales Growth Eases to 3-Month Low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T01:42:46+00:00",
+      "published_utc": "2026-10-30T01:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
