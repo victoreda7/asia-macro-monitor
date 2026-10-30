@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T10:32:46.764283+00:00
+Última coleta: 2026-10-30T10:42:43.888051+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
+  🇯🇵 Japão          923
   🇨🇳 China          850
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
+  - [japan] Japan’s inflation rate reaches 2% target, Bank of Japan President: 13 years of hard work to meet important mil
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
@@ -43,6 +45,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan ETF sale, Finance Minister Katayama ``Considering how to handle the increase'' (Reuters)
   - [china] Henan Dayou Energy Q3 Net Loss At 436.4 Million Yuan
   - [china] Shanghai Electric Power: Q3 profit nearly vanished as lower tariffs and higher fuel costs pressured results
+  - [japan] BOJ Says Japan’s Inflation Trend Hits 2% Target as it Holds Rates
   - [china] Next week, 1.749 billion yuan of reverse repos will mature in the central bank’s open market.
   - [china] Central Bank: Starting from November 2, 2026, bidding for overnight reverse repurchase operations will be laun
   - [china] China's central bank to conduct overnight reserve repos every working day from November 2, rate at 1.25%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Yonyou Network Technology Q3 Net Loss At 318.6 Million Yuan
   - [japan] Bank of Japan Is Likely to Roll out Two More Hikes — Market Talk
   - [china] Jinko Solar Q3 Net Loss At 290.4 Million Yuan
-  - [taiwan] Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments
-  - [china] Chinese Yuan traded below 6.65
-  - [japan] Japan to consider how to handle BOJ ETF surplus in FY2027 budget, Katayama says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T10:32:47+00:00",
+      "published_utc": "2026-10-30T10:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
