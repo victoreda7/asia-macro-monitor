@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T13:42:45.918395+00:00",
- "collected_at_utc": "2026-10-30T13:42:45.918395+00:00",
+ "generated_at_utc": "2026-10-30T13:52:44.816826+00:00",
+ "collected_at_utc": "2026-10-30T13:52:44.816826+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
-  "china": 856,
+  "japan": 923,
+  "china": 858,
   "taiwan": 362,
   "korea": 857
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:16:50+00:00"
+   "newest": "2026-10-30T12:50:46+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T22:37:04+09:00"
+   "newest": "2026-10-30T22:49:13+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T12:38:49+00:00"
+   "newest": "2026-10-30T12:46:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T07:00:47+00:00"
+   "newest": "2026-10-30T01:00:15+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T13:41:00+00:00"
+   "newest": "2026-10-30T13:50:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T12:22:45+00:00"
+   "newest": "2026-10-30T13:09:41+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T01:10:31+00:00"
+   "newest": "2026-10-29T22:06:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-10-30T06:46:01+00:00"
   }
  ],
  "items": [
@@ -362,6 +362,40 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Publishing & Media Q3 Net Loss At 1.0 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G1NQ:0-china-publishing-media-q3-net-loss-at-1-0-million-yuan/",
+   "published_utc": "2026-10-30T13:24:28+00:00",
+   "title_original": "China Publishing & Media Q3 Net Loss At 1.0 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9967f0d88ed4dd60"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G1NK:0-chongqing-afari-technology-q3-net-loss-at-1-8-million-yuan/",
+   "published_utc": "2026-10-30T13:21:14+00:00",
+   "title_original": "Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f2bf31bff27bbcb3"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside",
    "url": "https://www.tradingview.com/news/tradingview:8d0800a37a64d:0-hyundai-motor-company-stock-12-month-price-target-cut-to-krw-552483-87-implies-89-upside/",
@@ -376,6 +410,23 @@
    "live_wire": true,
    "manual": false,
    "id": "43d30fc4b06485fd"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "When will the Bank of Japan raise interest rates next? Will the policy interest rate exceed 2%? #Expert Topi (Koichi Fujishiro) - Expert",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTZFTC1MMlQ5QjNVemR6aE40Wm1sUEVhcGdWUEl0VGl5X0NMSE5JQ0UwN2JZemZSSTJqZ0F6Tm1NeDM5eG5sWGQxV0NHeGtsVDhPSURhRExPSmFPaTdGNzBWZHlmVTJ1VDZ1bS0wckE2TVFrQkMyMm9iUFlLYUE1QUswb1RWWEx2?oc=5",
+   "published_utc": "2026-10-30T13:09:41+00:00",
+   "title_original": "日銀の次回利上げは？政策金利は２％を超える？ #エキスパートトピ（藤代宏一） - エキスパート",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e43a085c8b755f9a"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -393,6 +444,23 @@
    "live_wire": false,
    "manual": false,
    "id": "43d709540a839413"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "上观新闻",
+   "title_en": "Central Bank: Conduct bidding for overnight reverse repurchase operations every working day",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zS2lLbnZxVElJU0UzM01HU09VbFAyQlM2d19TYnhDOHpNTk5zdGU5aDdhS2hsbkRSTzRDNWJkZVZzY2xPLWtzMi0waFZZY0dnM2ZSOUxTSXFtZw?oc=5",
+   "published_utc": "2026-10-30T12:46:00+00:00",
+   "title_original": "央行：每个工作日开展隔夜逆回购操作招标",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "971f81e8508db65f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1152,7 +1220,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qeTk4YU9ySjlqc1I0TFIyN2NxcGpOT3VsQTdTYlpKM3h6MldpVHlGMU04Zkw4ajRwY21xSjllRnJNbWVzYldnUllOOW94WmlDWTgtYzBCQ3ZqYXpHTzFZMGlMMlc3ajM0ZVZKQ09NV1g3UnhVZ18xcHFDOERMWHc?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
    "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
    "region": "japan",
@@ -1166,7 +1234,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f4f41965caec86f"
+   "id": "fd0c09da45300452"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1594,23 +1662,6 @@
    "id": "488d063102fd5ef7"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "Central Bank: Conduct bidding for overnight reverse repurchase operations every working day",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12ZWZxaUlUd3FQaS1MaXJMR19yT3ZlU0o5M0xsUjFRc2hnNG93VV93b1BhNFk4XzJwbXYyaXRrMEY3bm0zN3hSaEtNaw?oc=5",
-   "published_utc": "2026-10-30T09:07:06+00:00",
-   "title_original": "央行：每个工作日开展隔夜逆回购操作招标",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc1e68d84a40a277"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's central bank to conduct overnight reserve repos every working day from November 2, rate at 1.25%",
@@ -1890,24 +1941,6 @@
    "id": "b8c7b8962aa184fe"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over",
-   "url": "https://www.tradingview.com/news/DJN_DN20261030002664:0-boj-s-ueda-hails-inflation-progress-but-says-battle-isn-t-over/",
-   "published_utc": "2026-10-30T08:32:00+00:00",
-   "title_original": "BOJ's Ueda Hails Inflation Progress But Says Battle Isn't Over",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bc65c0c1e15813e3"
-  },
-  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Trump’s days of running US-China relations on personal ties are numbered",
@@ -1923,24 +1956,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a66fe9997c758ea1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ's Decision to Hold Likely to Have Limited Impact on Yen — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261030002642:0-boj-s-decision-to-hold-likely-to-have-limited-impact-on-yen-market-talk/",
-   "published_utc": "2026-10-30T08:31:00+00:00",
-   "title_original": "BOJ's Decision to Hold Likely to Have Limited Impact on Yen — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8930e3f71609e1c2"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2445,24 +2460,6 @@
    "live_wire": false,
    "manual": false,
    "id": "74c5f492ce1f43a2"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Continuing interest rate hikes and the Bank of Japan governor (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DbWs0VHFhbTA1NzJaMWJZR1NSN0pBMUkwNHFfeTR6bUpvY29JSGtkN3NRUG1IcFNlVUJfbVZtd2c5WHlWREpXZTRXMWhyMTVXdXp1WTk2VTd6bEpJRUFjTFNxdjhyaVNtMmxZMXZ0bFVVbHk3d0hPV281eEwzNlU?oc=5",
-   "published_utc": "2026-10-30T06:42:47+00:00",
-   "title_original": "利上げ継続と日銀総裁（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c08b97e24bac5aad"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -6269,7 +6266,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -6280,7 +6277,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ad537082c2c93f5e"
+   "id": "703eacfba1e67ab6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -21734,6 +21731,23 @@
    "id": "fe2aa6488984d19c"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTJWTDBIVzBrOHFiVG1FNzhHNmZ2b013MTRuU05Kb194R3dhbXBXdVFtSG1qWUNkMjdQSUJpTGhHS200eV8wTS1OaXBKMFVPaXhsMTg4WVlCRVh3dXh1Mk5FdUxZNGZiMEdESGZKbEpvZTQ0RnhRM09aOGxsT2ZOZ2g0SHg2NlgxNDVwOTY2N0IxWjA?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "title_original": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1cadf4969f0fa604"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
@@ -22183,23 +22197,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2984ec8fca8a1331"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTJWTDBIVzBrOHFiVG1FNzhHNmZ2b013MTRuU05Kb194R3dhbXBXdVFtSG1qWUNkMjdQSUJpTGhHS200eV8wTS1OaXBKMFVPaXhsMTg4WVlCRVh3dXh1Mk5FdUxZNGZiMEdESGZKbEpvZTQ0RnhRM09aOGxsT2ZOZ2g0SHg2NlgxNDVwOTY2N0IxWjA?oc=5",
-   "published_utc": "2026-10-21T03:45:00+00:00",
-   "title_original": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1cadf4969f0fa604"
   },
   {
    "source_id": "gn_cn_caixin",

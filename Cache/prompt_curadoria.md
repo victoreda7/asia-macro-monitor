@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T13:42:45.918395+00:00
+Última coleta: 2026-10-30T13:52:44.816826+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          856
+  🇯🇵 Japão          923
+  🇨🇳 China          858
   🇹🇼 Taiwan         362
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
+  - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
+  - [china] Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside
+  - [japan] When will the Bank of Japan raise interest rates next? Will the policy interest rate exceed 2%? #Expert Topi (
   - [china] News Analysis: What China's new consumption trends say about its economy
+  - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
   - [china] Big announcement from the central bank! It will officially come into effect next Monday!
   - [taiwan] 113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International
   - [japan] BOJ says 2% inflation target generally achieved, maintains policy rate
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
   - [japan] Japan’s inflation rate reaches 2% target, Bank of Japan President: 13 years of hard work to meet important mil
-  - [japan] Bank of Japan determines that 2% inflation target has been achieved (Jiji Press)
-  - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
-  - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
-  - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T13:42:46+00:00",
+      "published_utc": "2026-10-30T13:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
