@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T17:22:42.826726+00:00
+Última coleta: 2026-10-30T17:32:43.148410+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          919
+  🇯🇵 Japão          920
   🇨🇳 China          864
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Omron eyes India as export base for blood pressure monitors
   - [japan] Japan's Sojitz to import rare earth yttrium from Malaysia
   - [china] China's State Council studies guiding principles of key Party plenum
   - [china] Weyerhaeuser expects to triple China log shipments in fourth quarter
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank announced important adjustments, which will be implemented starting next week!
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
-  - [japan] BOJ stays pat on rates, signals inflation target reached
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T17:22:43+00:00",
+      "published_utc": "2026-10-30T17:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
