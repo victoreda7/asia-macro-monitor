@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-30T21:12:42.631116+00:00",
- "collected_at_utc": "2026-10-30T21:12:42.631116+00:00",
+ "generated_at_utc": "2026-10-30T21:22:45.229203+00:00",
+ "collected_at_utc": "2026-10-30T21:22:45.229203+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 362,
   "korea": 851
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T21:01:09+00:00"
+   "newest": "2026-10-30T21:17:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-31T05:59:24+09:00"
+   "newest": "2026-10-31T06:16:51+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T21:11:52+00:00"
+   "newest": "2026-10-30T21:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T20:49:16+00:00"
+   "newest": "2026-10-30T21:06:44+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-31T06:05:00+09:00"
+   "newest": "2026-10-31T06:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes ``hawkish'' stance (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rakp4Tk5tdHdFcnBxcWdoQ1VGMXA2anNVVTJoQThJVmxfMVRTeUZXTE1RWnRqVDJyd1RpNENQLXpKTXhib1R2ZXZiTEtTbkZWSnJLVjNBY3BjR0VYYndrSjJyMVRpMk9XNkk4NXhLOF9ZclJTbG9UMXZULUMxVTg?oc=5",
+   "published_utc": "2026-10-30T21:06:44+00:00",
+   "title_original": "ＮＹ外為市場＝円3日続伸、日銀が金利据え置き 「タカ派」姿勢強調（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b65450646bdf889"
+  },
   {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
@@ -1527,9 +1545,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "“Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGx2SUhvSlFRSmt4N1RfelN4dk9UeXBhZEFzSlY0VnhkUWFtSFowc0xYMXB3SDgwYUl6T2RkYXN2enhiVVBOTVRXY0JYa3lFMEJfMGplOWZqd3RlOWtucE5vQ01jekE3WUtiZ3BKSTNFV3lmdG1fbDMwQjNPQWlIMld6d21BSmxCTU9JanFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0U1ZUYng4WUx2cnAtWnVxdVpDeXVZY0RraUlEZHhxWFVwRGdYdHU5MHFINTl2bTA5SFdJbzNBcFp0U1locnVPZTJ2RTc0RzdGVmFic19ESU9jMk1TdWx2Wlc2NUdMT1VITXZheDdzQ0JBcS1UZWZCNGxQQWZUUE0?oc=5",
    "published_utc": "2026-10-30T10:38:44+00:00",
-   "title_original": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話 (時事通信)",
+   "title_original": "「2％到達は象徴的」「利上げ、あと2回」 日銀関係・識者談話（時事通信）",
    "region": "japan",
    "topics": [
     "monetary"
@@ -1538,7 +1556,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7006b88c6fc98187"
+   "id": "81fe2b205bd96ed1"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1734,23 +1752,6 @@
    "id": "5f3348cebf228871"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The European Central Bank decides to keep interest rates unchanged at 2.5% | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ZXhkdnN4c040bXhLZHA5YjU5bi1xa3pWaWF4NzRWYlVXc0RydmFyQnE3T245U2FRMXNJWnFRY0RHVUktMnR0NlBVRnNuRGg1RmJOLXBMZXE2cXBVMUpN?oc=5",
-   "published_utc": "2026-10-30T10:01:00+00:00",
-   "title_original": "歐洲央行決議維持利率2.5%不變| 國際",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "624aaba03b27830a"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan",
@@ -1800,26 +1801,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ce447966c61387b9"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
-   "published_utc": "2026-10-30T09:53:23+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f4f41965caec86f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1980,6 +1961,26 @@
    "live_wire": true,
    "manual": false,
    "id": "80686e4fc28752aa"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
+   "published_utc": "2026-10-30T09:41:07+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2726,24 +2727,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9b3e406b3000f2db"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor reviews joint statement and makes no comment (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWHJ0Qnk3VjMwUkhPVHJlSklFX0x4SUxpV1d1N21laTFnMHYxZHBHRzBrYlB3Y0ZnSUZQYktyNVYtTzRNZVRWLVRnQ1ptZkl4R2R2RGJTb0EyckdHUG56b2dPUDYwQlIwbjJNMXNhNE1JTXBNdkI3SUpZX1YtQVE?oc=5",
-   "published_utc": "2026-10-30T07:01:14+00:00",
-   "title_original": "日銀総裁、共同声明見直しコメントせず（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8c0f00cf0a1cca8"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -4962,6 +4945,23 @@
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
+   "title_en": "The European Central Bank decides to keep interest rates unchanged at 2.5% | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ZXhkdnN4c040bXhLZHA5YjU5bi1xa3pWaWF4NzRWYlVXc0RydmFyQnE3T245U2FRMXNJWnFRY0RHVUktMnR0NlBVRnNuRGg1RmJOLXBMZXE2cXBVMUpN?oc=5",
+   "published_utc": "2026-10-29T13:59:00+00:00",
+   "title_original": "歐洲央行決議維持利率2.5%不變| 國際",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "624aaba03b27830a"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
    "title_en": "U.S. GDP expanded by 3.4% in the third quarter, higher than expected, and core inflation increased by 3.1% in September.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUUNXeXdGTDNNOC1qUzZJNF93QU5nZFF2TGloY2NCQVB2dEFkVEFMczJid3Y2UXAwU292UnZfZEIwTlJCM3Q4dDBQWmFTZERhQnZTN3dQcE5WLUV3MDVZ?oc=5",
    "published_utc": "2026-10-29T13:56:00+00:00",
@@ -6133,9 +6133,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3JhTUpmLTNSYlNHZ2oxd1otOGF3VG9wYlJsMGRIdnVjRmdrdHV3TE5CQW83U0FDR3NfUGtzbVBpRFlGazcteENlbTlNRXRnZl82d3FSNXczYXRqTEJLOVl0UXVzcURwMWhZbGV1ZjFnWDNzWk8zak5EUy1kVHlWWUNWQ2hMV2xL?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -6147,7 +6147,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "caaceae1bc852a60"
+   "id": "b921c83c0da75290"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -35216,23 +35216,6 @@
    "id": "51a413bc8920483f"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -35249,6 +35232,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
