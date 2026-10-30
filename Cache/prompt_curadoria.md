@@ -7,28 +7,32 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T05:02:45.628346+00:00
+Última coleta: 2026-10-30T05:12:45.563580+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          941
-  🇨🇳 China          825
+  🇯🇵 Japão          940
+  🇨🇳 China          826
   🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  871
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's industrial production growth hits fastest pace since January; retail sales slow to 2.3% Y/Y
   - [japan] BOJ says 2% inflation target achieved, holds rates steady
   - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
+  - [china] European Central Bank President Christine Lagarde admitted that she could no longer remain neutral and would l
+  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
+  - [japan] Bank of Japan says it expects the inflation rate to “reach 2%” for the first time since the target was introdu
   - [taiwan] Taiwan's manufacturing sector stays in fast-growth mode in September
   - [japan] Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, N
   - [taiwan] Foxconn unveils three new EV models as it expands contract manufacturing push
+  - [japan] The Bank of Japan should conduct appropriate monetary policy to achieve the price target sustainably and stabl
   - [japan] Key points from the Bank of Japan governor's conference: Policy significance of reaching the 2% target, next i
   - [japan] Although the Bank of Japan judges that the underlying price level has reached the 2% target, good price increa
   - [japan] The Bank of Japan announced that the inflation rate has reached the 2% target and kept interest rates unchange
   - [japan] Analysts consider the Bank of Japan meeting to be hawkish even if it remains unchanged; focus on announcement 
   - [japan] Bank of Japan's underlying price increase rate “effectively reached 2% target”; policy interest rate unchanged
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 111.26, Implies 35% Upside
-  - [japan] BOJ keeps rates steady, declares victory in hitting price target
   - [japan] Analysts react to BOJ decision to keep rates steady
   - [japan] Bank of Japan believes that the inflation rate will reach 2% for the first time since the target was introduce
   - [taiwan] Intel tells Taiwan's chip suppliers to build service capacity early
@@ -44,6 +48,7 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation
   - [japan] BOJ keeps interest rates steady, signals further rate hikes
   - [japan] Bank of Japan ETF sales pace doubles, completion time shortened from 112 years to 43 years (Mainichi Shimbun)
+  - [china] China Elevates Key Figure in Purges With Rare Politburo Pick
   - [japan] [Breaking News] Bank of Japan has determined that the ``underlying inflation rate'' target of 2% has been virt
   - [japan] Nikkei Extends Losses, Yen Strengthens After BOJ Decisions — Market Talk
   - [japan] Bank of Japan Holds Fire While Signaling Rate Hikes Ahead
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ SEES FY26 CORE CPI +2.5% VS. JULY 2.5%
   - [japan] Bank of Japan holds rates, says inflation trend hits target for first time
   - [japan] BOJ TO ADJUST POLICY TO ANCHOR UNDERLYING INFLATION
-  - [japan] BOJ KEEPS VIEW: UPSIDE RISK TO PRICES
-  - [japan] BOJ: AIMS TO STABILIZE UNDERLYING INFLATION AROUND 2%
-  - [china] China's yuan hits over 4-year high, set for fourth monthly gain
-  - [japan] Bank of Japan leaves policy rate unchanged at 1.25%
-  - [japan] Bank of Japan decides to keep policy rate unchanged at 1.25% Monetary Policy Meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T05:02:45+00:00",
+      "published_utc": "2026-10-30T05:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
