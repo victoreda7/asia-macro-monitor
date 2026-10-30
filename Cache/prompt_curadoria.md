@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T07:12:44.157348+00:00
+Última coleta: 2026-10-30T07:22:44.249940+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          941
+  🇯🇵 Japão          940
   🇨🇳 China          828
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 110.56, Implies 34% Upside
+  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 554096.77, Implies 89% Upside
   - [japan] BOJ to accelerate ETF sales, more than doubling pace from January
   - [japan] Japan Housing Starts Fall 2.7% In September
+  - [japan] BREAKING NEWS: All BOJ board members agree inflation consistent with 2% goal: Ueda
+  - [japan] BREAKING NEWS: BOJ chief declines to comment on reviewing accord with gov't on deflation
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] BOJ Governor Ueda’s comments at news conference
   - [japan] Bank Of Japan Holds Key Rate As Expected
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foxconn unveils three new EV models as it expands contract manufacturing push
   - [japan] The Bank of Japan should conduct appropriate monetary policy to achieve the price target sustainably and stabl
   - [japan] Key points from the Bank of Japan governor's conference: Policy significance of reaching the 2% target, next i
-  - [japan] Although the Bank of Japan judges that the underlying price level has reached the 2% target, good price increa
-  - [japan] The Bank of Japan announced that the inflation rate has reached the 2% target and kept interest rates unchange
-  - [japan] Analysts consider the Bank of Japan meeting to be hawkish even if it remains unchanged; focus on announcement 
-  - [japan] Bank of Japan's underlying price increase rate “effectively reached 2% target”; policy interest rate unchanged
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T07:12:44+00:00",
+      "published_utc": "2026-10-30T07:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
