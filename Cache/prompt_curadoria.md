@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T14:02:45.031261+00:00
+Última coleta: 2026-10-30T14:12:44.215774+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          858
-  🇹🇼 Taiwan         362
+  🇨🇳 China          857
+  🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
   - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
   - [china] Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
   - [japan] Higher yields now hurting AI stock bull as bond markets police capex: BofA
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
-  - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T14:02:45+00:00",
+      "published_utc": "2026-10-30T14:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
