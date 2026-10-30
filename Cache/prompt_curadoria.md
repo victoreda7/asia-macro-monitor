@@ -7,17 +7,16 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T16:52:45.231544+00:00
+Última coleta: 2026-10-30T17:02:43.965337+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          919
+  🇯🇵 Japão          918
   🇨🇳 China          864
-  🇹🇼 Taiwan         364
+  🇹🇼 Taiwan         365
   🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
-  - [japan] Yen gains after BOJ holds rates, dollar slips
   - [china] China's State Council studies guiding principles of key Party plenum
   - [china] Weyerhaeuser expects to triple China log shipments in fourth quarter
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [japan] BOJ stays pat on rates, signals inflation target reached
+  - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T16:52:45+00:00",
+      "published_utc": "2026-10-30T17:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
