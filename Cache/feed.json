@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T13:02:44.731200+00:00",
- "collected_at_utc": "2026-10-30T13:02:44.731200+00:00",
+ "generated_at_utc": "2026-10-30T13:12:44.880135+00:00",
+ "collected_at_utc": "2026-10-30T13:12:44.880135+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
+  "japan": 926,
   "china": 855,
   "taiwan": 363,
-  "korea": 857
+  "korea": 856
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T12:54:55+00:00"
+   "newest": "2026-10-30T13:00:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T12:43:45+00:00"
+   "newest": "2026-10-30T11:38:21+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:33:45+00:00"
+   "newest": "2026-10-30T09:49:36+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T21:20:24+09:00"
+   "newest": "2026-10-30T22:04:45+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:50:43+00:00"
+   "newest": "2026-10-30T11:04:34+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:29:23+00:00"
+   "newest": "2026-10-30T10:35:10+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T13:01:40+00:00"
+   "newest": "2026-10-30T13:11:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-10-30T01:10:31+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:46:01+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
@@ -801,6 +801,24 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan judges that underlying inflation has reached 2%, postponing interest rate hike as it marks a turning point in policy change after 14 years (Sankei Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzVQaDVDX1dhNXR5S0k3Q2UwTDUybXViUzNGdklkaUpsSmhXLXBzMjdFNFJFNGtmbnR0OHBmWTdad2pLR3lZSzM2WWtxNl8yYWpxRFpya0F6ZUtZcnhFTDBTSy1MQmFBckZFdWxqOFJhd3RpTVEyM0FlVWt4aEphcl94Mk9EZDlwY21CbURR?oc=5",
+   "published_utc": "2026-10-30T10:44:57+00:00",
+   "title_original": "日銀、基調物価2％到達と判断 14年越しで政策転換の節目に、利上げは見送り (産経新聞)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "984c449d0492d32d"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Finance Minister Katayama understands the Bank of Japan's judgment is \"consistent with the 2% target\" (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PeGtpcmJWNXpvMHZTdHgzY3pKU3lrQVMyUjd6bE03OTVYeDhSYmRySG5OTDdiUG10bDVBeHRpRFM1LXJ0SWN0OXBna0dsX2x6d0ZZWkxYOG1yaGU5SzAtTFVjcTIzY25HWUVIdUE1dk9GT0ZHNXBRZzNhT3VfdWc?oc=5",
    "published_utc": "2026-10-30T10:42:44+00:00",
@@ -981,7 +999,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wUzEzSVBwWTloVGtQYUlEXzd2UElDcGZPQjMwS0JEUDk5VktXLXMtWElhODEya2l3VkZ1dFVBZURpcXZiVHpxcmNlY1lTcnBLdHlZckdGUTBWUQ?oc=5",
-   "published_utc": "2026-10-30T10:04:22+00:00",
+   "published_utc": "2026-10-30T10:04:00+00:00",
    "title_original": "BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.",
    "region": "japan",
    "topics": [
@@ -1078,6 +1096,26 @@
    "live_wire": true,
    "manual": false,
    "id": "ce447966c61387b9"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
+   "published_utc": "2026-10-30T09:53:23+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2f4f41965caec86f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1257,26 +1295,6 @@
    "live_wire": true,
    "manual": false,
    "id": "80686e4fc28752aa"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
-   "published_utc": "2026-10-30T09:41:07+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "tradingview_live",
@@ -1874,6 +1892,24 @@
    "id": "8930e3f71609e1c2"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Japan’s Omron Targets India for Manufacturing, Exports Push",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2xtWGh3QUxLcERjQlBzNXpkazI2MlZjeE5meFpWdUE3SFA2dE5kSzJ6Qk9Bb2h3Vmd5NXU3RGhnLTZHTkFPRkI3OWdUc29uamx0RDRUQTl3d2cxdVVjU19KbWFIdjVZVmlodS1aNUFITWx1MU5UbV8taEkzcFNibno4OXc1T0ZkR2pWUXp3MWkwLVJ2M095Q2E2SXJJOTFFdW0zNUlOZ3NERUVXN1E?oc=5",
+   "published_utc": "2026-10-30T08:30:00+00:00",
+   "title_original": "Japan’s Omron Targets India for Manufacturing, Exports Push",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "040d11ec93455672"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Chip design company MediaTek says growth in demand for AI will \"absolutely\" continue",
@@ -2411,25 +2447,6 @@
    "live_wire": false,
    "manual": false,
    "id": "317a9720fc780cc9"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "\"Bank of Japan decides to maintain status quo, announces achievement of 2% inflation target\" Ushisankuma's bond today (after closing) October 30, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjJkcE4xMXhueFlhb0Zsd3dyd1VKTTJFYWxyT2FpSHBKSnhlQ0QxUGJjb29HXzAyWXRvU1VOZUNkcU82anNBOVhGcktjZUFfNTNCSWVHOU5jbDVuRG5PeFNRV1JWTDlUSzhpNUpQMF9ZYzdvSzF6YTZDSEJPbXRDRHZJbXZjUkxX?oc=5",
-   "published_utc": "2026-10-30T06:41:13+00:00",
-   "title_original": "「日銀は現状維持決定、2%物価目標達成表明」牛さん熊さんの本日の債券（引け後）2026年10月30日",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "932da97d7112caa0"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -5462,6 +5479,24 @@
    "id": "30b0b131ce2f111a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
+   "published_utc": "2026-10-29T04:07:30+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c3836b9f7c92c3"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com",
@@ -5955,24 +5990,6 @@
    "id": "f646667b10266f0d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb29LRE5ydUVkMkM1Sy1VR3RuclQ2U3NBV1FwOTdmZk02LXlLSktXd3JuZExZMlNpeFQ3d1pLT2I2OFFLN2ZwbFhtUzBkUUVGN0g4QnFDTjltWmxFUFVzNUh4NHVTV2JTQUtYTWwtQU9PajJBaUs1Qmo2Um9Zemc?oc=5",
-   "published_utc": "2026-10-29T01:29:41+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26c7660a9fae0602"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
@@ -6218,7 +6235,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -6229,7 +6246,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "703eacfba1e67ab6"
+   "id": "ad537082c2c93f5e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -7752,7 +7769,7 @@
    "source_name": "中央社 CNA",
    "title_en": "Israel fears change, opposition temporarily leads in exit polls",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pM1Ata0x5aGlDajZENFViSTdyTXpjdHJseWVPajhLZ19KdlVCMUdIaU12blRnSEhGbWNrNWhRV1Jwb0JISzZ6Y3M2UGZPWk1RZmEw?oc=5",
-   "published_utc": "2026-10-28T07:05:57+00:00",
+   "published_utc": "2026-10-28T07:05:14+00:00",
    "title_original": "以色列恐變天 出口民調反對派暫領先",
    "region": "taiwan",
    "topics": [
@@ -21683,23 +21700,6 @@
    "id": "fe2aa6488984d19c"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTJWTDBIVzBrOHFiVG1FNzhHNmZ2b013MTRuU05Kb194R3dhbXBXdVFtSG1qWUNkMjdQSUJpTGhHS200eV8wTS1OaXBKMFVPaXhsMTg4WVlCRVh3dXh1Mk5FdUxZNGZiMEdESGZKbEpvZTQ0RnhRM09aOGxsT2ZOZ2g0SHg2NlgxNDVwOTY2N0IxWjA?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1cadf4969f0fa604"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
@@ -22149,6 +22149,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2984ec8fca8a1331"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTJWTDBIVzBrOHFiVG1FNzhHNmZ2b013MTRuU05Kb194R3dhbXBXdVFtSG1qWUNkMjdQSUJpTGhHS200eV8wTS1OaXBKMFVPaXhsMTg4WVlCRVh3dXh1Mk5FdUxZNGZiMEdESGZKbEpvZTQ0RnhRM09aOGxsT2ZOZ2g0SHg2NlgxNDVwOTY2N0IxWjA?oc=5",
+   "published_utc": "2026-10-21T03:45:00+00:00",
+   "title_original": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1cadf4969f0fa604"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51945,23 +51962,6 @@
    "live_wire": false,
    "manual": false,
    "id": "22b6ed63e17424ac"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics poised to top $74bn in Q3 OP",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Jc0FZbV8zWnpLNXNEQUpVVHUzU0gzdGJKMXpDTm5mVkhiUWVub1hmX1VOYmZDUjR3dVVlUUIxaWQ5MDYzT01EdW90MmRYMTNIc1c1QVozbw?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "Samsung Electronics poised to top $74bn in Q3 OP",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b38006dc72533dfc"
   },
   {
    "source_id": "manual_ia",

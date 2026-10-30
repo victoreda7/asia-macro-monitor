@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T13:02:44.731200+00:00
+Última coleta: 2026-10-30T13:12:44.880135+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
+  🇯🇵 Japão          926
   🇨🇳 China          855
   🇹🇼 Taiwan         363
-  🇰🇷 Coreia do Sul  857
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
@@ -43,6 +43,7 @@ Total: 3000 manchetes
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
   - [taiwan] Tainan station tightens rules for popular public piano
   - [japan] Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates a
+  - [japan] Bank of Japan judges that underlying inflation has reached 2%, postponing interest rate hike as it marks a tur
   - [japan] Finance Minister Katayama understands the Bank of Japan's judgment is "consistent with the 2% target" (Jiji Pr
   - [japan] “Achieving 2% is symbolic” “Two more rate hikes” Statement from Bank of Japan experts (Jiji Press)
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Japan chipmaker Kioxia posts 2.2 tril. yen net profit in April-Sept.
   - [japan] BREAKING NEWS: Kioxia expects 1.36 tril. yen net profit for Oct.-Dec. quarter
   - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
-  - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T13:02:44+00:00",
+      "published_utc": "2026-10-30T13:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
