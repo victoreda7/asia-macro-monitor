@@ -7,20 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T04:02:43.912454+00:00
+Última coleta: 2026-10-30T04:12:45.632010+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          937
-  🇨🇳 China          824
+  🇯🇵 Japão          938
+  🇨🇳 China          823
   🇹🇼 Taiwan         364
   🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [japan] 2% inflation target reached: Bank of Japan opinion
+  - [japan] Janome Corp - To Buy Back Up To 5.98% Of Shares Worth 1 Billion Yen
+  - [japan] Analysts react to BOJ decision to keep rates steady
   - [japan] Outlook for Economic Activity and Prices (October 2026, The Bank's View)
   - [japan] Statement on Monetary Policy
   - [japan] BOJ Hold Comes With Critical Shift in Inflation View — Market Talk
-  - [japan] Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar
+  - [china] The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 bill
+  - [japan] BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation
+  - [japan] BOJ keeps interest rates steady, signals further rate hikes
+  - [japan] BOJ keeps rates steady, declares victory in hitting price target
+  - [japan] Bank of Japan ETF sales pace doubles, completion time shortened from 112 years to 43 years (Mainichi Shimbun)
+  - [japan] [Breaking News] Bank of Japan has determined that the ``underlying inflation rate'' target of 2% has been virt
   - [japan] Nikkei Extends Losses, Yen Strengthens After BOJ Decisions — Market Talk
   - [japan] Bank of Japan Holds Fire While Signaling Rate Hikes Ahead
   - [japan] BOJ SEES FY28 CORE CPI +2.0% VS. JULY 2.0%
@@ -34,7 +42,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan leaves policy rate unchanged at 1.25%
   - [japan] Bank of Japan decides to keep policy rate unchanged at 1.25% Monetary Policy Meeting
   - [japan] Bank of Japan Likely Declaring Win in Deflation Battle — Market Talk
-  - [japan] Analysts react to BOJ decision to keep rates steady
   - [japan] Asia stocks tumble as AI spending concerns deepen; BOJ holds rates
   - [japan] BOJ: UNDERLYING INFLATION CONSISTENT WITH 2% TARGET
   - [japan] BOJ keeps interest rates steady as expected; says CPI inflation now at target By Investing.com
@@ -48,15 +55,8 @@ Total: 3000 manchetes
   - [japan] Bank of Japan's key price inflation target is "generally consistent" with the 2% target, the first time since 
   - [japan] BOJ: POLICY DECISION BY 8-TO-1 VOTING; TAKATA DISSENTS
   - [japan] BOJ: PACE OF SELLING OF ITS ETF HOLDINGS TO RISE TO ABOUT Y860 BLN A YEAR FROM ABOUT Y330 BLN ON BOOK VALUE BA
-  - [japan] BOJ keeps interest rates steady, signals further rate hikes
   - [japan] BREAKING NEWS: Underlying inflation "generally consistent" with 2% target: BOJ
   - [japan] BOJ BOARD UNANIMOUSLY DECIDES TO ACCELERATE SELLING OF BANK’S ETF HOLDINGS AT ABOUT 0.1% OF MARKET TRADING VAL
-  - [japan] Japan 10Y Yield Falls as BOJ Holds Rates
-  - [japan] BREAKING NEWS: BOJ to accelerate pace of sales of ETF holdings
-  - [japan] MNI BOJ DECIDES TO KEEP POLICY RATE AT 1.25%
-  - [japan] BOJ keeps interest rates steady as expected; says CPI inflation now at 2% target
-  - [japan] Yen Strengthens as BOJ Keeps Rates Unchanged
-  - [japan] In October, the consumer price index in Tokyo’s 23 wards increased by 2.6% (ABEMA TIMES)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T04:02:44+00:00",
+      "published_utc": "2026-10-30T04:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
