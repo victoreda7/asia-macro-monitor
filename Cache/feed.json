@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-30T11:22:45.607933+00:00",
- "collected_at_utc": "2026-10-30T11:22:45.607933+00:00",
+ "generated_at_utc": "2026-10-30T11:32:44.993643+00:00",
+ "collected_at_utc": "2026-10-30T11:32:44.993643+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 923,
-  "china": 852,
-  "taiwan": 362,
-  "korea": 863
+  "china": 854,
+  "taiwan": 361,
+  "korea": 862
  },
  "elapsed_s": 30.3,
  "sources": [
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:55:00+00:00"
+   "newest": "2026-10-30T09:34:14+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 48,
+   "count": 56,
    "error": "",
-   "newest": "2026-10-30T15:57:06+08:00"
+   "newest": "2026-10-30T18:49:26+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T11:12:59+00:00"
+   "newest": "2026-10-30T11:10:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:09:19+00:00"
+   "newest": "2026-10-30T11:17:07+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T11:21:00+00:00"
+   "newest": "2026-10-30T11:31:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-10-30T06:16:50+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:46:01+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "ShareCast",
+   "title_en": "Asia report: Tech stocks tumble on AI fears as BoJ holds rates",
+   "url": "https://www.tradingview.com/news/sharecast:59b95b37a094b:0-asia-report-tech-stocks-tumble-on-ai-fears-as-boj-holds-rates/",
+   "published_utc": "2026-10-30T11:26:08+00:00",
+   "title_original": "Asia report: Tech stocks tumble on AI fears as BoJ holds rates",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "42ebc33293238204"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -362,6 +379,23 @@
    "id": "e5cb9be67ed6b79a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank announced! Overnight reverse repurchase will be carried out every working day starting next week",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWVjOWEyRkJBLXpZZGI3TXYyWVVSTmNnMzVwODBERnlCcEVVNFBmRnFIRWVrQWVxQUotRlJZQVdtOWlPSVdlNkNNTzhWd1QwRURtMEFsSUU1WVVwRGNkTENUQ3dsaTRiZ1RWTnExT2YyeWc5Z2ltd21EMW43aUVHMDE5a0ZYODRBa1c4Rg?oc=5",
+   "published_utc": "2026-10-30T11:17:07+00:00",
+   "title_original": "央行宣布！下周起每个工作日开展隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "38ad202af302f15d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Memory Crunch Cements CXMT as China's Chip Champion — Update",
@@ -379,6 +413,24 @@
    "id": "c36f51fe243250d7"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank releases important information",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcndvVHZBYkNTMzJUWkVqRTV1NGlWVVF0Q2JGVi10UzhiUjJQMWF5UVRtYjdMTk1Ma29ROEhkYlQ2Q2ptd3JaLVFvSVo5cGRQNEdGR3pDUlVEaFlYdTFkMDNBTERVLUU1XzVpbVM4OHJ6QkVEZklJaV9CXzB4MWt5LWI3NVM0RnZsY2FKWg?oc=5",
+   "published_utc": "2026-10-30T11:11:20+00:00",
+   "title_original": "央行发布重要信息",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "79c20e019f35af64"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
    "title_en": "Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variable",
@@ -394,6 +446,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6fcec488bdcc3369"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Tainan station tightens rules for popular public piano",
+   "url": "https://focustaiwan.tw/society/202610300019",
+   "published_utc": "2026-10-30T10:49:26+00:00",
+   "title_original": "Tainan station tightens rules for popular public piano",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "05d386e86216baea"
   },
   {
    "source_id": "tradingview_live",
@@ -622,6 +691,24 @@
    "live_wire": true,
    "manual": false,
    "id": "ce447966c61387b9"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda holds press conference, reaching 2% price target: Experts say this (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVkd5RjZsdmxaWW1CekRtOGVwbjBnV3ppMGlPOHNDdTFBNU1BUWdfWG9RNnJDalpFbzRWaS16RXJmclpDVWJiZ09EVGhtRVZUUUU5NjBqRDFIREc1ZUl1QVYzcTBVWGJrU0l3eW5xN2wzUFgweXIxeHhUbzVKMnc?oc=5",
+   "published_utc": "2026-10-30T09:51:56+00:00",
+   "title_original": "日銀植田総裁が会見、物価目標2%に到達：識者はこうみる（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "978de50234e3c1d5"
   },
   {
    "source_id": "tradingview_live",
@@ -1382,6 +1469,23 @@
    "id": "b574668e8b709f99"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "China set to lose LNG import crown to Japan on weak demand",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXhVX2U5aVA2TlgxMEFvNHcteFptcUp4clBaTm43SUpZZ1hwRHZWeHItcmRfdXJ0SzRoSGJXWnYtNnFtSEJYNjJWWkFnc0RfSjFSRE95bE9ZbnhPNVczQW5LalNHZFZrTHNfT0l0TXJKWWNHMlcyOWVtMlFEQ2lwbkdzZVNScE1OM21tazFXTjZpbDktUDh1SUEtSmlSc1JrUEZJ?oc=5",
+   "published_utc": "2026-10-30T08:29:23+00:00",
+   "title_original": "China set to lose LNG import crown to Japan on weak demand",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9a2cd62ec8c2660"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Flat Glass Q3 Net Loss At 472.7 Million Yuan",
@@ -1415,23 +1519,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e5af72d7aace2716"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "New Hope Liuhe Q3 Net Loss At 865.8 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G0UE:0-new-hope-liuhe-q3-net-loss-at-865-8-million-yuan/",
-   "published_utc": "2026-10-30T08:27:55+00:00",
-   "title_original": "New Hope Liuhe Q3 Net Loss At 865.8 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6701d978933f0e81"
   },
   {
    "source_id": "nikkei_asia",
@@ -1598,7 +1685,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan cuts, ETF trading accelerates \"limited impact\" (Joint Communications)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXbDItc09DR2dxcTcza29ubGZYYlJwQjRreGlWTkVoMjNfc0oyM09NcWZJcUJPQ2VaTUp5RHdTMmVsamlIWkQ0c2VyRXNaZnVRZjV6eFZ6MnVqU0dmNmMtaGM2UXpaZ2pPZEd4enpFaVF1SXZwZVZBZ3JncUxwcUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkdEVDNjREhpU2hvNkRmZkFPdEowYjg2WTRmcF9WdEE4XzExUmFjcHZHbGxLRkdFQ2VGMDRpcUhUajZxSHQxVHVSWFVNZEh5T1ZIVTlnQm9nRGhROVdxOTFDZEpBQUVyU1FmMlNUMVVzbXNPdEFjR0hhMkZTcVl3OUdlQVV0TGdEWTd0RmVR?oc=5",
    "published_utc": "2026-10-30T07:27:19+00:00",
    "title_original": "日銀総裁、株ETF売却加速「影響限定的」（共同通信）",
    "region": "japan",
@@ -1610,7 +1697,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eef01acaef22c323"
+   "id": "be0ad2bf5d8175c0"
   },
   {
    "source_id": "nhk_economy",
@@ -2274,25 +2361,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a417de60112464c6"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Bank of Japan should conduct appropriate monetary policy to achieve the price target sustainably and stably - Finance Minister Katayama (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16VDB6akJrNzhCZ1hYWUZDUmNNZERPMnFlY1hSY2JuRUZ1Y3o5dWxRRmFJdi15bmxlR1NLbE1MOGdwTVpvcUxoT0ZHRXRyRWxOajV1OHFSTEl6a0pWMHVBOVAwWDdnR3NObFdtLVEtcHpwYTZfZnBtRVNoZTlXOHM?oc=5",
-   "published_utc": "2026-10-30T04:38:18+00:00",
-   "title_original": "日銀は物価目標の持続的・安定的実現へ適切な金融政策運営を＝片山財務相（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "00a7fe1de0ad4730"
   },
   {
    "source_id": "gn_tw_cna",
@@ -5891,7 +5959,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -5902,7 +5970,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "703eacfba1e67ab6"
+   "id": "ad537082c2c93f5e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -8732,7 +8800,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDE2Ums1SjdYTi1FNVZseU9ScFJnc25BSUU2cTkxeXJCdEZlZDVLTmJQZ1JINWRuZkRESnJmaU8yelRtRS1TWVktd3BXR05saUVjMUxQWW5RSWI3NTBsd2otS1BsUmdVcnVNTEl2NDBOQk9HVDMwSG0tY09nbUpSdWtIOGV2UExrdXlNTg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zb3ZiZkRtZXo0NzlyeDJlcXR4YURWSm1IMDRwUFFHWFhlbzdwV1drUUh1WVhQaTRpeUxSMVVMZkJ5bnVVSUhDZ045VzJ5c2hNejlUSmVsUzZQckowVHAyNDlMUDNyaWUyYWtrWllHb3d0OGg3dGFWTl9QNWc?oc=5",
    "published_utc": "2026-10-27T18:18:15+00:00",
    "title_original": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
    "region": "china",
@@ -8743,7 +8811,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "73292a0a6dd041b7"
+   "id": "93a6870684bfe769"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51892,74 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d67211017d6c7e44"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
-   "published_utc": "2026-10-07T03:51:14+00:00",
-   "title_original": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d2540344d0df7ce0"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Malaysia 2027 budget to tackle living costs, fiscal risks as election looms",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVERiSEZQb0dRek5pUjRjZVpBX082TE83SXZsbmR3alN3RWVBRjV3S0pUT3RfSnlPVUVwS1ZGakxqeHZVLXY1eUJOQ0JLc1dJYk85YlpxN3QwMldveGJaZk1NbVVBRmlIUnFKY1hXNFpDRHptNExkRE9IQ1ZueU1pY043MVhrUEhKZlRqd25saHF2OUVuUDMtbmtscFhTRDExQTJoSXBwc2RCcUtxV1ZHeWNXaEY2ZVc2bnAzTnA2LTg?oc=5",
-   "published_utc": "2026-10-07T03:06:00+00:00",
-   "title_original": "Malaysia 2027 budget to tackle living costs, fiscal risks as election looms",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3417fc94442c2983"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Hwacom shifts semiconductor business to SureWin, targets post-quantum security",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMy1pWFQ3Y0pnNzJOU2NUWFRvbWxlTzRmOV90RnloVmVZU3otVVMtek9od0dhN195dUh2XzZ2WmxTYXBYb2VNVXE0U1VlVzR0LWpWUjJ6M2hNN3hSOUtienViYnEwdWZ5QzRLN3phNTl5OWFSbkFOTHBjWTZWb2FCX2pwNzQ4T2pNdE5ISThqVVQ5OWJmYmc?oc=5",
-   "published_utc": "2026-10-07T02:41:05+00:00",
-   "title_original": "Hwacom shifts semiconductor business to SureWin, targets post-quantum security",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aec5a17307e3282c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix rebound from early losses",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81UWNEOFFtNGdGUzZlMGhQRlF2ejhTd2dyaTZvUTJUWEFxNDVlc0E3NEtUYXlvNFpxTTZCenNMMVg2QjI4VF9rS0VrTktPa2N1U3pGaXFJdw?oc=5",
-   "published_utc": "2026-10-07T02:37:43+00:00",
-   "title_original": "Samsung Electronics, SK hynix rebound from early losses",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4187d3cb40e62574"
   },
   {
    "source_id": "manual_ia",

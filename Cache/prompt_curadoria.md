@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T11:22:45.607933+00:00
+Última coleta: 2026-10-30T11:32:44.993643+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          852
-  🇹🇼 Taiwan         362
-  🇰🇷 Coreia do Sul  863
+  🇨🇳 China          854
+  🇹🇼 Taiwan         361
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
+  - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
   - [china] Memory Crunch Cements CXMT as China's Chip Champion — Update
+  - [china] The central bank releases important information
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
+  - [taiwan] Tainan station tightens rules for popular public piano
   - [china] Memory Crunch Cements CXMT as China's Chip Champion
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
@@ -33,6 +37,7 @@ Total: 3000 manchetes
   - [china] Gansu Jiu Steel Group Hongxing Iron & Steel Q3 Net Loss At 813.7 Million Yuan
   - [japan] Japan's Katayama signals hope of bigger surplus from central bank's ETF sales
   - [china] China's central bank steps up shift toward overnight rate as policy anchor
+  - [japan] Bank of Japan Governor Ueda holds press conference, reaching 2% price target: Experts say this (Reuters)
   - [china] BAIC BluePark New Energy Technology Q3 Net Loss At 922.0 Million Yuan
   - [japan] BOJ stays pat on rates, signals inflation target reached
   - [china] Cinda Real Estate Q3 Net Loss At 1.2 Billion Yuan
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Henan Dayou Energy Q3 Net Loss At 436.4 Million Yuan
   - [japan] [Illustration] Bank of Japan Governor says that the 2% target is “generally consistent” = key price inflation 
   - [china] Shanghai Electric Power: Q3 profit nearly vanished as lower tariffs and higher fuel costs pressured results
-  - [japan] BOJ Says Japan’s Inflation Trend Hits 2% Target as it Holds Rates
-  - [china] Next week, 1.749 billion yuan of reverse repos will mature in the central bank’s open market.
-  - [china] Central Bank: Starting from November 2, 2026, bidding for overnight reverse repurchase operations will be laun
-  - [china] China's central bank to conduct overnight reserve repos every working day from November 2, rate at 1.25%
-  - [japan] Market moves ``as expected'' at Bank of Japan meeting, with limited movement even after announcement of accele
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T11:22:45+00:00",
+      "published_utc": "2026-10-30T11:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
