@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T18:02:43.185284+00:00
+Última coleta: 2026-10-30T18:12:43.200023+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
-  🇨🇳 China          865
-  🇹🇼 Taiwan         364
+  🇨🇳 China          866
+  🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten
   - [japan] Japan's Omron eyes India as export base for blood pressure monitors
   - [japan] Bank of Japan's price increase rate reaches 2% for the first time in 14 years 1,500 food items will have price
   - [japan] Japan's Sojitz to import rare earth yttrium from Malaysia
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
   - [china] Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside
+  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [japan] When will the Bank of Japan raise interest rates next? Will the policy interest rate exceed 2%? #Expert Topi (
   - [china] News Analysis: What China's new consumption trends say about its economy
   - [china] Central Bank: Conduct bidding for overnight reverse repurchase operations every working day
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried ou
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
   - [taiwan] Intel warning sparks chip rout as PC weakness clouds turnaround
-  - [china] The central bank announced important adjustments, which will be implemented starting next week!
-  - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T18:02:43+00:00",
+      "published_utc": "2026-10-30T18:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
