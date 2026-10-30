@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-30T07:22:44.249940+00:00",
- "collected_at_utc": "2026-10-30T07:22:44.249940+00:00",
+ "generated_at_utc": "2026-10-30T07:32:49.482963+00:00",
+ "collected_at_utc": "2026-10-30T07:32:49.482963+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 940,
-  "china": 828,
-  "taiwan": 364,
+  "china": 829,
+  "taiwan": 363,
   "korea": 868
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T07:00:44+00:00"
+   "newest": "2026-10-30T07:24:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T07:00:44+00:00"
+   "newest": "2026-10-30T07:12:55+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T15:05:00+09:00"
+   "newest": "2026-10-30T16:30:03+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T16:07:00+09:00"
+   "newest": "2026-10-30T16:26:40+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-10-30T04:00:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-30T07:20:30+00:00"
+   "newest": "2026-10-30T07:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:30:22+00:00"
+   "newest": "2026-10-30T07:09:47+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T21:59:44+00:00"
+   "newest": "2026-10-30T06:16:50+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:55:09+00:00"
+   "newest": "2026-10-29T02:27:29+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "UNIQLO Shanghai Flagship Store Renovation Japanese Retailer in China Moves to Review Stores",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68469",
+   "published_utc": "2026-10-30T07:26:40+00:00",
+   "title_original": "ユニクロ上海旗艦店刷新 日系小売中国で店舗見直しの動き",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d69301bc87f69f4a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -412,6 +429,24 @@
    "id": "1cfcbd037318667e"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor says interest rate hike will be decided including next meeting (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vUllKTmd6Qkg4MDZTQUlyYi00MU44QTJOSU41Y3VCUXNSODZ5azJvZksxX2ZiVlhmMDdlMlNPM3VvSF9yRnU5UWlGZEVaMzB3VHJseFlKNG9ncXdYQTZsS2tNNEd5SlYtUW1VNWt2Vm9LSUNGVHNxREI0S0RJM3c?oc=5",
+   "published_utc": "2026-10-30T07:09:47+00:00",
+   "title_original": "利上げ「次回会合含め判断」と日銀総裁（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8f5889d58b2c26c4"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: All BOJ board members agree inflation consistent with 2% goal: Ueda",
@@ -447,6 +482,24 @@
    "live_wire": false,
    "manual": false,
    "id": "569bc64d4a3ac53c"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor reviews joint statement and makes no comment (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWHJ0Qnk3VjMwUkhPVHJlSklFX0x4SUxpV1d1N21laTFnMHYxZHBHRzBrYlB3Y0ZnSUZQYktyNVYtTzRNZVRWLVRnQ1ptZkl4R2R2RGJTb0EyckdHUG56b2dPUDYwQlIwbjJNMXNhNE1JTXBNdkI3SUpZX1YtQVE?oc=5",
+   "published_utc": "2026-10-30T07:01:14+00:00",
+   "title_original": "日銀総裁、共同声明見直しコメントせず（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c8c0f00cf0a1cca8"
   },
   {
    "source_id": "investing_econ",
@@ -536,6 +589,25 @@
    "id": "1df4be44afe81b62"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "\"Bank of Japan decides to maintain status quo, announces achievement of 2% inflation target\" Ushisankuma's bond today (after closing) October 30, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjJkcE4xMXhueFlhb0Zsd3dyd1VKTTJFYWxyT2FpSHBKSnhlQ0QxUGJjb29HXzAyWXRvU1VOZUNkcU82anNBOVhGcktjZUFfNTNCSWVHOU5jbDVuRG5PeFNRV1JWTDlUSzhpNUpQMF9ZYzdvSzF6YTZDSEJPbXRDRHZJbXZjUkxX?oc=5",
+   "published_utc": "2026-10-30T06:41:13+00:00",
+   "title_original": "「日銀は現状維持決定、2%物価目標達成表明」牛さん熊さんの本日の債券（引け後）2026年10月30日",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "932da97d7112caa0"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes — Update",
@@ -586,6 +658,24 @@
    "live_wire": true,
    "manual": false,
    "id": "5f6c616917972c0b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Macroscope: Bank of Japan's policy focus is on fixing the price target, indicating the need for timely interest rate hikes (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54djg0QXBiUVpEYjlWSzczUmF2Qld5bmp6QlFIYTJScnpMUG5FdjlvaEJjNGRrOHB1SjA1dVlYM0p3VkF4MGwycnkxVF9BallsWlN4eHhPbm1aVEtuZXkza3M4VVFIY0lpblo0N01XeC1DX05MaUNMRmF2dnYwaE0?oc=5",
+   "published_utc": "2026-10-30T06:33:57+00:00",
+   "title_original": "マクロスコープ：日銀、政策の重心は物価目標「定着」へ 適時利上げの必要性示唆か（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d3da3c7e8733b9df"
   },
   {
    "source_id": "tradingview_live",
@@ -1048,7 +1138,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Although the Bank of Japan judges that the underlying price level has reached the 2% target, good price increases are still not realized: Political risks due to increased sales of ETFs (Monetary Policy Meeting) (current affairs commentary by NRI researchers)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemNPVFBOdldFeVFQd1dMaDh2M0twaVZVLW5MaEczQi1MaTdaaWp2T0pBWkdIOEdVbmZueHF0ZF9STWtGM1FTY0h2aTJnWE9JdTBCYTU2VEl0OWEyWlNUTG50Q25DWU5vLVdWZTc2RkJaWTdmalJSM0YtdkZhYkw1NzVuQ3luVGlW?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45WUlSYk1CNnB1dWxfc09ITmRjOGRyUXJjc1RyU0pNVmhYYnNBUFhmVEpQaGpPcTV2YVVHQXhZV0lmLXRYWUlPQnZyWW1QYkhFdjd3aWFzeXFRd1ZTS2tuSWZfTGNyb1lmUG5iQTlaQWNmMHNjejhNdkNTU2hTNGM?oc=5",
    "published_utc": "2026-10-30T04:29:48+00:00",
    "title_original": "日銀は基調的な物価が2％の目標に到達と判断も、良い物価上昇はなお実現されず：ETF売却増加による政治的リスク（金融政策決定会合）（NRI研究員の時事解説）",
    "region": "japan",
@@ -1061,7 +1151,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "917d06200fc8fbb3"
+   "id": "fdfa44dd0b637ce9"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2135,78 +2225,6 @@
    "id": "b57c19c1c1c7e84f"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan decides to reach 2% price target, aims to overcome deflation by 2014 (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcUowZi1hZFBPTFVBcFotWGFiaHU4ZjRjSzJjOUJGazdVcU9pcTJpSVhXNmUtZC00UVV5bWtxUlh3cFFBaE10ZXNhMEdEblBzTFhfdXRYcHpIckFlTlB5VkRZTkR3ZEhqb3FwMTV2aU1aYUxOVGl5VHp1ZW02cVE?oc=5",
-   "published_utc": "2026-10-30T03:05:07+00:00",
-   "title_original": "日銀、物価2％目標到達と判断 デフレ脱却目指し14年越し実現（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8095214f383b641c"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan decides to keep policy rate unchanged at 1.25% Monetary Policy Meeting (NTV NEWS NNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMjJPV1hySlVVVkpNaWlGSUpvdEE1R3JDbXJ6eG5TMXIwVGY1SnRDQklVLVNWTVhlUk55RDdjUkVBS3pYZUhaV0dVMXRyWXdZLTZZUXF5SXhrOEV0elhYMl91azdMLWhLUFVza3JydkhNTV9RenpaY3QtZVZQM3c?oc=5",
-   "published_utc": "2026-10-30T03:05:00+00:00",
-   "title_original": "日銀、政策金利1.25％に「据え置き」決定 金融政策決定会合（日テレNEWS NNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2307dad0dd420747"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan ``virtually achieved'' price target of 2%, postpones further rate hike (Mainichi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbkdYZmctTkF3XzNHaVhBTEtOQ01nZFdOU2xaNWZENDd5Y2VOYkdhRDZMVTlfR0ZQRHZNRlZ6VXhmeVVpVENuWjJlSDMzSGFuZ093bFhFN1hlVkYyYVlOU2gwaDVaaW8tQnpEN1lYSXFkcDF1SDN2aDZla1I1aTA?oc=5",
-   "published_utc": "2026-10-30T03:04:26+00:00",
-   "title_original": "日銀、物価目標2％「事実上到達」 追加利上げは見送り（毎日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2bb411e54b0f52da"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan determines that 2% price target has been achieved (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZaFQzR2NCenVSWlFXLWUyYklmVXdWRzhBZHU4TWU4Z1hnMnJEOVNoYUtyRGcxZUNNQjFMNE51TzhPWnB5eWRwSnFpNTNTZmx2bDNuSUlzeExDenVyRTVyenhhOS1VdDYwX2FYVUJTNUtjZ2VsSmkxNk5XYWQxYkU?oc=5",
-   "published_utc": "2026-10-30T03:03:57+00:00",
-   "title_original": "日銀、物価2％目標到達と判断（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cba60f50ac074b29"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ leaves benchmark interest rate unchanged at 1.25%",
@@ -2412,23 +2430,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d67f05ce1cb07476"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTGlna25uWUlwVW1MYURFUm9RVVNiSXFvdEZyRXZwbHRCbWlVNUVaVGNLdVUxY1BaM1NJSk5HcS1SR2ZSM0M4aFVESjN4WWNwNHBRTTZOZFpyQQ?oc=5",
-   "published_utc": "2026-10-30T01:20:14+00:00",
-   "title_original": "46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c52fccc9d04bdbf8"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3305,6 +3306,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4324741ce375311d"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTGlna25uWUlwVW1MYURFUm9RVVNiSXFvdEZyRXZwbHRCbWlVNUVaVGNLdVUxY1BaM1NJSk5HcS1SR2ZSM0M4aFVESjN4WWNwNHBRTTZOZFpyQQ?oc=5",
+   "published_utc": "2026-10-29T17:32:00+00:00",
+   "title_original": "46 mil. yen watch stolen from same Tokyo shopping complex hit by Aug. theft",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c52fccc9d04bdbf8"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -15408,23 +15426,6 @@
    "id": "264fd1160bcdef67"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHB5MEE0cmR1Y205c1BfamIzclJFY05ia3F1NmVsaUZCV01uY3lyQzRyay1wNjd6eGdwMldHdERWcmRNQ3dab2dvRHhEem9YWDlCNVRxUThjME9iOENjdEREam5uRlZFUzVMTHlXMTZQWnZrYU9Qa3hUUWtrc0prcVpvNXlLSlB4NjdpWlAycUtKMDV4endEWk5idTI4UVVtMWJZSDZjWjdVU2x3UUoycHpfRS0zVnJoZmEtbw?oc=5",
-   "published_utc": "2026-10-23T04:17:36+00:00",
-   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "240723b44d97f05a"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | Sankei",
@@ -15944,6 +15945,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bbd445f1ef7415ef"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFozZC1HRk1kZnZZcWRka1M0U1RYbTdfRzZUVklsal9QcDZrZW4zTFlJZHlZT3hyWXRxaHdSTno0em9KNmhyU1l3eFk1anpuNDdhTEwzb0ExeHBQbnNxOFowU3pKTXZTRno0TGNibDhUcE5GWW9BdHZ3N053SExoQVdFR29kMzMydTdCbDdVMmM1MDBCc3pfX0lKUEhQT28xdlNsV3hoRWV1di1uZkdNVnBHby10OTZpLXJuYg?oc=5",
+   "published_utc": "2026-10-23T00:52:00+00:00",
+   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c86a3e798d4a45f5"
   },
   {
    "source_id": "investing_live",
@@ -20295,23 +20313,6 @@
    "id": "ca3a042e7a5b528a"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
-   "published_utc": "2026-10-21T08:58:00+00:00",
-   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1797372bb8aa058"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI",
@@ -20657,6 +20658,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ed8b83c12cd69159"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1797372bb8aa058"
   },
   {
    "source_id": "focus_taiwan",
@@ -51912,23 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "18727c27a931052e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Taiwan Semiconductor Price Target Raised to $665.00/Share From $650.00 by Barclays",
-   "url": "https://www.tradingview.com/news/DJN_DN20261006005122:0-taiwan-semiconductor-price-target-raised-to-665-00-share-from-650-00-by-barclays/",
-   "published_utc": "2026-10-06T14:45:00+00:00",
-   "title_original": "Taiwan Semiconductor Price Target Raised to $665.00/Share From $650.00 by Barclays",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2b180d2032934e54"
   },
   {
    "source_id": "manual_ia",

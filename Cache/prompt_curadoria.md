@@ -7,30 +7,35 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T07:22:44.249940+00:00
+Última coleta: 2026-10-30T07:32:49.482963+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          940
-  🇨🇳 China          828
-  🇹🇼 Taiwan         364
+  🇨🇳 China          829
+  🇹🇼 Taiwan         363
   🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [china] UNIQLO Shanghai Flagship Store Renovation Japanese Retailer in China Moves to Review Stores
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 110.56, Implies 34% Upside
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 554096.77, Implies 89% Upside
   - [japan] BOJ to accelerate ETF sales, more than doubling pace from January
   - [japan] Japan Housing Starts Fall 2.7% In September
+  - [japan] Bank of Japan Governor says interest rate hike will be decided including next meeting (Kyodo News)
   - [japan] BREAKING NEWS: All BOJ board members agree inflation consistent with 2% goal: Ueda
   - [japan] BREAKING NEWS: BOJ chief declines to comment on reviewing accord with gov't on deflation
+  - [japan] Bank of Japan Governor reviews joint statement and makes no comment (Kyodo News)
   - [japan] BOJ declares victory in hitting price target, signals near-term hikes
   - [japan] BOJ Governor Ueda’s comments at news conference
   - [japan] Bank Of Japan Holds Key Rate As Expected
   - [japan] BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%
   - [japan] Makita Corporation - To Buy Back Up To 3.9% Own Shares Worth 40 Billion Yen
+  - [japan] "Bank of Japan decides to maintain status quo, announces achievement of 2% inflation target" Ushisankuma's bon
   - [japan] Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes — Update
   - [japan] Mitsubishi Electric Corporation - To Buy Back Up To 3.91% Own Shares Worth 200 Billion Yen
   - [japan] Tokyo Electron Ltd - To Buy Back Up To 1.1% Own Shares Worth 150 Billion Yen
+  - [japan] Macroscope: Bank of Japan's policy focus is on fixing the price target, indicating the need for timely interes
   - [japan] Autobacs Seven Co Ltd - To Buy Back Up To 2.55% Own Shares Worth 3.6 Billion Yen
   - [japan] TDK: AI-related demand and yen weakness drove higher results; FY27 outlook rose, dividend forecast fell
   - [japan] East Japan Railway Company: H1 growth and revised FY2027 targets accompany a newly integrated real estate busi
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] BoJ holds policy rate at 31-year high of 1.25%, reaffirms rate-hike stance
   - [china] European Central Bank President Christine Lagarde admitted that she could no longer remain neutral and would l
   - [taiwan] Taiwan's manufacturing sector stays in fast-growth mode in September
-  - [japan] Bank of Japan says it expects the inflation rate to “reach 2%” for the first time since the target was introdu
-  - [japan] Daiwa Securities Group Backed Fund To Acquire Part Of Tokyo Garden Terrace Kioicho For Over 300 Billion Yen, N
-  - [taiwan] Foxconn unveils three new EV models as it expands contract manufacturing push
-  - [japan] The Bank of Japan should conduct appropriate monetary policy to achieve the price target sustainably and stabl
-  - [japan] Key points from the Bank of Japan governor's conference: Policy significance of reaching the 2% target, next i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T07:22:44+00:00",
+      "published_utc": "2026-10-30T07:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
