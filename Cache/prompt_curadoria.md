@@ -7,21 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-30T11:52:44.972182+00:00
+Última coleta: 2026-10-30T12:02:47.036254+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          853
-  🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  862
+  🇯🇵 Japão          926
+  🇨🇳 China          852
+  🇹🇼 Taiwan         362
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [korea] Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea — WSJ
+  - [japan] Japan govt. to spend another $7.3 bil. on fuel subsidy
+  - [japan] Fixed mortgage interest rates to be lowered by four major banks starting in November
+  - [taiwan] Taiwan Q3 GDP growth hits 14.36%, highest in 48 years
   - [japan] September crude oil imports decreased for the first time in four months, possibly due to pipeline suspensions
   - [japan] Asia report: Tech stocks tumble on AI fears as BoJ holds rates
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", and t
   - [japan] Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk
   - [china] The central bank announced! Overnight reverse repurchase will be carried out every working day starting next w
+  - [china] Important adjustments from the central bank will be implemented starting next week
   - [china] Memory Crunch Cements CXMT as China's Chip Champion — Update
   - [china] The central bank releases important information
   - [japan] Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variab
@@ -31,7 +36,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)
   - [china] Yonghui Superstores Q3 Net Loss At 82.7 Million Yuan
   - [japan] Japan’s inflation rate reaches 2% target, Bank of Japan President: 13 years of hard work to meet important mil
-  - [japan] Bank of Japan determines that 2% inflation target has been achieved (Jiji Press)
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 108.62, Implies 32% Upside
   - [taiwan] Export investment exceeded expectations. The economic growth rate in the third quarter was 14.36%, the highest
   - [china] ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively rea
   - [china] CRRC, Units Signs Major Contracts Totalling About 71.0 Billion Yuan
   - [japan] Yen market: Small price movements Limited impact of the Bank of Japan’s monetary policy meeting
-  - [japan] BOJ declares victory in hitting price target, signals near-term hikes By Reuters
-  - [japan] BOJ declares victory in hitting price target, signals near-term hikes
-  - [taiwan] Taiwan's ICT export market ranked third in the world last year, and computers and peripheral equipment jumped 
-  - [china] Anhui Jianghuai Automobile Group Q3 Net Loss At 391.8 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-30T11:52:45+00:00",
+      "published_utc": "2026-10-30T12:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
