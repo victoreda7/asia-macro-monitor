@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T05:12:51.867746+00:00
+Última coleta: 2026-10-31T05:22:43.152105+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          870
+  🇯🇵 Japão          927
+  🇨🇳 China          869
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  850
 
@@ -23,6 +23,8 @@ Total: 3000 manchetes
   - [china] China's State Council appoints, removes officials
   - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
   - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
+  - [japan] Japanese Listed Iole Plans to Sell All 151.21 Bitcoin, Expects 254 Million Yen Loss
+  - [japan] BOJ ETF Sales Acceleration Could Support Takaichi’s Spending Agenda
   - [china] China willing to import more German goods, Premier Li says
   - [japan] Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how
   - [china] China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank optimizes the short-end interest rate control mechanism and will carry out overnight reverse 
   - [china] Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten
   - [japan] Japan's Omron eyes India as export base for blood pressure monitors
-  - [japan] Bank of Japan's price increase rate reaches 2% for the first time in 14 years 1,500 food items will have price
-  - [japan] Japan's Sojitz to import rare earth yttrium from Malaysia
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T05:12:52+00:00",
+      "published_utc": "2026-10-31T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
