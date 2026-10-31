@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T00:02:43.123019+00:00
+Última coleta: 2026-10-31T00:12:53.746175+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          868
-  🇹🇼 Taiwan         359
+  🇨🇳 China          866
+  🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
+  - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
   - [taiwan] Good Morning World》Taiwan’s export investment exceeded expectations. The economic growth rate in the third qua
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Overnight reverse repurchase is "on the job", and the policy interest rate has officially changed its anchor
   - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
-  - [taiwan] Intel plunges 25%, triggers global chip rout on bleak outlook
-  - [china] China Publishing & Media Q3 Net Loss At 1.0 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T00:02:43+00:00",
+      "published_utc": "2026-10-31T00:12:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

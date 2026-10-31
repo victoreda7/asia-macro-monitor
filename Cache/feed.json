@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-31T00:02:43.123019+00:00",
- "collected_at_utc": "2026-10-31T00:02:43.123019+00:00",
+ "generated_at_utc": "2026-10-31T00:12:53.746175+00:00",
+ "collected_at_utc": "2026-10-31T00:12:53.746175+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 923,
-  "china": 868,
-  "taiwan": 359,
+  "china": 866,
+  "taiwan": 361,
   "korea": 850
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:55:00+00:00"
+   "newest": "2026-10-30T23:34:24+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T23:35:33+00:00"
+   "newest": "2026-10-31T00:01:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T22:30:42+00:00"
+   "newest": "2026-10-30T23:50:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T18:09:00+00:00"
+   "newest": "2026-10-30T23:16:17+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T00:02:08+00:00"
+   "newest": "2026-10-31T00:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-31T08:30:00+09:00"
+   "newest": "2026-10-31T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:24:45+00:00"
+   "newest": "2026-10-30T08:44:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:46:01+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01fSHUzMlM4NWdXNFlsS3ozRFRMaEYtbFJnVVpxRVJmMXlJS3BWVWlRNDFweFFQWFRqdDJTUV8yLUhjX2YxUGJnSUZBdlJ3aERETEdUZHRrb3luX2dxbXMxM2xlalJhbVNFZzIzd3FvUG1ES1ZPbUhSNkktYzdzM1FoZlgtc3FhaEJPZkhWSk1TZmZRQVoxMTNB?oc=5",
+   "published_utc": "2026-10-30T23:34:24+00:00",
+   "title_original": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "34648c67ad1c007b"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjZBdEl5ZFNIeUd0Tl9kdGVQR1lFMzZoQzBZV19DUWQ0ajNkbXBwWTU5SHFUQWN5YzI5ckpsVTlUSFBMdlptX0FDR3lVdVFQVlJDQzJLRUI0TnRUWE1JaVRubE5NY0JETlRQT2NmTzF2dVpZUGk3UU5xRHNSUlhpdVRmVzFaRWpTYnZZS1prYUZOckUyZlhTdFNHaWw?oc=5",
+   "published_utc": "2026-10-30T23:30:00+00:00",
+   "title_original": "TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "869d4b8999448c2c"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -3256,7 +3290,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
    "region": "china",
@@ -3268,7 +3302,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a6acbb66c5e322c9"
+   "id": "4f00fb7b2bbfe979"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5618,6 +5652,23 @@
    "id": "58e8408c7ae4f828"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction of the Bank of Korea?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BdFQ2VWhDY2tnYmxLVm9DMXB2RmFxbDE4Vl9HR0Vwdl9TOUlxdmNOY19hVEd5WGZSRHZXM0xfOC1aMzg5MlZjRGs1WlNoNTgxSXc?oc=5",
+   "published_utc": "2026-10-29T07:45:01+00:00",
+   "title_original": "'금리 동결' 미 연준, 12월 인상 가능성에 주목…한국은행 향방은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b584fb43e2cd0cad"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
@@ -5877,23 +5928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8cb3252a661cb36d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction of the Bank of Korea?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kOFVvUEpaeWpPRDVPV1BSbk1wMkJKYjVZRk8tV0NpTDNKLWZ2d0x6V0FOWGh1N2g1VjFUb1FZeWxvd21Sdk0yRGVUQXdYcVZyOC1NYU9xNXhNMzZscnNkT0I4aERnSnU0?oc=5",
-   "published_utc": "2026-10-29T06:14:00+00:00",
-   "title_original": "'금리 동결' 미 연준, 12월 인상 가능성에 주목…한국은행 향방은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d39716dde1e845e"
   },
   {
    "source_id": "investing_econ",
@@ -6606,7 +6640,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:23+00:00",
+   "published_utc": "2026-10-29T01:53:00+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -6883,7 +6917,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -6894,7 +6928,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "703eacfba1e67ab6"
+   "id": "ad537082c2c93f5e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -12542,6 +12576,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "手机新浪网",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQi1nMWVMLXpvZzFKM2FNVWdnYkZhbHpUQjgwWWVhUWFpVHktZml3OWhPNzVPckdtb0syREtNZEFYcmRybFpScnMtMTF2N1E0VVd6a29ZTk1vQlVDdDN4cEZMbjNVSktXbXZod0x3MWhnLVJpLV83OERFWHFCSjM4TVZnQi04SGx4bkF1UmtaUHBEdw?oc=5",
+   "published_utc": "2026-10-26T13:45:00+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d1968e166e164599"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "新浪网",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
@@ -14259,24 +14311,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
-   "published_utc": "2026-10-25T23:58:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51917,40 +51951,6 @@
    "live_wire": true,
    "manual": false,
    "id": "89e180f8d9bae6bd"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "UK proposes duty on imports of Chinese rutile titanium dioxide",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmRZV2NGV0FDU0Z1Z21nbVJLbzJhX1ZaWEo0d2R3ek9sd3E5LVd2cmJGR1BjWDFXUWpsczRsaV9nR3dGZXBiYl9LbmFDdmZ6V0lSbWtXVFVtSzdGS3hKTUEzMEVFRWQtcXppWVhjR00zVFo3bDlpaEo0aDlwYTZxak5yMmY3YzVHTnMwTmlHbkhUbWx4R0lBS2dZVjlDQ1ZmS1F1Z3Zwdw?oc=5",
-   "published_utc": "2026-10-07T12:00:09+00:00",
-   "title_original": "UK proposes duty on imports of Chinese rutile titanium dioxide",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ea0f9efddb48e28"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Warns EU It Has Tools Ready If Trade Tensions Escalate",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG9NaWlwdy1iUTNiQUpSQy1iM0liOHVkZUZqSkJUcklpT2ZoR2VSaHc5TVNyRjdDQ0dxNDk2QXFtTnB2R0tnUkxMa3ROYU96NlZWRG5pdTJoSXhVSkgzdDFsU3VVbVVWUEk1VFpLc0xRYmJmQzdOQXFUUG8yLUZlODdzX1lVc1FkcE1PWUYxRW5YazBYa3FycENRQTRJNHVaczU2dlFuTzYzNy1OTkIzbg?oc=5",
-   "published_utc": "2026-10-07T11:53:04+00:00",
-   "title_original": "China Warns EU It Has Tools Ready If Trade Tensions Escalate",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cfea945d492e6d53"
   },
   {
    "source_id": "manual_ia",
