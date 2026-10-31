@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T06:02:42.561424+00:00
+Última coleta: 2026-10-31T06:12:45.356604+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          868
+  🇯🇵 Japão          926
+  🇨🇳 China          869
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com
   - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 549580.65, Implies 88% Upside
   - [china] The central bank optimizes the short-end interest rate control mechanism and will carry out overnight reverse 
-  - [china] Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T06:02:42+00:00",
+      "published_utc": "2026-10-31T06:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
