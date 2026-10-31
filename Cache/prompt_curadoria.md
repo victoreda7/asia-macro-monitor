@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T07:22:43.139187+00:00
+Última coleta: 2026-10-31T07:32:43.556903+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
+  🇯🇵 Japão          925
   🇨🇳 China          869
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [japan] Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country 
   - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Ruling party looks for voting schedule on consumption tax reduction bill Opposition party urges Prime Minister
   - [japan] Bank of Japan will shift focus to fixation once prices reach 2%; focus on how to proceed with interest rate hi
   - [korea] Samsung Stocks Decline 3% With Semiconductor Profit Concentration in Focus
-  - [korea] SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T07:22:43+00:00",
+      "published_utc": "2026-10-31T07:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
