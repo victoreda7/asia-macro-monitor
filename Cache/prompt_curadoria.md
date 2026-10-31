@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T02:13:12.823733+00:00
+Última coleta: 2026-10-31T02:22:44.975155+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [china] China Manufacturing Unexpectedly Weakens
   - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
+  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside
   - [japan] Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit
   - [china] China's State Council appoints, removes officials
-  - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T02:13:13+00:00",
+      "published_utc": "2026-10-31T02:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
