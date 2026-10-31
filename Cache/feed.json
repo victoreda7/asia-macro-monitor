@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-31T02:42:44.920299+00:00",
- "collected_at_utc": "2026-10-31T02:42:44.920299+00:00",
+ "generated_at_utc": "2026-10-31T02:52:43.813317+00:00",
+ "collected_at_utc": "2026-10-31T02:52:43.813317+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 358,
   "korea": 850
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T21:00:31+00:00"
+   "newest": "2026-10-30T12:55:19+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T02:01:01+00:00"
+   "newest": "2026-10-31T02:36:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T01:54:20+00:00"
+   "newest": "2026-10-31T02:36:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T16:59:05+00:00"
+   "newest": "2026-10-30T10:38:44+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:48:16+00:00"
+   "newest": "2026-10-30T16:03:38+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-31T02:16:32+00:00"
+   "newest": "2026-10-31T02:48:21+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T02:41:45+00:00"
+   "newest": "2026-10-31T02:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T22:57:19+00:00"
+   "newest": "2026-10-30T19:53:38+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:45:34+00:00"
+   "newest": "2026-10-30T23:24:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2291,6 +2291,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -2592,23 +2609,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -12876,7 +12876,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국금융신문",
+   "source_name": "금융신문",
    "title_en": "[Profile] Choi Chang-ho, Assistant Vice President for Monetary Policy and Markets at the Bank of Korea",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNWxvWW9vNDM1UE5SYWFwb19tcjcxYVdhanI4UnRpT2JLMHdfb0RlajhkRm5PcFhhZ2Z2N05QTWx0c3VMb3RaOF83UXRneHNKZjR6RVZ3a1p0VVoxbVVJSHEycmh3RllQN0R4blRuU0ZNY3FZX2Z0Yzc2Y1Q?oc=5",
    "published_utc": "2026-10-26T11:33:55+00:00",
