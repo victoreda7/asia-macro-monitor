@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T04:02:42.952786+00:00
+Última coleta: 2026-10-31T04:12:45.061202+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
-  🇨🇳 China          869
-  🇹🇼 Taiwan         356
+  🇨🇳 China          870
+  🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] China's State Council appoints, removes officials
   - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
   - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
+  - [china] China willing to import more German goods, Premier Li says
   - [japan] Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how
   - [china] China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows
   - [china] China Manufacturing Unexpectedly Weakens
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Sojitz to import rare earth yttrium from Malaysia
   - [china] Focus Observation | Why can the 1.25% overnight reverse repurchase rate be understood as an interest rate cut?
   - [china] China's State Council studies guiding principles of key Party plenum
-  - [china] Weyerhaeuser expects to triple China log shipments in fourth quarter
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T04:02:43+00:00",
+      "published_utc": "2026-10-31T04:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
