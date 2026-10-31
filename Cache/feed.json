@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-31T02:32:43.378554+00:00",
- "collected_at_utc": "2026-10-31T02:32:43.378554+00:00",
+ "generated_at_utc": "2026-10-31T02:42:44.920299+00:00",
+ "collected_at_utc": "2026-10-31T02:42:44.920299+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 358,
   "korea": 850
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T11:49:00+00:00"
+   "newest": "2026-10-31T02:35:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:38:44+00:00"
+   "newest": "2026-10-30T16:59:05+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-10-31T00:46:24+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T02:31:39+00:00"
+   "newest": "2026-10-31T02:41:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T19:53:38+00:00"
+   "newest": "2026-10-30T22:57:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-31T11:00:00+09:00"
+   "newest": "2026-10-31T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2788,6 +2788,25 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor: Focus on fixing 2% inflation, sustainable and stable realization \"not yet\" Policy decisions, awareness of upside risks (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkxaMUVPMThYSTIzcV82QUVTT1lBc0xNcUR1NEZJZy1yV182SXBSVGpLQ0lUZFQ5WlZIcDRuSFgxT1pHSGhyRy1zODl0TjV6NkR0OV9NdFd2alpXNEhnRkRnbXRPbGl2ZHBXUzItRGo4cHRvdzVfMl9zS1poZUp4OWVIa2NZNW4xVFNidzZR?oc=5",
+   "published_utc": "2026-10-30T07:31:42+00:00",
+   "title_original": "日銀総裁、物価2％定着へ軸足 持続・安定的な実現「まだ」 政策判断、上振れリスク意識 (時事通信)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8a025233d0f13b88"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Governor says that the 2% target is \"generally consistent\" with the underlying price index still stable and sustainable (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaUwtQmEwZHJQOVdRT21MM01CLXVYTkM2TjY0NXd6eG0xOFlOTkNiSjJsdzdaZThnSUUxZjlHcjB4b1ZZZlllR2NZV2lQVzRpbHYySFo0enp3dEoyUC1pQWc4LXg5QTB3dUUzSDcxaGVoVGlrVDJvbTl2WWN1VUU?oc=5",
    "published_utc": "2026-10-30T07:31:42+00:00",
@@ -2857,24 +2876,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d6a4383fb56c1704"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan cuts, ETF trading accelerates \"limited impact\" (Joint Communications)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkdEVDNjREhpU2hvNkRmZkFPdEowYjg2WTRmcF9WdEE4XzExUmFjcHZHbGxLRkdFQ2VGMDRpcUhUajZxSHQxVHVSWFVNZEh5T1ZIVTlnQm9nRGhROVdxOTFDZEpBQUVyU1FmMlNUMVVzbXNPdEFjR0hhMkZTcVl3OUdlQVV0TGdEWTd0RmVR?oc=5",
-   "published_utc": "2026-10-30T07:27:19+00:00",
-   "title_original": "日銀総裁、株ETF売却加速「影響限定的」（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "be0ad2bf5d8175c0"
   },
   {
    "source_id": "nhk_economy",
@@ -3426,7 +3427,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
    "region": "china",
@@ -3438,7 +3439,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a6acbb66c5e322c9"
+   "id": "4f00fb7b2bbfe979"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6776,7 +6777,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:23+00:00",
+   "published_utc": "2026-10-29T01:53:00+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -12696,6 +12697,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "手机新浪网",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQi1nMWVMLXpvZzFKM2FNVWdnYkZhbHpUQjgwWWVhUWFpVHktZml3OWhPNzVPckdtb0syREtNZEFYcmRybFpScnMtMTF2N1E0VVd6a29ZTk1vQlVDdDN4cEZMbjNVSktXbXZod0x3MWhnLVJpLV83OERFWHFCSjM4TVZnQi04SGx4bkF1UmtaUHBEdw?oc=5",
+   "published_utc": "2026-10-26T13:45:00+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d1968e166e164599"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
@@ -14413,24 +14432,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
