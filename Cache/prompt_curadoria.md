@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T13:52:43.229155+00:00
+Última coleta: 2026-10-31T14:02:42.872937+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
@@ -33,6 +33,7 @@ Total: 3000 manchetes
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
   - [china] China's State Council appoints, removes officials
   - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
+  - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
   - [japan] Japanese Listed Iole Plans to Sell All 151.21 Bitcoin, Expects 254 Million Yen Loss
   - [japan] BOJ ETF Sales Acceleration Could Support Takaichi’s Spending Agenda
   - [china] China willing to import more German goods, Premier Li says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
   - [taiwan] Intel on course for worst day ever, triggers global chip rout
   - [japan] Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices a
-  - [japan] Interest rates rise due to coreweave shock... What will happen to the Nikkei Stock Average, which fell sharply
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T13:52:43+00:00",
+      "published_utc": "2026-10-31T14:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
