@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-31T08:12:42.889906+00:00",
- "collected_at_utc": "2026-10-31T08:12:42.889906+00:00",
+ "generated_at_utc": "2026-10-31T08:22:45.791976+00:00",
+ "collected_at_utc": "2026-10-31T08:22:45.791976+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 924,
-  "china": 869,
+  "japan": 923,
+  "china": 870,
   "taiwan": 354,
   "korea": 853
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:24+00:00"
+   "newest": "2026-10-30T08:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "newest": "2026-10-31T14:29:07+08:00"
+   "newest": "2026-10-31T15:45:11+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T07:26:36+00:00"
+   "newest": "2026-10-31T07:58:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-30T16:00:00+09:00"
+   "newest": "2026-10-31T13:30:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T03:12:29+00:00"
+   "newest": "2026-10-30T11:23:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T02:51:00+00:00"
+   "newest": "2026-10-31T07:42:08+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T16:49:50+00:00"
+   "newest": "2026-10-30T19:07:06+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T08:10:18+00:00"
+   "newest": "2026-10-31T08:21:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T04:24:10+00:00"
+   "newest": "2026-10-30T08:45:34+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst",
+   "url": "https://focustaiwan.tw/business/202610310008",
+   "published_utc": "2026-10-31T07:45:11+00:00",
+   "title_original": "Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "55f69562c7176e2e"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -359,6 +376,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "联合早报",
+   "title_en": "The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase rate for the first time to 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaFhpNVdQZVpHWGtXRk1YOU5YUkFLLWpMTDM3RXloZEdJNW1fSkw1WHMxV05GT1hKX2hoNnByNmdVbHZlVzBISENSVW9vdm1wU3NLeWdMMG9mTGhUUWozY1RGLS1oRGppV2c?oc=5",
+   "published_utc": "2026-10-31T07:21:44+00:00",
+   "title_original": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cbc587c779af9c75"
   },
   {
    "source_id": "tradingview_live",
@@ -1849,7 +1883,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtHNmtTTlFhejZ5b0h1V3JYNG52aGxkMDVxZVluMkduXzNfb1NzQXhXLXV6NmRDNXZfNFdUV2daay1oYlZid2pCSXJCZ0RXcFNrSllKYjRJWTFPUTJpWWRoZUFia3FxTWp6cU0wbGFpd3V4RkNKekgwYS13Y3hNTmZCalA5QnY0M2xxNXJBU09QcVVwQ25pMXhjZm5QY05IZXhRdzlDZGpHM1BPNXBJazZiWQ?oc=5",
    "published_utc": "2026-10-30T11:17:02+00:00",
@@ -3085,7 +3119,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjl5b1VtRkx0VV9PR2h6SDVuREZrVXVUSEF3WkpTdXRJckxtak9RcEhsazFKbUpqd2ZSZnRadURZNDFtM3JNS3dZcjcxNWV4UDRzT2JwZzh5R2w4a2xtWURxdG8xbU5aQ0tFai1PZnNiSVlFVjVqSlZwTmozVGdvbEJJM2VKTl9nWFJyVW41Z2pPY3pxc2RlY1BraHM5N2FoMHpzSU1PSGFpOEFBT0VR?oc=5",
    "published_utc": "2026-10-30T07:27:46+00:00",
@@ -3559,7 +3593,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "African Export-Import Bank Mulls First Offshore Yuan Loan",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFZ2WnhPdDJyVjJIRFpUNG4wUzRjTjJDeS1SNzBQRFpmcGdaMVNXNVBHdlh1RHB5b0NfOTJSNnVUcFBMRWVOLUltWWdocXNKTjB6NWJ6S0xrOEFBY2JwT3NYNzdFY2FJamEwZkw1WmsyaFJQaDVCN205T1haSG5UbTJ5Yk0wUHZfdG1VdlpyTEE2Y3JDeVNpVS03ektHTkhFYjQ3QUlrbnpHN28x?oc=5",
    "published_utc": "2026-10-30T04:09:00+00:00",
@@ -12972,7 +13006,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪网",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
@@ -25612,6 +25646,23 @@
    "id": "7c224d58709d418b"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Preliminary calculation results of GDP in the third quarter of 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zQkJ0S0lvYzhOSHZCUHNHb0pNUm1qS3AyUE03dk90d2luRy1iQ1Z3WXRCRWwxcEVQeWNGR0NFX2ZQbWdJcmhpQXNHdjBYT3R6MlZoN0VJQzdfMEwyY2tCUG82MENyUnBqMTI2R2RZTQ?oc=5",
+   "published_utc": "2026-10-20T07:00:00+00:00",
+   "title_original": "2026年三季度国内生产总值初步核算结果",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9e11255a6720f0e"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Japan consumption tax cut bill on food goes to Lower House",
@@ -26491,23 +26542,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6d3dba7fc5521b4f"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Preliminary calculation results of GDP in the third quarter of 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zQkJ0S0lvYzhOSHZCUHNHb0pNUm1qS3AyUE03dk90d2luRy1iQ1Z3WXRCRWwxcEVQeWNGR0NFX2ZQbWdJcmhpQXNHdjBYT3R6MlZoN0VJQzdfMEwyY2tCUG82MENyUnBqMTI2R2RZTQ?oc=5",
-   "published_utc": "2026-10-20T01:30:00+00:00",
-   "title_original": "2026年三季度国内生产总值初步核算结果",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9e11255a6720f0e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -35834,6 +35868,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -35850,23 +35901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51916,41 +51950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9ab9ceff401f1318"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261007002347:0-caterpillar-intel-tsmc-micron-spacex-hpe-and-more-stocks-that-explain-today-s-market-barrons-com/",
-   "published_utc": "2026-10-07T20:43:00+00:00",
-   "title_original": "Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b9f12f5c60fb129a"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Representative question from today in the House of Councilors, debate over consumption tax cut, investigation into agriculture minister's remarks",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56201",
-   "published_utc": "2026-10-07T20:35:00+00:00",
-   "title_original": "参院できょうから代表質問 消費税減税など論戦 農相発言追及も",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4fa78e6046b77192"
   },
   {
    "source_id": "manual_ia",

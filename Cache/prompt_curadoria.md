@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T08:12:42.889906+00:00
+Última coleta: 2026-10-31T08:22:45.791976+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          869
+  🇯🇵 Japão          923
+  🇨🇳 China          870
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
+  - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [japan] Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country 
   - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen set for third straight daily gain against dollar after BOJ holds rates
   - [taiwan] Foxconn unveils 3 EVs to grow contract manufacturing business
   - [japan] Ruling party looks for voting schedule on consumption tax reduction bill Opposition party urges Prime Minister
-  - [japan] Bank of Japan will shift focus to fixation once prices reach 2%; focus on how to proceed with interest rate hi
-  - [korea] Samsung Stocks Decline 3% With Semiconductor Profit Concentration in Focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T08:12:43+00:00",
+      "published_utc": "2026-10-31T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
