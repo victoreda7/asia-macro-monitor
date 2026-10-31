@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-31T21:22:42.871548+00:00",
- "collected_at_utc": "2026-10-31T21:22:42.871548+00:00",
+ "generated_at_utc": "2026-10-31T21:32:49.924058+00:00",
+ "collected_at_utc": "2026-10-31T21:32:49.924058+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 356,
   "korea": 846
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T20:56:59+00:00"
+   "newest": "2026-10-31T21:20:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:38:44+00:00"
+   "newest": "2026-10-31T04:12:31+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T21:00:00+00:00"
+   "newest": "2026-10-31T21:30:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-01T06:00:00+09:00"
+   "newest": "2026-11-01T06:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:31:20+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
@@ -684,6 +684,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e83a7a916952f2a0"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's State Council appoints, removes officials",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaS1TbnlqeS1UYm1jRFptWHZWUHVZaEI5aUJYTlZfa2xkbTRvbU1iME9ma1hNQ1Z2eVdqOF8yUDVTTTdRVlgtTHVSaGRkVWdUYV8xdnVlQ1NYQ1VTM2x5Tjhnd0xiWjRzWnhJX3lyVjRaSUkxRXpaYWZoaWk?oc=5",
+   "published_utc": "2026-10-31T03:54:17+00:00",
+   "title_original": "China's State Council appoints, removes officials",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d5bb97b0ba84044"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1480,23 +1497,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2aa8da2ee31756c5"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China's State Council appoints, removes officials",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGOUJ2M1p1SmRUTUJPOFo1TEl3OEs4RWtGOXMzM0FuLUNnVFBKRWtxbDhZWnA5RXBsRkdHSHdMM0hVR3MtYng4VE5VWE9hZ09sMklCaldZS2FDcDZFTjE2Q2stRjU3T3pBM2c2UUMwellEa3lPdnZSMWdvdzM?oc=5",
-   "published_utc": "2026-10-30T16:04:15+00:00",
-   "title_original": "China's State Council appoints, removes officials",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c58a5a83386ef09"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -2825,6 +2825,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -3160,23 +3177,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -12067,7 +12067,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12aTN0VTNtZ2ppczFoUHNTZElvLU9lR202b2tJNG0zV193WUpFUzU4VVpSOVJYTGEyd3ZaT3FycDRUaGFDMzR0VjNhdzkzaWFicm9OVkJEb2gxSFhxNlhybF9aRUtLNmRrMU5zWGNfMkZYY0xXLVRMU1lKb2s?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHducWdtMnhaRmNVNzFXTFR6ZXlWcV9HM2lNRWRvbmFNZG5oV3VQMEloNE9SRTNZYjlEb3RWbHFHM1JkLXNJS1Q4RC13ZDNZWFpiNWVUVmNzTTVDWWNNUmNlMW1oLWR2YUhCd2EzTzY0SnRYT0t0S2Y2cU54OUgwbVFOMUJqNm1OX3Vieg?oc=5",
    "published_utc": "2026-10-27T02:47:00+00:00",
    "title_original": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
    "region": "korea",
@@ -12078,7 +12078,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e75284673e13ef74"
+   "id": "c613810e986642f1"
   },
   {
    "source_id": "gn_tw_cna",
@@ -15102,7 +15102,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
    "published_utc": "2026-10-25T23:58:00+00:00",
@@ -20579,6 +20579,23 @@
    "id": "660ca9ffa7c57e97"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KLTR1b3ZXS1Q5bnhCd2FTNWRWMXFoMzc3a3M2bTc3SXdEZFZRc2ZVZHZCbEpqWXVCUG5lYW4xSXNuZVNRWmZoTmNHVjNINjVqYjZPd3Q2N0ZDdw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cccc5f5129844176"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "팍스경제TV",
    "title_en": "[Issue] Bank of Korea freezes base interest rate at 3.00%... \"This freeze is the 'fruit of hoeing'\"",
@@ -21616,23 +21633,6 @@
    "live_wire": false,
    "manual": false,
    "id": "29253648dc19c904"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KLTR1b3ZXS1Q5bnhCd2FTNWRWMXFoMzc3a3M2bTc3SXdEZFZRc2ZVZHZCbEpqWXVCUG5lYW4xSXNuZVNRWmZoTmNHVjNINjVqYjZPd3Q2N0ZDdw?oc=5",
-   "published_utc": "2026-10-22T01:21:26+00:00",
-   "title_original": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cccc5f5129844176"
   },
   {
    "source_id": "korea_herald_biz",
@@ -23344,6 +23344,23 @@
    "id": "e1797372bb8aa058"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Corporate profits, debts improve in 2025: BOK",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZ0prZlV0RzRpa0NqWnFDZnhwY1NZSTV0ZnNCMnhZTHdINFYyZ2NGLU82UUtTRUxaaGhfS1A5ajRBVTZXNDR5dlRXUnVYSE9TRk9nQjVfemdjdw?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "title_original": "Corporate profits, debts improve in 2025: BOK",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c6fc93597b1641a"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Death toll in TSMC Kaohsiung construction accident rises to 4",
@@ -23845,23 +23862,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0e755b1743aecb1c"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Corporate profits, debts improve in 2025: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZ0prZlV0RzRpa0NqWnFDZnhwY1NZSTV0ZnNCMnhZTHdINFYyZ2NGLU82UUtTRUxaaGhfS1A5ajRBVTZXNDR5dlRXUnVYSE9TRk9nQjVfemdjdw?oc=5",
-   "published_utc": "2026-10-21T03:00:11+00:00",
-   "title_original": "Corporate profits, debts improve in 2025: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c6fc93597b1641a"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -36227,23 +36227,6 @@
    "id": "51a413bc8920483f"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -36260,6 +36243,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
