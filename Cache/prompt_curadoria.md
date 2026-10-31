@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T01:52:45.026995+00:00
+Última coleta: 2026-10-31T02:02:43.454206+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          867
+  🇨🇳 China          868
   🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
   - [china] China's October factory activity contracts at fastest pace in 3 months, PMI survey shows
+  - [china] China Manufacturing Unexpectedly Weakens
+  - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
   - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's State Council appoints, removes officials
   - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?
-  - [japan] Bank of Japan judges that inflation rate will reach 2%; future focus will be on countering upside risks...Gove
-  - [korea] Why is SK hynix stock sliding today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T01:52:45+00:00",
+      "published_utc": "2026-10-31T02:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
