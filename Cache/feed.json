@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-31T00:52:43.444502+00:00",
- "collected_at_utc": "2026-10-31T00:52:43.444502+00:00",
+ "generated_at_utc": "2026-10-31T01:02:42.767797+00:00",
+ "collected_at_utc": "2026-10-31T01:02:42.767797+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 359,
   "korea": 851
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:55:00+00:00"
+   "newest": "2026-10-30T23:34:24+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T00:51:19+00:00"
+   "newest": "2026-10-31T01:00:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-31T00:29:55+00:00"
+   "newest": "2026-10-31T00:54:11+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-10-30T01:10:31+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:24:00+00:00"
+   "newest": "2026-10-31T00:40:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-10-30T06:46:01+00:00"
   }
  ],
  "items": [
@@ -1993,6 +1993,26 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
+   "published_utc": "2026-10-30T09:53:23+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2f4f41965caec86f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3RNZEdZQkhTUl9BWXZqTkFoSUJFZ0N0NzRIRW41QzBlbjdmQ014QmVjY1hqb0pqMmJLQ012SXBWMFNqWFZnWUtnbS1Pa0ZtOVo1YjFMWGhaZnA5SGE4OEY2M3hLX3FZM1d1cDV4THZGZEM1QmcyU05YTWljWkpPcUpnS0ludHJ0UkhFTUJn?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
@@ -2131,26 +2151,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a548e583343dc170"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
-   "published_utc": "2026-10-30T09:41:07+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3341,7 +3341,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
    "region": "china",
@@ -3353,7 +3353,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4f00fb7b2bbfe979"
+   "id": "a6acbb66c5e322c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5686,23 +5686,6 @@
    "id": "58e8408c7ae4f828"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction of the Bank of Korea?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BdFQ2VWhDY2tnYmxLVm9DMXB2RmFxbDE4Vl9HR0Vwdl9TOUlxdmNOY19hVEd5WGZSRHZXM0xfOC1aMzg5MlZjRGs1WlNoNTgxSXc?oc=5",
-   "published_utc": "2026-10-29T07:45:01+00:00",
-   "title_original": "'금리 동결' 미 연준, 12월 인상 가능성에 주목…한국은행 향방은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b584fb43e2cd0cad"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
@@ -5964,6 +5947,23 @@
    "id": "8cb3252a661cb36d"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제TV",
+   "title_en": "'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction of the Bank of Korea?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kOFVvUEpaeWpPRDVPV1BSbk1wMkJKYjVZRk8tV0NpTDNKLWZ2d0x6V0FOWGh1N2g1VjFUb1FZeWxvd21Sdk0yRGVUQXdYcVZyOC1NYU9xNXhNMzZscnNkT0I4aERnSnU0?oc=5",
+   "published_utc": "2026-10-29T06:14:00+00:00",
+   "title_original": "'금리 동결' 미 연준, 12월 인상 가능성에 주목…한국은행 향방은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d39716dde1e845e"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Exclusive-Bank of Korea board member says won moves faster than expected",
@@ -6193,6 +6193,23 @@
    "live_wire": false,
    "manual": false,
    "id": "30b0b131ce2f111a"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
+   "published_utc": "2026-10-29T04:48:34+00:00",
+   "title_original": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5a9cde50507567d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6674,7 +6691,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -6808,23 +6825,6 @@
    "id": "cecbcfc419a35ad0"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
-   "published_utc": "2026-10-29T00:56:00+00:00",
-   "title_original": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5a9cde50507567d"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "파이낸셜뉴스",
    "title_en": "'US base interest rate freeze'...BOK says, \"As expected...uncertainty is high due to changes in US policy\"",
@@ -6951,7 +6951,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -6962,7 +6962,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ad537082c2c93f5e"
+   "id": "703eacfba1e67ab6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -12610,24 +12610,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQi1nMWVMLXpvZzFKM2FNVWdnYkZhbHpUQjgwWWVhUWFpVHktZml3OWhPNzVPckdtb0syREtNZEFYcmRybFpScnMtMTF2N1E0VVd6a29ZTk1vQlVDdDN4cEZMbjNVSktXbXZod0x3MWhnLVJpLV83OERFWHFCSjM4TVZnQi04SGx4bkF1UmtaUHBEdw?oc=5",
-   "published_utc": "2026-10-26T13:45:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d1968e166e164599"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "新浪网",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
@@ -14328,6 +14310,24 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -35421,6 +35421,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -35437,23 +35454,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
