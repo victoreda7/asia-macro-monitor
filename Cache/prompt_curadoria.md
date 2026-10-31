@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T02:02:43.454206+00:00
+Última coleta: 2026-10-31T02:12:32.882943+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
+  🇯🇵 Japão          924
   🇨🇳 China          868
-  🇹🇼 Taiwan         359
+  🇹🇼 Taiwan         358
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
-  - [china] China's October factory activity contracts at fastest pace in 3 months, PMI survey shows
+  - [japan] Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how
+  - [china] China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows
   - [china] China Manufacturing Unexpectedly Weakens
   - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit
   - [china] China's State Council appoints, removes officials
   - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
-  - [korea] Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T02:02:43+00:00",
+      "published_utc": "2026-10-31T02:12:33+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

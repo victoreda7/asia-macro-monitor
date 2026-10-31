@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-31T02:02:43.454206+00:00",
- "collected_at_utc": "2026-10-31T02:02:43.454206+00:00",
+ "generated_at_utc": "2026-10-31T02:12:32.882943+00:00",
+ "collected_at_utc": "2026-10-31T02:12:32.882943+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 923,
+  "japan": 924,
   "china": 868,
-  "taiwan": 359,
+  "taiwan": 358,
   "korea": 850
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:24+00:00"
+   "newest": "2026-10-30T08:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T01:30:39+00:00"
+   "newest": "2026-10-31T02:01:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T01:06:18+00:00"
+   "newest": "2026-10-31T01:54:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T00:21:19+00:00"
+   "newest": "2026-10-30T11:56:47+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-10-30T23:51:51+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T16:49:50+00:00"
+   "newest": "2026-10-30T09:48:16+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T02:00:44+00:00"
+   "newest": "2026-10-31T02:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-31T10:00:00+09:00"
+   "newest": "2026-10-31T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:44:13+00:00"
+   "newest": "2026-10-30T23:24:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,26 +339,43 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T06:46:01+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's October factory activity contracts at fastest pace in 3 months, PMI survey shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TS6LX:0-china-s-october-factory-activity-contracts-at-fastest-pace-in-3-months-pmi-survey-shows/",
-   "published_utc": "2026-10-31T01:44:28+00:00",
-   "title_original": "China's October factory activity contracts at fastest pace in 3 months, PMI survey shows",
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how you cook them! Absolute rules for \"side dish miso soup\" that explodes with umami and makes rice go well | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962718?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-31T02:00:00+00:00",
+   "title_original": "物価高の救世主《キノコ》は｢組み合わせ｣｢火の入れ方｣で大化け！うま味炸裂でご飯も進む｢おかずみそ汁｣の絶対法則 | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "59b7a82368af0131"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows",
+   "url": "https://www.investing.com/news/economy-news/chinas-october-factory-activity-contracts-at-fastest-pace-in-3-months-pmi-survey-shows-4989032",
+   "published_utc": "2026-10-31T01:54:20+00:00",
+   "title_original": "China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows",
    "region": "china",
    "topics": [
     "activity"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "dd3ca6bf2652b7ec"
+   "id": "2632cdf9421647e1"
   },
   {
    "source_id": "tradingview_live",
@@ -3409,7 +3426,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
    "region": "china",
@@ -3421,7 +3438,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4f00fb7b2bbfe979"
+   "id": "a6acbb66c5e322c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5754,6 +5771,23 @@
    "id": "58e8408c7ae4f828"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction of the Bank of Korea?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BdFQ2VWhDY2tnYmxLVm9DMXB2RmFxbDE4Vl9HR0Vwdl9TOUlxdmNOY19hVEd5WGZSRHZXM0xfOC1aMzg5MlZjRGs1WlNoNTgxSXc?oc=5",
+   "published_utc": "2026-10-29T07:45:01+00:00",
+   "title_original": "'금리 동결' 미 연준, 12월 인상 가능성에 주목…한국은행 향방은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b584fb43e2cd0cad"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
@@ -6013,23 +6047,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8cb3252a661cb36d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction of the Bank of Korea?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kOFVvUEpaeWpPRDVPV1BSbk1wMkJKYjVZRk8tV0NpTDNKLWZ2d0x6V0FOWGh1N2g1VjFUb1FZeWxvd21Sdk0yRGVUQXdYcVZyOC1NYU9xNXhNMzZscnNkT0I4aERnSnU0?oc=5",
-   "published_utc": "2026-10-29T06:14:00+00:00",
-   "title_original": "'금리 동결' 미 연준, 12월 인상 가능성에 주목…한국은행 향방은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d39716dde1e845e"
   },
   {
    "source_id": "investing_econ",
@@ -6406,9 +6423,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3JhTUpmLTNSYlNHZ2oxd1otOGF3VG9wYlJsMGRIdnVjRmdrdHV3TE5CQW83U0FDR3NfUGtzbVBpRFlGazcteENlbTlNRXRnZl82d3FSNXczYXRqTEJLOVl0UXVzcURwMWhZbGV1ZjFnWDNzWk8zak5EUy1kVHlWWUNWQ2hMV2xL?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -6420,7 +6437,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "caaceae1bc852a60"
+   "id": "b921c83c0da75290"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6759,7 +6776,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -7019,7 +7036,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qREJBN2ZPbVZuel9KR18xWTNTdkpUU2JrY25rb0VNY3pLS0pQNkZoVUtWdHpoLWtTVmRDTUlRMFgxRmV5Yk5WRzlXQ1ZDRDJxYkpMUzNkYmdVUlHSAWBBVV95cUxOcFBMLXRWREJKX3N2TXd3ZUVBUmVodG1aTFczTWJMcUpPVkZ5SEdMQjNFN2VZb0pndUpwc3pCMDlPVUNWYi1ENFJpMUFkWDVSM3Y3c1Q0eTZFLXY1MXRGN3k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3edIBYEFVX3lxTE5wUEwtdFZEQkpfc3ZNd3dlRUFSZWh0bVpMVzNNYkxxSk9WRnlIR0xCM0U3ZVlvSmd1SnBzekIwOU9VQ1ZiLUQ0UmkxQWRYNVIzdjdzVDR5NkUtdjUxdEY3eQ?oc=5",
    "published_utc": "2026-10-29T00:08:01+00:00",
    "title_original": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
    "region": "korea",
@@ -7030,7 +7047,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "703eacfba1e67ab6"
+   "id": "ad537082c2c93f5e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -12679,7 +12696,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
@@ -13603,7 +13620,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "\"Peak-cutting and valley-filling\" precise adjustment, MLF volume reduction continuation in October",
-   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORG5EdzhtYVNGQjlqWF9hT2lvRm92QkxkUXJMSVF3MlhKM0JMYmZFVkZGQW94TjlQZG00S0hyR1JQVFhpSndwSnFMbkJBcjA1c2J1M2dUWGVES3E5M0lSMmswWm9oSms3U2xhelk3UlFfeThsWURjeWg3RkhhMDl2bDRveEpZSzM5eXFLTVg5aTRsTVFISjdLY2dpS3VadlZwTkxQbkVwbVZjTlpUSC14R2kyRFphRWFBb0NfWnItLTdCYlZVT0o3ZjZZWmlLb2ZnbEpVUkwzSXdPMGp5UTNyZWRMV3lGOVRsRlFpQ2QwMjFIMEZCT2pHalNPZHlXVEY2NmFUdUNjaDl0bW1BckVKRWJsYW9PT1lLbHVsdjU4ZHdZWTc3X0hYcGVzS3RhVjdjNS1ubzU1UmZIWDhDbFFEU0NNcjY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbENrYjJZc1Vpclg0UmlKRzliU2UtdEc3RXQ2dkdZUmliN3FraENTUDhMZkY3NGlQMDNqMGNhdWxvMWh4bDF4WE1NYy13TkJWckNjaWozcWppWDBlSXZ2T2dYRUN1Q3ZaQUFpS1RDcWJfNHF6TkhaWWtQZ29ZS2ZOWTVLQzZpWUtGRDJjQWJEeTREVDc3LWpqT3hyMUZiSzFBdmtoekVleEVHQzRCZHhyT2F4MmJQYTlnQjdLZjVaZGpDUUlMVXB1MVMteXNqaEtDcV8zS0prdktjelVtM0FWUXU5THhpUmhRbVhGUjV5YTZISWpsMHJvaFowVzR3bm9rZUFuMnpLOU4yWm9KeHJ0NHh1ODVaRWJfRmdYS1dpc2s?oc=5",
    "published_utc": "2026-10-26T07:00:00+00:00",
    "title_original": "“削峰填谷”精准调节 10月MLF缩量续作",
    "region": "china",
@@ -13614,7 +13631,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8e1a8c55470b6e26"
+   "id": "74d0cbe89a672609"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -14398,6 +14415,24 @@
    "id": "502351d29f0aed8f"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "SK hynix weighs $12.1 billion special dividend, newspaper says",
@@ -14413,24 +14448,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
-   "published_utc": "2026-10-25T23:58:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -35560,6 +35577,23 @@
    "id": "4be73cd566ce766b"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2tPeDA2ZXVTNW5IeFFPS1l5TFNyc3NaS3JDakJNamVzU2tIZVNWbGwzaFVEb0JTQTZTYVk4dGNYR3ltZDhnTEFJQ0ZjTlBFR21IZjAzRW1LWmtkUVV2dVJTczRRS3cxbXFYV1dkcXJiZExnazFCNlpOdkcwVXNjaDhWV0tLeWFpRDRwdjZB?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bd7f935ff99055ac"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
@@ -37160,23 +37194,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eb5bff777bcabda9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2tPeDA2ZXVTNW5IeFFPS1l5TFNyc3NaS3JDakJNamVzU2tIZVNWbGwzaFVEb0JTQTZTYVk4dGNYR3ltZDhnTEFJQ0ZjTlBFR21IZjAzRW1LWmtkUVV2dVJTczRRS3cxbXFYV1dkcXJiZExnazFCNlpOdkcwVXNjaDhWV0tLeWFpRDRwdjZB?oc=5",
-   "published_utc": "2026-10-15T00:00:00+00:00",
-   "title_original": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd7f935ff99055ac"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51932,23 +51949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "204f92a90c70d345"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261007002347:0-spacex-intel-tsmc-webull-fair-isaac-and-more-stocks-that-explain-today-s-market-barrons-com/",
-   "published_utc": "2026-10-07T14:21:00+00:00",
-   "title_original": "SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8ae3f7d27bc2f518"
   },
   {
    "source_id": "manual_ia",
