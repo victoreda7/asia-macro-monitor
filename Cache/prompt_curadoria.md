@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T17:02:42.948176+00:00
+Última coleta: 2026-10-31T17:12:43.956567+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
+  - [korea] "Samsung Electronics!" "Tesla!" "Monthly rent!"Maekyung Children's Economy Class held at COEX Magok
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
   - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
   - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
-  - [korea] North Korea says sanctions don't work to deny its status as nuclear weapons state
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T17:02:43+00:00",
+      "published_utc": "2026-10-31T17:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
