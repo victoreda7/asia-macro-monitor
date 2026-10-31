@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T21:52:44.883353+00:00
+Última coleta: 2026-10-31T22:02:45.819917+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
+  🇯🇵 Japão          925
   🇨🇳 China          875
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  846
+  🇰🇷 Coreia do Sul  844
 
 ## O que já está no feed (não repita)
 
+  - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
+  - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
   - [japan] Yen bond offerings hit record $16bn as AI funding race reaches Japan
   - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
   - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
   - [taiwan] Good Morning World》Taiwan’s export investment exceeded expectations. The economic growth rate in the third qua
-  - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
-  - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T21:52:45+00:00",
+      "published_utc": "2026-10-31T22:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
