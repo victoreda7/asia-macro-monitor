@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T14:02:42.872937+00:00
+Última coleta: 2026-10-31T14:12:44.442530+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
@@ -21,11 +21,11 @@ Total: 3000 manchetes
   - [japan] BOJ sees 2% inflation target generally hit, holds policy rate steady
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
+  - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
   - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
-  - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [japan] Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country 
   - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
@@ -43,6 +43,7 @@ Total: 3000 manchetes
   - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
   - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
+  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
   - [taiwan] Intel on course for worst day ever, triggers global chip rout
-  - [japan] Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices a
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T14:02:43+00:00",
+      "published_utc": "2026-10-31T14:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
