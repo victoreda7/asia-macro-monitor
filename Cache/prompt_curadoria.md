@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T04:32:43.956578+00:00
+Última coleta: 2026-10-31T04:42:43.879264+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
+  🇯🇵 Japão          926
   🇨🇳 China          870
-  🇹🇼 Taiwan         355
+  🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com
+  - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
+  - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
   - [china] China's State Council appoints, removes officials
   - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
   - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
@@ -35,7 +38,6 @@ Total: 3000 manchetes
   - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
-  - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
   - [korea] North Korea says sanctions don't work to deny its status as nuclear weapons state
   - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Omron eyes India as export base for blood pressure monitors
   - [japan] Bank of Japan's price increase rate reaches 2% for the first time in 14 years 1,500 food items will have price
   - [japan] Japan's Sojitz to import rare earth yttrium from Malaysia
-  - [china] Focus Observation | Why can the 1.25% overnight reverse repurchase rate be understood as an interest rate cut?
-  - [china] China's State Council studies guiding principles of key Party plenum
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T04:32:44+00:00",
+      "published_utc": "2026-10-31T04:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
