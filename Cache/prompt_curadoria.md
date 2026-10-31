@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T17:32:43.948881+00:00
+Última coleta: 2026-10-31T17:42:43.448577+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
+  🇯🇵 Japão          922
   🇨🇳 China          874
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  849
+  🇰🇷 Coreia do Sul  848
 
 ## O que já está no feed (não repita)
 
+  - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
+  - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
   - [japan] Japan weighs taxing real estate rental operators living overseas
   - [taiwan] Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment
   - [china] The central bank further optimizes the short-term interest rate control mechanism
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
-  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
-  - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T17:32:44+00:00",
+      "published_utc": "2026-10-31T17:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
