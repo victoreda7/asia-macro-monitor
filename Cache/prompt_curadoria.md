@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T19:12:42.177441+00:00
+Última coleta: 2026-10-31T19:22:45.268027+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
+  🇯🇵 Japão          923
   🇨🇳 China          875
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  847
+  🇰🇷 Coreia do Sul  846
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen bond offerings hit record $16bn as AI funding race reaches Japan
   - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
   - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
   - [japan] Japan weighs taxing real estate rental operators living overseas
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Good Morning World》Taiwan’s export investment exceeded expectations. The economic growth rate in the third qua
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
-  - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T19:12:42+00:00",
+      "published_utc": "2026-10-31T19:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
