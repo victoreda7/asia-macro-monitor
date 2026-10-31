@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T23:42:44.145231+00:00
+Última coleta: 2026-10-31T23:52:42.714858+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -41,7 +41,6 @@ Total: 3000 manchetes
   - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
-  - [china] China's State Council appoints, removes officials
   - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
   - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
   - [japan] Japanese Listed Iole Plans to Sell All 151.21 Bitcoin, Expects 254 Million Yen Loss
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
+  - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T23:42:44+00:00",
+      "published_utc": "2026-10-31T23:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
