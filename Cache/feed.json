@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-31T04:42:43.879264+00:00",
- "collected_at_utc": "2026-10-31T04:42:43.879264+00:00",
+ "generated_at_utc": "2026-10-31T04:52:42.744120+00:00",
+ "collected_at_utc": "2026-10-31T04:52:42.744120+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 354,
   "korea": 850
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:55:00+00:00"
+   "newest": "2026-10-30T23:34:24+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T04:24:06+00:00"
+   "newest": "2026-10-30T10:38:44+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T04:34:44+00:00"
+   "newest": "2026-10-31T04:50:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T00:40:00+00:00"
+   "newest": "2026-10-31T04:48:20+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -434,9 +434,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.caijingmobile.com",
+   "source_name": "www.mycaijing.com",
    "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkhsY01iRi01VXNKVXQzYXlPRUc1Z0Z2RFpsRDlkRzZVWWxRVE5GVWh4a00zbWhBZ2tQMGc2Z0RQMFZHVUh6b1hKZHExdlNlVTl6MEdkU3NUZTloNVZLMjVTYVFEMVhTQmdGWkJJekUxUE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWR6TzhabzZETmlETmdweUF1aGpQeWxhbGY5Z3d6QVJHOFUzVzVIOVV2WUNpWTNQbXV0Y1lOeFpMTlVMLThuT2V2bEdQSTc5eV9fWFdlQnlFX2VEZjhXaW01bVREZXFXTVcwag?oc=5",
    "published_utc": "2026-10-31T02:51:00+00:00",
    "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
    "region": "china",
@@ -447,7 +447,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13860c7da5fd9264"
+   "id": "e1d2a7c6f80b81e7"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -1729,7 +1729,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Central Asia’s Fastest Growing Economy Plans Yuan Bond in 2027",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtHNmtTTlFhejZ5b0h1V3JYNG52aGxkMDVxZVluMkduXzNfb1NzQXhXLXV6NmRDNXZfNFdUV2daay1oYlZid2pCSXJCZ0RXcFNrSllKYjRJWTFPUTJpWWRoZUFia3FxTWp6cU0wbGFpd3V4RkNKekgwYS13Y3hNTmZCalA5QnY0M2xxNXJBU09QcVVwQ25pMXhjZm5QY05IZXhRdzlDZGpHM1BPNXBJazZiWQ?oc=5",
    "published_utc": "2026-10-30T11:17:02+00:00",
@@ -2201,26 +2201,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
-   "published_utc": "2026-10-30T09:53:23+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f4f41965caec86f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3RNZEdZQkhTUl9BWXZqTkFoSUJFZ0N0NzRIRW41QzBlbjdmQ014QmVjY1hqb0pqMmJLQ012SXBWMFNqWFZnWUtnbS1Pa0ZtOVo1YjFMWGhaZnA5SGE4OEY2M3hLX3FZM1d1cDV4THZGZEM1QmcyU05YTWljWkpPcUpnS0ludHJ0UkhFTUJn?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
@@ -2361,6 +2341,26 @@
    "id": "a548e583343dc170"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
+   "published_utc": "2026-10-30T09:41:07+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37a9d2a743bc3db5"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes By Reuters",
@@ -2395,23 +2395,6 @@
    "live_wire": false,
    "manual": false,
    "id": "84854a3e8d0944fc"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
   },
   {
    "source_id": "investing_econ",
@@ -2715,6 +2698,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -13727,7 +13727,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "\"Peak-cutting and valley-filling\" precise adjustment, MLF volume reduction continuation in October",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbENrYjJZc1Vpclg0UmlKRzliU2UtdEc3RXQ2dkdZUmliN3FraENTUDhMZkY3NGlQMDNqMGNhdWxvMWh4bDF4WE1NYy13TkJWckNjaWozcWppWDBlSXZ2T2dYRUN1Q3ZaQUFpS1RDcWJfNHF6TkhaWWtQZ29ZS2ZOWTVLQzZpWUtGRDJjQWJEeTREVDc3LWpqT3hyMUZiSzFBdmtoekVleEVHQzRCZHhyT2F4MmJQYTlnQjdLZjVaZGpDUUlMVXB1MVMteXNqaEtDcV8zS0prdktjelVtM0FWUXU5THhpUmhRbVhGUjV5YTZISWpsMHJvaFowVzR3bm9rZUFuMnpLOU4yWm9KeHJ0NHh1ODVaRWJfRmdYS1dpc2s?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORG5EdzhtYVNGQjlqWF9hT2lvRm92QkxkUXJMSVF3MlhKM0JMYmZFVkZGQW94TjlQZG00S0hyR1JQVFhpSndwSnFMbkJBcjA1c2J1M2dUWGVES3E5M0lSMmswWm9oSms3U2xhelk3UlFfeThsWURjeWg3RkhhMDl2bDRveEpZSzM5eXFLTVg5aTRsTVFISjdLY2dpS3VadlZwTkxQbkVwbVZjTlpUSC14R2kyRFphRWFBb0NfWnItLTdCYlZVT0o3ZjZZWmlLb2ZnbEpVUkwzSXdPMGp5UTNyZWRMV3lGOVRsRlFpQ2QwMjFIMEZCT2pHalNPZHlXVEY2NmFUdUNjaDl0bW1BckVKRWJsYW9PT1lLbHVsdjU4ZHdZWTc3X0hYcGVzS3RhVjdjNS1ubzU1UmZIWDhDbFFEU0NNcjY?oc=5",
    "published_utc": "2026-10-26T07:00:00+00:00",
    "title_original": "“削峰填谷”精准调节 10月MLF缩量续作",
    "region": "china",
@@ -13738,7 +13738,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "74d0cbe89a672609"
+   "id": "8e1a8c55470b6e26"
   },
   {
    "source_id": "gn_cn_pboc",
