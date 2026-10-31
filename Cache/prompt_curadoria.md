@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T14:12:44.442530+00:00
+Última coleta: 2026-10-31T14:22:42.887159+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          872
+  🇨🇳 China          873
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [china] China Manufacturing Unexpectedly Weakens
   - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
+  - [china] Huo Lihui, chief statistician of the Service Industry Survey Center of the National Bureau of Statistics, inte
   - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] North Korea says sanctions don't work to deny its status as nuclear weapons state
   - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
-  - [taiwan] Intel on course for worst day ever, triggers global chip rout
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T14:12:44+00:00",
+      "published_utc": "2026-10-31T14:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
