@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-31T12:32:44.114917+00:00",
- "collected_at_utc": "2026-10-31T12:32:44.114917+00:00",
+ "generated_at_utc": "2026-10-31T12:42:50.998579+00:00",
+ "collected_at_utc": "2026-10-31T12:42:50.998579+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 355,
   "korea": 853
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T01:00:00+00:00"
+   "newest": "2026-10-30T20:20:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T12:14:09+00:00"
+   "newest": "2026-10-31T12:27:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T11:37:46+00:00"
+   "newest": "2026-10-31T10:12:36+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T12:30:05+00:00"
+   "newest": "2026-10-31T12:38:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -622,9 +622,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.caijingmobile.com",
+   "source_name": "www.mycaijing.com",
    "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkhsY01iRi01VXNKVXQzYXlPRUc1Z0Z2RFpsRDlkRzZVWWxRVE5GVWh4a00zbWhBZ2tQMGc2Z0RQMFZHVUh6b1hKZHExdlNlVTl6MEdkU3NUZTloNVZLMjVTYVFEMVhTQmdGWkJJekUxUE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWR6TzhabzZETmlETmdweUF1aGpQeWxhbGY5Z3d6QVJHOFUzVzVIOVV2WUNpWTNQbXV0Y1lOeFpMTlVMLThuT2V2bEdQSTc5eV9fWFdlQnlFX2VEZjhXaW01bVREZXFXTVcwag?oc=5",
    "published_utc": "2026-10-31T02:51:00+00:00",
    "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
    "region": "china",
@@ -635,7 +635,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13860c7da5fd9264"
+   "id": "e1d2a7c6f80b81e7"
   },
   {
    "source_id": "tradingview_live",
@@ -1879,6 +1879,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0502612f5f1f0dc8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSDlscWJqZl9tTVRqS1Q0S2x5dXBPb1NrVDVVZXBSQmQ5WGUtR3JNci1KYURKY1JFTEFhck93RWhpZ184RERMNVUyZl8wRFA5ZkdtUVg4eVVkRXFIak1jLQ?oc=5",
+   "published_utc": "2026-10-30T11:32:55+00:00",
+   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a00fdb29b08fc72c"
   },
   {
    "source_id": "nhk_economy",
@@ -3343,23 +3360,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9b3e406b3000f2db"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHQWN1ZXhGei1KTHVlQUhmZllGajc5NV9wS1RXc0VlT2F0b2ZoNWtmZFU0S3BRQ3dQU1RXNWtCNG15YUhvMzc0cFBOTjRnWm1sRGszRndmV0NhLXE5QTRXNXRjWnhxc05EU2t2bldZckdnNUVhMnVHbQ?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b893c04135eed337"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -36110,6 +36110,23 @@
    "id": "4be73cd566ce766b"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2tPeDA2ZXVTNW5IeFFPS1l5TFNyc3NaS3JDakJNamVzU2tIZVNWbGwzaFVEb0JTQTZTYVk4dGNYR3ltZDhnTEFJQ0ZjTlBFR21IZjAzRW1LWmtkUVV2dVJTczRRS3cxbXFYV1dkcXJiZExnazFCNlpOdkcwVXNjaDhWV0tLeWFpRDRwdjZB?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bd7f935ff99055ac"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
@@ -37710,23 +37727,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eb5bff777bcabda9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2tPeDA2ZXVTNW5IeFFPS1l5TFNyc3NaS3JDakJNamVzU2tIZVNWbGwzaFVEb0JTQTZTYVk4dGNYR3ltZDhnTEFJQ0ZjTlBFR21IZjAzRW1LWmtkUVV2dVJTczRRS3cxbXFYV1dkcXJiZExnazFCNlpOdkcwVXNjaDhWV0tLeWFpRDRwdjZB?oc=5",
-   "published_utc": "2026-10-15T00:00:00+00:00",
-   "title_original": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd7f935ff99055ac"
   },
   {
    "source_id": "gn_cn_pboc",
