@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T18:02:42.648031+00:00
+Última coleta: 2026-10-31T18:12:44.577829+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
-  🇨🇳 China          874
+  🇨🇳 China          875
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  848
+  🇰🇷 Coreia do Sul  847
 
 ## O que já está no feed (não repita)
 
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
+  - [china] China's State Council appoints, removes officials
   - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
   - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
   - [japan] Japanese Listed Iole Plans to Sell All 151.21 Bitcoin, Expects 254 Million Yen Loss
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank officially announced that the policy interest rate has officially "changed the anchor", exper
   - [japan] German Chancellor Merz worries about EV incentives to be considered at EU summit meeting
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
-  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T18:02:42+00:00",
+      "published_utc": "2026-10-31T18:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
