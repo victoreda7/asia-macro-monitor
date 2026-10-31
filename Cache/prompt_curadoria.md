@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T02:52:43.813317+00:00
+Última coleta: 2026-10-31T03:02:45.101095+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
-  🇨🇳 China          868
-  🇹🇼 Taiwan         358
+  🇨🇳 China          869
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
   - [japan] Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how
   - [china] China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows
   - [china] China Manufacturing Unexpectedly Weakens
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Weyerhaeuser expects to triple China log shipments in fourth quarter
   - [china] BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside
   - [japan] Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit
-  - [china] China's State Council appoints, removes officials
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T02:52:44+00:00",
+      "published_utc": "2026-10-31T03:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

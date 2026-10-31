@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-31T02:52:43.813317+00:00",
- "collected_at_utc": "2026-10-31T02:52:43.813317+00:00",
+ "generated_at_utc": "2026-10-31T03:02:45.101095+00:00",
+ "collected_at_utc": "2026-10-31T03:02:45.101095+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 924,
-  "china": 868,
-  "taiwan": 358,
+  "china": 869,
+  "taiwan": 357,
   "korea": 850
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T12:55:19+00:00"
+   "newest": "2026-10-30T21:00:31+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-31T00:46:24+00:00"
+   "newest": "2026-10-31T02:51:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T02:52:00+00:00"
+   "newest": "2026-10-31T03:01:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T19:53:38+00:00"
+   "newest": "2026-10-30T22:57:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T00:05:25+00:00"
+   "newest": "2026-10-31T02:23:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "news.caijingmobile.com",
+   "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkhsY01iRi01VXNKVXQzYXlPRUc1Z0Z2RFpsRDlkRzZVWWxRVE5GVWh4a00zbWhBZ2tQMGc2Z0RQMFZHVUh6b1hKZHExdlNlVTl6MEdkU3NUZTloNVZLMjVTYVFEMVhTQmdGWkJJekUxUE0?oc=5",
+   "published_utc": "2026-10-31T02:51:00+00:00",
+   "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "13860c7da5fd9264"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -2095,26 +2112,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
-   "published_utc": "2026-10-30T09:53:23+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f4f41965caec86f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3RNZEdZQkhTUl9BWXZqTkFoSUJFZ0N0NzRIRW41QzBlbjdmQ014QmVjY1hqb0pqMmJLQ012SXBWMFNqWFZnWUtnbS1Pa0ZtOVo1YjFMWGhaZnA5SGE4OEY2M3hLX3FZM1d1cDV4THZGZEM1QmcyU05YTWljWkpPcUpnS0ludHJ0UkhFTUJn?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
@@ -2253,6 +2250,26 @@
    "live_wire": true,
    "manual": false,
    "id": "a548e583343dc170"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
+   "published_utc": "2026-10-30T09:41:07+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3427,7 +3444,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZEF6YXluaFRIVk5GUE05WFBWcEtTaDFia3dUeEF1S2NHNHk1Vi02b1ZuWnlhNVhVNk1sV3BTalRRZkJLc2RXTFdOcndPQmFDOUI3SlVyQ1ZJc1RfU1IwNlNB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
    "region": "china",
@@ -3439,7 +3456,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4f00fb7b2bbfe979"
+   "id": "a6acbb66c5e322c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6777,7 +6794,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -12697,24 +12714,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQi1nMWVMLXpvZzFKM2FNVWdnYkZhbHpUQjgwWWVhUWFpVHktZml3OWhPNzVPckdtb0syREtNZEFYcmRybFpScnMtMTF2N1E0VVd6a29ZTk1vQlVDdDN4cEZMbjNVSktXbXZod0x3MWhnLVJpLV83OERFWHFCSjM4TVZnQi04SGx4bkF1UmtaUHBEdw?oc=5",
-   "published_utc": "2026-10-26T13:45:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d1968e166e164599"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
@@ -13639,7 +13638,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "\"Peak-cutting and valley-filling\" precise adjustment, MLF volume reduction continuation in October",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbENrYjJZc1Vpclg0UmlKRzliU2UtdEc3RXQ2dkdZUmliN3FraENTUDhMZkY3NGlQMDNqMGNhdWxvMWh4bDF4WE1NYy13TkJWckNjaWozcWppWDBlSXZ2T2dYRUN1Q3ZaQUFpS1RDcWJfNHF6TkhaWWtQZ29ZS2ZOWTVLQzZpWUtGRDJjQWJEeTREVDc3LWpqT3hyMUZiSzFBdmtoekVleEVHQzRCZHhyT2F4MmJQYTlnQjdLZjVaZGpDUUlMVXB1MVMteXNqaEtDcV8zS0prdktjelVtM0FWUXU5THhpUmhRbVhGUjV5YTZISWpsMHJvaFowVzR3bm9rZUFuMnpLOU4yWm9KeHJ0NHh1ODVaRWJfRmdYS1dpc2s?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORG5EdzhtYVNGQjlqWF9hT2lvRm92QkxkUXJMSVF3MlhKM0JMYmZFVkZGQW94TjlQZG00S0hyR1JQVFhpSndwSnFMbkJBcjA1c2J1M2dUWGVES3E5M0lSMmswWm9oSms3U2xhelk3UlFfeThsWURjeWg3RkhhMDl2bDRveEpZSzM5eXFLTVg5aTRsTVFISjdLY2dpS3VadlZwTkxQbkVwbVZjTlpUSC14R2kyRFphRWFBb0NfWnItLTdCYlZVT0o3ZjZZWmlLb2ZnbEpVUkwzSXdPMGp5UTNyZWRMV3lGOVRsRlFpQ2QwMjFIMEZCT2pHalNPZHlXVEY2NmFUdUNjaDl0bW1BckVKRWJsYW9PT1lLbHVsdjU4ZHdZWTc3X0hYcGVzS3RhVjdjNS1ubzU1UmZIWDhDbFFEU0NNcjY?oc=5",
    "published_utc": "2026-10-26T07:00:00+00:00",
    "title_original": "“削峰填谷”精准调节 10月MLF缩量续作",
    "region": "china",
@@ -13650,7 +13649,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "74d0cbe89a672609"
+   "id": "8e1a8c55470b6e26"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -14432,6 +14431,24 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51933,23 +51950,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4c719e877575bd12"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Micron Tech chipmaker union in Taiwan gets OK to strike",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblR1QUoxNkY4VjEtRFVHbFhKQXB3THZidHU5MGtCUjFsUV9laUFSS2JDbndvS3Z1R2Uxa0NsSGpwcGhLb1R0bzlvdFllUktfNXZmei14YXZicTNTNFh4UWdpeDlCM2lCLUpaajhGUlNVbC1oQTdyZ20yTlZmc0JCYTRmQ3BCMVhGVVl4RzRXWWNkRmxua01NV0NhSm94UkpqdVhZOGg5S0ZxLXFMZkJCTlNWS2FCT0E?oc=5",
-   "published_utc": "2026-10-07T14:42:00+00:00",
-   "title_original": "Micron Tech chipmaker union in Taiwan gets OK to strike",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "204f92a90c70d345"
   },
   {
    "source_id": "manual_ia",
