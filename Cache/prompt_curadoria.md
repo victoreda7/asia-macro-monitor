@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T10:02:44.851128+00:00
+Última coleta: 2026-10-31T10:12:43.970233+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
-  🇨🇳 China          870
-  🇹🇼 Taiwan         354
+  🇨🇳 China          871
+  🇹🇼 Taiwan         353
   🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank further optimizes the short-term interest rate control mechanism
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
   - [taiwan] Intel on course for worst day ever, triggers global chip rout
   - [japan] Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices a
-  - [japan] Interest rates rise due to coreweave shock... What will happen to the Nikkei Stock Average, which fell sharply
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T10:02:45+00:00",
+      "published_utc": "2026-10-31T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
