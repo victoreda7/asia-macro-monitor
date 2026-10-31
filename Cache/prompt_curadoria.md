@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T11:42:44.837713+00:00
+Última coleta: 2026-10-31T11:52:43.592192+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] The central bank further optimizes the short-term interest rate control mechanism
+  - [japan] BOJ sees 2% inflation target generally hit, holds policy rate steady
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
@@ -41,8 +42,8 @@ Total: 3000 manchetes
   - [china] China Manufacturing Unexpectedly Weakens
   - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
-  - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
+  - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
   - [taiwan] Intel on course for worst day ever, triggers global chip rout
-  - [japan] Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices a
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T11:42:45+00:00",
+      "published_utc": "2026-10-31T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
