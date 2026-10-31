@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T15:32:43.261616+00:00
+Última coleta: 2026-10-31T15:42:44.572326+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
   🇨🇳 China          873
-  🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  851
+  🇹🇼 Taiwan         356
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan weighs taxing real estate rental operators living overseas
+  - [taiwan] Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment
   - [china] The central bank further optimizes the short-term interest rate control mechanism
   - [japan] BOJ sees 2% inflation target generally hit, holds policy rate steady
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
   - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
   - [korea] North Korea says sanctions don't work to deny its status as nuclear weapons state
-  - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T15:32:43+00:00",
+      "published_utc": "2026-10-31T15:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
