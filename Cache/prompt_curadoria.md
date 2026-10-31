@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T22:12:44.576116+00:00
+Última coleta: 2026-10-31T22:22:42.526080+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
+  🇯🇵 Japão          924
   🇨🇳 China          875
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  844
+  🇰🇷 Coreia do Sul  845
 
 ## O que já está no feed (não repita)
 
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [japan] Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country 
+  - [korea] OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens
   - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
-  - [taiwan] Good Morning World》Taiwan’s export investment exceeded expectations. The economic growth rate in the third qua
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T22:12:44+00:00",
+      "published_utc": "2026-10-31T22:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
