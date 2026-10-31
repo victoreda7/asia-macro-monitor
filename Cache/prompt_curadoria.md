@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T08:52:43.086461+00:00
+Última coleta: 2026-10-31T09:02:44.755878+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
@@ -17,9 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Swiss firms plan to expand China investments as trade deal deepens ties
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
+  - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
   - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [japan] Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices a
   - [japan] Interest rates rise due to coreweave shock... What will happen to the Nikkei Stock Average, which fell sharply
   - [japan] Dollar rises for October as rate hike bets remain elevated, euro and yen slip
-  - [japan] Yen set for third straight daily gain against dollar after BOJ holds rates
-  - [taiwan] Foxconn unveils 3 EVs to grow contract manufacturing business
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T08:52:43+00:00",
+      "published_utc": "2026-10-31T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
