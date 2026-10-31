@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T08:32:44.399054+00:00
+Última coleta: 2026-10-31T08:42:43.943062+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          870
+  🇯🇵 Japão          922
+  🇨🇳 China          871
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
   - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar rises for October as rate hike bets remain elevated, euro and yen slip
   - [japan] Yen set for third straight daily gain against dollar after BOJ holds rates
   - [taiwan] Foxconn unveils 3 EVs to grow contract manufacturing business
-  - [japan] Ruling party looks for voting schedule on consumption tax reduction bill Opposition party urges Prime Minister
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T08:32:44+00:00",
+      "published_utc": "2026-10-31T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
