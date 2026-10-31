@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T11:32:43.030554+00:00
+Última coleta: 2026-10-31T11:42:44.837713+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
+  🇯🇵 Japão          921
   🇨🇳 China          871
-  🇹🇼 Taiwan         353
+  🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
@@ -41,8 +41,8 @@ Total: 3000 manchetes
   - [china] China Manufacturing Unexpectedly Weakens
   - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
-  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
+  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T11:32:43+00:00",
+      "published_utc": "2026-10-31T11:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

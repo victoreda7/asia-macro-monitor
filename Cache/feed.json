@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-31T11:32:43.030554+00:00",
- "collected_at_utc": "2026-10-31T11:32:43.030554+00:00",
+ "generated_at_utc": "2026-10-31T11:42:44.837713+00:00",
+ "collected_at_utc": "2026-10-31T11:42:44.837713+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 922,
+  "japan": 921,
   "china": 871,
-  "taiwan": 353,
+  "taiwan": 354,
   "korea": 854
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T05:00:20+00:00"
+   "newest": "2026-10-31T05:01:22+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T11:09:26+00:00"
+   "newest": "2026-10-31T11:21:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-31T11:31:54+00:00"
+   "newest": "2026-10-31T11:41:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T14:00:20+00:00"
+   "newest": "2026-10-30T08:45:34+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -603,9 +603,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.caijingmobile.com",
+   "source_name": "www.mycaijing.com",
    "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkhsY01iRi01VXNKVXQzYXlPRUc1Z0Z2RFpsRDlkRzZVWWxRVE5GVWh4a00zbWhBZ2tQMGc2Z0RQMFZHVUh6b1hKZHExdlNlVTl6MEdkU3NUZTloNVZLMjVTYVFEMVhTQmdGWkJJekUxUE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWR6TzhabzZETmlETmdweUF1aGpQeWxhbGY5Z3d6QVJHOFUzVzVIOVV2WUNpWTNQbXV0Y1lOeFpMTlVMLThuT2V2bEdQSTc5eV9fWFdlQnlFX2VEZjhXaW01bVREZXFXTVcwag?oc=5",
    "published_utc": "2026-10-31T02:51:00+00:00",
    "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
    "region": "china",
@@ -616,7 +616,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13860c7da5fd9264"
+   "id": "e1d2a7c6f80b81e7"
   },
   {
    "source_id": "tradingview_live",
@@ -756,6 +756,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The policy interest rate \"changes the anchor\" and the central bank will conduct overnight reverse repurchase operations every working day",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yMWpBdVhwVzN2dm5wMU9XV0tPR0xJYURpR0ZkWm13cG1fS25DU3RLZkhDWVpOa29xNEtOd2VPUEl5aUU2Y2lhaHdJYy11VExIY2lXeU9fZ3lfN1NhTk5Kdk9B?oc=5",
+   "published_utc": "2026-10-31T01:25:53+00:00",
+   "title_original": "政策利率“换锚” 央行将每个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1af209bda21e7d17"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "中金在线",
    "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched every working day",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKMW96NFNuOXJiZ3ZzX2FGa3hhMGhvOGRxQTFNRXp6NkNzQWNYXzJ2UVlKdVl3TDhnb0RsUm41Tm51eDVmaDMxZUZXT29oUlgzaGJrbldCcExBLWVCaGIyUEN0b0RKd3AyU3dXX21n?oc=5",
@@ -770,23 +787,6 @@
    "live_wire": false,
    "manual": false,
    "id": "59fa71931a971149"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The policy interest rate \"changes the anchor\" and the central bank will conduct overnight reverse repurchase operations every working day",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GMVY3X3JCa1hkQXRpenNHZUNXZ1NQYnlXb3JuM1ZGelhId3hYcGRfTW91NHF2dk14blpsTkVPd3YtNHlsb2VqdmtXRXN4eld3cU1yc3JrS0lOYThhY0FUeQ?oc=5",
-   "published_utc": "2026-10-30T23:51:51+00:00",
-   "title_original": "政策利率“换锚” 央行将每个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "516f0682f0fee091"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5769,6 +5769,23 @@
    "id": "6de3e8480f300ef5"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "MSCI warning a 'short-term shock', Indonesia central bank chief reassures businesses",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZ0Z0EwQnVmbEVqREZsVFd6SkNsMmNXbGhNbnhQN3dDYTE2WTNhUzQ3UHVFeVh3MlBRaUY0WktsNkgzSWM2Q1drU0gwUDExbWVpM2NXOU9KUzR1c1Nhby1mSlYtZTVqUnI2UTNGNDB2ZHlYQXVzUy1BTEV1RjBGclBjWWZ2eTB5RGdKd1pHSnJwYXFhOFF2bHhZUjVzZnVyZzdsdlEzbEEwZGwxRG5jT1ZjRGZFa2haaWc?oc=5",
+   "published_utc": "2026-10-29T11:10:26+00:00",
+   "title_original": "MSCI warning a 'short-term shock', Indonesia central bank chief reassures businesses",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dcd755b81cf45975"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "BoJ Preview: Hawkish Hold",
@@ -6835,9 +6852,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3JhTUpmLTNSYlNHZ2oxd1otOGF3VG9wYlJsMGRIdnVjRmdrdHV3TE5CQW83U0FDR3NfUGtzbVBpRFlGazcteENlbTlNRXRnZl82d3FSNXczYXRqTEJLOVl0UXVzcURwMWhZbGV1ZjFnWDNzWk8zak5EUy1kVHlWWUNWQ2hMV2xL?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -6849,7 +6866,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "caaceae1bc852a60"
+   "id": "b921c83c0da75290"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7188,7 +7205,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -14844,6 +14861,24 @@
    "id": "502351d29f0aed8f"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "SK hynix weighs $12.1 billion special dividend, newspaper says",
@@ -14859,24 +14894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
-   "published_utc": "2026-10-25T23:58:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51931,24 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f78810218cbd324e"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "When a woman returns home, she hears a noise inside... The \"unexpected culprit\" in the \"stalker case\" that sends chills down her spine Manga \"Honest Real Estate\" (Volume 23, Episode 176) | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958700?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-07T22:00:00+00:00",
-   "title_original": "女性が帰宅すると中から物音が…背筋が凍る｢ストーカー事件｣の\"意外な犯人\" 漫画｢正直不動産｣（第23集 第176話） | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "89a77479d1e6bd85"
   },
   {
    "source_id": "manual_ia",
