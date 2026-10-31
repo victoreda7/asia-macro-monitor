@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T00:12:53.746175+00:00
+Última coleta: 2026-10-31T00:22:43.770463+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          866
-  🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  850
+  🇨🇳 China          867
+  🇹🇼 Taiwan         359
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
   - [taiwan] Good Morning World》Taiwan’s export investment exceeded expectations. The economic growth rate in the third qua
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Raised to JPY 16138.18, Implies 61% Upside
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 548612.9, Implies 88% Upside
   - [japan] Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Ji
+  - [korea] North Korea says sanctions don't work to deny its status as nuclear weapons state
   - [japan] The Takaichi administration's theory of a ``bad yen depreciation'' due to fiscal expansion is wrong - Why we s
   - [japan] NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes 
   - [taiwan] Intel on course for worst day ever, triggers global chip rout
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Why is SK hynix stock sliding today?
   - [china] IR: Strong orders and higher guidance offset China pricing pressure and inflation headwinds
   - [china] Overnight reverse repurchase is "on the job", and the policy interest rate has officially changed its anchor
-  - [taiwan] Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T00:12:53+00:00",
+      "published_utc": "2026-10-31T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
