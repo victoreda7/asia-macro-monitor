@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-31T11:22:42.039800+00:00
+Última coleta: 2026-10-31T11:32:43.030554+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
@@ -21,9 +21,9 @@ Total: 3000 manchetes
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
-  - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
+  - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
   - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [japan] Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country 
@@ -41,8 +41,8 @@ Total: 3000 manchetes
   - [china] China Manufacturing Unexpectedly Weakens
   - [china] China Composite PMI Falls Back into Contraction
   - [japan] The government should carefully judge its declaration of overcoming deflation.
-  - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
+  - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
   - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
   - [taiwan] TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-31T11:22:42+00:00",
+      "published_utc": "2026-10-31T11:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
