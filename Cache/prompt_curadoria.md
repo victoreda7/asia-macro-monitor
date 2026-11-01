@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T11:32:43.995250+00:00
+Última coleta: 2026-11-01T11:42:42.406412+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
-  🇨🇳 China          861
+  🇨🇳 China          862
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung chief Lee visits Japan chip packaging lab
+  - [china] China's BYD extends sales growth streak on strong exports
   - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Bank of Japan Maebashi Branch September Tankan flat rate at +15 for third consecutive period (Gunma TV)
   - [china] China’s Communist Party tightens oversight of officials
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
+  - [china] PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
   - [japan] Japan weighs taxing real estate rental operators living overseas
   - [taiwan] Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment
-  - [china] The central bank further optimizes the short-term interest rate control mechanism
-  - [japan] BOJ sees 2% inflation target generally hit, holds policy rate steady
-  - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T11:32:44+00:00",
+      "published_utc": "2026-11-01T11:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
