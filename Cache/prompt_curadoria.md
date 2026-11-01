@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T03:42:43.575419+00:00
+Última coleta: 2026-11-01T03:52:43.123124+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -17,10 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
   - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
-  - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
   - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
   - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
   - [korea] South Korea exports nearly double in October on AI investment boom
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T03:42:43+00:00",
+      "published_utc": "2026-11-01T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
