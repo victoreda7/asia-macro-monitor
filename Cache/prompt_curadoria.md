@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T06:32:42.313525+00:00
+Última coleta: 2026-11-01T06:42:43.390803+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -21,7 +21,7 @@ Total: 3000 manchetes
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
-  - [korea] [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil
+  - [korea] [APK 2026] APK 2026 in Seoul sets stage for deeper AI, supply chain ties amid global turmoil
   - [japan] Former Liberal Democratic Party Chairman Miyazawa also supports the bill: “Given benefits rather than consumpt
   - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
   - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T06:32:42+00:00",
+      "published_utc": "2026-11-01T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
