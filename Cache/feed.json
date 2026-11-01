@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-01T01:42:44.483295+00:00",
- "collected_at_utc": "2026-11-01T01:42:44.483295+00:00",
+ "generated_at_utc": "2026-11-01T01:52:43.105394+00:00",
+ "collected_at_utc": "2026-11-01T01:52:43.105394+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 357,
   "korea": 849
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T01:00:00+00:00"
+   "newest": "2026-10-30T16:32:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-01T01:18:22+00:00"
+   "newest": "2026-11-01T01:40:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-01T01:18:22+00:00"
+   "newest": "2026-11-01T01:40:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T04:12:31+00:00"
+   "newest": "2026-10-30T10:38:44+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-01T00:57:00+00:00"
+   "newest": "2026-11-01T01:48:13+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T10:37:23+00:00"
+   "newest": "2026-10-31T10:47:19+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T14:20:44+00:00"
+   "newest": "2026-10-31T22:58:33+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:31:20+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "South Korea exports surge 93.7% in October, fastest growth since 1974",
+   "url": "https://www.investing.com/news/economy-news/south-korea-exports-surge-937-in-october-fastest-growth-since-1974-4989360",
+   "published_utc": "2026-11-01T01:40:34+00:00",
+   "title_original": "South Korea exports surge 93.7% in October, fastest growth since 1974",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5a0c45ca5c2b2a2a"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -397,23 +414,6 @@
    "id": "c8ea0580f878d218"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "South Korea exports nearly double in October, strongest growth since 1974",
-   "url": "https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
-   "published_utc": "2026-11-01T00:42:19+00:00",
-   "title_original": "South Korea exports nearly double in October, strongest growth since 1974",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b4409b1be3495994"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ",
@@ -430,6 +430,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6bbec9016028fb77"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea exports nearly double in October, strongest growth since 1974",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46I001:0-south-korea-exports-nearly-double-in-october-strongest-growth-since-1974/",
+   "published_utc": "2026-11-01T00:32:08+00:00",
+   "title_original": "South Korea exports nearly double in October, strongest growth since 1974",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "29b6285ca43dc405"
   },
   {
    "source_id": "tradingview_live",
@@ -640,10 +657,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -653,7 +670,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -951,9 +968,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.caijingmobile.com",
+   "source_name": "www.mycaijing.com",
    "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkhsY01iRi01VXNKVXQzYXlPRUc1Z0Z2RFpsRDlkRzZVWWxRVE5GVWh4a00zbWhBZ2tQMGc2Z0RQMFZHVUh6b1hKZHExdlNlVTl6MEdkU3NUZTloNVZLMjVTYVFEMVhTQmdGWkJJekUxUE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWR6TzhabzZETmlETmdweUF1aGpQeWxhbGY5Z3d6QVJHOFUzVzVIOVV2WUNpWTNQbXV0Y1lOeFpMTlVMLThuT2V2bEdQSTc5eV9fWFdlQnlFX2VEZjhXaW01bVREZXFXTVcwag?oc=5",
    "published_utc": "2026-10-31T02:51:00+00:00",
    "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
    "region": "china",
@@ -964,7 +981,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13860c7da5fd9264"
+   "id": "e1d2a7c6f80b81e7"
   },
   {
    "source_id": "tradingview_live",
@@ -1050,6 +1067,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2632cdf9421647e1"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHQWN1ZXhGei1KTHVlQUhmZllGajc5NV9wS1RXc0VlT2F0b2ZoNWtmZFU0S3BRQ3dQU1RXNWtCNG15YUhvMzc0cFBOTjRnWm1sRGszRndmV0NhLXE5QTRXNXRjWnhxc05EU2t2bldZckdnNUVhMnVHbQ?oc=5",
+   "published_utc": "2026-10-31T01:49:17+00:00",
+   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b893c04135eed337"
   },
   {
    "source_id": "tradingview_live",
@@ -2196,7 +2230,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -2207,24 +2241,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSDlscWJqZl9tTVRqS1Q0S2x5dXBPb1NrVDVVZXBSQmQ5WGUtR3JNci1KYURKY1JFTEFhck93RWhpZ184RERMNVUyZl8wRFA5ZkdtUVg4eVVkRXFIak1jLQ?oc=5",
-   "published_utc": "2026-10-30T11:32:55+00:00",
-   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00fdb29b08fc72c"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "nhk_economy",
@@ -3052,23 +3069,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -3404,6 +3404,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -7707,7 +7724,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -51932,23 +51949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b3f53442f076c955"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "에너지경제신문",
-   "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
-   "published_utc": "2026-10-08T01:14:13+00:00",
-   "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f20de907c2a7b4c4"
   },
   {
    "source_id": "manual_ia",

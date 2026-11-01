@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T01:42:44.483295+00:00
+Última coleta: 2026-11-01T01:52:43.105394+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,11 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
   - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
   - [taiwan] Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan
   - [korea] S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales
-  - [korea] South Korea exports nearly double in October, strongest growth since 1974
   - [korea] South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ
+  - [korea] South Korea exports nearly double in October, strongest growth since 1974
   - [korea] South Korea Import Growth Below Forecasts
   - [korea] South Korea Exports Exports Hit New High in October
   - [korea] South Korea Trade Surplus Beats Estimates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Listed Iole Plans to Sell All 151.21 Bitcoin, Expects 254 Million Yen Loss
   - [japan] BOJ ETF Sales Acceleration Could Support Takaichi’s Spending Agenda
   - [china] China willing to import more German goods, Premier Li says
-  - [japan] Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T01:42:44+00:00",
+      "published_utc": "2026-11-01T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
