@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T21:52:44.761478+00:00
+Última coleta: 2026-11-01T22:02:44.463426+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
+  🇯🇵 Japão          925
   🇨🇳 China          863
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [japan] Will the real estate myth end with the Bank of Japan interest rate hike? “Aggressive cash conversion” promoted
   - [korea] South Korea is on the verge of achieving a record $1 trillion in annual exports this month thanks to..
   - [taiwan] Bulgarian presidential runoff exit poll: Acting President Jotova wins | International
   - [japan] Debate continues over the abolition of Japan Post Bank's savings interest cap
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales
   - [korea] South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ
   - [korea] (LEAD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales
-  - [korea] South Korea exports nearly double in October, strongest growth since 1974
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T21:52:45+00:00",
+      "published_utc": "2026-11-01T22:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
