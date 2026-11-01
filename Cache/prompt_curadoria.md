@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T22:52:43.195798+00:00
+Última coleta: 2026-11-01T23:02:44.881403+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          863
+  🇯🇵 Japão          925
+  🇨🇳 China          864
   🇹🇼 Taiwan         360
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
   - [japan] Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko K
   - [japan] Will the real estate myth end with the Bank of Japan interest rate hike? “Aggressive cash conversion” promoted
   - [korea] South Korea is on the verge of achieving a record $1 trillion in annual exports this month thanks to..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
   - [korea] South Korea exports nearly double in October on AI investment boom
   - [taiwan] Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan
-  - [korea] S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T22:52:43+00:00",
+      "published_utc": "2026-11-01T23:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
