@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-01T01:52:43.105394+00:00",
- "collected_at_utc": "2026-11-01T01:52:43.105394+00:00",
+ "generated_at_utc": "2026-11-01T02:02:14.342512+00:00",
+ "collected_at_utc": "2026-11-01T02:02:14.342512+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,16 +8,16 @@
  "by_region": {
   "japan": 924,
   "china": 870,
-  "taiwan": 357,
-  "korea": 849
+  "taiwan": 356,
+  "korea": 850
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "error": "",
    "newest": "2026-10-30T17:00:00+09:00"
   },
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T16:32:00+00:00"
+   "newest": "2026-10-31T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:38:44+00:00"
+   "newest": "2026-10-31T04:12:31+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T01:00:00+00:00"
+   "newest": "2026-11-01T02:00:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T01:07:44+00:00"
+   "newest": "2026-10-31T23:06:58+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T22:18:37+00:00"
+   "newest": "2026-10-31T22:00:27+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T23:20:18+00:00"
+   "newest": "2026-10-30T08:45:34+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-10-30T23:31:20+00:00"
   }
  ],
  "items": [
@@ -377,6 +377,23 @@
    "live_wire": false,
    "manual": false,
    "id": "79b28ed21fc5fb39"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "South Korea exports nearly double in October on AI investment boom",
+   "url": "https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
+   "published_utc": "2026-11-01T01:30:22+00:00",
+   "title_original": "South Korea exports nearly double in October on AI investment boom",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dbc52bf93175a34c"
   },
   {
    "source_id": "gn_tw_udn",
@@ -502,24 +519,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "[Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for interest rate hikes / Policy interest rate exceeding 2% / What is the underlying inflation rate of 2%?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0ejJHbnUtb1VOTE1JYW9HNHlhQkQ1T1RVNS02RVp2NG8zbFJjdlpVUzFaaXhhQ1hza0FXMWs3dWx5VVZ1RHZpN1FfOVk4XzVCZkZlcHVQWFhSVHJ5V2xYc2JhbHBoc0pnQXRMdExqbnJ0dk1YV1dsYWxNa1BEUXM?oc=5",
-   "published_utc": "2026-10-31T22:18:37+00:00",
-   "title_original": "【ポイント解説】日銀・植田総裁の会見読み解き＆エコノミストの利上げ予想・政策金利2％超えも・基調物価2％って何？",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a487d58558bcb999"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Large-scale easing, \"miscalculation\" and \"hardship\" 2% inflation, reached after 14 years, Bank of Japan continues on difficult path to establishment [deep exploration] (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZnFYbzJuN0Z1VHFzcGVqMXU5bEk3aWR1ejZCU1UydWhxZkxOTkx5aVNxT2pWc0ZsN3hwWHJZMXhaeFlCU0lrMzdXb2VxQXUtY2JqQWVFS3pUb3NXMzU2NjFIa3lJU1VPWENqdjdxQUU1ZjIzV1hkdXBZVTUxczQ?oc=5",
    "published_utc": "2026-10-31T22:00:27+00:00",
@@ -534,6 +533,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2943e298227c7720"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for interest rate hikes / Policy interest rate exceeding 2% / What is the underlying inflation rate of 2%?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2JhRE1aZnVXdWNKMlY3RnY0YXJtVmRhMkRtelBBMmxPNHV1WUxjS2xyUWhEV1Rlc0gyUG5vdGRBZ3VGa2x3aXdqSC1JTWI2U1hFRkpXUDA5R1E5ZGJ1ZG92b2l3VEJQeG5qN2xRaktvRTNZTGhieEMzWGtpM0lTYUNRdWVnQTlh?oc=5",
+   "published_utc": "2026-10-31T22:00:00+00:00",
+   "title_original": "【ポイント解説】日銀・植田総裁の会見読み解き＆エコノミストの利上げ予想・政策金利2％超えも・基調物価2％って何？",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbe508aa7e435c62"
   },
   {
    "source_id": "toyo_keizai",
@@ -848,9 +865,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country with fewer working people (AERA DIGITAL)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yXy1ZVHVucVNKcERNWEtiOTd4WmgxczFzZW52dVduV0NNWVpYa2F3TE0wNXNEUmFJVlNhaGcyek1Ic2tNNlkzYVZ2SUFFMmxVSkdSbTlmYkxvSDcyVWtPZkVfWUwwRUNpQlNjaDFKRnNrZVVOM2g1dF9qSUJPRFE?oc=5",
-   "published_utc": "2026-10-31T07:00:38+00:00",
-   "title_original": "2～3年後は「買い手市場」になる？ 元日銀エコノミストが予測する“働く人が減っていく国”の未来（AERA DIGITAL）",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlNCUU1NY0pNNUcxem9aMnZhUkM2eUxaaGpSaTgyYmhoMkJfdWJMNlVzUmZyajUzRUc3WWlfSVlZYUNQV1F3Q0pBalo1dmhTZ2N2elU4MExvQ2xRd3Nvb0xUdFltRkJCRURKMlFrZURVSm5fNjhTQXZfd3pFQnZXTHB5YU1vVFd6UFZjSDZR?oc=5",
+   "published_utc": "2026-10-31T07:10:34+00:00",
+   "title_original": "2～3年後は「買い手市場」になる？ 元日銀エコノミストが予測する“働く人が減っていく国”の未来 (AERA DIGITAL)",
    "region": "japan",
    "topics": [
     "monetary"
@@ -859,7 +876,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9b9fa0a12cb78b54"
+   "id": "28b7f8307b6a5cc6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -950,7 +967,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's memoir \"Solomon: Fighting Deflation\" (Real Sound)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FOTBzeExlY1JzQ2VZd3o5QzE5ZXFKblFtcGZDSFV6d1VKRkVRZV9ZUU1QTWc5NFUzc2NKeWJka3JINy13WWE0N3pqWnpQNEtlSXFwLUY3VjkwaFhoM2hwRHRuU1lZLU5kTG4zMzhwb3M5M2ZGMDRLdUZWaDdlOE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmxHYVo4c2hEVG0wMWluTlR1V2M0QUo4UWQyaURJQ0RYVUdLZ0FldnVURmpYZzRMR1JwMVhQX2t6bk5adm11RVluN3YxNmdGa0FhWjlJdkJjV1RiajJkQkpuWDl1czE0R3RycWR0anRpVE5NLXZDOUNNX2V4aXFZT0t3ZDBjX09R?oc=5",
    "published_utc": "2026-10-31T03:02:22+00:00",
    "title_original": "デフレ不況下における日銀総裁の「役割」とは何だったのか？ 黒田東彦の回顧録『独白 デフレとの闘い』を読む（リアルサウンド）",
    "region": "japan",
@@ -964,7 +981,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "855c51c37c450234"
+   "id": "ece5fa37aac42706"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1346,9 +1363,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLTFpQnFwXzFQRWVqU3pfRTRRTXYzNHZaekxyWlp3TlVDUk5JRkZsTG9KNFRPdEdIX3JneHQ2clB3N190NjA3S2xHOXFpWHVYX3V6aVE1bThWdUo2anRLZUdETTZXSl9fUWE3bVVuTVZkeUhjTkxsY0lqd0ozZlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU1iX09xSFVqZWZ6ak9xei1Uc2d5YklIZ20wekFtbGYwcTlaaGEwRU1GRmNsR0NxZGZsd25TUFp4M2gydVdQbThXa1Y5LW5TR0lZa01LX05PcURTTE1pT2V3ckNyV3d0WVNPVGt1NFZfYjlmakxCcXhzVG9Hd1dHaFkydjVWMUNrQnBhRGl3?oc=5",
    "published_utc": "2026-10-30T22:06:30+00:00",
-   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す（時事通信）",
+   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す (時事通信)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -1358,7 +1375,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7923af3a8f4e8217"
+   "id": "d1afefd4ee9c6e50"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -2856,6 +2873,26 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlJsUDNQUVV6Q2FORVpJVFpRYW9xRmJBSFN1cm9Ub2Z6ZHliZlVJV2FHRGRJM052OEFjMkhSVFVrZUF6dHBTd1ptSTdjM0tjVTdVN1lCTTlwVDF1aGQ5dElvZFVhMkpacHZocW4xYUQteFBCLWRxQ1Q4b3E4ODhrQk8yZFJYU01vSlNwTENn?oc=5",
+   "published_utc": "2026-10-30T09:53:23+00:00",
+   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2f4f41965caec86f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% price target (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3RNZEdZQkhTUl9BWXZqTkFoSUJFZ0N0NzRIRW41QzBlbjdmQ014QmVjY1hqb0pqMmJLQ012SXBWMFNqWFZnWUtnbS1Pa0ZtOVo1YjFMWGhaZnA5SGE4OEY2M3hLX3FZM1d1cDV4THZGZEM1QmcyU05YTWljWkpPcUpnS0ludHJ0UkhFTUJn?oc=5",
    "published_utc": "2026-10-30T09:53:23+00:00",
@@ -3011,26 +3048,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a548e583343dc170"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Chief Cabinet Secretary Kihara maintains “responsible and active fiscal policy”; Bank of Japan effectively reaches 2% inflation target (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM0sxeGkweGl3c2ptejNnMXFtcUZQaWk2TU5CcWRiX3hYemRkcmZtQjhtWEhMelA4dGRBamphZ0d3M0pqbHhSSDNpMFk3OGl6SmNJN2cwdEd6aXp2cmdDUENmd3NtTVg1Mlh5UjVvWFoxU1ZsMHdiWU93VGdoMUU?oc=5",
-   "published_utc": "2026-10-30T09:41:07+00:00",
-   "title_original": "木原官房長官 「責任ある積極財政」を維持 日銀が物価目標2％に事実上到達（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37a9d2a743bc3db5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -28925,23 +28942,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -28957,6 +28957,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51932,23 +51949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f2a0bd8772551a28"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan defense industry deepens global supply chain ties",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZm5FbUpTZ01sZjh3MHBRMEFDNEVOdVdPbnVTM0h6MTFDbTNiYTNmVTJtTjYzcXFsQm11UHB5NkR3VG53dHhLT2IwejVZb0RWQ0I0TTRhN1lHd0NEM2otNHR1eEZDYkdaRHh0MS1TTGRWVTFYQnZxS1NZakV2ME5PS2pUczNaQ3BHZlVRaVI3LUdIbjZHSzU2RU5EZw?oc=5",
-   "published_utc": "2026-10-08T01:20:11+00:00",
-   "title_original": "Taiwan defense industry deepens global supply chain ties",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3f53442f076c955"
   },
   {
    "source_id": "manual_ia",

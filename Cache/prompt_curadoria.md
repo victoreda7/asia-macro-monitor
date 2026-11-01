@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T01:52:43.105394+00:00
+Última coleta: 2026-11-01T02:02:14.342512+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
   🇨🇳 China          870
-  🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  849
+  🇹🇼 Taiwan         356
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
   - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
   - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
+  - [korea] South Korea exports nearly double in October on AI investment boom
   - [taiwan] Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan
   - [korea] S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales
   - [korea] South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ
@@ -26,8 +27,8 @@ Total: 3000 manchetes
   - [korea] South Korea Import Growth Below Forecasts
   - [korea] South Korea Exports Exports Hit New High in October
   - [korea] South Korea Trade Surplus Beats Estimates
-  - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
   - [japan] Large-scale easing, "miscalculation" and "hardship" 2% inflation, reached after 14 years, Bank of Japan contin
+  - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
   - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
   - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
   - [japan] Yen bond offerings hit record $16bn as AI funding race reaches Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
   - [japan] Japanese Listed Iole Plans to Sell All 151.21 Bitcoin, Expects 254 Million Yen Loss
   - [japan] BOJ ETF Sales Acceleration Could Support Takaichi’s Spending Agenda
-  - [china] China willing to import more German goods, Premier Li says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T01:52:43+00:00",
+      "published_utc": "2026-11-01T02:02:14+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
