@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T11:12:42.959529+00:00
+Última coleta: 2026-11-01T11:22:43.566145+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          860
+  🇯🇵 Japão          929
+  🇨🇳 China          861
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  853
 
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
   - [korea] [APK 2026] APK 2026 in Seoul sets stage for deeper AI, supply chain ties amid global turmoil
   - [japan] Former Liberal Democratic Party Chairman Miyazawa also supports the bill: “Given benefits rather than consumpt
+  - [china] China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties
   - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
   - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank further optimizes the short-term interest rate control mechanism
   - [japan] BOJ sees 2% inflation target generally hit, holds policy rate steady
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
-  - [china] Swiss firms plan to expand China investments as trade deal deepens ties
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T11:12:43+00:00",
+      "published_utc": "2026-11-01T11:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
