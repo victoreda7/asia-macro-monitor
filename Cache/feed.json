@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-01T23:22:43.668374+00:00",
- "collected_at_utc": "2026-11-01T23:22:43.668374+00:00",
+ "generated_at_utc": "2026-11-01T23:32:43.157488+00:00",
+ "collected_at_utc": "2026-11-01T23:32:43.157488+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
-  "china": 864,
-  "taiwan": 360,
-  "korea": 851
+  "japan": 923,
+  "china": 865,
+  "taiwan": 363,
+  "korea": 849
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T09:34:14+00:00"
+   "newest": "2026-11-01T15:09:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T23:17:00+00:00"
+   "newest": "2026-11-01T23:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T20:12:41+00:00"
+   "newest": "2026-11-01T17:11:25+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T22:31:48+00:00"
+   "newest": "2026-11-01T00:34:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-11-01T03:10:50+00:00"
   }
  ],
  "items": [
@@ -517,6 +517,23 @@
    "id": "b54621b323fba911"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnBCOXMyYjlrWFZlNFZrbjFqRmlQQlJoazhTUmhmOWdBZVRQSTFHekJKM2NBbUp1R1loU2I4bzJNa0VQY2YtbjhNc0phZzNwZjJTUlQ1MTZudnBxcndzdUtzVEpVM1Y3c1Y1aHFZb0lsdWRlbHgtY3ZSZlcwZGwwRFFEZjc0cmtnbnVqLVFRWFdyamVNRnllOU5DellDdVlGdXBJ?oc=5",
+   "published_utc": "2026-11-01T15:09:00+00:00",
+   "title_original": "The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b6b393e32deb7ed3"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "The People's Bank of China will conduct overnight reverse repurchases every working day starting from 11/2 to stabilize funds | Cross-Strait",
@@ -550,6 +567,40 @@
    "live_wire": true,
    "manual": false,
    "id": "93eace654ad8e1ab"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTVPSWpIcmszeC1VUENlYVQyV1BSZmJzTzg0U1pvbktYZE5NWmhKMFE4QWJab3o0M0Q3UWJwV2xfWFBHYXFEbTIzRDdOTWpValNCZnJkTElKQWlnelJKRlp1QlpIU2k0d2dyQ3hjcDgxWW1ycy1pcy0ybk9ISndkY1ZPSzdEb2ZKTXpDNmpqVkVqRGQzV3c?oc=5",
+   "published_utc": "2026-11-01T13:12:46+00:00",
+   "title_original": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "301a203e663fc682"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Six decades in the making: Why the world can't easily copy Taiwan's chip ecosystem",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTFQNnVZR2VxelRTMFZrOERfX0dqN0F6TmZ1dGRxb0NwR2ZNZTBSaVlUSjYxMkdjYk5PeWtJcjk2RW5HMFVlcFlKM2FHVGVrSGxnRlFLaTdUSnNxbTZpRTRIcFZrcEhFcmJYWGU2RWZQSndrZDR4M1I2eHVYQVJYemc5NjF1Q0R6aENENko2VFRUc25UNVc1cjc3V0luZw?oc=5",
+   "published_utc": "2026-11-01T13:09:11+00:00",
+   "title_original": "Six decades in the making: Why the world can't easily copy Taiwan's chip ecosystem",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5fe68e1be3824239"
   },
   {
    "source_id": "gn_tw_cna",
@@ -775,23 +826,6 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "金融界",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
-   "published_utc": "2026-11-01T05:48:27+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1300,6 +1334,23 @@
    "id": "2c31455c03b09281"
   },
   {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Drone firm raided over Chinese chips",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4OXVVaEJzWWdiNy16bUVyaXpFMFQ0VjV6VkYwUHhXVW1jWHdDQ0dnWTFYWnJ6ak1jSXpzaFhJcE5lWklVNHZTLXJHNHJNRmRzb3I2ZXh1amxxTjAyWUhkY3ZBV3MxUHVVRWpJQjlHQVJneDJWNW8yNkF3?oc=5",
+   "published_utc": "2026-10-31T16:00:00+00:00",
+   "title_original": "Drone firm raided over Chinese chips",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "84d75c415cb44861"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Japan weighs taxing real estate rental operators living overseas",
@@ -1335,10 +1386,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -1348,7 +1399,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
+   "published_utc": "2026-10-31T10:34:18+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "66191ff7890acc34"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -1438,6 +1506,23 @@
    "id": "55f69562c7176e2e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
+   "published_utc": "2026-10-31T07:33:36+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "11ab2d10475f3483"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -1453,23 +1538,6 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "每日经济新闻",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
-   "published_utc": "2026-10-31T07:22:00+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1645,7 +1713,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's memoir \"Solomon: Fighting Deflation\" (Real Sound)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FOTBzeExlY1JzQ2VZd3o5QzE5ZXFKblFtcGZDSFV6d1VKRkVRZV9ZUU1QTWc5NFUzc2NKeWJka3JINy13WWE0N3pqWnpQNEtlSXFwLUY3VjkwaFhoM2hwRHRuU1lZLU5kTG4zMzhwb3M5M2ZGMDRLdUZWaDdlOE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmxHYVo4c2hEVG0wMWluTlR1V2M0QUo4UWQyaURJQ0RYVUdLZ0FldnVURmpYZzRMR1JwMVhQX2t6bk5adm11RVluN3YxNmdGa0FhWjlJdkJjV1RiajJkQkpuWDl1czE0R3RycWR0anRpVE5NLXZDOUNNX2V4aXFZT0t3ZDBjX09R?oc=5",
    "published_utc": "2026-10-31T03:02:22+00:00",
    "title_original": "デフレ不況下における日銀総裁の「役割」とは何だったのか？ 黒田東彦の回顧録『独白 デフレとの闘い』を読む（リアルサウンド）",
    "region": "japan",
@@ -1659,7 +1727,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "855c51c37c450234"
+   "id": "ece5fa37aac42706"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2024,9 +2092,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLTFpQnFwXzFQRWVqU3pfRTRRTXYzNHZaekxyWlp3TlVDUk5JRkZsTG9KNFRPdEdIX3JneHQ2clB3N190NjA3S2xHOXFpWHVYX3V6aVE1bThWdUo2anRLZUdETTZXSl9fUWE3bVVuTVZkeUhjTkxsY0lqd0ozZlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU1iX09xSFVqZWZ6ak9xei1Uc2d5YklIZ20wekFtbGYwcTlaaGEwRU1GRmNsR0NxZGZsd25TUFp4M2gydVdQbThXa1Y5LW5TR0lZa01LX05PcURTTE1pT2V3ckNyV3d0WVNPVGt1NFZfYjlmakxCcXhzVG9Hd1dHaFkydjVWMUNrQnBhRGl3?oc=5",
    "published_utc": "2026-10-30T22:06:30+00:00",
-   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す（時事通信）",
+   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す (時事通信)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -2036,7 +2104,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7923af3a8f4e8217"
+   "id": "d1afefd4ee9c6e50"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -2908,7 +2976,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -2919,7 +2987,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3764,23 +3832,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -4116,6 +4167,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -8586,6 +8654,24 @@
    "id": "ae73d0a85a9e07fa"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
+   "published_utc": "2026-10-29T01:53:23+00:00",
+   "title_original": "央行今日开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc19cfd413de5a65"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "대한데일리",
    "title_en": "Despite the US interest rate freeze, there are signs of an increase... Bank of Korea's monetary policy burden continues",
@@ -8602,24 +8688,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f646667b10266f0d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DZ0VwdjNXTFJZLXZEcXVGZW43NzhFNEQzRzVGS2lSNUpXQkU0ZWpEa2xzMFZOWndHS1VDY05vdnRNY29Mek5JSWVPVFlIdW85UUlLUG5CSFJtekd0aEw3cmVB?oc=5",
-   "published_utc": "2026-10-29T01:28:19+00:00",
-   "title_original": "央行今日开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5240a2c8cb64eb22"
   },
   {
    "source_id": "korea_herald_biz",
@@ -29826,23 +29894,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -29858,6 +29909,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51877,75 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ebcfa27b4bcd6d7c"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sNTMwZGREc0JpcHo2a3AzUmgyemdFRTdvU1hwQ3N3V0JQcmozeGN2cU9sM3VqTUxLRGg4RVZzaEpkSnJfWWluRmF1X0NSdGI2Vm1vNXVBbC0xUQ?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "42bb2603bbe3b990"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Fast Retailing forecasts 560 bil. yen net profit for year ending next Aug.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RzJibzN3SzdCVEFGRUtnRWlUSDhEVExNU1ZKOFBJOTE4YUg1T05DQXRjZXhuMUhNRXZfaUlNd2pmODRUa1pSbW9rM0dDdE15RWVnRmlpOWs5UQ?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Fast Retailing forecasts 560 bil. yen net profit for year ending next Aug.",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "346a3f986b446e24"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04dW50UWRRQjRyMzN6RjBFemZGcUpFTl9FaVRsTEJ4SlNWVW53Y2RPeVF3dlV6ZzZTLTNWTzVNNUVxUG9XNzJWSDFxVEJubkZPQWFWdENpX2gyUQ?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8986d0726e332e84"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(2nd LD) S. Korea extends current account surplus in Aug. amid solid exports",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTU4yb2tOTC1zdGxLTElfcjlsWEFXY1lyN1FBMGs4U1lhZE90Z1BmNDdJMkl3bkpUbzhWcVhHckZWdWZscjZxcWtlYlFNQTVfcW5vMXZReFRSZw?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "(2nd LD) S. Korea extends current account surplus in Aug. amid solid exports",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43284e5f300c83cb"
   },
   {
    "source_id": "manual_ia",

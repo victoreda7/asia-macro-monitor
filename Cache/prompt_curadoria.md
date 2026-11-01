@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T23:22:43.668374+00:00
+Última coleta: 2026-11-01T23:32:43.157488+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          864
-  🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  851
+  🇯🇵 Japão          923
+  🇨🇳 China          865
+  🇹🇼 Taiwan         363
+  🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
@@ -27,8 +27,11 @@ Total: 3000 manchetes
   - [china] China's BYD Continues Massive EV Exports. It Isn't Helping. — Barrons.com
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
   - [japan] Japan Weeks Ahead: BOJ Has Cleared First Major Goal of Lifting Near 2% But Still Needs to Anchor Price Rises a
+  - [taiwan] The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost
   - [china] The People's Bank of China will conduct overnight reverse repurchases every working day starting from 11/2 to 
   - [korea] Top global stories this week: Shell, HSBC, SK Hynix among notable names
+  - [taiwan] The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu
+  - [taiwan] Six decades in the making: Why the world can't easily copy Taiwan's chip ecosystem
   - [taiwan] Benefitting from AI investment, South Korea's exports doubled in October, the largest increase in half a centu
   - [taiwan] South Korea's exports nearly doubled in October thanks to AI investment, the largest increase in half a centur
   - [china] China’s Communist Party demands loyalty, vows to tighten discipline
@@ -42,7 +45,6 @@ Total: 3000 manchetes
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
   - [china] PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets
-  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
   - [korea] [APK 2026] APK 2026 in Seoul sets stage for deeper AI, supply chain ties amid global turmoil
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
   - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
   - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
-  - [korea] South Korea exports nearly double in October on AI investment boom
-  - [taiwan] Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T23:22:43+00:00",
+      "published_utc": "2026-11-01T23:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
