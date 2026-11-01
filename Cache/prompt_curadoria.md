@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T02:52:44.153877+00:00
+Última coleta: 2026-11-01T03:02:44.999067+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          866
-  🇹🇼 Taiwan         356
+  🇨🇳 China          865
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
   - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
   - [china] China's State Council appoints, removes officials
-  - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T02:52:44+00:00",
+      "published_utc": "2026-11-01T03:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
