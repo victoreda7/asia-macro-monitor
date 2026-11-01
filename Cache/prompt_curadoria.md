@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T00:12:43.712778+00:00
+Última coleta: 2026-11-01T00:22:42.695289+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea Trade Surplus Beats Estimates
   - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
   - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
   - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The policy interest rate "changes the anchor" and the central bank will conduct overnight reverse repurchase o
   - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched e
   - [taiwan] TSIA 30: The manpower problem behind Taiwan's semiconductor resilience
-  - [korea] Despite the US freeze, the Bank of Korea 'nods down' on interest rate hike in November... Surprising growth an
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T00:12:43+00:00",
+      "published_utc": "2026-11-01T00:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
