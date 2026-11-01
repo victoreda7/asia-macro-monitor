@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-01T00:22:42.695289+00:00",
- "collected_at_utc": "2026-11-01T00:22:42.695289+00:00",
+ "generated_at_utc": "2026-11-01T00:32:43.307490+00:00",
+ "collected_at_utc": "2026-11-01T00:32:43.307490+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 925,
-  "china": 873,
+  "china": 872,
   "taiwan": 356,
-  "korea": 846
+  "korea": 847
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:04+00:00"
+   "newest": "2026-10-30T08:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-31T23:56:53+00:00"
+   "newest": "2026-11-01T00:16:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T18:56:24+00:00"
+   "newest": "2026-10-30T10:38:44+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T10:37:23+00:00"
+   "newest": "2026-10-31T10:47:19+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T00:12:00+00:00"
+   "newest": "2026-11-01T00:20:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T20:05:37+00:00"
+   "newest": "2026-10-31T17:02:38+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-10-31T13:04:31+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T23:20:18+00:00"
+   "newest": "2026-10-30T14:00:20+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:31:20+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Import Growth Below Forecasts",
+   "url": "https://www.tradingview.com/news/te_news:596993:0-south-korea-import-growth-below-forecasts/",
+   "published_utc": "2026-11-01T00:14:19+00:00",
+   "title_original": "South Korea Import Growth Below Forecasts",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3d1a33b5d2f64306"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Exports Exports Hit New High in October",
+   "url": "https://www.tradingview.com/news/te_news:596992:0-south-korea-exports-exports-hit-new-high-in-october/",
+   "published_utc": "2026-11-01T00:11:36+00:00",
+   "title_original": "South Korea Exports Exports Hit New High in October",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f08259bee1fa6bdf"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -500,10 +534,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -513,7 +547,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -811,9 +845,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.caijingmobile.com",
+   "source_name": "www.mycaijing.com",
    "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkhsY01iRi01VXNKVXQzYXlPRUc1Z0Z2RFpsRDlkRzZVWWxRVE5GVWh4a00zbWhBZ2tQMGc2Z0RQMFZHVUh6b1hKZHExdlNlVTl6MEdkU3NUZTloNVZLMjVTYVFEMVhTQmdGWkJJekUxUE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWR6TzhabzZETmlETmdweUF1aGpQeWxhbGY5Z3d6QVJHOFUzVzVIOVV2WUNpWTNQbXV0Y1lOeFpMTlVMLThuT2V2bEdQSTc5eV9fWFdlQnlFX2VEZjhXaW01bVREZXFXTVcwag?oc=5",
    "published_utc": "2026-10-31T02:51:00+00:00",
    "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
    "region": "china",
@@ -824,7 +858,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13860c7da5fd9264"
+   "id": "e1d2a7c6f80b81e7"
   },
   {
    "source_id": "tradingview_live",
@@ -2056,7 +2090,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -2067,24 +2101,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSDlscWJqZl9tTVRqS1Q0S2x5dXBPb1NrVDVVZXBSQmQ5WGUtR3JNci1KYURKY1JFTEFhck93RWhpZ184RERMNVUyZl8wRFA5ZkdtUVg4eVVkRXFIak1jLQ?oc=5",
-   "published_utc": "2026-10-30T11:32:55+00:00",
-   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00fdb29b08fc72c"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "nhk_economy",
@@ -3601,6 +3618,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9b3e406b3000f2db"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHQWN1ZXhGei1KTHVlQUhmZllGajc5NV9wS1RXc0VlT2F0b2ZoNWtmZFU0S3BRQ3dQU1RXNWtCNG15YUhvMzc0cFBOTjRnWm1sRGszRndmV0NhLXE5QTRXNXRjWnhxc05EU2t2bldZckdnNUVhMnVHbQ?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b893c04135eed337"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7550,7 +7584,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:00+00:00",
+   "published_utc": "2026-10-29T01:53:23+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -20718,6 +20752,23 @@
    "id": "79b360dff0719700"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KLTR1b3ZXS1Q5bnhCd2FTNWRWMXFoMzc3a3M2bTc3SXdEZFZRc2ZVZHZCbEpqWXVCUG5lYW4xSXNuZVNRWmZoTmNHVjNINjVqYjZPd3Q2N0ZDdw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cccc5f5129844176"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "팍스경제TV",
    "title_en": "[Issue] Bank of Korea freezes base interest rate at 3.00%... \"This freeze is the 'fruit of hoeing'\"",
@@ -21738,23 +21789,6 @@
    "live_wire": false,
    "manual": false,
    "id": "29253648dc19c904"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KLTR1b3ZXS1Q5bnhCd2FTNWRWMXFoMzc3a3M2bTc3SXdEZFZRc2ZVZHZCbEpqWXVCUG5lYW4xSXNuZVNRWmZoTmNHVjNINjVqYjZPd3Q2N0ZDdw?oc=5",
-   "published_utc": "2026-10-22T01:21:26+00:00",
-   "title_original": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cccc5f5129844176"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51916,40 +51950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fff15c5d32d0f384"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-q3-profit-jumps-nearly-9-times-to-80bn-in-ai-chip-boom",
-   "published_utc": "2026-10-08T00:22:44.311874+00:00",
-   "title_original": "Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe8c03efc39e78cf"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank launched a trillion-dollar buyout reverse repurchase, and the Dark Side of the Moon completed financing to promote the Hong Kong Stock Exchange IPO",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnRGcVZHTWRaM3pQbExWMElRanQtVE5uekhNUEpjb2V3QkdCbHhvMl8xYVdvY2Qxa0NGZ2RXaTFXSlBRYUVJTUdkNThsX3ZjU1EwLTRTTjhxazIxeFFRVGdoZ0hFVnZFZmRUWHJydWtDTnZ4RjRRQTlfcWpvdFZrSzNZYlg2N1dSNVZXcg?oc=5",
-   "published_utc": "2026-10-08T00:21:00+00:00",
-   "title_original": "央行开展万亿买断式逆回购，月之暗面完成融资推进港交所IPO",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "99ac81229b899ca2"
   },
   {
    "source_id": "manual_ia",
