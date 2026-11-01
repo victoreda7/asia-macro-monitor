@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T10:42:43.065298+00:00
+Última coleta: 2026-11-01T10:52:44.119277+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          930
   🇨🇳 China          860
-  🇹🇼 Taiwan         358
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
   - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
+  - [japan] Bank of Japan Maebashi Branch September Tankan flat rate at +15 for third consecutive period (Gunma TV)
   - [china] China’s Communist Party tightens oversight of officials
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ sees 2% inflation target generally hit, holds policy rate steady
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
-  - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T10:42:43+00:00",
+      "published_utc": "2026-11-01T10:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
