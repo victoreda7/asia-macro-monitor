@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T02:32:42.972242+00:00
+Última coleta: 2026-11-01T02:42:45.618817+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
   - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
   - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
@@ -33,7 +34,7 @@ Total: 3000 manchetes
   - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
   - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
   - [japan] Yen bond offerings hit record $16bn as AI funding race reaches Japan
-  - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
+  - [china] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
   - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
   - [japan] Japan weighs taxing real estate rental operators living overseas
   - [taiwan] Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's State Council appoints, removes officials
   - [japan] What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's 
   - [china] The central bank switches its main policy interest rate from 1.4% to 1.25%
-  - [japan] Japanese Listed Iole Plans to Sell All 151.21 Bitcoin, Expects 254 Million Yen Loss
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T02:32:43+00:00",
+      "published_utc": "2026-11-01T02:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
