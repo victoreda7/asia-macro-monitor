@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T08:12:43.199559+00:00
+Última coleta: 2026-11-01T08:22:42.794783+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
+  🇯🇵 Japão          929
   🇨🇳 China          859
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] "Samsung Electronics!" "Tesla!" "Monthly rent!"Maekyung Children's Economy Class held at COEX Magok
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
-  - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T08:12:43+00:00",
+      "published_utc": "2026-11-01T08:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
