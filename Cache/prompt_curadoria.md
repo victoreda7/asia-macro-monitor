@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T23:42:43.828596+00:00
+Última coleta: 2026-11-01T23:49:10.054632+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] That's why it has become a country that is less able to grow than South Korea...The obvious reason why Japan h
   - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
   - [japan] Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko K
   - [japan] Will the real estate myth end with the Bank of Japan interest rate hike? “Aggressive cash conversion” promoted
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
-  - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T23:42:44+00:00",
+      "published_utc": "2026-11-01T23:49:10+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
