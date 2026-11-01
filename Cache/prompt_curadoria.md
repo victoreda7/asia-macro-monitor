@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T19:02:41.644783+00:00
+Última coleta: 2026-11-01T19:12:43.564331+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [taiwan] Nuit Blanche Taipei brings night of art, performances to Yuanshan
   - [china] China's BYD extends sales growth streak on strong exports
   - [japan] Bank of Japan Maebashi Branch September Tankan flat rate at +15 for third consecutive period (Gunma TV)
+  - [japan] Bank of Japan Maebashi Branch September Tankan flat at +15 for third consecutive period (Gunma TV)
   - [china] Tomorrow, the central bank will make important adjustments! A look at next week’s major financial events
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Trade Surplus Beats Estimates
   - [japan] Large-scale monetary easing: ``miscalculations'' and ``hardships'' - 2% inflation reached after 14 years; Bank
   - [japan] Large-scale easing, "miscalculation" and "hardship" 2% inflation, reached after 14 years, Bank of Japan contin
-  - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T19:02:41+00:00",
+      "published_utc": "2026-11-01T19:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
