@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T16:42:43.055723+00:00
+Última coleta: 2026-11-01T16:52:44.213314+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Weeks Ahead: BOJ Has Cleared First Major Goal of Lifting Near 2% But Still Needs to Anchor Price Rises a
   - [china] The People's Bank of China will conduct overnight reverse repurchases every working day starting from 11/2 to 
   - [korea] Top global stories this week: Shell, HSBC, SK Hynix among notable names
   - [taiwan] Benefitting from AI investment, South Korea's exports doubled in October, the largest increase in half a centu
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Trade Surplus Beats Estimates
   - [japan] Large-scale monetary easing: ``miscalculations'' and ``hardships'' - 2% inflation reached after 14 years; Bank
   - [japan] Large-scale easing, "miscalculation" and "hardship" 2% inflation, reached after 14 years, Bank of Japan contin
-  - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T16:42:43+00:00",
+      "published_utc": "2026-11-01T16:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
