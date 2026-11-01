@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T11:42:42.406412+00:00
+Última coleta: 2026-11-01T11:52:42.868988+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
-  🇨🇳 China          862
+  🇨🇳 China          863
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  852
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Communist Party demands loyalty, vows to tighten discipline
+  - [china] China’s BYD extends sales growth streak on strong exports
   - [korea] Samsung chief Lee visits Japan chip packaging lab
-  - [china] China's BYD extends sales growth streak on strong exports
   - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Bank of Japan Maebashi Branch September Tankan flat rate at +15 for third consecutive period (Gunma TV)
   - [china] China’s Communist Party tightens oversight of officials
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
   - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
   - [japan] Japan weighs taxing real estate rental operators living overseas
-  - [taiwan] Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T11:42:42+00:00",
+      "published_utc": "2026-11-01T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
