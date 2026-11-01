@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-01T13:02:44.772567+00:00",
- "collected_at_utc": "2026-11-01T13:02:44.772567+00:00",
+ "generated_at_utc": "2026-11-01T13:12:46.050606+00:00",
+ "collected_at_utc": "2026-11-01T13:12:46.050606+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 927,
+  "japan": 926,
   "china": 863,
-  "taiwan": 359,
+  "taiwan": 360,
   "korea": 851
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:04+00:00"
+   "newest": "2026-10-30T23:34:24+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T13:01:42+00:00"
+   "newest": "2026-11-01T13:07:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T08:09:13+00:00"
+   "newest": "2026-11-01T11:10:13+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T07:28:00+00:00"
+   "newest": "2026-11-01T12:57:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Benefitting from AI investment, South Korea's exports doubled in October, the largest increase in half a century | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUWx5bUxMUklCOGN1QzVBdGdpVDE0VFp6eDVRVTl6SGZZQ2lJRmh1cWptNVk4ZDMyQ2g5Z19HeVZ4NFRfMWJoRFNQSTY5SEthYVdKYTE5QXhqMW8zRkRR?oc=5",
+   "published_utc": "2026-11-01T12:57:00+00:00",
+   "title_original": "受惠AI投資韓國10月出口額幾倍增創半世紀最大增幅| 國際",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a29ab0edc4ddf43c"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -51931,25 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "35a3be17d00e827f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan raises economic outlook for Tohoku and Shikoku, leaves unchanged for remaining 7 regions = Regional Economic Report (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8weUpLcDJQVUZCWGZ4Y3huanJCRmRrZzltWGVPRFhxdGlXbUp0QUcwMzBPa3NyOTlLX0k0TFR3aGRjRWJPTkxQYWtSVFBDQ1UxSjNpSF96bUxZUVRRQ1lDY1daNFRoODNBV0RLdEd1UUR2ZmdNSklsOVl5bWt5UzQ?oc=5",
-   "published_utc": "2026-10-08T05:23:02+00:00",
-   "title_original": "日銀、東北と四国の景気判断引き上げ 残る7地域は据え置き＝地域経済報告（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e582085aeaec20cf"
   },
   {
    "source_id": "manual_ia",
