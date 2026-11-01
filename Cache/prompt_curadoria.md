@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T03:22:43.987015+00:00
+Última coleta: 2026-11-01T03:32:42.795078+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          865
+  🇨🇳 China          864
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  852
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [taiwan] Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan
   - [korea] S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales
   - [korea] South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ
+  - [korea] (LEAD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales
   - [korea] South Korea exports nearly double in October, strongest growth since 1974
   - [korea] South Korea Import Growth Below Forecasts
   - [korea] South Korea Exports Exports Hit New High in October
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] 3 agencies identified for procuring drones said to contain Chinese-made chips
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com
   - [japan] BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans
-  - [china] China's State Council appoints, removes officials
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T03:22:44+00:00",
+      "published_utc": "2026-11-01T03:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
