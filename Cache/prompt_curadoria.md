@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T05:12:42.206013+00:00
+Última coleta: 2026-11-01T05:22:43.395712+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
+  🇯🇵 Japão          929
   🇨🇳 China          860
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  855
+  🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
 
+  - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
   - [korea] [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil
   - [japan] Former Liberal Democratic Party Chairman Miyazawa also supports the bill: “Given benefits rather than consumpt
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [japan] Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country 
-  - [korea] OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T05:12:42+00:00",
+      "published_utc": "2026-11-01T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

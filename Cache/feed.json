@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-01T05:12:42.206013+00:00",
- "collected_at_utc": "2026-11-01T05:12:42.206013+00:00",
+ "generated_at_utc": "2026-11-01T05:22:43.395712+00:00",
+ "collected_at_utc": "2026-11-01T05:22:43.395712+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
+  "japan": 929,
   "china": 860,
   "taiwan": 357,
-  "korea": 855
+  "korea": 854
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:24+00:00"
+   "newest": "2026-10-30T23:34:04+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-01T04:49:36+00:00"
+   "newest": "2026-11-01T05:20:24+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T10:37:23+00:00"
+   "newest": "2026-10-31T10:47:19+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T05:05:13+00:00"
+   "newest": "2026-11-01T05:17:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T02:07:11+00:00"
+   "newest": "2026-10-31T23:06:58+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T04:24:27+00:00"
+   "newest": "2026-11-01T04:55:24+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:06:11+00:00"
+   "newest": "2026-11-01T00:34:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:31:20+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWHMxLW1TMUZINU1pV1NNRkJSRnAyV0JFYzdUd1lKVUtqMGNBSThzWGtqeXRqN19RRWdNSGZaVGdtWVhqcTI3NHc2aU9JdWt3YWQyMXNOMWhKV0RnQ3RidWxFV1hNV2ZCRm1ldlVSb1lDVGdmcnhzN3lEYjNpeG8?oc=5",
+   "published_utc": "2026-11-01T04:55:24+00:00",
+   "title_original": "止まらない物価高 11月食料品1400品目以上値上がりへ 「物価の番人」日銀の政策運営が14年越し新局面 2％物価目標到達で課題は「インフレ抑制」【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f34a1ab7b2dc76ea"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -814,10 +832,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -827,7 +845,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -1413,6 +1431,23 @@
    "live_wire": false,
    "manual": false,
    "id": "197e3789b6f531e4"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "华龙网",
+   "title_en": "Central Bank: Conduct bidding for overnight reverse repurchase operations every working day",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GY0t5dW1PVUdJcUNaQWdlbTZzNFh2Y3dYZWNxeHZXRjNhZlJLMTlaOHZ6QmJGeEZvWHVvTVhSNldfNHhiZHlQOUFjT001Wm5SUWxPNnhQUzZ2LVFSNE5EX0xxZ3NCdkZmVWVr?oc=5",
+   "published_utc": "2026-10-30T23:00:40+00:00",
+   "title_original": "央行：每个工作日开展隔夜逆回购操作招标",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2126c4329ff7f572"
   },
   {
    "source_id": "nhk_economy",
@@ -2191,23 +2226,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "上观新闻",
-   "title_en": "Central Bank: Conduct bidding for overnight reverse repurchase operations every working day",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zS2lLbnZxVElJU0UzM01HU09VbFAyQlM2d19TYnhDOHpNTk5zdGU5aDdhS2hsbkRSTzRDNWJkZVZzY2xPLWtzMi0waFZZY0dnM2ZSOUxTSXFtZw?oc=5",
-   "published_utc": "2026-10-30T12:46:00+00:00",
-   "title_original": "央行：每个工作日开展隔夜逆回购操作招标",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "971f81e8508db65f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
    "title_en": "Big announcement from the central bank! It will officially come into effect next Monday!",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHczN0JGWnM5OThZel91UjNGMG5xVUY0cHVzNmFqa2hDTmZoOVVPeXNPTEtHVW95ejFLNG5pa0tIN0lEbTd2MVpXVWZHZS1HUFpLUFVUX2pfWjlHaGwtemRXT1JtRlVNT1BlZnB1dXRYRFVseWhwd295dFFKb3QwU2dNdlhCV291NkhJ?oc=5",
@@ -2370,7 +2388,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -2381,24 +2399,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSDlscWJqZl9tTVRqS1Q0S2x5dXBPb1NrVDVVZXBSQmQ5WGUtR3JNci1KYURKY1JFTEFhck93RWhpZ184RERMNVUyZl8wRFA5ZkdtUVg4eVVkRXFIak1jLQ?oc=5",
-   "published_utc": "2026-10-30T11:32:55+00:00",
-   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00fdb29b08fc72c"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "nhk_economy",
@@ -3226,6 +3227,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -3561,23 +3579,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -3950,6 +3951,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9b3e406b3000f2db"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHQWN1ZXhGei1KTHVlQUhmZllGajc5NV9wS1RXc0VlT2F0b2ZoNWtmZFU0S3BRQ3dQU1RXNWtCNG15YUhvMzc0cFBOTjRnWm1sRGszRndmV0NhLXE5QTRXNXRjWnhxc05EU2t2bldZckdnNUVhMnVHbQ?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b893c04135eed337"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7876,24 +7894,6 @@
    "id": "676c80b7b3ded0f9"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "网易新闻客户端",
-   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xY2xSQ3BPdHU5TzBSdFRZYzNobUFzNEUyejJYeWhndndVV0duaGJ2Xy1VdWNUeDJqNHd5cnZFdUUxS25DeFdHTHZUYXk5d2tZbG1vbXVGSXI1MmJI?oc=5",
-   "published_utc": "2026-10-29T02:06:00+00:00",
-   "title_original": "央行今日开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c0843f9467ed6637"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "IT조선",
    "title_en": "Bank of Korea: “US interest rate freeze, European and Japanese monetary policies also need to be confirmed”",
@@ -7928,6 +7928,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ae73d0a85a9e07fa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
+   "published_utc": "2026-10-29T01:53:23+00:00",
+   "title_original": "央行今日开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc19cfd413de5a65"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51933,23 +51951,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c493e57a0828bd29"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics Q3 OP tops $80bn",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52X1R0OVlnTHVZMFpsVDdNVktFVC1tbzdnOTB5QXNYcTFsenV5R3NYMWNSTXQyWk9JTVZVLXVsVWg0SVBwSUZ6QVBJLTF6THBlS3ZpTzBxbw?oc=5",
-   "published_utc": "2026-10-08T01:35:16+00:00",
-   "title_original": "Samsung Electronics Q3 OP tops $80bn",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5827fe3deb3012ed"
   },
   {
    "source_id": "manual_ia",
