@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-01T19:32:45.598099+00:00",
- "collected_at_utc": "2026-11-01T19:32:45.598099+00:00",
+ "generated_at_utc": "2026-11-01T19:42:44.532393+00:00",
+ "collected_at_utc": "2026-11-01T19:42:44.532393+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 924,
   "china": 863,
-  "taiwan": 360,
-  "korea": 853
+  "taiwan": 359,
+  "korea": 854
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:24+00:00"
+   "newest": "2026-10-30T23:34:04+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T04:29:17+09:00"
+   "newest": "2026-11-02T04:34:59+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T00:34:35+00:00"
+   "newest": "2026-10-31T22:31:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-01T20:00:00+09:00"
+   "newest": "2026-11-02T04:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T13:20:39+00:00"
+   "newest": "2026-11-01T11:29:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -346,6 +346,23 @@
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
+   "title_en": "Debate continues over the abolition of Japan Post Bank's savings interest cap",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261101de69279",
+   "published_utc": "2026-11-01T19:34:59+00:00",
+   "title_original": "ゆうちょ銀行の貯金利子上限 撤廃めぐる議論進む",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6a39160223677708"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:17+00:00",
@@ -359,7 +376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -3677,6 +3694,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -4014,23 +4048,6 @@
    "id": "b8c7b8962aa184fe"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
-  },
-  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Trump’s days of running US-China relations on personal ties are numbered",
@@ -4116,24 +4133,6 @@
    "live_wire": false,
    "manual": false,
    "id": "df49295b8e949126"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGxTVWZfYWV2Y0hEV2d3WW5CMDFIWTBHd3h1VzZGVjgtR1pFMHo1dWItc2ZSbmJOOUxqOHQ3VVNVTXR4Y1Q1MWlvVXhvWkxCMkZRbC1kVE51YTdvV2pwcWFuNnBEZjhVREtaelJGZEJPaDdCbWhyXzlvLXNNR25seFlTZ29DZllYWkhVNWYxZG01bk9OWVY1bzVzUXY1WmJzMkFmUmN4ZWplM1hsa081S1pCZXF5cmMtZGxVQlh4aTAza2MycWZUTS1rX0R1bkFJY2pqSERLZFUzb1UzenM3MVRjTmVGRldzbGx2ZXBSbjBjVmNscjdtcXE5OHlBX3ZaMGxnck5qeW5sZUpDTkItMA?oc=5",
-   "published_utc": "2026-10-30T08:21:01+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "998b4683943b14b8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -7225,6 +7224,23 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
+   "title_en": "Samsung Electronics Bets Big with 84 Trillion Won in Capital Investment",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZW5aTHc5VHB5eGpTcWRTWXMycWVQeTZUZ2FtTXVNQkJfYXhoWk9rN0x5RVRQcFNWdlFydC00NnA5Z3FCMUlpRGFCcWUxd2gwM2c4?oc=5",
+   "published_utc": "2026-10-29T08:51:25+00:00",
+   "title_original": "Samsung Electronics Bets Big with 84 Trillion Won in Capital Investment",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0d0c24fd912838db"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
    "title_en": "Samsung Electronics confirmed an unconventional shareholder return policy of 30 trillion won in cash..",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbUlSSTVzTFVUekk3T2poSUpTZGQ1Sy14RjhON3J4WGRGMnZMZVFYVWY5dE9VNkVZaW96ZUpDWmprdG4taHBfY0w1TVFKenM?oc=5",
    "published_utc": "2026-10-29T08:50:43+00:00",
@@ -7972,6 +7988,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f5a9cde50507567d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
+   "published_utc": "2026-10-29T04:07:30+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c3836b9f7c92c3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -16161,7 +16195,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
    "published_utc": "2026-10-25T23:58:00+00:00",
@@ -21725,6 +21759,23 @@
    "id": "319bd5fb3aaf4d60"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "K-beauty firms to seek export deals at Cheongju expo",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ZjZQV2VPTDZEdVBWU1YyUnRwMEFmM3h2YmRLT0tIdjE2Rk8tSkIxMElOZEhqRXpUME5rWnVkcVBodTNGRWhsMXpUVlh5ZmdxRTA2MUNTaDhjdw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "K-beauty firms to seek export deals at Cheongju expo",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "95a73a535b93ece1"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "팍스경제TV",
    "title_en": "[Issue] Bank of Korea freezes base interest rate at 3.00%... \"This freeze is the 'fruit of hoeing'\"",
@@ -22002,23 +22053,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ea187d83a2de943"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "K-beauty firms to seek export deals at Cheongju expo",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ZjZQV2VPTDZEdVBWU1YyUnRwMEFmM3h2YmRLT0tIdjE2Rk8tSkIxMElOZEhqRXpUME5rWnVkcVBodTNGRWhsMXpUVlh5ZmdxRTA2MUNTaDhjdw?oc=5",
-   "published_utc": "2026-10-22T05:46:10+00:00",
-   "title_original": "K-beauty firms to seek export deals at Cheongju expo",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "95a73a535b93ece1"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51912,40 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ca8437f0ee955450"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan bans imports of China-made fiberglass silicone sleeves",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjhWa0xHSWJIZDNkV0hhc1VYN0xfSUVmLWVrblVoYWtmYW83U0RhRFdWWHF1WGtCZkVqaXpuNjZIQnVyTzQ0bC1faFNjZnpYLWJaZFdvUm96REFWS2kteDM4S3NmS2hPTFBCZ0dtZGNERVlIWmhzWjN3RjRlRnlHaGdlbkhDX1YteDRFNENiN2Utdl9sSERoYTZJZ1dsV28?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "Taiwan bans imports of China-made fiberglass silicone sleeves",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a6b8fc3bb7eacb06"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Prudential's Japanese unit involved in 5.2 bil. yen fraud",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iSUR4ZkotcmFmS2RLemJFRHdPMVc4Vjl1WE52OXRFZWhZb2hMb25uOWtGUGxkd1IxSjlkMnBwcV9DaXVDRTBuTUh0Sy1udFdTNGJPaWNSa0NMUQ?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "Prudential's Japanese unit involved in 5.2 bil. yen fraud",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0aec8ec5361ac961"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T19:32:45.598099+00:00
+Última coleta: 2026-11-01T19:42:44.532393+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
   🇨🇳 China          863
-  🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  853
+  🇹🇼 Taiwan         359
+  🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
 
+  - [japan] Debate continues over the abolition of Japan Post Bank's savings interest cap
   - [japan] Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”
   - [china] China's BYD Continues Massive EV Exports. It Isn't Helping. — Barrons.com
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] (LEAD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales
   - [korea] South Korea exports nearly double in October, strongest growth since 1974
   - [korea] South Korea Import Growth Below Forecasts
-  - [korea] South Korea Exports Exports Hit New High in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T19:32:45+00:00",
+      "published_utc": "2026-11-01T19:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
