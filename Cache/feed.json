@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-01T19:22:42.611563+00:00",
- "collected_at_utc": "2026-11-01T19:22:42.611563+00:00",
+ "generated_at_utc": "2026-11-01T19:32:45.598099+00:00",
+ "collected_at_utc": "2026-11-01T19:32:45.598099+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 924,
-  "china": 862,
+  "china": 863,
   "taiwan": 360,
-  "korea": 854
+  "korea": 853
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:59:00+00:00"
+   "newest": "2026-11-01T14:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T04:19:29+09:00"
+   "newest": "2026-11-02T04:29:17+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-01T22:27:12+09:00"
+   "newest": "2026-11-02T04:29:17+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-01T09:37:40+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T19:17:12+00:00"
+   "newest": "2026-11-01T19:30:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T03:10:50+00:00"
+   "newest": "2026-10-29T09:56:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
+   "published_utc": "2026-11-01T19:29:17+00:00",
+   "title_original": "消費税減税法案 与党“採決に向け協議を”野党“首相出席を”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9a57168e1f757ef5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's BYD Continues Massive EV Exports. It Isn't Helping. — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101000617:0-china-s-byd-continues-massive-ev-exports-it-isn-t-helping-barrons-com/",
+   "published_utc": "2026-11-01T19:26:00+00:00",
+   "title_original": "China's BYD Continues Massive EV Exports. It Isn't Helping. — Barrons.com",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fab352ea05a2a70e"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -8413,24 +8448,6 @@
    "id": "ae73d0a85a9e07fa"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:23+00:00",
-   "title_original": "央行今日开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc19cfd413de5a65"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "대한데일리",
    "title_en": "Despite the US interest rate freeze, there are signs of an increase... Bank of Korea's monetary policy burden continues",
@@ -8447,6 +8464,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f646667b10266f0d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DZ0VwdjNXTFJZLXZEcXVGZW43NzhFNEQzRzVGS2lSNUpXQkU0ZWpEa2xzMFZOWndHS1VDY05vdnRNY29Mek5JSWVPVFlIdW85UUlLUG5CSFJtekd0aEw3cmVB?oc=5",
+   "published_utc": "2026-10-29T01:28:19+00:00",
+   "title_original": "央行今日开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5240a2c8cb64eb22"
   },
   {
    "source_id": "korea_herald_biz",
@@ -18511,24 +18546,6 @@
    "id": "350c5be58bcb4199"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNy1DMUMtTHNUMnJOY3cwczhpUlRuNTRyTWhYak9mNGY5bGtFb2ZVSUN6Vk82S1lvZEdWMVU3MGt3UVA1aHhqbkpLRGszOGJOcGUzekZ2Vm9SRDhabHFVMUxQT3V6eWFHemJ2aHZtTXRDLVljNmRvZmswSVpLRGEyc3ZjZzc0OW1fZlc1V0g2YTY?oc=5",
-   "published_utc": "2026-10-23T08:43:34+00:00",
-   "title_original": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
-   "region": "taiwan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "488d507f6c702bfd"
-  },
-  {
    "source_id": "kantei_jnews",
    "source_name": "Kantei 首相官邸",
    "title_en": "Prime Minister Takaichi held a summit meeting with President Wesley W. Simina of the Federated States of Micronesia.",
@@ -18821,6 +18838,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3ac990465bc04646"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNy1DMUMtTHNUMnJOY3cwczhpUlRuNTRyTWhYak9mNGY5bGtFb2ZVSUN6Vk82S1lvZEdWMVU3MGt3UVA1aHhqbkpLRGszOGJOcGUzekZ2Vm9SRDhabHFVMUxQT3V6eWFHemJ2aHZtTXRDLVljNmRvZmswSVpLRGEyc3ZjZzc0OW1fZlc1V0g2YTY?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "title_original": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
+   "region": "taiwan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "488d507f6c702bfd"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -29653,23 +29688,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -29685,6 +29703,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51911,40 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0aec8ec5361ac961"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY: The Yen Is Capitalising on the Euro’s Weakness",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejZXc2RjT0UxbVVwWUpLOVhsTDloNjM3MEZlZ0gyR2VOZWtWbDZFUUl2bEkzb0dOc2doZkxFSG1kcXI4T040SkRlVnFuQ3VRV2hkLXVMYkNNZXA2TURQNDRuc3d5RGVvRWZENHRKRWozZ0FNU0FhbVBndFhWb3N6ZmxlU2Rjb2xMYTJfbV9SdzJKaGswUWhpTnh5aVdWQQ?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "USD/JPY: The Yen Is Capitalising on the Euro’s Weakness",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1229d6963b98f3a2"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks down for 3rd day amid inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVHZTWlJQSVE5YWNIb3RYb2JraDQzRnB2Y0pvUFFZdVFqTWhGNmR3T0ZJemY2aW9MeE5Lc2JxbU9CX3oycnVBazcxNkdHZm5HZmVRSkxmTUdKQQ?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "Seoul stocks down for 3rd day amid inflation worries",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7b298670465a9b8"
   },
   {
    "source_id": "manual_ia",
