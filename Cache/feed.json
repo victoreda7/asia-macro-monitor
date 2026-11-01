@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-01T00:32:43.307490+00:00",
- "collected_at_utc": "2026-11-01T00:32:43.307490+00:00",
+ "generated_at_utc": "2026-11-01T00:42:44.315169+00:00",
+ "collected_at_utc": "2026-11-01T00:42:44.315169+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 925,
-  "china": 872,
+  "china": 871,
   "taiwan": 356,
-  "korea": 847
+  "korea": 848
  },
  "elapsed_s": 29.5,
  "sources": [
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T08:55:00+00:00"
+   "newest": "2026-10-30T23:34:04+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-11-01T00:00:00+09:00"
+   "newest": "2026-11-01T09:30:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T10:47:19+00:00"
+   "newest": "2026-10-31T10:37:23+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T16:00:00+00:00"
+   "newest": "2026-10-31T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T00:20:56+00:00"
+   "newest": "2026-11-01T00:35:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T17:02:38+00:00"
+   "newest": "2026-10-31T23:06:58+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T13:04:31+00:00"
+   "newest": "2026-10-29T22:06:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T14:00:20+00:00"
+   "newest": "2026-10-31T23:20:18+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20261031000955:0-south-korea-s-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-wsj/",
+   "published_utc": "2026-11-01T00:35:00+00:00",
+   "title_original": "South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6bbec9016028fb77"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea exports nearly double in October, strongest growth since 1974",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46I001:0-south-korea-exports-nearly-double-in-october-strongest-growth-since-1974/",
+   "published_utc": "2026-11-01T00:32:08+00:00",
+   "title_original": "South Korea exports nearly double in October, strongest growth since 1974",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "29b6285ca43dc405"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -534,10 +569,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -547,7 +582,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -807,23 +842,6 @@
    "id": "e83a7a916952f2a0"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China's State Council appoints, removes officials",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaS1TbnlqeS1UYm1jRFptWHZWUHVZaEI5aUJYTlZfa2xkbTRvbU1iME9ma1hNQ1Z2eVdqOF8yUDVTTTdRVlgtTHVSaGRkVWdUYV8xdnVlQ1NYQ1VTM2x5Tjhnd0xiWjRzWnhJX3lyVjRaSUkxRXpaYWZoaWk?oc=5",
-   "published_utc": "2026-10-31T03:54:17+00:00",
-   "title_original": "China's State Council appoints, removes officials",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d5bb97b0ba84044"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's memoir \"Solomon: Fighting Deflation\" (Real Sound)",
@@ -845,9 +863,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "www.mycaijing.com",
+   "source_name": "news.caijingmobile.com",
    "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWR6TzhabzZETmlETmdweUF1aGpQeWxhbGY5Z3d6QVJHOFUzVzVIOVV2WUNpWTNQbXV0Y1lOeFpMTlVMLThuT2V2bEdQSTc5eV9fWFdlQnlFX2VEZjhXaW01bVREZXFXTVcwag?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkhsY01iRi01VXNKVXQzYXlPRUc1Z0Z2RFpsRDlkRzZVWWxRVE5GVWh4a00zbWhBZ2tQMGc2Z0RQMFZHVUh6b1hKZHExdlNlVTl6MEdkU3NUZTloNVZLMjVTYVFEMVhTQmdGWkJJekUxUE0?oc=5",
    "published_utc": "2026-10-31T02:51:00+00:00",
    "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
    "region": "china",
@@ -858,7 +876,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e1d2a7c6f80b81e7"
+   "id": "13860c7da5fd9264"
   },
   {
    "source_id": "tradingview_live",
@@ -1620,6 +1638,23 @@
    "id": "2aa8da2ee31756c5"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's State Council appoints, removes officials",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGOUJ2M1p1SmRUTUJPOFo1TEl3OEs4RWtGOXMzM0FuLUNnVFBKRWtxbDhZWnA5RXBsRkdHSHdMM0hVR3MtYng4VE5VWE9hZ09sMklCaldZS2FDcDZFTjE2Q2stRjU3T3pBM2c2UUMwellEa3lPdnZSMWdvdzM?oc=5",
+   "published_utc": "2026-10-30T16:04:15+00:00",
+   "title_original": "China's State Council appoints, removes officials",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c58a5a83386ef09"
+  },
+  {
    "source_id": "gn_tw_taipeitimes",
    "source_name": "Taipei Times",
    "title_en": "Legislative Yuan stiffens penalties on drug driving",
@@ -2090,7 +2125,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -2101,7 +2136,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0502612f5f1f0dc8"
+   "id": "5d0e607e39d15dc0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSDlscWJqZl9tTVRqS1Q0S2x5dXBPb1NrVDVVZXBSQmQ5WGUtR3JNci1KYURKY1JFTEFhck93RWhpZ184RERMNVUyZl8wRFA5ZkdtUVg4eVVkRXFIak1jLQ?oc=5",
+   "published_utc": "2026-10-30T11:32:55+00:00",
+   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a00fdb29b08fc72c"
   },
   {
    "source_id": "nhk_economy",
@@ -3618,23 +3670,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9b3e406b3000f2db"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHQWN1ZXhGei1KTHVlQUhmZllGajc5NV9wS1RXc0VlT2F0b2ZoNWtmZFU0S3BRQ3dQU1RXNWtCNG15YUhvMzc0cFBOTjRnWm1sRGszRndmV0NhLXE5QTRXNXRjWnhxc05EU2t2bldZckdnNUVhMnVHbQ?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b893c04135eed337"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7427,6 +7462,23 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
+   "title_en": "Samsung Electronics has released a quarterly record of 30 trillion won in sales, operating profit, a..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jbkw3d242S2tnRnVfNnFrVU1ybkZwd3BGclJqNlJONVg3V1hPbjdwSGJGa3BQd3ozREVpemtPVmlFekl2cW9vMXZmZjgxUXM?oc=5",
+   "published_utc": "2026-10-29T02:32:58+00:00",
+   "title_original": "Samsung Electronics has released a quarterly record of 30 trillion won in sales, operating profit, a..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2fc280a4de372696"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
    "title_en": "Samsung Electronics posts $80bn in chip profit in Q3",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yTi00dUZyVFo5enIxalgzTW44Q0xBSXJmWGotS205TEhxdW1EcXhWNDhrVmR6aUZrTXQtYnozMWdJLVVKNnBHWGFLTnlQZEpjZ0NBb1VRdw?oc=5",
    "published_utc": "2026-10-29T02:27:29+00:00",
@@ -7584,7 +7636,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
-   "published_utc": "2026-10-29T01:53:23+00:00",
+   "published_utc": "2026-10-29T01:53:00+00:00",
    "title_original": "央行今日开展1150亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -12223,7 +12275,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHducWdtMnhaRmNVNzFXTFR6ZXlWcV9HM2lNRWRvbmFNZG5oV3VQMEloNE9SRTNZYjlEb3RWbHFHM1JkLXNJS1Q4RC13ZDNZWFpiNWVUVmNzTTVDWWNNUmNlMW1oLWR2YUhCd2EzTzY0SnRYT0t0S2Y2cU54OUgwbVFOMUJqNm1OX3Vieg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12aTN0VTNtZ2ppczFoUHNTZElvLU9lR202b2tJNG0zV193WUpFUzU4VVpSOVJYTGEyd3ZaT3FycDRUaGFDMzR0VjNhdzkzaWFicm9OVkJEb2gxSFhxNlhybF9aRUtLNmRrMU5zWGNfMkZYY0xXLVRMU1lKb2s?oc=5",
    "published_utc": "2026-10-27T02:47:00+00:00",
    "title_original": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
    "region": "korea",
@@ -12234,7 +12286,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c613810e986642f1"
+   "id": "e75284673e13ef74"
   },
   {
    "source_id": "gn_tw_cna",
@@ -15240,24 +15292,6 @@
    "id": "502351d29f0aed8f"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "SK hynix weighs $12.1 billion special dividend, newspaper says",
@@ -15273,6 +15307,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机新浪网",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
+   "published_utc": "2026-10-25T23:58:00+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -23500,6 +23552,23 @@
    "id": "e1797372bb8aa058"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Corporate profits, debts improve in 2025: BOK",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZ0prZlV0RzRpa0NqWnFDZnhwY1NZSTV0ZnNCMnhZTHdINFYyZ2NGLU82UUtTRUxaaGhfS1A5ajRBVTZXNDR5dlRXUnVYSE9TRk9nQjVfemdjdw?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "title_original": "Corporate profits, debts improve in 2025: BOK",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c6fc93597b1641a"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Death toll in TSMC Kaohsiung construction accident rises to 4",
@@ -24001,23 +24070,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0e755b1743aecb1c"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Corporate profits, debts improve in 2025: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZ0prZlV0RzRpa0NqWnFDZnhwY1NZSTV0ZnNCMnhZTHdINFYyZ2NGLU82UUtTRUxaaGhfS1A5ajRBVTZXNDR5dlRXUnVYSE9TRk9nQjVfemdjdw?oc=5",
-   "published_utc": "2026-10-21T03:00:11+00:00",
-   "title_original": "Corporate profits, debts improve in 2025: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c6fc93597b1641a"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -28785,23 +28837,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -28817,6 +28852,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -36383,6 +36435,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -36399,23 +36468,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51898,58 +51950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c1337f5c93422569"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul shares turn lower after opening up amid inflation worries",
-   "url": "https://www.koreaherald.com/article/10896552",
-   "published_utc": "2026-10-08T00:48:25+00:00",
-   "title_original": "Seoul shares turn lower after opening up amid inflation worries",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8f4ee034b20a7a12"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Securities Star morning news summary on October 8: The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_Securities News",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNHJpUmRQZjJhZmdZZ2xSLWdaV1BtVHdwMU9vWUQzdlVuOWJyZVh1cEFrc3F2bkRrbnVZS2tkUzUxTEltVkRoYnZrbWhfTU9JU09KUFNHak1LM3pMb1hYRzBn?oc=5",
-   "published_utc": "2026-10-08T00:41:29+00:00",
-   "title_original": "10月8日证券之星早间消息汇总：央行将开展1.2万亿元买断式逆回购操作_证券要闻",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a802757ab1439b92"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Corporate surplus funds overtake households amid chip boom",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUYXpUdG4yYk5iVEJwc1JyRy1mNFdtVkRrcVN3Q0FfQVNhYmZoeWNXUlF0SDFHODVBcE5HYVBMSDhGa0hmNVVIMnN5bFZiYkQwMzhaMA?oc=5",
-   "published_utc": "2026-10-08T00:24:32+00:00",
-   "title_original": "Corporate surplus funds overtake households amid chip boom",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fff15c5d32d0f384"
   },
   {
    "source_id": "manual_ia",
