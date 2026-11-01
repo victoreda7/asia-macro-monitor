@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T01:32:42.405903+00:00
+Última coleta: 2026-11-01T01:42:44.483295+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
   - [taiwan] Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan
   - [korea] S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales
   - [korea] South Korea exports nearly double in October, strongest growth since 1974
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [korea] South Korea Exports Exports Hit New High in October
   - [korea] South Korea Trade Surplus Beats Estimates
   - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
+  - [japan] Large-scale easing, "miscalculation" and "hardship" 2% inflation, reached after 14 years, Bank of Japan contin
   - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
   - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
   - [japan] Yen bond offerings hit record $16bn as AI funding race reaches Japan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ ETF Sales Acceleration Could Support Takaichi’s Spending Agenda
   - [china] China willing to import more German goods, Premier Li says
   - [japan] Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how
-  - [china] China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows
-  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried ou
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T01:32:42+00:00",
+      "published_utc": "2026-11-01T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
