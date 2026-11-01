@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T08:32:42.761844+00:00
+Última coleta: 2026-11-01T08:42:43.104014+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] China’s Communist Party tightens oversight of officials
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
+  - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
   - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
-  - [korea] "Samsung Electronics!" "Tesla!" "Monthly rent!"Maekyung Children's Economy Class held at COEX Magok
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T08:32:42+00:00",
+      "published_utc": "2026-11-01T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
