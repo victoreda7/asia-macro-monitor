@@ -7,22 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T12:02:43.852730+00:00
+Última coleta: 2026-11-01T12:12:44.881811+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          863
+  🇯🇵 Japão          930
+  🇨🇳 China          862
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
-  - [china] China's Communist Party demands loyalty, vows to tighten discipline
-  - [china] China’s BYD extends sales growth streak on strong exports
+  - [china] China’s Communist Party demands loyalty, vows to tighten discipline
   - [korea] Samsung chief Lee visits Japan chip packaging lab
+  - [china] China's BYD extends sales growth streak on strong exports
   - [japan] Bank of Japan Maebashi Branch September Tankan flat rate at +15 for third consecutive period (Gunma TV)
-  - [china] China’s Communist Party tightens oversight of officials
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
   - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
   - [japan] Japan weighs taxing real estate rental operators living overseas
+  - [taiwan] Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T12:02:44+00:00",
+      "published_utc": "2026-11-01T12:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
