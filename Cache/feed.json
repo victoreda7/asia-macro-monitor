@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-01T06:22:44.838816+00:00",
- "collected_at_utc": "2026-11-01T06:22:44.838816+00:00",
+ "generated_at_utc": "2026-11-01T06:32:42.313525+00:00",
+ "collected_at_utc": "2026-11-01T06:32:42.313525+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
+  "japan": 930,
   "china": 859,
   "taiwan": 358,
-  "korea": 854
+  "korea": 853
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:24+00:00"
+   "newest": "2026-10-30T23:34:04+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-01T06:00:41+00:00"
+   "newest": "2026-11-01T06:20:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T05:48:27+00:00"
+   "newest": "2026-10-31T10:47:19+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T06:19:50+00:00"
+   "newest": "2026-11-01T06:32:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T05:08:42+00:00"
+   "newest": "2026-11-01T02:07:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T02:43:00+00:00"
+   "newest": "2026-10-31T17:00:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T23:20:18+00:00"
+   "newest": "2026-10-30T14:00:20+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:56:00+00:00"
+   "newest": "2026-10-30T23:31:20+00:00"
   }
  ],
  "items": [
@@ -711,6 +711,24 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Large-scale monetary easing: ``miscalculations'' and ``hardships'' - 2% inflation reached after 14 years; Bank of Japan continues on difficult path to establishment [deep exploration] (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFnczNfNE1xZzVKRU92Rk03cGFyRTJXMXZNbmFTdmhSLTBhTTBzWm9iY0JTQ3pTR0RzUy0zZFNheWNSSzJvbVB3TWhoTk9RVGhoNVUybTVCMFNGUmVCdTlfVU9Zek5FZENSWGZYZlhpN3B4alU2cFl2Z2ZwWTh3NnotNVM0cTdEYkFhblFB?oc=5",
+   "published_utc": "2026-10-31T22:00:27+00:00",
+   "title_original": "大規模緩和、「誤算」と「苦難」 2％物価、14年かけ到達 日銀、定着へ難路続く〔深層探訪〕 (時事通信)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b82991bffac4eded"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Large-scale easing, \"miscalculation\" and \"hardship\" 2% inflation, reached after 14 years, Bank of Japan continues on difficult path to establishment [deep exploration] (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZnFYbzJuN0Z1VHFzcGVqMXU5bEk3aWR1ejZCU1UydWhxZkxOTkx5aVNxT2pWc0ZsN3hwWHJZMXhaeFlCU0lrMzdXb2VxQXUtY2JqQWVFS3pUb3NXMzU2NjFIa3lJU1VPWENqdjdxQUU1ZjIzV1hkdXBZVTUxczQ?oc=5",
    "published_utc": "2026-10-31T22:00:27+00:00",
@@ -866,10 +884,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -879,7 +897,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2422,7 +2440,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -2433,24 +2451,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSDlscWJqZl9tTVRqS1Q0S2x5dXBPb1NrVDVVZXBSQmQ5WGUtR3JNci1KYURKY1JFTEFhck93RWhpZ184RERMNVUyZl8wRFA5ZkdtUVg4eVVkRXFIak1jLQ?oc=5",
-   "published_utc": "2026-10-30T11:32:55+00:00",
-   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00fdb29b08fc72c"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "nhk_economy",
@@ -2644,6 +2645,23 @@
    "id": "f1c021c439d18328"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGllZVJ3Yy1rLUtlWUpodTFMSVREbzFMcTBOb2pnTzNmdUZTZHRSbTlVSy00S1RMUXdpZ2RkWjFzWmM3THVONUU5UU1kUDYxWjgzZ0xqc2NUTEJWdUhlc2x3VEJ5NTltSXJ0LTNCV184blh4YTFmZGNpWlpWV01aQTU1NWtVMVZISTd4SGk0aTg3OXdjRGhvTVhRdW1lejkzTUxHa19aYkhTYUxiMjg3X0VPSUpOSmlnN0lraDFpN2ZZdWc?oc=5",
+   "published_utc": "2026-10-30T11:14:48+00:00",
+   "title_original": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5c243327cfbd04bb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Memory Crunch Cements CXMT as China's Chip Champion — Update",
@@ -2799,23 +2817,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7006b88c6fc98187"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnIxanJBcWQ1dHowT2hmRjlUcmJLVWwzbDIzV3d3aXRuc21iNDhvelBOdno0MEZMcDRyV3JTZy1LQVZIRVdBYWI1cDFyN2YyNGM2NUFkMDBUejhfTjF2d2IxWkRZejRBblh1NnF2ZHdmM1pESjMyemRZSm5JanNaRmNJb0Ewd2ZSbGk2a1lDM0xiX1kzQ2FKRFp4ZGRUcVZzZVZKQV9EQXIzaGFsNDd0TzA3V1VWeHNMTkZkdkFXcjdXbWRQ?oc=5",
-   "published_utc": "2026-10-30T10:38:44+00:00",
-   "title_original": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7cb79a19bd88211b"
   },
   {
    "source_id": "tradingview_live",
@@ -3278,6 +3279,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -3613,23 +3631,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -4002,6 +4003,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9b3e406b3000f2db"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried out every working day. The current operating interest rate is 1.25%.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHQWN1ZXhGei1KTHVlQUhmZllGajc5NV9wS1RXc0VlT2F0b2ZoNWtmZFU0S3BRQ3dQU1RXNWtCNG15YUhvMzc0cFBOTjRnWm1sRGszRndmV0NhLXE5QTRXNXRjWnhxc05EU2t2bldZckdnNUVhMnVHbQ?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标，目前操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b893c04135eed337"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6220,24 +6238,6 @@
    "id": "cbdfdc7ba596cbb4"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "国际金融报",
-   "title_en": "Central Bank Shanghai Headquarters: Shanghai social financing increased by 969.3 billion yuan in the first three quarters, and the proportion of direct financing rose to 37.2%",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BaG9aTUZKSElRZzAxd014ejRfZ2VvT2NjOGJSekp2M21HQmE3RWFiajNqWl9abV9GMXlCMmhFMEhFTmg4RU1ET2NxS3U2dFdVdUI4aVlCc3VuY0haemdr?oc=5",
-   "published_utc": "2026-10-29T16:00:58+00:00",
-   "title_original": "央行上海总部：前三季度上海社融增9693亿元，直接融资占比升至37.2%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11c33182ecb0fe1a"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "source_name": "Taipei Times",
    "title_en": "US bans imports from Chinese genomics firms",
@@ -7119,6 +7119,24 @@
    "id": "289148739c49855e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "国际金融报",
+   "title_en": "Central Bank Shanghai Headquarters: Shanghai social financing increased by 969.3 billion yuan in the first three quarters, and the proportion of direct financing rose to 37.2%",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BaG9aTUZKSElRZzAxd014ejRfZ2VvT2NjOGJSekp2M21HQmE3RWFiajNqWl9abV9GMXlCMmhFMEhFTmg4RU1ET2NxS3U2dFdVdUI4aVlCc3VuY0haemdr?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "title_original": "央行上海总部：前三季度上海社融增9693亿元，直接融资占比升至37.2%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "11c33182ecb0fe1a"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "파이낸셜뉴스",
    "title_en": "The Bank of Korea's first base interest rate decision for next year will be on January 14th.",
@@ -7945,24 +7963,6 @@
    "id": "676c80b7b3ded0f9"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "网易新闻客户端",
-   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xY2xSQ3BPdHU5TzBSdFRZYzNobUFzNEUyejJYeWhndndVV0duaGJ2Xy1VdWNUeDJqNHd5cnZFdUUxS25DeFdHTHZUYXk5d2tZbG1vbXVGSXI1MmJI?oc=5",
-   "published_utc": "2026-10-29T02:06:00+00:00",
-   "title_original": "央行今日开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c0843f9467ed6637"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "IT조선",
    "title_en": "Bank of Korea: “US interest rate freeze, European and Japanese monetary policies also need to be confirmed”",
@@ -7997,6 +7997,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ae73d0a85a9e07fa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
+   "published_utc": "2026-10-29T01:53:23+00:00",
+   "title_original": "央行今日开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc19cfd413de5a65"
   },
   {
    "source_id": "gn_kr_bok",
@@ -13956,6 +13974,24 @@
    "id": "406e280cfee6dd4f"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52MG1UWGk2WEt0Rk1Yb1lRamh5SURiMDNVTURZSDM0ZFJ2ZnVHOWlXa0J4VTBYQ2loN3VTZU9vdXdKTnBLODZRUnlxMzRRUkRYNS0zMlgzNDBXSURXaHgyeDFjX0pUUldMbnU3TUNiNA?oc=5",
+   "published_utc": "2026-10-26T12:59:19+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6878177f8bb5d3b9"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Goldman Sachs has revised up its forecast for Taiwan’s GDP growth this year to 11.7% and expects to start an interest rate hike cycle in December | Sankei",
@@ -15656,24 +15692,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
-   "published_utc": "2026-10-25T23:58:00+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51933,23 +51951,6 @@
    "live_wire": false,
    "manual": false,
    "id": "91c626f4e4a580ca"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Samsung, SK hynix face investor test as buybacks wind down",
-   "url": "https://www.koreaherald.com/article/10896780",
-   "published_utc": "2026-10-08T02:11:19+00:00",
-   "title_original": "Samsung, SK hynix face investor test as buybacks wind down",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a1ee37ea5e1ac3e5"
   },
   {
    "source_id": "manual_ia",

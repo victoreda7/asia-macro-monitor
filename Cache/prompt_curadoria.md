@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T06:22:44.838816+00:00
+Última coleta: 2026-11-01T06:32:42.313525+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          930
   🇨🇳 China          859
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  854
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [korea] South Korea Import Growth Below Forecasts
   - [korea] South Korea Exports Exports Hit New High in October
   - [korea] South Korea Trade Surplus Beats Estimates
+  - [japan] Large-scale monetary easing: ``miscalculations'' and ``hardships'' - 2% inflation reached after 14 years; Bank
   - [japan] Large-scale easing, "miscalculation" and "hardship" 2% inflation, reached after 14 years, Bank of Japan contin
   - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
   - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
   - [china] The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially impleme
-  - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T06:22:45+00:00",
+      "published_utc": "2026-11-01T06:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
