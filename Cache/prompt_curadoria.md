@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T06:12:44.033996+00:00
+Última coleta: 2026-11-01T06:22:44.838816+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
+  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
   - [korea] [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [korea] Samsung hosts OpenAI’s Altman for talks on AI chips and infrastructure
   - [china] Swiss firms plan to expand China investments as trade deal deepens ties
   - [china] The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase ra
-  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [korea] "Samsung Electronics!" "Tesla!" "Monthly rent!"Maekyung Children's Economy Class held at COEX Magok
   - [taiwan] Taiex to face heavy pressure after TSMC's ADRs plunge nearly 6%: Analyst
   - [korea] Siemens CEO outlines path to bring industrial AI to smaller manufacturers
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T06:12:44+00:00",
+      "published_utc": "2026-11-01T06:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
