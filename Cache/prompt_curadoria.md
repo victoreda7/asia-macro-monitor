@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T11:52:42.868988+00:00
+Última coleta: 2026-11-01T12:02:43.852730+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -17,17 +17,16 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
   - [china] China's Communist Party demands loyalty, vows to tighten discipline
   - [china] China’s BYD extends sales growth streak on strong exports
   - [korea] Samsung chief Lee visits Japan chip packaging lab
-  - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Bank of Japan Maebashi Branch September Tankan flat rate at +15 for third consecutive period (Gunma TV)
   - [china] China’s Communist Party tightens oversight of officials
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
   - [china] PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets
-  - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
@@ -35,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Former Liberal Democratic Party Chairman Miyazawa also supports the bill: “Given benefits rather than consumpt
   - [china] China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties
   - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
+  - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
   - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T11:52:43+00:00",
+      "published_utc": "2026-11-01T12:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
