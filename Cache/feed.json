@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-01T19:52:44.877248+00:00",
- "collected_at_utc": "2026-11-01T19:52:44.877248+00:00",
+ "generated_at_utc": "2026-11-01T20:02:42.823588+00:00",
+ "collected_at_utc": "2026-11-01T20:02:42.823588+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 359,
   "korea": 854
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:59:00+00:00"
+   "newest": "2026-11-01T14:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:34:24+00:00"
+   "newest": "2026-10-30T23:34:04+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T16:00:00+00:00"
+   "newest": "2026-11-01T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T05:32:59+00:00"
+   "newest": "2026-11-01T09:42:21+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -361,8 +361,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:17+00:00",
@@ -376,7 +376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -1317,23 +1317,6 @@
    "id": "b48de6f4b738e22e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "早晨报",
-   "title_en": "The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase rate for the first time to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtdWNWQXFYMUFvVjNQQkVIRV8wa1k4a1BVa3BKdGJtS3N2WF92empQMlRQUXpjN25hd1pTWHBGZ092VldWaHJGWlYwTjJjS3FrQXBMb0NOSWxvaEVyV3FCeUJ4QV9lanRm?oc=5",
-   "published_utc": "2026-10-31T08:35:00+00:00",
-   "title_original": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "584447a72040a8ac"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "\"Samsung Electronics!\" \"Tesla!\" \"Monthly rent!\"Maekyung Children's Economy Class held at COEX Magok",
@@ -1402,6 +1385,23 @@
    "id": "397156b16c3ba6b0"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "联合早报",
+   "title_en": "The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase rate for the first time to 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaFhpNVdQZVpHWGtXRk1YOU5YUkFLLWpMTDM3RXloZEdJNW1fSkw1WHMxV05GT1hKX2hoNnByNmdVbHZlVzBISENSVW9vdm1wU3NLeWdMMG9mTGhUUWozY1RGLS1oRGppV2c?oc=5",
+   "published_utc": "2026-10-31T07:21:44+00:00",
+   "title_original": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cbc587c779af9c75"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside",
@@ -1422,9 +1422,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Will it be a “buyer’s market” in 2-3 years? A former Bank of Japan economist predicts the future of a country with fewer working people (AERA DIGITAL)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yXy1ZVHVucVNKcERNWEtiOTd4WmgxczFzZW52dVduV0NNWVpYa2F3TE0wNXNEUmFJVlNhaGcyek1Ic2tNNlkzYVZ2SUFFMmxVSkdSbTlmYkxvSDcyVWtPZkVfWUwwRUNpQlNjaDFKRnNrZVVOM2g1dF9qSUJPRFE?oc=5",
-   "published_utc": "2026-10-31T07:00:38+00:00",
-   "title_original": "2～3年後は「買い手市場」になる？ 元日銀エコノミストが予測する“働く人が減っていく国”の未来（AERA DIGITAL）",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlNCUU1NY0pNNUcxem9aMnZhUkM2eUxaaGpSaTgyYmhoMkJfdWJMNlVzUmZyajUzRUc3WWlfSVlZYUNQV1F3Q0pBalo1dmhTZ2N2elU4MExvQ2xRd3Nvb0xUdFltRkJCRURKMlFrZURVSm5fNjhTQXZfd3pFQnZXTHB5YU1vVFd6UFZjSDZR?oc=5",
+   "published_utc": "2026-10-31T07:10:34+00:00",
+   "title_original": "2～3年後は「買い手市場」になる？ 元日銀エコノミストが予測する“働く人が減っていく国”の未来 (AERA DIGITAL)",
    "region": "japan",
    "topics": [
     "monetary"
@@ -1433,7 +1433,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9b9fa0a12cb78b54"
+   "id": "28b7f8307b6a5cc6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1541,7 +1541,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's memoir \"Solomon: Fighting Deflation\" (Real Sound)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FOTBzeExlY1JzQ2VZd3o5QzE5ZXFKblFtcGZDSFV6d1VKRkVRZV9ZUU1QTWc5NFUzc2NKeWJka3JINy13WWE0N3pqWnpQNEtlSXFwLUY3VjkwaFhoM2hwRHRuU1lZLU5kTG4zMzhwb3M5M2ZGMDRLdUZWaDdlOE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmxHYVo4c2hEVG0wMWluTlR1V2M0QUo4UWQyaURJQ0RYVUdLZ0FldnVURmpYZzRMR1JwMVhQX2t6bk5adm11RVluN3YxNmdGa0FhWjlJdkJjV1RiajJkQkpuWDl1czE0R3RycWR0anRpVE5NLXZDOUNNX2V4aXFZT0t3ZDBjX09R?oc=5",
    "published_utc": "2026-10-31T03:02:22+00:00",
    "title_original": "デフレ不況下における日銀総裁の「役割」とは何だったのか？ 黒田東彦の回顧録『独白 デフレとの闘い』を読む（リアルサウンド）",
    "region": "japan",
@@ -1555,7 +1555,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "855c51c37c450234"
+   "id": "ece5fa37aac42706"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1920,9 +1920,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLTFpQnFwXzFQRWVqU3pfRTRRTXYzNHZaekxyWlp3TlVDUk5JRkZsTG9KNFRPdEdIX3JneHQ2clB3N190NjA3S2xHOXFpWHVYX3V6aVE1bThWdUo2anRLZUdETTZXSl9fUWE3bVVuTVZkeUhjTkxsY0lqd0ozZlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU1iX09xSFVqZWZ6ak9xei1Uc2d5YklIZ20wekFtbGYwcTlaaGEwRU1GRmNsR0NxZGZsd25TUFp4M2gydVdQbThXa1Y5LW5TR0lZa01LX05PcURTTE1pT2V3ckNyV3d0WVNPVGt1NFZfYjlmakxCcXhzVG9Hd1dHaFkydjVWMUNrQnBhRGl3?oc=5",
    "published_utc": "2026-10-30T22:06:30+00:00",
-   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す（時事通信）",
+   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す (時事通信)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -1932,7 +1932,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7923af3a8f4e8217"
+   "id": "d1afefd4ee9c6e50"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -4133,24 +4133,6 @@
    "live_wire": false,
    "manual": false,
    "id": "df49295b8e949126"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGxTVWZfYWV2Y0hEV2d3WW5CMDFIWTBHd3h1VzZGVjgtR1pFMHo1dWItc2ZSbmJOOUxqOHQ3VVNVTXR4Y1Q1MWlvVXhvWkxCMkZRbC1kVE51YTdvV2pwcWFuNnBEZjhVREtaelJGZEJPaDdCbWhyXzlvLXNNR25seFlTZ29DZllYWkhVNWYxZG01bk9OWVY1bzVzUXY1WmJzMkFmUmN4ZWplM1hsa081S1pCZXF5cmMtZGxVQlh4aTAza2MycWZUTS1rX0R1bkFJY2pqSERLZFUzb1UzenM3MVRjTmVGRldzbGx2ZXBSbjBjVmNscjdtcXE5OHlBX3ZaMGxnck5qeW5sZUpDTkItMA?oc=5",
-   "published_utc": "2026-10-30T08:21:01+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "998b4683943b14b8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8006,6 +7988,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f5a9cde50507567d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
+   "published_utc": "2026-10-29T04:07:30+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c3836b9f7c92c3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -14475,24 +14475,6 @@
    "id": "406e280cfee6dd4f"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52MG1UWGk2WEt0Rk1Yb1lRamh5SURiMDNVTURZSDM0ZFJ2ZnVHOWlXa0J4VTBYQ2loN3VTZU9vdXdKTnBLODZRUnlxMzRRUkRYNS0zMlgzNDBXSURXaHgyeDFjX0pUUldMbnU3TUNiNA?oc=5",
-   "published_utc": "2026-10-26T12:59:19+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6878177f8bb5d3b9"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Goldman Sachs has revised up its forecast for Taiwan’s GDP growth this year to 11.7% and expects to start an interest rate hike cycle in December | Sankei",
@@ -16210,6 +16192,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
+   "published_utc": "2026-10-25T23:58:00+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c265b130bc46aa6c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -29722,23 +29722,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -29754,6 +29737,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
