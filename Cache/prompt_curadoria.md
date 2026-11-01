@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T15:42:44.627918+00:00
+Última coleta: 2026-11-01T15:52:44.641488+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Former Liberal Democratic Party Chairman Miyazawa also supports the bill: “Given benefits rather than consumpt
   - [china] China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties
   - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
   - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Large-scale easing, "miscalculation" and "hardship" 2% inflation, reached after 14 years, Bank of Japan contin
   - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
   - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
-  - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T15:42:44+00:00",
+      "published_utc": "2026-11-01T15:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

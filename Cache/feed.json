@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-01T15:42:44.627918+00:00",
- "collected_at_utc": "2026-11-01T15:42:44.627918+00:00",
+ "generated_at_utc": "2026-11-01T15:52:44.641488+00:00",
+ "collected_at_utc": "2026-11-01T15:52:44.641488+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 360,
   "korea": 853
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T01:00:00+00:00"
+   "newest": "2026-11-01T14:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-31T10:37:23+00:00"
+   "newest": "2026-10-31T10:43:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-01T15:40:54+00:00"
+   "newest": "2026-11-01T15:51:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T11:29:13+00:00"
+   "newest": "2026-11-01T13:20:39+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:31:20+00:00"
+   "newest": "2026-11-01T03:10:50+00:00"
   }
  ],
  "items": [
@@ -705,6 +705,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9ddb99cfebd11322"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-11-01T03:10:50+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1125,10 +1143,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -1138,7 +1156,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched every working day",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MMFM2NGVULVoxSV93V2RtSlZHejBhU0dVVC1wa3E3SE80eUsyZlNneG16d0VBbEpRUWR6aDZfbDh0ZlI4RV9taVZVVHlnX1Y2eV9GZFdCZVVJZWlyUGZWZ184ZlJ4UQ?oc=5",
+   "published_utc": "2026-10-31T10:14:00+00:00",
+   "title_original": "央行：11月2日起，每个工作日开展隔夜逆回购操作招标",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d2bbb5160471352"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -1620,23 +1655,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1af209bda21e7d17"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中金在线",
-   "title_en": "Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be launched every working day",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKMW96NFNuOXJiZ3ZzX2FGa3hhMGhvOGRxQTFNRXp6NkNzQWNYXzJ2UVlKdVl3TDhnb0RsUm41Tm51eDVmaDMxZUZXT29oUlgzaGJrbldCcExBLWVCaGIyUEN0b0RKd3AyU3dXX21n?oc=5",
-   "published_utc": "2026-10-31T00:46:24+00:00",
-   "title_original": "央行：11月2日起每个工作日开展隔夜逆回购操作招标",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "59fa71931a971149"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2698,7 +2716,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -2709,7 +2727,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8325,6 +8343,24 @@
    "id": "ae73d0a85a9e07fa"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDh4NllCZ1NuS1YzUnpJN3pDSklFMmZxUW0tTE95Rm8zM3gtYVUxREJTOENsejM3bVNWVzhnbThBVjhCSlRSZGZReGV1MWJXckxqLUlLMkZCRE5PVU01dlJVRGU5VFBpMTliX3dTQ0JaZktBMXFCQjJSNGI2YzZKcW9YUmg4c1AycE5URmp5bw?oc=5",
+   "published_utc": "2026-10-29T01:53:23+00:00",
+   "title_original": "央行今日开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc19cfd413de5a65"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "대한데일리",
    "title_en": "Despite the US interest rate freeze, there are signs of an increase... Bank of Korea's monetary policy burden continues",
@@ -8341,24 +8377,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f646667b10266f0d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 115 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DZ0VwdjNXTFJZLXZEcXVGZW43NzhFNEQzRzVGS2lSNUpXQkU0ZWpEa2xzMFZOWndHS1VDY05vdnRNY29Mek5JSWVPVFlIdW85UUlLUG5CSFJtekd0aEw3cmVB?oc=5",
-   "published_utc": "2026-10-29T01:28:19+00:00",
-   "title_original": "央行今日开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5240a2c8cb64eb22"
   },
   {
    "source_id": "korea_herald_biz",
@@ -16038,7 +16056,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4aksyR3lHZUg3TEVMUHQ2QU95SDNlZkJTYXMtMGkzRTRkWVN1cUQ3Nl9nRVpHeGRvTDA2WkFoekRlY3lfZGFFX1lqcw?oc=5",
    "published_utc": "2026-10-25T23:58:00+00:00",
@@ -30804,24 +30822,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f280bdc6198f54b6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-10-18T19:50:44+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "tradingview_live",
