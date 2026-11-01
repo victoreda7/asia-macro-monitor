@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T17:12:42.821344+00:00
+Última coleta: 2026-11-01T17:22:43.856011+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -33,6 +33,7 @@ Total: 3000 manchetes
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
   - [china] PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets
+  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
   - [korea] [APK 2026] APK 2026 in Seoul sets stage for deeper AI, supply chain ties amid global turmoil
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Trade Surplus Beats Estimates
   - [japan] Large-scale monetary easing: ``miscalculations'' and ``hardships'' - 2% inflation reached after 14 years; Bank
   - [japan] Large-scale easing, "miscalculation" and "hardship" 2% inflation, reached after 14 years, Bank of Japan contin
-  - [japan] [Key points explained] Reading Bank of Japan Governor Ueda's press conference & economists' predictions for in
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T17:12:43+00:00",
+      "published_utc": "2026-11-01T17:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
