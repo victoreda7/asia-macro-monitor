@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T23:32:43.157488+00:00
+Última coleta: 2026-11-01T23:42:43.828596+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -45,6 +45,7 @@ Total: 3000 manchetes
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
   - [china] PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets
+  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
   - [korea] [APK 2026] APK 2026 in Seoul sets stage for deeper AI, supply chain ties amid global turmoil
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
   - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
   - [korea] South Korea exports surge 93.7% in October, fastest growth since 1974
-  - [japan] Policies that the government should focus on: ``Price control measures'', the most popular policy for the four
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T23:32:43+00:00",
+      "published_utc": "2026-11-01T23:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
