@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T02:02:14.342512+00:00
+Última coleta: 2026-11-01T02:02:54.478759+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          870
+  🇯🇵 Japão          923
+  🇨🇳 China          871
   🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  850
 
@@ -32,7 +32,7 @@ Total: 3000 manchetes
   - [japan] "A dream town filled with children raising children" → "A town with an aging rate of 45% in 40 years"... Proba
   - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
   - [japan] Yen bond offerings hit record $16bn as AI funding race reaches Japan
-  - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
+  - [china] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
   - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
   - [japan] Japan weighs taxing real estate rental operators living overseas
   - [taiwan] Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T02:02:14+00:00",
+      "published_utc": "2026-11-01T02:02:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
