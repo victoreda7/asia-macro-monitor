@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T14:02:43.102091+00:00
+Última coleta: 2026-11-01T14:12:43.425181+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
+  🇯🇵 Japão          925
   🇨🇳 China          863
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [korea] Top global stories this week: Shell, HSBC, SK Hynix among notable names
   - [taiwan] Benefitting from AI investment, South Korea's exports doubled in October, the largest increase in half a centu
   - [china] China’s Communist Party demands loyalty, vows to tighten discipline
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] A "town where 20,000 people can live" was built on the steep slope of a mountain at a cost of 23 billion yen..
   - [japan] Yen bond offerings hit record $16bn as AI funding race reaches Japan
   - [japan] Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions
-  - [china] Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T14:02:43+00:00",
+      "published_utc": "2026-11-01T14:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
