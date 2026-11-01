@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-01T00:52:43.300976+00:00
+Última coleta: 2026-11-01T01:02:42.851042+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
+  🇯🇵 Japão          924
   🇨🇳 China          871
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  848
+  🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales
   - [korea] South Korea exports nearly double in October, strongest growth since 1974
   - [korea] South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ
   - [korea] South Korea Import Growth Below Forecasts
@@ -54,9 +55,8 @@ Total: 3000 manchetes
   - [china] China willing to import more German goods, Premier Li says
   - [japan] Mushrooms, the savior of high prices, can be transformed into great things by changing the combination and how
   - [china] China’s October factory activity contracts at fastest pace in 3 months, PMI survey shows
+  - [china] Central Bank: Starting from November 2, bidding for overnight reverse repurchase operations will be carried ou
   - [china] China Manufacturing Unexpectedly Weakens
-  - [china] China Composite PMI Falls Back into Contraction
-  - [japan] The government should carefully judge its declaration of overcoming deflation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-01T00:52:43+00:00",
+      "published_utc": "2026-11-01T01:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
