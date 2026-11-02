@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T04:42:43.196354+00:00
+Última coleta: 2026-11-02T04:52:44.265296+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          867
+  🇯🇵 Japão          927
+  🇨🇳 China          868
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Property Sector May See Some Improvement in Next Few Months — Market Talk
+  - [japan] Japan chip earnings roundup: AI a double-edged sword
   - [taiwan] Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say
+  - [china] Offshore Yuan Rallies to Over 4-Year High
+  - [korea] South Korean Won Falls as Overseas Dollar Demand Persists
   - [korea] South Korea's Chip-Led Surplus Set to Drive Further Won Gains — Market Talk
   - [japan] Mabuchi Motor: Sales rose 14.2% as automotive orders, yen depreciation and M&A lifted results
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Oct.)
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Square eyes record W4.3tr payout from SK hynix dividends
   - [korea] South Korean shares turn higher on dip buying after strong exports
   - [china] The central bank adjusts the reverse repurchase mechanism and carries out overnight operations with an interes
-  - [china] The central bank adjusts the reverse repurchase mechanism to conduct overnight operations at an interest rate 
-  - [china] China factory output grows at fastest pace in 6 months: RatingDog PMI
-  - [taiwan] SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Und
-  - [japan] MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T04:42:43+00:00",
+      "published_utc": "2026-11-02T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
