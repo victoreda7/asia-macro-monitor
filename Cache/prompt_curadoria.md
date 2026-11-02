@@ -7,21 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T03:02:42.817374+00:00
+Última coleta: 2026-11-02T03:12:43.847574+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          868
-  🇹🇼 Taiwan         354
+  🇯🇵 Japão          928
+  🇨🇳 China          866
+  🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk
+  - [japan] Japan manufacturing PMI slows to seven-month low in October By Investing.com
+  - [taiwan] Taiwan PMI Shows Goods Producers' Supply-Chain Struggles — Market Talk
   - [china] China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK
   - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
-  - [korea] South Korea’s Lee vows to make bold AI investment in record budget push
+  - [korea] South Korea's Lee vows to make bold AI investment in record budget push
   - [china] PBoC Moves Toward Overnight Rate as Main Policy Anchor
   - [china] China Private Manufacturing Gauge Shows Steady Expansion in October — Update
+  - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
+  - [taiwan] Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity
+  - [china] China's shift to new policy rate signals easier funding conditions
   - [china] China lowers funding costs with shift to overnight policy rate
   - [korea] South Korean won, Taiwan dollar lead declines among Asian currencies
   - [korea] SK Square eyes record W4.3tr payout from SK hynix dividends
@@ -34,6 +40,7 @@ Total: 3000 manchetes
   - [china] China's Private Manufacturing Gauge Shows Steady Expansion in October
   - [china] China Manufacturing PMI Eases In September - S&P Global
   - [korea] DHL CEO sees Korea as winner in global supply chain shake-up
+  - [china] China’s 5,000-Ton Digging Machines Are a Trade War Risk to India
   - [china] CHINA PBOC CONDUCTS CNY541 BLN VIA O/N REVERSE REPO MON
   - [japan] Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% i
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7146 MON VS 6.7138
@@ -41,7 +48,6 @@ Total: 3000 manchetes
   - [china] China factory growth slows in October as export orders ease, private PMI shows
   - [japan] Japan Manufacturing Growth Confirmed at 7-Month Low
   - [japan] Bank of Japan says it's "generally consistent with 2%," and the hurdle to halting interest rate hikes has lowe
-  - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
   - [korea] South Korean Shares Rebound on Record Exports
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10
   - [japan] "The Bank of Japan has decided to maintain the status quo of monetary policy" Today's Bonds of the Cow and Bea
@@ -49,14 +55,8 @@ Total: 3000 manchetes
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation in the open market
   - [japan] JGB Yields Rise Amid Concerns About Elevated Energy Prices — Market Talk
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation
+  - [japan] Japan’s Katayama Says Ready to Take Steps for Stable FX Market
   - [korea] Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix
-  - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Nov 9
-  - [korea] Apartment transactions in Seoul plummet by 18.3% due to the Bank of Korea's base interest rate of 3.00%, seven
-  - [japan] Japan Manufacturing PMI Slips To 53.3 In October - S&P Global
-  - [japan] Attendance at Bank of Japan meeting: ``It depends on the situation at the time,'' Economy and Finance Minister
-  - [taiwan] Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM
-  - [china] Bond market early participation November 2 | The central bank's policy interest rate "change anchor" was imple
-  - [korea] Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T03:02:42+00:00",
+      "published_utc": "2026-11-02T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
