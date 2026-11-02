@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T11:42:42.936313+00:00
+Última coleta: 2026-11-02T11:52:43.097463+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
-  🇨🇳 China          864
-  🇹🇼 Taiwan         356
+  🇨🇳 China          863
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [japan] The BOJ accidentally made $440 billion in stocks
   - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
   - [china] The main policy interest rate "changes anchor", why does the overnight reverse repurchase rate bear such a hea
   - [japan] SBI Holdings Inc - To Establish Merged Company With Capital Of 100 Million Yen Equally Split Between SBI Group
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s shift to new policy rate signals easier funding conditions
   - [china] China’s soaring chemical exports threaten new trade war front
   - [korea] Kospi Snaps Two-Session Losing Streak; Chip, Energy Stocks Advance
-  - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T11:42:43+00:00",
+      "published_utc": "2026-11-02T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

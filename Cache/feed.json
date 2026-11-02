@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T11:42:42.936313+00:00",
- "collected_at_utc": "2026-11-02T11:42:42.936313+00:00",
+ "generated_at_utc": "2026-11-02T11:52:43.097463+00:00",
+ "collected_at_utc": "2026-11-02T11:52:43.097463+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 921,
-  "china": 864,
-  "taiwan": 356,
+  "china": 863,
+  "taiwan": 357,
   "korea": 859
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:10:00+00:00"
+   "newest": "2026-11-02T09:40:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T11:24:27+00:00"
+   "newest": "2026-11-02T11:49:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T11:14:01+00:00"
+   "newest": "2026-11-02T11:48:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T10:31:54+00:00"
+   "newest": "2026-11-02T11:47:54+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T20:17:00+09:00"
+   "newest": "2026-11-02T20:47:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T11:32:00+00:00"
+   "newest": "2026-11-02T11:51:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T08:14:53+00:00"
+   "newest": "2026-11-02T05:13:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:02:14+00:00"
+   "newest": "2026-11-02T06:00:52+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "The BOJ accidentally made $440 billion in stocks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46J0XU:0-the-boj-accidentally-made-440-billion-in-stocks/",
+   "published_utc": "2026-11-02T11:34:27+00:00",
+   "title_original": "The BOJ accidentally made $440 billion in stocks",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "586de8f1cb067a7d"
+  },
   {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
@@ -1258,24 +1275,6 @@
    "id": "2efc09b443cb4e3c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
-   "published_utc": "2026-11-02T05:50:39+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a39db8f143fc814c"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -1380,23 +1379,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0f3185a43fcdd967"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102000086:0-china-s-weak-property-sector-remains-key-drag-for-factory-activity-market-talk/",
-   "published_utc": "2026-11-02T05:18:00+00:00",
-   "title_original": "China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6f804cbb04692739"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1677,6 +1659,24 @@
    "id": "e02f385258175764"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
+   "published_utc": "2026-11-02T03:09:40+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b42f88d775cae7a8"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -1816,6 +1816,24 @@
    "live_wire": false,
    "manual": false,
    "id": "cdea8672f307ea0e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXZFZzS1d3ZWoxV1Iwa0ZKQUVVU2h3akpSei01Y29haFJpamZqMkFkN1F2YnZZOF9DRzBoUlJUU3RPRzlZa0cyUW8tekdUa3NWV3NYdDNSdFhLUGNxTlFjdmlrQmd4Zw?oc=5",
+   "published_utc": "2026-11-02T02:22:22+00:00",
+   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f67aeb17e7aae4f7"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1989,24 +2007,6 @@
    "live_wire": false,
    "manual": false,
    "id": "abbad051b44a12ce"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BV3RNNG1SNk5Wc1RmeTIxRE9GNlBKSFA3X2dVRDJOaFRwdGw3SHFkenRFNmg2V0ducEJUNXY1VjJiei1WWGpfXzlMMEZkSTNUSTYxZG9lNm9Rc0dMRE9ObGZoN1MwbFJ6?oc=5",
-   "published_utc": "2026-11-02T01:35:09+00:00",
-   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1946553e4f8f0b7b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2481,8 +2481,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2496,7 +2496,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -3367,6 +3367,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3ac3c6eb2a622117"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Police clear new Lisbon housing protest camp after thousands rally",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWVvNnVKTGlkcFRNcmpqWmZlaUNuVXJZU1p3bi1QRDdSbWtHQ082NmdqV3RwZlVobm50NE1JRVljYjc0WXlYdG44V2p1bFJVTTZPUUhxcXM4emlfV3pQdmFIeG9hVGZGZ09mOW05c05hTTFHYzgyWmhiUlhfc3FVNzFhWDFKXzJiRFlJZUdxQmV6SFZIb0RkSERTRklwamlkekYxZjZ5RDZMYWtyR2lRQ0J3eHQ?oc=5",
+   "published_utc": "2026-10-31T19:39:00+00:00",
+   "title_original": "Police clear new Lisbon housing protest camp after thousands rally",
+   "region": "taiwan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7fff16a1c1818ab9"
   },
   {
    "source_id": "nikkei_asia",
@@ -21294,6 +21311,23 @@
    "id": "0c1261b944685189"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
+   "published_utc": "2026-10-23T07:26:11+00:00",
+   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf037e34bb52ee2a"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -21344,23 +21378,6 @@
    "live_wire": false,
    "manual": false,
    "id": "488d507f6c702bfd"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf037e34bb52ee2a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -32176,23 +32193,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -32208,6 +32208,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51928,23 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2af39685882503d3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Japan Machine Tool Orders Surge 60.4% In September",
-   "url": "https://www.tradingview.com/news/dpa_afx:d42b200e1c3df:0-japan-machine-tool-orders-surge-60-4-in-september/",
-   "published_utc": "2026-10-09T10:04:10+00:00",
-   "title_original": "Japan Machine Tool Orders Surge 60.4% In September",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "88976a7f96e74ed3"
   },
   {
    "source_id": "manual_ia",
