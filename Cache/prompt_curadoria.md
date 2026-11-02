@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T11:52:43.097463+00:00
+Última coleta: 2026-11-02T12:02:44.251148+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          863
+  🇯🇵 Japão          920
+  🇨🇳 China          864
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [china] China's central bank launched policy tools on the 3rd to boost the stock market | Cross-Strait
   - [japan] The BOJ accidentally made $440 billion in stocks
   - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
   - [china] The main policy interest rate "changes anchor", why does the overnight reverse repurchase rate bear such a hea
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Manufacturing Activity Returns to Contraction
   - [china] China’s shift to new policy rate signals easier funding conditions
   - [china] China’s soaring chemical exports threaten new trade war front
-  - [korea] Kospi Snaps Two-Session Losing Streak; Chip, Energy Stocks Advance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T11:52:43+00:00",
+      "published_utc": "2026-11-02T12:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
