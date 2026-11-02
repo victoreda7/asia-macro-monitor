@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T10:32:54.887380+00:00
+Última coleta: 2026-11-02T10:42:46.588951+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
-  🇨🇳 China          869
+  🇨🇳 China          867
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  854
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [japan] SBI Holdings Inc - To Establish Merged Company With Capital Of 100 Million Yen Equally Split Between SBI Group
   - [korea] South Korean president plans to expand fiscal spending in 2027 budget bill, perhaps due to declining approval 
   - [china] China's central bank taps liquidity tool to aid struggling stocks
   - [japan] Still-negative Japanese real rates should continue to support USD/JPY: UBS
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] S&P Global Japan Manufacturing PMI slows to 7-month low of 53.3
   - [japan] BOJ flags progress in anchoring inflation around target
   - [korea] Finance minister discusses economic ties, cooperation with US ambassador
-  - [korea] Household loans again rise in Oct. despite tightened rules, higher rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T10:32:55+00:00",
+      "published_utc": "2026-11-02T10:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
