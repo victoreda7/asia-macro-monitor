@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T02:22:44.291399+00:00
+Última coleta: 2026-11-02T02:32:43.674573+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          866
-  🇹🇼 Taiwan         354
+  🇨🇳 China          867
+  🇹🇼 Taiwan         353
   🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
 
+  - [china] China Private Manufacturing Gauge Shows Steady Expansion in October — Update
   - [china] China lowers funding costs with shift to overnight policy rate
   - [korea] South Korean won, Taiwan dollar lead declines among Asian currencies
   - [korea] SK Square eyes record W4.3tr payout from SK hynix dividends
   - [korea] South Korean shares turn higher on dip buying after strong exports
+  - [china] The central bank adjusts the reverse repurchase mechanism and carries out overnight operations with an interes
   - [china] The central bank adjusts the reverse repurchase mechanism to conduct overnight operations at an interest rate 
+  - [china] China factory output grows at fastest pace in 6 months: RatingDog PMI
   - [taiwan] SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Und
   - [japan] MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook
   - [china] China's Private Manufacturing Gauge Shows Steady Expansion in October
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks
   - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
   - [korea] South Korea Manufacturing Growth Slows to 8-Month Low
-  - [japan] Japan’s October factory growth slows as costs pick up, PMI shows By Reuters
-  - [japan] Japan finance minister: government remains ready to take action against disorderly FX moves
-  - [taiwan] Taiwan Manufacturing Maintains Momentum
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T02:22:44+00:00",
+      "published_utc": "2026-11-02T02:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

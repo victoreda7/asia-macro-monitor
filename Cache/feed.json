@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T02:22:44.291399+00:00",
- "collected_at_utc": "2026-11-02T02:22:44.291399+00:00",
+ "generated_at_utc": "2026-11-02T02:32:43.674573+00:00",
+ "collected_at_utc": "2026-11-02T02:32:43.674573+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 926,
-  "china": 866,
-  "taiwan": 354,
+  "china": 867,
+  "taiwan": 353,
   "korea": 854
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:00:00+00:00"
+   "newest": "2026-10-30T10:59:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T01:54:20+00:00"
+   "newest": "2026-11-02T02:18:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-11-01T09:30:00+09:00"
+   "newest": "2026-11-02T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:16:00+00:00"
+   "newest": "2026-11-02T02:22:22+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T02:21:27+00:00"
+   "newest": "2026-11-02T02:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T00:34:35+00:00"
+   "newest": "2026-10-31T22:31:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:39:40+00:00"
+   "newest": "2026-11-02T00:41:50+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Private Manufacturing Gauge Shows Steady Expansion in October — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101001361:0-china-private-manufacturing-gauge-shows-steady-expansion-in-october-update/",
+   "published_utc": "2026-11-02T02:25:00+00:00",
+   "title_original": "China Private Manufacturing Gauge Shows Steady Expansion in October — Update",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "10646f93a59e52ba"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -413,6 +430,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank adjusts the reverse repurchase mechanism and carries out overnight operations with an interest rate of 1.25% every working day.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uaUQ1V3Ftd2xDTWVJZTRzNHo3dHd5ZS1CMlhaYmVmY3JwZWZCNmNIdTJ3NmYwOE1rQmtsQ3FhZlIwUUN5MExFc0VaZ0RvZw?oc=5",
+   "published_utc": "2026-11-02T02:16:34+00:00",
+   "title_original": "央行调整逆回购机制 每个工作日开展隔夜操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "66f900581ae9d054"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The central bank adjusts the reverse repurchase mechanism to conduct overnight operations at an interest rate of 1.25% every working day_Company News_Finance",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pN0poRTMteEpNaE9LeFRpNXpBcDlFaHhxRmFaU2V3NElwRV9zMmpqR3IxM282Mnh6TmtVUkNkM084RkRFUFRISVRMR3pKTGhCZ3YwN0t4c0dIZ2ZvMlVFRg?oc=5",
@@ -427,6 +461,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9c37f3aadf253bbf"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China factory output grows at fastest pace in 6 months: RatingDog PMI",
+   "url": "https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808",
+   "published_utc": "2026-11-02T02:15:59+00:00",
+   "title_original": "China factory output grows at fastest pace in 6 months: RatingDog PMI",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cd72eeff981e89e7"
   },
   {
    "source_id": "tradingview_live",
@@ -1129,7 +1181,7 @@
    "source_name": "Yahoo!ニュース",
    "title_en": "That's why it has become a country that is less able to grow than South Korea...The obvious reason why Japan has become a \"cheap and convenient tourist destination\"",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12SmdvNzZPWjVVdFNqMVRRVkV6ZWZrZTczVGV2U19sa1ZVbGhuSXhsWERGcFp2cTUzU0h1MFJpQVc0aDA0bE10MkxpNXNpak8zZUtxTi0wTDVaNm1JM0p0YUp3YnVoZlJuX3lvd0V0eUpnTEJXQ1NTNlBkSl83cWc?oc=5",
-   "published_utc": "2026-11-01T23:18:02+00:00",
+   "published_utc": "2026-11-01T23:15:39+00:00",
    "title_original": "だから韓国より成長できない国になった…日本が｢物価が安くて便利な観光地｣に成り下がった明らかな理由",
    "region": "korea",
    "topics": [
@@ -1229,8 +1281,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -1244,7 +1296,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -2891,9 +2943,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU1iX09xSFVqZWZ6ak9xei1Uc2d5YklIZ20wekFtbGYwcTlaaGEwRU1GRmNsR0NxZGZsd25TUFp4M2gydVdQbThXa1Y5LW5TR0lZa01LX05PcURTTE1pT2V3ckNyV3d0WVNPVGt1NFZfYjlmakxCcXhzVG9Hd1dHaFkydjVWMUNrQnBhRGl3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLTFpQnFwXzFQRWVqU3pfRTRRTXYzNHZaekxyWlp3TlVDUk5JRkZsTG9KNFRPdEdIX3JneHQ2clB3N190NjA3S2xHOXFpWHVYX3V6aVE1bThWdUo2anRLZUdETTZXSl9fUWE3bVVuTVZkeUhjTkxsY0lqd0ozZlE?oc=5",
    "published_utc": "2026-10-30T22:06:30+00:00",
-   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す (時事通信)",
+   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す（時事通信）",
    "region": "japan",
    "topics": [
     "monetary",
@@ -2903,7 +2955,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d1afefd4ee9c6e50"
+   "id": "7923af3a8f4e8217"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -30727,23 +30779,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -30759,6 +30794,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51889,58 +51941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b82e497452b844ed"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "BayStreet",
-   "title_en": "Taiwan Semiconductor’s Sales Surged In September",
-   "url": "https://www.tradingview.com/news/baystreet:4ad8a13f4094b:0-taiwan-semiconductor-s-sales-surged-in-september/",
-   "published_utc": "2026-10-08T13:48:00+00:00",
-   "title_original": "Taiwan Semiconductor’s Sales Surged In September",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b4733aab0dfff48a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "The central bank carries out 1.2 trillion yuan of buyout reverse repurchase to achieve net investment",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1za3RhRVoxdXB3VzdaR1hwZmpnQ3lsWjZjNldKMUtITEFLOGcxaTNmOG9GRkRWME9aVXZVVXZESy1YeFk5eEQ2WDBjSGRBZU9iMGE0VjZzcWg?oc=5",
-   "published_utc": "2026-10-08T13:37:11+00:00",
-   "title_original": "央行开展1.2万亿元买断式逆回购实现净投放",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b544ce8e6bcc8ccb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45U0HT:0/",
-   "published_utc": "2026-10-08T13:18:17+00:00",
-   "title_original": "China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "da73ed250fbe955b"
   },
   {
    "source_id": "manual_ia",
