@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T01:42:44.131172+00:00",
- "collected_at_utc": "2026-11-02T01:42:44.131172+00:00",
+ "generated_at_utc": "2026-11-02T01:52:46.029221+00:00",
+ "collected_at_utc": "2026-11-02T01:52:46.029221+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 924,
-  "china": 866,
-  "taiwan": 360,
+  "japan": 926,
+  "china": 863,
+  "taiwan": 361,
   "korea": 850
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:00:00+00:00"
+   "newest": "2026-10-30T10:59:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T15:09:00+00:00"
+   "newest": "2026-11-02T00:52:45+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T01:06:35+00:00"
+   "newest": "2026-11-02T01:30:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T11:39:44+00:00"
+   "newest": "2026-11-01T23:24:55+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T01:40:47+00:00"
+   "newest": "2026-11-02T01:51:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:29:05+00:00"
+   "newest": "2026-11-02T01:44:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T22:31:48+00:00"
+   "newest": "2026-11-01T00:34:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China factory growth slows in October as export orders ease, private PMI shows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZUN00FN9X:0-china-factory-growth-slows-in-october-as-export-orders-ease-private-pmi-shows/",
+   "published_utc": "2026-11-02T01:45:25+00:00",
+   "title_original": "China factory growth slows in October as export orders ease, private PMI shows",
+   "region": "china",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a8d7d5e1aa6cce6b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan says it's \"generally consistent with 2%,\" and the hurdle to halting interest rate hikes has lowered (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOMktPcmtXS01ZQjIwZjRUbE9jTy15R3p5Ulc1aHMtYnJfN3FLVTVHUjFHdXk5V1FWbGRPYnpadml1aENScVd0TW9JRmVZSkFkQVlaOXo4RTBpRWNPXzY0X1JMWkxhVm15RVBVOVQ5Q1F6VUdoQktkd2lMUUdpbkE?oc=5",
+   "published_utc": "2026-11-02T01:44:14+00:00",
+   "title_original": "日銀「2％と概ね整合的」で、むしろ利上げ停止のハードルは低下か（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "abbad051b44a12ce"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
    "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
@@ -363,6 +398,23 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Shares Rebound on Record Exports",
+   "url": "https://www.tradingview.com/news/te_news:597063:0-south-korean-shares-rebound-on-record-exports/",
+   "published_utc": "2026-11-02T01:30:17+00:00",
+   "title_original": "South Korean Shares Rebound on Record Exports",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7a94e31ca86da167"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10",
    "url": "https://www.tradingview.com/news/DJN_DN20261101001252:0-japan-mof-to-auction-y600-0b-of-30-year-govt-bonds-nov-10/",
@@ -377,6 +429,42 @@
    "live_wire": true,
    "manual": false,
    "id": "23b3d2248efacd9b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "\"The Bank of Japan has decided to maintain the status quo of monetary policy\" Today's Bonds of the Cow and Bear (Column) November 2, 2026 (Hiroyuki Kubota) - Expert",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDZXa3RScTVHSFhzY1ZzN2hFcTBaeERZclVJTzdXTEtNYjM5TVdvNGFNYjBFeTZHNFFobGpZRlB2Q3Q2SkpyQjUyRnh1UkljMVF1dUI4M3g5TnpibjRUUy1vV2lGMnB3a2Jrdm9LdU5RZWQtX3d4VF81N3ZEeUdzcm05LUVsTUN6?oc=5",
+   "published_utc": "2026-11-02T01:29:43+00:00",
+   "title_original": "「日銀は金融政策の現状維持を決定」牛さん熊さんの本日の債券（コラム）2026年11月2日（久保田博幸） - エキスパート",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3b36db7b02345129"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 541 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14dDBPUnZWNDhDVXRVVGU5cE9VNzhpVk40akZxVmExVVY1YThXOHFBVHZqeG5zTTVleDlCVEhnbU5iYzhZQUNIMERNQmR6RHh0RkdXZkFFQXlOZlNoZU9tNA?oc=5",
+   "published_utc": "2026-11-02T01:26:26+00:00",
+   "title_original": "央行今日开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3903b130846475e0"
   },
   {
    "source_id": "tradingview_live",
@@ -518,6 +606,23 @@
    "live_wire": true,
    "manual": false,
    "id": "5f43af82030a0e36"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
+   "published_utc": "2026-11-02T00:52:45+00:00",
+   "title_original": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a437fa771a089dc5"
   },
   {
    "source_id": "tradingview_live",
@@ -730,7 +835,7 @@
    "source_name": "Yahoo!ニュース",
    "title_en": "Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko Kuroda still remembers the \"phone call from Prime Minister Abe\"",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSlZvV3R3LU14WHFrQjBQSGlVT0t0ZTlRY2ZvRm1iSkhxUHpSdnpNSTA0SmNObUdELVkzLUpGb0tGMmJFNE03WnZ0V0FrX3V3eFFROVBPSG9qZ0hicVlCaTlGSHhhZllpb1d1SkZ3eTA1ODFuQXVHY3EwQVNlcnM?oc=5",
-   "published_utc": "2026-11-01T22:14:58+00:00",
+   "published_utc": "2026-11-01T22:12:16+00:00",
    "title_original": "「一度はためらった」という日銀総裁の座を、なぜ引き受けたのか…黒田東彦氏が今でも忘れない、“安倍首相からの電話”",
    "region": "japan",
    "topics": [
@@ -5418,7 +5523,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
-   "url": "https://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
    "region": "japan",
@@ -5429,13 +5534,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "6ed9431d88486f82"
+   "id": "66841377209934e7"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Statement on Monetary Policy",
-   "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "Statement on Monetary Policy",
    "region": "japan",
@@ -5447,7 +5552,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "01b59b1b648e65fc"
+   "id": "af462cf2146976fa"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5536,6 +5641,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a941ed56b16ef68e"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Sandisk sees 60–90GB of NAND per CPU in AI agent workloads",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVVadzc2ektmWDB3d29oTTBNYWZHeGItVVQ3bE9Bd3BTZ2dsdmdVd2RQWlZ4SXNDczFWTnRSNEpVUFpwazZjU2Z2eVFfNTlpUm5GVzcwZ3pzdkNLRWxyN0Z4OFMydVNGUHgyTmtmNXFKSFpkY05TT0pseG9xWmJ6WUZxQW1IbGNZ?oc=5",
+   "published_utc": "2026-10-30T03:49:44+00:00",
+   "title_original": "Sandisk sees 60–90GB of NAND per CPU in AI agent workloads",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b569e17fae122ee0"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -5900,7 +6022,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(Reference) Outlook Report and Indicators Related to Underlying Inflation",
-   "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030b.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030b.pdf",
    "published_utc": "2026-10-30T03:02:00+00:00",
    "title_original": "(Reference) Outlook Report and Indicators Related to Underlying Inflation",
    "region": "japan",
@@ -5911,7 +6033,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "02e54c57b842c9e2"
+   "id": "09cbbbd799120a88"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -13388,7 +13510,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Indicators for Core CPI",
-   "url": "https://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
    "published_utc": "2026-10-27T05:00:00+00:00",
    "title_original": "Indicators for Core CPI",
    "region": "japan",
@@ -13399,7 +13521,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9774b75f82219d2f"
+   "id": "549870a4319d8a4a"
   },
   {
    "source_id": "gn_jp_investing",
@@ -14343,7 +14465,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Services Producer Price Index (Sept.)",
-   "url": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
    "published_utc": "2026-10-26T23:50:00+00:00",
    "title_original": "Services Producer Price Index (Sept.)",
    "region": "japan",
@@ -14354,7 +14476,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f13b34f5cf17e8c3"
+   "id": "ba849d5af773718a"
   },
   {
    "source_id": "investing_live",
@@ -22025,7 +22147,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
    "published_utc": "2026-10-22T08:00:00+00:00",
    "title_original": "Japanese Government Bonds Held by the Bank of Japan",
    "region": "japan",
@@ -22036,7 +22158,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "29c1a23370b716a3"
+   "id": "be5e3fa3018b8dab"
   },
   {
    "source_id": "gn_kr_bok",
@@ -22230,7 +22352,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Developments in Real Exports and Real Imports",
-   "url": "https://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
    "published_utc": "2026-10-22T07:00:00+00:00",
    "title_original": "Developments in Real Exports and Real Imports",
    "region": "japan",
@@ -22241,7 +22363,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ef504da8e8250954"
+   "id": "660ca9ffa7c57e97"
   },
   {
    "source_id": "gn_jp_investing",
@@ -23406,7 +23528,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 20)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
    "published_utc": "2026-10-22T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 20)",
    "region": "japan",
@@ -23417,7 +23539,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "0d4eb0513f284069"
+   "id": "ec0f42a760b9874d"
   },
   {
    "source_id": "investing_econ",
@@ -30294,23 +30416,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -30326,6 +30431,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -34701,7 +34823,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "BOJ Current Account Balances by Sector (Sept.)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
    "published_utc": "2026-10-16T08:00:00+00:00",
    "title_original": "BOJ Current Account Balances by Sector (Sept.)",
    "region": "japan",
@@ -34713,7 +34835,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "dfe5350a6c9655a8"
+   "id": "4fa0bf559afdc7a1"
   },
   {
    "source_id": "tradingview_live",
@@ -39256,7 +39378,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of the \"Meeting on Market Operations\" (October 2026)",
-   "url": "https://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+   "url": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
    "published_utc": "2026-10-15T01:00:00+00:00",
    "title_original": "Summary of the \"Meeting on Market Operations\" (October 2026)",
    "region": "japan",
@@ -39267,7 +39389,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e435c44f6fa50d1b"
+   "id": "d082cbec90b9340a"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -40708,7 +40830,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-   "url": "https://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+   "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
    "published_utc": "2026-10-14T11:00:00+00:00",
    "title_original": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
    "region": "china",
@@ -40719,7 +40841,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "45b4eb71a85f25ba"
+   "id": "2661a76747634fcc"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -42610,7 +42732,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 10)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
    "published_utc": "2026-10-14T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 10)",
    "region": "japan",
@@ -42621,7 +42743,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c471ba9735663553"
+   "id": "16486515c4222e51"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -45278,7 +45400,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Corporate Goods Price Index (Sept.)",
-   "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
    "published_utc": "2026-10-12T23:50:00+00:00",
    "title_original": "Corporate Goods Price Index (Sept.)",
    "region": "japan",
@@ -45289,7 +45411,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "deff6dae29de0790"
+   "id": "a6981feb23bc2f0f"
   },
   {
    "source_id": "tradingview_live",
@@ -51819,133 +51941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f1019df11799217e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China PBOC: Yuan Undervaluation Claims Are Misconceived",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003073_20261008003115:0-china-pboc-yuan-undervaluation-claims-are-misconceived/",
-   "published_utc": "2026-10-08T10:23:00+00:00",
-   "title_original": "China PBOC: Yuan Undervaluation Claims Are Misconceived",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5b2327faa302a363"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The biggest reason why Samsung Electronics recorded an all-time record of KRW 100 trillion in the qu..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WR01IRmtxcEpqU01XS0xYOTdkQTlyajhjVlRaZGcwbExvQ2s5dy03TDVWOTY1Qjc1VWlveThUTUZGR2Z5QkdXUUJVVHlWU3MyeXc?oc=5",
-   "published_utc": "2026-10-08T10:22:51+00:00",
-   "title_original": "The biggest reason why Samsung Electronics recorded an all-time record of KRW 100 trillion in the qu..",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a3766a2349fbf33c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China PBOC Says It Doesn't See Yuan as Undervalued",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003073_20261008003113:0-china-pboc-says-it-doesn-t-see-yuan-as-undervalued/",
-   "published_utc": "2026-10-08T10:22:00+00:00",
-   "title_original": "China PBOC Says It Doesn't See Yuan as Undervalued",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "73697e0b8f6cc07d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China PBOC Says It Never Engaged in Competitive Devaluation to Boost Exports",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003073_20261008003084:0-china-pboc-says-it-never-engaged-in-competitive-devaluation-to-boost-exports/",
-   "published_utc": "2026-10-08T10:20:00+00:00",
-   "title_original": "China PBOC Says It Never Engaged in Competitive Devaluation to Boost Exports",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cf007c5a2a70765d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "People's Bank of China Says It Doesn't Need to Devalue Yuan to Gain Trade Advantage",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003073_20261008003073:0-people-s-bank-of-china-says-it-doesn-t-need-to-devalue-yuan-to-gain-trade-advantage/",
-   "published_utc": "2026-10-08T10:19:00+00:00",
-   "title_original": "People's Bank of China Says It Doesn't Need to Devalue Yuan to Gain Trade Advantage",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8d6a31b9cee52088"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China PBOC: Yuan Devaluation Didn't Accelerate Export Share Growth",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003073_20261008003078:0-china-pboc-yuan-devaluation-didn-t-accelerate-export-share-growth/",
-   "published_utc": "2026-10-08T10:19:00+00:00",
-   "title_original": "China PBOC: Yuan Devaluation Didn't Accelerate Export Share Growth",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d264f2a75140f31f"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Taiwan September exports hit fresh monthly record on AI demand, US leads",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDFCd3libXM0czVhLWZseXRPRE4wdUpiakdvR0JET2ZzbVYxd0RKbUkxVXRxTVlhenduVXEyM1VTa2lZYlVLdkhsNUp1TURUVDRjMUtDejVfcDd5dnZVRDM4QjJSWmZxT194Znh2LTFuc1dOOXhjNDJOM3RqUVhvSHM1dTh6dFFrLU9RQ1VVZHU0eTZadmNWWVBPeWhicTJPT2FhMTljUlRCWEEza0VIVFJvdFhNREU2XzNXcnVWV0w?oc=5",
-   "published_utc": "2026-10-08T09:30:57+00:00",
-   "title_original": "Taiwan September exports hit fresh monthly record on AI demand, US leads",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cd21238fa3fd333f"
   },
   {
    "source_id": "manual_ia",

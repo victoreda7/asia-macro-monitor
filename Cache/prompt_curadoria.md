@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T01:42:44.131172+00:00
+Última coleta: 2026-11-02T01:52:46.029221+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          866
-  🇹🇼 Taiwan         360
+  🇯🇵 Japão          926
+  🇨🇳 China          863
+  🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [china] China factory growth slows in October as export orders ease, private PMI shows
+  - [japan] Bank of Japan says it's "generally consistent with 2%," and the hurdle to halting interest rate hikes has lowe
   - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
+  - [korea] South Korean Shares Rebound on Record Exports
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10
+  - [japan] "The Bank of Japan has decided to maintain the status quo of monetary policy" Today's Bonds of the Cow and Bea
+  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation today
   - [japan] JGB Yields Rise Amid Concerns About Elevated Energy Prices — Market Talk
   - [korea] Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix
   - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Nov 9
@@ -27,6 +32,7 @@ Total: 3000 manchetes
   - [china] Bond market early participation November 2 | The central bank's policy interest rate "change anchor" was imple
   - [korea] Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears
   - [korea] SK Hynix trapped in cloud resistance bear flag: Live levels
+  - [taiwan] Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls
   - [korea] Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks
   - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
   - [korea] South Korea Manufacturing Growth Slows to 8-Month Low
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [taiwan] The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost
   - [china] The People's Bank of China will conduct overnight reverse repurchases every working day starting from 11/2 to 
   - [korea] Top global stories this week: Shell, HSBC, SK Hynix among notable names
-  - [taiwan] The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu
-  - [taiwan] Six decades in the making: Why the world can't easily copy Taiwan's chip ecosystem
-  - [taiwan] Benefitting from AI investment, South Korea's exports doubled in October, the largest increase in half a centu
-  - [taiwan] South Korea's exports nearly doubled in October thanks to AI investment, the largest increase in half a centur
-  - [china] China’s Communist Party demands loyalty, vows to tighten discipline
-  - [korea] Samsung chief Lee visits Japan chip packaging lab
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T01:42:44+00:00",
+      "published_utc": "2026-11-02T01:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
