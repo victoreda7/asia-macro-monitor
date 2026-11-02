@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T02:02:45.070591+00:00
+Última coleta: 2026-11-02T02:12:44.476046+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,8 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook
+  - [china] China's Private Manufacturing Gauge Shows Steady Expansion in October
+  - [china] China Manufacturing PMI Eases In September - S&P Global
+  - [korea] DHL CEO sees Korea as winner in global supply chain shake-up
   - [china] CHINA PBOC CONDUCTS CNY541 BLN VIA O/N REVERSE REPO MON
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7146 MON VS 6.7138
+  - [china] China Manufacturing PMI Beats Estimates
   - [china] China factory growth slows in October as export orders ease, private PMI shows
   - [japan] Japan Manufacturing Growth Confirmed at 7-Month Low
   - [japan] Bank of Japan says it's "generally consistent with 2%," and the hurdle to halting interest rate hikes has lowe
@@ -33,6 +38,7 @@ Total: 3000 manchetes
   - [korea] Apartment transactions in Seoul plummet by 18.3% due to the Bank of Korea's base interest rate of 3.00%, seven
   - [japan] Japan Manufacturing PMI Slips To 53.3 In October - S&P Global
   - [japan] Attendance at Bank of Japan meeting: ``It depends on the situation at the time,'' Economy and Finance Minister
+  - [taiwan] Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM
   - [china] Bond market early participation November 2 | The central bank's policy interest rate "change anchor" was imple
   - [korea] Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears
   - [korea] SK Hynix trapped in cloud resistance bear flag: Live levels
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] That's why it has become a country that is less able to grow than South Korea...The obvious reason why Japan h
   - [japan] Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko K
   - [japan] Will the real estate myth end with the Bank of Japan interest rate hike? “Aggressive cash conversion” promoted
-  - [korea] South Korea is on the verge of achieving a record $1 trillion in annual exports this month thanks to..
-  - [taiwan] Bulgarian presidential runoff exit poll: Acting President Jotova wins | International
-  - [japan] Debate continues over the abolition of Japan Post Bank's savings interest cap
-  - [japan] Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”
-  - [china] China's BYD Continues Massive EV Exports. It Isn't Helping. — Barrons.com
-  - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T02:02:45+00:00",
+      "published_utc": "2026-11-02T02:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

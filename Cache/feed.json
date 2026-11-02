@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-02T02:02:45.070591+00:00",
- "collected_at_utc": "2026-11-02T02:02:45.070591+00:00",
+ "generated_at_utc": "2026-11-02T02:12:44.476046+00:00",
+ "collected_at_utc": "2026-11-02T02:12:44.476046+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 361,
   "korea": 851
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:16:00+00:00"
+   "newest": "2026-11-02T01:35:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T15:09:00+00:00"
+   "newest": "2026-11-02T01:43:57+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-01T20:21:25+08:00"
+   "newest": "2026-11-02T09:13:44+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T01:30:24+00:00"
+   "newest": "2026-11-02T01:54:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T00:43:00+00:00"
+   "newest": "2026-11-02T01:54:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:47:23+00:00"
+   "newest": "2026-11-01T11:06:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T01:58:14+00:00"
+   "newest": "2026-11-02T02:02:07+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:08:34+00:00"
+   "newest": "2026-11-02T01:35:09+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T02:01:01+00:00"
+   "newest": "2026-11-02T02:09:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,75 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook",
+   "url": "https://www.tradingview.com/news/stocktwits:451b6c030094b:0-mu-sndk-dram-inch-higher-overnight-after-mixed-week-japan-s-kioxia-plunges-after-cautious-memory-outlook/",
+   "published_utc": "2026-11-02T02:09:08+00:00",
+   "title_original": "MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d3880b3610e069f7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Private Manufacturing Gauge Shows Steady Expansion in October",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101001265:0-china-s-private-manufacturing-gauge-shows-steady-expansion-in-october/",
+   "published_utc": "2026-11-02T02:08:00+00:00",
+   "title_original": "China's Private Manufacturing Gauge Shows Steady Expansion in October",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3bf435e6f3ed272d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China Manufacturing PMI Eases In September - S&P Global",
+   "url": "https://www.tradingview.com/news/dpa_afx:b004a0f34d5c9:0-china-manufacturing-pmi-eases-in-september-s-p-global/",
+   "published_utc": "2026-11-02T02:07:50+00:00",
+   "title_original": "China Manufacturing PMI Eases In September - S&P Global",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dbe72e6095628c07"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "DHL CEO sees Korea as winner in global supply chain shake-up",
+   "url": "https://www.koreaherald.com/article/10922522",
+   "published_utc": "2026-11-02T02:02:07+00:00",
+   "title_original": "DHL CEO sees Korea as winner in global supply chain shake-up",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce685d5e33d5950d"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA PBOC CONDUCTS CNY541 BLN VIA O/N REVERSE REPO MON",
    "url": "https://www.tradingview.com/news/dpa_afx:1dcdbf183afd5:0-china-pboc-conducts-cny541-bln-via-o-n-reverse-repo-mon/",
@@ -379,10 +448,28 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_name": "Trading Economics",
+   "title_en": "China Manufacturing PMI Beats Estimates",
+   "url": "https://www.tradingview.com/news/te_news:597072:0-china-manufacturing-pmi-beats-estimates/",
+   "published_utc": "2026-11-02T01:54:31+00:00",
+   "title_original": "China Manufacturing PMI Beats Estimates",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4a5af93d372c80d3"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "China factory growth slows in October as export orders ease, private PMI shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZUN00FN9X:0-china-factory-growth-slows-in-october-as-export-orders-ease-private-pmi-shows/",
-   "published_utc": "2026-11-02T01:45:25+00:00",
+   "url": "https://www.investing.com/news/economy-news/china-factory-growth-slows-in-october-as-export-orders-ease-private-pmi-shows-4989800",
+   "published_utc": "2026-11-02T01:54:20+00:00",
    "title_original": "China factory growth slows in October as export orders ease, private PMI shows",
    "region": "china",
    "topics": [
@@ -391,9 +478,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "a8d7d5e1aa6cce6b"
+   "id": "cc1111ecb2be3e6a"
   },
   {
    "source_id": "tradingview_live",
@@ -623,6 +710,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2572a7dbff781161"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUlmMHh5bFNZMFlfQW0zdTZKeTl2QXZha3U3OFItV2pXb3dpN2xaMm10OHlvQm1KcEQ2YUpJdzMtdkdVbGtIMWtlWUFxS2tfcnFqcTRueEllY05nWjdUc1BDaEVMT2RlWE1mek5hZ2tGc002TG1hRFZPemhOZEJqUXlZN1d5NEI3RlBaZ2NnQ2RKZnFKTFlwWTNjZGRIaXBCWlE?oc=5",
+   "published_utc": "2026-11-02T01:11:14+00:00",
+   "title_original": "Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7eef0c7f5efcd8cd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -987,8 +1091,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -1002,7 +1106,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -2649,9 +2753,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLTFpQnFwXzFQRWVqU3pfRTRRTXYzNHZaekxyWlp3TlVDUk5JRkZsTG9KNFRPdEdIX3JneHQ2clB3N190NjA3S2xHOXFpWHVYX3V6aVE1bThWdUo2anRLZUdETTZXSl9fUWE3bVVuTVZkeUhjTkxsY0lqd0ozZlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU1iX09xSFVqZWZ6ak9xei1Uc2d5YklIZ20wekFtbGYwcTlaaGEwRU1GRmNsR0NxZGZsd25TUFp4M2gydVdQbThXa1Y5LW5TR0lZa01LX05PcURTTE1pT2V3ckNyV3d0WVNPVGt1NFZfYjlmakxCcXhzVG9Hd1dHaFkydjVWMUNrQnBhRGl3?oc=5",
    "published_utc": "2026-10-30T22:06:30+00:00",
-   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す（時事通信）",
+   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す (時事通信)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -2661,7 +2765,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7923af3a8f4e8217"
+   "id": "d1afefd4ee9c6e50"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -4406,23 +4510,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -4760,6 +4847,23 @@
    "id": "b8c7b8962aa184fe"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
+  },
+  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Trump’s days of running US-China relations on personal ties are numbered",
@@ -4845,24 +4949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "df49295b8e949126"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGxTVWZfYWV2Y0hEV2d3WW5CMDFIWTBHd3h1VzZGVjgtR1pFMHo1dWItc2ZSbmJOOUxqOHQ3VVNVTXR4Y1Q1MWlvVXhvWkxCMkZRbC1kVE51YTdvV2pwcWFuNnBEZjhVREtaelJGZEJPaDdCbWhyXzlvLXNNR25seFlTZ29DZllYWkhVNWYxZG01bk9OWVY1bzVzUXY1WmJzMkFmUmN4ZWplM1hsa081S1pCZXF5cmMtZGxVQlh4aTAza2MycWZUTS1rX0R1bkFJY2pqSERLZFUzb1UzenM3MVRjTmVGRldzbGx2ZXBSbjBjVmNscjdtcXE5OHlBX3ZaMGxnck5qeW5sZUpDTkItMA?oc=5",
-   "published_utc": "2026-10-30T08:21:01+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "998b4683943b14b8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8769,6 +8855,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f5a9cde50507567d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
+   "published_utc": "2026-10-29T04:07:30+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c3836b9f7c92c3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51835,111 +51939,6 @@
    "live_wire": true,
    "manual": false,
    "id": "693bc22443b0c6ac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45U13J:0-new-silkroad-says-unit-to-buy-2-67-stake-in-i-aurora-for-krw-1-999-99-million/",
-   "published_utc": "2026-10-08T12:07:50+00:00",
-   "title_original": "New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a760e8fb484ef113"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China has no need or intention to weaken yuan for trade edge, central bank says",
-   "url": "https://www.investing.com/news/economy-news/china-has-no-need-or-intention-to-weakenyuan-for-trade-edge-central-bank-says-4938641",
-   "published_utc": "2026-10-08T11:36:24+00:00",
-   "title_original": "China has no need or intention to weaken yuan for trade edge, central bank says",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3addcd9c6e025283"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China defends yuan policy as Europe steps up pressure over trade surplus",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMndSd19fTHdFQ01xZEp2Vzh5Zlg2M0g3YjhNTFNlZ3M5eUphc3RzNTAxcTh6LXlKSWpVTDI4dl9OR1VTM1pDZVhLa2dGbEZGMEdIVDNnT1hyRjh5WWRVN0xNcjRKVGdyclhndEF5cEo3V3p5aE9PTkdQWktTN1M2S1hRRFRnZ1F0NmYwWEJrUDBEcUZXYXE1ZFpfVEI4aWZqNnpkYTNJQ1FpZ2NpQ2tJR2c0eGFkeTRkenFpZTZYRmI4R292?oc=5",
-   "published_utc": "2026-10-08T11:32:00+00:00",
-   "title_original": "China defends yuan policy as Europe steps up pressure over trade surplus",
-   "region": "china",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e3c010d1d8e7639"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Taiwan Trade Surplus Grows In September",
-   "url": "https://www.tradingview.com/news/dpa_afx:5d2e2d1fa5691:0-taiwan-trade-surplus-grows-in-september/",
-   "published_utc": "2026-10-08T11:26:03+00:00",
-   "title_original": "Taiwan Trade Surplus Grows In September",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1e10db458510526f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Central Bank Rejects Claims Yuan Is Undervalued",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003828:0-china-s-central-bank-rejects-claims-yuan-is-undervalued/",
-   "published_utc": "2026-10-08T11:25:00+00:00",
-   "title_original": "China's Central Bank Rejects Claims Yuan Is Undervalued",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "112be30ede358378"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Bank of Japan’s regional economic report “AI-related demand expands and production increases in many regions”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56554",
-   "published_utc": "2026-10-08T11:01:11+00:00",
-   "title_original": "日銀の地域経済報告“AI関連需要拡大 多くの地域で生産増加”",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "56cf74e5343a5570"
   },
   {
    "source_id": "manual_ia",
