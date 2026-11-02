@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T23:02:44.714498+00:00",
- "collected_at_utc": "2026-11-02T23:02:44.714498+00:00",
+ "generated_at_utc": "2026-11-02T23:12:44.758388+00:00",
+ "collected_at_utc": "2026-11-02T23:12:44.758388+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 922,
-  "china": 855,
+  "china": 853,
   "taiwan": 361,
-  "korea": 862
+  "korea": 864
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T22:45:46+00:00"
+   "newest": "2026-11-02T23:05:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T12:20:32+00:00"
+   "newest": "2026-11-02T18:44:39+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T13:22:21+00:00"
+   "newest": "2026-11-02T06:27:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:25:00+00:00"
+   "newest": "2026-11-02T12:37:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T22:16:52+00:00"
+   "newest": "2026-11-02T23:11:13+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:38:05+00:00"
+   "newest": "2026-11-02T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T23:02:00+00:00"
+   "newest": "2026-11-02T23:11:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T17:16:06+00:00"
+   "newest": "2026-11-02T20:17:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea Inflation Eases to 2.8% in October, Still Above Target",
+   "url": "https://www.tradingview.com/news/DJN_DN20261102012156:0-south-korea-inflation-eases-to-2-8-in-october-still-above-target/",
+   "published_utc": "2026-11-02T23:06:00+00:00",
+   "title_original": "South Korea Inflation Eases to 2.8% in October, Still Above Target",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3c98d695a9cde7c6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -656,7 +673,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -668,7 +685,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "59da3ca61ab4cc5e"
+   "id": "00ad06c1ef60465a"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1548,23 +1565,6 @@
    "id": "9d5ce2c2df6b8876"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "PBoC shifts primary policy anchor to overnight rate with daily 1.25% reverse repos",
-   "url": "https://www.tradingview.com/news/seekingalpha:2cb74c462094b:0-pboc-shifts-primary-policy-anchor-to-overnight-rate-with-daily-1-25-reverse-repos/",
-   "published_utc": "2026-11-02T06:11:24+00:00",
-   "title_original": "PBoC shifts primary policy anchor to overnight rate with daily 1.25% reverse repos",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a4ff537f3a5a51d3"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "证券市场周刊",
    "title_en": "The central bank’s interest rate regulation is facing major changes, and the asset pricing coordinates need to be recalibrated",
@@ -1637,6 +1637,24 @@
    "live_wire": false,
    "manual": false,
    "id": "520822cfa00b843b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1985,24 +2003,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2759,7 +2759,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko Kuroda still remembers the \"phone call from Prime Minister Abe\"",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSlZvV3R3LU14WHFrQjBQSGlVT0t0ZTlRY2ZvRm1iSkhxUHpSdnpNSTA0SmNObUdELVkzLUpGb0tGMmJFNE03WnZ0V0FrX3V3eFFROVBPSG9qZ0hicVlCaTlGSHhhZllpb1d1SkZ3eTA1ODFuQXVHY3EwQVNlcnM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlNPVW1DQ0VZU3B4VXNkU01aZW1TNjlXendqRGwwejdRU0RqU2h0WElFUXZZTUQtakI2OHR2YnFycnlnaUZQSmVNMDFIQ1VGTGRNU3hhSE9rTGkxNkJjc1puclYxUEg0ZWFaeThyaU12T0lsZ3lCTFB6NHRrR0RjWmtEblJ0bmZEZ3ZhUzR3?oc=5",
    "published_utc": "2026-11-01T22:12:16+00:00",
    "title_original": "「一度はためらった」という日銀総裁の座を、なぜ引き受けたのか…黒田東彦氏が今でも忘れない、“安倍首相からの電話”",
    "region": "japan",
@@ -2771,7 +2771,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "961b0893057276ba"
+   "id": "7ff5f906f8e8f8e2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3221,6 +3221,23 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3834,10 +3851,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -3847,24 +3864,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -6314,6 +6314,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -6649,23 +6666,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -10414,6 +10414,24 @@
    "live_wire": false,
    "manual": false,
    "id": "fffe022a4ea0fd55"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "파이낸셜뉴스",
+   "title_en": "Amid ‘excessive demand and high prices’, will the Bank of Korea bring out the ‘hoe’ in November?",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EeEtYejZOcUx6eE1mY0tiMGZxZWE3b25iTEJoUWgzeGc0czNVSzhxVlFtVVhob09qUmpsaUVUMnNJVlItbG4yT2lwWFVFYVlzaE9weVYtTlU2dw?oc=5",
+   "published_utc": "2026-10-29T06:45:05+00:00",
+   "title_original": "'과수요·고물가' 속 한은, 11월에 '호미' 꺼내나",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cbb1686322d49fd3"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51927,23 +51945,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1c50b90d97edab16"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWdhT0d5aHhjU3BBeE1QMjNOOTdkdmFPQUFMSUJPcXdnUExmOFVFT3lic2xDYWZrU3pjdkV0UzRHbTlHNzRDSmFhUXBZWm8xNzExWVJzOEo3THJmd1dOdFZaYmdiR214M2Vrc19XSGZ1V2pzMjBWVEJlZmtFNi1WdEp6RlJCb1I2WTV6ZnBYYVdUWVVRdU5qekpydHgtbW9UZ3pIei1VR05Jc09pRDVpYTk4c3hwekVqeV9NNlFEcFRVRWN2Tnlv?oc=5",
-   "published_utc": "2026-10-09T14:22:00+00:00",
-   "title_original": "Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "31b8c3e955e96072"
   },
   {
    "source_id": "manual_ia",
