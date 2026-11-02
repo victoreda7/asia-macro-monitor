@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T21:52:44.785829+00:00
+Última coleta: 2026-11-02T22:02:48.112436+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          856
+  🇯🇵 Japão          920
+  🇨🇳 China          857
   🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [china] MKS Commences Expansion of Guangzhou, China Equipment Manufacturing Facility
   - [japan] This wasn't supposed to happen 13 years and 9 months later, the Bank of Japan reaches its 2% inflation target,
   - [japan] Netanyahu's ruling party falls short of the majority in Israel's general election, and although Arab parties m
   - [japan] The great yen rebalancing
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Central Bank to Conduct Swap Facility Operations With Financial Institutions on Tuesday
   - [china] People's Bank of China: Swap Term Is One Year, Can Be Extended
   - [japan] Yen Falls After Japan Katayama's Intervention Warning
-  - [china] China's central bank taps liquidity tool to fund share purchases
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T21:52:45+00:00",
+      "published_utc": "2026-11-02T22:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

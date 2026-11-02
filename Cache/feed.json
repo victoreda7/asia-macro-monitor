@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T21:52:44.785829+00:00",
- "collected_at_utc": "2026-11-02T21:52:44.785829+00:00",
+ "generated_at_utc": "2026-11-02T22:02:48.112436+00:00",
+ "collected_at_utc": "2026-11-02T22:02:48.112436+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
-  "china": 856,
+  "japan": 920,
+  "china": 857,
   "taiwan": 361,
   "korea": 862
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:25:00+00:00"
+   "newest": "2026-11-02T12:37:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T21:52:00+00:00"
+   "newest": "2026-11-02T22:02:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:02:14+00:00"
+   "newest": "2026-11-02T06:00:52+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-03T06:30:00+09:00"
+   "newest": "2026-11-03T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GlobeNewswire",
+   "title_en": "MKS Commences Expansion of Guangzhou, China Equipment Manufacturing Facility",
+   "url": "https://www.tradingview.com/news/globenewswire:efdfb165e094b:0-mks-commences-expansion-of-guangzhou-china-equipment-manufacturing-facility/",
+   "published_utc": "2026-11-02T22:00:00+00:00",
+   "title_original": "MKS Commences Expansion of Guangzhou, China Equipment Manufacturing Facility",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "53a72d69cdde3ca5"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1546,23 +1563,6 @@
    "live_wire": false,
    "manual": false,
    "id": "22c1c6745538dbd2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Interest-Rate Hikes to Come in December, Highest Certainty in Japan — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102000278:0-interest-rate-hikes-to-come-in-december-highest-certainty-in-japan-market-talk/",
-   "published_utc": "2026-11-02T06:08:00+00:00",
-   "title_original": "Interest-Rate Hikes to Come in December, Highest Certainty in Japan — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6126a82dcd008e9f"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -2826,8 +2826,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2841,7 +2841,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -3817,10 +3817,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -3830,7 +3830,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3937,23 +3937,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -3969,6 +3952,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4142,23 +4142,6 @@
    "live_wire": false,
    "manual": false,
    "id": "855c51c37c450234"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "www.mycaijing.com",
-   "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WZWR6TzhabzZETmlETmdweUF1aGpQeWxhbGY5Z3d6QVJHOFUzVzVIOVV2WUNpWTNQbXV0Y1lOeFpMTlVMLThuT2V2bEdQSTc5eV9fWFdlQnlFX2VEZjhXaW01bVREZXFXTVcwag?oc=5",
-   "published_utc": "2026-10-31T02:51:00+00:00",
-   "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1d2a7c6f80b81e7"
   },
   {
    "source_id": "tradingview_live",
@@ -5139,6 +5122,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a82b093fe752ef17"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank switches its main policy interest rate from 1.4% to 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWN6X203eGpvNTVUVE93UUJXeGtDS0FaM1JQV1NqR004aFk0ZHg1OENVcmNxM2JhbXBLdGR3aFNWb2JpbjlwVHpaZkJOQWtDOUdaVU02NThqeExjampvZDVUX3BRUks3TG9Va2ZnZWVkUUhneGpzczctRUdOVXR4c3BHSzB6aDU4bFZFQmRn?oc=5",
+   "published_utc": "2026-10-30T13:39:09+00:00",
+   "title_original": "央行切换主要政策利率，从1.4%换成1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f8d9e32fd0ae80a9"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -21707,6 +21707,23 @@
    "id": "0c1261b944685189"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
+   "published_utc": "2026-10-23T07:26:11+00:00",
+   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf037e34bb52ee2a"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -21757,23 +21774,6 @@
    "live_wire": false,
    "manual": false,
    "id": "488d507f6c702bfd"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf037e34bb52ee2a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -24700,6 +24700,23 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25403,23 +25420,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a4d7da800bd4ba94"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T02:09:18+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_ked",
@@ -32589,23 +32589,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -32621,6 +32604,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
