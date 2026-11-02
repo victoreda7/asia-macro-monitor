@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T05:02:45.008581+00:00
+Última coleta: 2026-11-02T05:12:55.296123+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
@@ -17,10 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese EV Makers Lean on Exports as Home Market Sinks
   - [china] Surging costs and China trade war test US farmers' loyalty to Trump
   - [japan] Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen
   - [japan] Outlook for Economic Activity and Prices (October 2026, full text)
-  - [china] Chinese EV Makers Lean on Exports as Home Market Sinks
   - [china] China's Property Sector May See Some Improvement in Next Few Months — Market Talk
   - [japan] Japan chip earnings roundup: AI a double-edged sword
   - [taiwan] Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T05:02:45+00:00",
+      "published_utc": "2026-11-02T05:12:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

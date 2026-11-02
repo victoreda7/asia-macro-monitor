@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-02T05:02:45.008581+00:00",
- "collected_at_utc": "2026-11-02T05:02:45.008581+00:00",
+ "generated_at_utc": "2026-11-02T05:12:55.296123+00:00",
+ "collected_at_utc": "2026-11-02T05:12:55.296123+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 354,
   "korea": 851
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T04:32:00+00:00"
+   "newest": "2026-10-30T10:59:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T04:10:18+00:00"
+   "newest": "2026-11-02T04:06:24+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 29,
+   "count": 31,
    "error": "",
-   "newest": "2026-11-02T10:17:50+08:00"
+   "newest": "2026-11-02T11:22:55+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T04:42:23+00:00"
+   "newest": "2026-11-02T05:04:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:08:01+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:50:32+00:00"
+   "newest": "2026-11-02T03:49:36+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T05:02:01+00:00"
+   "newest": "2026-11-02T05:12:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Chinese EV Makers Lean on Exports as Home Market Sinks",
+   "url": "https://www.tradingview.com/news/DJN_DN20261102000064:0-chinese-ev-makers-lean-on-exports-as-home-market-sinks/",
+   "published_utc": "2026-11-02T05:07:00+00:00",
+   "title_original": "Chinese EV Makers Lean on Exports as Home Market Sinks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b44e7b64158e658e"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Surging costs and China trade war test US farmers' loyalty to Trump",
@@ -393,23 +410,6 @@
    "live_wire": false,
    "manual": false,
    "id": "96f5ed559c2e757a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Chinese EV Makers Lean on Exports as Home Market Sinks",
-   "url": "https://www.tradingview.com/news/DJN_DN20261101001682:0-chinese-ev-makers-lean-on-exports-as-home-market-sinks/",
-   "published_utc": "2026-11-02T04:52:00+00:00",
-   "title_original": "Chinese EV Makers Lean on Exports as Home Market Sinks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dd3a59d7b03b76b1"
   },
   {
    "source_id": "tradingview_live",
@@ -1092,7 +1092,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank adjusts the reverse repurchase mechanism and carries out overnight operations with an interest rate of 1.25% every working day.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMDVsZU9fOUFic25pUEtLNWZFQjVEcWo0Q21NelFzTDkzTzVGaG13MEFsRzBvS0NvWl9FTV9fLWZiRXF4cEpHOGxUcm5XcWRiUGgtTEg4WnQ5dG9IWF80QWN3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uaUQ1V3Ftd2xDTWVJZTRzNHo3dHd5ZS1CMlhaYmVmY3JwZWZCNmNIdTJ3NmYwOE1rQmtsQ3FhZlIwUUN5MExFc0VaZ0RvZw?oc=5",
    "published_utc": "2026-11-02T02:16:34+00:00",
    "title_original": "央行调整逆回购机制 每个工作日开展隔夜操作利率1.25%",
    "region": "china",
@@ -1103,7 +1103,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ef8be77557e72fee"
+   "id": "66f900581ae9d054"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1529,7 +1529,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUstSDZWeFBzdmJBX1FEZnJXUnoxdmtydWV2SlhDdkQtY3ZDUXFacTRVRGNyd24yd2lRUXNfZ3djdDNzYVN5NkdqY2VCTWRiYU9ZenZ0MmNPQ0ZtbXpyd2I1N2NLZ2N2Y0tRaFo4bl9fUzBBeVJsbEpSMnk1VFQ2QmtCTlg3akxaUnZpX0JYMWUyOXdoN0ZNVXFFSQ?oc=5",
    "published_utc": "2026-11-02T00:52:45+00:00",
    "title_original": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
    "region": "taiwan",
@@ -1540,7 +1540,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a437fa771a089dc5"
+   "id": "b3acbe2d365907a2"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1751,8 +1751,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -1766,7 +1766,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -2146,6 +2146,23 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2724,10 +2741,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -2737,24 +2754,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2810,6 +2810,23 @@
    "id": "b48de6f4b738e22e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "早晨报",
+   "title_en": "The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase rate for the first time to 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtdWNWQXFYMUFvVjNQQkVIRV8wa1k4a1BVa3BKdGJtS3N2WF92empQMlRQUXpjN25hd1pTWHBGZ092VldWaHJGWlYwTjJjS3FrQXBMb0NOSWxvaEVyV3FCeUJ4QV9lanRm?oc=5",
+   "published_utc": "2026-10-31T08:35:00+00:00",
+   "title_original": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "584447a72040a8ac"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "\"Samsung Electronics!\" \"Tesla!\" \"Monthly rent!\"Maekyung Children's Economy Class held at COEX Magok",
@@ -2844,23 +2861,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -2879,11 +2879,11 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "联合早报",
-   "title_en": "The People's Bank of China switches its policy interest rate and announces the overnight reverse repurchase rate for the first time to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaFhpNVdQZVpHWGtXRk1YOU5YUkFLLWpMTDM3RXloZEdJNW1fSkw1WHMxV05GT1hKX2hoNnByNmdVbHZlVzBISENSVW9vdm1wU3NLeWdMMG9mTGhUUWozY1RGLS1oRGppV2c?oc=5",
-   "published_utc": "2026-10-31T07:21:44+00:00",
-   "title_original": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25%",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
    "region": "china",
    "topics": [
     "monetary"
@@ -2892,7 +2892,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cbc587c779af9c75"
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "tradingview_live",
@@ -3427,6 +3427,23 @@
    "id": "1145ab3973f62717"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Central banks take a breather, though more hikes are to come",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0g2T005bVN1RWZoZGN4MHc5dU5naW5rWjFTSFo1MWUzOGdueDRMMnI0WGt2aTJTZDJSaHlPc2tweUFHTXZUU3A2YjRLRFdtU0ZOWmxtNVFQeW1zc2R3ZFZ2TXU0SnJkVFVfWmc0aGc3ZVIxMzlaWFZSZTZYUU1teG5aVmY4Q3lyWEJwVVFzZUtCZzdRN2c?oc=5",
+   "published_utc": "2026-10-30T22:15:57+00:00",
+   "title_original": "Central banks take a breather, though more hikes are to come",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fbb77edbd7a8680"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
@@ -3445,7 +3462,7 @@
    "id": "7923af3a8f4e8217"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "North Korea says sanctions don't work to deny its status as nuclear weapons state",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
@@ -3459,7 +3476,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "6917e4d69ba3ed64"
+   "id": "d2fb138ba279a625"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4331,7 +4348,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -4342,7 +4359,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0502612f5f1f0dc8"
+   "id": "5d0e607e39d15dc0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5591,23 +5608,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b9a2cd62ec8c2660"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Central banks take a breather, though more hikes are to come",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0g2T005bVN1RWZoZGN4MHc5dU5naW5rWjFTSFo1MWUzOGdueDRMMnI0WGt2aTJTZDJSaHlPc2tweUFHTXZUU3A2YjRLRFdtU0ZOWmxtNVFQeW1zc2R3ZFZ2TXU0SnJkVFVfWmc0aGc3ZVIxMzlaWFZSZTZYUU1teG5aVmY4Q3lyWEJwVVFzZUtCZzdRN2c?oc=5",
-   "published_utc": "2026-10-30T08:24:31+00:00",
-   "title_original": "Central banks take a breather, though more hikes are to come",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3fbb77edbd7a8680"
   },
   {
    "source_id": "nikkei_asia",
@@ -31216,6 +31216,23 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
+   "title_en": "Basic situation of national fixed asset investment from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5odVVyQ196X2NYOW53VGpVc0ZZMGh4NzJkeHlXTXBmaUcxTmJCNkdDNzBNVjRDY3U0cDNDTUw3ckZ1bkVTLV9mZ3ZfRFk1RW5LWnlhU0hCLUNHUTF0eGlua0NOTWFFQVdpTTlQM1FreUVOS0k?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "2026年1—9月份全国固定资产投资基本情况",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff7af19597176f64"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
    "title_en": "Basic situation of the national real estate market from January to September 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSVVlanRWY19fOXkycWtaaGFhRnJWcU5WdjhRNjc2TkdqbDF5X2ZhYTVFZG1meGFPUXIwdGoxSWJuaEVvcDE4U3dlLWtTa3M5NjZWd01LT2tEWEdyWXV6TzZGazBBWVhNVkU4UjJTRQ?oc=5",
    "published_utc": "2026-10-19T07:00:00+00:00",
@@ -31229,23 +31246,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ebb2c7b6d0f517e8"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Basic situation of national fixed asset investment from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhcGhyODdyQlU0SkNHQmhqQ3VRSElXMGRQZEN0R29ZdzhSLVJ4dExTSTJ4RUZFaFR6ajJqWkJyVjRlTERuSEVhRnh2RzgyVnhxbXFESDIxNWNwNEd3eFhjVWFyemVQeHRvenVvQmV6SQ?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "2026年1—9月份全国固定资产投资基本情况",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "151278eb530e1b8a"
   },
   {
    "source_id": "gn_jp_kyodo",
