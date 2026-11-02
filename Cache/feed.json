@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T05:52:44.531910+00:00",
- "collected_at_utc": "2026-11-02T05:52:44.531910+00:00",
+ "generated_at_utc": "2026-11-02T06:02:46.237012+00:00",
+ "collected_at_utc": "2026-11-02T06:02:46.237012+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
-  "china": 864,
-  "taiwan": 355,
+  "japan": 927,
+  "china": 866,
+  "taiwan": 354,
   "korea": 853
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T04:10:18+00:00"
+   "newest": "2026-11-02T04:06:24+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T05:50:00+00:00"
+   "newest": "2026-11-02T06:00:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T04:45:14+00:00"
+   "newest": "2026-11-02T05:58:52+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T05:51:58+00:00"
+   "newest": "2026-11-02T06:01:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:13:01+00:00"
+   "newest": "2026-11-01T23:13:42+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T00:34:35+00:00"
+   "newest": "2026-10-31T22:31:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46G3X4:0-macnica-holdings-inc-to-buy-back-up-to-0-89-of-own-shares-worth-5-billion-yen/",
+   "published_utc": "2026-11-02T06:00:59+00:00",
+   "title_original": "Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9c7cfa501ff38509"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3",
+   "url": "https://www.tradingview.com/news/seekingalpha:3a6fbef3c094b:0-ratingdog-china-pmi-beats-forecast-at-52-0-official-nbs-manufacturing-drops-to-49-3/",
+   "published_utc": "2026-11-02T05:51:46+00:00",
+   "title_original": "RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2efc09b443cb4e3c"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net withdrawal of 515 billion yuan that day.",
@@ -377,6 +412,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c800d6a6dcf888e0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "\"Anchor exchange\" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVdnSGVadUdsRWM1RE5hNFd3RjU4d2RwdDNiUnNmRExZT1ZTYlFqYkJGam16QXY5LXY0cmFNdDNaalNCU2NtZzF3UllFSndLNzRPcXo2ZGVGQ2JoR2lWRXdBNGIwQVZ1eG9qQjQ0N0kzZE9aOWhuS1hrTWVhemtmVzhHSDVOSHBu?oc=5",
+   "published_utc": "2026-11-02T05:36:01+00:00",
+   "title_original": "“换锚”落地 央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "59c8c13f49dcd660"
   },
   {
    "source_id": "toyo_keizai",
@@ -827,6 +880,24 @@
    "id": "b274c0487ec74a52"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "October 2026 Bank of Japan Policy Meeting Review - Summary of the meeting and future market outlook [Chief Market Strategist, Sumitomo Mitsui DS Asset Management] (THE GOLD ONLINE)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamtKeUgyRHVGZzJMUkZnVHVTRloxM2QwUlQ5Y01wUjNsREk3Y0VsUlY5SzFYcXd3X09Xb2oybzk2NldCSGY4d0ZsQktObVdSeEJ0TVliQ3RsNFl2MzlHbENIT0ZzWkY5amJ2ZXBkb2NSWDllQ0wxbUwwaWI1TWhuMkdqWTNENGMtNWRndzh3?oc=5",
+   "published_utc": "2026-11-02T03:42:15+00:00",
+   "title_original": "2026年10月日銀政策会合レビュー～今回の総括と今後の市場展望【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】 (THE GOLD ONLINE（ゴールドオンライン）)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4391390d84c27a74"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk",
@@ -1247,7 +1318,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank adjusts the reverse repurchase mechanism and carries out overnight operations with an interest rate of 1.25% every working day.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMDVsZU9fOUFic25pUEtLNWZFQjVEcWo0Q21NelFzTDkzTzVGaG13MEFsRzBvS0NvWl9FTV9fLWZiRXF4cEpHOGxUcm5XcWRiUGgtTEg4WnQ5dG9IWF80QWN3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uaUQ1V3Ftd2xDTWVJZTRzNHo3dHd5ZS1CMlhaYmVmY3JwZWZCNmNIdTJ3NmYwOE1rQmtsQ3FhZlIwUUN5MExFc0VaZ0RvZw?oc=5",
    "published_utc": "2026-11-02T02:16:34+00:00",
    "title_original": "央行调整逆回购机制 每个工作日开展隔夜操作利率1.25%",
    "region": "china",
@@ -1258,7 +1329,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ef8be77557e72fee"
+   "id": "66f900581ae9d054"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1294,40 +1365,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cd72eeff981e89e7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Underestimated’",
-   "url": "https://www.tradingview.com/news/stocktwits:649e91d0f094b:0-spcx-stock-jumps-overnight-musk-reportedly-revives-tsmc-terafab-talks-says-capex-efficiency-is-greatly-underestimated/",
-   "published_utc": "2026-11-02T02:14:16+00:00",
-   "title_original": "SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Underestimated’",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b4f431bf400a136e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook",
-   "url": "https://www.tradingview.com/news/stocktwits:451b6c030094b:0-mu-sndk-dram-inch-higher-overnight-after-mixed-week-japan-s-kioxia-plunges-after-cautious-memory-outlook/",
-   "published_utc": "2026-11-02T02:09:08+00:00",
-   "title_original": "MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d3880b3610e069f7"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1451,6 +1488,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3b36db7b02345129"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "The People's Bank of China reverse repurchases net withdrawn 515 billion yuan today",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQcm9tVTYyTUJVTno2bE56N3BkU2YtUEVweVFvZkxIOWFESU5EQVdiWHVEWDNHYnVrdWVpT1RkSWp6RGxSZjJKUU1Daw?oc=5",
+   "published_utc": "2026-11-02T01:28:24+00:00",
+   "title_original": "中国央行逆回购今日净回笼5150亿元人民币",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "85648d5c3be7da64"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2252,6 +2307,23 @@
    "id": "19c3ac281c7f71dd"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
@@ -2828,10 +2900,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -2841,24 +2913,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2965,23 +3020,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -2997,6 +3035,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "tradingview_live",
@@ -3444,23 +3499,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b3ffc16010f5e4dc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank officially announced that the policy interest rate has officially \"changed the anchor\", experts' latest interpretation",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFU3MS1SMWJWek81SG04bUY1QkI0aHZVdUpTZmE1Q2JLOXlCR2hucFVYUVFCSlpnRGlVOWNXbHJFcThVUkFXaUZKU3FxZFN2NmFBZldHWnVsbkNnU3J5eDdIT0tPeGpJQUdjVm93Qlh2WDRnaUtnWWdNRnZhUlE0OExwT2RLeUxoNU1VTQ?oc=5",
-   "published_utc": "2026-10-30T23:16:17+00:00",
-   "title_original": "央行官宣政策利率正式“换锚”，专家最新解读",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "197e3789b6f531e4"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4269,6 +4307,23 @@
    "live_wire": true,
    "manual": false,
    "id": "43d30fc4b06485fd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank officially announced that the policy interest rate has officially \"changed the anchor\", experts' latest interpretation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUzVHRlNqaXFvejd5YUV0YVdpbTQzOTA0a3RpWWtvVUZ1VlZFS2JwNXUwYkI5TkJXTEhZdHRmdG1idDBOYTBQWFc1TUFxR2piRzdBRnFMWlkyaG1TNGc?oc=5",
+   "published_utc": "2026-10-30T13:19:31+00:00",
+   "title_original": "央行官宣政策利率正式“换锚”，专家最新解读",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2ca4f7f427fec13e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6038,7 +6093,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Jiemian.com",
    "title_en": "The \"anchor change\" of policy interest rates was implemented, and the central bank launched a 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZRGs3czN5VF9Ic0xubU5xb0JJaTI1bzVIU3ItNTktZ29qMkZTTWJXdTlBZ0pKRXFwUmhONk96V1hHbkhkQUFRcFJTWDR6eFFMbXE5cG9R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MVHVjT0ExeG9Fal9WNGNWZk1IMHg3XzdQUTlPSmNxWjhZV25yUks2a3AtV2VJcjJOZHNkUVVSZ1JicXFlZmtNdktYQUJCZVp6RThPR3c5SWQ?oc=5",
    "published_utc": "2026-10-30T07:00:00+00:00",
    "title_original": "政策利率“换锚”落地，央行开展5410亿元隔夜逆回购操作",
    "region": "china",
@@ -6050,7 +6105,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0b624463bb65b78d"
+   "id": "fa5d8f6a93d68c7a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -20506,23 +20561,6 @@
    "id": "0c1261b944685189"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
-   "published_utc": "2026-10-23T07:26:11+00:00",
-   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf037e34bb52ee2a"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -20573,6 +20611,23 @@
    "live_wire": false,
    "manual": false,
    "id": "488d507f6c702bfd"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf037e34bb52ee2a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51890,57 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "59b561f4a3341a77"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Takaichi Says Growth Push Will Help Support Trust in Yen: JPY/USD",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnM0eWVwTjdqbGdRQjJ5b19PUXJRZENVczVKSUZSYWQxMG9VamFSTV9HV05TdEdCeTdqa29TQkxqYnRvRlNGSllLZmt3Y0NDeEZacjNDRXJOR1VQX3Qxa1gxcEVwbzNhRDZhTEd0OGc3WFkxMjhRWGlnTmE4UVJIZUJ6aGRDU3BuZlRlcmxkd25YSk5PWUs4NjB1ejJnZmFxQXh2SHZqYjB4OXNjdXRsN3BzT1FBZw?oc=5",
-   "published_utc": "2026-10-09T04:32:00+00:00",
-   "title_original": "Japan’s Takaichi Says Growth Push Will Help Support Trust in Yen: JPY/USD",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c411cc46b4d10888"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China to resume fuel exports in Oct after holiday pause, Reuters reports",
-   "url": "https://www.investing.com/news/stock-market-news/china-to-resume-fuel-exports-in-oct-after-holiday-pause-reuters-reports-93CH-4940152",
-   "published_utc": "2026-10-09T04:22:31+00:00",
-   "title_original": "China to resume fuel exports in Oct after holiday pause, Reuters reports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e0f7981770d44941"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks mixed; chipmakers slide on OpenAI revenue concerns",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT2lvdUh4OENFUDVhdjUxWDNYUXhEX3NtdXVpYkRicFlETlI2S1pwT0oxblV1ZDA4TUx1VHdhbi1GaFBLSHEtYXMzM1JVcmFyejBGdjZFOWJLV0xWMFExTUl1bkRjcmdvc1BEcUNfR2Y3bjNmcW5taHZFUjVxbWItSm5wTmRrX1RGb09XRzhVeGN1RVRCX2ZxTXdLeWlSWlJoeWJ6WW9TWGZkRlN4SjNuMWdBSlNrdVBKYVE?oc=5",
-   "published_utc": "2026-10-09T04:12:19+00:00",
-   "title_original": "Asia stocks mixed; chipmakers slide on OpenAI revenue concerns",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3d1590298feb6d03"
   },
   {
    "source_id": "manual_ia",

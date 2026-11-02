@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T05:52:44.531910+00:00
+Última coleta: 2026-11-02T06:02:46.237012+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          864
-  🇹🇼 Taiwan         355
+  🇯🇵 Japão          927
+  🇨🇳 China          866
+  🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
+  - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
   - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
+  - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
   - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
   - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
   - [china] China 10Y Yield Falls After PBOC Policy Shift
@@ -45,6 +48,7 @@ Total: 3000 manchetes
   - [china] "Anchor replacement" was implemented, and the central bank launched a 541 billion yuan overnight reverse repur
   - [korea] South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk
   - [japan] October 2026 Bank of Japan Policy Meeting Review - Summary of this meeting and future market outlook [Sumitomo
+  - [japan] October 2026 Bank of Japan Policy Meeting Review - Summary of the meeting and future market outlook [Chief Mar
   - [china] China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk
   - [japan] Flat 35 Interest rate 3.81%, second highest ever
   - [china] Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s manufacturing PMI slows to 8-month low in October
   - [china] China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk
   - [japan] BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen
-  - [japan] Japan manufacturing PMI slows to seven-month low in October By Investing.com
-  - [japan] Japan manufacturing PMI slows to seven-month low in October
-  - [taiwan] Taiwan PMI Shows Goods Producers' Supply-Chain Struggles — Market Talk
-  - [china] China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T05:52:44+00:00",
+      "published_utc": "2026-11-02T06:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
