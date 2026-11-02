@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T06:55:21.376649+00:00
+Última coleta: 2026-11-02T07:02:44.103532+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          865
+  🇯🇵 Japão          928
+  🇨🇳 China          866
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea urges cryptocurrency exchanges to tighten security
   - [china] Asian stocks diverge following Wall Street tech sell-off; PBoC shifts policy anchor to overnight rate
+  - [china] China’s Manufacturing Activity Returns to Contraction
   - [korea] Kospi Snaps Two-Session Losing Streak; Chip, Energy Stocks Advance
+  - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
   - [japan] Mitsubishi Corp Says It Will Sell Stake In LNG Canada Project To Blackstone Credit For About 250 Billion Yen
   - [japan] S&P Global Japan Manufacturing PMI slows to 7-month low of 53.3
   - [japan] BOJ flags progress in anchoring inflation around target
@@ -32,7 +35,6 @@ Total: 3000 manchetes
   - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
   - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
-  - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
   - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
   - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
   - [china] China 10Y Yield Falls After PBOC Policy Shift
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Oct.)
   - [china] Dollar, low supply and exports to China place cattle in Brazil on the R$400/at route
   - [korea] Bank of Korea probes financial firms’ exposure to crypto risks
-  - [taiwan] Lite-On boosts 2027 capex as AI race raises stakes for CSPs
-  - [japan] Japan weighs $500 billion defence spending plan, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T06:55:21+00:00",
+      "published_utc": "2026-11-02T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
