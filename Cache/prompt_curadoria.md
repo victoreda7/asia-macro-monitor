@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T03:42:43.305921+00:00
+Última coleta: 2026-11-02T03:52:43.108370+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          868
+  🇯🇵 Japão          926
+  🇨🇳 China          869
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk
+  - [japan] October 2026 Bank of Japan Policy Meeting Review - Summary of this meeting and future market outlook [Sumitomo
+  - [china] China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk
   - [japan] Flat 35 Interest rate 3.81%, second highest ever
   - [china] Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus
-  - [korea] South Korea’s manufacturing PMI slows to 8-month low in October
+  - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
   - [china] China’s shift to new policy rate signals easier funding conditions
+  - [korea] South Korea’s manufacturing PMI slows to 8-month low in October
   - [china] China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk
   - [japan] Japan manufacturing PMI slows to seven-month low in October By Investing.com
   - [japan] Japan manufacturing PMI slows to seven-month low in October
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7146 MON VS 6.7138
   - [china] China Manufacturing PMI Beats Estimates
   - [china] China factory growth slows in October as export orders ease, private PMI shows
-  - [japan] Japan Manufacturing Growth Confirmed at 7-Month Low
-  - [japan] Bank of Japan says it's "generally consistent with 2%," and the hurdle to halting interest rate hikes has lowe
-  - [korea] South Korean Shares Rebound on Record Exports
-  - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T03:42:43+00:00",
+      "published_utc": "2026-11-02T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

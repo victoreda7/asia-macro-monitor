@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T03:42:43.305921+00:00",
- "collected_at_utc": "2026-11-02T03:42:43.305921+00:00",
+ "generated_at_utc": "2026-11-02T03:52:43.108370+00:00",
+ "collected_at_utc": "2026-11-02T03:52:43.108370+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 927,
-  "china": 868,
+  "japan": 926,
+  "china": 869,
   "taiwan": 354,
   "korea": 851
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:28:00+00:00"
+   "newest": "2026-11-02T02:48:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:02:00+00:00"
+   "newest": "2026-11-02T03:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T03:25:01+00:00"
+   "newest": "2026-11-02T03:42:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T03:12:59+00:00"
+   "newest": "2026-11-02T03:30:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T01:00:34+00:00"
+   "newest": "2026-11-02T03:32:37+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:08:00+00:00"
+   "newest": "2026-11-02T03:11:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:42:00+00:00"
+   "newest": "2026-11-02T01:06:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T16:00:00+00:00"
+   "newest": "2026-11-02T03:38:05+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T03:42:00+00:00"
+   "newest": "2026-11-02T03:51:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:54:16+00:00"
+   "newest": "2026-11-02T03:42:15+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-02T03:39:43+00:00"
+   "newest": "2026-11-02T03:48:03+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T00:34:35+00:00"
+   "newest": "2026-10-31T22:31:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,60 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101001484:0-south-korea-pmi-shows-faltering-manufacturing-momentum-market-talk/",
+   "published_utc": "2026-11-02T03:44:00+00:00",
+   "title_original": "South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6d6805ca005a0e5b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "October 2026 Bank of Japan Policy Meeting Review - Summary of this meeting and future market outlook [Sumitomo Mitsui DS Asset Management Chief Market Strategist] (THE GOLD ONLINE)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3RGc3M3h1cGFxWmFTTFNSMlpiN1JHQTQ5U3ZaVEZqeDY3dE1ycEZiSEg5QzBsQzEtYWRxM0lzX19xQ3JEdDF3Z2dsMnFzR3RXRG9hNXAtZWE5M3F5OWxUSjZXNXJ6cmd2bE9XcHVNVExjZWlXcVZNVEZIZEVHR3c?oc=5",
+   "published_utc": "2026-11-02T03:42:15+00:00",
+   "title_original": "2026年10月日銀政策会合レビュー～今回の総括と今後の市場展望【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b274c0487ec74a52"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101001478:0-china-s-manufacturing-activity-faces-risk-from-slow-fiscal-spending-market-talk/",
+   "published_utc": "2026-11-02T03:41:00+00:00",
+   "title_original": "China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "47e3ae432a251f25"
+  },
+  {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
    "title_en": "Flat 35 Interest rate 3.81%, second highest ever",
@@ -378,6 +432,40 @@
    "id": "15bea466c34eb4f2"
   },
   {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian currencies mixed as yuan holds near four-year high, dollar steadies",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824",
+   "published_utc": "2026-11-02T03:32:37+00:00",
+   "title_original": "Asian currencies mixed as yuan holds near four-year high, dollar steadies",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6d61ef2fda1ee227"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s shift to new policy rate signals easier funding conditions",
+   "url": "https://www.investing.com/news/economy-news/chinas-shift-to-new-policy-rate-signals-easier-funding-conditions-4989818",
+   "published_utc": "2026-11-02T03:30:24+00:00",
+   "title_original": "China’s shift to new policy rate signals easier funding conditions",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "07b0fc9d524039f4"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "South Korea’s manufacturing PMI slows to 8-month low in October",
@@ -394,23 +482,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s shift to new policy rate signals easier funding conditions",
-   "url": "https://www.investing.com/news/economy-news/chinas-shift-to-new-policy-rate-signals-easier-funding-conditions-4989818",
-   "published_utc": "2026-11-02T03:12:59+00:00",
-   "title_original": "China’s shift to new policy rate signals easier funding conditions",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07b0fc9d524039f4"
   },
   {
    "source_id": "tradingview_live",
@@ -1354,23 +1425,6 @@
    "id": "60c92b1c660e2ef8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Manufacturing Growth Slows to 8-Month Low",
-   "url": "https://www.tradingview.com/news/te_news:597043:0-south-korea-manufacturing-growth-slows-to-8-month-low/",
-   "published_utc": "2026-11-02T00:49:32+00:00",
-   "title_original": "South Korea Manufacturing Growth Slows to 8-Month Low",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b687acdd4c5d3756"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan’s October factory growth slows as costs pick up, PMI shows By Reuters",
@@ -1386,23 +1440,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4ee5ea0f823b1e59"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan finance minister: government remains ready to take action against disorderly FX moves",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44Z01P:0-japan-finance-minister-government-remains-ready-to-take-action-against-disorderly-fx-moves/",
-   "published_utc": "2026-11-02T00:47:13+00:00",
-   "title_original": "Japan finance minister: government remains ready to take action against disorderly FX moves",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "21cfc0aeb2ee69ed"
   },
   {
    "source_id": "investing_live",
@@ -51911,41 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6883049fb6c7df7d"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Home Sales Post Modest Recovery After Latest Stimulus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmI0SW9YU3E1R29YV2VXVlB6VDJXUGdwZG5hTUY1dmZiOUFERnBGbzl4WDNYTmQyZzBHTEhMNzVndXNKdEFRMEFjMEczeTUtUFdmanczTkZXaFRrWUZPY3pYTk4zQW1Bb25MU1BCbTI5SWZFa3FEdDVvWmhQRGNGVXpWRVpTcGhqRVhJbTlqYUNYTFliS0xkNF9pMEdOZUx5XzBjLTR3NEdJMGZyUHNN?oc=5",
-   "published_utc": "2026-10-09T01:14:00+00:00",
-   "title_original": "China Home Sales Post Modest Recovery After Latest Stimulus",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e927eeb0a3e85abb"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Risk of rising European government bond yields (Bank of Japan) (Hiroyuki Kubota) - Expert",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0tYcktNSk1seTE2eWdIODE3ODFOSkxLUkY4UVRRSGstX2FSeEl4Z09IMTYyalZTSXE3OVJSUkM1bDZ6UjczMzNfcEFYN0IyVl93bTQyOUVocWJua1NIc25oNXhfSjF5NHRtSy1HSTUxaUs5ZDhYc2R0dEFJdmd0QUxvdHRXLUhl?oc=5",
-   "published_utc": "2026-10-09T01:02:43+00:00",
-   "title_original": "日銀欧の国債利回り上昇のリスク（久保田博幸） - エキスパート",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e253a5a154f7c10f"
   },
   {
    "source_id": "manual_ia",
