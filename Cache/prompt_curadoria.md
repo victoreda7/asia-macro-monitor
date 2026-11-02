@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T10:22:55.748676+00:00
+Última coleta: 2026-11-02T10:32:54.887380+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
@@ -17,7 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean president plans to expand fiscal spending in 2027 budget bill, perhaps due to declining approval 
   - [china] China's central bank taps liquidity tool to aid struggling stocks
+  - [japan] Still-negative Japanese real rates should continue to support USD/JPY: UBS
   - [korea] Finance minister, Hyundai Motor chief discuss EV policies: sources
   - [china] ZAWYA: Ten projects signal broader Oman-China manufacturing ties
   - [china] The switching of major policy interest rates has started, and the People's Bank of China has launched a 541 bi
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ flags progress in anchoring inflation around target
   - [korea] Finance minister discusses economic ties, cooperation with US ambassador
   - [korea] Household loans again rise in Oct. despite tightened rules, higher rates
-  - [china] PBoC shifts primary policy anchor to overnight rate with daily 1.25% reverse repos
-  - [china] The central bank’s interest rate regulation is facing major changes, and the asset pricing coordinates need to
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T10:22:55+00:00",
+      "published_utc": "2026-11-02T10:32:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
