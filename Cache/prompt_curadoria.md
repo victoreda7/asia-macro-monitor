@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T00:52:43.110948+00:00
+Última coleta: 2026-11-02T01:02:44.612330+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          866
+  🇯🇵 Japão          926
+  🇨🇳 China          865
   🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  848
 
@@ -19,6 +19,8 @@ Total: 3000 manchetes
 
   - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
   - [japan] Japan’s October factory growth slows as costs pick up, PMI shows By Reuters
+  - [japan] Japan finance minister: government remains ready to take action against disorderly FX moves
+  - [taiwan] Taiwan Manufacturing Maintains Momentum
   - [korea] South Korea factory activity growth slows to 8-month low, PMI shows
   - [japan] Japan's October factory growth slows as costs pick up, PMI shows
   - [china] The central bank has 1.749 billion yuan of open market reverse repos due this week
@@ -51,12 +53,10 @@ Total: 3000 manchetes
   - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
   - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
   - [china] PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets
+  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
   - [korea] [APK 2026] APK 2026 in Seoul sets stage for deeper AI, supply chain ties amid global turmoil
-  - [japan] Former Liberal Democratic Party Chairman Miyazawa also supports the bill: “Given benefits rather than consumpt
-  - [china] China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties
-  - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T00:52:43+00:00",
+      "published_utc": "2026-11-02T01:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
