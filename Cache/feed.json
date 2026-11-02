@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-11-02T03:32:42.458399+00:00",
- "collected_at_utc": "2026-11-02T03:32:42.458399+00:00",
+ "generated_at_utc": "2026-11-02T03:42:43.305921+00:00",
+ "collected_at_utc": "2026-11-02T03:42:43.305921+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
-  "china": 867,
+  "japan": 927,
+  "china": 868,
   "taiwan": 354,
   "korea": 851
  },
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:00:00+00:00"
+   "newest": "2026-11-02T02:28:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T11:06:00+00:00"
+   "newest": "2026-11-02T03:08:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T22:37:27+00:00"
+   "newest": "2026-11-01T01:20:39+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T03:20:47+00:00"
+   "newest": "2026-11-02T03:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T23:13:42+00:00"
+   "newest": "2026-11-01T20:12:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-02T03:13:14+00:00"
+   "newest": "2026-11-02T03:39:43+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T22:31:48+00:00"
+   "newest": "2026-11-01T00:34:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:00:00+00:00"
+   "newest": "2026-11-02T03:34:31+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Flat 35 Interest rate 3.81%, second highest ever",
+   "url": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
+   "published_utc": "2026-11-02T03:39:43+00:00",
+   "title_original": "フラット35 金利3.81%で過去2番目",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f7891216d317048f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46J06R:0-yuan-hovers-near-4-year-high-as-us-midterms-chinese-regulator-meeting-in-focus/",
+   "published_utc": "2026-11-02T03:32:54+00:00",
+   "title_original": "Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "15bea466c34eb4f2"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -397,29 +431,11 @@
    "id": "5c6ba50130029124"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:00+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
-  },
-  {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
+   "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVROM1VJWE1Tam5GQkUxem5zd2U2YnZMRU80RFg2eGVmSHEzRVpDUW9lWThLd3lPaVQxdHhXYmtVVTYtUUE0ZEhmc2w4TDJMU3VJWHp1bFI0UVBaUXVCZFh2MzlxRXhIdFZ3UjlWYTM0Y1NCQ1Q3eXlHbmZyaUNSUmhBcndmN25QZW9xUGtCZUtGWUprR3BmQkI0RGVrTnFPQnFnTllUUV9kcjZvRWFnNUJCOTJEY3c?oc=5",
-   "published_utc": "2026-11-02T03:08:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlNMM3BGS2IzV1ZOaGhvbWRGTlhzcW1yb21zdnV4SXB2NUszRkNXbmdzMm5idzVocXJoLWM0T0p1VDFBenhRZ1Z2bHFKLVBWMVluS1BhWEZzSEpNSTJQME8xMUp5dGNOeUlQRzhBanIwV2VnSEc0MzdqelRfa3VvaWVQQVZ4LVVRXzA3YlU3WDFYYWZwellyRjJUeTE4VWRzeDVfNVUxOGEzak1pX3pIbVhhLXJCVDQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
    "title_original": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
    "region": "japan",
    "topics": [
@@ -430,7 +446,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "cd0d548af65faf2d"
+   "id": "b39bc6f76a99a78c"
   },
   {
    "source_id": "investing_live",
@@ -537,6 +553,24 @@
    "live_wire": true,
    "manual": false,
    "id": "98a4d224a6d4e280"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqZnVoRkgzNlo4RzdYd3REbF93MVpidU9fa2xhX0otNDAzS2U3NDdIZVpZYm96X1g0RkNTei01MUMxQnNsOXBjUDlSZTlhRHJs?oc=5",
+   "published_utc": "2026-11-02T02:50:32+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1ac9b5d6c9bdd317"
   },
   {
    "source_id": "tradingview_live",
@@ -1562,8 +1596,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -1577,7 +1611,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -1957,23 +1991,6 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "金融界",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
-   "published_utc": "2026-11-01T05:48:27+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2552,10 +2569,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -2565,7 +2582,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
+   "published_utc": "2026-10-31T10:34:18+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "66191ff7890acc34"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -4142,7 +4176,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -4153,7 +4187,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4998,6 +5032,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -5333,23 +5384,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -9473,7 +9507,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RGlzaFVsakJ1THVFdnBMbHJnQ0E2Si1SbWxUN014SUZsbWlnZElSNU9rQm1jbUNyUkwzOFNRWVZGRWpxM2tKT2JWVlA1Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -9485,7 +9519,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e054b19593281a7b"
+   "id": "b921c83c0da75290"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51912,41 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e253a5a154f7c10f"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Chief Cabinet Secretary Kihara held the third meeting of relevant ministers and state ministers regarding a thorough review of special tax measures, subsidies, and funds.",
-   "url": "https://www.kantei.go.jp/jp/pages/20261009choukan_hojyokin.html",
-   "published_utc": "2026-10-09T00:15:00+00:00",
-   "title_original": "木原内閣官房長官は第３回租税特別措置・補助金・基金の徹底見直しに関する関係閣僚等及び副大臣会議を開催しました",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f3d9e3d9a118fa82"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUBSIDIZED ELECTRICITY",
-   "url": "https://www.tradingview.com/news/macenews:5dd6045b7094b:0-japan-aug-household-spending-y-y-fall-led-by-lower-private-university-tuition-domestic-package-tour-cost-subsidized-electricity/",
-   "published_utc": "2026-10-08T23:39:00+00:00",
-   "title_original": "JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUBSIDIZED ELECTRICITY",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f028a683dccc06de"
   },
   {
    "source_id": "manual_ia",

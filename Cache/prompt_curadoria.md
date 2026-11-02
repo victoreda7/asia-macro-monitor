@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T03:32:42.458399+00:00
+Última coleta: 2026-11-02T03:42:43.305921+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          867
+  🇯🇵 Japão          927
+  🇨🇳 China          868
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [japan] Flat 35 Interest rate 3.81%, second highest ever
+  - [china] Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus
   - [korea] South Korea’s manufacturing PMI slows to 8-month low in October
   - [china] China’s shift to new policy rate signals easier funding conditions
   - [china] China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk
-  - [china] The central bank launches 541 billion yuan overnight reverse repurchase operation
   - [japan] Japan manufacturing PMI slows to seven-month low in October By Investing.com
   - [japan] Japan manufacturing PMI slows to seven-month low in October
   - [taiwan] Taiwan PMI Shows Goods Producers' Supply-Chain Struggles — Market Talk
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [japan] Yen Weakens Despite Verbal Warning
   - [japan] Is “Japan’s bankruptcy due to long-term interest rates” a lie? Yoichi Takahashi reveals misconceptions about “
   - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
+  - [china] The central bank launches 541 billion yuan overnight reverse repurchase operation
   - [korea] South Korea's Lee vows to make bold AI investment in record budget push
   - [china] PBoC Moves Toward Overnight Rate as Main Policy Anchor
   - [china] China Private Manufacturing Gauge Shows Steady Expansion in October — Update
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan says it's "generally consistent with 2%," and the hurdle to halting interest rate hikes has lowe
   - [korea] South Korean Shares Rebound on Record Exports
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10
-  - [japan] "The Bank of Japan has decided to maintain the status quo of monetary policy" Today's Bonds of the Cow and Bea
-  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T03:32:42+00:00",
+      "published_utc": "2026-11-02T03:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
