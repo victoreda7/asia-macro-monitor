@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T04:52:44.265296+00:00
+Última coleta: 2026-11-02T05:02:45.008581+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          868
+  🇯🇵 Japão          928
+  🇨🇳 China          867
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] Surging costs and China trade war test US farmers' loyalty to Trump
+  - [japan] Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen
+  - [japan] Outlook for Economic Activity and Prices (October 2026, full text)
+  - [china] Chinese EV Makers Lean on Exports as Home Market Sinks
   - [china] China's Property Sector May See Some Improvement in Next Few Months — Market Talk
   - [japan] Japan chip earnings roundup: AI a double-edged sword
   - [taiwan] Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
   - [taiwan] Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity
   - [china] China lowers funding costs with shift to overnight policy rate
-  - [korea] South Korean won, Taiwan dollar lead declines among Asian currencies
-  - [korea] SK Square eyes record W4.3tr payout from SK hynix dividends
-  - [korea] South Korean shares turn higher on dip buying after strong exports
-  - [china] The central bank adjusts the reverse repurchase mechanism and carries out overnight operations with an interes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T04:52:44+00:00",
+      "published_utc": "2026-11-02T05:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
