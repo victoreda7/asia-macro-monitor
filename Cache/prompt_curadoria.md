@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T11:02:44.465482+00:00
+Última coleta: 2026-11-02T11:12:46.447457+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          866
+  🇯🇵 Japão          921
+  🇨🇳 China          864
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  856
+  🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
   - [china] China's manufacturing sector remains on front foot - RatingDog
+  - [korea] Kospi reverses initial decline and closes 2.24% higher with chip exports +259%
   - [japan] Yen Falls Against Majors
   - [china] China Shifts Main Policy Rate to Overnight Reverse Repo Rate
   - [china] Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
   - [japan] Mitsubishi Corp Says It Will Sell Stake In LNG Canada Project To Blackstone Credit For About 250 Billion Yen
   - [japan] S&P Global Japan Manufacturing PMI slows to 7-month low of 53.3
-  - [japan] BOJ flags progress in anchoring inflation around target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T11:02:44+00:00",
+      "published_utc": "2026-11-02T11:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

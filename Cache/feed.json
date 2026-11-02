@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T11:02:44.465482+00:00",
- "collected_at_utc": "2026-11-02T11:02:44.465482+00:00",
+ "generated_at_utc": "2026-11-02T11:12:46.447457+00:00",
+ "collected_at_utc": "2026-11-02T11:12:46.447457+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 922,
-  "china": 866,
+  "japan": 921,
+  "china": 864,
   "taiwan": 356,
-  "korea": 856
+  "korea": 859
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T10:43:15+00:00"
+   "newest": "2026-11-02T11:05:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T10:24:25+00:00"
+   "newest": "2026-11-02T11:07:15+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:17:09+00:00"
+   "newest": "2026-11-02T04:34:50+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T10:26:13+00:00"
+   "newest": "2026-11-02T11:02:41+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T11:02:05+00:00"
+   "newest": "2026-11-02T11:12:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:00:52+00:00"
+   "newest": "2026-11-02T06:02:14+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -718,6 +718,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b2cc2ee08a052668"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Kospi reverses initial decline and closes 2.24% higher with chip exports +259%",
+   "url": "https://www.tradingview.com/news/invezz:01a886f66bc81:0/",
+   "published_utc": "2026-11-02T08:08:14+00:00",
+   "title_original": "Kospi reverte queda inicial e fecha 2.24% em alta com exportações de chips +259%",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "256ac291ba7c9252"
   },
   {
    "source_id": "tradingview_live",
@@ -1206,6 +1224,24 @@
    "id": "2efc09b443cb4e3c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -1346,23 +1382,6 @@
    "id": "d9f7292a72e5d34a"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's real interest rates have risen recently, BOJ says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN43P017:0-japan-s-real-interest-rates-have-risen-recently-boj-says/",
-   "published_utc": "2026-11-02T05:07:48+00:00",
-   "title_original": "Japan's real interest rates have risen recently, BOJ says",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "db03924e8b621a93"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Surging costs and China trade war test US farmers' loyalty to Trump",
@@ -1395,6 +1414,23 @@
    "live_wire": false,
    "manual": false,
    "id": "96f5ed559c2e757a"
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "Lee bets on record 2027 budget for ‘growth for all’ — to fuel growth, close wealth gap",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XVWM1bDhmZkdhTGg5VkFzemcyMVpuQXZhaXo2YnFwc0dCbmVEeXJNVFNtdGs0OG5LSTdla09uU3NmSFRWYVRRWkw4VUhzLXNQS0RxeVdJQQ?oc=5",
+   "published_utc": "2026-11-02T04:34:50+00:00",
+   "title_original": "Lee bets on record 2027 budget for ‘growth for all’ — to fuel growth, close wealth gap",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "670ba4ccdc7e052a"
   },
   {
    "source_id": "investing_live",
@@ -1605,24 +1641,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2429,8 +2447,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2444,7 +2462,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -2809,6 +2827,23 @@
    "id": "19c3ac281c7f71dd"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
@@ -2982,6 +3017,24 @@
    "live_wire": false,
    "manual": false,
    "id": "af8c9794a26a6985"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "메트로신문",
+   "title_en": "Strong growth and exports... Shin Hyun-song's next test is the price of water.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tYjEtT2k5dEFBQ3c1QzIxeE1aREs5YmhaMHJ5VU9LS3MwY3Q4MlkydTlSU3czMWtvaHRXdjdXWFhUSF9BbEkyUFNHbDdWT2wwYlJ2eDRhOVVKa2RSZTZfUQ?oc=5",
+   "published_utc": "2026-11-01T02:20:47+00:00",
+   "title_original": "성장·수출 호조…신현송의 다음 시험대는 물가",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4893a15b200a872"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3385,10 +3438,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -3398,24 +3451,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3522,23 +3558,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -3554,6 +3573,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5865,23 +5901,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -6217,6 +6236,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -10163,7 +10199,7 @@
    "id": "1ff3ae765346d9ba"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "South Korea's October exports seen rising at fastest pace since 1974 - Reuters Poll",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkRpLUlXdXdjQkhpNEQ0WEZzN3NCSjlOSURvR0xhXzBEelFRLWUtQUFIekV3dEVpOTY5N0tROC1LMlZVQjJHTkRtZEVBQmhaWVg4c0ZMejNwVk9lWGpfTWxYY1UzNGVkZ0s3WGNFV2g4bmEyVXlkeTIxaGtfWE9uNDJTdzEwa3JycTFpdU0wR2lmWWdXYjJVejg5WGhDS3VvajV2ZnlaLUloQmRmZTA0c0JOTlQ5WjZGTTd3?oc=5",
@@ -10177,7 +10213,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "7d09bede3a001b6b"
+   "id": "503008607a35f46e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -15490,7 +15526,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHducWdtMnhaRmNVNzFXTFR6ZXlWcV9HM2lNRWRvbmFNZG5oV3VQMEloNE9SRTNZYjlEb3RWbHFHM1JkLXNJS1Q4RC13ZDNZWFpiNWVUVmNzTTVDWWNNUmNlMW1oLWR2YUhCd2EzTzY0SnRYT0t0S2Y2cU54OUgwbVFOMUJqNm1OX3Vieg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12aTN0VTNtZ2ppczFoUHNTZElvLU9lR202b2tJNG0zV193WUpFUzU4VVpSOVJYTGEyd3ZaT3FycDRUaGFDMzR0VjNhdzkzaWFicm9OVkJEb2gxSFhxNlhybF9aRUtLNmRrMU5zWGNfMkZYY0xXLVRMU1lKb2s?oc=5",
    "published_utc": "2026-10-27T02:47:00+00:00",
    "title_original": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
    "region": "korea",
@@ -15501,7 +15537,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c613810e986642f1"
+   "id": "e75284673e13ef74"
   },
   {
    "source_id": "gn_tw_cna",
@@ -24110,6 +24146,23 @@
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
+   "title_en": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xOU51Y29LSkdTcEF5d2NRZDdMSU5vSzQ1UWpjbnBpbkQwb1MyU2pwczJZQTI3b2htZERXeTNNZ0o3dUFhdDlza21XTV9zR2cyNUdRcHZ5aks0QQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "47e5289a7cb41022"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Strengthening won likely helps boost consumption in S. Korea: BOK Gov. Shin",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qNlVJajRPWi1pSWVSSW5nd1VpbTJVdGlJaDBYNV82Z243QmVxQTdDTWk2aTE4cldyZHpUZkhMSXhucWh2ODBEZ25oQUVVV3lWWW01Q292b09UQQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -24575,23 +24628,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ce6c4f6f445d3ff3"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xOU51Y29LSkdTcEF5d2NRZDdMSU5vSzQ1UWpjbnBpbkQwb1MyU2pwczJZQTI3b2htZERXeTNNZ0o3dUFhdDlza21XTV9zR2cyNUdRcHZ5aks0QQ?oc=5",
-   "published_utc": "2026-10-22T04:08:01+00:00",
-   "title_original": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "47e5289a7cb41022"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51912,42 +51948,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4062695c1dee4a40"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank buys net 100 billion yuan of sovereign bonds in September",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TNZZM:0-china-s-central-bank-buys-net-100-billion-yuan-of-sovereign-bonds-in-september/",
-   "published_utc": "2026-10-09T09:27:28+00:00",
-   "title_original": "China's central bank buys net 100 billion yuan of sovereign bonds in September",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e0812da0599e2369"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "EU and China face crunch time in effort to avoid trade war",
-   "url": "https://asia.nikkei.com/economy/trade/eu-and-china-face-crunch-time-in-effort-to-avoid-trade-war",
-   "published_utc": "2026-10-09T09:22:43.620598+00:00",
-   "title_original": "EU and China face crunch time in effort to avoid trade war",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f9e2d59dbfe8b52a"
   },
   {
    "source_id": "manual_ia",
