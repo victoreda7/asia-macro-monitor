@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T20:32:45.029892+00:00",
- "collected_at_utc": "2026-11-02T20:32:45.029892+00:00",
+ "generated_at_utc": "2026-11-02T20:42:43.084279+00:00",
+ "collected_at_utc": "2026-11-02T20:42:43.084279+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 919,
+  "japan": 920,
   "china": 857,
-  "taiwan": 362,
+  "taiwan": 361,
   "korea": 862
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T10:50:55+00:00"
+   "newest": "2026-11-02T11:49:16+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T20:32:10+00:00"
+   "newest": "2026-11-02T20:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:02:14+00:00"
+   "newest": "2026-11-02T06:00:52+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -618,13 +618,13 @@
    "id": "33f07671c720ab99"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Manufacturing solid but strain of energy costs, supply disruptions starts to show",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDh4RFRpdTE0UWJNVUlwNXRHZlVkT1diR1I2UGtrNk9uZGg2S2g2Rk53ZTBNRnhmbTItS2psV2hwQ0JqM3hvdnFvZ21ESmxkNXhJd2VsTGdGTmpRUEZoR05xYWlNQk9qckpfQWd4U3BTWDRqb29KTTZfRWlyVkpUVlpHZFA3bVFFOHRRcVZVc1NhalpZc3FTVUo1MmxzMUtrZEt5NkV2X2ZJWnFjM2ttYU91SzI4RkFCTjJXOWRKZUhib0VnTUNr?oc=5",
    "published_utc": "2026-11-02T11:49:16+00:00",
    "title_original": "Manufacturing solid but strain of energy costs, supply disruptions starts to show",
-   "region": "taiwan",
+   "region": "japan",
    "topics": [
     "inflation",
     "industrial"
@@ -633,7 +633,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9d7db6be0184f487"
+   "id": "e372ee2f7082d1b7"
   },
   {
    "source_id": "tradingview_live",
@@ -1305,6 +1305,23 @@
    "id": "8d5e08872b16e3c2"
   },
   {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "China’s soaring chemical exports threaten new trade war front",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
+   "published_utc": "2026-11-02T06:43:12+00:00",
+   "title_original": "China’s soaring chemical exports threaten new trade war front",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "df2b989e59d14b9d"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Contraction",
@@ -1337,23 +1354,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07b0fc9d524039f4"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "China’s soaring chemical exports threaten new trade war front",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "published_utc": "2026-11-02T06:42:16+00:00",
-   "title_original": "China’s soaring chemical exports threaten new trade war front",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "df2b989e59d14b9d"
   },
   {
    "source_id": "tradingview_live",
@@ -2790,8 +2790,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2805,7 +2805,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -24644,24 +24644,6 @@
    "id": "cccc5f5129844176"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Full text of BOK statement on monetary policy decision in Oct.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GLWwtUi1Zd0JrbWVMWHAxM2RXMGZkX0tGOWVyLUJqNm0tVFVOWmVFOFhnbkdOTDVncjgtV1JtQ3VwQ0xaOHM3RWRfb05ZNE5ZOVlITFBaTnpSdw?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Full text of BOK statement on monetary policy decision in Oct.",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "891fd7d0680eb082"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
@@ -25453,6 +25435,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b49a2e67099a9e64"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Full text of BOK statement on monetary policy decision in Oct.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GLWwtUi1Zd0JrbWVMWHAxM2RXMGZkX0tGOWVyLUJqNm0tVFVOWmVFOFhnbkdOTDVncjgtV1JtQ3VwQ0xaOHM3RWRfb05ZNE5ZOVlITFBaTnpSdw?oc=5",
+   "published_utc": "2026-10-22T01:38:25+00:00",
+   "title_original": "Full text of BOK statement on monetary policy decision in Oct.",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "891fd7d0680eb082"
   },
   {
    "source_id": "gn_kr_yonhap",
