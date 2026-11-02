@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T10:02:45.913583+00:00",
- "collected_at_utc": "2026-11-02T10:02:45.913583+00:00",
+ "generated_at_utc": "2026-11-02T10:12:44.061066+00:00",
+ "collected_at_utc": "2026-11-02T10:12:44.061066+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 924,
+  "japan": 923,
   "china": 871,
   "taiwan": 355,
-  "korea": 850
+  "korea": 851
  },
- "elapsed_s": 31.5,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T08:47:46+00:00"
+   "newest": "2026-11-02T09:13:23+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T09:44:23+00:00"
+   "newest": "2026-11-02T10:01:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T09:18:13+00:00"
+   "newest": "2026-11-02T09:47:08+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T21:45:12+00:00"
+   "newest": "2026-11-02T06:17:09+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T07:00:23+00:00"
+   "newest": "2026-11-02T09:15:28+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-02T18:15:00+09:00"
+   "newest": "2026-11-02T19:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2342,8 +2342,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2357,7 +2357,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -10842,6 +10842,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fbd621cdd323b333"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울경제TV",
+   "title_en": "Despite the U.S. Fed interest rate freeze... Will the Bank of Korea raise additional ‘preemptive’ rate hikes in November?",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15RW5FT2UwLXhoVEo2MnpmNmZyNGg0ckdCSTZtOTNuN2Y3TDAtdjlRZ01RaW1VdS1kdGc3c1VaNzJhbUZVaHNzalZpVDZjQmJNN2VYT2gzREI3OEt5b2dRS0tDN08?oc=5",
+   "published_utc": "2026-10-29T00:15:10+00:00",
+   "title_original": "美 연준 금리 동결에도…한은, 11월 ‘선제’ 추가 인상 나서나",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "35380247ff7d07c0"
   },
   {
    "source_id": "yahoo_business",
@@ -21031,6 +21048,23 @@
    "id": "0c1261b944685189"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
+   "published_utc": "2026-10-23T07:26:11+00:00",
+   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf037e34bb52ee2a"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -21081,23 +21115,6 @@
    "live_wire": false,
    "manual": false,
    "id": "488d507f6c702bfd"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf037e34bb52ee2a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51932,23 +51949,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e62fc49bc923b581"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Dollar Likely to Stay in 155-160 Yen Range — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261009001244:0-dollar-likely-to-stay-in-155-160-yen-range-market-talk/",
-   "published_utc": "2026-10-09T07:16:00+00:00",
-   "title_original": "Dollar Likely to Stay in 155-160 Yen Range — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e7efbf9781a14a80"
   },
   {
    "source_id": "manual_ia",
