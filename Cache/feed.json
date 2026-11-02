@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T13:52:49.337244+00:00",
- "collected_at_utc": "2026-11-02T13:52:49.337244+00:00",
+ "generated_at_utc": "2026-11-02T14:02:48.309101+00:00",
+ "collected_at_utc": "2026-11-02T14:02:48.309101+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 922,
+  "japan": 921,
   "china": 859,
-  "taiwan": 359,
+  "taiwan": 360,
   "korea": 860
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:40:00+00:00"
+   "newest": "2026-11-02T09:10:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 46,
+   "count": 48,
    "error": "",
-   "newest": "2026-11-02T18:37:35+08:00"
+   "newest": "2026-11-02T20:34:41+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T13:35:14+00:00"
+   "newest": "2026-11-02T13:54:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T13:13:13+00:00"
+   "newest": "2026-11-02T13:50:57+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:17:09+00:00"
+   "newest": "2026-11-02T04:34:50+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T12:30:07+00:00"
+   "newest": "2026-11-02T14:00:33+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T13:52:30+00:00"
+   "newest": "2026-11-02T14:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:50:00+00:00"
+   "newest": "2026-11-02T13:45:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "‘Queen of the Chinese’, drone war fears, cancer drug on sale: 7 US-China relations reads",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372493/queen-chinese-drone-war-fears-cancer-drug-sale-7-us-china-relations-reads",
+   "published_utc": "2026-11-02T14:00:33+00:00",
+   "title_original": "‘Queen of the Chinese’, drone war fears, cancer drug on sale: 7 US-China relations reads",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "86cca291698aa00f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Crypto Briefing",
+   "title_en": "North Korea's Lazarus Group has stolen $11.87 billion in crypto, equal to 45% of the country's GDP",
+   "url": "https://www.tradingview.com/news/cryptobriefing:1389509f8094b:0-north-korea-s-lazarus-group-has-stolen-11-87-billion-in-crypto-equal-to-45-of-the-country-s-gdp/",
+   "published_utc": "2026-11-02T13:52:43+00:00",
+   "title_original": "North Korea's Lazarus Group has stolen $11.87 billion in crypto, equal to 45% of the country's GDP",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e6455416c2255ebb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "Tokyo Electron Ltd. Stock 12‑Month Price Target Cut to JPY 15959.09, Implies 68% Upside",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "31359e7b0d5e72fe"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan's October manufacturing activity in expansion but momentum eases",
+   "url": "https://focustaiwan.tw/business/202611020023",
+   "published_utc": "2026-11-02T12:34:41+00:00",
+   "title_original": "Taiwan's October manufacturing activity in expansion but momentum eases",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0751835d882097c2"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -463,6 +514,23 @@
    "live_wire": true,
    "manual": false,
    "id": "586de8f1cb067a7d"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China’s CXMT defends push into new DRAM architecture as US chip curbs bite",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1lXREp3Z1lqNVNmcFdmVXJuQll5c25RZnVvZm83aU4zODRqZzIxMUl6eEhQcGlFQk4xVHd4SVlmSVdLSW1kRlBSYzRURnczMWkyS2k2bjdLQmRkLWxmMHN6Uml1NjhzdF8xb3hEZGRBTXpZdG5MOE9jcVNXX2ZKX2lya2V5OWFoSzlpWkh1STVUcVUtZlpYc2xfS3ZGOVVDT3ZmVExzMjg1ck5zUE1YVE43dkxtNl90QXNrdHF1N1MzR1R1dlHSAcYBQVVfeXFMTi1FMUJ6MG1iNlBneVhoQ0dPZVlDdXpiT3pTOXRzVUxCRlBPbDVLM1lwdnJIaHRmV25CT2VEUGZSWXE5MllZUFhzV0hUOXRMR3Nwbm9MekFhTUVLNjNnLW91NlpRazFlMkVoQktQV2FtV29CaWhDaURiMW5IYjQ1d3FoQVAtREFmdG81a21mdGlxS2UzcUxjVUtwbWRpNXhOY1dhZFE2aTNfdWdJLWJDTGJ3MkY0TGFCR0hPR0h5NThpczN6UEtR?oc=5",
+   "published_utc": "2026-11-02T11:30:09+00:00",
+   "title_original": "China’s CXMT defends push into new DRAM architecture as US chip curbs bite",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "789baf1662f8e8bb"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -1416,6 +1484,24 @@
    "id": "2efc09b443cb4e3c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -1484,24 +1570,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ee89a2dad232afc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push",
-   "url": "https://www.tradingview.com/news/seekingalpha:1fb66982f094b:0-tesla-samsung-flag-manufacturing-risks-from-trump-s-vietnam-tariff-push/",
-   "published_utc": "2026-11-02T05:23:15+00:00",
-   "title_original": "Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "86cd32f3586c3f7a"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1780,24 +1848,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2984,6 +3034,23 @@
    "id": "19c3ac281c7f71dd"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
@@ -3595,10 +3662,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -3608,24 +3675,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3715,23 +3765,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -3747,6 +3780,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6075,6 +6125,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -6410,23 +6477,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -51894,58 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0b47d3b41ca0bbf3"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
-   "published_utc": "2026-10-09T11:46:29+00:00",
-   "title_original": "高市首相 経済成長率や財政運営目標\"点検・検証体制具体化を”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f30dbb53ad88d07d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V0SL:0-china-merchants-shekou-industrial-zone-s-september-contract-sales-at-14-3-billion-yuan/",
-   "published_utc": "2026-10-09T11:09:27+00:00",
-   "title_original": "China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a9be98f17551885a"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmVzazc4MXNqU1Q0WXZnU3o2Uzc5UDJmWGFPaUhfTkRhSms0NS1zSGpkd19Pb2tWRVBkQl9SM1dFV3J5TFFlUlA0blh2aTFQQTFQR2xXMmJIRUFSZTBabUl5VGpSaG5QNkVaeVJlTlY2Ml81a05Od2pyRnkySm5LNXFSUmc5OGhlVHdLSVJQN0hyWFZ5cWFsUEZya2lYU05uT1BlSmh4aTVVcGs?oc=5",
-   "published_utc": "2026-10-09T10:55:00+00:00",
-   "title_original": "Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfddce4147dc0b41"
   },
   {
    "source_id": "manual_ia",

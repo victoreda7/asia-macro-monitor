@@ -7,23 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T13:52:49.337244+00:00
+Última coleta: 2026-11-02T14:02:48.309101+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
+  🇯🇵 Japão          921
   🇨🇳 China          859
-  🇹🇼 Taiwan         359
+  🇹🇼 Taiwan         360
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [china] ‘Queen of the Chinese’, drone war fears, cancer drug on sale: 7 US-China relations reads
+  - [korea] North Korea's Lazarus Group has stolen $11.87 billion in crypto, equal to 45% of the country's GDP
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Cut to JPY 15959.09, Implies 68% Upside
+  - [taiwan] Taiwan's October manufacturing activity in expansion but momentum eases
   - [china] Update: Chinese central bank shifts policy rate anchor to overnight
   - [japan] Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?F
   - [japan] If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com
   - [china] China's central bank launched policy tools on the 3rd to boost the stock market | Cross-Strait
   - [taiwan] Manufacturing solid but strain of energy costs, supply disruptions starts to show
   - [japan] The BOJ accidentally made $440 billion in stocks
+  - [china] China’s CXMT defends push into new DRAM architecture as US chip curbs bite
   - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
   - [china] The main policy interest rate "changes anchor", why does the overnight reverse repurchase rate bear such a hea
   - [japan] SBI Holdings Inc - To Establish Merged Company With Capital Of 100 Million Yen Equally Split Between SBI Group
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Falls Against Majors
   - [china] China Shifts Main Policy Rate to Overnight Reverse Repo Rate
   - [china] Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal
-  - [china] China's Central Bank Likely to Keep Policy Rate Unchanged Through 2027 — Market Talk
-  - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
-  - [korea] “Domestic and export sales both slump”: Renault Korea Co., Ltd. sells 5,503 vehicles in October, down 23.6% ye
-  - [taiwan] BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T13:52:49+00:00",
+      "published_utc": "2026-11-02T14:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
