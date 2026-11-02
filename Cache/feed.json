@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T00:42:43.763477+00:00",
- "collected_at_utc": "2026-11-02T00:42:43.763477+00:00",
+ "generated_at_utc": "2026-11-02T00:52:43.110948+00:00",
+ "collected_at_utc": "2026-11-02T00:52:43.110948+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 924,
-  "china": 865,
-  "taiwan": 362,
-  "korea": 849
+  "japan": 925,
+  "china": 866,
+  "taiwan": 361,
+  "korea": 848
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T00:06:22+00:00"
+   "newest": "2026-11-02T00:31:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T11:06:00+00:00"
+   "newest": "2026-11-02T00:47:23+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T11:39:44+00:00"
+   "newest": "2026-11-01T14:43:10+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T00:30:51+00:00"
+   "newest": "2026-11-02T00:50:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's robot makers already dominate the moves. Now the race for intelligence begins",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J00J:0/",
+   "published_utc": "2026-11-02T00:50:42+00:00",
+   "title_original": "Os fabricantes de robôs da China já dominam os movimentos. Agora começa a corrida pela inteligência",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "60c92b1c660e2ef8"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan’s October factory growth slows as costs pick up, PMI shows By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXpLdV95b25mNEhldEhXd1JXQ0FLbHdINWU0aVZLT2lsSmt6QWhoa2M4NUk3dVVZOFhSbFVaejF4Z3oyTnAtSmFOVGx1aWkzVWtUM1Fnd0ZHNUwwY1FaQkZYMXg0d01qa1ZKNU5vbDROanF6XzRGcU1MM1pjeGM5ZUlZaFYzNTFycEt0WFR0Nk5tRUpTRGRSeVhyS1Z3X3R2My1OUF9meUwyRGNZRlFmbktxbENYemJWdDVDYmZB?oc=5",
+   "published_utc": "2026-11-02T00:47:23+00:00",
+   "title_original": "Japan’s October factory growth slows as costs pick up, PMI shows By Reuters",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4ee5ea0f823b1e59"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -428,23 +462,6 @@
    "live_wire": false,
    "manual": false,
    "id": "38a7cab1dc6d1819"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's robot makers already dominate the moves. Now the race for intelligence begins",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46I06R:0/",
-   "published_utc": "2026-11-01T23:04:21+00:00",
-   "title_original": "Os fabricantes de robôs da China já dominam os movimentos. Agora começa a corrida pela inteligência",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "3709cbfa8d1953e6"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -534,8 +551,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -549,7 +566,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -1035,6 +1052,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5dbbecc69c06d83e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-11-01T02:46:04+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1799,7 +1834,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's memoir \"Solomon: Fighting Deflation\" (Real Sound)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FOTBzeExlY1JzQ2VZd3o5QzE5ZXFKblFtcGZDSFV6d1VKRkVRZV9ZUU1QTWc5NFUzc2NKeWJka3JINy13WWE0N3pqWnpQNEtlSXFwLUY3VjkwaFhoM2hwRHRuU1lZLU5kTG4zMzhwb3M5M2ZGMDRLdUZWaDdlOE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmxHYVo4c2hEVG0wMWluTlR1V2M0QUo4UWQyaURJQ0RYVUdLZ0FldnVURmpYZzRMR1JwMVhQX2t6bk5adm11RVluN3YxNmdGa0FhWjlJdkJjV1RiajJkQkpuWDl1czE0R3RycWR0anRpVE5NLXZDOUNNX2V4aXFZT0t3ZDBjX09R?oc=5",
    "published_utc": "2026-10-31T03:02:22+00:00",
    "title_original": "デフレ不況下における日銀総裁の「役割」とは何だったのか？ 黒田東彦の回顧録『独白 デフレとの闘い』を読む（リアルサウンド）",
    "region": "japan",
@@ -1813,7 +1848,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "855c51c37c450234"
+   "id": "ece5fa37aac42706"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2178,9 +2213,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLTFpQnFwXzFQRWVqU3pfRTRRTXYzNHZaekxyWlp3TlVDUk5JRkZsTG9KNFRPdEdIX3JneHQ2clB3N190NjA3S2xHOXFpWHVYX3V6aVE1bThWdUo2anRLZUdETTZXSl9fUWE3bVVuTVZkeUhjTkxsY0lqd0ozZlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU1iX09xSFVqZWZ6ak9xei1Uc2d5YklIZ20wekFtbGYwcTlaaGEwRU1GRmNsR0NxZGZsd25TUFp4M2gydVdQbThXa1Y5LW5TR0lZa01LX05PcURTTE1pT2V3ckNyV3d0WVNPVGt1NFZfYjlmakxCcXhzVG9Hd1dHaFkydjVWMUNrQnBhRGl3?oc=5",
    "published_utc": "2026-10-30T22:06:30+00:00",
-   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す（時事通信）",
+   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す (時事通信)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -2190,7 +2225,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7923af3a8f4e8217"
+   "id": "d1afefd4ee9c6e50"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -4374,24 +4409,6 @@
    "live_wire": false,
    "manual": false,
    "id": "df49295b8e949126"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGxTVWZfYWV2Y0hEV2d3WW5CMDFIWTBHd3h1VzZGVjgtR1pFMHo1dWItc2ZSbmJOOUxqOHQ3VVNVTXR4Y1Q1MWlvVXhvWkxCMkZRbC1kVE51YTdvV2pwcWFuNnBEZjhVREtaelJGZEJPaDdCbWhyXzlvLXNNR25seFlTZ29DZllYWkhVNWYxZG01bk9OWVY1bzVzUXY1WmJzMkFmUmN4ZWplM1hsa081S1pCZXF5cmMtZGxVQlh4aTAza2MycWZUTS1rX0R1bkFJY2pqSERLZFUzb1UzenM3MVRjTmVGRldzbGx2ZXBSbjBjVmNscjdtcXE5OHlBX3ZaMGxnck5qeW5sZUpDTkItMA?oc=5",
-   "published_utc": "2026-10-30T08:21:01+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "998b4683943b14b8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8281,6 +8298,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f5a9cde50507567d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
+   "published_utc": "2026-10-29T04:07:30+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c3836b9f7c92c3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -13418,7 +13453,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12aTN0VTNtZ2ppczFoUHNTZElvLU9lR202b2tJNG0zV193WUpFUzU4VVpSOVJYTGEyd3ZaT3FycDRUaGFDMzR0VjNhdzkzaWFicm9OVkJEb2gxSFhxNlhybF9aRUtLNmRrMU5zWGNfMkZYY0xXLVRMU1lKb2s?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHducWdtMnhaRmNVNzFXTFR6ZXlWcV9HM2lNRWRvbmFNZG5oV3VQMEloNE9SRTNZYjlEb3RWbHFHM1JkLXNJS1Q4RC13ZDNZWFpiNWVUVmNzTTVDWWNNUmNlMW1oLWR2YUhCd2EzTzY0SnRYT0t0S2Y2cU54OUgwbVFOMUJqNm1OX3Vieg?oc=5",
    "published_utc": "2026-10-27T02:47:00+00:00",
    "title_original": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
    "region": "korea",
@@ -13429,7 +13464,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e75284673e13ef74"
+   "id": "c613810e986642f1"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51911,40 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d1a16234a20f3051"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Lam Research launches South Korea chip fund after 15,000-chamber milestone",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2tQLV9kVW5CN2NLb2NoM2FPaXVCZV9qRWU4RXdhdU1HbXBqV29VdTUxdzVUV3NEMEJFeGgtZHNmc2VKYkJwN3dQR2l5eS1fT085TDNiQ2hpUFBiRDNKcUFkWjZzYVhqenBwXzFocUFTaXIxdVNPQjBLY1hkOGJqUll4WlozMFZ6dmswbk8zNm4wR294aWlVYmF6X0w5VTduY1hXNHZqZGdJRWpBUDBz?oc=5",
-   "published_utc": "2026-10-08T07:42:44+00:00",
-   "title_original": "Lam Research launches South Korea chip fund after 15,000-chamber milestone",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ef19178e8d19ece"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "SpaceX pursues US$40 billion Nvidia chip financing while Terafab charts path to AI compute independence",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XY1dYTkg4QUV1cUpWd0J5aHR2M280d3BEdUZKZ0JrOTJ1YnJ6LUVYZ1JNbjc5UGVCbmo3enh4T0VRTHlNUDRtVjVqYjR2a1U2MlRBallhQ1dxSW92dldjSw?oc=5",
-   "published_utc": "2026-10-08T07:37:58+00:00",
-   "title_original": "SpaceX pursues US$40 billion Nvidia chip financing while Terafab charts path to AI compute independence",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "56073e2ca8f61d18"
   },
   {
    "source_id": "manual_ia",
