@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T01:32:43.679276+00:00
+Última coleta: 2026-11-02T01:42:44.131172+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          865
+  🇯🇵 Japão          924
+  🇨🇳 China          866
   🇹🇼 Taiwan         360
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10
   - [japan] JGB Yields Rise Amid Concerns About Elevated Energy Prices — Market Talk
   - [korea] Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] South Korea's exports nearly doubled in October thanks to AI investment, the largest increase in half a centur
   - [china] China’s Communist Party demands loyalty, vows to tighten discipline
   - [korea] Samsung chief Lee visits Japan chip packaging lab
-  - [taiwan] Nuit Blanche Taipei brings night of art, performances to Yuanshan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T01:32:43+00:00",
+      "published_utc": "2026-11-02T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
