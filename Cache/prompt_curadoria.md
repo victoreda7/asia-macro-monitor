@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T08:22:54.575510+00:00
+Última coleta: 2026-11-02T08:32:44.683162+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
-  🇨🇳 China          868
+  🇨🇳 China          867
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  852
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
+  - [china] China's manufacturing sector remains on front foot - RatingDog
   - [japan] Yen Falls Against Majors
   - [china] China Shifts Main Policy Rate to Overnight Reverse Repo Rate
   - [china] Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal
@@ -27,9 +29,9 @@ Total: 3000 manchetes
   - [korea] South Korea urges cryptocurrency exchanges to tighten security
   - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
   - [china] Asian stocks diverge following Wall Street tech sell-off; PBoC shifts policy anchor to overnight rate
-  - [china] China’s soaring chemical exports threaten new trade war front
   - [china] China’s Manufacturing Activity Returns to Contraction
   - [china] China’s shift to new policy rate signals easier funding conditions
+  - [china] China’s soaring chemical exports threaten new trade war front
   - [korea] Kospi Snaps Two-Session Losing Streak; Chip, Energy Stocks Advance
   - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
   - [japan] Mitsubishi Corp Says It Will Sell Stake In LNG Canada Project To Blackstone Credit For About 250 Billion Yen
@@ -42,6 +44,7 @@ Total: 3000 manchetes
   - [japan] Interest-Rate Hikes to Come in December, Highest Certainty in Japan — Market Talk
   - [japan] JGB yields edge up ahead of series of auctions
   - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
+  - [china] China signals caution over currency surge with weaker yuan fixing
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will make a careful decision on overcoming deflation.''
   - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
   - [japan] Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Ban
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Tous les Jours taps US bakery network to boost Korean grape exports
   - [japan] Japan's real interest rates have risen recently, BOJ says
   - [china] Chinese EV Makers Lean on Exports as Home Market Sinks
-  - [china] Surging costs and China trade war test US farmers' loyalty to Trump
-  - [japan] Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen
-  - [japan] Outlook for Economic Activity and Prices (October 2026, full text)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T08:22:54+00:00",
+      "published_utc": "2026-11-02T08:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
