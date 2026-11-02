@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T05:22:43.614580+00:00
+Última coleta: 2026-11-02T05:32:33.363206+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          866
+  🇯🇵 Japão          930
+  🇨🇳 China          864
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
+  - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
+  - [china] China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk
   - [korea] Tous les Jours taps US bakery network to boost Korean grape exports
+  - [japan] Japan's real interest rates have risen recently, BOJ says
   - [china] Chinese EV Makers Lean on Exports as Home Market Sinks
   - [china] Surging costs and China trade war test US farmers' loyalty to Trump
   - [japan] Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
   - [china] The central bank launches 541 billion yuan overnight reverse repurchase operation
   - [korea] South Korea's Lee vows to make bold AI investment in record budget push
-  - [china] PBoC Moves Toward Overnight Rate as Main Policy Anchor
-  - [china] China Private Manufacturing Gauge Shows Steady Expansion in October — Update
-  - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
-  - [taiwan] Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T05:22:43+00:00",
+      "published_utc": "2026-11-02T05:32:33+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

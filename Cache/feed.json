@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T05:22:43.614580+00:00",
- "collected_at_utc": "2026-11-02T05:22:43.614580+00:00",
+ "generated_at_utc": "2026-11-02T05:32:33.363206+00:00",
+ "collected_at_utc": "2026-11-02T05:32:33.363206+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
-  "china": 866,
+  "japan": 930,
+  "china": 864,
   "taiwan": 354,
   "korea": 852
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T05:04:03+00:00"
+   "newest": "2026-11-02T05:26:40+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T03:30:24+00:00"
+   "newest": "2026-11-02T05:19:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T06:53:46+00:00"
+   "newest": "2026-11-01T21:45:12+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T05:18:00+00:00"
+   "newest": "2026-11-02T05:23:58+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:08:01+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:50:32+00:00"
+   "newest": "2026-11-02T03:49:36+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T05:12:11+00:00"
+   "newest": "2026-11-02T05:31:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T23:13:42+00:00"
+   "newest": "2026-11-02T02:13:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,58 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ locks in December hike, but neutral-rate uncertainty muddies outlook",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46I03A:0-boj-locks-in-december-hike-but-neutral-rate-uncertainty-muddies-outlook/",
+   "published_utc": "2026-11-02T05:30:00+00:00",
+   "title_original": "BOJ locks in December hike, but neutral-rate uncertainty muddies outlook",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6ca7fc2d8641dafe"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push",
+   "url": "https://www.tradingview.com/news/seekingalpha:1fb66982f094b:0-tesla-samsung-flag-manufacturing-risks-from-trump-s-vietnam-tariff-push/",
+   "published_utc": "2026-11-02T05:23:15+00:00",
+   "title_original": "Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "86cd32f3586c3f7a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261102000086:0-china-s-weak-property-sector-remains-key-drag-for-factory-activity-market-talk/",
+   "published_utc": "2026-11-02T05:18:00+00:00",
+   "title_original": "China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6f804cbb04692739"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Tous les Jours taps US bakery network to boost Korean grape exports",
@@ -359,6 +411,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d9f7292a72e5d34a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's real interest rates have risen recently, BOJ says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN43P017:0-japan-s-real-interest-rates-have-risen-recently-boj-says/",
+   "published_utc": "2026-11-02T05:07:48+00:00",
+   "title_original": "Japan's real interest rates have risen recently, BOJ says",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "db03924e8b621a93"
   },
   {
    "source_id": "tradingview_live",
@@ -1109,7 +1178,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank adjusts the reverse repurchase mechanism and carries out overnight operations with an interest rate of 1.25% every working day.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMDVsZU9fOUFic25pUEtLNWZFQjVEcWo0Q21NelFzTDkzTzVGaG13MEFsRzBvS0NvWl9FTV9fLWZiRXF4cEpHOGxUcm5XcWRiUGgtTEg4WnQ5dG9IWF80QWN3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uaUQ1V3Ftd2xDTWVJZTRzNHo3dHd5ZS1CMlhaYmVmY3JwZWZCNmNIdTJ3NmYwOE1rQmtsQ3FhZlIwUUN5MExFc0VaZ0RvZw?oc=5",
    "published_utc": "2026-11-02T02:16:34+00:00",
    "title_original": "央行调整逆回购机制 每个工作日开展隔夜操作利率1.25%",
    "region": "china",
@@ -1120,7 +1189,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ef8be77557e72fee"
+   "id": "66f900581ae9d054"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1192,41 +1261,6 @@
    "id": "d3880b3610e069f7"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Private Manufacturing Gauge Shows Steady Expansion in October",
-   "url": "https://www.tradingview.com/news/DJN_DN20261101001265:0-china-s-private-manufacturing-gauge-shows-steady-expansion-in-october/",
-   "published_utc": "2026-11-02T02:08:00+00:00",
-   "title_original": "China's Private Manufacturing Gauge Shows Steady Expansion in October",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3bf435e6f3ed272d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "China Manufacturing PMI Eases In September - S&P Global",
-   "url": "https://www.tradingview.com/news/dpa_afx:b004a0f34d5c9:0-china-manufacturing-pmi-eases-in-september-s-p-global/",
-   "published_utc": "2026-11-02T02:07:50+00:00",
-   "title_original": "China Manufacturing PMI Eases In September - S&P Global",
-   "region": "china",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dbe72e6095628c07"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "DHL CEO sees Korea as winner in global supply chain shake-up",
@@ -1261,23 +1295,6 @@
    "id": "4a8e3c0213aa3503"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY541 BLN VIA O/N REVERSE REPO MON",
-   "url": "https://www.tradingview.com/news/dpa_afx:1dcdbf183afd5:0-china-pboc-conducts-cny541-bln-via-o-n-reverse-repo-mon/",
-   "published_utc": "2026-11-02T01:56:27+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY541 BLN VIA O/N REVERSE REPO MON",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "413d2a9171fee7e2"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
@@ -1294,23 +1311,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4e9207eb5797c45b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7146 MON VS 6.7138",
-   "url": "https://www.tradingview.com/news/dpa_afx:a2854ac068b74:0-china-sets-yuan-central-parity-at-6-7146-mon-vs-6-7138/",
-   "published_utc": "2026-11-02T01:55:04+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7146 MON VS 6.7138",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "35ea52092b19ba92"
   },
   {
    "source_id": "investing_econ",
@@ -1684,7 +1684,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko Kuroda still remembers the \"phone call from Prime Minister Abe\"",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSlZvV3R3LU14WHFrQjBQSGlVT0t0ZTlRY2ZvRm1iSkhxUHpSdnpNSTA0SmNObUdELVkzLUpGb0tGMmJFNE03WnZ0V0FrX3V3eFFROVBPSG9qZ0hicVlCaTlGSHhhZllpb1d1SkZ3eTA1ODFuQXVHY3EwQVNlcnM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlNPVW1DQ0VZU3B4VXNkU01aZW1TNjlXendqRGwwejdRU0RqU2h0WElFUXZZTUQtakI2OHR2YnFycnlnaUZQSmVNMDFIQ1VGTGRNU3hhSE9rTGkxNkJjc1puclYxUEg0ZWFaeThyaU12T0lsZ3lCTFB6NHRrR0RjWmtEblJ0bmZEZ3ZhUzR3?oc=5",
    "published_utc": "2026-11-01T22:12:16+00:00",
    "title_original": "「一度はためらった」という日銀総裁の座を、なぜ引き受けたのか…黒田東彦氏が今でも忘れない、“安倍首相からの電話”",
    "region": "japan",
@@ -1696,7 +1696,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "961b0893057276ba"
+   "id": "7ff5f906f8e8f8e2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1768,8 +1768,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -1783,7 +1783,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -2163,6 +2163,23 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2741,10 +2758,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -2754,24 +2771,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2878,23 +2878,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -2910,6 +2893,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "tradingview_live",
@@ -4365,7 +4365,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -4376,7 +4376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0502612f5f1f0dc8"
+   "id": "5d0e607e39d15dc0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5946,6 +5946,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9b3e406b3000f2db"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "The \"anchor change\" of policy interest rates was implemented, and the central bank launched a 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZRGs3czN5VF9Ic0xubU5xb0JJaTI1bzVIU3ItNTktZ29qMkZTTWJXdTlBZ0pKRXFwUmhONk96V1hHbkhkQUFRcFJTWDR6eFFMbXE5cG9R?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "title_original": "政策利率“换锚”落地，央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b624463bb65b78d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -15380,24 +15398,6 @@
    "id": "936195605368260b"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "조세일보",
-   "title_en": "Bank of Korea appoints Director of Monetary Policy Bureau Choi Chang-ho as Assistant Vice Governor for Monetary Policy and Markets",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVRFFnM3A0Yk9XNm00RGIwc1IxcTBueU1hT1RaMlRDRUFHc2pZT1dURW94bU44YkZ5UGI4bVJTZG9IUExBNVlnSjFwQmFIUVU2bVhBb09tNUhQT3lENE1SdHlMT2ZQbzl5V1FuQkpKaw?oc=5",
-   "published_utc": "2026-10-26T23:24:00+00:00",
-   "title_original": "한은, 통화정책·시장 담당 부총재보에 최창호 통화정책국장 임명",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6358c5e00aa74c82"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK",
@@ -16538,6 +16538,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2d9702d94174b69e"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국일보",
+   "title_en": "Bank of Korea appoints Director of Monetary Policy Bureau Choi Chang-ho as Assistant Vice Governor for Monetary Policy and Markets",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dFZEUHRBQm40dEMyZkNkUzFlTXFTcDg4Z0dZTi1lQkl0VzhFSkY1Ym5kUVFFTmJIOXlXUG1fUzJocFFfSWgwUF91NndJdWhzNXBHeTBZbkJtU0JFSXh1cnVQMkdNTHdqbVgtcTRR0gFzQVVfeXFMUDJ4a0JPcmJ6Z0xqV29TQXdmTEp6QnZSNDEtMGJnS3RMTlVkNTByRi1zRW1rUmhuZjVqNnhJNVc4WWJiaUpSRzV1TEIyQ05iS3dEeWZ4ZVB2Uy13eHhhci0xZ09kSnVjTi1CczBKc2RiWEtMMA?oc=5",
+   "published_utc": "2026-10-26T08:57:00+00:00",
+   "title_original": "한은, 통화정책·시장 담당 부총재보에 최창호 통화정책국장 임명",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "448676f38cd70df7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51923,23 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b051ec7dcc48f39"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12",
-   "url": "https://www.koreaherald.com/article/10897751",
-   "published_utc": "2026-10-09T02:51:45+00:00",
-   "title_original": "SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "869867c1ebdc0f11"
   },
   {
    "source_id": "manual_ia",
