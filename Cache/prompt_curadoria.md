@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T23:42:44.904209+00:00
+Última coleta: 2026-11-02T23:52:44.344888+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
   🇨🇳 China          851
-  🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  869
+  🇹🇼 Taiwan         359
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
+  - [korea] (2nd LD) Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month
   - [korea] South Korea October headline inflation moderates ahead of expected rate hike
   - [korea] South Korea Inflation Remains Above Target at 2.8% in October — Update
   - [korea] [Breaking news] Korea's October consumer price inflation rate 2.8%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean president plans to expand fiscal spending in 2027 budget bill, perhaps due to declining approval 
   - [china] China's central bank taps liquidity tool to aid struggling stocks
   - [japan] Still-negative Japanese real rates should continue to support USD/JPY: UBS
-  - [korea] Finance minister, Hyundai Motor chief discuss EV policies: sources
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T23:42:45+00:00",
+      "published_utc": "2026-11-02T23:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
