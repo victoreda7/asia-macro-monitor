@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T03:52:43.108370+00:00",
- "collected_at_utc": "2026-11-02T03:52:43.108370+00:00",
+ "generated_at_utc": "2026-11-02T04:02:46.184695+00:00",
+ "collected_at_utc": "2026-11-02T04:02:46.184695+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 926,
-  "china": 869,
+  "japan": 929,
+  "china": 867,
   "taiwan": 354,
-  "korea": 851
+  "korea": 850
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 46,
    "error": "",
-   "newest": "2026-10-30T17:00:00+09:00"
+   "newest": "2026-11-02T13:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:47:00+00:00"
+   "newest": "2026-10-30T10:59:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T01:11:00+00:00"
+   "newest": "2026-11-02T03:08:01+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T04:48:30+09:00"
+   "newest": "2026-11-02T12:53:43+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:09:00+00:00"
+   "newest": "2026-11-02T03:49:36+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T13:47:24+00:00"
+   "newest": "2026-11-02T02:22:38+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T03:51:55+00:00"
+   "newest": "2026-11-02T04:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,76 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
+   "published_utc": "2026-11-02T04:00:00+00:00",
+   "title_original": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "97c7c71fe4963834"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar, low supply and exports to China place cattle in Brazil on the R$400/at route",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46G0Y0:0/",
+   "published_utc": "2026-11-02T04:00:00+00:00",
+   "title_original": "Dólar, oferta baixa e exportação à China colocam boi no Brasil na rota de R$400/arroba",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "a3de0840b6d33cdf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan weighs $500 billion defence spending plan, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46J06C:0-japan-weighs-500-billion-defence-spending-plan-sources-say/",
+   "published_utc": "2026-11-02T03:52:12+00:00",
+   "title_original": "Japan weighs $500 billion defence spending plan, sources say",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "da2ff67232d84526"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "\"Anchor replacement\" was implemented, and the central bank launched a 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hT0FLb0prekdabjBlQmNYMG9QVGZvcm8wU1JmQ1pvVGZoQi1Sc2VoREc1N3RuWHQ2anZIUkdhaTVGUUFKc0daMFdPMGF2VnMxRVNISHJFZVVoYXZqZ1FMVw?oc=5",
+   "published_utc": "2026-11-02T03:49:36+00:00",
+   "title_original": "“换锚”落地，央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b2b9cabb63650905"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -500,6 +570,23 @@
    "live_wire": true,
    "manual": false,
    "id": "5c6ba50130029124"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:01+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1391,40 +1478,6 @@
    "id": "a437fa771a089dc5"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks",
-   "url": "https://www.tradingview.com/news/binance_news:e57031fc8094b:0-bank-of-korea-surveys-banks-and-securities-firms-on-virtual-asset-business-risks/",
-   "published_utc": "2026-11-02T00:51:32+00:00",
-   "title_original": "Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6f1fa452c70b6925"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's robot makers already dominate the moves. Now the race for intelligence begins",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J00J:0/",
-   "published_utc": "2026-11-02T00:50:42+00:00",
-   "title_original": "Os fabricantes de robôs da China já dominam os movimentos. Agora começa a corrida pela inteligência",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "60c92b1c660e2ef8"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan’s October factory growth slows as costs pick up, PMI shows By Reuters",
@@ -1633,8 +1686,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -1648,7 +1701,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -2028,6 +2081,23 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2606,10 +2676,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -2619,24 +2689,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -9544,7 +9597,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RGlzaFVsakJ1THVFdnBMbHJnQ0E2Si1SbWxUN014SUZsbWlnZElSNU9rQm1jbUNyUkwzOFNRWVZGRWpxM2tKT2JWVlA1Zw?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -9556,7 +9609,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b921c83c0da75290"
+   "id": "e054b19593281a7b"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -31165,23 +31218,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -31197,6 +31233,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51894,60 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "26b4d85f2dd47cdf"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中新经纬",
-   "title_en": "The central bank launches 2 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ySFhwWUJmU2VTWlV1R2U4S1J3ZnE1S3JVOWpYSnFyX0M1aWt5WTVUamJ1Q3BRNktTaEdxVlRMNTd6b0RmUlEzMGkxS25iZmo3ZTFkT0dCdlBKczc2ZkxsbUNSeFU?oc=5",
-   "published_utc": "2026-10-09T01:30:00+00:00",
-   "title_original": "央行开展20亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0ab8771da76bbccb"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
-   "title_en": "The central bank launched a 2 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjdqMXd6cDZ5ZjRTWHpWTm5NT21iOUZGWVlHV08yOE1vem5kamZYRDAzeXR2empRcXVGenc3VTN2MDFaNHBBS1ZMbmh6QlpQWnlybzFLY2lJb0tpdHdQZHdaNXJWN05NSUZoNjZ2TVc0OGFDSExSSFpoNFdzRHJBN2VfWW1Rb2pLaDg0M05URV9JQQ?oc=5",
-   "published_utc": "2026-10-09T01:28:02+00:00",
-   "title_original": "央行今日开展20亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "060d717068bc0f34"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "汇通网 Fx678",
-   "title_en": "The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a bidding volume of 2 billion yuan and a winning bid of 2 billion yuan. The operating interest rate was 1.40%, the same as before_Foreign Exchange Dynamic Report",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tVjRzdVpSM1dvQTdkWkJCRDdMd0Y5WE5peFNlT2Y4RTdDZ0ZCMGEtVmN3MF96dUV0ejZ5WnFoOHcwcnFlVHBEVzBtT3ZUMERUR2Y2SjBhMzlkZFhWTFR6RjFUV3h3NzA?oc=5",
-   "published_utc": "2026-10-09T01:21:56+00:00",
-   "title_original": "中国央行：今日开展20亿元7天逆回购操作，投标量20亿元，中标量20亿元，操作利率为1.40%，与此前持平_外汇动态报道",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6883049fb6c7df7d"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T03:52:43.108370+00:00
+Última coleta: 2026-11-02T04:02:46.184695+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          869
+  🇯🇵 Japão          929
+  🇨🇳 China          867
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sources of Changes in Current Account Balances and Market Operations (Oct.)
+  - [china] Dollar, low supply and exports to China place cattle in Brazil on the R$400/at route
+  - [japan] Japan weighs $500 billion defence spending plan, sources say
+  - [china] "Anchor replacement" was implemented, and the central bank launched a 541 billion yuan overnight reverse repur
   - [korea] South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk
   - [japan] October 2026 Bank of Japan Policy Meeting Review - Summary of this meeting and future market outlook [Sumitomo
   - [china] China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk
@@ -26,6 +30,7 @@ Total: 3000 manchetes
   - [china] China’s shift to new policy rate signals easier funding conditions
   - [korea] South Korea’s manufacturing PMI slows to 8-month low in October
   - [china] China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk
+  - [japan] BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen
   - [japan] Japan manufacturing PMI slows to seven-month low in October By Investing.com
   - [japan] Japan manufacturing PMI slows to seven-month low in October
   - [taiwan] Taiwan PMI Shows Goods Producers' Supply-Chain Struggles — Market Talk
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] China Manufacturing PMI Eases In September - S&P Global
   - [korea] DHL CEO sees Korea as winner in global supply chain shake-up
   - [china] China’s 5,000-Ton Digging Machines Are a Trade War Risk to India
-  - [china] CHINA PBOC CONDUCTS CNY541 BLN VIA O/N REVERSE REPO MON
-  - [japan] Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% i
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7146 MON VS 6.7138
-  - [china] China Manufacturing PMI Beats Estimates
-  - [china] China factory growth slows in October as export orders ease, private PMI shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T03:52:43+00:00",
+      "published_utc": "2026-11-02T04:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
