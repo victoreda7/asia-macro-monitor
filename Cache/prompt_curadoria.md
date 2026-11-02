@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T05:33:12.262066+00:00
+Última coleta: 2026-11-02T05:42:46.650144+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
   - [japan] BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
   - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
   - [china] China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Weakens Despite Verbal Warning
   - [japan] Is “Japan’s bankruptcy due to long-term interest rates” a lie? Yoichi Takahashi reveals misconceptions about “
   - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
-  - [china] The central bank launches 541 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T05:33:12+00:00",
+      "published_utc": "2026-11-02T05:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
