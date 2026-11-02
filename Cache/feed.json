@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T04:12:44.001629+00:00",
- "collected_at_utc": "2026-11-02T04:12:44.001629+00:00",
+ "generated_at_utc": "2026-11-02T04:22:42.457988+00:00",
+ "collected_at_utc": "2026-11-02T04:22:42.457988+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
+  "japan": 928,
   "china": 867,
   "taiwan": 354,
-  "korea": 850
+  "korea": 851
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:48:00+00:00"
+   "newest": "2026-11-02T02:51:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T01:11:00+00:00"
+   "newest": "2026-11-02T03:08:01+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:06:00+00:00"
+   "newest": "2026-11-02T02:49:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T04:01:00+00:00"
+   "newest": "2026-11-02T04:21:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T02:13:01+00:00"
+   "newest": "2026-11-01T23:13:42+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:00:00+00:00"
+   "newest": "2026-11-02T03:34:31+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Mabuchi Motor: Sales rose 14.2% as automotive orders, yen depreciation and M&A lifted results",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4281214:0-mabuchi-motor-sales-rose-14-2-as-automotive-orders-yen-depreciation-and-m-a-lifted-results/",
+   "published_utc": "2026-11-02T04:16:48+00:00",
+   "title_original": "Mabuchi Motor: Sales rose 14.2% as automotive orders, yen depreciation and M&A lifted results",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "df7f5b33aa44a9ea"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -377,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a3de0840b6d33cdf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Cointelegraph",
+   "title_en": "Bank of Korea probes financial firms’ exposure to crypto risks",
+   "url": "https://www.tradingview.com/news/cointelegraph:3ab669c8c094b:0-bank-of-korea-probes-financial-firms-exposure-to-crypto-risks/",
+   "published_utc": "2026-11-02T03:55:50+00:00",
+   "title_original": "Bank of Korea probes financial firms’ exposure to crypto risks",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "91f659bc33ebe7e6"
   },
   {
    "source_id": "tradingview_live",
@@ -1320,23 +1354,6 @@
    "id": "98ab0292f864e42c"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y3.0T Of TD-Bills Nov 9",
-   "url": "https://www.tradingview.com/news/DJN_DN20261101001233:0-japan-mof-to-auction-y3-0t-of-td-bills-nov-9/",
-   "published_utc": "2026-11-02T01:20:00+00:00",
-   "title_original": "Japan MOF To Auction Y3.0T Of TD-Bills Nov 9",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7091e633c015c3f6"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "네이버 프리미엄콘텐츠",
    "title_en": "Apartment transactions in Seoul plummet by 18.3% due to the Bank of Korea's base interest rate of 3.00%, seven signs that house prices are taking a breather",
@@ -1353,24 +1370,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9ce0f81be372a0d6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Japan Manufacturing PMI Slips To 53.3 In October - S&P Global",
-   "url": "https://www.tradingview.com/news/dpa_afx:7473aebf78755:0-japan-manufacturing-pmi-slips-to-53-3-in-october-s-p-global/",
-   "published_utc": "2026-11-02T01:13:47+00:00",
-   "title_original": "Japan Manufacturing PMI Slips To 53.3 In October - S&P Global",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3ac0c1e9b8696eae"
   },
   {
    "source_id": "gn_jp_yahoo",

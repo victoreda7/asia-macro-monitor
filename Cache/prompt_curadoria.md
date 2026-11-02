@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T04:12:44.001629+00:00
+Última coleta: 2026-11-02T04:22:42.457988+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          928
   🇨🇳 China          867
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  850
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mabuchi Motor: Sales rose 14.2% as automotive orders, yen depreciation and M&A lifted results
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Oct.)
   - [china] Dollar, low supply and exports to China place cattle in Brazil on the R$400/at route
+  - [korea] Bank of Korea probes financial firms’ exposure to crypto risks
   - [japan] Japan weighs $500 billion defence spending plan, sources say
   - [china] "Anchor replacement" was implemented, and the central bank launched a 541 billion yuan overnight reverse repur
   - [korea] South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook
   - [china] China's Private Manufacturing Gauge Shows Steady Expansion in October
   - [china] China Manufacturing PMI Eases In September - S&P Global
-  - [korea] DHL CEO sees Korea as winner in global supply chain shake-up
-  - [china] China’s 5,000-Ton Digging Machines Are a Trade War Risk to India
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T04:12:44+00:00",
+      "published_utc": "2026-11-02T04:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
