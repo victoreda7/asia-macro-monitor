@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T04:22:42.457988+00:00
+Última coleta: 2026-11-02T04:32:43.128607+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say
+  - [korea] South Korea's Chip-Led Surplus Set to Drive Further Won Gains — Market Talk
   - [japan] Mabuchi Motor: Sales rose 14.2% as automotive orders, yen depreciation and M&A lifted results
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Oct.)
   - [china] Dollar, low supply and exports to China place cattle in Brazil on the R$400/at route
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China factory output grows at fastest pace in 6 months: RatingDog PMI
   - [taiwan] SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Und
   - [japan] MU, SNDK, DRAM Inch Higher Overnight After Mixed Week: Japan’s Kioxia Plunges After Cautious Memory Outlook
-  - [china] China's Private Manufacturing Gauge Shows Steady Expansion in October
-  - [china] China Manufacturing PMI Eases In September - S&P Global
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T04:22:42+00:00",
+      "published_utc": "2026-11-02T04:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
