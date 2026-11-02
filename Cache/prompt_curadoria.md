@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T05:42:46.650144+00:00
+Última coleta: 2026-11-02T05:52:44.531910+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          863
+  🇯🇵 Japão          928
+  🇨🇳 China          864
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  852
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
+  - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
   - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
-  - [japan] BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
   - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
+  - [china] China 10Y Yield Falls After PBOC Policy Shift
   - [china] China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk
   - [korea] Tous les Jours taps US bakery network to boost Korean grape exports
   - [japan] Japan's real interest rates have risen recently, BOJ says
@@ -34,6 +36,7 @@ Total: 3000 manchetes
   - [korea] South Korean Won Falls as Overseas Dollar Demand Persists
   - [korea] South Korea's Chip-Led Surplus Set to Drive Further Won Gains — Market Talk
   - [japan] Mabuchi Motor: Sales rose 14.2% as automotive orders, yen depreciation and M&A lifted results
+  - [korea] Samsung chairman Lee Jae-yong turns to Japan for AI chip packaging edge
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Oct.)
   - [china] Dollar, low supply and exports to China place cattle in Brazil on the R$400/at route
   - [korea] Bank of Korea probes financial firms’ exposure to crypto risks
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan manufacturing PMI slows to seven-month low in October
   - [taiwan] Taiwan PMI Shows Goods Producers' Supply-Chain Struggles — Market Talk
   - [china] China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK
-  - [japan] Yen Weakens Despite Verbal Warning
-  - [japan] Is “Japan’s bankruptcy due to long-term interest rates” a lie? Yoichi Takahashi reveals misconceptions about “
-  - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T05:42:46+00:00",
+      "published_utc": "2026-11-02T05:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
