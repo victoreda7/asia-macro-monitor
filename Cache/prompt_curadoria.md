@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T11:22:43.707684+00:00
+Última coleta: 2026-11-02T11:32:54.335907+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
+  - [china] The main policy interest rate "changes anchor", why does the overnight reverse repurchase rate bear such a hea
   - [japan] SBI Holdings Inc - To Establish Merged Company With Capital Of 100 Million Yen Equally Split Between SBI Group
   - [china] China signals caution over currency surge with weaker yuan fixing
   - [korea] South Korean president plans to expand fiscal spending in 2027 budget bill, perhaps due to declining approval 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s soaring chemical exports threaten new trade war front
   - [korea] Kospi Snaps Two-Session Losing Streak; Chip, Energy Stocks Advance
   - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
-  - [japan] Mitsubishi Corp Says It Will Sell Stake In LNG Canada Project To Blackstone Credit For About 250 Billion Yen
-  - [japan] S&P Global Japan Manufacturing PMI slows to 7-month low of 53.3
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T11:22:43+00:00",
+      "published_utc": "2026-11-02T11:32:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
