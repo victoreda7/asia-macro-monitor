@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T12:42:46.817952+00:00
+Última coleta: 2026-11-02T12:52:43.084504+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          862
-  🇹🇼 Taiwan         358
+  🇨🇳 China          861
+  🇹🇼 Taiwan         359
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] Update: Chinese central bank shifts policy rate anchor to overnight
   - [japan] Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?F
   - [china] China's central bank launched policy tools on the 3rd to boost the stock market | Cross-Strait
+  - [taiwan] Manufacturing solid but strain of energy costs, supply disruptions starts to show
   - [japan] The BOJ accidentally made $440 billion in stocks
   - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
   - [china] The main policy interest rate "changes anchor", why does the overnight reverse repurchase rate bear such a hea
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough
   - [korea] South Korea urges cryptocurrency exchanges to tighten security
   - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
-  - [china] Asian stocks diverge following Wall Street tech sell-off; PBoC shifts policy anchor to overnight rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T12:42:47+00:00",
+      "published_utc": "2026-11-02T12:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
