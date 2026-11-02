@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T06:13:02.206011+00:00
+Última coleta: 2026-11-02T06:22:44.026932+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          928
   🇨🇳 China          865
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  852
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [korea] Finance minister discusses economic ties, cooperation with US ambassador
+  - [korea] Household loans again rise in Oct. despite tightened rules, higher rates
+  - [china] PBoC shifts primary policy anchor to overnight rate with daily 1.25% reverse repos
   - [japan] BOJ flags progress in anchoring inflation around target
   - [japan] Interest-Rate Hikes to Come in December, Highest Certainty in Japan — Market Talk
   - [japan] JGB yields edge up ahead of series of auctions
-  - [korea] Household loans again rise in Oct. despite tightened rules, higher rates
   - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
   - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
   - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] October 2026 Bank of Japan Policy Meeting Review - Summary of this meeting and future market outlook [Sumitomo
   - [japan] October 2026 Bank of Japan Policy Meeting Review - Summary of the meeting and future market outlook [Chief Mar
   - [china] China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk
-  - [japan] Flat 35 Interest rate 3.81%, second highest ever
-  - [china] Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T06:13:02+00:00",
+      "published_utc": "2026-11-02T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
