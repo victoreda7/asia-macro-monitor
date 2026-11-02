@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T03:12:43.847574+00:00
+Última coleta: 2026-11-02T03:22:44.174653+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
+  🇯🇵 Japão          929
   🇨🇳 China          866
-  🇹🇼 Taiwan         355
+  🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
@@ -21,6 +21,8 @@ Total: 3000 manchetes
   - [japan] Japan manufacturing PMI slows to seven-month low in October By Investing.com
   - [taiwan] Taiwan PMI Shows Goods Producers' Supply-Chain Struggles — Market Talk
   - [china] China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK
+  - [japan] Yen Weakens Despite Verbal Warning
+  - [japan] Is “Japan’s bankruptcy due to long-term interest rates” a lie? Yoichi Takahashi reveals misconceptions about “
   - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
   - [korea] South Korea's Lee vows to make bold AI investment in record budget push
   - [china] PBoC Moves Toward Overnight Rate as Main Policy Anchor
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation in the open market
   - [japan] JGB Yields Rise Amid Concerns About Elevated Energy Prices — Market Talk
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation
-  - [japan] Japan’s Katayama Says Ready to Take Steps for Stable FX Market
-  - [korea] Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T03:12:44+00:00",
+      "published_utc": "2026-11-02T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
