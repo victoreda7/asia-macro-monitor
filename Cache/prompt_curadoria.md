@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T09:32:55.893535+00:00
+Última coleta: 2026-11-02T09:42:55.194189+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          873
+  🇯🇵 Japão          925
+  🇨🇳 China          872
   🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  848
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yomiuri: Fujifilm Bets 10 Billion Yen on Magnetic Data Storage Resurgence
   - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.5 Billion Yuan
   - [china] PBOC: 31 Securities, Fund Companies Have Applied for Quotas Exceeding CNY100B
   - [china] PBOC: Move Is to Support Healthy, Stable Development of Capital Market
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
   - [china] China signals caution over currency surge with weaker yuan fixing
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will carefully decide how to overcome deflation.'' The 
-  - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will make a careful decision on overcoming deflation.''
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T09:32:56+00:00",
+      "published_utc": "2026-11-02T09:42:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
