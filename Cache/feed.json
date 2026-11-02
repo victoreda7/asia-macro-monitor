@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T09:02:43.774619+00:00",
- "collected_at_utc": "2026-11-02T09:02:43.774619+00:00",
+ "generated_at_utc": "2026-11-02T09:12:56.587618+00:00",
+ "collected_at_utc": "2026-11-02T09:12:56.587618+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 925,
-  "china": 867,
+  "china": 869,
   "taiwan": 355,
-  "korea": 853
+  "korea": 851
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T08:43:57+00:00"
+   "newest": "2026-11-02T09:06:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T08:30:20+00:00"
+   "newest": "2026-11-02T09:06:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T01:11:00+00:00"
+   "newest": "2026-11-02T03:08:01+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T17:29:51+09:00"
+   "newest": "2026-11-02T18:08:03+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T09:02:00+00:00"
+   "newest": "2026-11-02T09:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-02T04:41:16+00:00"
+   "newest": "2026-11-02T09:03:31+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-02T17:30:00+09:00"
+   "newest": "2026-11-02T18:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Falls After Japan Katayama's Intervention Warning",
+   "url": "https://www.tradingview.com/news/dpa_afx:f543e6d346c10:0-yen-falls-after-japan-katayama-s-intervention-warning/",
+   "published_utc": "2026-11-02T09:07:02+00:00",
+   "title_original": "Yen Falls After Japan Katayama's Intervention Warning",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8c9b6497dadd7adc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's central bank taps liquidity tool to fund share purchases",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3ZT0LT:0-china-s-central-bank-taps-liquidity-tool-to-fund-share-purchases/",
+   "published_utc": "2026-11-02T09:04:22+00:00",
+   "title_original": "China's central bank taps liquidity tool to fund share purchases",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c015765ad272d783"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -876,6 +910,26 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Economic and Fiscal Affairs Minister Jouchi says, ``We will carefully decide how to overcome deflation.'' The Bank of Japan announces that it has reached its 2% price target (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnJCUzZ1RVRjLW55WmtaN3RfOUhJTXV2dVp1cWxXMWhkMEZ2U2xhQzJuMzQ4eDM3ZHNRZmd4RDNkVldyY1lYNWp6NjlZUDN1YlZKbk9CdkFtZjFwR0FuY2xrZ1FjVEoxSEJLOTVZQWdaUGwxUmZmQVQyU3llT19uaUZaWHUzcXZqak9WS3ZB?oc=5",
+   "published_utc": "2026-11-02T05:56:19+00:00",
+   "title_original": "城内経済財政担当大臣「デフレ脱却は慎重に判断」 日銀は物価目標2％に到達と表明 (TBS NEWS DIG Powered by JNN)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "19f1d51fcc5e6731"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Economic and Fiscal Affairs Minister Jouchi says, ``We will make a careful decision on overcoming deflation.'' Bank of Japan announces reaching 2% price target (TBS NEWS DIG Powered by JNN)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NY3FYQUFOUHFlWjl5UVV0WXJzWkp5ZkVGNkc4SlpJeWZpTjhlNVpVRXdMTzlLOGtIbElNcVFWU0dPVjh6RmNxaVpqbW15WngxOHhBTU4xYy1BbEdFVV95NUNOLU9qNkxqWktZakFOSUdnY0JhZVhNNU0zeFZGeWM?oc=5",
    "published_utc": "2026-11-02T05:56:19+00:00",
@@ -1359,23 +1413,6 @@
    "id": "ae751da00776f905"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan weighs $500 billion defence spending plan, sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46J06C:0-japan-weighs-500-billion-defence-spending-plan-sources-say/",
-   "published_utc": "2026-11-02T03:52:12+00:00",
-   "title_original": "Japan weighs $500 billion defence spending plan, sources say",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "da2ff67232d84526"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "ThePaper.cn",
    "title_en": "\"Anchor replacement\" was implemented, and the central bank launched a 541 billion yuan overnight reverse repurchase operation",
@@ -1392,24 +1429,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2b9cabb63650905"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261101001484:0-south-korea-pmi-shows-faltering-manufacturing-momentum-market-talk/",
-   "published_utc": "2026-11-02T03:44:00+00:00",
-   "title_original": "South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6d6805ca005a0e5b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1589,6 +1608,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3181488f0b6ef9ed"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国基金报",
+   "title_en": "The central bank launched a 541 billion yuan overnight reverse repurchase operation in the open market, with an operating interest rate of 1.25%.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55WkppeDVIVEs2cVdDQjN4eFU2bTdZblJBMXhTNWxoNjE2eldkNl9XZy1CNVhXSm01ZEFVZWZhdldoYUlSalBpc3JvR0RmNXhjRVpNLVhXeEZaeWtwTlktdTBiaWxOZTdTVjlFLUFJZTV0QjcybEQ2MFV3?oc=5",
+   "published_utc": "2026-11-02T02:50:00+00:00",
+   "title_original": "央行公开市场开展5410亿元隔夜逆回购操作，操作利率为1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "818cd097a5ea38ee"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -2288,8 +2325,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2303,7 +2340,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -10688,7 +10725,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "Bank of Korea: “External risk factors remain despite the U.S. base interest rate freeze” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IQ2FyYTdTVFNBZmFGRXJPWFZfT0JBblNFWktqRXNMM0JMM2RGZGJnX3pNN0J5T1JFN0IzaFhrNHlZakFkNG5na21OVXFjaTN3SVBIT0podkxQRXVFcjdnNnZaaUp4THFFMkMw0gFwQVVfeXFMT3RjTXVRYUJVbkdxZFEtWGtNU2N0c2tpeGE4Z0htMEt4Yzk3Z2tNSzJHVHdZNFRBN3M2YmRoa0tVN0NzbVBESGtGbHZBYlNickU2OUxScG9qc0ZMRnE5dUozWWR2dkx0dVIyamxEc05ObA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Y011UWFCVW5HcWRRLVhrTVNjdHNraXhhOGdIbTBLeGM5N2drTUsyR1R3WTRUQTdzNmJkaGtLVTdDc21QREhrRmx2QWJTYnJFNjlMUnBvanNGTEZxOXVKM1lkdnZMdHVSMmpsRHNOTmzSAXBBVV95cUxPdGNNdVFhQlVuR3FkUS1Ya01TY3Rza2l4YThnSG0wS3hjOTdna01LMkdUd1k0VEE3czZiZGhrS1U3Q3NtUERIa0ZsdkFiU2JyRTY5TFJwb2pzRkxGcTl1SjNZZHZ2THR1UjJqbERzTk5s?oc=5",
    "published_utc": "2026-10-29T01:00:09+00:00",
    "title_original": "한은 \"美 기준금리 동결에도 대외 리스크 요인 상존\" - 머니투데이",
    "region": "korea",
@@ -10699,7 +10736,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "163389ce20198b06"
+   "id": "cecbcfc419a35ad0"
   },
   {
    "source_id": "gn_kr_bok",
@@ -17168,10 +17205,10 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
+   "source_name": "연합인포맥스",
    "title_en": "Bang Hong-ki appointed as Director of Monetary Policy at the Bank of Korea... Gangnam, Director of International Cooperation Department",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aZTlHN1hGZUpWSFh3dmpVMksxUDlPbVN1a0VTc1dIQ0V2YkMwdW9FM1pBQUcwYWNfcUV1Z0xsc3ZmcjlBYzZHQ0tEM1Q1NFRDT1hzWERjYkVhbVRya0ZhQzl6c3VsRU55RlNnejRSNmdlQQ?oc=5",
-   "published_utc": "2026-10-26T08:40:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hNVV6TkZsWkhNTGQwMEVQVjVNSWxWX1hFYXFxMkh3b2pKUnozcXdRVEotZ3pWaGNaX0FKcHY3NmozWG4waFlpaG1nOEpWdm5BOWRmdHFRMFVVZ3NfdV9Gc09yYWRXclROVkxhY1kzMXQ?oc=5",
+   "published_utc": "2026-10-26T08:41:05+00:00",
    "title_original": "한은 통화정책국장에 방홍기…국제협력국장 강남이",
    "region": "korea",
    "topics": [
@@ -17182,7 +17219,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b1171d4adc753c5"
+   "id": "da880f554bf4bf78"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -20905,23 +20942,6 @@
    "id": "0c1261b944685189"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
-   "published_utc": "2026-10-23T07:26:11+00:00",
-   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf037e34bb52ee2a"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -20972,6 +20992,23 @@
    "live_wire": false,
    "manual": false,
    "id": "488d507f6c702bfd"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf037e34bb52ee2a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51910,40 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3b56730d22e5913a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45V0UK:0-iseki-co-ltd-to-buy-back-up-to-1-46-of-own-shares-worth-500-million-yen/",
-   "published_utc": "2026-10-09T07:01:08+00:00",
-   "title_original": "Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c4efbd42095129a4"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "It was found that the budget of 16 million won was used by the chairman of the Korea Education Facil..",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vbmk5dmF4eWNoV3pOREVKalRVX2VOZ1lYRGVMZDlDbWROODY0bXZiQ09pRTdCXzZUUmlpdmc2VndwZzJZaDVxWXlQR1dMRWgxZ2Rn?oc=5",
-   "published_utc": "2026-10-09T07:00:45+00:00",
-   "title_original": "It was found that the budget of 16 million won was used by the chairman of the Korea Education Facil..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "78f37dba65211ecb"
   },
   {
    "source_id": "manual_ia",

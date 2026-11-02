@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T09:02:43.774619+00:00
+Última coleta: 2026-11-02T09:12:56.587618+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
-  🇨🇳 China          867
+  🇨🇳 China          869
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls After Japan Katayama's Intervention Warning
+  - [china] China's central bank taps liquidity tool to fund share purchases
   - [taiwan] AI-Led Export Boom Likely to Continue Feeding Into Taiwan Domestic Demand — Market Talk
   - [korea] With President Lee Jae Myung's speech to the National Assembly on the 2nd, the 2027 budget political..
   - [korea] S. Korean won sharply weakens against US dollar
@@ -48,15 +50,13 @@ Total: 3000 manchetes
   - [japan] JGB yields edge up ahead of series of auctions
   - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
   - [china] China signals caution over currency surge with weaker yuan fixing
+  - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will carefully decide how to overcome deflation.'' The 
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will make a careful decision on overcoming deflation.''
   - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
   - [japan] Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Ban
   - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
   - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
-  - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
-  - [china] China 10Y Yield Falls After PBOC Policy Shift
-  - [china] China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T09:02:43+00:00",
+      "published_utc": "2026-11-02T09:12:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
