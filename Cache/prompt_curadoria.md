@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T07:42:45.970035+00:00
+Última coleta: 2026-11-02T07:52:43.517264+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          866
+  🇯🇵 Japão          925
+  🇨🇳 China          869
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [china] China Shifts Main Policy Rate to Overnight Reverse Repo Rate
+  - [china] Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal
   - [china] China's Central Bank Likely to Keep Policy Rate Unchanged Through 2027 — Market Talk
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [korea] “Domestic and export sales both slump”: Renault Korea Co., Ltd. sells 5,503 vehicles in October, down 23.6% ye
@@ -24,6 +26,7 @@ Total: 3000 manchetes
   - [korea] South Korea urges cryptocurrency exchanges to tighten security
   - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
   - [china] Asian stocks diverge following Wall Street tech sell-off; PBoC shifts policy anchor to overnight rate
+  - [china] China’s soaring chemical exports threaten new trade war front
   - [china] China’s Manufacturing Activity Returns to Contraction
   - [china] China’s shift to new policy rate signals easier funding conditions
   - [korea] Kospi Snaps Two-Session Losing Streak; Chip, Energy Stocks Advance
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen
   - [japan] Outlook for Economic Activity and Prices (October 2026, full text)
   - [china] China's Property Sector May See Some Improvement in Next Few Months — Market Talk
-  - [japan] Japan chip earnings roundup: AI a double-edged sword
-  - [taiwan] Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say
-  - [china] Oman proposes preferential trade, investment deal with China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T07:42:46+00:00",
+      "published_utc": "2026-11-02T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
