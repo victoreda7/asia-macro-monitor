@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T03:22:44.174653+00:00
+Última coleta: 2026-11-02T03:32:42.458399+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          866
+  🇯🇵 Japão          928
+  🇨🇳 China          867
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea’s manufacturing PMI slows to 8-month low in October
+  - [china] China’s shift to new policy rate signals easier funding conditions
   - [china] China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk
+  - [china] The central bank launches 541 billion yuan overnight reverse repurchase operation
   - [japan] Japan manufacturing PMI slows to seven-month low in October By Investing.com
+  - [japan] Japan manufacturing PMI slows to seven-month low in October
   - [taiwan] Taiwan PMI Shows Goods Producers' Supply-Chain Struggles — Market Talk
   - [china] China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK
   - [japan] Yen Weakens Despite Verbal Warning
@@ -29,7 +33,6 @@ Total: 3000 manchetes
   - [china] China Private Manufacturing Gauge Shows Steady Expansion in October — Update
   - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
   - [taiwan] Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity
-  - [china] China's shift to new policy rate signals easier funding conditions
   - [china] China lowers funding costs with shift to overnight policy rate
   - [korea] South Korean won, Taiwan dollar lead declines among Asian currencies
   - [korea] SK Square eyes record W4.3tr payout from SK hynix dividends
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10
   - [japan] "The Bank of Japan has decided to maintain the status quo of monetary policy" Today's Bonds of the Cow and Bea
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation today
-  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation in the open market
-  - [japan] JGB Yields Rise Amid Concerns About Elevated Energy Prices — Market Talk
-  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T03:22:44+00:00",
+      "published_utc": "2026-11-02T03:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
