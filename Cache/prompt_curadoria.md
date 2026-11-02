@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T07:52:43.517264+00:00
+Última coleta: 2026-11-02T08:02:43.586076+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          869
+  🇯🇵 Japão          926
+  🇨🇳 China          868
   🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls Against Majors
   - [china] China Shifts Main Policy Rate to Overnight Reverse Repo Rate
   - [china] Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal
   - [china] China's Central Bank Likely to Keep Policy Rate Unchanged Through 2027 — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Surging costs and China trade war test US farmers' loyalty to Trump
   - [japan] Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen
   - [japan] Outlook for Economic Activity and Prices (October 2026, full text)
-  - [china] China's Property Sector May See Some Improvement in Next Few Months — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T07:52:43+00:00",
+      "published_utc": "2026-11-02T08:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

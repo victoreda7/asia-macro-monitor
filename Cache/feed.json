@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T07:52:43.517264+00:00",
- "collected_at_utc": "2026-11-02T07:52:43.517264+00:00",
+ "generated_at_utc": "2026-11-02T08:02:43.586076+00:00",
+ "collected_at_utc": "2026-11-02T08:02:43.586076+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
-  "china": 869,
+  "japan": 926,
+  "china": 868,
   "taiwan": 354,
   "korea": 852
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T07:46:00+00:00"
+   "newest": "2026-11-02T07:53:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T07:52:06+00:00"
+   "newest": "2026-11-02T08:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T07:09:30+00:00"
+   "newest": "2026-11-02T07:49:30+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:14:00+00:00"
+   "newest": "2026-11-01T03:10:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Falls Against Majors",
+   "url": "https://www.tradingview.com/news/dpa_afx:ce497b2d3dbed:0-yen-falls-against-majors/",
+   "published_utc": "2026-11-02T07:53:27+00:00",
+   "title_original": "Yen Falls Against Majors",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "011dd474c6f02dae"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -1415,24 +1432,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261101001420:0-china-longyuan-tariff-outlook-expected-to-improve-in-2027-market-talk/",
-   "published_utc": "2026-11-02T03:11:00+00:00",
-   "title_original": "China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk",
-   "region": "china",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5c6ba50130029124"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2585,6 +2584,23 @@
    "id": "19c3ac281c7f71dd"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
@@ -3161,10 +3177,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -3174,24 +3190,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3298,23 +3297,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -3330,6 +3312,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3865,7 +3864,7 @@
    "id": "7923af3a8f4e8217"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "North Korea says sanctions don't work to deny its status as nuclear weapons state",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
@@ -3879,7 +3878,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d2fb138ba279a625"
+   "id": "6917e4d69ba3ed64"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5327,7 +5326,7 @@
    "source_name": "中央社 CNA",
    "title_en": "ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTFdrTFNXX18teVJCLUtjMG9wZzZvb1RLRUx6OThLZVJoVXlPcDU0LXdUQ3YzOVRyb0pGMDJySWFvdnh2VDNlTjJsSzNTQUZaVmRr?oc=5",
-   "published_utc": "2026-10-30T10:04:53+00:00",
+   "published_utc": "2026-10-30T10:04:57+00:00",
    "title_original": "歐央行總裁拉加德 不想再中立提前卸任",
    "region": "china",
    "topics": [
@@ -29063,6 +29062,23 @@
    "id": "5aa8fdba097a496d"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局广东调查总队",
+   "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "published_utc": "2026-10-20T07:00:00+00:00",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1e4a83be8848d227"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China Steps Up AI Investment With $9 Billion Fund Backing Model Developers",
@@ -29905,23 +29921,6 @@
    "live_wire": false,
    "manual": false,
    "id": "730c21a138147b63"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局广东调查总队",
-   "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
-   "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51303,23 +51302,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Falls Against Majors",
-   "url": "https://www.tradingview.com/news/dpa_afx:9325c03cee053:0-yen-falls-against-majors/",
-   "published_utc": "2026-10-09T11:29:44+00:00",
-   "title_original": "Yen Falls Against Majors",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b0acdebf17d9cbd7"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V0SL:0-china-merchants-shekou-industrial-zone-s-september-contract-sales-at-14-3-billion-yuan/",
@@ -51947,6 +51929,24 @@
    "live_wire": false,
    "manual": false,
    "id": "915657d14728d1ef"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oMWUzQmNLcmhyWFdNODBNY1BPNVRrX3kzRW5OQWJMMmViUGtwdHB6TFhoMEx2ZFpJel82cmhBMWJTbTEwU01OZTdWLUVLUjVBVkNEZDZoWDNObVBLSHhYOVdtcw?oc=5",
+   "published_utc": "2026-10-09T07:00:00+00:00",
+   "title_original": "Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfe3e7802dc62476"
   },
   {
    "source_id": "manual_ia",
