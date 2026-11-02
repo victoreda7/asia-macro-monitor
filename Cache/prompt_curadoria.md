@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T16:22:44.110948+00:00
+Última coleta: 2026-11-02T16:32:44.319825+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank to Conduct Third Swap Facility Operation
   - [china] Shanghai Iluvatar Corex Semiconductor Says Cumulative Chip Shipments Exceeded 80,000 Units For Ten Months
   - [china] China's exports of chemical products surge, U.S. think tank: May trigger new trade conflict | Cross-Strait
   - [china] ‘Queen of the Chinese’, drone war fears, cancer drug on sale: 7 US-China relations reads
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
   - [china] China's manufacturing sector remains on front foot - RatingDog
-  - [korea] Kospi reverses initial decline and closes 2.24% higher with chip exports +259%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T16:22:44+00:00",
+      "published_utc": "2026-11-02T16:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
