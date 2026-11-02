@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T17:12:46.545899+00:00
+Última coleta: 2026-11-02T17:22:45.670078+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          856
+  🇯🇵 Japão          920
+  🇨🇳 China          857
   🇹🇼 Taiwan         362
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [china] Walnut Capital Says China Lead Enters Block Trade Agreement For Sale Of Shares
   - [china] Central Bank to Conduct Third Swap Facility Operation
   - [china] Shanghai Iluvatar Corex Semiconductor Says Cumulative Chip Shipments Exceeded 80,000 Units For Ten Months
   - [china] China's exports of chemical products surge, U.S. think tank: May trigger new trade conflict | Cross-Strait
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] With President Lee Jae Myung's speech to the National Assembly on the 2nd, the 2027 budget political..
   - [korea] S. Korean won sharply weakens against US dollar
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
-  - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T17:12:46+00:00",
+      "published_utc": "2026-11-02T17:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
