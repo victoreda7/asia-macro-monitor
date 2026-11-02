@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T01:02:44.612330+00:00
+Última coleta: 2026-11-02T01:12:43.505179+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          865
+  🇨🇳 China          866
   🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  848
+  🇰🇷 Coreia do Sul  847
 
 ## O que já está no feed (não repita)
 
+  - [china] Bond market early participation November 2 | The central bank's policy interest rate "change anchor" was imple
   - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
   - [japan] Japan’s October factory growth slows as costs pick up, PMI shows By Reuters
   - [japan] Japan finance minister: government remains ready to take action against disorderly FX moves
   - [taiwan] Taiwan Manufacturing Maintains Momentum
+  - [japan] Japan’s October factory growth slows as costs pick up, PMI shows
   - [korea] South Korea factory activity growth slows to 8-month low, PMI shows
-  - [japan] Japan's October factory growth slows as costs pick up, PMI shows
   - [china] The central bank has 1.749 billion yuan of open market reverse repos due this week
   - [korea] The US Dairy Export Association (USEC) will introduce a unique pairing set that combines Korean trad..
   - [korea] That's why it has become a country that is less able to grow than South Korea...The obvious reason why Japan h
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
   - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
   - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
-  - [korea] [APK 2026] APK 2026 in Seoul sets stage for deeper AI, supply chain ties amid global turmoil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T01:02:44+00:00",
+      "published_utc": "2026-11-02T01:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

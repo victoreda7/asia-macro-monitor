@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T01:02:44.612330+00:00",
- "collected_at_utc": "2026-11-02T01:02:44.612330+00:00",
+ "generated_at_utc": "2026-11-02T01:12:43.505179+00:00",
+ "collected_at_utc": "2026-11-02T01:12:43.505179+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 926,
-  "china": 865,
+  "china": 866,
   "taiwan": 361,
-  "korea": 848
+  "korea": 847
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T00:31:38+00:00"
+   "newest": "2026-11-02T01:00:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T00:06:22+00:00"
+   "newest": "2026-11-02T00:43:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-30T20:44:36+00:00"
+   "newest": "2026-11-02T01:00:34+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T11:06:00+00:00"
+   "newest": "2026-11-02T00:47:23+00:00"
   },
   {
    "source_id": "ked_global",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T04:16:29+00:00"
+   "newest": "2026-11-01T01:20:39+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:28:08+00:00"
+   "newest": "2026-11-02T01:08:34+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T18:44:00+00:00"
+   "newest": "2026-11-01T21:57:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T00:34:35+00:00"
+   "newest": "2026-10-31T22:31:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-02T09:00:00+09:00"
+   "newest": "2026-11-02T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T23:31:20+00:00"
+   "newest": "2026-11-01T03:10:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社电报",
+   "title_en": "Bond market early participation November 2 | The central bank's policy interest rate \"change anchor\" was implemented overnight and officially took over the 7-day reverse repurchase; this week, 1.749 billion yuan of reverse repurchase will mature in the central bank's open market",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5paXBwMjFwLWxlMGVxZWEzZjlaSG5DY3FnV3ZZblluUXQ4QzVpYzVyRkJWWGlDOUtnSDE0OUFabUxPcl9vZGc?oc=5",
+   "published_utc": "2026-11-02T01:08:34+00:00",
+   "title_original": "债市早参11月2日|央行政策利率“换锚”落地隔夜正式接棒7天期逆回购；本周央行公开市场将有17490亿元逆回购到期",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "33c78b43209292f2"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -412,11 +430,28 @@
    "id": "32c8533f9ab2a45a"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan’s October factory growth slows as costs pick up, PMI shows",
+   "url": "https://www.investing.com/news/economic-indicators/japans-october-factory-growth-slows-as-costs-pick-up-pmi-shows-4989792",
+   "published_utc": "2026-11-02T00:43:18+00:00",
+   "title_original": "Japan’s October factory growth slows as costs pick up, PMI shows",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4bb3f468d3e32972"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
    "title_en": "South Korea factory activity growth slows to 8-month low, PMI shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZUN00FN9T:0-south-korea-factory-activity-growth-slows-to-8-month-low-pmi-shows/",
-   "published_utc": "2026-11-02T00:30:51+00:00",
+   "url": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-growth-slows-to-8month-low-pmi-shows-4989791",
+   "published_utc": "2026-11-02T00:42:42+00:00",
    "title_original": "South Korea factory activity growth slows to 8-month low, PMI shows",
    "region": "korea",
    "topics": [
@@ -426,24 +461,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "da26b53681e9990e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's October factory growth slows as costs pick up, PMI shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZRN00ERP0:0-japan-s-october-factory-growth-slows-as-costs-pick-up-pmi-shows/",
-   "published_utc": "2026-11-02T00:30:29+00:00",
-   "title_original": "Japan's October factory growth slows as costs pick up, PMI shows",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ae3494e85debfd7e"
+   "id": "e74446f06227af98"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -585,8 +603,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -600,7 +618,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -4004,6 +4022,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -4339,23 +4374,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -51929,23 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0e98a768505b7255"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Ministry of Finance and Economy ◇ Promotion of Deputy Director △ Director of Tax Policy Choi Jin-ky..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hUjZkS25sNnhUbXBOQVV5UlUwakFjaVlMRzBwTFZmX1dWMHh4VlctQ2t1R0RlOEc0bG9PMVZyQnUzQlJwbW5McldJWG9iX2VmV3c?oc=5",
-   "published_utc": "2026-10-08T08:06:54+00:00",
-   "title_original": "Ministry of Finance and Economy ◇ Promotion of Deputy Director △ Director of Tax Policy Choi Jin-ky..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "06186f7cf33660ba"
   },
   {
    "source_id": "manual_ia",
