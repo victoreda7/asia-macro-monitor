@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T05:32:33.363206+00:00
+Última coleta: 2026-11-02T05:33:12.262066+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
-  🇨🇳 China          864
-  🇹🇼 Taiwan         354
+  🇨🇳 China          863
+  🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Oct.)
   - [china] Dollar, low supply and exports to China place cattle in Brazil on the R$400/at route
   - [korea] Bank of Korea probes financial firms’ exposure to crypto risks
+  - [taiwan] Lite-On boosts 2027 capex as AI race raises stakes for CSPs
   - [japan] Japan weighs $500 billion defence spending plan, sources say
   - [china] "Anchor replacement" was implemented, and the central bank launched a 541 billion yuan overnight reverse repur
   - [korea] South Korea PMI Shows Faltering Manufacturing Momentum — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Is “Japan’s bankruptcy due to long-term interest rates” a lie? Yoichi Takahashi reveals misconceptions about “
   - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
   - [china] The central bank launches 541 billion yuan overnight reverse repurchase operation
-  - [korea] South Korea's Lee vows to make bold AI investment in record budget push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T05:32:33+00:00",
+      "published_utc": "2026-11-02T05:33:12+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
