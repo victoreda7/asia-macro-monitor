@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T02:32:43.674573+00:00
+Última coleta: 2026-11-02T02:42:44.250021+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea’s Lee vows to make bold AI investment in record budget push
+  - [china] PBoC Moves Toward Overnight Rate as Main Policy Anchor
   - [china] China Private Manufacturing Gauge Shows Steady Expansion in October — Update
   - [china] China lowers funding costs with shift to overnight policy rate
   - [korea] South Korean won, Taiwan dollar lead declines among Asian currencies
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix trapped in cloud resistance bear flag: Live levels
   - [taiwan] Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls
   - [korea] Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks
-  - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
-  - [korea] South Korea Manufacturing Growth Slows to 8-Month Low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T02:32:43+00:00",
+      "published_utc": "2026-11-02T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
