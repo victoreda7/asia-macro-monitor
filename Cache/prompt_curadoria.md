@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T08:52:42.493583+00:00
+Última coleta: 2026-11-02T09:02:43.774619+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
   🇨🇳 China          867
-  🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  854
+  🇹🇼 Taiwan         355
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] AI-Led Export Boom Likely to Continue Feeding Into Taiwan Domestic Demand — Market Talk
   - [korea] With President Lee Jae Myung's speech to the National Assembly on the 2nd, the 2027 budget political..
   - [korea] S. Korean won sharply weakens against US dollar
   - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
   - [china] China 10Y Yield Falls After PBOC Policy Shift
   - [china] China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk
-  - [korea] Tous les Jours taps US bakery network to boost Korean grape exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T08:52:42+00:00",
+      "published_utc": "2026-11-02T09:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

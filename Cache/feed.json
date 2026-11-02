@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-02T08:52:42.493583+00:00",
- "collected_at_utc": "2026-11-02T08:52:42.493583+00:00",
+ "generated_at_utc": "2026-11-02T09:02:43.774619+00:00",
+ "collected_at_utc": "2026-11-02T09:02:43.774619+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,8 +8,8 @@
  "by_region": {
   "japan": 925,
   "china": 867,
-  "taiwan": 354,
-  "korea": 854
+  "taiwan": 355,
+  "korea": 853
  },
  "elapsed_s": 29.5,
  "sources": [
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T07:40:00+00:00"
+   "newest": "2026-11-02T08:40:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:08:01+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T17:19:06+09:00"
+   "newest": "2026-11-02T17:53:47+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T08:52:07+00:00"
+   "newest": "2026-11-02T09:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T07:35:00+00:00"
+   "newest": "2026-11-02T08:55:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:02:14+00:00"
+   "newest": "2026-11-02T06:00:52+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T08:35:14+00:00"
+   "newest": "2026-11-02T08:38:23+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "AI-Led Export Boom Likely to Continue Feeding Into Taiwan Domestic Demand — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261102001376:0-ai-led-export-boom-likely-to-continue-feeding-into-taiwan-domestic-demand-market-talk/",
+   "published_utc": "2026-11-02T08:55:00+00:00",
+   "title_original": "AI-Led Export Boom Likely to Continue Feeding Into Taiwan Domestic Demand — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "720939ef51f50e45"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -1431,24 +1448,6 @@
    "id": "4391390d84c27a74"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261101001478:0-china-s-manufacturing-activity-faces-risk-from-slow-fiscal-spending-market-talk/",
-   "published_utc": "2026-11-02T03:41:00+00:00",
-   "title_original": "China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "47e3ae432a251f25"
-  },
-  {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
    "title_en": "Flat 35 Interest rate 3.81%, second highest ever",
@@ -1500,6 +1499,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
+   "published_utc": "2026-11-02T03:09:40+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -1574,24 +1591,6 @@
    "id": "3181488f0b6ef9ed"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqZnVoRkgzNlo4RzdYd3REbF93MVpidU9fa2xhX0otNDAzS2U3NDdIZVpZYm96X1g0RkNTei01MUMxQnNsOXBjUDlSZTlhRHJs?oc=5",
-   "published_utc": "2026-11-02T02:50:32+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ac9b5d6c9bdd317"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "South Korea's Lee vows to make bold AI investment in record budget push",
@@ -1607,6 +1606,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9fc942f43f92e395"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmREelF1UkVmdlptVXBLbGdvLVF3XzBDalRFekxfX2RPS0E0U2FWRl9XV3hzMy1xZnV2RmJDLWRjbUJVOEZTbmxrVENVdDd4dlJzdk1hRndKSWFyLVBXWVpyeW9URVpLNUEtaHg4cTBhbS11MmQ1WXhkTkJha1J4SEdEWlVIb0xaZ1FTNm93bHFyLUY2WTBOY2ROaHZXWXpfdEZVakpSZ01CbVoxWVBSWg?oc=5",
+   "published_utc": "2026-11-02T02:29:00+00:00",
+   "title_original": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "68c5274881413c70"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -1836,7 +1852,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
+   "source_name": "手机新浪网",
    "title_en": "The People's Bank of China reverse repurchases net withdrawn 515 billion yuan today",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQcm9tVTYyTUJVTno2bE56N3BkU2YtUEVweVFvZkxIOWFESU5EQVdiWHVEWDNHYnVrdWVpT1RkSWp6RGxSZjJKUU1Daw?oc=5",
    "published_utc": "2026-11-02T01:28:24+00:00",
@@ -10672,7 +10688,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "Bank of Korea: “External risk factors remain despite the U.S. base interest rate freeze” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Y011UWFCVW5HcWRRLVhrTVNjdHNraXhhOGdIbTBLeGM5N2drTUsyR1R3WTRUQTdzNmJkaGtLVTdDc21QREhrRmx2QWJTYnJFNjlMUnBvanNGTEZxOXVKM1lkdnZMdHVSMmpsRHNOTmzSAXBBVV95cUxPdGNNdVFhQlVuR3FkUS1Ya01TY3Rza2l4YThnSG0wS3hjOTdna01LMkdUd1k0VEE3czZiZGhrS1U3Q3NtUERIa0ZsdkFiU2JyRTY5TFJwb2pzRkxGcTl1SjNZZHZ2THR1UjJqbERzTk5s?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IQ2FyYTdTVFNBZmFGRXJPWFZfT0JBblNFWktqRXNMM0JMM2RGZGJnX3pNN0J5T1JFN0IzaFhrNHlZakFkNG5na21OVXFjaTN3SVBIT0podkxQRXVFcjdnNnZaaUp4THFFMkMw0gFwQVVfeXFMT3RjTXVRYUJVbkdxZFEtWGtNU2N0c2tpeGE4Z0htMEt4Yzk3Z2tNSzJHVHdZNFRBN3M2YmRoa0tVN0NzbVBESGtGbHZBYlNickU2OUxScG9qc0ZMRnE5dUozWWR2dkx0dVIyamxEc05ObA?oc=5",
    "published_utc": "2026-10-29T01:00:09+00:00",
    "title_original": "한은 \"美 기준금리 동결에도 대외 리스크 요인 상존\" - 머니투데이",
    "region": "korea",
@@ -10683,7 +10699,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cecbcfc419a35ad0"
+   "id": "163389ce20198b06"
   },
   {
    "source_id": "gn_kr_bok",
@@ -31788,23 +31804,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -31820,6 +31819,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51928,23 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "78f37dba65211ecb"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Jusung Engineering, a semiconductor deposition equipment company, is showing a steep upward rally. A..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BRGVtbFdzR1Ffd29PVEZQREFnTWpOVmxPcEhqWU53czdDMU5tMEQycE1CNEhhMGR0TzJ4Y1UtNzg3YklpNGFFWHU4Yk1wa3c?oc=5",
-   "published_utc": "2026-10-09T07:00:00+00:00",
-   "title_original": "Jusung Engineering, a semiconductor deposition equipment company, is showing a steep upward rally. A..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d80d8ba099c04f67"
   },
   {
    "source_id": "manual_ia",
