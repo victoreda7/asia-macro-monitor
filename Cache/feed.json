@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T12:22:47.443812+00:00",
- "collected_at_utc": "2026-11-02T12:22:47.443812+00:00",
+ "generated_at_utc": "2026-11-02T12:32:44.059820+00:00",
+ "collected_at_utc": "2026-11-02T12:32:44.059820+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 920,
-  "china": 863,
-  "taiwan": 357,
+  "china": 862,
+  "taiwan": 358,
   "korea": 860
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:40:00+00:00"
+   "newest": "2026-11-02T09:10:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T11:49:52+00:00"
+   "newest": "2026-11-02T12:20:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T11:48:24+00:00"
+   "newest": "2026-11-02T12:12:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:06:00+00:00"
+   "newest": "2026-11-02T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T12:16:05+00:00"
+   "newest": "2026-11-02T12:23:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:08:00+00:00"
+   "newest": "2026-11-02T11:00:02+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T20:51:29+09:00"
+   "newest": "2026-11-02T21:25:31+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T12:15:06+00:00"
+   "newest": "2026-11-02T12:30:07+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T12:22:12+00:00"
+   "newest": "2026-11-02T12:31:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:00:52+00:00"
+   "newest": "2026-11-02T06:02:14+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -427,6 +427,25 @@
    "live_wire": true,
    "manual": false,
    "id": "dd3e364b9c9278db"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The New Taiwan dollar fell by more than 2 cents during the session. The central bank and exporters joined forces to resist the selling pressure from foreign investors | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtWmdwRnV5QklOZ2xDT2ZNU3JHVDBmTlhPd1lLZ19mcXJORXBIOVd3S0w2dFBuV0VjenlONkFmRFloZUVCb3Zqa0F0WkV0RHl0WmVVeGxCRmUzd2tSRVE?oc=5",
+   "published_utc": "2026-11-02T10:35:00+00:00",
+   "title_original": "新台幣盤中重貶逾2角央行、出口商聯手抗外資賣壓| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "fx",
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "34b21b431aa1aab8"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -5969,23 +5988,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -6321,6 +6323,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -11004,7 +11023,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "Bank of Korea: “External risk factors remain despite the U.S. base interest rate freeze” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IQ2FyYTdTVFNBZmFGRXJPWFZfT0JBblNFWktqRXNMM0JMM2RGZGJnX3pNN0J5T1JFN0IzaFhrNHlZakFkNG5na21OVXFjaTN3SVBIT0podkxQRXVFcjdnNnZaaUp4THFFMkMw0gFwQVVfeXFMT3RjTXVRYUJVbkdxZFEtWGtNU2N0c2tpeGE4Z0htMEt4Yzk3Z2tNSzJHVHdZNFRBN3M2YmRoa0tVN0NzbVBESGtGbHZBYlNickU2OUxScG9qc0ZMRnE5dUozWWR2dkx0dVIyamxEc05ObA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MRHN3R0tyLWtSXzZ0bzBXM2VvaDNfQWk2d3VJTEN1Q0lOTUl6UDhIUy12dmN1YVA2YkNEaE92c3dZWG9HdjVMeUVqSlhZZnhpM2pKMVhtdVVNaTRJblNwcnVmTFljMHVDWlc5amVrd2ZRaDZPR0xIMtIBfkFVX3lxTE1XMGhEeHgwRDNzei1ETlgxb1RoY1JRYWgwQ01iaXczSzN6X09qblNyd1VwN1NmeTJrcHJ1VkpRdGxFOE04RmllQ0dpMy1jVjFWQ0ljaFVfYVItcDE2RjAtS1R4RFMzd20zcWF4Q0Jud29RZTZ4NGFWeG9zVGFMQQ?oc=5",
    "published_utc": "2026-10-29T01:00:09+00:00",
    "title_original": "한은 \"美 기준금리 동결에도 대외 리스크 요인 상존\" - 머니투데이",
    "region": "korea",
@@ -11015,7 +11034,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "163389ce20198b06"
+   "id": "61a33b5a9bf4d84d"
   },
   {
    "source_id": "gn_kr_bok",
@@ -32227,23 +32246,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -32259,6 +32261,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51926,24 +51945,6 @@
    "live_wire": true,
    "manual": false,
    "id": "23ff28b957feca88"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "China steps up fiscal stimulus to meet growth targets (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRmdsLVlNc1FONFlNZXJhWDBRRGxaYUUyenVvV291dG1JT3MxcTVaVjNoZ1d1cWdWdXBNTmJNMTl6QWdvYWc2OEpmMk9OVjRpay1mUVNNQk9HeEZyM2kyNjNHb1JXOVJxMWhkelM3VFR0d2pacXBOWXEtdEtrc2c?oc=5",
-   "published_utc": "2026-10-09T10:23:05+00:00",
-   "title_original": "中国、成長目標達成に向け財政刺激策を強化（ロイター）",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f8ff807122d813f"
   },
   {
    "source_id": "manual_ia",
