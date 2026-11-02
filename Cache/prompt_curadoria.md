@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T10:52:43.987114+00:00
+Última coleta: 2026-11-02T11:02:44.465482+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
-  🇨🇳 China          867
-  🇹🇼 Taiwan         355
+  🇨🇳 China          866
+  🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
@@ -49,9 +49,9 @@ Total: 3000 manchetes
   - [korea] South Korea urges cryptocurrency exchanges to tighten security
   - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
   - [china] Asian stocks diverge following Wall Street tech sell-off; PBoC shifts policy anchor to overnight rate
+  - [china] China’s soaring chemical exports threaten new trade war front
   - [china] China’s Manufacturing Activity Returns to Contraction
   - [china] China’s shift to new policy rate signals easier funding conditions
-  - [china] China’s soaring chemical exports threaten new trade war front
   - [korea] Kospi Snaps Two-Session Losing Streak; Chip, Energy Stocks Advance
   - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
   - [japan] Mitsubishi Corp Says It Will Sell Stake In LNG Canada Project To Blackstone Credit For About 250 Billion Yen
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T10:52:44+00:00",
+      "published_utc": "2026-11-02T11:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
