@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T09:22:44.163635+00:00
+Última coleta: 2026-11-02T09:32:55.893535+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
-  🇨🇳 China          872
+  🇨🇳 China          873
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  849
+  🇰🇷 Coreia do Sul  848
 
 ## O que já está no feed (não repita)
 
+  - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.5 Billion Yuan
   - [china] PBOC: 31 Securities, Fund Companies Have Applied for Quotas Exceeding CNY100B
   - [china] PBOC: Move Is to Support Healthy, Stable Development of Capital Market
   - [china] China Central Bank to Conduct Swap Facility Operations With Financial Institutions on Tuesday
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China signals caution over currency surge with weaker yuan fixing
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will carefully decide how to overcome deflation.'' The 
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will make a careful decision on overcoming deflation.''
-  - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T09:22:44+00:00",
+      "published_utc": "2026-11-02T09:32:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
