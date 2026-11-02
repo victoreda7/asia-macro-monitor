@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T00:22:43.076801+00:00
+Última coleta: 2026-11-02T00:32:46.711573+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
-  🇨🇳 China          864
-  🇹🇼 Taiwan         363
+  🇨🇳 China          865
+  🇹🇼 Taiwan         362
   🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea factory activity growth slows to 8-month low, PMI shows
+  - [japan] Japan's October factory growth slows as costs pick up, PMI shows
+  - [china] The central bank has 1.749 billion yuan of open market reverse repos due this week
   - [korea] The US Dairy Export Association (USEC) will introduce a unique pairing set that combines Korean trad..
   - [korea] That's why it has become a country that is less able to grow than South Korea...The obvious reason why Japan h
   - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China’s ‘Upgraded’ Peru Trade Deal Takes Effect, Widening Ties
   - [korea] South Korea Exports Extend Robust Growth on AI-Fueled Chip Boom
   - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
-  - [taiwan] AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028
-  - [japan] Semiconductor TSMC's sales exceed the upper limit of expectations, with double-digit sales growth for the Octo
-  - [korea] SK hynix hosts first Partners Day in Japan to strengthen chip supply chain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T00:22:43+00:00",
+      "published_utc": "2026-11-02T00:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
