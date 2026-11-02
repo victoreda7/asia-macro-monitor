@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T10:12:44.061066+00:00",
- "collected_at_utc": "2026-11-02T10:12:44.061066+00:00",
+ "generated_at_utc": "2026-11-02T10:22:55.748676+00:00",
+ "collected_at_utc": "2026-11-02T10:22:55.748676+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 923,
-  "china": 871,
+  "japan": 922,
+  "china": 869,
   "taiwan": 355,
-  "korea": 851
+  "korea": 854
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:10:00+00:00"
+   "newest": "2026-11-02T09:40:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:17:09+00:00"
+   "newest": "2026-11-01T21:45:12+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T08:36:38+00:00"
+   "newest": "2026-11-02T10:15:58+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T18:59:50+09:00"
+   "newest": "2026-11-02T19:16:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:32:00+00:00"
+   "newest": "2026-11-02T09:46:53+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T10:01:34+00:00"
+   "newest": "2026-11-02T10:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T05:13:21+00:00"
+   "newest": "2026-11-02T08:14:53+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:00:52+00:00"
+   "newest": "2026-11-02T06:02:14+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,40 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's central bank taps liquidity tool to aid struggling stocks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J09O:0-china-s-central-bank-taps-liquidity-tool-to-aid-struggling-stocks/",
+   "published_utc": "2026-11-02T10:21:32+00:00",
+   "title_original": "China's central bank taps liquidity tool to aid struggling stocks",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c2e513edc455c9a3"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Finance minister, Hyundai Motor chief discuss EV policies: sources",
+   "url": "https://www.koreaherald.com/article/10923225",
+   "published_utc": "2026-11-02T10:15:58+00:00",
+   "title_original": "Finance minister, Hyundai Motor chief discuss EV policies: sources",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b4a8992863c9ee47"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Zawya",
    "title_en": "ZAWYA: Ten projects signal broader Oman-China manufacturing ties",
    "url": "https://www.tradingview.com/news/reuters.com,2026-11-02:newsml_ZawWM9bG:0-zawya-ten-projects-signal-broader-oman-china-manufacturing-ties/",
@@ -359,6 +393,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9e8db7570b24f143"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The switching of major policy interest rates has started, and the People's Bank of China has launched a 541 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Qa0p1cDBqaEhTdG5Yb0tfekNHR2JBTDZ2VVViRHlBZTYxRDUwd2NFclpSb3hLenVtMklkdkhEYU1tSC1yUFhtRVpBMG9VR1FaNzNfakNVTFVuNXlualJpcnRLbVUwWGpB?oc=5",
+   "published_utc": "2026-11-02T09:46:53+00:00",
+   "title_original": "主要政策利率切换启动 中国央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6d94a7abb4a25c7e"
   },
   {
    "source_id": "tradingview_live",
@@ -1311,23 +1363,6 @@
    "id": "12b26cb00f04d220"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46G3UB:0-nippon-light-metal-holdings-co-ltd-says-it-will-buy-back-up-to-1-0-of-own-shares-worth-1-5-billion-yen/",
-   "published_utc": "2026-11-02T05:01:38+00:00",
-   "title_original": "Nippon Light Metal Holdings Co Ltd Says It Will Buy Back Up To 1.0% Of Own Shares Worth 1.5 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "562e190b26fb5eea"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (October 2026, full text)",
@@ -1994,6 +2029,23 @@
    "id": "e90ed43f4865882a"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Japan’s Katayama Says Ready to Act for Stable FX Market",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1lPdWZRSl9ObzYzaE53dVQxLTdSekwzc2JqNEhPRVNLX2o3bzJoRFN3MlV6cEQ3RUI1UlVINlRqVnFWRS1GY0hhbXZ3c2lzVmRFMG1lZ1R3SkhnUXhwTFhpYXA0d3BUVDMydnpwZVh1TUdKTWplY2RGR0dKdmo0bGlfM3BKb1V2Y08yanlNQWplVXI3OUItZm9mbTByamE4b0RnZWxHNUhpdXZLZjZZSmFWVQ?oc=5",
+   "published_utc": "2026-11-02T01:22:00+00:00",
+   "title_original": "Japan’s Katayama Says Ready to Act for Stable FX Market",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9f0f82e0e8925ca2"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "네이버 프리미엄콘텐츠",
    "title_en": "Apartment transactions in Seoul plummet by 18.3% due to the Bank of Korea's base interest rate of 3.00%, seven signs that house prices are taking a breather",
@@ -2342,8 +2394,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2357,7 +2409,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -2720,23 +2772,6 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "金融界",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
-   "published_utc": "2026-11-01T05:48:27+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3315,10 +3350,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -3328,7 +3363,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
+   "published_utc": "2026-10-31T10:34:18+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "66191ff7890acc34"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3435,6 +3487,23 @@
    "id": "55f69562c7176e2e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
+   "published_utc": "2026-10-31T07:33:36+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "11ab2d10475f3483"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -3450,23 +3519,6 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "每日经济新闻",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
-   "published_utc": "2026-10-31T07:22:00+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5778,23 +5830,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -6130,6 +6165,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -9652,6 +9704,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5b40b84bd70f3845"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "팩트인뉴스",
+   "title_en": "The Bank of Korea confirms next year's Monetary Policy Committee schedule... First interest rate decision: January 14th",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rcm9wNkR3LVJ1X2dEQkFvMXJjcnpERzJwM3VMUDB5aTUwZ2gyeS0xcmI3ZHlVcnRWR1YwU3c5SUpxOGNkamp4SmJHc1Y4T1lOY094YkZmRXBXay0wRTRYVE1OSUdMTTVJeTBfMHIwemPSAXRBVV95cUxQbG9Cdl9jbVdqc0lLZHBJR2lYV0NjOXFIMlJTNVpkWGRRMkRMYW82bnkzWWVIQXU4aVlobVB2Y1JCajZyNFlDMGY2Q1g5Qm9uaURhMTcxZDVyWFdHaXdFcFV5eVI0OUdHOEtTRjRxc2lOQTluMw?oc=5",
+   "published_utc": "2026-10-29T07:24:08+00:00",
+   "title_original": "한은, 내년 금통위 일정 확정…첫 금리 결정 1월 14일",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1e6354c2fd0fc28c"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -13721,6 +13791,25 @@
    "live_wire": false,
    "manual": false,
    "id": "557b41a0245d3ba0"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "컨슈머뉴스",
+   "title_en": "The Bank of Korea freezes the base interest rate at 3%...taking a breath while checking the impact of increases in prices and housing prices.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNDlLaUFOUEpHU1F2bXAtcC1VU3VIVFYxRW5XcWxkWWZ3WG95MXJIeGNCVFZVbEZrTmlMcUV2bW9hczdfVkoxdzZSRGFjbjd6eTA5THZaalg1WkFOUkVPQ3gtYUFpdWJGYUxyWXlnN2o?oc=5",
+   "published_utc": "2026-10-27T20:53:57+00:00",
+   "title_original": "한은, 기준금리 3%로 동결...물가·집값 경계 속 인상 영향 점검하며 숨고르기",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6ff1654da14430f0"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51864,91 +51953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6b911ceeffbc90e1"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Rolls Out $82 Billion in Additional Stimulus for Provinces",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2pJWFZEU0ZGYTB0dmhGenN2bHplMkQ2bC1SLVNDTmM4SDVrazhkWEJOMW9kUms5LUR3clBYcVN5WWtqMFR1OVJ0MlNLeTExd2dDQXJVNzMxcEVfQXZyWlJ1WW9NRnc0VFZ5NmxYUnJoT1FmWGlFMTFQWjkwSEQ1WjBBTFBRVUlqaTB5bksxZVZtendabTY4SVNLYVBtWGJTMkdYNHI3X3FFb1g3X2ZDV1BGcm0?oc=5",
-   "published_utc": "2026-10-09T08:42:56+00:00",
-   "title_original": "China Rolls Out $82 Billion in Additional Stimulus for Provinces",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ace7a5a627a91158"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China state funds double down on Hua Hong in legacy chip push",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTW9wdDM5eG9tYl9GNEt6RGxZaE14anlaUFBSNFF6MzdkNEd3X3BzSkhuNldaR2hZUnB6ZHBXc09XYmxvMWVtWk52WEtJNXVueF9OUk9aSHRfODhYLUFIX200V1ViMy1VaFlYT2t6bGd0b3hiR09ldW1WYmNxcWtzN3pCemVUTWRyVmlqYkhvcXpDUVpjOXJXanFhQmd6SDlqbXJGN013dTg3QdIBqgFBVV95cUxOaGw2YUlTR1lWbmlPOU54ZGdGc2dlRl93NUNya1I3Y0Q2YVBza1I3cWxDSDNCTGtVRDU1YU1FSWZROFM5QmlzaVBqNDdSa0lnWHQ4QzJYbDZUNFo5TE5LTlpxemRIYXJDbkFIaFFCM3I3Szh4cmxrd3BvakZOSVBiZUV3Q292U2NsSmJTbDVvMHRMTk5ZSHlxc3JlOUE4YThNVkxMaHB5ZmhLQQ?oc=5",
-   "published_utc": "2026-10-09T08:30:09+00:00",
-   "title_original": "China state funds double down on Hua Hong in legacy chip push",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14a5c02164c9e5cb"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261009de57107",
-   "published_utc": "2026-10-09T07:46:01+00:00",
-   "title_original": "株価 午後に値下げ幅縮小 半導体関連銘柄で買い戻す動き",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1414cb63d794601a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China to support expansion of domestic demand, deepen fiscal reform",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42U0DM:0-china-to-support-expansion-of-domestic-demand-deepen-fiscal-reform/",
-   "published_utc": "2026-10-09T07:36:56+00:00",
-   "title_original": "China to support expansion of domestic demand, deepen fiscal reform",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a6be171b5167d3a4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Uzum Says U.S. Investors Remain Interested Despite China Trade Tensions",
-   "url": "https://www.tradingview.com/news/binance_news:1ba98b1fb094b:0-uzum-says-u-s-investors-remain-interested-despite-china-trade-tensions/",
-   "published_utc": "2026-10-09T07:33:48+00:00",
-   "title_original": "Uzum Says U.S. Investors Remain Interested Despite China Trade Tensions",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e62fc49bc923b581"
   },
   {
    "source_id": "manual_ia",

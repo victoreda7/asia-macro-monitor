@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T10:12:44.061066+00:00
+Última coleta: 2026-11-02T10:22:55.748676+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          871
+  🇯🇵 Japão          922
+  🇨🇳 China          869
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  854
 
 ## O que já está no feed (não repita)
 
+  - [china] China's central bank taps liquidity tool to aid struggling stocks
+  - [korea] Finance minister, Hyundai Motor chief discuss EV policies: sources
   - [china] ZAWYA: Ten projects signal broader Oman-China manufacturing ties
+  - [china] The switching of major policy interest rates has started, and the People's Bank of China has launched a 541 bi
   - [japan] Yomiuri: Fujifilm Bets 10 Billion Yen on Magnetic Data Storage Resurgence
   - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.5 Billion Yuan
   - [china] PBOC: 31 Securities, Fund Companies Have Applied for Quotas Exceeding CNY100B
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Household loans again rise in Oct. despite tightened rules, higher rates
   - [china] PBoC shifts primary policy anchor to overnight rate with daily 1.25% reverse repos
   - [china] The central bank’s interest rate regulation is facing major changes, and the asset pricing coordinates need to
-  - [japan] Interest-Rate Hikes to Come in December, Highest Certainty in Japan — Market Talk
-  - [japan] JGB yields edge up ahead of series of auctions
-  - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T10:12:44+00:00",
+      "published_utc": "2026-11-02T10:22:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
