@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T06:02:46.237012+00:00
+Última coleta: 2026-11-02T06:13:02.206011+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          866
+  🇯🇵 Japão          929
+  🇨🇳 China          865
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  852
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ flags progress in anchoring inflation around target
+  - [japan] Interest-Rate Hikes to Come in December, Highest Certainty in Japan — Market Talk
+  - [japan] JGB yields edge up ahead of series of auctions
+  - [korea] Household loans again rise in Oct. despite tightened rules, higher rates
   - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
   - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
-  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
   - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
+  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
   - [china] "Anchor exchange" comes into effect, the central bank launches 541 billion yuan overnight reverse repurchase o
   - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
   - [korea] Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push
@@ -35,6 +39,7 @@ Total: 3000 manchetes
   - [china] China's Property Sector May See Some Improvement in Next Few Months — Market Talk
   - [japan] Japan chip earnings roundup: AI a double-edged sword
   - [taiwan] Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say
+  - [china] Oman proposes preferential trade, investment deal with China
   - [china] Offshore Yuan Rallies to Over 4-Year High
   - [korea] South Korean Won Falls as Overseas Dollar Demand Persists
   - [korea] South Korea's Chip-Led Surplus Set to Drive Further Won Gains — Market Talk
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] China's Manufacturing Activity Faces Risk From Slow Fiscal Spending — Market Talk
   - [japan] Flat 35 Interest rate 3.81%, second highest ever
   - [china] Yuan hovers near 4-year high as US midterms, Chinese regulator meeting in focus
-  - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
-  - [china] China’s shift to new policy rate signals easier funding conditions
-  - [korea] South Korea’s manufacturing PMI slows to 8-month low in October
-  - [china] China Longyuan Tariff Outlook Expected to Improve in 2027 — Market Talk
-  - [japan] BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T06:02:46+00:00",
+      "published_utc": "2026-11-02T06:13:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
