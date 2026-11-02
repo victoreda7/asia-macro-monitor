@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T02:12:44.476046+00:00",
- "collected_at_utc": "2026-11-02T02:12:44.476046+00:00",
+ "generated_at_utc": "2026-11-02T02:22:44.291399+00:00",
+ "collected_at_utc": "2026-11-02T02:22:44.291399+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
-  "china": 863,
-  "taiwan": 361,
-  "korea": 851
+  "japan": 926,
+  "china": 866,
+  "taiwan": 354,
+  "korea": 854
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:59:00+00:00"
+   "newest": "2026-11-02T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T02:02:07+00:00"
+   "newest": "2026-11-02T02:17:10+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:35:09+00:00"
+   "newest": "2026-11-02T02:16:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T23:24:55+00:00"
+   "newest": "2026-11-01T23:08:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T21:22:38+00:00"
+   "newest": "2026-11-02T00:41:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T02:09:08+00:00"
+   "newest": "2026-11-02T02:21:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:44:14+00:00"
+   "newest": "2026-11-02T01:55:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T22:31:48+00:00"
+   "newest": "2026-11-01T00:34:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:41:50+00:00"
+   "newest": "2026-11-02T00:39:40+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,108 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China lowers funding costs with shift to overnight policy rate",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J017:0-china-lowers-funding-costs-with-shift-to-overnight-policy-rate/",
+   "published_utc": "2026-11-02T02:18:25+00:00",
+   "title_original": "China lowers funding costs with shift to overnight policy rate",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "63ff3d7f2a6432dd"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won, Taiwan dollar lead declines among Asian currencies",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46J04U:0-south-korean-won-taiwan-dollar-lead-declines-among-asian-currencies/",
+   "published_utc": "2026-11-02T02:18:04+00:00",
+   "title_original": "South Korean won, Taiwan dollar lead declines among Asian currencies",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aacfa11ef7020675"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "SK Square eyes record W4.3tr payout from SK hynix dividends",
+   "url": "https://www.koreaherald.com/article/10922564",
+   "published_utc": "2026-11-02T02:17:10+00:00",
+   "title_original": "SK Square eyes record W4.3tr payout from SK hynix dividends",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "32b6206ae1c24c9c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares turn higher on dip buying after strong exports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J01R:0-south-korean-shares-turn-higher-on-dip-buying-after-strong-exports/",
+   "published_utc": "2026-11-02T02:16:58+00:00",
+   "title_original": "South Korean shares turn higher on dip buying after strong exports",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "62af0f314e12d3c8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank adjusts the reverse repurchase mechanism to conduct overnight operations at an interest rate of 1.25% every working day_Company News_Finance",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pN0poRTMteEpNaE9LeFRpNXpBcDlFaHhxRmFaU2V3NElwRV9zMmpqR3IxM282Mnh6TmtVUkNkM084RkRFUFRISVRMR3pKTGhCZ3YwN0t4c0dIZ2ZvMlVFRg?oc=5",
+   "published_utc": "2026-11-02T02:16:00+00:00",
+   "title_original": "央行调整逆回购机制每个工作日开展隔夜操作利率1.25%_公司新闻_财经",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c37f3aadf253bbf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Underestimated’",
+   "url": "https://www.tradingview.com/news/stocktwits:649e91d0f094b:0-spcx-stock-jumps-overnight-musk-reportedly-revives-tsmc-terafab-talks-says-capex-efficiency-is-greatly-underestimated/",
+   "published_utc": "2026-11-02T02:14:16+00:00",
+   "title_original": "SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Underestimated’",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b4f431bf400a136e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -428,6 +530,24 @@
    "live_wire": true,
    "manual": false,
    "id": "413d2a9171fee7e2"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
+   "published_utc": "2026-11-02T01:55:22+00:00",
+   "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4e9207eb5797c45b"
   },
   {
    "source_id": "tradingview_live",
@@ -621,6 +741,24 @@
    "live_wire": true,
    "manual": false,
    "id": "1db56ebe7fef3448"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launched a 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jdFRYbEI4VXMzcE56NXFyaXJyb19pTDRlNnlNZC1HZjllMnVRV18zSGxnSXFSUlhRWjFzWkVyd0wyT3c3VlpDaGpYVWIxc1B4eWlQVUR0RVZKc3pSWkhkREZ0ZW0?oc=5",
+   "published_utc": "2026-11-02T01:23:00+00:00",
+   "title_original": "央行开展5410亿元隔夜期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "27284b1d58500e11"
   },
   {
    "source_id": "tradingview_live",
@@ -1471,6 +1609,23 @@
    "id": "19c3ac281c7f71dd"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
@@ -2047,10 +2202,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -2060,24 +2215,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2167,23 +2305,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -2199,6 +2320,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3235,6 +3373,23 @@
    "id": "2ba3b39b86f6cf62"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济参考报",
+   "title_en": "The central bank announced! Overnight reverse repurchase will be carried out every working day starting next week",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEc5YzQ1aHpFajJ4STFYWFl5ajRVRXpTTE9RMXJQeXhOVUhEenVXQzVBNkRWci00UnRzMW9RdERFek8xcTVWeTJTcmd1WkEwLU1wZmVSRDhUWkxiZTNvcEFGX3FSWk5BZW44VUIxb0hyakI4OXo2UFk4VUxFY3dsTA?oc=5",
+   "published_utc": "2026-10-30T15:11:45+00:00",
+   "title_original": "央行宣布！下周起每个工作日开展隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1c76c6bfcb39b2a0"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Invezz",
    "title_en": "Why did Micron, SK Hynix and SanDisk shares fall on Friday?",
@@ -3637,7 +3792,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -3648,7 +3803,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0502612f5f1f0dc8"
+   "id": "5d0e607e39d15dc0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3770,23 +3925,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e5cb9be67ed6b79a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank announced! Overnight reverse repurchase will be carried out every working day starting next week",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWVjOWEyRkJBLXpZZGI3TXYyWVVSTmNnMzVwODBERnlCcEVVNFBmRnFIRWVrQWVxQUotRlJZQVdtOWlPSVdlNkNNTzhWd1QwRURtMEFsSUU1WVVwRGNkTENUQ3dsaTRiZ1RWTnExT2YyeWc5Z2ltd21EMW43aUVHMDE5a0ZYODRBa1c4Rg?oc=5",
-   "published_utc": "2026-10-30T11:17:07+00:00",
-   "title_original": "央行宣布！下周起每个工作日开展隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "38ad202af302f15d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4949,6 +5087,24 @@
    "live_wire": false,
    "manual": false,
    "id": "df49295b8e949126"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGxTVWZfYWV2Y0hEV2d3WW5CMDFIWTBHd3h1VzZGVjgtR1pFMHo1dWItc2ZSbmJOOUxqOHQ3VVNVTXR4Y1Q1MWlvVXhvWkxCMkZRbC1kVE51YTdvV2pwcWFuNnBEZjhVREtaelJGZEJPaDdCbWhyXzlvLXNNR25seFlTZ29DZllYWkhVNWYxZG01bk9OWVY1bzVzUXY1WmJzMkFmUmN4ZWplM1hsa081S1pCZXF5cmMtZGxVQlh4aTAza2MycWZUTS1rX0R1bkFJY2pqSERLZFUzb1UzenM3MVRjTmVGRldzbGx2ZXBSbjBjVmNscjdtcXE5OHlBX3ZaMGxnck5qeW5sZUpDTkItMA?oc=5",
+   "published_utc": "2026-10-30T08:21:01+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "998b4683943b14b8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8857,24 +9013,6 @@
    "id": "f5a9cde50507567d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
-   "published_utc": "2026-10-29T04:07:30+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "72c3836b9f7c92c3"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com",
@@ -8985,7 +9123,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RGlzaFVsakJ1THVFdnBMbHJnQ0E2Si1SbWxUN014SUZsbWlnZElSNU9rQm1jbUNyUkwzOFNRWVZGRWpxM2tKT2JWVlA1Zw?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -8997,7 +9135,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b921c83c0da75290"
+   "id": "e054b19593281a7b"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -30589,23 +30727,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -30621,6 +30742,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51803,142 +51941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "da73ed250fbe955b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "TSMC Sales Soar 50%. The Stock Is Falling Anyway",
-   "url": "https://www.tradingview.com/news/gurufocus:e12db86a1094b:0-tsmc-sales-soar-50-the-stock-is-falling-anyway/",
-   "published_utc": "2026-10-08T13:16:48+00:00",
-   "title_original": "TSMC Sales Soar 50%. The Stock Is Falling Anyway",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1bb424bd843fa1f1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "GlobalFoundries will manufacture essential component for AI chips for TSMC in US$2 billion deal",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45U0HF:0/",
-   "published_utc": "2026-10-08T13:02:05+00:00",
-   "title_original": "GlobalFoundries fabricará, para a TSMC, componente essencial para chips de IA em acordo de US$ 2 bilhões",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "ca290510c25bf90f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0UI:0-globalfoundries-to-make-key-ai-chip-component-for-tsmc-in-2-billion-deal/",
-   "published_utc": "2026-10-08T13:01:13+00:00",
-   "title_original": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6474f43b3ffdf214"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "TSMC Stocks Drop 2% Despite Citi's NT$4,000 Target",
-   "url": "https://www.tradingview.com/news/gurufocus:32fda1b2c094b:0-tsmc-stocks-drop-2-despite-citi-s-nt-4-000-target/",
-   "published_utc": "2026-10-08T13:00:29+00:00",
-   "title_original": "TSMC Stocks Drop 2% Despite Citi's NT$4,000 Target",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1e4a42a677887eb7"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "September exports hit record monthly high, extend growth to 35 months",
-   "url": "https://focustaiwan.tw/business/202610080020",
-   "published_utc": "2026-10-08T12:52:18+00:00",
-   "title_original": "September exports hit record monthly high, extend growth to 35 months",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5dc4871c975f1dc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "GlobalFoundries will manufacture a key AI chip component for TSMC",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45U0G3:0/",
-   "published_utc": "2026-10-08T12:43:47+00:00",
-   "title_original": "A GlobalFoundries fabricará um componente essencial de chips de IA para a TSMC",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "cf2d0546e5a56da9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "GlobalFoundries to make key AI chip component for TSMC",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0TP:0-globalfoundries-to-make-key-ai-chip-component-for-tsmc/",
-   "published_utc": "2026-10-08T12:43:20+00:00",
-   "title_original": "GlobalFoundries to make key AI chip component for TSMC",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "336b16b548421052"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "GlobalFoundries partners with TSMC to establish US-based production of silicon interposers",
-   "url": "https://www.tradingview.com/news/seekingalpha:db4458642094b:0-globalfoundries-partners-with-tsmc-to-establish-us-based-production-of-silicon-interposers/",
-   "published_utc": "2026-10-08T12:34:18+00:00",
-   "title_original": "GlobalFoundries partners with TSMC to establish US-based production of silicon interposers",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "693bc22443b0c6ac"
   },
   {
    "source_id": "manual_ia",
