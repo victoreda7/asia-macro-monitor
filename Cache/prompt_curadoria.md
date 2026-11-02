@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T09:12:56.587618+00:00
+Última coleta: 2026-11-02T09:22:44.163635+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          869
+  🇯🇵 Japão          924
+  🇨🇳 China          872
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [china] PBOC: 31 Securities, Fund Companies Have Applied for Quotas Exceeding CNY100B
+  - [china] PBOC: Move Is to Support Healthy, Stable Development of Capital Market
+  - [china] China Central Bank to Conduct Swap Facility Operations With Financial Institutions on Tuesday
+  - [china] People's Bank of China: Swap Term Is One Year, Can Be Extended
   - [japan] Yen Falls After Japan Katayama's Intervention Warning
   - [china] China's central bank taps liquidity tool to fund share purchases
   - [taiwan] AI-Led Export Boom Likely to Continue Feeding Into Taiwan Domestic Demand — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will carefully decide how to overcome deflation.'' The 
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will make a careful decision on overcoming deflation.''
   - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
-  - [japan] Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Ban
-  - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
-  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
-  - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T09:12:56+00:00",
+      "published_utc": "2026-11-02T09:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
