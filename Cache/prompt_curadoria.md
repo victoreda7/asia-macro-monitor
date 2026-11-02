@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T01:52:46.029221+00:00
+Última coleta: 2026-11-02T02:02:45.070591+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
+  🇯🇵 Japão          925
   🇨🇳 China          863
   🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  850
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY541 BLN VIA O/N REVERSE REPO MON
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7146 MON VS 6.7138
   - [china] China factory growth slows in October as export orders ease, private PMI shows
+  - [japan] Japan Manufacturing Growth Confirmed at 7-Month Low
   - [japan] Bank of Japan says it's "generally consistent with 2%," and the hurdle to halting interest rate hikes has lowe
   - [china] On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.
   - [korea] South Korean Shares Rebound on Record Exports
@@ -27,6 +30,7 @@ Total: 3000 manchetes
   - [japan] JGB Yields Rise Amid Concerns About Elevated Energy Prices — Market Talk
   - [korea] Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix
   - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Nov 9
+  - [korea] Apartment transactions in Seoul plummet by 18.3% due to the Bank of Korea's base interest rate of 3.00%, seven
   - [japan] Japan Manufacturing PMI Slips To 53.3 In October - S&P Global
   - [japan] Attendance at Bank of Japan meeting: ``It depends on the situation at the time,'' Economy and Finance Minister
   - [china] Bond market early participation November 2 | The central bank's policy interest rate "change anchor" was imple
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”
   - [china] China's BYD Continues Massive EV Exports. It Isn't Helping. — Barrons.com
   - [korea] South Korea set to become world’s 4th country to hit $1 trillion in annual exports
-  - [japan] Japan Weeks Ahead: BOJ Has Cleared First Major Goal of Lifting Near 2% But Still Needs to Anchor Price Rises a
-  - [taiwan] The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost
-  - [china] The People's Bank of China will conduct overnight reverse repurchases every working day starting from 11/2 to 
-  - [korea] Top global stories this week: Shell, HSBC, SK Hynix among notable names
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T01:52:46+00:00",
+      "published_utc": "2026-11-02T02:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
