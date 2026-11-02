@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T07:22:45.149869+00:00
+Última coleta: 2026-11-02T07:32:45.244107+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
   🇨🇳 China          866
-  🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  852
+  🇹🇼 Taiwan         354
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Central Bank Likely to Keep Policy Rate Unchanged Through 2027 — Market Talk
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
+  - [korea] “Domestic and export sales both slump”: Renault Korea Co., Ltd. sells 5,503 vehicles in October, down 23.6% ye
   - [taiwan] BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough
   - [korea] South Korea urges cryptocurrency exchanges to tighten security
   - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
@@ -38,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
   - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will make a careful decision on overcoming deflation.''
   - [china] RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3
+  - [japan] Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Ban
   - [japan] Analysis-BOJ locks in December hike, but neutral-rate uncertainty muddies outlook
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net 
   - [japan] It also lost to the Social Democratic Party in terms of approval ratings, and its "former colleagues" dismisse
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan chip earnings roundup: AI a double-edged sword
   - [taiwan] Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say
   - [china] Oman proposes preferential trade, investment deal with China
-  - [china] Offshore Yuan Rallies to Over 4-Year High
-  - [korea] South Korean Won Falls as Overseas Dollar Demand Persists
-  - [korea] South Korea's Chip-Led Surplus Set to Drive Further Won Gains — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T07:22:45+00:00",
+      "published_utc": "2026-11-02T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
