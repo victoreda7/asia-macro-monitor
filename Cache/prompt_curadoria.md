@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T08:32:44.683162+00:00
+Última coleta: 2026-11-02T08:43:03.470467+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korean won sharply weakens against US dollar
   - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
   - [china] China's manufacturing sector remains on front foot - RatingDog
   - [japan] Yen Falls Against Majors
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Weak Property Sector Remains Key Drag for Factory Activity — Market Talk
   - [korea] Tous les Jours taps US bakery network to boost Korean grape exports
   - [japan] Japan's real interest rates have risen recently, BOJ says
-  - [china] Chinese EV Makers Lean on Exports as Home Market Sinks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T08:32:44+00:00",
+      "published_utc": "2026-11-02T08:43:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
