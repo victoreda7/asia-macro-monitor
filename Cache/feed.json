@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T01:12:43.505179+00:00",
- "collected_at_utc": "2026-11-02T01:12:43.505179+00:00",
+ "generated_at_utc": "2026-11-02T01:22:45.459235+00:00",
+ "collected_at_utc": "2026-11-02T01:22:45.459235+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 926,
-  "china": 866,
+  "china": 865,
   "taiwan": 361,
-  "korea": 847
+  "korea": 848
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T01:02:23+00:00"
+   "newest": "2026-11-02T01:22:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T23:18:02+00:00"
+   "newest": "2026-11-02T01:12:32+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,81 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T03:10:50+00:00"
+   "newest": "2026-10-30T23:31:20+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46G3WL:0-sk-square-co-expects-more-than-6-2-trln-won-of-dividend-income-from-sk-hynix/",
+   "published_utc": "2026-11-02T01:20:28+00:00",
+   "title_original": "Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "98ab0292f864e42c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y3.0T Of TD-Bills Nov 9",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101001233:0-japan-mof-to-auction-y3-0t-of-td-bills-nov-9/",
+   "published_utc": "2026-11-02T01:20:00+00:00",
+   "title_original": "Japan MOF To Auction Y3.0T Of TD-Bills Nov 9",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7091e633c015c3f6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Manufacturing PMI Slips To 53.3 In October - S&P Global",
+   "url": "https://www.tradingview.com/news/dpa_afx:7473aebf78755:0-japan-manufacturing-pmi-slips-to-53-3-in-october-s-p-global/",
+   "published_utc": "2026-11-02T01:13:47+00:00",
+   "title_original": "Japan Manufacturing PMI Slips To 53.3 In October - S&P Global",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3ac0c1e9b8696eae"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Attendance at Bank of Japan meeting: ``It depends on the situation at the time,'' Economy and Finance Minister Jouchi says, cautious about declaring an end to deflation (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54S29FcGl0d3ZTeGF1NDNHWnlJVXYycmdXZHVsM21iNWxxZlYzamU2QkFMUUh5dU8yN2YydHFxalJjUm5lUk9ZVnQtZlhlaklISlZ6dzExeFRtOVNxYjc1N3VPMUpaUXEwXzNCYkVncE1KakFqYUR0QWoxTWhMWmc?oc=5",
+   "published_utc": "2026-11-02T01:12:32+00:00",
+   "title_original": "日銀会合出席「そのときの状況次第」と城内経財相、デフレ脱却宣言に慎重（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2572a7dbff781161"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "财联社电报",
@@ -363,6 +434,23 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks",
+   "url": "https://www.tradingview.com/news/binance_news:e57031fc8094b:0-bank-of-korea-surveys-banks-and-securities-firms-on-virtual-asset-business-risks/",
+   "published_utc": "2026-11-02T00:51:32+00:00",
+   "title_original": "Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6f1fa452c70b6925"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's robot makers already dominate the moves. Now the race for intelligence begins",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46J00J:0/",
@@ -377,6 +465,23 @@
    "live_wire": true,
    "manual": false,
    "id": "60c92b1c660e2ef8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Manufacturing Growth Slows to 8-Month Low",
+   "url": "https://www.tradingview.com/news/te_news:597043:0-south-korea-manufacturing-growth-slows-to-8-month-low/",
+   "published_utc": "2026-11-02T00:49:32+00:00",
+   "title_original": "South Korea Manufacturing Growth Slows to 8-Month Low",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b687acdd4c5d3756"
   },
   {
    "source_id": "gn_jp_investing",
@@ -480,6 +585,24 @@
    "live_wire": false,
    "manual": false,
    "id": "04c106f6394ae4f0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank has 1.749 billion yuan of open market reverse repos due this week_Company News_Finance",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seTdxVTRpSjd2UTBEVjhtNDhpaFBrQlh0Y25hOWdrQTRrV1Y4MVI3NUV2YzBCTEttTHFhN3llRnB0My1OTklvV1JQdWE1d1RtWVhPazhiN1FMeGd6WG9HNQ?oc=5",
+   "published_utc": "2026-11-02T00:28:00+00:00",
+   "title_original": "央行本周有17490亿元公开市场逆回购到期_公司新闻_财经",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8fd3a93cf7a06e3d"
   },
   {
    "source_id": "gn_kr_mk",
@@ -981,23 +1104,6 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "金融界",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
-   "published_utc": "2026-11-01T05:48:27+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1576,10 +1682,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "手机新浪网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
-   "published_utc": "2026-10-31T10:37:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
+   "published_utc": "2026-10-31T10:43:00+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -1589,7 +1695,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "502016f3a195f62d"
+   "id": "32ff3b7115868327"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
+   "published_utc": "2026-10-31T10:34:18+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "66191ff7890acc34"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -1679,6 +1802,23 @@
    "id": "55f69562c7176e2e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
+   "published_utc": "2026-10-31T07:33:36+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "11ab2d10475f3483"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -1694,23 +1834,6 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "每日经济新闻",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
-   "published_utc": "2026-10-31T07:22:00+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1886,7 +2009,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "What was the ``role'' of the Bank of Japan governor during the deflationary recession? Read Haruhiko Kuroda's memoir \"Solomon: Fighting Deflation\" (Real Sound)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmxHYVo4c2hEVG0wMWluTlR1V2M0QUo4UWQyaURJQ0RYVUdLZ0FldnVURmpYZzRMR1JwMVhQX2t6bk5adm11RVluN3YxNmdGa0FhWjlJdkJjV1RiajJkQkpuWDl1czE0R3RycWR0anRpVE5NLXZDOUNNX2V4aXFZT0t3ZDBjX09R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FOTBzeExlY1JzQ2VZd3o5QzE5ZXFKblFtcGZDSFV6d1VKRkVRZV9ZUU1QTWc5NFUzc2NKeWJka3JINy13WWE0N3pqWnpQNEtlSXFwLUY3VjkwaFhoM2hwRHRuU1lZLU5kTG4zMzhwb3M5M2ZGMDRLdUZWaDdlOE0?oc=5",
    "published_utc": "2026-10-31T03:02:22+00:00",
    "title_original": "デフレ不況下における日銀総裁の「役割」とは何だったのか？ 黒田東彦の回顧録『独白 デフレとの闘い』を読む（リアルサウンド）",
    "region": "japan",
@@ -1900,7 +2023,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ece5fa37aac42706"
+   "id": "855c51c37c450234"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2265,9 +2388,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVU1iX09xSFVqZWZ6ak9xei1Uc2d5YklIZ20wekFtbGYwcTlaaGEwRU1GRmNsR0NxZGZsd25TUFp4M2gydVdQbThXa1Y5LW5TR0lZa01LX05PcURTTE1pT2V3ckNyV3d0WVNPVGt1NFZfYjlmakxCcXhzVG9Hd1dHaFkydjVWMUNrQnBhRGl3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLTFpQnFwXzFQRWVqU3pfRTRRTXYzNHZaekxyWlp3TlVDUk5JRkZsTG9KNFRPdEdIX3JneHQ2clB3N190NjA3S2xHOXFpWHVYX3V6aVE1bThWdUo2anRLZUdETTZXSl9fUWE3bVVuTVZkeUhjTkxsY0lqd0ozZlE?oc=5",
    "published_utc": "2026-10-30T22:06:30+00:00",
-   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す (時事通信)",
+   "title_original": "日銀、12月利上げを視野 物価上振れ、中立金利目指す（時事通信）",
    "region": "japan",
    "topics": [
     "monetary",
@@ -2277,7 +2400,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d1afefd4ee9c6e50"
+   "id": "7923af3a8f4e8217"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -3149,7 +3272,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -3160,7 +3283,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5d0e607e39d15dc0"
+   "id": "0502612f5f1f0dc8"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4463,24 +4586,6 @@
    "id": "df49295b8e949126"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGxTVWZfYWV2Y0hEV2d3WW5CMDFIWTBHd3h1VzZGVjgtR1pFMHo1dWItc2ZSbmJOOUxqOHQ3VVNVTXR4Y1Q1MWlvVXhvWkxCMkZRbC1kVE51YTdvV2pwcWFuNnBEZjhVREtaelJGZEJPaDdCbWhyXzlvLXNNR25seFlTZ29DZllYWkhVNWYxZG01bk9OWVY1bzVzUXY1WmJzMkFmUmN4ZWplM1hsa081S1pCZXF5cmMtZGxVQlh4aTAza2MycWZUTS1rX0R1bkFJY2pqSERLZFUzb1UzenM3MVRjTmVGRldzbGx2ZXBSbjBjVmNscjdtcXE5OHlBX3ZaMGxnck5qeW5sZUpDTkItMA?oc=5",
-   "published_utc": "2026-10-30T08:21:01+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "998b4683943b14b8"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
@@ -5208,7 +5313,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
-   "url": "http://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
    "region": "japan",
@@ -5219,13 +5324,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "66841377209934e7"
+   "id": "6ed9431d88486f82"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Statement on Monetary Policy",
-   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "Statement on Monetary Policy",
    "region": "japan",
@@ -5237,7 +5342,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "af462cf2146976fa"
+   "id": "01b59b1b648e65fc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5690,7 +5795,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(Reference) Outlook Report and Indicators Related to Underlying Inflation",
-   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030b.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030b.pdf",
    "published_utc": "2026-10-30T03:02:00+00:00",
    "title_original": "(Reference) Outlook Report and Indicators Related to Underlying Inflation",
    "region": "japan",
@@ -5701,7 +5806,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "09cbbbd799120a88"
+   "id": "02e54c57b842c9e2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -8370,6 +8475,24 @@
    "id": "f5a9cde50507567d"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWNpd1BnXzBQRjNZYjdwRGpiQ2RTZVM3WFVMaFNieUkyYjN5QzduQ3JxMXB6NU91cGFvUDRSRDR5cW80MHNQdkU0OFJEdjVtb3hyaDlqSlQ5bUtFNFd3N2V0YXJIaUtsaG5mUTEtTHU2bnRHTHNkdDNFOFZIaVIzNXpLV2dIRFh6Tm5QV0ZLaXRQR1lYWG1HUDdHVl8xcncyZFI2V3N2OHc4YXc0Tmd6UzFPMVpVUjBKdzNrNFg4QWp2MGR3anRObms1eVNDcGdMTnBxdVVLZk9qOEVUUE9DN1o5RjRjWUtFdTgyTUpOWF8?oc=5",
+   "published_utc": "2026-10-29T04:07:30+00:00",
+   "title_original": "央行开展1150亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c3836b9f7c92c3"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com",
@@ -8480,7 +8603,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RGlzaFVsakJ1THVFdnBMbHJnQ0E2Si1SbWxUN014SUZsbWlnZElSNU9rQm1jbUNyUkwzOFNRWVZGRWpxM2tKT2JWVlA1Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -8492,7 +8615,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e054b19593281a7b"
+   "id": "b921c83c0da75290"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -13178,7 +13301,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Indicators for Core CPI",
-   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/cpi/index.htm",
    "published_utc": "2026-10-27T05:00:00+00:00",
    "title_original": "Indicators for Core CPI",
    "region": "japan",
@@ -13189,7 +13312,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "549870a4319d8a4a"
+   "id": "9774b75f82219d2f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -14133,7 +14256,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Services Producer Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
    "published_utc": "2026-10-26T23:50:00+00:00",
    "title_original": "Services Producer Price Index (Sept.)",
    "region": "japan",
@@ -14144,7 +14267,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ba849d5af773718a"
+   "id": "f13b34f5cf17e8c3"
   },
   {
    "source_id": "investing_live",
@@ -21815,7 +21938,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
    "published_utc": "2026-10-22T08:00:00+00:00",
    "title_original": "Japanese Government Bonds Held by the Bank of Japan",
    "region": "japan",
@@ -21826,7 +21949,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "be5e3fa3018b8dab"
+   "id": "29c1a23370b716a3"
   },
   {
    "source_id": "gn_kr_bok",
@@ -22020,7 +22143,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Developments in Real Exports and Real Imports",
-   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/reri/index.htm",
    "published_utc": "2026-10-22T07:00:00+00:00",
    "title_original": "Developments in Real Exports and Real Imports",
    "region": "japan",
@@ -22031,7 +22154,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "660ca9ffa7c57e97"
+   "id": "ef504da8e8250954"
   },
   {
    "source_id": "gn_jp_investing",
@@ -23196,7 +23319,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 20)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
    "published_utc": "2026-10-22T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 20)",
    "region": "japan",
@@ -23207,7 +23330,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ec0f42a760b9874d"
+   "id": "0d4eb0513f284069"
   },
   {
    "source_id": "investing_econ",
@@ -34491,7 +34614,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "BOJ Current Account Balances by Sector (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
    "published_utc": "2026-10-16T08:00:00+00:00",
    "title_original": "BOJ Current Account Balances by Sector (Sept.)",
    "region": "japan",
@@ -34503,7 +34626,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4fa0bf559afdc7a1"
+   "id": "dfe5350a6c9655a8"
   },
   {
    "source_id": "tradingview_live",
@@ -39046,7 +39169,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of the \"Meeting on Market Operations\" (October 2026)",
-   "url": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+   "url": "https://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
    "published_utc": "2026-10-15T01:00:00+00:00",
    "title_original": "Summary of the \"Meeting on Market Operations\" (October 2026)",
    "region": "japan",
@@ -39057,7 +39180,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d082cbec90b9340a"
+   "id": "e435c44f6fa50d1b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -40498,7 +40621,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-   "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+   "url": "https://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
    "published_utc": "2026-10-14T11:00:00+00:00",
    "title_original": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
    "region": "china",
@@ -40509,7 +40632,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2661a76747634fcc"
+   "id": "45b4eb71a85f25ba"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -42400,7 +42523,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 10)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
    "published_utc": "2026-10-14T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 10)",
    "region": "japan",
@@ -42411,7 +42534,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "16486515c4222e51"
+   "id": "c471ba9735663553"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -45068,7 +45191,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Corporate Goods Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
    "published_utc": "2026-10-12T23:50:00+00:00",
    "title_original": "Corporate Goods Price Index (Sept.)",
    "region": "japan",
@@ -45079,7 +45202,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a6981feb23bc2f0f"
+   "id": "deff6dae29de0790"
   },
   {
    "source_id": "tradingview_live",
@@ -51825,128 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "129463d3bef3d4dc"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Street economy in September rises for 5 consecutive months Consumption is strong due to holidays",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56691",
-   "published_utc": "2026-10-08T08:51:00+00:00",
-   "title_original": "9月の街角景気 5か月連続で上昇 連休で消費堅調",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f2ab0d10e0d5a74"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The \"supply chain finance\" market, which supplies funds to small and medium-sized enterprises based",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lVl9DUkZ6WkpuaWo4VU0wbHhOd2xZd0lEYkNkUk5IZ1V3dndDOTZwa3FEbGp1TDdmMkZxczNBdjljTF9UTGx3eUo4MElpZXpvX2c?oc=5",
-   "published_utc": "2026-10-08T08:39:44+00:00",
-   "title_original": "The \"supply chain finance\" market, which supplies funds to small and medium-sized enterprises based",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e35565bf90d3fc63"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrT0RnVXFyc1JLVWVNVE9HVDBydlB2ZjdmQ2ZMbFgxclVEaDVCWENCSVNzUnpnMmVWS2ZzQUoyM2FOc0FvcnhKZXl2MWpXV1FXMGV1bldHY0JocXhWRXVkTU04MFJ1VDlhZDJhQ1cxc1owQQ?oc=5",
-   "published_utc": "2026-10-08T08:34:00+00:00",
-   "title_original": "加量续作！央行将开展12000亿元买断式逆回购",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e2bf3a4edc1fd3b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Bond market notes | The central bank increases the amount and continues the 1.2 trillion yuan buyout reverse repo",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlU01NRnQtdHhxbnVaVW0zZHM5WEdVZ3Jpb1F2OXU1RDBqdnpPMkxDMVo3WEFkVmNLelVCbjJINzllRDJtYVAtV2dHU2dfd0hEaXY1LUt4cUlfaTNHU2QxN0V0d21pTGstWURzVThmTjFDbGQ1dy1RZl84MXM?oc=5",
-   "published_utc": "2026-10-08T08:32:00+00:00",
-   "title_original": "债市笔记 | 央行加量续作1.2万亿元买断式逆回购",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a57678a85ef59739"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "22nd Asia Pacific Retailers Conference Video Message from Prime Minister Takaichi",
-   "url": "https://www.kantei.go.jp/jp/105/discourse/20261008message2.html",
-   "published_utc": "2026-10-08T08:30:00+00:00",
-   "title_original": "第２２回アジア太平洋小売業者大会 高市総理ビデオメッセージ",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b64a607336db3eec"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Samsung profit surges ninefold to $80bn on AI chip demand",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkdBN3lQTkJTdW4yZWNHenpWcERwUUViQl9qUUVqemJFb28yN3dEUnhMSVBoaHNKbGRaX0sxaFdMS3cyR282WmkwU21BN3FsZ3dLWGdJVnhsSnd3c1hFYVlNRVB5WFNQUHQyYWRLNGdwdmFHR2lHMkQ1c0tSX3AyUFBzcm8?oc=5",
-   "published_utc": "2026-10-08T08:28:23+00:00",
-   "title_original": "Samsung profit surges ninefold to $80bn on AI chip demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0353eafef77a6f22"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inheritance Investment",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56280",
-   "published_utc": "2026-10-08T08:24:00+00:00",
-   "title_original": "首相“消費税減税 社会保障財源影響与えず” 簗農相続投の考え",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e98a768505b7255"
   },
   {
    "source_id": "manual_ia",

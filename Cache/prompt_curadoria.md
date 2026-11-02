@@ -7,24 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T01:12:43.505179+00:00
+Última coleta: 2026-11-02T01:22:45.459235+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          866
+  🇨🇳 China          865
   🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  847
+  🇰🇷 Coreia do Sul  848
 
 ## O que já está no feed (não repita)
 
+  - [korea] Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix
+  - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Nov 9
+  - [japan] Japan Manufacturing PMI Slips To 53.3 In October - S&P Global
+  - [japan] Attendance at Bank of Japan meeting: ``It depends on the situation at the time,'' Economy and Finance Minister
   - [china] Bond market early participation November 2 | The central bank's policy interest rate "change anchor" was imple
+  - [korea] Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks
   - [china] China's robot makers already dominate the moves. Now the race for intelligence begins
+  - [korea] South Korea Manufacturing Growth Slows to 8-Month Low
   - [japan] Japan’s October factory growth slows as costs pick up, PMI shows By Reuters
   - [japan] Japan finance minister: government remains ready to take action against disorderly FX moves
   - [taiwan] Taiwan Manufacturing Maintains Momentum
   - [japan] Japan’s October factory growth slows as costs pick up, PMI shows
   - [korea] South Korea factory activity growth slows to 8-month low, PMI shows
   - [china] The central bank has 1.749 billion yuan of open market reverse repos due this week
+  - [china] The central bank has 1.749 billion yuan of open market reverse repos due this week_Company News_Finance
   - [korea] The US Dairy Export Association (USEC) will introduce a unique pairing set that combines Korean trad..
   - [korea] That's why it has become a country that is less able to grow than South Korea...The obvious reason why Japan h
   - [japan] Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko K
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Maebashi Branch September Tankan flat rate at +15 for third consecutive period (Gunma TV)
   - [japan] Bank of Japan Maebashi Branch September Tankan flat at +15 for third consecutive period (Gunma TV)
   - [china] Tomorrow, the central bank will make important adjustments! A look at next week’s major financial events
-  - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage
-  - [korea] Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan
-  - [korea] Samsung Electronics and SK Hynix are sweeping the money. Thanks to the semiconductor supercycle. It
-  - [china] PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets
-  - [china] New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——
-  - [japan] Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of th
-  - [korea] [APK 2026] Korean PM urges deeper high-tech ties with Germany in AI, chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T01:12:43+00:00",
+      "published_utc": "2026-11-02T01:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
