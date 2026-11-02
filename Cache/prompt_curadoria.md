@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T02:52:43.356171+00:00
+Última coleta: 2026-11-02T03:02:42.817374+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          867
+  🇯🇵 Japão          927
+  🇨🇳 China          868
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK
+  - [japan] Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk
   - [korea] South Korea’s Lee vows to make bold AI investment in record budget push
   - [china] PBoC Moves Toward Overnight Rate as Main Policy Anchor
   - [china] China Private Manufacturing Gauge Shows Steady Expansion in October — Update
@@ -44,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Nov 10
   - [japan] "The Bank of Japan has decided to maintain the status quo of monetary policy" Today's Bonds of the Cow and Bea
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation today
+  - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation in the open market
   - [japan] JGB Yields Rise Amid Concerns About Elevated Energy Prices — Market Talk
   - [china] The central bank launched a 541 billion yuan overnight reverse repurchase operation
   - [korea] Sk Square Co., Expects More Than 6.2 Trln Won Of Dividend Income From Sk Hynix
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Weekly news roundup: Taiwan debates talent distribution; SK Hynix looks beyond HBM
   - [china] Bond market early participation November 2 | The central bank's policy interest rate "change anchor" was imple
   - [korea] Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears
-  - [korea] SK Hynix trapped in cloud resistance bear flag: Live levels
-  - [taiwan] Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls
-  - [korea] Bank of Korea Surveys Banks and Securities Firms on Virtual Asset Business Risks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T02:52:43+00:00",
+      "published_utc": "2026-11-02T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

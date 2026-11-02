@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T02:52:43.356171+00:00",
- "collected_at_utc": "2026-11-02T02:52:43.356171+00:00",
+ "generated_at_utc": "2026-11-02T03:02:42.817374+00:00",
+ "collected_at_utc": "2026-11-02T03:02:42.817374+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 926,
-  "china": 867,
+  "japan": 927,
+  "china": 868,
   "taiwan": 354,
-  "korea": 853
+  "korea": 851
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T01:35:00+00:00"
+   "newest": "2026-11-02T01:54:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-30T10:59:00+00:00"
+   "newest": "2026-11-02T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 27,
+   "count": 29,
    "error": "",
-   "newest": "2026-11-02T09:13:44+08:00"
+   "newest": "2026-11-02T10:17:50+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:47:23+00:00"
+   "newest": "2026-11-01T11:06:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T21:22:38+00:00"
+   "newest": "2026-11-02T00:42:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T02:41:20+00:00"
+   "newest": "2026-11-02T03:01:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T23:13:42+00:00"
+   "newest": "2026-11-01T20:12:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T00:41:50+00:00"
+   "newest": "2026-11-02T00:00:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101001400_20261101001400:0-china-longyuan-power-target-price-cut-to-hk-6-70-from-hk-7-00-by-deutsche-bank-0916-hk/",
+   "published_utc": "2026-11-02T03:00:00+00:00",
+   "title_original": "China Longyuan Power Target Price Cut to HK$6.70 From HK$7.00 by Deutsche Bank >0916.HK",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a0189c9f157fdf90"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261101001392:0-japan-manufacturing-pmi-signals-decent-growth-continued-cost-pressure-market-talk/",
+   "published_utc": "2026-11-02T02:54:00+00:00",
+   "title_original": "Japan Manufacturing PMI Signals Decent Growth, Continued Cost Pressure — Market Talk",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "98a4d224a6d4e280"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -809,6 +844,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3903b130846475e0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank launched a 541 billion yuan overnight reverse repurchase operation in the open market",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTR3dmhpRGdWRHBDcWZRbUotaXlBVUlZOVBmRzBQT3hodU5oaXZiU0thMmVhMVktUkM3elNjNzBiWXdWZlZjVXBWRllsRXBwUG5UN3NjZlhiTjc0MjhSRWl1NmJRRENOcjgxRVcwWGd6RmtubEVzTnd6dkxaWVZOR3NEN2dsaTFu?oc=5",
+   "published_utc": "2026-11-02T01:26:00+00:00",
+   "title_original": "央行公开市场开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc85eb01c6df5f68"
   },
   {
    "source_id": "tradingview_live",
@@ -1712,6 +1765,23 @@
    "id": "19c3ac281c7f71dd"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
@@ -2288,10 +2358,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -2301,24 +2371,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2408,23 +2461,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -2440,6 +2476,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3895,7 +3948,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate is implemented: the 7-day reverse repo is officially taken over overnight",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Mc3NzVlJxUC1GQ2Jybi00TDdYc3VfZ0k3UGtzOURjQjhnYkdsX0VWZkRjeDgtaEtoZC1DeEZ0X0RlZ0ZXTTJuak1zWXRWTGlIMDI3eHYtTWI0Sml6WHBKNnFB?oc=5",
    "published_utc": "2026-10-30T11:36:00+00:00",
    "title_original": "央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购",
    "region": "china",
@@ -3906,7 +3959,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0502612f5f1f0dc8"
+   "id": "5d0e607e39d15dc0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4751,23 +4804,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -5103,6 +5139,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -9226,7 +9279,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.10625 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YdkM4a3F5UEdHaDVRRk1jZVlfUzNfYjZDS0t3b1I5Zm16OXJnQVJzMFdGWGpaWTJPY0tBMHZRV25LY3k5bHF2UDNfbmhtYVQ3VHNlWWM5Wnc4T3Yyb0RYb2VB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RGlzaFVsakJ1THVFdnBMbHJnQ0E2Si1SbWxUN014SUZsbWlnZElSNU9rQm1jbUNyUkwzOFNRWVZGRWpxM2tKT2JWVlA1Zw?oc=5",
    "published_utc": "2026-10-29T03:08:33+00:00",
    "title_original": "央行北京分行：前三季度北京社融增量11062.5亿元",
    "region": "china",
@@ -9238,7 +9291,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b921c83c0da75290"
+   "id": "e054b19593281a7b"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -30847,23 +30900,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -30879,6 +30915,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51888,59 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4de47c3b08227549"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36kr.com",
-   "title_en": "The central bank’s net investment in open market government bond sales in September was 100 billion yuan -36 Krypton",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZcmRTVDNHQzNkMkk4Z1JabnJkRy1DMkJ1WkdVTzZoRDFDTzZwMUJuaUdudm93Ql9WaEdFNXV4cHNhemhJdWxJSHR3M1gxalBETFVyVzNTZ09JMFFjSjlBVg?oc=5",
-   "published_utc": "2026-10-08T18:20:00+00:00",
-   "title_original": "央行9月公开市场国债买卖净投放1000亿元-36氪",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6a22aed4c8389ca4"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth",
-   "published_utc": "2026-10-08T17:52:42.458874+00:00",
-   "title_original": "Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "265d207e7fbfee7e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "CoinMarketCal",
-   "title_en": "Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026",
-   "url": "https://www.tradingview.com/news/coinmarketcal:7b5b791aa094b:0-cash-cat-cashcat-begins-krw-spot-trading-on-bithumb-08-oct-2026/",
-   "published_utc": "2026-10-08T17:00:42+00:00",
-   "title_original": "Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4d607afacb29ca27"
   },
   {
    "source_id": "manual_ia",
