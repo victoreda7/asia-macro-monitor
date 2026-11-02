@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-02T13:12:49.596625+00:00",
- "collected_at_utc": "2026-11-02T13:12:49.596625+00:00",
+ "generated_at_utc": "2026-11-02T13:22:44.747688+00:00",
+ "collected_at_utc": "2026-11-02T13:22:44.747688+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 359,
   "korea": 860
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:40:00+00:00"
+   "newest": "2026-11-02T09:10:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T12:54:46+00:00"
+   "newest": "2026-11-02T13:12:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:08:00+00:00"
+   "newest": "2026-11-02T11:00:02+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:15:28+00:00"
+   "newest": "2026-11-02T12:37:56+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:00:52+00:00"
+   "newest": "2026-11-02T06:02:14+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1381,6 +1381,24 @@
    "id": "2efc09b443cb4e3c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -1763,24 +1781,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2587,8 +2587,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2602,7 +2602,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -2965,6 +2965,23 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "金融界",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
+   "published_utc": "2026-11-01T05:48:27+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f71aa2dc3564e4a8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3592,23 +3609,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502016f3a195f62d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
-   "published_utc": "2026-10-31T10:34:18+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66191ff7890acc34"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -21434,23 +21434,6 @@
    "id": "0c1261b944685189"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
-   "published_utc": "2026-10-23T07:26:11+00:00",
-   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf037e34bb52ee2a"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -21501,6 +21484,23 @@
    "live_wire": false,
    "manual": false,
    "id": "488d507f6c702bfd"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRk5YTWwxSHFBOXFtbHBhLXRFRHF2Y2pTZUY5TlpIbDZ2RWVpb19Ma1pLdlFDTXlheG1tY1JCenBPLUFsVFI0REJiWllKWHVKQkZuN25HM2tvQQ?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "title_original": "BOK chief signals hawkish stance amid outlook for higher growth, rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf037e34bb52ee2a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -32316,23 +32316,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -32348,6 +32331,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
