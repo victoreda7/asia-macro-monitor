@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T16:32:44.319825+00:00",
- "collected_at_utc": "2026-11-02T16:32:44.319825+00:00",
+ "generated_at_utc": "2026-11-02T16:42:50.171339+00:00",
+ "collected_at_utc": "2026-11-02T16:42:50.171339+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 921,
-  "china": 857,
-  "taiwan": 361,
+  "china": 856,
+  "taiwan": 362,
   "korea": 861
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T12:00:09+00:00"
+   "newest": "2026-11-02T15:02:52+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T12:23:00+00:00"
+   "newest": "2026-11-02T13:55:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:42:00+00:00"
+   "newest": "2026-11-02T04:12:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-02T15:59:55+00:00"
+   "newest": "2026-11-02T16:33:09+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T16:32:09+00:00"
+   "newest": "2026-11-02T16:42:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:00:52+00:00"
+   "newest": "2026-11-02T06:02:14+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -634,6 +634,23 @@
    "live_wire": false,
    "manual": false,
    "id": "aa9f79339c8be0be"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "A major breakthrough! Japanese media revealed that Taiwan and Japan could sign a \"comprehensive trade agreement\" by the end of the year as soon as possible | Footage of a plane crashing in Florida was revealed! All 9 people on board were killed｜2026/11/02 Central News Agency Global Evening News",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBodXB6TVA2ZE0yeTFDU2QtUnR3X1A5WGU5VGtka3ZINGtHN2lCQjcyTVo5ZUVLVFRYTTNtbXRRVVc5SGJndFMyeWRFX1EzUG9LZVIwMnE5bHdPMTQ?oc=5",
+   "published_utc": "2026-11-02T10:39:57+00:00",
+   "title_original": "重大突破！日媒曝台日最快年底簽「全面貿易協議」｜佛州飛機急墜畫面曝！機上9人全數罹難｜2026/11/02 中央社全球晚間新聞",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c90c73a3d9a7b114"
   },
   {
    "source_id": "tradingview_live",
@@ -1535,6 +1552,24 @@
    "id": "520822cfa00b843b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -1883,24 +1918,6 @@
    "id": "e02f385258175764"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
@@ -2009,7 +2026,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmREelF1UkVmdlptVXBLbGdvLVF3XzBDalRFekxfX2RPS0E0U2FWRl9XV3hzMy1xZnV2RmJDLWRjbUJVOEZTbmxrVENVdDd4dlJzdk1hRndKSWFyLVBXWVpyeW9URVpLNUEtaHg4cTBhbS11MmQ1WXhkTkJha1J4SEdEWlVIb0xaZ1FTNm93bHFyLUY2WTBOY2ROaHZXWXpfdEZVakpSZ01CbVoxWVBSWg?oc=5",
    "published_utc": "2026-11-02T02:29:00+00:00",
@@ -2655,7 +2672,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Why did he accept the position of Governor of the Bank of Japan, something he once hesitated to do? Haruhiko Kuroda still remembers the \"phone call from Prime Minister Abe\"",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlNPVW1DQ0VZU3B4VXNkU01aZW1TNjlXendqRGwwejdRU0RqU2h0WElFUXZZTUQtakI2OHR2YnFycnlnaUZQSmVNMDFIQ1VGTGRNU3hhSE9rTGkxNkJjc1puclYxUEg0ZWFaeThyaU12T0lsZ3lCTFB6NHRrR0RjWmtEblJ0bmZEZ3ZhUzR3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSlZvV3R3LU14WHFrQjBQSGlVT0t0ZTlRY2ZvRm1iSkhxUHpSdnpNSTA0SmNObUdELVkzLUpGb0tGMmJFNE03WnZ0V0FrX3V3eFFROVBPSG9qZ0hicVlCaTlGSHhhZllpb1d1SkZ3eTA1ODFuQXVHY3EwQVNlcnM?oc=5",
    "published_utc": "2026-11-01T22:12:16+00:00",
    "title_original": "「一度はためらった」という日銀総裁の座を、なぜ引き受けたのか…黒田東彦氏が今でも忘れない、“安倍首相からの電話”",
    "region": "japan",
@@ -2667,7 +2684,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7ff5f906f8e8f8e2"
+   "id": "961b0893057276ba"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3730,10 +3747,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
+   "source_name": "京报网",
    "title_en": "The central bank further optimizes the short-term interest rate control mechanism",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUxWazZjSE5rTWxSQ3hYcERwNElYcVgyS3hETzMxMXNFSllsbVRKMmtBYmZfX3lXdkdmVEdROHBTdFRIbVQ2X3RNOTN2R3VFekZUREJ0MHlEaThwcGFUdXlfWEFFbENpYlk0TDVaNzZFTHY1U3Z0ZXB3cFEwQjRtWnln?oc=5",
-   "published_utc": "2026-10-31T10:43:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzeGR1czZqR1N4VVBfM3ZLS3lRUXZCZkJnT0g5S0Y1NDdMcThFaXNOZ1hjdzh1UzNNZnpSdjNzUmFuX01pZHBVSkxNVG5xd3pMWENUVWpxZS1tUG0xU3c?oc=5",
+   "published_utc": "2026-10-31T10:37:23+00:00",
    "title_original": "央行进一步优化短端利率调控机制",
    "region": "china",
    "topics": [
@@ -3743,7 +3760,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32ff3b7115868327"
+   "id": "502016f3a195f62d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3850,23 +3867,6 @@
    "id": "55f69562c7176e2e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
-   "published_utc": "2026-10-31T07:33:36+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ab2d10475f3483"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -3882,6 +3882,23 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "每日经济新闻",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
+   "published_utc": "2026-10-31T07:22:00+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -32502,23 +32519,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -32534,6 +32534,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51926,23 +51943,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7cf59d7c355563a5"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China, EU strike deal to halve Chinese hybrid exports",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?oc=5",
-   "published_utc": "2026-10-09T12:41:00+00:00",
-   "title_original": "China, EU strike deal to halve Chinese hybrid exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "42b01a82a8b938b3"
   },
   {
    "source_id": "manual_ia",

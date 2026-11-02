@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T16:32:44.319825+00:00
+Última coleta: 2026-11-02T16:42:50.171339+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
-  🇨🇳 China          857
-  🇹🇼 Taiwan         361
+  🇨🇳 China          856
+  🇹🇼 Taiwan         362
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
   - [china] The main policy interest rate "changes anchor", why does the overnight reverse repurchase rate bear such a hea
   - [china] China unearths new critical mineral deposit, bolstering supply chain security
+  - [taiwan] A major breakthrough! Japanese media revealed that Taiwan and Japan could sign a "comprehensive trade agreemen
   - [japan] SBI Holdings Inc - To Establish Merged Company With Capital Of 100 Million Yen Equally Split Between SBI Group
   - [taiwan] The New Taiwan dollar fell by more than 2 cents during the session. The central bank and exporters joined forc
   - [korea] South Korean president plans to expand fiscal spending in 2027 budget bill, perhaps due to declining approval 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korean won sharply weakens against US dollar
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
-  - [china] China's manufacturing sector remains on front foot - RatingDog
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T16:32:44+00:00",
+      "published_utc": "2026-11-02T16:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
