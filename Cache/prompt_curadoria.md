@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T13:22:44.747688+00:00
+Última coleta: 2026-11-02T13:32:46.139096+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          860
+  🇯🇵 Japão          922
+  🇨🇳 China          859
   🇹🇼 Taiwan         359
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Cut to JPY 15959.09, Implies 68% Upside
   - [china] Update: Chinese central bank shifts policy rate anchor to overnight
   - [japan] Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?F
   - [japan] If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com
@@ -41,6 +42,7 @@ Total: 3000 manchetes
   - [china] People's Bank of China: Swap Term Is One Year, Can Be Extended
   - [japan] Yen Falls After Japan Katayama's Intervention Warning
   - [china] China's central bank taps liquidity tool to fund share purchases
+  - [china] Jiemian Evening News | The draft amendment to the Criminal Procedure Law is submitted for review; the central 
   - [taiwan] AI-Led Export Boom Likely to Continue Feeding Into Taiwan Domestic Demand — Market Talk
   - [korea] With President Lee Jae Myung's speech to the National Assembly on the 2nd, the 2027 budget political..
   - [korea] S. Korean won sharply weakens against US dollar
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside
   - [korea] “Domestic and export sales both slump”: Renault Korea Co., Ltd. sells 5,503 vehicles in October, down 23.6% ye
   - [taiwan] BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough
-  - [korea] South Korea urges cryptocurrency exchanges to tighten security
-  - [china] Asian currencies mixed as yuan holds near four-year high, dollar steadies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T13:22:45+00:00",
+      "published_utc": "2026-11-02T13:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
