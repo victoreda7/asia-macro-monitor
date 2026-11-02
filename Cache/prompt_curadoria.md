@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T23:32:42.389874+00:00
+Última coleta: 2026-11-02T23:42:44.904209+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          853
-  🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  865
+  🇯🇵 Japão          920
+  🇨🇳 China          851
+  🇹🇼 Taiwan         360
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea October headline inflation moderates ahead of expected rate hike
+  - [korea] South Korea Inflation Remains Above Target at 2.8% in October — Update
+  - [korea] [Breaking news] Korea's October consumer price inflation rate 2.8%
+  - [korea] (LEAD) Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month
+  - [korea] South Korea Inflation Slows in October
   - [korea] South Korea Inflation Eases to 2.8% in October, Still Above Target
   - [korea] South Korea Oct headline inflation +2.8% y/y (Reuters poll +2.85%)
   - [china] MKS Commences Expansion Of Guangzhou, China Equipment Manufacturing Facility
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] China's central bank taps liquidity tool to aid struggling stocks
   - [japan] Still-negative Japanese real rates should continue to support USD/JPY: UBS
   - [korea] Finance minister, Hyundai Motor chief discuss EV policies: sources
-  - [china] ZAWYA: Ten projects signal broader Oman-China manufacturing ties
-  - [china] The switching of major policy interest rates has started, and the People's Bank of China has launched a 541 bi
-  - [japan] Yomiuri: Fujifilm Bets 10 Billion Yen on Magnetic Data Storage Resurgence
-  - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.5 Billion Yuan
-  - [china] PBOC: 31 Securities, Fund Companies Have Applied for Quotas Exceeding CNY100B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T23:32:42+00:00",
+      "published_utc": "2026-11-02T23:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
