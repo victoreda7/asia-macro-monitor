@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-02T15:12:44.933183+00:00",
- "collected_at_utc": "2026-11-02T15:12:44.933183+00:00",
+ "generated_at_utc": "2026-11-02T15:22:45.662380+00:00",
+ "collected_at_utc": "2026-11-02T15:22:45.662380+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 360,
   "korea": 861
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:40:00+00:00"
+   "newest": "2026-11-02T09:10:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:00:02+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:25:37+00:00"
+   "newest": "2026-11-02T14:49:12+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T13:38:45+00:00"
+   "newest": "2026-11-02T13:00:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T15:11:24+00:00"
+   "newest": "2026-11-02T15:22:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T12:05:24+00:00"
+   "newest": "2026-11-02T15:09:40+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:02:14+00:00"
+   "newest": "2026-11-02T06:00:52+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T14:27:00+00:00"
+   "newest": "2026-11-02T15:09:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "China's exports of chemical products surge, U.S. think tank: May trigger new trade conflict | Cross-Strait",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XeUhwSkNkMGVLal9UN0g1cFBTaEgxVzFaRzF1TUV1YUg0dG43TTJDN0tzZUNRVlpxdTFiYWc1eHFfajNVS0VwZ0hLYk5GLTFuWjJSRVlHZ1k5RVZaNnc?oc=5",
+   "published_utc": "2026-11-02T15:09:00+00:00",
+   "title_original": "中國化工產品出口激增美智庫：恐引發新貿易衝突| 兩岸",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bd2baf396858df37"
+  },
   {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
@@ -1867,23 +1884,6 @@
    "id": "e02f385258175764"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -1900,6 +1900,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -2671,8 +2688,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -2686,7 +2703,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -32434,23 +32451,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -32466,6 +32466,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51926,23 +51943,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d9409f548fe7d5b5"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "China agrees to slash EU hybrid car exports in half, putting brake on trade war",
-   "url": "https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks?utm_source=rss_feed",
-   "published_utc": "2026-10-09T11:59:22+00:00",
-   "title_original": "China agrees to slash EU hybrid car exports in half, putting brake on trade war",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f4c32279c2b3282"
   },
   {
    "source_id": "manual_ia",
