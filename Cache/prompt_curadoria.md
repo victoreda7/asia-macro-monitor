@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T09:52:45.107403+00:00
+Última coleta: 2026-11-02T10:02:45.913583+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] ZAWYA: Ten projects signal broader Oman-China manufacturing ties
   - [japan] Yomiuri: Fujifilm Bets 10 Billion Yen on Magnetic Data Storage Resurgence
   - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.5 Billion Yuan
   - [china] PBOC: 31 Securities, Fund Companies Have Applied for Quotas Exceeding CNY100B
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [taiwan] AI-Led Export Boom Likely to Continue Feeding Into Taiwan Domestic Demand — Market Talk
   - [korea] With President Lee Jae Myung's speech to the National Assembly on the 2nd, the 2027 budget political..
   - [korea] S. Korean won sharply weakens against US dollar
+  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [korea] Samsung Electronics and SK Hynix announced a policy to return shareholders based on their all-time p..
   - [china] China's manufacturing sector remains on front foot - RatingDog
   - [japan] Yen Falls Against Majors
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Interest-Rate Hikes to Come in December, Highest Certainty in Japan — Market Talk
   - [japan] JGB yields edge up ahead of series of auctions
   - [japan] Macnica Holdings Inc - To Buy Back Up To 0.89% Of Own Shares Worth 5 Billion Yen
-  - [china] China signals caution over currency surge with weaker yuan fixing
-  - [japan] Economic and Fiscal Affairs Minister Jouchi says, ``We will carefully decide how to overcome deflation.'' The 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T09:52:45+00:00",
+      "published_utc": "2026-11-02T10:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
