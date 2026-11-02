@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-02T14:42:45.966379+00:00
+Última coleta: 2026-11-02T14:52:46.120725+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          860
-  🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  860
+  🇯🇵 Japão          920
+  🇨🇳 China          859
+  🇹🇼 Taiwan         360
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
@@ -25,7 +25,7 @@ Total: 3000 manchetes
   - [japan] Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?F
   - [japan] If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com
   - [china] China's central bank launched policy tools on the 3rd to boost the stock market | Cross-Strait
-  - [japan] Manufacturing solid but strain of energy costs, supply disruptions starts to show
+  - [taiwan] Manufacturing solid but strain of energy costs, supply disruptions starts to show
   - [japan] The BOJ accidentally made $440 billion in stocks
   - [china] China’s CXMT defends push into new DRAM architecture as US chip curbs bite
   - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-02T14:42:46+00:00",
+      "published_utc": "2026-11-02T14:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

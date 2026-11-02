@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-02T14:42:45.966379+00:00",
- "collected_at_utc": "2026-11-02T14:42:45.966379+00:00",
+ "generated_at_utc": "2026-11-02T14:52:46.120725+00:00",
+ "collected_at_utc": "2026-11-02T14:52:46.120725+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
-  "china": 860,
-  "taiwan": 359,
-  "korea": 860
+  "japan": 920,
+  "china": 859,
+  "taiwan": 360,
+  "korea": 861
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T13:10:52+00:00"
+   "newest": "2026-11-02T13:38:59+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T13:54:58+00:00"
+   "newest": "2026-11-02T14:46:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T13:50:57+00:00"
+   "newest": "2026-11-02T14:18:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T03:08:00+00:00"
+   "newest": "2026-11-02T11:00:02+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:49:16+00:00"
+   "newest": "2026-11-02T07:24:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-02T14:42:00+00:00"
+   "newest": "2026-11-02T14:51:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -481,13 +481,13 @@
    "id": "33f07671c720ab99"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Manufacturing solid but strain of energy costs, supply disruptions starts to show",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDh4RFRpdTE0UWJNVUlwNXRHZlVkT1diR1I2UGtrNk9uZGg2S2g2Rk53ZTBNRnhmbTItS2psV2hwQ0JqM3hvdnFvZ21ESmxkNXhJd2VsTGdGTmpRUEZoR05xYWlNQk9qckpfQWd4U3BTWDRqb29KTTZfRWlyVkpUVlpHZFA3bVFFOHRRcVZVc1NhalpZc3FTVUo1MmxzMUtrZEt5NkV2X2ZJWnFjM2ttYU91SzI4RkFCTjJXOWRKZUhib0VnTUNr?oc=5",
    "published_utc": "2026-11-02T11:49:16+00:00",
    "title_original": "Manufacturing solid but strain of energy costs, supply disruptions starts to show",
-   "region": "japan",
+   "region": "taiwan",
    "topics": [
     "inflation",
     "industrial"
@@ -496,7 +496,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e372ee2f7082d1b7"
+   "id": "9d7db6be0184f487"
   },
   {
    "source_id": "tradingview_live",
@@ -3765,6 +3765,23 @@
    "id": "55f69562c7176e2e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbVlsZ1lMMDc3dWpOQTV1QzF3QW9CR1RkM2lWbngxNEc1aC1oZzZzbEFnbnhIc19YQjJWWlA1MENzS1hLZ0s0aUJGbzRDNW9RY3lyNjdPa0htU0ZVY0hUTUp6bnRJSUhtRmhFdFBzUDdpM3BFcXZ4dkNxMTFXUUxLSGJCVkhaMG5UWG1yclpMcw?oc=5",
+   "published_utc": "2026-10-31T07:33:36+00:00",
+   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "11ab2d10475f3483"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Siemens CEO outlines path to bring industrial AI to smaller manufacturers",
@@ -3780,23 +3797,6 @@
    "live_wire": false,
    "manual": false,
    "id": "397156b16c3ba6b0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "每日经济新闻",
-   "title_en": "The operating interest rate is 1.25%! The anchor change of the policy interest rate will be officially implemented next Monday, and overnight reverse repurchase operations will be normalized.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRWF5eTFOaXA3eTBUdDcyVExrQ20tbGpSTXlsSkxSZ0dqalhyaWtGWF8zTlo0ekJYNUYwSGdIR2VpMmNtbk9Pd19iaEVRZXdFX3ZNODdYZjdRTlA3Ry1FR25LOUhSZw?oc=5",
-   "published_utc": "2026-10-31T07:22:00+00:00",
-   "title_original": "操作利率1.25%！下周一起政策利率换锚正式落地，隔夜逆回购常态化操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0dded5c006d7f752"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6125,23 +6125,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -6477,6 +6460,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -10400,6 +10400,23 @@
    "live_wire": false,
    "manual": false,
    "id": "547f33f9e10854b3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제",
+   "title_en": "The U.S. benchmark interest rate was frozen... The possibility of additional hikes in December increases.",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtT0cwR21hME95Ri1nQnlTWHlRYjNyTGp3clhGM09zN3ZRTGNRTUx2NUZxd2pFMXVwM3ViSVM1RXVCLXU2SFM0SHpTZHNYdVcxOGVUbw?oc=5",
+   "published_utc": "2026-10-29T05:35:34+00:00",
+   "title_original": "美 기준금리 동결했는데…높아지는 12월 추가 인상 가능성",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5d808bbffe314b15"
   },
   {
    "source_id": "investing_live",
@@ -35427,6 +35444,23 @@
    "id": "ebc443accb19e2b1"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
+   "published_utc": "2026-10-16T20:49:00+00:00",
+   "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b4180c2c98b1e85"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clears support funds",
@@ -37133,23 +37167,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5550786906e36fe3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b4180c2c98b1e85"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51926,23 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3d08a6a75e93da17"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa2RCM0lJTlZrVnhlMmdjbldmMXpIekU5QzFIRzNqT25lNzNld25selhNcl9oYjFCWjRaX3ZSUzdGNDBrTmU0YzJJaUZneHRkQ2JZUmF4eUlSWG52QzE3VzBhLUFma0dqSG1wN1daLUd0Y0c0Q3NCblBKOV9sby1pQU1aUU1XWU1IbG1iQ2JiQUlrSzAwbDlFYnd5ZXkyblFYVjlxS1hVMFRRWVZmcmZ3OVpTekhjMnB6MW9rZ1BBYWg3eXJ4Yk1OM0d2NWTSAcwBQVVfeXFMTWk5X2h5SXFHS0JMQjVla2RTd0lUTC0ta0hWRVdVMzJHRU1FSlp2bUcyZkhTQlZ5UUktYW1BdFhuZ0pYX2ZDaFd3SmYteUNaRUhBbVBwelFfODBvMFhmeE1Lbmx1ZWdDSWVBRWlKRzJjMmVDbmp2c1VodGlXNGI4aDhFTDhuNUlQVjRjeUNIWXpaNzNuY1dBdkhGY3dwWklPMG9VT0wtZ3FUSEQxRzhtREkyV3JRRjF3TXlaYUxZWHpPVDVTamt0QWc4RDNo?oc=5",
-   "published_utc": "2026-10-09T11:59:22+00:00",
-   "title_original": "Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "943a586ed264354b"
   },
   {
    "source_id": "manual_ia",
