@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T15:22:43.755162+00:00",
- "collected_at_utc": "2026-11-03T15:22:43.755162+00:00",
+ "generated_at_utc": "2026-11-03T15:32:53.758188+00:00",
+ "collected_at_utc": "2026-11-03T15:32:53.758188+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2817,
+ "count": 2818,
  "by_region": {
   "japan": 814,
-  "china": 834,
+  "china": 835,
   "taiwan": 302,
   "korea": 867
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T15:03:31+00:00"
+   "newest": "2026-11-03T15:26:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T15:00:32+00:00"
+   "newest": "2026-11-03T15:25:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T15:21:57+00:00"
+   "newest": "2026-11-03T15:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T11:22:48+00:00"
+   "newest": "2026-11-03T08:22:43+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T15:01:45+00:00"
+   "newest": "2026-11-03T15:29:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's State Council announces removal of officials",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvdjN4dG1oUDg1b0pfdHBaeW8tcHRKYkNyWkppWE1lMW5yaHRtNVdJQTd1UHBhQ0xwVjk5UjNTWWh6UDlTa1JKYWhIQnJlNzJZTFVRdE1Fc1BCVDJsSzlwQXNKS1I1MVRSMDJfV1Y2Y3Z5S1M4MEJqSHRHLXQ?oc=5",
+   "published_utc": "2026-11-03T15:29:15+00:00",
+   "title_original": "China's State Council announces removal of officials",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "72910698ee488113"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -671,7 +688,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
+   "source_name": "新浪财经",
    "title_en": "Central Bank: Net investment in open market government bond sales in October was 150 billion yuan",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWxGRjltMHl4QUJzbFgyMWt2Xzh0TEdBXzBfeDVmdW54ZG96ZmdBczF5SE5odWx3WnBoc3BkWXZwa0M0VjJPOTgyU0ZxamRVUFNpeUdfaWdNeEN2eHpQaTF1OW5WNU5MLXVaaGZQdTdjZ3lBVGQtMFpFV19HZlA1eGVOSDRqclhPT0xqYUwyNzJ2elBqeEVN?oc=5",
    "published_utc": "2026-11-03T09:21:34+00:00",
@@ -1784,7 +1801,7 @@
    "source_name": "华尔街见闻",
    "title_en": "The central bank took action to cool down the RMB and raised the foreign exchange deposit reserve ratio to 6%. The offshore RMB fell sharply by 200 points.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdjUwVmlZTklfZ2toSk43S01uZFNtTUlnUWNnWjE4U3RwY0pQQVo1UDlvQ3dEaXAxNE1jZnNtT2FPZzlyM2JldGJFcEc4bGNYM0Rv?oc=5",
-   "published_utc": "2026-11-03T01:36:11+00:00",
+   "published_utc": "2026-11-03T01:36:00+00:00",
    "title_original": "央行出手给人民币降温，上调外汇存款准备金率至6%，离岸人民币急跌200点",
    "region": "china",
    "topics": [
@@ -3931,23 +3948,6 @@
    "id": "b42f88d775cae7a8"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -3964,6 +3964,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -8856,7 +8873,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "엠에스투데이",
    "title_en": "“The United States is also on the verge of an interest rate hike”… The Bank of Korea's selection for November is",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDRV9xVUQ3YThPbFFMN3RQRmVRMGhSX3VBYmJGcmNncXY2cnpZeC1Va2N1TExtVjlRYm43aFJvcjhaMFphZVNGRVZWcTByc0xhN0hPempGR1BQZkdJcUZ5QUtfT19EempIaTAwbtIBcEFVX3lxTE1NWUdLRXlGLWN5SHRBSUlhVjJjcFZnQnMzaE05V2lQekF2TTJ5WHNnOGhyX3RmbFppamlaVDZLcmJfcmU5WW5HT1QwSk9GQk9URTVrdjUzelppRENQSGtSNDFfbXllVXVBd3lRS3lRNEY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NWUdLRXlGLWN5SHRBSUlhVjJjcFZnQnMzaE05V2lQekF2TTJ5WHNnOGhyX3RmbFppamlaVDZLcmJfcmU5WW5HT1QwSk9GQk9URTVrdjUzelppRENQSGtSNDFfbXllVXVBd3lRS3lRNEbSAXBBVV95cUxNTVlHS0V5Ri1jeUh0QUlJYVYyY3BWZ0JzM2hNOVdpUHpBdk0yeVhzZzhocl90ZmxaaWppWlQ2S3JiX3JlOVluR09UMEpPRkJPVEU1a3Y1M3paaURDUEhrUjQxX215ZVV1QXd5UUt5UTRG?oc=5",
    "published_utc": "2026-10-30T06:46:01+00:00",
    "title_original": "\"미국도 금리인상 불씨\"…한은 11월 선택은",
    "region": "korea",
@@ -8867,7 +8884,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "74c5f492ce1f43a2"
+   "id": "fb7caed21b14fd53"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -25061,23 +25078,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "319bd5fb3aaf4d60"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "BOK holds rate at 3%, leaves door open to November hike",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25091,6 +25091,23 @@
    "live_wire": false,
    "manual": false,
    "id": "498c0e6782864fff"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "319bd5fb3aaf4d60"
   },
   {
    "source_id": "gn_kr_yonhap",

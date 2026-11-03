@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T15:22:43.755162+00:00
-Total: 2817 manchetes
+Última coleta: 2026-11-03T15:32:53.758188+00:00
+Total: 2818 manchetes
 
   🇯🇵 Japão          814
-  🇨🇳 China          834
+  🇨🇳 China          835
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] China's State Council announces removal of officials
   - [china] Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list
   - [korea] Samsung to make chip parts for AMD, Nvidia at Texas plant: report
   - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
@@ -56,7 +57,6 @@ Total: 2817 manchetes
   - [china] PBOC Move Likely Aimed at Slowing Down, Not Reversing, Yuan's Appreciation — Market Talk
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
-  - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2817 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T15:22:44+00:00",
+      "published_utc": "2026-11-03T15:32:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
