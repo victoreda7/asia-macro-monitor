@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-03T10:12:45.242140+00:00",
- "collected_at_utc": "2026-11-03T10:12:45.242140+00:00",
+ "generated_at_utc": "2026-11-03T10:22:44.441466+00:00",
+ "collected_at_utc": "2026-11-03T10:22:44.441466+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 361,
   "korea": 875
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T05:10:25+00:00"
+   "newest": "2026-11-03T03:00:16+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-03T18:53:54+09:00"
+   "newest": "2026-11-03T19:12:25+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-03T18:13:49+09:00"
+   "newest": "2026-11-03T19:15:32+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T03:43:00+00:00"
+   "newest": "2026-11-03T06:04:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T16:00:00+00:00"
+   "newest": "2026-11-03T10:16:25+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T07:53:58+00:00"
+   "newest": "2026-11-03T05:12:00+00:00"
   }
  ],
  "items": [
@@ -1208,6 +1208,24 @@
    "id": "ca75960f4c760021"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwcVdvTzBaeDl0NldmaTFmY1pieDItQWQzRFh6TDJad3RwYnZBVEV0WXZPUmV1cldUU29XSzQ2V3NHRE1FcVRqT1hqM1lMM2RLZVV0OER3UVM2U292TmFjbQ?oc=5",
+   "published_utc": "2026-11-03T04:18:45+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "02004daeb4b39d92"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "PBOC's Forex Deposit Move Underscores Focus on Controlled Yuan Appreciation — Market Talk",
@@ -1398,24 +1416,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9738cec40bac3fd3"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
-   "published_utc": "2026-11-03T02:47:23+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb08c742bed91b2e"
   },
   {
    "source_id": "toyo_keizai",
@@ -13242,7 +13242,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "Bank of Korea: “External risk factors remain despite the U.S. base interest rate freeze” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IQ2FyYTdTVFNBZmFGRXJPWFZfT0JBblNFWktqRXNMM0JMM2RGZGJnX3pNN0J5T1JFN0IzaFhrNHlZakFkNG5na21OVXFjaTN3SVBIT0podkxQRXVFcjdnNnZaaUp4THFFMkMw0gFwQVVfeXFMT3RjTXVRYUJVbkdxZFEtWGtNU2N0c2tpeGE4Z0htMEt4Yzk3Z2tNSzJHVHdZNFRBN3M2YmRoa0tVN0NzbVBESGtGbHZBYlNickU2OUxScG9qc0ZMRnE5dUozWWR2dkx0dVIyamxEc05ObA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MRHN3R0tyLWtSXzZ0bzBXM2VvaDNfQWk2d3VJTEN1Q0lOTUl6UDhIUy12dmN1YVA2YkNEaE92c3dZWG9HdjVMeUVqSlhZZnhpM2pKMVhtdVVNaTRJblNwcnVmTFljMHVDWlc5amVrd2ZRaDZPR0xIMtIBfkFVX3lxTE1XMGhEeHgwRDNzei1ETlgxb1RoY1JRYWgwQ01iaXczSzN6X09qblNyd1VwN1NmeTJrcHJ1VkpRdGxFOE04RmllQ0dpMy1jVjFWQ0ljaFVfYVItcDE2RjAtS1R4RFMzd20zcWF4Q0Jud29RZTZ4NGFWeG9zVGFMQQ?oc=5",
    "published_utc": "2026-10-29T01:00:09+00:00",
    "title_original": "한은 \"美 기준금리 동결에도 대외 리스크 요인 상존\" - 머니투데이",
    "region": "korea",
@@ -13253,7 +13253,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "163389ce20198b06"
+   "id": "61a33b5a9bf4d84d"
   },
   {
    "source_id": "gn_kr_reuters",
