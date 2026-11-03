@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T21:12:47.561375+00:00",
- "collected_at_utc": "2026-11-03T21:12:47.561375+00:00",
+ "generated_at_utc": "2026-11-03T21:22:52.921626+00:00",
+ "collected_at_utc": "2026-11-03T21:22:52.921626+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2835,
+ "count": 2836,
  "by_region": {
   "japan": 821,
   "china": 837,
   "taiwan": 302,
-  "korea": 875
+  "korea": 876
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T11:24:00+00:00"
+   "newest": "2026-11-03T08:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T18:01:39+00:00"
+   "newest": "2026-11-03T18:19:41+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T21:12:34+00:00"
+   "newest": "2026-11-03T21:22:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T17:25:14+00:00"
+   "newest": "2026-11-03T14:22:04+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T21:00:10+00:00"
+   "newest": "2026-11-03T08:41:44+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-04T06:00:00+09:00"
+   "newest": "2026-11-04T06:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4958,8 +4958,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -4973,7 +4973,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -5478,24 +5478,6 @@
    "id": "5dbbecc69c06d83e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
-   "published_utc": "2026-11-01T02:46:04+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4912a6c184ed00f5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -5912,6 +5894,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-10-31T10:42:00+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -11307,6 +11307,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c6ed07f2ac2447d0"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울일보",
+   "title_en": "U.S. Federal Reserve freezes interest rates... The Bank of Korea is concerned about interest rates between growth and inflation.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JT01lem55UkdVRUFPSGZQRWQyWDlKSnJuR1Y4WVpaeEVSNkxkN0pubE82SXhBR21kOGZPWHlzejU0dlpGaEh4TjJsWlRzVmVzd20yQmhnRDFBeG15NVExS21mSHpnRTVrcGZrU1htNNIBb0FVX3lxTE1JT01lem55UkdVRUFPSGZQRWQyWDlKSnJuR1Y4WVpaeEVSNkxkN0pubE82SXhBR21kOGZPWHlzejU0dlpGaEh4TjJsWlRzVmVzd20yQmhnRDFBeG15NVExS21mSHpnRTVrcGZrU1htNA?oc=5",
+   "published_utc": "2026-10-29T12:26:30+00:00",
+   "title_original": "미 연준 금리 동결…한은, 성장·물가 사이 금리 고심",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "419d769971820925"
   },
   {
    "source_id": "nhk_politics",
@@ -25406,6 +25424,23 @@
    "id": "95a73a535b93ece1"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) BOK says rate freeze decision was unanimous",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52c2NIR2JRRTlNdGRidzFHZkVoZDFORGNmYTY3SkJYdjdLa2FoeDNidUdrV0I0aUk2eW90QVpOZS1zX1V2RGc0MXpBRWJoVTBWSTVCTXhpZ2dPZw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(URGENT) BOK says rate freeze decision was unanimous",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "71c51be2f177186c"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "팍스경제TV",
    "title_en": "[Issue] Bank of Korea freezes base interest rate at 3.00%... \"This freeze is the 'fruit of hoeing'\"",
@@ -26078,23 +26113,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b49a2e67099a9e64"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) BOK says rate freeze decision was unanimous",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52c2NIR2JRRTlNdGRidzFHZkVoZDFORGNmYTY3SkJYdjdLa2FoeDNidUdrV0I0aUk2eW90QVpOZS1zX1V2RGc0MXpBRWJoVTBWSTVCTXhpZ2dPZw?oc=5",
-   "published_utc": "2026-10-22T01:36:19+00:00",
-   "title_original": "(URGENT) BOK says rate freeze decision was unanimous",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71c51be2f177186c"
   },
   {
    "source_id": "gn_cn_pboc",
