@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T07:12:45.204547+00:00
+Última coleta: 2026-11-03T07:22:44.430445+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
-  🇨🇳 China          868
+  🇨🇳 China          869
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  878
+  🇰🇷 Coreia do Sul  877
 
 ## O que já está no feed (não repita)
 
@@ -33,7 +33,6 @@ Total: 3000 manchetes
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
   - [china] The central bank steps to ease the pressure on RMB appreciation and raises the foreign exchange deposit reserv
-  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [korea] SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live
   - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
   - [china] China's central bank conducts 100 billion yuan of swap operations
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [korea] Youngwoo DSP, a company specializing in semiconductor and display equipment, recorded a good perform..
   - [china] Offshore Yuan Slides as PBOC Acts to Curb Rally
   - [korea] “So you’ve been waiting only for shareholder returns from Samsung Electronics and SK Hynix?” ... A policy that
+  - [korea] Asian currencies mostly lower; South Korean won bucks trend
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T07:12:45+00:00",
+      "published_utc": "2026-11-03T07:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
