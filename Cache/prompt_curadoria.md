@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T08:32:47.725659+00:00
+Última coleta: 2026-11-03T08:42:46.924796+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
-  🇨🇳 China          872
+  🇨🇳 China          873
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  874
+  🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [korea] The contract for rare obesity treatment, which LG Chem exported technology to U.S. bio companies, ha..
   - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
   - [china] PBOC Move Likely Aimed at Slowing Down, Not Reversing, Yuan's Appreciation — Market Talk
@@ -35,6 +36,7 @@ Total: 3000 manchetes
   - [korea] Hanwha brings Korean defense, manufacturing ETFs to Abu Dhabi
   - [korea] Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk
   - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
+  - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years, 
   - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 
   - [china] China's top trade negotiator meets with US agricultural trade delegation
   - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
-  - [china] After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for th
-  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T08:32:47+00:00",
+      "published_utc": "2026-11-03T08:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
