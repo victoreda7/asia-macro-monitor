@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T13:02:43.396684+00:00",
- "collected_at_utc": "2026-11-03T13:02:43.396684+00:00",
+ "generated_at_utc": "2026-11-03T13:12:44.515271+00:00",
+ "collected_at_utc": "2026-11-03T13:12:44.515271+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 3000,
+ "count": 2814,
  "by_region": {
-  "japan": 897,
-  "china": 869,
-  "taiwan": 360,
-  "korea": 874
+  "japan": 818,
+  "china": 830,
+  "taiwan": 301,
+  "korea": 865
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T12:45:13+00:00"
+   "newest": "2026-11-03T13:04:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T12:36:55+00:00"
+   "newest": "2026-11-03T13:00:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T12:19:40+00:00"
+   "newest": "2026-11-03T08:55:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T13:02:00+00:00"
+   "newest": "2026-11-03T13:11:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T05:20:35+00:00"
+   "newest": "2026-11-03T08:22:43+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:00:00+00:00"
+   "newest": "2026-11-03T06:47:21+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar drifts on Mideast, midterm risks; Aussie and yuan dip",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0K7:0-dollar-drifts-on-mideast-midterm-risks-aussie-and-yuan-dip/",
+   "published_utc": "2026-11-03T13:10:47+00:00",
+   "title_original": "Dollar drifts on Mideast, midterm risks; Aussie and yuan dip",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f121320376a7ec34"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -550,23 +567,6 @@
    "id": "7bf295f5cfc9376b"
   },
   {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "[Is the acceleration of protectionism affecting the capital market? ] Aftermath of the intensifying French demonstrations / How France differs from Scandinavian countries in terms of \"high welfare\" / The reality of the birth of \"far-right governments\" in Germany and France / How serious is the national debt anxiety? / Asset management in the era of “home bias” | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/963404?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-11-03T10:00:00+00:00",
-   "title_original": "【「保護主義」加速で資本市場にも影響？】激化する仏デモの余波／“高福祉”でもフランスが北欧諸国と異なる点／独仏で「極右政権」誕生の現実味／国債不安はどこまで深刻化？／「ホームバイアス」時代の資産運用 | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e340f6bbfef8b05"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour",
@@ -599,41 +599,6 @@
    "live_wire": true,
    "manual": false,
    "id": "26b26059ebf49cd6"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Hong Kong Government: Export growth is accelerating and internal demand is solid. Hong Kong’s economy grew by 5.2% in the third quarter.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tZ2hoQjZFc0ZNbUMzT010MkQ4cXdCczVTVE1GSWJidExaMGtGMHpmeTlBbGUtZ1FGSmt0Smd1YktmNkhxclptVGI0NWpESmt6QnlmUFA1c1lLT3oxa3c?oc=5",
-   "published_utc": "2026-11-03T09:31:00+00:00",
-   "title_original": "港府：出口成長加快內部需求穩健 香港第3季經濟成長5.2%",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e70becdb223c58d1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Dollar drifts on Mideast, midterm risks; Aussie and yuan dip",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K08S:0-dollar-drifts-on-mideast-midterm-risks-aussie-and-yuan-dip/",
-   "published_utc": "2026-11-03T09:25:02+00:00",
-   "title_original": "Dollar drifts on Mideast, midterm risks; Aussie and yuan dip",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9b2c51a0e330b557"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1014,24 +979,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c6e297ef2372eeb9"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The war in the Middle East pushed up inflation and the Australian central bank raised interest rates by 1 point to hit an 18-year high | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kelA4a2JBVC05QUhpdjZHbE9rOW1MZGpyZ0hRSlBXUFBSazJRTnpYTWh5cHgwTzhiamE2MWp5SDBobW5tY3ZmZG5ZTlAyZ0syTVc3MXFTLS1GS1c4Z09Z?oc=5",
-   "published_utc": "2026-11-03T06:57:00+00:00",
-   "title_original": "中東戰事推升通膨澳洲央行升息1碼創18年新高| 國際",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6112099fd99bedf2"
   },
   {
    "source_id": "tradingview_live",
@@ -2666,23 +2613,6 @@
    "id": "59da3ca61ab4cc5e"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNy1GM2dOYUdIQUxNUG5ITmtuTHMwekpmTUdCNGdfdGJacnNXaFdfbktaV3d1NU1yMzQzWGV5WmpWOW9xZkhraEJTbUNualBQRVRZaHdrVF9tRjBROGQ2ZWNDYkg4UlNXX09GTmstemNhRWN2UnB6Q3M3bUMyMk1RR3FodW1YeDduTm5pTTlLUXc0elE0S2kzVHZ5aW5naEdycEJ3bEdfdDZyNk5Sejh2MHJfZjlCUHlNZmd6UTFVM2Rqa3JYQnFv?oc=5",
-   "published_utc": "2026-11-02T11:52:23+00:00",
-   "title_original": "If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ea35a5015e0ac8a5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "China's central bank launched policy tools on the 3rd to boost the stock market | Cross-Strait",
@@ -2698,24 +2628,6 @@
    "live_wire": false,
    "manual": false,
    "id": "33f07671c720ab99"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Manufacturing solid but strain of energy costs, supply disruptions starts to show",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDh4RFRpdTE0UWJNVUlwNXRHZlVkT1diR1I2UGtrNk9uZGg2S2g2Rk53ZTBNRnhmbTItS2psV2hwQ0JqM3hvdnFvZ21ESmxkNXhJd2VsTGdGTmpRUEZoR05xYWlNQk9qckpfQWd4U3BTWDRqb29KTTZfRWlyVkpUVlpHZFA3bVFFOHRRcVZVc1NhalpZc3FTVUo1MmxzMUtrZEt5NkV2X2ZJWnFjM2ttYU91SzI4RkFCTjJXOWRKZUhib0VnTUNr?oc=5",
-   "published_utc": "2026-11-02T11:49:16+00:00",
-   "title_original": "Manufacturing solid but strain of energy costs, supply disruptions starts to show",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e372ee2f7082d1b7"
   },
   {
    "source_id": "tradingview_live",
@@ -4737,23 +4649,6 @@
    "id": "50d728f366b26c9c"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Bulgarian presidential runoff exit poll: Acting President Jotova wins | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeFRRcV90Z2FreHZZbHh5dDNqTUg4cFRTTHBqTG1PclVRaDNaYkl0Q1BqeTJFSldrN0pjZzNQN1ZoWmhKd3g5dkJ5OWV4R2JRaG5ISHFTU0lRbWt5akVz?oc=5",
-   "published_utc": "2026-11-01T20:23:00+00:00",
-   "title_original": "保加利亞總統決選出口民調：代理總統約托娃勝出| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a6e73438015eaeb6"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Debate continues over the abolition of Japan Post Bank's savings interest cap",
@@ -4771,8 +4666,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -4786,7 +4681,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -4949,7 +4844,7 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUWx5bUxMUklCOGN1QzVBdGdpVDE0VFp6eDVRVTl6SGZZQ2lJRmh1cWptNVk4ZDMyQ2g5Z19HeVZ4NFRfMWJoRFNQSTY5SEthYVdKYTE5QXhqMW8zRkRR?oc=5",
    "published_utc": "2026-11-01T12:57:00+00:00",
    "title_original": "受惠AI投資韓國10月出口額幾倍增創半世紀最大增幅| 國際",
-   "region": "taiwan",
+   "region": "korea",
    "topics": [
     "trade"
    ],
@@ -4966,7 +4861,7 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUWx5bUxMUklCOGN1QzVBdGdpVDE0VFp6eDVRVTl6SGZZQ2lJRmh1cWptNVk4ZDMyQ2g5Z19HeVZ4NFRfMWJoRFNQSTY5SEthYVdKYTE5QXhqMW8zRkRR?oc=5",
    "published_utc": "2026-11-01T12:57:00+00:00",
    "title_original": "韓國受惠AI投資10月出口額近倍增創半世紀最大增幅| 國際",
-   "region": "taiwan",
+   "region": "korea",
    "topics": [
     "trade"
    ],
@@ -5570,23 +5465,6 @@
    "id": "545681d760f759f3"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Vietnam cuts retail electricity price, removes gasoline tax from November 1",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0MxaERXNWw4U25McV9YQUtQNllvaUxPdDgyUTZEZ2hBMlNEQ3U2ZThXTWwtNTU3UnVjbFdTQ3E3QkhUMVVxclMxcWY3UUdtaVNKTVpwSHk5REdMNUJ3SHN5NUxES2U5eEtkeGFkUTNEejBnWVFCMHZxdE50Zi1uT0ZIcEs1Qk5tQjFyT3FfMDdIZ2tNTUI2Z1diSU0teC1NVndvOGw3Wmduczc2WWxXTUh6aC1xUWZaM2ltbG1n?oc=5",
-   "published_utc": "2026-10-31T22:30:26+00:00",
-   "title_original": "Vietnam cuts retail electricity price, removes gasoline tax from November 1",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "225b54d81f6f46b2"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Large-scale monetary easing: ``miscalculations'' and ``hardships'' - 2% inflation reached after 14 years; Bank of Japan continues on difficult path to establishment [deep exploration] (Jiji Press)",
@@ -5676,23 +5554,6 @@
    "id": "3ac3c6eb2a622117"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Police clear new Lisbon housing protest camp after thousands rally",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWVvNnVKTGlkcFRNcmpqWmZlaUNuVXJZU1p3bi1QRDdSbWtHQ082NmdqV3RwZlVobm50NE1JRVljYjc0WXlYdG44V2p1bFJVTTZPUUhxcXM4emlfV3pQdmFIeG9hVGZGZ09mOW05c05hTTFHYzgyWmhiUlhfc3FVNzFhWDFKXzJiRFlJZUdxQmV6SFZIb0RkSERTRklwamlkekYxZjZ5RDZMYWtyR2lRQ0J3eHQ?oc=5",
-   "published_utc": "2026-10-31T19:39:00+00:00",
-   "title_original": "Police clear new Lisbon housing protest camp after thousands rally",
-   "region": "taiwan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7fff16a1c1818ab9"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
@@ -5708,23 +5569,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b4c7c2f2cb6e3f48"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjhmcnV5dnZWRFFnSkw0WUF5b3hld3Q2RmhYWjAzYVM4STJWUno1b1ZMMmpzMUZseDltNkgxZWdlbWdJQTVjZ2FoMVptRkZfdUlxcnZZMlpORXRoQTFCM1pBRjhrdU05Q1dQbU54WE5wejBhQnpmdjh4SF85RkVQMnViNTE4eWpyeU9FVF9feGpNTEpvQmpjbXhGSHZwMFlycmdTT1ZTQ0hWQQ?oc=5",
-   "published_utc": "2026-10-31T18:41:19+00:00",
-   "title_original": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "11ff7981ffc5142a"
   },
   {
    "source_id": "scmp_business",
@@ -5776,23 +5620,6 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Sunset Wins Golden Sound Award for Best Album, Drifting Exit and Takes Back the Band Award | Entertainment",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CbVJ4YUMzMXVIV0VJazBUeHFWazlQdk5jdENwMGRLdE02dFNzT3ZJWG1xVWJ5Mk5idW9yWG5CYVFraVNGU1FpeFRnam96eFhRdEZ2SFJsdFFxS2Zib2JN?oc=5",
-   "published_utc": "2026-10-31T15:21:00+00:00",
-   "title_original": "落日飛車奪金音最佳專輯漂流出口抱回樂團獎| 娛樂",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a5b4476611248f36"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6431,23 +6258,6 @@
    "id": "1145ab3973f62717"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Central banks take a breather, though more hikes are to come",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0g2T005bVN1RWZoZGN4MHc5dU5naW5rWjFTSFo1MWUzOGdueDRMMnI0WGt2aTJTZDJSaHlPc2tweUFHTXZUU3A2YjRLRFdtU0ZOWmxtNVFQeW1zc2R3ZFZ2TXU0SnJkVFVfWmc0aGc3ZVIxMzlaWFZSZTZYUU1teG5aVmY4Q3lyWEJwVVFzZUtCZzdRN2c?oc=5",
-   "published_utc": "2026-10-30T22:15:57+00:00",
-   "title_original": "Central banks take a breather, though more hikes are to come",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3fbb77edbd7a8680"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan plans to raise interest rates in December, aims for neutral interest rate as inflation rises (Jiji Press)",
@@ -6517,23 +6327,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b65450646bdf889"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Intel on course for worst day ever, triggers global chip rout",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2NqOERFZ1pGS25NV2RwTVlCSUVMbXdBQ0QxRzlmWTdWd3EzT2N6YUo4QVNHanQwUC1aRHdqcmtOeWdDUGpQcTg1X1pFWDdydHhyQWUzNnVUQk9Tc3h1Z29WbWxHa1VFZmdod3Z6bG1LNzkwQ3h2a3ZHdlA5cEF4X3d6LVdCUEVEc0RkVTNYcG5IQmlZcy10cmhDSmxDcndVeGFtUURSOXc?oc=5",
-   "published_utc": "2026-10-30T20:50:09+00:00",
-   "title_original": "Intel on course for worst day ever, triggers global chip rout",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b8ac9270ddc28e85"
   },
   {
    "source_id": "toyo_keizai",
@@ -6709,23 +6502,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6ec20c70a5566539"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "BRICS+ payments system feasible, common currency faces hurdles, report says",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTIzMFliU29saHlKNTlPWlozYXFoRlNkWHdmckJ6cXhQcDNZSGp2WkxyTjVzTVdWd0FJOUpiY0hSalk4QS13X0kydWVTOUxfbExoNEUtVVlvOEhvbm83dHU0ZkY3SVlfSmhRYU1EVVd5WUxzb01scjR2U0pJWGFoOW80b196Smp2NnhqVFVSNGF1c1VJeDZjUzRFdXFPeGtBNTZyeWR5dVZRZVd2V1RWeUJSUDRUTjZKM01UV1ZR?oc=5",
-   "published_utc": "2026-10-30T18:46:53+00:00",
-   "title_original": "BRICS+ payments system feasible, common currency faces hurdles, report says",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "edb89abd7680551c"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7069,23 +6845,6 @@
    "id": "59c43a98e847a1f0"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Belarusian potash exports blocked POLITICO: US pressures Lithuania to open transportation | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JaVh6ZFZEREUwM1oxRndnQ3JaN1VBZTg5MmFVWEoycUdYS29FNFBTVFRUQmpxbE10VkVuTlR0ZF9ZeHVmWGFUQUd4aENUUFE4UnVCUmw3NFZkUTRsYmlB?oc=5",
-   "published_utc": "2026-10-30T14:01:00+00:00",
-   "title_original": "白俄鉀肥出口受阻POLITICO：美施壓立陶宛開放運輸| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5911c41b6c2ba6ad"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "London Stock Exchange",
    "title_en": "REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII",
@@ -7101,23 +6860,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a82b093fe752ef17"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Intel plunges 25%, triggers global chip rout on bleak outlook",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2NqOERFZ1pGS25NV2RwTVlCSUVMbXdBQ0QxRzlmWTdWd3EzT2N6YUo4QVNHanQwUC1aRHdqcmtOeWdDUGpQcTg1X1pFWDdydHhyQWUzNnVUQk9Tc3h1Z29WbWxHa1VFZmdod3Z6bG1LNzkwQ3h2a3ZHdlA5cEF4X3d6LVdCUEVEc0RkVTNYcG5IQmlZcy10cmhDSmxDcndVeGFtUURSOXc?oc=5",
-   "published_utc": "2026-10-30T13:25:47+00:00",
-   "title_original": "Intel plunges 25%, triggers global chip rout on bleak outlook",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "73cd307a2aed52a6"
   },
   {
    "source_id": "tradingview_live",
@@ -7255,23 +6997,6 @@
    "live_wire": false,
    "manual": false,
    "id": "971f81e8508db65f"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "113 port dockworkers around the world join anti-war strikes to protest shipping arms exports | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oVk1OU2lUNDVfWTdnZzB6b1hfbk5fQW1tUW5kNHM2Y1FVTWNKMXVxeVlMT3JmRUMtWl9JRzBUb3V5M0N1UENLTktCSEVnUThPS183aGEzRk5PSnZXd2xN?oc=5",
-   "published_utc": "2026-10-30T12:35:00+00:00",
-   "title_original": "全球113港口碼頭工人串聯反戰罷工抗議航運出口軍火| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a7aa0eacf879bb4"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -7466,23 +7191,6 @@
    "live_wire": false,
    "manual": false,
    "id": "312c72fadd4e77bd"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Intel warning sparks chip rout as PC weakness clouds turnaround",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2NqOERFZ1pGS25NV2RwTVlCSUVMbXdBQ0QxRzlmWTdWd3EzT2N6YUo4QVNHanQwUC1aRHdqcmtOeWdDUGpQcTg1X1pFWDdydHhyQWUzNnVUQk9Tc3h1Z29WbWxHa1VFZmdod3Z6bG1LNzkwQ3h2a3ZHdlA5cEF4X3d6LVdCUEVEc0RkVTNYcG5IQmlZcy10cmhDSmxDcndVeGFtUURSOXc?oc=5",
-   "published_utc": "2026-10-30T11:26:12+00:00",
-   "title_original": "Intel warning sparks chip rout as PC weakness clouds turnaround",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c4a9eb552b1f301"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7799,23 +7507,6 @@
    "id": "9cbd4fe8e597ab82"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Higher yields now hurting AI stock bull as bond markets police capex: BofA",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkFSVmF0VHpkajRiOVlUbzdtVVpybXIydm4zM1pad01oV2RsUW1mcFpjUHVMaVJwd2c2X1FTZkZMYlhudkZ6bFVxcWJZSTNGSmNNWGQ4ZmdsbW9xWFplZEliNXotazZabWlSUW9UbFAza1FLR0FDNF9zMFRmMDZYQ1lPbmh1SGNKVDFzaUxvZ3ZkalVqUkZUNXl3YThLMGdUYWh2UmU5THJjR1FMenNncUdQVFdWcktxbzBFaXBVbUxnMVdPSnkxNFRR?oc=5",
-   "published_utc": "2026-10-30T10:36:27+00:00",
-   "title_original": "Higher yields now hurting AI stock bull as bond markets police capex: BofA",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef9c027b997ce386"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Governor focuses on fixing 2% inflation (Jiji Press)",
@@ -7956,23 +7647,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6e24e6a8cf5f2db4"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "ECB President Christine Lagarde doesn’t want to be neutral anymore and leaves office early",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTFdrTFNXX18teVJCLUtjMG9wZzZvb1RLRUx6OThLZVJoVXlPcDU0LXdUQ3YzOVRyb0pGMDJySWFvdnh2VDNlTjJsSzNTQUZaVmRr?oc=5",
-   "published_utc": "2026-10-30T10:04:57+00:00",
-   "title_original": "歐央行總裁拉加德 不想再中立提前卸任",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "94192f4394bf263e"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -8325,24 +7999,6 @@
    "live_wire": false,
    "manual": false,
    "id": "74cff3182cbff81f"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Soaring inflation erodes purchasing power, and French people tighten their pants to survive",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UVnUyZnFYUzE2ako3bk5HMzVwaXhSUVJ3cm5FOUsxckJjRnVDZlZjem5UQUFFeXQwNGEzanY5V2pGUDdLZkNqSTBwSjVWRFNFN0xDTVJYVQ?oc=5",
-   "published_utc": "2026-10-30T09:24:50+00:00",
-   "title_original": "通膨狂飆侵蝕購買力 法國人勒緊褲度日",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a734989e86a9588e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9265,23 +8921,6 @@
    "id": "c51cde44c28fa79d"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Morning Bid: One last central bank surprise",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnh1c0RRbEdjWjNFbmduTzhBOVl2ZmpkUzFjaFZZajVLdjdDN1kyek0yTW5pY092QmRNbmVWNFdrazNZR0dnZE5HR05sT1RBVkRxTEZkV3UzYXB1YXJaMi1VYS1oR1NJc2czSGd5VHVLaE5abmxHLVdzcWgwZE5lMjlxQQ?oc=5",
-   "published_utc": "2026-10-30T05:36:00+00:00",
-   "title_original": "Morning Bid: One last central bank surprise",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4c51caf940ca965"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Japan to Scale Back Fuel Subsidies as Iran War Costs Mount",
@@ -9353,23 +8992,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b56e208337c86e16"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "European Central Bank President Christine Lagarde admitted that she could no longer remain neutral and would leave office early | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95YkdqUDVxeTZmaHB5ZW1HZFVKX1dFZ1p3NFpTMElKQmdRa1I2VnE5aXRqOGhnOGIxd1Z0dDEzb3UxSld3bUNqR0dkRlZmNk0tT2czY2MtaDlibHNVUDNJ?oc=5",
-   "published_utc": "2026-10-30T04:56:00+00:00",
-   "title_original": "歐洲央行總裁拉加德坦言無法再保持中立將提前卸任| 國際",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f54dd51bb7323663"
   },
   {
    "source_id": "focus_taiwan",
@@ -10343,24 +9965,6 @@
    "id": "2fe80162fece65ba"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Rising inflation erodes purchasing power. The French lament the rising energy and food prices and tighten their belts | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jUkpLeEppM0t1LUVTT0J2S2RsNk9zR3dsQmUyTFBUN0FiSEoxTDJUUWdJbnFTNnlYbjl3cjVwY0VRblJKbldmR2hYS2VzU0hUTzUxeXRJMW9uOURzZEFN?oc=5",
-   "published_utc": "2026-10-30T00:32:00+00:00",
-   "title_original": "通膨升溫侵蝕購買力法國人嘆能源食品齊漲勒緊褲腰帶生活| 國際",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9db1e97b3e645522"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com",
@@ -11079,40 +10683,6 @@
    "id": "077bfed3d00e927e"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Hong Kong Housing Secretary Resigns Over Deadly Fire Oversight Failures",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmZ3X0RUa2ZpdE1SSjg1MFpucVYzZDB5NFJEdWNYdFdIY1F0MFFXZTNGSkFJSXBOV0x5YnJWZFcwQnkyS200NE1YamoyNXM4Y2RyWl84c0tDX1dVb25xeVhDQmVIWEd4XzhUc0c1T2tWNWkyOGR0dGY4NE9kMjZmTTFTd3oyZFJ4ekt3RklobFhJeTdiS2hyQnlXbjJLejE0VXlBTHN5VFh0Nm1rV0lKVkpXOW1MM2RhdW9OT0VmV0l1eFhL?oc=5",
-   "published_utc": "2026-10-29T22:36:00+00:00",
-   "title_original": "Hong Kong Housing Secretary Resigns Over Deadly Fire Oversight Failures",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fd47797567c066b5"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Moody's pushes Senegal's foreign-currency rating deeper into junk",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2pxNWFtN3Q3b21XNk5rZVVpbEQ1ZXdRUjdOSUZ2RHZqa21kdWNsZDZfOUtzakNBSzZIekFsNWhWbXJHYktBeW9aX1lNNGU4MUJVVGZkX2ZzVUlfMnVyT3dULTJjVXlLNHQ0Qkh3Q1k0NlZucWVlYUNIRk13N0tyWHFqaUtQSHFKNW04bUVySlE5ekdTRDRnZDlpcjROUnljOWpZYWJGbmczZ0ozSDRFMlFB?oc=5",
-   "published_utc": "2026-10-29T22:25:43+00:00",
-   "title_original": "Moody's pushes Senegal's foreign-currency rating deeper into junk",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7fe14d443546a65"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Hong Kong’s wider yuan push: a gateway to the world?",
@@ -11203,24 +10773,6 @@
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
-   "title_en": "European Central Bank leaves policy interest rate unchanged, focus of policy decision in December",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68155",
-   "published_utc": "2026-10-29T20:11:27+00:00",
-   "title_original": "欧州中銀が政策金利据え置き 12月の政策判断焦点に",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c6393000e975bfa"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
    "title_en": "Bank of Japan outlook for maintaining policy interest rate; focus on determining whether to reach 2% inflation target",
    "url": "https://news.web.nhk/newsweb/na/nd-20261029de68131",
    "published_utc": "2026-10-29T20:05:00+00:00",
@@ -11236,23 +10788,6 @@
    "live_wire": false,
    "manual": false,
    "id": "59263d41669b4145"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEgxampOc0U5RENJWVd0a09uQjlFSkxueGxGVzVPX2NwdElzNDN3WXdjVFpvelNULXVObnMzTTJzb0ZfeFBtN1ZOQ0FVNXRuN0ZINkF0dWZkZlR6ZlkzUE5wQWpPTWg3dGtDLURwRl9OU0ZEb1UtejNBbC1KMnVWbmJ5OHQxWTBoU1I3cFduaXAyOHFBVkFIYjhCNXR1c0EyM2xlZFZNWFM?oc=5",
-   "published_utc": "2026-10-29T20:02:00+00:00",
-   "title_original": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "88142a5892f323ee"
   },
   {
    "source_id": "nhk_economy",
@@ -11273,23 +10808,6 @@
    "id": "7fd3c29fcbe2ae99"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EU pressure on Antigua's 'golden passport' trade threatens budget cushion",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3plTzhtd25ZUzByT2JrbURPakpYYkExbDczaDhsSXRJY290T2pUVFZHQjE5THhLNlkybW5pN3M3ODdGMjBNUFJRVG1qYnlFU0ZZTWx1aFRVZ2otTktsSXVVYWJINzVFOHhhY3VDR0k2SXhwZFVSX3ZxNmRuM0UtaER0TVRqSE9Uc2U5c1lOaDBnMGNIV1A2ZnlRSXgzb3NYZngtOWRCN0FtN0lyWmF5RV9vQjZXR3lFdHc?oc=5",
-   "published_utc": "2026-10-29T18:45:43+00:00",
-   "title_original": "EU pressure on Antigua's 'golden passport' trade threatens budget cushion",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55218047a17e35e0"
-  },
-  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Surveyed urban unemployment rate in Jiangsu Province in the third quarter of 2026",
@@ -11305,23 +10823,6 @@
    "live_wire": false,
    "manual": false,
    "id": "06d426dd85a4e207"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "European stocks closed higher as the Federal Reserve and the European Central Bank kept interest rates unchanged | Securities",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zWnRpMUg0MjVUWjItUE9rdVQxVE1HWXo3bWlfb2JGbGdrVFJER2xkTkd5dkNiRHI5UlpyY0FSUndKbnNYY3hsdWY0SGRSVjJBODV4SXVRSHR6emV1Y1E?oc=5",
-   "published_utc": "2026-10-29T17:51:00+00:00",
-   "title_original": "聯準會與歐洲央行維持利率不變歐股收高| 證券",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4324741ce375311d"
   },
   {
    "source_id": "gn_kr_ked",
@@ -11444,23 +10945,6 @@
    "id": "0b7abde5b3448225"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "US GDP +3.4% growth rate from July to September Expansion of consumer AI investment",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68141",
-   "published_utc": "2026-10-29T15:31:00+00:00",
-   "title_original": "米 7月から9月 GDP＋3.4％ 伸び率拡大 消費AI投資活発で",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "201832845e011447"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "AI boom, soaring memory prices lift Japan's chip exports 41%",
@@ -11494,75 +10978,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d6b6543f5b5b7767"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "European Central Bank leaves interest rates unchanged for the first time in two meetings",
-   "url": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
-   "published_utc": "2026-10-29T14:57:12+00:00",
-   "title_original": "欧州中銀 2会合ぶり金利据え置き",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1f1c0d940f6c8557"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "EU to Add €2 Fee on E-Commerce Imports Ahead of Holiday Season",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0FnUk9NUFN1Y0VXenlwNDNISjFRM0JESjI0V003blJCUUtuMWJ2QTBndVhXZ3JKMWdwTFp2T2F6WnF5TEpWMTl6T2pERFJXWUthNkYwWVVxMjJ4YXVYbjk2Q3VDQTRTLVRzVFVlejhYZjRWQ0lvUTdvY05MQXQ5RVJ0TkFXeWg0Yjl3ejRmS0lWcUxXVjVlZC1NbngwUTJxOWpxM3otN3IzUkE2ZnJVTVhfQkItQUU?oc=5",
-   "published_utc": "2026-10-29T14:17:00+00:00",
-   "title_original": "EU to Add €2 Fee on E-Commerce Imports Ahead of Holiday Season",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5c25d6a17489e30"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The European Central Bank decides to keep interest rates unchanged at 2.5% | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ZXhkdnN4c040bXhLZHA5YjU5bi1xa3pWaWF4NzRWYlVXc0RydmFyQnE3T245U2FRMXNJWnFRY0RHVUktMnR0NlBVRnNuRGg1RmJOLXBMZXE2cXBVMUpN?oc=5",
-   "published_utc": "2026-10-29T13:59:00+00:00",
-   "title_original": "歐洲央行決議維持利率2.5%不變| 國際",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "624aaba03b27830a"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "U.S. GDP expanded by 3.4% in the third quarter, higher than expected, and core inflation increased by 3.1% in September.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUUNXeXdGTDNNOC1qUzZJNF93QU5nZFF2TGloY2NCQVB2dEFkVEFMczJid3Y2UXAwU292UnZfZEIwTlJCM3Q4dDBQWmFTZERhQnZTN3dQcE5WLUV3MDVZ?oc=5",
-   "published_utc": "2026-10-29T13:56:00+00:00",
-   "title_original": "美第3季GDP擴張3.4%高於預期 9月核心通膨年增3.1%",
-   "region": "taiwan",
-   "topics": [
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f7b35b4c51b9d84"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -11607,7 +11022,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xVWJaRmRaYUh4TEE4T3Y1enU2WFZidkxRNk1yX1hVdmRrcDFoZkFTNnFiNnE1dU1wTzNuQ3NVelFNYVRfVG5kU1FoaGxEcTlrRGNRLVNGNU9qOGtMbXc?oc=5",
    "published_utc": "2026-10-29T11:58:00+00:00",
    "title_original": "前總裁彭淮南也遭冒名央行：民眾勿受騙| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary",
     "fiscal"
@@ -11617,57 +11032,6 @@
    "live_wire": false,
    "manual": false,
    "id": "052ae6de3c3d9c0f"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "DNO is looking at exporting oil from Kurdistan region of Iraq via Syria",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjN2eURtb0RqQWZJdEh2Z1R4WElVYjVFdGR3dzd0d2NTVGNDaTgtVEd0Qi1WLWg3MVRBX3R3VEk1NDVtaWI0VkdId1BlZ3FwX0pvNjZkRFJ0UURsOVI1NGlKMlVnQVBRN3NHQnNZU0VvOVNwMU1ocjhnYUEtRF9JbzRYemU1T1Y0dUx1YThyeFhFbUl3aE4zTXJVSEI3WG13bHlNbElzdFk?oc=5",
-   "published_utc": "2026-10-29T11:46:47+00:00",
-   "title_original": "DNO is looking at exporting oil from Kurdistan region of Iraq via Syria",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d487d5ab318fba0"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 2027 | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TWDd4RENGTWlMMV9tNWo5TEI4YVdRX0ZOY1MwRE5MMXB3VFd1enhIb2dqWTVqVWs1aS1jdmcxUlhSQVV1a0tvUjFqOERJOEtqa3MyelZoME1STmNkMXM4?oc=5",
-   "published_utc": "2026-10-29T11:33:00+00:00",
-   "title_original": "歐洲央行總裁拉加德請辭提前於2027年2月卸任| 國際",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6de3e8480f300ef5"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "MSCI warning a 'short-term shock', Indonesia central bank chief reassures businesses",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZ0Z0EwQnVmbEVqREZsVFd6SkNsMmNXbGhNbnhQN3dDYTE2WTNhUzQ3UHVFeVh3MlBRaUY0WktsNkgzSWM2Q1drU0gwUDExbWVpM2NXOU9KUzR1c1Nhby1mSlYtZTVqUnI2UTNGNDB2ZHlYQXVzUy1BTEV1RjBGclBjWWZ2eTB5RGdKd1pHSnJwYXFhOFF2bHhZUjVzZnVyZzdsdlEzbEEwZGwxRG5jT1ZjRGZFa2haaWc?oc=5",
-   "published_utc": "2026-10-29T11:10:26+00:00",
-   "title_original": "MSCI warning a 'short-term shock', Indonesia central bank chief reassures businesses",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dcd755b81cf45975"
   },
   {
    "source_id": "gn_jp_investing",
@@ -11772,64 +11136,13 @@
    "id": "00718f71d5f391a5"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar pulls back as Warsh leaves tightening path murky; Euro tread water",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU01CdzZaRzRDZUp0UkxfMVBXaU0tSUJtSVkwNGJvb1FOWGRUcWpGOTlka21CZUxUWFBrRjRiZUVHNmxrOF9ycTFUTmdXQ1lDblFpMEdfUnN3Y1dfRHZsMGV2X2pseGIzZTJIRTIzNlgwaXFJRXR4Vlc3ZEpkU2hVbjlIdXBqQ0RLYW1zUzlEWkViRGhUdXlIWVRkaEs4WDdKVFVmSkVFaVdGYXRGRHJPLWVjdDRldw?oc=5",
-   "published_utc": "2026-10-29T10:01:17+00:00",
-   "title_original": "Dollar pulls back as Warsh leaves tightening path murky; Euro tread water",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "de392901633c8b1f"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "[After the mid-term elections, ``Stocks will go up no matter what happens''] The future of the ``US stock market'', which continues to be turbulent due to AI-related issues / Impact of Anthropic listing / Understanding Google's latest financial results / ``No interest rate hike'' meaning of October FOMC / Risk is ``Trump's runaway'' | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962965?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-29T10:00:00+00:00",
-   "title_original": "【中間選挙後「何が起きても株は上がる」】AI関連で波乱続く「米国株相場」の今後／アンソロピック上場の影響度／グーグル最新決算を読み解く／「利上げ見送り」10月FOMCの意味／リスクは「トランプ暴走」 | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "36b0f6f732f12e71"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "국제신문",
-   "title_en": "Fed freezes interest rates... Leave room for additional increases",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclExTGZjLUp0cEVxYVAxVzZ2SEdHeU5UTHdhSmpNWWc1U2xPLWxGSkxWVXlJWERaYnhHdmwya1Z6LTVMRFRjSHBNQXZRQ2xVSXhaZ3NKZ1dUamhicFhtVE5TT3gxMG5WS19uV2NBN0MyUlB2SERQcU9pVUx6SlR6SGo3VnkxM0ZBaHhZOGJ3?oc=5",
-   "published_utc": "2026-10-29T09:56:00+00:00",
-   "title_original": "연준 기준금리 동결…추가 인상 여지 남겨",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "951097644ac029a1"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Governor of the Central Bank: Tightening again if necessary will maintain the housing market in a situation of volume reduction and price consolidation | Sankei",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fN1JKclM2NWp2QWE2QXh4eC10RE1WdXd1V0JVZVJMZG0tSmRUOGJvaHo1MGtzZ1ZqZ3BvNUJvbmU0M3Vsanl5UkJSVnMzNDlVVF9GbkNMODlaaElKYlE?oc=5",
    "published_utc": "2026-10-29T09:34:00+00:00",
    "title_original": "央行理事：必要時再次緊縮將房市維持量縮價盤整局面| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary",
     "property"
@@ -11864,7 +11177,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NNXJMWkZSNHl6M1hFOVkwOWw2TVp5UGZ3ZWNPMWozTVJIZGE3R1ZiLUlaazJHNzlWaFFJNjJPRlladGhGRkludFJwTnhsTVBGdjByUkV0M09rY1g1Mmc?oc=5",
    "published_utc": "2026-10-29T09:21:00+00:00",
    "title_original": "央行議事錄揭2理事反對連10凍憂通膨風險主張升息導正利率| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary",
     "inflation"
@@ -12695,23 +12008,6 @@
    "id": "ae38c4526009b081"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "[Today's Oha Biz October 29th (Thursday)] The point of the Fed leaving interest rates unchanged is",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261029de67495",
-   "published_utc": "2026-10-29T05:14:07+00:00",
-   "title_original": "【きょうのおはBiz10月29日(木)】FRB 金利据え置き ポイントは",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "853a5071e8d078e4"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "이데일리",
    "title_en": "The first base interest rate decision for next year is January 14th... First judgment of the new year ahead of the US and Japan",
@@ -13187,23 +12483,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "데이터솜",
-   "title_en": "10 people maintained the base interest rate, 2 people raised it... U.S. Federal Reserve freezes interest rates",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5c2MyczhhTWstQlVVQ2p3Rnd4TmtOYU1Ya2FZcmpPem8zOUNobERTQUVQZ0RTTTl3UDFYTDliZWpNd1p6c0JxVGZYZnJLZV83c1dGZGllY3B5V3MwMHpZSGZudll6UUQ3eUIwTNIBcEFVX3lxTE1OMmwxOXFZMTRKbl9xdU9NYUJob2s4TG00NFBPbjNGdkM5T3VoUHdfZE9Qd0xrRXd0OUVOeFNtYnZMbmtJM3hnQmhSX2JhbVd3R04ycXFwa3lXLWJGa21ESEZIS2hVMEk3TU8xY1dPOUs?oc=5",
-   "published_utc": "2026-10-29T02:07:19+00:00",
-   "title_original": "기준금리 유지 10명, 인상 2명···美 연준 금리 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "676c80b7b3ded0f9"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "IT조선",
    "title_en": "Bank of Korea: “US interest rate freeze, European and Japanese monetary policies also need to be confirmed”",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdTRUTnRRbEJZMkl4bHh1clNodDVTNDJqQmJoQVlQZ1RTS1h6SXpxT1UyTzBPdTU0NHFFblhYMDktWjFtU0lQMW9kZnljLWJJRjUyZnZlSkpoeUM5bEJsRTAxbFBwdmVVSlpBS1FmN3XSAXRBVV95cUxPam91SUwxdUp1T3ZUajFnOUNuWWVTdFBLMGZwdG1teE9oYTVRZFZpOEpObzhMVmFqQkQ2eTBSblJQRS1uaXAxa1I3ckVYYWpyUXYwLVQ1c0hMekl0WGgwaFIzUXdIRHRRMXU3cVI3Y2lBREU4Qg?oc=5",
@@ -13497,77 +12776,6 @@
    "id": "35380247ff7d07c0"
   },
   {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "US Federal Reserve keeps interest rates unchanged",
-   "url": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
-   "published_utc": "2026-10-29T00:13:09+00:00",
-   "title_original": "米FRBが政策金利を据え置き",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5c9ecb76dc9c3a8"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The Fed's two committee members opposed keeping interest rates on hold, and the issue of inflation remains unresolved. A look at the key points of the meeting | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KbDdIZ21TMHpWYTVESXp2SVRDWGRYRWkyRVlLelY2UTl4TFN0OEJzbEhSNXpBYzlfTHgyUUYydjdWN0FCczRtbVFVU1h6WmVIQUtBaldweXlrR3pRem1F?oc=5",
-   "published_utc": "2026-10-29T00:10:00+00:00",
-   "title_original": "聯準會利率按兵不動兩委員反對維持、通膨問題未解會議重點一次看| 國際",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f3a4e0255c3fb917"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Two Fed committee members objected to keeping interest rates on hold, and the issue of inflation remains unresolved. A look at the key points of the meeting | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KbDdIZ21TMHpWYTVESXp2SVRDWGRYRWkyRVlLelY2UTl4TFN0OEJzbEhSNXpBYzlfTHgyUUYydjdWN0FCczRtbVFVU1h6WmVIQUtBaldweXlrR3pRem1F?oc=5",
-   "published_utc": "2026-10-29T00:10:00+00:00",
-   "title_original": "聯準會利率按兵不動兩委員反對、通膨問題未解會議重點一次看| 國際",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1b82c464f106cee5"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Three major points of the Federal Reserve: Two members oppose maintaining interest rates, fighting inflation, and adjusting meeting arrangements | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KbDdIZ21TMHpWYTVESXp2SVRDWGRYRWkyRVlLelY2UTl4TFN0OEJzbEhSNXpBYzlfTHgyUUYydjdWN0FCczRtbVFVU1h6WmVIQUtBaldweXlrR3pRem1F?oc=5",
-   "published_utc": "2026-10-29T00:10:00+00:00",
-   "title_original": "聯準會3大重點：兩委員反對維持利率、力抗通膨、會議安排調整| 國際",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1908bb624583262d"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bank of Korea says, “US interest rates remain frozen, but external risk factors remain.”",
@@ -13741,23 +12949,6 @@
    "id": "5a3c9cb4fe2c8b97"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Trump says imported robotics pose national security risks but does not impose tariffs",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzYzMENTbWlLLWdKa2YzdVN4bXhKZUpVeG8tWm1RUVFHcmg5bXdiQ2dtY3lWYlY0dlF4anMyWWc2NF9zQld1TjlSMlFhR3hfMkxzY05iRGM5MmFXNGpQaGRNN3p6NW9YYm9sVXZXV0IwTE9BdDE5WkdHN3cwUnFzWGRDRHVPR2MxU1M2ZXktSk5MWG9aOHg4c0Rxc2diRzQ1RWUxZzlNRnJoMi1wTEFZWHNCWEJ0eGlxX01CektB?oc=5",
-   "published_utc": "2026-10-28T22:11:43+00:00",
-   "title_original": "Trump says imported robotics pose national security risks but does not impose tariffs",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "394ece4c4f9eb15c"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?",
@@ -13773,23 +12964,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e1cddb7d8c3a5e2d"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1h6RWZLcXNVQjdLOTlHekdERnBUZjdrNWRLblZHVDMxSlM1WjQwOEV6WlNGdWc4VU1fTGYtQW5qYkdRaU9CendtWlB6amhfaGljZmxnaHZ2RUhoSWxzem5VV191RkR0cGtvTDVMWkpxeXhWcHZZdS1jcm5lMmdCcXJNQTlmOHRmbXkzZXBENDNrUDZtZUM3d09oWXVEdHQ1bXBaVnl2TDFpRlJmVUFsNjYzUngxbnc?oc=5",
-   "published_utc": "2026-10-28T21:41:54+00:00",
-   "title_original": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "68f2eb13227d2973"
   },
   {
    "source_id": "tradingview_live",
@@ -13875,42 +13049,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fff84f4bf6b95c37"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "[Chaos] France's large-scale demonstrations and riots: \"Plummeting retail stocks,\" \"increased burden on insurance companies,\" and widespread corporate damage...A government that is \"unresponsive\" due to financial difficulties | Politics, Economy, and Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962597?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-28T20:30:00+00:00",
-   "title_original": "【混迷】フランス大規模デモ＆暴動｢小売り株急落｣｢保険会社の負担増｣広がる企業被害…財政難で\"ない袖振れぬ\"政権 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "04af16839fe084bf"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on inflation",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261029de67441",
-   "published_utc": "2026-10-28T20:11:00+00:00",
-   "title_original": "FRB 政策金利を据え置き 2会合ぶり インフレへの影響見極めか",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a4a210ea3f753a3"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -14102,24 +13240,6 @@
    "id": "7cf15a93536b42b4"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Tunisia sets 3.1 pct economic growth target for 2027",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zX2phcXNqMTdsMDQ0Zy0yNmQyRVp2MDBTQ05xNkJ4ODBQVndnTi1KTVhvbVRnTGU1SmdRbEpMcF9GNzFtSGRCbEIzaXoycDlfWnVjSEU0VGlLbUNzRlRrTGlBRmtpc1FHTGNBNHNQSjNEWllmdU94MDRFMmc?oc=5",
-   "published_utc": "2026-10-28T17:10:30+00:00",
-   "title_original": "Tunisia sets 3.1 pct economic growth target for 2027",
-   "region": "china",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "94d8c023fe2f4c94"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "US sanctions North Korean network accused of defrauding businesses",
@@ -14135,23 +13255,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ed882cf7b5bb8865"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5",
-   "published_utc": "2026-10-28T16:58:34+00:00",
-   "title_original": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e6a98f5b87541995"
   },
   {
    "source_id": "tradingview_live",
@@ -14496,24 +13599,6 @@
    "id": "3345dbcd7cc77a1e"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "French media: France is in financial trouble and encounters social protests, adding variables to economic growth | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WY3NvaHNReE92Zk5fWVRTcE1Ta2thS1hkakN3SXExZS1DUUJ0SXRmQ3BTanV0WXU2TTBxV1MwSy1rNGVoRVk2ZzYxOXMzOWZoUDZnUTlvS2dSODdzQm5n?oc=5",
-   "published_utc": "2026-10-28T13:26:00+00:00",
-   "title_original": "法媒：法國財政陷困境又遇社會抗爭經濟成長添變數| 國際",
-   "region": "taiwan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8169be853d7a2b1"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "SKHY Stock: Analyst Sees 175% Upside Potential For SK Hynix, Company's Q3 Beat Uplifts MU, SNDK, WDC",
@@ -14741,24 +13826,6 @@
   {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
-   "title_en": "Why Hong Kong rents are hitting records while home price gains lose momentum",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ1dubmVpbUlZWmxsbGxyVDhnVExTajN3OEJOa3ZoNUxza3N0UjN1WkFWTUlsaDJDWWdwZWRvLUJkblowSnRpYlhLNUpodThkMW8yRHl5N2c4OHkwNXI0WkNQVEhMeFdMZE9TM3VvRDdFUW1rWmNzOTh5OTBEZmdqdDNhUmxPVFp1N1kxYm9mMWxscHhzTTI4aWk3dVA0bU9NQkFtQlZiV0R1bkl6bXpMSDhsWnItcmZ3YWJKYUNVONIBvwFBVV95cUxQVlRFMlZ3NVJoT19vUVJpZ2lNdUpWYWNrZXJvSzA4WVNUajZIaGRNMGI5RGNUbmhhLV9pTEl1bGJlUmVuM1BqTUVyUFNLNTRpQjRKZ1JXNmNzTEtoOG9BZmFJTHJUZkZoQ3BPX1EzWUdmNkE4TEQ1NmpzZmlEejB5Q3lEdFFiUXh3YU9GRnhCSkVMRmF4c0tQTnZiVGxIMW95UmpTc0Q5ajJVOTh3M1pKaGdSUDRGa19WRWduODlWZw?oc=5",
-   "published_utc": "2026-10-28T11:00:11+00:00",
-   "title_original": "Why Hong Kong rents are hitting records while home price gains lose momentum",
-   "region": "china",
-   "topics": [
-    "inflation",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ffdd090a25ef0baa"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
    "title_en": "How China’s Yangtze River Delta is helping keep Beijing’s GDP target on track",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGZmaDZONXB5UWtiTW53NnM0ZFZsSW9IdmFBSkhyVmItUVRYTEgtZV80bFcxcVQ3a3NIYVBiSXVfcVBTQWItZjNEYV9rWllXaTRjVjlsR00zOEVXQnRHcDZWUDd1c3RzTDBjd1dMdXp6dzlOOEdCUVlIOEhNbko4eFJ6ZlVqZnNzWUV1Z1E5UmhybVNDYXV5SW40TUlpbG1YTzFPZC1HWlJSQzV4WWhJLTZHSkRZWjRVMndOVmRub2RYZi1jemJr0gHHAUFVX3lxTE9ZUGlZNEpZd3YwMWpPcGthSU9Va21tRnZyc21KVWRBbHVxRURMQTIyNV9rQ0wzR2FNZ0lBM29sQzVSaUpKc25RY3ZCMXlWODFwcmx1ZDdGTjI5M01EVUVPQmNkUU1vUFF5WlZZVWJ6ZTg5THJfSU5Jd2psT3huMzV4cUo0U01xbVN2Uk5SSXFOdEJEdE5BYlp0QXdMaGtWZnU0eU82amJtQ0VxWGZlcjJIb1JmOGdtNFYwXzd0U1lBeW5YMHB3ckU?oc=5",
    "published_utc": "2026-10-28T10:30:08+00:00",
@@ -14857,23 +13924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9806885c30836af7"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Hong Kong exports jump nearly 65% in September, highest growth in over 40 years",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNUs0R0NjX0dwRmd1bFRFejRPVGc0Ri14N1k4UGZsdjNfbnliS0pZcmFKYjVydG5yMXdCeDFIWWx2T2ZteGV4ZjBuMmRjaXZlVWw2SXh4NzlyNFYxTjAtUms1V3FIZ3dPNFNDTHYxYUw0SmlYV0F5Z2FPanlUYl9TSDBleFU0alhJb0dTbTAzU1VCS0JFWnM1UG9mR1J2WjFjdGs3b1NLTkltbElmYjg0c1VwN1NQaXE5Z3lUaDdKU0JnVElDSzRoMUM3cWZzdHViU09ySzE3Z0nSAdgBQVVfeXFMUGpoV1dsc1cwSVIzeVE2YVFKNzZHUEdtWnZiY2loTUFUNU9uQnk1R3FuQmVodDZVZUxBNDRJNWRmcURhZ1V6WHlhWFRVaHRhWjg1bXg3Z0NPSnUyTTU5TTA5dTdveWgwZEpUVm8yNW5kWXpIZDFtWUdDWmhCVWlsc1NWMUZkOHY5T2FaXzNfcXRfRXRkWk10ZVlHZmNvSllzckFENEVhTEZfSkVHbUVDNnQ1ZXdJanJ0TVFTOUVKZ3JGeExjLV9FTHJoNE9HQmNrZ1NEMHdWOEdF?oc=5",
-   "published_utc": "2026-10-28T08:53:24+00:00",
-   "title_original": "Hong Kong exports jump nearly 65% in September, highest growth in over 40 years",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ba441e8d96980796"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -15187,23 +14237,6 @@
    "id": "8066835089222bdf"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Israel fears change, opposition temporarily leads in exit polls",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pM1Ata0x5aGlDajZENFViSTdyTXpjdHJseWVPajhLZ19KdlVCMUdIaU12blRnSEhGbWNrNWhRV1Jwb0JISzZ6Y3M2UGZPWk1RZmEw?oc=5",
-   "published_utc": "2026-10-28T07:05:57+00:00",
-   "title_original": "以色列恐變天 出口民調反對派暫領先",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c2ce171f5e8dcfe7"
-  },
-  {
    "source_id": "kantei_jnews",
    "source_name": "Kantei 首相官邸",
    "title_en": "Prime Minister Takaichi received proposals from the Liberal Democratic Party regarding the stable supply of energy and countermeasures against rising prices in light of the prolonged tense situation in the Middle East.",
@@ -15288,24 +14321,6 @@
    "live_wire": false,
    "manual": false,
    "id": "31a3f28bd0332a21"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU14ajJqOUhlTEt4cEJzR0o0Ry1kVGc4bmRmTW9zSWVYb1pjZ042X2ZlLVBVZ1l3dV95WDFjUTFodnF6eTF6OVAtX0hCdG1jZzA3ZkNmb09jNDhFd1JUcnc5QkJrN3poemVSVDQ1OGxBdkJEZkFmSmgzWnZGT2Z5ZGdHaWF1ZlFEbXl6M0VRQklfU3hydktmMnRFSUNuZGFwdjJrS05qUF9rUlVxXzNfeU9ZN2hKeHgwV1c2aHV3?oc=5",
-   "published_utc": "2026-10-28T05:21:00+00:00",
-   "title_original": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "143f3e564f0bf2bd"
   },
   {
    "source_id": "gn_tw_cna",
@@ -15447,23 +14462,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de5a728ea79b16ce"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "World Bank urges Fiji to rebuild fiscal buffers amid economic risks",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1BVSUlST3lSUGp4bUJndTlOeWxfeXRMNzRuY2ZSb1dxMTVzNGo2MTZEeXhIUFBBSGdleWJHOGVfUzZ0WUo0WVZVYW01OXRVbEE4dm0wV3hHZF9UU2JSRFgxRUFwempXWnIxMmhLdXdOV0l3Y21FeGt0Y0hPUmxHRS0tU3c1NG9jams2TQ?oc=5",
-   "published_utc": "2026-10-28T04:24:00+00:00",
-   "title_original": "World Bank urges Fiji to rebuild fiscal buffers amid economic risks",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f552e90413765d0d"
   },
   {
    "source_id": "gn_asia_ft",
@@ -15611,7 +14609,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBydTJSR1R0NjhaUHFIY1BqbjlGU2hISjFPSndTbGtoM0VUZ0dJaEJKOW14XzFueTFXMXFnTzRDZWRuR2FqWHJ4bFJWWXdFY1RLdVZIak9NVXJtbHduZ1E?oc=5",
    "published_utc": "2026-10-28T02:53:00+00:00",
    "title_original": "股市與颱風假脫鉤？楊金龍：視金管會態度、央行配合外匯面| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary",
     "fx"
@@ -16376,23 +15374,6 @@
    "id": "05d07c476e139bf0"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less than half | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42azBSRXBRRWF1WHp1VXYwU2FxTi04djFOOHlIaXNGYkkwY3B5MFlZeG12eG5NSVlOZnV1LTQ2VFhaS25SSlZZV2ZsX2JSSTRRa0hTa0E3b2RQUGRiWjVN?oc=5",
-   "published_utc": "2026-10-27T21:55:00+00:00",
-   "title_original": "以色列大選首波出口民調出爐反對派微幅領先未過半| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6a3a815c4cc3cb00"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "[Machine tool trends that can be understood in 5 minutes] Concerns about \"over-investment in AI\" as orders reach a record high in September and \"2 trillion yen per year\" is emerging | Business | Toyo Keizai Online",
@@ -16428,23 +15409,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ff1654da14430f0"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar rises as markets eye central bank meetings",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDhUYWVaR1lyeGFScDAxOG1INFBuME5XaHhvOFNZTnhjUXFCTHVGX2k1cEJzSUMwUmpQblFZWE1WU2Z6Q0dnZTRmc2lCSEE1RklYN3VZdWV3aVRLblJ4aTFudW1aUkxUVWZXWUl6Ql8zQkVEaDBJakY4SnhyUmRwb1BQcHpKSHlOWG5DeDN3QVFIb1MyMU5mcDlESEdQS1BwdHhpaThFZjZDMDIweVVYX1VQX1VEdVdh?oc=5",
-   "published_utc": "2026-10-27T20:41:36+00:00",
-   "title_original": "Dollar rises as markets eye central bank meetings",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7469ba67a14ef7fe"
   },
   {
    "source_id": "nhk_politics",
@@ -16550,40 +15514,6 @@
    "id": "592b7244489d1b5f"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zb3ZiZkRtZXo0NzlyeDJlcXR4YURWSm1IMDRwUFFHWFhlbzdwV1drUUh1WVhQaTRpeUxSMVVMZkJ5bnVVSUhDZ045VzJ5c2hNejlUSmVsUzZQckowVHAyNDlMUDNyaWUyYWtrWllHb3d0OGg3dGFWTl9QNWc?oc=5",
-   "published_utc": "2026-10-27T18:18:15+00:00",
-   "title_original": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "93a6870684bfe769"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Senegal parliamentary committee to review revised budget key for new IMF deal",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXRvTm9uN003SkJWbWtsX0k1WWc4TWFxX1o1emREQmtKWmdqSHROYkhwVHR5OThsUTRqdV9ISHM5d3RnR2ZXU0s5dy1tX29oVi1sbHlnMmlBdGQ3UEFyTWE2bnBoMVF6Nml0Z3U1bG5aTmcxZWwzaXFJVF90NzhERWRCb1ktUkNnMXhYdVVtQ3QtNWlZQWZzVXlhVEZPVnJCYkhVeUVHRDBFSlBDY3FOSlFUY3pMRHloOGVF?oc=5",
-   "published_utc": "2026-10-27T17:43:07+00:00",
-   "title_original": "Senegal parliamentary committee to review revised budget key for new IMF deal",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9749193ff2966fe7"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching",
@@ -16618,23 +15548,6 @@
    "id": "5e547941682a65db"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "FTSE 100 falls as HSBC weighs, budget caution persists",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmt0akYtOWlCcVV3NjM0el9ReHE3X0lrNVRiSWJ5QUVtU0dpYW92OUhPYTgzc1Ezc0NDSHRUYS0yUS01cGN1Y0lpZW5udGYxV2Iybk5lSF9xVmJkOXRxQUhPSG1VOS05ZTA3MVhGVTJYcjJ5dUR3MnYzelFSRWJrb0ZBTWo4ZHFMeDQ2QmNjc3JQbnVGYnc?oc=5",
-   "published_utc": "2026-10-27T16:53:33+00:00",
-   "title_original": "FTSE 100 falls as HSBC weighs, budget caution persists",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61eb60f350dc7f84"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "SK Hynix's Solidigm Reportedly In Talks Over $45B Investment In US Chip Plant",
@@ -16650,23 +15563,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e6f2f397b0cdf09e"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar rises as markets eye central bank meetings By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTYweHpQTkw0d0ZBOTF0SkhBejRRb2NlMjFvbjEybjNfUHRwOE9ObEJuTks5V0Z2aUthTDdveEJlUklncUNxRFlXaVpNcW9ROWJqY0tMeVNQQWh1aXNELVNkSGE5SHRiSXdoUWh2VEhMaFQ2YUpDSC1LMmM3MFhuLXptWjBHWEI1bWVTRlpWYVlIaVE0bTNELURVOGp1dmV3eVcwZHd3TGtyZw?oc=5",
-   "published_utc": "2026-10-27T16:38:02+00:00",
-   "title_original": "Dollar rises as markets eye central bank meetings By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07c7c19554b1f90e"
   },
   {
    "source_id": "tradingview_live",
@@ -16703,23 +15599,6 @@
    "id": "f8701ff0137361c1"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "High inflation to persist globally into next year, Reuters poll shows",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
-   "published_utc": "2026-10-27T15:47:16+00:00",
-   "title_original": "High inflation to persist globally into next year, Reuters poll shows",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5be9f46dde264d45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny",
@@ -16735,23 +15614,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9a104830a7e5efbd"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Portuguese president condemns violence, calls for ending housing crisis",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FZ3BoYkRObFNIS0l5bE0zcFFIb1ZSdDBYVk1aREl2QzBsc0tFRHhBTFVKdVBBYXA0UnE4Mzh5SHhNZTJURjFHZTZ5RjdrUjB1YzNPOUQxLWxKTzVLRjVxbFBaeWVCMDVoS0VubjJyZ3JpOUpwUGtWQkRHeFY?oc=5",
-   "published_utc": "2026-10-27T15:05:30+00:00",
-   "title_original": "Portuguese president condemns violence, calls for ending housing crisis",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d4bb8183aa5cb04"
   },
   {
    "source_id": "tradingview_live",
@@ -16786,23 +15648,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4ed78ec1b8ef7d87"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTYweHpQTkw0d0ZBOTF0SkhBejRRb2NlMjFvbjEybjNfUHRwOE9ObEJuTks5V0Z2aUthTDdveEJlUklncUNxRFlXaVpNcW9ROWJqY0tMeVNQQWh1aXNELVNkSGE5SHRiSXdoUWh2VEhMaFQ2YUpDSC1LMmM3MFhuLXptWjBHWEI1bWVTRlpWYVlIaVE0bTNELURVOGp1dmV3eVcwZHd3TGtyZw?oc=5",
-   "published_utc": "2026-10-27T13:52:05+00:00",
-   "title_original": "Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a218a1fa7b4ebc78"
   },
   {
    "source_id": "tradingview_live",
@@ -17211,7 +16056,7 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94d25qbFZPY1hweTZEYkFzSjFnV3poNGExdVVOUDlubDY1dTNoNVZJWDh5TkFWeUFST0txY0ZJUFZ1ZE93N1AtTHRYbk9KZ2plOXhRV3VZZmszekJCMVVF?oc=5",
    "published_utc": "2026-10-27T08:26:00+00:00",
    "title_original": "AI支出若放緩韓央行示警晶片出口恐減千億美元| 國際",
-   "region": "china",
+   "region": "korea",
    "topics": [
     "monetary",
     "trade",
@@ -17367,7 +16212,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vaFV0eHJHcUZHcll3T0MtQWplVC1QUkhHWVdoNGFmLXdtUk1MaEFoMjk5eklwcXFOV3h0d1dxRjM0ZDQ1MFR3QVI4TGF0MEN6UjQ4Y1gxVURBclNCQ1E?oc=5",
    "published_utc": "2026-10-27T06:54:00+00:00",
    "title_original": "AI投資擴張遇瓶頸央行憂融資風險放大市場波動| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary"
    ],
@@ -17446,23 +16291,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6c9c3b8bb96efe5a"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
-   "published_utc": "2026-10-27T06:08:00+00:00",
-   "title_original": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "407b8d8a0ceee3b3"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -17574,7 +16402,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzNEpfVUpXay1HRzU0Ym9PMGNVVVBtc0Z3cm1mbnRQamVDMlNXYjJTVEZsbHdRNW56Y3FwbEttQk1OT0xzNk9QbGItRFZOcnpjOWotNzEwTUdoSjNqVFE?oc=5",
    "published_utc": "2026-10-27T05:33:00+00:00",
    "title_original": "央行揭新台幣貶值關鍵外資近4個月淨匯出543億美元| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary",
     "fx"
@@ -17796,23 +16624,6 @@
    "id": "344b485f37d572db"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Inflation intensifies in Philippines, nearly a quarter of households go hungry",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WczJEaUM1RnBVcThOdmhBTnMxVE95UUJfZXVfcXVSMlY2ZzhrTlVQUUF0QUNIemNtLWJTNGh4Qm1uSmo5V1doN0JaenpxY0lkS2Nob0QtWQ?oc=5",
-   "published_utc": "2026-10-27T04:44:30+00:00",
-   "title_original": "菲律賓通膨加劇 近1/4家庭挨餓",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a15d0831f5314ea2"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "When Samsung Electronics was fined a provisional 20 billion won by the Fair Trade Commission over th..",
@@ -17849,23 +16660,6 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
-   "title_en": "Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWpON3dWRndqVXFRYzJxZVJpTlRNbnF5ZEI5VGFTeGtiZVowUlljUm1YLV9uV2s3YkN3Zlp1VDdQeFhzY2VKeWdBNG4tS2plSFhIZlBONkU1RmZpUFUwZ0FTeG9idUR3b3R0VkdJN1Q4cHZjUTdwQy1LV0s5LTBicnFRT1ZUTGNwMkwyTTJQeURuRXQwU2V0M1VwY25GVTlGZEE?oc=5",
-   "published_utc": "2026-10-27T04:14:16+00:00",
-   "title_original": "Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "130534a66117a9c5"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
    "title_en": "Fujifilm expands South Korean capacity to meet AI chip demand",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTJJOUQ3ZmVjekptZksyc3d2eUNIUFFBeGRtYnlIalAyUkVVQ0xZYmE1TXVOY3dqMlA5Y2tVb3lka3ZOcEh4YTh5UTFuTW1VREw1OEhYSmpDOFh4eHA0TDM4OGpiNk9ncXBKR1Ffckp6TmhTaEhoVFVMUTdzb1owS0VoeXVBcFFzUWd0MlZpZmVwTVBwWTN6ZkNsaW8?oc=5",
    "published_utc": "2026-10-27T03:56:00+00:00",
@@ -17879,23 +16673,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c305b4b08e6291d9"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Global chip, AI stocks surge on Anthropic IPO cheer",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2pLa0dab0ttYmZ1cndpUUgwZVRtOVVWbWF3cXVEOElBYWROUFhndzUzeFp3OGFoWV9QM0pIRVY5bXhqdEJOZG1rV0FyMzRPTmFHeU1FN2Rhblp2MEtiOFEzWTFVenZmN1dVZk1lUHFJNkEyWTVuSk9MeTlaQkR5Z04zYU13RzQ2dG9YelJxVFliYUNiRU94cFZnZEZnT0NIUGVVczRXUnJYZ2g4Z0lmUg?oc=5",
-   "published_utc": "2026-10-27T03:42:21+00:00",
-   "title_original": "Global chip, AI stocks surge on Anthropic IPO cheer",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc9a0cfb0070ab50"
   },
   {
    "source_id": "gn_tw_cna",
@@ -18053,23 +16830,6 @@
    "id": "c613810e986642f1"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on hold | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tV2RrenVWNVQtMDRmTkdvQURKbmtSTXZrbktwNmEzSzFlTm1teVd4VjRtWUNpLS1ZMTRZVUZUdlNGWlFXTzRCWURuXzFfZkM1dlo5bk42Vk9lRE9iY1E?oc=5",
-   "published_utc": "2026-10-27T02:44:00+00:00",
-   "title_original": "全球超級央行週登場美歐日料均按兵不動| 產經",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bcc5ac9a3dc6d63e"
-  },
-  {
    "source_id": "kantei_jnews",
    "source_name": "Kantei 首相官邸",
    "title_en": "Prime Minister Takaichi held a summit meeting with Prime Minister Tarek Rahman of the People's Republic of Bangladesh",
@@ -18193,23 +16953,6 @@
    "id": "2d72910e73532067"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDhUYWVaR1lyeGFScDAxOG1INFBuME5XaHhvOFNZTnhjUXFCTHVGX2k1cEJzSUMwUmpQblFZWE1WU2Z6Q0dnZTRmc2lCSEE1RklYN3VZdWV3aVRLblJ4aTFudW1aUkxUVWZXWUl6Ql8zQkVEaDBJakY4SnhyUmRwb1BQcHpKSHlOWG5DeDN3QVFIb1MyMU5mcDlESEdQS1BwdHhpaThFZjZDMDIweVVYX1VQX1VEdVdh?oc=5",
-   "published_utc": "2026-10-27T02:12:00+00:00",
-   "title_original": "Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3bafb0b422c34fae"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Korea’s Q3 GDP jumps 1% on chip boom",
@@ -18330,40 +17073,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d883e0ce4b65f4e4"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
-   "published_utc": "2026-10-27T01:46:00+00:00",
-   "title_original": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5de6a946616f5370"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
-   "published_utc": "2026-10-27T01:46:00+00:00",
-   "title_original": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c7772dd28b7e8d3d"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -18942,24 +17651,6 @@
    "id": "6b724628e670d279"
   },
   {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "[France at a dead end] If spending is suppressed, the people will protest, and if the financial situation worsens, the financial market will protest and interest rates will rise...Will this continue until the 2027 presidential election? | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962546?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-26T21:00:00+00:00",
-   "title_original": "〈袋小路のフランス〉歳出抑制すれば国民が抗議デモ､財政悪化には金融市場が抗議し金利上昇…27年大統領選まで続くか | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4bcf94050d6913f"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "MBRF meatpacking plant in Promissão has exports suspended by China",
@@ -19198,40 +17889,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fd0a50b2c23efadf"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar rebounds as euro slips ahead of key central bank decisions",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUV4c3VobUxpNXJEbkNTMnNUanJhZ0U0OE1xTFZpYllnNlhocnNiV0x6aU1EV0Q0SXFBQ2RneENDaTdRNUFoWWdUcTVvRTFVaWZrWTBBUnEwNWFka3dmNk1XOE1ieC1Nd3k0LTQ5NzFkcTR5WmtSeEtJTllQT0FrWHM4QWUtVDVBQ3Z0OGo2VWRyaVd2MmVoTV9sZjhReGYtUUdxaFZWLTVzSUdmMW9maDRIYlNENV9hVHpPZDFua3kwVkNu?oc=5",
-   "published_utc": "2026-10-26T15:53:09+00:00",
-   "title_original": "Dollar rebounds as euro slips ahead of key central bank decisions",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7d4014fc2be905c"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Euro slips ahead of central bank meetings, real tumbles",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-   "published_utc": "2026-10-26T15:36:12+00:00",
-   "title_original": "Euro slips ahead of central bank meetings, real tumbles",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "91056d5e8fec4ce4"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -19600,23 +18257,6 @@
    "id": "26dc779d0e03413a"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Rupee weakens for third session as importers step up dollar bids, foreign outflows bite",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzNSakVvaTFJdVVXTkhsSDA3T0doSVJfVXIzaU9oNEY4RjRDNUxSbjJpZ2RuUGE4VkV4Vm9XRGdidEFUZkJyRXpsRmR6YWROSlRxajdpUDItNi12TV9HaHFhVXZxVFpGMUppdVRFckZIYnZSc0VoalRDeVpUX1BKR1lsN1NiWmFxRGliR2FidktEaHQwU2x5bzA1ejlvd0s3cFMtYmpJTWZaTm4yM1E?oc=5",
-   "published_utc": "2026-10-26T10:39:38+00:00",
-   "title_original": "Rupee weakens for third session as importers step up dollar bids, foreign outflows bite",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d6fcaf71c14c116f"
-  },
-  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局天津调查总队",
    "title_en": "Data: Tianjin’s urban surveyed unemployment rate was 5.2% in September",
@@ -19669,23 +18309,6 @@
    "id": "85dfda3021e00ea7"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asia-focused banks face capital squeeze due to inflation, bond turbulence",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3c0Nl9IZUxGNGlIRFlNSW0xRUIzUTkxZlZJYVhtWjI5NXlGNFVJcm1IMnNMNVFWZVV4c0toYkxQYjB5Z3VXanB2ZE5ycUxERkRObDhkYUw3RGlrbFlzMVM3OXpyRVZhLTNnMkZhMkhHRU9oeGpuOHBDUWtkNkprSkZuQWVlSWtxYllmX1NlWkdqOHVWZzlubGs0WExDR29iVl95S1paMEhzOEFob1JkQWxpeTlGcnZO?oc=5",
-   "published_utc": "2026-10-26T10:26:27+00:00",
-   "title_original": "Asia-focused banks face capital squeeze due to inflation, bond turbulence",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3fbc58d46a7a3101"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Japan's largest machine tool trade show Introducing technologies using AI",
@@ -19701,23 +18324,6 @@
    "live_wire": false,
    "manual": false,
    "id": "88e1f0d791851884"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUV4c3VobUxpNXJEbkNTMnNUanJhZ0U0OE1xTFZpYllnNlhocnNiV0x6aU1EV0Q0SXFBQ2RneENDaTdRNUFoWWdUcTVvRTFVaWZrWTBBUnEwNWFka3dmNk1XOE1ieC1Nd3k0LTQ5NzFkcTR5WmtSeEtJTllQT0FrWHM4QWUtVDVBQ3Z0OGo2VWRyaVd2MmVoTV9sZjhReGYtUUdxaFZWLTVzSUdmMW9maDRIYlNENV9hVHpPZDFua3kwVkNu?oc=5",
-   "published_utc": "2026-10-26T10:01:06+00:00",
-   "title_original": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c12d1e15df460e0"
   },
   {
    "source_id": "tradingview_live",
@@ -19831,7 +18437,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xejl2bTB4ZngwN3ZnRWxlb0g3UmhiQVlneXVzd2t5X3VWSlFfeGRwTS1WLXRUcjFCWFNoSmQ1U3BMZGZUTk5LY2JPX2J6SkQ5bEcwazdfZHlqUlFLeHc?oc=5",
    "published_utc": "2026-10-26T09:04:00+00:00",
    "title_original": "市場等待科技業財報與央行決策出爐亞股收盤走勢不一| 證券",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary"
    ],
@@ -20242,57 +18848,6 @@
    "live_wire": false,
    "manual": false,
    "id": "00efb2fc0d2216be"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWx2akllRU5PaXFQc1RpYXNpX0g1czVlak9RcmVyenpqeUstcklpemh0M3RzRWhBdGVFd3VFU0w0aGZtUjI2NXdJRlF3dkwxX1ctUUxjSXpnSGh0bG05UG1iMmQ0OG05cHVpWFV4VGdsTlFBQzJoTGk4QlhuQkpWRzh0NjZGa1JIVzJGUE40QnZRMl9JQ3Y4aEl6eFFFRXVSTDIwSWRwQlBhSkphN0ZTNF8yMkl5d2VNeVpnVmFScENpMm9GQkpKVjhRdGxPNm1T?oc=5",
-   "published_utc": "2026-10-26T07:16:35+00:00",
-   "title_original": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "099db003b64b3dfd"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Survey: Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbk8yQWRoNmRUbEVCekExdl81bjNCNlI2UG1WcGZBYVZLSFd4TWVjYmRZemgxSm5uRDhWajNXOUctVENxU3lJdmstbzd2UlpIaXN4N09TMVNzNU1lREMw?oc=5",
-   "published_utc": "2026-10-26T07:16:00+00:00",
-   "title_original": "調查：菲律賓通膨加劇近1/4家庭曾挨餓| 國際",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9d628b53262d0d8"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbk8yQWRoNmRUbEVCekExdl81bjNCNlI2UG1WcGZBYVZLSFd4TWVjYmRZemgxSm5uRDhWajNXOUctVENxU3lJdmstbzd2UlpIaXN4N09TMVNzNU1lREMw?oc=5",
-   "published_utc": "2026-10-26T07:16:00+00:00",
-   "title_original": "菲律賓通膨加劇近1/4家庭曾挨餓| 國際",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d776657e42673cbd"
   },
   {
    "source_id": "nhk_economy",
@@ -20829,23 +19384,6 @@
    "id": "1f3efe8395c200e9"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The U.S. Dairy Export Council (USDEC) participated in the session under the theme of \"The Future of",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTmZuVWxiZndZSWhKbTFPT1RtcF85bUdXa0loN2UxTGd6UjNYdk1rdUVYeEh2QVU5TmR0QlB1akRTVGtaU0k1MjN1N3lnQUhuTXc?oc=5",
-   "published_utc": "2026-10-26T02:21:14+00:00",
-   "title_original": "The U.S. Dairy Export Council (USDEC) participated in the session under the theme of \"The Future of",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eab5e4295991a667"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Euro firms against dollar, yen ahead of central bank meetings By Reuters",
@@ -20862,41 +19400,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a551a1afa7d2f3b2"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Euro slips ahead of central bank meetings, real tumbles By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1JXd0FoLU4xam5QcVZMMWN1dE1ycVZOVTdjdFBVUTRJNXZISkV3ZGF1SERFM2VfRGc0S1FfM2JHUHVoVV8wUVRXUjRLME1YUnFFZ2F5U29EaEhUOEYyVFV6TkU4U1pqUW5GaHE0b2c2ZzROSmIyNm5fWTVXX2hBSWozcU9CRWs1RmZKOEwyVWxwTlJWQjU2REozcFpHaEFRUDJwSE5xUjdfcjBaZGlj?oc=5",
-   "published_utc": "2026-10-26T02:18:26+00:00",
-   "title_original": "Euro slips ahead of central bank meetings, real tumbles By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e1aa9d327deee66"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Currency markets subdued ahead of pivotal central bank week By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUVobWh3R2xvM0VGX3BqV0xoYVZFalVCLXhBYm5UdXhfQndheEw0OFFuTENwWU1oOTF3b2VIZDZpY0xpaTNxUjRZSmhHSUZlSlNITG5odS1OZEJGaFBNb2QyVEdNLUFaeDVDelhEWVd1dDJwcmVHX3JYalZRWEVDYm5qNXNuLVVfVG14QzByemxzUFo1QlBSS1NaQV9oOUdJaTAxUVJlQnhnQTh0RWdVdg?oc=5",
-   "published_utc": "2026-10-26T02:14:41+00:00",
-   "title_original": "Currency markets subdued ahead of pivotal central bank week By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a3f57c11641a184"
   },
   {
    "source_id": "gn_kr_mk",
@@ -20949,59 +19452,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Currency markets subdued ahead of pivotal central bank week",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-   "published_utc": "2026-10-26T02:02:00+00:00",
-   "title_original": "Currency markets subdued ahead of pivotal central bank week",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a39acbe795eb7f9a"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Currency markets subdued ahead of busy central bank week",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-   "published_utc": "2026-10-26T02:02:00+00:00",
-   "title_original": "Currency markets subdued ahead of busy central bank week",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a26d9cbdf0108a88"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Trump's approval rating is at an all-time low, but white Christian evangelicals still form a solid support base for the Republican Party | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962499?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-26T02:00:00+00:00",
-   "title_original": "トランプ氏の支持率が過去最低水準に､それでも白人キリスト教福音派は依然として共和党の堅固な支持基盤を形成 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26cbdb1b7286371e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -21456,23 +19906,6 @@
    "id": "ef0f735e6a304067"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the Strait of Hormuz | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhbjgtc3A3Qkg1ZFRDZnJhVXFjREZQa0xwZ00zeDByMVl3dnNkaTJiSDdOZFpvSlFmOXhQbUJBRGkwYm1HUTVEZk5IZXFxdi1Va2NCLWJoNE5zc3VYU200?oc=5",
-   "published_utc": "2026-10-25T20:46:00+00:00",
-   "title_original": "美國：已協助波灣國家經荷莫茲海峽出口15億桶原油| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "81ea3f698666daf3"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Amazing venture [29] Beff/Horizontal division of labor for batteries like semiconductors | Business | Toyo Keizai Online",
@@ -21625,24 +20058,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2507e264397863ae"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The Egyptian pound continues to depreciate and reaches a record low. The president of the Egyptian Central Bank urges the public not to panic | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMYUx1OHB4dVcwbmdXZ3UyYWVYdEhySWdoYXpMTU1XX1RGTUdLM3JDRWs3YU56OUpsc0pMd3VlUlQ0UjEycEpSNU9FQllBb0N6Z2p1S2VNWkNWdUZjT3h3?oc=5",
-   "published_utc": "2026-10-25T08:44:00+00:00",
-   "title_original": "埃鎊續貶創歷史新低埃及央行總裁籲民眾勿恐慌| 國際",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1ee256467f19e32"
   },
   {
    "source_id": "tradingview_live",
@@ -22056,23 +20471,6 @@
    "id": "b6a9f2473518447f"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Diplomatic discord over haze issue erupts, Indonesia cuts natural gas exports to Singapore | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jVjNBN1VVTGQyUjBMWktVWXgyd29jbGduOVdmbU9lODdFRzJ4dmp0dnJhOTF2b1lUdDNZb1hkSXJFUzNyTXlSNnpBdkM3dVZvOWwxbzYyZTYtTW1Vc0tn?oc=5",
-   "published_utc": "2026-10-24T10:16:00+00:00",
-   "title_original": "霧霾問題爆外交齟齬印尼削減對新加坡天然氣出口| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6afef5d4196b9ab"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi on consumption tax reduction related bill “carefully negotiate with opposition parties”",
@@ -22297,23 +20695,6 @@
    "live_wire": true,
    "manual": false,
    "id": "81460964943e729c"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Demonstrations in France reflect the \"spark of Europe\", which country will sell government bonds next, and the outcome of the 2027 presidential election | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962308?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-23T21:00:00+00:00",
-   "title_original": "〈深まる分断〉フランスのデモが映す｢欧州の火種｣､次に国債が売られる国はどこか､2027年大統領選の行方 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3736794a0adda5d9"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -22556,23 +20937,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e52b14fd69092591"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Nigeria central bank grants JPMorgan initial nod to launch merchant bank",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHZpZXZNTGh4emhON2o3bXlQUGt1eWJDbjRmaTh4MXRQMThTN1lUSTdGVEhjOU81WDF2MFhOcEZfWHE5WmYtVjlqNjEyNHQ3SkloQ3dFZGVzVEZJWFBCWjZNQmhkOXJaYmd4bU5GeE5qZjlxZUtzbl9tQUE3QV9zT0ktSUx0cHppQ21JTzdaUnFnVUwyUV9NaE9ZbEhFSUNsRVNnUk92QWxBRUlIMlJUcHpwY21Fa2dXU3c?oc=5",
-   "published_utc": "2026-10-23T15:17:24+00:00",
-   "title_original": "Nigeria central bank grants JPMorgan initial nod to launch merchant bank",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8d825e2cb060b885"
   },
   {
    "source_id": "tradingview_live",
@@ -22868,23 +21232,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9a4c219e4624d6fa"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Cambodian gov't passes 9.72-bln-USD draft budget for 2027 public spending",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuU3FRZFdwZDZYazNVbFN4WTFsclE0OWxuUk9XSnNLcXRHTHJFZ3FVX2RUc0ozVHZSSGphWF9vbG4wWVVvNkRMT1BrczIxWk12a3F1aTFPaEdUZHI0TkZwUE83NXhaT0doQ1I0OGhsaHk4M2VSVnhhZXg4ZmY?oc=5",
-   "published_utc": "2026-10-23T11:24:00+00:00",
-   "title_original": "Cambodian gov't passes 9.72-bln-USD draft budget for 2027 public spending",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d39cb496943fc98"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -23937,7 +22284,7 @@
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64178",
    "published_utc": "2026-10-23T06:34:22+00:00",
    "title_original": "茂木外相 米中ロ首脳会談 アメリカと緊密に意思疎通し対応",
-   "region": "japan",
+   "region": "china",
    "topics": [
     "signaling"
    ],
@@ -23963,23 +22310,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bca300980840ca06"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Hold, hike and cut? Bank Indonesia says there's logic to the policy mix",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFVrRGlwTmlIREt4TWxzcjJ0SVMyVXZLYjNnUTNaOEpVM1lhY2VJSEsxZEhyeXpMWmlDSG9GR05VWWo3azQ3MFBHZ2RMSU5WR3NqTGY3ajZCU0NmWEVtM2N0MTlMcXd2eXZ6NFdaTTE3UW0tVXV2cFVOYVFVc2dOY3RnRjVhWF84UGtkRlVteEs3Y3F4SkhYbGpmX3pWeWQ0RzdZS2tJSU13eWU3Wk1GcEpn?oc=5",
-   "published_utc": "2026-10-23T06:25:00+00:00",
-   "title_original": "Hold, hike and cut? Bank Indonesia says there's logic to the policy mix",
-   "region": "taiwan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9f2334bae497d7a"
   },
   {
    "source_id": "korea_herald_biz",
@@ -24125,7 +22455,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0dUJTWU55enQ4WmZ3MnN1NVZBZEpyZXFsTVlHWkVFdUlCSkZsQVNqa0phNUhaTGdwa2ZVS0JIN1pmMm5vY2dzV212NGJUVEtNV0FnTEhuZ29nd2QzQ1E?oc=5",
    "published_utc": "2026-10-23T04:15:00+00:00",
    "title_original": "颱風薔琵來襲央行不打烊提供外幣資金5.85億美元| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary",
     "fx"
@@ -24135,23 +22465,6 @@
    "live_wire": false,
    "manual": false,
    "id": "058b2e0c340bbe1e"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar edges higher as investors weigh AI jitters and central bank outlook By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
-   "published_utc": "2026-10-23T04:01:55+00:00",
-   "title_original": "Dollar edges higher as investors weigh AI jitters and central bank outlook By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f358bacbe8929b46"
   },
   {
    "source_id": "gn_jp_investing",
@@ -24450,23 +22763,6 @@
    "id": "6858e4aadc98b81d"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTRvM2RlSnEtSHQ2bjJROW1PdFdJV3lZbFpKRzBlQjMybURBcHlwRnZLTXFFbmF6cXdNb3lkcFQ1Um1rbVVaWjY4dm5HVUlxVkwyNU12SlItaGdESEhSWHJaUUFfLWNEYzRkam1oN1lMdldTa2UyMGZpMzBxd2FIdkdNbjFwTmFwMTVGaDhQMS0yWXlKUjRVa1lwYkdRVXpFMlNIT0ktaWpoZjVpNWJxOThDM3lTNG1rWkE?oc=5",
-   "published_utc": "2026-10-23T01:58:22+00:00",
-   "title_original": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b36ea10804688b12"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "AI cuts chip R&D cycles to 9 months, says Etron chair",
@@ -24500,23 +22796,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0b449075bd88b714"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
-   "published_utc": "2026-10-23T01:50:00+00:00",
-   "title_original": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1032bd0dfd89b6ed"
   },
   {
    "source_id": "nhk_economy",
@@ -25504,23 +23783,6 @@
    "id": "e20a2770971b606a"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
-   "published_utc": "2026-10-22T20:06:35+00:00",
-   "title_original": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7fb731c9b7f2ccb1"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "매일경제",
    "title_en": "Governor Shin feels burdened by three consecutive interest rate hikes... ‘hawkish attitude’ continues",
@@ -25672,24 +23934,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bb79a3652a45dee3"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Namibia cuts 2026 growth forecast to 2.3 pct as mining revenue weakens",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTJ3UTZtd1hUVkxPTkNYclZLTG8zRnNpbTlCSE1LRG9FVGdZQlFVa3ZPTWU0S2g1Z2JYVHY0LV91MEk5WkptOGVGdlhOTGF0Z3k2czE4aW1walpEWlItekF5b1k3cjZuZnlCeXhMY051WGRXN0p1WktYZ0VhenNjM0ctZ2x1dw?oc=5",
-   "published_utc": "2026-10-22T16:04:15+00:00",
-   "title_original": "Namibia cuts 2026 growth forecast to 2.3 pct as mining revenue weakens",
-   "region": "china",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fdbdf67bc251ad19"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -26766,23 +25010,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "319bd5fb3aaf4d60"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "BOK holds rate at 3%, leaves door open to November hike",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -26796,6 +25023,23 @@
    "live_wire": false,
    "manual": false,
    "id": "498c0e6782864fff"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "319bd5fb3aaf4d60"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -26830,23 +25074,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f295f0adc5b48dd"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYlBQZWpwdUJacndaVm1uenphRkZIRXpUMk9aRF9kZURpUm1tUEYtMkJMZ2hzSW5mUFpISFA5d0JtTV9xSm81OVJ2TklDNjAyaE1pSE9XQzJmdlptZTJqNHNiTFRGdzFTeTdSMDFqNnNrUm5INW5ma1VzYUVRUGNYV1YyTTRuTFE5ZU56cFF4N3EtVVNKa0E?oc=5",
-   "published_utc": "2026-10-22T06:59:15+00:00",
-   "title_original": "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e429bafe5773f134"
   },
   {
    "source_id": "gn_kr_mk",
@@ -27029,7 +25256,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Scm4xeUFVaExXUVJ3WE5GazVVTklvMTk5V3J5Vkx3T21fUzBieDhmekk1cFlxNHlxY2N1bzh3NGREX0R4WlNQUHRZOEgxYWtqTUFSYWlUQ0M1SW5Ha3c?oc=5",
    "published_utc": "2026-10-22T05:58:00+00:00",
    "title_original": "楊金龍遭冒名開Threads 央行澄清籲民眾勿輕信| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary"
    ],
@@ -27073,40 +25300,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1633ec5dca1f0608"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlBqWjVncWkzRDMxUlZmYWFHUTJOMDJLa1UzOURHc1lRVHlIcHFmblh1bmxJZ3VCUk9CUHZjUHE5cjJESUtmZ2gyQWF6VVk4c2FDdE9rdW0zbnlrdzZQVjZJaU5WcHNFUG5fQWdZWTZHWXpZdUczUXdtckhnVjVnQzVRRGRKV1VvbHFZWmRjVjN2LXV5S1Y4TmY4M1A2eExjdm1MWE9hdTgyY3FZUzVMQUtzbFRUTVJudFRVU0xLaHBBSVhx?oc=5",
-   "published_utc": "2026-10-22T05:13:45+00:00",
-   "title_original": "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5868945070120dac"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Cambodia launches 5-year MSME strategy to drive economic growth",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUllwamlPQ0hGWERMaWZMMnNNajRrU3VsaEd5UG9KMUFjVG91c3lOaTFzM3dTakxHeDFGcHJESXhaZExYU21BTk8xeU1hM1NxLUtQT0xTRXQ2NG15bU9wcTJpNmNLYWhCTl81ZUlEV2x1OEh3d0xHTUlIb1VOTmh0SlNIcEZsODBnZ2xlbw?oc=5",
-   "published_utc": "2026-10-22T05:12:30+00:00",
-   "title_original": "Cambodia launches 5-year MSME strategy to drive economic growth",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d0f00d52584db6a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -27228,23 +25421,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6d9d439c8ec5d2e5"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such as AI",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63277",
-   "published_utc": "2026-10-22T03:17:00+00:00",
-   "title_original": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8348f75e7d24588"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -27917,24 +26093,6 @@
    "id": "3d007b4908406842"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar up slightly, other currencies see small moves ahead of central bank deluge",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQlo1MHlydnUxdmNIYkxWcWU5RTdlUE1fTzBfZ0JSNzFNNG1TOEVrUzU5S19zaGRyaC1PVzVUZ3VFcXo4b3J4bUlrM1B4Z0VLb2gyTjNkT2xYYk9xOXVsb3NvR3Zpd2VISEFoR1dkOFNTaVBjZG9odHo2bHlGWHdTWG5NSkJ0Z2I2RlAzcWlHQlNtTHVBYTRDb05SVGF3cXZxSU5rc01hR3pvYWdZUE9rR3l4cHBsZG83?oc=5",
-   "published_utc": "2026-10-21T22:24:12+00:00",
-   "title_original": "Dollar up slightly, other currencies see small moves ahead of central bank deluge",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "27fe6e525f026ed0"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "SBS Biz",
    "title_en": "Bank of Korea decides base interest rate today... Weight on ‘Maintain’",
@@ -28145,23 +26303,6 @@
    "id": "9855ca83d74c0a0b"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Ukraine's anti-corruption police search central bank, governor says no link to bank activity",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2tYZkRHNmZIa1FlcUU0TWprVnlXb2pzMDVFM2tmM1FfOTAxTHp6ZjFxc3dQZHRCZHRaN0VlTWhFYVZWOTBqczFGcTV5ZVJWelE2RmRHelcwQVhrdkFGVWJDWmdMY184ajFDLXliQVhrU2pXX0VPejhzakhVZUR0UE51SmJiMnk3YzdWa0FoQ0dYRWNrcVYtLTVzaWlsRkUxS1VzUFVB?oc=5",
-   "published_utc": "2026-10-21T18:42:04+00:00",
-   "title_original": "Ukraine's anti-corruption police search central bank, governor says no link to bank activity",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c7edac4e5615b18"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Japan beef imports shift to Australia as droughts hit US herds",
@@ -28279,23 +26420,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9dd703a5c9d28443"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "France's 10-year government bond yield reaches 5%, highest level in 24 years",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261021de63221",
-   "published_utc": "2026-10-21T15:04:29+00:00",
-   "title_original": "フランス10年もの国債利回り5％に 24年ぶりの高水準",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "51ed116e8d6a53a6"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -28524,23 +26648,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0655e950224ba5c5"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "IMF official says currency intervention offers limited benefits By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0lDRUJlUk9keFZsemc1dF82SDg0SURhNGxHWEU5TktyaE43Yk12VEpzQWlfdzhOVm1USTlHUW5ta3BBNEl6bVpQWkVBSFB3RXQyUUdmeFU3U2djbFFPRUtDTWNoSVYyZXU4ZnZWbWUyRXpUdFo5R19za1dVaEhuRXpLSlFBbVByTTltcE0yUk5YSF9rN2laTUNmZkx2bVdwZ0Z5TzdUVXBudG9xSjRpeEFTQVYzRlpHMzZKend2QWtCZw?oc=5",
-   "published_utc": "2026-10-21T11:32:29+00:00",
-   "title_original": "IMF official says currency intervention offers limited benefits By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4a7ba9c9b837fbf7"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -29022,23 +27129,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5a665b7ddb140a8b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Shangbao Indonesia",
-   "title_en": "Indonesia's central bank kept its benchmark interest rate unchanged at 5.75% and announced it would lower bank deposit reserve ratios",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2MU5zREhTcV9WenZIVDZrUVMtWVRZTks5LTROekVLcE9rRFQxc2ItLUFtVC1URmdsVWUzLWFvd3lXYlRsZXVIWC1NRG9qSmR0Z0VzYW9GTVEtalE0MlNMWERzcnEwa3UySFkwTmxMMFFYdzNiVDVZUEZR?oc=5",
-   "published_utc": "2026-10-21T08:16:00+00:00",
-   "title_original": "印尼央行维持基准利率5.75%不变 宣布将下调银行存款准备金率",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ea2de6737e72683"
   },
   {
    "source_id": "gn_kr_mk",
@@ -29785,40 +27875,6 @@
    "id": "3f3a89c09005b8cf"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "France's financial woes trigger social unrest. A glimpse into the root causes and hidden worries from economic data | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HUTdHR25QUmNfNVpqQUxVakNMSTJaM29jR1YyRVc4UGhGd1NDSUxoVXJVV2lWRFRhc0ZiRlcyWFJiZWVGc3V6N0FjcFNkdWxuTTFzckR2WWhTbl9LZWNn?oc=5",
-   "published_utc": "2026-10-21T03:57:00+00:00",
-   "title_original": "法國財政困境引發社會動盪從經濟數據一窺根源與隱憂| 國際",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e52f1ec097bb2ce1"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQlpkaVlxVDU3c0FJMjdvQzJJVEVlNVMtSUdkd0p1bHJ3anZUM2RzSkh6UmFpeHNwbjJvR2k1cGRKQ3Z2MlV0YzZnQmk4WTE5VDhXenB5Y0laZnhCQV9VV1VraWZ2a3NTNlgzOVcwcXE5RWhBbGZMRXp4REt2ZnFyMDNNSDAtQm5GbkZhQmt4emtsS041MUo0Q3g0Wkg1QURBVlZ2ajF5QWRJZjUwWVlnWERBR1B6SzZwekstcWlhOA?oc=5",
-   "published_utc": "2026-10-21T03:50:51+00:00",
-   "title_original": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2984ec8fca8a1331"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Trump Open to Summit With Xi and Putin in China to Discuss Ukraine",
@@ -29992,40 +28048,6 @@
    "id": "e9d696c2dc2e4a8f"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian chip stocks rally as Super Micro forecast revives AI demand optimism",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3duWkRPQlBnand3alhSek9iZW1BRFZ6Y0VKYTFNbkowcTJuX0p1RFBGVm9ja0Z0QVoxaUFJUWZ0WFZYTm1nT1F1eFNNamNwMXFWYkwwV211Zy1SWExqRVhFaExBUlVBM3ZFMEsxLWRMcHJpMmJqeTdPR0ZKa3d1elIyeTFfM21ISldLcG9pdjRWa0pjMHF3X29tYnNJdWRlSWZkWGNMb1JlVmdSMkdnZThET1U2eEUzUXN1cHhUalRyN00zaFhUZnpzUQ?oc=5",
-   "published_utc": "2026-10-21T02:11:27+00:00",
-   "title_original": "Asian chip stocks rally as Super Micro forecast revives AI demand optimism",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "324f92b3a1b9bef8"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Global chip stocks rally as Super Micro forecast revives AI demand optimism",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3duWkRPQlBnand3alhSek9iZW1BRFZ6Y0VKYTFNbkowcTJuX0p1RFBGVm9ja0Z0QVoxaUFJUWZ0WFZYTm1nT1F1eFNNamNwMXFWYkwwV211Zy1SWExqRVhFaExBUlVBM3ZFMEsxLWRMcHJpMmJqeTdPR0ZKa3d1elIyeTFfM21ISldLcG9pdjRWa0pjMHF3X29tYnNJdWRlSWZkWGNMb1JlVmdSMkdnZThET1U2eEUzUXN1cHhUalRyN00zaFhUZnpzUQ?oc=5",
-   "published_utc": "2026-10-21T02:10:14+00:00",
-   "title_original": "Global chip stocks rally as Super Micro forecast revives AI demand optimism",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "97ca830558f95225"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "FTC chief acknowledges role of conglomerates in economic growth",
@@ -30146,23 +28168,6 @@
    "live_wire": false,
    "manual": false,
    "id": "73ac8ca9e46aec02"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Lutnick announces investment to boost semiconductor production in North Carolina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU193TGxnbzVMbkRsVTJCOXcwbTBZcTJQdzAzSmdCQ1IzbFhLaHYwc1pCR25TTFY0Yi1BTmJreDJHR010NW1fT3NSX2N5UXpCRjlqM2VhNmRsTk1ycG5FcUg4ZUxXUDl6NTJLVmMwR2thMmdMQnFjVjA5N2txZFI0ZHptaXNFRjQxb3lsWk5JYURrdzFtclROVl9rX0lNU3g0cld4QURkYVRfMWxhSzBUd2RrZjhOZFd6V05HLVhB?oc=5",
-   "published_utc": "2026-10-21T01:01:00+00:00",
-   "title_original": "Lutnick announces investment to boost semiconductor production in North Carolina",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cfc70fa998273ad4"
   },
   {
    "source_id": "gn_jp_investing",
@@ -30846,23 +28851,6 @@
    "id": "43829e8e114535fc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6NkM2M0FlczJPTF9WQ09HWVVuUkEtc1k3N0dnanNYWXRTWEVqQkZtY2pDUjdyWUp3QndHZHFrU21jTVJnMjRZajFoTU1rOFNucUR3a3RBR1k?oc=5",
-   "published_utc": "2026-10-20T17:00:00+00:00",
-   "title_original": "印尼央行维持基准利率不变，下调银行存款准备金率",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "13682de66b8d7a55"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "BOK Financial Q3 2026 Earnings Call Is Live",
@@ -30929,23 +28917,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe29b34f0935010a"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-   "published_utc": "2026-10-20T15:51:20+00:00",
-   "title_original": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "279f216db65210d6"
   },
   {
    "source_id": "gn_kr_bok",
@@ -31049,23 +29020,6 @@
    "live_wire": true,
    "manual": false,
    "id": "123a40ceaf3c0828"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Slovakia's 2025 GDP growth revised up to 0.9 pct",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwamhRWTVnODc4OUZTanNSYjFIZ1gzTkdldmlTb2s1OHp2UXpES3ZoRjlELTNGVHE2VDNaQUJ4cGdONm1xZ050LUhFT3dMM3lYZ3NQZ0RpNVdCdHVpc01LdVBfSUlPNzhOMmdkOXRDMGdpczZibXlReV9jY18?oc=5",
-   "published_utc": "2026-10-20T13:40:46+00:00",
-   "title_original": "Slovakia's 2025 GDP growth revised up to 0.9 pct",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3863c74b5611df5e"
   },
   {
    "source_id": "investing_live",
@@ -31205,23 +29159,6 @@
    "id": "67ee3de7f08798d9"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Bank of Israel to pause rate cuts ahead of October 27 election",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVQ5UjE5RFoyXzlHb3ZYbVAtbFRSUnMyYzhYZ1N1QWktUmtLZXpNY3JyRlpYNUFONmg0MGQ3Zzk1NV8yNTE1NkRrS0liYU1vZXdsUkxvdlY1VDNQVEVkcHVCRXJjcDlZcS1KaU83aEdLOGlLYklsNGdaVnVWa0EzTVRzeWVmRVFVVmpuSTk5VUgzYTFZY29hN2h3ZndiRnc5RUdGNHd6ZFVHY3c?oc=5",
-   "published_utc": "2026-10-20T12:23:47+00:00",
-   "title_original": "Bank of Israel to pause rate cuts ahead of October 27 election",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b361860b534688d"
-  },
-  {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "China mulls policies to accelerate smart manufacturing",
@@ -31237,23 +29174,6 @@
    "live_wire": false,
    "manual": false,
    "id": "717dbdc702113097"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDM5WVpJZWxMa0taUVhrM0I4OEc2SmtweUZGLWVBcHNTTmlDX0FOTmdLRFE2MUV5RDJpU01kMGhjclAtS19SU3pwVm5kLWN6TWRnTlhIX3RyUGdXZk9GQ1JNQmJub1N0Y2lVZ1hpOUJqYTRtbnBKY3NqMjRtUHQ4MXRmcVc5ZWpId3VwV21ZOTF3WkJSc1dYMXpzb0lic29menJKSmtkRHZ1NnNlOEVmR2RHRTZUd0x1ZEYzT2ZmZHhMVGU0NmxTag?oc=5",
-   "published_utc": "2026-10-20T12:03:43+00:00",
-   "title_original": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4e50ce617082735f"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -33519,24 +31439,6 @@
    "id": "8eabbda4e0b9aa88"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Hungary to cut deficit below 5% of GDP in Magyar's first budget plan",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0ZpQjBRVUpOMXVEcXoya2N5UnNMRjVzQ24yY2xnMmtQOWVIRHJGOGhVZVRRcEhaS1NzNFI5ZjhZc3NhSkt6LVkteXJWVXRTZHZUM0ZER2xULVYzamFVS3RHZ0NUQ0lodE1SUmt2NjlXSE5Xb1R0MkE0MktFekdzeG1NTXNBbE96c2U0blBvdVBJWXpMcUZaOGFQR3FYQ1ZxYlFRdw?oc=5",
-   "published_utc": "2026-10-19T15:39:27+00:00",
-   "title_original": "Hungary to cut deficit below 5% of GDP in Magyar's first budget plan",
-   "region": "taiwan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7f019dab0c2654ff"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "Samsung Makes Unusual Move for Nvidia Chips",
@@ -33758,23 +31660,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d3d650609119c3eb"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEZuZHdVV1dZN3BpaFczenc4QkhZYjdjblNqRHd5UnllS3otOS04MUtCYjJtejZYbENlaE9nUFljbmdJN1RDaEdxZkxpSlhoMlMxdFhYWmdGaW4xejVjZ2hwS0U3b2lJNUJRUVRvak51Mzk4N3B0M3duMGQydWtYNHUwMG43d2hNS21mYV9jcXRQSjdRRFRXZkZPdVRmaUV1dlE4cEhQN18xcE9Yb1ZnTkF6Y3g4OU9waG1yV0dvOHBnM0lldTczYjgzVmdtTEd1UGxVNVdGYVhfNVpR?oc=5",
-   "published_utc": "2026-10-19T11:43:19+00:00",
-   "title_original": "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8004a3454c570d2a"
   },
   {
    "source_id": "tradingview_live",
@@ -34757,24 +32642,6 @@
    "id": "c6b39e9c23cc1e42"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Putin elevates finance minister amid mounting budget pressures",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXFIbEpxSmkybWNGczBUYVEyMnFKYm1GN1BwVTBkaWZDREF1Sk5WcEVFOHVwaTF4YXc2Z0RQcnB2TlNGdTY3bHFMODUtckcwMWdXWUV0eWtLWndTc1A0TTNlcUQ2S2ptUVFYN2hSRWVpMmdyNG1kbk43U0NaOHNYc1BzSHEzck0?oc=5",
-   "published_utc": "2026-10-19T06:53:00+00:00",
-   "title_original": "Putin elevates finance minister amid mounting budget pressures",
-   "region": "korea",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "db5f35748e96547b"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "China GDP growth ticks up to 4.5% in Jul.-Sep. period | NHK WORLD-JAPAN News",
@@ -34999,23 +32866,6 @@
    "id": "b4f20dc339591eca"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Morning Bid: Markets left to figure out sanctions",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
-   "published_utc": "2026-10-19T04:31:00+00:00",
-   "title_original": "Morning Bid: Markets left to figure out sanctions",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3858fb40d6c4f64"
-  },
-  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
@@ -35076,7 +32926,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByd2dQVEVnZjJDZUF1aVE4bDJnLTdvZ0ZLRXc2cFVobWg5aXQyeUM4OFpkcE93YkFaZnVOZFBGMkxXOGs5S0Vyb2pHYkx2M3BSTVBiMkxBY1J6RlRqcEE?oc=5",
    "published_utc": "2026-10-19T03:46:00+00:00",
    "title_original": "股匯雙殺央行盤中喊話：新台幣表現相對穩定、將視情況調節| 產經",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "monetary",
     "fx"
@@ -35139,23 +32989,6 @@
    "id": "03778d564ee59637"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5",
-   "published_utc": "2026-10-19T02:52:00+00:00",
-   "title_original": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
-   "region": "taiwan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "107fbacdc77b6eb4"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China’s new home prices fall again in September as recovery stays elusive",
@@ -35205,23 +33038,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ed56761ef46c2a31"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Rupee ends flat as stock slump, importer hedging erodes bounce",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3NLUV9hTjZtMURDMENEaVZFZFBNWFNJVXNoakRPSjZTa1lGU1FQZHlVYU9HQVUyWGg0eDI3Y3lsRXFRZ2lhV0FSMFhPN3pwaHJ0SEVSOENrTUVtY1cxMjRZRWpxTVFwMDlJMURMRVN3dURIbVhQc3hiUTR3Nmh0QXJkUnRKNjJVSFkzTkFPYmRCT0JyZkpzaFF3LUJMZzlDbm5TMXRJUlZ1VUhSbXA4?oc=5",
-   "published_utc": "2026-10-19T02:37:00+00:00",
-   "title_original": "Rupee ends flat as stock slump, importer hedging erodes bounce",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "49a98064d9bd71e3"
   },
   {
    "source_id": "investing_live",
@@ -36499,24 +34315,6 @@
    "id": "137e90d2f3fb2ade"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0IwaktBNmdOemNfNWgydVVvdk9oVklTal9UTkNpMkNQcWdPT0JuN3BleXAtZUM5X3pmUU0xandTdkt2aHo4UlJsVjNOTnY5U2IxZzJZVW9Mdnhsb21kdEFPaDN2UjQ1Wi0yNTFMYllpT0ZLQUxvVEVqTnRxTHI4YlpvQy1CMVpJMkJpeE12aVVCeE8wc0N6SG9ZSDJJdVFTclE?oc=5",
-   "published_utc": "2026-10-18T07:00:00+00:00",
-   "title_original": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8239ca419f282f49"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
@@ -36567,40 +34365,6 @@
    "live_wire": false,
    "manual": false,
    "id": "398cc36db2c31844"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "More drug, semiconductor firms to set up or expand in Hong Kong, OASES head says",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFM2YWktT3BpSFdVbGxsNlJhTzN3c19KMHQ0ZE44U0s1UnFmSlFhTHNKQUFlWmszb2pWYUhXcDk5dTBFZkVLcThpWjJCb2lpSS1DSEkwRDAzU2pXc1lCc0JOVU52UW5XejhWVnVaLWxJaTJ0dlpMWHlFZ2JacXE2RFJPMGp6a2JOSmxwYk00UGoybzRfY3YwbXVsQWdVajhXRHplbVRtRHFrb1hKVFhDWWQyZnM0eXFKVDJyTUQtTmlXcmtIcENqT2ZNaTR0dGtBNjF4emM1Z1JUZ9IB2gFBVV95cUxNTGg1d213bm5uU01oUWpmclZ6cjlFUkhuNUlPSTJqQlhhckdORDdKY18yLWV3TDBKMjhYaVVEYlVQSlpJNHpnNTZkMEgyUFBJUVdWZ1NlLUY1TVc2OWpaZEUtdVVfd2NMdjFmbU81U0dzUnpqYW1zQ3JiZDliU2FUVW1sbW9HdGptQmdwZjZ4T0NDdThRb2QxbTF2ZTJQa3E0RzNrSGRiWVprV3N1dGRlaHNCWkZKWnlpNS1kZlV1elM5YVFCdVA2UC1RZTdhXzAwZkdfa0xnUVJNUQ?oc=5",
-   "published_utc": "2026-10-18T06:54:46+00:00",
-   "title_original": "More drug, semiconductor firms to set up or expand in Hong Kong, OASES head says",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22d59c856d00aac7"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Financial Times Survey: AI will drive the global economy without causing mass unemployment in the next 10 years | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OZGczbThoMkx3b3Y3RGRMb2tLdFNJSXRCMnBUdDhfcmNiNVcyUllWTmxxNEh6VmhLc2Fqc3ZPVS1JaENheWxFTWIyRW1nSlZBUDhrVXBNNVFjWGJQbU1r?oc=5",
-   "published_utc": "2026-10-18T06:42:00+00:00",
-   "title_original": "金融時報調查：未來10年AI帶動全球經濟不致造成大規模失業| 國際",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f088f45a79ed2ed2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -37092,23 +34856,6 @@
    "id": "9d2839c7343126db"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Tens of thousands march in Lisbon over housing and living costs",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3NQRHI0VTRqeGpNXzZSN0hkTU1aOTh3M3BKdHBQVGc1b1pGdmRRVWJ4WTdSbnVaNlJXQXNJeklhMEJlYkhocVVwRGtzcjlISk43UW9tU2RYWXNQR09Wd3k4a2xCQm9Ua1Z4bkY2UlI3NFpzMXZKcHNGTy1PdlJBMkV6YTN0Y210eHJWN0xtbVByX0o1RlV6V2lOVQ?oc=5",
-   "published_utc": "2026-10-17T17:11:29+00:00",
-   "title_original": "Tens of thousands march in Lisbon over housing and living costs",
-   "region": "taiwan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8726316657f1633a"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "source_name": "Taipei Times",
    "title_en": "Mortgage numbers for seniors surge to historic peak",
@@ -37211,41 +34958,6 @@
    "live_wire": false,
    "manual": false,
    "id": "68dfaa22fd128f0e"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Brunei non-oil, gas sector contribution to GDP rises to 55 pct in 10 years: minister",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHFPNVRsWldXSEVsWXlMRzlCbEZkNk5ReDRlb2lmZ2xvdFR0VERIYlBQczFzUGplZEtHOG9KaExMdk1GUExJSHZhZlhwa2VvWG5QTGp3SkdNMktuR2hJeHpXRGg4SS1uNVF0djFUcjREUUU1WlZvem9qc2c0eEtYclp3UklLTE5Uc2Q1cg?oc=5",
-   "published_utc": "2026-10-17T09:29:00+00:00",
-   "title_original": "Brunei non-oil, gas sector contribution to GDP rises to 55 pct in 10 years: minister",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "31c08c26c6a02a7d"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Inflation and debt hit IMF: Low-income oil importing countries are most vulnerable to decoupling from AI dividends | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMTRJaFU3b0pua2RBdFBNUlE5R0xFYXpZaWVWSXhzTm9YaUF6RHRaOWk1N01nUjJSbWNDbEV1SkdULWxhQTJLRkFNdEgxR0dJTEtsSXhJVVlqa2FNeXJB?oc=5",
-   "published_utc": "2026-10-17T09:28:00+00:00",
-   "title_original": "通膨和債務夾擊IMF：與AI紅利脫鉤低收入石油進口國最脆弱| 國際",
-   "region": "taiwan",
-   "topics": [
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "248f2f0a4f4668a6"
   },
   {
    "source_id": "gn_jp_investing",
@@ -37351,40 +35063,6 @@
    "live_wire": false,
    "manual": false,
    "id": "98b5aca32d81cee0"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Interview: IMF official highlights mounting global fiscal challenges",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZSlhnVW9hbUZGTkFwRWpnSkUtNG5jMV82Q1dpZnVPRWU2bkt3OXdjM3N0VF9tUnUyUGVoZGc2U2ZXODhrZDMwaHRRZ1lkSjJqbFp0YjRwTVNqVVUzc0RzbG1WMi1oTnhhMjM4czBTQUNzeDRCVTV6N2lpUjY?oc=5",
-   "published_utc": "2026-10-17T05:28:15+00:00",
-   "title_original": "Interview: IMF official highlights mounting global fiscal challenges",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "42b62ddae4cc4a9b"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "U.S. Fed Chairman George W. Bush looks at the global economy and shows resilience, and inflationary pressures will not stop",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsamlRNWJ0Z1BMSkFwaXBpbG5lbFgwNnVmQXFrV3c1djRtNVJ3M1cyZkpQZXVETEJZTTBZRU91NWMtVjBSNTRQRnF6R1NXSEdDSjJR?oc=5",
-   "published_utc": "2026-10-17T04:54:42+00:00",
-   "title_original": "美FED主席華許看全球經濟 展現韌性通膨壓力未歇",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "46fb15a9bb95b48f"
   },
   {
    "source_id": "yahoo_business",
@@ -37525,23 +35203,6 @@
    "id": "ac28e75ae96df905"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
-   "published_utc": "2026-10-17T00:57:00+00:00",
-   "title_original": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ca1bcfeb8b9587c"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "[Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices announced",
@@ -37561,24 +35222,6 @@
    "id": "10b2998722f6a288"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "The US budget deficit is 314 trillion yen, the third highest on record due to increased interest payments, etc.",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60820",
-   "published_utc": "2026-10-16T23:41:09+00:00",
-   "title_original": "アメリカの財政赤字314兆円 過去3番目 利払い費増加などで",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "01b681d8accfb5aa"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "조세금융신문",
    "title_en": "[N Week] Will the base interest rate be raised for the third consecutive time? What are the 3rd quarter performance of the four major financial holding companies?",
@@ -37594,23 +35237,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab1dee809400092c"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Anthropic proposes AI safety bill with strict intervention thresholds - Politico By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXpuaUY0QTdnd0g2elZQVzhoRnZVbGc5T29tcFVJUnVOZzlnbkZBOHlGSmUxVUpjVE16TjZzMnBVRERzcUFKQ0ZUSjBJNWNUaWNETl84WEZiR0tLb3dXanFtem1HT1YtbHJQanVYSS1VRDc3OUpKWEJPQ1BjWjgyOG5yWlZyZWVBSC1IbFFGZmxMM1dwYlJ6N09SY3Q4NEN2R3ptcDRzZkQ2ZjNFVXJBODcxTExLc2cyQlhvaG9iWW8yaXJJRUZDZmpn?oc=5",
-   "published_utc": "2026-10-16T22:58:00+00:00",
-   "title_original": "Anthropic proposes AI safety bill with strict intervention thresholds - Politico By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c54fa58760442c73"
   },
   {
    "source_id": "tradingview_live",
@@ -37819,23 +35445,6 @@
    "live_wire": true,
    "manual": false,
    "id": "56ecb1a7282507d0"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "US import prices increase; post largest annual gain in more than four years By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnRBUTR2dUVhdkNydGlYc05qaTlNbHA4Q1hTSjlNdVZRUldPenZ4LTFaR3pqMXNJUHMtSURiNlRjdGNQMktpNW9ZS3owamlmUjNTcEdaaTRESXhwMzBMSVJ4Mm1FVEVpaWwxOXBiRjBPOUlSWkFXUGRNZHdyZTQyOGt3MW9mLUVDMVV0dF9Ta0d5WDRiNXJaSHB3eVVwa3FQVTdoZ3d5R3JaMU55ZlE?oc=5",
-   "published_utc": "2026-10-16T17:38:04+00:00",
-   "title_original": "US import prices increase; post largest annual gain in more than four years By Reuters",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c849bb205e2289c"
   },
   {
    "source_id": "investing_econ",
@@ -38062,23 +35671,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1336f7d1a8c06ead"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Belarus GDP grows by 2 pct in first 9 months of 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iZllibkphZmNPOG5ya3ZEb2ZVeHNjTkFYOEZxOHo1ckRaYTBZb1kxQjY2RVpfLTRzQnRDM3RKT3dLeEs2WFpnMC1BYlNkeXgzUU9NTXExcDU5MFRPVlhtNlZmVzducTFyNTRGWHhTY1ZfZWZPcGc0UjVpM28?oc=5",
-   "published_utc": "2026-10-16T14:02:30+00:00",
-   "title_original": "Belarus GDP grows by 2 pct in first 9 months of 2026",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "29ddb8091254b988"
   },
   {
    "source_id": "nikkei_asia",
@@ -38367,24 +35959,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c8a13e45944259a6"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Money transfer firm Wise raises revenue growth outlook as cross-border volumes jump",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDlfbHNISGs1VTNtQm5UN2hJWjFPRFVMel9Zd2RYNWRIUXNwSHNCYTJVamlzSi15Q2xObVUzX3VTajZReVNjTGZzei04c0RlZ0V4alNVT1lLSXY3TTdweUpBVnQ1RThRaTN6clFzeXF3LXVGTGRGemFNaDNURDFIbHRuSkVaR1RWYl9RR2EtMVZjNDM1RWJkZEQ2SmNzaWtkcERsS2JjaVhJSU83MmQtSERmM3I4b3lVOTBkWDU3MXFRT2NyLVE?oc=5",
-   "published_utc": "2026-10-16T12:02:04+00:00",
-   "title_original": "Money transfer firm Wise raises revenue growth outlook as cross-border volumes jump",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0346f40611d88309"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -39145,23 +36719,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ddcfea6c89b9b08"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South African rand edges up as focus turns to next week's medium-term budget",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk5zRmZXejNwMlhnenBGLXhXZEpCMUlQZjRWU0x3UzZmWUJiQUpkWERydW5wcTNlWWd3VDBEeVdoLTRWQWJJMEltc0xOeHBidG1jMGozU01mYWZIb3dpWlhwSnZLYjFhSVpCWWJlYk9qVzFzR0NEYkQ1TlY5OTFMcEZwY1RlZDJMQ2lVWWgzbkdYMVNweG1MZ24yRDRJdEZmT1UxU0Y1R1NmLVB4enpTbGFucFVtclRlb2c?oc=5",
-   "published_utc": "2026-10-16T07:37:56+00:00",
-   "title_original": "South African rand edges up as focus turns to next week's medium-term budget",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fcd472d3d0c1033d"
   },
   {
    "source_id": "investing_econ",
@@ -40455,23 +38012,6 @@
    "id": "0760f1ace49fc1db"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Chip startup Bolt Graphics seeking to raise $100 million at about a $700 million valuation, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeEdzRk9xUzI3WGdHVFd3MmhuZFNnVUlhMVRrdVVJSVkzY1V1MzB0RGFsTnpQeGZNTzY3WmVLaEtFZDRfZzk2N1NOemVoUFdGT0EzN1dJXzJaR3NMTTBtY1NLb3R2ZUR0NUQ5WkVTbWFBdHNuZHV3cHdkRXlwS3hNMXNVYi1qU1NLQmlyZ1FjTDZ2ZWpGRUxTTVM1cl85UE5NZVNfeVFybmFsWk03dlZsZkN3RFhiZjFDV0xXaURVYw?oc=5",
-   "published_utc": "2026-10-15T21:52:21+00:00",
-   "title_original": "EXCLUSIVE: Chip startup Bolt Graphics seeking to raise $100 million at about a $700 million valuation, sources say",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "68383294fd4a90fe"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "South Korea Import Prices Rise in September",
@@ -40542,23 +38082,6 @@
    "id": "93725d7e16a7f8e7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "US year-end sales forecast for 4% increase as inflation drives people to save money",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60164",
-   "published_utc": "2026-10-15T20:48:06+00:00",
-   "title_original": "アメリカ年末商戦売り上げ予測は4％増 インフレで節約志向も",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1fbbf99f8075fa7"
-  },
-  {
    "source_id": "gn_kr_herald",
    "source_name": "The Korea Herald",
    "title_en": "[Editorial] Chip vulnerability",
@@ -40574,23 +38097,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b363c709db86ae4"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar recedes from 18-month high as bond rally tempers impact of hot inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
-   "published_utc": "2026-10-15T19:43:18+00:00",
-   "title_original": "Dollar recedes from 18-month high as bond rally tempers impact of hot inflation data",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc04cd83edd1bf81"
   },
   {
    "source_id": "tradingview_live",
@@ -40745,23 +38251,6 @@
    "live_wire": true,
    "manual": false,
    "id": "744dcd042d785276"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "US issues fresh Iran-related sanctions, Treasury website shows",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEJZZXJmaFZ1b2c5eDlJMjhKMFRXX3JkNVJha1J1N29IWUJHRGphZ1M1czQ0Z1EtQzBub3gxNk5iT3FnNEdRM3dEbjVvdGhac2JjOGdmNGVCVFJMZW9GZzVGeEFCOEFualphSFJVNEM0eUZmVGhDdC1oaU9UR2lzRmltQVJ6RUtTZGJVV29pZ2tKZ3pBT2o0RU5lQzlYNzdZOWFfdENZNS13LVNhMEJSSGRfXzRXQQ?oc=5",
-   "published_utc": "2026-10-15T16:45:20+00:00",
-   "title_original": "US issues fresh Iran-related sanctions, Treasury website shows",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff3d7a55f87203d7"
   },
   {
    "source_id": "investing_live",
@@ -40919,23 +38408,6 @@
    "id": "f5591870e9e93f02"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "US retail sales show solid growth of +0.8% in September",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de60121",
-   "published_utc": "2026-10-15T15:33:29+00:00",
-   "title_original": "アメリカ小売売上高9月は＋0.8％底堅さ示す",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "22c467c5dc5e6b69"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short",
@@ -40968,23 +38440,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fbe247de88544510"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "IEA to complete release of 100M barrels from March intervention By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVk92anlwTllHM3hNUDdySkE1ZUxNY0hMMW5BazdEdmVHbjdBMkt5bnh1V2t0R0pFRkItVVhYLUpiX2NRbXZ1OFBwV3RCaEYzbzBUSlgxM2JacUhubG1YWExhNi1wNkVQTXRCSS1nQ3pRWlh2UmFyMmJLazJDWFdQVmc5d3BmeUJLVDM4WWZWdVF0d3F6RVVHSVVHeFU1aHBpeWdVS1gwWFdkMnhHSmhrOUxZN3c?oc=5",
-   "published_utc": "2026-10-15T15:01:35+00:00",
-   "title_original": "IEA to complete release of 100M barrels from March intervention By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "da1293747e9380aa"
   },
   {
    "source_id": "nikkei_asia",
@@ -41020,23 +38475,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9e18bcfc79640748"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "IEA to complete release of 100M barrels from March intervention",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVRSRTVmbW1Eam9Gb3AzU3hEQUY1T0FqNXpMcHFBVXp1UUk4NVk4LVlpeEt2SmdtY1RPVHFhWGEyZWlQSnVZQk5RdVdHMUJwcmowZmhkcEEwYlo0Q1RwMXNBc19XLXVFUGlhNzdmVEU5QlRCX0xwOUZ4YTBsTkRJSTVPZzduSV9ZNU81QTdUUkRrYU4xRHRwci0teS1JODRKYnhyRk01Z0NXWWw5cmszcUhCcy1Zdw?oc=5",
-   "published_utc": "2026-10-15T14:46:05+00:00",
-   "title_original": "IEA to complete release of 100M barrels from March intervention",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70f8b61822d913ea"
   },
   {
    "source_id": "tradingview_live",
@@ -41105,23 +38543,6 @@
    "live_wire": false,
    "manual": false,
    "id": "86092c9e86c82673"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "US chip stocks set to wipe out $2 trillion after latest selloff",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5",
-   "published_utc": "2026-10-15T14:02:41+00:00",
-   "title_original": "US chip stocks set to wipe out $2 trillion after latest selloff",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aad75cc603ad3f32"
   },
   {
    "source_id": "tradingview_live",
@@ -41224,40 +38645,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b33d2fedc50006fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar retreats from 18-month peaks despite hotter U.S. producer prices",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY2JlN3BFbUhBSFhoekhHRXpLcFdudk5tczd2ZkQ2eF9mcm9WRnppRU9WalBKTmFORF9tTG9zZGpyUjVwYXR5MHRnNkdnNUM5RnlZemxlTGFnSHdiUl9NVFQtaTQzQ2J4ZmNzSTNOQjZWSXc1d3c2NWI2U2luMXpncFVQbEJGelJKX1lCSFI5dTFYV2J6dmhqdDJia2FtamhUdVRjME9XcjdNaVdHaDFWamNGN3JiNXhDN21NLWI0Y21TaDRXYUE?oc=5",
-   "published_utc": "2026-10-15T13:18:04+00:00",
-   "title_original": "Dollar retreats from 18-month peaks despite hotter U.S. producer prices",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1f70805bec5a87b2"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "EQT agrees to buy US real estate manager Stockbridge for $375 million",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzItTVlhTURlSlh5YTlLQTVORER3cjVxNjY5RFJRZnMxbjN2b1gzcWZ4czhMMmxmLXVmVUUxWTN6Q3dCZWx5SkFWclA1VERVWlZyZEdybjNBU2VoQ2llM3U5bHE1TFQtaDRteFM3RlkyU0hDUkttMTBianJudHgxZmh4NDJxNTU1WlF4TjhsYjJQcmx2ZnBERnUtQzQ5cTZtb3k5Nm9YZHlZUjZ4U0NhakFOQURtNzll?oc=5",
-   "published_utc": "2026-10-15T12:55:45+00:00",
-   "title_original": "EQT agrees to buy US real estate manager Stockbridge for $375 million",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92bd67944dae6336"
   },
   {
    "source_id": "gn_kr_ked",
@@ -41451,23 +38838,6 @@
    "id": "bc95c5f9de95e7c9"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Tech sell-off gathers pace as chipmakers hammered By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0l2VVA1QWpiVkl5Y01IRExJMHo5Vkl2dGpXeWJVY1NXbS1XS25SSXFnMU9NR0JUSURmR1A1N0Vvdjc2cFYteHhQOGMweGFsSUF1Y0xGSWJNaUgyRnNqYlhKYjZqOUtUSHI4eFA0cjBWLXFBNXRtcExVaGs2SEFvVGVTRXF5SE9SclBWak1uaHdsVS1McVBhM2ZKVU1wS2hrdE5USHJiYnpfcW5FaTJ0aVhPNjVNVDhR?oc=5",
-   "published_utc": "2026-10-15T10:48:04+00:00",
-   "title_original": "Tech sell-off gathers pace as chipmakers hammered By Reuters",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1357bd9ac805c71b"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "TSMC eyes Texas and Musk Terafab project for US expansion",
@@ -41483,23 +38853,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6306a90f7dd8aa2a"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "EU leaders clash over budget as Marine Le Pen’s shadow hangs over Brussels",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQelhEVEExR2JtTHdHcjlaMXZNand5SXgyYy1BNGhVbnpjRUY0NkpQazVrZzFiUVFrUk03MkwwZWxOUGlQNkpmY0JDb1NiVjR6TnE3ZXluVjhHQkN6MHJoV3NrT1dNMjE4eHlWRVBHcm1KWFZRRHVjWnJBNTktUTQzX01BZlp3N1VZMTRuN1FMVktvNFItNEVRTjlEV0hkb19KdzF0NkVVYUZfWUxwOEVqRkJJZDZOS1dzUXZhamItQTFNdDNDSjhqNmc1WlFZajRoa3B30gHTAUFVX3lxTE5NTDhTOEtzU3BiWEdCbFlLcWJRUXVGX1J1T1I5ekxQWklNQnNTNEdMQTQ5dUJYWWR2b1RtU0l4eVVSei1wbGluT3R4aTZxdU9MU01udDE3SE5pUVRDOUtwbUJ1Uko3NDJELUk0STU3a3haWHVBdVV4a2pXY2k2U2lEcTVsQkEtY2dzQnVxWTJnQXhPblM5YU9OTV9YS0c2R1NHcHpFd0g1eGpSdWRNd1VtUkxZbGpJWktzRDMzOUlnSGdxQk8wUmJHN21JNTI5V1ZnUUE?oc=5",
-   "published_utc": "2026-10-15T10:42:26+00:00",
-   "title_original": "EU leaders clash over budget as Marine Le Pen’s shadow hangs over Brussels",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2466a6b1e32a6331"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -41623,23 +38976,6 @@
    "live_wire": false,
    "manual": false,
    "id": "205c874cc4c1c1f7"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EU leaders kick off summit with wrangles over high energy prices and spending",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNl85ZmstSVZrYnFvc2tnZmdjWGRoMk5zRkVDY0hVYjFWNW1EVDZobXJNdHJWdWY0QzdtQ2R5d0FNeUczUXRHSXJPY085blBETjBfbE1PM0R1eDNkdERhc2JTU3hTU2FzUjdWM0p3MlZjNTdzWm5TXzdYX2RNeTl1U2d1bll5cTFYdEVvRkk4bTNvWmxHSkQ4UHJpZlBTU1FldzlvX3pUZ1RjMnM?oc=5",
-   "published_utc": "2026-10-15T10:17:01+00:00",
-   "title_original": "EU leaders kick off summit with wrangles over high energy prices and spending",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d16ad1074a6e920a"
   },
   {
    "source_id": "toyo_keizai",
@@ -41941,23 +39277,6 @@
    "id": "326add6ad82d7f7c"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Sweden to reject Irish EU presidency proposal on 2028-2034 budget plan",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnVzeGhqT3ptS2pCbUtJVVVBMzZKRGlsX0RLVVRrOU5YMzdkM1g4OS1ua01HeUF4d1lNbVhFamZrblBmZ280dXJxdU4zalhTck5WNkNFTUVFT1JkZXVUVWFrdVFGVk9pOHdSR25mTTRoZHRQSE95aFdNVWt0aUxNODBOUndFTWFtUS02bmRlWUJnbGdibDNrbTR1al8xd1MyMDB1d3NBU1FGNVppU043T3doVQ?oc=5",
-   "published_utc": "2026-10-15T07:41:44+00:00",
-   "title_original": "Sweden to reject Irish EU presidency proposal on 2028-2034 budget plan",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "499f1b2440db090c"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar slips despite hot U.S. CPI; yen firms on intervention warnings",
@@ -42233,23 +39552,6 @@
    "live_wire": false,
    "manual": false,
    "id": "51a413bc8920483f"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -42618,23 +39920,6 @@
    "id": "8c2cc44fcb328c94"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Today's Oha Biz October 15th (Thursday) U.S. Consumer Price Index continues to grow rapidly",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59578",
-   "published_utc": "2026-10-15T05:54:04+00:00",
-   "title_original": "きょうのおはBiz 10月15日(木) 米消費者物価指数 高い伸び続く",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6bf3ab442fa0d1bd"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg",
    "title_en": "IMF Warns China Stimulus Lacks Ambition, Leaves Yuan Undervalued",
@@ -42771,23 +40056,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a0074557f65b0a74"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian stocks sell off as AI trades crumble after hot US inflation data By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0l2VVA1QWpiVkl5Y01IRExJMHo5Vkl2dGpXeWJVY1NXbS1XS25SSXFnMU9NR0JUSURmR1A1N0Vvdjc2cFYteHhQOGMweGFsSUF1Y0xGSWJNaUgyRnNqYlhKYjZqOUtUSHI4eFA0cjBWLXFBNXRtcExVaGs2SEFvVGVTRXF5SE9SclBWak1uaHdsVS1McVBhM2ZKVU1wS2hrdE5USHJiYnpfcW5FaTJ0aVhPNjVNVDhR?oc=5",
-   "published_utc": "2026-10-15T05:00:57+00:00",
-   "title_original": "Asian stocks sell off as AI trades crumble after hot US inflation data By Reuters",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "de67d756b7675265"
   },
   {
    "source_id": "korea_herald_biz",
@@ -43038,24 +40306,6 @@
    "id": "f2d0a19276e2237c"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks slump as chip rout deepens after hotter U.S. inflation",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWRlamRtNkFhdlVQY2gydENvZm9xYjU1MGxDT09MTGh5YkhISzFYYko1NTBQMENtMmxfU3BHWmlScWRkOGxsbEp4WDhlajEzQmxld3o1Q2pjUldoM0MtLXBmd2p0OTNjdExxVDZyTER3YzEyLTdxZVRiMGRRMTdDaWFvWi1KdW5fV1Yybk9Hem1VZ0FXS0pHemZFMU04c01mSUlUVG9Yd2k0ck94S2hRMmN6T1F5R0pkTEtjMzln?oc=5",
-   "published_utc": "2026-10-15T02:57:36+00:00",
-   "title_original": "Asia stocks slump as chip rout deepens after hotter U.S. inflation",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c084f7da4411ed42"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: Elon Musk's Terafab chases 10 chip iterations a year — can it rival TSMC?",
@@ -43105,24 +40355,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d5d0b3ad031499cd"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "G20 Finance Ministers and Central Bank Governors Meeting begins, discussing responses to the global economy and AI",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59525",
-   "published_utc": "2026-10-15T02:49:27+00:00",
-   "title_original": "G20財務相・中央銀行総裁会議開幕 世界経済やAIへの対応を議論",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3abb671c1c48032a"
   },
   {
    "source_id": "kantei_jnews",
@@ -43316,23 +40548,6 @@
    "live_wire": false,
    "manual": false,
    "id": "22b82337ae3eaf8c"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian markets sell off as AI trades crumble after hot US CPI data By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0l2VVA1QWpiVkl5Y01IRExJMHo5Vkl2dGpXeWJVY1NXbS1XS25SSXFnMU9NR0JUSURmR1A1N0Vvdjc2cFYteHhQOGMweGFsSUF1Y0xGSWJNaUgyRnNqYlhKYjZqOUtUSHI4eFA0cjBWLXFBNXRtcExVaGs2SEFvVGVTRXF5SE9SclBWak1uaHdsVS1McVBhM2ZKVU1wS2hrdE5USHJiYnpfcW5FaTJ0aVhPNjVNVDhR?oc=5",
-   "published_utc": "2026-10-15T02:03:45+00:00",
-   "title_original": "Asian markets sell off as AI trades crumble after hot US CPI data By Reuters",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc290ecab1b87606"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -43647,57 +40862,6 @@
    "live_wire": false,
    "manual": false,
    "id": "324e9949a08f3758"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asian stocks sell off as AI trades crumble after hot US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
-   "published_utc": "2026-10-15T00:51:00+00:00",
-   "title_original": "Asian stocks sell off as AI trades crumble after hot US inflation data",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c34efc243bcf509c"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asian markets sell off as AI trades crumble after hot US CPI data",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
-   "published_utc": "2026-10-15T00:51:00+00:00",
-   "title_original": "Asian markets sell off as AI trades crumble after hot US CPI data",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b5811c70c4f04c4"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Tech sell-off gathers pace as chipmakers hammered",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
-   "published_utc": "2026-10-15T00:51:00+00:00",
-   "title_original": "Tech sell-off gathers pace as chipmakers hammered",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1c3ddeca61d64950"
   },
   {
    "source_id": "korea_herald_biz",
@@ -44062,24 +41226,6 @@
    "id": "d25701cf49d3e97c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Fed economic report “Price growth pace is accelerating in some areas” Focus on timing for additional interest rate hikes",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59538",
-   "published_utc": "2026-10-14T21:13:52+00:00",
-   "title_original": "FRB経済報告“物価上昇ペース加速地区も” 追加利上げ時期焦点",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee917521ec7a295d"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "A new frontier for Uber Eats, which has been in the black for three consecutive years in the 10 years since its launch in the increasingly competitive food delivery industry | Business | Toyo Keizai Online",
@@ -44441,24 +41587,6 @@
    "id": "834d89a7cd60c0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261014de59486",
-   "published_utc": "2026-10-14T15:40:00+00:00",
-   "title_original": "米 9月の消費者物価 3.7％上昇 早期利上げ観測いくぶん高まる",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "de6ca0d1cd435b23"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "US Consumer Price Index rises 3.7%; growth rate expands for the first time in 4 months; yen weakens due to expectations of further interest rate hike (FNN Prime Online (Fuji TV))",
@@ -44477,23 +41605,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d7c02f58957a1864"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "US cuts Obamacare subsidies for 189,000 with duplicate coverage",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFZiUVg1SG5GUGFHeHFfcTY2ZFgwZjZwNXV6WVRxYU1za1RuMmRSSTBoRGdwRzdxYVZNZUhUdE1vWmJ5Q2ZoRGZNOG1FVEtHNnpwSS1XZ1ZacFdBb2JLdW84VGNJbU9hU2s5TVYzaVFOQ1VrVU5fTnE2NEdiOFptY0wtdkltMy1CUDNDdGJseFZLeUlGdTh1QnJEQUt3a3FiYm5sVzRILThsMXdsSF9rOVAwSUNsV3BKX1ZpRDA4T2huTmZxekE?oc=5",
-   "published_utc": "2026-10-14T15:22:18+00:00",
-   "title_original": "US cuts Obamacare subsidies for 189,000 with duplicate coverage",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cef906d926cb95b1"
   },
   {
    "source_id": "investing_econ",
@@ -45118,23 +42229,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ae710024db581b0"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Rupee extends rise but falters past 95/USD on importer hedging, outflows",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcl93alR0SEpBZk11V0pwa01takNpTnZFWXJZMktIN0sxelZmdXpwektPZWd4Ym5zR1hzTzB0azJBa2tfZ0hJbW8weGE0T3pnSFJkaTZjQWM4YURwUDNyWWozMUNoejFzN1NkNTZWUkFJeDVZUUNtQWNQMzVra0xoRHJTLTIyVVg3RUU5dTR5bmpWNHdaV3V4dlExYi12QkFGd3JwOU5vN2IxSlJVVjdvcUJ4ODl2UDA?oc=5",
-   "published_utc": "2026-10-14T10:45:14+00:00",
-   "title_original": "Rupee extends rise but falters past 95/USD on importer hedging, outflows",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4114530ca14d30d3"
   },
   {
    "source_id": "kantei_jnews",
@@ -46381,23 +43475,6 @@
    "id": "16c550ebcf307a62"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asia must guard against another financial crisis, Philippines central bank chief says",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkt3dUhCWXQyc0VDX1BFRUJGS2phdlpsOVpXa1dxR1QyWUVCaVllM0Z2NlNNSFMtNmg3NFBnR0NyZGF2V2Q3dDludTQxeTdaS0ZtUjg5b3hfYkdMQXg3ZTZQS3JlNkNBbzFEWE53Q1NVbHBoeENjNGt3R2ZHaU1JU0F2eDAyQ0MwQ0RQWGlJMHRXQzI1WVlBbDRlUVpLUkZVWHFndmpFM19oWFl5WmUzemNiVDVwcXlvM2x4c1JITW9WR2xac0d2X0M4aWQ4aUk?oc=5",
-   "published_utc": "2026-10-14T04:06:00+00:00",
-   "title_original": "Asia must guard against another financial crisis, Philippines central bank chief says",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b513305fc48cca60"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "China Consumer Price Index rose 0.9% in September, positive for 12 consecutive months; transportation fuel and high-tech equipment pushed up index",
@@ -46483,23 +43560,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b852d971e7091653"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Gold prices hold firm ahead of US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
-   "published_utc": "2026-10-14T03:12:00+00:00",
-   "title_original": "Gold prices hold firm ahead of US inflation data",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "52cc44c8e9df88eb"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -46741,94 +43801,6 @@
    "live_wire": false,
    "manual": false,
    "id": "78b5cb2092a2429d"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar jumps, stocks and bonds dented by hot US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
-   "published_utc": "2026-10-14T01:53:00+00:00",
-   "title_original": "Dollar jumps, stocks and bonds dented by hot US inflation data",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca996408e19ce57e"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Stocks steady as chipmakers recover ahead of US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
-   "published_utc": "2026-10-14T01:53:00+00:00",
-   "title_original": "Stocks steady as chipmakers recover ahead of US inflation data",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4df98aef09f07fbc"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Stocks fall, dollar rallies as US inflation tops forecasts",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
-   "published_utc": "2026-10-14T01:53:00+00:00",
-   "title_original": "Stocks fall, dollar rallies as US inflation tops forecasts",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "36e045f40bc3d3ea"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asia shares inch up as chip selloff eases; US CPI awaited",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
-   "published_utc": "2026-10-14T01:53:00+00:00",
-   "title_original": "Asia shares inch up as chip selloff eases; US CPI awaited",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1a4102adf1e2379"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Asia shares edge up as chip selloff eases; US CPI awaited",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
-   "published_utc": "2026-10-14T01:53:00+00:00",
-   "title_original": "Asia shares edge up as chip selloff eases; US CPI awaited",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "421d89a0e82b1eb7"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -47141,23 +44113,6 @@
    "id": "f548dc8f2e109e76"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar retreats from 18-month high as oil prices fall, inflation data in focus",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2lxTVVOV3pTUEkySWJNak9DU3lNdXR5bmRWWmxicmY0UVlFTFl3SmlERjl4LVFmTG1pSFAteVRpU2lPaXFhTTNROFlTWUgtaVRFdlliT3VYSkc1Z3REVEctSEZkSV9Sc3dabEFDb0pIcmNXdDR0MDJJMXNtNy1IUUNKS1BVWnNYd0xfM24yUFJmMkRXNUlYTmFnV2g3Z0VJWEE5Zk5MZw?oc=5",
-   "published_utc": "2026-10-13T19:35:06+00:00",
-   "title_original": "Dollar retreats from 18-month high as oil prices fall, inflation data in focus",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5a3b7155efd349f0"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com",
@@ -47224,23 +44179,6 @@
    "live_wire": true,
    "manual": false,
    "id": "67bb53593db02c9e"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "'Brutal session' for chip stocks shows AI trade is turning",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
-   "published_utc": "2026-10-13T16:15:43+00:00",
-   "title_original": "'Brutal session' for chip stocks shows AI trade is turning",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c7f3d6fa47a41d98"
   },
   {
    "source_id": "nikkei_asia",
@@ -47328,23 +44266,6 @@
    "id": "b97034e293ca374a"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Goolsbee says AI-induced inflation is 'jumping out of its lane,' Semafor reports",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHM0clpOMnFqajYyN2FLbEZGZ0FyRUxDc1B1WGI4Nnd1ZDV0dUtEQ3BOa2lEbHBUN3JmWklkNGhuZDZ2dHJmTTZ0STRseE1KU1JHSlkySXhXbHRzMGdZbkh0OUM2NGdtbVhwUU9UbkRIeFhNWjUtbEJ3aDN6RjhzMXgwMUdtSXpaQmF0ajBCSTdzNnZIZENIMTRXMlhEc1NXeUdNczRxdm1CMnBsYmJETk5ibGV5Z19jMzNn?oc=5",
-   "published_utc": "2026-10-13T14:39:22+00:00",
-   "title_original": "Goolsbee says AI-induced inflation is 'jumping out of its lane,' Semafor reports",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1286178f57cd7428"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Mint",
    "title_en": "'If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India",
@@ -47378,23 +44299,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ee7dc4e187f35082"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "COMMENTARY: AI may be rocket fuel for US stocks, less so for GDP",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlJyck1aVU9nSC1wVDdMb2pNeVhfUVRtOFBUUXY1RmtiNGhIM0JGOTByY2VyLW5GeFpaLWVjZVpXeDRkRldaTDZjeDhseGJuNDZZVkdMUnQ1YU5aMmJqUWZZMHh0Z0kySV9fSzJBdmxsVHlNNVplNGt4YXcwN21XaGlJdk5uUE91NmdWWTRtSzlVWUtsdmZ4cGdRNE5MMHBnV0VhTVl4NklsSjdscE1WQklJMXRIYk0xQk9wblRB?oc=5",
-   "published_utc": "2026-10-13T13:35:12+00:00",
-   "title_original": "COMMENTARY: AI may be rocket fuel for US stocks, less so for GDP",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "94c5f49f483e87fd"
   },
   {
    "source_id": "tradingview_live",
@@ -47756,23 +44660,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4e9a79020cc6e791"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHpYeC12b3l1bnlOQ2gzZ1hYci04U1RwR1Mya0JEVWJKanZ1NUJHdG1qMUxnSTV5VTlVOHFHUUNjNHlmaFJCTTdNRmhxZm01MWtUTWxtdWVVcXd3SEVES1Z5WFhMbU40Ykg1VXowbkhoRFJpUFJHNHk1TGUzNzlWNVgtX2p0Uk9CbmMwbGZtZU5sNTliam9OSXl2b2NjN0wtNTN3dy02TTRGQ2FIc2pFLQ?oc=5",
-   "published_utc": "2026-10-13T09:48:07+00:00",
-   "title_original": "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8d198d55a2a5984f"
   },
   {
    "source_id": "tradingview_live",
@@ -48833,23 +45720,6 @@
    "id": "0ab6754640268397"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZERrWG56TXZKYVIxcUd4eWVIOXpNODBFRlFwTXA5dVhDZThGb0VpQkFvWHUyOHNxYzNydVhwTWIwVnM4dzNMRDJCNnFhTVUwU3c3bEZMT1Joc3FaVWphNmI1VEk3aHVCakc4QWJpTS1lMmRPR3ZkVjJKUlU5WTdiMjhqZ1V6ekhNZGVKOW5lZUF2Wk9Ddk1qWjQ2NVJMWGxOT3VxMFE1NWRjeWxmZVdMNlJUR090S2hHRkxldHl6eDA?oc=5",
-   "published_utc": "2026-10-13T04:52:35+00:00",
-   "title_original": "Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "098e7f10b18fc095"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "88.6% of Japan households expect prices to rise a year from now, BOJ says",
@@ -48917,23 +45787,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9769a6ee3a193a56"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHpYeC12b3l1bnlOQ2gzZ1hYci04U1RwR1Mya0JEVWJKanZ1NUJHdG1qMUxnSTV5VTlVOHFHUUNjNHlmaFJCTTdNRmhxZm01MWtUTWxtdWVVcXd3SEVES1Z5WFhMbU40Ykg1VXowbkhoRFJpUFJHNHk1TGUzNzlWNVgtX2p0Uk9CbmMwbGZtZU5sNTliam9OSXl2b2NjN0wtNTN3dy02TTRGQ2FIc2pFLQ?oc=5",
-   "published_utc": "2026-10-13T04:07:28+00:00",
-   "title_original": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "efbce6d95328c90f"
   },
   {
    "source_id": "focus_taiwan",
@@ -49055,41 +45908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1a63f526bf016caf"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Gold eases on firm dollar; spotlight on US inflation data",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
-   "published_utc": "2026-10-13T02:23:00+00:00",
-   "title_original": "Gold eases on firm dollar; spotlight on US inflation data",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "51792548dcc8733c"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "IMF upgrades 2026 global growth outlook as AI boom in Asia continues",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TQmJMTWczRVRzNFVCSGhDaTRrZEdqdWIzYzNmZElkNzkxbVBFRnhRVWtUZF9pbk1QV2JHMmpFSlRsc1ZtaVF4SmpkekZBQ0YyY1lUY2JwT3F4UQ?oc=5",
-   "published_utc": "2026-10-13T02:21:00+00:00",
-   "title_original": "IMF upgrades 2026 global growth outlook as AI boom in Asia continues",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "612ccb611183394e"
   },
   {
    "source_id": "nhk_economy",
@@ -49269,23 +46087,6 @@
    "id": "10d52dba68857f96"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar slips from 18-month high as oil prices fall, inflation data in focus",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2lxTVVOV3pTUEkySWJNak9DU3lNdXR5bmRWWmxicmY0UVlFTFl3SmlERjl4LVFmTG1pSFAteVRpU2lPaXFhTTNROFlTWUgtaVRFdlliT3VYSkc1Z3REVEctSEZkSV9Sc3dabEFDb0pIcmNXdDR0MDJJMXNtNy1IUUNKS1BVWnNYd0xfM24yUFJmMkRXNUlYTmFnV2g3Z0VJWEE5Zk5MZw?oc=5",
-   "published_utc": "2026-10-13T01:44:00+00:00",
-   "title_original": "Dollar slips from 18-month high as oil prices fall, inflation data in focus",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0102ab218d379cf6"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "https://m.capwhale.com/",
    "title_en": "The central bank launched a 65 billion yuan 7-day reverse repurchase operation today",
@@ -49319,40 +46120,6 @@
    "live_wire": false,
    "manual": false,
    "id": "06a6be68d8247966"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "World stocks slip as AI spending worries hit chipmakers",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
-   "published_utc": "2026-10-13T01:41:00+00:00",
-   "title_original": "World stocks slip as AI spending worries hit chipmakers",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d962fc533081bc75"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "World stocks dip as chips slide, bonds rise",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
-   "published_utc": "2026-10-13T01:41:00+00:00",
-   "title_original": "World stocks dip as chips slide, bonds rise",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9abc564b3fbfd4eb"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -49809,23 +46576,6 @@
    "id": "ba084194e8b000b5"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
-   "published_utc": "2026-10-12T20:22:23+00:00",
-   "title_original": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fd4f4437bfb24677"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Onto Innovation wins SK hynix award for HBM defect technology",
@@ -49978,23 +46728,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3f6542eabcb6bd88"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "US yield surge triggers mortgage hedging, adds to bond market pressure",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDF3em5PS0NkZ3ZlcnJlQktDOFBTQjlhZmhpYWJ1WHRyRWlyX1dQbTJRd0FqMk52WU1zZGNvVDdJcnNCUFllLUlnUVBPVzREd3VESXpXU1dLWFpZeVQweW1RYUlqRmtfbk1DYVJ2UWt0dDVrcGUtM282UXNyR0IxejBkLWZFdHg0VF9TenZDMUc4bDZldkk0Uk82WVFObDVST2NsWE9wT0RxZF9jY1RVQg?oc=5",
-   "published_utc": "2026-10-12T14:39:00+00:00",
-   "title_original": "US yield surge triggers mortgage hedging, adds to bond market pressure",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eebec8e60c6a2d30"
   },
   {
    "source_id": "tradingview_live",
@@ -50359,23 +47092,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d2f1cb22fcda5aaa"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTDFQY0xDdFYybXNJZE9aYklXM0RQcmpaVXAzbGk2c2ZMUHdYOFI1QmdJcUU4ancxMVhTZkYxWFNKQWt1c2N5MTR4U21rVl82cEg1ZlFBNHlQYVFJNjVrZ0JKYVM4YVBlSGV5UDktWkJfQ2JNOFp0UnFON211X1Z4V3lyNW1WZU9MUFdJeTJRaVFRSWx5QzNOTGEtN1A4elNPUnB1cFZXTjJlYWJzUGxuUXA4dzh5MnhVY01RclNkcDJrMGVF?oc=5",
-   "published_utc": "2026-10-12T09:20:54+00:00",
-   "title_original": "Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge By Reuters",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9c8a03ec7688a64"
   },
   {
    "source_id": "nhk_economy",
@@ -51262,23 +47978,6 @@
    "id": "cbf0c7ee2b72dbfe"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South African rand steady as Middle East conflict, US inflation test sentiment",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGVkYUNocG1SeDF2RUNPMGtnTHBrTG1VM09LMjVhMmNPRmxZY3BXamZqOXJFcVh4T2RjZG8xbkpSS1lFRm16QXlEWkR0ay04SVNYdGs3QVEwQWEzRGhWWExUa3lUNkFReENVX2s5ejdrZTFpM0U3TVZIWV9CS0w3WXBHQTdTSE9QLUZEQ1hlNkExeFlxbmxzTnZ3d3NNMGwtRHJSSG80RlNOdjZPQThlX1REZVZTS3dZTWhZRm1aSV8?oc=5",
-   "published_utc": "2026-10-12T06:51:00+00:00",
-   "title_original": "South African rand steady as Middle East conflict, US inflation test sentiment",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a2d8044dd5b89b51"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Asia stocks mixed as Korean chipmakers slide on CXMT threat",
@@ -51527,23 +48226,6 @@
    "id": "ac6acafec465a1fe"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTDFQY0xDdFYybXNJZE9aYklXM0RQcmpaVXAzbGk2c2ZMUHdYOFI1QmdJcUU4ancxMVhTZkYxWFNKQWt1c2N5MTR4U21rVl82cEg1ZlFBNHlQYVFJNjVrZ0JKYVM4YVBlSGV5UDktWkJfQ2JNOFp0UnFON211X1Z4V3lyNW1WZU9MUFdJeTJRaVFRSWx5QzNOTGEtN1A4elNPUnB1cFZXTjJlYWJzUGxuUXA4dzh5MnhVY01RclNkcDJrMGVF?oc=5",
-   "published_utc": "2026-10-12T05:38:46+00:00",
-   "title_original": "Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ac62c71329fc18a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "The annual income standard for young people who can sign up for the Youth Housing Dream subscription..",
@@ -51734,23 +48416,6 @@
    "id": "dc79720a6a92466a"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Singapore's President warns of AI's risk to employment for fresh graduates",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkVwSXVfR1EwdThFLVd2ZWxiTWFQZlBGT0FYUkpvd2pfTENTdFJFZ2xtMDNRSTFkcFhUeE5uYnFDNU1URnAtUlpVbVY5VGZoZUR2WmxTR1lDYVFDV2F1eWk3T3V5SnJXREc5THR0Rll2eUVhRVJqdV9LbGs4dDJFeWZ5SDRGR1BGY2I3bVB6a3cwNzVpRjBnU200YjdxdndNdmdybGQ2OVdCdzZIU2pNZGFRNk9OZzRq?oc=5",
-   "published_utc": "2026-10-12T04:01:00+00:00",
-   "title_original": "Singapore's President warns of AI's risk to employment for fresh graduates",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d6bb6341c761b8c1"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Moves to Stave Off Wider EU Trade War With Hybrid Deal",
@@ -51800,40 +48465,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5270cc283ed4ea36"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Gold eases on strong dollar, oil prices; US inflation data eyed",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
-   "published_utc": "2026-10-12T03:13:00+00:00",
-   "title_original": "Gold eases on strong dollar, oil prices; US inflation data eyed",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "090059f649f45af0"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Gold gains on weaker oil, dollar; US inflation data in focus",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
-   "published_utc": "2026-10-12T03:13:00+00:00",
-   "title_original": "Gold gains on weaker oil, dollar; US inflation data in focus",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c4682a7c1aeb6a1f"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51955,6 +48586,178 @@
    "live_wire": false,
    "manual": false,
    "id": "d73f408aefb63376"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oMWUzQmNLcmhyWFdNODBNY1BPNVRrX3kzRW5OQWJMMmViUGtwdHB6TFhoMEx2ZFpJel82cmhBMWJTbTEwU01OZTdWLUVLUjVBVkNEZDZoWDNObVBLSHhYOVdtcw?oc=5",
+   "published_utc": "2026-10-09T07:00:00+00:00",
+   "title_original": "Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfe3e7802dc62476"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92e09e9abc281cc5"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Consumption Activity Index",
+   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+   "published_utc": "2026-10-07T05:00:00+00:00",
+   "title_original": "Consumption Activity Index",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "59b2bbbcbbf50853"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan Accounts (September 30)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
+   "published_utc": "2026-10-07T01:00:00+00:00",
+   "title_original": "Bank of Japan Accounts (September 30)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b71aae053b239416"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
+   "published_utc": "2026-10-06T23:50:00+00:00",
+   "title_original": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b125bca3a1efc08"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan's Transactions with the Government (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
+   "published_utc": "2026-10-06T23:50:00+00:00",
+   "title_original": "Bank of Japan's Transactions with the Government (Sept.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a825fddb85031586"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Market Operations by the Bank of Japan (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
+   "published_utc": "2026-10-06T23:50:00+00:00",
+   "title_original": "Market Operations by the Bank of Japan (Sept.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36d85464386a55ad"
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "Finance minister vows efforts to tame inflation, boost growth",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DZ2NzRXJBRFJTeGhsN1NVUkxubFIxZDB3cExFUjcxVXVJUVg1U2RpQ2d2YmZwZmpQRWIzV3FBR0tKR2toTmpJdzhZX29CUm05N0pGQ0Nacw?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "title_original": "Finance minister vows efforts to tame inflation, boost growth",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7a9553ec6351f0d2"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
+   "url": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
+   "published_utc": "2026-10-05T05:00:00+00:00",
+   "title_original": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b470663e1f8bc72"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Sources of Changes in Current Account Balances (Projections for Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
+   "published_utc": "2026-10-04T23:50:00+00:00",
+   "title_original": "Sources of Changes in Current Account Balances (Projections for Oct.)",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62c9d39b8568f039"
   },
   {
    "source_id": "manual_ia",

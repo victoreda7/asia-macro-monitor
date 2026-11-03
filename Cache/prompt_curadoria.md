@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T13:02:43.396684+00:00
-Total: 3000 manchetes
+Última coleta: 2026-11-03T13:12:44.515271+00:00
+Total: 2814 manchetes
 
-  🇯🇵 Japão          897
-  🇨🇳 China          869
-  🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  874
+  🇯🇵 Japão          818
+  🇨🇳 China          830
+  🇹🇼 Taiwan         301
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
   - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
   - [china] After raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize th
   - [korea] AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report
@@ -29,11 +30,8 @@ Total: 3000 manchetes
   - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
   - [china] Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid
   - [china] First time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio, and the o
-  - [japan] [Is the acceleration of protectionism affecting the capital market? ] Aftermath of the intensifying French dem
   - [korea] HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour
   - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
-  - [taiwan] Hong Kong Government: Export growth is accelerating and internal demand is solid. Hong Kong’s economy grew by 
-  - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
   - [china] Central Bank: Net investment in open market government bond sales in October was 150 billion yuan
   - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
   - [taiwan] Foxconn's EV strategy opens new export routes for Taiwan
@@ -56,7 +54,9 @@ Total: 3000 manchetes
   - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
-  - [china] The war in the Middle East pushed up inflation and the Australian central bank raised interest rates by 1 poin
+  - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
+  - [china] China's State Council removes Winnie Ho from HKSAR gov't post
+  - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T13:02:43+00:00",
+      "published_utc": "2026-11-03T13:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
