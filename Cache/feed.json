@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T01:42:43.653944+00:00",
- "collected_at_utc": "2026-11-03T01:42:43.653944+00:00",
+ "generated_at_utc": "2026-11-03T01:52:43.522012+00:00",
+ "collected_at_utc": "2026-11-03T01:52:43.522012+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 917,
-  "china": 848,
+  "china": 847,
   "taiwan": 360,
-  "korea": 875
+  "korea": 876
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T01:24:22+00:00"
+   "newest": "2026-11-03T01:42:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T01:24:22+00:00"
+   "newest": "2026-11-03T01:26:47+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T18:44:39+00:00"
+   "newest": "2026-11-02T12:20:32+00:00"
   },
   {
    "source_id": "ked_global",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T22:47:49+00:00"
+   "newest": "2026-11-02T06:27:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:29:05+00:00"
+   "newest": "2026-11-03T01:36:11+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T15:19:47+00:00"
+   "newest": "2026-11-02T23:33:47+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T01:39:43+00:00"
+   "newest": "2026-11-03T01:49:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:10:01+00:00"
+   "newest": "2026-11-03T01:36:26+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,58 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T",
+   "url": "https://www.tradingview.com/news/tradingview:c06be6f98f106:0-lg-energy-solution-q3-revenue-rose-27-6-qoq-to-krw-9-6t/",
+   "published_utc": "2026-11-03T01:45:00+00:00",
+   "title_original": "LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2f41d5ef2b11f077"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "url": "https://www.tradingview.com/news/DJN_DN20261102012706:0-china-s-central-bank-tweaks-forex-reserve-rules-to-steady-yuan/",
+   "published_utc": "2026-11-03T01:44:00+00:00",
+   "title_original": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "282d0c47d93cc0cc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan petrol subsidy cut could mark fiscal limit",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F0G8:0-japan-petrol-subsidy-cut-could-mark-fiscal-limit/",
+   "published_utc": "2026-11-03T01:43:09+00:00",
+   "title_original": "Japan petrol subsidy cut could mark fiscal limit",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b85fd861a37f3ce3"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA PBOC CONDUCTS CNY621 BLN VIA O/N REVERSE REPO TUES",
    "url": "https://www.tradingview.com/news/dpa_afx:141240cf224d7:0-china-pboc-conducts-cny621-bln-via-o-n-reverse-repo-tues/",
@@ -359,6 +411,24 @@
    "live_wire": true,
    "manual": false,
    "id": "49057497187a4418"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "华尔街见闻",
+   "title_en": "The central bank took action to cool down the RMB and raised the foreign exchange deposit reserve ratio to 6%. The offshore RMB fell sharply by 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdjUwVmlZTklfZ2toSk43S01uZFNtTUlnUWNnWjE4U3RwY0pQQVo1UDlvQ3dEaXAxNE1jZnNtT2FPZzlyM2JldGJFcEc4bGNYM0Rv?oc=5",
+   "published_utc": "2026-11-03T01:36:11+00:00",
+   "title_original": "央行出手给人民币降温，上调外汇存款准备金率至6%，离岸人民币急跌200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d357c4f04d4ed7f1"
   },
   {
    "source_id": "tradingview_live",
@@ -412,22 +482,21 @@
    "id": "9153c75d4d9b86b3"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102001500:0-china-s-central-bank-tweaks-forex-reserve-rules-to-steady-yuan/",
-   "published_utc": "2026-11-03T01:29:00+00:00",
-   "title_original": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China hikes forex deposit reserve ratio to 6%",
+   "url": "https://www.investing.com/news/economy-news/china-hikes-forex-deposit-reserve-ratio-to-6-4993337",
+   "published_utc": "2026-11-03T01:26:47+00:00",
+   "title_original": "China hikes forex deposit reserve ratio to 6%",
    "region": "china",
    "topics": [
-    "monetary",
     "fx"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "b0b74464dc949584"
+   "id": "c6bbe5402e785a42"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1191,7 +1260,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -1203,7 +1272,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "59da3ca61ab4cc5e"
+   "id": "00ad06c1ef60465a"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2088,24 +2157,6 @@
    "id": "520822cfa00b843b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
-   "published_utc": "2026-11-02T05:50:39+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a39db8f143fc814c"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -2454,6 +2505,24 @@
    "id": "e02f385258175764"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
+   "published_utc": "2026-11-02T03:09:40+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b42f88d775cae7a8"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -2718,7 +2787,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTzFHektSNXdYMGZBU1haMm9LSnJ0V2UyOTNzSEpfS3V2ZzF2UFRwZlFEUEV4Q0FGeldmTjdPMXhzaVE2ZXBKXzZBUGlTa2JHSGtFdzdLR2dTOWM5OGVmeW5RRW42Qmh3em9KLU1TQlpqaVB4WEczSTBDNDhKaFk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
    "published_utc": "2026-11-02T01:55:22+00:00",
    "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
    "region": "japan",
@@ -2730,7 +2799,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ecfe98aaee698b0f"
+   "id": "4e9207eb5797c45b"
   },
   {
    "source_id": "investing_econ",
@@ -3292,8 +3361,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -3307,7 +3376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -6745,23 +6814,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -7097,6 +7149,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -51874,79 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "298c4d944a149949"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's Bank of China | Mortgage supplementary loans | Central Bank | Liquidity | Reverse repurchase",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFpTR2pmcWtqX2lmc3U0RGxKTU12RW96cERlMnZ2Y29OVEFVcFpsR25RRGExaVo5d0N6WjdpOUJrWk1aT1ZLLUZ5WlZfaHBrbkNxNzNOek9JelJZWUVCMlBXNWw5WVVkUVktVW04Ym5MeE1hWVFIWGlON3JSVjlqMWd6bkU5M0QxS1E?oc=5",
-   "published_utc": "2026-10-10T04:09:07+00:00",
-   "title_original": "央行：9月公开市场国债买卖净投放1000亿元|中国人民银行|抵押补充贷款|中央银行|流动性|逆回购",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx",
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "911c10f806b99e60"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan turns academic success into an export industry",
-   "url": "https://asia.nikkei.com/business/business-trends/japan-turns-academic-success-into-an-export-industry",
-   "published_utc": "2026-10-10T04:02:42.330121+00:00",
-   "title_original": "Japan turns academic success into an export industry",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "23a379b605bf0561"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Targets AI-Linked Jobs With New Employment Initiative",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWZ0WW5FdzVqWThwZEZ2QWh0SFlRUHBCYkt2NTl3aHJMbmxsUEZjeVNjOEZEYlBYRXpXSk12UG5TSklWQ3Rsd3RqWmJpY2lEcENQNEptUUE0QXZHUEFTbHNTZlNSOVlLc19nMjFUTWt2TzV4ZnZTdGg0Tkszb29pUXk4YWNKdGp0ejZPOUxaMkR4SWpHc1hkZ3lrXzVZek5TLUtQbm5EdXFQTFBVMGJR?oc=5",
-   "published_utc": "2026-10-10T03:43:00+00:00",
-   "title_original": "China Targets AI-Linked Jobs With New Employment Initiative",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b60b285323eb939"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国电子银行网",
-   "title_en": "The central bank invested a net 100 billion yuan in open market government bond sales in September",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16MkFWaFgyRXBRbm85S1ZoQlZra21hS2RuX251d3U5STk0RUhLLVl6QnBHeDBXMkRKNFp5cl8tZ3ZUU1F1N29TcmNsSC1tdmFramJ6UlZlTHNWTHVQa1E?oc=5",
-   "published_utc": "2026-10-10T02:35:20+00:00",
-   "title_original": "央行9月公开市场国债买卖净投放1000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2521aafba19d0f64"
   },
   {
    "source_id": "manual_ia",

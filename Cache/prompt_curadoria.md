@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T01:42:43.653944+00:00
+Última coleta: 2026-11-03T01:52:43.522012+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
-  🇨🇳 China          848
+  🇨🇳 China          847
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  876
 
 ## O que já está no feed (não repita)
 
+  - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
+  - [china] China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan
+  - [japan] Japan petrol subsidy cut could mark fiscal limit
   - [china] CHINA PBOC CONDUCTS CNY621 BLN VIA O/N REVERSE REPO TUES
+  - [china] The central bank took action to cool down the RMB and raised the foreign exchange deposit reserve ratio to 6%.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146
   - [china] Soy barge bids firm as exports to China continue
   - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
-  - [china] China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan
+  - [china] China hikes forex deposit reserve ratio to 6%
   - [korea] BOK sees consumer inflation remaining near 3% in Nov.
   - [japan] The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in
   - [korea] BOK sees consumer inflation remaining near 3 pct in Nov.
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] This wasn't supposed to happen 13 years and 9 months later, the Bank of Japan reaches its 2% inflation target,
   - [japan] Netanyahu's ruling party falls short of the majority in Israel's general election, and although Arab parties m
   - [japan] The great yen rebalancing
-  - [korea] North Korea leans on China and Russia to drive 3% economic growth
-  - [taiwan] What's Going on With Taiwan Semiconductor Stock on Monday?
-  - [china] Walnut Capital Says China Lead Enters Block Trade Agreement For Sale Of Shares
-  - [taiwan] Taiwan, Japan might sign comprehensive trade pact: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T01:42:43+00:00",
+      "published_utc": "2026-11-03T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
