@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T16:52:45.786764+00:00
-Total: 2819 manchetes
+Última coleta: 2026-11-03T17:02:46.628527+00:00
+Total: 2821 manchetes
 
   🇯🇵 Japão          814
-  🇨🇳 China          834
+  🇨🇳 China          836
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  869
 
@@ -34,6 +34,7 @@ Total: 2819 manchetes
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] China, Oman sign currency swap agreement
+  - [china] Jiemian Evening News | The central bank raised the foreign exchange deposit reserve ratio by 2 percentage poin
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
   - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
   - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
@@ -42,8 +43,10 @@ Total: 2819 manchetes
   - [korea] HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour
   - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
   - [china] Central Bank: Net investment in open market government bond sales in October was 150 billion yuan
+  - [china] The central bank raised the foreign exchange reserve ratio, and the RMB exchange rate fell below 6.67 against 
   - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
   - [taiwan] Foxconn's EV strategy opens new export routes for Taiwan
+  - [china] The central bank invested a net 150 billion yuan in open market government bond sales in October
   - [korea] Korean beauty exports extend growth streak despite strong won
   - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
   - [taiwan] TSMC Has Raised T$14.8 Billion Via Unsecured Bonds
@@ -54,9 +57,6 @@ Total: 2819 manchetes
   - [korea] Kim, a representative K-food player, surpassed KRW 1 trillion in production for the first time in Gw..
   - [korea] The contract for rare obesity treatment, which LG Chem exported technology to U.S. bio companies, ha..
   - [taiwan] Student skygazer in Taoyuan captures rare images of red sprites
-  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
-  - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
-  - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2819 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T16:52:46+00:00",
+      "published_utc": "2026-11-03T17:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
