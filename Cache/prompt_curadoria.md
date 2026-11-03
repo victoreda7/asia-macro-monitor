@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T10:22:44.441466+00:00
+Última coleta: 2026-11-03T10:32:45.471456+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          894
-  🇨🇳 China          870
+  🇯🇵 Japão          896
+  🇨🇳 China          869
   🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [japan] Australia raises interest rates to highest level in 18 years
+  - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
+  - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
+  - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
+  - [china] Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid
+  - [japan] [Is the acceleration of protectionism affecting the capital market? ] Aftermath of the intensifying French dem
   - [korea] HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour
   - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
   - [taiwan] Hong Kong Government: Export growth is accelerating and internal demand is solid. Hong Kong’s economy grew by 
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Parkway Life Real Estate Investment Trust: Singapore rent growth lifted distributions as Japan FX pressure off
   - [china] Yuan Weakens as PBOC Signals Discomfort With Rapid Gains
   - [korea] Hanwha brings Korean defense, manufacturing ETFs to Abu Dhabi
-  - [korea] Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk
-  - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
-  - [china] The central bank decided to raise the foreign exchange deposit reserve ratio!
-  - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years, 
-  - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
-  - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T10:22:44+00:00",
+      "published_utc": "2026-11-03T10:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T10:22:44.441466+00:00",
- "collected_at_utc": "2026-11-03T10:22:44.441466+00:00",
+ "generated_at_utc": "2026-11-03T10:32:45.471456+00:00",
+ "collected_at_utc": "2026-11-03T10:32:45.471456+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 894,
-  "china": 870,
+  "japan": 896,
+  "china": 869,
   "taiwan": 361,
-  "korea": 875
+  "korea": 874
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:55:00+00:00"
+   "newest": "2026-11-03T09:17:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T01:11:00+00:00"
+   "newest": "2026-11-02T09:23:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-03T04:19:00+00:00"
+   "newest": "2026-11-03T10:28:11+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T10:11:42+00:00"
+   "newest": "2026-11-03T10:31:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T07:44:25+00:00"
+   "newest": "2026-11-03T06:38:16+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-03T06:46:01+00:00"
+   "newest": "2026-11-03T10:23:11+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T07:40:27+00:00"
+   "newest": "2026-11-03T06:47:21+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-03T17:00:00+09:00"
+   "newest": "2026-11-03T19:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,108 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Australia raises interest rates to highest level in 18 years",
+   "url": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
+   "published_utc": "2026-11-03T10:23:11+00:00",
+   "title_original": "豪が追加利上げ 18年ぶり高水準",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "07f6984877790f21"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0C4:0/",
+   "published_utc": "2026-11-03T10:16:19+00:00",
+   "title_original": "Vendas de veículos elétricos da Tesla fabricados na China aumentam 10,3% em outubro na comparação anual",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "72ac88c80a06a29e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a report by Maeil Business",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0C2:0/",
+   "published_utc": "2026-11-03T10:15:56+00:00",
+   "title_original": "Samsung fabricará componentes de chips da AMD e da Nvidia em sua segunda fábrica no Texas, segundo reportagem do Maeil Business",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "3b4501286d67f051"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0BX:0-samsung-to-make-amd-nvidia-chip-parts-at-second-texas-plant-maeil-business-reports/",
+   "published_utc": "2026-11-03T10:15:40+00:00",
+   "title_original": "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e951776ff2e03730"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46K0QF:0-zhejiang-construction-investment-group-says-unit-s-consortium-wins-1-5-billion-yuan-bid/",
+   "published_utc": "2026-11-03T10:11:58+00:00",
+   "title_original": "Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9a472a676bbd5a7c"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[Is the acceleration of protectionism affecting the capital market? ] Aftermath of the intensifying French demonstrations / How France differs from Scandinavian countries in terms of \"high welfare\" / The reality of the birth of \"far-right governments\" in Germany and France / How serious is the national debt anxiety? / Asset management in the era of “home bias” | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/963404?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-03T10:00:00+00:00",
+   "title_original": "【「保護主義」加速で資本市場にも影響？】激化する仏デモの余波／“高福祉”でもフランスが北欧諸国と異なる点／独仏で「極右政権」誕生の現実味／国債不安はどこまで深刻化？／「ホームバイアス」時代の資産運用 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1e340f6bbfef8b05"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -1488,23 +1590,6 @@
    "id": "e8d5efb64dfb891e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Asian currencies mostly lower; South Korean won bucks trend",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46K053:0-asian-currencies-mostly-lower-south-korean-won-bucks-trend/",
-   "published_utc": "2026-11-03T02:05:55+00:00",
-   "title_original": "Asian currencies mostly lower; South Korean won bucks trend",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bbed8dd3549dd269"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea",
@@ -1607,58 +1692,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a392302357c4598e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T",
-   "url": "https://www.tradingview.com/news/tradingview:c06be6f98f106:0-lg-energy-solution-q3-revenue-rose-27-6-qoq-to-krw-9-6t/",
-   "published_utc": "2026-11-03T01:45:00+00:00",
-   "title_original": "LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2f41d5ef2b11f077"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102012706:0-china-s-central-bank-tweaks-forex-reserve-rules-to-steady-yuan/",
-   "published_utc": "2026-11-03T01:44:00+00:00",
-   "title_original": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "282d0c47d93cc0cc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan petrol subsidy cut could mark fiscal limit",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F0G8:0-japan-petrol-subsidy-cut-could-mark-fiscal-limit/",
-   "published_utc": "2026-11-03T01:43:09+00:00",
-   "title_original": "Japan petrol subsidy cut could mark fiscal limit",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b85fd861a37f3ce3"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3847,10 +3880,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com South Africa",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlNMM3BGS2IzV1ZOaGhvbWRGTlhzcW1yb21zdnV4SXB2NUszRkNXbmdzMm5idzVocXJoLWM0T0p1VDFBenhRZ1Z2bHFKLVBWMVluS1BhWEZzSEpNSTJQME8xMUp5dGNOeUlQRzhBanIwV2VnSEc0MzdqelRfa3VvaWVQQVZ4LVVRXzA3YlU3WDFYYWZwellyRjJUeTE4VWRzeDVfNVUxOGEzak1pX3pIbVhhLXJCVDQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVROM1VJWE1Tam5GQkUxem5zd2U2YnZMRU80RFg2eGVmSHEzRVpDUW9lWThLd3lPaVQxdHhXYmtVVTYtUUE0ZEhmc2w4TDJMU3VJWHp1bFI0UVBaUXVCZFh2MzlxRXhIdFZ3UjlWYTM0Y1NCQ1Q3eXlHbmZyaUNSUmhBcndmN25QZW9xUGtCZUtGWUprR3BmQkI0RGVrTnFPQnFnTllUUV9kcjZvRWFnNUJCOTJEY3c?oc=5",
+   "published_utc": "2026-11-02T03:08:28+00:00",
    "title_original": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
    "region": "japan",
    "topics": [
@@ -3861,7 +3894,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "b39bc6f76a99a78c"
+   "id": "cd0d548af65faf2d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -8699,6 +8732,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3c616e2c69ed1658"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHhWNTJxNEh3XzdsQlJFam9PVEhYd0hVeGs3OXFLTjZ5TVBqU1h3dW04T2FCZ1ZNdkJYclE5ak5ad0YxbFB3S0Jfam1PYUhhY2xLTnY5V3hfU2dTZjUzWnZUTEFEZmF0M3BzUE43bTZKZGZhZ0Uwc3VMWHJiaXJQQ0RfZnMtM29ES05jajVXNmdaUklvTV9yVVBkV0VDMlFINlVGdk1BN2hBa0FSdFJOVjVSUDJEWkRJRUxEZ3l3?oc=5",
+   "published_utc": "2026-10-30T07:55:36+00:00",
+   "title_original": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates By Investing.com",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "55596517241c6b76"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -26627,23 +26677,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -26657,6 +26690,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -34516,23 +34566,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -34548,6 +34581,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51903,59 +51953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2b3de4a222a8b612"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JeVRqLUd5YktIM3NPTzVHUWEydmNQZmVCREZkNVBWNlZ5TF9ZbXI4akI3WERhUUowRTFKNXQzNnNIdGtOS0Via1gydjRmZ0RZYVE?oc=5",
-   "published_utc": "2026-10-12T01:27:20+00:00",
-   "title_original": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e02b18181046857"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机网易网",
-   "title_en": "The central bank launched a 50 billion yuan 7-day reverse repurchase operation with an interest rate of 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KOTdxd0hhSDlDdXNkXzNhU2pDRmJXczZPbXE0dFRtdXh0MXdnd0RGT3R1MnVWVm5uU1lmUVA0aFV0WTNTbktiVkdxLW1OWWJtUTRnYno3YmpvZWV0djhTMUR3?oc=5",
-   "published_utc": "2026-10-12T01:26:30+00:00",
-   "title_original": "央行开展500亿元7天期逆回购操作，操作利率为1.40%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5e512d3295e5d8aa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机新浪网",
-   "title_en": "The People's Bank of China's reverse repurchase operation achieved a net withdrawal of 250 billion yuan on the same day_7x24 News_Sina Finance",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44dE52RkxBdG5YX1VHSG9uVWR1OVNLbWxPQ08yUjlfcWVLSTJOSjd3R2I5SzU5VUNjdlJ6WWZkVV90ZFVzLVVUOGNJOA?oc=5",
-   "published_utc": "2026-10-12T01:20:40+00:00",
-   "title_original": "中国央行逆回购操作当日实现净回笼2500亿元_7x24快讯_新浪财经",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "30091860704224f7"
   },
   {
    "source_id": "manual_ia",
