@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T10:02:44.034709+00:00
+Última coleta: 2026-11-03T10:12:45.242140+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
-  🇨🇳 China          871
-  🇹🇼 Taiwan         360
+  🇨🇳 China          870
+  🇹🇼 Taiwan         361
   🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [taiwan] Hong Kong Government: Export growth is accelerating and internal demand is solid. Hong Kong’s economy grew by 
   - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
   - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
+  - [taiwan] Foxconn's EV strategy opens new export routes for Taiwan
   - [korea] Korean beauty exports extend growth streak despite strong won
   - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
   - [taiwan] TSMC Has Raised T$14.8 Billion Via Unsecured Bonds
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years, 
   - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
-  - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T10:02:44+00:00",
+      "published_utc": "2026-11-03T10:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
