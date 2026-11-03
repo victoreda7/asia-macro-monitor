@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T05:12:43.911991+00:00
+Última coleta: 2026-11-03T05:22:47.236894+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          904
@@ -17,8 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
+  - [china] The central bank steps to ease the pressure on RMB appreciation and raises the foreign exchange deposit reserv
   - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
   - [china] China's central bank conducts 100 billion yuan of swap operations
   - [china] Why is the Chinese Yuan falling today?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan petrol subsidy cut could mark fiscal limit
   - [china] CHINA PBOC CONDUCTS CNY621 BLN VIA O/N REVERSE REPO TUES
   - [korea] Samsung's Young Hyun Jun urges humility, customer trust amid semiconductor profit boom
-  - [china] The central bank took action to cool down the RMB and raised the foreign exchange deposit reserve ratio to 6%.
-  - [china] On November 3, the central bank launched a 621 billion yuan overnight reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T05:12:44+00:00",
+      "published_utc": "2026-11-03T05:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
