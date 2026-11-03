@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T08:52:45.280478+00:00
+Última coleta: 2026-11-03T09:02:43.848163+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
-  🇨🇳 China          873
+  🇨🇳 China          874
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [korea] Hanwha brings Korean defense, manufacturing ETFs to Abu Dhabi
   - [korea] Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk
   - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
+  - [china] The central bank decided to raise the foreign exchange deposit reserve ratio!
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years, 
   - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] PBOC's Forex Deposit Move Underscores Focus on Controlled Yuan Appreciation — Market Talk
   - [china] Meituan Unveils New AI Model Trained on Homegrown Chips
   - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
-  - [china] China's Consumer Inflation Likely Eased in October — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T08:52:45+00:00",
+      "published_utc": "2026-11-03T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
