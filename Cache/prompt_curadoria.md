@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T02:02:49.120694+00:00
+Última coleta: 2026-11-03T02:12:43.917297+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
-  🇨🇳 China          848
-  🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  875
+  🇯🇵 Japão          916
+  🇨🇳 China          845
+  🇹🇼 Taiwan         361
+  🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [korea] Asian currencies mostly lower; South Korean won bucks trend
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
   - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
   - [china] China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan
   - [japan] Japan petrol subsidy cut could mark fiscal limit
   - [china] CHINA PBOC CONDUCTS CNY621 BLN VIA O/N REVERSE REPO TUES
+  - [korea] Samsung's Young Hyun Jun urges humility, customer trust amid semiconductor profit boom
   - [china] The central bank took action to cool down the RMB and raised the foreign exchange deposit reserve ratio to 6%.
   - [china] On November 3, the central bank launched a 621 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146
@@ -31,7 +33,9 @@ Total: 3000 manchetes
   - [china] China hikes forex deposit reserve ratio to 6%
   - [korea] BOK sees consumer inflation remaining near 3% in Nov.
   - [china] As the RMB continues to appreciate, the People's Bank of China raises the foreign exchange deposit reserve rat
+  - [china] Hong Kong to drive global yuan use, PBOC official says
   - [japan] The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in
+  - [taiwan] High inventories threaten Taiwan manufacturing PMI expansion
   - [korea] BOK sees consumer inflation remaining near 3 pct in Nov.
   - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [china] China to raise forex deposit reserve ratio to 6% starting November 15
@@ -40,6 +44,7 @@ Total: 3000 manchetes
   - [china] China Central Bank: Decision Takes Effect Nov. 15
   - [china] The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions
   - [korea] LG Energy Solution: ESS-led shipments lifted Q3 revenue 28% QoQ and operating profit to KRW 756bn
+  - [korea] South Korea Inflation Holds Firm, Bolstering Case for More Hikes
   - [korea] US trade commission terminates Samsung chip patent probe following settlement with Netlist
   - [korea] Consumer prices up 2.8% in Oct., remain in 2% for 2nd month
   - [korea] Consumer price inflation rate in October 2.8%, in the low 2% range for 2 consecutive months = South Korea
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] (LEAD) Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month
   - [korea] South Korea Inflation Slows in October
   - [korea] South Korea Inflation Eases to 2.8% in October, Still Above Target
-  - [korea] South Korea Oct headline inflation +2.8% y/y (Reuters poll +2.85%)
-  - [china] MKS Commences Expansion Of Guangzhou, China Equipment Manufacturing Facility
-  - [japan] "Kuroda Higashihiko confesses" Kazuo Ueda was not the first candidate for the "Governor of the Bank of Japan".
-  - [japan] Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen eases
-  - [japan] Japan's Aisin develops new type of AI chip that cuts energy use 98%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T02:02:49+00:00",
+      "published_utc": "2026-11-03T02:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

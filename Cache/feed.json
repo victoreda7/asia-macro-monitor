@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T02:02:49.120694+00:00",
- "collected_at_utc": "2026-11-03T02:02:49.120694+00:00",
+ "generated_at_utc": "2026-11-03T02:12:43.917297+00:00",
+ "collected_at_utc": "2026-11-03T02:12:43.917297+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 917,
-  "china": 848,
-  "taiwan": 360,
-  "korea": 875
+  "japan": 916,
+  "china": 845,
+  "taiwan": 361,
+  "korea": 878
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T07:00:00+00:00"
+   "newest": "2026-11-03T01:36:58+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T18:44:39+00:00"
+   "newest": "2026-11-02T12:20:32+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:27:00+00:00"
+   "newest": "2026-11-02T03:23:21+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-03T05:43:00+09:00"
+   "newest": "2026-11-03T11:05:06+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T02:02:13+00:00"
+   "newest": "2026-11-03T02:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:10:01+00:00"
+   "newest": "2026-11-03T02:05:17+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T00:48:00+00:00"
+   "newest": "2026-11-03T00:32:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Asian currencies mostly lower; South Korean won bucks trend",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46K053:0-asian-currencies-mostly-lower-south-korean-won-bucks-trend/",
+   "published_utc": "2026-11-03T02:05:55+00:00",
+   "title_original": "Asian currencies mostly lower; South Korean won bucks trend",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bbed8dd3549dd269"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -445,6 +462,23 @@
    "live_wire": true,
    "manual": false,
    "id": "49057497187a4418"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Samsung's Young Hyun Jun urges humility, customer trust amid semiconductor profit boom",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0JCZWJyRm8zX2VnTnBfN1kwc1R6NmhwMURKUUg3bnVxZGV6aGhRTnRmeHFFOVFCcUxnVVJjcmx4aDRJVjI0Ml9leDdORUk4UWVhNTVQVFB3SmlMVmg5bVhNTVh6M2pGNmw4bjl1U0ZrekFjTmtGSUJKcnI5WDdpUUhFa053UHZOYklJYWlIZkNpUWxmdVozWV9aMA?oc=5",
+   "published_utc": "2026-11-03T01:36:58+00:00",
+   "title_original": "Samsung's Young Hyun Jun urges humility, customer trust amid semiconductor profit boom",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fb5eae5ff598db78"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -587,6 +621,24 @@
    "id": "c6f758530b3f3700"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Hong Kong to drive global yuan use, PBOC official says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45200J:0-hong-kong-to-drive-global-yuan-use-pboc-official-says/",
+   "published_utc": "2026-11-03T01:17:13+00:00",
+   "title_original": "Hong Kong to drive global yuan use, PBOC official says",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "98945c8778a4a169"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in October. Compare the interest and dividend stocks of government bonds for individuals (LIMO)",
@@ -603,6 +655,24 @@
    "live_wire": false,
    "manual": false,
    "id": "df0c81cd85519f13"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "High inventories threaten Taiwan manufacturing PMI expansion",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1pOY25NMWIzekJiTFpHSTU3WW5KN2FXVElENWtrX0tLVFpCR000alNLN2NNYmUyZXNUbFdPRkk5X2ZFSllpbXUyLW5IZlJ4dkNqcE1RVmxDdEc5S3FQZm50OE5ROUpnajZaY1lLdmczejFIS0VOdVU5bi05WEk4dkpfdkE1S3ZCRWlwLWJBVkpBOVZ5b0k3bW5XbzE?oc=5",
+   "published_utc": "2026-11-03T01:15:29+00:00",
+   "title_original": "High inventories threaten Taiwan manufacturing PMI expansion",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "03588db5494337cb"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -741,6 +811,23 @@
    "live_wire": true,
    "manual": false,
    "id": "10fe7dc708818ac9"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "South Korea Inflation Holds Firm, Bolstering Case for More Hikes",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeEplWmVaRnNwMEdCWjVhSTkxN2RiZkRiM1FJbTNwNkRKU1pUS2JiVmxtZjh5Tjl5dk1DcWxhamhERnlxT2lEcThMNFRWd3Q2cURncTdtVHhkYTFscEVFWEprOWdDNlVFbGJYMldSeTBnUXZZM1lrUXRza0JUU0xnQ2RpTG80aXE3Tk1iM3MweUk4UWwtVjlyMVF0eXpVOElIMUhSaU9iakJOMFZ1U21HaE1jU3E?oc=5",
+   "published_utc": "2026-11-03T00:16:00+00:00",
+   "title_original": "South Korea Inflation Holds Firm, Bolstering Case for More Hikes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "80ffccb2d01dd946"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2227,6 +2314,24 @@
    "id": "520822cfa00b843b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -2573,24 +2678,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6884,23 +6971,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -7236,6 +7306,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -25357,23 +25444,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25387,6 +25457,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51859,91 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a8ae6788aa084196"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU Plans Measures to Halve Imports of Chinese Hybrid Cars",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGVOMUE0c1MwZHlYNzFVTDc2TXR5ME1JdWdKaXVmOEd4Z0ZSQnQ1X2t6TzFlR0FZdWxuZmx5bXZhWnZnU0hsMmZvWDA2UVNMblpvcExsdmpRbjR2YVRMdE5pMXRkb0h5RTdhX0dsbGU5VU0xaFk4NUtFRjlzUE5UTDFuRmYtTDd5ZEwwc2ZXSzhkSmxPQUE1Xzd0QWdOb3NMOXVKOTM0dWVBU1FyMHlCN0h4b0o?oc=5",
-   "published_utc": "2026-10-10T13:38:58+00:00",
-   "title_original": "EU Plans Measures to Halve Imports of Chinese Hybrid Cars",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "83106db268d947e6"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Passenger Vehicle Retail Sales Drop 24% in September",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1gtd3Z0REN3OUVUT1ZneTRMSVBCdkZXOWgwNncyeWVxRzgzMWl6Z0tIS2p6bUdQMXB4TnhRS2QtZFBKTG9EempaS2xlY3psVy1wcmg1dU84VjJjZHdROHZGQTVTcXN6SnhGRDUzYmQ2VmNzM01tcVRnYTFUcDFja0luOE5yek13aEJOeFVmNWVkUE1yYlNYb2lINWQ2N256T0hNMW11aUFCcS1C?oc=5",
-   "published_utc": "2026-10-10T09:53:56+00:00",
-   "title_original": "China Passenger Vehicle Retail Sales Drop 24% in September",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5a9b3ef90a2805bd"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qUlRBS0liZC1GUXZPWjUxdzQ1T1IwUGZPaTdXY0p5aUw0ZkVuREZYaVpsY1FLRk4xVWpXLXdPelBZM2hhd1hLT2JlTXc2TXA0ell3dHN0QzlYaVk4SHoxLUpLVF90ZjVyVmM3NF9UUU4xV0lkZWtCVzVlczhMRW8?oc=5",
-   "published_utc": "2026-10-10T09:05:52+00:00",
-   "title_original": "日本より物価が安いアジアの国TOP15！アジアで一番物価が安い国はどこ？（LIMO）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8c75e51d739a139"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China to launch initiative to boost employment amid AI advances",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fdi1GUFdxZ2hGbDhhcmZLNmVLSm96LVhzM0JqY2pubTdYanhYMlhkUDg4M1JoNnRRcnNrLThlNi1CSnc4WVJEaGJaRUhnbWctX0g1WW9uRjA2ZWpDLUxFc2lvZ3JRdDd1LTRsaG5fTEh6YktqZ1dFQlhsTTI?oc=5",
-   "published_utc": "2026-10-10T08:48:00+00:00",
-   "title_original": "China to launch initiative to boost employment amid AI advances",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6bea37f897d57dd0"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China creates 10.52 million jobs, plans new AI and services employment measures",
-   "url": "https://www.investing.com/news/economy-news/china-creates-1052-million-jobs-plans-new-ai-and-services-employment-measures-4942031",
-   "published_utc": "2026-10-10T07:10:28+00:00",
-   "title_original": "China creates 10.52 million jobs, plans new AI and services employment measures",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3153f1118e19dd4d"
   },
   {
    "source_id": "manual_ia",
