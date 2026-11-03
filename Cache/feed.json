@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T21:02:49.169818+00:00",
- "collected_at_utc": "2026-11-03T21:02:49.169818+00:00",
+ "generated_at_utc": "2026-11-03T21:12:47.561375+00:00",
+ "collected_at_utc": "2026-11-03T21:12:47.561375+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2834,
+ "count": 2835,
  "by_region": {
   "japan": 821,
   "china": 837,
   "taiwan": 302,
-  "korea": 874
+  "korea": 875
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T20:44:04+00:00"
+   "newest": "2026-11-03T21:04:43+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T20:30:19+00:00"
+   "newest": "2026-11-03T20:54:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T18:19:41+00:00"
+   "newest": "2026-11-03T18:01:39+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T21:02:29+00:00"
+   "newest": "2026-11-03T21:12:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:00:00+00:00"
+   "newest": "2026-11-03T21:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-04T05:50:00+09:00"
+   "newest": "2026-11-04T06:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Foreign reserves rebound in Oct. on foreign currency deposits",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iT21UdXh0MG1mQ2tkVVg1Tzc2eGY0Y250X0k0ZEZvcVZodHpOYUx1c1J3S3pGN0hxbkpfejRqcmhIcTNteUpGREVoQ3JKaWNoenMwd2ZaVWpiQQ?oc=5",
+   "published_utc": "2026-11-03T21:00:10+00:00",
+   "title_original": "Foreign reserves rebound in Oct. on foreign currency deposits",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6a58b7fa7be27b8"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -805,6 +822,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d53c46db55f50362"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "国际金融报",
+   "title_en": "What does the central bank mean by raising the foreign exchange reserve requirement ratio for the first time in the past five years?",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92eWwxTGtOM1JKZVd6UGhiTTNjMEJKUktfeGZ4Nzdxd3FJcGNhaGpURmVmNXU0OGx1VXlob2FhZkpvUjFuTkVvbS1CQ3NsQzVWUU1qQU1wRzVMY0x2NVM0?oc=5",
+   "published_utc": "2026-11-03T10:31:00+00:00",
+   "title_original": "近五年首次上调外汇存准率，央行有何深意？",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "813ab26f8759c5a7"
   },
   {
    "source_id": "tradingview_live",
@@ -2125,24 +2159,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0cd8eb315ec7eed0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "联合早报",
-   "title_en": "As the RMB continues to appreciate, the People's Bank of China raises the foreign exchange deposit reserve ratio for financial institutions",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RaW1pQnQzaVEtcGRzRWZBTDEtT1kzc2pHTTB1YUlFUGZEUVc4UGx3TW04OTRkeEpHbDFjZVNkZ0ZHUElxakdGbERMYTNTa3hiNHZ1cFlVOXBQZHY0dnBJbXJ6eEVRbDhzeWc?oc=5",
-   "published_utc": "2026-11-03T01:17:53+00:00",
-   "title_original": "人民币持续升值下 中国央行上调金融机构外汇存款准备金率",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6f758530b3f3700"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5462,6 +5478,24 @@
    "id": "5dbbecc69c06d83e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
+   "published_utc": "2026-11-01T02:46:04+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4912a6c184ed00f5"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -5878,24 +5912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
-   "published_utc": "2026-10-31T10:42:00+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -25341,23 +25357,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25371,6 +25370,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",

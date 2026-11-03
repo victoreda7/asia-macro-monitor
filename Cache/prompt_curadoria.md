@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T21:02:49.169818+00:00
-Total: 2834 manchetes
+Última coleta: 2026-11-03T21:12:47.561375+00:00
+Total: 2835 manchetes
 
   🇯🇵 Japão          821
   🇨🇳 China          837
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  874
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [korea] Foreign reserves rebound in Oct. on foreign currency deposits
   - [japan] Problems that arise in the workplace due to the legal employment rate for people with disabilities increasing 
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
@@ -44,6 +45,7 @@ Total: 2834 manchetes
   - [korea] AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report
   - [japan] What midterms might mean for the yen
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
+  - [china] What does the central bank mean by raising the foreign exchange reserve requirement ratio for the first time i
   - [china] China, Oman sign currency swap agreement
   - [china] Jiemian Evening News | The central bank raised the foreign exchange deposit reserve ratio by 2 percentage poin
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
@@ -55,8 +57,6 @@ Total: 2834 manchetes
   - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
   - [china] Central Bank: Net investment in open market government bond sales in October was 150 billion yuan
   - [china] The central bank raised the foreign exchange reserve ratio, and the RMB exchange rate fell below 6.67 against 
-  - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
-  - [taiwan] Foxconn's EV strategy opens new export routes for Taiwan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2834 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T21:02:49+00:00",
+      "published_utc": "2026-11-03T21:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
