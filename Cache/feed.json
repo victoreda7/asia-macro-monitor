@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T01:22:44.047284+00:00",
- "collected_at_utc": "2026-11-03T01:22:44.047284+00:00",
+ "generated_at_utc": "2026-11-03T01:32:50.366027+00:00",
+ "collected_at_utc": "2026-11-03T01:32:50.366027+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 916,
-  "china": 849,
+  "japan": 917,
+  "china": 848,
   "taiwan": 360,
   "korea": 875
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 32.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T01:04:02+00:00"
+   "newest": "2026-11-03T01:24:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T01:00:23+00:00"
+   "newest": "2026-11-03T01:24:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T18:44:39+00:00"
+   "newest": "2026-11-02T12:20:32+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-03T01:21:04+00:00"
+   "newest": "2026-11-03T01:24:56+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:23:00+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T01:20:46+00:00"
+   "newest": "2026-11-03T01:31:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:18:51+00:00"
+   "newest": "2026-11-02T20:17:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T00:48:00+00:00"
+   "newest": "2026-11-03T01:10:43+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146",
+   "url": "https://www.tradingview.com/news/dpa_afx:1842d7ab95254:0-china-sets-yuan-central-parity-at-6-7150-tues-vs-6-7146/",
+   "published_utc": "2026-11-03T01:31:08+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ea4d5f4e9332040"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Soy barge bids firm as exports to China continue",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46K00L:0-soy-barge-bids-firm-as-exports-to-china-continue/",
+   "published_utc": "2026-11-03T01:30:54+00:00",
+   "title_original": "Soy barge bids firm as exports to China continue",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "db7d51e25dc75957"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "url": "https://www.tradingview.com/news/DJN_DN20261102001500:0-china-s-central-bank-tweaks-forex-reserve-rules-to-steady-yuan/",
+   "published_utc": "2026-11-03T01:29:00+00:00",
+   "title_original": "China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b0b74464dc949584"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -360,24 +412,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0cd8eb315ec7eed0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China to raise FX RRR to slow pace of yuan gains",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K011:0-china-to-raise-fx-rrr-to-slow-pace-of-yuan-gains/",
-   "published_utc": "2026-11-03T01:20:46+00:00",
-   "title_original": "China to raise FX RRR to slow pace of yuan gains",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eca4a351cd13a779"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -844,6 +878,24 @@
    "id": "008bd876e335f24b"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Mr. Kuroda Higashihiko confessed that Mr. Kazuo Ueda was not the first candidate for the \"Governor of the Bank of Japan\"... \"Scholars\" who were neither \"from the Ministry of Finance\" nor \"Bank of Japan survivors\" were selected (Bunshun Online",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WnN0LUhwV2ZVRThmMzBTU1ROSU55NUdpSW5LTFh0Ui05Mk9KcDI3UV9aY0xuNENOQV9OOXZ0Z3VLbUNLd0NaZUc5M3J4bEluTkhGVVZIRzVXNlAwWE41VUV1SVVxeTNNeTJvX2dqTUtxYk8yWlVBRW5IVXlhWFU?oc=5",
+   "published_utc": "2026-11-02T22:00:39+00:00",
+   "title_original": "黒田東彦氏が告白》植田和男氏は「日銀総裁」の第一候補ではなかった…「財務省出身」でも「日銀生え抜き」でもない“学者”が選ばれたウラ事情（文春オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "df5e48ef1a5226c2"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "This wasn't supposed to happen 13 years and 9 months later, the Bank of Japan reaches its 2% inflation target, a critical moment in which the essence of ending reflation and ending deflation will be questioned | Politics, Economics, Investment | Toyo Keizai Online",
@@ -1122,7 +1174,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -1134,7 +1186,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "00ad06c1ef60465a"
+   "id": "59da3ca61ab4cc5e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2385,23 +2437,6 @@
    "id": "b42f88d775cae7a8"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -2418,6 +2453,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -2667,7 +2719,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTzFHektSNXdYMGZBU1haMm9LSnJ0V2UyOTNzSEpfS3V2ZzF2UFRwZlFEUEV4Q0FGeldmTjdPMXhzaVE2ZXBKXzZBUGlTa2JHSGtFdzdLR2dTOWM5OGVmeW5RRW42Qmh3em9KLU1TQlpqaVB4WEczSTBDNDhKaFk?oc=5",
    "published_utc": "2026-11-02T01:55:22+00:00",
    "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
    "region": "japan",
@@ -2679,7 +2731,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4e9207eb5797c45b"
+   "id": "ecfe98aaee698b0f"
   },
   {
    "source_id": "investing_econ",
@@ -3223,8 +3275,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -3238,7 +3290,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -6676,23 +6728,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -7028,6 +7063,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -25132,6 +25184,23 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25835,23 +25904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a4d7da800bd4ba94"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T02:09:18+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51897,57 +51949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6cac576e6cb92d5f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 10 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EMm12OEFnUzEwbXJHRFY1MnBPU28yVWpJWFVVM29wWHRGRlh6Uy1kZkRHOVFXd1lUclpnRzFhS2tkOHdET3RaQ1dkc3UzTmd6?oc=5",
-   "published_utc": "2026-10-10T01:33:19+00:00",
-   "title_original": "央行10月10日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8adf830fefd0d6a0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
-   "title_en": "Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Sm90bUg0MHEzMFZLSDNBUU1CbjNCcm1LOGxVT2N5b0w0NGhPNkFPc1J5U1dneUNVS28wc2pDNXY2YVAxRms5R0xxaG9fcW81dlMxcWJmNVJoZXhYVmc?oc=5",
-   "published_utc": "2026-10-10T01:25:21+00:00",
-   "title_original": "央行：10月10日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3651c6a10951e6f2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold",
-   "url": "https://www.tradingview.com/news/stocktwits:559e77847094b:0-stocktwits-zero-to-sixty-tesla-shanghai-exports-shine-texas-cybercab-fleet-scales-and-lucid-built-fewer-cars-than-it-sold/",
-   "published_utc": "2026-10-10T01:01:49+00:00",
-   "title_original": "Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0cb9004513116e11"
   },
   {
    "source_id": "manual_ia",
