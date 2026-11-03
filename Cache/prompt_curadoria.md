@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T10:52:44.862031+00:00
+Última coleta: 2026-11-03T11:02:45.553811+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          896
-  🇨🇳 China          869
-  🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  874
+  🇨🇳 China          871
+  🇹🇼 Taiwan         360
+  🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [china] China's central bank raises foreign exchange deposit reserve ratio for first time in five years
   - [china] China, Oman sign currency swap agreement
   - [japan] Australia raises interest rates to highest level in 18 years
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
   - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
   - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
   - [china] Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid
+  - [china] First time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio, and the o
   - [japan] [Is the acceleration of protectionism affecting the capital market? ] Aftermath of the intensifying French dem
   - [korea] HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour
   - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
   - [china] The central bank stabilizes the exchange rate and then takes action to raise the foreign exchange deposit rese
   - [china] The first increase in the past five years! The central bank rarely takes action, expert interpretation
-  - [korea] Dawon Nexview To Acquire Real Estate Worth 17 Billion Won
-  - [japan] Parkway Life Real Estate Investment Trust: Singapore rent growth lifted distributions as Japan FX pressure off
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T10:52:45+00:00",
+      "published_utc": "2026-11-03T11:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
