@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T21:42:57.505037+00:00",
- "collected_at_utc": "2026-11-03T21:42:57.505037+00:00",
+ "generated_at_utc": "2026-11-03T21:52:45.035271+00:00",
+ "collected_at_utc": "2026-11-03T21:52:45.035271+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2837,
+ "count": 2838,
  "by_region": {
   "japan": 821,
   "china": 838,
   "taiwan": 302,
-  "korea": 876
+  "korea": 877
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:47:00+00:00"
+   "newest": "2026-11-03T11:24:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T15:47:46+00:00"
+   "newest": "2026-11-01T20:22:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-03T19:15:32+09:00"
+   "newest": "2026-11-04T06:45:04+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T16:18:00+00:00"
+   "newest": "2026-11-03T16:23:39+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T21:42:26+00:00"
+   "newest": "2026-11-03T21:52:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:41:44+00:00"
+   "newest": "2026-11-03T21:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-04T06:30:00+09:00"
+   "newest": "2026-11-04T06:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T05:12:00+00:00"
+   "newest": "2026-11-03T07:53:58+00:00"
   }
  ],
  "items": [
@@ -586,6 +586,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经_金融信息服务商",
+   "title_en": "Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exchange rate?",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkszaGE4eDhCcUx1WkZzUEVWRncxMzVvcUhqNlJtdzA0Q1BtRFR4RnZzZnRKV3Y1LUZ6al9tbDJ6VjlnVmM5SFhyNE1LVFlJVjFhVHMyUWNiTWdfT2k3ZkV4VkVEUWRqcC12T1FpQ0lMSnNWeGYwNXEwaXZfSWVZa0dXSmZnNzI0Vl9Z?oc=5",
+   "published_utc": "2026-11-03T16:23:39+00:00",
+   "title_original": "上调外汇存款准备金率，央行缘何出手稳汇率",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "205b51047e7af591"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "北京商报",
    "title_en": "The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fWUZtZ0dfaURyWWp5cVI2ekdEa3FnSWEyX3ZpcXI2eEFoNFo1TmhhUzJ1X2JVY2tUcHF5YWxsbVN2Tm90Q3pwT1lVOUk4MGVTNjVxNm5MYTNHbTFxeldF?oc=5",
@@ -651,24 +669,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b2ba83f6583440c5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exchange rate?",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkszaGE4eDhCcUx1WkZzUEVWRncxMzVvcUhqNlJtdzA0Q1BtRFR4RnZzZnRKV3Y1LUZ6al9tbDJ6VjlnVmM5SFhyNE1LVFlJVjFhVHMyUWNiTWdfT2k3ZkV4VkVEUWRqcC12T1FpQ0lMSnNWeGYwNXEwaXZfSWVZa0dXSmZnNzI0Vl9Z?oc=5",
-   "published_utc": "2026-11-03T15:35:10+00:00",
-   "title_original": "上调外汇存款准备金率，央行缘何出手稳汇率",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "205b51047e7af591"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -25392,23 +25392,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25422,6 +25405,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -32905,23 +32905,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -32937,6 +32920,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -48951,6 +48951,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d73f408aefb63376"
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "Hacking attempts on BOK, state lenders top 1 million",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pSUJnMzBaUTI2MGlPTzdWbVVzSV9FLVU4RnJIa19kQVM2Z0hhbU5aVVhoM1U5SF9vejRUd3F6OTBFX01BWEpCZW9TM1d6MFdURnNVMTlqaw?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "title_original": "Hacking attempts on BOK, state lenders top 1 million",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f63753958fe35fdb"
   },
   {
    "source_id": "gn_jp_nhkworld",

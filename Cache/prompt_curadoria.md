@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T21:42:57.505037+00:00
-Total: 2837 manchetes
+Última coleta: 2026-11-03T21:52:45.035271+00:00
+Total: 2838 manchetes
 
   🇯🇵 Japão          821
   🇨🇳 China          838
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  876
+  🇰🇷 Coreia do Sul  877
 
 ## O que já está no feed (não repita)
 
@@ -31,11 +31,11 @@ Total: 2837 manchetes
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
   - [china] COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino
+  - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
   - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
   - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?
-  - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
   - [china] China's State Council announces removal of officials
   - [china] Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list
   - [korea] Samsung to make chip parts for AMD, Nvidia at Texas plant: report
@@ -116,7 +116,7 @@ Total: 2837 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T21:42:57+00:00",
+      "published_utc": "2026-11-03T21:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
