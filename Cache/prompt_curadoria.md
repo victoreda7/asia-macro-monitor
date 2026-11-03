@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T14:42:46.545560+00:00
-Total: 2815 manchetes
+Última coleta: 2026-11-03T14:52:46.576526+00:00
+Total: 2816 manchetes
 
   🇯🇵 Japão          814
-  🇨🇳 China          832
+  🇨🇳 China          833
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  867
 
@@ -23,6 +23,7 @@ Total: 2815 manchetes
   - [korea] SK hynix Secures Board Nomination Rights at Penguin Solutions with 9.1% Stake
   - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
   - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
+  - [china] The central bank will raise the foreign exchange deposit reserve ratio of financial institutions. What signal 
   - [china] After raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize th
   - [korea] AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report
   - [japan] What midterms might mean for the yen
@@ -56,7 +57,6 @@ Total: 2815 manchetes
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
-  - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2815 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T14:42:46+00:00",
+      "published_utc": "2026-11-03T14:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
