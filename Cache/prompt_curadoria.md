@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T04:42:44.070215+00:00
+Última coleta: 2026-11-03T04:52:41.841382+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          906
+  🇯🇵 Japão          905
   🇨🇳 China          864
-  🇹🇼 Taiwan         356
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
   - [china] China's central bank conducts 100 billion yuan of swap operations
   - [china] Why is the Chinese Yuan falling today?
+  - [taiwan] TSMC's next US chip plant could land in Sherman
   - [korea] South Korean Won Recovers as Oil Prices Retreat
   - [china] Asian currencies mixed as yuan slides after PBOC move, won rebounds
   - [china] PBOC's Forex Deposit Move Underscores Focus on Controlled Yuan Appreciation — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146
   - [china] Soy barge bids firm as exports to China continue
   - [china] The central bank launched a 621 billion yuan overnight reverse repurchase operation today
-  - [china] China hikes forex deposit reserve ratio to 6%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T04:42:44+00:00",
+      "published_utc": "2026-11-03T04:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
