@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T09:22:43.687231+00:00
+Última coleta: 2026-11-03T09:32:47.168824+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
+  🇯🇵 Japão          894
   🇨🇳 China          874
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  871
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
+  - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
+  - [korea] Korean beauty exports extend growth streak despite strong won
   - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
   - [taiwan] TSMC Has Raised T$14.8 Billion Via Unsecured Bonds
   - [china] NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Ex
@@ -27,6 +30,7 @@ Total: 3000 manchetes
   - [korea] The contract for rare obesity treatment, which LG Chem exported technology to U.S. bio companies, ha..
   - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
+  - [korea] The base interest rate has risen... NIM of the four major banks falls simultaneously
   - [china] PBOC Move Likely Aimed at Slowing Down, Not Reversing, Yuan's Appreciation — Market Talk
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
   - [china] China's central bank conducts 100 billion yuan of swap operations
   - [china] China Talks Up Market Openness While Steering Stocks and Yuan
-  - [china] Why is the Chinese Yuan falling today?
-  - [taiwan] TSMC's next US chip plant could land in Sherman
-  - [korea] South Korean Won Recovers as Oil Prices Retreat
-  - [china] Asian currencies mixed as yuan slides after PBOC move, won rebounds
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T09:22:43+00:00",
+      "published_utc": "2026-11-03T09:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
