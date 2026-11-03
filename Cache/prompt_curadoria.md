@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T07:32:44.979376+00:00
+Última coleta: 2026-11-03T07:42:44.642065+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Iron ore dips on higher shipments, sluggish China demand
+  - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
   - [china] The war in the Middle East pushed up inflation and the Australian central bank raised interest rates by 1 poin
@@ -41,7 +43,6 @@ Total: 3000 manchetes
   - [china] Why is the Chinese Yuan falling today?
   - [taiwan] TSMC's next US chip plant could land in Sherman
   - [korea] South Korean Won Recovers as Oil Prices Retreat
-  - [china] Asian currencies mixed as yuan slides after PBOC move, won rebounds
   - [china] PBOC's Forex Deposit Move Underscores Focus on Controlled Yuan Appreciation — Market Talk
   - [china] Meituan Unveils New AI Model Trained on Homegrown Chips
   - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
   - [japan] Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 bi
   - [korea] Youngwoo DSP, a company specializing in semiconductor and display equipment, recorded a good perform..
-  - [china] Offshore Yuan Slides as PBOC Acts to Curb Rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T07:32:45+00:00",
+      "published_utc": "2026-11-03T07:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
