@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T09:52:45.630669+00:00
+Última coleta: 2026-11-03T10:02:44.034709+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
-  🇨🇳 China          872
+  🇨🇳 China          871
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  874
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [korea] HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour
   - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
   - [taiwan] Hong Kong Government: Export growth is accelerating and internal demand is solid. Hong Kong’s economy grew by 
   - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
-  - [china] The central bank steps to ease the pressure on RMB appreciation and raises the foreign exchange deposit reserv
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T09:52:45+00:00",
+      "published_utc": "2026-11-03T10:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
