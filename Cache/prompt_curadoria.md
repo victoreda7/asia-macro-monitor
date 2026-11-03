@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T13:32:45.286934+00:00
-Total: 2814 manchetes
+Última coleta: 2026-11-03T13:42:44.002827+00:00
+Total: 2811 manchetes
 
-  🇯🇵 Japão          817
+  🇯🇵 Japão          814
   🇨🇳 China          830
   🇹🇼 Taiwan         301
   🇰🇷 Coreia do Sul  866
@@ -27,7 +27,6 @@ Total: 2814 manchetes
   - [japan] What midterms might mean for the yen
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
   - [china] China, Oman sign currency swap agreement
-  - [japan] Australia raises interest rates to highest level in 18 years
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
   - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
   - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
@@ -57,6 +56,7 @@ Total: 2814 manchetes
   - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
+  - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2814 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T13:32:45+00:00",
+      "published_utc": "2026-11-03T13:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
