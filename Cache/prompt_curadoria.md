@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T05:42:43.235125+00:00
+Última coleta: 2026-11-03T05:52:43.007199+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          902
+  🇯🇵 Japão          901
   🇨🇳 China          866
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  876
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk
   - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
   - [china] Yuan Weakens as PBOC Signals Discomfort With Rapid Gains
   - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
   - [china] The central bank steps to ease the pressure on RMB appreciation and raises the foreign exchange deposit reserv
+  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [korea] SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live
   - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
   - [china] China's central bank conducts 100 billion yuan of swap operations
@@ -35,7 +37,6 @@ Total: 3000 manchetes
   - [china] Meituan Unveils New AI Model Trained on Homegrown Chips
   - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
   - [china] China's Consumer Inflation Likely Eased in October — Market Talk
-  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [china] The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 
   - [china] China's top trade negotiator meets with US agricultural trade delegation
   - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics, SK hynix plunge as U.S. chip stocks tumble
   - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
   - [china] The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exc
-  - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T05:42:43+00:00",
+      "published_utc": "2026-11-03T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

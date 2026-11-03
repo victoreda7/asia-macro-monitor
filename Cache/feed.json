@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T05:42:43.235125+00:00",
- "collected_at_utc": "2026-11-03T05:42:43.235125+00:00",
+ "generated_at_utc": "2026-11-03T05:52:43.007199+00:00",
+ "collected_at_utc": "2026-11-03T05:52:43.007199+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 902,
+  "japan": 901,
   "china": 866,
   "taiwan": 357,
-  "korea": 875
+  "korea": 876
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T05:02:00+00:00"
+   "newest": "2026-11-03T05:47:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T00:01:00+00:00"
+   "newest": "2026-11-03T05:00:13+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:23:00+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T05:42:06+00:00"
+   "newest": "2026-11-03T05:52:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T04:09:48+00:00"
+   "newest": "2026-11-03T05:25:20+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103000087:0-korea-inflation-could-gradually-return-to-bok-s-target-through-2027-market-talk/",
+   "published_utc": "2026-11-03T05:46:00+00:00",
+   "title_original": "Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "917b24b3b31de3ba"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -446,6 +464,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2bd46ffca700fc55"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVdSMnhjS2dEckEzRDNTTDhEcE03WU4zUTJHMmk4dUZ4LWtnbDVROGx0UnRoVmFiTHBUN3BfU2hPai0tektpZkZscDFhWkw0SzlNdURnYlRrQzBreldyMDQ0TTk3anpjaWFRWFpobUZvclNRMWlQbGZidDZHd1NVVjFwVkVaSXBNZklvLURUdE1sWHFUbzBBM0dlaTE1VkFyZDhKVlBNOUxNNUlscUxCdk53?oc=5",
+   "published_utc": "2026-11-03T05:04:00+00:00",
+   "title_original": "Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1aa574d3707146b1"
   },
   {
    "source_id": "investing_live",
@@ -655,24 +691,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7ce4da64d50e6305"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVdSMnhjS2dEckEzRDNTTDhEcE03WU4zUTJHMmk4dUZ4LWtnbDVROGx0UnRoVmFiTHBUN3BfU2hPai0tektpZkZscDFhWkw0SzlNdURnYlRrQzBreldyMDQ0TTk3anpjaWFRWFpobUZvclNRMWlQbGZidDZHd1NVVjFwVkVaSXBNZklvLURUdE1sWHFUbzBBM0dlaTE1VkFyZDhKVlBNOUxNNUlscUxCdk53?oc=5",
-   "published_utc": "2026-11-03T03:27:00+00:00",
-   "title_original": "Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1aa574d3707146b1"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1180,6 +1198,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "中金在线",
+   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsUGt1a21PUlctdHR4NjFPeENEbnBMUktjVHZqMk5FX0JTc2NjWjBfNl9fTTVsZk1SUkxldjliSjhac1Fxb1hKTDBzTjV0cE9XcFkxYXZtMkFfWjJGTm5uNHk5ZUhXa09OXzhpM3RB?oc=5",
+   "published_utc": "2026-11-03T01:29:05+00:00",
+   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9153c75d4d9b86b3"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The central bank launched a 621 billion yuan overnight reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zdVdvcWg3YnlwRHFTRDdObzdVZDZlT1VYYl9UODhlTmZJTExpVW1ueHFKelVBaG1oc2hsV01EUUNNSFBOREZ4NW84NFJHczlXVUE3SkJDeEJYTzBEQTd5aQ?oc=5",
@@ -1343,7 +1378,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观察者网",
    "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QUzR4SXJkLVB0VWJWYlIyd3FwZTgyMGlYVEdKamN5MEcyUFo4Q2w4WTRJb29OQmhwOXJwNjFhc0VHVVZFX3RwNGs2TmlIWUtKOGNPM0c0MVM3ZTlIZHV4eFJkVWo3YmFHQWFINm1YcFR3VkJ4OWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySGRoU1cwSTVwVzZJcjRZSEhld0FyQ2RqVERLSjN4SmgtZU5tbENaek5hS3pGUHA5VHlkVFVWY0xvbEVnSmN4d2JKbklsbVB5QlA4UGdHa1R4T0czRmk3Ui1mcXlYQQ?oc=5",
    "published_utc": "2026-11-03T01:03:20+00:00",
    "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
    "region": "china",
@@ -1354,7 +1389,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f96d9766706dd100"
+   "id": "35ac9b96b26167d9"
   },
   {
    "source_id": "investing_econ",
@@ -1440,23 +1475,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d53c46db55f50362"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bb3hSZWNPUWowVDRZaEpiUlpiT1p6NEhVNlMxUDZmUlVDYmN6WWpqeXM1VUpoSU4zVEhZbWwtTmVVOFFPYXlXVW9BRXlUMU5Ra3VfT1VGZi0yVHVYLWx3YQ?oc=5",
-   "published_utc": "2026-11-03T00:45:00+00:00",
-   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b3481b8a034461e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1939,6 +1957,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b552f69825c2ba09"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "S Korea to double spending on AI, chips next year",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50MTZzbDNiUXplNTJvY3lPdGRyUy03Ri1LT1RZSVJ1Um03dzc2YXRWVEhoVkczWHhrRVItZ2hGZ3huNjNpcFJVX2NFN3pZbjJyTlBLU2ZuaXhud0w3ckJmd192UWJXa3BJMUVoT21ydHhaSTd1N1NTZw?oc=5",
+   "published_utc": "2026-11-02T16:00:00+00:00",
+   "title_original": "S Korea to double spending on AI, chips next year",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1f97177b03da6ee4"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -3378,23 +3413,6 @@
    "id": "b42f88d775cae7a8"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -3411,6 +3429,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -51920,43 +51955,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9aeb6da879e5c114"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "Japan Week Ahead: BOJ Policymakers to Digest More Q3 Data Before Oct. 29-30 Meeting; Board Widely Expected Hold Rates Steady Until December or January",
-   "url": "https://www.tradingview.com/news/macenews:01ccf18aa094b:0-japan-week-ahead-boj-policymakers-to-digest-more-q3-data-before-oct-29-30-meeting-board-widely-expected-hold-rates-steady-until-december-or-january/",
-   "published_utc": "2026-10-11T20:12:00+00:00",
-   "title_original": "Japan Week Ahead: BOJ Policymakers to Digest More Q3 Data Before Oct. 29-30 Meeting; Board Widely Expected Hold Rates Steady Until December or January",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f1a982c29e8a8245"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "마켓인",
-   "title_en": "Shin Hyun-song’s first National Assembly inspection… ‘A lot of issues’ in the controversy over interest rate hikes, high inflation, and foreign exchange reserves",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxVGZieG02TFNsOE00MEhYR0s1dUdOTGl0Vy16elRPQVFTQWVSM1Q5MDZ4aVRjcmNzQng2X0NYdU5JVGI0VEZxSDZPSE9WUUFTeXBfbDRvdWRIZ3JJMEdDcXRQbWVCby1kTjl0TjFwU19qUGM?oc=5",
-   "published_utc": "2026-10-11T20:10:03+00:00",
-   "title_original": "신현송 첫 국감…금리인상·고물가·외환보유액 논란에 '쟁점 산적'",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb8b5702ac80869b"
   },
   {
    "source_id": "manual_ia",
