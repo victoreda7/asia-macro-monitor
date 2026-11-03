@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T17:52:47.713391+00:00
+Última coleta: 2026-11-03T18:02:54.365721+00:00
 Total: 2822 manchetes
 
   🇯🇵 Japão          814
@@ -17,6 +17,7 @@ Total: 2822 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
   - [china] COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
@@ -33,7 +34,6 @@ Total: 2822 manchetes
   - [korea] AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report
   - [japan] What midterms might mean for the yen
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
-  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] China, Oman sign currency swap agreement
   - [china] Jiemian Evening News | The central bank raised the foreign exchange deposit reserve ratio by 2 percentage poin
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
@@ -116,7 +116,7 @@ Total: 2822 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T17:52:47+00:00",
+      "published_utc": "2026-11-03T18:02:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
