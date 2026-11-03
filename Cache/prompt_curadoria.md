@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T19:52:44.391512+00:00
-Total: 2829 manchetes
+Última coleta: 2026-11-03T20:02:49.113723+00:00
+Total: 2830 manchetes
 
   🇯🇵 Japão          818
   🇨🇳 China          836
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] China Steps in to Boost Stocks, Cool Off Yuan
+  - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
   - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
   - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix’s US expansion plans hit snag over China license delays - report
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
-  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
   - [china] COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino
   - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
@@ -56,7 +57,6 @@ Total: 2829 manchetes
   - [china] The central bank invested a net 150 billion yuan in open market government bond sales in October
   - [korea] Korean beauty exports extend growth streak despite strong won
   - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
-  - [taiwan] TSMC Has Raised T$14.8 Billion Via Unsecured Bonds
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2829 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T19:52:44+00:00",
+      "published_utc": "2026-11-03T20:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
