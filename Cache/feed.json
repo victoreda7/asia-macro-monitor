@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T16:22:45.396146+00:00",
- "collected_at_utc": "2026-11-03T16:22:45.396146+00:00",
+ "generated_at_utc": "2026-11-03T16:32:45.017618+00:00",
+ "collected_at_utc": "2026-11-03T16:32:45.017618+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2819,
  "by_region": {
   "japan": 814,
-  "china": 835,
+  "china": 834,
   "taiwan": 302,
-  "korea": 868
+  "korea": 869
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:10:41+00:00"
+   "newest": "2026-11-03T10:01:21+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T13:19:03+00:00"
+   "newest": "2026-11-03T15:35:10+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T13:30:17+00:00"
+   "newest": "2026-11-02T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T16:21:33+00:00"
+   "newest": "2026-11-03T16:31:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T06:47:21+00:00"
+   "newest": "2026-11-03T08:00:00+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T05:12:00+00:00"
+   "newest": "2026-11-03T07:53:58+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough",
+   "url": "https://www.tradingview.com/news/gurufocus:cdeb51fba094b:0-amd-stock-jumps-on-major-samsung-chip-manufacturing-breakthrough/",
+   "published_utc": "2026-11-03T16:08:40+00:00",
+   "title_original": "AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "76b6437dd3a9f21b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Invezz",
@@ -376,6 +393,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b2ba83f6583440c5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经_金融信息服务商",
+   "title_en": "Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exchange rate?",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkszaGE4eDhCcUx1WkZzUEVWRncxMzVvcUhqNlJtdzA0Q1BtRFR4RnZzZnRKV3Y1LUZ6al9tbDJ6VjlnVmM5SFhyNE1LVFlJVjFhVHMyUWNiTWdfT2k3ZkV4VkVEUWRqcC12T1FpQ0lMSnNWeGYwNXEwaXZfSWVZa0dXSmZnNzI0Vl9Z?oc=5",
+   "published_utc": "2026-11-03T15:35:10+00:00",
+   "title_original": "上调外汇存款准备金率，央行缘何出手稳汇率",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "205b51047e7af591"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -427,24 +462,6 @@
    "live_wire": true,
    "manual": false,
    "id": "baddbb9f811f19f4"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exchange rate?",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HX1BkSW5sTXQyZ1hoWUliakJraFJwbl9xSjBiUHRWcnhFQWlubWpjRWlCWmhSQUtVbGZtRkZ1ZGVkUkRWMjVkNHl3ekdCMG9odkVmRjZtd3lRekdkY0E?oc=5",
-   "published_utc": "2026-11-03T13:19:03+00:00",
-   "title_original": "上调外汇存款准备金率，央行缘何出手稳汇率",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e34f775e3b2cf62b"
   },
   {
    "source_id": "tradingview_live",
@@ -1411,24 +1428,6 @@
    "live_wire": false,
    "manual": false,
    "id": "97668aefd12a3794"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank conducts 100 billion yuan of swap operations",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45200M:0-china-s-central-bank-conducts-100-billion-yuan-of-swap-operations/",
-   "published_utc": "2026-11-03T04:35:17+00:00",
-   "title_original": "China's central bank conducts 100 billion yuan of swap operations",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "80a8f433020a80cc"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3964,6 +3963,23 @@
    "id": "b42f88d775cae7a8"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -3980,23 +3996,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -4768,8 +4767,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -4783,7 +4782,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -8035,6 +8034,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -8352,23 +8368,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -25094,23 +25093,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "319bd5fb3aaf4d60"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "BOK holds rate at 3%, leaves door open to November hike",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25124,6 +25106,23 @@
    "live_wire": false,
    "manual": false,
    "id": "498c0e6782864fff"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "319bd5fb3aaf4d60"
   },
   {
    "source_id": "gn_kr_yonhap",

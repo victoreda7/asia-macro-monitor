@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T16:22:45.396146+00:00
+Última coleta: 2026-11-03T16:32:45.017618+00:00
 Total: 2819 manchetes
 
   🇯🇵 Japão          814
-  🇨🇳 China          835
+  🇨🇳 China          834
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  868
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?
+  - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
   - [china] China's State Council announces removal of officials
   - [china] Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list
   - [korea] Samsung to make chip parts for AMD, Nvidia at Texas plant: report
-  - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
   - [korea] SK hynix Secures Board Nomination Rights at Penguin Solutions with 9.1% Stake
   - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
   - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
@@ -56,7 +57,6 @@ Total: 2819 manchetes
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
-  - [korea] The base interest rate has risen... NIM of the four major banks falls simultaneously
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2819 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T16:22:45+00:00",
+      "published_utc": "2026-11-03T16:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
