@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T20:52:57.002672+00:00
-Total: 2832 manchetes
+Última coleta: 2026-11-03T21:02:49.169818+00:00
+Total: 2834 manchetes
 
-  🇯🇵 Japão          819
+  🇯🇵 Japão          821
   🇨🇳 China          837
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [japan] Problems that arise in the workplace due to the legal employment rate for people with disabilities increasing 
+  - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
@@ -55,8 +57,6 @@ Total: 2832 manchetes
   - [china] The central bank raised the foreign exchange reserve ratio, and the RMB exchange rate fell below 6.67 against 
   - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
   - [taiwan] Foxconn's EV strategy opens new export routes for Taiwan
-  - [china] The central bank invested a net 150 billion yuan in open market government bond sales in October
-  - [korea] Korean beauty exports extend growth streak despite strong won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2832 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T20:52:57+00:00",
+      "published_utc": "2026-11-03T21:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
