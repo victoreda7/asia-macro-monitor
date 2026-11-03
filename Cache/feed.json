@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-11-03T11:02:45.553811+00:00",
- "collected_at_utc": "2026-11-03T11:02:45.553811+00:00",
+ "generated_at_utc": "2026-11-03T11:12:46.634097+00:00",
+ "collected_at_utc": "2026-11-03T11:12:46.634097+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 896,
-  "china": 871,
+  "china": 872,
   "taiwan": 360,
-  "korea": 873
+  "korea": 872
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.4,
  "sources": [
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -246,14 +254,6 @@
    "newest": "2026-11-03T10:28:11+00:00"
   },
   {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T09:27:58+00:00"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "name": "Taipei Times",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T11:01:53+00:00"
+   "newest": "2026-11-03T11:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:22:43+00:00"
+   "newest": "2026-11-03T05:20:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T10:58:30+00:00"
+   "newest": "2026-11-03T11:04:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T10:50:48+00:00"
+   "newest": "2026-11-03T11:02:10+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T07:40:27+00:00"
+   "newest": "2026-11-03T06:47:21+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -566,6 +566,25 @@
    "live_wire": true,
    "manual": false,
    "id": "9b2c51a0e330b557"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经_金融信息服务商",
+   "title_en": "Central Bank: Net investment in open market government bond sales in October was 150 billion yuan",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWxGRjltMHl4QUJzbFgyMWt2Xzh0TEdBXzBfeDVmdW54ZG96ZmdBczF5SE5odWx3WnBoc3BkWXZwa0M0VjJPOTgyU0ZxamRVUFNpeUdfaWdNeEN2eHpQaTF1OW5WNU5MLXVaaGZQdTdjZ3lBVGQtMFpFV19HZlA1eGVOSDRqclhPT0xqYUwyNzJ2elBqeEVN?oc=5",
+   "published_utc": "2026-11-03T09:21:34+00:00",
+   "title_original": "央行：10月公开市场国债买卖净投放1500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b89c68029ce27bf"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2029,7 +2048,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "South Korea Inflation Holds Firm, Bolstering Case for More Hikes",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeEplWmVaRnNwMEdCWjVhSTkxN2RiZkRiM1FJbTNwNkRKU1pUS2JiVmxtZjh5Tjl5dk1DcWxhamhERnlxT2lEcThMNFRWd3Q2cURncTdtVHhkYTFscEVFWEprOWdDNlVFbGJYMldSeTBnUXZZM1lrUXRza0JUU0xnQ2RpTG80aXE3Tk1iM3MweUk4UWwtVjlyMVF0eXpVOElIMUhSaU9iakJOMFZ1U21HaE1jU3E?oc=5",
    "published_utc": "2026-11-03T00:16:00+00:00",
@@ -4072,24 +4091,6 @@
    "id": "cdea8672f307ea0e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXZFZzS1d3ZWoxV1Iwa0ZKQUVVU2h3akpSei01Y29haFJpamZqMkFkN1F2YnZZOF9DRzBoUlJUU3RPRzlZa0cyUW8tekdUa3NWV3NYdDNSdFhLUGNxTlFjdmlrQmd4Zw?oc=5",
-   "published_utc": "2026-11-02T02:22:22+00:00",
-   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f67aeb17e7aae4f7"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
@@ -4194,7 +4195,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
    "published_utc": "2026-11-02T02:00:00+00:00",
@@ -4261,6 +4262,24 @@
    "live_wire": false,
    "manual": false,
    "id": "abbad051b44a12ce"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BV3RNNG1SNk5Wc1RmeTIxRE9GNlBKSFA3X2dVRDJOaFRwdGw3SHFkenRFNmg2V0ducEJUNXY1VjJiei1WWGpfXzlMMEZkSTNUSTYxZG9lNm9Rc0dMRE9ObGZoN1MwbFJ6?oc=5",
+   "published_utc": "2026-11-02T01:35:09+00:00",
+   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1946553e4f8f0b7b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -26747,23 +26766,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -26777,6 +26779,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51936,23 +51955,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d73f408aefb63376"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0RmZyYnk1TXNRTFg3eV9iOVRaV19WUDJTOE5DVHlhRV9mZzdMS1I3N0RwcFZYQ0doUE9LdUJ5eFB5bnF2RVNNZlZKcW10U1E3eWc?oc=5",
-   "published_utc": "2026-10-12T01:49:59+00:00",
-   "title_original": "After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e216fa575500a81"
   },
   {
    "source_id": "manual_ia",

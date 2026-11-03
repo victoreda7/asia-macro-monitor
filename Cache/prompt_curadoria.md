@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T11:02:45.553811+00:00
+Última coleta: 2026-11-03T11:12:46.634097+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          896
-  🇨🇳 China          871
+  🇨🇳 China          872
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
   - [taiwan] Hong Kong Government: Export growth is accelerating and internal demand is solid. Hong Kong’s economy grew by 
   - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
+  - [china] Central Bank: Net investment in open market government bond sales in October was 150 billion yuan
   - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
   - [taiwan] Foxconn's EV strategy opens new export routes for Taiwan
   - [korea] Korean beauty exports extend growth streak despite strong won
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
   - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
   - [china] The central bank stabilizes the exchange rate and then takes action to raise the foreign exchange deposit rese
-  - [china] The first increase in the past five years! The central bank rarely takes action, expert interpretation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T11:02:45+00:00",
+      "published_utc": "2026-11-03T11:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
