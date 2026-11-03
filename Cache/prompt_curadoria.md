@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T11:32:44.773395+00:00
+Última coleta: 2026-11-03T11:42:45.367440+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] What midterms might mean for the yen
+  - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
   - [china] China's central bank raises foreign exchange deposit reserve ratio for first time in five years
   - [china] China, Oman sign currency swap agreement
   - [japan] Australia raises interest rates to highest level in 18 years
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The war in the Middle East pushed up inflation and the Australian central bank raised interest rates by 1 poin
   - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
-  - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T11:32:45+00:00",
+      "published_utc": "2026-11-03T11:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
