@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T23:05:29.330442+00:00
+Última coleta: 2026-11-03T23:12:47.674598+00:00
 Total: 2838 manchetes
 
   🇯🇵 Japão          820
@@ -17,9 +17,9 @@ Total: 2838 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] SK Hynix's New York chip plans face obstacles due to US restrictions on China, sources say
   - [china] China's Temu, JD.com revamp business models amid tariff headwinds
-  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan
   - [korea] Foreign reserves rebound in Oct. on foreign currency deposits
   - [japan] Problems that arise in the workplace due to the legal employment rate for people with disabilities increasing 
@@ -116,7 +116,7 @@ Total: 2838 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T23:05:29+00:00",
+      "published_utc": "2026-11-03T23:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
