@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T09:02:43.848163+00:00
+Última coleta: 2026-11-03T09:12:43.573448+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
   🇨🇳 China          874
-  🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  872
+  🇹🇼 Taiwan         358
+  🇰🇷 Coreia do Sul  871
 
 ## O que já está no feed (não repita)
 
+  - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
+  - [taiwan] TSMC Has Raised T$14.8 Billion Via Unsecured Bonds
+  - [china] NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Ex
   - [china] China XD Electric's Units Win 1.1 Billion Yuan Bids For State Grid Projects
   - [china] ZAWYA: Egypt explores solar cell manufacturing plant with China’s Boomy to boost local production
   - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
@@ -53,10 +56,7 @@ Total: 3000 manchetes
   - [china] Why is the Chinese Yuan falling today?
   - [taiwan] TSMC's next US chip plant could land in Sherman
   - [korea] South Korean Won Recovers as Oil Prices Retreat
-  - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
-  - [china] PBOC's Forex Deposit Move Underscores Focus on Controlled Yuan Appreciation — Market Talk
-  - [china] Meituan Unveils New AI Model Trained on Homegrown Chips
-  - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
+  - [china] Asian currencies mixed as yuan slides after PBOC move, won rebounds
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T09:02:44+00:00",
+      "published_utc": "2026-11-03T09:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
