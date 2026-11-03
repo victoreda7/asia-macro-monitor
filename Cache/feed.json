@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-03T23:22:45.966285+00:00",
- "collected_at_utc": "2026-11-03T23:22:45.966285+00:00",
+ "generated_at_utc": "2026-11-03T23:32:45.089139+00:00",
+ "collected_at_utc": "2026-11-03T23:32:45.089139+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 302,
   "korea": 878
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T19:02:00+00:00"
+   "newest": "2026-11-03T19:44:10+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T22:49:00+00:00"
+   "newest": "2026-11-03T16:23:39+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T22:06:59+00:00"
+   "newest": "2026-11-03T10:57:44+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T23:21:41+00:00"
+   "newest": "2026-11-03T23:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T20:26:13+00:00"
+   "newest": "2026-11-03T17:25:14+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T21:58:00+00:00"
+   "newest": "2026-11-03T05:12:00+00:00"
   }
  ],
  "items": [
@@ -517,6 +517,24 @@
    "id": "f23e36f5f9476433"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZrQmtpY09QUXVsNWV0OFdVbVZvOWdDQWhYVFRWUk1EMmdaN2EwWUVWY2p1ajJsallTTGR3QWxuMC1uRHJyNmJ0WDZSc1gwVlhEYkZTVEs3UzF0Q0UwQ3E0ZTdjZmNIMWs5NTFRb1gyN2xPV0JzcW1zS1ZrX2djTzVUNTNCM1F6TUNnS0lUQ2pPRFBuWENMUnl1UXFNV3g1c2ZFRUR3bFNYcGJzVjB6cW82RE9WcjBidzBJ?oc=5",
+   "published_utc": "2026-11-03T19:44:10+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c177917e24bd8ff6"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
@@ -532,24 +550,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6f339246780900a3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
-   "published_utc": "2026-11-03T19:02:00+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "investing_live",
@@ -5495,24 +5495,6 @@
    "id": "5dbbecc69c06d83e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
-   "published_utc": "2026-11-01T02:46:04+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4912a6c184ed00f5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -5929,6 +5911,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-10-31T10:42:00+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
