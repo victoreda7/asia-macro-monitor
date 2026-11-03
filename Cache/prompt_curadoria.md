@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T06:02:42.953942+00:00
+Última coleta: 2026-11-03T06:12:52.757105+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          900
+  🇯🇵 Japão          899
   🇨🇳 China          866
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  877
+  🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [korea] Dawon Nexview To Acquire Real Estate Worth 17 Billion Won
   - [japan] Parkway Life Real Estate Investment Trust: Singapore rent growth lifted distributions as Japan FX pressure off
   - [china] Yuan Weakens as PBOC Signals Discomfort With Rapid Gains
   - [korea] Hanwha brings Korean defense, manufacturing ETFs to Abu Dhabi
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] 2 percentage points! The central bank raises the foreign exchange deposit reserve ratio for financial institut
   - [korea] BOK expects inflation to remain in upper 2% range in November
-  - [korea] Samsung Electronics, SK hynix plunge as U.S. chip stocks tumble
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T06:02:43+00:00",
+      "published_utc": "2026-11-03T06:12:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
