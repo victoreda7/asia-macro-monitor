@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T12:52:44.881619+00:00
+Última coleta: 2026-11-03T13:02:43.396684+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
   - [china] After raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize th
   - [korea] AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report
   - [japan] What midterms might mean for the yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
   - [china] The war in the Middle East pushed up inflation and the Australian central bank raised interest rates by 1 poin
-  - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T12:52:45+00:00",
+      "published_utc": "2026-11-03T13:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
