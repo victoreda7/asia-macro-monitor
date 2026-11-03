@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T18:45:21.773089+00:00
-Total: 2823 manchetes
+Última coleta: 2026-11-03T18:52:45.630692+00:00
+Total: 2824 manchetes
 
-  🇯🇵 Japão          814
+  🇯🇵 Japão          815
   🇨🇳 China          836
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  871
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
+  - [korea] SK Hynix's New York chip plans hit snag over US restrictions on China, sources say
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
-  - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
   - [china] COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino
+  - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?
   - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
@@ -55,8 +57,6 @@ Total: 2823 manchetes
   - [china] NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Ex
   - [china] China XD Electric's Units Win 1.1 Billion Yuan Bids For State Grid Projects
   - [china] ZAWYA: Egypt explores solar cell manufacturing plant with China’s Boomy to boost local production
-  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
-  - [korea] Kim, a representative K-food player, surpassed KRW 1 trillion in production for the first time in Gw..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2823 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T18:45:22+00:00",
+      "published_utc": "2026-11-03T18:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

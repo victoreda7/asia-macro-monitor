@@ -1,233 +1,65 @@
 {
- "generated_at_utc": "2026-11-03T18:45:21.773089+00:00",
- "collected_at_utc": "2026-11-03T18:45:21.773089+00:00",
+ "generated_at_utc": "2026-11-03T18:52:45.630692+00:00",
+ "collected_at_utc": "2026-11-03T18:52:45.630692+00:00",
  "degraded": false,
- "sources_ok": 14,
+ "sources_ok": 41,
  "sources_total": 41,
- "count": 2823,
+ "count": 2824,
  "by_region": {
-  "japan": 814,
+  "japan": 815,
   "china": 836,
   "taiwan": 302,
   "korea": 871
  },
- "elapsed_s": 186.4,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 42,
+   "error": "",
+   "newest": "2026-11-02T14:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
    "name": "Bloomberg Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T18:29:08+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
    "name": "Caixin",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T08:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
    "name": "DIGITIMES",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T09:42:11+00:00"
   },
   {
    "source_id": "gn_asia_ft",
    "name": "FT Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T17:00:20+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "name": "MOF Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "name": "UDN / 經濟日報",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-02T12:05:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -243,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T18:23:52+00:00"
+   "newest": "2026-11-03T18:45:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -262,12 +94,28 @@
    "newest": "2026-11-03T13:24:00+00:00"
   },
   {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T17:00:00+00:00"
+  },
+  {
    "source_id": "ked_global",
    "name": "KED Global",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T18:01:39+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -278,12 +126,52 @@
    "newest": "2026-11-02T17:20:00+09:00"
   },
   {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T02:54:03+00:00"
+  },
+  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
    "count": 50,
    "error": "",
    "newest": "2026-11-03T10:02:22+00:00"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-02T09:23:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "name": "MOF Japan",
+   "ok": false,
+   "count": 30,
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": true,
+   "count": 23,
+   "error": "",
+   "newest": "2026-11-03T00:51:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-01T15:47:46+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -310,6 +198,46 @@
    "newest": ""
   },
   {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T15:35:10+00:00"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T17:54:38+00:00"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T15:36:09+00:00"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T10:57:44+00:00"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-02T20:20:16+00:00"
+  },
+  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
@@ -318,12 +246,52 @@
    "newest": "2026-11-03T18:08:43+00:00"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T11:00:09+00:00"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-02T16:00:00+00:00"
+  },
+  {
    "source_id": "tradingview_live",
    "name": "TradingView (ao vivo)",
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T18:43:54+00:00"
+   "newest": "2026-11-03T18:52:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_udn",
+   "name": "UDN / 經濟日報",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T14:22:04+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T15:50:45+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T11:02:10+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -334,15 +302,81 @@
    "newest": "2026-11-03T14:40:16+00:00"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T09:30:59+00:00"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T14:09:00+00:00"
+  },
+  {
    "source_id": "toyo_keizai",
    "name": "東洋経済オンライン",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": "2026-11-03T19:00:00+09:00"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T09:37:12+00:00"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-03T07:53:58+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K0YC:0/",
+   "published_utc": "2026-11-03T18:49:18+00:00",
+   "title_original": "Planos da SK Hynix para a fabricação de chips em Nova York enfrentam obstáculos devido às restrições dos EUA à China, segundo fontes",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "5454feae790ebc6e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E10Z:0-sk-hynix-s-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/",
+   "published_utc": "2026-11-03T18:48:22+00:00",
+   "title_original": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "52f59f973aaed358"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -378,6 +412,23 @@
    "id": "e0c1a5f4ae440bb9"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVEtZjN3a1VlNmVtZEZwSm5PZHNsbEdBa0cwazNkUEUyc0FPaVNlSnY2ejNqX0FrS0VGWjBkN3FFMDN1TkozOUVfdGhEOW1TR0ZJeVducU5nYnQwU094VDFjWGVtYWFOQkx4WUlqS0J4ZmFOQV9NVHZhWUVHQnFmc0Vvc0VGSkVpU3FvNlBSUTFmVUQwRk84VHlaTTNRS2JPR0R3V1BaU1dtNnVZeEhVWi1FUXl1UlhTTFhmeWZoY01MQk54N3ZTT1RVNUN1SWZh?oc=5",
+   "published_utc": "2026-11-03T17:54:38+00:00",
+   "title_original": "COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "57e1f44369a122d5"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough",
@@ -393,23 +444,6 @@
    "live_wire": true,
    "manual": false,
    "id": "76b6437dd3a9f21b"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVEtZjN3a1VlNmVtZEZwSm5PZHNsbEdBa0cwazNkUEUyc0FPaVNlSnY2ejNqX0FrS0VGWjBkN3FFMDN1TkozOUVfdGhEOW1TR0ZJeVducU5nYnQwU094VDFjWGVtYWFOQkx4WUlqS0J4ZmFOQV9NVHZhWUVHQnFmc0Vvc0VGSkVpU3FvNlBSUTFmVUQwRk84VHlaTTNRS2JPR0R3V1BaU1dtNnVZeEhVWi1FUXl1UlhTTFhmeWZoY01MQk54N3ZTT1RVNUN1SWZh?oc=5",
-   "published_utc": "2026-11-03T16:02:58+00:00",
-   "title_original": "COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "57e1f44369a122d5"
   },
   {
    "source_id": "tradingview_live",
@@ -1395,24 +1429,6 @@
    "id": "6aa5473f5dab0de4"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261103000087:0-korea-inflation-could-gradually-return-to-bok-s-target-through-2027-market-talk/",
-   "published_utc": "2026-11-03T05:46:00+00:00",
-   "title_original": "Korea Inflation Could Gradually Return to BOK's Target Through 2027 — Market Talk",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "917b24b3b31de3ba"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "新京报",
    "title_en": "The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years, and the pace of RMB appreciation may change",
@@ -1446,23 +1462,6 @@
    "live_wire": false,
    "manual": false,
    "id": "78f38883c6d48060"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46J2VS:0-asia-paper-manufacturing-co-ltd-to-cancel-7-4-billion-won-worth-of-own-shares/",
-   "published_utc": "2026-11-03T05:07:43+00:00",
-   "title_original": "Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8581a6603f329e4d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4018,23 +4017,6 @@
    "id": "b42f88d775cae7a8"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -4051,6 +4033,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -4822,8 +4821,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -4837,7 +4836,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -5342,24 +5341,6 @@
    "id": "5dbbecc69c06d83e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
-   "published_utc": "2026-11-01T02:46:04+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4912a6c184ed00f5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -5776,6 +5757,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-10-31T10:42:00+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -27357,23 +27356,6 @@
    "id": "0bef40b94092862b"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
-   "published_utc": "2026-10-21T07:34:00+00:00",
-   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7556bcad4f5f915"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Japan futures slip as yen jumps, cost support seen easing",
@@ -27528,6 +27510,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1cadf4969f0fa604"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7556bcad4f5f915"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -48864,6 +48863,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7a9553ec6351f0d2"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2twS3NjQmZiQy1jcDI5c1ZHa0VLWENRVWZySFZuYlluMUtyUkxmbDBCM25BTFlvc3NBTVpkM0JYS1ZpZ19QRTNLWER1cV9lOEFhb2EyTWNIaENScktPY21LRjEtbHZ5cDlEMEc4TWROZWtpd1VvUUNnWDVsQTNGbUJOb0FZQjJIQldqeDRyRi1fbmFzbWk4UHZGSW04MFMxQXBQaElWNDBnVUhINjhobXhQQTVWMUNO?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3bda50f15be15663"
   },
   {
    "source_id": "gn_jp_investing",
