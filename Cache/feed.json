@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T05:22:47.236894+00:00",
- "collected_at_utc": "2026-11-03T05:22:47.236894+00:00",
+ "generated_at_utc": "2026-11-03T05:32:43.932869+00:00",
+ "collected_at_utc": "2026-11-03T05:32:43.932869+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 904,
-  "china": 864,
-  "taiwan": 356,
+  "china": 863,
+  "taiwan": 357,
   "korea": 876
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T03:14:00+00:00"
+   "newest": "2026-11-03T04:55:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T04:46:40+00:00"
+   "newest": "2026-11-03T05:19:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T04:18:25+00:00"
+   "newest": "2026-11-03T05:12:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:23:00+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-02T22:06:09+09:00"
+   "newest": "2026-11-03T14:29:57+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:21:00+00:00"
+   "newest": "2026-11-03T02:28:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:36:09+00:00"
+   "newest": "2026-11-03T02:03:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T05:21:12+00:00"
+   "newest": "2026-11-03T05:32:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:18:51+00:00"
+   "newest": "2026-11-03T02:20:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -411,6 +411,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2bd46ffca700fc55"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-cloud-resistance-bear-flag-live-levels-93CH-4989796",
+   "published_utc": "2026-11-03T05:03:59+00:00",
+   "title_original": "SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "64e8bdfa15ddb860"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1111,23 +1128,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "中金在线",
-   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsUGt1a21PUlctdHR4NjFPeENEbnBMUktjVHZqMk5FX0JTc2NjWjBfNl9fTTVsZk1SUkxldjliSjhac1Fxb1hKTDBzTjV0cE9XcFkxYXZtMkFfWjJGTm5uNHk5ZUhXa09OXzhpM3RB?oc=5",
-   "published_utc": "2026-11-03T01:29:05+00:00",
-   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9153c75d4d9b86b3"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The central bank launched a 621 billion yuan overnight reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zdVdvcWg3YnlwRHFTRDdObzdVZDZlT1VYYl9UODhlTmZJTExpVW1ueHFKelVBaG1oc2hsV01EUUNNSFBOREZ4NW84NFJHczlXVUE3SkJDeEJYTzBEQTd5aQ?oc=5",
@@ -1291,7 +1291,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观察者网",
    "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySGRoU1cwSTVwVzZJcjRZSEhld0FyQ2RqVERLSjN4SmgtZU5tbENaek5hS3pGUHA5VHlkVFVWY0xvbEVnSmN4d2JKbklsbVB5QlA4UGdHa1R4T0czRmk3Ui1mcXlYQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QUzR4SXJkLVB0VWJWYlIyd3FwZTgyMGlYVEdKamN5MEcyUFo4Q2w4WTRJb29OQmhwOXJwNjFhc0VHVVZFX3RwNGs2TmlIWUtKOGNPM0c0MVM3ZTlIZHV4eFJkVWo3YmFHQWFINm1YcFR3VkJ4OWc?oc=5",
    "published_utc": "2026-11-03T01:03:20+00:00",
    "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
    "region": "china",
@@ -1302,7 +1302,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "35ac9b96b26167d9"
+   "id": "f96d9766706dd100"
   },
   {
    "source_id": "investing_econ",
@@ -1388,6 +1388,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d53c46db55f50362"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bb3hSZWNPUWowVDRZaEpiUlpiT1p6NEhVNlMxUDZmUlVDYmN6WWpqeXM1VUpoSU4zVEhZbWwtTmVVOFFPYXlXVW9BRXlUMU5Ra3VfT1VGZi0yVHVYLWx3YQ?oc=5",
+   "published_utc": "2026-11-03T00:45:00+00:00",
+   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9b3481b8a034461e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2926,24 +2943,6 @@
    "id": "520822cfa00b843b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
-   "published_utc": "2026-11-02T05:50:39+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a39db8f143fc814c"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -3309,21 +3308,22 @@
    "id": "e02f385258175764"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
+   "published_utc": "2026-11-02T03:09:40+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
    "topics": [
+    "monetary",
     "fx"
    ],
-   "lang_original": "en",
-   "translated": false,
+   "lang_original": "zh-CN",
+   "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "14bf5cff486fa99d"
+   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3342,6 +3342,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -3854,23 +3871,6 @@
    "id": "e9c78c4ef103397c"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix trapped in cloud resistance bear flag: Live levels",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-cloud-resistance-bear-flag-live-levels-93CH-4989796",
-   "published_utc": "2026-11-02T01:05:53+00:00",
-   "title_original": "SK Hynix trapped in cloud resistance bear flag: Live levels",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5f43af82030a0e36"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
@@ -4214,6 +4214,23 @@
    "live_wire": false,
    "manual": false,
    "id": "99536368acc41781"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Taiwan, Japan nearing trade deal: Nikkei",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OXzV2VDFqUkxhdGx6S2ppTldPZGN2TGR0NFVNekFEd25HQksydUQ0MUtOc0dPMzNtMy1PQUwxSTBGMTFyYlBucE5mZUI1OC1lNTlRMVdUQTNjMEtQS1FITEVXdmhEUFV6SzJqT2VqaTJibTYwa2UzUQ?oc=5",
+   "published_utc": "2026-11-01T16:00:00+00:00",
+   "title_original": "Taiwan, Japan nearing trade deal: Nikkei",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "79f55313fe557e6d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -33962,23 +33979,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -33994,6 +33994,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51941,23 +51958,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c0ce7f2b790d1aa2"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU to Cap Chinese Hybrid Car Imports at 350,000 Each Year",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGZ0OFMzZ1pKdWtOVENVU1NaZWt5cFRlR2tKZnA3U3J5cHV1emNQbTN0c05wTFN5bkdxTUNuemtCai15LUR5cV9JbmlLMjRSSVdZUTE0MUNqLUw3cTFmMUdrQVpGZld3NjN1RzE0dmc4SV9SQW11OE5nSFpqNnZzYkMtVlBkNGhDdUUtUGlBekRNQnROTFpVNDNobGRXTm9YZnp3N0I3TGtkaV81NTFGbm9R?oc=5",
-   "published_utc": "2026-10-11T15:52:31+00:00",
-   "title_original": "EU to Cap Chinese Hybrid Car Imports at 350,000 Each Year",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1d3c2109b6632e5"
   },
   {
    "source_id": "manual_ia",
