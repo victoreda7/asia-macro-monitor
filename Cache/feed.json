@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-03T03:42:49.188885+00:00",
- "collected_at_utc": "2026-11-03T03:42:49.188885+00:00",
+ "generated_at_utc": "2026-11-03T03:52:43.658007+00:00",
+ "collected_at_utc": "2026-11-03T03:52:43.658007+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 358,
   "korea": 875
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:00:00+00:00"
+   "newest": "2026-11-03T02:27:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T01:11:00+00:00"
+   "newest": "2026-11-02T09:23:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -1750,7 +1750,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -1762,7 +1762,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "00ad06c1ef60465a"
+   "id": "59da3ca61ab4cc5e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3013,6 +3013,23 @@
    "id": "b42f88d775cae7a8"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -3029,23 +3046,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -3295,7 +3295,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTzFHektSNXdYMGZBU1haMm9LSnJ0V2UyOTNzSEpfS3V2ZzF2UFRwZlFEUEV4Q0FGeldmTjdPMXhzaVE2ZXBKXzZBUGlTa2JHSGtFdzdLR2dTOWM5OGVmeW5RRW42Qmh3em9KLU1TQlpqaVB4WEczSTBDNDhKaFk?oc=5",
    "published_utc": "2026-11-02T01:55:22+00:00",
    "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
    "region": "japan",
@@ -3307,7 +3307,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4e9207eb5797c45b"
+   "id": "ecfe98aaee698b0f"
   },
   {
    "source_id": "investing_econ",
@@ -3851,8 +3851,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -3866,7 +3866,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -25777,23 +25777,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25807,6 +25790,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",
