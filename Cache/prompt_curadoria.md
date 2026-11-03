@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T01:32:50.366027+00:00
+Última coleta: 2026-11-03T01:42:43.653944+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
@@ -17,8 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY621 BLN VIA O/N REVERSE REPO TUES
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146
   - [china] Soy barge bids firm as exports to China continue
+  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
   - [china] China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan
   - [korea] BOK sees consumer inflation remaining near 3% in Nov.
   - [japan] The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in
@@ -28,7 +30,6 @@ Total: 3000 manchetes
   - [china] China Central Bank: Aim Is to Better Manage Foreign Exchange Liquidity in Financial Institutions
   - [china] China to Raise Foreign Exchange Reserve Requirement Ratio by 2 Percentage Points
   - [china] China Central Bank: Decision Takes Effect Nov. 15
-  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
   - [china] The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions
   - [korea] LG Energy Solution: ESS-led shipments lifted Q3 revenue 28% QoQ and operating profit to KRW 756bn
   - [korea] US trade commission terminates Samsung chip patent probe following settlement with Netlist
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] What's Going on With Taiwan Semiconductor Stock on Monday?
   - [china] Walnut Capital Says China Lead Enters Block Trade Agreement For Sale Of Shares
   - [taiwan] Taiwan, Japan might sign comprehensive trade pact: report
-  - [china] Central Bank to Conduct Third Swap Facility Operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T01:32:50+00:00",
+      "published_utc": "2026-11-03T01:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
