@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T23:42:43.513434+00:00
-Total: 2838 manchetes
+Última coleta: 2026-11-03T23:52:45.945990+00:00
+Total: 2839 manchetes
 
   🇯🇵 Japão          820
   🇨🇳 China          838
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  878
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea FX Reserves Hit 4-Year High in October
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] Financial News | The central bank raised the foreign exchange reserve ratio, and the RMB depreciated by more t
   - [korea] SK Hynix's New York chip plans face obstacles due to US restrictions on China, sources say
@@ -47,6 +48,7 @@ Total: 2838 manchetes
   - [china] After raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize th
   - [korea] AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report
   - [japan] What midterms might mean for the yen
+  - [korea] S.Korea’s used-car export boom buckles under strong won, Middle East war
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
   - [china] What does the central bank mean by raising the foreign exchange reserve requirement ratio for the first time i
   - [china] China, Oman sign currency swap agreement
@@ -55,8 +57,6 @@ Total: 2838 manchetes
   - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
   - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
   - [china] Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid
-  - [china] First time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio, and the o
-  - [korea] HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2838 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T23:42:43+00:00",
+      "published_utc": "2026-11-03T23:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

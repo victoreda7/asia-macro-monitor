@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-03T23:42:43.513434+00:00",
- "collected_at_utc": "2026-11-03T23:42:43.513434+00:00",
+ "generated_at_utc": "2026-11-03T23:52:45.945990+00:00",
+ "collected_at_utc": "2026-11-03T23:52:45.945990+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2838,
+ "count": 2839,
  "by_region": {
   "japan": 820,
   "china": 838,
   "taiwan": 302,
-  "korea": 878
+  "korea": 879
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "newest": "2026-11-02T14:00:00+09:00"
+   "newest": "2026-11-04T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T18:01:39+00:00"
+   "newest": "2026-11-03T18:19:41+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-03T23:00:59+00:00"
+   "newest": "2026-11-03T23:42:34+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T23:32:00+00:00"
+   "newest": "2026-11-03T23:51:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:41:44+00:00"
+   "newest": "2026-11-03T21:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T23:01:08+00:00"
+   "newest": "2026-11-03T09:37:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T05:12:00+00:00"
+   "newest": "2026-11-03T21:58:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea FX Reserves Hit 4-Year High in October",
+   "url": "https://www.tradingview.com/news/te_news:597809:0-south-korea-fx-reserves-hit-4-year-high-in-october/",
+   "published_utc": "2026-11-03T23:25:33+00:00",
+   "title_original": "South Korea FX Reserves Hit 4-Year High in October",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "685e5d0d6fdf3394"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -858,6 +875,24 @@
    "live_wire": true,
    "manual": false,
    "id": "37b63c577e3f0995"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0SE9iZ2tQZC14SUNQVFk0QjFfWHB1cDJTU0hyRkprRkVLNVduRS1STFY1WmZ4eVAyT2doajh1dEw0dzY4Q2d2Q0dzSmRyZGozQlJqVjZUYWZELS1aS2N0SzBGbERIa0NSVE9lQnRSSQ?oc=5",
+   "published_utc": "2026-11-03T11:09:00+00:00",
+   "title_original": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c82ca9d3c103c641"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1566,23 +1601,6 @@
    "live_wire": false,
    "manual": false,
    "id": "846ee0bfb1232571"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Dawon Nexview To Acquire Real Estate Worth 17 Billion Won",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46J2OI:0-dawon-nexview-to-acquire-real-estate-worth-17-billion-won/",
-   "published_utc": "2026-11-03T06:11:40+00:00",
-   "title_original": "Dawon Nexview To Acquire Real Estate Worth 17 Billion Won",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "567c1a7a4745b675"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2890,7 +2908,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -2902,7 +2920,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "00ad06c1ef60465a"
+   "id": "59da3ca61ab4cc5e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3046,9 +3064,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "South Korean president plans to expand fiscal spending in 2027 budget bill, perhaps due to declining approval rating (Mainichi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlF6MTJqWlNyb3p5TVJZWjQtbndtVE92ZXhyN3Y1T2JVN3ZVSXAtdFFwRzFIc09JUEZRcUJpVTUxb2JPY1o4Wm8tbk53X3I0S2hRalc0YjdTUUt3X3NxeTZxMUlQUll3NE92YURRVzBfMUVkUV9OUGFTdDFBYURVZHRlU3Q5MkNfT0JoWWR3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZkc3Mkp1S1BiWWlKUW5QY2pCcm1heEVYczVmc3FkZndRaXBMSWRsdEIyV0NUbzd6Z1NmTGpyOWNiXzBNWlp1dUZIZE9XY1J0d0NOVnZsV2w0QWdxMlJPV1NLQWJ2ZEwwNjZlSjlvaFZTRkJJSV9GUWxWeFlqd00?oc=5",
    "published_utc": "2026-11-02T10:22:56+00:00",
-   "title_original": "韓国大統領、27年予算案で財政支出拡大へ 支持率低下が背景か (毎日新聞)",
+   "title_original": "韓国大統領、27年予算案で財政支出拡大へ 支持率低下が背景か（毎日新聞）",
    "region": "korea",
    "topics": [
     "fiscal",
@@ -3058,7 +3076,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "552b81c37b0e903b"
+   "id": "db2fcfc8a1033451"
   },
   {
    "source_id": "tradingview_live",
@@ -4992,8 +5010,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -5007,7 +5025,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -5495,24 +5513,6 @@
    "id": "5dbbecc69c06d83e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
-   "published_utc": "2026-11-01T02:46:04+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4912a6c184ed00f5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -5929,6 +5929,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-10-31T10:42:00+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8242,6 +8260,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -8559,23 +8594,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -9652,6 +9670,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5aa3b47584707755"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "[Breaking News] Bank of Japan freezes base interest rate... Maintain 1.25% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eUdFUDhiRGlvMGJPNGxVeFVDUzgwVXFNT3ZvWTJfMlE3OFJIekt2dkdDYWVWdm85R2lfSlhUaGo0T1hzcHVYZHV3elpIbzJ1bXhxQUU2RkJQUQ?oc=5",
+   "published_utc": "2026-10-30T03:32:22+00:00",
+   "title_original": "[속보] 일본은행, 기준금리 동결…연 1.25% 유지",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f63f83712d682792"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -25410,23 +25445,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25440,6 +25458,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -49157,23 +49192,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b470663e1f8bc72"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Sources of Changes in Current Account Balances (Projections for Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
-   "published_utc": "2026-10-04T23:50:00+00:00",
-   "title_original": "Sources of Changes in Current Account Balances (Projections for Oct.)",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "62c9d39b8568f039"
   },
   {
    "source_id": "manual_ia",
