@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T03:32:45.281982+00:00
+Última coleta: 2026-11-03T03:42:49.188885+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
-  🇨🇳 China          856
+  🇨🇳 China          858
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  877
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
   - [china] China's Consumer Inflation Likely Eased in October — Market Talk
   - [china] The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 
+  - [china] China's top trade negotiator meets with US agricultural trade delegation
+  - [china] After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for th
   - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
   - [china] China's central bank raises foreign exchange reserve ratio to ease pressure on RMB appreciation | Cross-Strait
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
@@ -26,7 +28,6 @@ Total: 3000 manchetes
   - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
   - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [japan] Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 bi
-  - [china] PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure
   - [korea] Youngwoo DSP, a company specializing in semiconductor and display equipment, recorded a good perform..
   - [china] Offshore Yuan Slides as PBOC Acts to Curb Rally
   - [korea] “So you’ve been waiting only for shareholder returns from Samsung Electronics and SK Hynix?” ... A policy that
@@ -52,11 +53,10 @@ Total: 3000 manchetes
   - [china] Hong Kong to drive global yuan use, PBOC official says
   - [japan] The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in
   - [taiwan] High inventories threaten Taiwan manufacturing PMI expansion
+  - [china] PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure
   - [korea] BOK sees consumer inflation remaining near 3 pct in Nov.
   - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [china] China to raise forex deposit reserve ratio to 6% starting November 15
-  - [china] China Central Bank: Aim Is to Better Manage Foreign Exchange Liquidity in Financial Institutions
-  - [china] China to Raise Foreign Exchange Reserve Requirement Ratio by 2 Percentage Points
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T03:32:45+00:00",
+      "published_utc": "2026-11-03T03:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

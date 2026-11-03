@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T03:32:45.281982+00:00",
- "collected_at_utc": "2026-11-03T03:32:45.281982+00:00",
+ "generated_at_utc": "2026-11-03T03:42:49.188885+00:00",
+ "collected_at_utc": "2026-11-03T03:42:49.188885+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 909,
-  "china": 856,
+  "china": 858,
   "taiwan": 358,
-  "korea": 877
+  "korea": 875
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T03:10:15+00:00"
+   "newest": "2026-11-03T03:29:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T03:00:21+00:00"
+   "newest": "2026-11-03T03:24:40+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:29:48+00:00"
+   "newest": "2026-11-03T01:53:45+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T03:31:14+00:00"
+   "newest": "2026-11-03T03:40:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T03:00:35+00:00"
+   "newest": "2026-11-03T02:47:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -377,6 +377,41 @@
    "live_wire": false,
    "manual": false,
    "id": "427d16437ff72ad7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's top trade negotiator meets with US agricultural trade delegation",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N459025:0-china-s-top-trade-negotiator-meets-with-us-agricultural-trade-delegation/",
+   "published_utc": "2026-11-03T03:26:13+00:00",
+   "title_original": "China's top trade negotiator meets with US agricultural trade delegation",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "19a089b800ef3d4c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财新",
+   "title_en": "After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for the first time in nearly five years.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LZ1Z3NVRWdGlUejB5UV9FRzJvOW5nV0hRWHF0Wkp6ZklLcjJFZl8teWgwR2pVeHdfTzBsTG5EUW4xLTI5czViLUxrenpfVlBnU0wyem9kQlgwVDFKU19zWVhR?oc=5",
+   "published_utc": "2026-11-03T03:25:00+00:00",
+   "title_original": "人民币升破6.65后 央行时隔近五年上调外汇存款准备金率至6%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b70211473cf43255"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -502,24 +537,6 @@
    "id": "0d6659a9c9680691"
   },
   {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVl3aHZtWlhyajlpU1RkRk1fbkhKT2JSQnVoV3dxa0U4bm1tWGRUUHI0d2d6amg0VDlMa0d1UUdIRnVFdkhlUllTLUNZNjk1UlNZUW1jbGNJT0lTZjZTQ195SU9DZXlxUU1scE5jZFZES0ZhRWo1WGxQaTlZYnV4TzJBbVNOWjhsT25MNU9tZHB5N3JubExtM2dJLXJXRWhuM3ZpUzBNREJjeEpQWkJTakNhS05UUktzTHhvODVrVDNLdGxhWjFN?oc=5",
-   "published_utc": "2026-11-03T02:29:48+00:00",
-   "title_original": "PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f99b2803b5c46502"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Youngwoo DSP, a company specializing in semiconductor and display equipment, recorded a good perform..",
@@ -627,7 +644,7 @@
    "source_name": "东方财富",
    "title_en": "2 percentage points! The central bank raises the foreign exchange deposit reserve ratio for financial institutions",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94SUdLSXFiUC0tRFhGaTE3d18yZk5ERGNDQURqZTY5RkxTZ1RXRkNXZGloV3FyQ25obWxVTDdlRl81cDBIbk16cmQzelFQdXF6WnpoQk1DcTRLeEdGNklxYU4yc3lldw?oc=5",
-   "published_utc": "2026-11-03T02:00:53+00:00",
+   "published_utc": "2026-11-03T02:01:52+00:00",
    "title_original": "2个百分点！央行上调金融机构外汇存款准备金率",
    "region": "china",
    "topics": [
@@ -954,6 +971,24 @@
    "live_wire": false,
    "manual": false,
    "id": "03588db5494337cb"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVl3aHZtWlhyajlpU1RkRk1fbkhKT2JSQnVoV3dxa0U4bm1tWGRUUHI0d2d6amg0VDlMa0d1UUdIRnVFdkhlUllTLUNZNjk1UlNZUW1jbGNJT0lTZjZTQ195SU9DZXlxUU1scE5jZFZES0ZhRWo1WGxQaTlZYnV4TzJBbVNOWjhsT25MNU9tZHB5N3JubExtM2dJLXJXRWhuM3ZpUzBNREJjeEpQWkJTakNhS05UUktzTHhvODVrVDNLdGxhWjFN?oc=5",
+   "published_utc": "2026-11-03T01:13:12+00:00",
+   "title_original": "PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f99b2803b5c46502"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3816,8 +3851,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -3831,7 +3866,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -25742,23 +25777,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "319bd5fb3aaf4d60"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "BOK holds rate at 3%, leaves door open to November hike",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25772,6 +25790,23 @@
    "live_wire": false,
    "manual": false,
    "id": "498c0e6782864fff"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "319bd5fb3aaf4d60"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51918,40 +51953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bd3eb1df024c468"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "서울파이낸스",
-   "title_en": "Floating rate loans increase despite consecutive increases in base interest rates... Household debt warning light",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xQVpsNXJmWW43UHd3aDY4M21GTWFmd1pJZ3FhRWZXVEs4NllEMVFBRkxOVzdsUERvYkVEei03VjVPdW1jbklmdGJjWWFqc3dhYUJUS21fNEZEQXBmeEVYa2Via0lkMi1pblE?oc=5",
-   "published_utc": "2026-10-11T05:00:00+00:00",
-   "title_original": "기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "218a9802d7c535c8"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Hacking attempts on BOK, state lenders top 1 million",
-   "url": "https://www.koreaherald.com/article/10898566",
-   "published_utc": "2026-10-11T04:55:11+00:00",
-   "title_original": "Hacking attempts on BOK, state lenders top 1 million",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "851f221515d82ef3"
   },
   {
    "source_id": "manual_ia",
