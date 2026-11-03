@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T13:52:44.523151+00:00
-Total: 2812 manchetes
+Última coleta: 2026-11-03T14:02:45.650403+00:00
+Total: 2813 manchetes
 
   🇯🇵 Japão          814
-  🇨🇳 China          831
+  🇨🇳 China          832
   🇹🇼 Taiwan         301
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [china] Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list
   - [korea] Samsung to make chip parts for AMD, Nvidia at Texas plant: report
   - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
   - [korea] SK hynix Secures Board Nomination Rights at Penguin Solutions with 9.1% Stake
@@ -56,7 +57,6 @@ Total: 2812 manchetes
   - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
-  - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2812 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T13:52:44+00:00",
+      "published_utc": "2026-11-03T14:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
