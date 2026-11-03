@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T20:32:45.185465+00:00
-Total: 2830 manchetes
+Última coleta: 2026-11-03T20:42:57.737240+00:00
+Total: 2831 manchetes
 
-  🇯🇵 Japão          818
+  🇯🇵 Japão          819
   🇨🇳 China          836
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
   - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
@@ -56,7 +57,6 @@ Total: 2830 manchetes
   - [taiwan] Foxconn's EV strategy opens new export routes for Taiwan
   - [china] The central bank invested a net 150 billion yuan in open market government bond sales in October
   - [korea] Korean beauty exports extend growth streak despite strong won
-  - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2830 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T20:32:45+00:00",
+      "published_utc": "2026-11-03T20:42:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
