@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T16:02:47.024172+00:00
-Total: 2818 manchetes
+Última coleta: 2026-11-03T16:12:44.315546+00:00
+Total: 2819 manchetes
 
   🇯🇵 Japão          814
-  🇨🇳 China          834
+  🇨🇳 China          835
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  868
 
@@ -31,6 +31,7 @@ Total: 2818 manchetes
   - [korea] AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report
   - [japan] What midterms might mean for the yen
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
+  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] China, Oman sign currency swap agreement
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
   - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
@@ -56,7 +57,6 @@ Total: 2818 manchetes
   - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
   - [korea] The base interest rate has risen... NIM of the four major banks falls simultaneously
-  - [china] PBOC Move Likely Aimed at Slowing Down, Not Reversing, Yuan's Appreciation — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2818 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T16:02:47+00:00",
+      "published_utc": "2026-11-03T16:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
