@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T19:33:01.055703+00:00
+Última coleta: 2026-11-03T19:43:03.600175+00:00
 Total: 2829 manchetes
 
   🇯🇵 Japão          818
@@ -24,6 +24,7 @@ Total: 2829 manchetes
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
   - [china] COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino
+  - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
   - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?
@@ -56,7 +57,6 @@ Total: 2829 manchetes
   - [korea] Korean beauty exports extend growth streak despite strong won
   - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
   - [taiwan] TSMC Has Raised T$14.8 Billion Via Unsecured Bonds
-  - [china] NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Ex
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2829 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T19:33:01+00:00",
+      "published_utc": "2026-11-03T19:43:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
