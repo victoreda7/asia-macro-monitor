@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T22:42:46.564325+00:00
+Última coleta: 2026-11-03T22:52:46.353795+00:00
 Total: 2838 manchetes
 
   🇯🇵 Japão          820
@@ -31,7 +31,6 @@ Total: 2838 manchetes
   - [korea] SK Hynix’s US expansion plans hit snag over China license delays - report
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
-  - [china] COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino
   - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
   - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
   - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
@@ -57,6 +56,7 @@ Total: 2838 manchetes
   - [china] Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid
   - [china] First time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio, and the o
   - [korea] HYBE Q3 2026 slides: record revenue hits KRW 1.5 trillion on BTS tour
+  - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2838 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T22:42:46+00:00",
+      "published_utc": "2026-11-03T22:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
