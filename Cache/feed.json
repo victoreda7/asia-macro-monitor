@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-03T02:22:44.675976+00:00",
- "collected_at_utc": "2026-11-03T02:22:44.675976+00:00",
+ "generated_at_utc": "2026-11-03T02:32:44.327013+00:00",
+ "collected_at_utc": "2026-11-03T02:32:44.327013+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 360,
   "korea": 879
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T18:44:39+00:00"
+   "newest": "2026-11-02T12:20:32+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-03T01:24:56+00:00"
+   "newest": "2026-11-03T02:23:09+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T02:21:06+00:00"
+   "newest": "2026-11-03T02:31:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:02:33+00:00"
+   "newest": "2026-11-03T02:07:59+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T22:21:00+00:00"
+   "newest": "2026-11-03T02:15:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -428,6 +428,24 @@
    "live_wire": false,
    "manual": false,
    "id": "cdc4d53e68cf82af"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exchange reserve ratio",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjZ2pyVFdaMlUxc25lRWx3b1JxYjUtN05uTzB1dFhqZ0xDclAzVEhrckE3ZHZuSU10dnRRUDhsUUYzWmhzY2pNUGI3TC1WdEpIOEh4cGNLRmdnVGV4WHk2Vg?oc=5",
+   "published_utc": "2026-11-03T01:47:49+00:00",
+   "title_original": "近5年首次上调！人民币升破6.65后，央行出手上调外汇存准率",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a392302357c4598e"
   },
   {
    "source_id": "tradingview_live",
@@ -584,23 +602,6 @@
    "live_wire": true,
    "manual": false,
    "id": "db7d51e25dc75957"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中金在线",
-   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsUGt1a21PUlctdHR4NjFPeENEbnBMUktjVHZqMk5FX0JTc2NjWjBfNl9fTTVsZk1SUkxldjliSjhac1Fxb1hKTDBzTjV0cE9XcFkxYXZtMkFfWjJGTm5uNHk5ZUhXa09OXzhpM3RB?oc=5",
-   "published_utc": "2026-11-03T01:29:05+00:00",
-   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9153c75d4d9b86b3"
   },
   {
    "source_id": "investing_econ",
@@ -811,6 +812,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4f17aaff79bfbc16"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93ZmhRYjd1SXhDaWM1Uk5LTHVDSEtJS1h1QVpGeWw3SU9tNS1mOWU2Z1pGT0txaWI2ZjlUTzJyUUV1UXQ1cmRtWnQ3Zk16Tnk0SnJ5cEFKeWY0VGxUd1k5dg?oc=5",
+   "published_utc": "2026-11-03T00:49:46+00:00",
+   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e10200b477067163"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2349,6 +2367,24 @@
    "id": "520822cfa00b843b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -2695,24 +2731,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e02f385258175764"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3155,7 +3173,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Japan’s Katayama Says Ready to Act for Stable FX Market",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1lPdWZRSl9ObzYzaE53dVQxLTdSekwzc2JqNEhPRVNLX2o3bzJoRFN3MlV6cEQ3RUI1UlVINlRqVnFWRS1GY0hhbXZ3c2lzVmRFMG1lZ1R3SkhnUXhwTFhpYXA0d3BUVDMydnpwZVh1TUdKTWplY2RGR0dKdmo0bGlfM3BKb1V2Y08yanlNQWplVXI3OUItZm9mbTByamE4b0RnZWxHNUhpdXZLZjZZSmFWVQ?oc=5",
    "published_utc": "2026-11-02T01:22:00+00:00",
@@ -7006,23 +7024,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -7358,6 +7359,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -33368,23 +33386,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -33400,6 +33401,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51929,24 +51947,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d553b56e79ea7a35"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazdIU0haQkxHSjdpaUNNYWZDUHRPdURGektXaDMya25meENBOFVzckRNY2VGUnAtR01GYnFhM0RuX3IwaG92OFc0dm1ldml4TEJJajFfbDBpamo3c0g4QlE0clY0TVlvOTYxa2hhOEhiYW5aN0UwQW1OeEdLVmwyX2RDczFJM3JPWXJ2cS1xNDR6YU9malB0Nw?oc=5",
-   "published_utc": "2026-10-10T15:30:33+00:00",
-   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5eb1651ecb843408"
   },
   {
    "source_id": "manual_ia",

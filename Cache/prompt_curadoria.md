@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T02:22:44.675976+00:00
+Última coleta: 2026-11-03T02:32:44.327013+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          916
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
+  - [china] The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exc
   - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
   - [china] China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan
   - [japan] Japan petrol subsidy cut could mark fiscal limit
@@ -31,7 +32,6 @@ Total: 3000 manchetes
   - [china] On November 3, the central bank launched a 621 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146
   - [china] Soy barge bids firm as exports to China continue
-  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
   - [china] China hikes forex deposit reserve ratio to 6%
   - [korea] BOK sees consumer inflation remaining near 3% in Nov.
   - [china] As the RMB continues to appreciate, the People's Bank of China raises the foreign exchange deposit reserve rat
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [china] China Central Bank: Aim Is to Better Manage Foreign Exchange Liquidity in Financial Institutions
   - [china] China to Raise Foreign Exchange Reserve Requirement Ratio by 2 Percentage Points
   - [china] China Central Bank: Decision Takes Effect Nov. 15
+  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
   - [china] The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions
   - [korea] LG Energy Solution: ESS-led shipments lifted Q3 revenue 28% QoQ and operating profit to KRW 756bn
   - [korea] South Korea Inflation Holds Firm, Bolstering Case for More Hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea October headline inflation moderates ahead of expected rate hike
   - [korea] South Korea Inflation Remains Above Target at 2.8% in October — Update
   - [korea] [Breaking news] Korea's October consumer price inflation rate 2.8%
-  - [korea] (LEAD) Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T02:22:44+00:00",
+      "published_utc": "2026-11-03T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
