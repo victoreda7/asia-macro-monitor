@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T00:42:53.547877+00:00
+Última coleta: 2026-11-03T00:52:48.474356+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
+  🇯🇵 Japão          919
   🇨🇳 China          846
   🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  876
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
+  - [china] The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions
   - [korea] LG Energy Solution: ESS-led shipments lifted Q3 revenue 28% QoQ and operating profit to KRW 756bn
   - [korea] US trade commission terminates Samsung chip patent probe following settlement with Netlist
   - [korea] Consumer prices up 2.8% in Oct., remain in 2% for 2nd month
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Manufacturing solid but strain of energy costs, supply disruptions starts to show
   - [japan] The BOJ accidentally made $440 billion in stocks
   - [china] China’s CXMT defends push into new DRAM architecture as US chip curbs bite
-  - [china] Economic Watch: Chinese central bank shifts policy rate anchor to overnight
-  - [china] China unearths new critical mineral deposit, bolstering supply chain security
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T00:42:53+00:00",
+      "published_utc": "2026-11-03T00:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

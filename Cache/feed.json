@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T00:42:53.547877+00:00",
- "collected_at_utc": "2026-11-03T00:42:53.547877+00:00",
+ "generated_at_utc": "2026-11-03T00:52:48.474356+00:00",
+ "collected_at_utc": "2026-11-03T00:52:48.474356+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 920,
+  "japan": 919,
   "china": 846,
   "taiwan": 359,
-  "korea": 875
+  "korea": 876
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 31.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:38:21+00:00"
+   "newest": "2026-11-03T00:17:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T00:23:22+00:00"
+   "newest": "2026-11-03T00:42:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-02T23:36:27+00:00"
+   "newest": "2026-11-03T00:24:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T11:25:00+00:00"
+   "newest": "2026-11-03T00:45:52+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T00:40:00+00:00"
+   "newest": "2026-11-03T00:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:18:51+00:00"
+   "newest": "2026-11-02T20:17:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-02T13:43:53+00:00"
+   "newest": "2026-11-03T00:47:57+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93ZmhRYjd1SXhDaWM1Uk5LTHVDSEtJS1h1QVpGeWw3SU9tNS1mOWU2Z1pGT0txaWI2ZjlUTzJyUUV1UXQ1cmRtWnQ3Zk16Tnk0SnJ5cEFKeWY0VGxUd1k5dg?oc=5",
+   "published_utc": "2026-11-03T00:45:52+00:00",
+   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e10200b477067163"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网财经",
+   "title_en": "The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4TXE1UEFJY0xzRXdFU3FmbHBmcjZydEtqWVhhT3lOQUlKSlRXSnBwOVpHa083d1pfYjhxcEtVRk4wQnRGeTB2X0xRTW5LX3pO?oc=5",
+   "published_utc": "2026-11-03T00:45:38+00:00",
+   "title_original": "央行决定上调金融机构外汇存款准备金率",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a564d87c10d63d5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -1598,23 +1632,6 @@
    "id": "2f9a5a41034bd86b"
   },
   {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "China’s soaring chemical exports threaten new trade war front",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "published_utc": "2026-11-02T06:43:12+00:00",
-   "title_original": "China’s soaring chemical exports threaten new trade war front",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "df2b989e59d14b9d"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Contraction",
@@ -1647,6 +1664,23 @@
    "live_wire": false,
    "manual": false,
    "id": "07b0fc9d524039f4"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "China’s soaring chemical exports threaten new trade war front",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
+   "published_utc": "2026-11-02T06:42:16+00:00",
+   "title_original": "China’s soaring chemical exports threaten new trade war front",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "df2b989e59d14b9d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1791,6 +1825,24 @@
    "live_wire": false,
    "manual": false,
    "id": "520822cfa00b843b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
+   "published_utc": "2026-11-02T05:50:39+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a39db8f143fc814c"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2141,24 +2193,6 @@
    "id": "e02f385258175764"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
@@ -2298,24 +2332,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cdea8672f307ea0e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXZFZzS1d3ZWoxV1Iwa0ZKQUVVU2h3akpSei01Y29haFJpamZqMkFkN1F2YnZZOF9DRzBoUlJUU3RPRzlZa0cyUW8tekdUa3NWV3NYdDNSdFhLUGNxTlFjdmlrQmd4Zw?oc=5",
-   "published_utc": "2026-11-02T02:22:22+00:00",
-   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f67aeb17e7aae4f7"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2489,6 +2505,24 @@
    "live_wire": false,
    "manual": false,
    "id": "abbad051b44a12ce"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BV3RNNG1SNk5Wc1RmeTIxRE9GNlBKSFA3X2dVRDJOaFRwdGw3SHFkenRFNmg2V0ducEJUNXY1VjJiei1WWGpfXzlMMEZkSTNUSTYxZG9lNm9Rc0dMRE9ObGZoN1MwbFJ6?oc=5",
+   "published_utc": "2026-11-02T01:35:09+00:00",
+   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1946553e4f8f0b7b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2997,8 +3031,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -3012,7 +3046,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -11601,6 +11635,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cae7ab186e3dd7f5"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "The Bank of Korea is wary of freezing U.S. interest rates... “Policy uncertainty is high after the U.S. midterm elections.”",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00YjhLVnliOFk0SkZoXzV2TkRoSWVOenBlb2RzRFJrZ1NqVnppNGJoM0hTSmtvTnV5dmYzRmRvZktkVTI2RDZXdk1zX2J1WjhuYzhuM2xpYkVmdldS?oc=5",
+   "published_utc": "2026-10-29T00:32:00+00:00",
+   "title_original": "한은, 美 금리 동결에도 경계…\"美 중간선거 후 정책 불확실성 높다\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3b62d255c388f4de"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -32778,23 +32829,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -32810,6 +32844,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51895,57 +51946,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b48e9cd9157b3996"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Reactions to US imposing sanctions on International Criminal Court",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHUxbm9jdTRzNzR1d1UteGF1XzZDbW5BSV8tYzY2cGVmODFLR0hlQnpZX2M2LU5rblNhNmw4V3FkV2VyRElZRnhaSzRKRFJHLUdjaklvMTRyZ3NsckNSZGMteHpSRXZXamRDS1hPYTd1WTA1ZVRLYU5DMUhmT1VIUWNlYmE2dUo2RDNCSVRiTFVySUJnX3NSWkllTlFycVFCWkRpSQ?oc=5",
-   "published_utc": "2026-10-09T17:19:32+00:00",
-   "title_original": "Reactions to US imposing sanctions on International Criminal Court",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "190ceeaad80611bc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261009005269:0-eu-says-it-reached-understanding-with-china-to-cut-back-hybrid-vehicle-exports-update/",
-   "published_utc": "2026-10-09T16:39:00+00:00",
-   "title_original": "EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9d13660147e41582"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Tariffs targeting China's Temu, Shein shrink US small parcel deliveries",
-   "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/tariffs-targeting-china-s-temu-shein-shrink-us-small-parcel-deliveries",
-   "published_utc": "2026-10-09T16:12:41.849990+00:00",
-   "title_original": "Tariffs targeting China's Temu, Shein shrink US small parcel deliveries",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1220b8a69be60648"
   },
   {
    "source_id": "manual_ia",
