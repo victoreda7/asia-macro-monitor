@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T09:42:45.127748+00:00
+Última coleta: 2026-11-03T09:52:45.630669+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
-  🇨🇳 China          874
-  🇹🇼 Taiwan         358
+  🇨🇳 China          872
+  🇹🇼 Taiwan         360
   🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] China-made Tesla electric vehicle sales rose 10.3% year-on-year in October
+  - [taiwan] Hong Kong Government: Export growth is accelerating and internal demand is solid. Hong Kong’s economy grew by 
   - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
   - [korea] NPS sacks real estate head, stalling $900 mn in 2026 fund commitments
   - [korea] Korean beauty exports extend growth streak despite strong won
@@ -28,6 +30,8 @@ Total: 3000 manchetes
   - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [korea] Kim, a representative K-food player, surpassed KRW 1 trillion in production for the first time in Gw..
   - [korea] The contract for rare obesity treatment, which LG Chem exported technology to U.S. bio companies, ha..
+  - [taiwan] Student skygazer in Taoyuan captures rare images of red sprites
+  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
   - [korea] The base interest rate has risen... NIM of the four major banks falls simultaneously
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
   - [china] The central bank steps to ease the pressure on RMB appreciation and raises the foreign exchange deposit reserv
-  - [korea] SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live
-  - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
-  - [china] China's central bank conducts 100 billion yuan of swap operations
-  - [china] China Talks Up Market Openness While Steering Stocks and Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T09:42:45+00:00",
+      "published_utc": "2026-11-03T09:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
