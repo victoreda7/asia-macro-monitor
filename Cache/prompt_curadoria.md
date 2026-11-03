@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T07:22:44.430445+00:00
+Última coleta: 2026-11-03T07:32:44.979376+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
-  🇨🇳 China          869
+  🇨🇳 China          870
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  877
+  🇰🇷 Coreia do Sul  876
 
 ## O que já está no feed (não repita)
 
+  - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
   - [china] The war in the Middle East pushed up inflation and the Australian central bank raised interest rates by 1 poin
   - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
@@ -49,14 +50,13 @@ Total: 3000 manchetes
   - [china] China's top trade negotiator meets with US agricultural trade delegation
   - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
   - [china] After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for th
+  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [china] China's central bank raises foreign exchange reserve ratio to ease pressure on RMB appreciation | Cross-Strait
   - [china] PBoC to Raise FX Reserve Requirement to 6%
   - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
   - [japan] Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 bi
   - [korea] Youngwoo DSP, a company specializing in semiconductor and display equipment, recorded a good perform..
   - [china] Offshore Yuan Slides as PBOC Acts to Curb Rally
-  - [korea] “So you’ve been waiting only for shareholder returns from Samsung Electronics and SK Hynix?” ... A policy that
-  - [korea] Asian currencies mostly lower; South Korean won bucks trend
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T07:22:44+00:00",
+      "published_utc": "2026-11-03T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
