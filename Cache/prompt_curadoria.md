@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T13:12:44.515271+00:00
+Última coleta: 2026-11-03T13:22:45.406688+00:00
 Total: 2814 manchetes
 
   🇯🇵 Japão          818
-  🇨🇳 China          830
+  🇨🇳 China          829
   🇹🇼 Taiwan         301
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung to make chip parts for AMD, Nvidia at Texas plant: report
+  - [korea] SK hynix Secures Board Nomination Rights at Penguin Solutions with 9.1% Stake
   - [china] Dollar drifts on Mideast, midterm risks; Aussie and yuan dip
   - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
   - [china] After raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize th
@@ -55,8 +57,6 @@ Total: 2814 manchetes
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
   - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
-  - [china] China's State Council removes Winnie Ho from HKSAR gov't post
-  - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2814 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T13:12:44+00:00",
+      "published_utc": "2026-11-03T13:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
