@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T06:52:43.444303+00:00
+Última coleta: 2026-11-03T07:02:47.438763+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          898
-  🇨🇳 China          867
+  🇯🇵 Japão          897
+  🇨🇳 China          868
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial instituti
+  - [korea] Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 delive
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
   - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
   - [china] The central bank stabilizes the exchange rate and then takes action to raise the foreign exchange deposit rese
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Offshore Yuan Slides as PBOC Acts to Curb Rally
   - [korea] “So you’ve been waiting only for shareholder returns from Samsung Electronics and SK Hynix?” ... A policy that
   - [korea] Asian currencies mostly lower; South Korean won bucks trend
-  - [korea] Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea
-  - [china] Iron ore dips on higher shipments, sluggish China demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T06:52:43+00:00",
+      "published_utc": "2026-11-03T07:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T06:52:43.444303+00:00",
- "collected_at_utc": "2026-11-03T06:52:43.444303+00:00",
+ "generated_at_utc": "2026-11-03T07:02:47.438763+00:00",
+ "collected_at_utc": "2026-11-03T07:02:47.438763+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 898,
-  "china": 867,
+  "japan": 897,
+  "china": 868,
   "taiwan": 357,
   "korea": 878
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T03:37:04+00:00"
+   "newest": "2026-11-03T04:29:40+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T06:33:59+00:00"
+   "newest": "2026-11-03T06:52:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T06:30:22+00:00"
+   "newest": "2026-11-03T06:48:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T06:19:35+00:00"
+   "newest": "2026-11-03T06:18:51+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-31T01:30:00+00:00"
+   "newest": "2026-11-03T00:51:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T06:31:48+00:00"
+   "newest": "2026-11-03T06:58:53+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:24:00+00:00"
+   "newest": "2026-11-03T06:13:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T06:52:31+00:00"
+   "newest": "2026-11-03T07:02:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:18:51+00:00"
+   "newest": "2026-11-03T02:20:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China decides to raise the foreign exchange deposit reserve ratio for financial institutions to 6%",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91dFlTZ2V4VjBYZEwtVXJaeHB5ckFpWFRxR1d4Um94RzkzdFprdFlJOV95bU80WE9YWnhReTI5MjFrMjZLWGdFUktuTEZXU2luUFRSTnJ2dEtyMnZ4NThEVnkydHAyTFl1?oc=5",
+   "published_utc": "2026-11-03T06:58:53+00:00",
+   "title_original": "中国央行决定上调金融机构外汇存款准备金率至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6e297ef2372eeb9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 deliveries began",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4277088:0-korea-aerospace-industries-export-led-orders-surged-as-revenue-grew-but-net-income-declined-and-kf-21-deliveries-began/",
+   "published_utc": "2026-11-03T06:53:25+00:00",
+   "title_original": "Korea Aerospace Industries: Export-led orders surged as revenue grew, but net income declined and KF-21 deliveries began",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0ee79464cfb5d01f"
+  },
   {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
@@ -1666,23 +1700,6 @@
    "id": "48a55f6c97e412a1"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Parkway Life REIT: Gross Rev, Property Income Fell On Weaker Yen, Tenant Exit At Five Japan Nursing Homes >C2PU.SG",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102012471_20261102012474:0-parkway-life-reit-gross-rev-property-income-fell-on-weaker-yen-tenant-exit-at-five-japan-nursing-homes-c2pu-sg/",
-   "published_utc": "2026-11-03T00:00:00+00:00",
-   "title_original": "Parkway Life REIT: Gross Rev, Property Income Fell On Weaker Yen, Tenant Exit At Five Japan Nursing Homes >C2PU.SG",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "44a777e16ab45fac"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "South Korea CPI grows less than expected in Oct",
@@ -2219,7 +2236,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -2231,7 +2248,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "00ad06c1ef60465a"
+   "id": "59da3ca61ab4cc5e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3799,7 +3816,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTzFHektSNXdYMGZBU1haMm9LSnJ0V2UyOTNzSEpfS3V2ZzF2UFRwZlFEUEV4Q0FGeldmTjdPMXhzaVE2ZXBKXzZBUGlTa2JHSGtFdzdLR2dTOWM5OGVmeW5RRW42Qmh3em9KLU1TQlpqaVB4WEczSTBDNDhKaFk?oc=5",
    "published_utc": "2026-11-02T01:55:22+00:00",
    "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
    "region": "japan",
@@ -3811,7 +3828,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4e9207eb5797c45b"
+   "id": "ecfe98aaee698b0f"
   },
   {
    "source_id": "investing_econ",
@@ -51938,23 +51955,6 @@
    "live_wire": false,
    "manual": false,
    "id": "689877dc101b1602"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Humanoids emerge as new growth engine for Samsung, SK Hynix",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQjNHUnV1Tm11OVdYdEtkVEtZQWl3MmxyaG4xeG1lbXZkc0pHVi1KSTRVd0RpbTRSX1JQUF9tSkVrc29TWnpLdFBfNXJBcTlhVXVVRlVlRkUtTHBKT28tT19IX3NubDFtVlBPZ0pyY1FVeEdTUHdJ?oc=5",
-   "published_utc": "2026-10-11T21:54:08+00:00",
-   "title_original": "Humanoids emerge as new growth engine for Samsung, SK Hynix",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a0577db7555f2ccf"
   },
   {
    "source_id": "manual_ia",
