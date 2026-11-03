@@ -1,65 +1,233 @@
 {
- "generated_at_utc": "2026-11-03T18:32:45.799668+00:00",
- "collected_at_utc": "2026-11-03T18:32:45.799668+00:00",
+ "generated_at_utc": "2026-11-03T18:45:21.773089+00:00",
+ "collected_at_utc": "2026-11-03T18:45:21.773089+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 14,
  "sources_total": 41,
  "count": 2823,
  "by_region": {
   "japan": 814,
-  "china": 837,
+  "china": 836,
   "taiwan": 302,
-  "korea": 870
+  "korea": 871
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 186.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 42,
-   "error": "",
-   "newest": "2026-11-02T14:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
    "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T18:29:08+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_cn_caixin",
    "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T08:47:00+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_tw_digitimes",
    "name": "DIGITIMES",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T09:42:11+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_ft",
    "name": "FT Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T17:00:20+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-02T12:05:00+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "name": "MOF Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_udn",
+   "name": "UDN / 經濟日報",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "focus_taiwan",
@@ -94,28 +262,12 @@
    "newest": "2026-11-03T13:24:00+00:00"
   },
   {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T17:00:00+00:00"
-  },
-  {
    "source_id": "ked_global",
    "name": "KED Global",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": ""
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T18:19:41+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -126,52 +278,12 @@
    "newest": "2026-11-02T17:20:00+09:00"
   },
   {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T02:54:03+00:00"
-  },
-  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
    "count": 50,
    "error": "",
    "newest": "2026-11-03T10:02:22+00:00"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-02T09:23:00+00:00"
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "name": "MOF Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": true,
-   "count": 23,
-   "error": "",
-   "newest": "2026-11-03T00:51:00+00:00"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-01T15:47:46+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -198,46 +310,6 @@
    "newest": ""
   },
   {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T15:35:10+00:00"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T17:07:44+00:00"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T15:36:09+00:00"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T10:57:44+00:00"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-02T20:20:16+00:00"
-  },
-  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
@@ -246,52 +318,12 @@
    "newest": "2026-11-03T18:08:43+00:00"
   },
   {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T11:00:09+00:00"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-02T16:00:00+00:00"
-  },
-  {
    "source_id": "tradingview_live",
    "name": "TradingView (ao vivo)",
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T18:21:53+00:00"
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "name": "UDN / 經濟日報",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T14:22:04+00:00"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T15:50:45+00:00"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T11:02:10+00:00"
+   "newest": "2026-11-03T18:43:54+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -302,44 +334,12 @@
    "newest": "2026-11-03T14:40:16+00:00"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T08:00:00+00:00"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T14:09:00+00:00"
-  },
-  {
    "source_id": "toyo_keizai",
    "name": "東洋経済オンライン",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": "2026-11-03T19:00:00+09:00"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T09:37:12+00:00"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-03T05:12:00+00:00"
   }
  ],
  "items": [
@@ -359,6 +359,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a66c64e501da93d1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant",
+   "url": "https://www.tradingview.com/news/gurufocus:f4f9f6f36094b:0-samsung-secures-amd-nvidia-orders-for-new-texas-chip-plant/",
+   "published_utc": "2026-11-03T18:21:15+00:00",
+   "title_original": "Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e0c1a5f4ae440bb9"
   },
   {
    "source_id": "tradingview_live",
@@ -1446,23 +1463,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8581a6603f329e4d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chinese stocks drop as policy measures disappoint, but yuan rally halted",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46K03D:0-chinese-stocks-drop-as-policy-measures-disappoint-but-yuan-rally-halted/",
-   "published_utc": "2026-11-03T05:06:26+00:00",
-   "title_original": "Chinese stocks drop as policy measures disappoint, but yuan rally halted",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aed7e654822bfc8d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4822,8 +4822,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -4837,7 +4837,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
