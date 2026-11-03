@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T18:02:54.365721+00:00",
- "collected_at_utc": "2026-11-03T18:02:54.365721+00:00",
+ "generated_at_utc": "2026-11-03T18:12:47.505743+00:00",
+ "collected_at_utc": "2026-11-03T18:12:47.505743+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2822,
+ "count": 2823,
  "by_region": {
   "japan": 814,
   "china": 837,
   "taiwan": 302,
-  "korea": 869
+  "korea": 870
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T10:01:21+00:00"
+   "newest": "2026-11-03T17:00:20+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T17:32:16+00:00"
+   "newest": "2026-11-03T18:05:50+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T17:31:30+00:00"
+   "newest": "2026-11-03T17:36:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-03T15:33:47+00:00"
+   "newest": "2026-11-03T18:08:43+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T06:47:21+00:00"
+   "newest": "2026-11-03T08:00:00+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T05:12:00+00:00"
+   "newest": "2026-11-03T07:53:58+00:00"
   }
  ],
  "items": [
@@ -4018,23 +4018,6 @@
    "id": "b42f88d775cae7a8"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -4051,6 +4034,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -11566,6 +11566,25 @@
    "live_wire": false,
    "manual": false,
    "id": "9c357eebd05ece6c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "이데일리",
+   "title_en": "Waiting for a raise after freezing... Korea-U.S. monetary policies are becoming similar and attention is focused on prices",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVm4xWHAxQXFIQktBMFZPbFZZQnBqNi1DTTluRk1TWVVyM0t1dXpqVFZJM3plbTdCR0V4bkt6ZVRydW9VdFZWRl9qVnFZcm04Q2Q2NWZKaGx5MGVSaDdBUVdzNjVVRE1TdUVpVXhxYXhWS3RWd0dWZjg3elFvZ0xsNA?oc=5",
+   "published_utc": "2026-10-29T08:07:35+00:00",
+   "title_original": "동결 후 인상 대기…닮아가는 한미 통화정책과 물가로 쏠리는 눈",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "84f4b2d81e5e4386"
   },
   {
    "source_id": "gn_jp_yahoo",
