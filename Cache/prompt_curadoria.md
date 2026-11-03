@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T03:52:43.658007+00:00
+Última coleta: 2026-11-03T03:53:34.360086+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
-  🇨🇳 China          858
-  🇹🇼 Taiwan         358
+  🇨🇳 China          859
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
   - [china] China's Consumer Inflation Likely Eased in October — Market Talk
   - [china] The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 
   - [china] China's top trade negotiator meets with US agricultural trade delegation
@@ -55,7 +56,6 @@ Total: 3000 manchetes
   - [taiwan] High inventories threaten Taiwan manufacturing PMI expansion
   - [china] PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure
   - [korea] BOK sees consumer inflation remaining near 3 pct in Nov.
-  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [china] China to raise forex deposit reserve ratio to 6% starting November 15
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T03:52:43+00:00",
+      "published_utc": "2026-11-03T03:53:34+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
