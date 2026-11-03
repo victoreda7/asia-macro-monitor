@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T10:42:44.299146+00:00
+Última coleta: 2026-11-03T10:52:44.862031+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          896
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
   - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
   - [china] The central bank stabilizes the exchange rate and then takes action to raise the foreign exchange deposit rese
+  - [china] The first increase in the past five years! The central bank rarely takes action, expert interpretation
   - [korea] Dawon Nexview To Acquire Real Estate Worth 17 Billion Won
   - [japan] Parkway Life Real Estate Investment Trust: Singapore rent growth lifted distributions as Japan FX pressure off
-  - [china] Yuan Weakens as PBOC Signals Discomfort With Rapid Gains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T10:42:44+00:00",
+      "published_utc": "2026-11-03T10:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
