@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T04:22:43.826386+00:00
+Última coleta: 2026-11-03T04:32:43.958199+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
-  🇨🇳 China          861
+  🇯🇵 Japão          908
+  🇨🇳 China          862
   🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  874
 
@@ -38,6 +38,8 @@ Total: 3000 manchetes
   - [korea] Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] 2 percentage points! The central bank raises the foreign exchange deposit reserve ratio for financial institut
+  - [korea] BOK expects inflation to remain in upper 2% range in November
+  - [korea] Samsung Electronics, SK hynix plunge as U.S. chip stocks tumble
   - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
   - [china] The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exc
   - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] As the RMB continues to appreciate, the People's Bank of China raises the foreign exchange deposit reserve rat
   - [china] Hong Kong to drive global yuan use, PBOC official says
   - [japan] The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in
-  - [taiwan] High inventories threaten Taiwan manufacturing PMI expansion
-  - [china] PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T04:22:44+00:00",
+      "published_utc": "2026-11-03T04:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
