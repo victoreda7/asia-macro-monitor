@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T07:42:44.642065+00:00
+Última coleta: 2026-11-03T07:52:45.025440+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
-  🇨🇳 China          870
+  🇨🇳 China          871
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  876
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [china] PBOC Move Likely Aimed at Slowing Down, Not Reversing, Yuan's Appreciation — Market Talk
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
   - [china] Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground
@@ -36,6 +37,7 @@ Total: 3000 manchetes
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
   - [china] The central bank steps to ease the pressure on RMB appreciation and raises the foreign exchange deposit reserv
+  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [korea] SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live
   - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
   - [china] China's central bank conducts 100 billion yuan of swap operations
@@ -43,6 +45,7 @@ Total: 3000 manchetes
   - [china] Why is the Chinese Yuan falling today?
   - [taiwan] TSMC's next US chip plant could land in Sherman
   - [korea] South Korean Won Recovers as Oil Prices Retreat
+  - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
   - [china] PBOC's Forex Deposit Move Underscores Focus on Controlled Yuan Appreciation — Market Talk
   - [china] Meituan Unveils New AI Model Trained on Homegrown Chips
   - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [china] China's central bank raises foreign exchange reserve ratio to ease pressure on RMB appreciation | Cross-Strait
   - [china] PBoC to Raise FX Reserve Requirement to 6%
-  - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
-  - [japan] Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 bi
-  - [korea] Youngwoo DSP, a company specializing in semiconductor and display equipment, recorded a good perform..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T07:42:44+00:00",
+      "published_utc": "2026-11-03T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
