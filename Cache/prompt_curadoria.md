@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T15:52:50.560017+00:00
+Última coleta: 2026-11-03T16:02:47.024172+00:00
 Total: 2818 manchetes
 
   🇯🇵 Japão          814
-  🇨🇳 China          835
+  🇨🇳 China          834
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
+  - [korea] Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?
   - [china] China's State Council announces removal of officials
   - [china] Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list
   - [korea] Samsung to make chip parts for AMD, Nvidia at Texas plant: report
@@ -55,8 +57,6 @@ Total: 2818 manchetes
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
   - [korea] The base interest rate has risen... NIM of the four major banks falls simultaneously
   - [china] PBOC Move Likely Aimed at Slowing Down, Not Reversing, Yuan's Appreciation — Market Talk
-  - [china] Iron ore dips on higher shipments, sluggish China demand
-  - [china] Asian currencies mixed as Aussie falls after RBA hike, yuan weakens
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2818 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T15:52:50+00:00",
+      "published_utc": "2026-11-03T16:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
