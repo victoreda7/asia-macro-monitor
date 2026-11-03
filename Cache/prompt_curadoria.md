@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T08:22:43.101290+00:00
+Última coleta: 2026-11-03T08:32:47.725659+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
-  🇨🇳 China          871
+  🇨🇳 China          872
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
   - [china] PBOC Move Likely Aimed at Slowing Down, Not Reversing, Yuan's Appreciation — Market Talk
   - [china] Iron ore dips on higher shipments, sluggish China demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
   - [china] After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for th
   - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
-  - [china] China's central bank raises foreign exchange reserve ratio to ease pressure on RMB appreciation | Cross-Strait
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T08:22:43+00:00",
+      "published_utc": "2026-11-03T08:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
