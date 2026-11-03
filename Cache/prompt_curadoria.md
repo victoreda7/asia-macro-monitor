@@ -7,26 +7,30 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T01:52:43.522012+00:00
+Última coleta: 2026-11-03T02:02:49.120694+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
-  🇨🇳 China          847
+  🇨🇳 China          848
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  876
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [china] Iron ore dips on higher shipments, sluggish China demand
+  - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
   - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
   - [china] China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan
   - [japan] Japan petrol subsidy cut could mark fiscal limit
   - [china] CHINA PBOC CONDUCTS CNY621 BLN VIA O/N REVERSE REPO TUES
   - [china] The central bank took action to cool down the RMB and raised the foreign exchange deposit reserve ratio to 6%.
+  - [china] On November 3, the central bank launched a 621 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146
   - [china] Soy barge bids firm as exports to China continue
   - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
   - [china] China hikes forex deposit reserve ratio to 6%
   - [korea] BOK sees consumer inflation remaining near 3% in Nov.
+  - [china] As the RMB continues to appreciate, the People's Bank of China raises the foreign exchange deposit reserve rat
   - [japan] The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in
   - [korea] BOK sees consumer inflation remaining near 3 pct in Nov.
   - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] "Kuroda Higashihiko confesses" Kazuo Ueda was not the first candidate for the "Governor of the Bank of Japan".
   - [japan] Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen eases
   - [japan] Japan's Aisin develops new type of AI chip that cuts energy use 98%
-  - [japan] Mr. Kuroda Higashihiko confessed that Mr. Kazuo Ueda was not the first candidate for the "Governor of the Bank
-  - [japan] This wasn't supposed to happen 13 years and 9 months later, the Bank of Japan reaches its 2% inflation target,
-  - [japan] Netanyahu's ruling party falls short of the majority in Israel's general election, and although Arab parties m
-  - [japan] The great yen rebalancing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T01:52:43+00:00",
+      "published_utc": "2026-11-03T02:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
