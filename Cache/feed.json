@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T17:02:46.628527+00:00",
- "collected_at_utc": "2026-11-03T17:02:46.628527+00:00",
+ "generated_at_utc": "2026-11-03T17:12:45.189015+00:00",
+ "collected_at_utc": "2026-11-03T17:12:45.189015+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2821,
+ "count": 2822,
  "by_region": {
   "japan": 814,
-  "china": 836,
+  "china": 837,
   "taiwan": 302,
   "korea": 869
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T16:45:11+00:00"
+   "newest": "2026-11-03T17:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T11:39:29+00:00"
+   "newest": "2026-11-03T16:02:58+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T17:01:45+00:00"
+   "newest": "2026-11-03T17:11:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T06:47:21+00:00"
+   "newest": "2026-11-03T08:00:00+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T07:53:58+00:00"
+   "newest": "2026-11-03T05:12:00+00:00"
   }
  ],
  "items": [
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "76b6437dd3a9f21b"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVEtZjN3a1VlNmVtZEZwSm5PZHNsbEdBa0cwazNkUEUyc0FPaVNlSnY2ejNqX0FrS0VGWjBkN3FFMDN1TkozOUVfdGhEOW1TR0ZJeVducU5nYnQwU094VDFjWGVtYWFOQkx4WUlqS0J4ZmFOQV9NVHZhWUVHQnFmc0Vvc0VGSkVpU3FvNlBSUTFmVUQwRk84VHlaTTNRS2JPR0R3V1BaU1dtNnVZeEhVWi1FUXl1UlhTTFhmeWZoY01MQk54N3ZTT1RVNUN1SWZh?oc=5",
+   "published_utc": "2026-11-03T16:02:58+00:00",
+   "title_original": "COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "57e1f44369a122d5"
   },
   {
    "source_id": "tradingview_live",
@@ -4141,24 +4158,6 @@
    "id": "cdea8672f307ea0e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXZFZzS1d3ZWoxV1Iwa0ZKQUVVU2h3akpSei01Y29haFJpamZqMkFkN1F2YnZZOF9DRzBoUlJUU3RPRzlZa0cyUW8tekdUa3NWV3NYdDNSdFhLUGNxTlFjdmlrQmd4Zw?oc=5",
-   "published_utc": "2026-11-02T02:22:22+00:00",
-   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f67aeb17e7aae4f7"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
@@ -4330,6 +4329,24 @@
    "live_wire": false,
    "manual": false,
    "id": "abbad051b44a12ce"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BV3RNNG1SNk5Wc1RmeTIxRE9GNlBKSFA3X2dVRDJOaFRwdGw3SHFkenRFNmg2V0ducEJUNXY1VjJiei1WWGpfXzlMMEZkSTNUSTYxZG9lNm9Rc0dMRE9ObGZoN1MwbFJ6?oc=5",
+   "published_utc": "2026-11-02T01:35:09+00:00",
+   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1946553e4f8f0b7b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4804,8 +4821,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -4819,7 +4836,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -5324,24 +5341,6 @@
    "id": "5dbbecc69c06d83e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
-   "published_utc": "2026-11-01T02:46:04+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4912a6c184ed00f5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -5758,6 +5757,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-10-31T10:42:00+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -25130,23 +25147,6 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
    "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -25160,6 +25160,23 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "498c0e6782864fff"
   },
   {
    "source_id": "gn_kr_yonhap",
