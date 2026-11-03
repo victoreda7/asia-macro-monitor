@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T02:52:42.508937+00:00",
- "collected_at_utc": "2026-11-03T02:52:42.508937+00:00",
+ "generated_at_utc": "2026-11-03T03:02:44.099200+00:00",
+ "collected_at_utc": "2026-11-03T03:02:44.099200+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 914,
-  "china": 847,
+  "japan": 913,
+  "china": 848,
   "taiwan": 359,
   "korea": 880
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:39:00+00:00"
+   "newest": "2026-11-03T02:37:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:00:00+00:00"
+   "newest": "2026-11-03T02:27:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T02:31:35+00:00"
+   "newest": "2026-11-03T02:48:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T02:31:02+00:00"
+   "newest": "2026-11-03T02:42:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-03T02:32:45+00:00"
+   "newest": "2026-11-03T02:54:03+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:27:00+00:00"
+   "newest": "2026-11-02T03:23:21+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:33:47+00:00"
+   "newest": "2026-11-02T22:11:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T02:48:00+00:00"
+   "newest": "2026-11-03T03:01:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:47:33+00:00"
+   "newest": "2026-11-03T02:40:59+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -360,6 +360,24 @@
    "live_wire": false,
    "manual": false,
    "id": "eb08c742bed91b2e"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVdSMnhjS2dEckEzRDNTTDhEcE03WU4zUTJHMmk4dUZ4LWtnbDVROGx0UnRoVmFiTHBUN3BfU2hPai0tektpZkZscDFhWkw0SzlNdURnYlRrQzBreldyMDQ0TTk3anpjaWFRWFpobUZvclNRMWlQbGZidDZHd1NVVjFwVkVaSXBNZklvLURUdE1sWHFUbzBBM0dlaTE1VkFyZDhKVlBNOUxNNUlscUxCdk53?oc=5",
+   "published_utc": "2026-11-03T02:37:00+00:00",
+   "title_original": "Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1aa574d3707146b1"
   },
   {
    "source_id": "toyo_keizai",
@@ -1558,7 +1576,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -1570,7 +1588,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "00ad06c1ef60465a"
+   "id": "59da3ca61ab4cc5e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2962,6 +2980,24 @@
    "id": "cdea8672f307ea0e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXZFZzS1d3ZWoxV1Iwa0ZKQUVVU2h3akpSei01Y29haFJpamZqMkFkN1F2YnZZOF9DRzBoUlJUU3RPRzlZa0cyUW8tekdUa3NWV3NYdDNSdFhLUGNxTlFjdmlrQmd4Zw?oc=5",
+   "published_utc": "2026-11-02T02:22:22+00:00",
+   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f67aeb17e7aae4f7"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
@@ -3085,7 +3121,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTzFHektSNXdYMGZBU1haMm9LSnJ0V2UyOTNzSEpfS3V2ZzF2UFRwZlFEUEV4Q0FGeldmTjdPMXhzaVE2ZXBKXzZBUGlTa2JHSGtFdzdLR2dTOWM5OGVmeW5RRW42Qmh3em9KLU1TQlpqaVB4WEczSTBDNDhKaFk?oc=5",
    "published_utc": "2026-11-02T01:55:22+00:00",
    "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
    "region": "japan",
@@ -3097,7 +3133,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4e9207eb5797c45b"
+   "id": "ecfe98aaee698b0f"
   },
   {
    "source_id": "investing_econ",
@@ -3133,24 +3169,6 @@
    "live_wire": false,
    "manual": false,
    "id": "abbad051b44a12ce"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BV3RNNG1SNk5Wc1RmeTIxRE9GNlBKSFA3X2dVRDJOaFRwdGw3SHFkenRFNmg2V0ducEJUNXY1VjJiei1WWGpfXzlMMEZkSTNUSTYxZG9lNm9Rc0dMRE9ObGZoN1MwbFJ6?oc=5",
-   "published_utc": "2026-11-02T01:35:09+00:00",
-   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1946553e4f8f0b7b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -20945,23 +20963,6 @@
    "id": "7328dead4c7f1e6d"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Fiscal Revenue Slips as Land-Sale Slump Deepens",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2Nwa1BBWmtjalctTTAzZWR5MXVnRlRxS0g4TzhBbS1SOGc4WDhqVWpuVzdweHBORVhsWFpLcTl5WUpQc1dodF9kdjFpSEFGMm1NTXgzb3BxVzZVTmU3ajIzQXpOMjZZUks0UzBhTXZfVFoyWExpSnFhSVRqUV96aUx4TGhVaVhDWVZRbXBBbmlWLTFjY0dac1hyVGlseHJLU291WUdscnJ4ek0wVkE?oc=5",
-   "published_utc": "2026-10-24T07:00:00+00:00",
-   "title_original": "China’s Fiscal Revenue Slips as Land-Sale Slump Deepens",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d0a14923f2a3dae"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge gap? [Semiconductor Plus]",
@@ -21256,6 +21257,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e27b2fb9965f065e"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Fiscal Revenue Slips as Land-Sale Slump Deepens",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2Nwa1BBWmtjalctTTAzZWR5MXVnRlRxS0g4TzhBbS1SOGc4WDhqVWpuVzdweHBORVhsWFpLcTl5WUpQc1dodF9kdjFpSEFGMm1NTXgzb3BxVzZVTmU3ajIzQXpOMjZZUks0UzBhTXZfVFoyWExpSnFhSVRqUV96aUx4TGhVaVhDWVZRbXBBbmlWLTFjY0dac1hyVGlseHJLU291WUdscnJ4ek0wVkE?oc=5",
+   "published_utc": "2026-10-23T16:47:00+00:00",
+   "title_original": "China’s Fiscal Revenue Slips as Land-Sale Slump Deepens",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d0a14923f2a3dae"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51932,23 +51950,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9e5ac93bc7d87692"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "A 47-year-old single woman gave up her 80 square meter apartment and moved to a 1LDK/custom-built home as her own sized second home | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/960565?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-10T23:30:00+00:00",
-   "title_original": "47歳おひとりさま女性｢80平米マンション｣を手放し1LDK･注文住宅へ\"自分サイズ\"の｢2軒目の家｣ | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "63ab8b38e2c496db"
   },
   {
    "source_id": "manual_ia",
