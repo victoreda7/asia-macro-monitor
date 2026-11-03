@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T00:52:48.474356+00:00
+Última coleta: 2026-11-03T01:02:46.720935+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          919
   🇨🇳 China          846
-  🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  876
+  🇹🇼 Taiwan         360
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [korea] South Korea Inflation Eases to 2.8% in October, Still Above Target
   - [korea] South Korea Oct headline inflation +2.8% y/y (Reuters poll +2.85%)
   - [china] MKS Commences Expansion Of Guangzhou, China Equipment Manufacturing Facility
+  - [japan] "Kuroda Higashihiko confesses" Kazuo Ueda was not the first candidate for the "Governor of the Bank of Japan".
   - [japan] Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen eases
   - [japan] Japan's Aisin develops new type of AI chip that cuts energy use 98%
   - [japan] This wasn't supposed to happen 13 years and 9 months later, the Bank of Japan reaches its 2% inflation target,
@@ -42,6 +43,7 @@ Total: 3000 manchetes
   - [korea] North Korea leans on China and Russia to drive 3% economic growth
   - [taiwan] What's Going on With Taiwan Semiconductor Stock on Monday?
   - [china] Walnut Capital Says China Lead Enters Block Trade Agreement For Sale Of Shares
+  - [taiwan] Taiwan, Japan might sign comprehensive trade pact: report
   - [china] Central Bank to Conduct Third Swap Facility Operation
   - [china] Shanghai Iluvatar Corex Semiconductor Says Cumulative Chip Shipments Exceeded 80,000 Units For Ten Months
   - [china] China's exports of chemical products surge, U.S. think tank: May trigger new trade conflict | Cross-Strait
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com
   - [china] China's central bank launched policy tools on the 3rd to boost the stock market | Cross-Strait
   - [japan] Manufacturing solid but strain of energy costs, supply disruptions starts to show
-  - [japan] The BOJ accidentally made $440 billion in stocks
-  - [china] China’s CXMT defends push into new DRAM architecture as US chip curbs bite
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T00:52:48+00:00",
+      "published_utc": "2026-11-03T01:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
