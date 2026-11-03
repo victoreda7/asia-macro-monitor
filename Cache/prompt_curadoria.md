@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T03:02:44.099200+00:00
+Última coleta: 2026-11-03T03:12:44.458233+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          913
-  🇨🇳 China          848
+  🇯🇵 Japão          912
+  🇨🇳 China          850
   🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  880
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [china] China's State Council removes Winnie Ho from HKSAR gov't post
+  - [china] PBoC to Raise FX Reserve Requirement to 6%
   - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
   - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [japan] Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 bi
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] LG Energy Solution: ESS-led shipments lifted Q3 revenue 28% QoQ and operating profit to KRW 756bn
   - [korea] South Korea Inflation Holds Firm, Bolstering Case for More Hikes
   - [korea] US trade commission terminates Samsung chip patent probe following settlement with Netlist
-  - [korea] Consumer prices up 2.8% in Oct., remain in 2% for 2nd month
-  - [korea] Consumer price inflation rate in October 2.8%, in the low 2% range for 2 consecutive months = South Korea
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T03:02:44+00:00",
+      "published_utc": "2026-11-03T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
