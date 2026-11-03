@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T03:12:44.458233+00:00
+Última coleta: 2026-11-03T03:22:53.770461+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
-  🇨🇳 China          850
-  🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  879
+  🇯🇵 Japão          911
+  🇨🇳 China          853
+  🇹🇼 Taiwan         358
+  🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [china] China's central bank raises foreign exchange reserve ratio to ease pressure on RMB appreciation | Cross-Strait
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
   - [china] PBoC to Raise FX Reserve Requirement to 6%
   - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
@@ -29,6 +30,7 @@ Total: 3000 manchetes
   - [korea] Asian currencies mostly lower; South Korean won bucks trend
   - [korea] Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea
   - [china] Iron ore dips on higher shipments, sluggish China demand
+  - [china] 2 percentage points! The central bank raises the foreign exchange deposit reserve ratio for financial institut
   - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
   - [china] The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exc
   - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
@@ -40,6 +42,7 @@ Total: 3000 manchetes
   - [china] On November 3, the central bank launched a 621 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7150 TUES VS 6.7146
   - [china] Soy barge bids firm as exports to China continue
+  - [china] The central bank launched a 621 billion yuan overnight reverse repurchase operation today
   - [china] China hikes forex deposit reserve ratio to 6%
   - [korea] BOK sees consumer inflation remaining near 3% in Nov.
   - [china] As the RMB continues to appreciate, the People's Bank of China raises the foreign exchange deposit reserve rat
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Central Bank: Decision Takes Effect Nov. 15
   - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
   - [china] The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions
-  - [korea] LG Energy Solution: ESS-led shipments lifted Q3 revenue 28% QoQ and operating profit to KRW 756bn
-  - [korea] South Korea Inflation Holds Firm, Bolstering Case for More Hikes
-  - [korea] US trade commission terminates Samsung chip patent probe following settlement with Netlist
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T03:12:44+00:00",
+      "published_utc": "2026-11-03T03:22:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
