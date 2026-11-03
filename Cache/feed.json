@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T03:22:53.770461+00:00",
- "collected_at_utc": "2026-11-03T03:22:53.770461+00:00",
+ "generated_at_utc": "2026-11-03T03:32:45.281982+00:00",
+ "collected_at_utc": "2026-11-03T03:32:45.281982+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 911,
-  "china": 853,
+  "japan": 909,
+  "china": 856,
   "taiwan": 358,
-  "korea": 878
+  "korea": 877
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:27:00+00:00"
+   "newest": "2026-11-03T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:23:00+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:47:23+00:00"
+   "newest": "2026-11-03T03:26:38+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T03:21:39+00:00"
+   "newest": "2026-11-03T03:31:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Consumer Inflation Likely Eased in October — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261102012943:0-china-s-consumer-inflation-likely-eased-in-october-market-talk/",
+   "published_utc": "2026-11-03T03:30:00+00:00",
+   "title_original": "China's Consumer Inflation Likely Eased in October — Market Talk",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7ce4da64d50e6305"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 332 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02YjRBMWtEZ1owRlZkc0N6YV9BY2JtQllZeVFneWxFR3F2STF5a0ZYbnhPWFUzaDJOX0VNemFSdk9qMlhnUU1SU0tWbGJ4VWwtRl9BQ2VFaV9SR281OWpvcnZn?oc=5",
+   "published_utc": "2026-11-03T03:26:38+00:00",
+   "title_original": "央行11月3日开展6210亿元隔夜逆回购 净回笼3320亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "427d16437ff72ad7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lcVVGdWNJUHNTdHh0SlI5MFNhSmVMa2FtWVk2SzA3bnpOeWJIUHh1X1JBYmtUYlNiNUg1UGs2ZnlyanphdGFOelZvNGsyNVg2WHNzZ1I5Z0Q?oc=5",
+   "published_utc": "2026-11-03T03:24:07+00:00",
+   "title_original": "近五年来首次！央行上调外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d3605846e743289e"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -2560,24 +2612,6 @@
    "id": "520822cfa00b843b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
-   "published_utc": "2026-11-02T05:50:39+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a39db8f143fc814c"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -2926,21 +2960,22 @@
    "id": "e02f385258175764"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
+   "published_utc": "2026-11-02T03:09:40+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
    "topics": [
+    "monetary",
     "fx"
    ],
-   "lang_original": "en",
-   "translated": false,
+   "lang_original": "zh-CN",
+   "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "14bf5cff486fa99d"
+   "id": "b42f88d775cae7a8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2959,6 +2994,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -7217,6 +7269,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -7552,23 +7621,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -33579,23 +33631,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -33611,6 +33646,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51900,58 +51952,6 @@
    "live_wire": false,
    "manual": false,
    "id": "851f221515d82ef3"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Samsung to expand chip capacity in Vietnam, boost high-end production in Korea",
-   "url": "https://www.koreaherald.com/article/10898561",
-   "published_utc": "2026-10-11T04:46:03+00:00",
-   "title_original": "Samsung to expand chip capacity in Vietnam, boost high-end production in Korea",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43aa8a9da91068dd"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Bank of Japan raises the policy interest rate from 1% to 1.25%, entering an era of interest rates. What will be the impact on mortgages? How much will payments rise? [From Fukuoka]",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PZDRveDlkWW9vSnRZNFhPZmQ1N2VXMTV0LS1ENzRjRkpoNVZrc3NUbk1fRGFGV2NNNF9tTjRpMWljTWxTeW9Temwtc1lCakRyQWxSa2tfbUQtMVNPcmxRZjItRmlRTDI0elIyQURmaUVWa2IxWGdKOFdhTWVBUUU?oc=5",
-   "published_utc": "2026-10-11T03:58:20+00:00",
-   "title_original": "1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "337035728fa10f92"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Japanese giant expands China chip packaging materials output amid AI boom",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHFoc2NlYjItTDR4X25EWV8wOFNadktwMnRJVmg2ZEtxaDZPZ3ZLbGRfbWpIRUkxc0FlS2NrUlZDSWYzTm1EZnEybjVuNm1DRFpKQlNMU3YtYXNNeG1OOWhJUmVmOTZLRmlwUmFrLWpSNVJUeEZYYXRHQVNPMFdBa1pZSzNGRHZZT3plWk05d3E4WjhGUXJZVG5sRmFMQUwxNkl0cTZ1eU9QcFlpTTg3X2xCOE5PV09Jb0VMTHd3Y0V4clFWS1A3ZEtVZEYyVjJqUGg00gHTAUFVX3lxTFBSYlJhT2drcTF0SlJTMFpnWTB6Y3FBYnZMaWp0cEh3eVdRX003cmlzaDBtczEwRXVweGpUb3VLZTVXMkNXeGQxZlpucWVEdnZhZUhPRUtEam55WmZ0WV94cE14eGNMckNDRzYtNnRVbDU5VUZUNS1laU1NbUhJcXhtcmpTVmt0SGtsVlpGdW5DVVhMVXZmY1ZtNVpJWkZGWFFmRUUxTTFiaGpkQ3JuNXJMUkJ4enFOWDhGY01EeWFRYkloZlNzdXBGSHBmY1Y2NXVXOEU?oc=5",
-   "published_utc": "2026-10-11T03:04:32+00:00",
-   "title_original": "Japanese giant expands China chip packaging materials output amid AI boom",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a197889b2d6063b"
   },
   {
    "source_id": "manual_ia",

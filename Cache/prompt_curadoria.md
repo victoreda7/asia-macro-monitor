@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T03:22:53.770461+00:00
+Última coleta: 2026-11-03T03:32:45.281982+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
-  🇨🇳 China          853
+  🇯🇵 Japão          909
+  🇨🇳 China          856
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  878
+  🇰🇷 Coreia do Sul  877
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Consumer Inflation Likely Eased in October — Market Talk
+  - [china] The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 
+  - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
   - [china] China's central bank raises foreign exchange reserve ratio to ease pressure on RMB appreciation | Cross-Strait
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
   - [china] PBoC to Raise FX Reserve Requirement to 6%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China to raise forex deposit reserve ratio to 6% starting November 15
   - [china] China Central Bank: Aim Is to Better Manage Foreign Exchange Liquidity in Financial Institutions
   - [china] China to Raise Foreign Exchange Reserve Requirement Ratio by 2 Percentage Points
-  - [china] China Central Bank: Decision Takes Effect Nov. 15
-  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
-  - [china] The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T03:22:54+00:00",
+      "published_utc": "2026-11-03T03:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
