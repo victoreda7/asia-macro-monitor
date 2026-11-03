@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T19:26:25.926947+00:00
-Total: 2828 manchetes
+Última coleta: 2026-11-03T19:33:01.055703+00:00
+Total: 2829 manchetes
 
-  🇯🇵 Japão          817
+  🇯🇵 Japão          818
   🇨🇳 China          836
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
+  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix’s US expansion plans hit snag over China license delays - report
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
-  - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
   - [china] COMMENTARY: China's steady thermal coal imports mask supply shifts amid El Nino
@@ -56,7 +57,6 @@ Total: 2828 manchetes
   - [korea] D&D Pharmatech is pushing for technology export of "DD01," a treatment for hepatitis (MASH) rela..
   - [taiwan] TSMC Has Raised T$14.8 Billion Via Unsecured Bonds
   - [china] NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Ex
-  - [china] China XD Electric's Units Win 1.1 Billion Yuan Bids For State Grid Projects
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2828 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T19:26:26+00:00",
+      "published_utc": "2026-11-03T19:33:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
