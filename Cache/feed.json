@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-03T00:12:44.048840+00:00",
- "collected_at_utc": "2026-11-03T00:12:44.048840+00:00",
+ "generated_at_utc": "2026-11-03T00:22:43.735882+00:00",
+ "collected_at_utc": "2026-11-03T00:22:43.735882+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 359,
   "korea": 873
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T06:17:09+00:00"
+   "newest": "2026-11-02T05:25:39+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:23:00+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T04:47:25+00:00"
+   "newest": "2026-11-02T06:27:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T00:10:42+00:00"
+   "newest": "2026-11-03T00:19:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T17:16:06+00:00"
+   "newest": "2026-11-02T23:18:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:46:45+00:00"
+   "newest": "2026-11-02T06:00:52+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2124,23 +2124,6 @@
    "id": "b42f88d775cae7a8"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -2157,6 +2140,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -16648,6 +16648,24 @@
    "id": "405335ae84add8a2"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "월요신문",
+   "title_en": "Bank of Korea appoints Director of Monetary Policy Bureau Choi Chang-ho as Assistant Vice Governor for Monetary Policy and Markets",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVlNwR1ppcWc2VDEwa1lNWTRvcUxrSkVsMmp1T1RiYm54dzRvNmxrUW1ZWHZVNXZpUkU5NTdfSnMyZVlRVXp2THdDaG4xMkpuRDZValZnOVNna2x5ZkdJVVNTYWt6X3hTa2c?oc=5",
+   "published_utc": "2026-10-27T00:38:22+00:00",
+   "title_original": "한은, 통화정책·시장 담당 부총재보에 최창호 통화정책국장 임명",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "950b8a7116cc93bf"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "South Korea’s economy grows 1% in Q3, beating BOK forecast",
@@ -17962,24 +17980,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2d9702d94174b69e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국일보",
-   "title_en": "Bank of Korea appoints Director of Monetary Policy Bureau Choi Chang-ho as Assistant Vice Governor for Monetary Policy and Markets",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dFZEUHRBQm40dEMyZkNkUzFlTXFTcDg4Z0dZTi1lQkl0VzhFSkY1Ym5kUVFFTmJIOXlXUG1fUzJocFFfSWgwUF91NndJdWhzNXBHeTBZbkJtU0JFSXh1cnVQMkdNTHdqbVgtcTRR0gFzQVVfeXFMUDJ4a0JPcmJ6Z0xqV29TQXdmTEp6QnZSNDEtMGJnS3RMTlVkNTByRi1zRW1rUmhuZjVqNnhJNVc4WWJiaUpSRzV1TEIyQ05iS3dEeWZ4ZVB2Uy13eHhhci0xZ09kSnVjTi1CczBKc2RiWEtMMA?oc=5",
-   "published_utc": "2026-10-26T08:57:00+00:00",
-   "title_original": "한은, 통화정책·시장 담당 부총재보에 최창호 통화정책국장 임명",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "448676f38cd70df7"
   },
   {
    "source_id": "gn_kr_bok",
