@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T05:02:44.782173+00:00",
- "collected_at_utc": "2026-11-03T05:02:44.782173+00:00",
+ "generated_at_utc": "2026-11-03T05:12:43.911991+00:00",
+ "collected_at_utc": "2026-11-03T05:12:43.911991+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
+  "japan": 904,
   "china": 864,
   "taiwan": 356,
-  "korea": 875
+  "korea": 876
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T09:23:00+00:00"
+   "newest": "2026-11-01T01:11:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T05:01:25+00:00"
+   "newest": "2026-11-03T05:09:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:18:51+00:00"
+   "newest": "2026-11-03T02:20:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46J2VS:0-asia-paper-manufacturing-co-ltd-to-cancel-7-4-billion-won-worth-of-own-shares/",
+   "published_utc": "2026-11-03T05:07:43+00:00",
+   "title_original": "Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8581a6603f329e4d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chinese stocks drop as policy measures disappoint, but yuan rally halted",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46K03D:0-chinese-stocks-drop-as-policy-measures-disappoint-but-yuan-rally-halted/",
+   "published_utc": "2026-11-03T05:06:26+00:00",
+   "title_original": "Chinese stocks drop as policy measures disappoint, but yuan rally halted",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aed7e654822bfc8d"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "IT조선",
@@ -573,6 +607,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lcVVGdWNJUHNTdHh0SlI5MFNhSmVMa2FtWVk2SzA3bnpOeWJIUHh1X1JBYmtUYlNiNUg1UGs2ZnlyanphdGFOelZvNGsyNVg2WHNzZ1I5Z0Q?oc=5",
+   "published_utc": "2026-11-03T03:25:07+00:00",
+   "title_original": "近五年来首次！央行上调外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d3605846e743289e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "财新",
    "title_en": "After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for the first time in nearly five years.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LZ1Z3NVRWdGlUejB5UV9FRzJvOW5nV0hRWHF0Wkp6ZklLcjJFZl8teWgwR2pVeHdfTzBsTG5EUW4xLTI5czViLUxrenpfVlBnU0wyem9kQlgwVDFKU19zWVhR?oc=5",
@@ -588,23 +639,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b70211473cf43255"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lcVVGdWNJUHNTdHh0SlI5MFNhSmVMa2FtWVk2SzA3bnpOeWJIUHh1X1JBYmtUYlNiNUg1UGs2ZnlyanphdGFOelZvNGsyNVg2WHNzZ1I5Z0Q?oc=5",
-   "published_utc": "2026-11-03T03:24:07+00:00",
-   "title_original": "近五年来首次！央行上调外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3605846e743289e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1042,6 +1076,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "中金在线",
+   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsUGt1a21PUlctdHR4NjFPeENEbnBMUktjVHZqMk5FX0JTc2NjWjBfNl9fTTVsZk1SUkxldjliSjhac1Fxb1hKTDBzTjV0cE9XcFkxYXZtMkFfWjJGTm5uNHk5ZUhXa09OXzhpM3RB?oc=5",
+   "published_utc": "2026-11-03T01:29:05+00:00",
+   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9153c75d4d9b86b3"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The central bank launched a 621 billion yuan overnight reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zdVdvcWg3YnlwRHFTRDdObzdVZDZlT1VYYl9UODhlTmZJTExpVW1ueHFKelVBaG1oc2hsV01EUUNNSFBOREZ4NW84NFJHczlXVUE3SkJDeEJYTzBEQTd5aQ?oc=5",
@@ -1205,7 +1256,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观察者网",
    "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QUzR4SXJkLVB0VWJWYlIyd3FwZTgyMGlYVEdKamN5MEcyUFo4Q2w4WTRJb29OQmhwOXJwNjFhc0VHVVZFX3RwNGs2TmlIWUtKOGNPM0c0MVM3ZTlIZHV4eFJkVWo3YmFHQWFINm1YcFR3VkJ4OWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySGRoU1cwSTVwVzZJcjRZSEhld0FyQ2RqVERLSjN4SmgtZU5tbENaek5hS3pGUHA5VHlkVFVWY0xvbEVnSmN4d2JKbklsbVB5QlA4UGdHa1R4T0czRmk3Ui1mcXlYQQ?oc=5",
    "published_utc": "2026-11-03T01:03:20+00:00",
    "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
    "region": "china",
@@ -1216,7 +1267,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f96d9766706dd100"
+   "id": "35ac9b96b26167d9"
   },
   {
    "source_id": "investing_econ",
@@ -1302,23 +1353,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d53c46db55f50362"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bb3hSZWNPUWowVDRZaEpiUlpiT1p6NEhVNlMxUDZmUlVDYmN6WWpqeXM1VUpoSU4zVEhZbWwtTmVVOFFPYXlXVW9BRXlUMU5Ra3VfT1VGZi0yVHVYLWx3YQ?oc=5",
-   "published_utc": "2026-11-03T00:45:00+00:00",
-   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b3481b8a034461e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1960,7 +1994,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -1972,7 +2006,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "00ad06c1ef60465a"
+   "id": "59da3ca61ab4cc5e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3240,23 +3274,6 @@
    "id": "b42f88d775cae7a8"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -3273,6 +3290,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -3522,7 +3556,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTzFHektSNXdYMGZBU1haMm9LSnJ0V2UyOTNzSEpfS3V2ZzF2UFRwZlFEUEV4Q0FGeldmTjdPMXhzaVE2ZXBKXzZBUGlTa2JHSGtFdzdLR2dTOWM5OGVmeW5RRW42Qmh3em9KLU1TQlpqaVB4WEczSTBDNDhKaFk?oc=5",
    "published_utc": "2026-11-02T01:55:22+00:00",
    "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
    "region": "japan",
@@ -3534,7 +3568,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4e9207eb5797c45b"
+   "id": "ecfe98aaee698b0f"
   },
   {
    "source_id": "investing_econ",
@@ -51923,40 +51957,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab46e0460e9215fc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Japan weighs railway upgrades as part of defense spending push",
-   "url": "https://www.tradingview.com/news/seekingalpha:5ebf79f83094b:0-japan-weighs-railway-upgrades-as-part-of-defense-spending-push/",
-   "published_utc": "2026-10-11T13:50:24+00:00",
-   "title_original": "Japan weighs railway upgrades as part of defense spending push",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1be226b5a41038dd"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg",
-   "url": "https://www.investing.com/news/company-news/renault-ceo-calls-euchina-hybrid-import-deal-a-major-milestone--bloomberg-4942685",
-   "published_utc": "2026-10-11T13:44:50+00:00",
-   "title_original": "Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "978eebd8bacd5c60"
   },
   {
    "source_id": "manual_ia",
