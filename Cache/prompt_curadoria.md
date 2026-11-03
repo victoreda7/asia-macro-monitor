@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T04:12:44.451383+00:00
+Última coleta: 2026-11-03T04:22:43.826386+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
-  🇨🇳 China          860
+  🇨🇳 China          861
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] PBOC's Forex Deposit Move Underscores Focus on Controlled Yuan Appreciation — Market Talk
   - [china] Meituan Unveils New AI Model Trained on Homegrown Chips
   - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
   - [china] China's Consumer Inflation Likely Eased in October — Market Talk
+  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [china] The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 
   - [china] China's top trade negotiator meets with US agricultural trade delegation
   - [china] After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for th
@@ -28,7 +30,6 @@ Total: 3000 manchetes
   - [china] China's State Council removes Winnie Ho from HKSAR gov't post
   - [china] PBoC to Raise FX Reserve Requirement to 6%
   - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
-  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [japan] Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 bi
   - [korea] Youngwoo DSP, a company specializing in semiconductor and display equipment, recorded a good perform..
   - [china] Offshore Yuan Slides as PBOC Acts to Curb Rally
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The Bank of Japan left interest rates unchanged, and the yield on five-year government bonds fell to 2.237% in
   - [taiwan] High inventories threaten Taiwan manufacturing PMI expansion
   - [china] PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure
-  - [korea] BOK sees consumer inflation remaining near 3 pct in Nov.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T04:12:44+00:00",
+      "published_utc": "2026-11-03T04:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
