@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T08:42:46.924796+00:00
+Última coleta: 2026-11-03T08:52:45.280478+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
@@ -17,6 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China XD Electric's Units Win 1.1 Billion Yuan Bids For State Grid Projects
+  - [china] ZAWYA: Egypt explores solar cell manufacturing plant with China’s Boomy to boost local production
+  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
+  - [korea] Kim, a representative K-food player, surpassed KRW 1 trillion in production for the first time in Gw..
   - [korea] The contract for rare obesity treatment, which LG Chem exported technology to U.S. bio companies, ha..
   - [china] China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally
   - [china] Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs
@@ -41,7 +45,6 @@ Total: 3000 manchetes
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
   - [china] The central bank steps to ease the pressure on RMB appreciation and raises the foreign exchange deposit reserv
-  - [china] Offshore Yuan Weakens After PBOC Moves to Cool Currency Rally
   - [korea] SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live
   - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
   - [china] China's central bank conducts 100 billion yuan of swap operations
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Meituan Unveils New AI Model Trained on Homegrown Chips
   - [china] Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR
   - [china] China's Consumer Inflation Likely Eased in October — Market Talk
-  - [china] The central bank launched 621 billion yuan in overnight reverse repos on November 3, with a net withdrawal of 
-  - [china] China's top trade negotiator meets with US agricultural trade delegation
-  - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T08:42:47+00:00",
+      "published_utc": "2026-11-03T08:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
