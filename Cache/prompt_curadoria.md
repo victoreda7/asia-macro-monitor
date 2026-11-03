@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T05:32:43.932869+00:00
+Última coleta: 2026-11-03T05:42:43.235125+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          904
-  🇨🇳 China          863
+  🇯🇵 Japão          902
+  🇨🇳 China          866
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  876
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [china] China's steady thermal coal imports mask supply shifts amid El Nino: Russell
+  - [china] Yuan Weakens as PBOC Signals Discomfort With Rapid Gains
   - [korea] US midterm elections·Household loan variables... Bank of Korea, final weighing of interest rate hike
   - [korea] Asia Paper Manufacturing Co Ltd To Cancel 7.4 Billion Won Worth Of Own Shares
   - [china] Chinese stocks drop as policy measures disappoint, but yuan rally halted
@@ -24,6 +26,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix tests SMA(50) cloud resistance after Double Bottom: Live
   - [korea] The Bank of Korea said, “Inflation in November is also in the upper 2% range”… Will there be a further increas
   - [china] China's central bank conducts 100 billion yuan of swap operations
+  - [china] China Talks Up Market Openness While Steering Stocks and Yuan
   - [china] Why is the Chinese Yuan falling today?
   - [taiwan] TSMC's next US chip plant could land in Sherman
   - [korea] South Korean Won Recovers as Oil Prices Retreat
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
   - [china] The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exc
   - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
-  - [china] China's Central Bank Tweaks Forex Reserve Rules to Steady Yuan
-  - [japan] Japan petrol subsidy cut could mark fiscal limit
-  - [china] CHINA PBOC CONDUCTS CNY621 BLN VIA O/N REVERSE REPO TUES
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T05:32:44+00:00",
+      "published_utc": "2026-11-03T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

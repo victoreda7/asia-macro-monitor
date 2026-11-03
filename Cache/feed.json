@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-03T05:32:43.932869+00:00",
- "collected_at_utc": "2026-11-03T05:32:43.932869+00:00",
+ "generated_at_utc": "2026-11-03T05:42:43.235125+00:00",
+ "collected_at_utc": "2026-11-03T05:42:43.235125+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 904,
-  "china": 863,
+  "japan": 902,
+  "china": 866,
   "taiwan": 357,
-  "korea": 876
+  "korea": 875
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T04:55:00+00:00"
+   "newest": "2026-11-03T03:14:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T03:37:04+00:00"
+   "newest": "2026-11-03T04:29:40+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T23:45:33+00:00"
+   "newest": "2026-11-03T00:39:55+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-03T05:18:09+00:00"
+   "newest": "2026-11-03T05:41:30+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-01T01:11:00+00:00"
+   "newest": "2026-11-02T09:23:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T05:32:13+00:00"
+   "newest": "2026-11-03T05:42:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:20:46+00:00"
+   "newest": "2026-11-02T23:18:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T03:00:35+00:00"
+   "newest": "2026-11-03T02:47:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-03T13:00:00+09:00"
+   "newest": "2026-11-03T14:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's steady thermal coal imports mask supply shifts amid El Nino: Russell",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46K056:0-china-s-steady-thermal-coal-imports-mask-supply-shifts-amid-el-nino-russell/",
+   "published_utc": "2026-11-03T05:42:06+00:00",
+   "title_original": "China's steady thermal coal imports mask supply shifts amid El Nino: Russell",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "349815f3e19cfabb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yuan Weakens as PBOC Signals Discomfort With Rapid Gains",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103000084:0-yuan-weakens-as-pboc-signals-discomfort-with-rapid-gains/",
+   "published_utc": "2026-11-03T05:41:00+00:00",
+   "title_original": "Yuan Weakens as PBOC Signals Discomfort With Rapid Gains",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0420bb9809cb6544"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "브릿지경제",
@@ -464,6 +499,23 @@
    "live_wire": true,
    "manual": false,
    "id": "80a8f433020a80cc"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Talks Up Market Openness While Steering Stocks and Yuan",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTVDWmowaVJ1b0JmR2x6VGJKcFpETFB6NXA0cl9DM3cxTGlMb2dwUi1UenJlRUFNcWpXbXRJNEtEdlBVaFlNRlQtZzUyZmVpME53bmM2SXN1V1ZqLWw2V2YzR0JkLWd1V20waFFoTEd3azJfVkVzQ0VQY21USjVDeGk2WGRxczBwUHBDdXVMcTlfMm03SVRvbHNxQ3lkb2RGd2YwWm5Jdl85NDVZZmdzN1BR?oc=5",
+   "published_utc": "2026-11-03T04:32:00+00:00",
+   "title_original": "China Talks Up Market Openness While Steering Stocks and Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "40dd5cd5fe6e955b"
   },
   {
    "source_id": "investing_live",
@@ -3326,6 +3378,23 @@
    "id": "b42f88d775cae7a8"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
+   "published_utc": "2026-11-02T03:08:00+00:00",
+   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14bf5cff486fa99d"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -3342,23 +3411,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b39bc6f76a99a78c"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MjNoRThRdHpGSEFZYkhBUUUwSlBSMmJyQzJYdkFKMzFSNG9USGxLcC1PVER6QlZVTDNUU1IxYjVlME9IMXVzc3k1VENoaHAxNmE1TlZkeUZVUQ?oc=5",
-   "published_utc": "2026-11-02T03:08:00+00:00",
-   "title_original": "BREAKING NEWS: JAL's April-Sept. net profit drops 42.2% to 39.07 billion yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14bf5cff486fa99d"
   },
   {
    "source_id": "investing_live",
@@ -4147,8 +4199,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -4162,7 +4214,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -33979,23 +34031,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -34011,6 +34046,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51905,59 +51957,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bb8b5702ac80869b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "동행미디어 시대",
-   "title_en": "Price and Fed variables, Bank of Korea worries about additional interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMTFDZEV3SUF4SUxoaGtYMXZYZElScmtqTkRMQThiUzlTcndaVmJqdmZ1Qi1zY3VIWnZoTWtqcHUxNTl4aUk5V0wyMHJkRHA4WkRMOUtodUtYbjR6YWc?oc=5",
-   "published_utc": "2026-10-11T20:10:00+00:00",
-   "title_original": "물가·연준 변수, 한은 추가 금리인상 고민",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35b7e4ac097ed1a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "Preview: Forecasters See Another High Reading for Japanese Producer Price Inflation in September Report",
-   "url": "https://www.tradingview.com/news/macenews:a6093d476094b:0-preview-forecasters-see-another-high-reading-for-japanese-producer-price-inflation-in-september-report/",
-   "published_utc": "2026-10-11T19:28:00+00:00",
-   "title_original": "Preview: Forecasters See Another High Reading for Japanese Producer Price Inflation in September Report",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e02a998e3f478a4e"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "What the sell off in bonds means for monetary policy",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeG5jcFM1cGt4bktDZkpJczJRT0ZzNEtOYUoxcFJRSmluOFdlRGN1TXItRTlUN3g1bGpMZFg3N1AtSHNmUjI2NnJ1U2ZsR0pMX0N2dmdudGxZQU1nRElTd0liRzBEcG1XSENYSzM0ZDZPY0U3ekNXNnpad2NtdkpoX3EtMTVwYlhnQkgxbE5SQ1ZfWHc5eFFySlEtS0pPbmozaUMzRXcxOA?oc=5",
-   "published_utc": "2026-10-11T18:12:20+00:00",
-   "title_original": "What the sell off in bonds means for monetary policy",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c0ce7f2b790d1aa2"
   },
   {
    "source_id": "manual_ia",
