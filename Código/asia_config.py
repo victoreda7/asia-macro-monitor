@@ -662,7 +662,9 @@ def cita_outro_pais(title: str) -> bool:
 # região fixa; nas multi-país o título precisa citar o país mesmo.
 ANCORA_DOMESTICA = {
     "japan": _rx(
-        r"国内|政府|与党|野党|首相|国会|閣僚|内閣|経産省|経済産業省|総務省|厚労省"
+        # 与党/首相/政府 só contam sem país estrangeiro colado antes: "ネタニヤフ与党",
+        # "ドイツ メルツ首相" e "米政府" não são política japonesa.
+        r"国内|(?<![米英独仏豪])政府|国会|閣僚|内閣|経産省|経済産業省|総務省|厚労省"
         r"|内閣府|自民|立憲|維新|公明|国民民主|春闘|全国|都内|日経平均|植田"
         # "株価 一時3000円以上値下がり 米利上げ観測" é a bolsa de Tóquio
         r"|(?<!米)(?<!米国)株価"
