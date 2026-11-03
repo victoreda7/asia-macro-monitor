@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T02:12:43.917297+00:00
+Última coleta: 2026-11-03T02:22:44.675976+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          916
   🇨🇳 China          845
-  🇹🇼 Taiwan         361
-  🇰🇷 Coreia do Sul  878
+  🇹🇼 Taiwan         360
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
   - [korea] Asian currencies mostly lower; South Korean won bucks trend
+  - [korea] Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea
   - [china] Iron ore dips on higher shipments, sluggish China demand
   - [china] The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%
   - [korea] LG Energy Solution Q3 Revenue Rose 27.6% QoQ to KRW 9.6T
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Inflation Remains Above Target at 2.8% in October — Update
   - [korea] [Breaking news] Korea's October consumer price inflation rate 2.8%
   - [korea] (LEAD) Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month
-  - [korea] South Korea Inflation Slows in October
-  - [korea] South Korea Inflation Eases to 2.8% in October, Still Above Target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T02:12:44+00:00",
+      "published_utc": "2026-11-03T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

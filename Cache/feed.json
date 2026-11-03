@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-03T02:12:43.917297+00:00",
- "collected_at_utc": "2026-11-03T02:12:43.917297+00:00",
+ "generated_at_utc": "2026-11-03T02:22:44.675976+00:00",
+ "collected_at_utc": "2026-11-03T02:22:44.675976+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 916,
   "china": 845,
-  "taiwan": 361,
-  "korea": 878
+  "taiwan": 360,
+  "korea": 879
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T01:42:19+00:00"
+   "newest": "2026-11-03T02:18:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T01:26:47+00:00"
+   "newest": "2026-11-03T01:48:58+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T12:20:32+00:00"
+   "newest": "2026-11-02T18:44:39+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T18:16:06+00:00"
+   "newest": "2026-11-03T02:15:01+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:47:51+00:00"
+   "newest": "2026-11-03T02:08:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-03T02:11:00+00:00"
+   "newest": "2026-11-03T02:21:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T20:17:33+00:00"
+   "newest": "2026-11-02T23:18:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T01:16:00+00:00"
+   "newest": "2026-11-03T02:02:33+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T02:05:17+00:00"
+   "newest": "2026-11-03T01:10:01+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
+   "published_utc": "2026-11-03T02:08:00+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7364cc7bb65ed56f"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Asian currencies mostly lower; South Korean won bucks trend",
@@ -359,6 +377,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bbed8dd3549dd269"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TQnJtZWNETENrenhPaGpPa2tJejJvMnR1Rkhzd3hxMk5FckpTOGtCTFpaN0hmdWJLVzJWM0xfZldSZU5ObFhaQl9VWG42MXhYcXZrSE82N3BEVG9MWVBkZzZiM3FKeUxxRFFkaFBtVWJRVHRBU1h5M290Qk1pS3c?oc=5",
+   "published_utc": "2026-11-03T02:02:33+00:00",
+   "title_original": "10月の消費者物価上昇率2.8％ 加工食品・外食費が上昇＝韓国",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "57b8094989c9fadd"
   },
   {
    "source_id": "tradingview_live",
@@ -1417,7 +1452,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -1429,7 +1464,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "59da3ca61ab4cc5e"
+   "id": "00ad06c1ef60465a"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2314,24 +2349,6 @@
    "id": "520822cfa00b843b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NXI4ZXU2WHVmb2FUZklOS19wLUtmN2RELUlhQzBLSC1NckNJdXpBNkJXcnpVUXhaNTVDTnBLcnNnV0haQ3BFeU8wVkpCbDZLUmlNSzZiVllhZ0RQaGE4NUpDT2RYdkllX0hDSEtvSQ?oc=5",
-   "published_utc": "2026-11-02T05:50:39+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a39db8f143fc814c"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Three perspectives to achieve 2% underlying inflation, ``gradual progress'' in recent years = Full text of Bank of Japan outlook report (Reuters)",
@@ -2680,6 +2697,24 @@
    "id": "e02f385258175764"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
+   "published_utc": "2026-11-02T03:09:40+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b42f88d775cae7a8"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -2962,7 +2997,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Mr. Shirouchi makes a cautious decision on overcoming deflation, with the Bank of Japan deciding to reach 2% inflation (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTzFHektSNXdYMGZBU1haMm9LSnJ0V2UyOTNzSEpfS3V2ZzF2UFRwZlFEUEV4Q0FGeldmTjdPMXhzaVE2ZXBKXzZBUGlTa2JHSGtFdzdLR2dTOWM5OGVmeW5RRW42Qmh3em9KLU1TQlpqaVB4WEczSTBDNDhKaFk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3V1b214bENCZXFnSjNDSUJQcjdwb0paVzJTbU5GNmhXWER6M2JoSTdiUnVwcm0wT2ZianhOTG9BR0k3UWFpdURYUWhTbHI5aFpCT2dqWGhjYmhld05TN1JlQnI2Y3BZN3hoZzk4SS1xSjhvNXVyZU5qOXdxUEJKTXdSS2Z3NEJBLXVoNlRn?oc=5",
    "published_utc": "2026-11-02T01:55:22+00:00",
    "title_original": "城内氏、デフレ脱却は慎重に判断 日銀が物価2％到達判断も（共同通信）",
    "region": "japan",
@@ -2974,7 +3009,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ecfe98aaee698b0f"
+   "id": "4e9207eb5797c45b"
   },
   {
    "source_id": "investing_econ",
@@ -3898,23 +3933,6 @@
    "id": "19c3ac281c7f71dd"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "金融界",
-   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSXJuS0JDQUFXVm1CX2txbEhFLTZXUDVIUFBPdTM5S0tBREhSeWszalhFeUtoUWZtVnlSVmt4VEQ2Mk5NRWdGSV9UZTg2bkZQUEszQlZ3dnZ2MWJsTFB6TjZCckVHWENNbUlub0RHaXZ5NWFT?oc=5",
-   "published_utc": "2026-11-01T05:48:27+00:00",
-   "title_original": "新信号！央行重磅调整，后天起实施——",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f71aa2dc3564e4a8"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Unstoppable high prices: More than 1,400 food items will rise in price in November The policy management of the Bank of Japan, the ``guardian of prices,'' enters a new phase after 2014 The challenge to reach the 2% price target is ``controlling inflation'' [Sunday Morning] (TBS NEWS DIG Powered by JNN)",
@@ -4540,6 +4558,23 @@
    "live_wire": false,
    "manual": false,
    "id": "502016f3a195f62d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "New signal! The central bank’s major adjustments will be implemented from the day after tomorrow——",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FMeWJLcVIyWGhiYzlpQWVBb1JXeFV0dnZYanRYN2VFSEl1OGJCdVJBdl8xT0pXRXdtT1ZxanRXZXBCb2hLVWU0cWpoVUczOEpHUlZ0MUQwcWZicFlHMzd2Z2w5Z24tTng1SWNVbGgzRXQyNHdQaWZQczNuRzliVjZaWVVTTVhJNC1FVEp1cw?oc=5",
+   "published_utc": "2026-10-31T10:34:18+00:00",
+   "title_original": "新信号！央行重磅调整，后天起实施——",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "66191ff7890acc34"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -6971,6 +7006,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -7306,23 +7358,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -51912,40 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5eb1651ecb843408"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Insider trades: P&G, Marvell Technology, TSMC among notable names",
-   "url": "https://www.tradingview.com/news/seekingalpha:a57481a37094b:0-insider-trades-p-g-marvell-technology-tsmc-among-notable-names/",
-   "published_utc": "2026-10-10T15:03:46+00:00",
-   "title_original": "Insider trades: P&G, Marvell Technology, TSMC among notable names",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b2ec852e91721617"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGVOMUE0c1MwZHlYNzFVTDc2TXR5ME1JdWdKaXVmOEd4Z0ZSQnQ1X2t6TzFlR0FZdWxuZmx5bXZhWnZnU0hsMmZvWDA2UVNMblpvcExsdmpRbjR2YVRMdE5pMXRkb0h5RTdhX0dsbGU5VU0xaFk4NUtFRjlzUE5UTDFuRmYtTDd5ZEwwc2ZXSzhkSmxPQUE1Xzd0QWdOb3NMOXVKOTM0dWVBU1FyMHlCN0h4b0o?oc=5",
-   "published_utc": "2026-10-10T13:38:58+00:00",
-   "title_original": "EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a8ae6788aa084196"
   },
   {
    "source_id": "manual_ia",
