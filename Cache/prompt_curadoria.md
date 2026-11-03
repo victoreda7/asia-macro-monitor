@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T06:32:44.754276+00:00
+Última coleta: 2026-11-03T06:42:43.577823+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          899
-  🇨🇳 China          866
+  🇯🇵 Japão          898
+  🇨🇳 China          867
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [china] China's State Council removes Winnie Ho from HKSAR gov't post
+  - [korea] Kospi Falls as Energy, Shipping, Chip Stocks Retreat
+  - [china] The central bank stabilizes the exchange rate and then takes action to raise the foreign exchange deposit rese
   - [korea] Dawon Nexview To Acquire Real Estate Worth 17 Billion Won
   - [japan] Parkway Life Real Estate Investment Trust: Singapore rent growth lifted distributions as Japan FX pressure off
   - [china] Yuan Weakens as PBOC Signals Discomfort With Rapid Gains
@@ -45,7 +48,6 @@ Total: 3000 manchetes
   - [china] For the first time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio by
   - [china] After the RMB rose above 6.65, the central bank raised the foreign exchange deposit reserve ratio to 6% for th
   - [china] China's central bank raises foreign exchange reserve ratio to ease pressure on RMB appreciation | Cross-Strait
-  - [china] China's State Council removes Winnie Ho from HKSAR gov't post
   - [china] PBoC to Raise FX Reserve Requirement to 6%
   - [china] The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the o
   - [japan] Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 bi
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Asian currencies mostly lower; South Korean won bucks trend
   - [korea] Consumer price inflation rate 2.8% in October Processed food and eating out costs rise = South Korea
   - [china] Iron ore dips on higher shipments, sluggish China demand
-  - [china] 2 percentage points! The central bank raises the foreign exchange deposit reserve ratio for financial institut
-  - [korea] BOK expects inflation to remain in upper 2% range in November
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T06:32:44+00:00",
+      "published_utc": "2026-11-03T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
