@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T01:02:46.720935+00:00
+Última coleta: 2026-11-03T01:12:42.605781+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          919
-  🇨🇳 China          846
+  🇯🇵 Japão          918
+  🇨🇳 China          848
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
+  - [china] China to raise forex deposit reserve ratio to 6% starting November 15
+  - [china] China Central Bank: Aim Is to Better Manage Foreign Exchange Liquidity in Financial Institutions
+  - [china] China to Raise Foreign Exchange Reserve Requirement Ratio by 2 Percentage Points
+  - [china] China Central Bank: Decision Takes Effect Nov. 15
   - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
   - [china] The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions
   - [korea] LG Energy Solution: ESS-led shipments lifted Q3 revenue 28% QoQ and operating profit to KRW 756bn
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo Electron Ltd. Stock 12‑Month Price Target Cut to JPY 15959.09, Implies 68% Upside
   - [china] The main policy interest rate "changes anchor", why does the overnight reverse repurchase rate bear such a hea
   - [taiwan] Taiwan's October manufacturing activity in expansion but momentum eases
-  - [china] Update: Chinese central bank shifts policy rate anchor to overnight
-  - [japan] Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?F
-  - [japan] If gold breaks lower, investors may look at these safe haven currencies: analyst By Investing.com
-  - [china] China's central bank launched policy tools on the 3rd to boost the stock market | Cross-Strait
-  - [japan] Manufacturing solid but strain of energy costs, supply disruptions starts to show
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T01:02:46+00:00",
+      "published_utc": "2026-11-03T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
