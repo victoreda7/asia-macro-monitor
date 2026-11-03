@@ -365,6 +365,23 @@ def fetch_tradingview() -> tuple[list[dict], SourceStatus]:
 # Coleta paralela
 # ---------------------------------------------------------------------------
 
+def meta_por_fonte() -> dict[str, dict]:
+    """source_id -> {scope, fixed_region} — o mesmo meta que collect_all monta.
+
+    Usado para revalidar itens herdados do feed acumulado com as regras
+    atuais de país. Fonte que saiu da config cai no default (global, sem
+    região fixa): o título precisa citar o país.
+    """
+    meta = {}
+    for src in cfg.RSS_SOURCES:
+        meta[src["id"]] = {"scope": src.get("scope", "global"), "fixed_region": None}
+    for q in cfg.GOOGLE_NEWS_QUERIES:
+        meta[q["id"]] = {"scope": "global", "fixed_region": q.get("region")}
+    for sid in ("investing_live", "tradingview_live"):
+        meta[sid] = {"scope": "global", "fixed_region": None}
+    return meta
+
+
 def collect_all(include_live: bool = True) -> tuple[list[tuple[dict, dict]], list[SourceStatus]]:
     """Baixa tudo em paralelo.
 

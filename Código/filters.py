@@ -107,9 +107,10 @@ def reject_reason(
     if cfg.US_LEDE_NO_ASIA.search(t) and not cfg.ASIA_ANCHOR.search(t):
         return "lede-nao-asia"
 
-    # 3b. Outro mercado citado e nenhum dos quatro países no título.
-    if cfg.OUTRO_MERCADO.search(t) and cfg.region_of_title(t) is None:
-        return "outro-mercado"
+    # 3b. Outro país citado e nenhum dos quatro no título.
+    motivo = motivo_outro_pais(t, scope=scope, fixed_region=fixed_region)
+    if motivo:
+        return motivo
 
     # 4. Precisa casar pelo menos um tópico.
     # O `extra` (tickers do TradingView) conta para tópico, nunca para região.
@@ -132,6 +133,52 @@ def reject_reason(
         return "sem-regiao"
 
     return None
+
+
+def motivo_outro_pais(
+    title: str,
+    scope: str = "global",
+    fixed_region: str | None = None,
+) -> str | None:
+    """'outro-pais' se o título é de outro país, senão None.
+
+    Regra: nenhum dos quatro países no título + algum outro país citado. A
+    única exceção é fonte de região fixa com âncora doméstica no título
+    ("トランプ関税、国内自動車大手に打撃" vindo da NHK fica).
+    """
+    t = (title or "").strip()
+    if cfg.region_of_title(t) is not None or not cfg.cita_outro_pais(t):
+        return None
+    casa = fixed_region or (scope if scope in cfg.REGIONS else None)
+    if casa and cfg.ANCORA_DOMESTICA[casa].search(t):
+        return None
+    return "outro-pais"
+
+
+def revalidar_regiao(
+    title: str,
+    scope: str = "global",
+    fixed_region: str | None = None,
+) -> tuple[str | None, str | None]:
+    """(região, motivo_de_descarte) usando só as regras de país/escopo.
+
+    Serve para reaplicar o filtro no feed acumulado: os itens herdados de
+    coletas anteriores não passam de novo pelo reject_reason, então uma regra
+    nova de país nunca limparia o que já estava lá. Não reavalia tópico de
+    propósito — o TradingView entra por tópico via tickers (`extra`), que não
+    ficam guardados no feed.
+    """
+    t = (title or "").strip()
+    if cfg.NON_ASIA_HEADLINE.search(t):
+        return None, "fora-de-escopo"
+    motivo = motivo_outro_pais(t, scope=scope, fixed_region=fixed_region)
+    if motivo:
+        return None, motivo
+    region = cfg.region_of_title(t) or fixed_region or (
+        scope if scope in cfg.REGIONS else None)
+    if region is None:
+        return None, "sem-regiao"
+    return region, None
 
 
 def classify(

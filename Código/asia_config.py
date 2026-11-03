@@ -177,9 +177,15 @@ RSS_SOURCES = [
 # region=None -> deixa o filtro inferir pelo título (fontes multi-país)
 # ---------------------------------------------------------------------------
 
+# region=None nas buscas de veículos que cobrem o mundo todo (Reuters,
+# Investing, Xinhua EN): a busca "site:reuters.com (Taiwan OR TSMC ...)"
+# devolve qualquer matéria da Reuters que só MENCIONE Taiwan no corpo —
+# "Intel plunges 25%", "Moody's cuts Senegal", "Bank of Israel to pause". Com
+# região fixa elas ganhavam a bandeira da busca. Agora o título precisa citar
+# o país (2026-11-03: 42 de 52 itens da Reuters Taiwan não citavam Taiwan).
 GOOGLE_NEWS_QUERIES = [
     # ---- Japão ----
-    {"id": "gn_jp_reuters", "name": "Reuters Japan",   "region": "japan",
+    {"id": "gn_jp_reuters", "name": "Reuters Japan",   "region": None,
      "q": "site:reuters.com (Japan OR Japanese OR yen OR BOJ OR Tokyo)"},
     {"id": "gn_jp_nhkworld", "name": "NHK World EN",   "region": "japan",
      "q": "site:www3.nhk.or.jp/nhkworld (economy OR fiscal OR budget OR tax OR BOJ OR yen OR GDP OR MOF)"},
@@ -187,7 +193,7 @@ GOOGLE_NEWS_QUERIES = [
      "q": "site:english.kyodonews.net (economy OR BOJ OR yen OR inflation OR GDP OR fiscal OR budget)"},
     {"id": "gn_jp_mof",     "name": "MOF Japan",       "region": "japan",
      "q": "site:mof.go.jp OR site:www.mof.go.jp (budget OR fiscal OR tax OR bond)"},
-    {"id": "gn_jp_investing", "name": "Investing Japan", "region": "japan",
+    {"id": "gn_jp_investing", "name": "Investing Japan", "region": None,
      "q": "site:investing.com (Japan OR yen OR BOJ OR intervention OR JGB)"},
     # region=None de propósito: "物価" (preço/inflação) sozinho traz qualquer
     # notícia de inflação do mundo que a Yahoo JP traduziu (ex.: CPI dos EUA),
@@ -198,7 +204,7 @@ GOOGLE_NEWS_QUERIES = [
      "locale": ("ja", "JP", "JP:ja")},
 
     # ---- China ----
-    {"id": "gn_cn_reuters", "name": "Reuters China",   "region": "china",
+    {"id": "gn_cn_reuters", "name": "Reuters China",   "region": None,
      "q": "site:reuters.com (China OR Chinese OR yuan OR PBOC OR Beijing)"},
     {"id": "gn_cn_scmp",    "name": "SCMP Economy",    "region": "china",
      "q": "site:scmp.com (China economy OR yuan OR PBOC OR property OR fiscal)"},
@@ -212,7 +218,7 @@ GOOGLE_NEWS_QUERIES = [
      "q": "央行 (逆回购 OR 买断式逆回购 OR MLF OR 中期借贷便利 OR 降准 OR "
           "存款准备金率 OR 国债买卖 OR 社融 OR 国常会) when:7d",
      "locale": ("zh-CN", "CN", "CN:zh-Hans")},
-    {"id": "gn_cn_xinhua",  "name": "Xinhua / 新华",    "region": "china",
+    {"id": "gn_cn_xinhua",  "name": "Xinhua / 新华",    "region": None,
      # when:7d: sem janela o Google devolvia páginas de 2021 por relevância
      # e a fonte ficava dias sem nada novo (parada desde 19/10/2026).
      "q": "site:news.cn (economy OR Politburo OR State Council OR GDP OR PBOC) when:7d"},
@@ -237,7 +243,7 @@ GOOGLE_NEWS_QUERIES = [
      "locale": ("zh-TW", "TW", "TW:zh-Hant")},
     {"id": "gn_tw_udn",     "name": "UDN / 經濟日報",   "region": "taiwan",
      "q": "site:udn.com OR site:money.udn.com (Taiwan OR 台灣 OR 央行 OR 出口)"},
-    {"id": "gn_tw_reuters", "name": "Reuters Taiwan",  "region": "taiwan",
+    {"id": "gn_tw_reuters", "name": "Reuters Taiwan",  "region": None,
      "q": "site:reuters.com (Taiwan OR TSMC OR TWD OR CBC OR Taipei)"},
     {"id": "gn_tw_digitimes", "name": "DIGITIMES",     "region": "taiwan",
      "q": "site:digitimes.com (Taiwan OR semiconductor OR TSMC OR economy)"},
@@ -252,7 +258,7 @@ GOOGLE_NEWS_QUERIES = [
     # query (ver ked_global em RSS_SOURCES), que é mais confiável.
     {"id": "gn_kr_mk",      "name": "매일경제",          "region": "korea",
      "q": "site:mk.co.kr (economy OR BOK OR export OR won)"},
-    {"id": "gn_kr_reuters", "name": "Reuters Korea",   "region": "korea",
+    {"id": "gn_kr_reuters", "name": "Reuters Korea",   "region": None,
      "q": "site:reuters.com (South Korea OR Korean OR won OR BOK OR Seoul)"},
     {"id": "gn_kr_herald",  "name": "Korea Herald",    "region": "korea",
      "q": "site:koreaherald.com (economy OR BOK OR inflation OR export)"},
@@ -296,26 +302,44 @@ REGION_CONTEXT = {
         r"\b(japan|japanese|tokyo|yen|jpy|boj|bank of japan|jgb|nikkei|"
         r"topix|kishida|ishiba|takaichi|ueda)\b"
         r"|日本|東京|日銀|日本銀行|円安|円高|財務省|日経"
-        r"|일본|엔화"
+        # Pares bilaterais e nomes domésticos: "日米関税合意" não tem 日本 no
+        # título, e sem isso cairia na regra de outro país (por causa do 米).
+        # Lookbehind de dígito: em chinês/japonês a data cola no país seguinte
+        # ("14日中国人民银行", "3日美股") e virava falso par bilateral.
+        r"|(?<![0-9０-９])(日米|日韓|日豪|日欧|日美)|美日|高市|衆院|参院|自民党|東証"
+        r"|일본|엔화|미일|한일"
     ),
     "china": _rx(
         r"\b(china|chinese|beijing|shanghai|shenzhen|yuan|renminbi|rmb|cny|"
         r"pboc|people'?s bank of china|politburo|state council|evergrande|"
-        r"vanke|csi ?300|hang seng)\b"
-        r"|中国|中國|北京|上海|人民银行|人民銀行|央行|人民币|人民幣|国务院|政治局"
-        r"|중국|위안"
+        r"vanke|csi ?300|hang seng|shimao|country garden|sunac|"
+        r"hong kong (stocks|shares|equities))\b"
+        # "央行" sozinho NÃO é China: no CNA (Taiwan) é o banco central de
+        # Taiwan, e "歐洲央行"/"澳洲央行"/"韓央行" são BCE, RBA e BOK. Com ele
+        # aqui, 31 manchetes do CNA iam para China (2026-11-03). Fontes chinesas
+        # que usam "央行" puro (gn_cn_pboc) já têm região fixa.
+        r"|中国|中國|北京|上海|人民银行|人民銀行|中国央行|中國央行|陆央行|陸央行|米中(?!間)"
+        r"|人民币|人民幣|国务院|政治局|中美|美中|中欧|中歐|习近平|習近平|国家统计局|港股|恒生|恆生"
+        r"|중국|위안|미중"
     ),
     "taiwan": _rx(
         r"\b(taiwan|taiwanese|taipei|twd|taiwan dollar|tsmc|taiex|"
         r"executive yuan|cbc taiwan|hon hai|foxconn|mediatek)\b"
         r"|台灣|台湾|臺灣|新台幣|台積電|行政院"
+        # Nomes domésticos que o CNA usa sem citar "台灣": presidente do
+        # banco central, premiê, presidente, Legislativo, reguladores.
+        r"|楊金龍|卓榮泰|賴清德|立法院|立委|金管會|主計總處|國發會|台股|台美|美台"
         r"|대만"
     ),
     "korea": _rx(
         r"\b(south korea|korean?|seoul|won(?!['’]t)|krw|bok|bank of korea|kospi|"
-        r"samsung|sk hynix|yonhap|kostat|motie)\b"
-        r"|한국|서울|한국은행|원화|기준금리|수출"
-        r"|韓国|韩国|ウォン"
+        r"samsung|sk hynix|yonhap|kostat|motie|hyundai|kia|hanwha|posco|"
+        r"lg (chem|electronics|energy)|sk (innovation|on|group))\b"
+        # 기준금리 (juro básico) e 수출 (exportação) saíram daqui: são palavras
+        # genéricas — "미국 기준금리 동결" (Fed) virava Coreia. As fontes em
+        # coreano têm região fixa, então o que é doméstico continua entrando.
+        r"|한국|서울|한국은행|원화|한은|이창용|신현송|코스피|코스닥|기재부|기획재정부|한미"
+        r"|韓国|韩国|韓國|南韓|韓央行|韓元|ウォン"
     ),
 }
 
@@ -549,13 +573,120 @@ US_LEDE_NO_ASIA = _rx(
 )
 
 # Mercados que não são o escopo. Caem se nenhum dos quatro países aparecer.
+#
+# Ampliado em 2026-11-03: a lista antiga só tinha uns 15 países e só em
+# inglês, mas o filtro roda sobre o título ORIGINAL — "澳洲央行升息" (CNA),
+# "豪中銀が利上げ" (Yahoo JP), "World Bank urges Fiji..." (Xinhua) e
+# "US GDP +3.4%" (NHK) passavam e ganhavam o país da FONTE como etiqueta.
+# Medido no feed: 15% das manchetes não citavam nenhum dos quatro países, e
+# metade delas era de outro país. Agora cobre EN/PT/JA/ZH/KO.
+#
+# Abreviações de um caractere (米, 英, 豪, 美, 澳, 미) só contam seguidas de
+# palavra que confirme o país — 米 sozinho também é arroz (米価), 美 é
+# "bonito", 英 aparece em nome próprio.
 OUTRO_MERCADO = _rx(
-    r"\b(brazil|brazilian|brl|canada|canadian|cad|mexico|mexican|"
-    r"united states|europe|european|germany|german|france|french|"
-    r"uk|britain|british|sterling|gbp|eur\b|"
-    r"india|indian|australia|australian|new zealand|"
-    r"russia|russian|turkey|argentina)\b"
+    # inglês / português
+    r"\b(united states|america|american|washington|federal reserve|fed|fomc|"
+    r"powell|warsh|goolsbee|waller|wall street|treasury|white house|trump|"
+    r"congress|senate|obamacare|"
+    r"europe|european|euro ?zone|euro area|ecb|lagarde|brussels|"
+    r"britain|british|uk|england|bank of england|sterling|gbp|ftse|"
+    r"germany|german|bundesbank|france|french|italy|italian|spain|spanish|"
+    r"portugal|portuguese|lisbon|netherlands|dutch|belgium|austria|ireland|irish|"
+    r"sweden|swedish|norway|denmark|finland|switzerland|swiss|poland|polish|"
+    r"hungary|slovakia|bulgaria|bulgarian|romania|greece|greek|czech|"
+    r"ukraine|ukrainian|russia|russian|putin|kremlin|belarus|lithuania|"
+    r"turkey|turkish|israel|israeli|iran|iranian|iraq|kurdistan|syria|saudi|"
+    r"uae|qatar|gulf states|middle east|mideast|egypt|egyptian|"
+    r"africa|african|nigeria|senegal|kenya|ghana|namibia|tunisia|morocco|"
+    r"rwanda|congo|ethiopia|"
+    r"india|indian|rupee|pakistan|bangladesh|sri lanka|nepal|"
+    r"indonesia|indonesian|bank indonesia|malaysia|malaysian|thailand|thai|"
+    r"vietnam|vietnamese|philippines|philippine|singapore|singaporean|"
+    r"cambodia|cambodian|brunei|myanmar|laos|mongolia|"
+    r"kazakhstan|kyrgyzstan|uzbekistan|"
+    r"australia|australian|rba|new zealand|rbnz|fiji|"
+    r"canada|canadian|mexico|mexican|banxico|brazil|brazilian|brl|selic|"
+    r"argentina|chile|colombia|peru|venezuela|antigua|caribbean|latin america|"
+    r"hong kong|hkma|macau|"
+    r"imf|world bank|oecd|opec|brics|g7|g20|iea|"
+    r"eua|estados unidos|europa|europeu|alemanha|frança|reino unido|brasil|"
+    r"brasileir[oa]s?|ibovespa|copom|índia|austrália|rússia|méxico)\b"
+    # japonês
+    r"|アメリカ|米国|米(?=政府|大統領|連銀|FRB|経済|景気|雇用|金利|長期金利|国債|株|ドル"
+    r"|中|欧|関税|財務|商務|議会|上院|下院|GDP|CPI|消費者物価|小売|利下げ|利上げ|企業"
+    r"|大手|政権|半導体|インフレ|物価|10年|中間選挙|大統領選|最高裁|・)"
+    # NHK escreve "米 9月の消費者物価…" (abreviação + espaço)
+    r"|米(?=\s)"
+    # siglas coladas em texto CJK: \b não separa "G20財務相" (財 é letra)
+    r"|G20|G7|IMF|OECD|OPEC|ECB"
+    r"|FRB|トランプ|パウエル|ウォーシュ|欧州|ユーロ|英国|イギリス|英(?=政府|首相|中銀|経済|国債)"
+    r"|ドイツ|独(?=政府|首相|経済|連銀)|フランス|仏(?=政府|大統領|首相|経済)|イタリア"
+    r"|ロシア|ウクライナ|プーチン|イスラエル|イラン|中東|インド|豪州|オーストラリア"
+    r"|豪(?=中銀|準備銀|政府|ドル|経済)|ニュージーランド|カナダ|メキシコ|ブラジル"
+    r"|アルゼンチン|ベトナム|タイ(?![ァ-ヶー])|フィリピン|マレーシア|インドネシア"
+    r"|シンガポール|香港|マカオ"
+    # chinês (simplificado e tradicional)
+    r"|美國|美国|美(?=元|股|債|债|聯準|联储|FED|Fed|第|方|歐|欧|伊|俄|政府|總統|总统"
+    r"|商務|商务|財長|财长|財政部|关税|關稅|通膨|通胀|CPI|GDP|經濟|经济|就業|就业|非農"
+    r"|非农|10年|國債|国债|施壓|施压|國會|国会|企業|企业|晶片|芯片|科技|銀|银|軍|军)"
+    r"|聯準會|联储|美聯儲|川普|特朗普|華許|歐洲|欧洲|歐盟|欧盟|歐元|欧元|歐央行"
+    r"|英國|英国|英(?=央行|銀|镑|鎊)|德國|德国|法國|法国|義大利|意大利|西班牙|葡萄牙"
+    r"|俄羅斯|俄罗斯|烏克蘭|乌克兰|以色列|伊朗|中東|中东|沙烏地|沙特|埃及|南非"
+    r"|印度|印尼|馬來西亞|马来西亚|泰國|泰国|越南|菲律賓|菲律宾|新加坡|柬埔寨"
+    r"|澳洲|澳大利亚|澳(?=央行|幣|币)|紐西蘭|新西兰|加拿大|墨西哥|巴西|阿根廷"
+    r"|土耳其|白俄|立陶宛|保加利亞|波蘭|匈牙利|瑞士|瑞典|荷蘭"
+    r"|香港|港府|澳門|澳门|國際貨幣基金|世界銀行|世界银行"
+    # seção "國際" (internacional) do CNA: "...| 國際" no fim do título
+    r"|[|｜]\s*國際"
+    # coreano
+    r"|미국|미(?=\s?(연준|정부|대통령|대선|관세|국채|증시|고용|물가|재무|상무|의회|경제|금리|달러))"
+    r"|연준|파월|트럼프|유럽|유로|영국|독일|프랑스|러시아|우크라이나|이스라엘|이란|중동"
+    r"|인도|호주|캐나다|멕시코|브라질|베트남|태국|필리핀|싱가포르|인도네시아|홍콩"
 )
+
+# Siglas que só valem em maiúscula: "US"/"EU" minúsculos são "us" (inglês) e
+# "eu" (português, TradingView-pt).
+# "US$100 mln" é só a moeda da cifra (Yonhap, Korea Herald) — não conta.
+OUTRO_MERCADO_SIGLAS = re.compile(r"\b(US|USA|EU|UK)\b(?!\$)|\bU\.S\.(?!\$)")
+
+
+def cita_outro_pais(title: str) -> bool:
+    return bool(OUTRO_MERCADO.search(title) or OUTRO_MERCADO_SIGLAS.search(title))
+
+
+# Âncoras domésticas por país: quando a fonte é do próprio país (região
+# fixa), a manchete pode citar outro país e ainda assim ser notícia local —
+# "トランプ関税、国内自動車大手に打撃", "聯準會降息 楊金龍：央行…". Sem
+# âncora, a regra de outro país derrubaria essas. Só valem para fonte de
+# região fixa; nas multi-país o título precisa citar o país mesmo.
+ANCORA_DOMESTICA = {
+    "japan": _rx(
+        r"国内|政府|与党|野党|首相|国会|閣僚|内閣|経産省|経済産業省|総務省|厚労省"
+        r"|内閣府|自民|立憲|維新|公明|国民民主|春闘|全国|都内|日経平均|植田"
+        # "株価 一時3000円以上値下がり 米利上げ観測" é a bolsa de Tóquio
+        r"|(?<!米)(?<!米国)株価"
+        r"|(?<!米)(?<!米国)長期金利"
+        r"|\b(domestic|government|lawmakers|ruling party|prime minister|minister|ministry)\b"
+    ),
+    "china": _rx(
+        r"国内|发改委|财政部|商务部|统计局|证监会|金融监管总局|A股|沪指|沪深|全国"
+        r"|地方政府|专项债|国常会"
+        # nas fontes chinesas, "央行" puro é o PBOC
+        r"|(?<![洲國国本韓韩澳英加美俄度尼及賓宾坡西拉蘭兰歐欧級级])央行"
+    ),
+    "taiwan": _rx(
+        r"國內|国内|政院|經濟部|財政部|主計|國發會|金管會|台幣|立委"
+        # "央行" puro no CNA é o banco central de Taiwan — mas não quando vem
+        # colado a um país ("歐洲央行", "澳洲央行", "日本央行", "韓央行").
+        r"|(?<![洲國国本韓澳英加美俄度尼及賓坡西拉蘭歐欧級])央行"
+        r"|\b(minister|ministry|cabinet|legislature|lawmakers)\b"
+    ),
+    "korea": _rx(
+        r"정부|국내|여당|야당|국회|대통령실|금융위|금감원|한은"
+        r"|\b(government|domestic|lawmakers|chaebol|minister|ministry)\b"
+    ),
+}
 
 # Assuntos que não são macro asiática mesmo com país no título.
 # A segunda linha existe porque lançamento de produto da Samsung, TSMC e Sony
@@ -566,6 +697,8 @@ NON_ASIA_HEADLINE = _rx(
     r"\b(football|soccer|olympic|world cup|celebrity|movie|film|album|"
     r"k-?pop|drama series|box office|actor|actress|singer|idol group|"
     r"recipe|tourism guide|travel tips|horoscope)\b"
+    # seções de entretenimento/esporte do CNA ("...| 娛樂")
+    r"|[|｜]\s*(娛樂|運動|影劇)"
     # lançamento de produto — entope os feeds coreano e taiwanês
     r"|\b(foldable|smartphone|handset|tablet|earbuds|wearable|"
     r"gaming console|flagship phone|camera lens|home appliance)\b"

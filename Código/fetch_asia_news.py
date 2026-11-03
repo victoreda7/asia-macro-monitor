@@ -241,6 +241,33 @@ def aplicar_tetos(itens: list[NewsItem]) -> list[NewsItem]:
     return juntos
 
 
+def revalidar_herdados(herdados: list[NewsItem]) -> tuple[list[NewsItem], Counter, int]:
+    """Reaplica as regras de país (e de fora-de-escopo) no feed acumulado.
+
+    Sem isso, regra nova só valia para manchete nova: o que entrou antes
+    ficava 30 dias no feed com a etiqueta errada. Usa o título original (é
+    sobre ele que o filtro roda na entrada).
+    """
+    meta = sources.meta_por_fonte()
+    padrao = {"scope": "global", "fixed_region": None}
+    ficam: list[NewsItem] = []
+    saidas: Counter = Counter()
+    mudaram = 0
+    for it in herdados:
+        m = meta.get(it.source_id, padrao)
+        region, motivo = filters.revalidar_regiao(
+            it.title_original or it.title_en,
+            scope=m["scope"], fixed_region=m["fixed_region"])
+        if motivo:
+            saidas[motivo] += 1
+            continue
+        if region != it.region:
+            it.region = region
+            mudaram += 1
+        ficam.append(it)
+    return ficam, saidas, mudaram
+
+
 def run_once(include_live: bool = True, explain: bool = False, write: bool = True) -> dict:
     started = time.time()
     print("→ coletando fontes…", flush=True)
@@ -371,6 +398,11 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
     herdados = itens_anteriores(anterior)
     if herdados:
         print(f"→ acumulado: {len(herdados)} itens de coletas anteriores", flush=True)
+        herdados, saidas, mudaram = revalidar_herdados(herdados)
+        if saidas or mudaram:
+            resumo_saidas = ", ".join(f"{m} {n}" for m, n in saidas.most_common())
+            print(f"  revalidação de país: {sum(saidas.values())} removidos "
+                  f"({resumo_saidas or '—'}), {mudaram} trocaram de país", flush=True)
 
     # Herdado que ficou sem tradução (tradutor bloqueado no dia em que entrou)
     # ganha outra chance a cada coleta. Antes, uma falha valia para sempre:
