@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T05:42:43.380203+00:00
-Total: 2889 manchetes
+Última coleta: 2026-11-04T05:52:45.214954+00:00
+Total: 2892 manchetes
 
   🇯🇵 Japão          834
-  🇨🇳 China          865
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  886
+  🇨🇳 China          866
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hugel Inc. Q1-Q3 Sales Rise 15% to KRW 352.1B
   - [china] China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0
+  - [china] Concerns about trade imbalance continue, Shanghai International Import Expo will launch "Export to China Repor
+  - [taiwan] TSMC scheduled to list NT$14.8 billion green bonds on Nov. 12
   - [japan] Mitsubishi Corporation - To Buy Back Up To About 6% Of Own Shares Worth 1 Trillion Yen
   - [china] Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg
   - [china] The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem I
@@ -54,9 +57,6 @@ Total: 2889 manchetes
   - [china] On November 4, the central bank launched a 257.5 billion yuan overnight reverse repurchase operation.
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation today
   - [china] China PBOC Pledges to Fully Meet Future Re-Lending Demand
-  - [china] China PBOC: Banks Have Applied for Relending Quotas Exceeding 200 Billion Yuan
-  - [china] China PBOC: The 1-Year Relending Facility Supports 26 Major Banks
-  - [china] China PBOC: It's Ramping Up Relending Policy for Stock Buybacks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2889 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T05:42:43+00:00",
+      "published_utc": "2026-11-04T05:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
