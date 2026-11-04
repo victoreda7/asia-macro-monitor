@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T04:32:44.923229+00:00
-Total: 2882 manchetes
+Última coleta: 2026-11-04T04:42:43.348556+00:00
+Total: 2883 manchetes
 
   🇯🇵 Japão          833
-  🇨🇳 China          860
+  🇨🇳 China          861
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  885
 
@@ -44,6 +44,7 @@ Total: 2882 manchetes
   - [korea] Samsung Electronics, SK hynix rally on Wall Street chip rebound
   - [japan] Stock prices drop by more than 2,000 yen at one point; sell orders spread for stocks such as semiconductors
   - [china] How to understand the central bank’s increase in the foreign exchange deposit reserve ratio?
+  - [china] On November 4, the central bank launched a 257.5 billion yuan overnight reverse repurchase operation.
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation today
   - [china] China PBOC Pledges to Fully Meet Future Re-Lending Demand
   - [china] China PBOC: Banks Have Applied for Relending Quotas Exceeding 200 Billion Yuan
@@ -56,7 +57,6 @@ Total: 2882 manchetes
   - [japan] The Bank of Japan decides to maintain the status quo of monetary policy (Hiroyuki Kubota) - Expert
   - [korea] [Analysis] Despite the slowdown in prices in October, interest rates are expected to increase in November
   - [japan] Bank of Japan Accounts (October 31)
-  - [korea] Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2882 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T04:32:45+00:00",
+      "published_utc": "2026-11-04T04:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
