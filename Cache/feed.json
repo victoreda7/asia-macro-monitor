@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-04T23:42:43.141256+00:00",
- "collected_at_utc": "2026-11-04T23:42:43.141256+00:00",
+ "generated_at_utc": "2026-11-04T23:52:42.271774+00:00",
+ "collected_at_utc": "2026-11-04T23:52:42.271774+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2964,
+ "count": 2967,
  "by_region": {
-  "japan": 855,
+  "japan": 856,
   "china": 893,
-  "taiwan": 313,
-  "korea": 903
+  "taiwan": 314,
+  "korea": 904
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 46,
+   "count": 48,
    "error": "",
-   "newest": "2026-11-04T17:00:00+09:00"
+   "newest": "2026-11-05T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T19:01:09+00:00"
+   "newest": "2026-11-04T21:27:40+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T18:13:00+00:00"
+   "newest": "2026-11-04T21:58:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T07:45:34+00:00"
+   "newest": "2026-11-04T23:43:10+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-04T21:44:37+00:00"
+   "newest": "2026-11-04T23:46:34+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T23:41:25+00:00"
+   "newest": "2026-11-04T23:51:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T10:58:01+00:00"
+   "newest": "2026-11-04T23:51:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,75 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Sources of Changes in Current Account Balances (Projections for Nov.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
+   "published_utc": "2026-11-04T23:50:00+00:00",
+   "title_original": "Sources of Changes in Current Account Balances (Projections for Nov.)",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b487375699f9d3e"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+   "published_utc": "2026-11-04T23:50:00+00:00",
+   "title_original": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "021d1486f35c2f1b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4280959:0-hanwha-a-krw-1-083bn-spin-off-gain-lifted-earnings-as-quarterly-revenue-and-operating-profit-fell/",
+   "published_utc": "2026-11-04T23:46:50+00:00",
+   "title_original": "Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bbf6d66935d3c26f"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGRBckZVeEZkNnIyXzNlUnUtZDJrLWdoTU1XbXhqc1pDbUFuNnFRbjA5Sy1fck83enhuOTVmNnc3ckFWdk5GNVhTdE1VNVpRZ19QUW1rMG5Zd2hqZlpnX1dpcmc2djg3b0QxY2h2ei1BU0QzVTktMFpIbWZxcnRsaWRFS1hJUV9ORDlQUg?oc=5",
+   "published_utc": "2026-11-04T23:38:51+00:00",
+   "title_original": "DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2757154731430cbf"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "www.ebn.co.kr",
@@ -398,6 +467,23 @@
    "id": "f702a01b5a6de6c6"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFp4emV5NHZlaTJWTTUwUHhCYTBvTHBiRHpWTzJlb1JUZ05SWThnaWVpVmdyVmtadENjZnQ3N28tdXF4blp6VHZMX2VWMk5oM21ibXVXaDgwVEJSaGkzSlltWmFoeHJMdUx6RnJ2MDdVTHVSc0E0bEdsSk9jM0prMjdpUWloenBmM3hONGtSRW9MSjAzc0VxSnpOYm5wUFJBQW1sSTVTcWc1R2ptNXlR?oc=5",
+   "published_utc": "2026-11-04T21:27:40+00:00",
+   "title_original": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "13d7978f99b9bdc0"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, while the opposition party will decide based on the prime minister's response",
@@ -431,23 +517,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43b9163974d90b0b"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFp4emV5NHZlaTJWTTUwUHhCYTBvTHBiRHpWTzJlb1JUZ05SWThnaWVpVmdyVmtadENjZnQ3N28tdXF4blp6VHZMX2VWMk5oM21ibXVXaDgwVEJSaGkzSlltWmFoeHJMdUx6RnJ2MDdVTHVSc0E0bEdsSk9jM0prMjdpUWloenBmM3hONGtSRW9MSjAzc0VxSnpOYm5wUFJBQW1sSTVTcWc1R2ptNXlR?oc=5",
-   "published_utc": "2026-11-04T18:38:09+00:00",
-   "title_original": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "13d7978f99b9bdc0"
   },
   {
    "source_id": "tradingview_live",
@@ -691,8 +760,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -706,7 +775,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2039,23 +2108,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f9133731d0ff07bf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Swiss Franc, Yen Jump as US Midterms Push Dollar to Worst Day in a Month",
-   "url": "https://www.tradingview.com/news/binance_news:3c1b016d2094b:0-swiss-franc-yen-jump-as-us-midterms-push-dollar-to-worst-day-in-a-month/",
-   "published_utc": "2026-11-04T03:22:38+00:00",
-   "title_original": "Swiss Franc, Yen Jump as US Midterms Push Dollar to Worst Day in a Month",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b171ec975c2db48c"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -7217,8 +7269,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -7232,7 +7284,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",

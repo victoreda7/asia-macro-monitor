@@ -7,22 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T23:42:43.141256+00:00
-Total: 2964 manchetes
+Última coleta: 2026-11-04T23:52:42.271774+00:00
+Total: 2967 manchetes
 
-  🇯🇵 Japão          855
+  🇯🇵 Japão          856
   🇨🇳 China          893
-  🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  903
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  904
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sources of Changes in Current Account Balances (Projections for Nov.)
+  - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
+  - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
+  - [taiwan] DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock
   - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
   - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
+  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
   - [japan] There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more v
-  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [china] The central bank shrinks and continues to conduct 3-month buyout reverse repurchase
@@ -53,10 +57,6 @@ Total: 2964 manchetes
   - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
   - [china] What signal does the central bank send out by reducing supply and continuing to buy out reverse repurchases?
   - [taiwan] Exporters | Keyword News
-  - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years
-  - [japan] ``We should enter into a full-fledged discussion about the future image'' of the former Bank of Japan Kanazawa
-  - [taiwan] Mediatek Shahriari to strengthen collaboration with key supply chain partners including TSMC
-  - [taiwan] Exporters sell foreign exchange and foreign capital remittances compete, the New Taiwan dollar closes down 6.1
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2964 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T23:42:43+00:00",
+      "published_utc": "2026-11-04T23:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
