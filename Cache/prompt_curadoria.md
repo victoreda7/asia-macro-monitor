@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T08:02:45.066595+00:00
-Total: 2909 manchetes
+Última coleta: 2026-11-04T08:12:42.542706+00:00
+Total: 2911 manchetes
 
-  🇯🇵 Japão          842
+  🇯🇵 Japão          843
   🇨🇳 China          871
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  890
+  🇰🇷 Coreia do Sul  891
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
+  - [korea] Food Week Korea opens in Seoul with focus on exports, food technology
   - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Mitsui & Co Ceo: Aim To Achieve Net Profit Of More Than 1.1 Trillion Yen And Roe Of Over 12% In Fy2028, Driven
@@ -55,8 +57,6 @@ Total: 2909 manchetes
   - [china] Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [japan] Swiss Franc, Yen Jump as US Midterms Push Dollar to Worst Day in a Month
-  - [korea] Kospi Slumps as Democrats’ US Election Lead Spurs Chip Selloff
-  - [china] Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2909 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T08:02:45+00:00",
+      "published_utc": "2026-11-04T08:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
