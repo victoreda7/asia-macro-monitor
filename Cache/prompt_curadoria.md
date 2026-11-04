@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T10:42:44.057326+00:00
-Total: 2930 manchetes
+Última coleta: 2026-11-04T10:52:44.676578+00:00
+Total: 2932 manchetes
 
-  🇯🇵 Japão          848
-  🇨🇳 China          874
+  🇯🇵 Japão          849
+  🇨🇳 China          875
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  898
 
 ## O que já está no feed (não repita)
 
+  - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years
@@ -49,14 +50,13 @@ Total: 2930 manchetes
   - [korea] A total of 10.894 billion won in monetary sanctions have been confirmed to six securities companies
   - [japan] The Ministry of Finance points out at the Fiscal Council that the cost of medical care for the elderly will be
   - [japan] Japan futures fall for 4th session as yen jumps, Tokyo equities drop
+  - [china] Lowers stock repurchase and refinancing interest rates to 1% China's central bank: Provides adequate quota gua
   - [japan] TSE continues to fall, selling mainly in semiconductor-related stocks
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.7, Implies 31% Upside
   - [korea] Imported vehicle sales jump 29.3% in Oct. on strong EV demand
   - [china] China's slumping state airlines pin hopes on overseas demand like exporters
   - [korea] The International Atomic Energy Export Event held at the end of last month was successfully complete..
   - [korea] Democratic gains unlikely to derail Korea-US investment deal
-  - [korea] With core inflation not being determined, the possibility of a resumption of interest rate hikes this month is
-  - [taiwan] Taiwan firm signs MOU with Ukrainian drone company on supply chains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2930 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T10:42:44+00:00",
+      "published_utc": "2026-11-04T10:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
