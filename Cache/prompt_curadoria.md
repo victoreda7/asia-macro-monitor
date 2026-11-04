@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T05:52:45.214954+00:00
-Total: 2892 manchetes
+Última coleta: 2026-11-04T06:02:45.027915+00:00
+Total: 2894 manchetes
 
-  🇯🇵 Japão          834
-  🇨🇳 China          866
+  🇯🇵 Japão          835
+  🇨🇳 China          867
   🇹🇼 Taiwan         305
   🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mitsubishi raises FY profit forecast, announces 1 trillion yen buyback By Investing.com
+  - [china] Estee Lauder sets growth targets through 2030 amid China recovery
   - [korea] Hugel Inc. Q1-Q3 Sales Rise 15% to KRW 352.1B
   - [china] China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0
   - [china] Concerns about trade imbalance continue, Shanghai International Import Expo will launch "Export to China Repor
@@ -55,8 +57,6 @@ Total: 2892 manchetes
   - [japan] Stock prices drop by more than 2,000 yen at one point; sell orders spread for stocks such as semiconductors
   - [china] How to understand the central bank’s increase in the foreign exchange deposit reserve ratio?
   - [china] On November 4, the central bank launched a 257.5 billion yuan overnight reverse repurchase operation.
-  - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation today
-  - [china] China PBOC Pledges to Fully Meet Future Re-Lending Demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2892 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T05:52:45+00:00",
+      "published_utc": "2026-11-04T06:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
