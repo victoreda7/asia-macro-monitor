@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T06:52:44.141797+00:00
-Total: 2898 manchetes
+Última coleta: 2026-11-04T06:55:24.929090+00:00
+Total: 2899 manchetes
 
   🇯🇵 Japão          837
-  🇨🇳 China          869
+  🇨🇳 China          870
   🇹🇼 Taiwan         305
   🇰🇷 Coreia do Sul  887
 
@@ -49,6 +49,7 @@ Total: 2898 manchetes
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
   - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
   - [taiwan] TSMC's acquisition of AUO plant reshapes panel supply chain
+  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [korea] The Export-Import Bank of Korea has launched preemptive financial cooperation to strengthen the comp..
   - [korea] Growth and prices pointed out by Shin Hyun-song came out... Should we raise interest rates further?
   - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
@@ -56,7 +57,6 @@ Total: 2898 manchetes
   - [china] China Services PMI Ebbs In October - Caixin
   - [china] CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 WEDS VS 6.7150
-  - [korea] Samsung Electronics, SK hynix rally on Wall Street chip rebound
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2898 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T06:52:44+00:00",
+      "published_utc": "2026-11-04T06:55:25+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
