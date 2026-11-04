@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T17:42:47.209533+00:00
+Última coleta: 2026-11-04T17:52:43.673526+00:00
 Total: 2953 manchetes
 
   🇯🇵 Japão          853
@@ -33,6 +33,7 @@ Total: 2953 manchetes
   - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
+  - [china] The foreign exchange reserve ratio was raised for the first time in the past five years! The central bank rare
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
@@ -56,7 +57,6 @@ Total: 2953 manchetes
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister K
   - [china] Central Bank: Tomorrow, a 300 billion yuan buyout reverse repurchase operation will be carried out with a fixe
-  - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2953 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T17:42:47+00:00",
+      "published_utc": "2026-11-04T17:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
