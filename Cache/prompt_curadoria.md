@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T18:42:44.312396+00:00
-Total: 2953 manchetes
+Última coleta: 2026-11-04T18:52:44.326506+00:00
+Total: 2955 manchetes
 
-  🇯🇵 Japão          853
-  🇨🇳 China          889
+  🇯🇵 Japão          854
+  🇨🇳 China          890
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  899
 
@@ -26,7 +26,6 @@ Total: 2953 manchetes
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] The central bank will carry out 300 billion yuan of buyout reverse repurchase, shrinking the amount by 200 bil
   - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
-  - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
   - [japan] Cabbage retail price approximately 70% higher than normal
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [china] MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST
@@ -34,8 +33,11 @@ Total: 2953 manchetes
   - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
+  - [china] The foreign exchange reserve ratio was raised for the first time in the past five years! The central bank rare
+  - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
+  - [japan] Yen up, stocks down in Tokyo as Japan digests midterms | NHK WORLD-JAPAN News
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
   - [china] Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus
   - [china] Chinese exporters see respite as Beijing curbs yuan rise amid record surplus
@@ -55,8 +57,6 @@ Total: 2953 manchetes
   - [taiwan] Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister K
-  - [china] Central Bank: Tomorrow, a 300 billion yuan buyout reverse repurchase operation will be carried out with a fixe
-  - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2953 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T18:42:44+00:00",
+      "published_utc": "2026-11-04T18:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
