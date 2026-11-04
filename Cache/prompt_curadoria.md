@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T16:32:47.675292+00:00
-Total: 2949 manchetes
+Última coleta: 2026-11-04T16:42:49.477310+00:00
+Total: 2950 manchetes
 
   🇯🇵 Japão          853
-  🇨🇳 China          886
+  🇨🇳 China          887
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
@@ -56,7 +56,7 @@ Total: 2949 manchetes
   - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
   - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
   - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
-  - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
+  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2949 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T16:32:47+00:00",
+      "published_utc": "2026-11-04T16:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
