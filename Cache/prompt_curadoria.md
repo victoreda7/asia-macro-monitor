@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T08:52:43.695291+00:00
+Última coleta: 2026-11-04T09:02:44.910892+00:00
 Total: 2917 manchetes
 
-  🇯🇵 Japão          843
-  🇨🇳 China          872
+  🇯🇵 Japão          844
+  🇨🇳 China          871
   🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  895
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese Vice Minister of Commerce Li Chenggang meets with KKR's Nuttall
   - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
   - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
   - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
   - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
+  - [japan] BREAKING NEWS: JR Kyushu says Kumamoto quake losses total about 17 billion yen
   - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [china] Hong Kong Stocks Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results
@@ -55,8 +57,6 @@ Total: 2917 manchetes
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] Offshore Yuan Remains Under Pressure
   - [japan] Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn
-  - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
-  - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2917 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T08:52:43+00:00",
+      "published_utc": "2026-11-04T09:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
