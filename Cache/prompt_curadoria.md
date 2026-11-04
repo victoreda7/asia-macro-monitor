@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T08:42:50.459616+00:00
-Total: 2913 manchetes
+Última coleta: 2026-11-04T08:52:43.695291+00:00
+Total: 2917 manchetes
 
   🇯🇵 Japão          843
-  🇨🇳 China          870
-  🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  894
+  🇨🇳 China          872
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  895
 
 ## O que já está no feed (não repita)
 
+  - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
+  - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
   - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
   - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
   - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
@@ -55,8 +57,6 @@ Total: 2913 manchetes
   - [japan] Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn
   - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
-  - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
-  - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2913 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T08:42:50+00:00",
+      "published_utc": "2026-11-04T08:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
