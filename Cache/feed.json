@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T13:52:45.185119+00:00",
- "collected_at_utc": "2026-11-04T13:52:45.185119+00:00",
+ "generated_at_utc": "2026-11-04T14:02:46.346626+00:00",
+ "collected_at_utc": "2026-11-04T14:02:46.346626+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2942,
+ "count": 2943,
  "by_region": {
   "japan": 852,
-  "china": 880,
+  "china": 881,
   "taiwan": 311,
   "korea": 899
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T13:33:14+00:00"
+   "newest": "2026-11-04T13:55:43+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T13:24:29+00:00"
+   "newest": "2026-11-04T13:37:12+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T12:33:46+00:00"
+   "newest": "2026-11-04T13:52:20+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T12:32:12+00:00"
+   "newest": "2026-11-04T09:35:29+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T13:52:05+00:00"
+   "newest": "2026-11-04T14:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T08:28:14+00:00"
+   "newest": "2026-11-04T11:27:39+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:54:00+00:00"
+   "newest": "2026-11-04T01:02:13+00:00"
   }
  ],
  "items": [
@@ -395,8 +395,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -410,7 +410,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2285,24 +2285,6 @@
    "id": "f23e36f5f9476433"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZrQmtpY09QUXVsNWV0OFdVbVZvOWdDQWhYVFRWUk1EMmdaN2EwWUVWY2p1ajJsallTTGR3QWxuMC1uRHJyNmJ0WDZSc1gwVlhEYkZTVEs3UzF0Q0UwQ3E0ZTdjZmNIMWs5NTFRb1gyN2xPV0JzcW1zS1ZrX2djTzVUNTNCM1F6TUNnS0lUQ2pPRFBuWENMUnl1UXFNV3g1c2ZFRUR3bFNYcGJzVjB6cW82RE9WcjBidzBJ?oc=5",
-   "published_utc": "2026-11-03T19:44:10+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c177917e24bd8ff6"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
@@ -2318,6 +2300,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6f339246780900a3"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
+   "published_utc": "2026-11-03T19:02:00+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "investing_live",
@@ -3460,7 +3460,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "新京报",
    "title_en": "The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years, and the pace of RMB appreciation may change",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tSVZPZUY1VzBRbTdpOFVQY0lZbmI2dTVaOERaNVRBNGVGTmwxMDF2bXBiVFpRenBlSW9XQlZOdFlBQ3l1em1FM0VFYWpyb0dncTFuV3VVTkVTWjlhN0RxTmV2dmo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xbnhyM1JXeHFFQ0N4aHZPUkhzQmRvUndUUl8zUHhOc0FEVGpzUUJraHFKcFBQeS1ja3ZKUG9YS1dVdFRyUWRMcXc1SElTMk10TkpUTk1Gek5SX0pJLUpqX2lB?oc=5",
    "published_utc": "2026-11-03T05:38:00+00:00",
    "title_original": "央行近5年首次上调外汇存款准备金率，人民币升值节奏或有变",
    "region": "china",
@@ -3472,7 +3472,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2820451e125b5179"
+   "id": "21e683344c33fe47"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3911,23 +3911,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wWTFjN3pIQ1FzODdZTThEUG01MUc2dzlzREZQOUJTSDQ2OW1MSWdyOS1wclNrQkxyU2wybE9GUEw5bkxjdjFkbGx1NmZ5WVg3MkN4U1BuVmxEdGpESFE?oc=5",
-   "published_utc": "2026-11-03T01:47:51+00:00",
-   "title_original": "央行突然出手：外汇存准率上调至6%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cdc4d53e68cf82af"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "ThePaper.cn",
    "title_en": "The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exchange reserve ratio",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjZ2pyVFdaMlUxc25lRWx3b1JxYjUtN05uTzB1dFhqZ0xDclAzVEhrckE3ZHZuSU10dnRRUDhsUUYzWmhzY2pNUGI3TC1WdEpIOEh4cGNLRmdnVGV4WHk2Vg?oc=5",
@@ -3960,6 +3943,24 @@
    "live_wire": false,
    "manual": false,
    "id": "fb5eae5ff598db78"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "华尔街见闻",
+   "title_en": "The central bank took action to cool down the RMB and raised the foreign exchange deposit reserve ratio to 6%. The offshore RMB fell sharply by 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdjUwVmlZTklfZ2toSk43S01uZFNtTUlnUWNnWjE4U3RwY0pQQVo1UDlvQ3dEaXAxNE1jZnNtT2FPZzlyM2JldGJFcEc4bGNYM0Rv?oc=5",
+   "published_utc": "2026-11-03T01:36:11+00:00",
+   "title_original": "央行出手给人民币降温，上调外汇存款准备金率至6%，离岸人民币急跌200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d357c4f04d4ed7f1"
   },
   {
    "source_id": "investing_econ",
@@ -4653,6 +4654,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e6455416c2255ebb"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PWkxUeGxxQWJ2SDMtSzdmaXlIbmZDOGxtVFMtZ2JYRnY1aGIxN0wxY2RPN2pLZmd5OURmMy1hZDR0YzlEMXE3RV8weVBvVEpPS0RTTFJuS3Y0dV9vSFhMb1ZMbDF0bE5QU19sQkRpUExCQQ?oc=5",
+   "published_utc": "2026-11-02T13:26:57+00:00",
+   "title_original": "央行突然出手：外汇存准率上调至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff11d67e609da5d9"
   },
   {
    "source_id": "tradingview_live",
@@ -6846,8 +6864,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -6861,7 +6879,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -10096,6 +10114,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -10413,23 +10448,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -29436,23 +29454,6 @@
    "id": "0bef40b94092862b"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
-   "published_utc": "2026-10-21T07:34:00+00:00",
-   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7556bcad4f5f915"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Japan futures slip as yen jumps, cost support seen easing",
@@ -29607,6 +29608,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1cadf4969f0fa604"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
+   "published_utc": "2026-10-21T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7556bcad4f5f915"
   },
   {
    "source_id": "gn_jp_kyodo",
