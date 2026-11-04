@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T10:02:45.593996+00:00",
- "collected_at_utc": "2026-11-04T10:02:45.593996+00:00",
+ "generated_at_utc": "2026-11-04T10:12:52.181092+00:00",
+ "collected_at_utc": "2026-11-04T10:12:52.181092+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2926,
+ "count": 2928,
  "by_region": {
   "japan": 848,
-  "china": 871,
+  "china": 873,
   "taiwan": 310,
   "korea": 897
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-11-02T17:20:00+09:00"
+   "newest": "2026-11-04T17:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -152,18 +152,18 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
-   "newest": "2026-11-04T01:30:00+00:00"
+   "newest": "2026-11-04T09:56:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T18:50:36+09:00"
+   "newest": "2026-11-04T19:10:10+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T09:35:29+00:00"
+   "newest": "2026-11-04T09:45:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T10:01:00+00:00"
+   "newest": "2026-11-04T10:12:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:54:00+00:00"
+   "newest": "2026-11-04T01:02:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties continue to discuss proposals to be voted on on the 6th",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
+   "published_utc": "2026-11-04T10:10:10+00:00",
+   "title_original": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc1fab380c753f93"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ2VkX0lHM3U2LVJjYkZ2RVFaaTd3bERsTTVJbktEcUR6bTdWdUptRmdZNFNiN3pWNHA2YUY5SVprRHNqY2VucENNQmhwcy1FZFNRQjZIaDEySWVtSnVxSW1tNDJqYXR3YnhoelhmYlJRMGhNUEMzczRPYnZLLUZSMkxhYnJkd2UyYjhMSzdHOA?oc=5",
+   "published_utc": "2026-11-04T09:45:00+00:00",
+   "title_original": "央行近五年首次上调外汇存款准备金率",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a6124ef11d16de92"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -395,6 +430,24 @@
    "live_wire": false,
    "manual": false,
    "id": "87fcedcc70a8b9e8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "Central Bank: It will launch a 300 billion yuan buyout reverse repurchase operation on November 5 with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sOW9NWW5Qb042RWtndjA1TElKZnpiNUVhanpzVW94WU84UFpydWNfUHlTd3B2aGd4S3ZDZWhDYzhJVmR6TW93ZHZ2ZzYzT0szbmE2aXZYc043Y3ZKMVE?oc=5",
+   "published_utc": "2026-11-04T09:35:36+00:00",
+   "title_original": "央行：11月5日将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f3ead92dfc13aa07"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -981,24 +1034,6 @@
    "live_wire": true,
    "manual": false,
    "id": "130778181321bc70"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties continue to discuss proposals to be voted on on the 6th",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
-   "published_utc": "2026-11-04T06:31:00+00:00",
-   "title_original": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc1fab380c753f93"
   },
   {
    "source_id": "tradingview_live",
@@ -1901,23 +1936,6 @@
    "id": "f12dcbf556993a79"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank will raise the foreign exchange deposit reserve ratio of financial institutions to 6%",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLam1KaWlwdkRGZko4ZFE3Tlp3d1ozSW9MVEE4M3JPdmxoOUNmUGlrdkZkaVlIMEtwNkFOemw2ZGhHWEtUSnhkbnc4UGx5ZkFNS2RSSGZDN0xvenhtak1oeGhVczdQSTZ1SmFhbUlXTmg3WklGZXl6MQ?oc=5",
-   "published_utc": "2026-11-03T22:43:20+00:00",
-   "title_original": "央行将上调金融机构外汇存款准备金率至6%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "170f96f7df83ba4c"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's New York chip plans face obstacles due to US restrictions on China, sources say",
@@ -2056,6 +2074,24 @@
    "id": "f23e36f5f9476433"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZrQmtpY09QUXVsNWV0OFdVbVZvOWdDQWhYVFRWUk1EMmdaN2EwWUVWY2p1ajJsallTTGR3QWxuMC1uRHJyNmJ0WDZSc1gwVlhEYkZTVEs3UzF0Q0UwQ3E0ZTdjZmNIMWs5NTFRb1gyN2xPV0JzcW1zS1ZrX2djTzVUNTNCM1F6TUNnS0lUQ2pPRFBuWENMUnl1UXFNV3g1c2ZFRUR3bFNYcGJzVjB6cW82RE9WcjBidzBJ?oc=5",
+   "published_utc": "2026-11-03T19:44:10+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c177917e24bd8ff6"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
@@ -2071,24 +2107,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6f339246780900a3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
-   "published_utc": "2026-11-03T19:02:00+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "investing_live",
@@ -2140,6 +2158,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e0c1a5f4ae440bb9"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "zqrb.cn",
+   "title_en": "The central bank will raise the foreign exchange deposit reserve ratio of financial institutions to 6%",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3d1VicXdORll5eHNOOWZYVnpzaV9tNFVmcjhEOTVsT2RyXzRCZEltZlRXbVp1MExsdDE0bXdYaGY3YUk5SE9ka0l2ZkRVVm1GaFdxemJsdlFoQWVhbzlVV2ZjWl9oVnRSUDUwcHNqc2psVllvWmZxOWF1WUo?oc=5",
+   "published_utc": "2026-11-03T16:56:00+00:00",
+   "title_original": "央行将上调金融机构外汇存款准备金率至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d5672df91874c802"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -9817,23 +9852,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -10151,6 +10169,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -31857,6 +31892,23 @@
    "id": "5aa8fdba097a496d"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkJtaVhNSmQzZzZuM0otODNnd2JRR0tvaTJuaUp6SktQdGlLMzY4eG12Zjc4NGdtTHFlajdRZzgyZVl3U2dhZ1Z1b0lQRm9icUNJUUJOMnNENF9ZYjJOOGlDTl9JZ0RnN2J0Q3QxTG1VZWlZM2p6RURUWWNRMm5POFJGWnd5UGdVOEt6b3FOeXYyd0o5ajFXTnB2REJYQXFTaUo1d2ROb0NzazQ?oc=5",
+   "published_utc": "2026-10-20T07:00:00+00:00",
+   "title_original": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d227f803658551e1"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
@@ -32996,23 +33048,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c6c66c0bb42efd23"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTk91Q29Ld0ZrejVtMWIzdGZZdUNZNUxndjlha0JaYm1UWXRhbGhfenhkbmVvMzIzTEdMYTZ0ZGU0QVp0Mzlyc3pSMU9VQ1lUODQ4SnFxRGhwdTd3eFJDSzVHSlF1dkVXT1Jn?oc=5",
-   "published_utc": "2026-10-19T23:07:00+00:00",
-   "title_original": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "24a3fc2fd1b4b705"
   },
   {
    "source_id": "gn_tw_digitimes",
