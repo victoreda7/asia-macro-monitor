@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T15:52:44.016182+00:00
-Total: 2948 manchetes
+Última coleta: 2026-11-04T16:02:44.324971+00:00
+Total: 2949 manchetes
 
   🇯🇵 Japão          853
-  🇨🇳 China          885
+  🇨🇳 China          886
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [china] China pledges to reduce trade tensions with Canada
   - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] The central bank will carry out 300 billion yuan of buyout reverse repurchase, shrinking the amount by 200 bil
@@ -56,7 +57,6 @@ Total: 2948 manchetes
   - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
   - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
   - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
-  - [japan] BREAKING NEWS: JR Kyushu says Kumamoto quake losses total about 17 billion yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2948 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T15:52:44+00:00",
+      "published_utc": "2026-11-04T16:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
