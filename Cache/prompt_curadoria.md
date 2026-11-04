@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T00:42:44.880342+00:00
+Última coleta: 2026-11-04T00:52:44.990215+00:00
 Total: 2840 manchetes
 
   🇯🇵 Japão          820
@@ -30,8 +30,8 @@ Total: 2840 manchetes
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
   - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
-  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
+  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix’s US expansion plans hit snag over China license delays - report
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
@@ -116,7 +116,7 @@ Total: 2840 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T00:42:45+00:00",
+      "published_utc": "2026-11-04T00:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
