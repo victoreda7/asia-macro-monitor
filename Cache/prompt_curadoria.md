@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T17:02:45.641778+00:00
+Última coleta: 2026-11-04T17:12:45.185841+00:00
 Total: 2952 manchetes
 
   🇯🇵 Japão          853
-  🇨🇳 China          889
-  🇹🇼 Taiwan         311
+  🇨🇳 China          888
+  🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Weighs Tighter Controls on Chip Exports to Chinese Mainland
   - [china] China pledges to reduce trade tensions with Canada
   - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
@@ -56,7 +57,6 @@ Total: 2952 manchetes
   - [china] Chinese Vice Minister of Commerce Li Chenggang meets with KKR's Nuttall
   - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
   - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
-  - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2952 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T17:02:45+00:00",
+      "published_utc": "2026-11-04T17:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
