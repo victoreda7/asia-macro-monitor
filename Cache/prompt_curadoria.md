@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T09:32:46.158335+00:00
-Total: 2920 manchetes
+Última coleta: 2026-11-04T09:42:50.457469+00:00
+Total: 2922 manchetes
 
-  🇯🇵 Japão          845
+  🇯🇵 Japão          846
   🇨🇳 China          871
-  🇹🇼 Taiwan         307
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  897
 
 ## O que já está no feed (não repita)
 
+  - [japan] Department stores announce lucky bags in anticipation of rising prices and consumption tax cuts
+  - [taiwan] Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister K
   - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
@@ -55,8 +57,6 @@ Total: 2920 manchetes
   - [korea] Hugel Inc. Q1-Q3 Sales Rise 15% to KRW 352.1B
   - [china] China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0
   - [china] Concerns about trade imbalance continue, Shanghai International Import Expo will launch "Export to China Repor
-  - [taiwan] TSMC scheduled to list NT$14.8 billion green bonds on Nov. 12
-  - [japan] Mitsubishi Corporation - To Buy Back Up To About 6% Of Own Shares Worth 1 Trillion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2920 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T09:32:46+00:00",
+      "published_utc": "2026-11-04T09:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

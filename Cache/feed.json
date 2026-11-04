@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T09:32:46.158335+00:00",
- "collected_at_utc": "2026-11-04T09:32:46.158335+00:00",
+ "generated_at_utc": "2026-11-04T09:42:50.457469+00:00",
+ "collected_at_utc": "2026-11-04T09:42:50.457469+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2920,
+ "count": 2922,
  "by_region": {
-  "japan": 845,
+  "japan": 846,
   "china": 871,
-  "taiwan": 307,
+  "taiwan": 308,
   "korea": 897
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T09:16:43+00:00"
+   "newest": "2026-11-04T09:34:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T09:12:48+00:00"
+   "newest": "2026-11-04T09:29:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T18:21:00+09:00"
+   "newest": "2026-11-04T18:31:46+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T09:02:38+00:00"
+   "newest": "2026-11-04T09:02:50+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:59:00+00:00"
+   "newest": "2026-11-04T09:22:09+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T09:32:00+00:00"
+   "newest": "2026-11-04T09:42:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T05:26:33+00:00"
+   "newest": "2026-11-04T02:27:16+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T08:23:12+00:00"
+   "newest": "2026-11-04T09:11:19+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T00:01:16+00:00"
+   "newest": "2026-11-03T08:41:44+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T07:32:23+00:00"
+   "newest": "2026-11-04T09:27:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,43 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Department stores announce lucky bags in anticipation of rising prices and consumption tax cuts",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70488",
+   "published_utc": "2026-11-04T09:31:46+00:00",
+   "title_original": "デパート各社福袋発表 物価高や消費税減税見据えた福袋も",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ae35edd49228f20c"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices | Politics",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VQVJwVXUydWx2RGlwN0VMR0hCU2d6bHZJazJ6THczYVVqNVZ5SG5FZW9SeURDQ2pHU2Y1WHNBYlF1SGZpS0Jpbk4xU3N0aE5LbGwxQ2U3b1p0WHRoOEhN?oc=5",
+   "published_utc": "2026-11-04T09:27:00+00:00",
+   "title_original": "藍指台灣陷入結構性通膨綠：會請政院追蹤外食價格| 政治",
+   "region": "taiwan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a87a641f7d4dde76"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -383,7 +420,7 @@
    "source_name": "东方财富",
    "title_en": "Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fZEJMdGpuY3FoenNaMVJTZTB3UFp3bzZENTJLY2ZnbFRyU0pRcUJJY1g4Y1BvTXQ3RzU5b0E5bVlGY3J3YU5HUjJtNUtHZVFuQmtScFZBZ1E1TngxVVNkSQ?oc=5",
-   "published_utc": "2026-11-04T09:02:38+00:00",
+   "published_utc": "2026-11-04T09:02:50+00:00",
    "title_original": "央行：11月5日将开展3000亿元买断式逆回购操作",
    "region": "china",
    "topics": [
@@ -1709,7 +1746,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "OBC 뉴스",
    "title_en": "Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWaUtucWV5VlUyd1NTWk1JeFpwblhDYjZSSFpQclpuVFpIV2c0ZHBydlcyVHZjVy0zTnU4WkkwakNGTkRhZ0VZaXJLdTJXc2FfazJsdGdMY1B2QWZSR285OXNzTDFmZlZpOFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
    "published_utc": "2026-11-04T00:55:04+00:00",
    "title_original": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
    "region": "korea",
@@ -1722,7 +1759,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71b3a7c90f062613"
+   "id": "8b6dbdabb10c823f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -26756,6 +26793,23 @@
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUmUwTTJZVHY3U1BZLWM1RnBoWmlSWGtOcjJ3QlhwTVJaNFFPVzV6TmpjQmNVZG8xSFkwaFhGMGljWXluUzk3TzVpNlRfa2szNjBsNHByenNGUQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "12206617541a6d3b"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
    "title_en": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xOU51Y29LSkdTcEF5d2NRZDdMSU5vSzQ1UWpjbnBpbkQwb1MyU2pwczJZQTI3b2htZERXeTNNZ0o3dUFhdDlza21XTV9zR2cyNUdRcHZ5aks0QQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -26787,6 +26841,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9d6a548b8f00ae48"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Recent stock market correction weighs on consumption: BOK Gov. Shin",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rOVVocEpZRk40N1E3b21oRVFDS211MEhqQTJjREswX0RXeVZqU2FGZ3B4OENmOU5KU19VWlpqVGZkbVZOZngxaXl2YXFGQl9BN2RKZWdUd0tNQQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(URGENT) Recent stock market correction weighs on consumption: BOK Gov. Shin",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba34137dc612ebef"
   },
   {
    "source_id": "gn_kr_mk",
@@ -26907,6 +26979,23 @@
    "live_wire": false,
    "manual": false,
    "id": "95a73a535b93ece1"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) BOK says rate freeze decision was unanimous",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52c2NIR2JRRTlNdGRidzFHZkVoZDFORGNmYTY3SkJYdjdLa2FoeDNidUdrV0I0aUk2eW90QVpOZS1zX1V2RGc0MXpBRWJoVTBWSTVCTXhpZ2dPZw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(URGENT) BOK says rate freeze decision was unanimous",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "71c51be2f177186c"
   },
   {
    "source_id": "gn_kr_bok",
@@ -27326,24 +27415,6 @@
    "id": "c5865e4da1f5c503"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) Recent stock market correction weighs on consumption: BOK Gov. Shin",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rOVVocEpZRk40N1E3b21oRVFDS211MEhqQTJjREswX0RXeVZqU2FGZ3B4OENmOU5KU19VWlpqVGZkbVZOZngxaXl2YXFGQl9BN2RKZWdUd0tNQQ?oc=5",
-   "published_utc": "2026-10-22T02:56:46+00:00",
-   "title_original": "(URGENT) Recent stock market correction weighs on consumption: BOK Gov. Shin",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ba34137dc612ebef"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
@@ -27427,23 +27498,6 @@
    "live_wire": false,
    "manual": false,
    "id": "58c09a79606c3e1d"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUmUwTTJZVHY3U1BZLWM1RnBoWmlSWGtOcjJ3QlhwTVJaNFFPVzV6TmpjQmNVZG8xSFkwaFhGMGljWXluUzk3TzVpNlRfa2szNjBsNHByenNGUQ?oc=5",
-   "published_utc": "2026-10-22T02:25:36+00:00",
-   "title_original": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "12206617541a6d3b"
   },
   {
    "source_id": "gn_jp_investing",
@@ -27581,23 +27635,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b49a2e67099a9e64"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) BOK says rate freeze decision was unanimous",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52c2NIR2JRRTlNdGRidzFHZkVoZDFORGNmYTY3SkJYdjdLa2FoeDNidUdrV0I0aUk2eW90QVpOZS1zX1V2RGc0MXpBRWJoVTBWSTVCTXhpZ2dPZw?oc=5",
-   "published_utc": "2026-10-22T01:36:19+00:00",
-   "title_original": "(URGENT) BOK says rate freeze decision was unanimous",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71c51be2f177186c"
   },
   {
    "source_id": "gn_cn_pboc",
