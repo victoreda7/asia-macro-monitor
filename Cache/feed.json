@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T12:32:45.110237+00:00",
- "collected_at_utc": "2026-11-04T12:32:45.110237+00:00",
+ "generated_at_utc": "2026-11-04T12:42:43.592430+00:00",
+ "collected_at_utc": "2026-11-04T12:42:43.592430+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2934,
+ "count": 2935,
  "by_region": {
   "japan": 850,
   "china": 876,
   "taiwan": 310,
-  "korea": 898
+  "korea": 899
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T10:58:00+00:00"
+   "newest": "2026-11-04T09:55:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T09:56:15+00:00"
+   "newest": "2026-11-04T09:57:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T09:54:20+00:00"
+   "newest": "2026-11-04T09:39:24+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:59:00+00:00"
+   "newest": "2026-11-04T12:07:35+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T12:32:14+00:00"
+   "newest": "2026-11-04T12:41:47+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:41:44+00:00"
+   "newest": "2026-11-03T21:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T10:35:03+00:00"
+   "newest": "2026-11-04T09:17:06+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:02:13+00:00"
+   "newest": "2026-11-04T06:54:00+00:00"
   }
  ],
  "items": [
@@ -505,8 +505,8 @@
    "source_id": "gn_cn_pboc",
    "source_name": "京报网",
    "title_en": "Central Bank: It will launch a 300 billion yuan buyout reverse repurchase operation on November 5 with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sOW9NWW5Qb042RWtndjA1TElKZnpiNUVhanpzVW94WU84UFpydWNfUHlTd3B2aGd4S3ZDZWhDYzhJVmR6TW93ZHZ2ZzYzT0szbmE2aXZYc043Y3ZKMVE?oc=5",
-   "published_utc": "2026-11-04T09:35:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VVUNGNEF3MTN2VDRjOHlUVWtoQ1BtaWg4NHItMmk3WkFaWkdPSjlhRTUxOXR1ck0xZTluOHVyWkhaSVZaUEN0endvV2tJNUFSRUhIOUM3V1lEa3BiX2xWYWtra2xYcHZPdjc1SkhLdXZlZw?oc=5",
+   "published_utc": "2026-11-04T09:39:24+00:00",
    "title_original": "央行：11月5日将开展3000亿元买断式逆回购操作，期限为3个月",
    "region": "china",
    "topics": [
@@ -517,7 +517,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f3ead92dfc13aa07"
+   "id": "072ce2a5def8d3ba"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2179,24 +2179,6 @@
    "id": "f23e36f5f9476433"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZrQmtpY09QUXVsNWV0OFdVbVZvOWdDQWhYVFRWUk1EMmdaN2EwWUVWY2p1ajJsallTTGR3QWxuMC1uRHJyNmJ0WDZSc1gwVlhEYkZTVEs3UzF0Q0UwQ3E0ZTdjZmNIMWs5NTFRb1gyN2xPV0JzcW1zS1ZrX2djTzVUNTNCM1F6TUNnS0lUQ2pPRFBuWENMUnl1UXFNV3g1c2ZFRUR3bFNYcGJzVjB6cW82RE9WcjBidzBJ?oc=5",
-   "published_utc": "2026-11-03T19:44:10+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c177917e24bd8ff6"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
@@ -2212,6 +2194,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6f339246780900a3"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
+   "published_utc": "2026-11-03T19:02:00+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "investing_live",
@@ -4201,6 +4201,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3d4fef9f8cd7ea5c"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UazhiRGxxUnRGQjJZRFRPOVpFTW9qaVlxMXpYVG1ORU5WbmxORVRtMWhyNTdiZVVMQmVOSVpGdEZZNmdSSmxhdEQ4TmpCeW1zdHBuRVZfd0RQQQ?oc=5",
+   "published_utc": "2026-11-02T23:00:05+00:00",
+   "title_original": "Consumer prices up 2.8 pct in Oct., remain in 2 pct range for 2nd month",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36391842ca45b97c"
   },
   {
    "source_id": "tradingview_live",
@@ -9956,6 +9973,23 @@
    "id": "84854a3e8d0944fc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
+   "published_utc": "2026-10-30T09:31:32+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cea45f497782f009"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -10273,23 +10307,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T08:33:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
