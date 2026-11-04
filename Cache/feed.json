@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T23:22:42.459913+00:00",
- "collected_at_utc": "2026-11-04T23:22:42.459913+00:00",
+ "generated_at_utc": "2026-11-04T23:32:50.526020+00:00",
+ "collected_at_utc": "2026-11-04T23:32:50.526020+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2961,
+ "count": 2964,
  "by_region": {
   "japan": 855,
-  "china": 892,
-  "taiwan": 312,
-  "korea": 902
+  "china": 893,
+  "taiwan": 313,
+  "korea": 903
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T14:44:17+00:00"
+   "newest": "2026-11-04T17:25:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T23:22:04+00:00"
+   "newest": "2026-11-04T23:32:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:54:00+00:00"
+   "newest": "2026-11-04T23:04:05+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "www.ebn.co.kr",
+   "title_en": "[Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank of Korea monetary policy variables",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MXRQVlVaOGxTQ2w2djB6OEVkQmU1alFNdXZ4TFhNMDZleFdMVkxCWDNWeDhQU1RYRG5MWVpiMnNmMDB3N2JYSHlmVHNxOFhWaUdiOUVSdzQ2S2NmY3V5aXBfSklpN05p?oc=5",
+   "published_utc": "2026-11-04T23:04:05+00:00",
+   "title_original": "[美 권력 재편 ⑩] 금리·환율 셈법 바뀌나…한은 통화 정책 변수",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6a05525ec7412844"
+  },
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
@@ -463,6 +482,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d8c32c667c38c680"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "zqrb.cn",
+   "title_en": "The central bank shrinks and continues to conduct 3-month buyout reverse repurchase",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RaFBseTg3M19ocHpBM28wc3JCMFlCM2RuX2xOY3BMZGhUb01TbHN6WHdIVDItWFBIUXRCekFVZV9qZXdDb2xfaWp3aXB1ZUQxakEyTkRuaXBwcFJVV0VYNjh3aTRtQWZYUDU0NXVQaWtRQU1wMWkyWldiNGY?oc=5",
+   "published_utc": "2026-11-04T17:25:00+00:00",
+   "title_original": "央行缩量续做3个月期买断式逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8505ebb59d07ef69"
   },
   {
    "source_id": "tradingview_live",
@@ -11788,6 +11824,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6a34b775ffaabe0f"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Delta Electronics approves Penang manufacturing base to expand global capacity",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaU9mTUhWRXpyVVFkRzJJbG1Jb1hIWC1vYnRJUEhudFptczFyOXZMNmJrSjRmUDVQazZHeUd6MmxrOHQ5LXVaMndNMUJYMElKX2l6VnF2aTVadmtzd0NoMk0wYUpyczZJNlNlUFV2ZzlvNWZBYXV4ekZfVXdTS2FINXdCMk9lQXZNYWxuanJaV3NCNjM2SEdwaXVGSDVuWEpKdm5ncGtpVVZEQ0RVUUxibl8yNVA?oc=5",
+   "published_utc": "2026-10-30T03:43:56+00:00",
+   "title_original": "Delta Electronics approves Penang manufacturing base to expand global capacity",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "56e27c6394d623ce"
   },
   {
    "source_id": "yahoo_business",

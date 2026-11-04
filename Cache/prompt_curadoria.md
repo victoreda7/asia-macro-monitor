@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T23:22:42.459913+00:00
-Total: 2961 manchetes
+Última coleta: 2026-11-04T23:32:50.526020+00:00
+Total: 2964 manchetes
 
   🇯🇵 Japão          855
-  🇨🇳 China          892
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  902
+  🇨🇳 China          893
+  🇹🇼 Taiwan         313
+  🇰🇷 Coreia do Sul  903
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
   - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
   - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
@@ -24,6 +25,7 @@ Total: 2961 manchetes
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
+  - [china] The central bank shrinks and continues to conduct 3-month buyout reverse repurchase
   - [china] Nvidia's China Customers Face a Stunning 99% Chip Shortfall
   - [taiwan] Taiwan Weighs Tighter Controls on Chip Exports to Chinese Mainland
   - [korea] Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores
@@ -55,8 +57,6 @@ Total: 2961 manchetes
   - [japan] ``We should enter into a full-fledged discussion about the future image'' of the former Bank of Japan Kanazawa
   - [taiwan] Mediatek Shahriari to strengthen collaboration with key supply chain partners including TSMC
   - [taiwan] Exporters sell foreign exchange and foreign capital remittances compete, the New Taiwan dollar closes down 6.1
-  - [china] Central Bank: It will launch a 300 billion yuan buyout reverse repurchase operation on November 5 with a perio
-  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2961 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T23:22:42+00:00",
+      "published_utc": "2026-11-04T23:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
