@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T13:02:47.558012+00:00
-Total: 2938 manchetes
+Última coleta: 2026-11-04T13:12:46.811918+00:00
+Total: 2939 manchetes
 
   🇯🇵 Japão          851
-  🇨🇳 China          877
+  🇨🇳 China          878
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
   - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
+  - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
@@ -56,7 +57,6 @@ Total: 2938 manchetes
   - [korea] A total of 10.894 billion won in monetary sanctions have been confirmed to six securities companies
   - [japan] The Ministry of Finance points out at the Fiscal Council that the cost of medical care for the elderly will be
   - [japan] Japan futures fall for 4th session as yen jumps, Tokyo equities drop
-  - [china] Lowers stock repurchase and refinancing interest rates to 1% China's central bank: Provides adequate quota gua
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2938 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T13:02:47+00:00",
+      "published_utc": "2026-11-04T13:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
