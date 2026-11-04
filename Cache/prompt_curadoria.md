@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T02:02:45.725200+00:00
-Total: 2856 manchetes
+Última coleta: 2026-11-04T02:12:43.658848+00:00
+Total: 2857 manchetes
 
   🇯🇵 Japão          826
-  🇨🇳 China          847
+  🇨🇳 China          848
   🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  880
 
@@ -24,6 +24,7 @@ Total: 2856 manchetes
   - [china] China PBOC: Banks Have Applied for Relending Quotas Exceeding 200 Billion Yuan
   - [china] China PBOC: The 1-Year Relending Facility Supports 26 Major Banks
   - [china] China PBOC: It's Ramping Up Relending Policy for Stock Buybacks
+  - [china] What are the implications of the central bank raising the foreign exchange deposit reserve ratio for the first
   - [china] China PBOC Says It Cuts Relending Rate for Stock Buybacks to 1%
   - [japan] The fiscal burden is almost the same as "zero consumption tax," but the Ministry of Finance's "sneaky true int
   - [japan] Monetary base fell 13.6% year-on-year in October, rate of decline slowing - Bank of Japan (Reuters)
@@ -56,7 +57,6 @@ Total: 2856 manchetes
   - [korea] Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?
   - [china] China's State Council announces removal of officials
   - [china] Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list
-  - [korea] Samsung to make chip parts for AMD, Nvidia at Texas plant: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2856 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T02:02:45+00:00",
+      "published_utc": "2026-11-04T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
