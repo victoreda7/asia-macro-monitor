@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T20:52:44.149251+00:00
-Total: 2958 manchetes
+Última coleta: 2026-11-04T21:02:46.506713+00:00
+Total: 2959 manchetes
 
-  🇯🇵 Japão          854
+  🇯🇵 Japão          855
   🇨🇳 China          891
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  901
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
@@ -56,7 +57,6 @@ Total: 2958 manchetes
   - [japan] Department stores announce lucky bags in anticipation of rising prices and consumption tax cuts
   - [japan] The Bank of Japan's December interest rate hike is judged to be in flux ~ Between "reports" and "analysis" ~ (
   - [taiwan] Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices
-  - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2958 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T20:52:44+00:00",
+      "published_utc": "2026-11-04T21:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
