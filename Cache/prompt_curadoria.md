@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T15:12:44.538751+00:00
+Última coleta: 2026-11-04T15:18:25.335000+00:00
 Total: 2947 manchetes
 
   🇯🇵 Japão          853
-  🇨🇳 China          883
+  🇨🇳 China          884
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  900
+  🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
   - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
   - [japan] Cabbage retail price approximately 70% higher than normal
   - [china] MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST
@@ -56,7 +57,6 @@ Total: 2947 manchetes
   - [japan] BREAKING NEWS: JR Kyushu says Kumamoto quake losses total about 17 billion yen
   - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [china] Hong Kong Stocks Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2947 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T15:12:44+00:00",
+      "published_utc": "2026-11-04T15:18:25+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

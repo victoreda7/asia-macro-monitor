@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-04T15:12:44.538751+00:00",
- "collected_at_utc": "2026-11-04T15:12:44.538751+00:00",
+ "generated_at_utc": "2026-11-04T15:18:25.335000+00:00",
+ "collected_at_utc": "2026-11-04T15:18:25.335000+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2947,
  "by_region": {
   "japan": 853,
-  "china": 883,
+  "china": 884,
   "taiwan": 311,
-  "korea": 900
+  "korea": 899
  },
  "elapsed_s": 29.7,
  "sources": [
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T23:58:06+09:00"
+   "newest": "2026-11-04T23:58:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T15:11:56+00:00"
+   "newest": "2026-11-04T15:17:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46L0VV:0-shanghai-fosun-pharma-subsidiary-initiates-phase-iii-trial-of-fxs6837-capsules-for-pnh/",
+   "published_utc": "2026-11-04T15:17:58+00:00",
+   "title_original": "Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9db408797ce09f66"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Quartr",
    "title_en": "IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast",
    "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4447961:0-ihi-record-q2-profit-drives-higher-fy2026-guidance-and-a-jpy-25-dividend-forecast/",
@@ -412,8 +429,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -427,7 +444,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1902,23 +1919,6 @@
    "id": "fc3e25df597f9802"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean won climbs, Taiwan dollar lags among mixed Asian FX",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46L06A:0-south-korean-won-climbs-taiwan-dollar-lags-among-mixed-asian-fx/",
-   "published_utc": "2026-11-04T02:09:28+00:00",
-   "title_original": "South Korean won climbs, Taiwan dollar lags among mixed Asian FX",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a75f86cc68765f1f"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung Electronics, SK hynix rally on Wall Street chip rebound",
@@ -2116,7 +2116,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "OBC 뉴스",
    "title_en": "Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWaUtucWV5VlUyd1NTWk1JeFpwblhDYjZSSFpQclpuVFpIV2c0ZHBydlcyVHZjVy0zTnU4WkkwakNGTkRhZ0VZaXJLdTJXc2FfazJsdGdMY1B2QWZSR285OXNzTDFmZlZpOFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
    "published_utc": "2026-11-04T00:55:04+00:00",
    "title_original": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
    "region": "korea",
@@ -2129,7 +2129,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71b3a7c90f062613"
+   "id": "8b6dbdabb10c823f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6936,8 +6936,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -6951,7 +6951,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
