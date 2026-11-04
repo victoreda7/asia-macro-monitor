@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T01:22:47.521848+00:00",
- "collected_at_utc": "2026-11-04T01:22:47.521848+00:00",
+ "generated_at_utc": "2026-11-04T01:32:45.730183+00:00",
+ "collected_at_utc": "2026-11-04T01:32:45.730183+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2845,
+ "count": 2852,
  "by_region": {
-  "japan": 823,
-  "china": 840,
+  "japan": 824,
+  "china": 845,
   "taiwan": 303,
-  "korea": 879
+  "korea": 880
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 31.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:00:00+00:00"
+   "newest": "2026-11-03T19:44:10+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T07:19:00+09:00"
+   "newest": "2026-11-04T10:26:16+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T01:17:13+00:00"
+   "newest": "2026-11-04T01:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:13:37+00:00"
+   "newest": "2026-11-04T01:15:41+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-04T00:20:10+00:00"
+   "newest": "2026-11-04T01:25:19+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,115 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T00:55:04+00:00"
+   "newest": "2026-11-04T01:02:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China PBOC Pledges to Fully Meet Future Re-Lending Demand",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103015285_20261103015298:0-china-pboc-pledges-to-fully-meet-future-re-lending-demand/",
+   "published_utc": "2026-11-04T01:25:00+00:00",
+   "title_original": "China PBOC Pledges to Fully Meet Future Re-Lending Demand",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a62891b582108794"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China PBOC: Banks Have Applied for Relending Quotas Exceeding 200 Billion Yuan",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103015285_20261103015296:0-china-pboc-banks-have-applied-for-relending-quotas-exceeding-200-billion-yuan/",
+   "published_utc": "2026-11-04T01:24:00+00:00",
+   "title_original": "China PBOC: Banks Have Applied for Relending Quotas Exceeding 200 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d07d6d0f2a6f430c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China PBOC: The 1-Year Relending Facility Supports 26 Major Banks",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103015285_20261103015287:0-china-pboc-the-1-year-relending-facility-supports-26-major-banks/",
+   "published_utc": "2026-11-04T01:24:00+00:00",
+   "title_original": "China PBOC: The 1-Year Relending Facility Supports 26 Major Banks",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "55551231eb564571"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China PBOC: It's Ramping Up Relending Policy for Stock Buybacks",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103015285_20261103015290:0-china-pboc-it-s-ramping-up-relending-policy-for-stock-buybacks/",
+   "published_utc": "2026-11-04T01:24:00+00:00",
+   "title_original": "China PBOC: It's Ramping Up Relending Policy for Stock Buybacks",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ca14c4b1df73f69c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China PBOC Says It Cuts Relending Rate for Stock Buybacks to 1%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103015285_20261103015285:0-china-pboc-says-it-cuts-relending-rate-for-stock-buybacks-to-1/",
+   "published_utc": "2026-11-04T01:23:00+00:00",
+   "title_original": "China PBOC Says It Cuts Relending Rate for Stock Buybacks to 1%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "30777606f25f9eb6"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The fiscal burden is almost the same as \"zero consumption tax,\" but the Ministry of Finance's \"sneaky true intentions\" went out of its way to make it a troublesome \"1% + cash transfer.\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rWlJlQ3pVTDBYSmptTTQyVmM2NWx3T3cwSVZmTUM2am1kejdvVlVNY05icWtKZ0lQZ2wtcHkwMmRoWHh2NDVMaXNNT0JFTjZGc2FJTzNRVnExNG9PcU4ybFc2dktZTjBSUEdHNm1uSWRhRUU4Zk1SbURISU1SdzA?oc=5",
+   "published_utc": "2026-11-04T01:15:41+00:00",
+   "title_original": "財政負担は｢消費税ゼロ｣とほぼ同じなのに…わざわざ面倒な｢1%+現金給付｣にした財務省の\"ズルい本音\"",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "097767bce6ee33e4"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -377,6 +482,24 @@
    "live_wire": false,
    "manual": false,
    "id": "59565ebd47532d24"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "메디컬투데이",
+   "title_en": "[Analysis] Despite the slowdown in prices in October, interest rates are expected to increase in November",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McFRON2kyMWJBeWg3MEpSbEw0Y0JFNFRUZnB4eWZNckpSVGNGTnVZTkROOFJabTZaTW5WeTBnZE1FdGJpNm5PYmhNM1phektqNEx4cy11Z3lZcnZLRTZJb0tJb0dCZjk0Y3Fvcg?oc=5",
+   "published_utc": "2026-11-04T01:02:13+00:00",
+   "title_original": "[분석] 10월 물가 둔화에도 11월 기준금리 인상에 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b684a86a72647a78"
   },
   {
    "source_id": "boj_whatsnew",
@@ -656,6 +779,24 @@
    "id": "f23e36f5f9476433"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZrQmtpY09QUXVsNWV0OFdVbVZvOWdDQWhYVFRWUk1EMmdaN2EwWUVWY2p1ajJsallTTGR3QWxuMC1uRHJyNmJ0WDZSc1gwVlhEYkZTVEs3UzF0Q0UwQ3E0ZTdjZmNIMWs5NTFRb1gyN2xPV0JzcW1zS1ZrX2djTzVUNTNCM1F6TUNnS0lUQ2pPRFBuWENMUnl1UXFNV3g1c2ZFRUR3bFNYcGJzVjB6cW82RE9WcjBidzBJ?oc=5",
+   "published_utc": "2026-11-03T19:44:10+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c177917e24bd8ff6"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
@@ -671,24 +812,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6f339246780900a3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
-   "published_utc": "2026-11-03T19:02:00+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "investing_live",
@@ -3013,7 +3136,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -3025,7 +3148,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "59da3ca61ab4cc5e"
+   "id": "00ad06c1ef60465a"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3169,9 +3292,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "South Korean president plans to expand fiscal spending in 2027 budget bill, perhaps due to declining approval rating (Mainichi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZkc3Mkp1S1BiWWlKUW5QY2pCcm1heEVYczVmc3FkZndRaXBMSWRsdEIyV0NUbzd6Z1NmTGpyOWNiXzBNWlp1dUZIZE9XY1J0d0NOVnZsV2w0QWdxMlJPV1NLQWJ2ZEwwNjZlSjlvaFZTRkJJSV9GUWxWeFlqd00?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlF6MTJqWlNyb3p5TVJZWjQtbndtVE92ZXhyN3Y1T2JVN3ZVSXAtdFFwRzFIc09JUEZRcUJpVTUxb2JPY1o4Wm8tbk53X3I0S2hRalc0YjdTUUt3X3NxeTZxMUlQUll3NE92YURRVzBfMUVkUV9OUGFTdDFBYURVZHRlU3Q5MkNfT0JoWWR3?oc=5",
    "published_utc": "2026-11-02T10:22:56+00:00",
-   "title_original": "韓国大統領、27年予算案で財政支出拡大へ 支持率低下が背景か（毎日新聞）",
+   "title_original": "韓国大統領、27年予算案で財政支出拡大へ 支持率低下が背景か (毎日新聞)",
    "region": "korea",
    "topics": [
     "fiscal",
@@ -3181,7 +3304,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "db2fcfc8a1033451"
+   "id": "552b81c37b0e903b"
   },
   {
    "source_id": "tradingview_live",
@@ -8365,23 +8488,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -8699,6 +8805,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
