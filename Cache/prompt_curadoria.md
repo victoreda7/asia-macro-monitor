@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T13:32:45.836857+00:00
-Total: 2939 manchetes
+Última coleta: 2026-11-04T13:42:51.271738+00:00
+Total: 2942 manchetes
 
   🇯🇵 Japão          851
-  🇨🇳 China          878
+  🇨🇳 China          881
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [china] MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST
+  - [china] Regarding the U.S.-China-Russia summit meeting, China's Ministry of Foreign Affairs "communicates with relevan
   - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
@@ -37,6 +39,7 @@ Total: 2939 manchetes
   - [taiwan] Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister K
+  - [china] Central Bank: Tomorrow, a 300 billion yuan buyout reverse repurchase operation will be carried out with a fixe
   - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
   - [china] Chinese Vice Minister of Commerce Li Chenggang meets with KKR's Nuttall
   - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
@@ -54,9 +57,6 @@ Total: 2939 manchetes
   - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Mitsui & Co Ceo: Aim To Achieve Net Profit Of More Than 1.1 Trillion Yen And Roe Of Over 12% In Fy2028, Driven
-  - [korea] A total of 10.894 billion won in monetary sanctions have been confirmed to six securities companies
-  - [japan] The Ministry of Finance points out at the Fiscal Council that the cost of medical care for the elderly will be
-  - [japan] Japan futures fall for 4th session as yen jumps, Tokyo equities drop
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2939 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T13:32:46+00:00",
+      "published_utc": "2026-11-04T13:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
