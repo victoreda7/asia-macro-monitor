@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T02:52:47.231404+00:00",
- "collected_at_utc": "2026-11-04T02:52:47.231404+00:00",
+ "generated_at_utc": "2026-11-04T03:02:44.218982+00:00",
+ "collected_at_utc": "2026-11-04T03:02:44.218982+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2866,
+ "count": 2867,
  "by_region": {
   "japan": 827,
   "china": 854,
   "taiwan": 303,
-  "korea": 882
+  "korea": 883
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T02:31:13+00:00"
+   "newest": "2026-11-04T02:49:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-03T22:22:39+00:00"
+   "newest": "2026-11-04T02:43:15+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T22:06:59+00:00"
+   "newest": "2026-11-04T01:51:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:23:00+00:00"
+   "newest": "2026-11-04T01:11:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T12:30:08+00:00"
+   "newest": "2026-11-03T23:27:37+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T02:51:10+00:00"
+   "newest": "2026-11-04T03:01:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T23:27:02+00:00"
+   "newest": "2026-11-03T20:26:13+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:15:41+00:00"
+   "newest": "2026-11-04T02:44:40+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "BOK Financial raises quarterly dividend by 23.8% to $0.78/share",
+   "url": "https://www.tradingview.com/news/seekingalpha:da0fd4509094b:0-bok-financial-raises-quarterly-dividend-by-23-8-to-0-78-share/",
+   "published_utc": "2026-11-04T02:52:49+00:00",
+   "title_original": "BOK Financial raises quarterly dividend by 23.8% to $0.78/share",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "46e58e139098ff2b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1090,6 +1107,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "北京商报",
+   "title_en": "The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fWUZtZ0dfaURyWWp5cVI2ekdEa3FnSWEyX3ZpcXI2eEFoNFo1TmhhUzJ1X2JVY2tUcHF5YWxsbVN2Tm90Q3pwT1lVOUk4MGVTNjVxNm5MYTNHbTFxeldF?oc=5",
+   "published_utc": "2026-11-03T16:47:11+00:00",
+   "title_original": "央行上调外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6e463d0b85451e92"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "新浪财经_金融信息服务商",
    "title_en": "Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exchange rate?",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkszaGE4eDhCcUx1WkZzUEVWRncxMzVvcUhqNlJtdzA0Q1BtRFR4RnZzZnRKV3Y1LUZ6al9tbDJ6VjlnVmM5SFhyNE1LVFlJVjFhVHMyUWNiTWdfT2k3ZkV4VkVEUWRqcC12T1FpQ0lMSnNWeGYwNXEwaXZfSWVZa0dXSmZnNzI0Vl9Z?oc=5",
@@ -1105,23 +1139,6 @@
    "live_wire": false,
    "manual": false,
    "id": "205b51047e7af591"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "北京商报",
-   "title_en": "The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fWUZtZ0dfaURyWWp5cVI2ekdEa3FnSWEyX3ZpcXI2eEFoNFo1TmhhUzJ1X2JVY2tUcHF5YWxsbVN2Tm90Q3pwT1lVOUk4MGVTNjVxNm5MYTNHbTFxeldF?oc=5",
-   "published_utc": "2026-11-03T16:18:00+00:00",
-   "title_original": "央行上调外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e463d0b85451e92"
   },
   {
    "source_id": "tradingview_live",
@@ -3361,7 +3378,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -3373,7 +3390,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "59da3ca61ab4cc5e"
+   "id": "00ad06c1ef60465a"
   },
   {
    "source_id": "gn_tw_cna",
