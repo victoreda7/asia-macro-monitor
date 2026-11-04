@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T01:52:44.745594+00:00
+Última coleta: 2026-11-04T02:02:45.725200+00:00
 Total: 2856 manchetes
 
   🇯🇵 Japão          826
@@ -17,7 +17,8 @@ Total: 2856 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] Stock price temporarily fell by more than 1,800 yen; sell orders spread to stocks such as semiconductors
+  - [china] China Steps in to Boost Stocks, Cool Off Yuan
+  - [japan] Stock prices drop by more than 2,000 yen at one point; sell orders spread for stocks such as semiconductors
   - [china] How to understand the central bank’s increase in the foreign exchange deposit reserve ratio?
   - [china] China PBOC Pledges to Fully Meet Future Re-Lending Demand
   - [china] China PBOC: Banks Have Applied for Relending Quotas Exceeding 200 Billion Yuan
@@ -31,7 +32,6 @@ Total: 2856 manchetes
   - [japan] Bank of Japan Accounts (October 31)
   - [korea] Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November
   - [taiwan] Bosch creates semiconductor division to expand in robotics, external chipmaking
-  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] CXMT Plans To Buy Back Company Shares Worth 2.5-5 Bln Yuan
   - [china] Changgao Electric's Units Win Bids In Equipment Projects Worth 230.4 Mln Yuan
   - [korea] South Korea FX Reserves Hit 4-Year High in October
@@ -44,8 +44,8 @@ Total: 2856 manchetes
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
   - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
-  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
+  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix’s US expansion plans hit snag over China license delays - report
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
@@ -116,7 +116,7 @@ Total: 2856 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T01:52:44+00:00",
+      "published_utc": "2026-11-04T02:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
