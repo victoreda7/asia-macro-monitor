@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T15:42:44.976588+00:00
-Total: 2946 manchetes
+Última coleta: 2026-11-04T15:52:44.016182+00:00
+Total: 2948 manchetes
 
   🇯🇵 Japão          853
-  🇨🇳 China          883
+  🇨🇳 China          885
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
@@ -19,6 +19,7 @@ Total: 2946 manchetes
 
   - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
+  - [china] The central bank will carry out 300 billion yuan of buyout reverse repurchase, shrinking the amount by 200 bil
   - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
   - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
   - [japan] Cabbage retail price approximately 70% higher than normal
@@ -56,7 +57,6 @@ Total: 2946 manchetes
   - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
   - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
   - [japan] BREAKING NEWS: JR Kyushu says Kumamoto quake losses total about 17 billion yen
-  - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2946 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T15:42:45+00:00",
+      "published_utc": "2026-11-04T15:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
