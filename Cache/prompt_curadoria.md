@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T00:22:44.348857+00:00
-Total: 2839 manchetes
+Última coleta: 2026-11-04T00:32:45.531571+00:00
+Total: 2840 manchetes
 
   🇯🇵 Japão          820
-  🇨🇳 China          839
+  🇨🇳 China          840
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [china] China Steps in to Boost Stocks, Cool Off Yuan
+  - [china] CXMT Plans To Buy Back Company Shares Worth 2.5-5 Bln Yuan
   - [china] Changgao Electric's Units Win Bids In Equipment Projects Worth 230.4 Mln Yuan
   - [korea] South Korea FX Reserves Hit 4-Year High in October
-  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] Financial News | The central bank raised the foreign exchange reserve ratio, and the RMB depreciated by more t
   - [korea] SK Hynix's New York chip plans face obstacles due to US restrictions on China, sources say
   - [china] China's Temu, JD.com revamp business models amid tariff headwinds
@@ -56,7 +57,6 @@ Total: 2839 manchetes
   - [china] Jiemian Evening News | The central bank raised the foreign exchange deposit reserve ratio by 2 percentage poin
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
   - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
-  - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2839 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T00:22:44+00:00",
+      "published_utc": "2026-11-04T00:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
