@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T04:02:45.434498+00:00
-Total: 2877 manchetes
+Última coleta: 2026-11-04T04:12:44.996899+00:00
+Total: 2880 manchetes
 
-  🇯🇵 Japão          831
-  🇨🇳 China          858
+  🇯🇵 Japão          832
+  🇨🇳 China          859
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
   - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democrati
@@ -24,7 +25,9 @@ Total: 2877 manchetes
   - [china] Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [japan] Swiss Franc, Yen Jump as US Midterms Push Dollar to Worst Day in a Month
+  - [korea] Kospi Slumps as Democrats’ US Election Lead Spurs Chip Selloff
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
+  - [china] Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered
   - [japan] Yen Strengthens as US Dollar Weakens
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
@@ -54,9 +57,6 @@ Total: 2877 manchetes
   - [korea] Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November
   - [taiwan] Bosch creates semiconductor division to expand in robotics, external chipmaking
   - [china] CXMT Plans To Buy Back Company Shares Worth 2.5-5 Bln Yuan
-  - [china] Changgao Electric's Units Win Bids In Equipment Projects Worth 230.4 Mln Yuan
-  - [korea] South Korea FX Reserves Hit 4-Year High in October
-  - [china] Financial News | The central bank raised the foreign exchange reserve ratio, and the RMB depreciated by more t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2877 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T04:02:45+00:00",
+      "published_utc": "2026-11-04T04:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
