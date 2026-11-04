@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T19:42:43.476167+00:00
-Total: 2956 manchetes
+Última coleta: 2026-11-04T19:52:45.505823+00:00
+Total: 2957 manchetes
 
   🇯🇵 Japão          854
-  🇨🇳 China          890
+  🇨🇳 China          891
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  900
 
 ## O que já está no feed (não repita)
 
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
+  - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [china] Nvidia's China Customers Face a Stunning 99% Chip Shortfall
   - [taiwan] Taiwan Weighs Tighter Controls on Chip Exports to Chinese Mainland
   - [korea] Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores
@@ -56,7 +57,6 @@ Total: 2956 manchetes
   - [japan] The Bank of Japan's December interest rate hike is judged to be in flux ~ Between "reports" and "analysis" ~ (
   - [taiwan] Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
-  - [japan] New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister K
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2956 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T19:42:43+00:00",
+      "published_utc": "2026-11-04T19:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
