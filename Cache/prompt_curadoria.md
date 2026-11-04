@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T22:32:43.177445+00:00
+Última coleta: 2026-11-04T22:42:44.115527+00:00
 Total: 2960 manchetes
 
-  🇯🇵 Japão          856
-  🇨🇳 China          891
+  🇯🇵 Japão          855
+  🇨🇳 China          892
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  901
 
 ## O que já está no feed (não repita)
 
+  - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
   - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
   - [japan] There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more v
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
@@ -56,7 +57,6 @@ Total: 2960 manchetes
   - [china] Central Bank: It will launch a 300 billion yuan buyout reverse repurchase operation on November 5 with a perio
   - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [japan] Department stores announce lucky bags in anticipation of rising prices and consumption tax cuts
-  - [japan] The Bank of Japan's December interest rate hike is judged to be in flux ~ Between "reports" and "analysis" ~ (
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2960 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T22:32:43+00:00",
+      "published_utc": "2026-11-04T22:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
