@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T01:02:45.899798+00:00
-Total: 2841 manchetes
+Última coleta: 2026-11-04T01:12:45.144580+00:00
+Total: 2843 manchetes
 
-  🇯🇵 Japão          821
+  🇯🇵 Japão          822
   🇨🇳 China          840
-  🇹🇼 Taiwan         302
+  🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [japan] The Bank of Japan decides to maintain the status quo of monetary policy (Hiroyuki Kubota) - Expert
   - [japan] Bank of Japan Accounts (October 31)
+  - [taiwan] Bosch creates semiconductor division to expand in robotics, external chipmaking
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] CXMT Plans To Buy Back Company Shares Worth 2.5-5 Bln Yuan
   - [china] Changgao Electric's Units Win Bids In Equipment Projects Worth 230.4 Mln Yuan
@@ -31,8 +33,8 @@ Total: 2841 manchetes
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
   - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
-  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
+  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
   - [korea] SK Hynix’s US expansion plans hit snag over China license delays - report
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
@@ -55,8 +57,6 @@ Total: 2841 manchetes
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
   - [china] What does the central bank mean by raising the foreign exchange reserve requirement ratio for the first time i
   - [china] China, Oman sign currency swap agreement
-  - [china] Jiemian Evening News | The central bank raised the foreign exchange deposit reserve ratio by 2 percentage poin
-  - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2841 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T01:02:46+00:00",
+      "published_utc": "2026-11-04T01:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
