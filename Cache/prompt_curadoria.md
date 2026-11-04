@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T07:12:43.830945+00:00
-Total: 2901 manchetes
+Última coleta: 2026-11-04T07:22:43.479260+00:00
+Total: 2903 manchetes
 
   🇯🇵 Japão          836
-  🇨🇳 China          871
+  🇨🇳 China          872
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  888
+  🇰🇷 Coreia do Sul  889
 
 ## O que já está no feed (não repita)
 
+  - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.7, Implies 31% Upside
+  - [korea] Imported vehicle sales jump 29.3% in Oct. on strong EV demand
   - [china] China's slumping state airlines pin hopes on overseas demand like exporters
   - [korea] Democratic gains unlikely to derail Korea-US investment deal
   - [taiwan] Taiwan firm signs MOU with Ukrainian drone company on supply chains
@@ -52,11 +54,9 @@ Total: 2901 manchetes
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
   - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
   - [taiwan] TSMC's acquisition of AUO plant reshapes panel supply chain
-  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [korea] The Export-Import Bank of Korea has launched preemptive financial cooperation to strengthen the comp..
   - [korea] Growth and prices pointed out by Shin Hyun-song came out... Should we raise interest rates further?
   - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
-  - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2901 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T07:12:44+00:00",
+      "published_utc": "2026-11-04T07:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
