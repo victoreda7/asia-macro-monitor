@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T20:12:54.273073+00:00
+Última coleta: 2026-11-04T20:22:43.642467+00:00
 Total: 2958 manchetes
 
   🇯🇵 Japão          854
@@ -17,6 +17,7 @@ Total: 2958 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [china] Nvidia's China Customers Face a Stunning 99% Chip Shortfall
@@ -24,7 +25,6 @@ Total: 2958 manchetes
   - [korea] Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores
   - [china] China pledges to reduce trade tensions with Canada
   - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
-  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] The central bank will carry out 300 billion yuan of buyout reverse repurchase, shrinking the amount by 200 bil
   - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
   - [japan] Cabbage retail price approximately 70% higher than normal
@@ -116,7 +116,7 @@ Total: 2958 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T20:12:54+00:00",
+      "published_utc": "2026-11-04T20:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
