@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T03:02:44.218982+00:00
-Total: 2867 manchetes
+Última coleta: 2026-11-04T03:12:45.431238+00:00
+Total: 2869 manchetes
 
   🇯🇵 Japão          827
-  🇨🇳 China          854
-  🇹🇼 Taiwan         303
+  🇨🇳 China          855
+  🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
   - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
+  - [taiwan] TSMC's acquisition of AUO plant reshapes panel supply chain
   - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
@@ -55,8 +57,6 @@ Total: 2867 manchetes
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
   - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
-  - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
-  - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2867 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T03:02:44+00:00",
+      "published_utc": "2026-11-04T03:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
