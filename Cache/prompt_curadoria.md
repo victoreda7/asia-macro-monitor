@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T06:55:24.929090+00:00
+Última coleta: 2026-11-04T07:02:44.717125+00:00
 Total: 2899 manchetes
 
-  🇯🇵 Japão          837
+  🇯🇵 Japão          836
   🇨🇳 China          870
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  887
+  🇰🇷 Coreia do Sul  888
 
 ## O que já está no feed (não repita)
 
+  - [korea] Democratic gains unlikely to derail Korea-US investment deal
   - [japan] Tokyo Seimitsu: AI-driven semiconductor demand lifted H1 results and prompted higher FY2027 guidance
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [japan] Chiyoda: Golden Pass LNG started production as orders target JPY 300bn and share redemption advances
@@ -56,7 +57,6 @@ Total: 2899 manchetes
   - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
   - [china] China Services PMI Ebbs In October - Caixin
   - [china] CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 WEDS VS 6.7150
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2899 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T06:55:25+00:00",
+      "published_utc": "2026-11-04T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
