@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T10:12:52.181092+00:00
-Total: 2928 manchetes
+Última coleta: 2026-11-04T10:13:48.910676+00:00
+Total: 2929 manchetes
 
   🇯🇵 Japão          848
   🇨🇳 China          873
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  897
+  🇰🇷 Coreia do Sul  898
 
 ## O que já está no feed (não repita)
 
@@ -46,6 +46,7 @@ Total: 2928 manchetes
   - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Mitsui & Co Ceo: Aim To Achieve Net Profit Of More Than 1.1 Trillion Yen And Roe Of Over 12% In Fy2028, Driven
+  - [korea] A total of 10.894 billion won in monetary sanctions have been confirmed to six securities companies
   - [japan] The Ministry of Finance points out at the Fiscal Council that the cost of medical care for the elderly will be
   - [japan] Japan futures fall for 4th session as yen jumps, Tokyo equities drop
   - [japan] TSE continues to fall, selling mainly in semiconductor-related stocks
@@ -56,7 +57,6 @@ Total: 2928 manchetes
   - [korea] Democratic gains unlikely to derail Korea-US investment deal
   - [korea] With core inflation not being determined, the possibility of a resumption of interest rate hikes this month is
   - [taiwan] Taiwan firm signs MOU with Ukrainian drone company on supply chains
-  - [japan] Tokyo Seimitsu: AI-driven semiconductor demand lifted H1 results and prompted higher FY2027 guidance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2928 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T10:12:52+00:00",
+      "published_utc": "2026-11-04T10:13:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
