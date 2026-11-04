@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T07:52:43.788517+00:00
-Total: 2906 manchetes
+Última coleta: 2026-11-04T08:02:45.066595+00:00
+Total: 2909 manchetes
 
-  🇯🇵 Japão          839
+  🇯🇵 Japão          842
   🇨🇳 China          871
   🇹🇼 Taiwan         306
   🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
+  - [japan] Japanese Government Bonds Held by the Bank of Japan
+  - [japan] Mitsui & Co Ceo: Aim To Achieve Net Profit Of More Than 1.1 Trillion Yen And Roe Of Over 12% In Fy2028, Driven
+  - [japan] The Ministry of Finance points out at the Fiscal Council that the cost of medical care for the elderly will be
   - [japan] Japan futures fall for 4th session as yen jumps, Tokyo equities drop
   - [japan] TSE continues to fall, selling mainly in semiconductor-related stocks
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.7, Implies 31% Upside
@@ -53,10 +57,6 @@ Total: 2906 manchetes
   - [japan] Swiss Franc, Yen Jump as US Midterms Push Dollar to Worst Day in a Month
   - [korea] Kospi Slumps as Democrats’ US Election Lead Spurs Chip Selloff
   - [china] Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered
-  - [japan] Yen Strengthens as US Dollar Weakens
-  - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
-  - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
-  - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2906 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T07:52:44+00:00",
+      "published_utc": "2026-11-04T08:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
