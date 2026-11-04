@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T04:22:45.895207+00:00
-Total: 2881 manchetes
+Última coleta: 2026-11-04T04:32:44.923229+00:00
+Total: 2882 manchetes
 
-  🇯🇵 Japão          832
+  🇯🇵 Japão          833
   🇨🇳 China          860
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
   - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
   - [china] Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move
@@ -56,7 +57,6 @@ Total: 2881 manchetes
   - [korea] [Analysis] Despite the slowdown in prices in October, interest rates are expected to increase in November
   - [japan] Bank of Japan Accounts (October 31)
   - [korea] Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November
-  - [taiwan] Bosch creates semiconductor division to expand in robotics, external chipmaking
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2881 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T04:22:46+00:00",
+      "published_utc": "2026-11-04T04:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
