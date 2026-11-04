@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T05:02:43.468348+00:00
-Total: 2883 manchetes
+Última coleta: 2026-11-04T05:12:43.995254+00:00
+Total: 2885 manchetes
 
-  🇯🇵 Japão          833
-  🇨🇳 China          861
+  🇯🇵 Japão          834
+  🇨🇳 China          862
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mitsubishi Corporation - To Buy Back Up To About 6% Of Own Shares Worth 1 Trillion Yen
+  - [china] The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem I
   - [japan] Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn
   - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
@@ -55,8 +57,6 @@ Total: 2883 manchetes
   - [china] China PBOC Says It Cuts Relending Rate for Stock Buybacks to 1%
   - [japan] The fiscal burden is almost the same as "zero consumption tax," but the Ministry of Finance's "sneaky true int
   - [japan] Monetary base fell 13.6% year-on-year in October, rate of decline slowing - Bank of Japan (Reuters)
-  - [japan] The Bank of Japan decides to maintain the status quo of monetary policy (Hiroyuki Kubota) - Expert
-  - [korea] [Analysis] Despite the slowdown in prices in October, interest rates are expected to increase in November
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2883 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T05:02:43+00:00",
+      "published_utc": "2026-11-04T05:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
