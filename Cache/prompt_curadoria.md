@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T03:52:45.555996+00:00
-Total: 2875 manchetes
+Última coleta: 2026-11-04T04:02:45.434498+00:00
+Total: 2877 manchetes
 
-  🇯🇵 Japão          830
-  🇨🇳 China          857
+  🇯🇵 Japão          831
+  🇨🇳 China          858
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
+  - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democrati
   - [china] Nvidia China Clients Expected to Get 1% of $70 Billion in RTX Chip Orders
   - [china] Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News
@@ -55,8 +57,6 @@ Total: 2875 manchetes
   - [china] Changgao Electric's Units Win Bids In Equipment Projects Worth 230.4 Mln Yuan
   - [korea] South Korea FX Reserves Hit 4-Year High in October
   - [china] Financial News | The central bank raised the foreign exchange reserve ratio, and the RMB depreciated by more t
-  - [korea] SK Hynix's New York chip plans face obstacles due to US restrictions on China, sources say
-  - [china] China's Temu, JD.com revamp business models amid tariff headwinds
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2875 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T03:52:45+00:00",
+      "published_utc": "2026-11-04T04:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
