@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T14:02:46.346626+00:00
-Total: 2943 manchetes
+Última coleta: 2026-11-04T14:12:50.653840+00:00
+Total: 2944 manchetes
 
   🇯🇵 Japão          852
-  🇨🇳 China          881
+  🇨🇳 China          882
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
@@ -23,12 +23,14 @@ Total: 2943 manchetes
   - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
+  - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
+  - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
+  - [china] Chinese exporters see respite as Beijing curbs yuan rise amid record surplus
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
   - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
   - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
   - [taiwan] Exporters | Keyword News
-  - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years
   - [japan] ``We should enter into a full-fledged discussion about the future image'' of the former Bank of Japan Kanazawa
   - [taiwan] Mediatek Shahriari to strengthen collaboration with key supply chain partners including TSMC
@@ -52,11 +54,9 @@ Total: 2943 manchetes
   - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [china] Hong Kong Stocks Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results
-  - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
   - [china] Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move
   - [korea] Food Week Korea opens in Seoul with focus on exports, food technology
   - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
-  - [japan] Japanese Government Bonds Held by the Bank of Japan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2943 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T14:02:46+00:00",
+      "published_utc": "2026-11-04T14:12:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
