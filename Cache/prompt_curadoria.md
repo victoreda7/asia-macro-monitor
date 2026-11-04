@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T06:22:43.568224+00:00
-Total: 2895 manchetes
+Última coleta: 2026-11-04T06:32:45.136553+00:00
+Total: 2897 manchetes
 
-  🇯🇵 Japão          835
+  🇯🇵 Japão          837
   🇨🇳 China          868
   🇹🇼 Taiwan         305
   🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo Seimitsu: AI-driven semiconductor demand lifted H1 results and prompted higher FY2027 guidance
+  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
+  - [japan] Chiyoda: Golden Pass LNG started production as orders target JPY 300bn and share redemption advances
   - [japan] Mitsubishi raises FY profit forecast, announces 1 trillion yen buyback By Investing.com
   - [china] Estee Lauder sets growth targets through 2030 amid China recovery
   - [korea] Hugel Inc. Q1-Q3 Sales Rise 15% to KRW 352.1B
@@ -26,6 +29,7 @@ Total: 2895 manchetes
   - [japan] Mitsubishi Corporation - To Buy Back Up To About 6% Of Own Shares Worth 1 Trillion Yen
   - [china] Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg
   - [china] The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem I
+  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [china] Offshore Yuan Remains Under Pressure
   - [japan] Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn
   - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
@@ -39,9 +43,7 @@ Total: 2895 manchetes
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [japan] Swiss Franc, Yen Jump as US Midterms Push Dollar to Worst Day in a Month
   - [korea] Kospi Slumps as Democrats’ US Election Lead Spurs Chip Selloff
-  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered
-  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [japan] Yen Strengthens as US Dollar Weakens
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
@@ -55,8 +57,6 @@ Total: 2895 manchetes
   - [china] CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 WEDS VS 6.7150
   - [korea] Samsung Electronics, SK hynix rally on Wall Street chip rebound
-  - [japan] Stock prices drop by more than 2,000 yen at one point; sell orders spread for stocks such as semiconductors
-  - [china] How to understand the central bank’s increase in the foreign exchange deposit reserve ratio?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2895 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T06:22:43+00:00",
+      "published_utc": "2026-11-04T06:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

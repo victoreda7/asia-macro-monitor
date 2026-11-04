@@ -1,12 +1,12 @@
 {
- "generated_at_utc": "2026-11-04T06:22:43.568224+00:00",
- "collected_at_utc": "2026-11-04T06:22:43.568224+00:00",
+ "generated_at_utc": "2026-11-04T06:32:45.136553+00:00",
+ "collected_at_utc": "2026-11-04T06:32:45.136553+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2895,
+ "count": 2897,
  "by_region": {
-  "japan": 835,
+  "japan": 837,
   "china": 868,
   "taiwan": 305,
   "korea": 887
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T05:37:30+00:00"
+   "newest": "2026-11-04T06:22:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T14:38:44+09:00"
+   "newest": "2026-11-04T15:31:39+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T02:53:24+00:00"
+   "newest": "2026-11-04T01:34:53+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:51:00+00:00"
+   "newest": "2026-11-04T05:21:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T06:21:26+00:00"
+   "newest": "2026-11-04T06:32:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-04T04:59:45+00:00"
+   "newest": "2026-11-04T06:23:32+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:41:44+00:00"
+   "newest": "2026-11-04T00:01:16+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:02:13+00:00"
+   "newest": "2026-11-04T02:30:31+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Tokyo Seimitsu: AI-driven semiconductor demand lifted H1 results and prompted higher FY2027 guidance",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3688299:0-tokyo-seimitsu-ai-driven-semiconductor-demand-lifted-h1-results-and-prompted-higher-fy2027-guidance/",
+   "published_utc": "2026-11-04T06:31:47+00:00",
+   "title_original": "Tokyo Seimitsu: AI-driven semiconductor demand lifted H1 results and prompted higher FY2027 guidance",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "130778181321bc70"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties continue to discuss proposals to be voted on on the 6th",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
+   "published_utc": "2026-11-04T06:31:39+00:00",
+   "title_original": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc1fab380c753f93"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Chiyoda: Golden Pass LNG started production as orders target JPY 300bn and share redemption advances",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4442840:0-chiyoda-golden-pass-lng-started-production-as-orders-target-jpy-300bn-and-share-redemption-advances/",
+   "published_utc": "2026-11-04T06:24:17+00:00",
+   "title_original": "Chiyoda: Golden Pass LNG started production as orders target JPY 300bn and share redemption advances",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a55d4b28a085ba24"
+  },
   {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
@@ -495,6 +547,23 @@
    "live_wire": true,
    "manual": false,
    "id": "fc3322a71f03a58b"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFp4emV5NHZlaTJWTTUwUHhCYTBvTHBiRHpWTzJlb1JUZ05SWThnaWVpVmdyVmtadENjZnQ3N28tdXF4blp6VHZMX2VWMk5oM21ibXVXaDgwVEJSaGkzSlltWmFoeHJMdUx6RnJ2MDdVTHVSc0E0bEdsSk9jM0prMjdpUWloenBmM3hONGtSRW9MSjAzc0VxSnpOYm5wUFJBQW1sSTVTcWc1R2ptNXlR?oc=5",
+   "published_utc": "2026-11-04T04:59:00+00:00",
+   "title_original": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "13d7978f99b9bdc0"
   },
   {
    "source_id": "tradingview_live",
@@ -722,24 +791,6 @@
    "id": "14ee7b516561de98"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties continue to discuss proposals to be voted on on the 6th",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
-   "published_utc": "2026-11-04T03:17:08+00:00",
-   "title_original": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc1fab380c753f93"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
@@ -755,23 +806,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7d9674955f83ff1b"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFp4emV5NHZlaTJWTTUwUHhCYTBvTHBiRHpWTzJlb1JUZ05SWThnaWVpVmdyVmtadENjZnQ3N28tdXF4blp6VHZMX2VWMk5oM21ibXVXaDgwVEJSaGkzSlltWmFoeHJMdUx6RnJ2MDdVTHVSc0E0bEdsSk9jM0prMjdpUWloenBmM3hONGtSRW9MSjAzc0VxSnpOYm5wUFJBQW1sSTVTcWc1R2ptNXlR?oc=5",
-   "published_utc": "2026-11-04T03:11:00+00:00",
-   "title_original": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "13d7978f99b9bdc0"
   },
   {
    "source_id": "tradingview_live",
@@ -1265,7 +1299,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "OBC 뉴스",
    "title_en": "Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWaUtucWV5VlUyd1NTWk1JeFpwblhDYjZSSFpQclpuVFpIV2c0ZHBydlcyVHZjVy0zTnU4WkkwakNGTkRhZ0VZaXJLdTJXc2FfazJsdGdMY1B2QWZSR285OXNzTDFmZlZpOFE?oc=5",
    "published_utc": "2026-11-04T00:55:04+00:00",
    "title_original": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
    "region": "korea",
@@ -1278,7 +1312,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b6dbdabb10c823f"
+   "id": "71b3a7c90f062613"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5336,24 +5370,6 @@
    "id": "cdea8672f307ea0e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXZFZzS1d3ZWoxV1Iwa0ZKQUVVU2h3akpSei01Y29haFJpamZqMkFkN1F2YnZZOF9DRzBoUlJUU3RPRzlZa0cyUW8tekdUa3NWV3NYdDNSdFhLUGNxTlFjdmlrQmd4Zw?oc=5",
-   "published_utc": "2026-11-02T02:22:22+00:00",
-   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f67aeb17e7aae4f7"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
@@ -5525,6 +5541,24 @@
    "live_wire": false,
    "manual": false,
    "id": "abbad051b44a12ce"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 2, the central bank launched a 541 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BV3RNNG1SNk5Wc1RmeTIxRE9GNlBKSFA3X2dVRDJOaFRwdGw3SHFkenRFNmg2V0ducEJUNXY1VjJiei1WWGpfXzlMMEZkSTNUSTYxZG9lNm9Rc0dMRE9ObGZoN1MwbFJ6?oc=5",
+   "published_utc": "2026-11-02T01:35:09+00:00",
+   "title_original": "11月2日央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1946553e4f8f0b7b"
   },
   {
    "source_id": "gn_jp_yahoo",
