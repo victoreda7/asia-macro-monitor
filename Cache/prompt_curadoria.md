@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T14:42:45.262598+00:00
-Total: 2944 manchetes
+Última coleta: 2026-11-04T14:52:51.732705+00:00
+Total: 2947 manchetes
 
-  🇯🇵 Japão          852
-  🇨🇳 China          882
+  🇯🇵 Japão          853
+  🇨🇳 China          883
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  899
+  🇰🇷 Coreia do Sul  900
 
 ## O que já está no feed (não repita)
 
+  - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
   - [japan] Cabbage retail price approximately 70% higher than normal
   - [china] MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST
   - [china] Regarding the U.S.-China-Russia summit meeting, China's Ministry of Foreign Affairs "communicates with relevan
@@ -24,7 +25,9 @@ Total: 2944 manchetes
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
+  - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
+  - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
   - [china] Chinese exporters see respite as Beijing curbs yuan rise amid record surplus
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
@@ -45,8 +48,8 @@ Total: 2944 manchetes
   - [china] Central Bank: Tomorrow, a 300 billion yuan buyout reverse repurchase operation will be carried out with a fixe
   - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
   - [china] Chinese Vice Minister of Commerce Li Chenggang meets with KKR's Nuttall
-  - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
   - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
+  - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
   - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
   - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
   - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
@@ -54,9 +57,6 @@ Total: 2944 manchetes
   - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [china] Hong Kong Stocks Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results
-  - [china] Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move
-  - [korea] Food Week Korea opens in Seoul with focus on exports, food technology
-  - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2944 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T14:42:45+00:00",
+      "published_utc": "2026-11-04T14:52:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
