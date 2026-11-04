@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T15:32:45.863939+00:00
-Total: 2947 manchetes
+Última coleta: 2026-11-04T15:42:44.976588+00:00
+Total: 2946 manchetes
 
   🇯🇵 Japão          853
-  🇨🇳 China          884
+  🇨🇳 China          883
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
   - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
+  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
+  - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
   - [japan] Cabbage retail price approximately 70% higher than normal
   - [china] MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST
   - [china] Regarding the U.S.-China-Russia summit meeting, China's Ministry of Foreign Affairs "communicates with relevan
@@ -26,7 +28,6 @@ Total: 2947 manchetes
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
-  - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
@@ -56,7 +57,6 @@ Total: 2947 manchetes
   - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
   - [japan] BREAKING NEWS: JR Kyushu says Kumamoto quake losses total about 17 billion yen
   - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
-  - [china] Hong Kong Stocks Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2947 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T15:32:46+00:00",
+      "published_utc": "2026-11-04T15:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
