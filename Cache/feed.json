@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T02:12:43.658848+00:00",
- "collected_at_utc": "2026-11-04T02:12:43.658848+00:00",
+ "generated_at_utc": "2026-11-04T02:22:44.575149+00:00",
+ "collected_at_utc": "2026-11-04T02:22:44.575149+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2857,
+ "count": 2864,
  "by_region": {
-  "japan": 826,
-  "china": 848,
+  "japan": 827,
+  "china": 853,
   "taiwan": 303,
-  "korea": 880
+  "korea": 881
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T11:24:00+00:00"
+   "newest": "2026-11-03T08:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T01:54:43+00:00"
+   "newest": "2026-11-04T02:13:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:21:46+00:00"
+   "newest": "2026-11-03T19:44:10+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-02T04:01:38+00:00"
+   "newest": "2026-11-03T04:30:40+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T08:58:28+09:00"
+   "newest": "2026-11-04T11:15:57+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:06:00+00:00"
+   "newest": "2026-11-04T01:11:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T02:01:08+00:00"
+   "newest": "2026-11-04T02:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T23:27:02+00:00"
+   "newest": "2026-11-03T20:26:13+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-04T01:25:19+00:00"
+   "newest": "2026-11-04T02:10:16+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:41:44+00:00"
+   "newest": "2026-11-04T00:01:16+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,109 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties continue to discuss proposals to be voted on on the 6th",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
+   "published_utc": "2026-11-04T02:15:57+00:00",
+   "title_original": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc1fab380c753f93"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's PBOC Lowers Relending Rate for Stock Buybacks",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103015285:0-china-s-pboc-lowers-relending-rate-for-stock-buybacks/",
+   "published_utc": "2026-11-04T02:14:00+00:00",
+   "title_original": "China's PBOC Lowers Relending Rate for Stock Buybacks",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c7f927dd8e422dea"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won climbs, Taiwan dollar lags among mixed Asian FX",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46L06A:0-south-korean-won-climbs-taiwan-dollar-lags-among-mixed-asian-fx/",
+   "published_utc": "2026-11-04T02:09:28+00:00",
+   "title_original": "South Korean won climbs, Taiwan dollar lags among mixed Asian FX",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a75f86cc68765f1f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China Services PMI Ebbs In October - Caixin",
+   "url": "https://www.tradingview.com/news/dpa_afx:f4f44548bff72:0-china-services-pmi-ebbs-in-october-caixin/",
+   "published_utc": "2026-11-04T02:08:19+00:00",
+   "title_original": "China Services PMI Ebbs In October - Caixin",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a00d8ab854cd00c9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS",
+   "url": "https://www.tradingview.com/news/dpa_afx:aa6d56d8f31d4:0-china-pboc-conducts-cny257-5-bln-via-o-n-reverse-repo-weds/",
+   "published_utc": "2026-11-04T02:06:26+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ba02fb2884c1a9fa"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7180 WEDS VS 6.7150",
+   "url": "https://www.tradingview.com/news/dpa_afx:71460914864a3:0-china-sets-yuan-central-parity-at-6-7180-weds-vs-6-7150/",
+   "published_utc": "2026-11-04T02:02:24+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7180 WEDS VS 6.7150",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "77758455b50e7cf6"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -394,6 +497,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f784395343a9b476"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 257.5 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN2lrUDRJTjRtQlQ3RlFmcHZPaWVZZjhKbmQzLWVkSGdDbDQzbmF6S3dwU2xtdlM1dVpwQVdOLXd4alZOdEgtQTg1ejVZUHhJYmlwTlhyOWxUZ0lTV0czSg?oc=5",
+   "published_utc": "2026-11-04T01:26:00+00:00",
+   "title_original": "央行今日开展2575亿元隔夜期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "95de6e8492605eba"
   },
   {
    "source_id": "tradingview_live",
@@ -831,6 +952,24 @@
    "id": "f23e36f5f9476433"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZrQmtpY09QUXVsNWV0OFdVbVZvOWdDQWhYVFRWUk1EMmdaN2EwWUVWY2p1ajJsallTTGR3QWxuMC1uRHJyNmJ0WDZSc1gwVlhEYkZTVEs3UzF0Q0UwQ3E0ZTdjZmNIMWs5NTFRb1gyN2xPV0JzcW1zS1ZrX2djTzVUNTNCM1F6TUNnS0lUQ2pPRFBuWENMUnl1UXFNV3g1c2ZFRUR3bFNYcGJzVjB6cW82RE9WcjBidzBJ?oc=5",
+   "published_utc": "2026-11-03T19:44:10+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c177917e24bd8ff6"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
@@ -846,24 +985,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6f339246780900a3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
-   "published_utc": "2026-11-03T19:02:00+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "investing_live",
@@ -2058,6 +2179,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwcVdvTzBaeDl0NldmaTFmY1pieDItQWQzRFh6TDJad3RwYnZBVEV0WXZPUmV1cldUU29XSzQ2V3NHRE1FcVRqT1hqM1lMM2RLZVV0OER3UVM2U292TmFjbQ?oc=5",
+   "published_utc": "2026-11-03T04:18:45+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "02004daeb4b39d92"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "zqrb.cn",
    "title_en": "The central bank decided to raise the foreign exchange deposit reserve ratio!",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uRGZGTExKWTdJLVVYMDEwTUhFd2lFcV9LRUJVcmNDZ1lQX0U1WUVpQUtqNFVxb1hKSXo4dnowMHNTRldoamxPRXF1VE4tdXl5ZFF3QTA0aV80XzNDTlF2RVU5ZnNVNXc5c2stQVMtQ194anFTTFAtSGxYYkY?oc=5",
@@ -2246,24 +2385,6 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
-   "published_utc": "2026-11-03T02:08:10+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3206,7 +3327,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -3218,7 +3339,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "59da3ca61ab4cc5e"
+   "id": "00ad06c1ef60465a"
   },
   {
    "source_id": "gn_tw_cna",
@@ -5308,8 +5429,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -5323,7 +5444,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -5811,6 +5932,24 @@
    "id": "5dbbecc69c06d83e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
+   "published_utc": "2026-11-01T02:46:04+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4912a6c184ed00f5"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -6227,24 +6366,6 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
-   "published_utc": "2026-10-31T10:42:00+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8558,23 +8679,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -8892,6 +8996,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
@@ -27915,6 +28036,23 @@
    "id": "0bef40b94092862b"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
+   "published_utc": "2026-10-21T07:34:00+00:00",
+   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7556bcad4f5f915"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Japan futures slip as yen jumps, cost support seen easing",
@@ -28069,23 +28207,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1cadf4969f0fa604"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7556bcad4f5f915"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -33238,23 +33359,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
@@ -33270,6 +33374,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a18328814abf65e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc61015af334d077"
   },
   {
    "source_id": "gn_tw_digitimes",

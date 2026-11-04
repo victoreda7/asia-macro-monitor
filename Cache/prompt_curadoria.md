@@ -7,19 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T02:12:43.658848+00:00
-Total: 2857 manchetes
+Última coleta: 2026-11-04T02:22:44.575149+00:00
+Total: 2864 manchetes
 
-  🇯🇵 Japão          826
-  🇨🇳 China          848
+  🇯🇵 Japão          827
+  🇨🇳 China          853
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  880
+  🇰🇷 Coreia do Sul  881
 
 ## O que já está no feed (não repita)
 
+  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
+  - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
+  - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
+  - [china] China Services PMI Ebbs In October - Caixin
+  - [china] CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 WEDS VS 6.7150
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [japan] Stock prices drop by more than 2,000 yen at one point; sell orders spread for stocks such as semiconductors
   - [china] How to understand the central bank’s increase in the foreign exchange deposit reserve ratio?
+  - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation today
   - [china] China PBOC Pledges to Fully Meet Future Re-Lending Demand
   - [china] China PBOC: Banks Have Applied for Relending Quotas Exceeding 200 Billion Yuan
   - [china] China PBOC: The 1-Year Relending Facility Supports 26 Major Banks
@@ -45,18 +52,11 @@ Total: 2857 manchetes
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
   - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
-  - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
   - [japan] USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades
+  - [korea] SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say
   - [korea] SK Hynix’s US expansion plans hit snag over China license delays - report
   - [korea] SK Hynix’s New York chip plans hit snag over US restrictions on China, sources say
   - [korea] Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant
-  - [china] Raising the foreign exchange deposit reserve ratio, why did the central bank take action to stabilize the exch
-  - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
-  - [korea] AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough
-  - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
-  - [korea] Why are Micron, SK Hynix, and SanDisk stocks rising on Tuesday?
-  - [china] China's State Council announces removal of officials
-  - [china] Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2857 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T02:12:43+00:00",
+      "published_utc": "2026-11-04T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
