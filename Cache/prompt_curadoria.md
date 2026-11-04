@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T16:12:43.138104+00:00
+Última coleta: 2026-11-04T16:22:44.026220+00:00
 Total: 2949 manchetes
 
   🇯🇵 Japão          853
@@ -33,6 +33,7 @@ Total: 2949 manchetes
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
+  - [china] Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus
   - [china] Chinese exporters see respite as Beijing curbs yuan rise amid record surplus
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
   - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
@@ -56,7 +57,6 @@ Total: 2949 manchetes
   - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
   - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
   - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
-  - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2949 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T16:12:43+00:00",
+      "published_utc": "2026-11-04T16:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
