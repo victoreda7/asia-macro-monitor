@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T01:12:45.144580+00:00",
- "collected_at_utc": "2026-11-04T01:12:45.144580+00:00",
+ "generated_at_utc": "2026-11-04T01:22:47.521848+00:00",
+ "collected_at_utc": "2026-11-04T01:22:47.521848+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2843,
+ "count": 2845,
  "by_region": {
-  "japan": 822,
+  "japan": 823,
   "china": 840,
   "taiwan": 303,
-  "korea": 878
+  "korea": 879
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:47:00+00:00"
+   "newest": "2026-11-03T11:24:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 50,
+   "count": 52,
    "error": "",
-   "newest": "2026-11-03T19:33:08+08:00"
+   "newest": "2026-11-04T09:12:29+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T00:55:04+00:00"
+   "newest": "2026-11-04T01:12:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T00:14:05+00:00"
+   "newest": "2026-11-04T01:12:35+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T00:03:00+00:00"
+   "newest": "2026-11-04T00:41:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T01:11:20+00:00"
+   "newest": "2026-11-04T01:17:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:02:34+00:00"
+   "newest": "2026-11-04T01:13:37+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T05:12:00+00:00"
+   "newest": "2026-11-04T00:55:04+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Monetary base fell 13.6% year-on-year in October, rate of decline slowing - Bank of Japan (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hNnFud3JjQS01R3BUZFhOWnQ0NGgyRFQ3RzNmS3BweVlGa0FMaTdYV2IyNjhSYk0tZGgzTDRvRWNDME83Z2gxZTllQmFpOHotemt2OU1fQy1veXFKQmJEVkRQaVg0aWxyYUhHY1BrajFYTDY4WU16WTVfZUZGTG8?oc=5",
+   "published_utc": "2026-11-04T01:13:37+00:00",
+   "title_original": "マネタリーベース、10月は前年比13.6％減 減少率が縮小＝日銀（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "526d7728f107920a"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -377,6 +394,25 @@
    "live_wire": false,
    "manual": false,
    "id": "be1e57c0c6ec574b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "OBC 뉴스",
+   "title_en": "Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
+   "published_utc": "2026-11-04T00:55:04+00:00",
+   "title_original": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8b6dbdabb10c823f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5582,24 +5618,6 @@
    "id": "5dbbecc69c06d83e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
-   "published_utc": "2026-11-01T02:46:04+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4912a6c184ed00f5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -6016,6 +6034,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-10-31T10:42:00+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -25392,6 +25428,23 @@
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUmUwTTJZVHY3U1BZLWM1RnBoWmlSWGtOcjJ3QlhwTVJaNFFPVzV6TmpjQmNVZG8xSFkwaFhGMGljWXluUzk3TzVpNlRfa2szNjBsNHByenNGUQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "12206617541a6d3b"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
    "title_en": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xOU51Y29LSkdTcEF5d2NRZDdMSU5vSzQ1UWpjbnBpbkQwb1MyU2pwczJZQTI3b2htZERXeTNNZ0o3dUFhdDlza21XTV9zR2cyNUdRcHZ5aks0QQ?oc=5",
    "published_utc": "2026-10-22T07:00:00+00:00",
@@ -26080,23 +26133,6 @@
    "live_wire": false,
    "manual": false,
    "id": "58c09a79606c3e1d"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUmUwTTJZVHY3U1BZLWM1RnBoWmlSWGtOcjJ3QlhwTVJaNFFPVzV6TmpjQmNVZG8xSFkwaFhGMGljWXluUzk3TzVpNlRfa2szNjBsNHByenNGUQ?oc=5",
-   "published_utc": "2026-10-22T02:25:36+00:00",
-   "title_original": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "12206617541a6d3b"
   },
   {
    "source_id": "gn_jp_investing",
@@ -33009,23 +33045,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -33041,6 +33060,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",

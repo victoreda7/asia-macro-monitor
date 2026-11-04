@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T01:12:45.144580+00:00
-Total: 2843 manchetes
+Última coleta: 2026-11-04T01:22:47.521848+00:00
+Total: 2845 manchetes
 
-  🇯🇵 Japão          822
+  🇯🇵 Japão          823
   🇨🇳 China          840
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  878
+  🇰🇷 Coreia do Sul  879
 
 ## O que já está no feed (não repita)
 
+  - [japan] Monetary base fell 13.6% year-on-year in October, rate of decline slowing - Bank of Japan (Reuters)
   - [japan] The Bank of Japan decides to maintain the status quo of monetary policy (Hiroyuki Kubota) - Expert
   - [japan] Bank of Japan Accounts (October 31)
+  - [korea] Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November
   - [taiwan] Bosch creates semiconductor division to expand in robotics, external chipmaking
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] CXMT Plans To Buy Back Company Shares Worth 2.5-5 Bln Yuan
@@ -55,8 +57,6 @@ Total: 2843 manchetes
   - [japan] What midterms might mean for the yen
   - [korea] S.Korea’s used-car export boom buckles under strong won, Middle East war
   - [china] The People's Bank of China decides to raise the foreign exchange deposit reserve ratio of financial institutio
-  - [china] What does the central bank mean by raising the foreign exchange reserve requirement ratio for the first time i
-  - [china] China, Oman sign currency swap agreement
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2843 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T01:12:45+00:00",
+      "published_utc": "2026-11-04T01:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
