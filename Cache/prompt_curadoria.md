@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T12:52:46.353755+00:00
-Total: 2937 manchetes
+Última coleta: 2026-11-04T13:02:47.558012+00:00
+Total: 2938 manchetes
 
-  🇯🇵 Japão          850
-  🇨🇳 China          878
-  🇹🇼 Taiwan         310
+  🇯🇵 Japão          851
+  🇨🇳 China          877
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
   - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
   - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
+  - [taiwan] Exporters | Keyword News
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years
   - [japan] ``We should enter into a full-fledged discussion about the future image'' of the former Bank of Japan Kanazawa
@@ -55,8 +57,6 @@ Total: 2937 manchetes
   - [japan] The Ministry of Finance points out at the Fiscal Council that the cost of medical care for the elderly will be
   - [japan] Japan futures fall for 4th session as yen jumps, Tokyo equities drop
   - [china] Lowers stock repurchase and refinancing interest rates to 1% China's central bank: Provides adequate quota gua
-  - [japan] TSE continues to fall, selling mainly in semiconductor-related stocks
-  - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.7, Implies 31% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2937 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T12:52:46+00:00",
+      "published_utc": "2026-11-04T13:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
