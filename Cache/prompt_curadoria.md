@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T04:42:43.348556+00:00
-Total: 2883 manchetes
+Última coleta: 2026-11-04T04:52:44.625896+00:00
+Total: 2884 manchetes
 
-  🇯🇵 Japão          833
+  🇯🇵 Japão          834
   🇨🇳 China          861
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn
   - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
   - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
@@ -56,7 +57,6 @@ Total: 2883 manchetes
   - [japan] Monetary base fell 13.6% year-on-year in October, rate of decline slowing - Bank of Japan (Reuters)
   - [japan] The Bank of Japan decides to maintain the status quo of monetary policy (Hiroyuki Kubota) - Expert
   - [korea] [Analysis] Despite the slowdown in prices in October, interest rates are expected to increase in November
-  - [japan] Bank of Japan Accounts (October 31)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2883 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T04:42:43+00:00",
+      "published_utc": "2026-11-04T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
