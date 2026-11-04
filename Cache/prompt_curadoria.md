@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-03T23:52:45.945990+00:00
+Última coleta: 2026-11-04T00:02:44.769563+00:00
 Total: 2839 manchetes
 
   🇯🇵 Japão          820
-  🇨🇳 China          838
+  🇨🇳 China          839
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  879
+  🇰🇷 Coreia do Sul  878
 
 ## O que já está no feed (não repita)
 
+  - [china] Changgao Electric's Units Win Bids In Equipment Projects Worth 230.4 Mln Yuan
   - [korea] South Korea FX Reserves Hit 4-Year High in October
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [china] Financial News | The central bank raised the foreign exchange reserve ratio, and the RMB depreciated by more t
@@ -56,7 +57,6 @@ Total: 2839 manchetes
   - [china] Sales of Tesla electric vehicles made in China increase 10.3% in October year-on-year
   - [korea] Samsung will manufacture chip components from AMD and Nvidia at its second factory in Texas, according to a re
   - [korea] Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports
-  - [china] Zhejiang Construction Investment Group Says Unit's Consortium Wins 1.5 Billion Yuan Bid
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2839 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-03T23:52:46+00:00",
+      "published_utc": "2026-11-04T00:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
