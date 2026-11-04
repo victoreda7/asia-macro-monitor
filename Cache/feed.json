@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T09:22:43.630903+00:00",
- "collected_at_utc": "2026-11-04T09:22:43.630903+00:00",
+ "generated_at_utc": "2026-11-04T09:32:46.158335+00:00",
+ "collected_at_utc": "2026-11-04T09:32:46.158335+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2919,
+ "count": 2920,
  "by_region": {
-  "japan": 844,
-  "china": 872,
+  "japan": 845,
+  "china": 871,
   "taiwan": 307,
-  "korea": 896
+  "korea": 897
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T08:29:57+00:00"
+   "newest": "2026-11-04T09:02:27+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T14:47:54+08:00"
+   "newest": "2026-11-04T16:07:59+08:00"
   },
   {
    "source_id": "investing_live",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
    "newest": "2026-11-04T01:30:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T18:13:50+09:00"
+   "newest": "2026-11-04T18:25:04+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T18:13:17+09:00"
+   "newest": "2026-11-04T18:21:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-04T08:30:07+00:00"
+   "newest": "2026-11-04T09:24:54+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T09:21:17+00:00"
+   "newest": "2026-11-04T09:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-04T16:20:00+09:00"
+   "newest": "2026-11-04T16:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T08:42:08+00:00"
+   "newest": "2026-11-04T09:22:31+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:02:13+00:00"
+   "newest": "2026-11-04T06:54:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after listening to Prime Minister’s answer”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70249",
+   "published_utc": "2026-11-04T09:25:04+00:00",
+   "title_original": "消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "abdc3e7528db29e9"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister Katayama",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70412",
+   "published_utc": "2026-11-04T09:21:00+00:00",
+   "title_original": "非上場企業株式の新評価方式“与党の税制調査会で”片山財務相",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7675402508c3911"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
@@ -772,6 +807,24 @@
    "id": "78d20636b389ea85"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "이투데이",
+   "title_en": "With core inflation not being determined, the possibility of a resumption of interest rate hikes this month is 'shaking'",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2dzEyU2E5WnczQmR5MUdZVVFCRzNrcEw3YXB2ZV80WlRKYW5ZTXk0WVk0TUI0VGhZN3MwRU5PRUtDcVRXdmJ5VFh6cXc3YlZXOU10Zw?oc=5",
+   "published_utc": "2026-11-04T06:54:00+00:00",
+   "title_original": "잡히지 않는 근원물가에⋯이달 기준금리 인상 재개 가능성 '들썩'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba89e82f8ea95030"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan firm signs MOU with Ukrainian drone company on supply chains",
@@ -1116,24 +1169,6 @@
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after listening to Prime Minister’s answer”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261104de70249",
-   "published_utc": "2026-11-04T03:55:32+00:00",
-   "title_original": "消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "abdc3e7528db29e9"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democratic Party member Matsumura",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70242",
    "published_utc": "2026-11-04T03:40:42+00:00",
@@ -1337,23 +1372,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d799f19db98b3af3"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTTy12clJwVTRzX3RuelFFUk1GNXdKQW5JQmtZdXJQeU90QTRfSFUtTGtpTjc5MlctanV5R2tySVdISEFzeWlyUw?oc=5",
-   "published_utc": "2026-11-04T02:40:56+00:00",
-   "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d2a5f2eb02d584db"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1691,7 +1709,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "OBC 뉴스",
    "title_en": "Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWaUtucWV5VlUyd1NTWk1JeFpwblhDYjZSSFpQclpuVFpIV2c0ZHBydlcyVHZjVy0zTnU4WkkwakNGTkRhZ0VZaXJLdTJXc2FfazJsdGdMY1B2QWZSR285OXNzTDFmZlZpOFE?oc=5",
    "published_utc": "2026-11-04T00:55:04+00:00",
    "title_original": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
    "region": "korea",
@@ -1704,7 +1722,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b6dbdabb10c823f"
+   "id": "71b3a7c90f062613"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -31732,6 +31750,23 @@
    "id": "5aa8fdba097a496d"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkJtaVhNSmQzZzZuM0otODNnd2JRR0tvaTJuaUp6SktQdGlLMzY4eG12Zjc4NGdtTHFlajdRZzgyZVl3U2dhZ1Z1b0lQRm9icUNJUUJOMnNENF9ZYjJOOGlDTl9JZ0RnN2J0Q3QxTG1VZWlZM2p6RURUWWNRMm5POFJGWnd5UGdVOEt6b3FOeXYyd0o5ajFXTnB2REJYQXFTaUo1d2ROb0NzazQ?oc=5",
+   "published_utc": "2026-10-20T07:00:00+00:00",
+   "title_original": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d227f803658551e1"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
@@ -32871,23 +32906,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c6c66c0bb42efd23"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBTk91Q29Ld0ZrejVtMWIzdGZZdUNZNUxndjlha0JaYm1UWXRhbGhfenhkbmVvMzIzTEdMYTZ0ZGU0QVp0Mzlyc3pSMU9VQ1lUODQ4SnFxRGhwdTd3eFJDSzVHSlF1dkVXT1Jn?oc=5",
-   "published_utc": "2026-10-19T23:07:00+00:00",
-   "title_original": "DIGITIMES Insights: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progress",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "24a3fc2fd1b4b705"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -34355,23 +34373,6 @@
    "id": "156428881b01eb40"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -34387,6 +34388,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fc61015af334d077"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a18328814abf65e8"
   },
   {
    "source_id": "gn_tw_digitimes",

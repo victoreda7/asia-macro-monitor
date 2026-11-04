@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T09:22:43.630903+00:00
-Total: 2919 manchetes
+Última coleta: 2026-11-04T09:32:46.158335+00:00
+Total: 2920 manchetes
 
-  🇯🇵 Japão          844
-  🇨🇳 China          872
+  🇯🇵 Japão          845
+  🇨🇳 China          871
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  896
+  🇰🇷 Coreia do Sul  897
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
+  - [japan] New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister K
   - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
   - [china] Chinese Vice Minister of Commerce Li Chenggang meets with KKR's Nuttall
   - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
@@ -42,6 +44,7 @@ Total: 2919 manchetes
   - [china] China's slumping state airlines pin hopes on overseas demand like exporters
   - [korea] The International Atomic Energy Export Event held at the end of last month was successfully complete..
   - [korea] Democratic gains unlikely to derail Korea-US investment deal
+  - [korea] With core inflation not being determined, the possibility of a resumption of interest rate hikes this month is
   - [taiwan] Taiwan firm signs MOU with Ukrainian drone company on supply chains
   - [japan] Tokyo Seimitsu: AI-driven semiconductor demand lifted H1 results and prompted higher FY2027 guidance
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
@@ -54,9 +57,6 @@ Total: 2919 manchetes
   - [china] Concerns about trade imbalance continue, Shanghai International Import Expo will launch "Export to China Repor
   - [taiwan] TSMC scheduled to list NT$14.8 billion green bonds on Nov. 12
   - [japan] Mitsubishi Corporation - To Buy Back Up To About 6% Of Own Shares Worth 1 Trillion Yen
-  - [china] Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg
-  - [china] The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem I
-  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2919 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T09:22:43+00:00",
+      "published_utc": "2026-11-04T09:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
