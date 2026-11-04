@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-04T02:22:44.575149+00:00",
- "collected_at_utc": "2026-11-04T02:22:44.575149+00:00",
+ "generated_at_utc": "2026-11-04T02:32:50.302743+00:00",
+ "collected_at_utc": "2026-11-04T02:32:50.302743+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 303,
   "korea": 881
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-04T10:58:00+09:00"
+   "newest": "2026-11-04T11:21:53+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:11:00+00:00"
+   "newest": "2026-11-04T01:23:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T02:20:00+00:00"
+   "newest": "2026-11-04T02:31:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T00:36:20+00:00"
+   "newest": "2026-11-04T01:48:57+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's PBOC Lowers Relending Rate for Stock Buybacks",
+   "url": "https://www.tradingview.com/news/DJN_DN20261103015549:0-china-s-pboc-lowers-relending-rate-for-stock-buybacks/",
+   "published_utc": "2026-11-04T02:29:00+00:00",
+   "title_original": "China's PBOC Lowers Relending Rate for Stock Buybacks",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fc3e25df597f9802"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -360,23 +377,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dc1fab380c753f93"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's PBOC Lowers Relending Rate for Stock Buybacks",
-   "url": "https://www.tradingview.com/news/DJN_DN20261103015285:0-china-s-pboc-lowers-relending-rate-for-stock-buybacks/",
-   "published_utc": "2026-11-04T02:14:00+00:00",
-   "title_original": "China's PBOC Lowers Relending Rate for Stock Buybacks",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c7f927dd8e422dea"
   },
   {
    "source_id": "tradingview_live",
@@ -1036,6 +1036,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e0c1a5f4ae440bb9"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "zqrb.cn",
+   "title_en": "The central bank will raise the foreign exchange deposit reserve ratio of financial institutions to 6%",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3d1VicXdORll5eHNOOWZYVnpzaV9tNFVmcjhEOTVsT2RyXzRCZEltZlRXbVp1MExsdDE0bXdYaGY3YUk5SE9ka0l2ZkRVVm1GaFdxemJsdlFoQWVhbzlVV2ZjWl9oVnRSUDUwcHNqc2psVllvWmZxOWF1WUo?oc=5",
+   "published_utc": "2026-11-03T16:56:00+00:00",
+   "title_original": "央行将上调金融机构外汇存款准备金率至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d5672df91874c802"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2545,23 +2562,6 @@
    "id": "a2d03541998d3d0a"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中金在线",
-   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsUGt1a21PUlctdHR4NjFPeENEbnBMUktjVHZqMk5FX0JTc2NjWjBfNl9fTTVsZk1SUkxldjliSjhac1Fxb1hKTDBzTjV0cE9XcFkxYXZtMkFfWjJGTm5uNHk5ZUhXa09OXzhpM3RB?oc=5",
-   "published_utc": "2026-11-03T01:29:05+00:00",
-   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9153c75d4d9b86b3"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China hikes forex deposit reserve ratio to 6%",
@@ -3327,7 +3327,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Is the Bank of Japan's ``2% price increase'' target out of sync with how people feel about their daily lives?Food prices have risen by more than 6%...Is a price increase the first step toward \"good inflation\"?The key is the \"underlying price increase rate\" [N Star Commentary] (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhDN1FSVFNONzZ3REZHUVhQVGhTQUpGVmZ2VjJTaUlzbnQ2eF9keGozb05WSlNrcE9fTU1BUm1xTnZYYTg3MUtrOGwxS1lZZUhSTWltODl1TWQ5enFqV1dhdFhpT0pTS0VaYU9HdXNTaTR0SER6ODdNSERFSVV6M19WSEhIUkNv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUEdEMVVhQnYycU5ucTFtZ2h5WnZTZUxWeHdXXy15T2Izai1EX3ZuZk43a0VGcGhsR2w4bEpsR2tWSHBTNnk3RjBBNmI2Nk1sUDVCTUswMmowck9KUGhCSlNHeFBkeXAxUTVSbW92YnVNYkhRMjZqM24yOF9pR0E?oc=5",
    "published_utc": "2026-11-02T12:05:24+00:00",
    "title_original": "日銀「物価上昇2％」到達も生活実感とズレ?食料品6％超上昇…値上げは“良いインフレ”の第一歩か?カギ握る“基調的な物価上昇率”【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
    "region": "japan",
@@ -3339,7 +3339,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "00ad06c1ef60465a"
+   "id": "59da3ca61ab4cc5e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -5429,8 +5429,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -5444,7 +5444,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -5932,24 +5932,6 @@
    "id": "5dbbecc69c06d83e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zeDZNZjI1UUVjOWdXdGx5ZExNMml4b3I2d0JaRmQxemlvLTY4ZWpFWjYtSnRQUGpyMU1QVEJ1RW1DaEg3WU9Eb1RQbWY0ckJXaURwREV6RVo?oc=5",
-   "published_utc": "2026-11-01T02:46:04+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4912a6c184ed00f5"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "AI inflation sweeps through the mobile phone market. Industry players: Price pressure may persist until 2028",
@@ -6366,6 +6348,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90f1848d9cbbe35c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
+   "published_utc": "2026-10-31T10:42:00+00:00",
+   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "503f607ad77312a6"
   },
   {
    "source_id": "gn_cn_pboc",

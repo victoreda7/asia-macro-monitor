@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T02:22:44.575149+00:00
+Última coleta: 2026-11-04T02:32:50.302743+00:00
 Total: 2864 manchetes
 
   🇯🇵 Japão          827
@@ -17,8 +17,8 @@ Total: 2864 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
+  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
   - [china] China Services PMI Ebbs In October - Caixin
   - [china] CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS
@@ -116,7 +116,7 @@ Total: 2864 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T02:22:44+00:00",
+      "published_utc": "2026-11-04T02:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
