@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T10:22:52.692204+00:00
+Última coleta: 2026-11-04T10:32:44.846226+00:00
 Total: 2930 manchetes
 
   🇯🇵 Japão          848
@@ -24,7 +24,6 @@ Total: 2930 manchetes
   - [taiwan] Mediatek Shahriari to strengthen collaboration with key supply chain partners including TSMC
   - [taiwan] Exporters sell foreign exchange and foreign capital remittances compete, the New Taiwan dollar closes down 6.1
   - [china] Central Bank: It will launch a 300 billion yuan buyout reverse repurchase operation on November 5 with a perio
-  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [japan] Department stores announce lucky bags in anticipation of rising prices and consumption tax cuts
   - [japan] The Bank of Japan's December interest rate hike is judged to be in flux ~ Between "reports" and "analysis" ~ (
   - [taiwan] Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices
@@ -57,6 +56,7 @@ Total: 2930 manchetes
   - [korea] The International Atomic Energy Export Event held at the end of last month was successfully complete..
   - [korea] Democratic gains unlikely to derail Korea-US investment deal
   - [korea] With core inflation not being determined, the possibility of a resumption of interest rate hikes this month is
+  - [taiwan] Taiwan firm signs MOU with Ukrainian drone company on supply chains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2930 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T10:22:52+00:00",
+      "published_utc": "2026-11-04T10:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
