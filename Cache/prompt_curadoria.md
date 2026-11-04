@@ -7,25 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T07:32:50.053808+00:00
-Total: 2903 manchetes
+Última coleta: 2026-11-04T07:42:44.494065+00:00
+Total: 2906 manchetes
 
-  🇯🇵 Japão          837
+  🇯🇵 Japão          839
   🇨🇳 China          871
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  889
+  🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan futures fall for 4th session as yen jumps, Tokyo equities drop
   - [japan] TSE continues to fall, selling mainly in semiconductor-related stocks
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.7, Implies 31% Upside
   - [korea] Imported vehicle sales jump 29.3% in Oct. on strong EV demand
   - [china] China's slumping state airlines pin hopes on overseas demand like exporters
+  - [korea] The International Atomic Energy Export Event held at the end of last month was successfully complete..
   - [korea] Democratic gains unlikely to derail Korea-US investment deal
   - [taiwan] Taiwan firm signs MOU with Ukrainian drone company on supply chains
   - [japan] Tokyo Seimitsu: AI-driven semiconductor demand lifted H1 results and prompted higher FY2027 guidance
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [japan] Chiyoda: Golden Pass LNG started production as orders target JPY 300bn and share redemption advances
+  - [japan] Mitsubishi raises FY profit forecast, announces 1 trillion yen buyback
   - [japan] Mitsubishi raises FY profit forecast, announces 1 trillion yen buyback By Investing.com
   - [china] Estee Lauder sets growth targets through 2030 amid China recovery
   - [korea] Hugel Inc. Q1-Q3 Sales Rise 15% to KRW 352.1B
@@ -54,9 +57,6 @@ Total: 2903 manchetes
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
   - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
-  - [taiwan] TSMC's acquisition of AUO plant reshapes panel supply chain
-  - [korea] The Export-Import Bank of Korea has launched preemptive financial cooperation to strengthen the comp..
-  - [korea] Growth and prices pointed out by Shin Hyun-song came out... Should we raise interest rates further?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2903 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T07:32:50+00:00",
+      "published_utc": "2026-11-04T07:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

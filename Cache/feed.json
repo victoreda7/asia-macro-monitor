@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T07:32:50.053808+00:00",
- "collected_at_utc": "2026-11-04T07:32:50.053808+00:00",
+ "generated_at_utc": "2026-11-04T07:42:44.494065+00:00",
+ "collected_at_utc": "2026-11-04T07:42:44.494065+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2903,
+ "count": 2906,
  "by_region": {
-  "japan": 837,
+  "japan": 839,
   "china": 871,
   "taiwan": 306,
-  "korea": 889
+  "korea": 890
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:36:00+00:00"
+   "newest": "2026-11-04T07:22:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:00:00+00:00"
+   "newest": "2026-11-04T04:39:01+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T07:12:43+00:00"
+   "newest": "2026-11-04T07:33:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T07:06:55+00:00"
+   "newest": "2026-11-04T07:13:15+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-11-03T00:51:00+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T04:04:00+00:00"
+   "newest": "2026-11-04T05:02:13+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T07:32:21+00:00"
+   "newest": "2026-11-04T07:42:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:02:23+00:00"
+   "newest": "2026-11-04T07:32:33+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures fall for 4th session as yen jumps, Tokyo equities drop",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L0B9:0-japan-futures-fall-for-4th-session-as-yen-jumps-tokyo-equities-drop/",
+   "published_utc": "2026-11-04T07:37:02+00:00",
+   "title_original": "Japan futures fall for 4th session as yen jumps, Tokyo equities drop",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "35608647ae088383"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -410,6 +427,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9a6ee0fdd8b41bd2"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The International Atomic Energy Export Event held at the end of last month was successfully complete..",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbER2V1ZhLWpiSWNodFdfUDVDOFdZcURlR0xUZEZ6YU5wd0dUN3Uxd0RLcFN4Y1UyemhSYUY5MGdoXzRRQjg4SXFBVmVYbUNaeHV0X2c4NGJLbkpw?oc=5",
+   "published_utc": "2026-11-04T06:59:14+00:00",
+   "title_original": "The International Atomic Energy Export Event held at the end of last month was successfully complete..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e5d73fd1c52e624b"
   },
   {
    "source_id": "korea_herald_biz",
@@ -496,6 +530,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a55d4b28a085ba24"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Mitsubishi raises FY profit forecast, announces 1 trillion yen buyback",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDh6cHQ2Sklzd1Q2Q0F2Sk01ZU9aTEJBYllpUGk1d1lUd295NnJ3VUFLZjc0eElpVFk1UkpVN1hZbkExLUI5MENhTXVuazdEQ0NLbUR3d1JDMzJWTlhyQ2REZmVETG9oRG1VMk9PQzYwcEJXR04wOTBWclVGemJuT0ZTRmpseXMxZXFYeE1ybi0teHBWc3lQTFhodkh5ejE1SVgyUGV6VmgyT0V2ZVpWdDJJb0p2MjN3?oc=5",
+   "published_utc": "2026-11-04T05:57:24+00:00",
+   "title_original": "Mitsubishi raises FY profit forecast, announces 1 trillion yen buyback",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "611f1646f73238cf"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1401,7 +1452,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "OBC 뉴스",
    "title_en": "Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWaUtucWV5VlUyd1NTWk1JeFpwblhDYjZSSFpQclpuVFpIV2c0ZHBydlcyVHZjVy0zTnU4WkkwakNGTkRhZ0VZaXJLdTJXc2FfazJsdGdMY1B2QWZSR285OXNzTDFmZlZpOFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
    "published_utc": "2026-11-04T00:55:04+00:00",
    "title_original": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
    "region": "korea",
@@ -1414,7 +1465,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71b3a7c90f062613"
+   "id": "8b6dbdabb10c823f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6152,8 +6203,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -6167,7 +6218,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
