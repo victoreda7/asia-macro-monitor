@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T12:12:45.067285+00:00",
- "collected_at_utc": "2026-11-04T12:12:45.067285+00:00",
+ "generated_at_utc": "2026-11-04T12:22:43.012338+00:00",
+ "collected_at_utc": "2026-11-04T12:22:43.012338+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2934,
+ "count": 2935,
  "by_region": {
   "japan": 850,
-  "china": 876,
+  "china": 877,
   "taiwan": 310,
   "korea": 898
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T07:21:00+00:00"
+   "newest": "2026-11-04T07:34:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T12:12:17+00:00"
+   "newest": "2026-11-04T12:22:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-04T12:04:11+00:00"
+   "newest": "2026-11-04T12:13:24+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:41:44+00:00"
+   "newest": "2026-11-03T21:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T09:17:06+00:00"
+   "newest": "2026-11-04T10:35:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T06:54:00+00:00"
+   "newest": "2026-11-04T01:02:13+00:00"
   }
  ],
  "items": [
@@ -518,6 +518,23 @@
    "live_wire": false,
    "manual": false,
    "id": "072ce2a5def8d3ba"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTTy12clJwVTRzX3RuelFFUk1GNXdKQW5JQmtZdXJQeU90QTRfSFUtTGtpTjc5MlctanV5R2tySVdISEFzeWlyUw?oc=5",
+   "published_utc": "2026-11-04T09:35:29+00:00",
+   "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2a5f2eb02d584db"
   },
   {
    "source_id": "nhk_economy",
@@ -1939,7 +1956,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "OBC 뉴스",
    "title_en": "Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWaUtucWV5VlUyd1NTWk1JeFpwblhDYjZSSFpQclpuVFpIV2c0ZHBydlcyVHZjVy0zTnU4WkkwakNGTkRhZ0VZaXJLdTJXc2FfazJsdGdMY1B2QWZSR285OXNzTDFmZlZpOFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTndyTEZDWGZUMmVEWExvQm53WVZTcEprQkdrWHlFR21HZF9NZlh2blZvN0N1dlZtVzlDZ1lfcTRQbEFQLXZxekp4bUxwX1ROcXJjNmlaWnNpX2c0Z2VDT1NTazZIaXNn?oc=5",
    "published_utc": "2026-11-04T00:55:04+00:00",
    "title_original": "물가 2.8%·성장률 1.0%…한국은행, 11월 기준금리 3.25% ↑가능",
    "region": "korea",
@@ -1952,7 +1969,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71b3a7c90f062613"
+   "id": "8b6dbdabb10c823f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2162,6 +2179,24 @@
    "id": "f23e36f5f9476433"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmZrQmtpY09QUXVsNWV0OFdVbVZvOWdDQWhYVFRWUk1EMmdaN2EwWUVWY2p1ajJsallTTGR3QWxuMC1uRHJyNmJ0WDZSc1gwVlhEYkZTVEs3UzF0Q0UwQ3E0ZTdjZmNIMWs5NTFRb1gyN2xPV0JzcW1zS1ZrX2djTzVUNTNCM1F6TUNnS0lUQ2pPRFBuWENMUnl1UXFNV3g1c2ZFRUR3bFNYcGJzVjB6cW82RE9WcjBidzBJ?oc=5",
+   "published_utc": "2026-11-03T19:44:10+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c177917e24bd8ff6"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix's plans to make chips in New York face obstacles due to US restrictions on China, sources say",
@@ -2177,24 +2212,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6f339246780900a3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
-   "published_utc": "2026-11-03T19:02:00+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "investing_live",
@@ -3283,6 +3300,23 @@
    "id": "846ee0bfb1232571"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financial institutions by 2 percentage points.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93ZmhRYjd1SXhDaWM1Uk5LTHVDSEtJS1h1QVpGeWw3SU9tNS1mOWU2Z1pGT0txaWI2ZjlUTzJyUUV1UXQ1cmRtWnQ3Zk16Tnk0SnJ5cEFKeWY0VGxUd1k5dg?oc=5",
+   "published_utc": "2026-11-03T06:26:56+00:00",
+   "title_original": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e10200b477067163"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Hanwha brings Korean defense, manufacturing ETFs to Abu Dhabi",
@@ -3804,24 +3838,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d357c4f04d4ed7f1"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "On November 3, the central bank launched a 621 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBscFV6RUdCaWVfT01IWFg4T3JVTHk5dUVvWWxsbGlXaEZMSnZCQjJ3Rk82WklHV3BUS0djRWVEelR0UU02VGVEQ1lQZ09maVYwUnRuaHAxQmxhZGFSLWlXSldGOXNPWkZU?oc=5",
-   "published_utc": "2026-11-03T01:32:33+00:00",
-   "title_original": "11月3日央行开展6210亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a2d03541998d3d0a"
   },
   {
    "source_id": "investing_econ",
@@ -9958,23 +9974,6 @@
    "id": "84854a3e8d0944fc"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MmswV1Q3WEhTXzBHZXA5M1EzUWZnRDc3TFlSM1VfUmM1MVV1RktWMy1TdS13ejNmRHNTbHJkWVpGSG9PdGNOSWJsbkhIeDhERC1BWF9YMlhHTTVQWEl1WHRHQ0kyUzJlWVU2VlYyN25QaXIyOHczcGhoMmF5QmM?oc=5",
-   "published_utc": "2026-10-30T09:31:32+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cea45f497782f009"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ declares victory in hitting price target, signals near-term hikes",
@@ -10292,6 +10291,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b8c7b8962aa184fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Bank of Japan Hits 2% Price Target",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
+   "published_utc": "2026-10-30T08:33:00+00:00",
+   "title_original": "Bank of Japan Hits 2% Price Target",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22a85c78360a036a"
   },
   {
    "source_id": "scmp_business",
