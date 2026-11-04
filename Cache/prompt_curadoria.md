@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T17:32:45.656975+00:00
+Última coleta: 2026-11-04T17:42:47.209533+00:00
 Total: 2953 manchetes
 
   🇯🇵 Japão          853
@@ -17,8 +17,10 @@ Total: 2953 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Europe to invest €525 million in chip startups to catch up with US and China
   - [china] Nvidia's China Customers Face a Stunning 99% Chip Shortfall
   - [taiwan] Taiwan Weighs Tighter Controls on Chip Exports to Chinese Mainland
+  - [korea] Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores
   - [china] China pledges to reduce trade tensions with Canada
   - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
@@ -55,8 +57,6 @@ Total: 2953 manchetes
   - [japan] New valuation method for unlisted company stocks “Ruling party tax investigation committee” Finance Minister K
   - [china] Central Bank: Tomorrow, a 300 billion yuan buyout reverse repurchase operation will be carried out with a fixe
   - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
-  - [china] Chinese Vice Minister of Commerce Li Chenggang meets with KKR's Nuttall
-  - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2953 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T17:32:45+00:00",
+      "published_utc": "2026-11-04T17:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

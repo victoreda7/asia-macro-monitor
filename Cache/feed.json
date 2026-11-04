@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-04T17:32:45.656975+00:00",
- "collected_at_utc": "2026-11-04T17:32:45.656975+00:00",
+ "generated_at_utc": "2026-11-04T17:42:47.209533+00:00",
+ "collected_at_utc": "2026-11-04T17:42:47.209533+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 312,
   "korea": 899
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,7 +65,7 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 60,
+   "count": 50,
    "error": "",
    "newest": "2026-11-04T21:01:24+08:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T17:16:05+00:00"
+   "newest": "2026-11-04T17:33:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T17:13:14+00:00"
+   "newest": "2026-11-04T17:25:44+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T02:20:03+09:00"
+   "newest": "2026-11-05T02:33:58+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T15:19:05+00:00"
+   "newest": "2026-11-04T17:33:54+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T15:29:24+00:00"
+   "newest": "2026-11-04T17:31:14+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T17:32:00+00:00"
+   "newest": "2026-11-04T17:41:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Europe to invest €525 million in chip startups to catch up with US and China",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46L147:0-europe-to-invest-525-million-in-chip-startups-to-catch-up-with-us-and-china/",
+   "published_utc": "2026-11-04T17:41:04+00:00",
+   "title_original": "Europe to invest €525 million in chip startups to catch up with US and China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7f785d0556905a64"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "Nvidia's China Customers Face a Stunning 99% Chip Shortfall",
    "url": "https://www.tradingview.com/news/gurufocus:6e337604a094b:0-nvidia-s-china-customers-face-a-stunning-99-chip-shortfall/",
@@ -377,6 +394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "de23725826f8110a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores",
+   "url": "https://www.tradingview.com/news/invezz:a8d31bb2abc81:0/",
+   "published_utc": "2026-11-04T16:21:16+00:00",
+   "title_original": "Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d111955c3d02c0e5"
   },
   {
    "source_id": "investing_econ",
@@ -534,8 +568,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -549,7 +583,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1934,40 +1968,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b931332916242509"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "BOK Financial raises quarterly dividend by 23.8% to $0.78/share",
-   "url": "https://www.tradingview.com/news/seekingalpha:da0fd4509094b:0-bok-financial-raises-quarterly-dividend-by-23-8-to-0-78-share/",
-   "published_utc": "2026-11-04T02:52:49+00:00",
-   "title_original": "BOK Financial raises quarterly dividend by 23.8% to $0.78/share",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "46e58e139098ff2b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261103015621:0-china-s-pmi-data-show-economic-activity-lost-momentum-in-oct-market-talk/",
-   "published_utc": "2026-11-04T02:47:00+00:00",
-   "title_original": "China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "32ce6d865e2675f6"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -7042,8 +7042,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -7057,7 +7057,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
