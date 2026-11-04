@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T03:12:45.431238+00:00
-Total: 2869 manchetes
+Última coleta: 2026-11-04T03:22:44.572522+00:00
+Total: 2870 manchetes
 
-  🇯🇵 Japão          827
+  🇯🇵 Japão          828
   🇨🇳 China          855
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
+  - [japan] Yen Strengthens as US Dollar Weakens
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
   - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
   - [taiwan] TSMC's acquisition of AUO plant reshapes panel supply chain
   - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
-  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
   - [china] China Services PMI Ebbs In October - Caixin
   - [china] CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS
@@ -56,7 +57,6 @@ Total: 2869 manchetes
   - [japan] Problems that arise in the workplace due to the legal employment rate for people with disabilities increasing 
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
   - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
-  - [korea] SK Hynix in spotlight as Commerce Dept. holds up Chinese equipment plans: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2869 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T03:12:45+00:00",
+      "published_utc": "2026-11-04T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
