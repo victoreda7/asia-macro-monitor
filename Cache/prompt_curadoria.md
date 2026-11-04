@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T08:32:45.209406+00:00
-Total: 2914 manchetes
+Última coleta: 2026-11-04T08:42:50.459616+00:00
+Total: 2913 manchetes
 
   🇯🇵 Japão          843
-  🇨🇳 China          872
+  🇨🇳 China          870
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  893
+  🇰🇷 Coreia do Sul  894
 
 ## O que já está no feed (não repita)
 
+  - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
   - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
+  - [china] Hong Kong Shares Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [china] Hong Kong Stocks Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
@@ -55,8 +57,6 @@ Total: 2914 manchetes
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
   - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
-  - [japan] Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democrati
-  - [china] Nvidia China Clients Expected to Get 1% of $70 Billion in RTX Chip Orders
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2914 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T08:32:45+00:00",
+      "published_utc": "2026-11-04T08:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
