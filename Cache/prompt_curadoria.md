@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T06:12:43.796624+00:00
+Última coleta: 2026-11-04T06:22:43.568224+00:00
 Total: 2895 manchetes
 
   🇯🇵 Japão          835
@@ -41,6 +41,7 @@ Total: 2895 manchetes
   - [korea] Kospi Slumps as Democrats’ US Election Lead Spurs Chip Selloff
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered
+  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [japan] Yen Strengthens as US Dollar Weakens
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
@@ -56,7 +57,6 @@ Total: 2895 manchetes
   - [korea] Samsung Electronics, SK hynix rally on Wall Street chip rebound
   - [japan] Stock prices drop by more than 2,000 yen at one point; sell orders spread for stocks such as semiconductors
   - [china] How to understand the central bank’s increase in the foreign exchange deposit reserve ratio?
-  - [china] On November 4, the central bank launched a 257.5 billion yuan overnight reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2895 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T06:12:43+00:00",
+      "published_utc": "2026-11-04T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
