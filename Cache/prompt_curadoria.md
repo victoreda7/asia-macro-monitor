@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T13:42:51.271738+00:00
+Última coleta: 2026-11-04T13:52:45.185119+00:00
 Total: 2942 manchetes
 
-  🇯🇵 Japão          851
-  🇨🇳 China          881
+  🇯🇵 Japão          852
+  🇨🇳 China          880
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [japan] Cabbage retail price approximately 70% higher than normal
   - [china] MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST
   - [china] Regarding the U.S.-China-Russia summit meeting, China's Ministry of Foreign Affairs "communicates with relevan
   - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
@@ -56,7 +57,6 @@ Total: 2942 manchetes
   - [korea] Food Week Korea opens in Seoul with focus on exports, food technology
   - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
-  - [japan] Mitsui & Co Ceo: Aim To Achieve Net Profit Of More Than 1.1 Trillion Yen And Roe Of Over 12% In Fy2028, Driven
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2942 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T13:42:51+00:00",
+      "published_utc": "2026-11-04T13:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
