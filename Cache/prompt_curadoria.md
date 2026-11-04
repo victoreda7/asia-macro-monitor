@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T03:32:43.920926+00:00
-Total: 2871 manchetes
+Última coleta: 2026-11-04T03:42:44.736429+00:00
+Total: 2873 manchetes
 
-  🇯🇵 Japão          828
+  🇯🇵 Japão          829
   🇨🇳 China          856
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  883
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democrati
   - [china] Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
@@ -25,6 +26,7 @@ Total: 2871 manchetes
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
   - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
   - [taiwan] TSMC's acquisition of AUO plant reshapes panel supply chain
+  - [korea] Growth and prices pointed out by Shin Hyun-song came out... Should we raise interest rates further?
   - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
   - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
   - [china] China Services PMI Ebbs In October - Caixin
@@ -55,8 +57,6 @@ Total: 2871 manchetes
   - [china] China's Temu, JD.com revamp business models amid tariff headwinds
   - [china] US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan
   - [korea] Foreign reserves rebound in Oct. on foreign currency deposits
-  - [japan] Problems that arise in the workplace due to the legal employment rate for people with disabilities increasing 
-  - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2871 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T03:32:44+00:00",
+      "published_utc": "2026-11-04T03:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
