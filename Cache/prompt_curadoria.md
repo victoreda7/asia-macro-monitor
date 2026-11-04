@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T10:52:44.676578+00:00
-Total: 2932 manchetes
+Última coleta: 2026-11-04T11:02:45.787740+00:00
+Total: 2933 manchetes
 
   🇯🇵 Japão          849
-  🇨🇳 China          875
+  🇨🇳 China          876
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  898
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
   - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
@@ -25,6 +26,7 @@ Total: 2932 manchetes
   - [taiwan] Mediatek Shahriari to strengthen collaboration with key supply chain partners including TSMC
   - [taiwan] Exporters sell foreign exchange and foreign capital remittances compete, the New Taiwan dollar closes down 6.1
   - [china] Central Bank: It will launch a 300 billion yuan buyout reverse repurchase operation on November 5 with a perio
+  - [china] Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financi
   - [japan] Department stores announce lucky bags in anticipation of rising prices and consumption tax cuts
   - [japan] The Bank of Japan's December interest rate hike is judged to be in flux ~ Between "reports" and "analysis" ~ (
   - [taiwan] Blue means Taiwan has fallen into structural inflation Green: Will ask the political Yuan to track food prices
@@ -55,8 +57,6 @@ Total: 2932 manchetes
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.7, Implies 31% Upside
   - [korea] Imported vehicle sales jump 29.3% in Oct. on strong EV demand
   - [china] China's slumping state airlines pin hopes on overseas demand like exporters
-  - [korea] The International Atomic Energy Export Event held at the end of last month was successfully complete..
-  - [korea] Democratic gains unlikely to derail Korea-US investment deal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2932 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T10:52:44+00:00",
+      "published_utc": "2026-11-04T11:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
