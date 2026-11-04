@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T05:12:43.995254+00:00
-Total: 2885 manchetes
+Última coleta: 2026-11-04T05:22:43.975381+00:00
+Total: 2888 manchetes
 
   🇯🇵 Japão          834
-  🇨🇳 China          862
+  🇨🇳 China          864
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
   - [japan] Mitsubishi Corporation - To Buy Back Up To About 6% Of Own Shares Worth 1 Trillion Yen
+  - [china] Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg
   - [china] The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem I
+  - [china] Offshore Yuan Remains Under Pressure
   - [japan] Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn
   - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
@@ -38,6 +40,7 @@ Total: 2885 manchetes
   - [korea] BOK Financial raises quarterly dividend by 23.8% to $0.78/share
   - [china] China's PMI Data Show Economic Activity Lost Momentum in Oct — Market Talk
   - [taiwan] TSMC's acquisition of AUO plant reshapes panel supply chain
+  - [korea] The Export-Import Bank of Korea has launched preemptive financial cooperation to strengthen the comp..
   - [korea] Growth and prices pointed out by Shin Hyun-song came out... Should we raise interest rates further?
   - [china] China's PBOC Lowers Relending Rate for Stock Buybacks
   - [korea] South Korean won climbs, Taiwan dollar lags among mixed Asian FX
@@ -54,9 +57,6 @@ Total: 2885 manchetes
   - [china] China PBOC: The 1-Year Relending Facility Supports 26 Major Banks
   - [china] China PBOC: It's Ramping Up Relending Policy for Stock Buybacks
   - [china] What are the implications of the central bank raising the foreign exchange deposit reserve ratio for the first
-  - [china] China PBOC Says It Cuts Relending Rate for Stock Buybacks to 1%
-  - [japan] The fiscal burden is almost the same as "zero consumption tax," but the Ministry of Finance's "sneaky true int
-  - [japan] Monetary base fell 13.6% year-on-year in October, rate of decline slowing - Bank of Japan (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2885 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T05:12:44+00:00",
+      "published_utc": "2026-11-04T05:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
