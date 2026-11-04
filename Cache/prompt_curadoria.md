@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T12:42:43.592430+00:00
-Total: 2935 manchetes
+Última coleta: 2026-11-04T12:52:46.353755+00:00
+Total: 2937 manchetes
 
   🇯🇵 Japão          850
-  🇨🇳 China          876
+  🇨🇳 China          878
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
   - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
@@ -56,7 +57,6 @@ Total: 2935 manchetes
   - [china] Lowers stock repurchase and refinancing interest rates to 1% China's central bank: Provides adequate quota gua
   - [japan] TSE continues to fall, selling mainly in semiconductor-related stocks
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.7, Implies 31% Upside
-  - [korea] Imported vehicle sales jump 29.3% in Oct. on strong EV demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2935 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T12:42:43+00:00",
+      "published_utc": "2026-11-04T12:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
