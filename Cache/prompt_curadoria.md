@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T08:22:45.375285+00:00
-Total: 2913 manchetes
+Última coleta: 2026-11-04T08:32:45.209406+00:00
+Total: 2914 manchetes
 
   🇯🇵 Japão          843
   🇨🇳 China          872
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  892
+  🇰🇷 Coreia do Sul  893
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Display to Transfer Its 10.16% Stake in TCL China Star Optoelectronics Technology to Samsung Electroni
+  - [china] Hong Kong Stocks Bounce Back to End Higher, Led by Semiconductor Stocks — Market Talk
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
   - [china] Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move
@@ -55,8 +57,6 @@ Total: 2913 manchetes
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democrati
   - [china] Nvidia China Clients Expected to Get 1% of $70 Billion in RTX Chip Orders
-  - [china] Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News
-  - [china] China Steps in to Boost Stocks, Cool Off Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2913 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T08:22:45+00:00",
+      "published_utc": "2026-11-04T08:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
