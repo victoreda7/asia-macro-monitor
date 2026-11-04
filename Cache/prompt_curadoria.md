@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T04:12:44.996899+00:00
-Total: 2880 manchetes
+Última coleta: 2026-11-04T04:22:45.895207+00:00
+Total: 2881 manchetes
 
   🇯🇵 Japão          832
-  🇨🇳 China          859
+  🇨🇳 China          860
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  885
 
@@ -19,6 +19,7 @@ Total: 2880 manchetes
 
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
   - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
+  - [china] Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democrati
   - [china] Nvidia China Clients Expected to Get 1% of $70 Billion in RTX Chip Orders
@@ -56,7 +57,6 @@ Total: 2880 manchetes
   - [japan] Bank of Japan Accounts (October 31)
   - [korea] Price 2.8%, growth rate 1.0%... Bank of Korea, base interest rate could be raised to 3.25% in November
   - [taiwan] Bosch creates semiconductor division to expand in robotics, external chipmaking
-  - [china] CXMT Plans To Buy Back Company Shares Worth 2.5-5 Bln Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2880 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T04:12:45+00:00",
+      "published_utc": "2026-11-04T04:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
