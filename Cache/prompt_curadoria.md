@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T16:42:49.477310+00:00
-Total: 2950 manchetes
+Última coleta: 2026-11-04T16:52:48.418932+00:00
+Total: 2952 manchetes
 
   🇯🇵 Japão          853
-  🇨🇳 China          887
+  🇨🇳 China          889
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  899
 
@@ -38,6 +38,7 @@ Total: 2950 manchetes
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
   - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
   - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
+  - [china] What signal does the central bank send out by reducing supply and continuing to buy out reverse repurchases?
   - [taiwan] Exporters | Keyword News
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years
   - [japan] ``We should enter into a full-fledged discussion about the future image'' of the former Bank of Japan Kanazawa
@@ -56,7 +57,6 @@ Total: 2950 manchetes
   - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
   - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
   - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
-  - [china] Central Bank: Starting from November 15, it will increase the foreign exchange deposit reserve ratio of financ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2950 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T16:42:49+00:00",
+      "published_utc": "2026-11-04T16:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
