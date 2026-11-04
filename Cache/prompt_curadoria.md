@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T09:02:44.910892+00:00
-Total: 2917 manchetes
+Última coleta: 2026-11-04T09:12:45.731990+00:00
+Total: 2919 manchetes
 
   🇯🇵 Japão          844
-  🇨🇳 China          871
+  🇨🇳 China          872
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  895
+  🇰🇷 Coreia do Sul  896
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
   - [china] Chinese Vice Minister of Commerce Li Chenggang meets with KKR's Nuttall
+  - [korea] Hanwha Co., Ltd. exceeded its net profit of KRW 1 trillion in the third quarter of this year alone.
   - [korea] Democratic US election sweep lifts Korean batteries but clouds chip outlook
   - [china] "China could erode 2.2 trillion won in South Korean EV exports in four years"
   - [korea] TCL Technology: Samsung Electronics to Become Direct Shareholder of TCL CSOT Following Transaction
@@ -55,8 +57,6 @@ Total: 2917 manchetes
   - [china] Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg
   - [china] The Estée Lauder Companies Announces Fiscal 2030 Ambition at Its Capital Markets Experience: China Ecosystem I
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
-  - [china] Offshore Yuan Remains Under Pressure
-  - [japan] Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2917 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T09:02:45+00:00",
+      "published_utc": "2026-11-04T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
