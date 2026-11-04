@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T10:13:48.910676+00:00
-Total: 2929 manchetes
+Última coleta: 2026-11-04T10:22:52.692204+00:00
+Total: 2930 manchetes
 
   🇯🇵 Japão          848
-  🇨🇳 China          873
+  🇨🇳 China          874
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  898
 
 ## O que já está no feed (não repita)
 
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
+  - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years
   - [japan] ``We should enter into a full-fledged discussion about the future image'' of the former Bank of Japan Kanazawa
   - [taiwan] Mediatek Shahriari to strengthen collaboration with key supply chain partners including TSMC
@@ -56,7 +57,6 @@ Total: 2929 manchetes
   - [korea] The International Atomic Energy Export Event held at the end of last month was successfully complete..
   - [korea] Democratic gains unlikely to derail Korea-US investment deal
   - [korea] With core inflation not being determined, the possibility of a resumption of interest rate hikes this month is
-  - [taiwan] Taiwan firm signs MOU with Ukrainian drone company on supply chains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2929 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T10:13:49+00:00",
+      "published_utc": "2026-11-04T10:22:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
