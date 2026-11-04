@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T12:02:45.663471+00:00
+Última coleta: 2026-11-04T12:12:45.067285+00:00
 Total: 2934 manchetes
 
   🇯🇵 Japão          850
@@ -17,10 +17,10 @@ Total: 2934 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
   - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
   - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
-  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [china] The central bank raised the foreign exchange deposit reserve ratio for the first time in the past five years
   - [japan] ``We should enter into a full-fledged discussion about the future image'' of the former Bank of Japan Kanazawa
@@ -116,7 +116,7 @@ Total: 2934 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T12:02:45+00:00",
+      "published_utc": "2026-11-04T12:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
