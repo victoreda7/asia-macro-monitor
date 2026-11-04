@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T08:12:42.542706+00:00",
- "collected_at_utc": "2026-11-04T08:12:42.542706+00:00",
+ "generated_at_utc": "2026-11-04T08:22:45.375285+00:00",
+ "collected_at_utc": "2026-11-04T08:22:45.375285+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2911,
+ "count": 2913,
  "by_region": {
   "japan": 843,
-  "china": 871,
+  "china": 872,
   "taiwan": 306,
-  "korea": 891
+  "korea": 892
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T04:39:01+00:00"
+   "newest": "2026-11-04T06:00:08+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T07:54:32+00:00"
+   "newest": "2026-11-04T08:18:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T07:43:46+00:00"
+   "newest": "2026-11-04T08:08:00+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T02:53:24+00:00"
+   "newest": "2026-11-04T01:34:53+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T05:21:00+00:00"
+   "newest": "2026-11-04T06:34:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T08:11:47+00:00"
+   "newest": "2026-11-04T08:20:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T02:27:16+00:00"
+   "newest": "2026-11-04T05:26:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:02:13+00:00"
+   "newest": "2026-11-04T02:30:31+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "London Stock Exchange",
+   "title_en": "REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-11-04:newsml_RSD7782Ba:0-reg-samsung-electronics-samsung-elec-smsd-report-on-share-disposition-results/",
+   "published_utc": "2026-11-04T08:12:44+00:00",
+   "title_original": "REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5a6c88b9496c9318"
+  },
   {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
@@ -359,6 +376,24 @@
    "live_wire": false,
    "manual": false,
    "id": "414eec2c493bd429"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-rise-as-dollar-retreats-from-monthly-rally-yuan-remains-under-pr-4997237",
+   "published_utc": "2026-11-04T08:08:00+00:00",
+   "title_original": "Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1c52ef8b8a8420a7"
   },
   {
    "source_id": "korea_herald_biz",
@@ -906,24 +941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7702b0c634b5f964"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-rise-as-dollar-retreats-from-monthly-rally-yuan-remains-under-pr-4997237",
-   "published_utc": "2026-11-04T03:55:53+00:00",
-   "title_original": "Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1c52ef8b8a8420a7"
   },
   {
    "source_id": "nhk_politics",
@@ -3370,23 +3387,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wWTFjN3pIQ1FzODdZTThEUG01MUc2dzlzREZQOUJTSDQ2OW1MSWdyOS1wclNrQkxyU2wybE9GUEw5bkxjdjFkbGx1NmZ5WVg3MkN4U1BuVmxEdGpESFE?oc=5",
-   "published_utc": "2026-11-03T01:47:51+00:00",
-   "title_original": "央行突然出手：外汇存准率上调至6%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cdc4d53e68cf82af"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "ThePaper.cn",
    "title_en": "The first increase in the past 5 years! After the RMB rose above 6.65, the central bank raised the foreign exchange reserve ratio",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjZ2pyVFdaMlUxc25lRWx3b1JxYjUtN05uTzB1dFhqZ0xDclAzVEhrckE3ZHZuSU10dnRRUDhsUUYzWmhzY2pNUGI3TC1WdEpIOEh4cGNLRmdnVGV4WHk2Vg?oc=5",
@@ -3437,6 +3437,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d357c4f04d4ed7f1"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 3, the central bank launched a 621 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBscFV6RUdCaWVfT01IWFg4T3JVTHk5dUVvWWxsbGlXaEZMSnZCQjJ3Rk82WklHV3BUS0djRWVEelR0UU02VGVEQ1lQZ09maVYwUnRuaHAxQmxhZGFSLWlXSldGOXNPWkZU?oc=5",
+   "published_utc": "2026-11-03T01:32:33+00:00",
+   "title_original": "11月3日央行开展6210亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a2d03541998d3d0a"
   },
   {
    "source_id": "investing_econ",
@@ -4113,6 +4131,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e6455416c2255ebb"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank suddenly took action: the foreign exchange reserve ratio was raised to 6%",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PWkxUeGxxQWJ2SDMtSzdmaXlIbmZDOGxtVFMtZ2JYRnY1aGIxN0wxY2RPN2pLZmd5OURmMy1hZDR0YzlEMXE3RV8weVBvVEpPS0RTTFJuS3Y0dV9vSFhMb1ZMbDF0bE5QU19sQkRpUExCQQ?oc=5",
+   "published_utc": "2026-11-02T13:26:57+00:00",
+   "title_original": "央行突然出手：外汇存准率上调至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff11d67e609da5d9"
   },
   {
    "source_id": "tradingview_live",

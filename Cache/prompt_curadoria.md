@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T08:12:42.542706+00:00
-Total: 2911 manchetes
+Última coleta: 2026-11-04T08:22:45.375285+00:00
+Total: 2913 manchetes
 
   🇯🇵 Japão          843
-  🇨🇳 China          871
+  🇨🇳 China          872
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  891
+  🇰🇷 Coreia do Sul  892
 
 ## O que já está no feed (não repita)
 
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Disposition Results
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
+  - [china] Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move
   - [korea] Food Week Korea opens in Seoul with focus on exports, food technology
   - [japan] Collateral Accepted by the Bank of Japan (End of Oct.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
@@ -50,13 +52,11 @@ Total: 2911 manchetes
   - [japan] Chief Cabinet Secretary: Support for the International Criminal Court (ICC) Considering financial measures, et
   - [japan] Nikkei Drops 4.2% to Five-Month Low, Dragged by Chip Stocks — Market Talk
   - [china] China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike
-  - [china] Asian FX gains as dollar falls on U.S. midterm results, yuan weakens on PBOC move
   - [japan] Consumption tax reduction bill Liberal Democratic Party: “Vote on the 6th” Democratic Party: “Decision after l
   - [japan] Consumption tax reduction bill House of Councilors establishes special committee, chaired by Liberal Democrati
   - [china] Nvidia China Clients Expected to Get 1% of $70 Billion in RTX Chip Orders
   - [china] Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News
   - [china] China Steps in to Boost Stocks, Cool Off Yuan
-  - [japan] Swiss Franc, Yen Jump as US Midterms Push Dollar to Worst Day in a Month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2911 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T08:12:42+00:00",
+      "published_utc": "2026-11-04T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
