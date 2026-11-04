@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T03:22:44.572522+00:00
-Total: 2870 manchetes
+Última coleta: 2026-11-04T03:32:43.920926+00:00
+Total: 2871 manchetes
 
   🇯🇵 Japão          828
-  🇨🇳 China          855
+  🇨🇳 China          856
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News
+  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [japan] Yen Strengthens as US Dollar Weakens
   - [china] The central bank launched a 257.5 billion yuan overnight reverse repurchase operation on November 4, with a ne
@@ -28,7 +30,6 @@ Total: 2870 manchetes
   - [china] China Services PMI Ebbs In October - Caixin
   - [china] CHINA PBOC CONDUCTS CNY257.5 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 WEDS VS 6.7150
-  - [china] China Steps in to Boost Stocks, Cool Off Yuan
   - [korea] Samsung Electronics, SK hynix rally on Wall Street chip rebound
   - [japan] Stock prices drop by more than 2,000 yen at one point; sell orders spread for stocks such as semiconductors
   - [china] How to understand the central bank’s increase in the foreign exchange deposit reserve ratio?
@@ -56,7 +57,6 @@ Total: 2870 manchetes
   - [korea] Foreign reserves rebound in Oct. on foreign currency deposits
   - [japan] Problems that arise in the workplace due to the legal employment rate for people with disabilities increasing 
   - [japan] In France, where government income far exceeds that of Japan, why are the people dissatisfied? The limits of a
-  - [japan] Coordination between ruling and opposition parties over voting timing for consumption tax reduction bill begin
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2870 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T03:22:44+00:00",
+      "published_utc": "2026-11-04T03:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

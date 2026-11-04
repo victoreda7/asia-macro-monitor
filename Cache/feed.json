@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T03:22:44.572522+00:00",
- "collected_at_utc": "2026-11-04T03:22:44.572522+00:00",
+ "generated_at_utc": "2026-11-04T03:32:43.920926+00:00",
+ "collected_at_utc": "2026-11-04T03:32:43.920926+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2870,
+ "count": 2871,
  "by_region": {
   "japan": 828,
-  "china": 855,
+  "china": 856,
   "taiwan": 304,
   "korea": 883
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T01:59:10+00:00"
+   "newest": "2026-11-04T03:29:10+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T02:37:03+00:00"
+   "newest": "2026-11-04T01:54:35+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T02:53:24+00:00"
+   "newest": "2026-11-04T01:34:53+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T23:27:37+00:00"
+   "newest": "2026-11-04T01:46:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T03:21:26+00:00"
+   "newest": "2026-11-04T03:31:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T03:02:38+00:00"
+   "newest": "2026-11-04T03:16:27+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T08:41:44+00:00"
+   "newest": "2026-11-04T00:01:16+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-04T12:00:00+09:00"
+   "newest": "2026-11-04T12:25:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46K2HJ:0-nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered-bloomberg-news/",
+   "published_utc": "2026-11-04T03:31:10+00:00",
+   "title_original": "Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f9133731d0ff07bf"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Steps in to Boost Stocks, Cool Off Yuan",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXZZcm5qZDJaUl9uVG45eUJGaldNd3hzU3R2TFkycXZHeHRoY1pLaHc2Rko4cUplM2d5ZXZMMWtjSmZmdTQtRE1JVV95R2V2RGNRcFZKb3ZhVFY3bW9xSzNfaUwyTVVYSnl0NUhOWjNFYnFEY000Y214c2hmQWFKOC1YbWpEV0I3Smo2ak5aVWJ3cGtMcEp0R1lvcDdxdWs?oc=5",
+   "published_utc": "2026-11-04T03:29:10+00:00",
+   "title_original": "China Steps in to Boost Stocks, Cool Off Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a66c64e501da93d1"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -532,23 +566,6 @@
    "live_wire": true,
    "manual": false,
    "id": "77758455b50e7cf6"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Steps in to Boost Stocks, Cool Off Yuan",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXZZcm5qZDJaUl9uVG45eUJGaldNd3hzU3R2TFkycXZHeHRoY1pLaHc2Rko4cUplM2d5ZXZMMWtjSmZmdTQtRE1JVV95R2V2RGNRcFZKb3ZhVFY3bW9xSzNfaUwyTVVYSnl0NUhOWjNFYnFEY000Y214c2hmQWFKOC1YbWpEV0I3Smo2ak5aVWJ3cGtMcEp0R1lvcDdxdWs?oc=5",
-   "published_utc": "2026-11-04T01:59:10+00:00",
-   "title_original": "China Steps in to Boost Stocks, Cool Off Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a66c64e501da93d1"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2300,24 +2317,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwcVdvTzBaeDl0NldmaTFmY1pieDItQWQzRFh6TDJad3RwYnZBVEV0WXZPUmV1cldUU29XSzQ2V3NHRE1FcVRqT1hqM1lMM2RLZVV0OER3UVM2U292TmFjbQ?oc=5",
-   "published_utc": "2026-11-03T04:18:45+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "02004daeb4b39d92"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "zqrb.cn",
    "title_en": "The central bank decided to raise the foreign exchange deposit reserve ratio!",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uRGZGTExKWTdJLVVYMDEwTUhFd2lFcV9LRUJVcmNDZ1lQX0U1WUVpQUtqNFVxb1hKSXo4dnowMHNTRldoamxPRXF1VE4tdXl5ZFF3QTA0aV80XzNDTlF2RVU5ZnNVNXc5c2stQVMtQ194anFTTFAtSGxYYkY?oc=5",
@@ -2506,6 +2505,24 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
+   "published_utc": "2026-11-03T02:08:10+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5533,8 +5550,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -5548,7 +5565,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
