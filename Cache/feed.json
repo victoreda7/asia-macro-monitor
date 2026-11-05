@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-04T23:52:42.271774+00:00",
- "collected_at_utc": "2026-11-04T23:52:42.271774+00:00",
+ "generated_at_utc": "2026-11-05T00:02:43.161486+00:00",
+ "collected_at_utc": "2026-11-05T00:02:43.161486+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2967,
+ "count": 2969,
  "by_region": {
-  "japan": 856,
-  "china": 893,
+  "japan": 857,
+  "china": 892,
   "taiwan": 314,
-  "korea": 904
+  "korea": 906
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T23:34:58+00:00"
+   "newest": "2026-11-04T23:49:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T22:12:53+00:00"
+   "newest": "2026-11-04T23:48:45+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-04T10:44:53+00:00"
+   "newest": "2026-11-04T23:57:55+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-04T23:51:34+00:00"
+   "newest": "2026-11-05T00:02:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-05T08:00:00+09:00"
+   "newest": "2026-11-05T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "S. Korea's current account surplus tops $60b for 1st time on chip boom",
+   "url": "https://www.koreaherald.com/article/10926429",
+   "published_utc": "2026-11-04T23:57:55+00:00",
+   "title_original": "S. Korea's current account surplus tops $60b for 1st time on chip boom",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "299f068fff21c05a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4277781:0-korea-zinc-q3-revenue-grew-yoy-but-profit-fell-sharply-qoq-amid-cost-and-metal-price-pressure/",
+   "published_utc": "2026-11-04T23:57:54+00:00",
+   "title_original": "Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f3b080eed1f1d8a3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ board saw the need to keep raising rates, September meeting minutes show",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42X01X:0-boj-board-saw-the-need-to-keep-raising-rates-september-meeting-minutes-show/",
+   "published_utc": "2026-11-04T23:53:34+00:00",
+   "title_original": "BOJ board saw the need to keep raising rates, September meeting minutes show",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5ffb47874cdfffd1"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -517,6 +570,23 @@
    "live_wire": false,
    "manual": false,
    "id": "43b9163974d90b0b"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Wall Street Is Helping China Build a Global Yuan",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzljeWtTWFlqTGpyUklsMlhoVW4yT29OUHFWcjF5bUhVcGNSdm1ndHpYUWZUUjdLeFRjYlBic0lYSGIwME96RE1MeHdrWW1JTnMzU2tTSlVpSzlJenJpYUt4MlBsZzRZd2hGYWZGTndKcm5oeWEzenNkSGlxVm5yaV9INmhWQkh1WlNIbkZ1aTNqNUNtbmE5UzRxZFlUc2NCbE1GYi1zc1FsQnlPYjdKNlpVaG5YYzhidkExQ3NON0lERUU?oc=5",
+   "published_utc": "2026-11-04T18:01:11+00:00",
+   "title_original": "Wall Street Is Helping China Build a Global Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4285a7fa6d3686f6"
   },
   {
    "source_id": "tradingview_live",
@@ -760,8 +830,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -775,7 +845,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2074,40 +2144,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ad167581e763d949"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Nvidia China Clients Expected to Get 1% of $70 Billion in RTX Chip Orders",
-   "url": "https://www.tradingview.com/news/binance_news:ffd8a291d094b:0-nvidia-china-clients-expected-to-get-1-of-70-billion-in-rtx-chip-orders/",
-   "published_utc": "2026-11-04T03:31:50+00:00",
-   "title_original": "Nvidia China Clients Expected to Get 1% of $70 Billion in RTX Chip Orders",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a27300d178499727"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46K2HJ:0-nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered-bloomberg-news/",
-   "published_utc": "2026-11-04T03:31:10+00:00",
-   "title_original": "Nvidia China clients to get 1% of $70 billion RTX chips ordered- Bloomberg News",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f9133731d0ff07bf"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -6447,24 +6483,6 @@
    "id": "e02f385258175764"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHRwSDdwa0JYdUJpcnBUdnppSUxLYzVDR3dKWGhYLXVlSWdQb181Z2ZLTVl4SUU0Q1ZXRzJsVDQ4aGV2S0JYWEJsVElOelBtb2dCdElCRmgwdmZQNlVPUXY2SVZzczlVaGc1TTNZUElmcE9YWEFNYUhZV1NjcTdrR2diY2NWc3ZqTWY4REhpQQ?oc=5",
-   "published_utc": "2026-11-02T03:09:40+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b42f88d775cae7a8"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Japan manufacturing PMI slows to seven-month low in October By Investing.com",
@@ -6535,6 +6553,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3181488f0b6ef9ed"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GSjNleXNQazJYSUV4dWRuMnlEQ3lkSWR3QmtPZGVGRFJFQV9xNVRteGpmWFVlNVhJeXl5bW1Kb1lidzlIS3VFTHc5OHRMSGdEOU1VVUgtOUluRkpiOUJHXw?oc=5",
+   "published_utc": "2026-11-02T02:53:07+00:00",
+   "title_original": "央行开展5410亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "abfa2808f2fbac64"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7269,8 +7305,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -7284,7 +7320,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -22617,23 +22653,6 @@
    "id": "1c6aaba3c401f575"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ, Fed expected to leave rates unchanged this week",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oZ2RwYmhoZXVpYl9tV0tFR3hDVVR3U3ZDX3JjLVF6UVQ0VzlxSTh6MjAxQUtEZHpDSHBadDFqNWFoeWZCWGxiei1TZnFtYjhkbkp2V2ZLU2FJb2tzR2s4YVF4dw?oc=5",
-   "published_utc": "2026-10-25T13:20:00+00:00",
-   "title_original": "BOJ, Fed expected to leave rates unchanged this week",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bffb7a643041e1fd"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Osong beauty expo draws nearly $100m in export deals",
@@ -22768,6 +22787,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0ab5954d8fd44bf1"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ, Fed expected to leave rates unchanged this week",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oZ2RwYmhoZXVpYl9tV0tFR3hDVVR3U3ZDX3JjLVF6UVQ0VzlxSTh6MjAxQUtEZHpDSHBadDFqNWFoeWZCWGxiei1TZnFtYjhkbkp2V2ZLU2FJb2tzR2s4YVF4dw?oc=5",
+   "published_utc": "2026-10-25T07:00:00+00:00",
+   "title_original": "BOJ, Fed expected to leave rates unchanged this week",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bffb7a643041e1fd"
   },
   {
    "source_id": "gn_tw_cna",

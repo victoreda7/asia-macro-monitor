@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-04T23:52:42.271774+00:00
-Total: 2967 manchetes
+Última coleta: 2026-11-05T00:02:43.161486+00:00
+Total: 2969 manchetes
 
-  🇯🇵 Japão          856
-  🇨🇳 China          893
+  🇯🇵 Japão          857
+  🇨🇳 China          892
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  904
+  🇰🇷 Coreia do Sul  906
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea's current account surplus tops $60b for 1st time on chip boom
+  - [korea] Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure
+  - [japan] BOJ board saw the need to keep raising rates, September meeting minutes show
   - [japan] Sources of Changes in Current Account Balances (Projections for Nov.)
   - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
   - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
@@ -27,6 +30,7 @@ Total: 2967 manchetes
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
   - [japan] There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more v
+  - [china] Wall Street Is Helping China Build a Global Yuan
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [china] The central bank shrinks and continues to conduct 3-month buyout reverse repurchase
@@ -53,10 +57,6 @@ Total: 2967 manchetes
   - [china] Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus
   - [china] Chinese exporters see respite as Beijing curbs yuan rise amid record surplus
   - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
-  - [china] Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say
-  - [japan] National Governors Association requests correction of uneven distribution of taxes, etc. ahead of tax reform d
-  - [china] What signal does the central bank send out by reducing supply and continuing to buy out reverse repurchases?
-  - [taiwan] Exporters | Keyword News
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2967 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-04T23:52:42+00:00",
+      "published_utc": "2026-11-05T00:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
