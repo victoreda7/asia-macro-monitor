@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T22:48:41.582502+00:00
+Última coleta: 2026-11-05T22:52:42.599956+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          898
@@ -19,7 +19,6 @@ Total: 3000 manchetes
 
   - [japan] Analysis-Japanese savers have rediscovered interest rates and banks are feeling it
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5T in regular shareholder returns
-  - [china] Avoiding U.S. export controls, the dark side of China's AI start-up moon turns to Europe to rent Huida chip co
   - [japan] Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes
   - [japan] The long-awaited interest rate hike is a "big miscalculation", and about half of the credit unions and credit 
   - [japan] The "overall picture of finances" should be questioned rather than tax cut revenue sources; why is the Takaich
@@ -28,6 +27,7 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill: ruling party poised to vote today; opposition party “concrete picture vague”
   - [china] Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report
   - [taiwan] SuperAlloy enters semiconductor pilot production in 3Q26
+  - [china] Avoiding U.S. export controls, the dark side of China's AI start-up moon turns to Europe to rent Huida chip co
   - [japan] Foreign-student spending in Japan hits $4.3bn amid soft yen
   - [japan] Democratic 'blue wave' may buoy yen if AI trade reverses: FX traders
   - [taiwan] TI targets next semiconductor supercycle as humanoid robots surge
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T22:48:41+00:00",
+      "published_utc": "2026-11-05T22:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
