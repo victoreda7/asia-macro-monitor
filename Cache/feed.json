@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T12:12:44.377728+00:00",
- "collected_at_utc": "2026-11-05T12:12:44.377728+00:00",
+ "generated_at_utc": "2026-11-05T12:22:43.044868+00:00",
+ "collected_at_utc": "2026-11-05T12:22:43.044868+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 890,
+  "japan": 891,
   "china": 901,
   "taiwan": 323,
-  "korea": 886
+  "korea": 885
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T07:34:39+00:00"
+   "newest": "2026-11-05T07:37:09+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "newest": "2026-11-05T10:35:00+00:00"
   },
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T12:04:00+00:00"
+   "newest": "2026-11-05T10:58:52+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-11-05T16:45:00+09:00"
+   "newest": "2026-11-05T18:30:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T20:16:01+09:00"
+   "newest": "2026-11-05T21:12:39+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T20:25:00+09:00"
+   "newest": "2026-11-05T21:18:43+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T07:31:00+00:00"
+   "newest": "2026-11-05T08:18:01+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T12:00:21+00:00"
+   "newest": "2026-11-05T12:15:12+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T12:02:08+00:00"
+   "newest": "2026-11-05T12:21:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Fiscal System Council: Securing stable financial resources to strengthen defense capabilities",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261105de71258",
+   "published_utc": "2026-11-05T12:18:43+00:00",
+   "title_original": "財政制度等審議会 防衛力強化では安定財源の確保を",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "785dfa16f004fbee"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Businessworld",
@@ -51973,25 +51990,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3944a8022c2e6941"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001721:0-bank-of-korea-expects-2027-budget-to-have-marginal-impact-on-inflation/",
-   "published_utc": "2026-10-12T09:54:00+00:00",
-   "title_original": "Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "294c2d9de51edd0a"
   },
   {
    "source_id": "manual_ia",
