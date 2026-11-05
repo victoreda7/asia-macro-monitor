@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T03:22:42.362475+00:00",
- "collected_at_utc": "2026-11-05T03:22:42.362475+00:00",
+ "generated_at_utc": "2026-11-05T03:32:43.176780+00:00",
+ "collected_at_utc": "2026-11-05T03:32:43.176780+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 869,
-  "china": 897,
+  "japan": 872,
+  "china": 894,
   "taiwan": 318,
   "korea": 916
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T02:55:00+00:00"
+   "newest": "2026-11-05T02:13:02+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T17:36:00+00:00"
+   "newest": "2026-11-05T02:56:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T12:04:21+09:00"
+   "newest": "2026-11-05T12:23:42+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T20:52:21+00:00"
+   "newest": "2026-11-05T02:29:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T03:21:00+00:00"
+   "newest": "2026-11-05T03:31:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T13:37:00+00:00"
+   "newest": "2026-11-05T03:14:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-05T12:00:00+09:00"
+   "newest": "2026-11-05T12:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock values ​​fall, sell orders for AI semiconductor stocks following the results of the US midterm elections",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261105de70872",
+   "published_utc": "2026-11-05T03:23:42+00:00",
+   "title_original": "株価値下がり 米中間選挙の結果を受け AI半導体銘柄 売り注文",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6778045c7bdb25c0"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The Central Bank’s Aboriginal Series Coin Set La’aruwa Tribe is on sale to the public on 11/12 | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6aEp5VzhnWnlpdWhNWUdxajRvTjdtMzFWMlBBUFpRUk93VVJfR2FZeHJ5QnNpV1R3YkpyUTBKZkhrNU05S0F6NEllWVBqeXYtNzhjU0NaSnBWRW9WZEE?oc=5",
+   "published_utc": "2026-11-05T03:14:00+00:00",
+   "title_original": "央行原住民系列套幣拉阿魯哇族篇11/12公開發售| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee9ed6cec84e23ad"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -395,6 +429,23 @@
    "live_wire": true,
    "manual": false,
    "id": "25c13668e4bcb151"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan services PMI grows for fifth straight month in October By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzdsamtYTllsZnJvczdtcWJuUXR5cjB1UEtFT0FGLWx0RnVIUHl0LVduLXY3UnFpWVdSZ21aUlo1Q0ZaRUVSQWpJb1dGZHZjVmYxQkFCTWlTRnh1RXJhXzJNdHpXSG5Fd3lBcmc1TlhkZmc3OVp1bHRGVnFVTjZkZXpCNnp6NU9OSXNFMDZqVHdwNmxRaDNhcnphRFNlWFBIVFptUFdzbTd4MHktRjdxeE9KTHZya0tIc3FlX1Rn?oc=5",
+   "published_utc": "2026-11-05T02:56:00+00:00",
+   "title_original": "Japan services PMI grows for fifth straight month in October By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8303374d5e3d382"
   },
   {
    "source_id": "investing_live",
@@ -516,6 +567,23 @@
    "live_wire": false,
    "manual": false,
    "id": "181a55016f3c0d19"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Mitsui Chemicals reportedly plans US$8.2B acquisition of JSR in Japan chip materials push",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakJ1TnZFZGxRVnB3QlBtMWNYOFpENzFJVW1qbERZYXV3TXBtZEVPcWd1RkVncktGeFgxQjAyeHZIYmVSTG9UM3g4VDlnOGdKRnppV2Q0T3pZNkFpX0hOLUs5T1F4OXdma1VyZUJqNVBPT2NHS01MT09RYm5UYUdfRXNQeHFtcFZqWFRtNzRDN3RtSkFQUHZKYVJwQjZhQ0lOeTlB?oc=5",
+   "published_utc": "2026-11-05T02:13:02+00:00",
+   "title_original": "Mitsui Chemicals reportedly plans US$8.2B acquisition of JSR in Japan chip materials push",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "97081324454ee4c7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1528,8 +1596,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -1543,7 +1611,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8039,8 +8107,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -8054,7 +8122,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -51929,75 +51997,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ad999c0ef4e07697"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China imposes sanctions on 'pawn' Paraguay, Belize ministers over Taiwan ties",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
-   "published_utc": "2026-10-12T02:54:00+00:00",
-   "title_original": "China imposes sanctions on 'pawn' Paraguay, Belize ministers over Taiwan ties",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5cbe027ddd637764"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China sanctions 'pawn' Paraguay, Belize ministers over Taiwan ties",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
-   "published_utc": "2026-10-12T02:54:00+00:00",
-   "title_original": "China sanctions 'pawn' Paraguay, Belize ministers over Taiwan ties",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77fb5ef12e27335a"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5",
-   "published_utc": "2026-10-12T02:12:00+00:00",
-   "title_original": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cfbb1b20a6fd8fcb"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launched a 50 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUxjSnpTSWZNYUkwa1l2NnVhNzdFcjBRdGl0MXEtMkJEaFZXSERnZzR0by03RTdQSXVOUlR2ajNMUEVaZDBBZlMwYU52bllaTFZOaVYyQVRyRms0dWJhNVByM0hnWUNEcnBtOFEwVDJxUmlpTEZNTXNwOFJoc09lb1hHVXJaZGpaZlRucDN3?oc=5",
-   "published_utc": "2026-10-12T01:56:00+00:00",
-   "title_original": "央行今日开展500亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc06c301b692fc60"
   },
   {
    "source_id": "manual_ia",

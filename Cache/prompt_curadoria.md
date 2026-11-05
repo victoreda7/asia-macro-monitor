@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T03:22:42.362475+00:00
+Última coleta: 2026-11-05T03:32:43.176780+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          869
-  🇨🇳 China          897
+  🇯🇵 Japão          872
+  🇨🇳 China          894
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  916
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock values ​​fall, sell orders for AI semiconductor stocks following the results of the US midterm elections
+  - [taiwan] The Central Bank’s Aboriginal Series Coin Set La’aruwa Tribe is on sale to the public on 11/12 | Sankei
   - [japan] Yen Strengthens on Hawkish BOJ Minutes
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
   - [korea] Why is Samsung Electronics stock plunging today?
+  - [japan] Japan services PMI grows for fifth straight month in October By Investing.com
   - [japan] Japan services PMI grows for fifth straight month in October
   - [taiwan] Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk
   - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
@@ -27,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Tokyo's budget for next year's total requested amount exceeds 10 trillion yen for the first time, due to soari
   - [taiwan] Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms
   - [japan] BOJ debated need for more rate hikes, scope for faster moves, September minutes show
+  - [japan] Mitsui Chemicals reportedly plans US$8.2B acquisition of JSR in Japan chip materials push
   - [korea] S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts
   - [china] China indicts ex-Politburo member Ma for bribery
   - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [japan] Japan services activity expands for fifth month, PMI shows
   - [japan] ``This is a situation where we need to discuss the extent of interest rate hikes,'' says a Bank of Japan membe
-  - [china] Early participation in the bond market, November 5 | The central bank reduced its volume today and continued t
-  - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
-  - [korea] South Korea’s Current Account Surplus Hits Record on Chip Boom
-  - [japan] Long-Term JGB Yields Fall After Oil Price Drops — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T03:22:42+00:00",
+      "published_utc": "2026-11-05T03:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
