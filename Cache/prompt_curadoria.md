@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T09:02:45.950487+00:00
+Última coleta: 2026-11-05T09:12:45.927746+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Commentary: After the Midterms, a Case for Realism in U.S.-China Relations
   - [taiwan] Taiwan's chipmakers shine brightest in living memory
   - [taiwan] Taiwan Forex Reserves at 3-Month Low
   - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's cleantech stocks jump as investors bet on US policy shift
   - [china] China Longyuan Power Poised for Growth in 2027 — Market Talk
   - [japan] Japan services PMI rises to 51.7 in October; composite growth slows to 5-month low
-  - [china] China Longyuan Power Raised to Buy From Neutral by Citigroup >0916.HK
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T09:02:46+00:00",
+      "published_utc": "2026-11-05T09:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
