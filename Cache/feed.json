@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T00:42:43.800371+00:00",
- "collected_at_utc": "2026-11-05T00:42:43.800371+00:00",
+ "generated_at_utc": "2026-11-05T00:52:47.989676+00:00",
+ "collected_at_utc": "2026-11-05T00:52:47.989676+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2975,
+ "count": 2978,
  "by_region": {
-  "japan": 862,
+  "japan": 865,
   "china": 891,
   "taiwan": 315,
   "korea": 907
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T16:11:11+00:00"
+   "newest": "2026-11-05T00:34:36+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T00:41:00+00:00"
+   "newest": "2026-11-05T00:52:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T00:23:51+00:00"
+   "newest": "2026-11-05T00:42:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:04:05+00:00"
+   "newest": "2026-11-05T00:20:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September Bank of Japan meeting (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wdmZ5SlRPUzVUYWV5Z3BwUEYwNzM5QUQyM0FVQ1pZcUdUOGhGZHFlZmtSNHhsRldxVWNMVFRsV19naERhVXFsazg5cEFFX0lTNkk3dDROanUzUF8wd2RLX1Z4bkpCYkRkY05NVXhJNjcyM1JFX19tcWtIR2NWaTQ?oc=5",
+   "published_utc": "2026-11-05T00:42:12+00:00",
+   "title_original": "速いペースでの利上げ継続意識した意見が複数＝9月日銀会合要旨（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "08be0d401b606b8b"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xdDVhTktQZjBVbE4tOEJIN3V5cjVMYk0wSHo1R3c2UFN4X2dHY1d6S0laNjhoVVVUc2RXVjRPVk91bDlvaVVNUV9aU0dKaGdPSURodW5HaEZ0QQ?oc=5",
+   "published_utc": "2026-11-05T00:34:36+00:00",
+   "title_original": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7edebaeb54855ad0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -378,6 +413,25 @@
    "id": "284091c1b8e8232e"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "Investing.com 한국어",
+   "title_en": "[Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank of Korea monetary policy variables By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FTVlRbDNmeS1PeHU2MmJqZjJGMkdmWmxlUWNMVzExSTlZZFhhMEJ5RTdtWm96ZWtEVVRoQkV0eU94ZnQ2eW9ZTmlqemJENWgxb0VYdFd2ZEdjMWRadFhuU3Mtbl9NZW1aSU9fSHoxckg?oc=5",
+   "published_utc": "2026-11-05T00:20:00+00:00",
+   "title_original": "[美 권력 재편 ⑩] 금리·환율 셈법 바뀌나…한은 통화 정책 변수 By EBN",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f83bdf507a6fbe83"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ board saw the need to keep raising rates, September meeting minutes show",
@@ -394,6 +448,23 @@
    "live_wire": false,
    "manual": false,
    "id": "be0ce4ac968bece1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M007:0-boj-debated-need-for-more-rate-hikes-scope-for-faster-move-september-minutes-show/",
+   "published_utc": "2026-11-05T00:14:08+00:00",
+   "title_original": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "02fbf20cde0e7bdb"
   },
   {
    "source_id": "tradingview_live",
@@ -550,25 +621,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f1e686d4e8445a1e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "www.ebn.co.kr",
-   "title_en": "[Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank of Korea monetary policy variables",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MXRQVlVaOGxTQ2w2djB6OEVkQmU1alFNdXZ4TFhNMDZleFdMVkxCWDNWeDhQU1RYRG5MWVpiMnNmMDB3N2JYSHlmVHNxOFhWaUdiOUVSdzQ2S2NmY3V5aXBfSklpN05p?oc=5",
-   "published_utc": "2026-11-04T23:04:05+00:00",
-   "title_original": "[美 권력 재편 ⑩] 금리·환율 셈법 바뀌나…한은 통화 정책 변수",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6a05525ec7412844"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -916,8 +968,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -931,7 +983,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7409,8 +7461,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -7424,7 +7476,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",

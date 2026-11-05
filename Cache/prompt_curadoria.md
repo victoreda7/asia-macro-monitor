@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T00:42:43.800371+00:00
-Total: 2975 manchetes
+Última coleta: 2026-11-05T00:52:47.989676+00:00
+Total: 2978 manchetes
 
-  🇯🇵 Japão          862
+  🇯🇵 Japão          865
   🇨🇳 China          891
   🇹🇼 Taiwan         315
   🇰🇷 Coreia do Sul  907
 
 ## O que já está no feed (não repita)
 
+  - [japan] Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September 
+  - [japan] BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes
   - [japan] Japan services activity expands for fifth month, PMI shows
   - [japan] ``This is a situation where we need to discuss the extent of interest rate hikes,'' says a Bank of Japan membe
+  - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
   - [japan] BOJ board saw the need to keep raising rates, September meeting minutes show
+  - [japan] BOJ debated need for more rate hikes, scope for faster move, September minutes show
   - [japan] Long-Term JGB Yields Fall After Oil Price Drops — Market Talk
   - [japan] [Editorial] Prices reach 2%; Bank of Japan implements policy to curb price increases (Nishinippon Shimbun me)
   - [korea] S. Korea's current account surplus tops $60b for 1st time on chip boom
@@ -29,7 +33,6 @@ Total: 2975 manchetes
   - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
   - [taiwan] DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock
   - [taiwan] Subsidies pave the way as cheap cells squeeze Taiwan's energy storage players into a profit battle
-  - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
   - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
@@ -54,9 +57,6 @@ Total: 2975 manchetes
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
   - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
   - [china] The foreign exchange reserve ratio was raised for the first time in the past five years! The central bank rare
-  - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
-  - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
-  - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2975 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T00:42:44+00:00",
+      "published_utc": "2026-11-05T00:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
