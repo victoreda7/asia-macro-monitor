@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T12:32:46.142004+00:00
+Última coleta: 2026-11-05T12:42:43.662313+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          901
-  🇹🇼 Taiwan         323
+  🇨🇳 China          900
+  🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
   - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
+  - [taiwan] Taiwan's October CPI rises 2.33%, stays above 2% for sixth month
   - [china] Scholars who report on export capabilities for the first time at the CIIE: Teach you how to sell things to Chi
   - [japan] Fiscal System Council: Securing stable financial resources to strengthen defense capabilities
   - [korea] LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
   - [china] China Merchants Shekou Industrial Zone October Contract Sales At 18.7 Billion Yuan
   - [china] China's November diesel exports to ease amid thin domestic stocks, sources say
-  - [korea] KT&G Posts Record Quarterly Revenue and Operating Profit in Q3, Unveils Four-Year KRW 5 Trillion Shareholder R
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T12:32:46+00:00",
+      "published_utc": "2026-11-05T12:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
