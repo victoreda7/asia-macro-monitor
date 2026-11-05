@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T00:22:45.301425+00:00
-Total: 2974 manchetes
+Última coleta: 2026-11-05T00:32:42.047597+00:00
+Total: 2975 manchetes
 
-  🇯🇵 Japão          860
+  🇯🇵 Japão          861
   🇨🇳 China          892
   🇹🇼 Taiwan         315
   🇰🇷 Coreia do Sul  907
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan services activity expands for fifth month, PMI shows
   - [japan] BOJ board saw the need to keep raising rates, September meeting minutes show
   - [japan] Long-Term JGB Yields Fall After Oil Price Drops — Market Talk
   - [japan] [Editorial] Prices reach 2%; Bank of Japan implements policy to curb price increases (Nishinippon Shimbun me)
@@ -56,7 +57,6 @@ Total: 2974 manchetes
   - [japan] House of Representatives Finance and Financial Affairs Committee Consumption tax reduction bill Ruling parties
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms | NHK WORLD-JAPAN News
-  - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2974 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T00:22:45+00:00",
+      "published_utc": "2026-11-05T00:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
