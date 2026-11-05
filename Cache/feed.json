@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T04:12:45.644158+00:00",
- "collected_at_utc": "2026-11-05T04:12:45.644158+00:00",
+ "generated_at_utc": "2026-11-05T04:22:45.606322+00:00",
+ "collected_at_utc": "2026-11-05T04:22:45.606322+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 874,
-  "china": 893,
-  "taiwan": 318,
-  "korea": 915
+  "japan": 875,
+  "china": 895,
+  "taiwan": 317,
+  "korea": 913
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 51,
+   "count": 55,
    "error": "",
-   "newest": "2026-11-05T09:11:42+08:00"
+   "newest": "2026-11-05T12:10:55+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T03:47:46+00:00"
+   "newest": "2026-11-05T04:10:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T01:12:23+00:00"
+   "newest": "2026-11-05T04:00:00+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T12:56:12+09:00"
+   "newest": "2026-11-05T13:17:18+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T12:44:17+09:00"
+   "newest": "2026-11-05T13:17:18+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:36:32+00:00"
+   "newest": "2026-11-05T01:54:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T04:12:02+00:00"
+   "newest": "2026-11-05T04:21:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T03:14:00+00:00"
+   "newest": "2026-11-05T04:19:55+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46M08P:0-china-s-yuan-rebounds-as-pboc-lifts-midpoint-dollar-falls-after-democrats-take-congress/",
+   "published_utc": "2026-11-05T04:21:07+00:00",
+   "title_original": "China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fb8d1cda957e8d41"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -376,6 +394,40 @@
    "live_wire": false,
    "manual": false,
    "id": "7b0244264a3302e7"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
+   "url": "https://www.investing.com/news/forex-news/asian-fx-rises-as-dollar-slips-on-us-vote-kiwi-leads-gains-yuan-steadies-in-asia-5002136",
+   "published_utc": "2026-11-05T04:00:00+00:00",
+   "title_original": "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "82ce26df5a796335"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan’s large-cap exporters: Will the U.S. midterm sweep bring tariff relief?",
+   "url": "https://www.investing.com/news/stock-market-news/japans-largecap-exporters-will-the-us-midterm-sweep-bring-tariff-relief-93CH-5002135",
+   "published_utc": "2026-11-05T03:59:06+00:00",
+   "title_original": "Japan’s large-cap exporters: Will the U.S. midterm sweep bring tariff relief?",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dabb75a09d44a7c1"
   },
   {
    "source_id": "tradingview_live",
@@ -51944,59 +51996,6 @@
    "live_wire": false,
    "manual": false,
    "id": "87f714fcb37c77c9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "이코리아",
-   "title_en": "Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive response to inflation is important”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00R01sMGR0ZDZ1bk0tT2NJN0tIVEJoWGJFNHhqTXpuODViQ1QzN05OdFZ0TTIxamdHdmxjWkstRE9hNmxKdEdnNDI5cmtSUkVfWUo0SHBXcUp6ejltaWZ6cHFVWjhNNmFqNXVpQllTbw?oc=5",
-   "published_utc": "2026-10-12T04:52:30+00:00",
-   "title_original": "한은, 연내 기준금리 추가 인상할까… 신현송 “물가 선제 대응 중요”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f709f05c389876e9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "주간한국",
-   "title_en": "[National Assembly Inspection 2026] Shin Hyun-song “We gained time by raising interest rates… We reduced costs”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkdXk4bFJqT1JwdVFtNHJmcmliM3ZEVkNNYjhiZG5LQ1RqOW9RMmtmVFFZalZNM29hWmRwdUFiYW03NnE5M013dzBPSjVsSzhzTk9ZalFkWFUxOUhaZTg4LWhzYW5nNXJIcDhReFhrOHbSAXRBVV95cUxOWkFFUW1FUGIyYzdxWjlQbzdzOFUtVkNMUGxXRWRmZ3VmdUJKeXFobmtkSXRqWTNyVkF4d25ldk1Rc2U4dnkyQml4Sl9NZ3V2czYxQWFYbDc4dF9YQW8tZTNiTzZxUWNpN0RCdnZiaVE3ZFNUSg?oc=5",
-   "published_utc": "2026-10-12T04:47:50+00:00",
-   "title_original": "[국감2026] 신현송 “금리 인상으로 시간 벌어…비용 줄였다”",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "607afaf2fa38ac69"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Audi's defense pivot mirrors Taiwan supply chain's AI shift",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejhYclRjdFh0ckZNTnlTLUt3YktLRHI3c0xPdkU3cks0ekVWZjNfaWx3TTBRNjN2Q1dVREpER09MNHBKUFByaEFQQWNPN3JfMWswV0RvVVBlOEE3UW8yajJ4N3ZUSTBlUy1HbzVJa3VxWW5BX1lFaEl4RzhKTDRyakJod1U0NWtGSnJZRDE3aUJmT3ZFdFRFcUFMWjJSS3c?oc=5",
-   "published_utc": "2026-10-12T04:29:18+00:00",
-   "title_original": "Audi's defense pivot mirrors Taiwan supply chain's AI shift",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e714223e73b780a5"
   },
   {
    "source_id": "manual_ia",

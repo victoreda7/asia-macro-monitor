@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T04:12:45.644158+00:00
+Última coleta: 2026-11-05T04:22:45.606322+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          874
-  🇨🇳 China          893
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  915
+  🇯🇵 Japão          875
+  🇨🇳 China          895
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  913
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress
   - [japan] Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen
   - [japan] Summary of the Bank of Japan's September meeting ``Policy rates should get closer to the goal as soon as possi
+  - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
+  - [japan] Japan’s large-cap exporters: Will the U.S. midterm sweep bring tariff relief?
   - [china] China indicts ex-Politburo member Ma Xingrui for bribery
   - [taiwan] Ukraine's top unmanned fleet developer looks to Taiwan for critical components
   - [china] China Banking Corp Reports Net Income Of 22.6 Billion Pesos In 9M2026
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BoJ Sees Case for Further Rate Hikes: September Minutes
   - [china] On November 5, the central bank launched a 263 billion yuan overnight reverse repurchase operation.
   - [japan] Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Nov 12
-  - [taiwan] TSMC Slips 0.2%; UniMicron Technology Falls 8.6%
-  - [taiwan] Taiwan's Chip-Related Stocks Broadly Lower
-  - [japan] Japan Services PMI Improves To 51.7 In October - S&P Global
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T04:12:45+00:00",
+      "published_utc": "2026-11-05T04:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
