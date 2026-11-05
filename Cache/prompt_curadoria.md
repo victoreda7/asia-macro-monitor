@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T08:22:42.982981+00:00
+Última coleta: 2026-11-05T08:32:44.937138+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
-  🇨🇳 China          900
-  🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  896
+  🇨🇳 China          901
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  894
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] Taiwan Inflation Cools but Remains Elevated
+  - [china] China's November diesel exports to ease amid thin domestic stocks, sources say
   - [korea] KT&G Posts Record Quarterly Revenue and Operating Profit in Q3, Unveils Four-Year KRW 5 Trillion Shareholder R
+  - [china] Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
+  - [china] Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
+  - [taiwan] CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth cons
+  - [taiwan] Taiwan Inflation Cools but Remains Elevated
+  - [japan] Bank of Japan accelerates sale of stock assets, shortening period from 112 years to 43 years (Kyodo News)
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
   - [taiwan] Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment
   - [korea] LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Prade
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea finance minister vows to monitor AI policy changes after US midterm elections
   - [japan] Inabata & Co Ltd - To Buy Back Up To 1.86% Own Shares Worth 5.4 Billion Yen
   - [japan] BREAKING NEWS: Toyota lowers FY 2026 sales outlook to 53.5 tril. yen
-  - [china] Copper Finds Support Amid Tightening Supply in China
-  - [japan] Kh Neochem Co., Ltd. - To Buy Back Up To 10.52% Of Own Shares Worth 12 Billion Yen
-  - [japan] BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen
-  - [japan] Nof Corp - To Buy Back Up To 0.94% Of Own Shares Worth 5 Billion Yen
-  - [japan] Toyota - To Buy Back Up To 5.18% Of Shares Worth 1.3 Trln Yen Versus Up To 1 Trln Yen Planned Previously
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T08:22:43+00:00",
+      "published_utc": "2026-11-05T08:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
