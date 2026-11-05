@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T07:12:42.974310+00:00
+Última coleta: 2026-11-05T07:22:45.575967+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          900
+  🇨🇳 China          901
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  896
+  🇰🇷 Coreia do Sul  895
 
 ## O que já está no feed (não repita)
 
+  - [china] China says trade barriers block tech imports, fueling its surplus
   - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
   - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [china] China Longyuan Power Raised to Buy From Neutral by Citigroup >0916.HK
   - [korea] The Export-Import Bank of Korea has signed a $170 million foreign economic cooperation fund (EDCF) l..
   - [japan] Soda Nikka Co Ltd - To Buy Back Up To 4.37% Own Shares Worth 1.6 Billion Yen
+  - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [korea] SK hynix puts Chey Tae-won at helm of $10b US AI investment arm
   - [japan] Japan bond yields fall as lower oil prices ease inflation concerns
   - [korea] South Korea finance minister vows to monitor AI policy changes after US midterm elections
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] At the Bank of Japan's September interest rate hike meeting, there was an opinion that the pace should be acce
   - [japan] Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen
   - [japan] Finance Directors’ Meeting leaves economic outlook unchanged as “moderate recovery”
-  - [china] China Bank Funding Costs Hit Record Low on PBOC Rate Shift
-  - [japan] Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T07:12:43+00:00",
+      "published_utc": "2026-11-05T07:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

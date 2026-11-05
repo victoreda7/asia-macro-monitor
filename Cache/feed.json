@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T07:12:42.974310+00:00",
- "collected_at_utc": "2026-11-05T07:12:42.974310+00:00",
+ "generated_at_utc": "2026-11-05T07:22:45.575967+00:00",
+ "collected_at_utc": "2026-11-05T07:22:45.575967+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 892,
-  "china": 900,
+  "china": 901,
   "taiwan": 312,
-  "korea": 896
+  "korea": 895
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T05:33:27+00:00"
+   "newest": "2026-11-05T05:00:16+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T06:54:53+00:00"
+   "newest": "2026-11-05T07:13:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T06:43:05+00:00"
+   "newest": "2026-11-05T06:46:12+00:00"
   },
   {
    "source_id": "ked_global",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T03:15:00+00:00"
+   "newest": "2026-11-05T06:24:03+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T05:02:00+00:00"
+   "newest": "2026-11-05T06:44:33+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T04:00:58+00:00"
+   "newest": "2026-11-05T07:15:57+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T07:12:00+00:00"
+   "newest": "2026-11-05T07:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,18 +331,35 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T05:34:29+00:00"
+   "newest": "2026-11-05T07:07:15+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-05T02:00:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China says trade barriers block tech imports, fueling its surplus",
+   "url": "https://asia.nikkei.com/economy/trade/china-says-trade-barriers-block-tech-imports-fueling-its-surplus",
+   "published_utc": "2026-11-05T07:22:44.636199+00:00",
+   "title_original": "China says trade barriers block tech imports, fueling its surplus",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d4e96b86d117119e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -703,6 +720,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d678b1b23eb8b8c2"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan September meeting (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNEVMVVNRV1BkbXRzaUhzdEdRYkFpam5BZUljX05Bb0EzSmxsekllWHFiWmE2dWNNbWxQYW43T3k0RTBGTjFMcHdFZGFWSkNuVENMZlJwaVVmSFpReWt3alZoR3pySm04NU1zczNrWDZScGhuZUdrUmlGT2FocWs?oc=5",
+   "published_utc": "2026-11-05T05:18:58+00:00",
+   "title_original": "物価上振れリスク、利上げ適当 政策は「局面変化」 日銀9月会合（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7ec6806a798625df"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1586,24 +1621,6 @@
    "id": "c77cb024f00872db"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan September meeting (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNEVMVVNRV1BkbXRzaUhzdEdRYkFpam5BZUljX05Bb0EzSmxsekllWHFiWmE2dWNNbWxQYW43T3k0RTBGTjFMcHdFZGFWSkNuVENMZlJwaVVmSFpReWt3alZoR3pySm04NU1zczNrWDZScGhuZUdrUmlGT2FocWs?oc=5",
-   "published_utc": "2026-11-05T01:57:06+00:00",
-   "title_original": "物価上振れリスク、利上げ適当 政策は「局面変化」 日銀9月会合（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ec6806a798625df"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BOJ policymaker urged rate hike size debate amid inflation risks: minutes",
@@ -2354,8 +2371,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -2369,7 +2386,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8865,8 +8882,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -8880,7 +8897,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -51974,23 +51991,6 @@
    "live_wire": false,
    "manual": false,
    "id": "28e53b32bd96993c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "여성경제신문",
-   "title_en": "Bank of Korea Governor Shin Hyun-song's first National Assembly inspection emphasizes preemptive response to interest rates... apologizes for insufficient ETF warnings",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRFFpQ1NjbXVNVEh2NzFleFU4M3hpVkpIWW9TWUFLMXRXeDFac3JqSnhVVUZFTFRJS0cybzZIWEVNZGdxbFpmREVZdGtnWEdzX2ZqeFhISHFzdzdBT1FmbjBFa29zYlRYMEpvRGh2djFRVknSAXdBVV95cUxNb2J4LUxsbHZGYS14X1J1bHdKbjR0VG9nQmFadWxyOTZ0blU5WnBQeGF1NzRBaWw2TDNYOUc5enRoSUlYZndrZHc0NW90OTZPLTQ3eEptaE8wOUs0S0hHN2ZmWk5ZdXlUU2Z3M005WDljaUVsdk5ydw?oc=5",
-   "published_utc": "2026-10-12T07:10:42+00:00",
-   "title_original": "신현송 한은 총재 첫 국감, 금리 선제 대응 강조···ETF 경고 미흡엔 사과",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "00f5431c53725ed8"
   },
   {
    "source_id": "manual_ia",
