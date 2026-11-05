@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T08:12:43.406782+00:00
+Última coleta: 2026-11-05T08:22:42.982981+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
   🇨🇳 China          900
-  🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  895
+  🇹🇼 Taiwan         313
+  🇰🇷 Coreia do Sul  896
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Inflation Cools but Remains Elevated
+  - [korea] KT&G Posts Record Quarterly Revenue and Operating Profit in Q3, Unveils Four-Year KRW 5 Trillion Shareholder R
+  - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
   - [taiwan] Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment
   - [korea] LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Prade
   - [china] China ties more US farm imports to reciprocal tariff cuts
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen
   - [japan] Nof Corp - To Buy Back Up To 0.94% Of Own Shares Worth 5 Billion Yen
   - [japan] Toyota - To Buy Back Up To 5.18% Of Shares Worth 1.3 Trln Yen Versus Up To 1 Trln Yen Planned Previously
-  - [china] Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say
-  - [korea] LG Chem: Q3 sales rose, but a KRW 600bn net loss reflected uneven segment performance
-  - [korea] South Korean Won Weakens on Foreign Outflows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T08:12:43+00:00",
+      "published_utc": "2026-11-05T08:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
