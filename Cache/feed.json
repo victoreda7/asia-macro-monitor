@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T00:32:42.047597+00:00",
- "collected_at_utc": "2026-11-05T00:32:42.047597+00:00",
+ "generated_at_utc": "2026-11-05T00:42:43.800371+00:00",
+ "collected_at_utc": "2026-11-05T00:42:43.800371+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2975,
  "by_region": {
-  "japan": 861,
-  "china": 892,
+  "japan": 862,
+  "china": 891,
   "taiwan": 315,
   "korea": 907
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T00:16:15+00:00"
+   "newest": "2026-11-05T00:31:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T17:25:00+00:00"
+   "newest": "2026-11-04T14:44:17+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-03T16:00:00+00:00"
+   "newest": "2026-11-04T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T00:31:34+00:00"
+   "newest": "2026-11-05T00:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "9b238bcd32af8704"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "``This is a situation where we need to discuss the extent of interest rate hikes,'' says a Bank of Japan member (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05aDU0TEpsYzZMaXZvNHk4YUhBZDdaRTZTb3FmTEtMcU9qTEtrV0lzLThZMTNNYmpKLVBabTduQTQwemw1NWh5NWhjMkZ5ZnJ1NGhGLU5Ia0hSVUw5RV9DT1hDZ1h6SUhpRGVjVngzWC1NUjVsb0hiUTJXUmR0RmM?oc=5",
+   "published_utc": "2026-11-05T00:23:41+00:00",
+   "title_original": "「利上げ幅の議論が必要な局面」と日銀委員（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "284091c1b8e8232e"
   },
   {
    "source_id": "investing_econ",
@@ -1266,23 +1283,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f3ead92dfc13aa07"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTTy12clJwVTRzX3RuelFFUk1GNXdKQW5JQmtZdXJQeU90QTRfSFUtTGtpTjc5MlctanV5R2tySVdISEFzeWlyUw?oc=5",
-   "published_utc": "2026-11-04T09:35:29+00:00",
-   "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d2a5f2eb02d584db"
   },
   {
    "source_id": "nhk_economy",
@@ -4598,6 +4598,23 @@
    "id": "2f290e5182e05215"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTTy12clJwVTRzX3RuelFFUk1GNXdKQW5JQmtZdXJQeU90QTRfSFUtTGtpTjc5MlctanV5R2tySVdISEFzeWlyUw?oc=5",
+   "published_utc": "2026-11-03T00:56:29+00:00",
+   "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2a5f2eb02d584db"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China to raise FX reserve requirement to slow yuan's rally",
@@ -4614,23 +4631,6 @@
    "live_wire": false,
    "manual": false,
    "id": "326c7079ce54f286"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网财经",
-   "title_en": "The central bank decided to raise the foreign exchange deposit reserve ratio of financial institutions",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4TXE1UEFJY0xzRXdFU3FmbHBmcjZydEtqWVhhT3lOQUlKSlRXSnBwOVpHa083d1pfYjhxcEtVRk4wQnRGeTB2X0xRTW5LX3pO?oc=5",
-   "published_utc": "2026-11-03T00:42:38+00:00",
-   "title_original": "央行决定上调金融机构外汇存款准备金率",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a564d87c10d63d5"
   },
   {
    "source_id": "gn_asia_bloomberg",
