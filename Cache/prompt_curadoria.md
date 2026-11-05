@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T22:22:42.579592+00:00
+Última coleta: 2026-11-05T22:32:45.184612+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          898
@@ -17,9 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Analysis-Japanese savers have rediscovered interest rates and banks are feeling it
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5T in regular shareholder returns
   - [china] Avoiding U.S. export controls, the dark side of China's AI start-up moon turns to Europe to rent Huida chip co
-  - [japan] Japanese savers have rediscovered interest rates and banks are feeling it
   - [japan] Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes
   - [japan] The long-awaited interest rate hike is a "big miscalculation", and about half of the credit unions and credit 
   - [japan] The "overall picture of finances" should be questioned rather than tax cut revenue sources; why is the Takaich
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T22:22:42+00:00",
+      "published_utc": "2026-11-05T22:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
