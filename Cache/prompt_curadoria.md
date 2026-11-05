@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T19:02:44.342310+00:00
+Última coleta: 2026-11-05T19:12:44.899276+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] SuperAlloy enters semiconductor pilot production in 3Q26
   - [china] Avoiding U.S. export controls, the dark side of China's AI start-up moon turns to Europe to rent Huida chip co
   - [japan] Foreign-student spending in Japan hits $4.3bn amid soft yen
   - [japan] Democratic 'blue wave' may buoy yen if AI trade reverses: FX traders
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Hot money fled and the New Taiwan dollar nearly broke 33 yuan. Exporters actively sold foreign exchange and re
   - [china] Advanced Micro-Fabrication Equipment Inc China Plans A-Share Worth Buyback
   - [china] China Overseas Land & Investment Logs October Contracted Property Sales RMB 17.805 Billion
-  - [japan] The condominium market changes due to the Bank of Japan's interest rate hike; it is the transaction price rang
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T19:02:44+00:00",
+      "published_utc": "2026-11-05T19:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
