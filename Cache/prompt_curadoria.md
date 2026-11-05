@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T05:42:47.366748+00:00
+Última coleta: 2026-11-05T05:52:44.951267+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          886
-  🇨🇳 China          898
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  899
+  🇨🇳 China          900
+  🇹🇼 Taiwan         316
+  🇰🇷 Coreia do Sul  898
 
 ## O que já está no feed (não repita)
 
+  - [japan] Toyota interim financial results: Sales and profits increase due to yen depreciation, annual forecast upwardly
+  - [china] China's cleantech stocks jump as investors bet on US policy shift
+  - [china] China Longyuan Power Poised for Growth in 2027 — Market Talk
   - [japan] Japan services PMI rises to 51.7 in October; composite growth slows to 5-month low
   - [china] China Longyuan Power Raised to Buy From Neutral by Citigroup >0916.HK
   - [korea] The Export-Import Bank of Korea has signed a $170 million foreign economic cooperation fund (EDCF) l..
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock values ​​fall, sell orders for AI semiconductor stocks following the results of the US midterm elections
   - [korea] Why is SK Hynix stock sliding today?
   - [taiwan] ELAN, Thunder Tiger, Gallopwave team up on 11 chips for all-domestic AI drones
-  - [taiwan] The Central Bank’s Aboriginal Series Coin Set La’aruwa Tribe is on sale to the public on 11/12 | Sankei
-  - [japan] Yen Strengthens on Hawkish BOJ Minutes
-  - [korea] BOK chief to attend BIS governors' meeting in Switzerland
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T05:42:47+00:00",
+      "published_utc": "2026-11-05T05:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

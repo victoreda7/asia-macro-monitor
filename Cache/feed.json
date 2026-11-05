@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T05:42:47.366748+00:00",
- "collected_at_utc": "2026-11-05T05:42:47.366748+00:00",
+ "generated_at_utc": "2026-11-05T05:52:44.951267+00:00",
+ "collected_at_utc": "2026-11-05T05:52:44.951267+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 886,
-  "china": 898,
-  "taiwan": 317,
-  "korea": 899
+  "china": 900,
+  "taiwan": 316,
+  "korea": 898
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T04:33:00+00:00"
+   "newest": "2026-11-05T05:33:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T04:14:56+00:00"
+   "newest": "2026-11-05T05:33:27+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T05:38:21+00:00"
+   "newest": "2026-11-05T05:47:06+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T14:15:20+09:00"
+   "newest": "2026-11-05T14:46:47+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T05:41:19+00:00"
+   "newest": "2026-11-05T05:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:32:43+00:00"
+   "newest": "2026-11-05T02:32:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Toyota interim financial results: Sales and profits increase due to yen depreciation, annual forecast upwardly revised",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261105de70769",
+   "published_utc": "2026-11-05T05:46:47+00:00",
+   "title_original": "トヨタ中間決算 円安などで増収増益 年間見通し上方修正",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9981169f4fd7744f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's cleantech stocks jump as investors bet on US policy shift",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46M087:0-china-s-cleantech-stocks-jump-as-investors-bet-on-us-policy-shift/",
+   "published_utc": "2026-11-05T05:46:46+00:00",
+   "title_original": "China's cleantech stocks jump as investors bet on US policy shift",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3f24bdeaa87e144e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Longyuan Power Poised for Growth in 2027 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261105000165:0-china-longyuan-power-poised-for-growth-in-2027-market-talk/",
+   "published_utc": "2026-11-05T05:42:00+00:00",
+   "title_original": "China Longyuan Power Poised for Growth in 2027 — Market Talk",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "daa3320750df0b68"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1469,40 +1520,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c069d3784d429415"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Nov 12",
-   "url": "https://www.tradingview.com/news/DJN_DN20261104021052:0-japan-mof-to-auction-y2-5t-of-5-year-govt-bonds-nov-12/",
-   "published_utc": "2026-11-05T01:30:00+00:00",
-   "title_original": "Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Nov 12",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bba8845bd862bd32"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Slips 0.2%; UniMicron Technology Falls 8.6%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261104020993_20261104021003:0-tsmc-slips-0-2-unimicron-technology-falls-8-6/",
-   "published_utc": "2026-11-05T01:17:00+00:00",
-   "title_original": "TSMC Slips 0.2%; UniMicron Technology Falls 8.6%",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2fc4e3d35f3e92f6"
   },
   {
    "source_id": "gn_jp_investing",
@@ -16075,9 +16092,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "마켓인",
+   "source_name": "이데일리",
    "title_en": "The first base interest rate decision for next year is January 14th... First judgment of the new year ahead of the US and Japan",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuWnVVLXllSWJsTWwydlplSEJxc09jaGF1TFM5STBiMHdWZjZTS1daOUpHdUFzZzZ6Z3BjMnhuSDA4cU5falhGaExrZWY2ejYxWXQyUkJDQURKYTB1bnBHNVZqY0dCalo3X1RwN3ctcVBlYUk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYnF0Tk1Nd3FCcXZkSnNBa3IzNUtHM09NengwbW5uY3dGbHo5ODRtdUVGUkh0V1BuU1dMZ3QxcDM0MnV1QXBrTl9WaGpBYmRzeG51RmZZZ3dRZ2hCUzU5RTVRVW91SEVkV21YYWZacmNXcndRUjR0ekMzQXBBRHFKSA?oc=5",
    "published_utc": "2026-10-29T05:11:57+00:00",
    "title_original": "내년 첫 기준금리 결정은 1월 14일…미·일 보다 먼저 새해 첫 판단",
    "region": "korea",
@@ -16088,7 +16105,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1ed829e3cf9e2bea"
+   "id": "28aa52fc3f007df3"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51974,23 +51991,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4407fe259cf7bc10"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "Seoul shares open lower on inflation, Mideast woes",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84SGxRaVpfdm1aUlRxby1BR3ZzRTd2LU54WEFFZWhZaEJ6WGpZU3RpdWZWelRGQWlzX19BNFpsUWx1RVJhLVJXcEo1Y3RfWFRXVDFycHZnZw?oc=5",
-   "published_utc": "2026-10-12T07:00:00+00:00",
-   "title_original": "Seoul shares open lower on inflation, Mideast woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "46e13095c519e8c6"
   },
   {
    "source_id": "manual_ia",
