@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T17:52:44.103943+00:00",
- "collected_at_utc": "2026-11-05T17:52:44.103943+00:00",
+ "generated_at_utc": "2026-11-05T18:02:45.348500+00:00",
+ "collected_at_utc": "2026-11-05T18:02:45.348500+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 893,
-  "china": 898,
+  "japan": 894,
+  "china": 897,
   "taiwan": 324,
   "korea": 885
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T17:11:00+00:00"
+   "newest": "2026-11-05T17:52:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T17:35:23+00:00"
+   "newest": "2026-11-05T17:55:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T17:26:56+00:00"
+   "newest": "2026-11-05T17:49:35+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:31:00+00:00"
+   "newest": "2026-11-05T06:56:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T17:41:55+00:00"
+   "newest": "2026-11-05T18:01:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Foreign-student spending in Japan hits $4.3bn amid soft yen",
+   "url": "https://asia.nikkei.com/business/education/foreign-student-spending-in-japan-hits-4.3bn-amid-soft-yen",
+   "published_utc": "2026-11-05T18:02:43.676003+00:00",
+   "title_original": "Foreign-student spending in Japan hits $4.3bn amid soft yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e21c53ee1c322c3e"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -2609,6 +2626,23 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan members also announce the need to discuss the “range” of interest rate hikes (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkFUN2cyYkJ0UU5ncl9XRlZmMS1Jdy1pZ2VRdmxfS2Ewd3lUUC1qTm4ydnE1NDl1czFkRFAtRkdVaUViU1M1bDdFeGZPM3NPOTJHbVlWMGpuQnFEckFyZ0FWOEd4cnBsTHNadWtRWUNva0F5b29qYWhSb2VteDhtLXdmcTh1RzgzNEJKMThB?oc=5",
+   "published_utc": "2026-11-05T00:44:20+00:00",
+   "title_original": "利上げ「幅」議論必要の意見も 日銀委員、9月会合の要旨公表（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "93151d4a12d88806"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September Bank of Japan meeting (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wdmZ5SlRPUzVUYWV5Z3BwUEYwNzM5QUQyM0FVQ1pZcUdUOGhGZHFlZmtSNHhsRldxVWNMVFRsV19naERhVXFsazg5cEFFX0lTNkk3dDROanUzUF8wd2RLX1Z4bkpCYkRkY05NVXhJNjcyM1JFX19tcWtIR2NWaTQ?oc=5",
    "published_utc": "2026-11-05T00:42:12+00:00",
@@ -3232,8 +3266,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -3247,7 +3281,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51954,40 +51988,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ed21d6029f3d499"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Micron Stock Falls on China Chip Threat",
-   "url": "https://www.tradingview.com/news/gurufocus:b58e09fbe094b:0-micron-stock-falls-on-china-chip-threat/",
-   "published_utc": "2026-10-12T15:50:23+00:00",
-   "title_original": "Micron Stock Falls on China Chip Threat",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ff54f64ecec49dfb"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Minister Takaichi",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261013de58295",
-   "published_utc": "2026-10-12T15:30:15+00:00",
-   "title_original": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "75868646d813b043"
   },
   {
    "source_id": "manual_ia",
