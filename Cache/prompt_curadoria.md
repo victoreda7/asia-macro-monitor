@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T20:52:44.196313+00:00
+Última coleta: 2026-11-05T21:02:42.589919+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          895
@@ -32,7 +32,6 @@ Total: 3000 manchetes
   - [china] What does midterm humbling mean for Bessent ahead of US-China trade talks?
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
   - [japan] Bernstein raises Sony stock price target to $26 on yen weakness By Investing.com
-  - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
   - [japan] Bernstein raises Sony stock price target to $26 on yen weakness
   - [korea] SK Hynix losing out on US plant has major implications, Wedbush says
   - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] SHL: Core growth was strong, while FY27 guidance reflects China, inflation and separation headwinds
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5tn in regular returns over four years
   - [taiwan] Hot money fled and the New Taiwan dollar nearly broke 33 yuan. Exporters actively sold foreign exchange and re
+  - [china] Advanced Micro-Fabrication Equipment Inc China Plans A-Share Worth Buyback
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T20:52:44+00:00",
+      "published_utc": "2026-11-05T21:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
