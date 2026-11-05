@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T05:12:42.316236+00:00
+Última coleta: 2026-11-05T05:22:42.318283+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          885
+  🇯🇵 Japão          884
   🇨🇳 China          895
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  902
+  🇰🇷 Coreia do Sul  903
 
 ## O que já está no feed (não repita)
 
+  - [japan] Soda Nikka Co Ltd - To Buy Back Up To 4.37% Own Shares Worth 1.6 Billion Yen
+  - [korea] SK hynix puts Chey Tae-won at helm of $10b US AI investment arm
   - [japan] Japan bond yields fall as lower oil prices ease inflation concerns
+  - [korea] South Korea finance minister vows to monitor AI policy changes after US midterm elections
   - [japan] Inabata & Co Ltd - To Buy Back Up To 1.86% Own Shares Worth 5.4 Billion Yen
+  - [japan] BREAKING NEWS: Toyota lowers FY 2026 sales outlook to 53.5 tril. yen
+  - [china] Copper Finds Support Amid Tightening Supply in China
   - [japan] Kh Neochem Co., Ltd. - To Buy Back Up To 10.52% Of Own Shares Worth 12 Billion Yen
   - [japan] BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen
   - [japan] Nof Corp - To Buy Back Up To 0.94% Of Own Shares Worth 5 Billion Yen
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan services PMI grows for fifth straight month in October
   - [taiwan] Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk
   - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
-  - [korea] Samsung, SK hynix emerge as major bond investors amid chip boom
-  - [japan] Tokyo's budget for next year's total requested amount exceeds 10 trillion yen for the first time, due to soari
-  - [taiwan] Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms
-  - [japan] BOJ debated need for more rate hikes, scope for faster moves, September minutes show
-  - [japan] Mitsui Chemicals reportedly plans US$8.2B acquisition of JSR in Japan chip materials push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T05:12:42+00:00",
+      "published_utc": "2026-11-05T05:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
