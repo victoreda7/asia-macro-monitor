@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T02:32:42.234535+00:00",
- "collected_at_utc": "2026-11-05T02:32:42.234535+00:00",
+ "generated_at_utc": "2026-11-05T02:42:44.518061+00:00",
+ "collected_at_utc": "2026-11-05T02:42:44.518061+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 872,
+  "japan": 870,
   "china": 896,
-  "taiwan": 318,
-  "korea": 914
+  "taiwan": 319,
+  "korea": 915
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T02:13:49+00:00"
+   "newest": "2026-11-05T02:30:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T17:36:00+00:00"
+   "newest": "2026-11-04T18:58:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T02:32:05+00:00"
+   "newest": "2026-11-05T02:41:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-05T11:30:00+09:00"
+   "newest": "2026-11-05T11:40:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:58:04+00:00"
+   "newest": "2026-11-05T02:16:17+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:40:47+00:00"
+   "newest": "2026-11-05T02:00:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261104021304:0-taiwan-inflation-likely-eased-but-stayed-high-wsj-poll-shows-market-talk/",
+   "published_utc": "2026-11-05T02:36:00+00:00",
+   "title_original": "Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9a23d6f50a0d223a"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -465,6 +482,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b40d610949fe9d32"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "www.yonhapmidas.com",
+   "title_en": "Freeze the base interest rate... Adjusting the pace, not ending austerity",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5STm9RTGRjZHFjaWFJd3JRWmltRkM5SkVsa2ZvRGRPUXpvRzJ6Z0d5a2ZKOGdEZzhxNTVneUVtMkhtY2ZZOVRfNTh5SGg0VWtPQU9SMTZkVGNrSnQxbDFuV3hCa3dwSUtaeTNUeW1R?oc=5",
+   "published_utc": "2026-11-05T02:00:13+00:00",
+   "title_original": "기준금리 동결…긴축종료 아닌 속도조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "09d30505393a67d4"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1370,8 +1404,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -1385,7 +1419,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7881,8 +7915,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -7896,7 +7930,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -51961,40 +51995,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b71aae053b239416"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
-   "published_utc": "2026-10-06T23:50:00+00:00",
-   "title_original": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b125bca3a1efc08"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Bank of Japan's Transactions with the Government (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
-   "published_utc": "2026-10-06T23:50:00+00:00",
-   "title_original": "Bank of Japan's Transactions with the Government (Sept.)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a825fddb85031586"
   },
   {
    "source_id": "manual_ia",

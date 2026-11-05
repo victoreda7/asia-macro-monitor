@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T02:32:42.234535+00:00
+Última coleta: 2026-11-05T02:42:44.518061+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          872
+  🇯🇵 Japão          870
   🇨🇳 China          896
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  914
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  915
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk
   - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
   - [japan] Tokyo's budget for next year's total requested amount exceeds 10 trillion yen for the first time, due to soari
   - [taiwan] Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [korea] S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts
   - [china] China indicts ex-Politburo member Ma for bribery
   - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
+  - [korea] Freeze the base interest rate... Adjusting the pace, not ending austerity
   - [korea] SK Hynix was counted as the largest net purchase by high-yield investors of Mirae Asset Securities u..
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [china] CHINA PBOC CONDUCTS CNY263 BLN VIA O/N REVERSE REPO THURS
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
   - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
   - [taiwan] DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock
-  - [taiwan] Subsidies pave the way as cheap cells squeeze Taiwan's energy storage players into a profit battle
-  - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T02:32:42+00:00",
+      "published_utc": "2026-11-05T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
