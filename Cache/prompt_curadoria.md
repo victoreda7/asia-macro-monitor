@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T06:52:44.971031+00:00
+Última coleta: 2026-11-05T07:02:44.725097+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          890
-  🇨🇳 China          900
-  🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  896
+  🇯🇵 Japão          892
+  🇨🇳 China          901
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  895
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
+  - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
   - [japan] Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges
   - [japan] BREAKING NEWS: Sony Group July-Sept. net profit rises to 449.6 bil. yen
+  - [japan] How long will interest rate hikes last? The Bank of Japan discusses the final goal; summary of September meeti
   - [japan] BREAKING NEWS: Sony Group April-Sept. net profit rises 38.8% to 791.76 bil. yen
   - [japan] BREAKING NEWS: Sony Group lifts FY 2026 net profit outlook to 1.33 tril. yen
   - [korea] Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
@@ -27,6 +29,7 @@ Total: 3000 manchetes
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
   - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
   - [japan] BoJ Minutes signal more hikes ahead as central bank pauses at 1.25%
+  - [china] China Mulls Dollar, Offshore Yuan Sovereign Bond Sale This Month
   - [japan] Toyota interim financial results: Sales and profits increase due to yen depreciation, annual forecast upwardly
   - [china] China's cleantech stocks jump as investors bet on US policy shift
   - [china] China Longyuan Power Poised for Growth in 2027 — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Bank Funding Costs Hit Record Low on PBOC Rate Shift
   - [japan] Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen
   - [china] China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress
-  - [china] China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain g
-  - [japan] BOJ policymaker urged rate hike size debate: Sept. minutes
-  - [japan] Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T06:52:45+00:00",
+      "published_utc": "2026-11-05T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
