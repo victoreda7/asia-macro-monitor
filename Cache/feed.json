@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T02:12:44.949471+00:00",
- "collected_at_utc": "2026-11-05T02:12:44.949471+00:00",
+ "generated_at_utc": "2026-11-05T02:22:45.253309+00:00",
+ "collected_at_utc": "2026-11-05T02:22:45.253309+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2997,
+ "count": 3000,
  "by_region": {
   "japan": 872,
   "china": 895,
-  "taiwan": 317,
-  "korea": 913
+  "taiwan": 318,
+  "korea": 915
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T01:50:22+00:00"
+   "newest": "2026-11-05T02:13:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T00:48:17+00:00"
+   "newest": "2026-11-05T02:13:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:39:51+00:00"
+   "newest": "2026-11-05T02:12:19+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T02:03:41+00:00"
+   "newest": "2026-11-05T02:19:49+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T10:54:24+09:00"
+   "newest": "2026-11-05T11:14:26+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:06:00+00:00"
+   "newest": "2026-11-04T18:36:31+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T02:12:20+00:00"
+   "newest": "2026-11-05T02:20:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46M05I:0-indonesian-rupiah-leads-gains-in-asian-currencies-taiwan-dollar-underperforms/",
+   "published_utc": "2026-11-05T02:14:59+00:00",
+   "title_original": "Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "96a9aa54357f8d78"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show",
+   "url": "https://www.investing.com/news/economy-news/boj-board-saw-the-need-to-keep-raising-rates-september-meeting-minutes-show-5001844",
+   "published_utc": "2026-11-05T02:13:26+00:00",
+   "title_original": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "181a55016f3c0d19"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53VERUWTkyQTYwVDNObF9Qck5EVkxYRVRIdVB5eFY5OUExWGp0YnZXQUlTVTltVDZCN3J6V2pEa2JSNEpCMk96a1BmWmxiOVhBUmZBOElZdlp4empPai1YbnA5NWZBbzdXdGc?oc=5",
+   "published_utc": "2026-11-05T02:12:19+00:00",
+   "title_original": "S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cd7431ad2acc00c5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -621,23 +673,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a5238d8a8b2aca68"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
-   "url": "https://www.investing.com/news/economy-news/boj-board-saw-the-need-to-keep-raising-rates-september-meeting-minutes-show-5001844",
-   "published_utc": "2026-11-05T00:48:17+00:00",
-   "title_original": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8ec028bb03461be"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2275,7 +2310,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "With core inflation not being determined, the possibility of a resumption of interest rate hikes this month is 'shaking'",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01UW1KNkx4QTBxX1k1QmR0VzlPMjY0ajJ5TkpDeWpKQXRMRDJHbjhtN3RrMzd0bk8xTVJoRk5GRDB2WkplWS1YSm9keG0xZXRaQWtoa3FYcDNLdUk3aVA1WDNKSUdHZkhVVUwxcVRn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2dzEyU2E5WnczQmR5MUdZVVFCRzNrcEw3YXB2ZV80WlRKYW5ZTXk0WVk0TUI0VGhZN3MwRU5PRUtDcVRXdmJ5VFh6cXc3YlZXOU10Zw?oc=5",
    "published_utc": "2026-11-04T06:54:00+00:00",
    "title_original": "잡히지 않는 근원물가에⋯이달 기준금리 인상 재개 가능성 '들썩'",
    "region": "korea",
@@ -2287,7 +2322,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ed3be6a41d92efc9"
+   "id": "ba89e82f8ea95030"
   },
   {
    "source_id": "focus_taiwan",
@@ -2967,6 +3002,24 @@
    "live_wire": false,
    "manual": false,
    "id": "52a0444d476434ab"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스1",
+   "title_en": "The variable interest rate for mortgage loans exceeded the fixed interest rate in the first half of the year... Borrowers concerned about interest burden",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MbDFpdTJmT2NaZ3plWGxUc0NJcE5TTllYWE9MYnRfb2JiNFJfYjVwSzE5enB1bF9wNlNoOUVSaEJZMU82aEdnck9jRW1VbzlXeUE4WGtBNm55TUk?oc=5",
+   "published_utc": "2026-11-04T00:30:00+00:00",
+   "title_original": "주담대 변동금리, 상반기 고정금리 넘어…차주들 이자 부담 우려",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8442208cc352e81d"
   },
   {
    "source_id": "tradingview_live",

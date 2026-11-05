@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T02:12:44.949471+00:00
-Total: 2997 manchetes
+Última coleta: 2026-11-05T02:22:45.253309+00:00
+Total: 3000 manchetes
 
   🇯🇵 Japão          872
   🇨🇳 China          895
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  913
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  915
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms
+  - [japan] BOJ debated need for more rate hikes, scope for faster moves, September minutes show
+  - [korea] S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts
   - [china] China indicts ex-Politburo member Ma for bribery
   - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
   - [korea] SK Hynix was counted as the largest net purchase by high-yield investors of Mirae Asset Securities u..
@@ -33,7 +36,6 @@ Total: 2997 manchetes
   - [japan] Japan Services PMI Improves To 51.7 In October - S&P Global
   - [japan] Japan Composite PMI Revised Lower
   - [japan] BOJ Minutes Flag Price Risks, Backing Rate Hike Bets — Market Talk
-  - [japan] BOJ debated need for more rate hikes, scope for faster move, September minutes show
   - [japan] Bank of Japan members need to discuss the “range” of interest rate hikes, summary of September meeting (Kyodo 
   - [japan] Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September 
   - [japan] BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes
@@ -55,8 +57,6 @@ Total: 2997 manchetes
   - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
-  - [japan] There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more v
-  - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2997 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T02:12:45+00:00",
+      "published_utc": "2026-11-05T02:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
