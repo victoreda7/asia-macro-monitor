@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T19:32:42.413903+00:00
+Última coleta: 2026-11-05T19:42:42.694606+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
-  🇨🇳 China          898
+  🇨🇳 China          899
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report
   - [taiwan] SuperAlloy enters semiconductor pilot production in 3Q26
   - [china] Avoiding U.S. export controls, the dark side of China's AI start-up moon turns to Europe to rent Huida chip co
   - [japan] Foreign-student spending in Japan hits $4.3bn amid soft yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5tn in regular returns over four years
   - [taiwan] Hot money fled and the New Taiwan dollar nearly broke 33 yuan. Exporters actively sold foreign exchange and re
   - [china] Advanced Micro-Fabrication Equipment Inc China Plans A-Share Worth Buyback
-  - [china] China Overseas Land & Investment Logs October Contracted Property Sales RMB 17.805 Billion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T19:32:42+00:00",
+      "published_utc": "2026-11-05T19:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

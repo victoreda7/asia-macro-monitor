@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-05T19:32:42.413903+00:00",
- "collected_at_utc": "2026-11-05T19:32:42.413903+00:00",
+ "generated_at_utc": "2026-11-05T19:42:42.694606+00:00",
+ "collected_at_utc": "2026-11-05T19:42:42.694606+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 894,
-  "china": 898,
+  "china": 899,
   "taiwan": 323,
-  "korea": 885
+  "korea": 884
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-11-05T12:28:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T19:13:21+00:00"
+   "newest": "2026-11-05T19:32:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T18:24:45+00:00"
+   "newest": "2026-11-05T19:20:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T01:37:36+09:00"
+   "newest": "2026-11-06T01:37:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T19:31:48+00:00"
+   "newest": "2026-11-05T19:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-05T19:00:00+09:00"
+   "newest": "2026-11-06T04:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report",
+   "url": "https://www.tradingview.com/news/seekingalpha:594d8f86d094b:0-nvidia-chips-lie-stockpiled-in-hong-kong-amid-china-s-import-restrictions-report/",
+   "published_utc": "2026-11-05T19:38:05+00:00",
+   "title_original": "Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bbc03d883e593013"
+  },
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
@@ -1548,23 +1566,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d006de6af1fe60ac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Asian News International",
-   "title_en": "LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Pradesh",
-   "url": "https://www.tradingview.com/news/moodys:75f1f7872e9e6:0-lg-electronics-india-enters-automotive-solutions-business-to-manufacture-infotainment-systems-in-andhra-pradesh/",
-   "published_utc": "2026-11-05T07:50:55+00:00",
-   "title_original": "LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Pradesh",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0311a236b57b1770"
   },
   {
    "source_id": "investing_live",
@@ -3318,8 +3319,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -3333,7 +3334,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
