@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T02:02:45.129289+00:00
-Total: 2995 manchetes
+Última coleta: 2026-11-05T02:12:44.949471+00:00
+Total: 2997 manchetes
 
   🇯🇵 Japão          872
-  🇨🇳 China          894
+  🇨🇳 China          895
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  912
+  🇰🇷 Coreia do Sul  913
 
 ## O que já está no feed (não repita)
 
+  - [china] China indicts ex-Politburo member Ma for bribery
   - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
+  - [korea] SK Hynix was counted as the largest net purchase by high-yield investors of Mirae Asset Securities u..
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [china] CHINA PBOC CONDUCTS CNY263 BLN VIA O/N REVERSE REPO THURS
   - [japan] BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk
@@ -55,8 +57,6 @@ Total: 2995 manchetes
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
   - [japan] There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more v
   - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
-  - [china] Wall Street Is Helping China Build a Global Yuan
-  - [china] Europe to invest €525 million in chip startups to catch up with US and China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2995 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T02:02:45+00:00",
+      "published_utc": "2026-11-05T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
