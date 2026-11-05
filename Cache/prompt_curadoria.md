@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T11:12:43.609186+00:00
+Última coleta: 2026-11-05T11:22:48.002336+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
-  🇨🇳 China          904
-  🇹🇼 Taiwan         320
+  🇨🇳 China          903
+  🇹🇼 Taiwan         321
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
   - [china] Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit
   - [china] SHL: Core growth was strong, while FY27 guidance reflects China, inflation and separation headwinds
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5tn in regular returns over four years
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China ties more US farm imports to reciprocal tariff cuts
   - [china] China says US farm purchases hinge on tariff-cut deal
   - [taiwan] Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics
-  - [china] China urges EU to assess impact of new fees on low-value imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T11:12:43+00:00",
+      "published_utc": "2026-11-05T11:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
