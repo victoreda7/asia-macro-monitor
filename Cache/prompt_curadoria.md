@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T06:02:42.927508+00:00
+Última coleta: 2026-11-05T06:12:45.167031+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          887
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BoJ Minutes signal more hikes ahead as central bank pauses at 1.25%
   - [japan] Toyota interim financial results: Sales and profits increase due to yen depreciation, annual forecast upwardly
   - [china] China's cleantech stocks jump as investors bet on US policy shift
   - [china] China Longyuan Power Poised for Growth in 2027 — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Banking Corp Reports Net Income Of 22.6 Billion Pesos In 9M2026
   - [china] China's largest import expo opens in Shanghai amid record trade imbalances
   - [japan] Stock values ​​fall, sell orders for AI semiconductor stocks following the results of the US midterm elections
-  - [korea] Why is SK Hynix stock sliding today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T06:02:43+00:00",
+      "published_utc": "2026-11-05T06:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
