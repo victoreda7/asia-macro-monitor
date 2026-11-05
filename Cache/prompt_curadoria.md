@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T21:02:42.589919+00:00
+Última coleta: 2026-11-05T21:12:48.717175+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
+  🇯🇵 Japão          897
   🇨🇳 China          898
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  882
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes
+  - [japan] The long-awaited interest rate hike is a "big miscalculation", and about half of the credit unions and credit 
+  - [japan] The "overall picture of finances" should be questioned rather than tax cut revenue sources; why is the Takaich
+  - [japan] Will Trump, who suffered a crushing defeat in the midterm elections, approach Kim Jong Un at the US-North Kore
+  - [china] Chinese cars' share in the UK market rapidly increases, reaching 17.5% in the January-September period...More 
   - [japan] Consumption tax reduction bill: ruling party poised to vote today; opposition party “concrete picture vague”
   - [china] Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report
   - [taiwan] SuperAlloy enters semiconductor pilot production in 3Q26
@@ -32,6 +37,7 @@ Total: 3000 manchetes
   - [china] What does midterm humbling mean for Bessent ahead of US-China trade talks?
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
   - [japan] Bernstein raises Sony stock price target to $26 on yen weakness By Investing.com
+  - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
   - [japan] Bernstein raises Sony stock price target to $26 on yen weakness
   - [korea] SK Hynix losing out on US plant has major implications, Wedbush says
   - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [china] China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties
   - [taiwan] Import price increase in October hits the largest increase in the past 50 years. General Accounting Office: No
   - [taiwan] The central bank adjusted to prevent the depreciation of the New Taiwan dollar. Foreign exchange deposits fell
-  - [china] Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit
-  - [taiwan] Micron retreats in premarket after suspension of $4.5B Taiwan factory plan
-  - [china] SHL: Core growth was strong, while FY27 guidance reflects China, inflation and separation headwinds
-  - [korea] KT&G: Compound 2030 pairs global growth with KRW 5tn in regular returns over four years
-  - [taiwan] Hot money fled and the New Taiwan dollar nearly broke 33 yuan. Exporters actively sold foreign exchange and re
-  - [china] Advanced Micro-Fabrication Equipment Inc China Plans A-Share Worth Buyback
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T21:02:42+00:00",
+      "published_utc": "2026-11-05T21:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
