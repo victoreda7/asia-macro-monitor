@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T08:32:44.937138+00:00
+Última coleta: 2026-11-05T08:42:46.049499+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
-  🇨🇳 China          901
-  🇹🇼 Taiwan         314
+  🇯🇵 Japão          890
+  🇨🇳 China          900
+  🇹🇼 Taiwan         316
   🇰🇷 Coreia do Sul  894
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's chipmakers shine brightest in living memory
+  - [china] China Merchants Shekou Industrial Zone October Contract Sales At 18.7 Billion Yuan
   - [china] China's November diesel exports to ease amid thin domestic stocks, sources say
   - [korea] KT&G Posts Record Quarterly Revenue and Operating Profit in Q3, Unveils Four-Year KRW 5 Trillion Shareholder R
   - [china] Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
   - [china] Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
   - [taiwan] CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth cons
+  - [taiwan] Taiwan Inflation Rate Eases in October
   - [taiwan] Taiwan Inflation Cools but Remains Elevated
   - [japan] Bank of Japan accelerates sale of stock assets, shortening period from 112 years to 43 years (Kyodo News)
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
@@ -30,6 +33,7 @@ Total: 3000 manchetes
   - [china] China ties more US farm imports to reciprocal tariff cuts
   - [taiwan] Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics
   - [china] China says trade barriers block tech imports, fueling its surplus
+  - [korea] (LEAD) Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
   - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
   - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Soda Nikka Co Ltd - To Buy Back Up To 4.37% Own Shares Worth 1.6 Billion Yen
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [korea] SK hynix puts Chey Tae-won at helm of $10b US AI investment arm
-  - [japan] Japan bond yields fall as lower oil prices ease inflation concerns
-  - [korea] South Korea finance minister vows to monitor AI policy changes after US midterm elections
-  - [japan] Inabata & Co Ltd - To Buy Back Up To 1.86% Own Shares Worth 5.4 Billion Yen
-  - [japan] BREAKING NEWS: Toyota lowers FY 2026 sales outlook to 53.5 tril. yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T08:32:45+00:00",
+      "published_utc": "2026-11-05T08:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
