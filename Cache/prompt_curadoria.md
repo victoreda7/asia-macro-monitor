@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T11:52:42.891401+00:00
+Última coleta: 2026-11-05T12:02:49.147928+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          888
-  🇨🇳 China          902
+  🇯🇵 Japão          889
+  🇨🇳 China          900
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  887
+  🇰🇷 Coreia do Sul  888
 
 ## O que já está no feed (não repita)
 
+  - [korea] LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra
+  - [china] China ready to expand US agricultural imports if Board of Trade tariff cuts take effect
+  - [japan] Citi sees dollar weakening against yen after U.S. midterms By Investing.com
+  - [china] China controls rare earth exports to Japan, yttrium oxide plummets by 98% from January to September
   - [china] KMB: China disruption constrained sales as Kenvue integration reshapes the growth outlook
   - [korea] Rupee gains nearly 1% in October, second-best performer in Asia after Korean won
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] [Maeil Business TV] Semiconductors Lift the Won; What Lies Ahead?
   - [china] Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
   - [china] Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
-  - [taiwan] Taiwan Inflation Rate Eases in October
-  - [korea] Housing business owners' prospects for the apartment sales economy in Seoul fell to the lowest level..
-  - [taiwan] Taiwan Inflation Cools but Remains Elevated
-  - [japan] Bank of Japan accelerates sale of stock assets, shortening period from 112 years to 43 years (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T11:52:43+00:00",
+      "published_utc": "2026-11-05T12:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

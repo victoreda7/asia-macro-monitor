@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T11:52:42.891401+00:00",
- "collected_at_utc": "2026-11-05T11:52:42.891401+00:00",
+ "generated_at_utc": "2026-11-05T12:02:49.147928+00:00",
+ "collected_at_utc": "2026-11-05T12:02:49.147928+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 888,
-  "china": 902,
+  "japan": 889,
+  "china": 900,
   "taiwan": 323,
-  "korea": 887
+  "korea": 888
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T11:02:47+00:00"
+   "newest": "2026-11-05T11:35:17+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T05:01:12+00:00"
+   "newest": "2026-11-05T05:00:16+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T10:05:57+00:00"
+   "newest": "2026-11-05T11:51:28+00:00"
   },
   {
    "source_id": "ked_global",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T09:22:09+00:00"
+   "newest": "2026-11-05T10:24:41+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T10:59:48+00:00"
+   "newest": "2026-11-05T12:00:21+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T06:10:19+00:00"
+   "newest": "2026-11-05T09:00:24+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T11:42:32+00:00"
+   "newest": "2026-11-05T12:02:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T11:19:00+00:00"
+   "newest": "2026-11-05T11:46:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,74 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Businessworld",
+   "title_en": "LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra",
+   "url": "https://www.tradingview.com/news/moodys:1577abacad717:0-lg-electronics-india-enters-automotive-tech-plans-manufacturing-in-andhra/",
+   "published_utc": "2026-11-05T12:01:46+00:00",
+   "title_original": "LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "89008f58a19ac48a"
+  },
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "China ready to expand US agricultural imports if Board of Trade tariff cuts take effect",
+   "url": "https://www.scmp.com/economy/global-economy/article/3373412/china-ready-expand-us-agricultural-imports-if-board-trade-tariff-cuts-take-effect",
+   "published_utc": "2026-11-05T12:00:21+00:00",
+   "title_original": "China ready to expand US agricultural imports if Board of Trade tariff cuts take effect",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ca712f47de72188"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Citi sees dollar weakening against yen after U.S. midterms By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZS1zMGRzcDR0U3IzaUpScXc3RVAtamZOTG1GejJhbGxsbDYxRmZzX2VCXzlSTTZaQ0pIam5jZnNUT0pCbk9BdzMxSi1yTDBGaG1maklBd2pHS1J4TDA4dGtUWF9pN19nSnU2akJ1dThoYmMzLVBUTnliQlN2OWw2eXRGSng5Z29QV3FyWVZFODlwMG1uM1VNRFpLYTREMVBfcGc5ZUlRaTZpWDVlMHhkSUtObjdFRG1U?oc=5",
+   "published_utc": "2026-11-05T11:51:28+00:00",
+   "title_original": "Citi sees dollar weakening against yen after U.S. midterms By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ad219b5b4f78132"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "China controls rare earth exports to Japan, yttrium oxide plummets by 98% from January to September",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9COHhsc2puNjNIbVJPVTNoRVI0SW1tOHRRaUgweTRnNEx5SjJ4U0tDS1ZFZldWNFk5YjlfTmRtZUx2NDNPLVZLZU5HQVNYdHNsNHpFTHlURGl1X3djbVE?oc=5",
+   "published_utc": "2026-11-05T11:46:00+00:00",
+   "title_original": "中國管制稀土出口日本 氧化釔1至9月驟減98%",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "669ad5eb8ccb1aee"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -1484,23 +1552,6 @@
    "id": "9981169f4fd7744f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's cleantech stocks jump as investors bet on US policy shift",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46M087:0-china-s-cleantech-stocks-jump-as-investors-bet-on-us-policy-shift/",
-   "published_utc": "2026-11-05T05:46:46+00:00",
-   "title_original": "China's cleantech stocks jump as investors bet on US policy shift",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3f24bdeaa87e144e"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "The Export-Import Bank of Korea has signed a $170 million foreign economic cooperation fund (EDCF) l..",
@@ -2037,6 +2088,24 @@
    "live_wire": false,
    "manual": false,
    "id": "09d30505393a67d4"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "PBOC extends digital yuan to overseas lenders to deepen cross-border flows",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPelU4eVJDRW5GQ1Y3N3pMbXk2cFFlMzlQck40ckQ4WnZUTENFRlVtM0hFTDFqVUdQSDM3ZVExVERzd09YVXZQeGhudjRmRkIzMDhDMEx0ai1oMHRsa3pKRjZ4bHRLWmRqTGJhY1pPOEFlTDR1VlA2TkRkR09fWDVkMUhtam9ZV1hzWXRjSHRIM3B3VmpGTUxvVEU5blBKV0FSbkJfZnhHRHNjczlqT2lGcFNFb2hpVkN6NGxaVjJQVDdhOENCZW0yYlVQc2hVNXMy?oc=5",
+   "published_utc": "2026-11-05T02:00:11+00:00",
+   "title_original": "PBOC extends digital yuan to overseas lenders to deepen cross-border flows",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5fcd9a37b0848cf0"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2806,8 +2875,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -2821,7 +2890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51925,74 +51994,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d2f1cb22fcda5aaa"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "China's new car exports increased by 60% in September; high gasoline prices may also boost EV demand",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261012de58202",
-   "published_utc": "2026-10-12T09:19:28+00:00",
-   "title_original": "中国 9月の新車輸出が6割増 ガソリン高もEV需要を後押しか",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e44f1ddc3be0f5c3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China to lower VAT export rebate on new energy vehicles",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N43T0D3:0-china-to-lower-vat-export-rebate-on-new-energy-vehicles/",
-   "published_utc": "2026-10-12T09:12:37+00:00",
-   "title_original": "China to lower VAT export rebate on new energy vehicles",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "20f057615e76cccd"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "China-EU car deal eases trade tensions for now at least",
-   "url": "https://www.scmp.com/plus/economy/china-economy/article/3370591/china-eu-car-deal-eases-trade-tensions-now-least?utm_source=rss_feed",
-   "published_utc": "2026-10-12T09:12:28+00:00",
-   "title_original": "China-EU car deal eases trade tensions for now at least",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "94bbb7c760f5faf9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Micron Stock Slips as China Memory Chip Threat Ramps Up — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001517:0-micron-stock-slips-as-china-memory-chip-threat-ramps-up-barrons-com/",
-   "published_utc": "2026-10-12T09:10:00+00:00",
-   "title_original": "Micron Stock Slips as China Memory Chip Threat Ramps Up — Barrons.com",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7b12ba257842debf"
   },
   {
    "source_id": "manual_ia",
