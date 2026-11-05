@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T14:02:46.595995+00:00
+Última coleta: 2026-11-05T14:12:44.098859+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
-  🇨🇳 China          901
+  🇨🇳 China          900
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
   - [korea] SK Hynix losing out on US plant has major implications, Wedbush says
   - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
   - [taiwan] Taiwan's October CPI rises 2.33%, stays above 2% for sixth month
@@ -54,7 +55,6 @@ Total: 3000 manchetes
   - [taiwan] Micron suspends work on US$4.5 billion factory in Taiwan, according to Bloomberg News report
   - [china] China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk
   - [china] Commentary: After the Midterms, a Case for Realism in U.S.-China Relations
-  - [japan] BOJ minutes: Inflation could prompt faster rate hikes
   - [taiwan] Taiwan's chipmakers shine brightest in living memory
   - [taiwan] Taiwan Forex Reserves at 3-Month Low
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T14:02:46+00:00",
+      "published_utc": "2026-11-05T14:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

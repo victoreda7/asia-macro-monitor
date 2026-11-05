@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T14:02:46.595995+00:00",
- "collected_at_utc": "2026-11-05T14:02:46.595995+00:00",
+ "generated_at_utc": "2026-11-05T14:12:44.098859+00:00",
+ "collected_at_utc": "2026-11-05T14:12:44.098859+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 891,
-  "china": 901,
+  "china": 900,
   "taiwan": 324,
-  "korea": 884
+  "korea": 885
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "newest": "2026-11-05T12:28:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T13:44:31+00:00"
+   "newest": "2026-11-05T14:04:40+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T13:37:24+00:00"
+   "newest": "2026-11-05T14:00:47+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T13:39:53+00:00"
+   "newest": "2026-11-05T13:41:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T09:04:32+00:00"
+   "newest": "2026-11-05T06:05:10+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T09:38:16+00:00"
+   "newest": "2026-11-05T07:31:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T11:46:06+00:00"
+   "newest": "2026-11-05T10:24:41+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T14:02:21+00:00"
+   "newest": "2026-11-05T14:11:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84WlpOVk01UnA1YjlZUmtreGplR1dDaFJXQUxhcGxMWm9sMk9veTF5WVVTUUFnV0FFQW5IZVJLNFRDdVlRb3JYTzdRR3ZfSWx4cXB2VnhMLWx5aENIY0V2eWVVeWpHVDhzcmhsYUZJLTkwQk1F?oc=5",
+   "published_utc": "2026-11-05T13:41:00+00:00",
+   "title_original": "S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe4d377ec0f98351"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -985,25 +1002,6 @@
    "id": "be7d8aff83d4f5e6"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ minutes: Inflation could prompt faster rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RNllzUGtaWWZQZ3hCWWU2MExNV2k0aEkwRWxWY3Nsb1BYV3lNajJUR1hjSUI5alRmZmpHMXVxZDYwZnU3ZFpXRXp1R2lJTkk3TTVGMVlQTUwxUEVTYlAwWHdYOA?oc=5",
-   "published_utc": "2026-11-05T09:04:32+00:00",
-   "title_original": "BOJ minutes: Inflation could prompt faster rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b77aa1afe61a1655"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Taiwan's chipmakers shine brightest in living memory",
@@ -1633,6 +1631,25 @@
    "live_wire": false,
    "manual": false,
    "id": "82ce26df5a796335"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ minutes: Inflation could prompt faster rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RNllzUGtaWWZQZ3hCWWU2MExNV2k0aEkwRWxWY3Nsb1BYV3lNajJUR1hjSUI5alRmZmpHMXVxZDYwZnU3ZFpXRXp1R2lJTkk3TTVGMVlQTUwxUEVTYlAwWHdYOA?oc=5",
+   "published_utc": "2026-11-05T06:05:10+00:00",
+   "title_original": "BOJ minutes: Inflation could prompt faster rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b77aa1afe61a1655"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3010,8 +3027,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -3025,7 +3042,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51971,23 +51988,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5833d303c7f68018"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Micron Stock Falls as China Memory Chip Threat Gets Serious — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001517:0-micron-stock-falls-as-china-memory-chip-threat-gets-serious-barrons-com/",
-   "published_utc": "2026-10-12T11:20:00+00:00",
-   "title_original": "Micron Stock Falls as China Memory Chip Threat Gets Serious — Barrons.com",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7121cbfcd4a2afcb"
   },
   {
    "source_id": "manual_ia",
