@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T03:02:46.270364+00:00
+Última coleta: 2026-11-05T03:12:45.857259+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          868
-  🇨🇳 China          896
+  🇯🇵 Japão          867
+  🇨🇳 China          897
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  917
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK chief to attend BIS governors' meeting in Switzerland
   - [taiwan] Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk
   - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
   - [korea] Samsung, SK hynix emerge as major bond investors amid chip boom
@@ -36,6 +37,7 @@ Total: 3000 manchetes
   - [korea] (LEAD) S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [korea] Bank of Korea expects interest rate hike in November despite removal of interest rate differential and exchang
   - [japan] BoJ Sees Case for Further Rate Hikes: September Minutes
+  - [china] On November 5, the central bank launched a 263 billion yuan overnight reverse repurchase operation.
   - [japan] Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Nov 12
   - [taiwan] TSMC Slips 0.2%; UniMicron Technology Falls 8.6%
   - [taiwan] Taiwan's Chip-Related Stocks Broadly Lower
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] [Editorial] Prices reach 2%; Bank of Japan implements policy to curb price increases (Nishinippon Shimbun me)
   - [korea] S. Korea's current account surplus tops $60b for 1st time on chip boom
   - [korea] Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure
-  - [japan] Sources of Changes in Current Account Balances (Projections for Nov.)
-  - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T03:02:46+00:00",
+      "published_utc": "2026-11-05T03:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
