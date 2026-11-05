@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T12:02:49.147928+00:00
+Última coleta: 2026-11-05T12:12:44.377728+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          889
-  🇨🇳 China          900
+  🇯🇵 Japão          890
+  🇨🇳 China          901
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  888
+  🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
@@ -21,10 +21,10 @@ Total: 3000 manchetes
   - [china] China ready to expand US agricultural imports if Board of Trade tariff cuts take effect
   - [japan] Citi sees dollar weakening against yen after U.S. midterms By Investing.com
   - [china] China controls rare earth exports to Japan, yttrium oxide plummets by 98% from January to September
+  - [japan] Citi sees dollar weakening against yen after U.S. midterms
   - [china] KMB: China disruption constrained sales as Kenvue integration reshapes the growth outlook
   - [korea] Rupee gains nearly 1% in October, second-best performer in Asia after Korean won
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
-  - [taiwan] CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth cons
   - [taiwan] Import price increase in October hits the largest increase in the past 50 years. General Accounting Office: No
   - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
   - [china] Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T12:02:49+00:00",
+      "published_utc": "2026-11-05T12:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
