@@ -1,23 +1,23 @@
 {
- "generated_at_utc": "2026-11-05T23:42:44.063936+00:00",
- "collected_at_utc": "2026-11-05T23:42:44.063936+00:00",
+ "generated_at_utc": "2026-11-05T23:52:45.137745+00:00",
+ "collected_at_utc": "2026-11-05T23:52:45.137745+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 897,
-  "china": 898,
+  "china": 897,
   "taiwan": 321,
-  "korea": 884
+  "korea": 885
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 49,
+   "count": 48,
    "error": "",
    "newest": "2026-11-05T16:00:00+09:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T23:41:47+00:00"
+   "newest": "2026-11-05T23:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T17:42:06+00:00"
+   "newest": "2026-11-05T20:43:38+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea finance minister vows to curb excessive stock market volatility",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46105W:0-south-korea-finance-minister-vows-to-curb-excessive-stock-market-volatility/",
+   "published_utc": "2026-11-05T23:38:18+00:00",
+   "title_original": "South Korea finance minister vows to curb excessive stock market volatility",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cd93184dc2f537a2"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1709,23 +1726,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5c53a55cfa57f1ac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M",
-   "url": "https://www.tradingview.com/news/DJN_DN20261105003439:0-table-chun-yuan-steel-industry-3q-net-profit-nt-484-2m-vs-nt-376-8m/",
-   "published_utc": "2026-11-05T08:25:00+00:00",
-   "title_original": "Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a891bcd4dbb091d7"
   },
   {
    "source_id": "gn_tw_cna",
