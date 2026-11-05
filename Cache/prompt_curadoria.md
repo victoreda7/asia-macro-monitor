@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T04:22:45.606322+00:00
+Última coleta: 2026-11-05T04:32:45.168213+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          875
-  🇨🇳 China          895
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  913
+  🇯🇵 Japão          879
+  🇨🇳 China          894
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  909
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen
+  - [japan] Finance Directors’ Meeting leaves economic outlook unchanged as “moderate recovery”
+  - [japan] Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen
   - [china] China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress
+  - [japan] BOJ policymaker urged rate hike size debate: Sept. minutes
   - [japan] Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen
   - [japan] Summary of the Bank of Japan's September meeting ``Policy rates should get closer to the goal as soon as possi
   - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
@@ -28,6 +32,7 @@ Total: 3000 manchetes
   - [china] China's largest import expo opens in Shanghai amid record trade imbalances
   - [japan] Stock values ​​fall, sell orders for AI semiconductor stocks following the results of the US midterm elections
   - [korea] Why is SK Hynix stock sliding today?
+  - [taiwan] ELAN, Thunder Tiger, Gallopwave team up on 11 chips for all-domestic AI drones
   - [taiwan] The Central Bank’s Aboriginal Series Coin Set La’aruwa Tribe is on sale to the public on 11/12 | Sankei
   - [japan] Yen Strengthens on Hawkish BOJ Minutes
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7156 THURS VS 6.7180
   - [japan] BOJ policymaker urged rate hike size debate amid inflation risks: minutes
-  - [korea] (LEAD) S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
-  - [korea] Bank of Korea expects interest rate hike in November despite removal of interest rate differential and exchang
-  - [japan] BoJ Sees Case for Further Rate Hikes: September Minutes
-  - [china] On November 5, the central bank launched a 263 billion yuan overnight reverse repurchase operation.
-  - [japan] Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Nov 12
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T04:22:45+00:00",
+      "published_utc": "2026-11-05T04:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
