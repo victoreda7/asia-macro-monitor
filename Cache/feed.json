@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T01:12:48.368022+00:00",
- "collected_at_utc": "2026-11-05T01:12:48.368022+00:00",
+ "generated_at_utc": "2026-11-05T01:22:45.914351+00:00",
+ "collected_at_utc": "2026-11-05T01:22:45.914351+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2980,
+ "count": 2983,
  "by_region": {
-  "japan": 866,
+  "japan": 867,
   "china": 891,
-  "taiwan": 315,
+  "taiwan": 317,
   "korea": 908
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T00:51:39+00:00"
+   "newest": "2026-11-05T01:14:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-04T19:31:25+00:00"
+   "newest": "2026-11-05T01:12:23+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T08:34:11+09:00"
+   "newest": "2026-11-05T10:15:08+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T01:12:22+00:00"
+   "newest": "2026-11-05T01:21:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:27:42+00:00"
+   "newest": "2026-11-05T01:09:24+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Slips 0.2%; UniMicron Technology Falls 8.6%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261104020993_20261104021003:0-tsmc-slips-0-2-unimicron-technology-falls-8-6/",
+   "published_utc": "2026-11-05T01:17:00+00:00",
+   "title_original": "TSMC Slips 0.2%; UniMicron Technology Falls 8.6%",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2fc4e3d35f3e92f6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan's Chip-Related Stocks Broadly Lower",
+   "url": "https://www.tradingview.com/news/DJN_DN20261104020993_20261104020998:0-taiwan-s-chip-related-stocks-broadly-lower/",
+   "published_utc": "2026-11-05T01:16:00+00:00",
+   "title_original": "Taiwan's Chip-Related Stocks Broadly Lower",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d08d761e943a8d22"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "99c7c6015ecc2824"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Japan Composite PMI Revised Lower",
+   "url": "https://www.tradingview.com/news/te_news:598357:0-japan-composite-pmi-revised-lower/",
+   "published_utc": "2026-11-05T01:06:31+00:00",
+   "title_original": "Japan Composite PMI Revised Lower",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4333f0aad1e74d60"
   },
   {
    "source_id": "tradingview_live",
@@ -1002,8 +1053,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -1017,7 +1068,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7495,8 +7546,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -7510,7 +7561,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
