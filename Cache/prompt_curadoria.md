@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T12:22:43.044868+00:00
+Última coleta: 2026-11-05T12:32:46.142004+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
+  🇯🇵 Japão          892
   🇨🇳 China          901
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
+  - [china] Scholars who report on export capabilities for the first time at the CIIE: Teach you how to sell things to Chi
   - [japan] Fiscal System Council: Securing stable financial resources to strengthen defense capabilities
   - [korea] LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra
   - [china] China ready to expand US agricultural imports if Board of Trade tariff cuts take effect
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Merchants Shekou Industrial Zone October Contract Sales At 18.7 Billion Yuan
   - [china] China's November diesel exports to ease amid thin domestic stocks, sources say
   - [korea] KT&G Posts Record Quarterly Revenue and Operating Profit in Q3, Unveils Four-Year KRW 5 Trillion Shareholder R
-  - [korea] [Maeil Business TV] Semiconductors Lift the Won; What Lies Ahead?
-  - [china] Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T12:22:43+00:00",
+      "published_utc": "2026-11-05T12:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
