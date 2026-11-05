@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-05T06:32:44.107311+00:00",
- "collected_at_utc": "2026-11-05T06:32:44.107311+00:00",
+ "generated_at_utc": "2026-11-05T06:42:42.660374+00:00",
+ "collected_at_utc": "2026-11-05T06:42:42.660374+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 316,
   "korea": 897
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T06:14:52+00:00"
+   "newest": "2026-11-05T06:33:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T05:18:20+00:00"
+   "newest": "2026-11-05T06:19:44+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T06:22:17+00:00"
+   "newest": "2026-11-05T06:35:50+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T14:46:47+09:00"
+   "newest": "2026-11-05T15:32:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T05:35:41+00:00"
+   "newest": "2026-11-05T06:30:34+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-05T02:00:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
+   "published_utc": "2026-11-05T06:30:34+00:00",
+   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbcc5b21551bd2ee"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -376,6 +393,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e4c96dd5e5443eee"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
+   "url": "https://www.investing.com/news/forex-news/asian-fx-rises-as-dollar-slips-on-us-vote-kiwi-leads-gains-yuan-steadies-in-asia-5002136",
+   "published_utc": "2026-11-05T06:19:44+00:00",
+   "title_original": "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "82ce26df5a796335"
   },
   {
    "source_id": "tradingview_live",
@@ -930,23 +964,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b0244264a3302e7"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
-   "url": "https://www.investing.com/news/forex-news/asian-fx-rises-as-dollar-slips-on-us-vote-kiwi-leads-gains-yuan-steadies-in-asia-5002136",
-   "published_utc": "2026-11-05T04:00:00+00:00",
-   "title_original": "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "82ce26df5a796335"
   },
   {
    "source_id": "investing_live",
@@ -2200,8 +2217,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -2215,7 +2232,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8711,8 +8728,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -8726,7 +8743,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9a57168e1f757ef5"
+   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "tradingview_live",
@@ -51975,24 +51992,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c892082072393cd7"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "BOK forms 11-member advisory committee on digital currency",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54aDJJdm9Telk4NkUwbUVWdEpRYlJudWRLdi16ZmN4WmktOFNia0JndEdOVTUtbGNiZjBKMjhRM3RVVEZKRWVjZU43SEh6RlBPOHFWYnJUdw?oc=5",
-   "published_utc": "2026-10-12T07:00:00+00:00",
-   "title_original": "BOK forms 11-member advisory committee on digital currency",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "589cbbb03a561417"
   },
   {
    "source_id": "manual_ia",

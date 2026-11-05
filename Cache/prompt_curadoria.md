@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T06:32:44.107311+00:00
+Última coleta: 2026-11-05T06:42:42.660374+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          887
@@ -17,8 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
   - [china] China's Inflation Likely Stable in October — Market Talk
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
+  - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
   - [japan] BoJ Minutes signal more hikes ahead as central bank pauses at 1.25%
   - [japan] Toyota interim financial results: Sales and profits increase due to yen depreciation, annual forecast upwardly
   - [china] China's cleantech stocks jump as investors bet on US policy shift
@@ -51,12 +53,10 @@ Total: 3000 manchetes
   - [japan] BOJ policymaker urged rate hike size debate: Sept. minutes
   - [japan] Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen
   - [japan] Summary of the Bank of Japan's September meeting ``Policy rates should get closer to the goal as soon as possi
-  - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
   - [japan] Japan’s large-cap exporters: Will the U.S. midterm sweep bring tariff relief?
   - [china] China indicts ex-Politburo member Ma Xingrui for bribery
   - [china] China’s Vice Premier Pushes Back on Trade Barbs at Import Fair
   - [taiwan] Ukraine's top unmanned fleet developer looks to Taiwan for critical components
-  - [china] China Banking Corp Reports Net Income Of 22.6 Billion Pesos In 9M2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T06:32:44+00:00",
+      "published_utc": "2026-11-05T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
