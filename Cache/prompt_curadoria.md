@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T03:32:43.176780+00:00
+Última coleta: 2026-11-05T03:42:42.116010+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          872
-  🇨🇳 China          894
+  🇨🇳 China          895
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  916
+  🇰🇷 Coreia do Sul  915
 
 ## O que já está no feed (não repita)
 
+  - [china] China's largest import expo opens in Shanghai amid record trade imbalances
   - [japan] Stock values ​​fall, sell orders for AI semiconductor stocks following the results of the US midterm elections
+  - [korea] Why is SK Hynix stock sliding today?
   - [taiwan] The Central Bank’s Aboriginal Series Coin Set La’aruwa Tribe is on sale to the public on 11/12 | Sankei
   - [japan] Yen Strengthens on Hawkish BOJ Minutes
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September 
   - [japan] BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
-  - [japan] Japan services activity expands for fifth month, PMI shows
-  - [japan] ``This is a situation where we need to discuss the extent of interest rate hikes,'' says a Bank of Japan membe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T03:32:43+00:00",
+      "published_utc": "2026-11-05T03:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
