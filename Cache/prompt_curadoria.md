@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T17:35:36.463222+00:00
+Última coleta: 2026-11-05T17:42:44.936367+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          899
+  🇯🇵 Japão          893
+  🇨🇳 China          898
   🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Democratic 'blue wave' may buoy yen if AI trade reverses: FX traders
   - [taiwan] TI targets next semiconductor supercycle as humanoid robots surge
   - [korea] Micron, SanDisk and SK Hynix drop up to 20% as memory stocks sell off
   - [china] Nutrien Sees Tight Nitrogen Markets In 2027 As Higher China Urea Exports Only Partially Offset Outages
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The condominium market changes due to the Bank of Japan's interest rate hike; it is the transaction price rang
   - [japan] Toyota Motor: FY operating-income guidance rose to JPY 3.9tn as investment and shareholder returns advanced
   - [taiwan] The New Taiwan Dollar depreciates heavily and the central bank calls out to exporters: Don’t expect excessive 
-  - [japan] “A peacetime financial base in preparation for emergencies” Ministry of Finance insists on strengthening defen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T17:35:36+00:00",
+      "published_utc": "2026-11-05T17:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
