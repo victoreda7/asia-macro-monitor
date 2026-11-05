@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T22:52:42.599956+00:00
+Última coleta: 2026-11-05T23:02:43.545878+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          898
-  🇨🇳 China          898
+  🇯🇵 Japão          897
+  🇨🇳 China          899
   🇹🇼 Taiwan         321
   🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan dilemma: too weak abroad and too strong at home
   - [japan] Analysis-Japanese savers have rediscovered interest rates and banks are feeling it
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5T in regular shareholder returns
   - [japan] Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] KMB: China disruption constrained sales as Kenvue integration reshapes the growth outlook
   - [korea] Rupee gains nearly 1% in October, second-best performer in Asia after Korean won
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
-  - [china] China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T22:52:42+00:00",
+      "published_utc": "2026-11-05T23:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
