@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T01:52:51.950148+00:00
-Total: 2991 manchetes
+Última coleta: 2026-11-05T02:02:45.129289+00:00
+Total: 2995 manchetes
 
-  🇯🇵 Japão          871
-  🇨🇳 China          892
+  🇯🇵 Japão          872
+  🇨🇳 China          894
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  911
+  🇰🇷 Coreia do Sul  912
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
+  - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
+  - [china] CHINA PBOC CONDUCTS CNY263 BLN VIA O/N REVERSE REPO THURS
   - [japan] BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7156 THURS VS 6.7180
   - [korea] (LEAD) S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
@@ -35,6 +38,7 @@ Total: 2991 manchetes
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [japan] Japan services activity expands for fifth month, PMI shows
   - [japan] ``This is a situation where we need to discuss the extent of interest rate hikes,'' says a Bank of Japan membe
+  - [china] Early participation in the bond market, November 5 | The central bank reduced its volume today and continued t
   - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
   - [korea] South Korea’s Current Account Surplus Hits Record on Chip Boom
   - [japan] Long-Term JGB Yields Fall After Oil Price Drops — Market Talk
@@ -53,10 +57,6 @@ Total: 2991 manchetes
   - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
   - [china] Wall Street Is Helping China Build a Global Yuan
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
-  - [china] The central bank shrinks and continues to conduct 3-month buyout reverse repurchase
-  - [china] Nvidia's China Customers Face a Stunning 99% Chip Shortfall
-  - [taiwan] Taiwan Weighs Tighter Controls on Chip Exports to Chinese Mainland
-  - [korea] Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2991 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T01:52:52+00:00",
+      "published_utc": "2026-11-05T02:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
