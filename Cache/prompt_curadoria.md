@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T12:52:43.988023+00:00
+Última coleta: 2026-11-05T13:02:55.733504+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October CPI rises 2.33%, stays above 2% for sixth month
   - [china] Scholars who report on export capabilities for the first time at the CIIE: Teach you how to sell things to Chi
   - [japan] Fiscal System Council: Securing stable financial resources to strengthen defense capabilities
+  - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
   - [korea] LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra
   - [china] China ready to expand US agricultural imports if Board of Trade tariff cuts take effect
   - [japan] Citi sees dollar weakening against yen after U.S. midterms By Investing.com
@@ -30,7 +31,6 @@ Total: 3000 manchetes
   - [korea] Rupee gains nearly 1% in October, second-best performer in Asia after Korean won
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
   - [taiwan] Import price increase in October hits the largest increase in the past 50 years. General Accounting Office: No
-  - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
   - [china] Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit
   - [taiwan] Micron retreats in premarket after suspension of $4.5B Taiwan factory plan
   - [china] SHL: Core growth was strong, while FY27 guidance reflects China, inflation and separation headwinds
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T12:52:44+00:00",
+      "published_utc": "2026-11-05T13:02:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
