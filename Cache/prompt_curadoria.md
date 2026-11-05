@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T16:52:51.032935+00:00
+Última coleta: 2026-11-05T17:02:44.533318+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          900
+  🇯🇵 Japão          893
+  🇨🇳 China          899
   🇹🇼 Taiwan         323
   🇰🇷 Coreia do Sul  885
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
   - [japan] Bernstein raises Sony stock price target to $26 on yen weakness By Investing.com
   - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
+  - [japan] Bernstein raises Sony stock price target to $26 on yen weakness
   - [korea] SK Hynix losing out on US plant has major implications, Wedbush says
   - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
   - [taiwan] Taiwan's October CPI rises 2.33%, stays above 2% for sixth month
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prepare for emergency financial expenditures: Ministry of Finance recommendation to strengthen defense capabil
   - [china] China to keep anti-dumping, anti-subsidy tariffs on US n-Propanol imports for five more years
   - [china] China Import Expo Selling content-related products from Japan
-  - [china] China’s Yutong Bus expands overseas as new-energy bus exports surge
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T16:52:51+00:00",
+      "published_utc": "2026-11-05T17:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
