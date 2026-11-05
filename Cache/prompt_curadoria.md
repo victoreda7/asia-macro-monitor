@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T09:22:45.038497+00:00
+Última coleta: 2026-11-05T09:32:45.580762+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Coway To Acquire Real Estate Worth 365 Billion Won For Establishing New Research And Development Centre
   - [taiwan] Taiwan Semiconductor Price Target Raised to $600.00/Share From $554.00 by Bernstein
   - [taiwan] Micron suspends work on US$4.5 billion factory in Taiwan, according to Bloomberg News report
   - [china] China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
   - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
   - [japan] BoJ Minutes signal more hikes ahead as central bank pauses at 1.25%
-  - [china] China Mulls Dollar, Offshore Yuan Sovereign Bond Sale This Month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T09:22:45+00:00",
+      "published_utc": "2026-11-05T09:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
