@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T05:02:43.116009+00:00",
- "collected_at_utc": "2026-11-05T05:02:43.116009+00:00",
+ "generated_at_utc": "2026-11-05T05:12:42.316236+00:00",
+ "collected_at_utc": "2026-11-05T05:12:42.316236+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 883,
+  "japan": 885,
   "china": 895,
   "taiwan": 318,
-  "korea": 904
+  "korea": 902
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T03:56:00+00:00"
+   "newest": "2026-11-05T04:18:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T04:48:35+00:00"
+   "newest": "2026-11-05T05:11:40+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T04:10:06+00:00"
+   "newest": "2026-11-05T05:01:44+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T13:52:13+09:00"
+   "newest": "2026-11-05T14:07:36+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T05:01:52+00:00"
+   "newest": "2026-11-05T05:12:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T04:04:26+00:00"
+   "newest": "2026-11-05T05:01:59+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -346,6 +346,40 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "Japan bond yields fall as lower oil prices ease inflation concerns",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M04P:0-japan-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/",
+   "published_utc": "2026-11-05T05:07:32+00:00",
+   "title_original": "Japan bond yields fall as lower oil prices ease inflation concerns",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "44cf85cf48f0acc4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Inabata & Co Ltd - To Buy Back Up To 1.86% Own Shares Worth 5.4 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46L2ZK:0-inabata-co-ltd-to-buy-back-up-to-1-86-own-shares-worth-5-4-billion-yen/",
+   "published_utc": "2026-11-05T05:03:04+00:00",
+   "title_original": "Inabata & Co Ltd - To Buy Back Up To 1.86% Own Shares Worth 5.4 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a7545f640a88c2ec"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "Kh Neochem Co., Ltd. - To Buy Back Up To 10.52% Of Own Shares Worth 12 Billion Yen",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46L2ZJ:0-kh-neochem-co-ltd-to-buy-back-up-to-10-52-of-own-shares-worth-12-billion-yen/",
    "published_utc": "2026-11-05T05:01:44+00:00",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e121d0a4a09a3965"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FNG05cjVzX0tHTURIM2pPSVIwNkZpTU9oWU1sZjdyRkFPSnBSbG1QMUc2clRZZXdzd3BSUGp1eTZ0SkxOZWw4TkdLTGUxV0twRTdJcENoSkRlZw?oc=5",
+   "published_utc": "2026-11-05T05:01:44+00:00",
+   "title_original": "BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ccd20e4479cce573"
   },
   {
    "source_id": "tradingview_live",
@@ -1508,23 +1559,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a8dbaec404872d21"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Long-Term JGB Yields Fall After Oil Price Drops — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261104020650:0-long-term-jgb-yields-fall-after-oil-price-drops-market-talk/",
-   "published_utc": "2026-11-05T00:02:00+00:00",
-   "title_original": "Long-Term JGB Yields Fall After Oil Price Drops — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1b0f4c7b8217263d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51958,41 +51992,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ea9f5daefe367080"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ScDBDeW5Nbmo0bzAzZlVEdW5qcVpvdURKWFhhT1hMT0lnS1JheFpOeTVGQjVUVFViamxaNFlic1RlQUdMeV9oVmd4Q3hqYlRoUDJwQWNPbzZDUQ?oc=5",
-   "published_utc": "2026-10-12T06:33:35+00:00",
-   "title_original": "(URGENT) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ec21cbebe156f24"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
-   "title_en": "Shin Hyun-song, “Buying time by preemptively raising interest rates… We will raise our voices more on financial issues.”",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXhscHBGZGJfR1MyNC01UVIxVkpaTElOYWZJQVpTd2otYlBBRGNYamNUYkVGNGNCd1o5cnVPdS13LUJiX2Z3NmU2NG1KSUlCcXhUZXhPbFpyemZPTlJ0ZXNRMzhJR2gxb25lSkdfNEFrYk1MOFNKZTlWRGdxaWlXN0JMdkNPSXo2RC1hLU5B?oc=5",
-   "published_utc": "2026-10-12T06:31:19+00:00",
-   "title_original": "신현송 \"선제적 금리 인상으로 시간 벌어…재정 문제, 목소리 더 낼 것\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c425e44aa4dd5e9f"
   },
   {
    "source_id": "manual_ia",

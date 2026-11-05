@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T05:02:43.116009+00:00
+Última coleta: 2026-11-05T05:12:42.316236+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          883
+  🇯🇵 Japão          885
   🇨🇳 China          895
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  904
+  🇰🇷 Coreia do Sul  902
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bond yields fall as lower oil prices ease inflation concerns
+  - [japan] Inabata & Co Ltd - To Buy Back Up To 1.86% Own Shares Worth 5.4 Billion Yen
   - [japan] Kh Neochem Co., Ltd. - To Buy Back Up To 10.52% Of Own Shares Worth 12 Billion Yen
+  - [japan] BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen
   - [japan] Nof Corp - To Buy Back Up To 0.94% Of Own Shares Worth 5 Billion Yen
   - [japan] Toyota - To Buy Back Up To 5.18% Of Shares Worth 1.3 Trln Yen Versus Up To 1 Trln Yen Planned Previously
   - [china] Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms
   - [japan] BOJ debated need for more rate hikes, scope for faster moves, September minutes show
   - [japan] Mitsui Chemicals reportedly plans US$8.2B acquisition of JSR in Japan chip materials push
-  - [korea] S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts
-  - [china] China indicts ex-Politburo member Ma for bribery
-  - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T05:02:43+00:00",
+      "published_utc": "2026-11-05T05:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
