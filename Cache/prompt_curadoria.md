@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T02:52:42.611119+00:00
+Última coleta: 2026-11-05T03:02:46.270364+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          870
+  🇯🇵 Japão          868
   🇨🇳 China          896
   🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  915
+  🇰🇷 Coreia do Sul  917
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk
   - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
+  - [korea] Samsung, SK hynix emerge as major bond investors amid chip boom
   - [japan] Tokyo's budget for next year's total requested amount exceeds 10 trillion yen for the first time, due to soari
   - [taiwan] Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms
   - [japan] BOJ debated need for more rate hikes, scope for faster moves, September minutes show
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure
   - [japan] Sources of Changes in Current Account Balances (Projections for Nov.)
   - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
-  - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T02:52:42+00:00",
+      "published_utc": "2026-11-05T03:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
