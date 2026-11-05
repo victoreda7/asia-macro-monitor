@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T23:32:43.021284+00:00
+Última coleta: 2026-11-05T23:42:44.063936+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          898
-  🇨🇳 China          899
-  🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  883
+  🇯🇵 Japão          897
+  🇨🇳 China          898
+  🇹🇼 Taiwan         321
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
   - [china] US extends suspension of export restrictions on Chinese firms
   - [japan] Japan's real wages rise for ninth month in September, backing BOJ rate hike
+  - [korea] [Blue tsunami emergency diagnosis] Bond market: “If it reaches 4,000 pi, it will be impossible to raise the ba
+  - [korea] Filibuster over bill on alleged fabricated indictments
+  - [taiwan] Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [china] Oversea-Chinese Banking: Global Conditions Remain Uncertain Amid Geopolitical Tensions, Inflation Risks >O39.S
+  - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [japan] Analysis-Japanese savers have rediscovered interest rates and banks are feeling it
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5T in regular shareholder returns
   - [japan] Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
   - [japan] Citi sees dollar weakening against yen after U.S. midterms By Investing.com
   - [korea] LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra
-  - [china] China ready to expand US agricultural imports if Board of Trade tariff cuts take effect
-  - [china] China ready to expand US farm imports – on 1 condition
-  - [china] China controls rare earth exports to Japan, yttrium oxide plummets by 98% from January to September
-  - [japan] Citi sees dollar weakening against yen after U.S. midterms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T23:32:43+00:00",
+      "published_utc": "2026-11-05T23:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
