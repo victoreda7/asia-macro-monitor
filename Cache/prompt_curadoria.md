@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T13:52:45.447480+00:00
+Última coleta: 2026-11-05T14:02:46.595995+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
   - [korea] LG Electronics India Enters Automotive Tech, Plans Manufacturing In Andhra
   - [china] China ready to expand US agricultural imports if Board of Trade tariff cuts take effect
+  - [china] China ready to expand US farm imports – on 1 condition
   - [japan] Citi sees dollar weakening against yen after U.S. midterms By Investing.com
   - [china] China controls rare earth exports to Japan, yttrium oxide plummets by 98% from January to September
   - [japan] Citi sees dollar weakening against yen after U.S. midterms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ minutes: Inflation could prompt faster rate hikes
   - [taiwan] Taiwan's chipmakers shine brightest in living memory
   - [taiwan] Taiwan Forex Reserves at 3-Month Low
-  - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T13:52:45+00:00",
+      "published_utc": "2026-11-05T14:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
