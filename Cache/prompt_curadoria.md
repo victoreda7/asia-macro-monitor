@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T02:42:44.518061+00:00
+Última coleta: 2026-11-05T02:52:42.611119+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          870
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY263 BLN VIA O/N REVERSE REPO THURS
   - [japan] BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7156 THURS VS 6.7180
+  - [japan] BOJ policymaker urged rate hike size debate amid inflation risks: minutes
   - [korea] (LEAD) S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [korea] Bank of Korea expects interest rate hike in November despite removal of interest rate differential and exchang
   - [japan] BoJ Sees Case for Further Rate Hikes: September Minutes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Sources of Changes in Current Account Balances (Projections for Nov.)
   - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
   - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
-  - [taiwan] DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T02:42:44+00:00",
+      "published_utc": "2026-11-05T02:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
