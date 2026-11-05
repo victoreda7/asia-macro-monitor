@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T01:32:43.762704+00:00",
- "collected_at_utc": "2026-11-05T01:32:43.762704+00:00",
+ "generated_at_utc": "2026-11-05T01:42:44.580632+00:00",
+ "collected_at_utc": "2026-11-05T01:42:44.580632+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2985,
+ "count": 2986,
  "by_region": {
-  "japan": 868,
+  "japan": 869,
   "china": 891,
   "taiwan": 317,
   "korea": 909
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T01:14:04+00:00"
+   "newest": "2026-11-05T01:31:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T18:33:47+00:00"
+   "newest": "2026-11-05T01:39:51+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-05T00:19:34+00:00"
+   "newest": "2026-11-05T01:34:02+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T01:32:12+00:00"
+   "newest": "2026-11-05T01:41:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T00:42:12+00:00"
+   "newest": "2026-11-05T00:44:20+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -462,6 +462,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c8ec028bb03461be"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan members need to discuss the “range” of interest rate hikes, summary of September meeting (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbmw2emc1OTVaN3p0bEdGNEN0YkdTSnhBc1Z6QzNaZy1fb2wwc2FVX2ZoMHZ3Q24yUmdhbU11Um40by1WSGZQM0ZIcmVFV2V6aF9tVk5JZHlrRkUzX0wtN3lZMDNUOVFHTnJBMHpfOEhRZVJzS09ZVmFUbm9jbnc?oc=5",
+   "published_utc": "2026-11-05T00:44:20+00:00",
+   "title_original": "利上げ「幅」議論必要 日銀委員、9月会合要旨（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "23959568e86a7894"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1088,8 +1105,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -1103,7 +1120,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3326,6 +3343,23 @@
    "id": "f4806e62ba900c93"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Shangbao Indonesia",
+   "title_en": "The People's Bank of China raises the foreign exchange deposit reserve ratio to 6% and will take effect on November 15",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMjhVY0ZGUHIyMnd4WmxjMUVBRmRzekZEaXJiT1JGRF81YXFHSlRqT21xZGZiNDhCOGpFQzhTQ0VzRW9Jc2FvN2FabmtrTzF6TkN4V0RZT3NvYkFDUmNtd255T25pMC1oa2pCeU13Z05lWWt5cnZXQ3RGZmVFV1oxNlpmQU1uQQ?oc=5",
+   "published_utc": "2026-11-03T12:16:00+00:00",
+   "title_original": "中国央行上调外汇存款准备金率至6% 11月15日起实施",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "651233b0f0913177"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report",
@@ -4768,23 +4802,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2f290e5182e05215"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "Central Bank: From November 15, increase the reserve requirement ratio of foreign exchange deposits of financial institutions by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTTy12clJwVTRzX3RuelFFUk1GNXdKQW5JQmtZdXJQeU90QTRfSFUtTGtpTjc5MlctanV5R2tySVdISEFzeWlyUw?oc=5",
-   "published_utc": "2026-11-03T00:56:29+00:00",
-   "title_original": "央行：11月15日起，上调金融机构外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d2a5f2eb02d584db"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -7581,8 +7598,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -7596,7 +7613,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",

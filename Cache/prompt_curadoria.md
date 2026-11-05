@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T01:32:43.762704+00:00
-Total: 2985 manchetes
+Última coleta: 2026-11-05T01:42:44.580632+00:00
+Total: 2986 manchetes
 
-  🇯🇵 Japão          868
+  🇯🇵 Japão          869
   🇨🇳 China          891
   🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  909
@@ -24,6 +24,7 @@ Total: 2985 manchetes
   - [japan] Japan Composite PMI Revised Lower
   - [japan] BOJ Minutes Flag Price Risks, Backing Rate Hike Bets — Market Talk
   - [japan] BOJ debated need for more rate hikes, scope for faster move, September minutes show
+  - [japan] Bank of Japan members need to discuss the “range” of interest rate hikes, summary of September meeting (Kyodo 
   - [japan] Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September 
   - [japan] BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes
   - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
@@ -56,7 +57,6 @@ Total: 2985 manchetes
   - [china] The central bank will carry out 300 billion yuan of buyout reverse repurchase, shrinking the amount by 200 bil
   - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
   - [korea] Chey Tae-won to chair board of SK hynix’s U.S. investment firm
-  - [japan] Cabbage retail price approximately 70% higher than normal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2985 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T01:32:44+00:00",
+      "published_utc": "2026-11-05T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
