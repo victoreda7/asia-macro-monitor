@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T01:43:39.181647+00:00",
- "collected_at_utc": "2026-11-05T01:43:39.181647+00:00",
+ "generated_at_utc": "2026-11-05T01:52:51.950148+00:00",
+ "collected_at_utc": "2026-11-05T01:52:51.950148+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2986,
+ "count": 2991,
  "by_region": {
-  "japan": 869,
-  "china": 891,
+  "japan": 871,
+  "china": 892,
   "taiwan": 317,
-  "korea": 909
+  "korea": 911
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T18:36:31+00:00"
+   "newest": "2026-11-05T01:06:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T01:41:19+00:00"
+   "newest": "2026-11-05T01:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-04T22:35:29+00:00"
+   "newest": "2026-11-05T01:50:10+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:00:06+00:00"
+   "newest": "2026-11-05T01:47:04+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,99 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T00:20:00+00:00"
+   "newest": "2026-11-05T01:40:47+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261104021149:0-boj-board-sees-little-capex-impact-from-higher-rates-minutes-show-market-talk/",
+   "published_utc": "2026-11-05T01:52:00+00:00",
+   "title_original": "BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d57e453b22a3e829"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7156 THURS VS 6.7180",
+   "url": "https://www.tradingview.com/news/dpa_afx:9872524dc0cf2:0-china-sets-yuan-central-parity-at-6-7156-thurs-vs-6-7180/",
+   "published_utc": "2026-11-05T01:48:26+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7156 THURS VS 6.7180",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fafef9ecfad527ee"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNUDVaTGtfeVVpWTkzQTctajFlbldvZ2UyVjZhcWRHeFN1Y1JUTFZjUFJYZ0xuRVdBa2JocTVjdEhiZHJ1T3AweWhMZkw3SG9mem1fdWNEMW84dw?oc=5",
+   "published_utc": "2026-11-05T01:47:04+00:00",
+   "title_original": "(LEAD) S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6509f86cf373c352"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "위클리서울",
+   "title_en": "Bank of Korea expects interest rate hike in November despite removal of interest rate differential and exchange rate burden",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WcWJvY0ViejF1YjduMDM5WjlxQWVPWEpkNzFFRW5pTTFzUF8tU1lqVnhEN3JrUjRJM0R0QmVudDF3SVJHazRUMUZHYkpzN2VoY0Q5WUdSMkllbmFwdnRjRHNuUkJPaFFrRzJfdw?oc=5",
+   "published_utc": "2026-11-05T01:40:47+00:00",
+   "title_original": "한은, 금리차·환율 부담 벗었음에도 11월 금리 인상 전망",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0d5b1a7f75d97eec"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "BoJ Sees Case for Further Rate Hikes: September Minutes",
+   "url": "https://www.tradingview.com/news/te_news:598365:0-boj-sees-case-for-further-rate-hikes-september-minutes/",
+   "published_utc": "2026-11-05T01:36:03+00:00",
+   "title_original": "BoJ Sees Case for Further Rate Hikes: September Minutes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6ded7362ab751221"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -812,24 +901,6 @@
    "id": "13d7978f99b9bdc0"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, while the opposition party will decide based on the prime minister's response",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261105de70693",
-   "published_utc": "2026-11-04T21:00:51+00:00",
-   "title_original": "消費税減税法案 与党“あす衆院通過”野党“首相答弁で判断”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "00628f831f38c805"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more vulnerable, France or Japan, which is in turmoil? Are you looking away? \"Yen selling due to actual demand\" | Politics/Economy/Investment | Toyo Keizai Online",
@@ -845,6 +916,24 @@
    "live_wire": false,
    "manual": false,
    "id": "43b9163974d90b0b"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, while the opposition party will decide based on the prime minister's response",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261105de70693",
+   "published_utc": "2026-11-04T21:00:00+00:00",
+   "title_original": "消費税減税法案 与党“あす衆院通過”野党“首相答弁で判断”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "00628f831f38c805"
   },
   {
    "source_id": "gn_asia_bloomberg",

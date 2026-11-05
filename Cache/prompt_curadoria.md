@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T01:43:39.181647+00:00
-Total: 2986 manchetes
+Última coleta: 2026-11-05T01:52:51.950148+00:00
+Total: 2991 manchetes
 
-  🇯🇵 Japão          869
-  🇨🇳 China          891
+  🇯🇵 Japão          871
+  🇨🇳 China          892
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  909
+  🇰🇷 Coreia do Sul  911
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7156 THURS VS 6.7180
+  - [korea] (LEAD) S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
+  - [korea] Bank of Korea expects interest rate hike in November despite removal of interest rate differential and exchang
+  - [japan] BoJ Sees Case for Further Rate Hikes: September Minutes
   - [japan] Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Nov 12
   - [taiwan] TSMC Slips 0.2%; UniMicron Technology Falls 8.6%
   - [taiwan] Taiwan's Chip-Related Stocks Broadly Lower
@@ -44,19 +49,14 @@ Total: 2986 manchetes
   - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
   - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
-  - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
   - [japan] There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more v
+  - [japan] Consumption tax reduction bill will be passed by the ruling party in the House of Representatives tomorrow, wh
   - [china] Wall Street Is Helping China Build a Global Yuan
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
   - [china] The central bank shrinks and continues to conduct 3-month buyout reverse repurchase
   - [china] Nvidia's China Customers Face a Stunning 99% Chip Shortfall
   - [taiwan] Taiwan Weighs Tighter Controls on Chip Exports to Chinese Mainland
   - [korea] Micron, SK Hynix e SanDisk caem: por que vitória democrata no Texas assusta investidores
-  - [china] China pledges to reduce trade tensions with Canada
-  - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
-  - [china] The central bank will carry out 300 billion yuan of buyout reverse repurchase, shrinking the amount by 200 bil
-  - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
-  - [korea] Chey Tae-won to chair board of SK hynix’s U.S. investment firm
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2986 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T01:43:39+00:00",
+      "published_utc": "2026-11-05T01:52:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
