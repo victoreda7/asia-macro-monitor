@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T14:22:44.052947+00:00
+Última coleta: 2026-11-05T14:32:47.565840+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
   🇨🇳 China          900
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  885
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
   - [china] China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties
   - [taiwan] Import price increase in October hits the largest increase in the past 50 years. General Accounting Office: No
+  - [taiwan] The central bank adjusted to prevent the depreciation of the New Taiwan dollar. Foreign exchange deposits fell
   - [china] Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit
   - [taiwan] Micron retreats in premarket after suspension of $4.5B Taiwan factory plan
   - [china] SHL: Core growth was strong, while FY27 guidance reflects China, inflation and separation headwinds
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Micron suspends work on US$4.5 billion factory in Taiwan, according to Bloomberg News report
   - [china] China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk
   - [china] Commentary: After the Midterms, a Case for Realism in U.S.-China Relations
-  - [taiwan] Taiwan's chipmakers shine brightest in living memory
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T14:22:44+00:00",
+      "published_utc": "2026-11-05T14:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
