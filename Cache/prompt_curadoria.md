@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T03:42:42.116010+00:00
+Última coleta: 2026-11-05T03:52:43.971396+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          872
   🇨🇳 China          895
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  915
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  916
 
 ## O que já está no feed (não repita)
 
+  - [china] China indicts ex-Politburo member Ma Xingrui for bribery
+  - [china] China Banking Corp Reports Net Income Of 22.6 Billion Pesos In 9M2026
   - [china] China's largest import expo opens in Shanghai amid record trade imbalances
   - [japan] Stock values ​​fall, sell orders for AI semiconductor stocks following the results of the US midterm elections
   - [korea] Why is SK Hynix stock sliding today?
@@ -36,6 +38,7 @@ Total: 3000 manchetes
   - [korea] S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts
   - [china] China indicts ex-Politburo member Ma for bribery
   - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
+  - [korea] Shares of Samsung Electronics and SK Hynix fell more than 40 to 50% from their high points, but the
   - [korea] Freeze the base interest rate... Adjusting the pace, not ending austerity
   - [korea] SK Hynix was counted as the largest net purchase by high-yield investors of Mirae Asset Securities u..
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Composite PMI Revised Lower
   - [japan] BOJ Minutes Flag Price Risks, Backing Rate Hike Bets — Market Talk
   - [japan] Bank of Japan members need to discuss the “range” of interest rate hikes, summary of September meeting (Kyodo 
-  - [japan] Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September 
-  - [japan] BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes
-  - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T03:42:42+00:00",
+      "published_utc": "2026-11-05T03:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
