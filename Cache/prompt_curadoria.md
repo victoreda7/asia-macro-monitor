@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T15:32:45.099915+00:00
+Última coleta: 2026-11-05T15:42:47.509037+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          898
-  🇹🇼 Taiwan         325
+  🇨🇳 China          899
+  🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [japan] Prepare for emergency financial expenditures: Ministry of Finance recommendation to strengthen defense capabil
   - [china] China to keep anti-dumping, anti-subsidy tariffs on US n-Propanol imports for five more years
   - [china] China Import Expo Selling content-related products from Japan
+  - [china] China’s Yutong Bus expands overseas as new-energy bus exports surge
   - [korea] Coway To Acquire Real Estate Worth 365 Billion Won For Establishing New Research And Development Centre
   - [taiwan] Taiwan Semiconductor Price Target Raised to $600.00/Share From $554.00 by Bernstein
-  - [china] China to issue yuan-denominated green sovereign bonds in Canada next week
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T15:32:45+00:00",
+      "published_utc": "2026-11-05T15:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
