@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T16:02:45.545107+00:00
+Última coleta: 2026-11-05T16:12:47.635708+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          899
+  🇨🇳 China          900
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] Nutrien Sees Tight Nitrogen Markets In 2027 As Higher China Urea Exports Only Partially Offset Outages
   - [china] China’s Central Bank Pledges More Support to Stabilize Markets
   - [china] Kimberly-Clark Backs Full-Year Growth Forecast Despite China Controversy — Update
   - [taiwan] Siemens To Modernize Taiwan Taoyuan Metro Signaling
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China to keep anti-dumping, anti-subsidy tariffs on US n-Propanol imports for five more years
   - [china] China Import Expo Selling content-related products from Japan
   - [china] China’s Yutong Bus expands overseas as new-energy bus exports surge
-  - [korea] Coway To Acquire Real Estate Worth 365 Billion Won For Establishing New Research And Development Centre
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T16:02:45+00:00",
+      "published_utc": "2026-11-05T16:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
