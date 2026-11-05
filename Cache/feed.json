@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T04:02:42.574492+00:00",
- "collected_at_utc": "2026-11-05T04:02:42.574492+00:00",
+ "generated_at_utc": "2026-11-05T04:12:45.644158+00:00",
+ "collected_at_utc": "2026-11-05T04:12:45.644158+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 872,
-  "china": 895,
-  "taiwan": 317,
-  "korea": 916
+  "japan": 874,
+  "china": 893,
+  "taiwan": 318,
+  "korea": 915
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T02:13:02+00:00"
+   "newest": "2026-11-05T03:45:57+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
    "newest": "2026-11-02T12:05:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:02:00+00:00"
+   "newest": "2026-11-05T02:29:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T00:05:00+00:00"
+   "newest": "2026-11-05T02:35:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T03:51:29+00:00"
+   "newest": "2026-11-05T04:12:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T03:47:00+00:00"
+   "newest": "2026-11-05T04:04:26+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -346,6 +346,40 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46L33K:0-tosoh-corp-to-buy-back-up-to-3-9-of-own-shares-worth-25-billion-yen/",
+   "published_utc": "2026-11-05T04:05:07+00:00",
+   "title_original": "Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a9275d86dfe61c3e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Summary of the Bank of Japan's September meeting ``Policy rates should get closer to the goal as soon as possible'' A positive opinion on accelerating the pace of interest rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SMmJGZEotZ1RxV216TTFXaTh0MmJEc0cyMTIwRG9KdVQ4SF95NnZ2Q1ZpeHlVSXJGVXkyRUtKLVUyY3hJSDYwemVIS3BwcGFydDAwU19PVGlDSGh0MTNaSWNCSW9NTEg0X1c3eEl0VUpFZlRISXI2Z01GUEYwaFU?oc=5",
+   "published_utc": "2026-11-05T04:04:26+00:00",
+   "title_original": "日銀9月会合議事要旨 「政策金利早めにゴールに近づけるべき」利上げペース加速に前向きな意見",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b0244264a3302e7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "China indicts ex-Politburo member Ma Xingrui for bribery",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46M05T:0-china-indicts-ex-politburo-member-ma-xingrui-for-bribery/",
    "published_utc": "2026-11-05T03:49:55+00:00",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "fbd60e87ffd35f37"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Ukraine's top unmanned fleet developer looks to Taiwan for critical components",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbk5laUFpZjlKaTBpeE5kQlVybDV6cVFDZ25mTWJWZFdmSGZYcHRjc1BIREw2SUMzUk5tdkp6N0pNeVhRdDhPcXlVc3kyOE9ndXhpaDhBZ1dBaEpPZWp4M21yZV9hVnVVV0FVZ1VPWVFnVU9MRDZ5S0o3aDlmdEhPU2h1OTJlbENGRDJrYW1OcWxIdEVvZkxUbQ?oc=5",
+   "published_utc": "2026-11-05T03:45:57+00:00",
+   "title_original": "Ukraine's top unmanned fleet developer looks to Taiwan for critical components",
+   "region": "taiwan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "55f928328065238e"
   },
   {
    "source_id": "tradingview_live",
@@ -1060,7 +1111,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xdDVhTktQZjBVbE4tOEJIN3V5cjVMYk0wSHo1R3c2UFN4X2dHY1d6S0laNjhoVVVUc2RXVjRPVk91bDlvaVVNUV9aU0dKaGdPSURodW5HaEZ0QQ?oc=5",
-   "published_utc": "2026-11-05T00:34:36+00:00",
+   "published_utc": "2026-11-05T00:34:00+00:00",
    "title_original": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
    "region": "japan",
    "topics": [
@@ -1681,8 +1732,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -1696,7 +1747,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8192,8 +8243,8 @@
    "id": "6a39160223677708"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
    "published_utc": "2026-11-01T19:29:00+00:00",
@@ -8207,7 +8258,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7893eb1f6f63b5c5"
+   "id": "9a57168e1f757ef5"
   },
   {
    "source_id": "tradingview_live",
@@ -51946,57 +51997,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e714223e73b780a5"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Sanctions Officials of Taiwan’s Partners for First Time",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbi1pNmhMMnZVMDVOWUp2S3l1b0w1R005SkRUcjJJbjlJbll3azJBVnd0TmFNcjFWNGxFZlUwOEd1Q294YmduX2VqUU1OZzJqS1lHZWNoeUczb094QWNaZVNqdW02NGRuODhxQWU2dkc5VlpReTZiZzRrbUstUjJhYWNXbWc0b0l2aDktRHBoX2w1MndpaG51NElBVGhGZUUyMXV6OWpGWnpZY1JKdGZTd040ZUc?oc=5",
-   "published_utc": "2026-10-12T04:22:00+00:00",
-   "title_original": "China Sanctions Officials of Taiwan’s Partners for First Time",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9208da56be3bcaa5"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "CXMT: How big is its market threat to Samsung, SK Hynix and Micron?",
-   "url": "https://www.investing.com/news/stock-market-news/cxmt-how-big-is-its-market-threat-to-samsung-sk-hynix-and-micron-93CH-4943064",
-   "published_utc": "2026-10-12T04:21:49+00:00",
-   "title_original": "CXMT: How big is its market threat to Samsung, SK Hynix and Micron?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c05facc9c538d349"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
-   "title_en": "China’s money market: Funds continue to be abundant, and the central bank’s reverse repurchase operations exceed expectations, boosting optimism",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBQjJwQnVMUV94Y0ZFVUNybVJRZFNoR1FwOTVMV1ZkSzlpWVhJcDZMNEpXSkFRY0VjUjhEZDRYUWpDSlE3N05TRElNM2prVTFiaGdMdXp1bHhRVnhnYlZoU0tsei12NDlib1d1TDg3ZThSR3dPWDZB?oc=5",
-   "published_utc": "2026-10-12T04:11:36+00:00",
-   "title_original": "中国货币市场：资金持续充沛，央行逆回购操作量超预期推升乐观情绪",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc79720a6a92466a"
   },
   {
    "source_id": "manual_ia",
