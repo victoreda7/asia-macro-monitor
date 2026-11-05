@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T14:42:46.204732+00:00
+Última coleta: 2026-11-05T14:52:45.879918+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
-  🇨🇳 China          899
+  🇯🇵 Japão          890
+  🇨🇳 China          900
   🇹🇼 Taiwan         326
   🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] Kimberly-Clark Backs Full-Year Growth Forecast Despite China Controversy — Update
   - [taiwan] Siemens To Modernize Taiwan Taoyuan Metro Signaling
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
   - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Price Target Raised to $600.00/Share From $554.00 by Bernstein
   - [china] China to issue yuan-denominated green sovereign bonds in Canada next week
   - [taiwan] Micron suspends work on US$4.5 billion factory in Taiwan, according to Bloomberg News report
-  - [china] China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T14:42:46+00:00",
+      "published_utc": "2026-11-05T14:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

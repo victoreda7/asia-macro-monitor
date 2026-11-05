@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T14:42:46.204732+00:00",
- "collected_at_utc": "2026-11-05T14:42:46.204732+00:00",
+ "generated_at_utc": "2026-11-05T14:52:45.879918+00:00",
+ "collected_at_utc": "2026-11-05T14:52:45.879918+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 891,
-  "china": 899,
+  "japan": 890,
+  "china": 900,
   "taiwan": 326,
   "korea": 884
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "error": "",
    "newest": "2026-11-05T12:28:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T14:42:00+00:00"
+   "newest": "2026-11-05T14:52:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Kimberly-Clark Backs Full-Year Growth Forecast Despite China Controversy — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261105014545:0-kimberly-clark-backs-full-year-growth-forecast-despite-china-controversy-update/",
+   "published_utc": "2026-11-05T14:48:00+00:00",
+   "title_original": "Kimberly-Clark Backs Full-Year Growth Forecast Despite China Controversy — Update",
+   "region": "china",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ddfed5751ca6f74f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1512,24 +1530,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e4ebb355a6c636c0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges",
-   "url": "https://www.tradingview.com/news/seekingalpha:b43a2c402094b:0-asian-stocks-diverge-boj-signals-further-hikes-and-australia-s-trade-surplus-surges/",
-   "published_utc": "2026-11-05T06:42:46+00:00",
-   "title_original": "Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8293a4205e930013"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3045,8 +3045,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -3060,7 +3060,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
