@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T02:22:45.253309+00:00",
- "collected_at_utc": "2026-11-05T02:22:45.253309+00:00",
+ "generated_at_utc": "2026-11-05T02:32:42.234535+00:00",
+ "collected_at_utc": "2026-11-05T02:32:42.234535+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 872,
-  "china": 895,
+  "china": 896,
   "taiwan": 318,
-  "korea": 915
+  "korea": 914
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T21:58:00+00:00"
+   "newest": "2026-11-05T02:19:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
-   "newest": "2026-11-04T21:01:24+08:00"
+   "newest": "2026-11-05T09:11:42+08:00"
   },
   {
    "source_id": "investing_live",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T11:14:26+09:00"
+   "newest": "2026-11-05T11:14:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T18:36:31+00:00"
+   "newest": "2026-11-05T02:09:50+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T02:20:26+00:00"
+   "newest": "2026-11-05T02:32:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:57:06+00:00"
+   "newest": "2026-11-05T02:19:18+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-05T11:00:00+09:00"
+   "newest": "2026-11-05T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
+   "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
+   "published_utc": "2026-11-05T02:32:41.107577+00:00",
+   "title_original": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "23d59d91ec66b59e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo's budget for next year's total requested amount exceeds 10 trillion yen for the first time, due to soaring prices and other factors (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuQmI1eEtKM3E3UlZ1eTVUdmR2N0pGYlo2dlhRaGo4clJUQkh2alN6NmtfTTlMS2RCUE0wanZlQTZFSUpiUW1tSGxLTlUtZUQ3eVduNGxza3ktbXAyS1o4NzNOWS12c0VNNndab0hsOWVsak4tS1h4QVE1cXl3Wkk?oc=5",
+   "published_utc": "2026-11-05T02:15:01+00:00",
+   "title_original": "東京都の来年度予算、要求総額が初の10兆円超 物価高騰など影響（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce1c649c18658245"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -51959,41 +51995,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a825fddb85031586"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Market Operations by the Bank of Japan (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
-   "published_utc": "2026-10-06T23:50:00+00:00",
-   "title_original": "Market Operations by the Bank of Japan (Sept.)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "36d85464386a55ad"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "Finance minister vows efforts to tame inflation, boost growth",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DZ2NzRXJBRFJTeGhsN1NVUkxubFIxZDB3cExFUjcxVXVJUVg1U2RpQ2d2YmZwZmpQRWIzV3FBR0tKR2toTmpJdzhZX29CUm05N0pGQ0Nacw?oc=5",
-   "published_utc": "2026-10-06T07:00:00+00:00",
-   "title_original": "Finance minister vows efforts to tame inflation, boost growth",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a9553ec6351f0d2"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T02:22:45.253309+00:00
+Última coleta: 2026-11-05T02:32:42.234535+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          872
-  🇨🇳 China          895
+  🇨🇳 China          896
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  915
+  🇰🇷 Coreia do Sul  914
 
 ## O que já está no feed (não repita)
 
+  - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
+  - [japan] Tokyo's budget for next year's total requested amount exceeds 10 trillion yen for the first time, due to soari
   - [taiwan] Indonesian rupiah leads gains in Asian currencies; Taiwan dollar underperforms
   - [japan] BOJ debated need for more rate hikes, scope for faster moves, September minutes show
   - [korea] S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock
   - [taiwan] Subsidies pave the way as cheap cells squeeze Taiwan's energy storage players into a profit battle
   - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
-  - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
-  - [japan] Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T02:22:45+00:00",
+      "published_utc": "2026-11-05T02:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
