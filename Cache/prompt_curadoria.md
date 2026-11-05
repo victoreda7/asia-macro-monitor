@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T13:42:52.931857+00:00
+Última coleta: 2026-11-05T13:52:45.447480+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
-  🇨🇳 China          900
+  🇨🇳 China          901
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [china] KMB: China disruption constrained sales as Kenvue integration reshapes the growth outlook
   - [korea] Rupee gains nearly 1% in October, second-best performer in Asia after Korean won
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
+  - [china] China Plans Debut Yuan Bond Sales in Canada Amid Warming Ties
   - [taiwan] Import price increase in October hits the largest increase in the past 50 years. General Accounting Office: No
   - [china] Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit
   - [taiwan] Micron retreats in premarket after suspension of $4.5B Taiwan factory plan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's chipmakers shine brightest in living memory
   - [taiwan] Taiwan Forex Reserves at 3-Month Low
   - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
-  - [china] China Merchants Shekou Industrial Zone October Contract Sales At 18.7 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T13:42:53+00:00",
+      "published_utc": "2026-11-05T13:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
