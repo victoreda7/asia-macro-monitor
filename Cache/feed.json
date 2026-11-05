@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T11:02:43.824894+00:00",
- "collected_at_utc": "2026-11-05T11:02:43.824894+00:00",
+ "generated_at_utc": "2026-11-05T11:12:43.609186+00:00",
+ "collected_at_utc": "2026-11-05T11:12:43.609186+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 891,
-  "china": 903,
+  "china": 904,
   "taiwan": 320,
-  "korea": 886
+  "korea": 885
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T08:54:28+00:00"
+   "newest": "2026-11-05T11:02:47+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T05:01:12+00:00"
+   "newest": "2026-11-05T05:00:16+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-05T18:28:03+09:00"
+   "newest": "2026-11-05T20:01:11+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T11:02:00+00:00"
+   "newest": "2026-11-05T11:12:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T05:33:34+00:00"
+   "newest": "2026-11-05T08:34:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T10:19:28+00:00"
+   "newest": "2026-11-05T10:51:23+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T10:24:00+00:00"
+   "newest": "2026-11-05T10:19:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46M0T0:0-sichuan-qiaoyuan-gas-plans-to-invest-3-2-billion-yuan-in-project-via-new-unit/",
+   "published_utc": "2026-11-05T11:03:39+00:00",
+   "title_original": "Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3e3ef0ac40c164a1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -1482,23 +1499,6 @@
    "id": "44cf85cf48f0acc4"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea finance minister vows to monitor AI policy changes after US midterm elections",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46105U:0-south-korea-finance-minister-vows-to-monitor-ai-policy-changes-after-us-midterm-elections/",
-   "published_utc": "2026-11-05T05:05:34+00:00",
-   "title_original": "South Korea finance minister vows to monitor AI policy changes after US midterm elections",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1843ea126765eb43"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Toyota lowers FY 2026 sales outlook to 53.5 tril. yen",
@@ -1520,7 +1520,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FNG05cjVzX0tHTURIM2pPSVIwNkZpTU9oWU1sZjdyRkFPSnBSbG1QMUc2clRZZXdzd3BSUGp1eTZ0SkxOZWw4TkdLTGUxV0twRTdJcENoSkRlZw?oc=5",
-   "published_utc": "2026-11-05T05:01:44+00:00",
+   "published_utc": "2026-11-05T05:01:00+00:00",
    "title_original": "BREAKING NEWS: Toyota raises FY 2026 net profit outlook to 3.57 tril. yen",
    "region": "japan",
    "topics": [
@@ -2164,7 +2164,7 @@
    "source_name": "Reuters",
    "title_en": "Japan services activity expands for fifth month, PMI shows",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHJSdTJDMlBvc2ZsZlQ2czIxZ1IxTFEtTWJoYTFUUzl0aU0yQjRueG8xR0dmOUpuWk9wOTBQcVcyRldEUGFmM09vcHoxS090V256amdjVTVHaVNxMnNUVGo0M0cycXNYSXozM1VZdFdTdUdSY19kaVFBZ1E3b0N0S043Y3ZLTmxCRlJZX3kwd1NPWWdiX095YzJhNDIzTnhWN2t3NF92T2ZCcTlk?oc=5",
-   "published_utc": "2026-11-05T00:33:00+00:00",
+   "published_utc": "2026-11-05T00:33:43+00:00",
    "title_original": "Japan services activity expands for fifth month, PMI shows",
    "region": "japan",
    "topics": [
@@ -2751,8 +2751,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -2766,7 +2766,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d2b7dda8f65a2627"
+   "id": "edd925f255c17a54"
   },
   {
    "source_id": "gn_cn_pboc",
