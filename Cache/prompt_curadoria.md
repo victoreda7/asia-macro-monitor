@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T10:22:44.265842+00:00
+Última coleta: 2026-11-05T10:32:45.495649+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
+  🇯🇵 Japão          891
   🇨🇳 China          903
-  🇹🇼 Taiwan         319
+  🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Hot money fled and the New Taiwan dollar nearly broke 33 yuan. Exporters actively sold foreign exchange and re
+  - [china] Advanced Micro-Fabrication Equipment Inc China Plans A-Share Worth Buyback
   - [china] China Overseas Land & Investment Logs October Contracted Property Sales RMB 17.805 Billion
   - [japan] Toyota Motor: FY operating-income guidance rose to JPY 3.9tn as investment and shareholder returns advanced
   - [taiwan] The New Taiwan Dollar depreciates heavily and the central bank calls out to exporters: Don’t expect excessive 
@@ -31,7 +33,6 @@ Total: 3000 manchetes
   - [china] China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk
   - [china] Commentary: After the Midterms, a Case for Realism in U.S.-China Relations
   - [japan] BOJ minutes: Inflation could prompt faster rate hikes
-  - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
   - [taiwan] Taiwan's chipmakers shine brightest in living memory
   - [taiwan] Taiwan Forex Reserves at 3-Month Low
   - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] (LEAD) Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
   - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
   - [japan] Toyota Raises Profit Forecast on Hybrid Demand, Weak Yen
-  - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T10:22:44+00:00",
+      "published_utc": "2026-11-05T10:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
