@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T04:42:43.656595+00:00
+Última coleta: 2026-11-05T04:52:43.578840+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          880
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] LG Chem: Q3 sales rose, but a KRW 600bn net loss reflected uneven segment performance
   - [japan] At the Bank of Japan's September interest rate hike meeting, there was an opinion that the pace should be acce
   - [japan] Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen
   - [japan] Finance Directors’ Meeting leaves economic outlook unchanged as “moderate recovery”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [china] CHINA PBOC CONDUCTS CNY263 BLN VIA O/N REVERSE REPO THURS
   - [japan] BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7156 THURS VS 6.7180
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T04:42:43+00:00",
+      "published_utc": "2026-11-05T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
