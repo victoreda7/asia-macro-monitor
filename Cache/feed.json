@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T00:52:47.989676+00:00",
- "collected_at_utc": "2026-11-05T00:52:47.989676+00:00",
+ "generated_at_utc": "2026-11-05T01:02:45.518400+00:00",
+ "collected_at_utc": "2026-11-05T01:02:45.518400+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2978,
+ "count": 2977,
  "by_region": {
-  "japan": 865,
+  "japan": 864,
   "china": 891,
   "taiwan": 315,
   "korea": 907
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T00:31:05+00:00"
+   "newest": "2026-11-05T00:51:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T00:19:01+00:00"
+   "newest": "2026-11-05T00:48:17+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T18:58:00+00:00"
+   "newest": "2026-11-04T17:36:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T22:00:25+00:00"
+   "newest": "2026-11-04T23:36:32+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-05T09:00:00+09:00"
+   "newest": "2026-11-05T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
+   "url": "https://www.investing.com/news/economy-news/boj-board-saw-the-need-to-keep-raising-rates-september-meeting-minutes-show-5001844",
+   "published_utc": "2026-11-05T00:48:17+00:00",
+   "title_original": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c8ec028bb03461be"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -430,41 +447,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f83bdf507a6fbe83"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ board saw the need to keep raising rates, September meeting minutes show",
-   "url": "https://www.investing.com/news/economy-news/boj-board-saw-the-need-to-keep-raising-rates-september-meeting-minutes-show-5001844",
-   "published_utc": "2026-11-05T00:19:01+00:00",
-   "title_original": "BOJ board saw the need to keep raising rates, September meeting minutes show",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "be0ce4ac968bece1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M007:0-boj-debated-need-for-more-rate-hikes-scope-for-faster-move-september-minutes-show/",
-   "published_utc": "2026-11-05T00:14:08+00:00",
-   "title_original": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "02fbf20cde0e7bdb"
   },
   {
    "source_id": "tradingview_live",
