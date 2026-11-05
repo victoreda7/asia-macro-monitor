@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T09:52:52.836134+00:00
+Última coleta: 2026-11-05T10:02:45.894056+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          890
+  🇯🇵 Japão          892
   🇨🇳 China          902
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  890
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] The New Taiwan Dollar depreciates heavily and the central bank calls out to exporters: Don’t expect excessive 
+  - [japan] “A peacetime financial base in preparation for emergencies” Ministry of Finance insists on strengthening defen
+  - [japan] Prepare for emergency financial expenditures: Ministry of Finance recommendation to strengthen defense capabil
+  - [china] China to keep anti-dumping, anti-subsidy tariffs on US n-Propanol imports for five more years
   - [china] China Import Expo Selling content-related products from Japan
   - [korea] Coway To Acquire Real Estate Worth 365 Billion Won For Establishing New Research And Development Centre
   - [taiwan] Taiwan Semiconductor Price Target Raised to $600.00/Share From $554.00 by Bernstein
   - [china] China to issue yuan-denominated green sovereign bonds in Canada next week
   - [taiwan] Micron suspends work on US$4.5 billion factory in Taiwan, according to Bloomberg News report
   - [china] China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk
-  - [china] China to keep anti-dumping, anti-subsidy tariffs on US n-Propanol imports for five more years
   - [china] Commentary: After the Midterms, a Case for Realism in U.S.-China Relations
   - [japan] BOJ minutes: Inflation could prompt faster rate hikes
   - [china] Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5
@@ -44,6 +47,7 @@ Total: 3000 manchetes
   - [taiwan] Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment
   - [korea] LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Prade
   - [china] China ties more US farm imports to reciprocal tariff cuts
+  - [china] China says US farm purchases hinge on tariff-cut deal
   - [taiwan] Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics
   - [china] China says trade barriers block tech imports, fueling its surplus
   - [korea] (LEAD) Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
   - [japan] Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges
   - [japan] BREAKING NEWS: Sony Group July-Sept. net profit rises to 449.6 bil. yen
-  - [japan] How long will interest rate hikes last? The Bank of Japan discusses the final goal; summary of September meeti
-  - [japan] BREAKING NEWS: Sony Group April-Sept. net profit rises 38.8% to 791.76 bil. yen
-  - [japan] BREAKING NEWS: Sony Group lifts FY 2026 net profit outlook to 1.33 tril. yen
-  - [korea] Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T09:52:53+00:00",
+      "published_utc": "2026-11-05T10:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
