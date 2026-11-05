@@ -7,18 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T11:32:42.532539+00:00
+Última coleta: 2026-11-05T11:42:48.389481+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
-  🇨🇳 China          903
-  🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  885
+  🇯🇵 Japão          888
+  🇨🇳 China          902
+  🇹🇼 Taiwan         323
+  🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [china] KMB: China disruption constrained sales as Kenvue integration reshapes the growth outlook
+  - [korea] Rupee gains nearly 1% in October, second-best performer in Asia after Korean won
+  - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
+  - [taiwan] CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth cons
+  - [taiwan] Import price increase in October hits the largest increase in the past 50 years. General Accounting Office: No
   - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
   - [china] Sichuan Qiaoyuan Gas Plans To Invest 3.2 Billion Yuan In Project Via New Unit
+  - [taiwan] Micron retreats in premarket after suspension of $4.5B Taiwan factory plan
   - [china] SHL: Core growth was strong, while FY27 guidance reflects China, inflation and separation headwinds
   - [korea] KT&G: Compound 2030 pairs global growth with KRW 5tn in regular returns over four years
   - [taiwan] Hot money fled and the New Taiwan dollar nearly broke 33 yuan. Exporters actively sold foreign exchange and re
@@ -44,19 +50,13 @@ Total: 3000 manchetes
   - [china] China Merchants Shekou Industrial Zone October Contract Sales At 18.7 Billion Yuan
   - [china] China's November diesel exports to ease amid thin domestic stocks, sources say
   - [korea] KT&G Posts Record Quarterly Revenue and Operating Profit in Q3, Unveils Four-Year KRW 5 Trillion Shareholder R
+  - [korea] [Maeil Business TV] Semiconductors Lift the Won; What Lies Ahead?
   - [china] Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
   - [china] Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
-  - [taiwan] CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth cons
   - [taiwan] Taiwan Inflation Rate Eases in October
   - [korea] Housing business owners' prospects for the apartment sales economy in Seoul fell to the lowest level..
   - [taiwan] Taiwan Inflation Cools but Remains Elevated
   - [japan] Bank of Japan accelerates sale of stock assets, shortening period from 112 years to 43 years (Kyodo News)
-  - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
-  - [taiwan] Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment
-  - [korea] LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Prade
-  - [china] China ties more US farm imports to reciprocal tariff cuts
-  - [china] China says US farm purchases hinge on tariff-cut deal
-  - [taiwan] Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T11:32:42+00:00",
+      "published_utc": "2026-11-05T11:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

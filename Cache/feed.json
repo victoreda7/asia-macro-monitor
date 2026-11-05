@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T11:32:42.532539+00:00",
- "collected_at_utc": "2026-11-05T11:32:42.532539+00:00",
+ "generated_at_utc": "2026-11-05T11:42:48.389481+00:00",
+ "collected_at_utc": "2026-11-05T11:42:48.389481+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 891,
-  "china": 903,
-  "taiwan": 321,
-  "korea": 885
+  "japan": 888,
+  "china": 902,
+  "taiwan": 323,
+  "korea": 887
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "error": "",
    "newest": "2026-11-05T10:35:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T11:22:18+00:00"
+   "newest": "2026-11-05T11:42:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T11:07:00+00:00"
+   "newest": "2026-11-05T11:19:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T11:28:24+00:00"
+   "newest": "2026-11-05T08:58:43+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,94 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "KMB: China disruption constrained sales as Kenvue integration reshapes the growth outlook",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3954096:0-kmb-china-disruption-constrained-sales-as-kenvue-integration-reshapes-the-growth-outlook/",
+   "published_utc": "2026-11-05T11:38:48+00:00",
+   "title_original": "KMB: China disruption constrained sales as Kenvue integration reshapes the growth outlook",
+   "region": "china",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dc2affd564197f34"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Moneycontrol",
+   "title_en": "Rupee gains nearly 1% in October, second-best performer in Asia after Korean won",
+   "url": "https://www.tradingview.com/news/moneycontrol:1dadd1fc2094b:0-rupee-gains-nearly-1-in-october-second-best-performer-in-asia-after-korean-won/",
+   "published_utc": "2026-11-05T11:35:45+00:00",
+   "title_original": "Rupee gains nearly 1% in October, second-best performer in Asia after Korean won",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0cb43c61b4f639fb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0IT:0/",
+   "published_utc": "2026-11-05T11:26:07+00:00",
+   "title_original": "Chips da Nvidia se acumulam em Hong Kong enquanto a China retém a aprovação de importação",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "e6a6bc8b219c7317"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth consecutive month | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSXJjd0x0blVybS1ncWs5dTdTT2l1dXhyOWVXSlpFM3Nyb3l5V2NfbEJHQWpDYUpVaVBJQU5kSGpPVHBLa19SWFJyRWRCQXBQTUVGcXFIQWozdlk4Ymc?oc=5",
+   "published_utc": "2026-11-05T11:19:00+00:00",
+   "title_original": "10月CPI年增2.33% 連6月突破通膨警戒線 | 產經",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2e9517d1150a8782"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Import price increase in October hits the largest increase in the past 50 years. General Accounting Office: No imported inflation | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TdWR3Mi1qdHdIQ01PMml6dWdUbkNOUVJMRFc5U2Z2RThKSHdSdUV2c1Zwb3JfaXJEZVM4bEJoRHlkRWZFblotNTBiLVpsWmRDQ3lnVlRLMVBQN0FHd2c?oc=5",
+   "published_utc": "2026-11-05T11:17:00+00:00",
+   "title_original": "10月進口物價漲幅創近50年最大主計總處：無輸入性通膨| 產經",
+   "region": "taiwan",
+   "topics": [
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5963cea7822545b5"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -377,6 +465,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3e3ef0ac40c164a1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Micron retreats in premarket after suspension of $4.5B Taiwan factory plan",
+   "url": "https://www.tradingview.com/news/invezz:7f308f456bc81:0/",
+   "published_utc": "2026-11-05T10:53:09+00:00",
+   "title_original": "Micron recua no pré-mercado após suspensão de plano de fábrica de $4.5B em Taiwan",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "276268069f10ad27"
   },
   {
    "source_id": "tradingview_live",
@@ -814,6 +919,23 @@
    "id": "c116f3053954fd1e"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "[Maeil Business TV] Semiconductors Lift the Won; What Lies Ahead?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11bzNIV1FsakxoOTRTNG1KbUhQRUFDY3pEeHNRVjRNTVB6SVo2RzVFa29sWDhGSVRNUy1leTlhRmoyTTh6RlVfUkxUMzVWb0FtcFE?oc=5",
+   "published_utc": "2026-11-05T08:26:20+00:00",
+   "title_original": "[Maeil Business TV] Semiconductors Lift the Won; What Lies Ahead?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5c53a55cfa57f1ac"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Table: Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M",
@@ -846,23 +968,6 @@
    "live_wire": true,
    "manual": false,
    "id": "914b747aa5fd3f83"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth consecutive month | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSXJjd0x0blVybS1ncWs5dTdTT2l1dXhyOWVXSlpFM3Nyb3l5V2NfbEJHQWpDYUpVaVBJQU5kSGpPVHBLa19SWFJyRWRCQXBQTUVGcXFIQWozdlk4Ymc?oc=5",
-   "published_utc": "2026-11-05T08:23:00+00:00",
-   "title_original": "10月CPI年增2.33% 連6月突破通膨警戒線 | 產經",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2e9517d1150a8782"
   },
   {
    "source_id": "tradingview_live",
@@ -983,6 +1088,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0311a236b57b1770"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Why did Samsung and SK Hynix shares fall sharply on Thursday?",
+   "url": "https://www.tradingview.com/news/invezz:138b89d6fbc81:0/",
+   "published_utc": "2026-11-05T07:49:55+00:00",
+   "title_original": "Por que as ações da Samsung e da SK Hynix caíram fortemente na quinta-feira?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "f9e2a0ed159e0817"
   },
   {
    "source_id": "investing_live",
@@ -1379,57 +1501,6 @@
    "id": "3f24bdeaa87e144e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Longyuan Power Poised for Growth in 2027 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261105000165:0-china-longyuan-power-poised-for-growth-in-2027-market-talk/",
-   "published_utc": "2026-11-05T05:42:00+00:00",
-   "title_original": "China Longyuan Power Poised for Growth in 2027 — Market Talk",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "daa3320750df0b68"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Japan services PMI rises to 51.7 in October; composite growth slows to 5-month low",
-   "url": "https://www.tradingview.com/news/seekingalpha:fbe583fe7094b:0-japan-services-pmi-rises-to-51-7-in-october-composite-growth-slows-to-5-month-low/",
-   "published_utc": "2026-11-05T05:40:16+00:00",
-   "title_original": "Japan services PMI rises to 51.7 in October; composite growth slows to 5-month low",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d07eea959737fc12"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Longyuan Power Raised to Buy From Neutral by Citigroup >0916.HK",
-   "url": "https://www.tradingview.com/news/DJN_DN20261105000157_20261105000157:0-china-longyuan-power-raised-to-buy-from-neutral-by-citigroup-0916-hk/",
-   "published_utc": "2026-11-05T05:40:00+00:00",
-   "title_original": "China Longyuan Power Raised to Buy From Neutral by Citigroup >0916.HK",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5dfda5ea2e2705ab"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "The Export-Import Bank of Korea has signed a $170 million foreign economic cooperation fund (EDCF) l..",
@@ -1446,23 +1517,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b48871de0fa2e182"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Soda Nikka Co Ltd - To Buy Back Up To 4.37% Own Shares Worth 1.6 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46L33V:0-soda-nikka-co-ltd-to-buy-back-up-to-4-37-own-shares-worth-1-6-billion-yen/",
-   "published_utc": "2026-11-05T05:21:45+00:00",
-   "title_original": "Soda Nikka Co Ltd - To Buy Back Up To 4.37% Own Shares Worth 1.6 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d678b1b23eb8b8c2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1498,23 +1552,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c8bd5de95b9121c0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan bond yields fall as lower oil prices ease inflation concerns",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M04P:0-japan-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/",
-   "published_utc": "2026-11-05T05:07:32+00:00",
-   "title_original": "Japan bond yields fall as lower oil prices ease inflation concerns",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "44cf85cf48f0acc4"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2769,8 +2806,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -2784,7 +2821,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51956,42 +51993,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7b12ba257842debf"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "IMF Urges China to Shift Growth Model Toward Consumption, Services",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWVd2c2RzdWJMdDBHa1NIOGNzNWRIZHZGSlZvaHc4dXJuVmN0TEdGdGI2MHcwdXA4Z1d1cTFwZ1FiY240YzZWOUNPUE9LTjZUZTFSNzJESTRsWUEtcXA5UkNjblIxYWJJNkNieDd6ZTJ2SWxKSkhhY2VLNjZwQnJNcDRCeGoxSU1GQXFKSXNTVEpRYmFVNlEwY0ZJM3o5RVV3NzdtQldFUmtoZ2pPbG9KZnkzZG9lb2o1RTViYw?oc=5",
-   "published_utc": "2026-10-12T09:10:00+00:00",
-   "title_original": "IMF Urges China to Shift Growth Model Toward Consumption, Services",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "68a340e3f144cdfb"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "프라임경제",
-   "title_en": "Governor of the Bank of Korea: “Next year’s budget will also stimulate prices”… Interest rate hike hints",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41RHhFa3IxX004Y0JCUVR3SlBuRmlFeFBWSXRtTjd1MHNlbWlJMXBDNGlBMDdCV1RrZzJYRlNZaERyTjB3WWFXM3RNVDBpYWdwb1dSSnNzdldwbjNmcjlzbWw4cXVaMU9KRGZjWmtPX3g1dw?oc=5",
-   "published_utc": "2026-10-12T09:09:01+00:00",
-   "title_original": "한은 총재 \"내년 예산안, 물가도 자극\"…금리 인상 시사",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58a145a4e68119f2"
   },
   {
    "source_id": "manual_ia",
