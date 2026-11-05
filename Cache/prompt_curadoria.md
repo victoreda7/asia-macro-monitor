@@ -7,21 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T00:12:43.816266+00:00
-Total: 2972 manchetes
+Última coleta: 2026-11-05T00:22:45.301425+00:00
+Total: 2974 manchetes
 
-  🇯🇵 Japão          859
+  🇯🇵 Japão          860
   🇨🇳 China          892
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  906
+  🇰🇷 Coreia do Sul  907
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ board saw the need to keep raising rates, September meeting minutes show
   - [japan] Long-Term JGB Yields Fall After Oil Price Drops — Market Talk
   - [japan] [Editorial] Prices reach 2%; Bank of Japan implements policy to curb price increases (Nishinippon Shimbun me)
   - [korea] S. Korea's current account surplus tops $60b for 1st time on chip boom
   - [korea] Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure
-  - [japan] BOJ board saw the need to keep raising rates, September meeting minutes show
   - [japan] Sources of Changes in Current Account Balances (Projections for Nov.)
   - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
   - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
@@ -116,7 +116,7 @@ Total: 2972 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T00:12:44+00:00",
+      "published_utc": "2026-11-05T00:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
