@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T05:32:54.098002+00:00
+Última coleta: 2026-11-05T05:42:47.366748+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          886
-  🇨🇳 China          895
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  901
+  🇨🇳 China          898
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  899
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan services PMI rises to 51.7 in October; composite growth slows to 5-month low
+  - [china] China Longyuan Power Raised to Buy From Neutral by Citigroup >0916.HK
+  - [korea] The Export-Import Bank of Korea has signed a $170 million foreign economic cooperation fund (EDCF) l..
   - [japan] Soda Nikka Co Ltd - To Buy Back Up To 4.37% Own Shares Worth 1.6 Billion Yen
   - [korea] SK hynix puts Chey Tae-won at helm of $10b US AI investment arm
   - [japan] Japan bond yields fall as lower oil prices ease inflation concerns
@@ -34,6 +37,7 @@ Total: 3000 manchetes
   - [japan] At the Bank of Japan's September interest rate hike meeting, there was an opinion that the pace should be acce
   - [japan] Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen
   - [japan] Finance Directors’ Meeting leaves economic outlook unchanged as “moderate recovery”
+  - [china] China Bank Funding Costs Hit Record Low on PBOC Rate Shift
   - [japan] Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen
   - [china] China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress
   - [china] China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain g
@@ -43,6 +47,7 @@ Total: 3000 manchetes
   - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
   - [japan] Japan’s large-cap exporters: Will the U.S. midterm sweep bring tariff relief?
   - [china] China indicts ex-Politburo member Ma Xingrui for bribery
+  - [china] China’s Vice Premier Pushes Back on Trade Barbs at Import Fair
   - [taiwan] Ukraine's top unmanned fleet developer looks to Taiwan for critical components
   - [china] China Banking Corp Reports Net Income Of 22.6 Billion Pesos In 9M2026
   - [china] China's largest import expo opens in Shanghai amid record trade imbalances
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] The Central Bank’s Aboriginal Series Coin Set La’aruwa Tribe is on sale to the public on 11/12 | Sankei
   - [japan] Yen Strengthens on Hawkish BOJ Minutes
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
-  - [korea] Why is Samsung Electronics stock plunging today?
-  - [japan] Japan services PMI grows for fifth straight month in October By Investing.com
-  - [japan] Japan services PMI grows for fifth straight month in October
-  - [taiwan] Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk
-  - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T05:32:54+00:00",
+      "published_utc": "2026-11-05T05:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
