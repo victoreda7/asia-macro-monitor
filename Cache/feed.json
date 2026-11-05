@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-05T23:02:43.545878+00:00",
- "collected_at_utc": "2026-11-05T23:02:43.545878+00:00",
+ "generated_at_utc": "2026-11-05T23:12:45.151173+00:00",
+ "collected_at_utc": "2026-11-05T23:12:45.151173+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 321,
   "korea": 883
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T02:24:00+00:00"
+   "newest": "2026-11-05T01:31:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T23:01:28+00:00"
+   "newest": "2026-11-05T23:12:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-06T07:45:00+09:00"
+   "newest": "2026-11-06T08:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Oversea-Chinese Banking: Global Conditions Remain Uncertain Amid Geopolitical Tensions, Inflation Risks >O39.SG",
+   "url": "https://www.tradingview.com/news/DJN_DN20261105025696_20261105025700:0-oversea-chinese-banking-global-conditions-remain-uncertain-amid-geopolitical-tensions-inflation-risks-o39-sg/",
+   "published_utc": "2026-11-05T23:10:00+00:00",
+   "title_original": "Oversea-Chinese Banking: Global Conditions Remain Uncertain Amid Geopolitical Tensions, Inflation Risks >O39.SG",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f903f62dbb18287c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1608,23 +1625,6 @@
    "id": "a891bcd4dbb091d7"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M",
-   "url": "https://www.tradingview.com/news/DJN_DN20261105003439_20261105003439:0-chun-yuan-steel-industry-3q-net-profit-nt-484-2m-vs-nt-376-8m/",
-   "published_utc": "2026-11-05T08:25:00+00:00",
-   "title_original": "Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "914b747aa5fd3f83"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth consecutive month | Sankei",
@@ -2429,24 +2429,6 @@
    "live_wire": false,
    "manual": false,
    "id": "23d59d91ec66b59e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "北京市人民政府门户网站",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
-   "published_utc": "2026-11-05T02:24:00+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "03384924387c3789"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3740,6 +3722,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d0973fddf0b2eb82"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mSUZvMXU0VGZNVFNLZXR2dVdZMTVBd2xzMVJGT1plQ3VXME1OT0VyTmhBQlRlS2ZTTzIwSW85MzJWTGlocTN3eDFHUzM?oc=5",
+   "published_utc": "2026-11-04T09:54:20+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4becca59c945fa82"
   },
   {
    "source_id": "gn_cn_pboc",
