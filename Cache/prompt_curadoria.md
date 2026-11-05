@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T07:02:44.725097+00:00
+Última coleta: 2026-11-05T07:12:42.974310+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          901
+  🇨🇳 China          900
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  895
+  🇰🇷 Coreia do Sul  896
 
 ## O que já está no feed (não repita)
 
+  - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
   - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
   - [japan] Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Finance Directors’ Meeting leaves economic outlook unchanged as “moderate recovery”
   - [china] China Bank Funding Costs Hit Record Low on PBOC Rate Shift
   - [japan] Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen
-  - [china] China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T07:02:44+00:00",
+      "published_utc": "2026-11-05T07:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
