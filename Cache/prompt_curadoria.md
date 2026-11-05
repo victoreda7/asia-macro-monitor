@@ -7,22 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T04:52:43.578840+00:00
+Última coleta: 2026-11-05T05:02:43.116009+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          880
-  🇨🇳 China          894
+  🇯🇵 Japão          883
+  🇨🇳 China          895
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  908
+  🇰🇷 Coreia do Sul  904
 
 ## O que já está no feed (não repita)
 
+  - [japan] Kh Neochem Co., Ltd. - To Buy Back Up To 10.52% Of Own Shares Worth 12 Billion Yen
+  - [japan] Nof Corp - To Buy Back Up To 0.94% Of Own Shares Worth 5 Billion Yen
+  - [japan] Toyota - To Buy Back Up To 5.18% Of Shares Worth 1.3 Trln Yen Versus Up To 1 Trln Yen Planned Previously
+  - [china] Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say
   - [korea] LG Chem: Q3 sales rose, but a KRW 600bn net loss reflected uneven segment performance
+  - [korea] South Korean Won Weakens on Foreign Outflows
   - [japan] At the Bank of Japan's September interest rate hike meeting, there was an opinion that the pace should be acce
   - [japan] Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen
   - [japan] Finance Directors’ Meeting leaves economic outlook unchanged as “moderate recovery”
   - [japan] Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen
   - [china] China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress
+  - [china] China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain g
   - [japan] BOJ policymaker urged rate hike size debate: Sept. minutes
   - [japan] Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen
   - [japan] Summary of the Bank of Japan's September meeting ``Policy rates should get closer to the goal as soon as possi
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] S.Korea’s current account surplus hits record $61 bn; Global IBs hike GDP growth forecasts
   - [china] China indicts ex-Politburo member Ma for bribery
   - [korea] S. Korea posts record high current account surplus of over $60b in Sept. on chip supercycle
-  - [korea] Shares of Samsung Electronics and SK Hynix fell more than 40 to 50% from their high points, but the
-  - [korea] Freeze the base interest rate... Adjusting the pace, not ending austerity
-  - [korea] SK Hynix was counted as the largest net purchase by high-yield investors of Mirae Asset Securities u..
-  - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
-  - [china] CHINA PBOC CONDUCTS CNY263 BLN VIA O/N REVERSE REPO THURS
-  - [japan] BOJ Board Sees Little Capex Impact From Higher Rates, Minutes Show — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T04:52:43+00:00",
+      "published_utc": "2026-11-05T05:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
