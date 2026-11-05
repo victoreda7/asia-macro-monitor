@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T10:32:45.495649+00:00
+Última coleta: 2026-11-05T10:42:44.690430+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
-  🇨🇳 China          903
+  🇯🇵 Japão          892
+  🇨🇳 China          902
   🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [korea] KT&G: Compound 2030 pairs global growth with KRW 5tn in regular returns over four years
   - [taiwan] Hot money fled and the New Taiwan dollar nearly broke 33 yuan. Exporters actively sold foreign exchange and re
   - [china] Advanced Micro-Fabrication Equipment Inc China Plans A-Share Worth Buyback
   - [china] China Overseas Land & Investment Logs October Contracted Property Sales RMB 17.805 Billion
+  - [japan] The condominium market changes due to the Bank of Japan's interest rate hike; it is the transaction price rang
   - [japan] Toyota Motor: FY operating-income guidance rose to JPY 3.9tn as investment and shareholder returns advanced
   - [taiwan] The New Taiwan Dollar depreciates heavily and the central bank calls out to exporters: Don’t expect excessive 
   - [japan] “A peacetime financial base in preparation for emergencies” Ministry of Finance insists on strengthening defen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China urges EU to assess impact of new fees on low-value imports
   - [china] China says trade barriers block tech imports, fueling its surplus
   - [korea] (LEAD) Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
-  - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
-  - [japan] Toyota Raises Profit Forecast on Hybrid Demand, Weak Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T10:32:45+00:00",
+      "published_utc": "2026-11-05T10:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
