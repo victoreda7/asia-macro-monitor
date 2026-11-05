@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T10:02:45.894056+00:00
+Última coleta: 2026-11-05T10:12:43.281167+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          902
+  🇯🇵 Japão          893
+  🇨🇳 China          901
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [japan] Toyota Motor: FY operating-income guidance rose to JPY 3.9tn as investment and shareholder returns advanced
   - [taiwan] The New Taiwan Dollar depreciates heavily and the central bank calls out to exporters: Don’t expect excessive 
   - [japan] “A peacetime financial base in preparation for emergencies” Ministry of Finance insists on strengthening defen
   - [japan] Prepare for emergency financial expenditures: Ministry of Finance recommendation to strengthen defense capabil
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
   - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
   - [japan] Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges
-  - [japan] BREAKING NEWS: Sony Group July-Sept. net profit rises to 449.6 bil. yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T10:02:46+00:00",
+      "published_utc": "2026-11-05T10:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
