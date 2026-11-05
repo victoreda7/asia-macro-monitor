@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T08:02:48.100452+00:00
+Última coleta: 2026-11-05T08:12:43.406782+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          901
-  🇹🇼 Taiwan         312
+  🇯🇵 Japão          891
+  🇨🇳 China          900
+  🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  895
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment
   - [korea] LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Prade
   - [china] China ties more US farm imports to reciprocal tariff cuts
+  - [taiwan] Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics
   - [china] China says trade barriers block tech imports, fueling its surplus
   - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say
   - [korea] LG Chem: Q3 sales rose, but a KRW 600bn net loss reflected uneven segment performance
   - [korea] South Korean Won Weakens on Foreign Outflows
-  - [japan] At the Bank of Japan's September interest rate hike meeting, there was an opinion that the pace should be acce
-  - [japan] Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T08:02:48+00:00",
+      "published_utc": "2026-11-05T08:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
