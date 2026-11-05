@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T03:12:45.857259+00:00
+Última coleta: 2026-11-05T03:22:42.362475+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          867
+  🇯🇵 Japão          869
   🇨🇳 China          897
-  🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  917
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  916
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Strengthens on Hawkish BOJ Minutes
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
+  - [korea] Why is Samsung Electronics stock plunging today?
+  - [japan] Japan services PMI grows for fifth straight month in October
   - [taiwan] Taiwan Inflation Likely Eased But Stayed High, WSJ Poll Shows — Market Talk
   - [china] China's curbs on tungsten used in drill bits squeeze AI supply chain
   - [korea] Samsung, SK hynix emerge as major bond investors amid chip boom
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
   - [korea] South Korea’s Current Account Surplus Hits Record on Chip Boom
   - [japan] Long-Term JGB Yields Fall After Oil Price Drops — Market Talk
-  - [japan] [Editorial] Prices reach 2%; Bank of Japan implements policy to curb price increases (Nishinippon Shimbun me)
-  - [korea] S. Korea's current account surplus tops $60b for 1st time on chip boom
-  - [korea] Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T03:12:46+00:00",
+      "published_utc": "2026-11-05T03:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

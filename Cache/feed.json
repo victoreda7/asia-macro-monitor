@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T03:12:45.857259+00:00",
- "collected_at_utc": "2026-11-05T03:12:45.857259+00:00",
+ "generated_at_utc": "2026-11-05T03:22:42.362475+00:00",
+ "collected_at_utc": "2026-11-05T03:22:42.362475+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 867,
+  "japan": 869,
   "china": 897,
-  "taiwan": 319,
-  "korea": 917
+  "taiwan": 318,
+  "korea": 916
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T00:56:00+00:00"
+   "newest": "2026-11-05T02:57:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-05T02:50:34+00:00"
+   "newest": "2026-11-05T03:04:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:41:41+00:00"
+   "newest": "2026-11-04T20:52:21+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T03:11:47+00:00"
+   "newest": "2026-11-05T03:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T03:03:10+00:00"
+   "newest": "2026-11-05T03:06:51+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,25 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Strengthens on Hawkish BOJ Minutes",
+   "url": "https://www.tradingview.com/news/te_news:598398:0-yen-strengthens-on-hawkish-boj-minutes/",
+   "published_utc": "2026-11-05T03:04:48+00:00",
+   "title_original": "Yen Strengthens on Hawkish BOJ Minutes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "20c51cd4f760f592"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "BOK chief to attend BIS governors' meeting in Switzerland",
@@ -359,6 +378,40 @@
    "live_wire": false,
    "manual": false,
    "id": "1b6c66598046c417"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock plunging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5002078",
+   "published_utc": "2026-11-05T02:56:03+00:00",
+   "title_original": "Why is Samsung Electronics stock plunging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "25c13668e4bcb151"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan services PMI grows for fifth straight month in October",
+   "url": "https://www.investing.com/news/stock-market-news/japan-services-pmi-grows-for-fifth-straight-month-in-october-93CH-5002077",
+   "published_utc": "2026-11-05T02:55:59+00:00",
+   "title_original": "Japan services PMI grows for fifth straight month in October",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "541020ac6f1b84cd"
   },
   {
    "source_id": "tradingview_live",
@@ -43908,23 +43961,6 @@
    "id": "894a0aaeaa45b553"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is Samsung Electronics stock plunging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-4950393",
-   "published_utc": "2026-10-15T02:05:55+00:00",
-   "title_original": "Why is Samsung Electronics stock plunging today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eded1ea9c118fc5d"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening fears",
@@ -51962,41 +51998,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fc06c301b692fc60"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTc2MnBkQ3RoZnEwWlhvZk1BaXBXV2NVTXIyRnE3QXNVU1ZYNVVLMzhnT0IwbnBTcElKQURzcDFwSzZYS1Z4cUxuM2MwNnEyVUhZaUE5bGdsbkdpa0RaVFozaml6eWF4N3pRZDhzTF9UNHRlWkJOZWxQUXVlTk4tbjZXV2V0dXFINTk1SEdhc3N2andyUGdOREVlaw?oc=5",
-   "published_utc": "2026-10-12T01:56:00+00:00",
-   "title_original": "MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cd92f7ddcc2ccf5e"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Finance minister urges preemptive action for supply chain stability",
-   "url": "https://www.koreaherald.com/article/10899334",
-   "published_utc": "2026-10-12T01:55:48+00:00",
-   "title_original": "Finance minister urges preemptive action for supply chain stability",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d73f408aefb63376"
   },
   {
    "source_id": "manual_ia",
