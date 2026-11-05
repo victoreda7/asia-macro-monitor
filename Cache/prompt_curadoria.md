@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T13:02:55.733504+00:00
+Última coleta: 2026-11-05T13:12:43.427056+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
+  🇯🇵 Japão          891
   🇨🇳 China          900
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix losing out on US plant has major implications, Wedbush says
   - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
   - [taiwan] Taiwan's October CPI rises 2.33%, stays above 2% for sixth month
   - [china] Scholars who report on export capabilities for the first time at the CIIE: Teach you how to sell things to Chi
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Forex Reserves at 3-Month Low
   - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
   - [china] China Merchants Shekou Industrial Zone October Contract Sales At 18.7 Billion Yuan
-  - [china] China's November diesel exports to ease amid thin domestic stocks, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T13:02:55+00:00",
+      "published_utc": "2026-11-05T13:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
