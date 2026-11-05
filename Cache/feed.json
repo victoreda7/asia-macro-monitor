@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T00:02:43.161486+00:00",
- "collected_at_utc": "2026-11-05T00:02:43.161486+00:00",
+ "generated_at_utc": "2026-11-05T00:12:43.816266+00:00",
+ "collected_at_utc": "2026-11-05T00:12:43.816266+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2969,
+ "count": 2972,
  "by_region": {
-  "japan": 857,
+  "japan": 859,
   "china": 892,
-  "taiwan": 314,
+  "taiwan": 315,
   "korea": 906
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T00:02:02+00:00"
+   "newest": "2026-11-05T00:10:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T23:51:02+00:00"
+   "newest": "2026-11-05T00:01:09+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Long-Term JGB Yields Fall After Oil Price Drops — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261104020650:0-long-term-jgb-yields-fall-after-oil-price-drops-market-talk/",
+   "published_utc": "2026-11-05T00:02:00+00:00",
+   "title_original": "Long-Term JGB Yields Fall After Oil Price Drops — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1b0f4c7b8217263d"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Editorial] Prices reach 2%; Bank of Japan implements policy to curb price increases (Nishinippon Shimbun me)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RUFxTU9Ea3BQSUp4UlY0NWJ4QVRTLXI2Tjl6M290WFkzMDgxbUNoMWFUSGRESWRHVmNIUTlDUC1idTRkamc4d3hqVFFEVFlwWEY4akFxa2xTaEVPVzd6SkZUam9HOGtic1gxX3d2UUlaMXlvUVVvM1hIR2czM0U?oc=5",
+   "published_utc": "2026-11-05T00:01:09+00:00",
+   "title_original": "【社説】物価2％到達 日銀は上昇抑える政策を（西日本新聞me）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1297b58d3fa40aac"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -464,6 +499,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2757154731430cbf"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Subsidies pave the way as cheap cells squeeze Taiwan's energy storage players into a profit battle",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFI2RVo3UkwyVEUxOHFYVE90dE1sNmRhVFEwOXNBWEdsbkxPRnJjM0t4MWxlbkEtYm1FSW5OQXlOX2MyczRRbEkyanpuNE1PQjFQcENZbG05bU1SY3NyN1MyVi1hcGw2SUlKNVJHbm8tN0paS2JKSXplTnlOWHEzWmdmdnUzQnU4WEUtdEVNUDBOU3Z3bHptandoUDVjZXd3dWJqQjdn?oc=5",
+   "published_utc": "2026-11-04T23:33:41+00:00",
+   "title_original": "Subsidies pave the way as cheap cells squeeze Taiwan's energy storage players into a profit battle",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1e686d4e8445a1e"
   },
   {
    "source_id": "gn_kr_bok",

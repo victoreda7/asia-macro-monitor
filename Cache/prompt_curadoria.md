@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T00:02:43.161486+00:00
-Total: 2969 manchetes
+Última coleta: 2026-11-05T00:12:43.816266+00:00
+Total: 2972 manchetes
 
-  🇯🇵 Japão          857
+  🇯🇵 Japão          859
   🇨🇳 China          892
-  🇹🇼 Taiwan         314
+  🇹🇼 Taiwan         315
   🇰🇷 Coreia do Sul  906
 
 ## O que já está no feed (não repita)
 
+  - [japan] Long-Term JGB Yields Fall After Oil Price Drops — Market Talk
+  - [japan] [Editorial] Prices reach 2%; Bank of Japan implements policy to curb price increases (Nishinippon Shimbun me)
   - [korea] S. Korea's current account surplus tops $60b for 1st time on chip boom
   - [korea] Korea Zinc : Q3 revenue grew YoY, but profit fell sharply QoQ amid cost and metal-price pressure
   - [japan] BOJ board saw the need to keep raising rates, September meeting minutes show
@@ -24,6 +26,7 @@ Total: 2969 manchetes
   - [japan] Minutes of the Monetary Policy Meeting on September 17 and 18, 2026
   - [korea] Hanwha : A KRW 1,083bn spin-off gain lifted earnings as quarterly revenue and operating profit fell
   - [taiwan] DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock
+  - [taiwan] Subsidies pave the way as cheap cells squeeze Taiwan's energy storage players into a profit battle
   - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
   - [korea] S. Korea posts record high current account surplus of over US$60 bln in Sept. on chip supercycle
   - [china] Fortescue to Swap Bond Issue Proceeds Into Offshore Yuan
@@ -54,9 +57,6 @@ Total: 2969 manchetes
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation - China Daily
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms | NHK WORLD-JAPAN News
   - [japan] Yen up, stocks down in Tokyo as Japan digests midterms
-  - [china] Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus
-  - [china] Chinese exporters see respite as Beijing curbs yuan rise amid record surplus
-  - [japan] ``You can just drop in and have a casual time'' at the former Bank of Japan Kanazawa branch, with many request
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2969 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T00:02:43+00:00",
+      "published_utc": "2026-11-05T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
