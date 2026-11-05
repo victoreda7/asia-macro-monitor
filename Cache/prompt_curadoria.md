@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T17:12:45.209379+00:00
+Última coleta: 2026-11-05T17:22:44.651459+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          893
-  🇨🇳 China          898
+  🇯🇵 Japão          892
+  🇨🇳 China          899
   🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  885
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [china] China’s Central Bank Pledges More Support to Stabilize Markets
   - [china] Kimberly-Clark Backs Full-Year Growth Forecast Despite China Controversy — Update
   - [taiwan] Siemens To Modernize Taiwan Taoyuan Metro Signaling
+  - [china] What does midterm humbling mean for Bessent ahead of US-China trade talks?
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
   - [japan] Bernstein raises Sony stock price target to $26 on yen weakness By Investing.com
   - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Toyota Motor: FY operating-income guidance rose to JPY 3.9tn as investment and shareholder returns advanced
   - [taiwan] The New Taiwan Dollar depreciates heavily and the central bank calls out to exporters: Don’t expect excessive 
   - [japan] “A peacetime financial base in preparation for emergencies” Ministry of Finance insists on strengthening defen
-  - [japan] Prepare for emergency financial expenditures: Ministry of Finance recommendation to strengthen defense capabil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T17:12:45+00:00",
+      "published_utc": "2026-11-05T17:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
