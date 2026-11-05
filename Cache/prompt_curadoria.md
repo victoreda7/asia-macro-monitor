@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T10:12:43.281167+00:00
+Última coleta: 2026-11-05T10:22:44.265842+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          893
-  🇨🇳 China          901
+  🇯🇵 Japão          892
+  🇨🇳 China          903
   🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  887
+  🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [china] China Overseas Land & Investment Logs October Contracted Property Sales RMB 17.805 Billion
   - [japan] Toyota Motor: FY operating-income guidance rose to JPY 3.9tn as investment and shareholder returns advanced
   - [taiwan] The New Taiwan Dollar depreciates heavily and the central bank calls out to exporters: Don’t expect excessive 
   - [japan] “A peacetime financial base in preparation for emergencies” Ministry of Finance insists on strengthening defen
@@ -50,13 +51,12 @@ Total: 3000 manchetes
   - [china] China ties more US farm imports to reciprocal tariff cuts
   - [china] China says US farm purchases hinge on tariff-cut deal
   - [taiwan] Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics
+  - [china] China urges EU to assess impact of new fees on low-value imports
   - [china] China says trade barriers block tech imports, fueling its surplus
   - [korea] (LEAD) Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
   - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
   - [japan] Toyota Raises Profit Forecast on Hybrid Demand, Weak Yen
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
-  - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
-  - [japan] Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T10:12:43+00:00",
+      "published_utc": "2026-11-05T10:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
