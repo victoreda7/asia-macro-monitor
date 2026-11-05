@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T09:17:09.332597+00:00",
- "collected_at_utc": "2026-11-05T09:17:09.332597+00:00",
+ "generated_at_utc": "2026-11-05T09:22:45.038497+00:00",
+ "collected_at_utc": "2026-11-05T09:22:45.038497+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 892,
-  "china": 898,
-  "taiwan": 317,
-  "korea": 893
+  "japan": 891,
+  "china": 899,
+  "taiwan": 319,
+  "korea": 891
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T08:59:25+00:00"
+   "newest": "2026-11-05T08:42:30+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T11:09:10+00:00"
+   "newest": "2026-11-05T09:04:32+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T09:12:12+00:00"
+   "newest": "2026-11-05T09:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T08:34:00+00:00"
+   "newest": "2026-11-05T08:46:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,58 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan Semiconductor Price Target Raised to $600.00/Share From $554.00 by Bernstein",
+   "url": "https://www.tradingview.com/news/DJN_DN20261105003975:0-taiwan-semiconductor-price-target-raised-to-600-00-share-from-554-00-by-bernstein/",
+   "published_utc": "2026-11-05T09:20:00+00:00",
+   "title_original": "Taiwan Semiconductor Price Target Raised to $600.00/Share From $554.00 by Bernstein",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8bf0bbcbd2c905c5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Micron suspends work on US$4.5 billion factory in Taiwan, according to Bloomberg News report",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0EA:0/",
+   "published_utc": "2026-11-05T09:19:13+00:00",
+   "title_original": "Micron suspende as obras da fábrica de US$ 4,5 bilhões em Taiwan, segundo reportagem da Bloomberg News",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "c501d8befeb215ae"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261105003918:0-china-s-worsening-economic-outlook-may-lead-to-aggressive-stimulus-next-year-market-talk/",
+   "published_utc": "2026-11-05T09:12:00+00:00",
+   "title_original": "China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "756f6b254f832fe9"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Commentary: After the Midterms, a Case for Realism in U.S.-China Relations",
@@ -359,6 +411,25 @@
    "live_wire": false,
    "manual": false,
    "id": "be7d8aff83d4f5e6"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ minutes: Inflation could prompt faster rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RNllzUGtaWWZQZ3hCWWU2MExNV2k0aEkwRWxWY3Nsb1BYV3lNajJUR1hjSUI5alRmZmpHMXVxZDYwZnU3ZFpXRXp1R2lJTkk3TTVGMVlQTUwxUEVTYlAwWHdYOA?oc=5",
+   "published_utc": "2026-11-05T09:04:32+00:00",
+   "title_original": "BOJ minutes: Inflation could prompt faster rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b77aa1afe61a1655"
   },
   {
    "source_id": "nikkei_asia",
@@ -1303,23 +1374,6 @@
    "id": "a2563d0c78e06863"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korean Won Weakens on Foreign Outflows",
-   "url": "https://www.tradingview.com/news/te_news:598420:0-south-korean-won-weakens-on-foreign-outflows/",
-   "published_utc": "2026-11-05T04:43:52+00:00",
-   "title_original": "South Korean Won Weakens on Foreign Outflows",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7d69a4bcb9c2d11e"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "At the Bank of Japan's September interest rate hike meeting, there was an opinion that the pace should be accelerated depending on the upward trend in prices.",
@@ -1336,23 +1390,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6b76f74e599cfcd6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46L2Z9:0-sato-sho-ji-corp-to-buy-back-up-to-1-45-of-own-shares-worth-900-million-yen/",
-   "published_utc": "2026-11-05T04:32:04+00:00",
-   "title_original": "Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "361661446cf44a82"
   },
   {
    "source_id": "nhk_economy",
@@ -1389,23 +1426,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de82a004de59991d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46L2RJ:0-daicel-corporation-to-buy-back-up-to-2-19-of-own-shares-worth-8-billion-yen/",
-   "published_utc": "2026-11-05T04:22:36+00:00",
-   "title_original": "Daicel Corporation - To Buy Back Up To 2.19% Of Own Shares Worth 8 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "de60cb1bfa77b422"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51965,23 +51985,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e8d808d49ed105d1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001225:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
-   "published_utc": "2026-10-12T08:17:00+00:00",
-   "title_original": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "af25f1b490d371fa"
   },
   {
    "source_id": "manual_ia",

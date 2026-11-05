@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T09:17:09.332597+00:00
+Última coleta: 2026-11-05T09:22:45.038497+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          898
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  893
+  🇯🇵 Japão          891
+  🇨🇳 China          899
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  891
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Price Target Raised to $600.00/Share From $554.00 by Bernstein
+  - [taiwan] Micron suspends work on US$4.5 billion factory in Taiwan, according to Bloomberg News report
+  - [china] China's Worsening Economic Outlook May Lead to Aggressive Stimulus Next Year — Market Talk
   - [china] Commentary: After the Midterms, a Case for Realism in U.S.-China Relations
+  - [japan] BOJ minutes: Inflation could prompt faster rate hikes
   - [taiwan] Taiwan's chipmakers shine brightest in living memory
   - [taiwan] Taiwan Forex Reserves at 3-Month Low
   - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies
   - [japan] BoJ Minutes signal more hikes ahead as central bank pauses at 1.25%
   - [china] China Mulls Dollar, Offshore Yuan Sovereign Bond Sale This Month
-  - [japan] Toyota interim financial results: Sales and profits increase due to yen depreciation, annual forecast upwardly
-  - [china] China's cleantech stocks jump as investors bet on US policy shift
-  - [china] China Longyuan Power Poised for Growth in 2027 — Market Talk
-  - [japan] Japan services PMI rises to 51.7 in October; composite growth slows to 5-month low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T09:17:09+00:00",
+      "published_utc": "2026-11-05T09:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
