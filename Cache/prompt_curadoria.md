@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T06:42:42.660374+00:00
+Última coleta: 2026-11-05T06:52:44.971031+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          887
+  🇯🇵 Japão          890
   🇨🇳 China          900
-  🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  897
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  896
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
+  - [japan] Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges
+  - [japan] BREAKING NEWS: Sony Group July-Sept. net profit rises to 449.6 bil. yen
+  - [japan] BREAKING NEWS: Sony Group April-Sept. net profit rises 38.8% to 791.76 bil. yen
+  - [japan] BREAKING NEWS: Sony Group lifts FY 2026 net profit outlook to 1.33 tril. yen
   - [korea] Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
   - [china] China's Inflation Likely Stable in October — Market Talk
   - [korea] BOK chief to attend BIS governors' meeting in Switzerland
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain g
   - [japan] BOJ policymaker urged rate hike size debate: Sept. minutes
   - [japan] Tosoh Corp - To Buy Back Up To 3.9% Of Own Shares Worth 25 Billion Yen
-  - [japan] Summary of the Bank of Japan's September meeting ``Policy rates should get closer to the goal as soon as possi
-  - [japan] Japan’s large-cap exporters: Will the U.S. midterm sweep bring tariff relief?
-  - [china] China indicts ex-Politburo member Ma Xingrui for bribery
-  - [china] China’s Vice Premier Pushes Back on Trade Barbs at Import Fair
-  - [taiwan] Ukraine's top unmanned fleet developer looks to Taiwan for critical components
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T06:42:42+00:00",
+      "published_utc": "2026-11-05T06:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
