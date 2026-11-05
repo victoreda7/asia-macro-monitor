@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T01:02:45.518400+00:00
-Total: 2977 manchetes
+Última coleta: 2026-11-05T01:12:48.368022+00:00
+Total: 2980 manchetes
 
-  🇯🇵 Japão          864
+  🇯🇵 Japão          866
   🇨🇳 China          891
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  907
+  🇰🇷 Coreia do Sul  908
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Services PMI Improves To 51.7 In October - S&P Global
+  - [japan] BOJ Minutes Flag Price Risks, Backing Rate Hike Bets — Market Talk
   - [japan] BOJ debated need for more rate hikes, scope for faster move, September minutes show
   - [japan] Several opinions stated that interest rates would continue to rise at a rapid pace = Summary of the September 
   - [japan] BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes
+  - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [japan] Japan services activity expands for fifth month, PMI shows
   - [japan] ``This is a situation where we need to discuss the extent of interest rate hikes,'' says a Bank of Japan membe
   - [korea] [Reorganization of U.S. power ⑩] Will the method of calculating interest rates and exchange rates change? Bank
@@ -39,7 +42,6 @@ Total: 2977 manchetes
   - [japan] There is a blind spot in the argument that the yen appreciates due to speculative yen buying...Which is more v
   - [china] Wall Street Is Helping China Build a Global Yuan
   - [china] Europe to invest €525 million in chip startups to catch up with US and China
-  - [china] Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports
   - [china] The central bank shrinks and continues to conduct 3-month buyout reverse repurchase
   - [china] Nvidia's China Customers Face a Stunning 99% Chip Shortfall
   - [taiwan] Taiwan Weighs Tighter Controls on Chip Exports to Chinese Mainland
@@ -48,15 +50,13 @@ Total: 2977 manchetes
   - [china] Shanghai Fosun Pharma Subsidiary Initiates Phase Iii Trial Of Fxs6837 Capsules For Pnh
   - [china] The central bank will carry out 300 billion yuan of buyout reverse repurchase, shrinking the amount by 200 bil
   - [japan] IHI: Record Q2 profit drives higher FY2026 guidance and a JPY 25 dividend forecast
+  - [korea] Chey Tae-won to chair board of SK hynix’s U.S. investment firm
   - [japan] Cabbage retail price approximately 70% higher than normal
   - [china] The central bank will launch a 300 billion yuan buyout reverse repurchase operation
   - [china] MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST
   - [china] Regarding the U.S.-China-Russia summit meeting, China's Ministry of Foreign Affairs "communicates with relevan
   - [japan] Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fi
   - [china] The People's Bank of China will scale back its volume and carry out a 300 billion yuan buyout reverse repurcha
-  - [china] Central Bank: Launch a 300 billion yuan buyout reverse repurchase operation on November 5, with a period of 3 
-  - [china] The foreign exchange reserve ratio was raised for the first time in the past five years! The central bank rare
-  - [china] The central bank announced that it will carry out a 300 billion yuan buyout reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2977 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T01:02:45+00:00",
+      "published_utc": "2026-11-05T01:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

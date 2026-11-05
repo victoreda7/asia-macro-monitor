@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-05T01:02:45.518400+00:00",
- "collected_at_utc": "2026-11-05T01:02:45.518400+00:00",
+ "generated_at_utc": "2026-11-05T01:12:48.368022+00:00",
+ "collected_at_utc": "2026-11-05T01:12:48.368022+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2977,
+ "count": 2980,
  "by_region": {
-  "japan": 864,
+  "japan": 866,
   "china": 891,
   "taiwan": 315,
-  "korea": 907
+  "korea": 908
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T21:27:40+00:00"
+   "newest": "2026-11-05T00:34:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-05T00:52:23+00:00"
+   "newest": "2026-11-05T01:12:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Services PMI Improves To 51.7 In October - S&P Global",
+   "url": "https://www.tradingview.com/news/dpa_afx:e62dd18800210:0-japan-services-pmi-improves-to-51-7-in-october-s-p-global/",
+   "published_utc": "2026-11-05T01:09:55+00:00",
+   "title_original": "Japan Services PMI Improves To 51.7 In October - S&P Global",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "99c7c6015ecc2824"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Minutes Flag Price Risks, Backing Rate Hike Bets — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261104020875:0-boj-minutes-flag-price-risks-backing-rate-hike-bets-market-talk/",
+   "published_utc": "2026-11-05T00:54:00+00:00",
+   "title_original": "BOJ Minutes Flag Price Risks, Backing Rate Hike Bets — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a5238d8a8b2aca68"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ debated need for more rate hikes, scope for faster move, September minutes show",
@@ -394,6 +429,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn?oc=5",
+   "published_utc": "2026-11-05T00:34:00+00:00",
+   "title_original": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8c32c667c38c680"
   },
   {
    "source_id": "tradingview_live",
@@ -726,23 +778,6 @@
    "id": "7f785d0556905a64"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn?oc=5",
-   "published_utc": "2026-11-04T17:27:47+00:00",
-   "title_original": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8c32c667c38c680"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "zqrb.cn",
    "title_en": "The central bank shrinks and continues to conduct 3-month buyout reverse repurchase",
@@ -879,6 +914,23 @@
    "live_wire": true,
    "manual": false,
    "id": "00d68c74ea7cdd32"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Chey Tae-won to chair board of SK hynix’s U.S. investment firm",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlRFN4X2RHT1JUTTlSZ0N5VmI2QVEzOUpzd24yZFNsUUZUUXktMVB0WWJXWFpNLWI4SktNamVqZmVqUTA4d25OYzlxbmZOSDM3dEQ4?oc=5",
+   "published_utc": "2026-11-04T14:34:19+00:00",
+   "title_original": "Chey Tae-won to chair board of SK hynix’s U.S. investment firm",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ac8aa2049e75f7b8"
   },
   {
    "source_id": "yahoo_business",
