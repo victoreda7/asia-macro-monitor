@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T08:52:44.232029+00:00
+Última coleta: 2026-11-05T09:02:45.950487+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          890
-  🇨🇳 China          900
-  🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  894
+  🇯🇵 Japão          892
+  🇨🇳 China          898
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  893
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan's chipmakers shine brightest in living memory
+  - [taiwan] Taiwan Forex Reserves at 3-Month Low
+  - [korea] Real estate directly donated by grandparents to underage grandchildren has reached nearly 1.4 trilli..
   - [china] China Merchants Shekou Industrial Zone October Contract Sales At 18.7 Billion Yuan
   - [china] China's November diesel exports to ease amid thin domestic stocks, sources say
   - [korea] KT&G Posts Record Quarterly Revenue and Operating Profit in Q3, Unveils Four-Year KRW 5 Trillion Shareholder R
@@ -25,6 +27,7 @@ Total: 3000 manchetes
   - [china] Chun Yuan Steel Industry 3Q Net Profit NT$484.2M Vs NT$376.8M
   - [taiwan] CPI increased by 2.33% year-on-year in October, breaking through the inflation warning line for the sixth cons
   - [taiwan] Taiwan Inflation Rate Eases in October
+  - [korea] Housing business owners' prospects for the apartment sales economy in Seoul fell to the lowest level..
   - [taiwan] Taiwan Inflation Cools but Remains Elevated
   - [japan] Bank of Japan accelerates sale of stock assets, shortening period from 112 years to 43 years (Kyodo News)
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
@@ -35,6 +38,7 @@ Total: 3000 manchetes
   - [china] China says trade barriers block tech imports, fueling its surplus
   - [korea] (LEAD) Lee calls for virtuous cycle to translate exports growth into domestic demand recovery
   - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
+  - [japan] Toyota Raises Profit Forecast on Hybrid Demand, Weak Yen
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
   - [korea] PPP lawmakers oppose special counsel bill on 'fabricated indictments
   - [japan] Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China Longyuan Power Poised for Growth in 2027 — Market Talk
   - [japan] Japan services PMI rises to 51.7 in October; composite growth slows to 5-month low
   - [china] China Longyuan Power Raised to Buy From Neutral by Citigroup >0916.HK
-  - [korea] The Export-Import Bank of Korea has signed a $170 million foreign economic cooperation fund (EDCF) l..
-  - [japan] Soda Nikka Co Ltd - To Buy Back Up To 4.37% Own Shares Worth 1.6 Billion Yen
-  - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
-  - [korea] SK hynix puts Chey Tae-won at helm of $10b US AI investment arm
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T08:52:44+00:00",
+      "published_utc": "2026-11-05T09:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
