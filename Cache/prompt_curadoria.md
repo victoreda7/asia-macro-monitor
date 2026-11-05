@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T07:52:45.916700+00:00
+Última coleta: 2026-11-05T08:02:48.100452+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          900
+  🇨🇳 China          901
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  896
+  🇰🇷 Coreia do Sul  895
 
 ## O que já está no feed (não repita)
 
   - [korea] LG Electronics India enters automotive solutions business; to manufacture infotainment systems in Andhra Prade
+  - [china] China ties more US farm imports to reciprocal tariff cuts
   - [china] China says trade barriers block tech imports, fueling its surplus
   - [korea] KT&G: 2030 plans pair mid-to-high single-digit OP growth with KRW 5tn in regular returns
   - [korea] Samsung Electronics faces push for sixth labor union amid alleged internal rifts
@@ -54,7 +55,6 @@ Total: 3000 manchetes
   - [china] Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say
   - [korea] LG Chem: Q3 sales rose, but a KRW 600bn net loss reflected uneven segment performance
   - [korea] South Korean Won Weakens on Foreign Outflows
-  - [japan] "Increasing the burden on aesthetic medical institutions to reduce 'naobi'", the Ministry of Finance proposes 
   - [japan] At the Bank of Japan's September interest rate hike meeting, there was an opinion that the pace should be acce
   - [japan] Sato Sho-Ji Corp - To Buy Back Up To 1.45% Of Own Shares Worth 900 Million Yen
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T07:52:46+00:00",
+      "published_utc": "2026-11-05T08:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
