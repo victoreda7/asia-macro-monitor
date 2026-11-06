@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T08:52:47.868074+00:00
+Última coleta: 2026-11-06T09:02:47.156901+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          906
@@ -21,12 +21,14 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
+  - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
   - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
+  - [korea] Citi "maintains interest rate hike forecast for November despite KOSPI plunge"
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Interest rate (IR) outlook in major countries
   - [japan] Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen
   - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
-  - [china] Sinoma Science And Technology Says To Buy Back Shares For 200-250 Million Yuan
-  - [japan] Mitsubishi Heavy Industries, Ltd. Says It Will Buy Back Up To 3.6% Of Own Shares Worth 300 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T08:52:48+00:00",
+      "published_utc": "2026-11-06T09:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
