@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T05:52:47.661575+00:00
+Última coleta: 2026-11-06T06:02:42.775063+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
-  🇨🇳 China          899
+  🇯🇵 Japão          897
+  🇨🇳 China          897
   🇹🇼 Taiwan         326
   🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [japan] Taiyo Holdings: Electronics growth and yen weakness lifted H1 results and drove higher FY2027 guidance
+  - [japan] FJ Next Holdings Co: Record H1 profit growth on condominium sales; FY guidance and 80-yen dividend stand
+  - [china] The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reve
+  - [korea] Taesung To Divest Real Estate Worth 19.8 Billion Won
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Abduction families “Japan-North Korea summit meeting to resolve the issue” Liberal Democratic Party Abduction 
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] In line with international trade fishing and management, the Fisheries Department piloted the opening of expor
   - [korea] Why is Samsung Electronics stock plunging today?
   - [japan] Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls By Reuters
-  - [china] CHINA PBOC CONDUCTS CNY226 BLN VIA O/N REVERSE REPO FRI
-  - [japan] JGB Yields Fall as Stock Markets Drop Sharply — Market Talk
-  - [china] On November 6, the central bank launched a 226 billion yuan overnight reverse repurchase operation.
-  - [japan] Bank of Japan's additional ETF sales proceeds will lead to further growth through reinvestment - Prime Ministe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T05:52:47+00:00",
+      "published_utc": "2026-11-06T06:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
