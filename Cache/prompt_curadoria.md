@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T20:42:48.485823+00:00
+Última coleta: 2026-11-06T20:52:47.155712+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
-  🇨🇳 China          901
+  🇯🇵 Japão          906
+  🇨🇳 China          900
   🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
+  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [japan] [Asahi Shimbun answers 10,000 characters (part 3)] Supporting the digital deficit with real estate and stock d
   - [japan] Sony Group Stocks Slip 2.63% Despite Record 1.33 Trillion Yen Profit Forecast
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
-  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
   - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Citi sees two rate hike scenarios for South Korea’s BoK
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
   - [korea] Domestic financial experts raised a series of concerns over the government's budget plan for next ye..
-  - [japan] Bill on food tax cut clears Lower House | NHK WORLD-JAPAN News
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T20:42:48+00:00",
+      "published_utc": "2026-11-06T20:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

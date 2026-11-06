@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T20:42:48.485823+00:00",
- "collected_at_utc": "2026-11-06T20:42:48.485823+00:00",
+ "generated_at_utc": "2026-11-06T20:52:47.155712+00:00",
+ "collected_at_utc": "2026-11-06T20:52:47.155712+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
-  "china": 901,
+  "japan": 906,
+  "china": 900,
   "taiwan": 327,
   "korea": 867
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T20:20:57+00:00"
+   "newest": "2026-11-06T20:40:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T20:16:24+00:00"
+   "newest": "2026-11-06T20:30:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T15:22:41+00:00"
+   "newest": "2026-11-06T14:37:32+00:00"
   },
   {
    "source_id": "ked_global",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "newest": "2026-11-05T00:48:00+00:00"
+   "newest": "2026-11-05T08:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T10:12:02+00:00"
+   "newest": "2026-11-06T15:45:48+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T23:42:52+09:00"
+   "newest": "2026-11-07T05:47:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T20:00:05+00:00"
+   "newest": "2026-11-06T20:06:14+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T20:41:52+00:00"
+   "newest": "2026-11-06T20:51:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-07T05:30:00+09:00"
+   "newest": "2026-11-07T05:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and opposition parties in the House of Councilors focused",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261107de71985",
+   "published_utc": "2026-11-06T20:47:05+00:00",
+   "title_original": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "70842264e3e2374e"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ chief Ueda sees ’some upside risks’ to inflation",
+   "url": "https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5008920",
+   "published_utc": "2026-11-06T20:30:23+00:00",
+   "title_original": "BOJ chief Ueda sees ’some upside risks’ to inflation",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4449c86c58fc56d1"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -394,24 +430,6 @@
    "live_wire": false,
    "manual": false,
    "id": "14f8ee0286667219"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ chief Ueda sees ’some upside risks’ to inflation",
-   "url": "https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5008920",
-   "published_utc": "2026-11-06T18:18:54+00:00",
-   "title_original": "BOJ chief Ueda sees ’some upside risks’ to inflation",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4449c86c58fc56d1"
   },
   {
    "source_id": "tradingview_live",
@@ -1670,7 +1688,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRWTZvcW5YRkJ4X3J6Ym5MRkFGTmpMN0NYV1EyVFMtcWxkUEs1Y1FmUHpjQmlWWDA2cnJlSWNseVBjM2N3c0ZjbmtTRGE5UG9rQXd6cjdNZkdfWUk0VDJZc3d2cWZSZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcHVHNFdmUW1Ka3ZNaE82QVhpbG96Q3I3NzhRT2VSc1N3WThxUnZUcVgxQk5YbGNPeW52UXF3MU5Dc0ZMREw4al83TmU1dUcyNlJvZkRHamNPX1F3eUg2RQ?oc=5",
    "published_utc": "2026-11-06T05:59:40+00:00",
    "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
    "region": "china",
@@ -1682,7 +1700,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e9e75019b339c915"
+   "id": "e07cb4e4a29777d6"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51956,23 +51974,6 @@
    "live_wire": true,
    "manual": false,
    "id": "eb43ab25f565e3dd"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Long before his Nobel win, Michael Woodford was influencing China’s central bank",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHRyYUJydW45SUg1eDBYeWJBSDlYRkxqaktuelBoVjdpdHM5N09IemFrbVZRdFVQLWVEckllT0lnWVk3SkItRlZ6X1VsSDFCXzNDSi1YbTBzemZFTGcxQ1J0aDY4OW45X19xcnFudUFUWHNfR19NV1RfckZHaWIzQW5RZUNGZnJaV3paS2t5Q3A0azRHaVZWc2lRR3ZDeG1lS09TTnFEV19OT1ZJS0x0aVg2dVZraC1FVEtOV3VZc3NrOF8zaFpUT1BLd9IBywFBVV95cUxQSVFuWklPUjlPV2lRVWZON0NfSGJaZm5rSjB4V2d6ZlJFTU5lYkEtU01oYzAtYzZzWF8yTno1UEFreFhfa0VuWWt4ZWtEcFNiSFB5ZTFiSjIxVl9ZaWlHbTVaR1Byek8zUTR3d2ViZzdDMmlaSHJZQW9XdVBBTkt3RkYtZHNKVlh5SXRIaDBFNDhIU05nMEZJZDJKbHRITmZ6QkNLcHlkRWVoT2RZbWtoQS1DZFlKOVcxUVRSU2h2dEg4YV9Bci1HT3h5cw?oc=5",
-   "published_utc": "2026-10-13T12:00:08+00:00",
-   "title_original": "Long before his Nobel win, Michael Woodford was influencing China’s central bank",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1880bd4f35b6ce23"
   },
   {
    "source_id": "manual_ia",
