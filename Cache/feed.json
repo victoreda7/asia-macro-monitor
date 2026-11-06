@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T07:12:43.490326+00:00",
- "collected_at_utc": "2026-11-06T07:12:43.490326+00:00",
+ "generated_at_utc": "2026-11-06T07:22:45.743242+00:00",
+ "collected_at_utc": "2026-11-06T07:22:45.743242+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 904,
-  "china": 898,
+  "japan": 902,
+  "china": 899,
   "taiwan": 324,
-  "korea": 874
+  "korea": 875
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T06:49:50+00:00"
+   "newest": "2026-11-06T07:12:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T06:36:38+00:00"
+   "newest": "2026-11-06T07:00:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T15:55:07+09:00"
+   "newest": "2026-11-06T16:16:02+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T01:01:00+00:00"
+   "newest": "2026-11-06T05:07:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T07:12:16+00:00"
+   "newest": "2026-11-06T07:21:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "newest": "2026-11-06T02:00:00+00:00"
+   "newest": "2026-11-06T05:03:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China launches anti-dumping probe into EU, Japan ENB imports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45200R:0-china-launches-anti-dumping-probe-into-eu-japan-enb-imports/",
+   "published_utc": "2026-11-06T07:02:52+00:00",
+   "title_original": "China launches anti-dumping probe into EU, Japan ENB imports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8de31dd5701e504a"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -617,8 +634,8 @@
    "id": "f770de4e2ce2bd6c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T05:43:51+00:00",
@@ -631,7 +648,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "nhk_politics",
@@ -702,6 +719,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b3b8a7dbd6dc36ca"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "Interest rate (IR) outlook in major countries",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52WTc3dmp1VFBORlIyWmxkSmkwVTdxRU56ZFcwa2tvUy1aOEhZaHFlNFpId01wQjdkUDY2b3lJcTBRVC1RdTdkRUtIRlVrRTJpY2xpNkNzd1d1SGE0T0NIRlB3SjQxQQ?oc=5",
+   "published_utc": "2026-11-06T05:03:00+00:00",
+   "title_original": "주요국 금리 (IR) 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c2ae9130f3881a9c"
   },
   {
    "source_id": "tradingview_live",
@@ -3771,6 +3805,24 @@
    "id": "23d59d91ec66b59e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京市人民政府门户网站",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
+   "published_utc": "2026-11-05T02:24:00+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03384924387c3789"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -4490,6 +4542,24 @@
    "id": "00628f831f38c805"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-11-04T20:46:27+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Wall Street Is Helping China Build a Global Yuan",
@@ -4732,24 +4802,6 @@
    "id": "46136046ef4a3e7c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
-   "published_utc": "2026-11-04T13:38:35+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f678839ab95ea16f"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST",
@@ -4802,8 +4854,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -4817,7 +4869,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -11903,24 +11955,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9ddb99cfebd11322"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-11-01T03:10:50+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51939,41 +51973,6 @@
    "live_wire": false,
    "manual": false,
    "id": "673a3302800d55a0"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan survey (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ZWVyRWlQemQ3TVJWYXJrSnlmZHVfcnBxc3AwWnZHbzEtRDZxa0huZVI3ek91Y05WR09GOTZaWFRHcmhHODZsMnZDbnl1eEZxQjJRNG1OdWFvUVZZWU5rcG9SNV9UTUV5NzcxN25SbmJQd2RfdGQzb1F0OU92N3M?oc=5",
-   "published_utc": "2026-10-13T07:47:35+00:00",
-   "title_original": "個人の物価予想高止まり 5年後の物価「上がる」86.5% 日銀調査（TBS NEWS DIG Powered by JNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9628b1f204031a39"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semiconductor industries",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261013de58344",
-   "published_utc": "2026-10-13T07:38:07+00:00",
-   "title_original": "株価 大きく値下がり AI・半導体産業 競争激化の警戒感などで",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "44b3b4815562343d"
   },
   {
    "source_id": "manual_ia",

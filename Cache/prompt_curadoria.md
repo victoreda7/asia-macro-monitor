@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T07:12:43.490326+00:00
+Última coleta: 2026-11-06T07:22:45.743242+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          904
-  🇨🇳 China          898
+  🇯🇵 Japão          902
+  🇨🇳 China          899
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  874
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [china] China launches anti-dumping probe into EU, Japan ENB imports
   - [japan] (IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop
   - [china] Table: King Yuan Electronics Oct Rev NT$4.43B Vs NT$3.42B
   - [japan] Japan's GPIF Posts July-Sept Investment Loss Of 5.2533 Trln Yen
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
   - [japan] Japan to tap proceeds from BOJ asset sales as AI rout stokes fiscal worries
   - [taiwan] Micron says Taiwan operations normal amid reported Taoyuan project halt
+  - [korea] Interest rate (IR) outlook in major countries
   - [japan] Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen
   - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll
   - [japan] Mr. Takaichi considers the proceeds from the sale of Bank of Japan ETFs as a source of funding for bridging go
   - [china] China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5
-  - [china] China to Cut Diesel Exports on Tight Stocks, Energy Aspects Says
-  - [japan] Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T07:12:43+00:00",
+      "published_utc": "2026-11-06T07:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
