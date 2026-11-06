@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T03:32:42.831375+00:00
+Última coleta: 2026-11-06T03:42:43.338851+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          893
+  🇯🇵 Japão          894
   🇨🇳 China          898
-  🇹🇼 Taiwan         325
+  🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan slips, looks set to snap five-week winning streak
+  - [taiwan] Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk
   - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll
+  - [japan] Mr. Takaichi considers the proceeds from the sale of Bank of Japan ETFs as a source of funding for bridging go
   - [china] China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5
   - [japan] Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by 
   - [japan] Prime Minister Takaichi's consumption tax reduction bill: “Support based on income for more than 30% of worker
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s real wages rise for ninth month in September, backing BOJ rate hike
   - [japan] Yen Rises on Haven Demand as CIBC, Nomura See Room for More Gain
   - [china] US extends suspension of export restrictions on Chinese firms
-  - [korea] [Blue tsunami emergency diagnosis] Bond market: “If it reaches 4,000 pi, it will be impossible to raise the ba
-  - [korea] Filibuster over bill on alleged fabricated indictments
-  - [taiwan] Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T03:32:43+00:00",
+      "published_utc": "2026-11-06T03:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

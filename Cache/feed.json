@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T03:32:42.831375+00:00",
- "collected_at_utc": "2026-11-06T03:32:42.831375+00:00",
+ "generated_at_utc": "2026-11-06T03:42:43.338851+00:00",
+ "collected_at_utc": "2026-11-06T03:42:43.338851+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 893,
+  "japan": 894,
   "china": 898,
-  "taiwan": 325,
+  "taiwan": 324,
   "korea": 884
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T02:53:00+00:00"
+   "newest": "2026-11-06T03:02:14+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T03:12:50+00:00"
+   "newest": "2026-11-06T03:31:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T18:27:43+00:00"
+   "newest": "2026-11-06T00:17:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T22:00:07+00:00"
+   "newest": "2026-11-05T23:00:07+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T03:31:54+00:00"
+   "newest": "2026-11-06T03:41:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T20:43:38+00:00"
+   "newest": "2026-11-05T23:44:15+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T02:54:00+00:00"
+   "newest": "2026-11-06T03:03:51+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's yuan slips, looks set to snap five-week winning streak",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46N09S:0-china-s-yuan-slips-looks-set-to-snap-five-week-winning-streak/",
+   "published_utc": "2026-11-06T03:35:37+00:00",
+   "title_original": "China's yuan slips, looks set to snap five-week winning streak",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cf5a12bf77aa650a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261105026604:0-taiwan-dollar-weakens-on-ai-selloff-foreign-equity-outflows-market-talk/",
+   "published_utc": "2026-11-06T03:33:00+00:00",
+   "title_original": "Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ff9ac4d6717e193b"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll",
@@ -359,6 +393,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7110a9cecdde4d9a"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Mr. Takaichi considers the proceeds from the sale of Bank of Japan ETFs as a source of funding for bridging government bonds, a ``fruit of growth'' (Mainichi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVVIxaGQ4MldmYmFueGhRaXpzN1NQRnRpMkktdGd1bGc3bTd5OTR5NEJtSk9jVzEwTDhmOFozRTFlbzlJZUFteTJIMVdZaUFhdERNdnJ6MXZQc08tYmM4a210eEExWU5MaEZTX2RvUXdUZF9KZks1OVUwVlNzVEE?oc=5",
+   "published_utc": "2026-11-06T03:03:51+00:00",
+   "title_original": "高市氏、日銀ETF売却益は「成長の果実」つなぎ国債財源に検討（毎日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "09f879441c08b4be"
   },
   {
    "source_id": "tradingview_live",
@@ -378,8 +430,8 @@
    "id": "d77bfc9e6e9c01bb"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by the House of Representatives in the afternoon plenary session",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
    "published_utc": "2026-11-06T02:50:00+00:00",
@@ -393,7 +445,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bb938fb710c43882"
+   "id": "b7ca132d21b26127"
   },
   {
    "source_id": "nhk_politics",
@@ -555,19 +607,19 @@
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M1RE:0-nvidia-chips-pile-up-in-hong-kong-as-china-withholds-import-approval/",
-   "published_utc": "2026-11-06T02:01:50+00:00",
-   "title_original": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N031:0/",
+   "published_utc": "2026-11-06T02:02:24+00:00",
+   "title_original": "Chips da Nvidia se acumulam em Hong Kong enquanto a China retém a aprovação de importação",
    "region": "china",
    "topics": [
     "trade",
     "industrial"
    ],
-   "lang_original": "en",
-   "translated": false,
+   "lang_original": "pt",
+   "translated": true,
    "live_wire": true,
    "manual": false,
-   "id": "01ad8e415537d6dd"
+   "id": "d14a20991282a394"
   },
   {
    "source_id": "investing_live",
@@ -3122,24 +3174,6 @@
    "id": "23d59d91ec66b59e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "北京市人民政府门户网站",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
-   "published_utc": "2026-11-05T02:24:00+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "03384924387c3789"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -4082,6 +4116,24 @@
    "id": "46136046ef4a3e7c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
+   "published_utc": "2026-11-04T13:38:35+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f678839ab95ea16f"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST",
@@ -4134,8 +4186,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -4149,7 +4201,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51930,58 +51982,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f4f1f1fab27e5e5e"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Asian tech shares plunge after Chinese chipmaker reports key advance",
-   "url": "https://asia.nikkei.com/business/markets/asian-tech-shares-plunge-after-chinese-chipmaker-reports-key-advance",
-   "published_utc": "2026-10-13T04:12:46.276100+00:00",
-   "title_original": "Asian tech shares plunge after Chinese chipmaker reports key advance",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9769a6ee3a193a56"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%",
-   "url": "https://focustaiwan.tw/business/202610130005",
-   "published_utc": "2026-10-13T03:43:50+00:00",
-   "title_original": "IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2d0a7d37d6a814a9"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "TSMC, ASML earnings on tap: Bull and bear cases for tech outlined",
-   "url": "https://www.investing.com/news/stock-market-news/tsmc-asml-earnings-on-tap-bull-and-bear-cases-for-tech-outlined-93CH-4945344",
-   "published_utc": "2026-10-13T03:21:03+00:00",
-   "title_original": "TSMC, ASML earnings on tap: Bull and bear cases for tech outlined",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d505b0ef55bbe85a"
   },
   {
    "source_id": "manual_ia",
