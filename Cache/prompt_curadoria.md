@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T07:32:44.834121+00:00
+Última coleta: 2026-11-06T07:42:44.963627+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          903
+  🇯🇵 Japão          905
   🇨🇳 China          899
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  873
+  🇹🇼 Taiwan         324
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
+  - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
+  - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
   - [china] China launches anti-dumping probe into EU, Japan ENB imports
   - [taiwan] Taiwan forex reserves dip below US$600 billion amid intervention
@@ -26,7 +29,7 @@ Total: 3000 manchetes
   - [japan] Duskin Co Ltd Says It Will Buy Back Up To 2.55% Of Own Shares Worth 5 Billion Yen
   - [japan] Open House Group Co Ltd - To Buy Back Up To 4.55% Of Shares Worth 25 Billion Yen
   - [korea] Hankook Tire & Technology Co Ltd: Record Tire revenue and higher Thermal Management profit supported KRW 598.8
-  - [japan] JGB yields plunge to July lows as Wall St tech tout sparks haven rush
+  - [japan] JGB yields plunge to June lows as Wall St tech tout sparks haven rush
   - [japan] Japan’s Nikkei enters bear market as AI rout sends chip shares into sharp retreat
   - [china] China’s Hua Hong defies chip selloff on strong earnings, upbeat guidance
   - [china] King Yuan Electronics Company: Q3'26 revenue reached NT$12.1 billion, backed by 6,800+ installed test systems
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Russia takes control of Japan Tobacco subsidiary's assets | NHK WORLD-JAPAN News
   - [japan] BOJ eyes AI demand as inflation risk
   - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters
-  - [china] China's yuan slips, looks set to snap five-week winning streak
-  - [taiwan] Taiwan-UK tech ties could support Europe's chip autonomy drive
-  - [taiwan] Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T07:32:45+00:00",
+      "published_utc": "2026-11-06T07:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
