@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T03:52:42.530219+00:00
+Última coleta: 2026-11-06T04:02:42.213127+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          893
-  🇨🇳 China          899
+  🇯🇵 Japão          891
+  🇨🇳 China          900
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen
+  - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
+  - [china] China's top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [japan] BOJ eyes AI demand as inflation risk
   - [china] China's yuan slips, looks set to snap five-week winning streak
   - [taiwan] Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble
   - [korea] Samsung, SK hynix slide 10% as AI data center fears spread
   - [korea] Finance minister vows timely actions to ease stock market volatility
-  - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
-  - [china] Dongguan Mentech Plans To Raise Up To 1.28 Bln Yuan In Share Placement
-  - [korea] South Korea finance minister vows to curb excessive stock market volatility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T03:52:42+00:00",
+      "published_utc": "2026-11-06T04:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
