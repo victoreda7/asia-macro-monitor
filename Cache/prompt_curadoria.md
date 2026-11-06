@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T15:52:42.805787+00:00
+Última coleta: 2026-11-06T16:02:45.683748+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
-  🇨🇳 China          897
+  🇯🇵 Japão          906
+  🇨🇳 China          896
   🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] TSMC considera fabricar chips de memória avançados, segundo o Theme Information
   - [taiwan] TSMC considers making advanced memory chips, The Information reports
+  - [taiwan] TSMC considera fabricar chips de memória avançados, segundo o Theme Information
   - [japan] U.S. employment increased by 165,000 in October, exceeding expectations
   - [china] Suzano's CFO Says Chinese Debt Market Now Looks More Attractive For Bond Issuance
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T15:52:43+00:00",
+      "published_utc": "2026-11-06T16:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
