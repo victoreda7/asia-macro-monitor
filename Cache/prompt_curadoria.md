@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T15:02:42.398039+00:00
+Última coleta: 2026-11-06T15:12:51.029280+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          906
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] U.S. employment increased by 165,000 in October, exceeding expectations
+  - [china] Suzano's CFO Says Chinese Debt Market Now Looks More Attractive For Bond Issuance
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
   - [japan] Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Co
   - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
   - [taiwan] Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates
   - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
-  - [japan] BOJ eyes AI demand as inflation risk
-  - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T15:02:42+00:00",
+      "published_utc": "2026-11-06T15:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
