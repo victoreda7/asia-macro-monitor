@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T10:12:43.776801+00:00",
- "collected_at_utc": "2026-11-06T10:12:43.776801+00:00",
+ "generated_at_utc": "2026-11-06T10:22:46.049071+00:00",
+ "collected_at_utc": "2026-11-06T10:22:46.049071+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 906,
+  "japan": 904,
   "china": 896,
   "taiwan": 326,
-  "korea": 872
+  "korea": 874
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 32.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T07:55:00+00:00"
+   "newest": "2026-11-06T09:00:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T09:53:29+00:00"
+   "newest": "2026-11-06T10:12:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T09:42:35+00:00"
+   "newest": "2026-11-06T09:58:52+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T09:41:40+00:00"
+   "newest": "2026-11-06T10:08:25+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T07:53:00+00:00"
+   "newest": "2026-11-06T08:47:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T19:01:17+09:00"
+   "newest": "2026-11-06T19:16:17+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T19:00:14+09:00"
+   "newest": "2026-11-06T19:16:17+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T10:12:04+00:00"
+   "newest": "2026-11-06T10:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,61 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-06T09:17:06+00:00"
+   "newest": "2026-11-06T09:59:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Subaru China recalls 196,494 imported cars in China, China's market regulator says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46N0TU:0-subaru-china-recalls-196-494-imported-cars-in-china-china-s-market-regulator-says/",
+   "published_utc": "2026-11-06T10:00:35+00:00",
+   "title_original": "Subaru China recalls 196,494 imported cars in China, China's market regulator says",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "61897f015239f753"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "Investing.com 한국어",
+   "title_en": "Citi presents two scenarios for Bank of Korea base rate hike",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpWkQwaU5nLTl0aGFuNjVPaEY4WnNFX2dLX2F5WFpacUZicVlFTXItWEoxaHBIOW8xQmNIZ3ItdXo3azNvVDdRUDAyTVpsRFNiRVotblRWRjczSDlBbktFZU41OFlaWmthWTdjbGFTbEc?oc=5",
+   "published_utc": "2026-11-06T09:59:00+00:00",
+   "title_original": "씨티, 한국은행 기준금리 인상 시나리오 두 가지 제시",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "20e94162941e356d"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Citi sees two rate hike scenarios for South Korea’s BoK",
+   "url": "https://www.investing.com/news/economy-news/citi-sees-two-rate-hike-scenarios-for-south-koreas-bok-93CH-5007076",
+   "published_utc": "2026-11-06T09:58:52+00:00",
+   "title_original": "Citi sees two rate hike scenarios for South Korea’s BoK",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fdbabefeab6e286b"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -360,23 +411,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a7dbc7aa1618ce1c"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary Kihara, details to be considered in the future (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zbGFDSnR6VG5WZ2dDbHI4THpnbExfSG1lSjI5UXdIamc1S2thdW5yRFNOVllfakFMNzQ1SzFGU1Z2Y1NOVWxWcXNJYjF3LW8zN3lzMGVoRzZqZlJ5N09pTEZvd1ZEODZjM3Q0M3RQZFpHSndLYW5zZUo1XzRndms?oc=5",
-   "published_utc": "2026-11-06T09:32:05+00:00",
-   "title_original": "日銀ETF売却益を新たな特別会計に 木原官房長官 詳細は今後検討（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "60ed6bf4a323f00b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -411,6 +445,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9bf190d9e8df4310"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary Kihara, details to be considered in the future (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNHlLYk0zUlEzQ2lPZWp2R1VTMUtNY0lodXhWVTBQT0ctT1dRVU8xMl96X1hmdzJKUTJtV09Nd2RHRFJzYXVpbnFheEllNmp4dmttanV0ekd5Qkg0QmxVUGVicWF2LXI0ay1Fd0JTY0JDV21feUNaSTAxQlV3dnM?oc=5",
+   "published_utc": "2026-11-06T09:26:52+00:00",
+   "title_original": "日銀ETF売却益を新特別会計に 木原官房長官 詳細は今後検討（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "009d379e7ac1bd4a"
   },
   {
    "source_id": "gn_kr_bok",
@@ -448,6 +499,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0671084a654e2a9e"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQmo1MWh5NTA2ZUtFTHo3bDhVbmQ0bTduM3N2Q1A2ZGZyLWtlN1JIaUNxWGtWMncwYUJqQnhPUktiYkVVdDdpcGo2RVBMSDZmQWpYRXZGcU5QMXVXUG5QN0gxRlFwUll2OHQycQ?oc=5",
+   "published_utc": "2026-11-06T08:47:00+00:00",
+   "title_original": "NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "57fb596e25b808ec"
   },
   {
    "source_id": "nhk_economy",
@@ -517,6 +585,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d3112e08a00da05b"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Amid the growing burden of taxes and financial costs in the housing market in the Gangnam area of Se..",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSGFhRnRuZlZUdndWSmtnVVpaSGYtanhxSFNVdmN1SDJCblItTTFhZzV2bWRqN1FBdjhwLUlaNEw0eVo1cVYxM1ZFS01SeXJneXNWdkln?oc=5",
+   "published_utc": "2026-11-06T08:25:16+00:00",
+   "title_original": "Amid the growing burden of taxes and financial costs in the housing market in the Gangnam area of Se..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e8affff414bf25d"
   },
   {
    "source_id": "focus_taiwan",
@@ -722,6 +807,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2ca3ba0b89239441"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Prime Minister Takaichi says the proceeds from the Bank of Japan's sale of ETFs will be used for investment as a \"financial source for economic security\" (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYm16S3daSEhKTXFIV29hTHh3VkRWTktLZzZwblc5VGZVeVJhUW5nT1ZiRGhqd01iMFhEQkd4M2ZZLXkyd3VuYjVjSWZfbW0xcG5RN0g1dU5xcEtSZ1NpV3c0NHZnUnZKZFU4T21LTkZjLTl1cnBLQjNTQUlJUG8?oc=5",
+   "published_utc": "2026-11-06T07:06:32+00:00",
+   "title_original": "高市首相、日銀のETF売却益は「経済安保の財源」 投資に活用（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fad0629a59a5d2e1"
   },
   {
    "source_id": "tradingview_live",
@@ -1701,23 +1803,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dda59cb1e59ad4ed"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "JGB Yields Fall as Stock Markets Drop Sharply — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261105026328:0-jgb-yields-fall-as-stock-markets-drop-sharply-market-talk/",
-   "published_utc": "2026-11-06T01:42:00+00:00",
-   "title_original": "JGB Yields Fall as Stock Markets Drop Sharply — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "681792c6ddfad10f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51886,92 +51971,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e474e1855925fa63"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BQzlOUG5Mb0g1emk5T2xqbEJmcHRqdEI4cDBCSjY1MlUzdTVpVVBEUlp0Ty1rSU9NS1hTckpOYlkzRGJjMmtVeHlzODFTdW16QjBOYW5KOF9mcDlGTzVVRDBEVXpvS0ptWXVkc3NkRzhSOVA2dWxNUDZJNTU0TmM?oc=5",
-   "published_utc": "2026-10-13T09:02:36+00:00",
-   "title_original": "1年後の物価「上がる」88％ 日銀、9月の生活意識アンケート（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "63161d2d0d990543"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Chip selloff deepens amid AI trade fears, rising Chinese competition",
-   "url": "https://www.tradingview.com/news/seekingalpha:37cbe9582094b:0-chip-selloff-deepens-amid-ai-trade-fears-rising-chinese-competition/",
-   "published_utc": "2026-10-13T09:01:06+00:00",
-   "title_original": "Chip selloff deepens amid AI trade fears, rising Chinese competition",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2cc27cd2e0d858df"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Starting next year, state subsidies per hydrogen car will be reduced to 20 million won, 11.1% less t..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mQ0c4TnBqQ0drVmV5Y0xkQ2FCeFF0MzRBYkhpd0ZNa0N1Zkt6UjVhQXpFRTVmbVd3RmZENlo3c2xFQWZuZ3QwdzNFNFF1SV9fMUE?oc=5",
-   "published_utc": "2026-10-13T08:47:05+00:00",
-   "title_original": "Starting next year, state subsidies per hydrogen car will be reduced to 20 million won, 11.1% less t..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7760859cd1ac052f"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The Ministry of Finance and Economy announced an administrative notice on the 13th to raise the pre",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVbXAwb0RZVTBONEV1X205LWowRy1pSHp0Snc4LXdXZG5fcnRoN2tWWmQ4NEliaFFSNmpOMDI1UWNPQ29VTlFVaHgweXBHamVTbUE?oc=5",
-   "published_utc": "2026-10-13T08:47:05+00:00",
-   "title_original": "The Ministry of Finance and Economy announced an administrative notice on the 13th to raise the pre",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "689d9ae6323101fa"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Former NHK Chairman Nobuo Inaba dies at age 75, former Bank of Japan board member (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAteVNJaWpFSlY5Q2tWVzVmaERUT0hSaGIxSmlEX3VIZFdBdVpGOElNOFdNdUZKdFhGUWpxMzhEQi1rV0ZfUG9UNmNBTS1raDR4bTJQeXI2STlDa1F2M0VKX1pvNC1wUF9rejZQV0otMWdzbzlCc3cweVdxaFlEbE0?oc=5",
-   "published_utc": "2026-10-13T08:45:20+00:00",
-   "title_original": "前NHK会長の稲葉延雄さん死去 元日銀理事、75歳（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "83dde6716c9bfb67"
   },
   {
    "source_id": "manual_ia",

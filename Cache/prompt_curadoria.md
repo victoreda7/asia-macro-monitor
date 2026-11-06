@@ -7,26 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T10:12:43.776801+00:00
+Última coleta: 2026-11-06T10:22:46.049071+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          906
+  🇯🇵 Japão          904
   🇨🇳 China          896
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  872
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] Subaru China recalls 196,494 imported cars in China, China's market regulator says
+  - [korea] Citi presents two scenarios for Bank of Korea base rate hike
+  - [korea] Citi sees two rate hike scenarios for South Korea’s BoK
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
-  - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
   - [korea] Domestic financial experts raised a series of concerns over the government's budget plan for next ye..
   - [japan] Bill on food tax cut clears Lower House
+  - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
   - [korea] Was this the reason why the Governor of the Bank of Korea said, “Semiconductor prices are important”?
   - [japan] Prime Minister Takaichi Proceeds from additional sales of Bank of Japan ETFs will be used as a source of new i
+  - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
   - [japan] GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds
   - [korea] Korean sweet persimmons will be exported to China for the first time. This is the first achievement
   - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
+  - [korea] Amid the growing burden of taxes and financial costs in the housing market in the Gangnam area of Se..
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
@@ -39,6 +44,7 @@ Total: 3000 manchetes
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
+  - [japan] Prime Minister Takaichi says the proceeds from the Bank of Japan's sale of ETFs will be used for investment as
   - [china] China launches anti-dumping probe into EU, Japan ENB imports
   - [taiwan] Taiwan forex reserves dip below US$600 billion amid intervention
   - [japan] (IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s Nikkei enters bear market as AI rout sends chip shares into sharp retreat
   - [china] China’s Hua Hong defies chip selloff on strong earnings, upbeat guidance
   - [china] King Yuan Electronics Company: Q3'26 revenue reached NT$12.1 billion, backed by 6,800+ installed test systems
-  - [japan] Comsys Holdings Corp - Expands Share Buyback Plan To Maximum 2.84% Of Outstanding Stock Worth 13 Billion Yen, 
-  - [japan] Taiyo Holdings: Electronics growth and yen weakness lifted H1 results and drove higher FY2027 guidance
-  - [japan] FJ Next Holdings Co: Record H1 profit growth on condominium sales; FY guidance and 80-yen dividend stand
-  - [china] The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reve
-  - [korea] Taesung To Divest Real Estate Worth 19.8 Billion Won
-  - [korea] Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T10:12:44+00:00",
+      "published_utc": "2026-11-06T10:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
