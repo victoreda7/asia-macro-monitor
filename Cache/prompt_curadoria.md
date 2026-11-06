@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T18:22:45.504108+00:00
+Última coleta: 2026-11-06T18:32:46.095286+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          904
-  🇨🇳 China          898
+  🇯🇵 Japão          903
+  🇨🇳 China          899
   🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
+  - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
   - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
   - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Was this the reason why the Governor of the Bank of Korea said, “Semiconductor prices are important”?
   - [japan] Prime Minister Takaichi Proceeds from additional sales of Bank of Japan ETFs will be used as a source of new i
   - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
-  - [japan] GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T18:22:45+00:00",
+      "published_utc": "2026-11-06T18:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
