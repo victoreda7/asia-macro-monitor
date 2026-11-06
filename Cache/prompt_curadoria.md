@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T18:02:42.992842+00:00
+Última coleta: 2026-11-06T18:12:44.000237+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          905
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
   - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
   - [japan] GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds
   - [korea] Korean sweet persimmons will be exported to China for the first time. This is the first achievement
-  - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T18:02:43+00:00",
+      "published_utc": "2026-11-06T18:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
