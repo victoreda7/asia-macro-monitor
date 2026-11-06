@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-06T01:02:42.772588+00:00",
- "collected_at_utc": "2026-11-06T01:02:42.772588+00:00",
+ "generated_at_utc": "2026-11-06T01:12:42.328775+00:00",
+ "collected_at_utc": "2026-11-06T01:12:42.328775+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 892,
   "china": 898,
-  "taiwan": 321,
-  "korea": 889
+  "taiwan": 322,
+  "korea": 888
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:31:00+00:00"
+   "newest": "2026-11-05T02:24:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T01:01:52+00:00"
+   "newest": "2026-11-06T01:11:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T23:37:10+00:00"
+   "newest": "2026-11-06T00:55:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Plunges 9.8%; Foxconn Down 9.15%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261105026193_20261105026195:0-tsmc-plunges-9-8-foxconn-down-9-15/",
+   "published_utc": "2026-11-06T01:06:00+00:00",
+   "title_original": "TSMC Plunges 9.8%; Foxconn Down 9.15%",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d96bcac2723f2a2c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -3630,8 +3647,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -3645,7 +3662,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6686,7 +6703,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "China's State Council removes Winnie Ho from HKSAR gov't post",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12TW1WbjZUTi1ZZmh6RDhKM0xOcHJqT3ZST0dVMGpCdlFuR0JyQVJXdV9vSW56R2RhUVpBdVNxSmhEVVpRTkYzVDM0aUdDZzVnOTRkcUVPblhDU1RNUEZwcVQyUlF1UVZtMk1odTVmeFFXWVlsSi1aQ01LYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YMzRvbkwyNkR2QnMybGVvMkdPbkNEcWlUTjl1bURoSjlUTUNQd1BnVHotZjk4MUs2SGlqem1SLTVLWkdmT09YSUFWc3cyOVRFV050VzN4bmM5SEZUaHA3Z0k2S3FQUk9idXB0RzNUS0FpNUdsdGczRUMyTnI?oc=5",
    "published_utc": "2026-11-03T06:38:16+00:00",
    "title_original": "China's State Council removes Winnie Ho from HKSAR gov't post",
    "region": "china",
@@ -6697,7 +6714,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e57aae7420d1a707"
+   "id": "6bf357496117ed52"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51972,23 +51989,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cb1ae85f46387b51"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VbHhOcmhidkhVQ2libmNvdWhqbDc2WDZXLTQxV3dwSV9hSmZjb0E1TThfd1VTbkZBWnQ4ZnBUamhmdVNiaFFrbzFPZXI5VGIxQnZjMzRyTVZrQQ?oc=5",
-   "published_utc": "2026-10-13T00:01:38+00:00",
-   "title_original": "(URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c40093a4907124f"
   },
   {
    "source_id": "manual_ia",
