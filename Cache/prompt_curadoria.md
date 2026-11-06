@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T16:22:43.790962+00:00
+Última coleta: 2026-11-06T16:32:43.574644+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          906
+  🇯🇵 Japão          905
   🇨🇳 China          896
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  869
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix Stocks Plunge 10.44% as AI Memory Leader Leads Seoul Selloff
+  - [china] Chinese premier chairs State Council executive meeting
   - [taiwan] TSMC considers making advanced memory chips, The Information reports
   - [taiwan] TSMC considera fabricar chips de memória avançados, segundo o Theme Information
   - [japan] U.S. employment increased by 165,000 in October, exceeding expectations
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
-  - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
-  - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T16:22:43+00:00",
+      "published_utc": "2026-11-06T16:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
