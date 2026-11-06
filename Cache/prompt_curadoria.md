@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T12:02:45.073969+00:00
+Última coleta: 2026-11-06T12:12:42.675475+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
+  🇯🇵 Japão          904
   🇨🇳 China          897
-  🇹🇼 Taiwan         325
+  🇹🇼 Taiwan         326
   🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
+  - [taiwan] Stabilization fund ready for market intervention after Taiex's plunge
   - [japan] Invesco CurrencyShares Japanese Yen Trust 3Q 2026: EPS ($0.04) — 10-Q Summary
   - [china] Soybean imports by China in 2026/27 estimated at 110 million tons, says USDA attaché
   - [japan] Consumption tax cut bill passes Japan's lower house in fast-tracked vote
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
   - [japan] Prime Minister Takaichi says the proceeds from the Bank of Japan's sale of ETFs will be used for investment as
-  - [china] China launches anti-dumping probe into EU, Japan ENB imports
-  - [taiwan] Taiwan forex reserves dip below US$600 billion amid intervention
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T12:02:45+00:00",
+      "published_utc": "2026-11-06T12:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
