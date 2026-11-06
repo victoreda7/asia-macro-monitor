@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T09:42:43.271396+00:00",
- "collected_at_utc": "2026-11-06T09:42:43.271396+00:00",
+ "generated_at_utc": "2026-11-06T09:52:43.962838+00:00",
+ "collected_at_utc": "2026-11-06T09:52:43.962838+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
+  "japan": 906,
   "china": 896,
   "taiwan": 326,
-  "korea": 873
+  "korea": 872
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T09:02:00+00:00"
+   "newest": "2026-11-06T09:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T09:30:08+00:00"
+   "newest": "2026-11-06T09:34:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "newest": "2026-11-04T09:56:00+00:00"
+   "newest": "2026-11-06T00:35:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T18:26:06+09:00"
+   "newest": "2026-11-06T18:47:11+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T18:37:04+09:00"
+   "newest": "2026-11-06T18:47:11+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T09:42:03+00:00"
+   "newest": "2026-11-06T09:52:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T06:06:16+00:00"
+   "newest": "2026-11-06T09:24:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T08:51:01+00:00"
+   "newest": "2026-11-06T09:32:05+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,18 +331,70 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T08:40:26+00:00"
+   "newest": "2026-11-06T09:31:32+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-06T07:54:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
+   "published_utc": "2026-11-06T09:47:11+00:00",
+   "title_original": "消費税減税法案 参議院では11日審議入りへ",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64f02842f689e851"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary Kihara, details to be considered in the future (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zbGFDSnR6VG5WZ2dDbHI4THpnbExfSG1lSjI5UXdIamc1S2thdW5yRFNOVllfakFMNzQ1SzFGU1Z2Y1NOVWxWcXNJYjF3LW8zN3lzMGVoRzZqZlJ5N09pTEZvd1ZEODZjM3Q0M3RQZFpHSndLYW5zZUo1XzRndms?oc=5",
+   "published_utc": "2026-11-06T09:32:05+00:00",
+   "title_original": "日銀ETF売却益を新たな特別会計に 木原官房長官 詳細は今後検討（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "60ed6bf4a323f00b"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Domestic financial experts raised a series of concerns over the government's budget plan for next ye..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8td2ktdzFUdVJUVmlUczFSNnhxRkw2ZzBJcF9BY3I4VmM1ZjNQMno2a1RqVVItME5OaXRzc3ptc2N3NUlmSUJObmU0XzJFb2V5aWc?oc=5",
+   "published_utc": "2026-11-06T09:31:10+00:00",
+   "title_original": "Domestic financial experts raised a series of concerns over the government's budget plan for next ye..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6878509cafda6dba"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -362,8 +414,8 @@
    "id": "0671084a654e2a9e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -377,7 +429,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -431,24 +483,6 @@
    "id": "d3112e08a00da05b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
-   "published_utc": "2026-11-06T08:21:58+00:00",
-   "title_original": "消費税減税法案 参議院では11日審議入りへ",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7dbc7aa1618ce1c"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "U.S. dollar closes sharply lower on Taipei forex market",
@@ -484,8 +518,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -498,7 +532,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -589,7 +623,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Citi \"maintains interest rate hike forecast for November despite KOSPI plunge\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZTmx5UXFta0prNG03YnJmVXZNemNMZnEtLWdKd2JLVXczZlBBamhLTVhhV0hPWEc3NmxQR2w3c21Tekh4NUc3ZDlkYXBXMU04RmM1dWtLQVNLZGNZSkdPOdIBYEFVX3lxTE9ZTmx5UXFta0prNG03YnJmVXZNemNMZnEtLWdKd2JLVXczZlBBamhLTVhhV0hPWEc3NmxQR2w3c21Tekh4NUc3ZDlkYXBXMU04RmM1dWtLQVNLZGNZSkdPOQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocDU2SGJOdWJxZEtqN2pndnpfVVlya09hWkhWN04ydEo0aGcwcGFGcDlKT2JEREgwTnFMTHpBRkNYX1pBWnFGbGl0bGNSZzh4MGFpQ1JlbmxqQ1HSAWBBVV95cUxPWU5seVFxbWtKazRtN2JyZlV2TXpjTGZxLS1nSndiS1V3M2ZQQWpoS01YYVdIT1hHNzZsUEdsN3NtU3pIeDVHN2Q5ZGFwVzFNOEZjNXVrS0FTS2RjWUpHTzk?oc=5",
    "published_utc": "2026-11-06T07:44:06+00:00",
    "title_original": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\"",
    "region": "korea",
@@ -600,7 +634,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "be36b0b57239aca7"
+   "id": "78fb27d20fc3d31c"
   },
   {
    "source_id": "tradingview_live",
@@ -4047,6 +4081,24 @@
    "id": "23d59d91ec66b59e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京市人民政府门户网站",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
+   "published_utc": "2026-11-05T02:24:00+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03384924387c3789"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -5024,24 +5076,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46136046ef4a3e7c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
-   "published_utc": "2026-11-04T13:38:35+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f678839ab95ea16f"
   },
   {
    "source_id": "tradingview_live",
@@ -51937,40 +51971,6 @@
    "live_wire": false,
    "manual": false,
    "id": "781420c7ea4310d5"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "[Photo] Export-import silver supports independence of isolated youth",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zX0hiRk16N2xsWDdGZnhhOWZwYXlqS2xOVWFGZER6TGZxaTdRaHVWRU1yb0YySGxVZW1JNUE0c3RTRk5PVEpDU05LQ2VaVFN2Snc?oc=5",
-   "published_utc": "2026-10-13T08:44:40+00:00",
-   "title_original": "[Photo] Export-import 銀 supports independence of isolated youth",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8510b30141c5d84c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Samsung Electronics chairman Lee to receive 2.6 trillion won worth of shares from mother, reports say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44S020:0-samsung-electronics-chairman-lee-to-receive-2-6-trillion-won-worth-of-shares-from-mother-reports-say/",
-   "published_utc": "2026-10-13T08:42:47+00:00",
-   "title_original": "Samsung Electronics chairman Lee to receive 2.6 trillion won worth of shares from mother, reports say",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9b2758c46e4d0973"
   },
   {
    "source_id": "manual_ia",

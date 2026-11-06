@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T09:42:43.271396+00:00
+Última coleta: 2026-11-06T09:52:43.962838+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
+  🇯🇵 Japão          906
   🇨🇳 China          896
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
+  - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
+  - [korea] Domestic financial experts raised a series of concerns over the government's budget plan for next ye..
   - [japan] Prime Minister Takaichi Proceeds from additional sales of Bank of Japan ETFs will be used as a source of new i
   - [japan] GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds
   - [korea] Korean sweet persimmons will be exported to China for the first time. This is the first achievement
   - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
-  - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary
   - [japan] Abduction families “Japan-North Korea summit meeting to resolve the issue” Liberal Democratic Party Abduction 
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
-  - [japan] Japan to tap proceeds from BOJ asset sales as AI rout stokes fiscal worries
-  - [taiwan] Micron says Taiwan operations normal amid reported Taoyuan project halt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T09:42:43+00:00",
+      "published_utc": "2026-11-06T09:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
