@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T02:12:43.868429+00:00
+Última coleta: 2026-11-06T02:22:46.313478+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
-  🇨🇳 China          899
-  🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  884
+  🇯🇵 Japão          893
+  🇨🇳 China          897
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why is SK Hynix stock crashing today?
+  - [taiwan] Why is TSMC stock plunging today?
+  - [taiwan] Taiwan dollar, Malaysian ringgit lead losses in Asian currencies
+  - [taiwan] In line with international trade fishing and management, the Fisheries Department piloted the opening of expor
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
+  - [korea] Why is Samsung Electronics stock plunging today?
   - [japan] Consumption tax reduction bill: Ruling party: ``Vote on the 6th'' Opposition: ``Decision after listening to Pr
   - [china] CHINA PBOC CONDUCTS CNY226 BLN VIA O/N REVERSE REPO FRI
   - [japan] JGB Yields Fall as Stock Markets Drop Sharply — Market Talk
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] The long-awaited interest rate hike is a "big miscalculation", and about half of the credit unions and credit 
   - [japan] The "overall picture of finances" should be questioned rather than tax cut revenue sources; why is the Takaich
   - [japan] Will Trump, who suffered a crushing defeat in the midterm elections, approach Kim Jong Un at the US-North Kore
-  - [china] Chinese cars' share in the UK market rapidly increases, reaching 17.5% in the January-September period...More 
-  - [japan] Consumption tax reduction bill: ruling party poised to vote today; opposition party “concrete picture vague”
-  - [china] Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report
-  - [taiwan] SuperAlloy enters semiconductor pilot production in 3Q26
-  - [china] Avoiding U.S. export controls, the dark side of China's AI start-up moon turns to Europe to rent Huida chip co
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T02:12:44+00:00",
+      "published_utc": "2026-11-06T02:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

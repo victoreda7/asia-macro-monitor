@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T02:12:43.868429+00:00",
- "collected_at_utc": "2026-11-06T02:12:43.868429+00:00",
+ "generated_at_utc": "2026-11-06T02:22:46.313478+00:00",
+ "collected_at_utc": "2026-11-06T02:22:46.313478+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 895,
-  "china": 899,
-  "taiwan": 322,
-  "korea": 884
+  "japan": 893,
+  "china": 897,
+  "taiwan": 325,
+  "korea": 885
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T01:46:19+00:00"
+   "newest": "2026-11-06T02:11:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T01:42:18+00:00"
+   "newest": "2026-11-06T02:06:56+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T10:52:14+09:00"
+   "newest": "2026-11-06T11:18:27+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T11:03:25+09:00"
+   "newest": "2026-11-06T11:18:27+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T02:24:00+00:00"
+   "newest": "2026-11-05T06:56:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T12:47:32+00:00"
+   "newest": "2026-11-05T21:20:11+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T02:01:50+00:00"
+   "newest": "2026-11-06T02:21:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T01:44:00+00:00"
+   "newest": "2026-11-06T02:09:18+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,74 @@
  ],
  "items": [
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock crashing today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-crashing-today-93CH-5006304",
+   "published_utc": "2026-11-06T02:11:51+00:00",
+   "title_original": "Why is SK Hynix stock crashing today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5050834049763c10"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is TSMC stock plunging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-plunging-today-93CH-5006303",
+   "published_utc": "2026-11-06T02:11:47+00:00",
+   "title_original": "Why is TSMC stock plunging today?",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "051c2f05456e2de0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan dollar, Malaysian ringgit lead losses in Asian currencies",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46N07K:0-taiwan-dollar-malaysian-ringgit-lead-losses-in-asian-currencies/",
+   "published_utc": "2026-11-06T02:11:41+00:00",
+   "title_original": "Taiwan dollar, Malaysian ringgit lead losses in Asian currencies",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d27a24947fd2894c"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "In line with international trade fishing and management, the Fisheries Department piloted the opening of exports of eel seedlings and established a traceability management system.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBubTBrejBITDhpNDlOTGE2ZjlRWmdKeXlmZ1B4VGJXdjlYa0lSeW5HMTJBbHpFUmxkeU9zR2R6aTJXNDlHWVNCZHVLQU5jXzZsT0JmTDRR?oc=5",
+   "published_utc": "2026-11-06T02:09:18+00:00",
+   "title_original": "接軌國際貿易捕撈及管理 漁業署試辦鰻苗開放出口及建立溯源管理制度",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "713910c969086a89"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Nvidia chips pile up in Hong Kong as China withholds import approval",
@@ -360,6 +428,23 @@
    "live_wire": true,
    "manual": false,
    "id": "01ad8e415537d6dd"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock plunging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5006286",
+   "published_utc": "2026-11-06T01:59:43+00:00",
+   "title_original": "Why is Samsung Electronics stock plunging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4343f6afa5078ec3"
   },
   {
    "source_id": "nhk_economy",
@@ -1119,6 +1204,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d8a7a5ff5e4b09a6"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "NSTC in talks to establish space investment fund",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SWUNrSzdkajd5cGt0UVBiX1d6ZWFQT3d1NzNhU205ckF5Vk1jcDlJS3JsRVFMeFBmWjJmb3BiNjJvS2NBbWgxN0tFM3lhS01pTUFLdEdXbGllSi1lUWxnMUFDNFVOUUMxSTBfanZjZnNsSmVNdnFDRg?oc=5",
+   "published_utc": "2026-11-05T16:00:00+00:00",
+   "title_original": "NSTC in talks to establish space investment fund",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "66f894615b641707"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -2809,23 +2911,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ee9ed6cec84e23ad"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is Samsung Electronics stock plunging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5002078",
-   "published_utc": "2026-11-05T02:56:03+00:00",
-   "title_original": "Why is Samsung Electronics stock plunging today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "25c13668e4bcb151"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51896,93 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "542bbadeb4a4a396"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan to raise interest rates to neutral level in stages despite forecast of slowing growth = IMF (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SktsNGlUSVpnUVc0SWpaTFJLVW1fZ19vazJBTExUd1JnZWpQejlwVjM5Z2NKaHZzNzhYcWlhZUNKTnY0THJJNktFeDFqQVVueUVhXzdrd1NYMW1sT2RGVmF5VXhjS05rZENUblZLOXdrS0VsOTRRbEhUUG40bzg?oc=5",
-   "published_utc": "2026-10-13T02:07:01+00:00",
-   "title_original": "日銀、中立水準に段階的利上げへ 成長減速見通しでも＝ＩＭＦ（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "06b0cd74d05c8278"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "IMF expects gradual BOJ rate hike towards neutral setting",
-   "url": "https://www.investing.com/news/economy-news/imf-expects-gradual-boj-rate-hike-towards-neutral-setting-4945314",
-   "published_utc": "2026-10-13T02:06:54+00:00",
-   "title_original": "IMF expects gradual BOJ rate hike towards neutral setting",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7f23d6744e9d3c12"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Hamada Labs targets Taiwan, Japan manufacturing with AI platform",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdhT0VudGJmYTBMWGFwNHFJZFNTSzkzRU1pM2hla2JmNGl6MXRENFhhMHZVeGxnRElEU3FhaUlyeEVDYko2ZVlfaG5QRS1DRnp5RGVCVG9IUnpIVlpWT0NvQ09FVmpienlpVkVuTGhId0ZMN1dYS0JFQk1XNEFETC1CMGRGOFY5TnlRUElKOVR2ZjdYdXFFRExiTQ?oc=5",
-   "published_utc": "2026-10-13T02:02:37+00:00",
-   "title_original": "Hamada Labs targets Taiwan, Japan manufacturing with AI platform",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8aa542d312f0f947"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "IMF revises down projection for China’s GDP in 2026, cautions on export reliance",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzAxaHo4aDdLTTQ0azFPelpyRFh4TG1tT2RZYXRCZ3hKZFV4WXlGOXFpNGplVFFuay1LajR5LU1Ram1KWmFQelFyU1otdXVxLWxCUTM5R3RkY1dZOXpRb3BKN1QxX09pWWdHWXhlTW0xNXZwdXAyR1FHd1lnclBuWXh0ZWNoenJwNUhMczB0TFdabmsxRmlRakZQajdoNzBkUWxFem5sWkFPNV9mRk1OdGpxZnlhMkxJUWRuUXpmUHpBWHlHUGfSAcYBQVVfeXFMUHh2cWQwaW9NN3E0MElEV2JwR3Q3aTFGU0hPWXV2RWNjZlpYajhKWTNobHBCbWZlYklsTEtjeXVlY19FeHY0RzdRQ0laakZxa2dha2hQSGczSUQ4dmhMZ1Zydm9ma29kTVU1UEpFVUEyREticlkxLXBFUy1pUnJPRzlPMnJpNWpBMFBTdGFucXlKN1Voc3hnNTJULWNsSHEwdjdjcXBKLTBBS1Z3XzZ0blk2VE1YVl94VDNKcG4tMlpHWklfeHVR?oc=5",
-   "published_utc": "2026-10-13T02:00:16+00:00",
-   "title_original": "IMF revises down projection for China’s GDP in 2026, cautions on export reliance",
-   "region": "china",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2eebca853f7ffe5"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "IMF revises China GDP projection down for 2026, cautions on export reliance",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzAxaHo4aDdLTTQ0azFPelpyRFh4TG1tT2RZYXRCZ3hKZFV4WXlGOXFpNGplVFFuay1LajR5LU1Ram1KWmFQelFyU1otdXVxLWxCUTM5R3RkY1dZOXpRb3BKN1QxX09pWWdHWXhlTW0xNXZwdXAyR1FHd1lnclBuWXh0ZWNoenJwNUhMczB0TFdabmsxRmlRakZQajdoNzBkUWxFem5sWkFPNV9mRk1OdGpxZnlhMkxJUWRuUXpmUHpBWHlHUGfSAcYBQVVfeXFMUHh2cWQwaW9NN3E0MElEV2JwR3Q3aTFGU0hPWXV2RWNjZlpYajhKWTNobHBCbWZlYklsTEtjeXVlY19FeHY0RzdRQ0laakZxa2dha2hQSGczSUQ4dmhMZ1Zydm9ma29kTVU1UEpFVUEyREticlkxLXBFUy1pUnJPRzlPMnJpNWpBMFBTdGFucXlKN1Voc3hnNTJULWNsSHEwdjdjcXBKLTBBS1Z3XzZ0blk2VE1YVl94VDNKcG4tMlpHWklfeHVR?oc=5",
-   "published_utc": "2026-10-13T02:00:16+00:00",
-   "title_original": "IMF revises China GDP projection down for 2026, cautions on export reliance",
-   "region": "china",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ce6a67d59aa63a4"
   },
   {
    "source_id": "manual_ia",
