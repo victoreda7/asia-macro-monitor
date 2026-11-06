@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-06T18:42:42.825281+00:00",
- "collected_at_utc": "2026-11-06T18:42:42.825281+00:00",
+ "generated_at_utc": "2026-11-06T18:52:43.744536+00:00",
+ "collected_at_utc": "2026-11-06T18:52:43.744536+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 329,
   "korea": 869
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -222,6 +214,14 @@
    "newest": "2026-11-06T16:44:58+00:00"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-06T05:06:00+00:00"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "name": "Reuters Korea",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T18:42:00+00:00"
+   "newest": "2026-11-06T18:51:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
