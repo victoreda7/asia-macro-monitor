@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T16:52:43.962221+00:00",
- "collected_at_utc": "2026-11-06T16:52:43.962221+00:00",
+ "generated_at_utc": "2026-11-06T17:02:47.127711+00:00",
+ "collected_at_utc": "2026-11-06T17:02:47.127711+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
+  "japan": 904,
   "china": 896,
-  "taiwan": 329,
+  "taiwan": 330,
   "korea": 870
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T16:35:03+00:00"
+   "newest": "2026-11-06T16:54:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T16:36:08+00:00"
+   "newest": "2026-11-06T16:49:01+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 14,
+   "count": 12,
    "error": "",
-   "newest": "2026-11-05T08:00:00+00:00"
+   "newest": "2026-11-05T00:48:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T05:59:40+00:00"
+   "newest": "2026-11-06T05:51:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T12:23:56+00:00"
+   "newest": "2026-11-06T16:46:49+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T16:51:30+00:00"
+   "newest": "2026-11-06T17:01:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout",
+   "url": "https://www.tradingview.com/news/gurufocus:422141255094b:0-taiwan-semiconductor-stocks-jump-7-45-as-taiwan-slashes-short-selling-after-rout/",
+   "published_utc": "2026-11-06T16:32:18+00:00",
+   "title_original": "Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3fc9ebe0a03a7507"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1495,24 +1512,6 @@
    "id": "bd56f34c6de30855"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcHVHNFdmUW1Ka3ZNaE82QVhpbG96Q3I3NzhRT2VSc1N3WThxUnZUcVgxQk5YbGNPeW52UXF3MU5Dc0ZMREw4al83TmU1dUcyNlJvZkRHamNPX1F3eUg2RQ?oc=5",
-   "published_utc": "2026-11-06T05:59:40+00:00",
-   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e07cb4e4a29777d6"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Taesung To Divest Real Estate Worth 19.8 Billion Won",
@@ -1545,6 +1544,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f770de4e2ce2bd6c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajJ0UWpGMDBQTGJKU3VGVmFFLVlhX3pYYkhvdnZ0V2JNYjgyLWVsXzc0QjhsZlhfZUZTb0oxTkxhTkFFQWljWGw2aktXQUVTMllVUFlRSUZBOUczaFZKVG5haFlWYTRDZFhKWjM5aDh0UFJQUGJMZ0x2LTNWX3BpY3RoQXQ3ZUVscnRNRzRsTQ?oc=5",
+   "published_utc": "2026-11-06T05:51:00+00:00",
+   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8da8957c925eb17a"
   },
   {
    "source_id": "nhk_politics",
@@ -1649,23 +1666,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c2ae9130f3881a9c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46M3MA:0-isuzu-motors-limited-to-buy-back-up-to-5-1-own-shares-worth-50-billion-yen/",
-   "published_utc": "2026-11-06T05:01:41+00:00",
-   "title_original": "Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8af64514fa87c090"
   },
   {
    "source_id": "investing_live",
