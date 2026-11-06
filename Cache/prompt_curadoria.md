@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T04:32:44.595764+00:00
+Última coleta: 2026-11-06T04:42:43.211299+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Sinoma Science And Technology Says To Buy Back Shares For 200-250 Million Yuan
   - [japan] Mitsubishi Heavy Industries, Ltd. Says It Will Buy Back Up To 3.6% Of Own Shares Worth 300 Billion Yen
   - [china] Semight Instruments Says To Buy Back Shares For 100-150 Mln Yuan
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls
   - [china] Chances are, US-China truce will be extended at Shenzhen Apec summit
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 13
-  - [japan] BREAKING NEWS: Japan to use 10 bil. yen from reserve funds for cybersecurity measures
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T04:32:44+00:00",
+      "published_utc": "2026-11-06T04:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
