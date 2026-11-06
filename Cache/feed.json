@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T02:52:45.668547+00:00",
- "collected_at_utc": "2026-11-06T02:52:45.668547+00:00",
+ "generated_at_utc": "2026-11-06T03:02:42.904574+00:00",
+ "collected_at_utc": "2026-11-06T03:02:42.904574+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 893,
-  "china": 896,
-  "taiwan": 325,
+  "china": 897,
+  "taiwan": 324,
   "korea": 886
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T01:43:16+00:00"
+   "newest": "2026-11-06T01:58:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T02:31:04+00:00"
+   "newest": "2026-11-06T02:47:00+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T01:00:45+00:00"
+   "newest": "2026-11-06T02:42:22+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T11:34:57+09:00"
+   "newest": "2026-11-06T11:59:36+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T12:47:32+00:00"
+   "newest": "2026-11-05T21:20:11+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T02:51:00+00:00"
+   "newest": "2026-11-06T03:01:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T02:30:45+00:00"
+   "newest": "2026-11-06T02:54:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
    "newest": "2026-11-06T02:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45G009:0-china-commerce-ministry-held-china-netherlands-export-control-dialogue-mechanism-meeting-in-shenzhen-on-nov-5/",
+   "published_utc": "2026-11-06T02:54:56+00:00",
+   "title_original": "China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d77bfc9e6e9c01bb"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -3053,6 +3070,24 @@
    "id": "23d59d91ec66b59e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京市人民政府门户网站",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
+   "published_utc": "2026-11-05T02:24:00+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03384924387c3789"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -3975,24 +4010,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46136046ef4a3e7c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
-   "published_utc": "2026-11-04T13:38:35+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f678839ab95ea16f"
   },
   {
    "source_id": "tradingview_live",
@@ -51965,23 +51982,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0c298a9af3e5b0d6"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC power plant funding talks still conceptual, says Taipower",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjFSMGtGUkdGa3F2UzgyUXE2SlBTcXlPZElrb211R1E0SDYzMmplOGZuS0RJRlVHVlZTY1B0OWxnNlJ1QjdTak9Hc24wU1dUU2YzbC1qZFQyYXZJaG16VWV0QTYyYjZIZVo0NUlad2VfTEFia1VweWZJSnlwVl9iQWFoNlVsT2ctb2NSY0xIRzVtV3ExQ21ncFBad2YtVFJndzg2d2lQcDdrYmlHLWc?oc=5",
-   "published_utc": "2026-10-13T02:44:16+00:00",
-   "title_original": "TSMC power plant funding talks still conceptual, says Taipower",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0f62e9072a6c91d4"
   },
   {
    "source_id": "manual_ia",

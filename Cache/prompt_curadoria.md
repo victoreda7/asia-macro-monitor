@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T02:52:45.668547+00:00
+Última coleta: 2026-11-06T03:02:42.904574+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          893
-  🇨🇳 China          896
-  🇹🇼 Taiwan         325
+  🇨🇳 China          897
+  🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [china] China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5
   - [japan] Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by 
   - [japan] Prime Minister Takaichi's consumption tax reduction bill: “Support based on income for more than 30% of worker
   - [korea] Mercedes-Benz overtakes BMW to rank second in imported car sales
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Oversea-Chinese Banking: Global Conditions Remain Uncertain Amid Geopolitical Tensions, Inflation Risks >O39.S
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [korea] “Will it go up again?”... November 26, the base interest rate is 3.25%. If the mortgage is 300 million won, yo
-  - [japan] Analysis-Japanese savers have rediscovered interest rates and banks are feeling it
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T02:52:45+00:00",
+      "published_utc": "2026-11-06T03:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
