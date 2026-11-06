@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T06:42:42.222870+00:00
+Última coleta: 2026-11-06T06:52:44.753771+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          900
-  🇨🇳 China          898
+  🇯🇵 Japão          903
+  🇨🇳 China          897
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  877
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's GPIF Posts July-Sept Investment Loss Of 5.2533 Trln Yen
+  - [japan] Duskin Co Ltd Says It Will Buy Back Up To 2.55% Of Own Shares Worth 5 Billion Yen
+  - [japan] Open House Group Co Ltd - To Buy Back Up To 4.55% Of Shares Worth 25 Billion Yen
   - [korea] Hankook Tire & Technology Co Ltd: Record Tire revenue and higher Thermal Management profit supported KRW 598.8
   - [japan] JGB yields plunge to July lows as Wall St tech tout sparks haven rush
   - [japan] Japan’s Nikkei enters bear market as AI rout sends chip shares into sharp retreat
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by 
   - [japan] Prime Minister Takaichi's consumption tax reduction bill: “Support based on income for more than 30% of worker
   - [taiwan] Taiex plunges over 3,700 points in early trading as TSMC hits limit down
-  - [korea] Mercedes-Benz overtakes BMW to rank second in imported car sales
-  - [japan] Shimane Bank has fallen into a large deficit forecast and was forced to increase its capital by 10 billion yen
-  - [japan] Proceeds from the sale of Bank of Japan ETFs will be used for growth investment as a source of funds for redem
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T06:42:42+00:00",
+      "published_utc": "2026-11-06T06:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

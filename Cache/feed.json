@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T06:42:42.222870+00:00",
- "collected_at_utc": "2026-11-06T06:42:42.222870+00:00",
+ "generated_at_utc": "2026-11-06T06:52:44.753771+00:00",
+ "collected_at_utc": "2026-11-06T06:52:44.753771+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 900,
-  "china": 898,
+  "japan": 903,
+  "china": 897,
   "taiwan": 325,
-  "korea": 877
+  "korea": 875
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-06T06:13:55+00:00"
+   "newest": "2026-11-06T06:43:34+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T15:39:59+09:00"
+   "newest": "2026-11-06T15:50:36+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T06:31:55+00:00"
+   "newest": "2026-11-06T06:51:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T04:55:00+00:00"
+   "newest": "2026-11-06T05:03:06+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T06:22:51+00:00"
+   "newest": "2026-11-06T06:24:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's GPIF Posts July-Sept Investment Loss Of 5.2533 Trln Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N462006:0-japan-s-gpif-posts-july-sept-investment-loss-of-5-2533-trln-yen/",
+   "published_utc": "2026-11-06T06:31:51+00:00",
+   "title_original": "Japan's GPIF Posts July-Sept Investment Loss Of 5.2533 Trln Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6b9bafc31b819577"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Duskin Co Ltd Says It Will Buy Back Up To 2.55% Of Own Shares Worth 5 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46N0RY:0-duskin-co-ltd-says-it-will-buy-back-up-to-2-55-of-own-shares-worth-5-billion-yen/",
+   "published_utc": "2026-11-06T06:31:31+00:00",
+   "title_original": "Duskin Co Ltd Says It Will Buy Back Up To 2.55% Of Own Shares Worth 5 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1990b7a59d981144"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Open House Group Co Ltd - To Buy Back Up To 4.55% Of Shares Worth 25 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46M3U1:0-open-house-group-co-ltd-to-buy-back-up-to-4-55-of-shares-worth-25-billion-yen/",
+   "published_utc": "2026-11-06T06:31:19+00:00",
+   "title_original": "Open House Group Co Ltd - To Buy Back Up To 4.55% Of Shares Worth 25 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1db3cb0d8e480549"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -3686,6 +3737,24 @@
    "id": "23d59d91ec66b59e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京市人民政府门户网站",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
+   "published_utc": "2026-11-05T02:24:00+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03384924387c3789"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -4070,23 +4139,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn?oc=5",
-   "published_utc": "2026-11-05T00:34:00+00:00",
-   "title_original": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8c32c667c38c680"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4474,6 +4526,23 @@
    "id": "7f785d0556905a64"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn?oc=5",
+   "published_utc": "2026-11-04T17:27:47+00:00",
+   "title_original": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8c32c667c38c680"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "zqrb.cn",
    "title_en": "The central bank shrinks and continues to conduct 3-month buyout reverse repurchase",
@@ -4663,24 +4732,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46136046ef4a3e7c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
-   "published_utc": "2026-11-04T13:38:35+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f678839ab95ea16f"
   },
   {
    "source_id": "tradingview_live",
@@ -51923,57 +51974,6 @@
    "live_wire": false,
    "manual": false,
    "id": "96b6d625c7876bb5"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Concerns over a supply-demand gap in the domestic stock market are growing as Samsung Electronics wr..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zWUx3Uk0wUEhXTjJxaEgtSWptTnpad29EV0ZQSGc5LTI1LVZDYllGSHBPSTdmZkZET0JYdWFhaW56NkNhZU9yRU03VXlaT1k?oc=5",
-   "published_utc": "2026-10-13T07:29:45+00:00",
-   "title_original": "Concerns over a supply-demand gap in the domestic stock market are growing as Samsung Electronics wr..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "643197eb866dd358"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korean won tumbles against U.S. dollar on foreign outflows",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2LXVBUGN5RjJpeDJfM0FpRW5QRlpHanhnZkxTWW43SmR5SjZyNjliMENWYUJTYm90TE5WbGluSXdZUUdLUkRKVlYxQ3BaVDhxZkJrRFpOSnVRUQ?oc=5",
-   "published_utc": "2026-10-13T07:28:49+00:00",
-   "title_original": "S. Korean won tumbles against U.S. dollar on foreign outflows",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "385bf5ca53d7cf00"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "South Africa Factories Crater as China Imports Stunt Revival",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenphelJyYjZ2WnJSeWw1OUQwNXlYUklsT0RNWGM1SDBJUEVJZmFNRVZIbmxEeHAzTUZKNGc0VlVacGtmbG1GeG94ZnF1dG5XSFpzQVVxZnJENDFuV3NuQVh6ZkI2TVRwNTEzS0ZmQ2VqV2tjRDdzbl8xc182OE41NEJhQkFiZkdCSl9sMzE0ZGNjRHlFaXZic0lDQ0RQS1VjeXdUZ2Nud2RuWnRtcS1oc2lB?oc=5",
-   "published_utc": "2026-10-13T07:28:46+00:00",
-   "title_original": "South Africa Factories Crater as China Imports Stunt Revival",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc0f660d233c7046"
   },
   {
    "source_id": "manual_ia",
