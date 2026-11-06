@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T04:12:43.226085+00:00
+Última coleta: 2026-11-06T04:22:42.927663+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          890
@@ -17,9 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
+  - [japan] Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout
+  - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [japan] Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen
   - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
-  - [china] China's top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [japan] BOJ eyes AI demand as inflation risk
   - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters
   - [china] China's yuan slips, looks set to snap five-week winning streak
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Japan to use 10 bil. yen from reserve funds for cybersecurity measures
   - [taiwan] TSMC Plunges 9.8%; Foxconn Down 9.15%
   - [korea] Coway Co., Ltd. Overseas Revenue Rises 26.2% to KRW 591.8B
-  - [japan] Bank of Japan ETF sales increase, not used to finance consumption tax cut (Kyodo News)
-  - [korea] South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T04:12:43+00:00",
+      "published_utc": "2026-11-06T04:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
