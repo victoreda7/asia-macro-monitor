@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T17:32:44.356033+00:00",
- "collected_at_utc": "2026-11-06T17:32:44.356033+00:00",
+ "generated_at_utc": "2026-11-06T17:42:44.112694+00:00",
+ "collected_at_utc": "2026-11-06T17:42:44.112694+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 904,
-  "china": 897,
+  "japan": 905,
+  "china": 896,
   "taiwan": 330,
   "korea": 869
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,7 +65,7 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 60,
+   "count": 43,
    "error": "",
    "newest": "2026-11-06T20:58:54+08:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T17:13:16+00:00"
+   "newest": "2026-11-06T17:33:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T17:13:16+00:00"
+   "newest": "2026-11-06T17:30:32+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T05:59:40+00:00"
+   "newest": "2026-11-06T05:51:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T17:05:57+00:00"
+   "newest": "2026-11-06T17:19:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T17:32:00+00:00"
+   "newest": "2026-11-06T17:41:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T16:19:15+00:00"
+   "newest": "2026-11-06T17:30:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US urged Beijing to implement commitments of Busan trade deal, Treasury says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN461013:0-us-urged-beijing-to-implement-commitments-of-busan-trade-deal-treasury-says/",
+   "published_utc": "2026-11-06T17:32:08+00:00",
+   "title_original": "US urged Beijing to implement commitments of Busan trade deal, Treasury says",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d60a8f1a256e5630"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ chief Ueda sees ’some upside risks’ to inflation",
+   "url": "https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5008920",
+   "published_utc": "2026-11-06T17:30:32+00:00",
+   "title_original": "BOJ chief Ueda sees ’some upside risks’ to inflation",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4449c86c58fc56d1"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -514,8 +549,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -529,7 +564,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -808,8 +843,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -823,7 +858,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -948,8 +983,8 @@
    "id": "57fb596e25b808ec"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -963,7 +998,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1086,8 +1121,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -1100,7 +1135,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -1546,24 +1581,6 @@
    "id": "bd56f34c6de30855"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcHVHNFdmUW1Ka3ZNaE82QVhpbG96Q3I3NzhRT2VSc1N3WThxUnZUcVgxQk5YbGNPeW52UXF3MU5Dc0ZMREw4al83TmU1dUcyNlJvZkRHamNPX1F3eUg2RQ?oc=5",
-   "published_utc": "2026-11-06T05:59:40+00:00",
-   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e07cb4e4a29777d6"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Taesung To Divest Real Estate Worth 19.8 Billion Won",
@@ -1598,6 +1615,24 @@
    "id": "f770de4e2ce2bd6c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajJ0UWpGMDBQTGJKU3VGVmFFLVlhX3pYYkhvdnZ0V2JNYjgyLWVsXzc0QjhsZlhfZUZTb0oxTkxhTkFFQWljWGw2aktXQUVTMllVUFlRSUZBOUczaFZKVG5haFlWYTRDZFhKWjM5aDh0UFJQUGJMZ0x2LTNWX3BpY3RoQXQ3ZUVscnRNRzRsTQ?oc=5",
+   "published_utc": "2026-11-06T05:51:00+00:00",
+   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8da8957c925eb17a"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Abduction families “Japan-North Korea summit meeting to resolve the issue” Liberal Democratic Party Abduction Issue Task Force",
@@ -1613,24 +1648,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e55bb57c42dd4370"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N06E:0/",
-   "published_utc": "2026-11-06T05:31:46+00:00",
-   "title_original": "Chips da Nvidia se acumulam em Hong Kong enquanto a China retém a aprovação de importação",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "fe3d7be3b31212d8"
   },
   {
    "source_id": "investing_econ",
@@ -51956,23 +51973,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7478fa67b3cbddb2"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "As import curbs loom, Chinese carmakers hard to miss at Paris Motor Show",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGh3ZFpfV1UtNEhDdGswMUNnMGRzaFdpNzRoRkFKV3NvQUtvU2pIRUZSTmlXbEdkdmlzRUMxNE1iU3g3RFRfaXhtNXVrR0xOaXZXakthVFFzZXZpQy1VbTdFYUEweUkwRGs1T3ZPZEdaMnVNc1pCTzktcjI3UTJuOTNLSWpYQnpnVlhVX1h5N2pJTFpydHYwc256ZkNHTTYwN1czS2pvTTY5S0ZiemJxSWNrOTkyRkI4anpldDN1d9IBvwFBVV95cUxQYzFBTENrb1FJbFJhXzI1elRNUWtlYk44cUZaZUJ4aUtoOUNXRUUyckc1VHhwQlFXUjZCdW1EQ2hCRjFtTzJoYUIzSGtfTVI4czFqSUlyLTN3UlJHV1F4MzY5NUttNUI0WXZKOFl2MklQSmVWTlBVTUZUb0JxTlo2Xy05cEZzYWNYbnJxRFhSN1NqdU82cXB4RFZEdlVIZGszSHQ1QkRaVHNfbklvMWVuMEdJY0paZVhoeGJ4cG1pMA?oc=5",
-   "published_utc": "2026-10-13T11:00:12+00:00",
-   "title_original": "As import curbs loom, Chinese carmakers hard to miss at Paris Motor Show",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fac15b6ffa95a80a"
   },
   {
    "source_id": "manual_ia",

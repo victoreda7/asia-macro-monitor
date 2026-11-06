@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T17:32:44.356033+00:00
+Última coleta: 2026-11-06T17:42:44.112694+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          904
-  🇨🇳 China          897
+  🇯🇵 Japão          905
+  🇨🇳 China          896
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
+  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
   - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
   - [taiwan] Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds
   - [korea] Korean sweet persimmons will be exported to China for the first time. This is the first achievement
   - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
-  - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
-  - [korea] Amid the growing burden of taxes and financial costs in the housing market in the Gangnam area of Se..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T17:32:44+00:00",
+      "published_utc": "2026-11-06T17:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
