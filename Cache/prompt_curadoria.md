@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T03:02:42.904574+00:00
+Última coleta: 2026-11-06T03:12:44.658364+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          893
   🇨🇳 China          897
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  886
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [korea] Mercedes-Benz overtakes BMW to rank second in imported car sales
   - [japan] Shimane Bank has fallen into a large deficit forecast and was forced to increase its capital by 10 billion yen
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be used for growth investment as a source of funds for redem
+  - [taiwan] Taiwan targets reusable rocket manufacturing in 2027 strategy to rival SpaceX
   - [korea] Why is SK Hynix stock crashing today?
   - [taiwan] Why is TSMC stock plunging today?
   - [taiwan] Taiwan dollar, Malaysian ringgit lead losses in Asian currencies
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force
   - [china] Oversea-Chinese Banking: Global Conditions Remain Uncertain Amid Geopolitical Tensions, Inflation Risks >O39.S
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
-  - [korea] “Will it go up again?”... November 26, the base interest rate is 3.25%. If the mortgage is 300 million won, yo
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T03:02:43+00:00",
+      "published_utc": "2026-11-06T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
