@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-06T06:52:44.753771+00:00",
- "collected_at_utc": "2026-11-06T06:52:44.753771+00:00",
+ "generated_at_utc": "2026-11-06T07:02:44.414609+00:00",
+ "collected_at_utc": "2026-11-06T07:02:44.414609+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 903,
-  "china": 897,
-  "taiwan": 325,
-  "korea": 875
+  "japan": 904,
+  "china": 898,
+  "taiwan": 324,
+  "korea": 874
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
-   "newest": "2026-11-06T11:00:00+09:00"
+   "newest": "2026-11-06T16:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T01:15:00+00:00"
+   "newest": "2026-11-06T06:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
    "newest": "2026-11-05T12:28:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T06:30:26+00:00"
+   "newest": "2026-11-06T06:49:50+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T06:30:26+00:00"
+   "newest": "2026-11-06T06:36:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T05:08:44+00:00"
+   "newest": "2026-11-06T06:47:55+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T15:50:36+09:00"
+   "newest": "2026-11-06T15:55:07+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T06:51:56+00:00"
+   "newest": "2026-11-06T07:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-06T06:17:01+00:00"
+   "newest": "2026-11-06T06:53:25+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
+   "url": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
+   "published_utc": "2026-11-06T07:00:00+00:00",
+   "title_original": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62fe781de204cccb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Table: King Yuan Electronics Oct Rev NT$4.43B Vs NT$3.42B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261106001052:0-table-king-yuan-electronics-oct-rev-nt-4-43b-vs-nt-3-42b/",
+   "published_utc": "2026-11-06T06:56:00+00:00",
+   "title_original": "Table: King Yuan Electronics Oct Rev NT$4.43B Vs NT$3.42B",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cb754cf366844575"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -583,8 +617,8 @@
    "id": "f770de4e2ce2bd6c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T05:43:51+00:00",
@@ -597,7 +631,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "nhk_politics",
@@ -4786,8 +4820,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -4801,7 +4835,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6247,7 +6281,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "Growth and prices pointed out by Shin Hyun-song came out... Should we raise interest rates further?",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlNVByOXk3MVhwaUhZMnIyRURQUkxPZHd4eTduaVVheWNzZ242UkpZVDNjN3FKYTM0QkpkdU5KWkZybUlDU2NjYy1iSE9ISlk1MWFOMnliYnRRZ3Vkb1FzV09UbDRDX3ktSnVDajltTGJRcVUzaGZ3NdIBeEFVX3lxTFBlNVByOXk3MVhwaUhZMnIyRURQUkxPZHd4eTduaVVheWNzZ242UkpZVDNjN3FKYTM0QkpkdU5KWkZybUlDU2NjYy1iSE9ISlk1MWFOMnliYnRRZ3Vkb1FzV09UbDRDX3ktSnVDajltTGJRcVUzaGZ3NQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HNE5PRktqQ2RYbHQ5WUNFYlpTdXhsSjd6eHJvamM3SlR6dmJqVzI4VDU2UUR3RVRXa0oxM2swV1ZSU2JBWmgzYW1Sd0hBZ3RoVGNFQjlGMGZwRGZ0TFFfS9IBeEFVX3lxTFBlNVByOXk3MVhwaUhZMnIyRURQUkxPZHd4eTduaVVheWNzZ242UkpZVDNjN3FKYTM0QkpkdU5KWkZybUlDU2NjYy1iSE9ISlk1MWFOMnliYnRRZ3Vkb1FzV09UbDRDX3ktSnVDajltTGJRcVUzaGZ3NQ?oc=5",
    "published_utc": "2026-11-04T02:30:31+00:00",
    "title_original": "신현송이 지목한 성장·물가 나왔다…추가 금리 인상할까",
    "region": "korea",
@@ -6259,7 +6293,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2c7d8970289c21a1"
+   "id": "98ac5c52e57897d2"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51940,40 +51974,6 @@
    "live_wire": false,
    "manual": false,
    "id": "44b3b4815562343d"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WS0YwclFPN0czNEVnQWlLX0pocDRKaGZFWlk0YkxlU3lYQi1vT2RnalI2cXRoRFpJYmhzQWsyWlZDWWlxdFJfSDZOWFV1RUh1LTJrT05uZmFBdw?oc=5",
-   "published_utc": "2026-10-13T07:36:07+00:00",
-   "title_original": "(2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c63aebd7e0420e7"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "TSMC, Intel supplier Qnity bets on local production to win business",
-   "url": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-intel-supplier-qnity-bets-on-local-production-to-win-business",
-   "published_utc": "2026-10-13T07:32:45.139004+00:00",
-   "title_original": "TSMC, Intel supplier Qnity bets on local production to win business",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "96b6d625c7876bb5"
   },
   {
    "source_id": "manual_ia",

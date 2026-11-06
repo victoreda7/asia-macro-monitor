@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T06:52:44.753771+00:00
+Última coleta: 2026-11-06T07:02:44.414609+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          903
-  🇨🇳 China          897
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  875
+  🇯🇵 Japão          904
+  🇨🇳 China          898
+  🇹🇼 Taiwan         324
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [japan] (IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop
+  - [china] Table: King Yuan Electronics Oct Rev NT$4.43B Vs NT$3.42B
   - [japan] Japan's GPIF Posts July-Sept Investment Loss Of 5.2533 Trln Yen
   - [japan] Duskin Co Ltd Says It Will Buy Back Up To 2.55% Of Own Shares Worth 5 Billion Yen
   - [japan] Open House Group Co Ltd - To Buy Back Up To 4.55% Of Shares Worth 25 Billion Yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5
   - [china] China to Cut Diesel Exports on Tight Stocks, Energy Aspects Says
   - [japan] Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by 
-  - [japan] Prime Minister Takaichi's consumption tax reduction bill: “Support based on income for more than 30% of worker
-  - [taiwan] Taiex plunges over 3,700 points in early trading as TSMC hits limit down
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T06:52:45+00:00",
+      "published_utc": "2026-11-06T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
