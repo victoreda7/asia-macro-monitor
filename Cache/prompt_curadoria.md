@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T03:42:43.338851+00:00
+Última coleta: 2026-11-06T03:52:42.530219+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          894
-  🇨🇳 China          898
+  🇯🇵 Japão          893
+  🇨🇳 China          899
   🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ eyes AI demand as inflation risk
   - [china] China's yuan slips, looks set to snap five-week winning streak
   - [taiwan] Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk
   - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll
   - [japan] Mr. Takaichi considers the proceeds from the sale of Bank of Japan ETFs as a source of funding for bridging go
   - [china] China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5
+  - [china] China to Cut Diesel Exports on Tight Stocks, Energy Aspects Says
   - [japan] Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by 
   - [japan] Prime Minister Takaichi's consumption tax reduction bill: “Support based on income for more than 30% of worker
+  - [taiwan] Taiex plunges over 3,700 points in early trading as TSMC hits limit down
   - [korea] Mercedes-Benz overtakes BMW to rank second in imported car sales
   - [japan] Shimane Bank has fallen into a large deficit forecast and was forced to increase its capital by 10 billion yen
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be used for growth investment as a source of funds for redem
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [china] Dongguan Mentech Plans To Raise Up To 1.28 Bln Yuan In Share Placement
   - [korea] South Korea finance minister vows to curb excessive stock market volatility
-  - [japan] Japan’s real wages rise for ninth month in September, backing BOJ rate hike
-  - [japan] Yen Rises on Haven Demand as CIBC, Nomura See Room for More Gain
-  - [china] US extends suspension of export restrictions on Chinese firms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T03:42:43+00:00",
+      "published_utc": "2026-11-06T03:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
