@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T04:02:42.213127+00:00
+Última coleta: 2026-11-06T04:12:43.226085+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
+  🇯🇵 Japão          890
   🇨🇳 China          900
-  🇹🇼 Taiwan         324
+  🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
@@ -21,7 +21,9 @@ Total: 3000 manchetes
   - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
   - [china] China's top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [japan] BOJ eyes AI demand as inflation risk
+  - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters
   - [china] China's yuan slips, looks set to snap five-week winning streak
+  - [taiwan] Taiwan-UK tech ties could support Europe's chip autonomy drive
   - [taiwan] Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk
   - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll
   - [japan] Mr. Takaichi considers the proceeds from the sale of Bank of Japan ETFs as a source of funding for bridging go
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Coway Co., Ltd. Overseas Revenue Rises 26.2% to KRW 591.8B
   - [japan] Bank of Japan ETF sales increase, not used to finance consumption tax cut (Kyodo News)
   - [korea] South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble
-  - [korea] Samsung, SK hynix slide 10% as AI data center fears spread
-  - [korea] Finance minister vows timely actions to ease stock market volatility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T04:02:42+00:00",
+      "published_utc": "2026-11-06T04:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
