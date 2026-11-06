@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T17:12:43.850036+00:00
+Última coleta: 2026-11-06T17:22:43.132135+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          904
+  🇯🇵 Japão          905
   🇨🇳 China          896
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  870
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
   - [taiwan] Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout
   - [korea] SK hynix Stocks Plunge 10.44% as AI Memory Leader Leads Seoul Selloff
   - [china] Chinese premier chairs State Council executive meeting
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
   - [korea] Amid the growing burden of taxes and financial costs in the housing market in the Gangnam area of Se..
   - [taiwan] Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters
-  - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T17:12:44+00:00",
+      "published_utc": "2026-11-06T17:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

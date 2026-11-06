@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T17:12:43.850036+00:00",
- "collected_at_utc": "2026-11-06T17:12:43.850036+00:00",
+ "generated_at_utc": "2026-11-06T17:22:43.132135+00:00",
+ "collected_at_utc": "2026-11-06T17:22:43.132135+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 904,
+  "japan": 905,
   "china": 896,
   "taiwan": 330,
-  "korea": 870
+  "korea": 869
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
    "newest": "2026-11-06T12:55:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T16:54:34+00:00"
+   "newest": "2026-11-06T17:13:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T16:49:01+00:00"
+   "newest": "2026-11-06T17:13:16+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T16:46:49+00:00"
+   "newest": "2026-11-06T17:05:57+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T17:01:01+00:00"
+   "newest": "2026-11-06T17:21:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N43A00V:0-boj-s-ueda-says-japan-could-do-well-with-ai-replacing-labor-given-existing-shortages/",
+   "published_utc": "2026-11-06T16:49:22+00:00",
+   "title_original": "BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5676a510903a1646"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1632,23 +1649,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b3b8a7dbd6dc36ca"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "AI Stock Debacle Hits Asia; Samsung, SK Hynix and SoftBank plummet",
-   "url": "https://www.tradingview.com/news/invezz:8f1f8aca1bc81:0/",
-   "published_utc": "2026-11-06T05:07:45+00:00",
-   "title_original": "Derrocada das ações de IA atinge Ásia; Samsung, SK Hynix e SoftBank despencam",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "9efb1015df1ad2af"
   },
   {
    "source_id": "gn_kr_bok",
