@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T17:22:43.132135+00:00",
- "collected_at_utc": "2026-11-06T17:22:43.132135+00:00",
+ "generated_at_utc": "2026-11-06T17:32:44.356033+00:00",
+ "collected_at_utc": "2026-11-06T17:32:44.356033+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
-  "china": 896,
+  "japan": 904,
+  "china": 897,
   "taiwan": 330,
   "korea": 869
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T15:56:00+00:00"
+   "newest": "2026-11-06T17:19:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
    "newest": "2026-11-06T12:55:00+00:00"
   },
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 12,
+   "count": 14,
    "error": "",
-   "newest": "2026-11-05T00:48:00+00:00"
+   "newest": "2026-11-05T08:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T05:51:00+00:00"
+   "newest": "2026-11-06T05:59:40+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T13:45:43+00:00"
+   "newest": "2026-11-06T16:44:58+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T17:21:31+00:00"
+   "newest": "2026-11-06T17:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Guangzhou Proposes Easing Developers’ Infrastructure Obligations",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPejg5elcyNFp4WWlPMi1QVC1LRFkzaEhPaHVzR09JNVBiZXBCNFk3N2dsaVJkdUc1VXJ5OVo1U1ZoUHVNallPOF9qc2VJRWlFS29id2xDTl8yVk5qZFd2MnVheDNSUkFPQjZjaGZtQzY3SVNNc3dTWFhHNER3STF5aXZndDI3WmMyTWlOeWM2VmlaQk03ZTRUUWNqcVFxWDB3UVhEV0R2OW96N2JqOXBHbF9vUV9FRDdYZ0E?oc=5",
+   "published_utc": "2026-11-06T17:19:00+00:00",
+   "title_original": "Guangzhou Proposes Easing Developers’ Infrastructure Obligations",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "677e929ca657968b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1529,6 +1546,24 @@
    "id": "bd56f34c6de30855"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcHVHNFdmUW1Ka3ZNaE82QVhpbG96Q3I3NzhRT2VSc1N3WThxUnZUcVgxQk5YbGNPeW52UXF3MU5Dc0ZMREw4al83TmU1dUcyNlJvZkRHamNPX1F3eUg2RQ?oc=5",
+   "published_utc": "2026-11-06T05:59:40+00:00",
+   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e07cb4e4a29777d6"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Taesung To Divest Real Estate Worth 19.8 Billion Won",
@@ -1561,24 +1596,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f770de4e2ce2bd6c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajJ0UWpGMDBQTGJKU3VGVmFFLVlhX3pYYkhvdnZ0V2JNYjgyLWVsXzc0QjhsZlhfZUZTb0oxTkxhTkFFQWljWGw2aktXQUVTMllVUFlRSUZBOUczaFZKVG5haFlWYTRDZFhKWjM5aDh0UFJQUGJMZ0x2LTNWX3BpY3RoQXQ3ZUVscnRNRzRsTQ?oc=5",
-   "published_utc": "2026-11-06T05:51:00+00:00",
-   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8da8957c925eb17a"
   },
   {
    "source_id": "nhk_politics",
@@ -51956,23 +51973,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fac15b6ffa95a80a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "ShareCast",
-   "title_en": "Asia report: Nikkei, KOSPI post big losses as chipmakers drop",
-   "url": "https://www.tradingview.com/news/sharecast:576ce6179094b:0-asia-report-nikkei-kospi-post-big-losses-as-chipmakers-drop/",
-   "published_utc": "2026-10-13T10:55:34+00:00",
-   "title_original": "Asia report: Nikkei, KOSPI post big losses as chipmakers drop",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6de17fb22a3ddab0"
   },
   {
    "source_id": "manual_ia",
