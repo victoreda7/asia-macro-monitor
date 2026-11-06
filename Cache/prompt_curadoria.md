@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T22:42:45.122711+00:00
+Última coleta: 2026-11-06T22:52:53.009526+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          908
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan decides to speed up ETF sales (Hiroyuki Kubota) - Expert
   - [japan] Japan's new whisky breed chases export elixir
   - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Ex-Everbright Executive and Wife Took 4.29 Million Yuan in Salary Bribes
   - [china] Subaru China recalls 196,494 imported cars in China, China's market regulator says
   - [korea] Citi presents two scenarios for Bank of Korea base rate hike
-  - [korea] Citi sees two rate hike scenarios for South Korea’s BoK
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T22:42:45+00:00",
+      "published_utc": "2026-11-06T22:52:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
