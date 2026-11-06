@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T01:12:42.328775+00:00
+Última coleta: 2026-11-06T01:22:44.442912+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          898
+  🇯🇵 Japão          891
+  🇨🇳 China          899
   🇹🇼 Taiwan         322
   🇰🇷 Coreia do Sul  888
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls
+  - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 13
+  - [japan] BREAKING NEWS: Japan to use 10 bil. yen from reserve funds for cybersecurity measures
   - [taiwan] TSMC Plunges 9.8%; Foxconn Down 9.15%
   - [korea] Coway Co., Ltd. Overseas Revenue Rises 26.2% to KRW 591.8B
   - [korea] South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Siemens To Modernize Taiwan Taoyuan Metro Signaling
   - [china] What does midterm humbling mean for Bessent ahead of US-China trade talks?
   - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
-  - [japan] Bernstein raises Sony stock price target to $26 on yen weakness By Investing.com
-  - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
-  - [japan] Bernstein raises Sony stock price target to $26 on yen weakness
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T01:12:42+00:00",
+      "published_utc": "2026-11-06T01:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
