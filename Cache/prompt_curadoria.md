@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T13:02:42.469161+00:00
+Última coleta: 2026-11-06T13:12:44.172235+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          904
-  🇨🇳 China          897
+  🇨🇳 China          898
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
   - [japan] [America after the Trump administration] “Support won’t return even if the economy recovers” Supporters are de
   - [taiwan] Stabilization fund ready for market intervention after Taiex's plunge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Citi "maintains interest rate hike forecast for November despite KOSPI plunge"
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
-  - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T13:02:42+00:00",
+      "published_utc": "2026-11-06T13:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
