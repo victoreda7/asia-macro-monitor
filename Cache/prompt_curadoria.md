@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T02:42:45.153902+00:00
+Última coleta: 2026-11-06T02:52:45.668547+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          893
@@ -17,8 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill passed by the House of Representatives Finance Committee and will be passed by 
+  - [japan] Prime Minister Takaichi's consumption tax reduction bill: “Support based on income for more than 30% of worker
   - [korea] Mercedes-Benz overtakes BMW to rank second in imported car sales
-  - [japan] Consumption tax reduction bill passed by House of Representatives with agreement between ruling and opposition
   - [japan] Shimane Bank has fallen into a large deficit forecast and was forced to increase its capital by 10 billion yen
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be used for growth investment as a source of funds for redem
   - [korea] Why is SK Hynix stock crashing today?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [korea] “Will it go up again?”... November 26, the base interest rate is 3.25%. If the mortgage is 300 million won, yo
   - [japan] Analysis-Japanese savers have rediscovered interest rates and banks are feeling it
-  - [korea] KT&G: Compound 2030 pairs global growth with KRW 5T in regular shareholder returns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T02:42:45+00:00",
+      "published_utc": "2026-11-06T02:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
