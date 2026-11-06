@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T05:22:45.687495+00:00
+Última coleta: 2026-11-06T05:32:43.244392+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
   🇨🇳 China          900
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  883
+  🇹🇼 Taiwan         326
+  🇰🇷 Coreia do Sul  882
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
+  - [taiwan] Micron says Taiwan operations normal amid reported Taoyuan project halt
   - [japan] Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen
   - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
@@ -46,7 +48,6 @@ Total: 3000 manchetes
   - [taiwan] Why is TSMC stock plunging today?
   - [taiwan] Taiwan dollar, Malaysian ringgit lead losses in Asian currencies
   - [taiwan] In line with international trade fishing and management, the Fisheries Department piloted the opening of expor
-  - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
   - [korea] Why is Samsung Electronics stock plunging today?
   - [china] CHINA PBOC CONDUCTS CNY226 BLN VIA O/N REVERSE REPO FRI
   - [japan] JGB Yields Fall as Stock Markets Drop Sharply — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's market fundamentals are good, deputy finance minister says
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7168 FRI VS 6.7156
   - [japan] Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls
-  - [china] Chances are, US-China truce will be extended at Shenzhen Apec summit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T05:22:45+00:00",
+      "published_utc": "2026-11-06T05:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
