@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T08:32:44.270447+00:00
+Última coleta: 2026-11-06T08:42:44.773029+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          907
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Semight Instruments Says To Buy Back Shares For 100-150 Mln Yuan
   - [japan] Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout
   - [japan] Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen
-  - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T08:32:44+00:00",
+      "published_utc": "2026-11-06T08:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
