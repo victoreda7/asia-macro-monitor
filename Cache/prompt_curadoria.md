@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T00:22:41.551478+00:00
+Última coleta: 2026-11-06T00:32:46.564650+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
+  🇯🇵 Japão          894
   🇨🇳 China          899
   🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK hynix slide 10% as AI data center fears spread
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [china] Dongguan Mentech Plans To Raise Up To 1.28 Bln Yuan In Share Placement
   - [korea] South Korea finance minister vows to curb excessive stock market volatility
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October CPI rises 2.33%, stays above 2% for sixth month
   - [china] Scholars who report on export capabilities for the first time at the CIIE: Teach you how to sell things to Chi
   - [japan] Fiscal System Council: Securing stable financial resources to strengthen defense capabilities
-  - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T00:22:41+00:00",
+      "published_utc": "2026-11-06T00:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
