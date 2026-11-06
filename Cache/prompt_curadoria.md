@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T14:02:43.242919+00:00
+Última coleta: 2026-11-06T14:12:43.043534+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
+  🇯🇵 Japão          904
   🇨🇳 China          898
-  🇹🇼 Taiwan         326
+  🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  871
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
   - [japan] Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Co
   - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [korea] Citi "maintains interest rate hike forecast for November despite KOSPI plunge"
-  - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T14:02:43+00:00",
+      "published_utc": "2026-11-06T14:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

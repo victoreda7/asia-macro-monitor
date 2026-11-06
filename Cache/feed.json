@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T14:02:43.242919+00:00",
- "collected_at_utc": "2026-11-06T14:02:43.242919+00:00",
+ "generated_at_utc": "2026-11-06T14:12:43.043534+00:00",
+ "collected_at_utc": "2026-11-06T14:12:43.043534+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
+  "japan": 904,
   "china": 898,
-  "taiwan": 326,
+  "taiwan": 327,
   "korea": 871
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T09:56:30+00:00"
+   "newest": "2026-11-06T13:48:08+00:00"
   },
   {
    "source_id": "ked_global",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T10:32:19+00:00"
+   "newest": "2026-11-06T07:40:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T14:02:00+00:00"
+   "newest": "2026-11-06T14:12:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,15 +337,32 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-06T09:59:00+00:00"
   }
  ],
  "items": [
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46N1WS:0-tsmc-weighs-making-advanced-memory-chips-to-capture-more-ai-spending-the-information/",
+   "published_utc": "2026-11-06T14:06:07+00:00",
+   "title_original": "TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0eb5ba345ca0a641"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -359,7 +376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -621,8 +638,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -636,7 +653,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -744,8 +761,8 @@
    "id": "57fb596e25b808ec"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -759,7 +776,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -882,8 +899,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -896,7 +913,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -1598,23 +1615,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7a9595c7f21fb76f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46M3O9:0-hanwa-co-ltd-says-it-will-buy-back-up-to-1-82-of-own-shares-worth-5-billion-yen/",
-   "published_utc": "2026-11-06T04:02:03+00:00",
-   "title_original": "Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7d4386c14ffb468a"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -4343,6 +4343,24 @@
    "id": "23d59d91ec66b59e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京市人民政府门户网站",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
+   "published_utc": "2026-11-05T02:24:00+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03384924387c3789"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -5320,24 +5338,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46136046ef4a3e7c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
-   "published_utc": "2026-11-04T13:38:35+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f678839ab95ea16f"
   },
   {
    "source_id": "tradingview_live",
