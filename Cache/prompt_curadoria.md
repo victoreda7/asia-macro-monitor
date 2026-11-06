@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T10:32:43.797023+00:00
+Última coleta: 2026-11-06T10:42:44.159565+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          904
-  🇨🇳 China          896
-  🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  874
+  🇯🇵 Japão          903
+  🇨🇳 China          897
+  🇹🇼 Taiwan         327
+  🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
+  - [taiwan] The central bank strengthened its defense and exporters assisted. The Taiwan dollar depreciated and rose to cl
+  - [china] Ex-Everbright Executive and Wife Took 4.29 Million Yuan in Salary Bribes
   - [china] Subaru China recalls 196,494 imported cars in China, China's market regulator says
   - [korea] Citi presents two scenarios for Bank of Korea base rate hike
   - [korea] Citi sees two rate hike scenarios for South Korea’s BoK
@@ -32,6 +35,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
   - [korea] Amid the growing burden of taxes and financial costs in the housing market in the Gangnam area of Se..
+  - [taiwan] Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Duskin Co Ltd Says It Will Buy Back Up To 2.55% Of Own Shares Worth 5 Billion Yen
   - [japan] Open House Group Co Ltd - To Buy Back Up To 4.55% Of Shares Worth 25 Billion Yen
   - [korea] Hankook Tire & Technology Co Ltd: Record Tire revenue and higher Thermal Management profit supported KRW 598.8
-  - [japan] JGB yields plunge to June lows as Wall St tech tout sparks haven rush
-  - [japan] Japan’s Nikkei enters bear market as AI rout sends chip shares into sharp retreat
-  - [china] China’s Hua Hong defies chip selloff on strong earnings, upbeat guidance
-  - [china] King Yuan Electronics Company: Q3'26 revenue reached NT$12.1 billion, backed by 6,800+ installed test systems
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T10:32:44+00:00",
+      "published_utc": "2026-11-06T10:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
