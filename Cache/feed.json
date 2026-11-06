@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T06:02:42.775063+00:00",
- "collected_at_utc": "2026-11-06T06:02:42.775063+00:00",
+ "generated_at_utc": "2026-11-06T06:12:42.526253+00:00",
+ "collected_at_utc": "2026-11-06T06:12:42.526253+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 897,
-  "china": 897,
-  "taiwan": 326,
+  "china": 898,
+  "taiwan": 325,
   "korea": 880
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T06:02:05+00:00"
+   "newest": "2026-11-06T06:12:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T05:41:00+00:00"
+   "newest": "2026-11-06T06:06:16+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T05:32:24+00:00"
+   "newest": "2026-11-06T05:54:48+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "King Yuan Electronics Company: Q3'26 revenue reached NT$12.1 billion, backed by 6,800+ installed test systems",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4488680:0-king-yuan-electronics-company-q3-26-revenue-reached-nt-12-1-billion-backed-by-6-800-installed-test-systems/",
+   "published_utc": "2026-11-06T06:05:35+00:00",
+   "title_original": "King Yuan Electronics Company: Q3'26 revenue reached NT$12.1 billion, backed by 6,800+ installed test systems",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8c5e39b336de396c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Comsys Holdings Corp - Expands Share Buyback Plan To Maximum 2.84% Of Outstanding Stock Worth 13 Billion Yen, Up From 2.38%",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46M3ZF:0-comsys-holdings-corp-expands-share-buyback-plan-to-maximum-2-84-of-outstanding-stock-worth-13-billion-yen-up-from-2-38/",
+   "published_utc": "2026-11-06T06:02:20+00:00",
+   "title_original": "Comsys Holdings Corp - Expands Share Buyback Plan To Maximum 2.84% Of Outstanding Stock Worth 13 Billion Yen, Up From 2.38%",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ac26e585af2098f1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -413,8 +447,25 @@
    "id": "dff7366f60442325"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ra3MtZ29iQ0NoUktUY2lVdkN6WVJjTzRjS2hQUW0wcThVR25yeEp1WEZ1WmhLX0xpWHZVczUzalVpbFhiQmNXVXBwMlNHbzRqUXJv?oc=5",
+   "published_utc": "2026-11-06T05:54:48+00:00",
+   "title_original": "Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f770de4e2ce2bd6c"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T05:43:51+00:00",
@@ -427,7 +478,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "nhk_politics",
@@ -450,19 +501,19 @@
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N061:0-nvidia-chips-pile-up-in-hong-kong-as-china-withholds-import-approval/",
-   "published_utc": "2026-11-06T05:31:00+00:00",
-   "title_original": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N06E:0/",
+   "published_utc": "2026-11-06T05:31:46+00:00",
+   "title_original": "Chips da Nvidia se acumulam em Hong Kong enquanto a China retém a aprovação de importação",
    "region": "china",
    "topics": [
     "trade",
     "industrial"
    ],
-   "lang_original": "en",
-   "translated": false,
+   "lang_original": "pt",
+   "translated": true,
    "live_wire": true,
    "manual": false,
-   "id": "0621fcc0a4ba600a"
+   "id": "fe3d7be3b31212d8"
   },
   {
    "source_id": "investing_econ",
@@ -3550,24 +3601,6 @@
    "id": "23d59d91ec66b59e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "北京市人民政府门户网站",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
-   "published_utc": "2026-11-05T02:24:00+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "03384924387c3789"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -4529,6 +4562,24 @@
    "id": "46136046ef4a3e7c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
+   "published_utc": "2026-11-04T13:38:35+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f678839ab95ea16f"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "MORE U.S. SEPT TRADE: CHINA DEFICIT $17.9 BILLION VS $16.4 BILLION IN AUGUST",
@@ -4581,8 +4632,8 @@
    "id": "abacfa1230d44688"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Ministry of Finance ``In principle, raise the burden of medical expenses for people over 70 to 30%'' at the Fiscal Council",
    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70642",
    "published_utc": "2026-11-04T12:52:00+00:00",
@@ -4596,7 +4647,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "edd925f255c17a54"
+   "id": "d2b7dda8f65a2627"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51924,59 +51975,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eb72c4933775de03"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity prices",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2tBTm5HbW0xMTRSSHZKc1B0RTA5WjJMcHAtZ3JRcnlRUjJmRzA3T01kQ2RQOXgxbXJBa243NHc0Nm9fY2k0WjA2RG40OVdrTkN3cHJPNnZab2dCai1fQ1N0MWFZS2ZUWkl1azAyQUlLVXlpTzhrbFJKVmptZno2cDEzY3owejRKclFkSUZUaFJ1R2ZEaVFzS3BYQmlSWU0?oc=5",
-   "published_utc": "2026-10-13T07:00:00+00:00",
-   "title_original": "Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity prices",
-   "region": "taiwan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ddfc296c6d0d1af"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOejJzTjZ2NXJGaEtHZFZTdGlQaVJPdkYtbUZOakw4QXpYWG1hLVVtUGthNTdyMmlOODdCclJJZ2oyS01TdDlQaGNVMkpWX0IyNllNMGRxY2RKZEEzbVozV1RaenhlTXF5XzZ4d0pwanJaVnRfUWpxYk1tMDQ0YWI3Z2RLdEdmR05va2I0VS1qUFN2eWtnalJCUjRUM2xVOGx2aXpRcUZyQnZkcDdma0E3NzNTcW1TNUNOZll3VmEwVQ?oc=5",
-   "published_utc": "2026-10-13T07:00:00+00:00",
-   "title_original": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "79a311e80f970d82"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "Seoul shares open sharply lower on US losses, inflation concerns",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTnlyelY1NGExM3dOOS1GaWFqYTlyRWo5NmNlUEs1R2hiVUFBellZdnIwSk5uTV8wNXhkODNRaTIyaGVZdUFYTW93VGRNeWlDUndSY1ZYSQ?oc=5",
-   "published_utc": "2026-10-13T07:00:00+00:00",
-   "title_original": "Seoul shares open sharply lower on US losses, inflation concerns",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f67cbc8c5f9c4c11"
   },
   {
    "source_id": "manual_ia",

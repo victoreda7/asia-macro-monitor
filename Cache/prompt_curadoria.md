@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T06:02:42.775063+00:00
+Última coleta: 2026-11-06T06:12:42.526253+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          897
-  🇨🇳 China          897
-  🇹🇼 Taiwan         326
+  🇨🇳 China          898
+  🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [china] King Yuan Electronics Company: Q3'26 revenue reached NT$12.1 billion, backed by 6,800+ installed test systems
+  - [japan] Comsys Holdings Corp - Expands Share Buyback Plan To Maximum 2.84% Of Outstanding Stock Worth 13 Billion Yen, 
   - [japan] Taiyo Holdings: Electronics growth and yen weakness lifted H1 results and drove higher FY2027 guidance
   - [japan] FJ Next Holdings Co: Record H1 profit growth on condominium sales; FY guidance and 80-yen dividend stand
   - [china] The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reve
   - [korea] Taesung To Divest Real Estate Worth 19.8 Billion Won
+  - [korea] Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Abduction families “Japan-North Korea summit meeting to resolve the issue” Liberal Democratic Party Abduction 
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Why is SK Hynix stock crashing today?
   - [taiwan] Why is TSMC stock plunging today?
   - [taiwan] Taiwan dollar, Malaysian ringgit lead losses in Asian currencies
-  - [taiwan] In line with international trade fishing and management, the Fisheries Department piloted the opening of expor
-  - [korea] Why is Samsung Electronics stock plunging today?
-  - [japan] Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T06:02:42+00:00",
+      "published_utc": "2026-11-06T06:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
