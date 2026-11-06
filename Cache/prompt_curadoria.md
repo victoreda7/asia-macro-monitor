@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T04:22:42.927663+00:00
+Última coleta: 2026-11-06T04:32:44.595764+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          890
+  🇯🇵 Japão          891
   🇨🇳 China          900
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mitsubishi Heavy Industries, Ltd. Says It Will Buy Back Up To 3.6% Of Own Shares Worth 300 Billion Yen
+  - [china] Semight Instruments Says To Buy Back Shares For 100-150 Mln Yuan
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [japan] Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout
   - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chances are, US-China truce will be extended at Shenzhen Apec summit
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 13
   - [japan] BREAKING NEWS: Japan to use 10 bil. yen from reserve funds for cybersecurity measures
-  - [taiwan] TSMC Plunges 9.8%; Foxconn Down 9.15%
-  - [korea] Coway Co., Ltd. Overseas Revenue Rises 26.2% to KRW 591.8B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T04:22:43+00:00",
+      "published_utc": "2026-11-06T04:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
