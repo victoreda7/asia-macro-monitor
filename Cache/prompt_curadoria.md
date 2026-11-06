@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T20:22:43.682707+00:00
+Última coleta: 2026-11-06T20:32:44.632938+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          903
-  🇨🇳 China          900
+  🇨🇳 China          901
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  868
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
   - [japan] Sony Group Stocks Slip 2.63% Despite Record 1.33 Trillion Yen Profit Forecast
+  - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bill on food tax cut clears Lower House | NHK WORLD-JAPAN News
   - [japan] Bill on food tax cut clears Lower House
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
-  - [korea] Was this the reason why the Governor of the Bank of Korea said, “Semiconductor prices are important”?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T20:22:43+00:00",
+      "published_utc": "2026-11-06T20:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
