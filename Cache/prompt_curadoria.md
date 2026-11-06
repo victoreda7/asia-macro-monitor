@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T10:42:44.159565+00:00
+Última coleta: 2026-11-06T10:52:44.696465+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          903
+  🇯🇵 Japão          904
   🇨🇳 China          897
   🇹🇼 Taiwan         327
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [taiwan] The central bank strengthened its defense and exporters assisted. The Taiwan dollar depreciated and rose to cl
+  - [japan] Prime Minister Takaichi intends to allocate the proceeds from additional sales of BOJ ETFs to “new investment 
   - [china] Ex-Everbright Executive and Wife Took 4.29 Million Yuan in Salary Bribes
   - [china] Subaru China recalls 196,494 imported cars in China, China's market regulator says
   - [korea] Citi presents two scenarios for Bank of Korea base rate hike
@@ -42,6 +43,7 @@ Total: 3000 manchetes
   - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
   - [taiwan] Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates
   - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
+  - [japan] BOJ eyes AI demand as inflation risk
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [korea] Citi "maintains interest rate hike forecast for November despite KOSPI plunge"
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Table: King Yuan Electronics Oct Rev NT$4.43B Vs NT$3.42B
   - [japan] Japan's GPIF Posts July-Sept Investment Loss Of 5.2533 Trln Yen
   - [japan] Duskin Co Ltd Says It Will Buy Back Up To 2.55% Of Own Shares Worth 5 Billion Yen
-  - [japan] Open House Group Co Ltd - To Buy Back Up To 4.55% Of Shares Worth 25 Billion Yen
-  - [korea] Hankook Tire & Technology Co Ltd: Record Tire revenue and higher Thermal Management profit supported KRW 598.8
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T10:42:44+00:00",
+      "published_utc": "2026-11-06T10:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
