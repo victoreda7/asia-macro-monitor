@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T19:22:44.331484+00:00
+Última coleta: 2026-11-06T19:32:43.834515+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          903
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sony Group Stocks Slip 2.63% Despite Record 1.33 Trillion Yen Profit Forecast
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bill on food tax cut clears Lower House
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
   - [korea] Was this the reason why the Governor of the Bank of Korea said, “Semiconductor prices are important”?
-  - [japan] Prime Minister Takaichi Proceeds from additional sales of Bank of Japan ETFs will be used as a source of new i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T19:22:44+00:00",
+      "published_utc": "2026-11-06T19:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
