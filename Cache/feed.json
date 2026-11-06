@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T20:32:44.632938+00:00",
- "collected_at_utc": "2026-11-06T20:32:44.632938+00:00",
+ "generated_at_utc": "2026-11-06T20:42:48.485823+00:00",
+ "collected_at_utc": "2026-11-06T20:42:48.485823+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 903,
+  "japan": 905,
   "china": 901,
-  "taiwan": 329,
+  "taiwan": 327,
   "korea": 867
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
    "newest": "2026-11-06T12:55:00+00:00"
   },
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": "",
-   "newest": "2026-11-05T08:00:00+00:00"
+   "newest": "2026-11-05T00:48:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T09:29:22+00:00"
+   "newest": "2026-11-06T10:12:02+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T17:19:00+00:00"
+   "newest": "2026-11-06T20:00:05+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T20:31:27+00:00"
+   "newest": "2026-11-06T20:41:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-07T05:00:00+09:00"
+   "newest": "2026-11-07T05:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[Asahi Shimbun answers 10,000 characters (part 3)] Supporting the digital deficit with real estate and stock dividends...What is the true meaning of the company president's \"all-out AI initiative\" | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/963201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-06T20:30:00+00:00",
+   "title_original": "【朝日新聞が1万字回答（第3回）】デジタルの赤字を不動産と株式配当で下支え…社長が掲げる｢AI全振り｣の真意とは | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e8f2cbc20f514a31"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -634,8 +652,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -649,7 +667,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -877,6 +895,23 @@
    "id": "e2116a2ee1e372f5"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "A Japanese manufacturer navigates US trade policy shifts",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WQWNIbzI0M283aXZmQTBZaDlaZDg0VVdjR1l0dF9vblRwc0ZSUm5aTGZFRlN0MDlGVkVEOWpKNHdwc1FBT0FjQVVVb0RWWVpMTHk3WExBZlBzRE9LY1lGTXRPVQ?oc=5",
+   "published_utc": "2026-11-06T10:12:02+00:00",
+   "title_original": "A Japanese manufacturer navigates US trade policy shifts",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ed4c66bdb050b364"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Ex-Everbright Executive and Wife Took 4.29 Million Yuan in Salary Bribes",
@@ -945,8 +980,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -960,7 +995,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1085,8 +1120,8 @@
    "id": "57fb596e25b808ec"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -1100,7 +1135,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1223,8 +1258,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -1237,7 +1272,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -1635,7 +1670,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcHVHNFdmUW1Ka3ZNaE82QVhpbG96Q3I3NzhRT2VSc1N3WThxUnZUcVgxQk5YbGNPeW52UXF3MU5Dc0ZMREw4al83TmU1dUcyNlJvZkRHamNPX1F3eUg2RQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRWTZvcW5YRkJ4X3J6Ym5MRkFGTmpMN0NYV1EyVFMtcWxkUEs1Y1FmUHpjQmlWWDA2cnJlSWNseVBjM2N3c0ZjbmtTRGE5UG9rQXd6cjdNZkdfWUk0VDJZc3d2cWZSZw?oc=5",
    "published_utc": "2026-11-06T05:59:40+00:00",
    "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
    "region": "china",
@@ -1647,7 +1682,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e07cb4e4a29777d6"
+   "id": "e9e75019b339c915"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51938,40 +51973,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1880bd4f35b6ce23"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ Strategy",
-   "url": "https://www.tradingview.com/news/stocktwits:05416d57e094b:0-qnity-bets-on-local-production-to-win-more-ai-chip-business-from-nvidia-tsmc-ceo-touts-local-for-local-strategy/",
-   "published_utc": "2026-10-13T11:54:47+00:00",
-   "title_original": "Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ Strategy",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d04dd6406ab749c5"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Taiwan finance minister to attend APEC meeting in Hong Kong",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0FpTmlaUmxrbERKQmRkRnFCMnBMVVIyZ05LTFpQdHVFNmdyNmNzR2tWVVhac2lpOEpkVTdfUVhNMFZmYWtkX0VURjFtdnNLRWJMRkpsTFJ2U2ppRkJ2eHlCS2k4RHg3cmkxNjhOd2Y0elYzb2RqZ0JUZENKanN0bFFYZ0NUTURYVkJMdG5jWTE0emJtQlEyV2lwYkw4bHdET2Nr?oc=5",
-   "published_utc": "2026-10-13T11:30:45+00:00",
-   "title_original": "Taiwan finance minister to attend APEC meeting in Hong Kong",
-   "region": "taiwan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fa17209ed5d3247"
   },
   {
    "source_id": "manual_ia",

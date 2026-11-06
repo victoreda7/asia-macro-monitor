@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T20:32:44.632938+00:00
+Última coleta: 2026-11-06T20:42:48.485823+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          903
+  🇯🇵 Japão          905
   🇨🇳 China          901
-  🇹🇼 Taiwan         329
+  🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] [Asahi Shimbun answers 10,000 characters (part 3)] Supporting the digital deficit with real estate and stock d
   - [japan] Sony Group Stocks Slip 2.63% Despite Record 1.33 Trillion Yen Profit Forecast
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
@@ -48,6 +49,7 @@ Total: 3000 manchetes
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [taiwan] The central bank strengthened its defense and exporters assisted. The Taiwan dollar depreciated and rose to cl
   - [japan] Prime Minister Takaichi intends to allocate the proceeds from additional sales of BOJ ETFs to “new investment 
+  - [japan] A Japanese manufacturer navigates US trade policy shifts
   - [china] Ex-Everbright Executive and Wife Took 4.29 Million Yuan in Salary Bribes
   - [china] Subaru China recalls 196,494 imported cars in China, China's market regulator says
   - [korea] Citi presents two scenarios for Bank of Korea base rate hike
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
   - [korea] Domestic financial experts raised a series of concerns over the government's budget plan for next ye..
   - [japan] Bill on food tax cut clears Lower House | NHK WORLD-JAPAN News
-  - [japan] Bill on food tax cut clears Lower House
-  - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T20:32:44+00:00",
+      "published_utc": "2026-11-06T20:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
