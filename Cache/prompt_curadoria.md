@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T09:02:47.156901+00:00
+Última coleta: 2026-11-06T09:12:46.420088+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          906
+  🇯🇵 Japão          905
   🇨🇳 China          897
-  🇹🇼 Taiwan         324
+  🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
+  - [taiwan] Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates
   - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Micron says Taiwan operations normal amid reported Taoyuan project halt
   - [korea] Interest rate (IR) outlook in major countries
   - [japan] Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen
-  - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T09:02:47+00:00",
+      "published_utc": "2026-11-06T09:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
