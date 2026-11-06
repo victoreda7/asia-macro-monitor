@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T00:12:42.289792+00:00
+Última coleta: 2026-11-06T00:22:41.551478+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          895
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] Dongguan Mentech Plans To Raise Up To 1.28 Bln Yuan In Share Placement
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
+  - [china] Dongguan Mentech Plans To Raise Up To 1.28 Bln Yuan In Share Placement
   - [korea] South Korea finance minister vows to curb excessive stock market volatility
   - [japan] Japan’s real wages rise for ninth month in September, backing BOJ rate hike
   - [china] US extends suspension of export restrictions on Chinese firms
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T00:12:42+00:00",
+      "published_utc": "2026-11-06T00:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
