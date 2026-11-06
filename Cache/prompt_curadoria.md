@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T20:52:47.155712+00:00
+Última coleta: 2026-11-06T21:02:45.460703+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          906
-  🇨🇳 China          900
+  🇯🇵 Japão          907
+  🇨🇳 China          899
   🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's new whisky breed chases export elixir
   - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [japan] [Asahi Shimbun answers 10,000 characters (part 3)] Supporting the digital deficit with real estate and stock d
@@ -42,6 +43,7 @@ Total: 3000 manchetes
   - [china] China’s State Council Calls for Stronger Stock Market Stability
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
   - [japan] [America after the Trump administration] “Support won’t return even if the economy recovers” Supporters are de
+  - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
   - [taiwan] Stabilization fund ready for market intervention after Taiex's plunge
   - [japan] Invesco CurrencyShares Japanese Yen Trust 3Q 2026: EPS ($0.04) — 10-Q Summary
   - [china] Soybean imports by China in 2026/27 estimated at 110 million tons, says USDA attaché
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Subaru China recalls 196,494 imported cars in China, China's market regulator says
   - [korea] Citi presents two scenarios for Bank of Korea base rate hike
   - [korea] Citi sees two rate hike scenarios for South Korea’s BoK
-  - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
-  - [korea] Domestic financial experts raised a series of concerns over the government's budget plan for next ye..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T20:52:47+00:00",
+      "published_utc": "2026-11-06T21:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
