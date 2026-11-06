@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T06:12:42.526253+00:00
+Última coleta: 2026-11-06T06:22:43.728699+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
+  🇯🇵 Japão          900
   🇨🇳 China          898
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  880
+  🇰🇷 Coreia do Sul  877
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB yields plunge to July lows as Wall St tech tout sparks haven rush
+  - [japan] Japan’s Nikkei enters bear market as AI rout sends chip shares into sharp retreat
+  - [china] China’s Hua Hong defies chip selloff on strong earnings, upbeat guidance
   - [china] King Yuan Electronics Company: Q3'26 revenue reached NT$12.1 billion, backed by 6,800+ installed test systems
   - [japan] Comsys Holdings Corp - Expands Share Buyback Plan To Maximum 2.84% Of Outstanding Stock Worth 13 Billion Yen, 
   - [japan] Taiyo Holdings: Electronics growth and yen weakness lifted H1 results and drove higher FY2027 guidance
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Shimane Bank has fallen into a large deficit forecast and was forced to increase its capital by 10 billion yen
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be used for growth investment as a source of funds for redem
   - [taiwan] Taiwan targets reusable rocket manufacturing in 2027 strategy to rival SpaceX
-  - [korea] Why is SK Hynix stock crashing today?
-  - [taiwan] Why is TSMC stock plunging today?
-  - [taiwan] Taiwan dollar, Malaysian ringgit lead losses in Asian currencies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T06:12:42+00:00",
+      "published_utc": "2026-11-06T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
