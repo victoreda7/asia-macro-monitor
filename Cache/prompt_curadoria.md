@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T12:32:44.339204+00:00
+Última coleta: 2026-11-06T12:42:45.882343+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          904
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
+  - [japan] [America after the Trump administration] “Support won’t return even if the economy recovers” Supporters are de
   - [taiwan] Stabilization fund ready for market intervention after Taiex's plunge
   - [japan] Invesco CurrencyShares Japanese Yen Trust 3Q 2026: EPS ($0.04) — 10-Q Summary
   - [china] Soybean imports by China in 2026/27 estimated at 110 million tons, says USDA attaché
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
-  - [japan] Prime Minister Takaichi says the proceeds from the Bank of Japan's sale of ETFs will be used for investment as
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T12:32:44+00:00",
+      "published_utc": "2026-11-06T12:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
