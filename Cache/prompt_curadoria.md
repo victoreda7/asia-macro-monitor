@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T09:12:46.420088+00:00
+Última coleta: 2026-11-06T09:22:42.961644+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          905
-  🇨🇳 China          897
+  🇨🇳 China          896
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
   - [japan] GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds
+  - [korea] Korean sweet persimmons will be exported to China for the first time. This is the first achievement
   - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
@@ -28,10 +29,10 @@ Total: 3000 manchetes
   - [taiwan] Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates
   - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
-  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [korea] Citi "maintains interest rate hike forecast for November despite KOSPI plunge"
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
+  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
   - [china] China launches anti-dumping probe into EU, Japan ENB imports
   - [taiwan] Taiwan forex reserves dip below US$600 billion amid intervention
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan to tap proceeds from BOJ asset sales as AI rout stokes fiscal worries
   - [taiwan] Micron says Taiwan operations normal amid reported Taoyuan project halt
   - [korea] Interest rate (IR) outlook in major countries
-  - [japan] Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T09:12:46+00:00",
+      "published_utc": "2026-11-06T09:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
