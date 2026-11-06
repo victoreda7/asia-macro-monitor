@@ -7,23 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-05T23:52:45.137745+00:00
+Última coleta: 2026-11-06T00:02:42.943674+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
-  🇨🇳 China          897
+  🇯🇵 Japão          895
+  🇨🇳 China          899
   🇹🇼 Taiwan         321
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [china] Dongguan Mentech Plans To Raise Up To 1.28 Bln Yuan In Share Placement
+  - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [korea] South Korea finance minister vows to curb excessive stock market volatility
+  - [japan] Japan’s real wages rise for ninth month in September, backing BOJ rate hike
   - [china] US extends suspension of export restrictions on Chinese firms
-  - [japan] Japan's real wages rise for ninth month in September, backing BOJ rate hike
   - [korea] [Blue tsunami emergency diagnosis] Bond market: “If it reaches 4,000 pi, it will be impossible to raise the ba
   - [korea] Filibuster over bill on alleged fabricated indictments
   - [taiwan] Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force
-  - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [china] Oversea-Chinese Banking: Global Conditions Remain Uncertain Amid Geopolitical Tensions, Inflation Risks >O39.S
   - [japan] Upward price fluctuation risk, interest rate hike appropriate, policy “change in phase” Bank of Japan Septembe
   - [japan] Analysis-Japanese savers have rediscovered interest rates and banks are feeling it
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Scholars who report on export capabilities for the first time at the CIIE: Teach you how to sell things to Chi
   - [japan] Fiscal System Council: Securing stable financial resources to strengthen defense capabilities
   - [taiwan] The central bank adjusted to prevent depreciation and foreign exchange deposits fell by US$4.308 billion at th
-  - [japan] Citi sees dollar weakening against yen after U.S. midterms By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-05T23:52:45+00:00",
+      "published_utc": "2026-11-06T00:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
