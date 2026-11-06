@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T07:42:44.963627+00:00
+Última coleta: 2026-11-06T07:52:42.654120+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          905
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
+  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
   - [china] China launches anti-dumping probe into EU, Japan ENB imports
   - [taiwan] Taiwan forex reserves dip below US$600 billion amid intervention
@@ -47,7 +48,6 @@ Total: 3000 manchetes
   - [korea] Interest rate (IR) outlook in major countries
   - [japan] Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen
   - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
-  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [china] Sinoma Science And Technology Says To Buy Back Shares For 200-250 Million Yuan
   - [japan] Mitsubishi Heavy Industries, Ltd. Says It Will Buy Back Up To 3.6% Of Own Shares Worth 300 Billion Yen
   - [china] Semight Instruments Says To Buy Back Shares For 100-150 Mln Yuan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T07:42:45+00:00",
+      "published_utc": "2026-11-06T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
