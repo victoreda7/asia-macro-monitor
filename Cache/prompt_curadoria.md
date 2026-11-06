@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T08:22:43.537254+00:00
+Última coleta: 2026-11-06T08:32:44.270447+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          906
-  🇨🇳 China          898
+  🇯🇵 Japão          907
+  🇨🇳 China          897
   🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
+  - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
+  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
-  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
   - [china] China launches anti-dumping probe into EU, Japan ENB imports
   - [taiwan] Taiwan forex reserves dip below US$600 billion amid intervention
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout
   - [japan] Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen
   - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
-  - [japan] Russia takes control of Japan Tobacco subsidiary's assets | NHK WORLD-JAPAN News
-  - [japan] BOJ eyes AI demand as inflation risk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T08:22:43+00:00",
+      "published_utc": "2026-11-06T08:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
