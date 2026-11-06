@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T14:22:44.312067+00:00
+Última coleta: 2026-11-06T14:32:46.279159+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          904
+  🇯🇵 Japão          905
   🇨🇳 China          898
   🇹🇼 Taiwan         327
-  🇰🇷 Coreia do Sul  871
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [korea] Citi sees two rate hike scenarios for South Korea’s BoK
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
   - [korea] Domestic financial experts raised a series of concerns over the government's budget plan for next ye..
+  - [japan] Bill on food tax cut clears Lower House | NHK WORLD-JAPAN News
   - [japan] Bill on food tax cut clears Lower House
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
   - [korea] Was this the reason why the Governor of the Bank of Korea said, “Semiconductor prices are important”?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ eyes AI demand as inflation risk
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
-  - [korea] Citi "maintains interest rate hike forecast for November despite KOSPI plunge"
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T14:22:44+00:00",
+      "published_utc": "2026-11-06T14:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
