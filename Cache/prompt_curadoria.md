@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T14:42:47.346678+00:00
+Última coleta: 2026-11-06T14:52:43.159050+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          905
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
   - [japan] Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Co
   - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
+  - [china] China’s State Council Calls for Stronger Stock Market Stability
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
   - [japan] [America after the Trump administration] “Support won’t return even if the economy recovers” Supporters are de
   - [taiwan] Stabilization fund ready for market intervention after Taiex's plunge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
   - [japan] BOJ eyes AI demand as inflation risk
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
-  - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T14:42:47+00:00",
+      "published_utc": "2026-11-06T14:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
