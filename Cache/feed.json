@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T08:42:44.773029+00:00",
- "collected_at_utc": "2026-11-06T08:42:44.773029+00:00",
+ "generated_at_utc": "2026-11-06T08:52:47.868074+00:00",
+ "collected_at_utc": "2026-11-06T08:52:47.868074+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 907,
+  "japan": 906,
   "china": 897,
   "taiwan": 324,
-  "korea": 872
+  "korea": 873
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T07:07:30+00:00"
+   "newest": "2026-11-06T07:59:32+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T17:30:25+09:00"
+   "newest": "2026-11-06T17:45:29+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T17:37:53+09:00"
+   "newest": "2026-11-06T17:45:29+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T08:41:11+00:00"
+   "newest": "2026-11-06T08:51:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-06T08:23:34+00:00"
+   "newest": "2026-11-06T08:41:22+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T07:06:12+00:00"
+   "newest": "2026-11-06T08:24:05+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "newest": "2026-11-06T05:03:00+00:00"
+   "newest": "2026-11-06T07:54:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
+   "published_utc": "2026-11-06T08:45:29+00:00",
+   "title_original": "GPIF運用実績 7～9月 5兆2500億円余の赤字 外国債券安が響く",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4b593f86a5fd703b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -396,6 +414,24 @@
    "id": "a7dbc7aa1618ce1c"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjk2QlJaSUJleGpYaloyVWQycGVTRERxSzJUVHQwTDRUelYxanYwMVR0QjUwcHZmeEY1Vnl5Q3dhdllFNTY0cTMwbHItbXFfb2dBbTM0NnhWTFhFcktld1QwQkN5YjZZZDJER1ZJQkNndGhwWUhCbWNQQzlTVkVjYmx2VHJTNzk4TWY2ZWYtWTZWdWhZN3pzZ3VUTXJ3ZnNIMWxjWDdsaE85dmNyRW9YR1Y0ZEpIYnZsMV9CS3N5X2hoZkVY?oc=5",
+   "published_utc": "2026-11-06T07:59:32+00:00",
+   "title_original": "Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c584c134ba2d040"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
@@ -428,6 +464,23 @@
    "live_wire": true,
    "manual": false,
    "id": "efa8c73857fcaf76"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "재경일보",
+   "title_en": "Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Economy",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sby1RQm0ycUMyaVEzT2EzOWJzaGp3a3dNcEtsNl9RcmFvZUN5TldCcW9ZdkIzTUVLazhFTF9vWWUyYXQwZnNFQ0RtOA?oc=5",
+   "published_utc": "2026-11-06T07:54:00+00:00",
+   "title_original": "씨티 “코스피 급락에도 11월·내년 2월 금리 인상 전망 유지” : 경제",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec8f6f8cc5a52442"
   },
   {
    "source_id": "investing_econ",
@@ -51919,59 +51972,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2da025abbfcd71ba"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Bank of Japan survey (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbGE2SEo4OEFXMGxhamc5Y1BFMGFXRkxMeVY0X0E0TXJaa0ZaQmloaUdVVlFxcXdWbmFFanRFZkIxZFFIMnZlTjV3WGZnQWl6ZXMwTDU2V1dYWElRa29zOWVRQS00bDc5ZEJZZkduaXA2RmpFczJMUjJVZkdMc0U?oc=5",
-   "published_utc": "2026-10-13T08:13:56+00:00",
-   "title_original": "物価予想、5年後も86．5％が上昇 中東影響、19年ぶり高水準 日銀調査（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "089b0820353e5f66"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Inflation expectations remain 86.5% higher in 5 years; Middle East impact, highest level in 19 years; Bank of Japan survey (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnV3TEZtVmg3RXBmaUdnMGJCMWs1QmEtd09LQnlRMmxWNkI3LTdGd29WYkJqOE1YanVRTkxVTnJrY2lrV01qcEcxclQ5UXY3aHNUTThrdWNlcE4zNnprZ2NBRC1yZ0ZxMUtpMTVvSkNWSC1KM2JNRmVSMllXSlpTRkhIQURNako4RnNmMFR3?oc=5",
-   "published_utc": "2026-10-13T08:13:56+00:00",
-   "title_original": "物価予想、5年後も86．5％が上昇 中東影響、19年ぶり高水準 日銀調査 (時事通信)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bec684b2ba39b4fd"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung cancer (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbUpzeVVpREgxVXJ1TUVLNkFjcngtb2MtYk96UWt4d2Y4X1hDZnhSOEhxQUVxNDZxamt0YkN3TmdYeEVWWEpBVGt1THduTnJBTHpGZmY4VEoxMHBuWXhaQ2pJTm1WWHh4LS02UnVLR3U0dTFNV1Z1MkxYYmlfRVk?oc=5",
-   "published_utc": "2026-10-13T08:05:00+00:00",
-   "title_original": "NHK前会長・日銀元理事の稲葉延雄さん死去、75歳 肺がん公表（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f796ea197e86816"
   },
   {
    "source_id": "manual_ia",

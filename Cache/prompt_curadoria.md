@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T08:42:44.773029+00:00
+Última coleta: 2026-11-06T08:52:47.868074+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          907
+  🇯🇵 Japão          906
   🇨🇳 China          897
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  872
+  🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [japan] GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds
   - [taiwan] Taiwan's October Exports Likely Rose 52.8%, WSJ Poll Shows — Market Talk
   - [china] China's Consumer Price Pressure Likely Remained Subdued — Market Talk
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors on the 11th
+  - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
+  - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [china] Sinoma Science And Technology Says To Buy Back Shares For 200-250 Million Yuan
   - [japan] Mitsubishi Heavy Industries, Ltd. Says It Will Buy Back Up To 3.6% Of Own Shares Worth 300 Billion Yen
-  - [china] Semight Instruments Says To Buy Back Shares For 100-150 Mln Yuan
-  - [japan] Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout
-  - [japan] Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T08:42:45+00:00",
+      "published_utc": "2026-11-06T08:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
