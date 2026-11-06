@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T18:32:46.095286+00:00
+Última coleta: 2026-11-06T18:42:42.825281+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          903
@@ -17,11 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
   - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
   - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
-  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
   - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
   - [taiwan] Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T18:32:46+00:00",
+      "published_utc": "2026-11-06T18:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
