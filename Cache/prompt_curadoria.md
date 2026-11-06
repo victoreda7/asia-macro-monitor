@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T00:52:43.554843+00:00
+Última coleta: 2026-11-06T01:02:42.772588+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
-  🇨🇳 China          899
+  🇨🇳 China          898
   🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  888
+  🇰🇷 Coreia do Sul  889
 
 ## O que já está no feed (não repita)
 
+  - [korea] Coway Co., Ltd. Overseas Revenue Rises 26.2% to KRW 591.8B
   - [korea] South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble
   - [korea] Samsung, SK hynix slide 10% as AI data center fears spread
   - [korea] Finance minister vows timely actions to ease stock market volatility
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S.Korea eyes massive US Treasury purchase to boost FX reserves, offer relief to Washington
   - [japan] Bernstein raises Sony stock price target to $26 on yen weakness
   - [korea] SK Hynix losing out on US plant has major implications, Wedbush says
-  - [japan] Yen market: Slight price movements; drop in crude oil futures causes temporary appreciation of yen and depreci
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T00:52:43+00:00",
+      "published_utc": "2026-11-06T01:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
