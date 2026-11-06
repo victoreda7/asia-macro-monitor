@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T15:32:42.938130+00:00
+Última coleta: 2026-11-06T15:42:43.253829+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          906
-  🇨🇳 China          898
-  🇹🇼 Taiwan         327
+  🇯🇵 Japão          905
+  🇨🇳 China          897
+  🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC considera fabricar chips de memória avançados, segundo o Theme Information
+  - [taiwan] TSMC considers making advanced memory chips, The Information reports
   - [japan] U.S. employment increased by 165,000 in October, exceeding expectations
   - [china] Suzano's CFO Says Chinese Debt Market Now Looks More Attractive For Bond Issuance
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls By Investing.com
   - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
-  - [taiwan] Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates
-  - [korea] Citi “maintains interest rate hike forecast for November and February next year despite KOSPI plunge” : Econom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T15:32:43+00:00",
+      "published_utc": "2026-11-06T15:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
