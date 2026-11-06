@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T01:22:44.442912+00:00
+Última coleta: 2026-11-06T01:32:43.865296+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
-  🇨🇳 China          899
-  🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  888
+  🇯🇵 Japão          893
+  🇨🇳 China          900
+  🇹🇼 Taiwan         321
+  🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to spend proceeds from BOJ's ETF sales on growth areas, PM says
+  - [china] Chances are, US-China truce will be extended at Shenzhen Apec summit
   - [japan] Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 13
   - [japan] BREAKING NEWS: Japan to use 10 bil. yen from reserve funds for cybersecurity measures
   - [taiwan] TSMC Plunges 9.8%; Foxconn Down 9.15%
   - [korea] Coway Co., Ltd. Overseas Revenue Rises 26.2% to KRW 591.8B
+  - [japan] Bank of Japan ETF sales increase, not used to finance consumption tax cut (Kyodo News)
   - [korea] South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble
   - [korea] Samsung, SK hynix slide 10% as AI data center fears spread
   - [korea] Finance minister vows timely actions to ease stock market volatility
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Nutrien Sees Tight Nitrogen Markets In 2027 As Higher China Urea Exports Only Partially Offset Outages
   - [china] China’s Central Bank Pledges More Support to Stabilize Markets
   - [china] Kimberly-Clark Backs Full-Year Growth Forecast Despite China Controversy — Update
-  - [taiwan] Siemens To Modernize Taiwan Taoyuan Metro Signaling
-  - [china] What does midterm humbling mean for Bessent ahead of US-China trade talks?
-  - [korea] S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T01:22:44+00:00",
+      "published_utc": "2026-11-06T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
