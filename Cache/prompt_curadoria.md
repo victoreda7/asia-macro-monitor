@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T07:22:45.743242+00:00
+Última coleta: 2026-11-06T07:32:44.834121+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          902
+  🇯🇵 Japão          903
   🇨🇳 China          899
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  875
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [china] China opens anti-dumping probe into EU para-aramid filament yarn imports
   - [china] China launches anti-dumping probe into EU, Japan ENB imports
+  - [taiwan] Taiwan forex reserves dip below US$600 billion amid intervention
   - [japan] (IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop
   - [china] Table: King Yuan Electronics Oct Rev NT$4.43B Vs NT$3.42B
   - [japan] Japan's GPIF Posts July-Sept Investment Loss Of 5.2533 Trln Yen
@@ -49,14 +51,12 @@ Total: 3000 manchetes
   - [japan] Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout
   - [japan] Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen
   - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
+  - [japan] Russia takes control of Japan Tobacco subsidiary's assets | NHK WORLD-JAPAN News
   - [japan] BOJ eyes AI demand as inflation risk
   - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters
   - [china] China's yuan slips, looks set to snap five-week winning streak
   - [taiwan] Taiwan-UK tech ties could support Europe's chip autonomy drive
   - [taiwan] Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows — Market Talk
-  - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll
-  - [japan] Mr. Takaichi considers the proceeds from the sale of Bank of Japan ETFs as a source of funding for bridging go
-  - [china] China Commerce Ministry: Held China-Netherlands Export Control Dialogue Mechanism Meeting In Shenzhen On Nov 5
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T07:22:45+00:00",
+      "published_utc": "2026-11-06T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

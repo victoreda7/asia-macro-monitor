@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T07:22:45.743242+00:00",
- "collected_at_utc": "2026-11-06T07:22:45.743242+00:00",
+ "generated_at_utc": "2026-11-06T07:32:44.834121+00:00",
+ "collected_at_utc": "2026-11-06T07:32:44.834121+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 902,
+  "japan": 903,
   "china": 899,
-  "taiwan": 324,
-  "korea": 875
+  "taiwan": 325,
+  "korea": 873
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 50,
+   "count": 54,
    "error": "",
-   "newest": "2026-11-06T13:21:14+08:00"
+   "newest": "2026-11-06T15:01:24+08:00"
   },
   {
    "source_id": "investing_live",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T03:49:38+00:00"
+   "newest": "2026-11-06T03:54:17+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T07:21:22+00:00"
+   "newest": "2026-11-06T07:31:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -346,6 +346,23 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "China opens anti-dumping probe into EU para-aramid filament yarn imports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45200S:0-china-opens-anti-dumping-probe-into-eu-para-aramid-filament-yarn-imports/",
+   "published_utc": "2026-11-06T07:10:33+00:00",
+   "title_original": "China opens anti-dumping probe into EU para-aramid filament yarn imports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2ca3ba0b89239441"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "China launches anti-dumping probe into EU, Japan ENB imports",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45200R:0-china-launches-anti-dumping-probe-into-eu-japan-enb-imports/",
    "published_utc": "2026-11-06T07:02:52+00:00",
@@ -359,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8de31dd5701e504a"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan forex reserves dip below US$600 billion amid intervention",
+   "url": "https://focustaiwan.tw/business/202611060013",
+   "published_utc": "2026-11-06T07:01:24+00:00",
+   "title_original": "Taiwan forex reserves dip below US$600 billion amid intervention",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "490eb56ef0e10bdc"
   },
   {
    "source_id": "boj_whatsnew",
@@ -889,6 +923,23 @@
    "live_wire": true,
    "manual": false,
    "id": "04bab38a12873717"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Russia takes control of Japan Tobacco subsidiary's assets | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51NlQyZ1hIWUtURVpYNGtQZ2NEdUhLU3R1MWRXcmRmV0tpMHd5bGpsZ2FJOWJsaURXOHpJRVZacWtqaU9vcHB4RHcwWDgtNlgwTnJvM3UwZWVuV3pwbmhfUDZYdw?oc=5",
+   "published_utc": "2026-11-06T03:54:17+00:00",
+   "title_original": "Russia takes control of Japan Tobacco subsidiary's assets | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6d5cd35810774a82"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -1512,23 +1563,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9f0720cfe423da72"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N00O:0-south-korea-stocks-plunge-8-circuit-breaker-triggered-as-chip-shares-tumble/",
-   "published_utc": "2026-11-06T00:49:33+00:00",
-   "title_original": "South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "560b4d585cfd5c43"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3805,24 +3839,6 @@
    "id": "23d59d91ec66b59e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "北京市人民政府门户网站",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
-   "published_utc": "2026-11-05T02:24:00+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "03384924387c3789"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -4800,6 +4816,24 @@
    "live_wire": false,
    "manual": false,
    "id": "46136046ef4a3e7c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HTmlaUGZNSFBGY3VtalZPNW5CSFlNWnFUM3E0RmZXelNQX3RQVWxiWU1Oa3hwWW9EOW04TlVENnlvYU9ZSk1pRWJYaDBTbnRXMVVsSk9zQTI2eTdmWkE?oc=5",
+   "published_utc": "2026-11-04T13:38:35+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f678839ab95ea16f"
   },
   {
    "source_id": "tradingview_live",
@@ -51938,41 +51972,6 @@
    "live_wire": true,
    "manual": false,
    "id": "99149ca6c67982a6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launched a 65 billion yuan 7-day reverse repurchase operation today | People's Bank of China | Bidding | Dealers | Full amount | Demand",
-   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQODRGcjNicEhuXzQ2RVZicDlablFGbzRabVVibUhJb0VoQUdwTDhSM1NmLVJqSVJad2ZXT0xRaGpxSktnei05b1lndENjTXBiRU1OM25ncUJ1R0hWLXB5eWY5UlE2NTJOMjVpT08yclhJUUs4ZTF0dHViRzBnWE41RG02ZmhUQTdvcUw1akhZX0h3azhtYmd4bU1GeHNiQ01MRVVvb01wNmJVQ2Y2eG1PRHQyTWFjZy12WFZTYTluME95UW9QUUM3NUZwUU0tZ201Yi1IanJMaWNzR3pvd1B3N3VYdVhMVG1UUlV2RmJhVVd1MlltV19WbzF5dl9xWHdsWU1XRG95LXN0ZWwwN014Ni1wX0ZkX2pQQldDRjJLczh4NEN2QlY4V2tqZEd0dU1qWXptWjRBM2Q4cnFickFnSjhuM0VJaWFFcV9DVi1qeEZBMUhHbHc?oc=5",
-   "published_utc": "2026-10-13T07:57:53+00:00",
-   "title_original": "央行今日开展650亿元7天期逆回购操作|中国人民银行|招标|交易商|全额|需求",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8865e0f14370f0eb"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국부동산뉴스",
-   "title_en": "“We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsQ01JQ2I3NzcxY0p2TC13UmdzQ2pwOEx2VzFDdy00SWFmeFctV21hZnYtOFZJcVI1czR3U0VncUhpNGVPMmZjcXF0M0pFc0JIYnhjaVZuc1p1UXlhYWs5WVF5b1FpN2hBRURB?oc=5",
-   "published_utc": "2026-10-13T07:48:56+00:00",
-   "title_original": "\"美보다 먼저 올려 시간 벌었다\"…한은, 10월 기준금리 '동결' 무게",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "673a3302800d55a0"
   },
   {
    "source_id": "manual_ia",
