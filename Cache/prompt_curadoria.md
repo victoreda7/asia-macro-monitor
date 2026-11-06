@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T05:12:41.908171+00:00
+Última coleta: 2026-11-06T05:22:45.687495+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
@@ -18,12 +18,12 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Isuzu Motors Limited - To Buy Back Up To 5.1% Own Shares Worth 50 Billion Yen
+  - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [korea] Korean stocks pare heavy losses as bargain hunters snap up blue chips; Kospi back above 5,000 mark
   - [china] Sinoma Science And Technology Says To Buy Back Shares For 200-250 Million Yuan
   - [japan] Mitsubishi Heavy Industries, Ltd. Says It Will Buy Back Up To 3.6% Of Own Shares Worth 300 Billion Yen
   - [china] Semight Instruments Says To Buy Back Shares For 100-150 Mln Yuan
   - [japan] Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout
-  - [china] Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say
   - [japan] Hanwa Co Ltd Says It Will Buy Back Up To 1.82% Of Own Shares Worth 5 Billion Yen
   - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
   - [japan] BOJ eyes AI demand as inflation risk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T05:12:42+00:00",
+      "published_utc": "2026-11-06T05:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
