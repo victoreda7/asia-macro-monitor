@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T02:22:46.313478+00:00
+Última coleta: 2026-11-06T02:32:44.180988+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          893
@@ -17,13 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill passed by House of Representatives with agreement between ruling and opposition
   - [korea] Why is SK Hynix stock crashing today?
   - [taiwan] Why is TSMC stock plunging today?
   - [taiwan] Taiwan dollar, Malaysian ringgit lead losses in Asian currencies
   - [taiwan] In line with international trade fishing and management, the Fisheries Department piloted the opening of expor
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
   - [korea] Why is Samsung Electronics stock plunging today?
-  - [japan] Consumption tax reduction bill: Ruling party: ``Vote on the 6th'' Opposition: ``Decision after listening to Pr
   - [china] CHINA PBOC CONDUCTS CNY226 BLN VIA O/N REVERSE REPO FRI
   - [japan] JGB Yields Fall as Stock Markets Drop Sharply — Market Talk
   - [japan] Bank of Japan's additional ETF sales proceeds will lead to further growth through reinvestment - Prime Ministe
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T02:22:46+00:00",
+      "published_utc": "2026-11-06T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
