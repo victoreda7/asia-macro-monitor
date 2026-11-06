@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T06:22:43.728699+00:00
+Última coleta: 2026-11-06T06:32:43.479671+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          900
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hankook Tire & Technology Co Ltd: Record Tire revenue and higher Thermal Management profit supported KRW 598.8
   - [japan] JGB yields plunge to July lows as Wall St tech tout sparks haven rush
   - [japan] Japan’s Nikkei enters bear market as AI rout sends chip shares into sharp retreat
   - [china] China’s Hua Hong defies chip selloff on strong earnings, upbeat guidance
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Mercedes-Benz overtakes BMW to rank second in imported car sales
   - [japan] Shimane Bank has fallen into a large deficit forecast and was forced to increase its capital by 10 billion yen
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be used for growth investment as a source of funds for redem
-  - [taiwan] Taiwan targets reusable rocket manufacturing in 2027 strategy to rival SpaceX
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T06:22:43+00:00",
+      "published_utc": "2026-11-06T06:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
