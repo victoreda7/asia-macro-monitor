@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T01:52:44.390603+00:00
+Última coleta: 2026-11-06T02:02:45.415669+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          894
+  🇯🇵 Japão          895
   🇨🇳 China          899
   🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
+  - [japan] Consumption tax reduction bill: Ruling party: ``Vote on the 6th'' Opposition: ``Decision after listening to Pr
   - [china] CHINA PBOC CONDUCTS CNY226 BLN VIA O/N REVERSE REPO FRI
   - [japan] JGB Yields Fall as Stock Markets Drop Sharply — Market Talk
   - [japan] Bank of Japan's additional ETF sales proceeds will lead to further growth through reinvestment - Prime Ministe
+  - [japan] Japan to spend proceeds from BOJ’s ETF sales on growth areas, PM says
   - [taiwan] Taiwan's market fundamentals are good, deputy finance minister says
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7168 FRI VS 6.7156
-  - [japan] Japan to spend proceeds from BOJ's ETF sales on growth areas, PM says
   - [japan] Dollar holds, yen gains as equity rout saps risk appetite ahead of payrolls
   - [china] Chances are, US-China truce will be extended at Shenzhen Apec summit
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 13
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report
   - [taiwan] SuperAlloy enters semiconductor pilot production in 3Q26
   - [china] Avoiding U.S. export controls, the dark side of China's AI start-up moon turns to Europe to rent Huida chip co
-  - [japan] Foreign-student spending in Japan hits $4.3bn amid soft yen
-  - [japan] Democratic 'blue wave' may buoy yen if AI trade reverses: FX traders
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T01:52:44+00:00",
+      "published_utc": "2026-11-06T02:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

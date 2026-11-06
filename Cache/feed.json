@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-06T01:52:44.390603+00:00",
- "collected_at_utc": "2026-11-06T01:52:44.390603+00:00",
+ "generated_at_utc": "2026-11-06T02:02:45.415669+00:00",
+ "collected_at_utc": "2026-11-06T02:02:45.415669+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 894,
+  "japan": 895,
   "china": 899,
   "taiwan": 322,
-  "korea": 885
+  "korea": 884
  },
  "elapsed_s": 30.2,
  "sources": [
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 47,
    "error": "",
-   "newest": "2026-11-05T16:00:00+09:00"
+   "newest": "2026-11-06T11:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T00:22:00+00:00"
+   "newest": "2026-11-06T01:43:16+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T01:33:22+00:00"
+   "newest": "2026-11-06T01:46:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T01:30:37+00:00"
+   "newest": "2026-11-06T01:42:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T10:43:28+09:00"
+   "newest": "2026-11-06T10:52:14+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T10:46:42+09:00"
+   "newest": "2026-11-06T10:58:37+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T01:31:00+00:00"
+   "newest": "2026-11-05T04:19:41+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T01:51:47+00:00"
+   "newest": "2026-11-06T02:01:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-05T13:16:00+00:00"
+   "newest": "2026-11-06T01:44:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T01:18:17+00:00"
+   "newest": "2026-11-06T01:52:24+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M1RE:0-nvidia-chips-pile-up-in-hong-kong-as-china-withholds-import-approval/",
+   "published_utc": "2026-11-06T02:01:50+00:00",
+   "title_original": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "01ad8e415537d6dd"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Consumption tax reduction bill: Ruling party: ``Vote on the 6th'' Opposition: ``Decision after listening to Prime Minister's response''",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
+   "published_utc": "2026-11-06T01:52:14+00:00",
+   "title_original": "消費税減税法案 与党“6日採決を”野党“首相答弁聞いて判断”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef4c6a09d643d4c1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -395,6 +431,23 @@
    "id": "ffd50a04cd55e9d9"
   },
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan to spend proceeds from BOJ’s ETF sales on growth areas, PM says",
+   "url": "https://www.investing.com/news/economy-news/japan-vigilant-to-market-moves-will-focus-on-boosting-economy-pm-takaichi-says-5006209",
+   "published_utc": "2026-11-06T01:36:22+00:00",
+   "title_original": "Japan to spend proceeds from BOJ’s ETF sales on growth areas, PM says",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6af11a6555b7a5b5"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Taiwan's market fundamentals are good, deputy finance minister says",
@@ -427,23 +480,6 @@
    "live_wire": true,
    "manual": false,
    "id": "273a1789ac4e8517"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan to spend proceeds from BOJ's ETF sales on growth areas, PM says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N01K:0-japan-to-spend-proceeds-from-boj-s-etf-sales-on-growth-areas-pm-says/",
-   "published_utc": "2026-11-06T01:30:46+00:00",
-   "title_original": "Japan to spend proceeds from BOJ's ETF sales on growth areas, PM says",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5d83d7c81c9f5e7b"
   },
   {
    "source_id": "investing_econ",
@@ -1461,24 +1497,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0cb43c61b4f639fb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46M0IT:0/",
-   "published_utc": "2026-11-05T11:26:07+00:00",
-   "title_original": "Chips da Nvidia se acumulam em Hong Kong enquanto a China retém a aprovação de importação",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "e6a6bc8b219c7317"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51965,25 +51983,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8ce6a67d59aa63a4"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96d3JfSm8yQlJzdjRJd3ByM2Y2LVVfQk9aWk82b3B3RWJiR2otQlNvQ05pemF3a0hOUlFpaDgwRmFkcnZpYkF2UlVGQ1c2ZGF6SUdOcjdpUkJzUQ?oc=5",
-   "published_utc": "2026-10-13T02:00:07+00:00",
-   "title_original": "IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "industrial",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "10d52dba68857f96"
   },
   {
    "source_id": "manual_ia",
