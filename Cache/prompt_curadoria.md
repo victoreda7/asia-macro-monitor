@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T19:12:46.018015+00:00
+Última coleta: 2026-11-06T19:22:44.331484+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          903
-  🇨🇳 China          899
+  🇨🇳 China          900
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  869
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
   - [japan] Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Co
   - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
+  - [china] Could a paused US blacklist rule signal room for progress in China trade talks?
   - [china] China’s State Council Calls for Stronger Stock Market Stability
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
   - [japan] [America after the Trump administration] “Support won’t return even if the economy recovers” Supporters are de
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Proceeds from the sale of Bank of Japan ETFs will be placed in a new special account, Chief Cabinet Secretary 
   - [korea] Was this the reason why the Governor of the Bank of Korea said, “Semiconductor prices are important”?
   - [japan] Prime Minister Takaichi Proceeds from additional sales of Bank of Japan ETFs will be used as a source of new i
-  - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T19:12:46+00:00",
+      "published_utc": "2026-11-06T19:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
