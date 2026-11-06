@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-06T07:52:42.654120+00:00
+Última coleta: 2026-11-06T08:02:42.565910+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          905
-  🇨🇳 China          899
+  🇯🇵 Japão          906
+  🇨🇳 China          898
   🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
+  - [japan] Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M
   - [japan] BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist
   - [japan] France Bed Holdings Co Ltd - To Buy Back Up To 2.69% Of Own Shares Worth 1 Billion Yen
   - [japan] Sigmaxyz Holdings Inc - To Buy Back Up To 4.42% Of Shares Worth 1.8 Billion Yen
@@ -40,7 +42,6 @@ Total: 3000 manchetes
   - [china] The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reve
   - [korea] Taesung To Divest Real Estate Worth 19.8 Billion Won
   - [korea] Lam Research appoints Kim Tae-won as new head and CEO of its Korean subsidiary
-  - [japan] Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of fun
   - [japan] Abduction families “Japan-North Korea summit meeting to resolve the issue” Liberal Democratic Party Abduction 
   - [china] Nvidia chips pile up in Hong Kong as China withholds import approval
   - [japan] Japan to tap proceeds from BOJ asset sales as AI rout stokes fiscal worries
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] KOSPI crashes 8% to below 5,000, Nikkei plunges 5% as US elections trigger AI rout; Samsung, SK Hynix sink
   - [japan] Russia takes control of Japan Tobacco subsidiary's assets | NHK WORLD-JAPAN News
   - [japan] BOJ eyes AI demand as inflation risk
-  - [japan] Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-06T07:52:42+00:00",
+      "published_utc": "2026-11-06T08:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

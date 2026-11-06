@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-06T07:52:42.654120+00:00",
- "collected_at_utc": "2026-11-06T07:52:42.654120+00:00",
+ "generated_at_utc": "2026-11-06T08:02:42.565910+00:00",
+ "collected_at_utc": "2026-11-06T08:02:42.565910+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 905,
-  "china": 899,
+  "japan": 906,
+  "china": 898,
   "taiwan": 324,
   "korea": 872
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T05:57:00+00:00"
+   "newest": "2026-11-06T07:14:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": "",
    "newest": "2026-11-05T12:28:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T07:33:49+00:00"
+   "newest": "2026-11-06T07:54:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T07:00:24+00:00"
+   "newest": "2026-11-06T07:48:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-06T06:16:46+00:00"
+   "newest": "2026-11-06T07:54:52+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 15,
+   "count": 12,
    "error": "",
    "newest": "2026-11-04T09:56:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T15:39:00+09:00"
+   "newest": "2026-11-06T16:58:30+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-06T16:42:11+09:00"
+   "newest": "2026-11-06T16:58:30+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-06T07:41:08+00:00"
+   "newest": "2026-11-06T08:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,11 +344,45 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
+   "published_utc": "2026-11-06T07:58:30+00:00",
+   "title_original": "高市首相“日銀ETF追加売却益は新たな投資枠の財源に”",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "705c63df64126f26"
+  },
+  {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M",
+   "url": "https://www.tradingview.com/news/DJN_DN20261106002239:0-mortgage-service-japan-1h-net-y608-00m-vs-net-y513-00m/",
+   "published_utc": "2026-11-06T07:55:00+00:00",
+   "title_original": "Mortgage Service Japan 1H Net Y608.00M Vs Net Y513.00M",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "efa8c73857fcaf76"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46N0GN:0-boj-to-hike-in-december-seek-terminal-rate-of-2-says-ex-central-bank-top-economist/",
-   "published_utc": "2026-11-06T07:38:56+00:00",
+   "url": "https://www.investing.com/news/economy-news/boj-to-hike-in-december-seek-terminal-rate-of-2-says-excentral-bank-top-economist-5006665",
+   "published_utc": "2026-11-06T07:48:24+00:00",
    "title_original": "BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist",
    "region": "japan",
    "topics": [
@@ -356,9 +390,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "8aa1af8d6f59848b"
+   "id": "a1b2e862fefb76a8"
   },
   {
    "source_id": "tradingview_live",
@@ -734,23 +768,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f770de4e2ce2bd6c"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
-   "published_utc": "2026-11-06T05:43:51+00:00",
-   "title_original": "高市首相“日銀ETF追加売却益は新たな投資枠の財源に”",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "705c63df64126f26"
   },
   {
    "source_id": "nhk_politics",
@@ -1980,6 +1997,24 @@
    "id": "bbc03d883e593013"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53VERUWTkyQTYwVDNObF9Qck5EVkxYRVRIdVB5eFY5OUExWGp0YnZXQUlTVTltVDZCN3J6V2pEa2JSNEpCMk96a1BmWmxiOVhBUmZBOElZdlp4empPai1YbnA5NWZBbzdXdGc?oc=5",
+   "published_utc": "2026-11-05T19:18:04+00:00",
+   "title_original": "S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f0b03e4a4a348961"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "SuperAlloy enters semiconductor pilot production in 3Q26",
@@ -2184,24 +2219,6 @@
    "live_wire": false,
    "manual": false,
    "id": "39e477ea323acf44"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53VERUWTkyQTYwVDNObF9Qck5EVkxYRVRIdVB5eFY5OUExWGp0YnZXQUlTVTltVDZCN3J6V2pEa2JSNEpCMk96a1BmWmxiOVhBUmZBOElZdlp4empPai1YbnA5NWZBbzdXdGc?oc=5",
-   "published_utc": "2026-11-05T14:12:21+00:00",
-   "title_original": "S.Korea’s current account surplus hits record $61 bn as global IBs hike GDP growth forecasts",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f0b03e4a4a348961"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51954,24 +51971,6 @@
    "live_wire": true,
    "manual": false,
    "id": "04b3bcc16eaea293"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013001109:0-china-s-export-rebate-cut-to-cost-nev-makers-4-000-6-000-yuan-per-vehicle-market-talk/",
-   "published_utc": "2026-10-13T07:59:00+00:00",
-   "title_original": "China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk",
-   "region": "china",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "99149ca6c67982a6"
   },
   {
    "source_id": "manual_ia",
