@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-07T02:12:43.288088+00:00",
- "collected_at_utc": "2026-11-07T02:12:43.288088+00:00",
+ "generated_at_utc": "2026-11-07T02:22:42.875455+00:00",
+ "collected_at_utc": "2026-11-07T02:22:42.875455+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 913,
-  "china": 895,
+  "japan": 914,
+  "china": 894,
   "taiwan": 327,
   "korea": 865
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "newest": "2026-11-05T08:00:00+00:00"
+   "newest": "2026-11-05T00:48:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T22:59:09+00:00"
+   "newest": "2026-11-06T18:34:11+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T00:07:42+00:00"
+   "newest": "2026-11-06T23:54:12+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -395,6 +395,25 @@
    "id": "5d78d36d2f61edac"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda wants to keep inflation at 2%, mentions upside risk (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qQ0RsbGxzZERJMTNzMlBDak9LR2F0RkZVMjdhbHNpb2ZLS1VlUGp1Uzk0XzZQTUhoN3RTVm1VWnduTFhza05wd3VvellUNENmbmJFOEpIVVRDYWtsZFh6b2NJcDhOb1VueHZBWE0xQkRpS0s1WFl6T1ZCRWZQdkk?oc=5",
+   "published_utc": "2026-11-07T01:06:01+00:00",
+   "title_original": "植田日銀総裁、物価2％定着に意欲 上振れリスクに言及（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "155304df9debd42f"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic growth | International",
@@ -465,23 +484,6 @@
    "live_wire": false,
    "manual": false,
    "id": "681d0f86dc28732d"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
-   "published_utc": "2026-11-06T22:59:09+00:00",
-   "title_original": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d2609a0509ee034b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -605,6 +607,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7c9657fd05a3a02b"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVTbG5PRGFYaVRPT1FGZ2pTTlpVeTNiVExObUFqcFFxUU5uZW9XbzlrVDZ5NEIya2d0REkzTlJPTk5hdF9mQmtHOU1aejBZcnJFY01MN2pUZmxLNUh2YWdPWlFYYjJDbDdHeVZUSlNON2g4M1VwUFZmSVFnem1mMU1jX1FkbFc2eVZhY0FMaHU1bHdGaGxneHpOM21qcmZmYXZ4d2FIdGNLUnJZaWs4N21VTDRUN01OcHNNOXlGU0Q4LU9lNjZvWlFn0gHKAUFVX3lxTE43UmQ4YTNqQ1RQajlMZ3FuY1d2bjd6czBST0cyZExtN1BLT3hIdnl2U0g0SWpXck16RUhPYld4YmV5YmF3dWdDLTlfeXpLVHhmTHN4SE5VSHBraUVaMGpuWm8yeTA0UXVzMi1IYkZ2ZzNQY1E4OVRBeGRVTEMyN19nSVlobUc4cXI5VW5oTU43OC05UHNwb2w2anRWNTBNZi11VUNDdWFJSy00VWtmMkpBUExjMTY4SUItbERkVlpOQnY5NUczRWRQcnc?oc=5",
+   "published_utc": "2026-11-06T18:34:11+00:00",
+   "title_original": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2609a0509ee034b"
   },
   {
    "source_id": "tradingview_live",
@@ -845,8 +864,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -860,7 +879,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -1190,8 +1209,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -1205,7 +1224,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1330,8 +1349,8 @@
    "id": "0671084a654e2a9e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -1345,7 +1364,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1468,8 +1487,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -1482,7 +1501,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -24144,7 +24163,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "From January to September 2026, profits of industrial enterprises above designated size nationwide increased by 15.5%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wNzk1c3k4UGJNUFpNeTNHUGg4UG91cGlqTUJuVzV1anpQVFBxdzZkQ21XMjl5VER6VEVQTHloNDkwVzJsd0J6X2duUTRuLWZvN09tbVVoOEg0SE5qTjQ2ajhscHlLWHZLNkg2Q3o1V2Z1bGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00SzczM3Zhd0JnM3ZZNkRhMVpTMHhHU0xtNEptNFBuQTNCLXJBcldmMnV5S25KYkFJd0Rxb1VPcGozTC15d2FRZU4xUFk4cHRQMEZLY0IzejA0bWdNdTBMRWgwazdXTlEybXJ3Qmt5d1NVTEtC?oc=5",
    "published_utc": "2026-10-27T07:00:00+00:00",
    "title_original": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
    "region": "china",
@@ -24155,7 +24174,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "781d054f0a999f07"
+   "id": "a98b0afd638e1d84"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51961,23 +51980,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f548dc8f2e109e76"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013001377:0-micron-stock-is-falling-elon-musk-s-comments-on-chinese-chips-aren-t-helping-barrons-com/",
-   "published_utc": "2026-10-13T18:29:00+00:00",
-   "title_original": "Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7c0e61c99d6a19e0"
   },
   {
    "source_id": "manual_ia",
