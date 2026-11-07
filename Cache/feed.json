@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-07T10:02:43.774463+00:00",
- "collected_at_utc": "2026-11-07T10:02:43.774463+00:00",
+ "generated_at_utc": "2026-11-07T10:12:43.987953+00:00",
+ "collected_at_utc": "2026-11-07T10:12:43.987953+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 913,
+  "japan": 912,
   "china": 893,
-  "taiwan": 328,
-  "korea": 866
+  "taiwan": 330,
+  "korea": 865
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T17:08:46+00:00"
+   "newest": "2026-11-06T11:39:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
    "newest": "2026-11-06T13:34:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-07T09:53:23+00:00"
+   "newest": "2026-11-07T10:10:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -2499,6 +2499,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4343f6afa5078ec3"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0F6YWJCYUJEbFpDakFpN3NtdmJxMTZaUW4waER1c2RpdTJ1ajNzS1M3RldhRWladU0ydW1vaXZnR1NHZkJQaWR4RmZKR3JkQTNodkppdDFtelJ3azJ4RUhkaERBMkJoX3RHRmFhd1dVQi1EdFM4RXJSWlVXTEJfcFZ3SVhTc19FbDY2NERrY1hIQkk5MXBpNmxySlp1Z0lSMnBv?oc=5",
+   "published_utc": "2026-11-06T01:57:16+00:00",
+   "title_original": "Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8dd3a0996cca8294"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6715,6 +6732,23 @@
    "live_wire": true,
    "manual": false,
    "id": "db41698a77c2bbe3"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Global chip sales top US$500 billion in a single quarter for first time",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDJ6b0ZpeElhbUFKTnJKbE1TcE1CNzZENl9iTXRKWm1UMFBJVWFwMnFiRHlGZTVkTXZObmM3YkgwbTNvbk5LUFdTOHY0eDJfSXUwWkhUSEdYUVZ1MjZZOW9ZYkpHVzNCcDlWOTUtSkNLMjhFSkcyZ2VlNGdYdWhHRFd4LWRLTng0?oc=5",
+   "published_utc": "2026-11-04T08:15:00+00:00",
+   "title_original": "Global chip sales top US$500 billion in a single quarter for first time",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce5ab17bb7d48ac2"
   },
   {
    "source_id": "tradingview_live",
@@ -51945,40 +51979,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3fcf300b8176d484"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix bounces in downtrend after support breach: Live levels",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-   "published_utc": "2026-10-14T01:05:18+00:00",
-   "title_original": "SK Hynix bounces in downtrend after support breach: Live levels",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e84fa3ea5d9da284"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Bank of Japan Accounts (October 10)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
-   "published_utc": "2026-10-14T01:00:00+00:00",
-   "title_original": "Bank of Japan Accounts (October 10)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "16486515c4222e51"
   },
   {
    "source_id": "manual_ia",
