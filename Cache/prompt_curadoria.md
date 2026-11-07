@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T10:12:43.987953+00:00
+Última coleta: 2026-11-07T10:22:44.984262+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
-  🇨🇳 China          893
+  🇨🇳 China          894
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [china] China flags weak domestic demand as policymakers prepare 2027 growth measures
   - [taiwan] Central bank faces issues in curbing Taiwan dollar volatility: Experts
   - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
   - [taiwan] Taiwan Temple Abbot and Son Accused of Embezzling Nearly 70 Million Yuan and Laundering Funds Through Crypto
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
   - [japan] Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Co
   - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
-  - [china] Could a paused US blacklist rule signal room for progress in China trade talks?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T10:12:44+00:00",
+      "published_utc": "2026-11-07T10:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
