@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T20:42:40.921649+00:00
+Última coleta: 2026-11-07T20:52:42.963784+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          914
-  🇨🇳 China          890
+  🇯🇵 Japão          915
+  🇨🇳 China          889
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
   - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
   - [japan] Japan's SuMiTB makes first investment in Indian real estate fund through HDFC Capital
   - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout
   - [korea] SK hynix Stocks Plunge 10.44% as AI Memory Leader Leads Seoul Selloff
   - [china] Chinese premier chairs State Council executive meeting
-  - [taiwan] TSMC considers making advanced memory chips, The Information reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T20:42:41+00:00",
+      "published_utc": "2026-11-07T20:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
