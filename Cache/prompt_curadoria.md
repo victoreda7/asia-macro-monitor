@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T04:22:42.045145+00:00
+Última coleta: 2026-11-07T04:32:41.658758+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
   🇨🇳 China          895
-  🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  865
+  🇹🇼 Taiwan         327
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [china] China Forex Reserves Edged Up in October — WSJ
   - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
   - [japan] <Book Reviews> ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth o
   - [china] Beijing Vows to Hit Back Against US Sanctions on China Companies
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
   - [japan] [America after the Trump administration] “Support won’t return even if the economy recovers” Supporters are de
   - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
-  - [taiwan] Stabilization fund ready for market intervention after Taiex's plunge
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T04:22:42+00:00",
+      "published_utc": "2026-11-07T04:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
