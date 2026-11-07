@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T01:42:43.652219+00:00
+Última coleta: 2026-11-07T01:52:43.897185+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
@@ -18,8 +18,8 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
-  - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
   - [taiwan] The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic grow
+  - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
   - [japan] Bank of Japan Governor warns of upward swing in prices, saying there are “many challenges” even after reaching
   - [japan] Treasury Secretary George Bessent and Vice Premier He discuss the status of the trade war ``truce''
   - [japan] PM Takaichi gave fewer Diet budget committee responses than 4 predecessors
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T01:42:43+00:00",
+      "published_utc": "2026-11-07T01:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
