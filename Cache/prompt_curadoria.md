@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T11:32:46.312656+00:00
+Última coleta: 2026-11-07T11:42:43.214299+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
-  🇨🇳 China          893
+  🇯🇵 Japão          912
+  🇨🇳 China          892
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's SuMiTB makes first investment in Indian real estate fund through HDFC Capital
   - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
   - [korea] Lee hails Korea’s first persimmon export to China in 17 years
   - [china] China flags weak domestic demand as policymakers prepare 2027 growth measures
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] U.S. employment increased by 165,000 in October, exceeding expectations
   - [china] Suzano's CFO Says Chinese Debt Market Now Looks More Attractive For Bond Issuance
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
-  - [japan] Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Co
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T11:32:46+00:00",
+      "published_utc": "2026-11-07T11:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
