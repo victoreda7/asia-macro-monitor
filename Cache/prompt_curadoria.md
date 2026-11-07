@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T01:32:42.066879+00:00
+Última coleta: 2026-11-07T01:42:43.652219+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
-  🇨🇳 China          897
+  🇯🇵 Japão          912
+  🇨🇳 China          896
   🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
+  - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
   - [taiwan] The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic grow
   - [japan] Bank of Japan Governor warns of upward swing in prices, saying there are “many challenges” even after reaching
   - [japan] Treasury Secretary George Bessent and Vice Premier He discuss the status of the trade war ``truce''
@@ -29,7 +31,6 @@ Total: 3000 manchetes
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [japan] [Asahi Shimbun answers 10,000 characters (part 3)] Supporting the digital deficit with real estate and stock d
   - [japan] Sony Group Stocks Slip 2.63% Despite Record 1.33 Trillion Yen Profit Forecast
-  - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
   - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Soybean imports by China in 2026/27 estimated at 110 million tons, says USDA attaché
   - [japan] Consumption tax cut bill passes Japan's lower house in fast-tracked vote
   - [china] China formally removes Li Lecheng as industry minister after Anhui party appointment
-  - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T01:32:42+00:00",
+      "published_utc": "2026-11-07T01:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

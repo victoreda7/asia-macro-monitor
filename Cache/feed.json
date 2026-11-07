@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-07T01:32:42.066879+00:00",
- "collected_at_utc": "2026-11-07T01:32:42.066879+00:00",
+ "generated_at_utc": "2026-11-07T01:42:43.652219+00:00",
+ "collected_at_utc": "2026-11-07T01:42:43.652219+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 911,
-  "china": 897,
+  "japan": 912,
+  "china": 896,
   "taiwan": 327,
   "korea": 865
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T19:04:36+00:00"
+   "newest": "2026-11-07T01:33:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-07T01:31:13+00:00"
+   "newest": "2026-11-07T01:39:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T00:12:35+00:00"
+   "newest": "2026-11-07T01:15:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T09:31:32+00:00"
+   "newest": "2026-11-07T01:33:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Bessent, Greer Raise Concerns on China Trade Deal Actions",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
+   "published_utc": "2026-11-07T01:33:00+00:00",
+   "title_original": "Bessent, Greer Raise Concerns on China Trade Deal Actions",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14f8ee0286667219"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMWlnNDBLdy13MmdSMzNtWVVGWktGN1l2WkFVSGhKSXVlTExtSFA0cDNvYmYzRkZtT0Q5aHFFR2VQaHVOdVZLTEZobXhxY3FpSF9UdXJJTnk1LXVNQzRMSmRBdzJjdDdONThLUmVPY2EtMXpONGkySkc1RWg5UzA?oc=5",
+   "published_utc": "2026-11-07T01:15:00+00:00",
+   "title_original": "11月の経済情勢、「緩やかに回復」日銀下関支店、35カ月連続（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5d78d36d2f61edac"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -554,23 +588,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7c9657fd05a3a02b"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Bessent, Greer Raise Concerns on China Trade Deal Actions",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
-   "published_utc": "2026-11-06T19:04:36+00:00",
-   "title_original": "Bessent, Greer Raise Concerns on China Trade Deal Actions",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14f8ee0286667219"
   },
   {
    "source_id": "tradingview_live",
@@ -51961,23 +51978,6 @@
    "live_wire": false,
    "manual": false,
    "id": "02b00845fb05617b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "FinanceWire",
-   "title_en": "China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)",
-   "url": "https://www.tradingview.com/news/financewire:ca942807f094b:0-china-s-magnet-export-crackdown-is-putting-companies-like-evolution-metals-in-the-spotlight-nasdaq-emat/",
-   "published_utc": "2026-10-13T17:50:13+00:00",
-   "title_original": "China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9480160b9ae07f03"
   },
   {
    "source_id": "manual_ia",
