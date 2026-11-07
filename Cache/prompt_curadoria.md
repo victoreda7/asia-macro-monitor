@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T22:32:42.855606+00:00
+Última coleta: 2026-11-07T22:42:42.650068+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          916
-  🇨🇳 China          888
+  🇨🇳 China          887
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
@@ -29,7 +29,7 @@ Total: 3000 manchetes
   - [china] China Forex Reserves Edged Up in October — WSJ
   - [china] China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting
   - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
-  - [japan] <Book Reviews> ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth o
+  - [japan] ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth of the 200 Trill
   - [china] Beijing Vows to Hit Back Against US Sanctions on China Companies
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
   - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [japan] Treasury Secretary George Bessent and Vice Premier He discuss the status of the trade war ``truce''
   - [japan] PM Takaichi gave fewer Diet budget committee responses than 4 predecessors
   - [japan] Bank of Japan decides to speed up ETF sales (Hiroyuki Kubota) - Expert
+  - [korea] “Confidence in the final interest rate of 3.5% is weakening due to sluggish stock prices.”
   - [japan] Which is correct regarding the consumer price increase rate: ``3.2%'' by the Bank of Japan or ``2.1%'' by the 
   - [japan] Japan's new whisky breed chases export elixir
   - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
   - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
   - [taiwan] Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout
-  - [korea] SK hynix Stocks Plunge 10.44% as AI Memory Leader Leads Seoul Selloff
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T22:32:43+00:00",
+      "published_utc": "2026-11-07T22:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-07T22:32:42.855606+00:00",
- "collected_at_utc": "2026-11-07T22:32:42.855606+00:00",
+ "generated_at_utc": "2026-11-07T22:42:42.650068+00:00",
+ "collected_at_utc": "2026-11-07T22:42:42.650068+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 916,
-  "china": 888,
+  "china": 887,
   "taiwan": 330,
-  "korea": 866
+  "korea": 867
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T12:40:59+00:00"
+   "newest": "2026-11-02T02:20:24+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-07T12:18:31+00:00"
+   "newest": "2026-11-07T22:38:37+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-08T07:00:00+09:00"
+   "newest": "2026-11-08T07:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,9 +337,9 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-06T09:59:00+00:00"
+   "newest": "2026-11-06T22:25:01+00:00"
   }
  ],
  "items": [
@@ -553,7 +553,7 @@
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
-   "title_en": "<Book Reviews> ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth of the 200 Trillion Yen Foreign Exchange Special Association'' ``Conditions for a Liberal Revival'' | Life | Toyo Keizai Online",
+   "title_en": "``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth of the 200 Trillion Yen Foreign Exchange Special Association'' ``Conditions for a Liberal Revival'' | Life | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/963630?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-11-07T02:00:00+00:00",
    "title_original": "〈書評〉『経営者の〈付加価値〉』『為替介入とは何か 200兆円規模｢外為特会｣が生まれた謎』『リベラル再起の条件』 | ライフ | 東洋経済オンライン",
@@ -725,6 +725,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7c0768dc5e928e62"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "“Confidence in the final interest rate of 3.5% is weakening due to sluggish stock prices.”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLa1VoXzZfS2I2ZXNPUDl6a1VGU3NrQWZFdklxeEpER0hPdktzLWRZREJyMmFLTFI3bFkwb3d3RERZNGZiUVFBVjBJMGVYNzUwTG9NeUNkekl3amd4NWZuLVNmc1FldU81QmhiMzlCbXJzUQ?oc=5",
+   "published_utc": "2026-11-06T22:25:01+00:00",
+   "title_original": "\"주가 부진으로 최종금리 3.5% 확신 약해져\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aa458670a5d2bb80"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51964,24 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "27868e7fd95c7490"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October 14, the People's Bank of China launched a 56 billion yuan 7-day reverse repurchase operation using a fixed interest rate and quantity bidding method, fully meeting the needs of primary dealers. #reverserepo #central bank",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWlVZWdMbzBzZllKOHBFYVdLS3gxeVhmMjVjbUVlQWU1NVJSMnZTckp1bDg5U1Y3Sm1aUTFBM2RDTDhJQ2tsMEF5Y2hYSkkwNGEzcUhyR0tfOFEweEtaUDVKTm9FQUo3NEV3VU5GVDg1Y2xyNmtkbDAtUkpDeEdkSVkzeHhHR3BXQ0NuOA?oc=5",
-   "published_utc": "2026-10-14T02:08:29+00:00",
-   "title_original": "央行公告：开展560亿元7天期逆回购操作 10月14日中国人民银行以固定利率、数量招标方式开展了560亿元7天期逆回购操作，全额满足了一级交易商需求。#逆回购 #央行",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7368ca1bd529804a"
   },
   {
    "source_id": "manual_ia",
