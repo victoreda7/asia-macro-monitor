@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T10:42:43.110083+00:00
+Última coleta: 2026-11-07T10:52:44.261199+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
@@ -17,9 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
+  - [korea] Lee hails Korea’s first persimmon export to China in 17 years
   - [china] China flags weak domestic demand as policymakers prepare 2027 growth measures
   - [taiwan] Central bank faces issues in curbing Taiwan dollar volatility: Experts
-  - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
   - [taiwan] Taiwan Temple Abbot and Son Accused of Embezzling Nearly 70 Million Yuan and Laundering Funds Through Crypto
   - [china] China Forex Reserves Edged Up in October — WSJ
   - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Suzano's CFO Says Chinese Debt Market Now Looks More Attractive For Bond Issuance
   - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
   - [japan] Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Co
-  - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T10:42:43+00:00",
+      "published_utc": "2026-11-07T10:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
