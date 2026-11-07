@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T00:12:44.592674+00:00
+Última coleta: 2026-11-07T00:22:43.775599+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
-  🇨🇳 China          898
+  🇯🇵 Japão          910
+  🇨🇳 China          897
   🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
   - [japan] Treasury Secretary George Bessent and Vice Premier He discuss the status of the trade war ``truce''
+  - [japan] PM Takaichi gave fewer Diet budget committee responses than 4 predecessors
   - [china] US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen
   - [japan] Bank of Japan decides to speed up ETF sales (Hiroyuki Kubota) - Expert
   - [japan] Japan's new whisky breed chases export elixir
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] The central bank strengthened its defense and exporters assisted. The Taiwan dollar depreciated and rose to cl
   - [japan] Prime Minister Takaichi intends to allocate the proceeds from additional sales of BOJ ETFs to “new investment 
   - [japan] A Japanese manufacturer navigates US trade policy shifts
-  - [china] Ex-Everbright Executive and Wife Took 4.29 Million Yuan in Salary Bribes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T00:12:44+00:00",
+      "published_utc": "2026-11-07T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
