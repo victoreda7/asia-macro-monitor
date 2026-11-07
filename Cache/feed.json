@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-07T00:52:43.085914+00:00",
- "collected_at_utc": "2026-11-07T00:52:43.085914+00:00",
+ "generated_at_utc": "2026-11-07T01:02:43.958187+00:00",
+ "collected_at_utc": "2026-11-07T01:02:43.958187+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 910,
+  "japan": 911,
   "china": 897,
   "taiwan": 327,
-  "korea": 866
+  "korea": 865
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-07T00:31:08+00:00"
+   "newest": "2026-11-07T00:46:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "newest": "2026-11-05T08:00:00+00:00"
+   "newest": "2026-11-05T00:48:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-07T00:51:00+00:00"
+   "newest": "2026-11-07T01:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-06T15:03:11+00:00"
+   "newest": "2026-11-07T00:59:00+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -448,6 +448,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7c0768dc5e928e62"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Which is correct regarding the consumer price increase rate: ``3.2%'' by the Bank of Japan or ``2.1%'' by the Ministry of Internal Affairs and Communications? The meaning of “achieving” the 2% price target (Diamond Online)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldVloWTFyQm1SREJOdjlPR0ZZZUIxSnFvVW5SbnBtOEdMYVI4RDFHQS0xME1PcFJYTTBaWjc5MnFTckRkVmo1R3EyLW9JdTBPMUtyQmdKcU5EbjhpMHRoSVVZN0pJMW14cExfVDZTYXozNk5zLVY4TVVUWmx2M1E?oc=5",
+   "published_utc": "2026-11-06T21:15:32+00:00",
+   "title_original": "消費者物価上昇率は日銀「3.2％」と総務省「2.1％」どちらが正しい？物価2％目標“到達”の意味（ダイヤモンド・オンライン）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "af9e75c11bfd6228"
   },
   {
    "source_id": "nikkei_asia",
@@ -793,8 +811,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -808,7 +826,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -1138,8 +1156,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -1153,7 +1171,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1278,8 +1296,8 @@
    "id": "0671084a654e2a9e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -1293,7 +1311,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1416,8 +1434,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -1430,7 +1448,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -14743,6 +14761,23 @@
    "id": "8e7498c1544de0f0"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan govt. to spend another $7.3 bil. on fuel subsidy",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Tc1NvMjcyUG5TWGRxUTc1WU9kSG1fSm5rTWNiSnZEcWZERkpXaHM5NkFpdkxuNHBaLXlKU2J2M0poRVh6a05qelNpclEyd1phTnFsZDFTZW5NUHdxTDFjTFpIOA?oc=5",
+   "published_utc": "2026-10-30T11:56:47+00:00",
+   "title_original": "Japan govt. to spend another $7.3 bil. on fuel subsidy",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2b53270de15c6dbe"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Fixed mortgage interest rates to be lowered by four major banks starting in November",
@@ -18567,23 +18602,6 @@
    "live_wire": false,
    "manual": false,
    "id": "59263d41669b4145"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan govt. to spend another $7.3 bil. on fuel subsidy",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Tc1NvMjcyUG5TWGRxUTc1WU9kSG1fSm5rTWNiSnZEcWZERkpXaHM5NkFpdkxuNHBaLXlKU2J2M0poRVh6a05qelNpclEyd1phTnFsZDFTZW5NUHdxTDFjTFpIOA?oc=5",
-   "published_utc": "2026-10-29T19:56:00+00:00",
-   "title_original": "Japan govt. to spend another $7.3 bil. on fuel subsidy",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2b53270de15c6dbe"
   },
   {
    "source_id": "nhk_economy",
@@ -24092,7 +24110,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "From January to September 2026, profits of industrial enterprises above designated size nationwide increased by 15.5%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wNzk1c3k4UGJNUFpNeTNHUGg4UG91cGlqTUJuVzV1anpQVFBxdzZkQ21XMjl5VER6VEVQTHloNDkwVzJsd0J6X2duUTRuLWZvN09tbVVoOEg0SE5qTjQ2ajhscHlLWHZLNkg2Q3o1V2Z1bGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00SzczM3Zhd0JnM3ZZNkRhMVpTMHhHU0xtNEptNFBuQTNCLXJBcldmMnV5S25KYkFJd0Rxb1VPcGozTC15d2FRZU4xUFk4cHRQMEZLY0IzejA0bWdNdTBMRWgwazdXTlEybXJ3Qmt5d1NVTEtC?oc=5",
    "published_utc": "2026-10-27T07:00:00+00:00",
    "title_original": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
    "region": "china",
@@ -24103,7 +24121,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "781d054f0a999f07"
+   "id": "a98b0afd638e1d84"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51960,23 +51978,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9480160b9ae07f03"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Benzinga",
-   "title_en": "Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today",
-   "url": "https://www.tradingview.com/news/benzinga:46d40e769094b:0-chip-stocks-slide-as-south-korea-s-kospi-plunges-j-j-sinks-6-stock-market-today/",
-   "published_utc": "2026-10-13T16:59:21+00:00",
-   "title_original": "Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "67bb53593db02c9e"
   },
   {
    "source_id": "manual_ia",

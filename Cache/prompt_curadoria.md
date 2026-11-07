@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T00:52:43.085914+00:00
+Última coleta: 2026-11-07T01:02:43.958187+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          910
+  🇯🇵 Japão          911
   🇨🇳 China          897
   🇹🇼 Taiwan         327
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [japan] PM Takaichi gave fewer Diet budget committee responses than 4 predecessors
   - [china] US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen
   - [japan] Bank of Japan decides to speed up ETF sales (Hiroyuki Kubota) - Expert
+  - [japan] Which is correct regarding the consumer price increase rate: ``3.2%'' by the Bank of Japan or ``2.1%'' by the 
   - [japan] Japan's new whisky breed chases export elixir
   - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax cut bill passes Japan's lower house in fast-tracked vote
   - [china] China formally removes Li Lecheng as industry minister after Anhui party appointment
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
-  - [taiwan] The central bank strengthened its defense and exporters assisted. The Taiwan dollar depreciated and rose to cl
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T00:52:43+00:00",
+      "published_utc": "2026-11-07T01:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
