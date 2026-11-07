@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T08:22:41.981951+00:00
+Última coleta: 2026-11-07T08:32:43.795345+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          913
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
   - [taiwan] Taiwan Temple Abbot and Son Accused of Embezzling Nearly 70 Million Yuan and Laundering Funds Through Crypto
   - [china] China Forex Reserves Edged Up in October — WSJ
   - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Table: Yuan Jen Enterprises Oct Rev NT$741.2M Vs NT$530.9M
   - [china] Could a paused US blacklist rule signal room for progress in China trade talks?
   - [china] China’s State Council Calls for Stronger Stock Market Stability
-  - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T08:22:42+00:00",
+      "published_utc": "2026-11-07T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
