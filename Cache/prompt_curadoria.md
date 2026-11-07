@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T02:02:49.300766+00:00
+Última coleta: 2026-11-07T02:12:43.288088+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
-  🇨🇳 China          896
+  🇯🇵 Japão          913
+  🇨🇳 China          895
   🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Book Reviews> ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth o
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
   - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
   - [taiwan] The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic grow
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Invesco CurrencyShares Japanese Yen Trust 3Q 2026: EPS ($0.04) — 10-Q Summary
   - [china] Soybean imports by China in 2026/27 estimated at 110 million tons, says USDA attaché
   - [japan] Consumption tax cut bill passes Japan's lower house in fast-tracked vote
-  - [china] China formally removes Li Lecheng as industry minister after Anhui party appointment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T02:02:49+00:00",
+      "published_utc": "2026-11-07T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
