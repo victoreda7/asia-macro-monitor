@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T00:22:43.775599+00:00
+Última coleta: 2026-11-07T00:32:42.645224+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          910
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic grow
+  - [japan] Bank of Japan Governor warns of upward swing in prices, saying there are “many challenges” even after reaching
   - [japan] Treasury Secretary George Bessent and Vice Premier He discuss the status of the trade war ``truce''
   - [japan] PM Takaichi gave fewer Diet budget committee responses than 4 predecessors
   - [china] US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China formally removes Li Lecheng as industry minister after Anhui party appointment
   - [china] Analysis-China’s yuan dilemma: too weak abroad and too strong at home
   - [taiwan] The central bank strengthened its defense and exporters assisted. The Taiwan dollar depreciated and rose to cl
-  - [japan] Prime Minister Takaichi intends to allocate the proceeds from additional sales of BOJ ETFs to “new investment 
-  - [japan] A Japanese manufacturer navigates US trade policy shifts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T00:22:44+00:00",
+      "published_utc": "2026-11-07T00:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
