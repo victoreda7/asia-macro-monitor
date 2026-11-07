@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T05:02:42.774937+00:00
+Última coleta: 2026-11-07T05:12:41.814978+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
+  🇯🇵 Japão          913
   🇨🇳 China          895
   🇹🇼 Taiwan         327
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
   - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
+  - [china] US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings
   - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
   - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s State Council Calls for Stronger Stock Market Stability
   - [china] Nexwise Intelligence China Signs 4.9 Billion Yuan Computing Power Service Contract
   - [japan] [America after the Trump administration] “Support won’t return even if the economy recovers” Supporters are de
-  - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T05:02:43+00:00",
+      "published_utc": "2026-11-07T05:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
