@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T02:42:43.418562+00:00
+Última coleta: 2026-11-07T02:52:43.026539+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          914
+  🇯🇵 Japão          913
   🇨🇳 China          894
-  🇹🇼 Taiwan         327
+  🇹🇼 Taiwan         328
   🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
   - [japan] <Book Reviews> ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth o
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
   - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] NPS tightens stewardship rules on treasury shares, $157 bn Korean equity mandates
   - [taiwan] Stabilization fund ready for market intervention after Taiex's plunge
   - [japan] Invesco CurrencyShares Japanese Yen Trust 3Q 2026: EPS ($0.04) — 10-Q Summary
-  - [china] Soybean imports by China in 2026/27 estimated at 110 million tons, says USDA attaché
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T02:42:43+00:00",
+      "published_utc": "2026-11-07T02:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
