@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T14:22:42.989953+00:00
+Última coleta: 2026-11-07T14:32:48.209451+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          913
@@ -46,6 +46,7 @@ Total: 3000 manchetes
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
   - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
   - [china] US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings
+  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation By Reuters
   - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
   - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC considera fabricar chips de memória avançados, segundo o Theme Information
   - [japan] U.S. employment increased by 165,000 in October, exceeding expectations
   - [china] Suzano's CFO Says Chinese Debt Market Now Looks More Attractive For Bond Issuance
-  - [taiwan] TSMC Weighs Making Advanced Memory Chips To Capture More AI Spending - The Information
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T14:22:43+00:00",
+      "published_utc": "2026-11-07T14:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
