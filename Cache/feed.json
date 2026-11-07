@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-07T01:22:41.232271+00:00",
- "collected_at_utc": "2026-11-07T01:22:41.232271+00:00",
+ "generated_at_utc": "2026-11-07T01:32:42.066879+00:00",
+ "collected_at_utc": "2026-11-07T01:32:42.066879+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 327,
   "korea": 865
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 48,
+   "error": "",
+   "newest": "2026-11-07T01:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": "",
-   "newest": "2026-11-05T00:48:00+00:00"
+   "newest": "2026-11-05T08:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-07T01:11:07+00:00"
+   "newest": "2026-11-07T01:31:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
