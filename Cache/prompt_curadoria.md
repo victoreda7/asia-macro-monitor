@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-07T21:02:42.088067+00:00
+Última coleta: 2026-11-07T21:12:46.511380+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          915
-  🇨🇳 China          889
+  🇯🇵 Japão          916
+  🇨🇳 China          888
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Ah, the AI ​​semiconductor stock bubble has finally begun to completely burst...The proof is more in the colla
   - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
   - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
   - [japan] Japan's SuMiTB makes first investment in Indian real estate fund through HDFC Capital
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
   - [taiwan] Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout
   - [korea] SK hynix Stocks Plunge 10.44% as AI Memory Leader Leads Seoul Selloff
-  - [china] Chinese premier chairs State Council executive meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-07T21:02:42+00:00",
+      "published_utc": "2026-11-07T21:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
