@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T23:02:43.315486+00:00
+Última coleta: 2026-11-08T23:12:45.319252+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
+  🇯🇵 Japão          925
   🇨🇳 China          876
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  870
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [japan] Five general trading companies all increase profits and record high profits...Despite the tailwind from high r
   - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
   - [korea] Hana Bank, ranked first in interest reduction per interest rate reduction request in the first half of the yea
   - [china] The Chinese people are wiping out President Xi Jinping's ``misjudgment''...The tyranny of local governments th
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Beijing Vows to Hit Back Against US Sanctions on China Companies
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Compliance
   - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
-  - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T23:02:43+00:00",
+      "published_utc": "2026-11-08T23:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
