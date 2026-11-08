@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T22:32:42.371490+00:00
+Última coleta: 2026-11-08T22:42:44.438933+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,11 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
   - [korea] Hana Bank, ranked first in interest reduction per interest rate reduction request in the first half of the yea
   - [japan] Will the AI ​​bubble burst? & Thoughts on Trump's miscalculations etc. = Thoughts on the Bank of Japan's "lunc
   - [japan] ANA makes Air Do and Solaseed Air wholly owned subsidiaries... Each company complains of "real deficits on dom
   - [japan] A major blunder at DoCoMo, where a series of troubles occurred in less than a month... Just when the president
-  - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
   - [japan] Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate betw
   - [korea] Affiliated real estate trust companies have been in the red for the third consecutive year, with the..
   - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T22:32:42+00:00",
+      "published_utc": "2026-11-08T22:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
