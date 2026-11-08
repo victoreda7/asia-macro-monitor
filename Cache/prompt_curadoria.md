@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T15:32:42.449166+00:00
+Última coleta: 2026-11-08T15:42:45.456779+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
-  🇨🇳 China          876
-  🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  875
+  🇯🇵 Japão          919
+  🇨🇳 China          877
+  🇹🇼 Taiwan         330
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
@@ -22,8 +22,10 @@ Total: 3000 manchetes
   - [korea] With the stock market plummeting, the calculation of the Bank of Korea's interest rate hike is complicated... 
   - [japan] Piles of old rice in the warehouse, sold at a loss
   - [japan] Are prices in the area you live higher than the national average? Only nine prefectures have a higher rate, an
+  - [china] China's surge in new energy vehicle exports raises concerns about after-sales service pressure in the next thr
   - [korea] Samsung's Texas chip plant could begin trial runs in December
   - [korea] Will imported water bottles also be label-free?
+  - [taiwan] Central bank has paid US$160 million to former Paraguayan president detained pending trial | International
   - [korea] Kakao X's growth outlook takes shape ahead of split
   - [korea] If interest rates rise further in the future, life insurers' capital soundness could deteriorate sig..
   - [korea] Prices plummeted by 2.8% and KOSPI by 6%... Bank of Korea, interest rate hike dilemma
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan decides to speed up ETF sales (Hiroyuki Kubota) - Expert
   - [korea] “Confidence in the final interest rate of 3.5% is weakening due to sluggish stock prices.”
   - [japan] Which is correct regarding the consumer price increase rate: ``3.2%'' by the Bank of Japan or ``2.1%'' by the 
-  - [japan] Japan's new whisky breed chases export elixir
-  - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T15:32:42+00:00",
+      "published_utc": "2026-11-08T15:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
