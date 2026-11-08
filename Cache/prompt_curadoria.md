@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T06:32:42.576527+00:00
+Última coleta: 2026-11-08T06:42:45.656447+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
-  🇨🇳 China          881
+  🇯🇵 Japão          919
+  🇨🇳 China          879
   🇹🇼 Taiwan         328
   🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
+  - [japan] Are prices in the area you live higher than the national average? Only nine prefectures have a higher rate, an
   - [korea] Samsung's Texas chip plant could begin trial runs in December
   - [korea] Will imported water bottles also be label-free?
   - [korea] Kakao X's growth outlook takes shape ahead of split
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] [Asahi Shimbun answers 10,000 characters (part 3)] Supporting the digital deficit with real estate and stock d
   - [japan] Sony Group Stocks Slip 2.63% Despite Record 1.33 Trillion Yen Profit Forecast
   - [china] US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen
-  - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
-  - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T06:32:42+00:00",
+      "published_utc": "2026-11-08T06:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

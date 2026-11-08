@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-08T06:32:42.576527+00:00",
- "collected_at_utc": "2026-11-08T06:32:42.576527+00:00",
+ "generated_at_utc": "2026-11-08T06:42:45.656447+00:00",
+ "collected_at_utc": "2026-11-08T06:42:45.656447+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 917,
-  "china": 881,
+  "japan": 919,
+  "china": 879,
   "taiwan": 328,
   "korea": 874
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-08T06:04:15+00:00"
+   "newest": "2026-11-08T06:00:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-08T15:18:52+09:00"
+   "newest": "2026-11-08T15:40:30+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T10:00:06+00:00"
+   "newest": "2026-11-08T02:00:27+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-08T06:31:00+00:00"
+   "newest": "2026-11-08T06:34:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T03:25:53+00:00"
+   "newest": "2026-11-08T06:25:50+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberates on system image”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72482",
+   "published_utc": "2026-11-08T06:40:30+00:00",
+   "title_original": "消費税減税法案 自民 小林政調会長“制度イメージわく審議を”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b456c59174b90be5"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Are prices in the area you live higher than the national average? Only nine prefectures have a higher rate, and Tokyo has a rate of 93.7 for utilities and water [published in September 2026]",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSMXh1TDd4bFVJWEdoUG5VODdwWld5aGpvQUxxOExPWjRDRG1LZkJIZ3R1WWRQYXVueGY3UVNZU2c5Q0hJTS0tV1VQQ1ZqMzMzcF8xaTgzMkRvNTBWWW1BZFBBVllaNGgtXzVObHpRTWZwT3R1eHVURnRtZ3dram8?oc=5",
+   "published_utc": "2026-11-08T06:25:50+00:00",
+   "title_original": "自分が住んでいる地域の物価は全国平均より高い？ 上回るのは9都道府県だけ、東京都も光熱・水道は93.7【2026年9月公表】",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "122bf16cc929319d"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -51950,41 +51985,6 @@
    "live_wire": false,
    "manual": false,
    "id": "497f93267de4aea9"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "China's export engine hits fastest pace since February with 36% growth",
-   "url": "https://asia.nikkei.com/economy/trade/china-s-export-engine-hits-fastest-pace-since-february-with-36-growth",
-   "published_utc": "2026-10-14T03:22:42.793309+00:00",
-   "title_original": "China's export engine hits fastest pace since February with 36% growth",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7708bae770e5aa59"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4RDVPNWRKNkp6NVFlS1FIVXd2aVhWWUVQSXp0aElicFl6aGdsc05nQXBJQkxqVXhNTVZqVVQ5RFNBTTl3YmJUdThGTVU4Y3ZRTUpRN1JkUUtpVVQ1cVZtQnp3?oc=5",
-   "published_utc": "2026-10-14T03:17:32+00:00",
-   "title_original": "央行10月14日开展560亿元7天期逆回购",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a1a20660d44d01ab"
   },
   {
    "source_id": "manual_ia",
