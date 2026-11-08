@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T01:22:42.325966+00:00
+Última coleta: 2026-11-08T01:32:44.725181+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
-  🇨🇳 China          886
+  🇨🇳 China          885
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  869
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
   - [korea] If interest rates rise further in the future, life insurers' capital soundness could deteriorate sig..
+  - [korea] Prices plummeted by 2.8% and KOSPI by 6%... Bank of Korea, interest rate hike dilemma
   - [japan] “Selection bias” hidden in the Bank of Japan’s “elderly consumption analysis” Discrepancy from the reality of 
   - [japan] Ah, the AI ​​semiconductor stock bubble has finally begun to completely burst...The proof is more in the colla
   - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation By Reuters
   - [japan] Risk of upside to underlying inflation, aiming for 2% stability - Bank of Japan Governor (Reuters)
-  - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T01:22:42+00:00",
+      "published_utc": "2026-11-08T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
