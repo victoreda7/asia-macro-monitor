@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T04:52:43.621924+00:00
+Última coleta: 2026-11-08T05:02:48.924645+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
-  🇨🇳 China          882
+  🇨🇳 China          881
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung's Texas chip plant could begin trial runs in December
   - [korea] Will imported water bottles also be label-free?
   - [korea] Kakao X's growth outlook takes shape ahead of split
   - [korea] If interest rates rise further in the future, life insurers' capital soundness could deteriorate sig..
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
   - [japan] ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth of the 200 Trill
   - [china] Beijing Vows to Hit Back Against US Sanctions on China Companies
+  - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
   - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
   - [japan] Bank of Japan Governor Ueda wants to keep inflation at 2%, mentions upside risk (Jiji Press)
   - [taiwan] The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic grow
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen
   - [china] U.S. urges China to comply with Busan trade deal over rare earth shortfalls - report
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
-  - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
-  - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T04:52:43+00:00",
+      "published_utc": "2026-11-08T05:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
