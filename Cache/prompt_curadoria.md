@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T02:32:43.617225+00:00
+Última coleta: 2026-11-08T02:42:41.967393+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
-  🇨🇳 China          884
+  🇨🇳 China          883
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  871
+  🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [korea] Will imported water bottles also be label-free?
   - [korea] Kakao X's growth outlook takes shape ahead of split
   - [korea] If interest rates rise further in the future, life insurers' capital soundness could deteriorate sig..
   - [korea] Prices plummeted by 2.8% and KOSPI by 6%... Bank of Korea, interest rate hike dilemma
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling
   - [korea] BOK Financial Posts Investor Presentation Highlighting Q3 Loan Growth and 2026 Outlook
   - [china] US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings
-  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T02:32:43+00:00",
+      "published_utc": "2026-11-08T02:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
