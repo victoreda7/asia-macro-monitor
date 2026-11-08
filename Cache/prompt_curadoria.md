@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T21:02:43.221829+00:00
+Última coleta: 2026-11-08T21:12:44.323953+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          876
+  🇯🇵 Japão          924
+  🇨🇳 China          874
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  872
 
 ## O que já está no feed (não repita)
 
+  - [japan] Will the AI ​​bubble burst? & Thoughts on Trump's miscalculations etc. = Thoughts on the Bank of Japan's "lunc
+  - [japan] ANA makes Air Do and Solaseed Air wholly owned subsidiaries... Each company complains of "real deficits on dom
   - [japan] A major blunder at DoCoMo, where a series of troubles occurred in less than a month... Just when the president
   - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
   - [japan] Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate betw
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda wants to keep inflation at 2%, mentions upside risk (Jiji Press)
   - [taiwan] The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic grow
   - [japan] Bank of Japan Governor warns of upward swing in prices, saying there are “many challenges” even after reaching
-  - [japan] Treasury Secretary George Bessent and Vice Premier He discuss the status of the trade war ``truce''
-  - [japan] PM Takaichi gave fewer Diet budget committee responses than 4 predecessors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T21:02:43+00:00",
+      "published_utc": "2026-11-08T21:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
