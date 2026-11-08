@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T00:22:42.803983+00:00
+Última coleta: 2026-11-08T00:32:42.906369+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
-  🇨🇳 China          885
-  🇹🇼 Taiwan         330
+  🇨🇳 China          886
+  🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Ah, the AI ​​semiconductor stock bubble has finally begun to completely burst...The proof is more in the colla
   - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
   - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
+  - [china] Big events of the week｜18 active ETFs come to a successful conclusion! The central bank raised the foreign exc
   - [japan] Japan's SuMiTB makes first investment in Indian real estate fund through HDFC Capital
   - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
   - [korea] Lee hails Korea’s first persimmon export to China in 17 years
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Risk of upside to underlying inflation, aiming for 2% stability - Bank of Japan Governor (Reuters)
   - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
-  - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T00:22:43+00:00",
+      "published_utc": "2026-11-08T00:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
