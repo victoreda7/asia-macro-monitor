@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T00:02:43.302541+00:00
+Última coleta: 2026-11-08T00:12:43.506472+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          916
-  🇨🇳 China          886
+  🇯🇵 Japão          917
+  🇨🇳 China          885
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [japan] “Selection bias” hidden in the Bank of Japan’s “elderly consumption analysis” Discrepancy from the reality of 
   - [japan] Ah, the AI ​​semiconductor stock bubble has finally begun to completely burst...The proof is more in the colla
   - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
   - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US urged Beijing to implement commitments of Busan trade deal, Treasury says
   - [china] Guangzhou Proposes Easing Developers’ Infrastructure Obligations
   - [japan] BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages
-  - [taiwan] Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T00:02:43+00:00",
+      "published_utc": "2026-11-08T00:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
