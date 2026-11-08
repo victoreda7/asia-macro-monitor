@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T23:42:44.942130+00:00
+Última coleta: 2026-11-08T23:52:42.154837+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
+  🇯🇵 Japão          928
   🇨🇳 China          876
-  🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  868
+  🇹🇼 Taiwan         329
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Monetary Base and the Bank of Japan's Transactions (Oct.)
+  - [japan] Bank of Japan's Transactions with the Government (Oct.)
+  - [japan] Market Operations by the Bank of Japan (Oct.)
+  - [japan] Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate betw
   - [korea] [Morning Report] “Despite the sharp decline in the stock market, the Bank of Korea is expected to raise intere
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
   - [japan] "AI that steals jobs" has not taken hold in Japan...The potential of "AI that enters between" has been seen at
@@ -27,7 +31,6 @@ Total: 3000 manchetes
   - [japan] Will the AI ​​bubble burst? & Thoughts on Trump's miscalculations etc. = Thoughts on the Bank of Japan's "lunc
   - [japan] ANA makes Air Do and Solaseed Air wholly owned subsidiaries... Each company complains of "real deficits on dom
   - [japan] A major blunder at DoCoMo, where a series of troubles occurred in less than a month... Just when the president
-  - [japan] Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate betw
   - [korea] Affiliated real estate trust companies have been in the red for the third consecutive year, with the..
   - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
   - [korea] With the stock market plummeting, the calculation of the Bank of Korea's interest rate hike is complicated... 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Central bank faces issues in curbing Taiwan dollar volatility: Experts
   - [taiwan] Taiwan Temple Abbot and Son Accused of Embezzling Nearly 70 Million Yuan and Laundering Funds Through Crypto
   - [china] China Forex Reserves Edged Up in October — WSJ
-  - [china] China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting
-  - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
-  - [japan] ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth of the 200 Trill
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T23:42:45+00:00",
+      "published_utc": "2026-11-08T23:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

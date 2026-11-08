@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-08T23:42:44.942130+00:00",
- "collected_at_utc": "2026-11-08T23:42:44.942130+00:00",
+ "generated_at_utc": "2026-11-08T23:52:42.154837+00:00",
+ "collected_at_utc": "2026-11-08T23:52:42.154837+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 926,
+  "japan": 928,
   "china": 876,
-  "taiwan": 330,
-  "korea": 868
+  "taiwan": 329,
+  "korea": 867
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 42,
+   "count": 44,
    "error": "",
-   "newest": "2026-11-07T01:00:00+09:00"
+   "newest": "2026-11-09T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T23:45:00+00:00"
+   "newest": "2026-11-06T08:59:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T08:21:26+09:00"
+   "newest": "2026-11-09T08:46:22+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-08T23:39:00+00:00"
+   "newest": "2026-11-08T23:52:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T18:06:45+00:00"
+   "newest": "2026-11-08T21:06:45+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,75 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
+   "published_utc": "2026-11-08T23:50:00+00:00",
+   "title_original": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7648d7bcff2bcaa"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan's Transactions with the Government (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+   "published_utc": "2026-11-08T23:50:00+00:00",
+   "title_original": "Bank of Japan's Transactions with the Government (Oct.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9efe741140705f65"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Market Operations by the Bank of Japan (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+   "published_utc": "2026-11-08T23:50:00+00:00",
+   "title_original": "Market Operations by the Bank of Japan (Oct.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e729a23ae4993c19"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate between ruling and opposition parties",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72622",
+   "published_utc": "2026-11-08T23:46:22+00:00",
+   "title_original": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894d6e94c112d971"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스핌",
@@ -514,24 +583,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4297c687183c89fb"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate between ruling and opposition parties",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72622",
-   "published_utc": "2026-11-08T20:04:28+00:00",
-   "title_original": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894d6e94c112d971"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51930,57 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "26d23ad3ac5b8403"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix rebound after sharp sell-off",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XMjctalJsY3dxYjJGLVhNRGlMemloZGc1TlBwLUNBYk9FbzZNZ3VxZTUwQ2RqTFZXU2owbzYtQVBUbGpZOXo4RUNxWjRGOEIzVU8zVVdLbw?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "Samsung Electronics, SK hynix rebound after sharp sell-off",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d86d51e42067b1c5"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "IMF: Japan to fall to 6th in 2027 global GDP rankings",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "IMF: Japan to fall to 6th in 2027 global GDP rankings",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7830dd74a47254b5"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Taiwan’s GDP to reach 10.7%, IMF says",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3ekNjWllXeDJybG15ZGMzcm1pSFNlR0M5SEgxcW5HRnlhLUw1SjJPTnM2aFJWcFlDZkJXU1RlWnpiQXFTMWd2OEJORU5lRXRock9Ha05EZ3c2bWJnOWVfeE05RGVFZm9SQlltN3RHbW4wNXpXX20xbA?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "Taiwan’s GDP to reach 10.7%, IMF says",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d04de1ab7b1e077a"
   },
   {
    "source_id": "manual_ia",
