@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T20:32:43.548368+00:00
+Última coleta: 2026-11-08T20:42:42.128964+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
-  🇨🇳 China          877
+  🇯🇵 Japão          921
+  🇨🇳 China          876
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
   - [japan] Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate betw
   - [korea] Affiliated real estate trust companies have been in the red for the third consecutive year, with the..
   - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Treasury Secretary George Bessent and Vice Premier He discuss the status of the trade war ``truce''
   - [japan] PM Takaichi gave fewer Diet budget committee responses than 4 predecessors
   - [japan] Bank of Japan decides to speed up ETF sales (Hiroyuki Kubota) - Expert
-  - [korea] “Confidence in the final interest rate of 3.5% is weakening due to sluggish stock prices.”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T20:32:43+00:00",
+      "published_utc": "2026-11-08T20:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
