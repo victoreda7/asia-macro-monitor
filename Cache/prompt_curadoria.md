@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T21:54:20.375704+00:00
+Última coleta: 2026-11-08T22:02:43.850788+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hana Bank, ranked first in interest reduction per interest rate reduction request in the first half of the yea
   - [japan] Will the AI ​​bubble burst? & Thoughts on Trump's miscalculations etc. = Thoughts on the Bank of Japan's "lunc
   - [japan] ANA makes Air Do and Solaseed Air wholly owned subsidiaries... Each company complains of "real deficits on dom
   - [japan] A major blunder at DoCoMo, where a series of troubles occurred in less than a month... Just when the president
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Economic situation in November, “moderate recovery”, Bank of Japan Shimonoseki branch, 35th consecutive month 
   - [japan] Bank of Japan Governor Ueda wants to keep inflation at 2%, mentions upside risk (Jiji Press)
   - [taiwan] The Czech central bank raises interest rates by 1% to 4% to prevent rising inflation and slowing economic grow
-  - [japan] Bank of Japan Governor warns of upward swing in prices, saying there are “many challenges” even after reaching
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T21:54:20+00:00",
+      "published_utc": "2026-11-08T22:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
