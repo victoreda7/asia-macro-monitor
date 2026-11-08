@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T23:32:44.660317+00:00
+Última coleta: 2026-11-08T23:42:44.942130+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
+  🇯🇵 Japão          926
   🇨🇳 China          876
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  869
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Morning Report] “Despite the sharp decline in the stock market, the Bank of Korea is expected to raise intere
+  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
+  - [japan] "AI that steals jobs" has not taken hold in Japan...The potential of "AI that enters between" has been seen at
   - [japan] Five general trading companies all increase profits and record high profits...Despite the tailwind from high r
   - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
   - [korea] Hana Bank, ranked first in interest reduction per interest rate reduction request in the first half of the yea
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting
   - [taiwan] Foreign assets reached nearly 3 times the bottom of foreign exchange deposits. Taiwan stock market turbulence 
   - [japan] ``Added Value of Managers'' ``What is Foreign Exchange Intervention? The Mystery of the Birth of the 200 Trill
-  - [china] Beijing Vows to Hit Back Against US Sanctions on China Companies
-  - [china] Bessent, Greer Raise Concerns on China Trade Deal Compliance
-  - [china] Bessent, Greer Raise Concerns on China Trade Deal Actions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T23:32:44+00:00",
+      "published_utc": "2026-11-08T23:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

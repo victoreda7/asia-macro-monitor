@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-08T23:32:44.660317+00:00",
- "collected_at_utc": "2026-11-08T23:32:44.660317+00:00",
+ "generated_at_utc": "2026-11-08T23:42:44.942130+00:00",
+ "collected_at_utc": "2026-11-08T23:42:44.942130+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
+  "japan": 926,
   "china": 876,
   "taiwan": 330,
-  "korea": 869
+  "korea": 868
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-08T23:04:38+00:00"
+   "newest": "2026-11-08T23:30:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-08T22:48:20+00:00"
+   "newest": "2026-11-08T23:30:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T12:18:00+00:00"
+   "newest": "2026-11-07T15:03:37+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-08T23:30:00+00:00"
+   "newest": "2026-11-08T23:39:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-09T08:00:00+09:00"
+   "newest": "2026-11-09T08:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "newest": "2026-11-08T22:00:00+00:00"
+   "newest": "2026-11-08T23:36:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "[Morning Report] “Despite the sharp decline in the stock market, the Bank of Korea is expected to raise interest rates... expected to rise by 0.25%p this month.”",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAycDhZYXBiMUV1aFB5NzJoUGwtVUZldFdYUV9CVjZSN05sSlQ2WWJ2cl9mY1lIbVl4NHVZMmpOMWxQUTMxcXdVcGhMRDVvZ0hURW05RDFoRUZwNUNN?oc=5",
+   "published_utc": "2026-11-08T23:36:00+00:00",
+   "title_original": "[모닝 리포트] \"증시 급락에도 한은 금리인상 전망...이달 0.25%p↑ 예상\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "07313e7227995d07"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ chief Ueda sees ’some upside risks’ to inflation",
+   "url": "https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5010354",
+   "published_utc": "2026-11-08T23:30:19+00:00",
+   "title_original": "BOJ chief Ueda sees ’some upside risks’ to inflation",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d63cc3086d7736fe"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "\"AI that steals jobs\" has not taken hold in Japan...The potential of \"AI that enters between\" has been seen at over 4,800 companies such as JR East and Nomura Real Estate Holdings | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961668?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-08T23:30:00+00:00",
+   "title_original": "日本で｢仕事を奪うAI｣は定着しなかった…JR東日本や野村不動産HDなど4800社超の現場で見えた｢\"間\"に入るAI｣の可能性 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3cf66085e6755de8"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1227,24 +1279,6 @@
    "live_wire": false,
    "manual": false,
    "id": "70842264e3e2374e"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ chief Ueda sees ’some upside risks’ to inflation",
-   "url": "https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5008920",
-   "published_utc": "2026-11-06T20:30:23+00:00",
-   "title_original": "BOJ chief Ueda sees ’some upside risks’ to inflation",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4449c86c58fc56d1"
   },
   {
    "source_id": "toyo_keizai",
@@ -51947,40 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d04de1ab7b1e077a"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wM1RieXBZRjlJb093MGZ1M0hvbGhRMlotUUF2akhPZDRKeU1iNTFpV2dVQ0xZTmJTVVFRME96ejdsRFEwSE10d3FHRHQxMkV0a2dyOE0wMGI3Zw?oc=5",
-   "published_utc": "2026-10-14T06:59:20+00:00",
-   "title_original": "(LEAD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f56d8a93073cf76"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Real estate project financing (PF) guarantees supported by the government to revitalize the private",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kM0tXcnBYalJPSHB0YVdLMnlVNHk4bnlaQ2ZOVkFCLVB4b3A0cG5vcjhzbUh0UWk3R2lXV0RXc3BrNExweHg2dW82Z045UjkwSVRRbnZ3?oc=5",
-   "published_utc": "2026-10-14T06:44:46+00:00",
-   "title_original": "Real estate project financing (PF) guarantees supported by the government to revitalize the private",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "caa754db0929acea"
   },
   {
    "source_id": "manual_ia",
