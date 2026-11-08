@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T09:22:42.516389+00:00
+Última coleta: 2026-11-08T09:32:43.670189+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          875
+  🇨🇳 China          876
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  876
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Ah, the AI ​​semiconductor stock bubble has finally begun to completely burst...The proof is more in the colla
   - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
   - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
+  - [china] Why the central bank raised the foreign exchange deposit reserve ratio to stabilize the pace of appreciation
   - [china] Big events of the week｜18 active ETFs come to a successful conclusion! The central bank raised the foreign exc
   - [china] Xi’s Tightening China Grip Risks Less Innovation: New Economy
   - [japan] Japan's SuMiTB makes first investment in Indian real estate fund through HDFC Capital
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Which is correct regarding the consumer price increase rate: ``3.2%'' by the Bank of Japan or ``2.1%'' by the 
   - [japan] Japan's new whisky breed chases export elixir
   - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
-  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T09:22:42+00:00",
+      "published_utc": "2026-11-08T09:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
