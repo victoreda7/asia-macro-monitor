@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-08T01:32:44.725181+00:00",
- "collected_at_utc": "2026-11-08T01:32:44.725181+00:00",
+ "generated_at_utc": "2026-11-08T01:42:43.203372+00:00",
+ "collected_at_utc": "2026-11-08T01:42:43.203372+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 917,
-  "china": 885,
+  "china": 884,
   "taiwan": 328,
-  "korea": 870
+  "korea": 871
  },
- "elapsed_s": 31.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T12:08:27+00:00"
+   "newest": "2026-11-08T00:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T02:29:20+00:00"
+   "newest": "2026-11-06T17:00:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-07T13:29:01+00:00"
+   "newest": "2026-11-08T01:35:59+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "newest": "2026-11-06T13:34:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-08T01:20:36+00:00"
+   "newest": "2026-11-08T01:35:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-08T00:20:26+00:00"
+   "newest": "2026-11-08T01:37:50+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-08T00:06:28+00:00"
+   "newest": "2026-11-06T22:25:01+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Kakao X's growth outlook takes shape ahead of split",
+   "url": "https://www.koreaherald.com/article/10929523",
+   "published_utc": "2026-11-08T01:35:59+00:00",
+   "title_original": "Kakao X's growth outlook takes shape ahead of split",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfae463244158d09"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -5264,6 +5282,24 @@
    "id": "23d59d91ec66b59e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京市人民政府门户网站",
+   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wcEVJSGllSXZXWXRaNzBpdnJRVU1VN2pMQmtGTlB0UDFTRnlnY1ZzcWNlX3BfbWNOOFBoaWZoUU40ZV9yWDRFbmRRSUVHN2FmYTNKcVQ4NGUzYl8tZlV2alZvSC16QTRvTjh6cFV5TDV2VW43ZUgyTmFVRQ?oc=5",
+   "published_utc": "2026-11-05T02:24:00+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03384924387c3789"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung, SK hynix emerge as major bond investors amid chip boom",
@@ -6594,24 +6630,6 @@
    "live_wire": false,
    "manual": false,
    "id": "602d65e6e6b33f89"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "上观新闻",
-   "title_en": "The central bank will launch a 300 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZWFCN29YSGp1UndGQkFqSmJmMzZ2a2htMDd0NGhrRWlGMXVuOEp1LVBicEJSUDhPV211R1pUQmRacnc4dmRLV1h0YU82V053RjZVN2hyWk1vQQ?oc=5",
-   "published_utc": "2026-11-04T10:17:00+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "556924b0dee3e77c"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51967,23 +51985,6 @@
    "live_wire": false,
    "manual": false,
    "id": "38ff92ee563aecad"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China’s exports surge more than 36% in September amid tech demand, holiday rush",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzZhS3lYdWJOUFZlamFTNGpzeHZaUGd5OVdTU2UxOVFZaExIVE5nMHZmX0pIZGZLQkVEYUdkVHlaV0owRi1Pb1ZzYnpSY2xjRk1ybk13ZUNXNkRpVlhjSHA2a2tDWDVjZXhtQW5kWXZTNVNxNmlCX0RRdVJoZmRIa1lXS2xrU08xakVnbEVNN3VxeWVNRTMyb0lUMGx1RjQzbklycmpKQlVkODNZdThhYW12aHE3d0pReWJsY3VwZTdwTElydGFzdNIByAFBVV95cUxNN0lLaWxJNzJvY25QVjJMMDRVRjdLUEpBWWNjamR5TXZqc3VlMU1kdmtGTGtIclJCZWllMWNZNnVyXzBqUFhfN2pSY0xrdDRMb2xfNVhPOGQ3alZmUHROWk5BT2E0VWhDVW1NRGttNnRUWkZlbE15TF9xWnFZa2M0WU9wV0wyVUJ1eURhZE1VWWZMaTBiZ2JpeDRyZnVsb3VST3VNZlBSdzVVUzhKV19jUWhwVzkzZU5BQ05nQUdaVDdpeHI0VC1FWA?oc=5",
-   "published_utc": "2026-10-14T02:35:08+00:00",
-   "title_original": "China’s exports surge more than 36% in September amid tech demand, holiday rush",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5de57996c72c6b9e"
   },
   {
    "source_id": "manual_ia",
