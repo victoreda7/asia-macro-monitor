@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T08:32:41.710487+00:00
+Última coleta: 2026-11-08T08:42:43.513866+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          877
+  🇨🇳 China          876
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  874
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [korea] Affiliated real estate trust companies have been in the red for the third consecutive year, with the..
+  - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
   - [korea] With the stock market plummeting, the calculation of the Bank of Korea's interest rate hike is complicated... 
   - [japan] Piles of old rice in the warehouse, sold at a loss
-  - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
   - [japan] Are prices in the area you live higher than the national average? Only nine prefectures have a higher rate, an
   - [korea] Samsung's Texas chip plant could begin trial runs in December
   - [korea] Will imported water bottles also be label-free?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's new whisky breed chases export elixir
   - [japan] Consumption tax reduction bill passed by the House of Representatives; consensus building between ruling and o
   - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
-  - [japan] [Asahi Shimbun answers 10,000 characters (part 3)] Supporting the digital deficit with real estate and stock d
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T08:32:41+00:00",
+      "published_utc": "2026-11-08T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
