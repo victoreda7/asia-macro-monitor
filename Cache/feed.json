@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-08T17:23:05.128890+00:00",
- "collected_at_utc": "2026-11-08T17:23:05.128890+00:00",
+ "generated_at_utc": "2026-11-08T17:32:43.930149+00:00",
+ "collected_at_utc": "2026-11-08T17:32:43.930149+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 330,
   "korea": 874
  },
- "elapsed_s": 52.0,
+ "elapsed_s": 30.0,
  "sources": [
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -158,6 +142,14 @@
    "newest": "2026-11-08T06:00:00+00:00"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-06T23:45:00+00:00"
+  },
+  {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
    "ok": false,
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-08T17:19:13+00:00"
+   "newest": "2026-11-08T17:24:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -292,6 +284,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-08T13:53:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-08T12:00:30+00:00"
   },
   {
    "source_id": "yahoo_business",
