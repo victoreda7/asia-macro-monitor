@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T10:22:43.822675+00:00
+Última coleta: 2026-11-09T10:32:44.239269+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          872
+  🇯🇵 Japão          929
+  🇨🇳 China          873
   🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  866
 
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
   - [china] China Extends Pause on US Tariffs and Trade Curbs for Two Months
+  - [china] China Consumer Price Index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel p
   - [korea] Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about
   - [taiwan] Taiwan's October exports surge again on strong AI demand
   - [korea] As international energy prices soar, concerns are growing over the financial deterioration of state
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Wholesale prices of manufactured goods in China and the Middle East rise to the highest level in 4 years and 4
   - [china] China inflation misses estimates as food prices extend decline
   - [japan] SoftBank: AI-led growth targets FY2030 revenue of JPY 9.0 tn and operating income of JPY 1.7 tn
-  - [taiwan] Exclusive: Gallium oxide prepares to tackle power semiconductor market with 6-inch mass production and 8-inch 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T10:22:44+00:00",
+      "published_utc": "2026-11-09T10:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
