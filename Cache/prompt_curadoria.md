@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T00:02:43.342036+00:00
+Última coleta: 2026-11-09T00:12:43.432997+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          930
   🇨🇳 China          875
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Market intervention on July 30th: 7,975.6 billion yen, largest ever for yen buying intervention
+  - [korea] South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk
+  - [japan] BREAKING NEWS: Japan spent record 7.98 tril. yen in yen-buying intervention on July 30
   - [japan] Japan FX intervention data underscores challenge of reversing weak yen
   - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Monetary Base and the Bank of Japan's Transactions (Oct.)
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Why the central bank raised the foreign exchange deposit reserve ratio to stabilize the pace of appreciation
   - [china] Big events of the week｜18 active ETFs come to a successful conclusion! The central bank raised the foreign exc
   - [china] Xi’s Tightening China Grip Risks Less Innovation: New Economy
-  - [japan] Japan's SuMiTB makes first investment in Indian real estate fund through HDFC Capital
-  - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
-  - [korea] Lee hails Korea’s first persimmon export to China in 17 years
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T00:02:43+00:00",
+      "published_utc": "2026-11-09T00:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T00:02:43.342036+00:00",
- "collected_at_utc": "2026-11-09T00:02:43.342036+00:00",
+ "generated_at_utc": "2026-11-09T00:12:43.432997+00:00",
+ "collected_at_utc": "2026-11-09T00:12:43.432997+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
+  "japan": 930,
   "china": 875,
   "taiwan": 329,
-  "korea": 867
+  "korea": 866
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T23:45:00+00:00"
+   "newest": "2026-11-09T00:03:12+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T00:46:26+09:00"
+   "newest": "2026-11-09T09:05:47+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T12:18:00+00:00"
+   "newest": "2026-11-07T15:03:37+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T00:01:00+00:00"
+   "newest": "2026-11-09T00:09:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-09T08:30:00+09:00"
+   "newest": "2026-11-09T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Market intervention on July 30th: 7,975.6 billion yen, largest ever for yen buying intervention",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72699",
+   "published_utc": "2026-11-09T00:05:47+00:00",
+   "title_original": "7月30日の市場介入 7兆9756億円 円買い介入で過去最大",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "50495a0299450e49"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261108001049:0-south-korea-s-economic-outlook-hinges-on-chip-cycle-market-talk/",
+   "published_utc": "2026-11-09T00:04:00+00:00",
+   "title_original": "South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk",
+   "region": "korea",
+   "topics": [
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ac2e7721c723fc29"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan spent record 7.98 tril. yen in yen-buying intervention on July 30",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVEZaU3l4VmlnOV9rR0pRYWd5RE0wVmJobUVmVHZYaHBvbzhhdmxYNUs3cHFuRS1zdzRTZTBOSDdZeUo1Y1hZNkdDamdPalRyM3hsc0l4VkY2dw?oc=5",
+   "published_utc": "2026-11-09T00:03:12+00:00",
+   "title_original": "BREAKING NEWS: Japan spent record 7.98 tril. yen in yen-buying intervention on July 30",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "44c6ed9fdb58936f"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1744,8 +1796,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -1759,7 +1811,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -2089,8 +2141,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -2104,7 +2156,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2246,8 +2298,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -2261,7 +2313,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2384,8 +2436,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -2398,7 +2450,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -2507,7 +2559,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Citi \"maintains interest rate hike forecast for November despite KOSPI plunge\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZTmx5UXFta0prNG03YnJmVXZNemNMZnEtLWdKd2JLVXczZlBBamhLTVhhV0hPWEc3NmxQR2w3c21Tekh4NUc3ZDlkYXBXMU04RmM1dWtLQVNLZGNZSkdPOdIBYEFVX3lxTE9ZTmx5UXFta0prNG03YnJmVXZNemNMZnEtLWdKd2JLVXczZlBBamhLTVhhV0hPWEc3NmxQR2w3c21Tekh4NUc3ZDlkYXBXMU04RmM1dWtLQVNLZGNZSkdPOQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocDU2SGJOdWJxZEtqN2pndnpfVVlya09hWkhWN04ydEo0aGcwcGFGcDlKT2JEREgwTnFMTHpBRkNYX1pBWnFGbGl0bGNSZzh4MGFpQ1JlbmxqQ1HSAWBBVV95cUxPWU5seVFxbWtKazRtN2JyZlV2TXpjTGZxLS1nSndiS1V3M2ZQQWpoS01YYVdIT1hHNzZsUEdsN3NtU3pIeDVHN2Q5ZGFwVzFNOEZjNXVrS0FTS2RjWUpHTzk?oc=5",
    "published_utc": "2026-11-06T07:44:06+00:00",
    "title_original": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\"",
    "region": "korea",
@@ -2518,7 +2570,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "be36b0b57239aca7"
+   "id": "78fb27d20fc3d31c"
   },
   {
    "source_id": "tradingview_live",
@@ -51929,57 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "72f05fee0c89a13c"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aajJpbHlaNmZjRjI2T1paNHFjQ3RabzZLTl9RNjI1VThWS0kyOXp0cmstZEJlOXF6T3JJUVR6WmVaWmlmTUpjTHVqaE1pNGdDVFk2VkxWZG9sUQ?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "(2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "172e77c048cae483"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "721a8861261fd171"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief meets Chinese, Japanese counterparts in Bangkok for economic talks",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAydG1aVS1SV1Q5LWdsMEVhbFdxalR4TVZJcWRFY1dWRDB1OUNRelhvNW1sYXFNVHYzTllXeUJzTXo4UGJtRjFtMlBleF9oWVJ4R3FvSkZDbENRZw?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "BOK chief meets Chinese, Japanese counterparts in Bangkok for economic talks",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5fb4469678a8b441"
   },
   {
    "source_id": "manual_ia",
