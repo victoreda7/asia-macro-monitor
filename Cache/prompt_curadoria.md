@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T08:32:42.078973+00:00
+Última coleta: 2026-11-09T08:37:29.240231+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          928
   🇨🇳 China          873
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  868
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
@@ -49,6 +49,7 @@ Total: 3000 manchetes
   - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
   - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
+  - [korea] If the semiconductor industry declines, interest rates may be lowered in the second half of next year... Citib
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [japan] Record retail JGB demand signals bets Japan yields are peaking
   - [china] China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Woori Financial Group: "The direct impact of the U.S. midterm elections is limited... The Bank of Korea will r
   - [korea] Nvidia, SK Telecom, Rebellions forge AI chip alliance
   - [japan] Berkshire plans second yen-denominated bond offering of 2026
-  - [taiwan] Nvidia probe of CEO unlikely to disrupt Taiwan AI supply chain: TIER head
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T08:32:42+00:00",
+      "published_utc": "2026-11-09T08:37:29+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
