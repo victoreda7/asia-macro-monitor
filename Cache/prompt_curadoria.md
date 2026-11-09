@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T02:12:44.613267+00:00
+Última coleta: 2026-11-09T02:22:43.133932+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          878
+  🇯🇵 Japão          934
+  🇨🇳 China          876
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  858
+  🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR
+  - [korea] South Korean won gains most among subdued Asian FX
   - [china] China Producer Inflation Accelerates to Over Four-Year High
-  - [china] China's factory-gate inflation gains momentum in October, consumer price pressures stay muted
+  - [china] China’s factory-gate inflation gains momentum in October, consumer price pressures stay muted
   - [japan] Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition
   - [korea] Citi: "If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the
   - [china] China Consumer Prices Flat In September
@@ -29,7 +31,6 @@ Total: 3000 manchetes
   - [china] China's consumer price index rose 0.7% in October (Kyodo News)
   - [taiwan] Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips
   - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
-  - [china] China’s October producer inflation quickens further, consumer prices edge down
   - [taiwan] Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments
   - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
   - [china] On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan FX intervention data underscores challenge of reversing weak yen
   - [japan] Monetary Base and the Bank of Japan's Transactions (Oct.)
   - [japan] Bank of Japan's Transactions with the Government (Oct.)
-  - [japan] Market Operations by the Bank of Japan (Oct.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T02:12:44+00:00",
+      "published_utc": "2026-11-09T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

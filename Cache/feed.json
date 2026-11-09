@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T02:12:44.613267+00:00",
- "collected_at_utc": "2026-11-09T02:12:44.613267+00:00",
+ "generated_at_utc": "2026-11-09T02:22:43.133932+00:00",
+ "collected_at_utc": "2026-11-09T02:22:43.133932+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
-  "china": 878,
+  "japan": 934,
+  "china": 876,
   "taiwan": 331,
-  "korea": 858
+  "korea": 859
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T01:49:29+00:00"
+   "newest": "2026-11-09T02:08:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T01:48:28+00:00"
+   "newest": "2026-11-09T02:06:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:49:59+00:00"
+   "newest": "2026-11-09T02:13:11+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
    "newest": "2026-11-09T01:30:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T02:11:00+00:00"
+   "newest": "2026-11-09T02:19:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -346,6 +346,40 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
+   "title_en": "Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR",
+   "url": "https://www.tradingview.com/news/DJN_DN20261108001253_20261108001259:0-mitsui-chemicals-development-bank-of-japan-to-jointly-invest-in-jsr/",
+   "published_utc": "2026-11-09T02:17:00+00:00",
+   "title_original": "Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3757a36491d40540"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won gains most among subdued Asian FX",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Q04P:0-south-korean-won-gains-most-among-subdued-asian-fx/",
+   "published_utc": "2026-11-09T02:16:22+00:00",
+   "title_original": "South Korean won gains most among subdued Asian FX",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3f9da2592cb6a908"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
    "title_en": "China Producer Inflation Accelerates to Over Four-Year High",
    "url": "https://www.tradingview.com/news/DJN_DN20261108001170:0-china-producer-inflation-accelerates-to-over-four-year-high/",
    "published_utc": "2026-11-09T02:09:00+00:00",
@@ -361,21 +395,21 @@
    "id": "e7ba542d13c48dca"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's factory-gate inflation gains momentum in October, consumer price pressures stay muted",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Q00Z:0-china-s-factory-gate-inflation-gains-momentum-in-october-consumer-price-pressures-stay-muted/",
-   "published_utc": "2026-11-09T02:02:43+00:00",
-   "title_original": "China's factory-gate inflation gains momentum in October, consumer price pressures stay muted",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s factory-gate inflation gains momentum in October, consumer price pressures stay muted",
+   "url": "https://www.investing.com/news/economy-news/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-5010403",
+   "published_utc": "2026-11-09T02:06:23+00:00",
+   "title_original": "China’s factory-gate inflation gains momentum in October, consumer price pressures stay muted",
    "region": "china",
    "topics": [
     "inflation"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "2f7ef6f702d0fd12"
+   "id": "12871dc6a8d89f21"
   },
   {
    "source_id": "tradingview_live",
@@ -548,23 +582,6 @@
    "live_wire": true,
    "manual": false,
    "id": "57f8b2eeed9d8363"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s October producer inflation quickens further, consumer prices edge down",
-   "url": "https://www.investing.com/news/economy-news/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-5010403",
-   "published_utc": "2026-11-09T01:42:26+00:00",
-   "title_original": "China’s October producer inflation quickens further, consumer prices edge down",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "855792e2578acef6"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -760,7 +777,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OMVBhazRyYnU1SGpkN1ZibXJzbkJaNVo4aloyWVNxOXc5YW5IOWg0MHowSDFuLUVndEFmR0V4VkljMHMtMDkyZHdUTVExMTduWlJuTkZycFZabUNILUQ5T1ZkYUZjSU5LSGRXbEZ6WG52OWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
    "published_utc": "2026-11-09T01:30:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -771,7 +788,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b4f2d0b96bed381"
+   "id": "3739150292063d06"
   },
   {
    "source_id": "gn_kr_bok",
@@ -11010,24 +11027,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwcVdvTzBaeDl0NldmaTFmY1pieDItQWQzRFh6TDJad3RwYnZBVEV0WXZPUmV1cldUU29XSzQ2V3NHRE1FcVRqT1hqM1lMM2RLZVV0OER3UVM2U292TmFjbQ?oc=5",
-   "published_utc": "2026-11-03T04:18:45+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "02004daeb4b39d92"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "zqrb.cn",
    "title_en": "The central bank decided to raise the foreign exchange deposit reserve ratio!",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uRGZGTExKWTdJLVVYMDEwTUhFd2lFcV9LRUJVcmNDZ1lQX0U1WUVpQUtqNFVxb1hKSXo4dnowMHNTRldoamxPRXF1VE4tdXl5ZFF3QTA0aV80XzNDTlF2RVU5ZnNVNXc5c2stQVMtQ194anFTTFAtSGxYYkY?oc=5",
@@ -11181,6 +11180,24 @@
    "live_wire": false,
    "manual": false,
    "id": "57e1f44369a122d5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
+   "published_utc": "2026-11-03T02:47:23+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb08c742bed91b2e"
   },
   {
    "source_id": "toyo_keizai",
@@ -51966,24 +51983,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2d34b905ff2d2f7d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on October 15",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3ZjU0NJS0taWklwTWVhNlpkbC0tX0RXblNZb3YwZ3BBSzQzY2NjYWd2MGpsT29RQjF6ZW13ckpJeXFYaGt2QldEMmJqd2RILXlNQ1pRMWZKa0tkUndtbFNuaFN4LW5ZV0kzWlFCX1k3LXJvdFNCc3IwbUx3QTYyV1o1VQ?oc=5",
-   "published_utc": "2026-10-14T10:05:00+00:00",
-   "title_original": "央行10月15日开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d67217a3832d0d66"
   },
   {
    "source_id": "manual_ia",
