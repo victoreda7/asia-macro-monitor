@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T22:52:44.065790+00:00
+Última coleta: 2026-11-09T23:02:44.292355+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          875
+  🇯🇵 Japão          927
+  🇨🇳 China          876
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
   - [japan] Popular government bonds for individuals with over 8 trillion yen issued
   - [japan] Can the proceeds from the sale of Bank of Japan ETFs cover the economic security "bridgment government bonds"?
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Trade Remedy Review Committee of the Ministry of Economic Affairs made a positive determination of industr
   - [taiwan] Taiwan President taps chip strengths for self-reliant space push
   - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
-  - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T22:52:44+00:00",
+      "published_utc": "2026-11-09T23:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
