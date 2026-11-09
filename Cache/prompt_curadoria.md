@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T06:22:43.466249+00:00
+Última coleta: 2026-11-09T06:32:44.041400+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          876
+  🇯🇵 Japão          931
+  🇨🇳 China          874
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  864
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [japan] Pola Orbis Holdings: Operating profit rose 21.3%; yen-driven FX gains lifted the FY outlook
+  - [korea] Nvidia scandal raises export risks for Korean chipmakers
+  - [china] China's October car exports stay resilient
   - [china] China Passenger-Car Sales Slump in October Despite Export Boom
   - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
   - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China to Retain 10% Additional Tariff Rate on U.S. Goods for Two Months
   - [china] Chinese consumer prices rise 0.7%, domestic demand slumps, below 1% for 4 consecutive months October (Jiji Pre
   - [china] China's October price rise of 0.7%, growth rate slowing (Kyodo News)
-  - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
-  - [japan] Foreign exchange intervention revealed to be “largest ever” at 8 trillion yen The government and the Bank of J
-  - [china] China extends suspension of 24% tariff on US imports for two months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T06:22:43+00:00",
+      "published_utc": "2026-11-09T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
