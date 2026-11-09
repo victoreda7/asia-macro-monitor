@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-09T13:32:43.726477+00:00",
- "collected_at_utc": "2026-11-09T13:32:43.726477+00:00",
+ "generated_at_utc": "2026-11-09T13:42:43.975492+00:00",
+ "collected_at_utc": "2026-11-09T13:42:43.975492+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 333,
   "korea": 865
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T13:14:47+00:00"
+   "newest": "2026-11-09T13:33:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T13:07:25+00:00"
+   "newest": "2026-11-09T13:21:52+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -131,7 +139,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T06:24:17+00:00"
+   "newest": "2026-11-09T05:50:19+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -211,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T12:54:20+00:00"
+   "newest": "2026-11-09T12:23:09+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -220,14 +228,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-09T08:09:45+00:00"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-09T03:24:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T13:12:03+00:00"
+   "newest": "2026-11-09T13:40:45+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T13:32:00+00:00"
+   "newest": "2026-11-09T13:41:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T09:08:45+00:00"
+   "newest": "2026-11-09T12:10:43+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-09T19:50:00+09:00"
+   "newest": "2026-11-09T22:35:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -378,6 +378,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ab8d056419a3d554"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China extends US trade truce by two months",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "published_utc": "2026-11-09T12:23:09+00:00",
+   "title_original": "China extends US trade truce by two months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b5ea1cd22d45773d"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1518,7 +1535,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "SCMP",
+   "source_name": "South China Morning Post",
    "title_en": "Chinese central bank pledge to probe Solana shows crypto crackdown is continuing",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOem5YNFJrRjgyb3ZBSXgxc29wOWdqZ2JBY0dPZllybWlEV0JVQms3ZW5zU1lFa25ld0tKOWl4a0FWQkJmUTFyZGNNUTlSenFMSDBWNEllSXF0OWxDLUUzbzE2T3QzTkxDLUVvYzNjRC04RE9XYm12WGdXcVVXdFlYVHVqZFljZUgtbVlyc1FQWGFCZG11ckt3TzhaZmlJemw3bUJhbzlMQkNlM2xKeWxHMGt0Mm51QXFxWU5kVnRVeWtveW9PdDdHUlZ1a3ZDZGd2VUJHU2YtRF9oaWM?oc=5",
    "published_utc": "2026-11-09T06:00:34+00:00",
@@ -2152,23 +2169,6 @@
    "live_wire": false,
    "manual": false,
    "id": "77e1193c27955a94"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China extends US trade truce by two months",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
-   "published_utc": "2026-11-09T02:48:00+00:00",
-   "title_original": "China extends US trade truce by two months",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b5ea1cd22d45773d"
   },
   {
    "source_id": "nikkei_asia",
@@ -12374,6 +12374,23 @@
    "id": "427e3f0a55c9058d"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's State Council removes Winnie Ho from HKSAR gov't post",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YMzRvbkwyNkR2QnMybGVvMkdPbkNEcWlUTjl1bURoSjlUTUNQd1BnVHotZjk4MUs2SGlqem1SLTVLWkdmT09YSUFWc3cyOVRFV050VzN4bmM5SEZUaHA3Z0k2S3FQUk9idXB0RzNUS0FpNUdsdGczRUMyTnI?oc=5",
+   "published_utc": "2026-11-03T06:38:16+00:00",
+   "title_original": "China's State Council removes Winnie Ho from HKSAR gov't post",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6bf357496117ed52"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "中华网",
    "title_en": "The central bank stabilizes the exchange rate and then takes action to raise the foreign exchange deposit reserve ratio",
@@ -12773,23 +12790,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3c54902aaa3a86b6"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China's State Council removes Winnie Ho from HKSAR gov't post",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yLTVRcnpGNTNIUG8xMmZmMWtmdFB2TW5qTldPREpKdEtza192QjNnTUNPZzdOeXJNNDNQT2FLUVFwaTlVaEhMTEdCRWlDX25oWlAxOExnS24xa1B0T1RLWWhpdzlwbmxvWnMxUWZURzFzSHZpMG0zeVRjN0E?oc=5",
-   "published_utc": "2026-11-03T03:04:00+00:00",
-   "title_original": "China's State Council removes Winnie Ho from HKSAR gov't post",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dcee9200f7e2c457"
   },
   {
    "source_id": "gn_cn_reuters",

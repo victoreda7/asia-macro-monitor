@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T13:32:43.726477+00:00
+Última coleta: 2026-11-09T13:42:43.975492+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
   - [japan] Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structur
+  - [china] China extends US trade truce by two months
   - [china] China's export controls to the United States and unreliable entity list will continue to be suspended for 2 mo
   - [japan] J-Star to host Japan manufacturer for Texas facility review By Investing.com
   - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Russia’s Japan Tobacco Grab Is Risk for Takaichi’s Spending Plan
   - [taiwan] AI chip testing demands lift Taiwan's wafer testing specialist HTSI as October revenue surges 62%
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
-  - [china] Xinhua News | China extends suspension of 24 pct additional tariff on U.S. goods for two months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T13:32:43+00:00",
+      "published_utc": "2026-11-09T13:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
