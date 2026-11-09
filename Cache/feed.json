@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-09T11:12:43.796393+00:00",
- "collected_at_utc": "2026-11-09T11:12:43.796393+00:00",
+ "generated_at_utc": "2026-11-09T11:22:42.673371+00:00",
+ "collected_at_utc": "2026-11-09T11:22:42.673371+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 332,
   "korea": 866
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T10:55:39+00:00"
+   "newest": "2026-11-09T11:13:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T19:20:31+09:00"
+   "newest": "2026-11-09T20:12:28+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:46:00+00:00"
+   "newest": "2026-11-09T08:09:45+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T07:28:18+00:00"
+   "newest": "2026-11-08T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors deliberations to pass the consumption tax reduction bill.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72949",
+   "published_utc": "2026-11-09T11:12:28+00:00",
+   "title_original": "自民・維新 消費税減税法案成立に向け 参議院審議でも緊密連携",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc2716421ce20098"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -1097,24 +1115,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f506e3050d862f60"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors deliberations to pass the consumption tax reduction bill.",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72949",
-   "published_utc": "2026-11-09T07:10:00+00:00",
-   "title_original": "自民・維新 消費税減税法案成立に向け 参議院審議でも緊密連携",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc2716421ce20098"
   },
   {
    "source_id": "tradingview_live",
@@ -2246,7 +2246,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OMVBhazRyYnU1SGpkN1ZibXJzbkJaNVo4aloyWVNxOXc5YW5IOWg0MHowSDFuLUVndEFmR0V4VkljMHMtMDkyZHdUTVExMTduWlJuTkZycFZabUNILUQ5T1ZkYUZjSU5LSGRXbEZ6WG52OWc?oc=5",
    "published_utc": "2026-11-09T01:30:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -2257,7 +2257,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3739150292063d06"
+   "id": "4b4f2d0b96bed381"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7751,6 +7751,24 @@
    "id": "de82a004de59991d"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
+   "published_utc": "2026-11-05T04:19:41+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6ed2a6680a0d80a"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -9026,24 +9044,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
-   "published_utc": "2026-11-04T16:03:02+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5faf56004dbf3216"
   },
   {
    "source_id": "investing_econ",
