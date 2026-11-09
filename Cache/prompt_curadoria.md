@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T16:22:44.734959+00:00
+Última coleta: 2026-11-09T16:32:43.022271+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
-  🇨🇳 China          874
+  🇨🇳 China          873
   🇹🇼 Taiwan         333
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Bln Series A Led By IMM Investment
   - [china] MP Stock Rises as China Extends Rare-Earth Reprieve Ahead of Trump-Xi Meeting — Barrons.com
   - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Billion Series A to Expand from Motion Capture to Motion Data Infrastruc
   - [china] U.S. Extends Tariff Exclusions for 178 Chinese Product Categories
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October exports surge again on strong AI demand
   - [korea] As international energy prices soar, concerns are growing over the financial deterioration of state
   - [korea] As financial authorities regulate Samsung Electronics and SK Hynix's single-stock leveraged exchange..
-  - [korea] Woori Financial Group: “The Bank of Korea is expected to raise the base interest rate to 3.25% at the November
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T16:22:44+00:00",
+      "published_utc": "2026-11-09T16:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
