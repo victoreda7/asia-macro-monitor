@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T01:12:43.555218+00:00
+Última coleta: 2026-11-09T01:22:43.321773+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          932
   🇨🇳 China          874
-  🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  867
+  🇹🇼 Taiwan         329
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [japan] Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, J
   - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
   - [korea] NH Investment & Securities expects base interest rate to increase by 25bp in November
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Ah, the AI ​​semiconductor stock bubble has finally begun to completely burst...The proof is more in the colla
   - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
   - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
-  - [china] Why the central bank raised the foreign exchange deposit reserve ratio to stabilize the pace of appreciation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T01:12:43+00:00",
+      "published_utc": "2026-11-09T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
