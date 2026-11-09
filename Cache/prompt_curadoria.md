@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T01:22:43.321773+00:00
+Última coleta: 2026-11-09T01:32:44.211067+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
-  🇨🇳 China          874
+  🇨🇳 China          878
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [china] China Oct Non-Food Prices +1.5% on Year
+  - [china] China Oct Food Prices -2.9% On Year
+  - [china] China Jan-Oct CPI +0.9% on Year
+  - [china] China Oct CPI 0.0% on Month
+  - [japan] Japan MOF To Auction Y250.0B Of 10-Year CPI-Indexed Bonds Nov 16
+  - [china] China Oct CPI +0.7% on Year; Market Expected +0.8%
   - [japan] Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, J
   - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Will imported water bottles also be label-free?
   - [taiwan] Central bank has paid US$160 million to former Paraguayan president detained pending trial | International
   - [korea] Kakao X's growth outlook takes shape ahead of split
-  - [korea] If interest rates rise further in the future, life insurers' capital soundness could deteriorate sig..
-  - [korea] Prices plummeted by 2.8% and KOSPI by 6%... Bank of Korea, interest rate hike dilemma
-  - [japan] “Selection bias” hidden in the Bank of Japan’s “elderly consumption analysis” Discrepancy from the reality of 
-  - [japan] Ah, the AI ​​semiconductor stock bubble has finally begun to completely burst...The proof is more in the colla
-  - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
-  - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T01:22:43+00:00",
+      "published_utc": "2026-11-09T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
