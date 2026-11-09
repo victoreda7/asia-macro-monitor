@@ -7,24 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T06:32:44.041400+00:00
+Última coleta: 2026-11-09T06:42:43.081247+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          929
   🇨🇳 China          874
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
   - [japan] Pola Orbis Holdings: Operating profit rose 21.3%; yen-driven FX gains lifted the FY outlook
+  - [korea] A total of 8.354 billion won in monetary sanctions and measures against 23 executives and employees
+  - [taiwan] Zhang Jianyi: CPI may exceed 3% if CNPC and Taipower fail to allocate subsidies, forcing the central bank to r
   - [korea] Nvidia scandal raises export risks for Korean chipmakers
   - [china] China's October car exports stay resilient
   - [china] China Passenger-Car Sales Slump in October Despite Export Boom
+  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
   - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
   - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
-  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [japan] Record retail JGB demand signals bets Japan yields are peaking
   - [china] China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk
@@ -44,6 +46,7 @@ Total: 3000 manchetes
   - [korea] Citibank, 'Early interest rate cut when semiconductor exports slow'...suggesting policy changes in the second 
   - [china] China's CPI Data Shows Domestic Demand Remains Weak — Market Talk
   - [china] China’s factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates
+  - [korea] In the Gangnam area, where ultra-high-priced housing is concentrated, urgent sales are driving the d..
   - [china] China Producer Inflation Accelerates to Over Four-Year High — Update
   - [china] China's yuan holds steady as seasonal FX sales offset dollar strength
   - [taiwan] UKSC highlights three UK semiconductor strengths for Taiwan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Spent Record $50 Billion in Single Day to Bolster Yen
   - [china] Decision Effective 1:01 p.m. Local Time Tuesday, Customs Tariff Commission of the State Council Says
   - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
-  - [china] China to Retain 10% Additional Tariff Rate on U.S. Goods for Two Months
-  - [china] Chinese consumer prices rise 0.7%, domestic demand slumps, below 1% for 4 consecutive months October (Jiji Pre
-  - [china] China's October price rise of 0.7%, growth rate slowing (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T06:32:44+00:00",
+      "published_utc": "2026-11-09T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
