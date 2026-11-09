@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T17:32:43.679091+00:00
+Última coleta: 2026-11-09T17:42:45.028162+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn
+  - [japan] Dollar weakens against euro, yen as Iran talks lift risk appetite
   - [japan] Toyota Set To Bring Camry Back To Japan With Reverse Imports From US, Nikkei Says
   - [japan] Toyota set to bring Camry back to Japan with reverse imports from US
   - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Bln Series A Led By IMM Investment
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Extends Pause on US Tariffs and Trade Curbs for Two Months
   - [china] China's consumer price index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel
   - [china] China Consumer Price Index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel p
-  - [korea] Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T17:32:43+00:00",
+      "published_utc": "2026-11-09T17:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
