@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T03:42:42.464871+00:00
+Última coleta: 2026-11-09T03:52:45.141759+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
-  🇨🇳 China          874
-  🇹🇼 Taiwan         331
+  🇨🇳 China          875
+  🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
   - [china] China October consumer price index +0.7% 1% lower for 4th consecutive month
+  - [japan] Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue
+  - [china] China extends suspension of 24% tariff on US imports for two months
   - [taiwan] Malaysia-Taiwan fraying ties threaten future chip investments
   - [japan] Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion
   - [japan] Japan Spent Record $50 Billion in Single Day to Bolster Yen
-  - [china] China extends suspension of 24% tariff on US imports for two months
   - [china] Decision Effective 1:01 p.m. Local Time Tuesday, Customs Tariff Commission of the State Council Says
   - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
   - [china] China to Retain 10% Additional Tariff Rate on U.S. Goods for Two Months
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Oct Food Prices -2.9% On Year
   - [china] China Jan-Oct CPI +0.9% on Year
   - [china] China Oct CPI 0.0% on Month
-  - [japan] Japan MOF To Auction Y250.0B Of 10-Year CPI-Indexed Bonds Nov 16
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T03:42:42+00:00",
+      "published_utc": "2026-11-09T03:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

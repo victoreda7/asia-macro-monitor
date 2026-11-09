@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T03:42:42.464871+00:00",
- "collected_at_utc": "2026-11-09T03:42:42.464871+00:00",
+ "generated_at_utc": "2026-11-09T03:52:45.141759+00:00",
+ "collected_at_utc": "2026-11-09T03:52:45.141759+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 933,
-  "china": 874,
-  "taiwan": 331,
+  "china": 875,
+  "taiwan": 330,
   "korea": 862
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 32.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:00:00+00:00"
+   "newest": "2026-11-09T03:42:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T03:06:54+00:00"
+   "newest": "2026-11-09T03:36:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T02:55:16+00:00"
+   "newest": "2026-11-09T03:49:44+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T12:37:17+09:00"
+   "newest": "2026-11-09T12:37:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T03:41:04+00:00"
+   "newest": "2026-11-09T03:51:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-09T02:01:58+00:00"
   }
@@ -348,7 +348,7 @@
    "source_name": "NHK 経済",
    "title_en": "China October consumer price index +0.7% 1% lower for 4th consecutive month",
    "url": "https://news.web.nhk/newsweb/na/nd-20261109de72834",
-   "published_utc": "2026-11-09T03:37:17+00:00",
+   "published_utc": "2026-11-09T03:37:00+00:00",
    "title_original": "中国 10月の消費者物価指数+0.7% 4か月連続で1%下回る",
    "region": "china",
    "topics": [
@@ -359,6 +359,40 @@
    "live_wire": false,
    "manual": false,
    "id": "24bc87a952f2543b"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue",
+   "url": "https://www.investing.com/news/earnings/mitsui-osk-q2-profit-flat-as-higher-shipping-rates-weak-yen-boost-revenue-5010430",
+   "published_utc": "2026-11-09T03:36:42+00:00",
+   "title_original": "Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a6237ad813d6cc15"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China extends suspension of 24% tariff on US imports for two months",
+   "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-5010427",
+   "published_utc": "2026-11-09T03:24:20+00:00",
+   "title_original": "China extends suspension of 24% tariff on US imports for two months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c703ad2bf31c41fc"
   },
   {
    "source_id": "nikkei_asia",
@@ -410,23 +444,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7fe14dc86a746173"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China extends suspension of 24% tariff on US imports for two months",
-   "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-5010427",
-   "published_utc": "2026-11-09T03:06:54+00:00",
-   "title_original": "China extends suspension of 24% tariff on US imports for two months",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c703ad2bf31c41fc"
   },
   {
    "source_id": "tradingview_live",
@@ -2694,8 +2711,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -2709,7 +2726,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -3039,8 +3056,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -3054,7 +3071,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3196,8 +3213,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -3211,7 +3228,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3334,8 +3351,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -3348,7 +3365,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -7187,6 +7204,24 @@
    "id": "9150445af3b96787"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中华网财经",
+   "title_en": "Central Bank: 300 billion yuan buyout reverse repurchase operation will be carried out",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41dzk3M1BfMm90MXFmbXNqMS1pakl1N1RqVEhOYUFVdEtfR2xWLWRMMmZrNkNpR2M4T1ItbHMyQWszUGRZQTBfN3A1RGxVQU5idVBsOF9aZ0hKWGhyQmYtamRLVTBaSEJiR0dvbldrUTlXeWc?oc=5",
+   "published_utc": "2026-11-05T01:19:51+00:00",
+   "title_original": "央行：将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4e16fb3e65e0e75c"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "BOJ debated need for more rate hikes, scope for faster move, September minutes show By Reuters",
@@ -8453,7 +8488,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Central Bank: Will launch 300 billion yuan buyout reverse repurchase operation on November 5",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVzlfcE44STJaQ1FoNllrTzNKV1d3d1ppVUJkRF9INk1MQkVWNlN0Z2dhWTFqaTFaUnBkcVZXNlhOT1dLQmRjVS1zRVBidVpwaTcwaWNJQzdPbHJpRGRRa2FxemNwZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fZEJMdGpuY3FoenNaMVJTZTB3UFp3bzZENTJLY2ZnbFRyU0pRcUJJY1g4Y1BvTXQ3RzU5b0E5bVlGY3J3YU5HUjJtNUtHZVFuQmtScFZBZ1E1TngxVVNkSQ?oc=5",
    "published_utc": "2026-11-04T09:02:50+00:00",
    "title_original": "央行：11月5日将开展3000亿元买断式逆回购操作",
    "region": "china",
@@ -8465,7 +8500,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "961dce609a94d3f5"
+   "id": "1fccb9dde7d60419"
   },
   {
    "source_id": "tradingview_live",
@@ -11513,24 +11548,6 @@
    "id": "57e1f44369a122d5"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
-   "published_utc": "2026-11-03T02:47:23+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb08c742bed91b2e"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 billion yen turned into a deficit of 2.8 billion yen | Politics, Economy, Investment | Toyo Keizai Online",
@@ -11598,6 +11615,24 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
+   "published_utc": "2026-11-03T02:08:10+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51950,40 +51985,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0e07223ddf54e34e"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjM3SC1iaHFNLTdkS2N5U3JVS3lMR0p4Q1ZTclVOa2RDbFpzR2E3R2I5UlFlYWlsWHJfeGlKSEpockRseEpCTGpsNFAzanBPUkVVa3FiUFNVeVZ3S0daZ2JRWGc3Zy04RmFSbFRHeU5kRy1HaGJ2ZmViUHlfYk5CN0xYMEhXb250eE41clpvVHF1RDhIRWF4Z1p0NS1rQmVtbjFNc2FjMzVTaTlvM24weWtzS1V4M1RVdHpXWVNCU2REdDVkd2FwZWQ1V1kxZUZU?oc=5",
-   "published_utc": "2026-10-14T12:30:00+00:00",
-   "title_original": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b074e4d60034750e"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Musk's Terafab plan poses no short-term threat to TSMC: Analyst",
-   "url": "https://focustaiwan.tw/business/202610140022",
-   "published_utc": "2026-10-14T12:22:58+00:00",
-   "title_original": "Musk's Terafab plan poses no short-term threat to TSMC: Analyst",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "59d92bd559a7bf5d"
   },
   {
    "source_id": "manual_ia",
