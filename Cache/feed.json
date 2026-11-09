@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T03:32:43.461886+00:00",
- "collected_at_utc": "2026-11-09T03:32:43.461886+00:00",
+ "generated_at_utc": "2026-11-09T03:42:42.464871+00:00",
+ "collected_at_utc": "2026-11-09T03:42:42.464871+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 873,
+  "japan": 933,
+  "china": 874,
   "taiwan": 331,
   "korea": 862
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T02:53:00+00:00"
+   "newest": "2026-11-09T02:29:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T12:13:04+09:00"
+   "newest": "2026-11-09T12:37:17+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T18:08:40+00:00"
+   "newest": "2026-11-09T01:46:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T03:32:00+00:00"
+   "newest": "2026-11-09T03:41:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "China October consumer price index +0.7% 1% lower for 4th consecutive month",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72834",
+   "published_utc": "2026-11-09T03:37:17+00:00",
+   "title_original": "中国 10月の消費者物価指数+0.7% 4か月連続で1%下回る",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "24bc87a952f2543b"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -11496,6 +11513,24 @@
    "id": "57e1f44369a122d5"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
+   "published_utc": "2026-11-03T02:47:23+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb08c742bed91b2e"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 billion yen turned into a deficit of 2.8 billion yen | Politics, Economy, Investment | Toyo Keizai Online",
@@ -11563,24 +11598,6 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
-   "published_utc": "2026-11-03T02:08:10+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51967,23 +51984,6 @@
    "live_wire": false,
    "manual": false,
    "id": "59d92bd559a7bf5d"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "EUR/USD, USD/JPY Forecast: 2 Trades to Watch",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXNxcUFQRVpKaG9SZmxzOE5Gd0x6Y0Z4V1dyUjdLN2VfR2E4NVMwbkZnajJSUUtZNWdKdko2Wk1RRm8tU2c4LUxCRVhaRHVKV0w2TGJoSElEVkw0VlhybWZvdlJtdi1lZTVWTklMSDE4Uk9EUlV3NnhaVnZtME05aFZURUw5VENKMU14MFBn?oc=5",
-   "published_utc": "2026-10-14T12:10:53+00:00",
-   "title_original": "EUR/USD, USD/JPY Forecast: 2 Trades to Watch",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0e999de9c59520d"
   },
   {
    "source_id": "manual_ia",

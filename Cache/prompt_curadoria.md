@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T03:32:43.461886+00:00
+Última coleta: 2026-11-09T03:42:42.464871+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          873
+  🇯🇵 Japão          933
+  🇨🇳 China          874
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [china] China October consumer price index +0.7% 1% lower for 4th consecutive month
   - [taiwan] Malaysia-Taiwan fraying ties threaten future chip investments
   - [japan] Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion
   - [japan] Japan Spent Record $50 Billion in Single Day to Bolster Yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Jan-Oct CPI +0.9% on Year
   - [china] China Oct CPI 0.0% on Month
   - [japan] Japan MOF To Auction Y250.0B Of 10-Year CPI-Indexed Bonds Nov 16
-  - [china] China Oct CPI +0.7% on Year; Market Expected +0.8%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T03:32:43+00:00",
+      "published_utc": "2026-11-09T03:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
