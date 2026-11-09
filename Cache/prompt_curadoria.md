@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T17:02:45.247289+00:00
+Última coleta: 2026-11-09T17:12:44.858742+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          873
+  🇯🇵 Japão          928
+  🇨🇳 China          872
   🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Toyota Set To Bring Camry Back To Japan With Reverse Imports From US, Nikkei Says
   - [japan] Toyota set to bring Camry back to Japan with reverse imports from US
   - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Bln Series A Led By IMM Investment
   - [china] MP Stock Rises as China Extends Rare-Earth Reprieve Ahead of Trump-Xi Meeting — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Consumer Price Index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel p
   - [korea] Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about
   - [taiwan] Taiwan's October exports surge again on strong AI demand
-  - [korea] As international energy prices soar, concerns are growing over the financial deterioration of state
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T17:02:45+00:00",
+      "published_utc": "2026-11-09T17:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
