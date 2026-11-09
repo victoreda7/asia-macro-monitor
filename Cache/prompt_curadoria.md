@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T11:22:42.673371+00:00
+Última coleta: 2026-11-09T11:32:43.263720+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
   - [taiwan] Ministry of Finance: Taiwan’s export scale will surpass Japan’s this year, ranking “8th and 7th” in the world
   - [japan] Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [china] Key facts: NVIDIA China curbs; chip-demand view; Nov. 17/18 events
   - [china] Opinion: Building a Virtuous Cycle Between Consumption and Investment
-  - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T11:22:42+00:00",
+      "published_utc": "2026-11-09T11:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

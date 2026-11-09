@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-09T11:22:42.673371+00:00",
- "collected_at_utc": "2026-11-09T11:22:42.673371+00:00",
+ "generated_at_utc": "2026-11-09T11:32:43.263720+00:00",
+ "collected_at_utc": "2026-11-09T11:32:43.263720+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 332,
   "korea": 866
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 41,
+   "count": 42,
    "error": "",
-   "newest": "2026-11-09T17:02:45+08:00"
+   "newest": "2026-11-09T19:11:50+08:00"
   },
   {
    "source_id": "investing_live",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T09:36:00+00:00"
+   "newest": "2026-11-09T11:23:40+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T20:12:28+09:00"
+   "newest": "2026-11-09T20:23:26+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T11:12:05+00:00"
+   "newest": "2026-11-09T11:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T03:08:43+00:00"
+   "newest": "2026-11-09T06:27:04+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T10:12:01+00:00"
+   "newest": "2026-11-09T11:22:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction bill when it enters committee deliberation",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72947",
+   "published_utc": "2026-11-09T11:23:26+00:00",
+   "title_original": "参院 野党6党 消費税減税法案“委員会審議入りは首相出席を”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc49093dab9e37aa"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -809,7 +827,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Car Exports Forecast to Slow From ‘Supercharged’ Pace",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTIybTNrSFI1MEhfcURwSl93OGVJalh6UTFVVnpKMmgyTEFid3ZQeExBcjlTYjdRRDVjWWE1eXFhVDd6aHJGMWdkdk5sQUVXWU05YWxfNnhNT1ZabHhTbDhIUzhLaVQ0eXBEdldnTDl3NmI0UllCQVk5SkduTnY1OGQ3blpiclZOSUp4c2NYeUlfSEVqUVB3ZW5zRTNmRWh4OVV6ZGszamJKOTBTanlpbTZB?oc=5",
    "published_utc": "2026-11-09T08:27:14+00:00",
@@ -1132,24 +1150,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ab42196565a2c262"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction bill when it enters committee deliberation",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72947",
-   "published_utc": "2026-11-09T07:02:00+00:00",
-   "title_original": "参院 野党6党 消費税減税法案“委員会審議入りは首相出席を”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc49093dab9e37aa"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2246,7 +2246,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OMVBhazRyYnU1SGpkN1ZibXJzbkJaNVo4aloyWVNxOXc5YW5IOWg0MHowSDFuLUVndEFmR0V4VkljMHMtMDkyZHdUTVExMTduWlJuTkZycFZabUNILUQ5T1ZkYUZjSU5LSGRXbEZ6WG52OWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
    "published_utc": "2026-11-09T01:30:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -2257,7 +2257,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b4f2d0b96bed381"
+   "id": "3739150292063d06"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7751,24 +7751,6 @@
    "id": "de82a004de59991d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
-   "published_utc": "2026-11-05T04:19:41+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed2a6680a0d80a"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -9044,6 +9026,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
+   "published_utc": "2026-11-04T16:03:02+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5faf56004dbf3216"
   },
   {
    "source_id": "investing_econ",
