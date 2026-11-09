@@ -7,23 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T08:12:44.134327+00:00
+Última coleta: 2026-11-09T08:22:43.609910+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          871
+  🇯🇵 Japão          929
+  🇨🇳 China          873
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [china] Xinhua News | China extends suspension of 24 pct additional tariff on U.S. goods for two months
+  - [japan] September economic trend index increased by 0.7 points from the previous month, the first increase in 2 months
+  - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
+  - [taiwan] Taiwan's Export Growth Stays Robust Despite AI Selloff
+  - [korea] The government has set aside 1.4 trillion won in budget to supply 10,000 public rental homes for you..
   - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
+  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [china] Key facts: NVIDIA China curbs; chip-demand view; Nov. 17/18 events
   - [china] Opinion: Building a Virtuous Cycle Between Consumption and Investment
   - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
   - [china] Wholesale prices of manufactured goods in China and the Middle East rise to the highest level in 4 years and 4
   - [china] China inflation misses estimates as food prices extend decline
-  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [japan] SoftBank: AI-led growth targets FY2030 revenue of JPY 9.0 tn and operating income of JPY 1.7 tn
   - [taiwan] Exclusive: Gallium oxide prepares to tackle power semiconductor market with 6-inch mass production and 8-inch 
   - [china] China’s export growth expected to have remained strong in October: Reuters poll
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Nvidia, SK Telecom, Rebellions forge AI chip alliance
   - [japan] Berkshire plans second yen-denominated bond offering of 2026
   - [taiwan] Nvidia probe of CEO unlikely to disrupt Taiwan AI supply chain: TIER head
-  - [china] China extends suspension of 24 pct additional tariff on U.S. goods for two months
-  - [china] China's October car exports stay resilient, falling domestic sales yet to hit bottom
-  - [japan] Consumption Activity Index
-  - [china] China's Inflation Likely to Remain Low Next Year — Market Talk
-  - [china] The central bank launched a 182 billion yuan reverse repurchase operation on November 9, with a net withdrawal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T08:12:44+00:00",
+      "published_utc": "2026-11-09T08:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
