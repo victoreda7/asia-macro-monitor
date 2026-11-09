@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-08T23:52:42.154837+00:00",
- "collected_at_utc": "2026-11-08T23:52:42.154837+00:00",
+ "generated_at_utc": "2026-11-09T00:02:43.342036+00:00",
+ "collected_at_utc": "2026-11-09T00:02:43.342036+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
-  "china": 876,
+  "japan": 929,
+  "china": 875,
   "taiwan": 329,
   "korea": 867
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T08:59:00+00:00"
+   "newest": "2026-11-06T23:45:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T08:39:48+00:00"
+   "newest": "2026-11-08T19:50:57+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T15:03:37+00:00"
+   "newest": "2026-11-07T12:18:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-08T23:52:06+00:00"
+   "newest": "2026-11-09T00:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T21:06:45+00:00"
+   "newest": "2026-11-08T18:06:45+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan FX intervention data underscores challenge of reversing weak yen",
+   "url": "https://asia.nikkei.com/business/markets/currencies/japan-fx-intervention-data-underscores-challenge-of-reversing-weak-yen",
+   "published_utc": "2026-11-09T00:02:42.547135+00:00",
+   "title_original": "Japan FX intervention data underscores challenge of reversing weak yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ab779b2d31c049c3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's July yen-buying intervention sets fresh daily record",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42X02E:0-japan-s-july-yen-buying-intervention-sets-fresh-daily-record/",
+   "published_utc": "2026-11-08T23:51:32+00:00",
+   "title_original": "Japan's July yen-buying intervention sets fresh daily record",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e126dda216babf3d"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -583,6 +617,40 @@
    "live_wire": false,
    "manual": false,
    "id": "4297c687183c89fb"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "NSC tightens anti-infiltration measures",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BeWVVWS0xLWtSTHFPQUhvQkFSODFuemdSOE1ZbWh4dHFuWHE5S1hhZ0lDZFA2XzZJVVlDVTRTVVlqM2ZFZ1BYWlFEVTM0RUtuWHVTbWc3S3RLUlg3R3c0XzhZZnJzdDQ4c0pGVXVUbWVEUktzTElEcg?oc=5",
+   "published_utc": "2026-11-08T16:00:00+00:00",
+   "title_original": "NSC tightens anti-infiltration measures",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "42231f1f35e083e9"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Korea’s budget coffee chain Mega MGC dwarfs legacy brands despite Starbucks’ recovery",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tdTBweE02OVJTQ01mcGtJZ1pzM1ZORUw2T0hqSTk2aHZQN0prSkpRMGZjN2M0eWVSQzRuRC1sUTZVYjd5dy1tUkcwS2pQUUd6TG9LLVFxVFRFc25HX3M4ejB3cktrYjhvSkFHdVNHZjE0UQ?oc=5",
+   "published_utc": "2026-11-08T13:13:00+00:00",
+   "title_original": "Korea’s budget coffee chain Mega MGC dwarfs legacy brands despite Starbucks’ recovery",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "05bf898418cd71be"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51912,75 +51980,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5fb4469678a8b441"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "66fc5a1202af3a7a"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK chief stresses need to curb inflation amid AI boom, Mideast crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XdFlsZHBMRWVTWXpyT2RJMW9WTnRta2lhLVV1RnY0ZFJyT3VMZXp2S00wRnd6c0lIczdsdFpvVHRMRXU2dUNuRjlwQmJfZXY3RTlLakEySHRuZw?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "BOK chief stresses need to curb inflation amid AI boom, Mideast crisis",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07815af77319708c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FfMERHSnNDdjJHR0FSQVoxX3B0SnI2R3RwaGNjblNVQlgzQ1lFUy1GOHV0Z0RzNzNmb0FoTDJGZmtFMFdaZkJZLVRpQ2FxcUhJTXNmaWtOUXY4TzVMTUNLc3FNRTN0MWtJekVDUl9oU2MyX2RodmdZcTVkT19JUDVwNVFvXzV5dkhudg?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c4b088009d768a94"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Consumer prices in September 2026 increased by 0.9% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNElXRTk5X29CUW84NHVVbjZCM3cwSmM2NTFnTl9femZNTW40YjEySkhtdXdOLWxmTUhDZXJibTdYTjRQdXI3UVllYzA4NUFCV0xLOFFtOXdzdk5fRlhQUmp4S0FyQ1pfbWpqdHI4Yw?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "2026年9月份居民消费价格同比上涨0.9%",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26d23ad3ac5b8403"
   },
   {
    "source_id": "manual_ia",

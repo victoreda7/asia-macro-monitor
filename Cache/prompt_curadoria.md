@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-08T23:52:42.154837+00:00
+Última coleta: 2026-11-09T00:02:43.342036+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          876
+  🇯🇵 Japão          929
+  🇨🇳 China          875
   🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan FX intervention data underscores challenge of reversing weak yen
+  - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Monetary Base and the Bank of Japan's Transactions (Oct.)
   - [japan] Bank of Japan's Transactions with the Government (Oct.)
   - [japan] Market Operations by the Bank of Japan (Oct.)
@@ -31,6 +33,8 @@ Total: 3000 manchetes
   - [japan] Will the AI ​​bubble burst? & Thoughts on Trump's miscalculations etc. = Thoughts on the Bank of Japan's "lunc
   - [japan] ANA makes Air Do and Solaseed Air wholly owned subsidiaries... Each company complains of "real deficits on dom
   - [japan] A major blunder at DoCoMo, where a series of troubles occurred in less than a month... Just when the president
+  - [taiwan] NSC tightens anti-infiltration measures
+  - [korea] Korea’s budget coffee chain Mega MGC dwarfs legacy brands despite Starbucks’ recovery
   - [korea] Affiliated real estate trust companies have been in the red for the third consecutive year, with the..
   - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
   - [korea] With the stock market plummeting, the calculation of the Bank of Korea's interest rate hike is complicated... 
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's SuMiTB makes first investment in Indian real estate fund through HDFC Capital
   - [japan] Wave of rising prices, including university festivals Waseda Festival management ``As cheap as possible''
   - [korea] Lee hails Korea’s first persimmon export to China in 17 years
-  - [china] China flags weak domestic demand as policymakers prepare 2027 growth measures
-  - [taiwan] Central bank faces issues in curbing Taiwan dollar volatility: Experts
-  - [taiwan] Taiwan Temple Abbot and Son Accused of Embezzling Nearly 70 Million Yuan and Laundering Funds Through Crypto
-  - [china] China Forex Reserves Edged Up in October — WSJ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-08T23:52:42+00:00",
+      "published_utc": "2026-11-09T00:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
