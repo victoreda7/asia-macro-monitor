@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T08:22:43.609910+00:00
+Última coleta: 2026-11-09T08:32:42.078973+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -17,9 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
   - [china] Xinhua News | China extends suspension of 24 pct additional tariff on U.S. goods for two months
   - [japan] September economic trend index increased by 0.7 points from the previous month, the first increase in 2 months
-  - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
   - [taiwan] Taiwan's Export Growth Stays Robust Despite AI Selloff
   - [korea] The government has set aside 1.4 trillion won in budget to supply 10,000 public rental homes for you..
   - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T08:22:43+00:00",
+      "published_utc": "2026-11-09T08:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
