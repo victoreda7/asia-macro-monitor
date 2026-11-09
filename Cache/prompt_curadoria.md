@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T04:22:43.879443+00:00
+Última coleta: 2026-11-09T04:32:42.854631+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China, Hong Kong stocks edge up as State Council vows to stabilise market
   - [china] China's CPI Data Shows Domestic Demand Remains Weak — Market Talk
   - [china] China’s factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates
   - [china] China Producer Inflation Accelerates to Over Four-Year High — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
   - [china] On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.
   - [china] China's October producer inflation quickens further, consumer prices edge down
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7188 MON VS 6.7168
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T04:22:44+00:00",
+      "published_utc": "2026-11-09T04:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
