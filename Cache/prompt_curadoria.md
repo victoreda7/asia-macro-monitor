@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T01:52:43.645498+00:00
+Última coleta: 2026-11-09T02:02:43.498238+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          935
@@ -22,8 +22,11 @@ Total: 3000 manchetes
   - [china] CHINA OCT FOOD PRICES -2.9% Y/Y VS -1.7% Y/Y SEP
   - [china] CHINA OCT CPI +0.0% M/M VS +0.2% M/M SEP
   - [china] CHINA OCT PPI +0.7% M/M VS +1.2% M/M SEP
+  - [china] China's consumer price index rose 0.7% in October (Kyodo News)
+  - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
+  - [china] China’s October producer inflation quickens further, consumer prices edge down
   - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
-  - [china] China's October producer inflation quickens further, consumer prices edge down
+  - [china] On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7188 MON VS 6.7168
   - [china] China Oct Non-Food Prices +1.5% on Year
   - [china] China Oct Food Prices -2.9% On Year
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Five general trading companies all increase profits and record high profits...Despite the tailwind from high r
   - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
   - [korea] Hana Bank, ranked first in interest reduction per interest rate reduction request in the first half of the yea
-  - [china] The Chinese people are wiping out President Xi Jinping's ``misjudgment''...The tyranny of local governments th
-  - [japan] Will the AI ​​bubble burst? & Thoughts on Trump's miscalculations etc. = Thoughts on the Bank of Japan's "lunc
-  - [japan] ANA makes Air Do and Solaseed Air wholly owned subsidiaries... Each company complains of "real deficits on dom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T01:52:43+00:00",
+      "published_utc": "2026-11-09T02:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

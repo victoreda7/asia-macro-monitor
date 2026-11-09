@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-09T01:52:43.645498+00:00",
- "collected_at_utc": "2026-11-09T01:52:43.645498+00:00",
+ "generated_at_utc": "2026-11-09T02:02:43.498238+00:00",
+ "collected_at_utc": "2026-11-09T02:02:43.498238+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
-   "newest": "2026-11-08T19:48:43+08:00"
+   "newest": "2026-11-09T09:11:01+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T01:25:34+00:00"
+   "newest": "2026-11-09T01:49:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T00:55:53+00:00"
+   "newest": "2026-11-09T01:48:28+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T12:18:00+00:00"
+   "newest": "2026-11-09T01:35:55+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T01:50:13+00:00"
+   "newest": "2026-11-09T02:01:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T00:09:04+00:00"
+   "newest": "2026-11-08T21:06:45+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:19:17+00:00"
+   "newest": "2026-11-09T01:46:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -429,6 +429,57 @@
    "id": "2ff5d85ab65386db"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "China's consumer price index rose 0.7% in October (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fNV90THFYRnhiQ2VHTFBUdnAwbDFJeEJUUmI2UU1ZcDJTX3BLcFMxZXFTQnpwejRUR3BkOGJ2TUNFS1JsZUNrRmtha0lzMndKZ0ljSzZTSTNmZk1zMjUwY1Q5b05OS0VMcDdpcF9jdXBNZEhvdDhfQjRqNk9HZ0U?oc=5",
+   "published_utc": "2026-11-09T01:46:02+00:00",
+   "title_original": "中国10月消費者物価は0.7％上昇（共同通信）",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "12d880231659ff55"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+   "url": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
+   "published_utc": "2026-11-09T01:45:15+00:00",
+   "title_original": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "57f8b2eeed9d8363"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s October producer inflation quickens further, consumer prices edge down",
+   "url": "https://www.investing.com/news/economy-news/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-5010403",
+   "published_utc": "2026-11-09T01:42:26+00:00",
+   "title_original": "China’s October producer inflation quickens further, consumer prices edge down",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "855792e2578acef6"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON",
@@ -446,21 +497,22 @@
    "id": "a990177d897a8b54"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's October producer inflation quickens further, consumer prices edge down",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TTW5X:0-china-s-october-producer-inflation-quickens-further-consumer-prices-edge-down/",
-   "published_utc": "2026-11-09T01:35:27+00:00",
-   "title_original": "China's October producer inflation quickens further, consumer prices edge down",
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XeE9qRkFhUXFVOGVjTFJsVlU1OGxMWS1BOGlPSDlyOTBpOEtiWnZlUzZQd3dZRE5xdi1TYWl1WWtkMXFzM2NBTmNDRzM5OERJYl9iYmNkREZRNk0zMGdxenFQbjF0OXk1?oc=5",
+   "published_utc": "2026-11-09T01:35:55+00:00",
+   "title_original": "11月9日央行开展1820亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
-    "inflation"
+    "monetary",
+    "fx"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "b8b38cea6a678a7d"
+   "id": "f3bd576e447a455d"
   },
   {
    "source_id": "tradingview_live",
@@ -4640,6 +4692,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d72f6a541185355b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The RMB fell 200 points in response. What is the foreign exchange deposit reserve ratio?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGdG5NTXJTU2M3eW5CdlNQdm9PNEZhRVV3MlpVeXRtaTV4Z0VyNThhM1hKZzBaNlJHSkxBR3lXdnBLeDVsV2h5WThBNGZ3S1V1NFMxWEZwMVZteHMxamc?oc=5",
+   "published_utc": "2026-11-05T12:49:44+00:00",
+   "title_original": "人民币应声下跌200点，外汇存款准备金率到底是啥？",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7800c808c063de6"
   },
   {
    "source_id": "nhk_economy",
@@ -51912,76 +51982,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8c5775aa40afa370"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China September new bank loans jump more than expected on stimulus, seasonal boost",
-   "url": "https://www.investing.com/news/economy-news/china-september-new-bank-loans-jump-more-than-expected-on-stimulus-seasonal-boost-4948504",
-   "published_utc": "2026-10-14T09:42:22+00:00",
-   "title_original": "China September new bank loans jump more than expected on stimulus, seasonal boost",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "82b6950a7bb35867"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4600T2:0-fspg-hi-tech-sees-9-month-net-profit-1-2-1-4-billion-yuan/",
-   "published_utc": "2026-10-14T09:41:34+00:00",
-   "title_original": "FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bec70bedbc87cea9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: On October 15, it will launch a 700 billion yuan six-month buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SRG1LdXZOWEd2VGhuYlRJamJ4Zk84ZmFWVklHQ1V0V0U2QXltVkV6T0t2Wmp6ejAtOWtybnNXcklCbzFiTzVJb0M0QVJQZ3Y4RG53cU5PM0RSMEdsbFE?oc=5",
-   "published_utc": "2026-10-14T09:40:00+00:00",
-   "title_original": "央行：10月15日将开展7000亿元6个月期限买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "28a9a155807037a5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2 balance at the end of September was 359.63 trillion yuan_Company News_Finance",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RW0zbE14eVZvYm9Ib0lkRkczZ09kOGtEdWZPNDU1QUlKaGotNFJtLWREbDdVb3ZTMlR2bzc0WFlrUG5KVUw0TUFQcXZLeVQzYzVRYi1ZN0U5ZmtnWWZ1bw?oc=5",
-   "published_utc": "2026-10-14T09:37:00+00:00",
-   "title_original": "央行：前三季度社融增量27.46万亿元9月末M2余额359.63万亿元_公司新闻_财经",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da1970eea92e6440"
   },
   {
    "source_id": "manual_ia",
