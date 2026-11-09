@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T23:32:45.238136+00:00
+Última coleta: 2026-11-09T23:42:43.217519+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          876
+  🇯🇵 Japão          929
+  🇨🇳 China          874
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN Q3 CONSUMPTION TREND INDEX REAL S/A -3.1% Q/Q VS. +0.6% IN Q2, INDICATING PRIVATE CONSUMPTION WEAK IN Q3
+  - [japan] Japan Data Preview: Forecasters See Raw Materials Keeping PPI Inflation Hot in October
+  - [japan] JAPAN SEPT REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -7.5% Y/Y VS. -4.2% IN JULY WHEN OV
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
   - [japan] Popular government bonds for individuals with over 8 trillion yen issued
   - [japan] Can the proceeds from the sale of Bank of Japan ETFs cover the economic security "bridgment government bonds"?
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China producer inflation hits four-year high as energy costs surge
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll
   - [japan] The approval rate for the high city cabinet is 53%, while 32% do not support it
-  - [taiwan] Ministry of Finance: Exports to the United States accounted for 31.7% in the first 10 months, setting a new hi
-  - [taiwan] October's export record hit 5 major highlights, with 36 hits in a row, the longest growth cycle in history | S
-  - [korea] The Trade Remedy Review Committee of the Ministry of Economic Affairs made a positive determination of industr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T23:32:45+00:00",
+      "published_utc": "2026-11-09T23:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
