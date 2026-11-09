@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T08:52:43.519561+00:00",
- "collected_at_utc": "2026-11-09T08:52:43.519561+00:00",
+ "generated_at_utc": "2026-11-09T09:02:44.024906+00:00",
+ "collected_at_utc": "2026-11-09T09:02:44.024906+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
-  "china": 870,
-  "taiwan": 331,
-  "korea": 871
+  "japan": 929,
+  "china": 869,
+  "taiwan": 329,
+  "korea": 873
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T08:31:54+00:00"
+   "newest": "2026-11-09T08:54:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T08:30:22+00:00"
+   "newest": "2026-11-09T08:54:15+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:13:12+00:00"
+   "newest": "2026-11-09T08:56:46+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:52:42+00:00"
+   "newest": "2026-11-08T02:30:21+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T16:58:29+09:00"
+   "newest": "2026-11-09T17:56:55+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T17:13:00+09:00"
+   "newest": "2026-11-09T17:56:12+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T08:51:26+00:00"
+   "newest": "2026-11-09T09:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,65 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-09T06:07:15+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261106de71396",
+   "published_utc": "2026-11-09T08:56:55+00:00",
+   "title_original": "「政党支持率」約30年 NHK世論調査で見えた選挙の鍵は",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a68aa0a06475f752"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOQUh6LW5PWkQxVml6TUFtNnBrb3p5UWk0bTVCVXh5YTViMGRFS3dXOUlXRXUtS3lQcnBDalpabmlLTVFPU3lJZUNaSC1RVTZJamstSmhKUWI5ME5fWVRzTm9pUE1qanViMlRWRzNNMkdydTFPMDN3?oc=5",
+   "published_utc": "2026-11-09T08:56:46+00:00",
+   "title_original": "Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "702959a206b870d0"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uMmhHYkhyQk1KR0pjTGx5ZVZ1SElPWEVWYzVKVXFhaGYxdmJvLUNla012bHdJa0FBT0Npb1piQXVxTm5LODdXR25nUGhmcXl6Y3c?oc=5",
+   "published_utc": "2026-11-09T08:39:41+00:00",
+   "title_original": "Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "631dc4a88c450c04"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1555,7 +1608,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xakxaQUVoYnp5MTI1M01EVUU4QkhCbHJ2a2RsYjh5UEQ5QThUeDl1Zl93d194eDZLMTBjTEpKcy13Q194WjJ5cjROME9UY1NfcnJoLUNseU1Ldw?oc=5",
-   "published_utc": "2026-11-09T02:55:14+00:00",
+   "published_utc": "2026-11-09T02:55:00+00:00",
    "title_original": "BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen",
    "region": "japan",
    "topics": [
@@ -3455,8 +3508,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -3470,7 +3523,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -3800,8 +3853,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -3815,7 +3868,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3957,8 +4010,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -3972,7 +4025,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4095,8 +4148,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -4109,7 +4162,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -7352,6 +7405,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de82a004de59991d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
+   "published_utc": "2026-11-05T04:19:41+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6ed2a6680a0d80a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -10786,24 +10857,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
-   "published_utc": "2026-11-03T17:58:05+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5faf56004dbf3216"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "36Kr.com",
    "title_en": "Central Bank: A 300 billion yuan buyout reverse repurchase operation will be carried out on November 5 - 36 Krypton",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PRGNEWksxb0tWUERxc0kwR3N3WVVaVjdxUm1IR0ZGdE44aXpJMnZOV3VnU0s3MEpmUXg5aEU2Q2dNejJpakgzNTE1ekdpOHNvd0s4ejRma1A?oc=5",
@@ -12359,6 +12412,24 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "央视网",
+   "title_en": "First time in nearly 5 years! The central bank raised the foreign exchange reserve ratio by 2 percentage points to ease the pressure on RMB appreciation",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HVGIzbVdZTVFuaHJ0UlhydzNrQ1hoMXY0NjRQOHNhQU5EMUVwbG1IYXYxd0JPN2JheTM5NE9UV0otTFk4bzFoRFE2WUVEc1BUV2ZXTE9JTnZSelNHTHg1VEZ4M2xrM2ZsUm1aQVZZdWJsZERCQTEteUoxdjE?oc=5",
+   "published_utc": "2026-11-03T02:07:00+00:00",
+   "title_original": "近5年来首次！央行上调外汇存准率2个百分点，缓解人民币升值压力",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6f406fb80625b477"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51913,75 +51984,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d32070122e8f9124"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "TSMC reports sixth straight quarter of record profit thanks to AI boom",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
-   "published_utc": "2026-10-14T23:02:00+00:00",
-   "title_original": "TSMC reports sixth straight quarter of record profit thanks to AI boom",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "287b28cbac719792"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "TSMC Set to Post Sixth Consecutive Quarter of Record Profit Thanks to AI Boom",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46017N:0/",
-   "published_utc": "2026-10-14T23:01:02+00:00",
-   "title_original": "TSMC deve registrar o sexto trimestre consecutivo de lucro recorde, graças ao boom da IA",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "deb9f8dd65662670"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券时报",
-   "title_en": "The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MUZ2OWlCbnY3MHpDN0FlTE1sLVpaNkNHSWNOMTkzOVFPX3FmelROTXdxSE84cFJCVGU2end0ZGx5ajBGaW16TV96cHNXQ08zLWtndG5SVGxuTTI3?oc=5",
-   "published_utc": "2026-10-14T22:45:00+00:00",
-   "title_original": "时报数说 央行将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "43ceb3c0748f8da5"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQUExT3VCbURkN1dkd2MtZHpkcHV0TFg4SVZrME5wRmIzVmNnSzRhMWVNTEdUcEdlVUZmUDVnTVRDd3RYWGdwVlA0M244WmZWWW5zNVQydWs3ZkJTTVZCZWVjWWpEaXdoX1dyTDFlYTc0NjVtYjkzcjd1cjI4UXBtdk1pSEhab3EwMUZsUGtaN05GMVZvaTFkRWhBQTBQeEZwY0t1akh4Yk1DeTNjVlc5cnUtRncyeUdfOEN6RE15d29tdFBo?oc=5",
-   "published_utc": "2026-10-14T22:00:47+00:00",
-   "title_original": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "42fcfb671c8fe81b"
   },
   {
    "source_id": "manual_ia",

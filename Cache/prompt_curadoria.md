@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T08:52:43.519561+00:00
+Última coleta: 2026-11-09T09:02:44.024906+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          870
-  🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  871
+  🇯🇵 Japão          929
+  🇨🇳 China          869
+  🇹🇼 Taiwan         329
+  🇰🇷 Coreia do Sul  873
 
 ## O que já está no feed (não repita)
 
+  - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
+  - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
+  - [korea] Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about
   - [taiwan] Taiwan's October exports surge again on strong AI demand
   - [korea] As international energy prices soar, concerns are growing over the financial deterioration of state
   - [korea] As financial authorities regulate Samsung Electronics and SK Hynix's single-stock leveraged exchange..
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
   - [korea] If the semiconductor industry declines, interest rates may be lowered in the second half of next year... Citib
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
-  - [japan] Record retail JGB demand signals bets Japan yields are peaking
-  - [china] China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk
-  - [korea] Korean food exporters sign $15 million in preliminary deals at Melbourne fair
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T08:52:43+00:00",
+      "published_utc": "2026-11-09T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
