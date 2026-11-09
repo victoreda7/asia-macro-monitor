@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T18:42:42.031929+00:00
+Última coleta: 2026-11-09T18:52:43.495780+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          873
+  🇯🇵 Japão          927
+  🇨🇳 China          874
   🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [china] Taiyuan Investigates Deadly Fire at Mixed-Use High-Rise
   - [japan] Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn
   - [japan] Dollar weakens against euro, yen as Iran talks lift risk appetite
   - [japan] Toyota Set To Bring Camry Back To Japan With Reverse Imports From US, Nikkei Says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
-  - [china] China Extends Pause on US Tariffs and Trade Curbs for Two Months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T18:42:42+00:00",
+      "published_utc": "2026-11-09T18:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
