@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T07:22:43.694292+00:00
+Última coleta: 2026-11-09T07:32:43.941256+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
+  🇯🇵 Japão          935
   🇨🇳 China          869
-  🇹🇼 Taiwan         331
+  🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] SoftBank: AI-led growth targets FY2030 revenue of JPY 9.0 tn and operating income of JPY 1.7 tn
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
   - [japan] Chuo Warehouse Co Ltd - To Buy Back Up To 4.3% Of Own Shares Worth 1 Billion Yen
   - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
@@ -32,6 +33,7 @@ Total: 3000 manchetes
   - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
   - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
+  - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
   - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [japan] Record retail JGB demand signals bets Japan yields are peaking
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates
   - [korea] In the Gangnam area, where ultra-high-priced housing is concentrated, urgent sales are driving the d..
   - [china] China Producer Inflation Accelerates to Over Four-Year High — Update
-  - [china] China's yuan holds steady as seasonal FX sales offset dollar strength
-  - [taiwan] UKSC highlights three UK semiconductor strengths for Taiwan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T07:22:43+00:00",
+      "published_utc": "2026-11-09T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
