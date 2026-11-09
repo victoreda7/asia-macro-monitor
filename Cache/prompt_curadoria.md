@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T06:42:43.081247+00:00
+Última coleta: 2026-11-09T06:52:42.596918+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          874
-  🇹🇼 Taiwan         330
+  🇯🇵 Japão          931
+  🇨🇳 China          871
+  🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government/BOJ yen buying intervention hits record high of approximately 8 trillion yen on July 30th (ABEMA TI
+  - [japan] The Chiba Bank, Ltd. - To Buy Back Up To 1.09% Own Shares Worth 15 Billion Yen
   - [japan] Pola Orbis Holdings: Operating profit rose 21.3%; yen-driven FX gains lifted the FY outlook
   - [korea] A total of 8.354 billion won in monetary sanctions and measures against 23 executives and employees
   - [taiwan] Zhang Jianyi: CPI may exceed 3% if CNPC and Taipower fail to allocate subsidies, forcing the central bank to r
@@ -34,6 +36,7 @@ Total: 3000 manchetes
   - [korea] Woori Financial Group: "The direct impact of the U.S. midterm elections is limited... The Bank of Korea will r
   - [korea] Nvidia, SK Telecom, Rebellions forge AI chip alliance
   - [japan] Berkshire plans second yen-denominated bond offering of 2026
+  - [taiwan] Nvidia probe of CEO unlikely to disrupt Taiwan AI supply chain: TIER head
   - [china] China extends suspension of 24 pct additional tariff on U.S. goods for two months
   - [china] China's October car exports stay resilient, falling domestic sales yet to hit bottom
   - [japan] Consumption Activity Index
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue
   - [taiwan] Malaysia-Taiwan fraying ties threaten future chip investments
   - [japan] Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion
-  - [japan] Japan Spent Record $50 Billion in Single Day to Bolster Yen
-  - [china] Decision Effective 1:01 p.m. Local Time Tuesday, Customs Tariff Commission of the State Council Says
-  - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T06:42:43+00:00",
+      "published_utc": "2026-11-09T06:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

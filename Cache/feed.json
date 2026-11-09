@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T06:42:43.081247+00:00",
- "collected_at_utc": "2026-11-09T06:42:43.081247+00:00",
+ "generated_at_utc": "2026-11-09T06:52:42.596918+00:00",
+ "collected_at_utc": "2026-11-09T06:52:42.596918+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
-  "china": 874,
-  "taiwan": 330,
+  "japan": 931,
+  "china": 871,
+  "taiwan": 331,
   "korea": 867
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-04T10:43:22+00:00"
+   "newest": "2026-11-09T04:27:33+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
-   "newest": "2026-11-09T11:53:12+08:00"
+   "newest": "2026-11-09T13:15:15+08:00"
   },
   {
    "source_id": "investing_live",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T15:34:18+09:00"
+   "newest": "2026-11-09T15:34:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:34:00+00:00"
+   "newest": "2026-11-09T02:27:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T06:32:29+00:00"
+   "newest": "2026-11-09T06:51:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:02:14+00:00"
+   "newest": "2026-11-09T06:45:30+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Government/BOJ yen buying intervention hits record high of approximately 8 trillion yen on July 30th (ABEMA TIMES)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41SmVOSHZ6eVMtWmdrVUtha041cjFyejdlZVpzV2RzUnE1NjJFa19YcnBjWlNMUHE3amtMSWc4Z3phVEtGUjVwZXU5blVXRUltSUgxSHlYNThwcGx4S0V0R0xBR0JQLUxhUFJ6alh3cXJFbkFObFRXU1BNaUJyUHM?oc=5",
+   "published_utc": "2026-11-09T06:45:30+00:00",
+   "title_original": "政府・日銀の円買い介入、7月30日は約8兆円で過去最大を更新（ABEMA TIMES）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "955be0d7de8f4c0d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "The Chiba Bank, Ltd. - To Buy Back Up To 1.09% Own Shares Worth 15 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46N45O:0-the-chiba-bank-ltd-to-buy-back-up-to-1-09-own-shares-worth-15-billion-yen/",
+   "published_utc": "2026-11-09T06:32:47+00:00",
+   "title_original": "The Chiba Bank, Ltd. - To Buy Back Up To 1.09% Own Shares Worth 15 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "adc5767a3b4f393f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -635,6 +670,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8d4ac6a3eca31023"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Nvidia probe of CEO unlikely to disrupt Taiwan AI supply chain: TIER head",
+   "url": "https://focustaiwan.tw/business/202611090006",
+   "published_utc": "2026-11-09T05:15:15+00:00",
+   "title_original": "Nvidia probe of CEO unlikely to disrupt Taiwan AI supply chain: TIER head",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9b8bc9c3dd6c0b91"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -1480,23 +1532,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f3bd576e447a455d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's October producer inflation quickens further, consumer prices edge down",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TTW5X:0-china-s-october-producer-inflation-quickens-further-consumer-prices-edge-down/",
-   "published_utc": "2026-11-09T01:35:27+00:00",
-   "title_original": "China's October producer inflation quickens further, consumer prices edge down",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b8b38cea6a678a7d"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7006,24 +7041,6 @@
    "id": "de82a004de59991d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
-   "published_utc": "2026-11-05T04:19:41+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed2a6680a0d80a"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -10456,6 +10473,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
+   "published_utc": "2026-11-03T17:58:05+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5faf56004dbf3216"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "36Kr.com",
    "title_en": "Central Bank: A 300 billion yuan buyout reverse repurchase operation will be carried out on November 5 - 36 Krypton",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PRGNEWksxb0tWUERxc0kwR3N3WVVaVjdxUm1IR0ZGdE44aXpJMnZOV3VnU0s3MEpmUXg5aEU2Q2dNejJpakgzNTE1ekdpOHNvd0s4ejRma1A?oc=5",
@@ -12011,24 +12046,6 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "央视网",
-   "title_en": "First time in nearly 5 years! The central bank raised the foreign exchange reserve ratio by 2 percentage points to ease the pressure on RMB appreciation",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HVGIzbVdZTVFuaHJ0UlhydzNrQ1hoMXY0NjRQOHNhQU5EMUVwbG1IYXYxd0JPN2JheTM5NE9UV0otTFk4bzFoRFE2WUVEc1BUV2ZXTE9JTnZSelNHTHg1VEZ4M2xrM2ZsUm1aQVZZdWJsZERCQTEteUoxdjE?oc=5",
-   "published_utc": "2026-11-03T02:07:00+00:00",
-   "title_original": "近5年来首次！央行上调外汇存准率2个百分点，缓解人民币升值压力",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f406fb80625b477"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51962,23 +51979,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c118203a1053e4a5"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "MAC criticizes China’s sanctions aiming at election interference",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsV3E5bHAyTFZSaVdyNzhNRlhHWWRUUmVNdWpEM2xLWF9fYktscGNSUERpLXViSGQ1M19pODVuWlEyYXhHb1ZVVFZzdlAxWFNzZnplMWpILXhSczUta2lEb3NxcjJBVE52OE9qTHVjVGZveTNUWDVqdg?oc=5",
-   "published_utc": "2026-10-14T16:00:00+00:00",
-   "title_original": "MAC criticizes China’s sanctions aiming at election interference",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "46d32bff16345129"
   },
   {
    "source_id": "manual_ia",
