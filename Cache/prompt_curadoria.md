@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T11:32:43.263720+00:00
+Última coleta: 2026-11-09T11:42:42.638962+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          874
-  🇹🇼 Taiwan         332
+  🇯🇵 Japão          929
+  🇨🇳 China          872
+  🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
+  - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
   - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
   - [taiwan] Ministry of Finance: Taiwan’s export scale will surpass Japan’s this year, ranking “8th and 7th” in the world
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The government has set aside 1.4 trillion won in budget to supply 10,000 public rental homes for you..
   - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
   - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
-  - [china] Key facts: NVIDIA China curbs; chip-demand view; Nov. 17/18 events
-  - [china] Opinion: Building a Virtuous Cycle Between Consumption and Investment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T11:32:43+00:00",
+      "published_utc": "2026-11-09T11:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
