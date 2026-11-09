@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T09:52:46.691752+00:00
+Última coleta: 2026-11-09T10:02:44.696085+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
+  🇯🇵 Japão          929
   🇨🇳 China          873
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  870
+  🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [japan] Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll
+  - [japan] The approval rate for the high city cabinet is 53%, while 32% do not support it
+  - [taiwan] October's export record hit 5 major highlights, with 36 hits in a row, the longest growth cycle in history | S
   - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan stepped in to buy one-day record 7.98 tril. yen in July: gov't data
   - [taiwan] TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand
   - [japan] Government/BOJ yen buying intervention hits record high of approximately 8 trillion yen on July 30th (ABEMA TI
-  - [japan] The Chiba Bank, Ltd. - To Buy Back Up To 1.09% Own Shares Worth 15 Billion Yen
-  - [japan] Pola Orbis Holdings: Operating profit rose 21.3%; yen-driven FX gains lifted the FY outlook
-  - [korea] A total of 8.354 billion won in monetary sanctions and measures against 23 executives and employees
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T09:52:46+00:00",
+      "published_utc": "2026-11-09T10:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

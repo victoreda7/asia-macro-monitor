@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T09:52:46.691752+00:00",
- "collected_at_utc": "2026-11-09T09:52:46.691752+00:00",
+ "generated_at_utc": "2026-11-09T10:02:44.696085+00:00",
+ "collected_at_utc": "2026-11-09T10:02:44.696085+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
+  "japan": 929,
   "china": 873,
   "taiwan": 329,
-  "korea": 870
+  "korea": 869
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T09:24:35+00:00"
+   "newest": "2026-11-09T09:53:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T09:06:18+00:00"
+   "newest": "2026-11-09T09:48:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T06:51:10+00:00"
+   "newest": "2026-11-09T09:38:10+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T09:36:00+00:00"
+   "newest": "2026-11-08T14:37:40+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T18:45:59+09:00"
+   "newest": "2026-11-09T19:01:55+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T09:50:29+00:00"
+   "newest": "2026-11-09T10:01:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T09:32:29+00:00"
+   "newest": "2026-11-09T09:48:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,12 +337,63 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-09T06:07:15+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72722",
+   "published_utc": "2026-11-09T10:01:55+00:00",
+   "title_original": "各党支持率「自民党」35.9％「支持なし」37.1％ NHK世論調査",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "924c53f84cc6c724"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "The approval rate for the high city cabinet is 53%, while 32% do not support it",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72711",
+   "published_utc": "2026-11-09T10:00:16+00:00",
+   "title_original": "高市内閣支持率53％ 不支持32％ NHK世論調査",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b4e7b888bb106f39"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "October's export record hit 5 major highlights, with 36 hits in a row, the longest growth cycle in history | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BRThiWE5FZDJWLWlpQ1k3dDNLR1M4TF83V0Z3U0U3UWtlZ2ZKQkdtYkVwejFrcGJySGJpZzE3TTZEWlZrd0xtMnZ5OUlTdENzN3FUQm1idkRrQUpoeGc?oc=5",
+   "published_utc": "2026-11-09T09:48:00+00:00",
+   "title_original": "10月出口創紀錄寫5大亮點連36紅為史上最長成長週期| 產經",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "313ddfd827a40f5e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -3629,8 +3680,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -3644,7 +3695,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -3974,8 +4025,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -3989,7 +4040,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4131,8 +4182,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4146,7 +4197,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4269,8 +4320,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -4283,7 +4334,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -7528,6 +7579,24 @@
    "id": "de82a004de59991d"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
+   "published_utc": "2026-11-05T04:19:41+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6ed2a6680a0d80a"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -8803,24 +8872,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
-   "published_utc": "2026-11-04T16:03:02+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5faf56004dbf3216"
   },
   {
    "source_id": "investing_econ",
@@ -51931,58 +51982,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bae4722adc635004"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "How can eel pie companies eliminate departmental deficits?",
-   "url": "https://news.yahoo.co.jp/pickup/6598819?source=rss",
-   "published_utc": "2026-10-15T00:13:37+00:00",
-   "title_original": "うなぎパイ企業 部門赤字どう解消",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5fb6a31fdd8d28b7"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan solar manufacturers turn to US market as domestic approvals stall, low-cost imports intensify",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHhYQml6MEc0bm1felJHZUh2UUdrTUtzWVctekpjeXEwZDhIdFpzeDgzbmRFeUxJR05mVkVQcnZ5b0Y5Zy1CUzhIVzIwN3E2eWpMMUUyUUNhTElqUEc2Rl9yVFVlTkVGZUZPOU15ZDl2aE82WjFCRUFoMm95dEltQTFZMHV6UUdkZHJoSl8tTUxFR0FwdmtaWQ?oc=5",
-   "published_utc": "2026-10-15T00:10:56+00:00",
-   "title_original": "Taiwan solar manufacturers turn to US market as domestic approvals stall, low-cost imports intensify",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "de78e2d2435109e9"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UXRMcUtabktsdmY0bk5ROE13VTZudXR4T2tZUzFVMURjYVJfcFpsaXczaHRpY3dJeS1kMDV1dXE1b3JTQW1FbVNxdkd5NGRKRnU5VmEyd0ZtQQ?oc=5",
-   "published_utc": "2026-10-15T00:04:31+00:00",
-   "title_original": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c64b263d1e33962a"
   },
   {
    "source_id": "manual_ia",
