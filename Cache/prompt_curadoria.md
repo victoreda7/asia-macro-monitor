@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T07:52:42.940692+00:00
+Última coleta: 2026-11-09T08:02:43.837870+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
+  🇯🇵 Japão          933
   🇨🇳 China          871
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] Opinion: Building a Virtuous Cycle Between Consumption and Investment
+  - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
+  - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
   - [china] China inflation misses estimates as food prices extend decline
+  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [japan] SoftBank: AI-led growth targets FY2030 revenue of JPY 9.0 tn and operating income of JPY 1.7 tn
   - [china] China’s export growth expected to have remained strong in October: Reuters poll
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
@@ -33,11 +37,10 @@ Total: 3000 manchetes
   - [korea] Nvidia scandal raises export risks for Korean chipmakers
   - [china] China's October car exports stay resilient
   - [china] China Passenger-Car Sales Slump in October Despite Export Boom
-  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
+  - [korea] Bank of Korea predicts interest rate hike in November... Market interest rate direction and banking calculatio
   - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
   - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
-  - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [japan] Record retail JGB demand signals bets Japan yields are peaking
   - [china] China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan bought yen at record pace in July
   - [china] China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate
   - [china] Asia FX gains as dollar steadies after strong U.S. jobs data; China CPI in focus
-  - [china] China, Hong Kong stocks edge up as State Council vows to stabilise market
-  - [korea] Citibank, 'Early interest rate cut when semiconductor exports slow'...suggesting policy changes in the second 
-  - [china] China's CPI Data Shows Domestic Demand Remains Weak — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T07:52:43+00:00",
+      "published_utc": "2026-11-09T08:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
