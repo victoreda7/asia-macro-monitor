@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T04:52:43.326867+00:00
+Última coleta: 2026-11-09T05:02:43.133807+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
-  🇨🇳 China          879
+  🇨🇳 China          880
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  861
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption Activity Index
+  - [china] China's Inflation Likely to Remain Low Next Year — Market Talk
+  - [china] The central bank launched a 182 billion yuan reverse repurchase operation on November 9, with a net withdrawal
   - [japan] Japan bought yen at record pace in July
   - [china] Asia FX gains as dollar steadies after strong U.S. jobs data; China CPI in focus
   - [china] China, Hong Kong stocks edge up as State Council vows to stabilise market
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA OCT CPI +0.0% M/M VS +0.2% M/M SEP
   - [china] CHINA OCT PPI +0.7% M/M VS +1.2% M/M SEP
   - [china] China's consumer price index rose 0.7% in October (Kyodo News)
-  - [taiwan] Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips
-  - [taiwan] Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments
-  - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T04:52:43+00:00",
+      "published_utc": "2026-11-09T05:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

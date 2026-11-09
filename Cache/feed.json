@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T04:52:43.326867+00:00",
- "collected_at_utc": "2026-11-09T04:52:43.326867+00:00",
+ "generated_at_utc": "2026-11-09T05:02:43.133807+00:00",
+ "collected_at_utc": "2026-11-09T05:02:43.133807+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 930,
-  "china": 879,
+  "china": 880,
   "taiwan": 330,
-  "korea": 861
+  "korea": 860
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "newest": "2026-11-09T08:50:00+09:00"
+   "newest": "2026-11-09T14:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:10:00+00:00"
+   "newest": "2026-11-09T04:46:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T03:51:20+00:00"
+   "newest": "2026-11-09T04:27:33+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:35:55+00:00"
+   "newest": "2026-11-09T04:53:20+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T03:18:00+00:00"
+   "newest": "2026-11-09T02:27:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T04:50:00+00:00"
+   "newest": "2026-11-09T05:02:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Consumption Activity Index",
+   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+   "published_utc": "2026-11-09T05:00:00+00:00",
+   "title_original": "Consumption Activity Index",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "59b2bbbcbbf50853"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Inflation Likely to Remain Low Next Year — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261108001530:0-china-s-inflation-likely-to-remain-low-next-year-market-talk/",
+   "published_utc": "2026-11-09T04:58:00+00:00",
+   "title_original": "China's Inflation Likely to Remain Low Next Year — Market Talk",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e7ee5d57d9ac84d2"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched a 182 billion yuan reverse repurchase operation on November 9, with a net withdrawal of 44 billion yuan that day.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rTTh2dzBWeG9aQ0FWamlqY01DeW1vUVk2dkRZeEwyeGx4ZEJvcFROVElxWm9YTjZILUY3bU5sQWEyZ250UXJZcUprQVJhemQzMjBfNlpLWHpIMVhiRV9aam5R?oc=5",
+   "published_utc": "2026-11-09T04:53:20+00:00",
+   "title_original": "央行11月9日开展1820亿元逆回购操作 当日净回笼440亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "137e6335238cd058"
+  },
   {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
@@ -1392,24 +1444,6 @@
    "live_wire": false,
    "manual": false,
    "id": "50495a0299450e49"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001049:0-south-korea-s-economic-outlook-hinges-on-chip-cycle-market-talk/",
-   "published_utc": "2026-11-09T00:04:00+00:00",
-   "title_original": "South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk",
-   "region": "korea",
-   "topics": [
-    "industrial",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ac2e7721c723fc29"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2847,8 +2881,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -2862,7 +2896,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -3192,8 +3226,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -3207,7 +3241,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3349,8 +3383,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -3364,7 +3398,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3487,8 +3521,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -3501,7 +3535,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -11684,6 +11718,24 @@
    "id": "57e1f44369a122d5"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
+   "published_utc": "2026-11-03T02:47:23+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb08c742bed91b2e"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 billion yen turned into a deficit of 2.8 billion yen | Politics, Economy, Investment | Toyo Keizai Online",
@@ -11751,24 +11803,6 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
-   "published_utc": "2026-11-03T02:08:10+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51947,41 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "140b3c5415589b30"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014004800:0-globalfoundries-to-build-2-chip-fabs-in-ny-with-up-to-21-billion-in-funding-from-u-s-japan-initiative/",
-   "published_utc": "2026-10-14T13:36:00+00:00",
-   "title_original": "GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6f4598c244355d82"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "济南新闻",
-   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation - News",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRXJIVDRqYndJNFdNSWFKdnJxY1lEQTNyTXlXbXRNbHpwZmZ5VXpYSkswVjFvTlJNU1MyZDQ4aXl6OHpOeXI3UVdfNEMwX3Vta3JDeUFTSm9HY0FnQnNUMVZfX2o?oc=5",
-   "published_utc": "2026-10-14T13:21:24+00:00",
-   "title_original": "央行将开展7000亿元买断式逆回购操作- 要闻",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "329a2a71b8d17596"
   },
   {
    "source_id": "manual_ia",
