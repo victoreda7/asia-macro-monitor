@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T09:22:43.966019+00:00
+Última coleta: 2026-11-09T09:32:49.251770+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
@@ -17,8 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project
+  - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update
+  - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
+  - [china] Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project
   - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Pola Orbis Holdings: Operating profit rose 21.3%; yen-driven FX gains lifted the FY outlook
   - [korea] A total of 8.354 billion won in monetary sanctions and measures against 23 executives and employees
   - [taiwan] Zhang Jianyi: CPI may exceed 3% if CNPC and Taipower fail to allocate subsidies, forcing the central bank to r
-  - [korea] Nvidia scandal raises export risks for Korean chipmakers
-  - [china] China's October car exports stay resilient
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T09:22:44+00:00",
+      "published_utc": "2026-11-09T09:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
