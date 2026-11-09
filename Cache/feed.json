@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T05:12:43.792210+00:00",
- "collected_at_utc": "2026-11-09T05:12:43.792210+00:00",
+ "generated_at_utc": "2026-11-09T05:22:45.600668+00:00",
+ "collected_at_utc": "2026-11-09T05:22:45.600668+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
-  "china": 880,
+  "japan": 927,
+  "china": 881,
   "taiwan": 330,
-  "korea": 861
+  "korea": 862
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T04:46:55+00:00"
+   "newest": "2026-11-09T05:18:42+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T12:03:00+09:00"
+   "newest": "2026-11-09T14:18:20+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T05:12:00+00:00"
+   "newest": "2026-11-09T05:20:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:07:15+00:00"
+   "newest": "2026-11-09T05:11:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Nvidia, SK Telecom, Rebellions forge AI chip alliance",
+   "url": "https://www.koreaherald.com/article/10930773",
+   "published_utc": "2026-11-09T05:18:42+00:00",
+   "title_original": "Nvidia, SK Telecom, Rebellions forge AI chip alliance",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e42a5b597653dea"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Berkshire plans second yen-denominated bond offering of 2026",
+   "url": "https://www.tradingview.com/news/seekingalpha:bcce2ea52094b:0-berkshire-plans-second-yen-denominated-bond-offering-of-2026/",
+   "published_utc": "2026-11-09T05:17:54+00:00",
+   "title_original": "Berkshire plans second yen-denominated bond offering of 2026",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8d4ac6a3eca31023"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China extends suspension of 24 pct additional tariff on U.S. goods for two months",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14R19fZl9tM1lDdTFnVVdwbnNZOE41R3Q0SEhIOEl1Zm9WRWhLTU9lSTBlVWZFNGdnbXNiWkwyZmZ2dnhOWjllVnZRamJUUFIzTEJMUnQyZDByV3NYbEJMcm5mTGRDMDZMcWo3VmN2bV9RUW02QzVVVmJlT0s?oc=5",
+   "published_utc": "2026-11-09T05:11:15+00:00",
+   "title_original": "China extends suspension of 24 pct additional tariff on U.S. goods for two months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6cd02a17b3835b45"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -791,6 +842,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6114819d37c63b1a"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China extends suspension of 24% tariff on US imports for two months",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "published_utc": "2026-11-09T02:48:00+00:00",
+   "title_original": "China extends suspension of 24% tariff on US imports for two months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "77e1193c27955a94"
   },
   {
    "source_id": "nikkei_asia",
@@ -1345,23 +1413,6 @@
    "id": "d2733c51a3bc8466"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, Joint Bookrunners Say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42X02A:0-berkshire-hathaway-mandates-mizuho-and-bank-of-america-securities-for-yen-denominated-unsecured-senior-bond-joint-bookrunners-say/",
-   "published_utc": "2026-11-09T01:20:30+00:00",
-   "title_original": "Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, Joint Bookrunners Say",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d685be505a6dde5a"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
@@ -1676,7 +1727,7 @@
    "source_name": "Yahoo!ニュース",
    "title_en": "The Chinese people are wiping out President Xi Jinping's ``misjudgment''...The tyranny of local governments that ``leverage fines even if you are wearing a seatbelt'' due to severe financial difficulties (Daily Shincho)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xelZmRjFjd1B4UXlYcnlibGV2enNHV1VRcUhsQ1hQS2ZOel9jVWNwVklLSExUbC1sMkdkLWc3SnVRRzBTbEVlWnczSTFHenZnSDdsdkJINm9PZlRWWXZDbkVSdGZmQ0ZYNDM3QzFZVEN0ckVtMFY3SkplaGxzLTA?oc=5",
-   "published_utc": "2026-11-08T21:11:22+00:00",
+   "published_utc": "2026-11-08T21:05:24+00:00",
    "title_original": "習近平主席の「判断ミス」を中国人民が尻ぬぐい…深刻すぎる財政難で「シートベルトをしていても罰金を取り立てる」地方政府の横暴（デイリー新潮）",
    "region": "china",
    "topics": [
@@ -51930,58 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e40de5f97782ee88"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillion yuan, and bond and stock financing accelerated_Domestic Economy",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlMnVxdnlJbFhHcml3OXo2UHhyMnVSZHpjY0dTVzJ2Vmhhd3B1UVdRTVFsRk9VSUR6ajhrQzloQ2pObnhBZW5FY0ZpTHNRLURDbEFOODlfd2VsMmZNLVhmdWNzRUs?oc=5",
-   "published_utc": "2026-10-14T14:30:34+00:00",
-   "title_original": "央行，最新发布！前三季度社融增量超27万亿元，债券、股票融资加快_国内经济",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "99fb56f8495c9875"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014005234:0-globalfoundries-to-build-2-chip-plants-with-21-billion-backing-under-u-s-japan-deal-update/",
-   "published_utc": "2026-10-14T14:26:00+00:00",
-   "title_original": "GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d08c8f029e065b6b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014005105:0-globalfoundries-to-build-2-chip-plants-with-21b-backing-under-u-s-japan-deal-update/",
-   "published_utc": "2026-10-14T14:11:00+00:00",
-   "title_original": "GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "85b9a2a94de66ed4"
   },
   {
    "source_id": "manual_ia",

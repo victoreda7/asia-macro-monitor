@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T05:12:43.792210+00:00
+Última coleta: 2026-11-09T05:22:45.600668+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          880
+  🇯🇵 Japão          927
+  🇨🇳 China          881
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  861
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [korea] Nvidia, SK Telecom, Rebellions forge AI chip alliance
+  - [japan] Berkshire plans second yen-denominated bond offering of 2026
+  - [china] China extends suspension of 24 pct additional tariff on U.S. goods for two months
   - [china] China's October car exports stay resilient, falling domestic sales yet to hit bottom
   - [japan] Consumption Activity Index
   - [china] China's Inflation Likely to Remain Low Next Year — Market Talk
@@ -43,6 +46,7 @@ Total: 3000 manchetes
   - [china] China's October price rise of 0.7%, growth rate slowing (Kyodo News)
   - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
   - [japan] Foreign exchange intervention revealed to be “largest ever” at 8 trillion yen The government and the Bank of J
+  - [china] China extends suspension of 24% tariff on US imports for two months
   - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
   - [korea] Samsung Electronics, SK hynix trade mixed after two-day plunge last week
   - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition
   - [korea] Citi: "If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the
   - [korea] Citi: "If the semiconductor industry declines, interest rates will be cut in the second half of next year... I
-  - [china] China Consumer Prices Flat In September
-  - [china] CHINA OCT NON-FOOD PRICES +1.5% Y/Y VS +1.5% Y/Y SEP
-  - [china] CHINA OCT FOOD PRICES -2.9% Y/Y VS -1.7% Y/Y SEP
-  - [china] CHINA OCT CPI +0.0% M/M VS +0.2% M/M SEP
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T05:12:43+00:00",
+      "published_utc": "2026-11-09T05:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
