@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-09T09:12:44.950172+00:00",
- "collected_at_utc": "2026-11-09T09:12:44.950172+00:00",
+ "generated_at_utc": "2026-11-09T09:22:43.966019+00:00",
+ "collected_at_utc": "2026-11-09T09:22:43.966019+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
-  "china": 870,
-  "taiwan": 329,
-  "korea": 872
+  "japan": 928,
+  "china": 871,
+  "taiwan": 330,
+  "korea": 871
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:26:17+00:00"
+   "newest": "2026-11-09T08:52:55+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T07:19:00+00:00"
+   "newest": "2026-11-09T09:19:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 36,
+   "count": 40,
    "error": "",
-   "newest": "2026-11-09T16:03:33+08:00"
+   "newest": "2026-11-09T16:54:43+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T08:54:19+00:00"
+   "newest": "2026-11-09T09:12:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T08:54:15+00:00"
+   "newest": "2026-11-09T09:06:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T17:56:55+09:00"
+   "newest": "2026-11-09T18:17:27+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T17:56:12+09:00"
+   "newest": "2026-11-09T17:56:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T09:11:24+00:00"
+   "newest": "2026-11-09T09:22:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Q0NA:0-shenzhen-qingyi-photomask-s-unit-to-invest-in-semiconductor-photomask-production-base-project/",
+   "published_utc": "2026-11-09T09:16:05+00:00",
+   "title_original": "Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "de407ecbc23881d9"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update",
    "url": "https://www.tradingview.com/news/DJN_DN20261109001987:0-china-will-extend-u-s-tariff-suspensions-for-two-months-as-trump-visit-looms-update/",
@@ -393,6 +410,40 @@
    "live_wire": false,
    "manual": false,
    "id": "702959a206b870d0"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiex posts 2nd-largest daily point gain on intervention pledge",
+   "url": "https://focustaiwan.tw/business/202611090017",
+   "published_utc": "2026-11-09T08:54:43+00:00",
+   "title_original": "Taiex posts 2nd-largest daily point gain on intervention pledge",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "962ded1d7fdad9a8"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
+   "published_utc": "2026-11-09T08:52:55+00:00",
+   "title_original": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1ee7a7d1ffba356a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -514,6 +565,23 @@
    "live_wire": false,
    "manual": false,
    "id": "826b04b6b5794c07"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
+   "url": "https://focustaiwan.tw/business/202611090014",
+   "published_utc": "2026-11-09T08:19:36+00:00",
+   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7bbaa005765892c"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -1774,23 +1842,6 @@
    "live_wire": true,
    "manual": false,
    "id": "57f8b2eeed9d8363"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001253_20261108001259:0-mitsui-chemicals-development-bank-of-japan-to-jointly-invest-in-jsr/",
-   "published_utc": "2026-11-09T02:17:00+00:00",
-   "title_original": "Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3757a36491d40540"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -3525,8 +3576,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -3540,7 +3591,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -3870,8 +3921,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -3885,7 +3936,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4027,8 +4078,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4042,7 +4093,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4165,8 +4216,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -4179,7 +4230,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -7424,24 +7475,6 @@
    "id": "de82a004de59991d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
-   "published_utc": "2026-11-05T04:19:41+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed2a6680a0d80a"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -8717,6 +8750,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
+   "published_utc": "2026-11-04T16:03:02+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5faf56004dbf3216"
   },
   {
    "source_id": "investing_econ",
@@ -11717,23 +11768,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dce39f27668e226e"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
-   "url": "https://focustaiwan.tw/business/202611030017",
-   "published_utc": "2026-11-03T08:19:39+00:00",
-   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "add1588311bd1992"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51949,41 +51983,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eb5bff777bcabda9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "人民日报-有品质的新闻",
-   "title_en": "‍‍The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SUHNCMUhmd2RtNGd5WUszaUktNnZxbGVRb3poUUJXeHJGa1BNQ3dVczNPc2VSeTZwZG10X3FHaHJuM0V4eHYtZGZtRVJNNlY0NW5CeGlUbG1vckZTd0lURGQ3UVJpWGNw?oc=5",
-   "published_utc": "2026-10-14T23:47:00+00:00",
-   "title_original": "‍‍央行将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fe2c8042397f616"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "https://www.2news.co.kr/",
-   "title_en": "Aftermath of interest rate hike… Deposits with high interest rates in the 4% per annum range appear in the banking sector.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oc1F4bW5GRGVvbmNKVTJicjRzajBjLXEwakVPakxZT1k2WUI4blB6eWQxM2RxVHdVaDBDeDVPWjNFRU1mUnRURkg1RWJuSjRqUnVZRm4xLWR6c0N3NzlWUU5IRV9xbE9J?oc=5",
-   "published_utc": "2026-10-14T23:13:00+00:00",
-   "title_original": "기준금리 인상 여파… 은행권 연 4%대 고금리 예금 등장",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4378c0657bb65dbc"
   },
   {
    "source_id": "manual_ia",

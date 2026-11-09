@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T09:12:44.950172+00:00
+Última coleta: 2026-11-09T09:22:43.966019+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          870
-  🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  872
+  🇯🇵 Japão          928
+  🇨🇳 China          871
+  🇹🇼 Taiwan         330
+  🇰🇷 Coreia do Sul  871
 
 ## O que já está no feed (não repita)
 
+  - [china] Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update
   - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
+  - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
+  - [china] China Extends Pause on US Tariffs and Trade Curbs for Two Months
   - [korea] Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about
   - [taiwan] Taiwan's October exports surge again on strong AI demand
   - [korea] As international energy prices soar, concerns are growing over the financial deterioration of state
@@ -27,6 +30,7 @@ Total: 3000 manchetes
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
   - [taiwan] AI chip testing demands lift Taiwan's wafer testing specialist HTSI as October revenue surges 62%
+  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] Xinhua News | China extends suspension of 24 pct additional tariff on U.S. goods for two months
   - [japan] September economic trend index increased by 0.7 points from the previous month, the first increase in 2 months
   - [taiwan] Taiwan's Export Growth Stays Robust Despite AI Selloff
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Zhang Jianyi: CPI may exceed 3% if CNPC and Taipower fail to allocate subsidies, forcing the central bank to r
   - [korea] Nvidia scandal raises export risks for Korean chipmakers
   - [china] China's October car exports stay resilient
-  - [china] China Passenger-Car Sales Slump in October Despite Export Boom
-  - [korea] Bank of Korea predicts interest rate hike in November... Market interest rate direction and banking calculatio
-  - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
-  - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T09:12:45+00:00",
+      "published_utc": "2026-11-09T09:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
