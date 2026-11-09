@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T10:42:45.377430+00:00
+Última coleta: 2026-11-09T10:52:43.198020+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          873
+  🇯🇵 Japão          928
+  🇨🇳 China          874
   🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Ministry of Finance: Taiwan’s export scale will surpass Japan’s this year, ranking “8th and 7th” in the world
   - [japan] Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”
   - [china] China producer inflation hits four-year high as energy costs surge
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll
@@ -35,6 +36,7 @@ Total: 3000 manchetes
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
   - [china] China Extends Pause on US Tariffs and Trade Curbs for Two Months
+  - [china] China's consumer price index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel
   - [china] China Consumer Price Index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel p
   - [korea] Foreign currency raised by the Export-Import Bank of Korea is expected to exceed $17 billion (about
   - [taiwan] Taiwan's October exports surge again on strong AI demand
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Opinion: Building a Virtuous Cycle Between Consumption and Investment
   - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
   - [china] Wholesale prices of manufactured goods in China and the Middle East rise to the highest level in 4 years and 4
-  - [china] China inflation misses estimates as food prices extend decline
-  - [japan] SoftBank: AI-led growth targets FY2030 revenue of JPY 9.0 tn and operating income of JPY 1.7 tn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T10:42:45+00:00",
+      "published_utc": "2026-11-09T10:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
