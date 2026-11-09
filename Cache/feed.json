@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T08:37:29.240231+00:00",
- "collected_at_utc": "2026-11-09T08:37:29.240231+00:00",
+ "generated_at_utc": "2026-11-09T08:42:43.205943+00:00",
+ "collected_at_utc": "2026-11-09T08:42:43.205943+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 928,
-  "china": 873,
-  "taiwan": 330,
+  "china": 872,
+  "taiwan": 331,
   "korea": 869
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
    "newest": "2026-11-09T06:52:00+00:00"
   },
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:44:16+00:00"
+   "newest": "2026-11-09T04:29:44+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T08:36:00+00:00"
+   "newest": "2026-11-09T08:40:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T07:54:03+00:00"
+   "newest": "2026-11-09T08:10:17+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-09T05:53:00+00:00"
+   "newest": "2026-11-09T06:07:15+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan's October exports surge again on strong AI demand",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Q08I:0-taiwan-s-october-exports-surge-again-on-strong-ai-demand/",
+   "published_utc": "2026-11-09T08:39:28+00:00",
+   "title_original": "Taiwan's October exports surge again on strong AI demand",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "894e3438af4b5bdd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1670,23 +1687,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3f9da2592cb6a908"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Producer Inflation Accelerates to Over Four-Year High",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001170:0-china-producer-inflation-accelerates-to-over-four-year-high/",
-   "published_utc": "2026-11-09T02:09:00+00:00",
-   "title_original": "China Producer Inflation Accelerates to Over Four-Year High",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e7ba542d13c48dca"
   },
   {
    "source_id": "gn_cn_scmp",

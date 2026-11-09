@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T08:37:29.240231+00:00
+Última coleta: 2026-11-09T08:42:43.205943+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
-  🇨🇳 China          873
-  🇹🇼 Taiwan         330
+  🇨🇳 China          872
+  🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  869
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's October exports surge again on strong AI demand
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
   - [china] Xinhua News | China extends suspension of 24 pct additional tariff on U.S. goods for two months
   - [japan] September economic trend index increased by 0.7 points from the previous month, the first increase in 2 months
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korean food exporters sign $15 million in preliminary deals at Melbourne fair
   - [korea] Woori Financial Group: "The direct impact of the U.S. midterm elections is limited... The Bank of Korea will r
   - [korea] Nvidia, SK Telecom, Rebellions forge AI chip alliance
-  - [japan] Berkshire plans second yen-denominated bond offering of 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T08:37:29+00:00",
+      "published_utc": "2026-11-09T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
