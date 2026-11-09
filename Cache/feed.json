@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T02:22:43.133932+00:00",
- "collected_at_utc": "2026-11-09T02:22:43.133932+00:00",
+ "generated_at_utc": "2026-11-09T02:32:43.274989+00:00",
+ "collected_at_utc": "2026-11-09T02:32:43.274989+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 934,
-  "china": 876,
-  "taiwan": 331,
+  "china": 875,
+  "taiwan": 332,
   "korea": 859
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T02:08:17+00:00"
+   "newest": "2026-11-09T02:29:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
    "newest": "2026-11-09T01:30:00+00:00"
   },
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T08:40:14+00:00"
+   "newest": "2026-11-08T02:30:21+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T02:19:10+00:00"
+   "newest": "2026-11-09T02:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,18 +331,52 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:35:35+00:00"
+   "newest": "2026-11-09T02:24:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-09T02:01:58+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Taiwan chipmaker CEO warns memory price rises are unsustainable",
+   "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-chipmaker-ceo-warns-memory-price-rises-are-unsustainable",
+   "published_utc": "2026-11-09T02:32:42.375061+00:00",
+   "title_original": "Taiwan chipmaker CEO warns memory price rises are unsustainable",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "24c227c2e4445596"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+   "url": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
+   "published_utc": "2026-11-09T02:28:31+00:00",
+   "title_original": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "57f8b2eeed9d8363"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -567,23 +601,6 @@
    "id": "060d375012188fa2"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
-   "url": "https://www.investing.com/news/economic-indicators/china-cpi-inflation-misses-forecasts-in-oct-factorygate-prices-accelerate-5010405",
-   "published_utc": "2026-11-09T01:45:15+00:00",
-   "title_original": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "57f8b2eeed9d8363"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments",
@@ -634,6 +651,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f3bd576e447a455d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's October producer inflation quickens further, consumer prices edge down",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TTW5X:0-china-s-october-producer-inflation-quickens-further-consumer-prices-edge-down/",
+   "published_utc": "2026-11-09T01:35:27+00:00",
+   "title_original": "China's October producer inflation quickens further, consumer prices edge down",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b8b38cea6a678a7d"
   },
   {
    "source_id": "tradingview_live",
@@ -2381,8 +2415,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -2396,7 +2430,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -2726,8 +2760,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -2741,7 +2775,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2883,8 +2917,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -2898,7 +2932,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3021,8 +3055,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -3035,7 +3069,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -51948,41 +51982,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c21120940a9575ca"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report",
-   "url": "https://www.tradingview.com/news/seekingalpha:dd6e45aa1094b:0-china-resumes-u-s-soybean-buying-with-8-10-cargoes-after-trump-xi-summit-report/",
-   "published_utc": "2026-10-14T10:12:15+00:00",
-   "title_original": "China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1e3c9b7d52f9eaf1"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank is about to launch a 700 billion yuan buyout reverse repo",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nal9INFNWdW5sVGF3VU0wdUl2dG5OT1dqYWRZcHpaUHJ2QTVGTXBXMld4Ul83dkdOeE5aNFpJXzdRdVYxYjR2ZW1FTjJIQ1dvanEyRHUtdW5hYnlIcXc?oc=5",
-   "published_utc": "2026-10-14T10:09:12+00:00",
-   "title_original": "央行即将开展7000亿元买断式逆回购",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2d34b905ff2d2f7d"
   },
   {
    "source_id": "manual_ia",

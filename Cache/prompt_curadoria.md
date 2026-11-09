@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T02:22:43.133932+00:00
+Última coleta: 2026-11-09T02:32:43.274989+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
-  🇨🇳 China          876
-  🇹🇼 Taiwan         331
+  🇨🇳 China          875
+  🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
+  - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
   - [japan] Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR
   - [korea] South Korean won gains most among subdued Asian FX
   - [china] China Producer Inflation Accelerates to Over Four-Year High
@@ -30,10 +32,10 @@ Total: 3000 manchetes
   - [china] CHINA OCT PPI +0.7% M/M VS +1.2% M/M SEP
   - [china] China's consumer price index rose 0.7% in October (Kyodo News)
   - [taiwan] Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips
-  - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
   - [taiwan] Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments
   - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
   - [china] On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.
+  - [china] China's October producer inflation quickens further, consumer prices edge down
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7188 MON VS 6.7168
   - [china] China Oct Non-Food Prices +1.5% on Year
   - [china] China Oct Food Prices -2.9% On Year
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk
   - [japan] BREAKING NEWS: Japan spent record 7.98 tril. yen in yen-buying intervention on July 30
   - [japan] Japan FX intervention data underscores challenge of reversing weak yen
-  - [japan] Monetary Base and the Bank of Japan's Transactions (Oct.)
-  - [japan] Bank of Japan's Transactions with the Government (Oct.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T02:22:43+00:00",
+      "published_utc": "2026-11-09T02:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
