@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T08:02:43.837870+00:00
+Última coleta: 2026-11-09T08:12:44.134327+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
+  🇯🇵 Japão          932
   🇨🇳 China          871
-  🇹🇼 Taiwan         329
+  🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
+  - [china] Key facts: NVIDIA China curbs; chip-demand view; Nov. 17/18 events
   - [china] Opinion: Building a Virtuous Cycle Between Consumption and Investment
   - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
-  - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
+  - [china] Wholesale prices of manufactured goods in China and the Middle East rise to the highest level in 4 years and 4
   - [china] China inflation misses estimates as food prices extend decline
   - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [japan] SoftBank: AI-led growth targets FY2030 revenue of JPY 9.0 tn and operating income of JPY 1.7 tn
+  - [taiwan] Exclusive: Gallium oxide prepares to tackle power semiconductor market with 6-inch mass production and 8-inch 
   - [china] China’s export growth expected to have remained strong in October: Reuters poll
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
   - [japan] Chuo Warehouse Co Ltd - To Buy Back Up To 4.3% Of Own Shares Worth 1 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption Activity Index
   - [china] China's Inflation Likely to Remain Low Next Year — Market Talk
   - [china] The central bank launched a 182 billion yuan reverse repurchase operation on November 9, with a net withdrawal
-  - [japan] Japan bought yen at record pace in July
-  - [china] China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate
-  - [china] Asia FX gains as dollar steadies after strong U.S. jobs data; China CPI in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T08:02:44+00:00",
+      "published_utc": "2026-11-09T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

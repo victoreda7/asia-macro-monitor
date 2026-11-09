@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T08:02:43.837870+00:00",
- "collected_at_utc": "2026-11-09T08:02:43.837870+00:00",
+ "generated_at_utc": "2026-11-09T08:12:44.134327+00:00",
+ "collected_at_utc": "2026-11-09T08:12:44.134327+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
+  "japan": 932,
   "china": 871,
-  "taiwan": 329,
+  "taiwan": 330,
   "korea": 867
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:27:33+00:00"
+   "newest": "2026-11-09T07:23:20+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T06:24:17+00:00"
+   "newest": "2026-11-09T08:04:59+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T16:44:48+09:00"
+   "newest": "2026-11-09T17:09:57+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T02:27:00+00:00"
+   "newest": "2026-11-09T01:34:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T07:46:19+00:00"
+   "newest": "2026-11-09T08:01:47+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T08:02:00+00:00"
+   "newest": "2026-11-09T08:12:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T06:45:30+00:00"
+   "newest": "2026-11-09T07:50:44+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Passenger-Car Sales Slump in October Despite Export Boom — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109001511:0-china-passenger-car-sales-slump-in-october-despite-export-boom-update/",
+   "published_utc": "2026-11-09T08:06:00+00:00",
+   "title_original": "China Passenger-Car Sales Slump in October Despite Export Boom — Update",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "09001ae34cd85aee"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: NVIDIA China curbs; chip-demand view; Nov. 17/18 events",
+   "url": "https://www.tradingview.com/news/tradingview:9d255b44a9f60:0-key-facts-nvidia-china-curbs-chip-demand-view-nov-17-18-events/",
+   "published_utc": "2026-11-09T08:00:00+00:00",
+   "title_original": "Key facts: NVIDIA China curbs; chip-demand view; Nov. 17/18 events",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b6f9759338b2a935"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Opinion: Building a Virtuous Cycle Between Consumption and Investment",
@@ -379,21 +413,22 @@
    "id": "b8e0941335fc6b95"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Passenger-Car Sales Slump in October Despite Export Boom — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261109001352:0-china-passenger-car-sales-slump-in-october-despite-export-boom-update/",
-   "published_utc": "2026-11-09T07:51:00+00:00",
-   "title_original": "China Passenger-Car Sales Slump in October Despite Export Boom — Update",
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Wholesale prices of manufactured goods in China and the Middle East rise to the highest level in 4 years and 4 months due to the tense situation in the Middle East, rising 5.7% in October (Sankei Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWnNkSTdkZVV6dEx6YWpkaVU5Vl9nQ3o0LTFpS0lmUDFiWGc4MkVUdHhtT2paV1ZPN0F2Nk1JeG5DMlhyc3JJUzZhN0dHTGNOdEVJYVUxZnNDVlRlRE55Mksxb3FsR0ViT251NzUyNXNObXlyZklnZTVQd2RHVlk?oc=5",
+   "published_utc": "2026-11-09T07:50:44+00:00",
+   "title_original": "中国、中東情勢の緊迫化受け工業品卸売物価が4年4カ月ぶり高水準 10月は5.7％上昇（産経新聞）",
    "region": "china",
    "topics": [
-    "trade"
+    "inflation",
+    "industrial"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "5cea815b9c2cc121"
+   "id": "200d4471632f6986"
   },
   {
    "source_id": "tradingview_live",
@@ -446,6 +481,23 @@
    "live_wire": true,
    "manual": false,
    "id": "96aec8cb96a922fa"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Exclusive: Gallium oxide prepares to tackle power semiconductor market with 6-inch mass production and 8-inch breakthroughs",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakdDaUJxMWNQUXFabVpCcEhMbDdqOENsNjIyMVRyOGFtWE9UREQ0R2ItTmx4ZlZXcU55S05pa2oxdTRiWXFCbXU0SWo2QXhJOHZsaV9aamc3YUpNZzhYSHlQRkczd2t1NGZ2Y2pkMjJaWUxCVWczSHhFLVI3alFTMkswNVBxeW5WLUZVZ0VFSldxdkNHT2JxYlpicGRQSFZHcWhKRk56R0xMa0lWeHc?oc=5",
+   "published_utc": "2026-11-09T07:23:20+00:00",
+   "title_original": "Exclusive: Gallium oxide prepares to tackle power semiconductor market with 6-inch mass production and 8-inch breakthroughs",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "34ee7755d79028fb"
   },
   {
    "source_id": "investing_econ",
@@ -1637,23 +1689,6 @@
    "live_wire": true,
    "manual": false,
    "id": "778c0295a79fd7ab"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA OCT NON-FOOD PRICES +1.5% Y/Y VS +1.5% Y/Y SEP",
-   "url": "https://www.tradingview.com/news/dpa_afx:4e13fa5735a9b:0-china-oct-non-food-prices-1-5-y-y-vs-1-5-y-y-sep/",
-   "published_utc": "2026-11-09T01:48:28+00:00",
-   "title_original": "CHINA OCT NON-FOOD PRICES +1.5% Y/Y VS +1.5% Y/Y SEP",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6d162602a6671dd3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51947,41 +51982,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1626f01b495fff36"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjM3SC1iaHFNLTdkS2N5U3JVS3lMR0p4Q1ZTclVOa2RDbFpzR2E3R2I5UlFlYWlsWHJfeGlKSEpockRseEpCTGpsNFAzanBPUkVVa3FiUFNVeVZ3S0daZ2JRWGc3Zy04RmFSbFRHeU5kRy1HaGJ2ZmViUHlfYk5CN0xYMEhXb250eE41clpvVHF1RDhIRWF4Z1p0NS1rQmVtbjFNc2FjMzVTaTlvM24weWtzS1V4M1RVdHpXWVNCU2REdDVkd2FwZWQ1V1kxZUZU?oc=5",
-   "published_utc": "2026-10-14T19:03:43+00:00",
-   "title_original": "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "29aa30914190ecc1"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Times data said | The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYmRUbTVrN3dWM2hkUElJS1JfUkV2bkwwcWdRWFh4R2lXc3JhLU1nSGtQRDlvZF93SVFiUGpJV2c3NW5jZXVmZE9VS1p4d215UThyWjBqTEh5Q0hkMGVOUA?oc=5",
-   "published_utc": "2026-10-14T18:49:02+00:00",
-   "title_original": "时报数说 | 央行将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f09558ca20ea1f65"
   },
   {
    "source_id": "manual_ia",
