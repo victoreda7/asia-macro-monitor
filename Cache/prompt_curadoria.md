@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T02:52:42.670582+00:00
+Última coleta: 2026-11-09T03:02:44.206044+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
-  🇨🇳 China          875
+  🇨🇳 China          872
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  859
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
+  - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
+  - [japan] Japan Spent Record $50 Billion in Single Day to Bolster Yen
   - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
+  - [korea] Samsung Electronics, SK hynix trade mixed after two-day plunge last week
   - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
   - [japan] Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR
   - [korea] South Korean won gains most among subdued Asian FX
@@ -25,6 +29,7 @@ Total: 3000 manchetes
   - [china] China’s factory-gate inflation gains momentum in October, consumer price pressures stay muted
   - [japan] Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition
   - [korea] Citi: "If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the
+  - [korea] Citi: "If the semiconductor industry declines, interest rates will be cut in the second half of next year... I
   - [china] China Consumer Prices Flat In September
   - [china] CHINA OCT NON-FOOD PRICES +1.5% Y/Y VS +1.5% Y/Y SEP
   - [china] CHINA OCT FOOD PRICES -2.9% Y/Y VS -1.7% Y/Y SEP
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
   - [japan] Japan Says Three-Day Yen Intervention Lifted Yen in Summer
-  - [korea] NH Investment & Securities expects base interest rate to increase by 25bp in November
-  - [japan] Market intervention on July 30th: 7,975.6 billion yen, largest ever for yen buying intervention
-  - [korea] South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk
-  - [japan] BREAKING NEWS: Japan spent record 7.98 tril. yen in yen-buying intervention on July 30
-  - [japan] Japan FX intervention data underscores challenge of reversing weak yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T02:52:42+00:00",
+      "published_utc": "2026-11-09T03:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

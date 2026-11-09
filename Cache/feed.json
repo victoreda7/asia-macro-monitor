@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T02:52:42.670582+00:00",
- "collected_at_utc": "2026-11-09T02:52:42.670582+00:00",
+ "generated_at_utc": "2026-11-09T03:02:44.206044+00:00",
+ "collected_at_utc": "2026-11-09T03:02:44.206044+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 934,
-  "china": 875,
+  "china": 872,
   "taiwan": 332,
-  "korea": 859
+  "korea": 862
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:41:32+00:00"
+   "newest": "2026-11-09T01:44:07+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
    "newest": "2026-11-07T09:41:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T02:29:07+00:00"
+   "newest": "2026-11-09T02:42:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T02:06:23+00:00"
+   "newest": "2026-11-09T02:42:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T02:08:56+00:00"
+   "newest": "2026-11-09T02:55:16+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:26:00+00:00"
+   "newest": "2026-11-09T02:55:14+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 22,
+   "count": 24,
    "error": "",
    "newest": "2026-11-09T01:30:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T02:51:27+00:00"
+   "newest": "2026-11-09T03:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-09T02:01:58+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months",
+   "url": "https://www.tradingview.com/news/DJN_DN20261108001337_20261108001337:0-china-to-continue-to-suspend-24-additional-tariff-on-u-s-goods-for-two-months/",
+   "published_utc": "2026-11-09T03:02:00+00:00",
+   "title_original": "China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4961c9c635ccfe04"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xakxaQUVoYnp5MTI1M01EVUU4QkhCbHJ2a2RsYjh5UEQ5QThUeDl1Zl93d194eDZLMTBjTEpKcy13Q194WjJ5cjROME9UY1NfcnJoLUNseU1Ldw?oc=5",
+   "published_utc": "2026-11-09T02:55:14+00:00",
+   "title_original": "BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0306d8f5a1786e51"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
+   "url": "https://www.tradingview.com/news/DJN_DN20261108001303:0-japan-spent-record-50-billion-in-single-day-to-bolster-yen/",
+   "published_utc": "2026-11-09T02:53:00+00:00",
+   "title_original": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "11fa0d2755006ed1"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -359,6 +411,23 @@
    "live_wire": false,
    "manual": false,
    "id": "24c227c2e4445596"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix trade mixed after two-day plunge last week",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41MXhNQ2NzOXlaUDNjREhNOWduTWFmQkppUzhJZHNTazM2TzdIQUZtM29Bc3Rkc0Rua0tHUjF4ME9zRDhELVM3eVRUdmI4aWp5ZHc?oc=5",
+   "published_utc": "2026-11-09T02:32:14+00:00",
+   "title_original": "Samsung Electronics, SK hynix trade mixed after two-day plunge last week",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c41e50ddeb52414"
   },
   {
    "source_id": "investing_live",
@@ -480,6 +549,24 @@
    "live_wire": false,
    "manual": false,
    "id": "03e972be0ab4a3b4"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴시스",
+   "title_en": "Citi: \"If the semiconductor industry declines, interest rates will be cut in the second half of next year... It could be lowered to 2.5% per year in 2028.\"",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbm5Ec1BxYmVzY1Y0cGFOVVI0YlotSnZwempDanp2Ymx6M3NHV01acXptdnpDSmVENFhTRUJzOGprQ2M4NGpvMTJNYTZjcEM0b2lJTnEwYjE3OWNUS2ZUaGFzX0xRUGc4YzUycDhyNnlTYlFaV3dUadIBeEFVX3lxTFBFbm5Ec1BxYmVzY1Y0cGFOVVI0YlotSnZwempDanp2Ymx6M3NHV01acXptdnpDSmVENFhTRUJzOGprQ2M4NGpvMTJNYTZjcEM0b2lJTnEwYjE3OWNUS2ZUaGFzX0xRUGc4YzUycDhyNnlTYlFaV3dUaQ?oc=5",
+   "published_utc": "2026-11-09T01:53:43+00:00",
+   "title_original": "씨티 \"반도체 꺾이면, 내년 하반기 금리인하…2028년 연 2.5%까지 낮출 수도\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d30d9e463be3e7c"
   },
   {
    "source_id": "tradingview_live",
@@ -943,6 +1030,24 @@
    "live_wire": false,
    "manual": false,
    "id": "4b2e8d2bc298f79d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "재경일보",
+   "title_en": "Citi: “If semiconductors are sluggish, interest rates will be cut in the second half of 2027”: Economy",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EMXZCNnR3LWgyNkxXMXBCOE9uaVBZVkc1Nzk0Tk8ySE5aSjNtbHBVRXF4OU5FNGhWWW9PRUYxRHI0d0x1LXVWNS1CWQ?oc=5",
+   "published_utc": "2026-11-09T00:41:00+00:00",
+   "title_original": "씨티 “반도체 부진하면 2027년 하반기 금리 인하” : 경제",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1116bf9e61b8a607"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51875,113 +51980,6 @@
    "live_wire": true,
    "manual": false,
    "id": "42a6c4c37d3b808d"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-   "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
-   "published_utc": "2026-10-14T11:00:00+00:00",
-   "title_original": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2661a76747634fcc"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Bank of Japan's interest rate hike is ``0.5%,'' but the online bank is raising it ``0.6%!'' My husband gets angry because he took out a ``mortgage loan'' with a variable interest rate of ``40 million yen'' because it was ``cheap''! Why did the rate increase exceed the Bank of Japan's rate hike? Also check the impact (Financial Field)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMaEVhN0tLWG5MNVFaY1lMZ0ZGVHV3ZGVpZVVCVW01VFc2R3I1cU04cVdEMklpSXpHVFBTejkzNjZNbnNKQmZrVDhsUTJJYVc4Sm9kd2lxWlpYaTd5T1ZGZzE2UTJIV1pnTlhLS0I0eG50ZlZHYXpWWGlIcDlxeGc?oc=5",
-   "published_utc": "2026-10-14T10:50:06+00:00",
-   "title_original": "日銀の利上げは「0.5％」なのに、ネット銀行が「0.6％引き上げ」!?「安いから」と変動金利「4000万円」で“住宅ローン”を借りた夫が怒り！ なぜ「日銀の利上げ幅」を上回ったのか…影響も確認（ファイナンシャルフィールド）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "39c5677f0c524661"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Central Bank, latest release! In the first three quarters, the increase in social financing exceeded 27 trillion yuan, and bond and stock financing accelerated",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GTWtRMFNjVlZ1ekN1SmtmQ0F5WFdUZlpzSWhpT251aTJmcWl3aVRZLUx4UDVFX3RkdlpYc3ViM29hSVp6cFJRbS0yY2dxY0JFWFZtVUhlbTg2MF9WUm9nbg?oc=5",
-   "published_utc": "2026-10-14T10:46:00+00:00",
-   "title_original": "央行，最新发布！前三季度社融增量超27万亿元，债券、股票融资加快",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ae710024db581b0"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi held a press conference regarding the change of Minister of Agriculture, Forestry and Fisheries.",
-   "url": "https://www.kantei.go.jp/jp/105/statement/2026/1014kaiken.html",
-   "published_utc": "2026-10-14T10:30:00+00:00",
-   "title_original": "高市総理は農林水産大臣の交代についての会見を行いました",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "41d90174ad7fd5ad"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVllbEprX0R4c2ZQelJKQk1QSExrMUNhQjhwM2NDOXZFRURTTVBFRWpuZ0NGaGFIQnpCWGJ4MGZmNWhQVDVUNDU5TXQydkhpdFprOS1tQllyLUkxR3hyN0xLeWFwLUdQU0NBejE1OUczRm9XQTNoWjducGtPbTRYZWhST1dmX1ZxTUdJZHVnTl9sN0daU1Z1b3RDb2tKbXYwSUkzX0ZHaDRUTXgwQ0EyYk50QnJwSWU0UzZz?oc=5",
-   "published_utc": "2026-10-14T10:30:00+00:00",
-   "title_original": "Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe4156fa94d2281f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "IMF calls for deficit reduction in the US and for China to reduce dependence on exports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4600OS:0/",
-   "published_utc": "2026-10-14T10:26:25+00:00",
-   "title_original": "FMI pede redução do déficit nos EUA e que China diminua dependência das exportações",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "c21120940a9575ca"
   },
   {
    "source_id": "manual_ia",
