@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T01:42:43.901889+00:00
+Última coleta: 2026-11-09T01:52:43.645498+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          879
+  🇯🇵 Japão          935
+  🇨🇳 China          880
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  860
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] China Consumer Prices Flat In September
+  - [china] CHINA OCT NON-FOOD PRICES +1.5% Y/Y VS +1.5% Y/Y SEP
+  - [china] CHINA OCT FOOD PRICES -2.9% Y/Y VS -1.7% Y/Y SEP
+  - [china] CHINA OCT CPI +0.0% M/M VS +0.2% M/M SEP
+  - [china] CHINA OCT PPI +0.7% M/M VS +1.2% M/M SEP
+  - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
+  - [china] China's October producer inflation quickens further, consumer prices edge down
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7188 MON VS 6.7168
   - [china] China Oct Non-Food Prices +1.5% on Year
   - [china] China Oct Food Prices -2.9% On Year
@@ -31,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, J
   - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
+  - [japan] Japan Says Three-Day Yen Intervention Lifted Yen in Summer
   - [korea] NH Investment & Securities expects base interest rate to increase by 25bp in November
   - [japan] Market intervention on July 30th: 7,975.6 billion yen, largest ever for yen buying intervention
   - [korea] South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [china] The Chinese people are wiping out President Xi Jinping's ``misjudgment''...The tyranny of local governments th
   - [japan] Will the AI ​​bubble burst? & Thoughts on Trump's miscalculations etc. = Thoughts on the Bank of Japan's "lunc
   - [japan] ANA makes Air Do and Solaseed Air wholly owned subsidiaries... Each company complains of "real deficits on dom
-  - [japan] A major blunder at DoCoMo, where a series of troubles occurred in less than a month... Just when the president
-  - [taiwan] NSC tightens anti-infiltration measures
-  - [korea] Korea’s budget coffee chain Mega MGC dwarfs legacy brands despite Starbucks’ recovery
-  - [korea] Affiliated real estate trust companies have been in the red for the third consecutive year, with the..
-  - [japan] Consumption tax reduction bill Liberal Democratic Party Policy Research Council Chairman Kobayashi “deliberate
-  - [korea] With the stock market plummeting, the calculation of the Bank of Korea's interest rate hike is complicated... 
-  - [japan] Piles of old rice in the warehouse, sold at a loss
-  - [japan] Are prices in the area you live higher than the national average? Only nine prefectures have a higher rate, an
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T01:42:44+00:00",
+      "published_utc": "2026-11-09T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
