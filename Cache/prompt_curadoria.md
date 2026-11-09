@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T06:52:42.596918+00:00
+Última coleta: 2026-11-09T07:02:44.142725+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand
   - [japan] Government/BOJ yen buying intervention hits record high of approximately 8 trillion yen on July 30th (ABEMA TI
   - [japan] The Chiba Bank, Ltd. - To Buy Back Up To 1.09% Own Shares Worth 15 Billion Yen
   - [japan] Pola Orbis Holdings: Operating profit rose 21.3%; yen-driven FX gains lifted the FY outlook
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China October consumer price index +0.7% 1% lower for 4th consecutive month
   - [japan] Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue
   - [taiwan] Malaysia-Taiwan fraying ties threaten future chip investments
-  - [japan] Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T06:52:42+00:00",
+      "published_utc": "2026-11-09T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
