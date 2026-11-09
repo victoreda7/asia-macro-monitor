@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T01:32:44.211067+00:00
+Última coleta: 2026-11-09T01:34:31.973887+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
-  🇨🇳 China          878
+  🇨🇳 China          879
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  861
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7188 MON VS 6.7168
   - [china] China Oct Non-Food Prices +1.5% on Year
   - [china] China Oct Food Prices -2.9% On Year
   - [china] China Jan-Oct CPI +0.9% on Year
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung's Texas chip plant could begin trial runs in December
   - [korea] Will imported water bottles also be label-free?
   - [taiwan] Central bank has paid US$160 million to former Paraguayan president detained pending trial | International
-  - [korea] Kakao X's growth outlook takes shape ahead of split
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T01:32:44+00:00",
+      "published_utc": "2026-11-09T01:34:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
