@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T02:02:43.498238+00:00",
- "collected_at_utc": "2026-11-09T02:02:43.498238+00:00",
+ "generated_at_utc": "2026-11-09T02:12:44.613267+00:00",
+ "collected_at_utc": "2026-11-09T02:12:44.613267+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 935,
-  "china": 880,
-  "taiwan": 328,
-  "korea": 857
+  "japan": 933,
+  "china": 878,
+  "taiwan": 331,
+  "korea": 858
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T17:00:00+00:00"
+   "newest": "2026-11-09T01:45:32+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T01:33:26+00:00"
+   "newest": "2026-11-09T02:08:56+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T02:01:57+00:00"
+   "newest": "2026-11-09T02:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,80 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "newest": "2026-11-09T01:30:00+00:00"
+   "newest": "2026-11-09T02:01:58+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Producer Inflation Accelerates to Over Four-Year High",
+   "url": "https://www.tradingview.com/news/DJN_DN20261108001170:0-china-producer-inflation-accelerates-to-over-four-year-high/",
+   "published_utc": "2026-11-09T02:09:00+00:00",
+   "title_original": "China Producer Inflation Accelerates to Over Four-Year High",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e7ba542d13c48dca"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's factory-gate inflation gains momentum in October, consumer price pressures stay muted",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Q00Z:0-china-s-factory-gate-inflation-gains-momentum-in-october-consumer-price-pressures-stay-muted/",
+   "published_utc": "2026-11-09T02:02:43+00:00",
+   "title_original": "China's factory-gate inflation gains momentum in October, consumer price pressures stay muted",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2f7ef6f702d0fd12"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N037:0-mitsui-chemical-says-it-will-sell-shares-worth-up-to-150-billion-yen-to-help-finance-jsr-acquisition/",
+   "published_utc": "2026-11-09T02:02:18+00:00",
+   "title_original": "Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3bda5f6b2117493f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울뉴스통신",
+   "title_en": "Citi: \"If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the second half of next year.\"",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VT2pJLWhSU25mbFFkTmdLbFFRNkNMZ2FDTC1ZbXlsR2FVZVNkUHpNbGljVFJGbWJldGVxU2R2Vjc3cExZUHZCQmNrb2toOHphTnBtSGdnY0didHJvQkx3MndJemc2VGxieDB3?oc=5",
+   "published_utc": "2026-11-09T02:01:58+00:00",
+   "title_original": "씨티 \"반도체 수출 부진 시 한은 내년 하반기 기준금리 인하 가능성\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03e972be0ab4a3b4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -446,6 +516,23 @@
    "id": "12d880231659ff55"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzFxRFlCVENoUGdWV21IU195dmtQZnc3ZkJUVXhBVUJRbWUzS3dwRERuQzBELVFFZEl4N2VBU2c1eHZWVWFwMWpBSUhxdjlETU1QTUVUMFBGdDFqX3NwUHRfX092MlN5XzF2WXpIeElGS1BaYU13eXZUZEhYbEV5OE1QR2sweTFQam9XSnpnd0VpbWRRMzRFZnBCM3ZmX003S1E?oc=5",
+   "published_utc": "2026-11-09T01:45:32+00:00",
+   "title_original": "Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "060d375012188fa2"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
@@ -478,6 +565,23 @@
    "live_wire": false,
    "manual": false,
    "id": "855792e2578acef6"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEZiR2VrcWlEcmZFLVBnRmVad3hoLTJGbF9GSThFQmtWdzVFZWZiYlRXSzJ2UVA2UVpwRzMtd3cycUdaNWdfd0dtOFhLTHljNlBGZHVPVFR5LUVtNWFlUk1MdHBSRU9lblFBWl8xMXJaQVBmY1d2ZmpGVk1ibEFEZXBoLUc2ME1RNG93eGkwS0E?oc=5",
+   "published_utc": "2026-11-09T01:41:32+00:00",
+   "title_original": "Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fb44ce4f3103df34"
   },
   {
    "source_id": "tradingview_live",
@@ -720,6 +824,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d685be505a6dde5a"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWpKNER6aVI2QnZvRDRmT2ctVF9PdVhrZFZWOE1yVkY3SXVCMFkteEd3czZYdUJJdkR6b3dkekQ0RW9yWXB6cmx3b1AwaTdqMFQyUl9NY1FhSmpCZkxuckJ3LXM5NDFJQ2lqcjRFelQwdEItSEF6c1Q2aFQtVEZydHg0VQ?oc=5",
+   "published_utc": "2026-11-09T01:06:10+00:00",
+   "title_original": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8533d9c7ff648527"
   },
   {
    "source_id": "tradingview_live",
@@ -51863,125 +51984,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d67217a3832d0d66"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "[Win against inflation! Fun shareholder benefits] My head is full of benefits! Investor Akiyo Fujii / Benefits that can be used for travel, luxury, and everyday life / Recommended benefits for people who value dividends / How to find \"preferred stocks that will go up\" [Eiji Wentz's Money Farm] | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/961207?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-14T10:00:00+00:00",
-   "title_original": "【インフレに勝つ！楽しい株主優待】頭の中は優待でいっぱい！投資家・藤井明代さん／旅行・贅沢・日常で使える優待／配当重視の人におすすめの優待／「上がる優待株」の見つけ方【ウエンツ瑛士のマネーファーム】 | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "792874d866370acd"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Budget EVs attract attention at Paris Motor Show | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sN044UUQ4OXh2YzVYWFlnWENYSHRfMWFPRVk4a2NXZEc3QVowZXJXQmQ2ZzBCRnpyRndlM1F4LXpwU2ZXX3dCUkRfMTRETERLdUY4cmhsd3pOUjVZSloxQ0EwOA?oc=5",
-   "published_utc": "2026-10-14T09:59:30+00:00",
-   "title_original": "Budget EVs attract attention at Paris Motor Show | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f191229927fbac3"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Budget EVs attract attention at Paris Motor Show",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sN044UUQ4OXh2YzVYWFlnWENYSHRfMWFPRVk4a2NXZEc3QVowZXJXQmQ2ZzBCRnpyRndlM1F4LXpwU2ZXX3dCUkRfMTRETERLdUY4cmhsd3pOUjVZSloxQ0EwOA?oc=5",
-   "published_utc": "2026-10-14T09:59:30+00:00",
-   "title_original": "Budget EVs attract attention at Paris Motor Show",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "44038c6b725ae673"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Chinese New Yuan Loans Slow as Expected",
-   "url": "https://www.tradingview.com/news/te_news:591882:0-chinese-new-yuan-loans-slow-as-expected/",
-   "published_utc": "2026-10-14T09:53:16+00:00",
-   "title_original": "Chinese New Yuan Loans Slow as Expected",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fefe81da4ac1e213"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's New Yuan Loans Surged in September",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014002245:0-china-s-new-yuan-loans-surged-in-september/",
-   "published_utc": "2026-10-14T09:53:00+00:00",
-   "title_original": "China's New Yuan Loans Surged in September",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1ffb628f00e634e0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Metallurgical Corporation Of China Says January-September New Contracts Totalled 519.2 Billion Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4600TO:0-metallurgical-corporation-of-china-says-january-september-new-contracts-totalled-519-2-billion-yuan/",
-   "published_utc": "2026-10-14T09:50:11+00:00",
-   "title_original": "Metallurgical Corporation Of China Says January-September New Contracts Totalled 519.2 Billion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f1215fceaef08159"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4600TC:0-wuhan-tianyuan-group-to-invest-around-500-million-yuan-in-project/",
-   "published_utc": "2026-10-14T09:47:16+00:00",
-   "title_original": "Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8c5775aa40afa370"
   },
   {
    "source_id": "manual_ia",

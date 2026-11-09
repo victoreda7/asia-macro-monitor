@@ -7,24 +7,30 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T02:02:43.498238+00:00
+Última coleta: 2026-11-09T02:12:44.613267+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
-  🇨🇳 China          880
-  🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  857
+  🇯🇵 Japão          933
+  🇨🇳 China          878
+  🇹🇼 Taiwan         331
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [china] China Producer Inflation Accelerates to Over Four-Year High
+  - [china] China's factory-gate inflation gains momentum in October, consumer price pressures stay muted
+  - [japan] Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition
+  - [korea] Citi: "If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the
   - [china] China Consumer Prices Flat In September
   - [china] CHINA OCT NON-FOOD PRICES +1.5% Y/Y VS +1.5% Y/Y SEP
   - [china] CHINA OCT FOOD PRICES -2.9% Y/Y VS -1.7% Y/Y SEP
   - [china] CHINA OCT CPI +0.0% M/M VS +0.2% M/M SEP
   - [china] CHINA OCT PPI +0.7% M/M VS +1.2% M/M SEP
   - [china] China's consumer price index rose 0.7% in October (Kyodo News)
+  - [taiwan] Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips
   - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
   - [china] China’s October producer inflation quickens further, consumer prices edge down
+  - [taiwan] Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments
   - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
   - [china] On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7188 MON VS 6.7168
@@ -39,6 +45,7 @@ Total: 3000 manchetes
   - [korea] What will the interest rates be next year? “If the semiconductor industry collapses, the Bank of Korea will al
   - [japan] Japan stepped in to buy one-day record 7.98 tril. yen in July: gov't data
   - [japan] Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, J
+  - [taiwan] TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia
   - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
   - [japan] Japan Says Three-Day Yen Intervention Lifted Yen in Summer
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [japan] Monetary Base and the Bank of Japan's Transactions (Oct.)
   - [japan] Bank of Japan's Transactions with the Government (Oct.)
   - [japan] Market Operations by the Bank of Japan (Oct.)
-  - [japan] Consumption tax reduction bill will be debated in the House of Councilors the next day, leading to debate betw
-  - [korea] [Morning Report] “Despite the sharp decline in the stock market, the Bank of Korea is expected to raise intere
-  - [japan] BOJ chief Ueda sees ’some upside risks’ to inflation
-  - [japan] "AI that steals jobs" has not taken hold in Japan...The potential of "AI that enters between" has been seen at
-  - [japan] Five general trading companies all increase profits and record high profits...Despite the tailwind from high r
-  - [japan] Today's Japan-Vietnam summit meeting: Coordination of joint statement on important minerals, nuclear cooperati
-  - [korea] Hana Bank, ranked first in interest reduction per interest rate reduction request in the first half of the yea
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T02:02:43+00:00",
+      "published_utc": "2026-11-09T02:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
