@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T06:02:43.928998+00:00
+Última coleta: 2026-11-09T06:12:43.923739+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -17,11 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Passenger-Car Sales Slump in October Despite Export Boom
   - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
   - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
   - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
-  - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
+  - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [japan] Record retail JGB demand signals bets Japan yields are peaking
   - [china] China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk
   - [korea] Korean food exporters sign $15 million in preliminary deals at Melbourne fair
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
   - [japan] Foreign exchange intervention revealed to be “largest ever” at 8 trillion yen The government and the Bank of J
   - [china] China extends suspension of 24% tariff on US imports for two months
-  - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T06:02:44+00:00",
+      "published_utc": "2026-11-09T06:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
