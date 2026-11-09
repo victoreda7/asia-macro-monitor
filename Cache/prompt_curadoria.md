@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T04:42:41.903547+00:00
+Última coleta: 2026-11-09T04:52:43.326867+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          878
+  🇯🇵 Japão          930
+  🇨🇳 China          879
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bought yen at record pace in July
+  - [china] Asia FX gains as dollar steadies after strong U.S. jobs data; China CPI in focus
   - [china] China, Hong Kong stocks edge up as State Council vows to stabilise market
   - [china] China's CPI Data Shows Domestic Demand Remains Weak — Market Talk
   - [china] China’s factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips
   - [taiwan] Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments
   - [china] CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON
-  - [china] On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.
-  - [china] China's October producer inflation quickens further, consumer prices edge down
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T04:42:42+00:00",
+      "published_utc": "2026-11-09T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
