@@ -7,24 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T10:02:44.696085+00:00
+Última coleta: 2026-11-09T10:12:44.822828+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
-  🇨🇳 China          873
-  🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  869
+  🇨🇳 China          872
+  🇹🇼 Taiwan         332
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] China producer inflation hits four-year high as energy costs surge
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll
   - [japan] The approval rate for the high city cabinet is 53%, while 32% do not support it
+  - [taiwan] Ministry of Finance: Exports to the United States accounted for 31.7% in the first 10 months, setting a new hi
   - [taiwan] October's export record hit 5 major highlights, with 36 hits in a row, the longest growth cycle in history | S
+  - [korea] The Trade Remedy Review Committee of the Ministry of Economic Affairs made a positive determination of industr
+  - [taiwan] Taiwan President taps chip strengths for self-reliant space push
   - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project
   - [china] Chinese Producer Inflation Hits 5.7% for Post-Covid Era High
+  - [taiwan] KYEC warns AI demand is amplifying semiconductor supply-chain risks
   - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Exclusive: Gallium oxide prepares to tackle power semiconductor market with 6-inch mass production and 8-inch 
   - [china] China’s export growth expected to have remained strong in October: Reuters poll
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
-  - [japan] Chuo Warehouse Co Ltd - To Buy Back Up To 4.3% Of Own Shares Worth 1 Billion Yen
-  - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
-  - [japan] Japan stepped in to buy one-day record 7.98 tril. yen in July: gov't data
-  - [taiwan] TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand
-  - [japan] Government/BOJ yen buying intervention hits record high of approximately 8 trillion yen on July 30th (ABEMA TI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T10:02:44+00:00",
+      "published_utc": "2026-11-09T10:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
