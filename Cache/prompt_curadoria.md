@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T16:02:45.477211+00:00
+Última coleta: 2026-11-09T16:12:45.244762+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] MP Stock Rises as China Extends Rare-Earth Reprieve Ahead of Trump-Xi Meeting — Barrons.com
   - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Billion Series A to Expand from Motion Capture to Motion Data Infrastruc
   - [china] U.S. Extends Tariff Exclusions for 178 Chinese Product Categories
   - [china] China Longyuan Power Posts October 2026 Power Generation Up 22.64% To 6.9 Million Mwh
@@ -48,7 +49,6 @@ Total: 3000 manchetes
   - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
-  - [china] Building fire kills 14 in China's northern city of Taiyuan
   - [china] China Extends Pause on US Tariffs and Trade Curbs for Two Months
   - [china] China's consumer price index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel
   - [china] China Consumer Price Index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel p
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T16:02:45+00:00",
+      "published_utc": "2026-11-09T16:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
