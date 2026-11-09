@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T23:12:44.144021+00:00
+Última coleta: 2026-11-09T23:22:42.428722+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          876
+  🇯🇵 Japão          928
+  🇨🇳 China          875
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  866
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
   - [japan] Threat of trade curbs pushes Japan steel exports to three-decade low
   - [japan] Worst ranking of credit unions and credit unions for "deposit outflow"... 1st place decreased by 30%, more tha
+  - [japan] Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows
   - [china] House Democratic leader says lawmakers need answers about Nvidia and wants restrictions on chip sales to China
   - [china] House Democratic leader says lawmakers needs answers on Nvidia, wants China chip restrictions
   - [china] Taiyuan Investigates Deadly Fire at Mixed-Use High-Rise
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] October's export record hit 5 major highlights, with 36 hits in a row, the longest growth cycle in history | S
   - [korea] The Trade Remedy Review Committee of the Ministry of Economic Affairs made a positive determination of industr
   - [taiwan] Taiwan President taps chip strengths for self-reliant space push
-  - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T23:12:44+00:00",
+      "published_utc": "2026-11-09T23:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
