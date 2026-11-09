@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T00:52:42.217211+00:00
+Última coleta: 2026-11-09T01:02:43.861819+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
+  🇯🇵 Japão          931
   🇨🇳 China          875
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's July yen-buying intervention sets fresh daily record
+  - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
   - [korea] NH Investment & Securities expects base interest rate to increase by 25bp in November
   - [japan] Market intervention on July 30th: 7,975.6 billion yen, largest ever for yen buying intervention
   - [korea] South Korea's Economic Outlook Hinges on Chip Cycle — Market Talk
   - [japan] BREAKING NEWS: Japan spent record 7.98 tril. yen in yen-buying intervention on July 30
   - [japan] Japan FX intervention data underscores challenge of reversing weak yen
-  - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Monetary Base and the Bank of Japan's Transactions (Oct.)
   - [japan] Bank of Japan's Transactions with the Government (Oct.)
   - [japan] Market Operations by the Bank of Japan (Oct.)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan manufacturers lift profit outlooks on price hikes, weak yen
   - [japan] US sports investment fund RedBird hunts for tie-ups in Japan
   - [china] Why the central bank raised the foreign exchange deposit reserve ratio to stabilize the pace of appreciation
-  - [china] Big events of the week｜18 active ETFs come to a successful conclusion! The central bank raised the foreign exc
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T00:52:42+00:00",
+      "published_utc": "2026-11-09T01:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
