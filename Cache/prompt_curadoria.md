@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T03:12:43.948576+00:00
+Última coleta: 2026-11-09T03:22:43.992209+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          872
-  🇹🇼 Taiwan         332
+  🇯🇵 Japão          936
+  🇨🇳 China          871
+  🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Malaysia-Taiwan fraying ties threaten future chip investments
+  - [japan] Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion
   - [japan] Japan Spent Record $50 Billion in Single Day to Bolster Yen
+  - [china] China extends suspension of 24% tariff on US imports for two months
   - [china] Decision Effective 1:01 p.m. Local Time Tuesday, Customs Tariff Commission of the State Council Says
   - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
   - [china] China to Retain 10% Additional Tariff Rate on U.S. Goods for Two Months
   - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
+  - [japan] Foreign exchange intervention revealed to be “largest ever” at 8 trillion yen The government and the Bank of J
   - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
   - [korea] Samsung Electronics, SK hynix trade mixed after two-day plunge last week
   - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Citi: “Despite the decline in stock prices, we will raise the base interest rate this month… If the semiconduc
   - [china] Consumer prices in October 2026 increased by 0.7% year-on-year
   - [korea] What will the interest rates be next year? “If the semiconductor industry collapses, the Bank of Korea will al
-  - [japan] Japan stepped in to buy one-day record 7.98 tril. yen in July: gov't data
-  - [japan] Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, J
-  - [taiwan] TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia
-  - [japan] Japan's July yen-buying intervention sets fresh daily record
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T03:12:44+00:00",
+      "published_utc": "2026-11-09T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

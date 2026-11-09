@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T03:12:43.948576+00:00",
- "collected_at_utc": "2026-11-09T03:12:43.948576+00:00",
+ "generated_at_utc": "2026-11-09T03:22:43.992209+00:00",
+ "collected_at_utc": "2026-11-09T03:22:43.992209+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 872,
-  "taiwan": 332,
+  "japan": 936,
+  "china": 871,
+  "taiwan": 331,
   "korea": 862
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 25,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-09T09:11:01+08:00"
+   "newest": "2026-11-09T10:26:09+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T02:42:38+00:00"
+   "newest": "2026-11-09T03:06:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T02:42:38+00:00"
+   "newest": "2026-11-09T03:00:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T12:03:31+09:00"
+   "newest": "2026-11-09T12:13:04+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T03:12:04+00:00"
+   "newest": "2026-11-09T03:19:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T02:06:27+00:00"
+   "newest": "2026-11-09T02:54:49+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Malaysia-Taiwan fraying ties threaten future chip investments",
+   "url": "https://asia.nikkei.com/politics/international-relations/malaysia-taiwan-fraying-ties-threaten-future-chip-investments",
+   "published_utc": "2026-11-09T03:22:42.082291+00:00",
+   "title_original": "Malaysia-Taiwan fraying ties threaten future chip investments",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f708cc6730598f2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
+   "url": "https://www.tradingview.com/news/DJN_DN20261108001253:0-mitsui-chemicals-to-acquire-jsr-with-development-bank-of-japan-for-8-8-billion/",
+   "published_utc": "2026-11-09T03:18:00+00:00",
+   "title_original": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9e2db30495a34711"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7fe14dc86a746173"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China extends suspension of 24% tariff on US imports for two months",
+   "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-5010427",
+   "published_utc": "2026-11-09T03:06:54+00:00",
+   "title_original": "China extends suspension of 24% tariff on US imports for two months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c703ad2bf31c41fc"
   },
   {
    "source_id": "tradingview_live",
@@ -429,6 +480,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0306d8f5a1786e51"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Foreign exchange intervention revealed to be “largest ever” at 8 trillion yen The government and the Bank of Japan implemented it on July 30th This year’s total is 27 trillion yen The first Japan-U.S. cooperative intervention in 28 years continues historic yen depreciation (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWnlvRW1SalNrVE8tMUtJN1c4YlA2MFlpbVd2MjkwS0Fvd2RvWmUwT01sMzU3anBJUVJmSkhZbExTRXM4cjJMci1OZTd6UktrQTl6M3pubXJMbkYycjdJQ19DdWV1VnBicEIwTmRTb1JmTFBzQy1qM1hvaFFQRXc?oc=5",
+   "published_utc": "2026-11-09T02:54:49+00:00",
+   "title_original": "為替介入“過去最大”8兆円規模と判明 政府・日銀が7月30日に実施 今年合計では27兆円規模 28年ぶり日米協調介入も歴史的な円安続く（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6114819d37c63b1a"
   },
   {
    "source_id": "nikkei_asia",
@@ -933,7 +1002,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OMVBhazRyYnU1SGpkN1ZibXJzbkJaNVo4aloyWVNxOXc5YW5IOWg0MHowSDFuLUVndEFmR0V4VkljMHMtMDkyZHdUTVExMTduWlJuTkZycFZabUNILUQ5T1ZkYUZjSU5LSGRXbEZ6WG52OWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
    "published_utc": "2026-11-09T01:30:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -944,7 +1013,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b4f2d0b96bed381"
+   "id": "3739150292063d06"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2555,8 +2624,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -2570,7 +2639,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -2900,8 +2969,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -2915,7 +2984,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3057,8 +3126,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -3072,7 +3141,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3195,8 +3264,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -3209,7 +3278,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -51912,74 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2580ffde44503b70"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "MarketWatch",
-   "title_en": "What analysts are watching with key semiconductor maker TSMC set to report results",
-   "url": "https://www.tradingview.com/news/DJN_SN20261014004831:0-what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results/",
-   "published_utc": "2026-10-14T11:36:00+00:00",
-   "title_original": "What analysts are watching with key semiconductor maker TSMC set to report results",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a7c3220a311ef267"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Business Line",
-   "title_en": "India’s Russian crude imports fall 29% from July peak as China boosts buying",
-   "url": "https://www.tradingview.com/news/moodys:fa54eefeda7f1:0-india-s-russian-crude-imports-fall-29-from-july-peak-as-china-boosts-buying/",
-   "published_utc": "2026-10-14T11:21:09+00:00",
-   "title_original": "India’s Russian crude imports fall 29% from July peak as China boosts buying",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7638a69f42dc88b1"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Lai calls for progress on unsigned Taiwan-Canada trade framework",
-   "url": "https://focustaiwan.tw/politics/202610140019",
-   "published_utc": "2026-10-14T11:09:51+00:00",
-   "title_original": "Lai calls for progress on unsigned Taiwan-Canada trade framework",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4084197782cb95d3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4600QN:0/",
-   "published_utc": "2026-10-14T11:04:47+00:00",
-   "title_original": "China compra de 8 a 10 cargas de soja dos EUA após a cúpula Trump-Xi, dizem fontes",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "64d4e0d096ec4d96"
   },
   {
    "source_id": "manual_ia",
