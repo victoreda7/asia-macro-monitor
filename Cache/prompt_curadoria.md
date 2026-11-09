@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T11:52:44.851255+00:00
+Última coleta: 2026-11-09T12:02:42.067744+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -17,12 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”
   - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
   - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
   - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
   - [taiwan] Ministry of Finance: Taiwan’s export scale will surpass Japan’s this year, ranking “8th and 7th” in the world
-  - [japan] Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”
   - [china] China producer inflation hits four-year high as energy costs surge
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll
   - [japan] The approval rate for the high city cabinet is 53%, while 32% do not support it
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T11:52:45+00:00",
+      "published_utc": "2026-11-09T12:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
