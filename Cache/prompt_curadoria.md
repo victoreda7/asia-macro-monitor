@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T18:22:43.603981+00:00
+Última coleta: 2026-11-09T18:32:44.867773+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          871
+  🇯🇵 Japão          928
+  🇨🇳 China          873
   🇹🇼 Taiwan         333
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
   - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
+  - [china] China plans to boost yuan use in shipping risk-pricing, reduce reliance on West
   - [taiwan] Ministry of Finance: Taiwan’s export scale will surpass Japan’s this year, ranking “8th and 7th” in the world
   - [china] China producer inflation hits four-year high as energy costs surge
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
   - [china] China Extends Pause on US Tariffs and Trade Curbs for Two Months
-  - [china] China's consumer price index rose 0.7% in October, positive for 13 consecutive months, affected by rising fuel
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T18:22:43+00:00",
+      "published_utc": "2026-11-09T18:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
