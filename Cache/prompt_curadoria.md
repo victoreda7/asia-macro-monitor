@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T03:02:44.206044+00:00
+Última coleta: 2026-11-09T03:12:43.948576+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
@@ -17,9 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
-  - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
   - [japan] Japan Spent Record $50 Billion in Single Day to Bolster Yen
+  - [china] Decision Effective 1:01 p.m. Local Time Tuesday, Customs Tariff Commission of the State Council Says
+  - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
+  - [china] China to Retain 10% Additional Tariff Rate on U.S. Goods for Two Months
+  - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
   - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
   - [korea] Samsung Electronics, SK hynix trade mixed after two-day plunge last week
   - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, J
   - [taiwan] TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia
   - [japan] Japan's July yen-buying intervention sets fresh daily record
-  - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
-  - [japan] Japan Says Three-Day Yen Intervention Lifted Yen in Summer
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T03:02:44+00:00",
+      "published_utc": "2026-11-09T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
