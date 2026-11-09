@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T01:34:31.973887+00:00
+Última coleta: 2026-11-09T01:42:43.901889+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
+  🇯🇵 Japão          933
   🇨🇳 China          879
-  🇹🇼 Taiwan         329
+  🇹🇼 Taiwan         328
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
@@ -24,6 +24,10 @@ Total: 3000 manchetes
   - [china] China Oct CPI 0.0% on Month
   - [japan] Japan MOF To Auction Y250.0B Of 10-Year CPI-Indexed Bonds Nov 16
   - [china] China Oct CPI +0.7% on Year; Market Expected +0.8%
+  - [korea] Citi: “Despite the decline in stock prices, we will raise the base interest rate this month… If the semiconduc
+  - [china] Consumer prices in October 2026 increased by 0.7% year-on-year
+  - [korea] What will the interest rates be next year? “If the semiconductor industry collapses, the Bank of Korea will al
+  - [japan] Japan stepped in to buy one-day record 7.98 tril. yen in July: gov't data
   - [japan] Berkshire Hathaway Mandates Mizuho And Bank Of America Securities For Yen Denominated Unsecured Senior Bond, J
   - [japan] Japan's July yen-buying intervention sets fresh daily record
   - [japan] Record-breaking yen buying intervention of 7.9 trillion yen on July 30th
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] With the stock market plummeting, the calculation of the Bank of Korea's interest rate hike is complicated... 
   - [japan] Piles of old rice in the warehouse, sold at a loss
   - [japan] Are prices in the area you live higher than the national average? Only nine prefectures have a higher rate, an
-  - [china] China's surge in new energy vehicle exports raises concerns about after-sales service pressure in the next thr
-  - [korea] Samsung's Texas chip plant could begin trial runs in December
-  - [korea] Will imported water bottles also be label-free?
-  - [taiwan] Central bank has paid US$160 million to former Paraguayan president detained pending trial | International
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T01:34:32+00:00",
+      "published_utc": "2026-11-09T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

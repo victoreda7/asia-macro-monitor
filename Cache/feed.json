@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T01:34:31.973887+00:00",
- "collected_at_utc": "2026-11-09T01:34:31.973887+00:00",
+ "generated_at_utc": "2026-11-09T01:42:43.901889+00:00",
+ "collected_at_utc": "2026-11-09T01:42:43.901889+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 932,
+  "japan": 933,
   "china": 879,
-  "taiwan": 329,
+  "taiwan": 328,
   "korea": 860
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T00:03:12+00:00"
+   "newest": "2026-11-09T01:26:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 21,
+   "count": 24,
    "error": "",
-   "newest": "2026-11-06T13:34:00+00:00"
+   "newest": "2026-11-09T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T08:39:48+00:00"
+   "newest": "2026-11-08T08:40:14+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-07T12:18:00+00:00"
+   "newest": "2026-11-07T15:03:37+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T01:33:06+00:00"
+   "newest": "2026-11-09T01:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "newest": "2026-11-09T00:29:55+00:00"
+   "newest": "2026-11-09T01:30:00+00:00"
   }
  ],
  "items": [
@@ -462,6 +462,76 @@
    "live_wire": true,
    "manual": false,
    "id": "88e9f4b175bf98cb"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "이투데이",
+   "title_en": "Citi: “Despite the decline in stock prices, we will raise the base interest rate this month… If the semiconductor industry plummets, we will ‘pivot’ next year.”",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PWURKTkVGOUpHbktSQkVGMi1GOUFfZEZrcFZQVjZjSDNYR1F5eWtkTDJOdGNUY0haUXR2UzFycVVsRFNhZ2lRNExBS3h5MTB6Q3JUdg?oc=5",
+   "published_utc": "2026-11-09T01:30:00+00:00",
+   "title_original": "씨티 \"주가 하락에도 이달 기준금리 인상⋯반도체 급락시엔 내년 '피벗'\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9cc4ea0db5ab09dc"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OMVBhazRyYnU1SGpkN1ZibXJzbkJaNVo4aloyWVNxOXc5YW5IOWg0MHowSDFuLUVndEFmR0V4VkljMHMtMDkyZHdUTVExMTduWlJuTkZycFZabUNILUQ5T1ZkYUZjSU5LSGRXbEZ6WG52OWc?oc=5",
+   "published_utc": "2026-11-09T01:30:00+00:00",
+   "title_original": "2026年10月份居民消费价格同比上涨0.7%",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4b4f2d0b96bed381"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "What will the interest rates be next year? “If the semiconductor industry collapses, the Bank of Korea will also turn around” Citibank analysis",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RSkZSZ0ZxbmF4aEVBTlgzWmlwUUk4eHljWEtVWmxGWllTTWpkakhXekxfaE9MVi16azJCVVlyVXBLNEl2WTlneTNGS3A1TDV3OHc?oc=5",
+   "published_utc": "2026-11-09T01:26:41+00:00",
+   "title_original": "내년 금리는 어떻게 될까…“반도체 꺾이면 한은도 돌아선다” 씨티銀 분석",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3ca0bd115a9228b1"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan stepped in to buy one-day record 7.98 tril. yen in July: gov't data",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMUpYejFLdktScklsU3QxMXpBUDN2VE9HaW9leHR5d05TWk9ZYWtRZ2lQYUtWLU0zYW9TSEdYM2d6aXdoTGpiWnZOdHFVcE96bXRLWkVBTW0xUQ?oc=5",
+   "published_utc": "2026-11-09T01:26:00+00:00",
+   "title_original": "Japan stepped in to buy one-day record 7.98 tril. yen in July: gov't data",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2733c51a3bc8466"
   },
   {
    "source_id": "tradingview_live",
@@ -9416,6 +9486,24 @@
    "id": "1063ec9b96da5f29"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "First time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio, and the offshore RMB depreciated by more than 280 points against the US dollar during the day, hitting 6.675.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WNVdZX1QzOV9ZZmNMdnNvdHVhc016eDYweWstaHdnOXJ3aTJkZE9YYVRqbVhDYUtHMFBERlhzVTZsdDJDUmZSRkZOcE5QRFdDajd2RGNRVDhHZEtSR0JaWXVhbGJhQQ?oc=5",
+   "published_utc": "2026-11-03T14:34:05+00:00",
+   "title_original": "近五年首次！央行出手上调外汇存款准备金率 离岸人民币兑美元日内贬超280点触及6.675",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "54ea73e83f8554d6"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Global central banks purchased gold at the fastest pace in 2 years in the third quarter, China topped the list with an increase of 63 tons | International",
@@ -9791,24 +9879,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9a472a676bbd5a7c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "First time in nearly five years! The central bank raised the foreign exchange deposit reserve ratio, and the offshore RMB depreciated by more than 280 points against the US dollar during the day, hitting 6.675.",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfelR2R200YVFxX2oyMWZPYVpveFFkS2tITU55ejZZSm1WOEhmT2xuT21GZFRyQktZdFFMTmpzQ0lxOW4tYzRtSw?oc=5",
-   "published_utc": "2026-11-03T10:11:00+00:00",
-   "title_original": "近五年首次！央行出手上调外汇存款准备金率，离岸人民币兑美元日内贬超280点触及6.675",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7bf295f5cfc9376b"
   },
   {
    "source_id": "investing_live",
@@ -51913,74 +51983,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c43165de6bfcb487"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The Ministry of Finance and Economy announced a plan to foster the K-beauty industry incorporating a..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HUVlPOUJhWXFsVjM0YzU2aHhvaGtXUWtucWU4ZF83UTFnNHZ1eU9zd2JjY0FyUXNJVU5RMVBmZFQ3Sm13LTVzRTIxN0pVcU5pSWc?oc=5",
-   "published_utc": "2026-10-14T08:38:48+00:00",
-   "title_original": "The Ministry of Finance and Economy announced a plan to foster the K-beauty industry incorporating a..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "37708cc42d31c4c3"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Kospi rebound fizzles as foreign selling hits chips again",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SX04tR3gwWk41b0FaTFo1SFg1WGhSbjRLRGdESVBvY0trZU5xU240TC1LUTlHbDlTX2U0TXlWYjVYQVNrU1F3VFV6T0Z6bmRDZmlTR2pUM0pSN09rNS1qc3pDRGxHQnlhNVRVTTFhZHROX3lKZkdGTjdR?oc=5",
-   "published_utc": "2026-10-14T08:34:00+00:00",
-   "title_original": "Kospi rebound fizzles as foreign selling hits chips again",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75f8a478c82a2192"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Surging China Exports Push Trade Surplus Toward Fresh Record",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWVSSF96T3R5Ry1QeGlWQmFMV0dyLW9EYjNyek03QkZTOXlheVVvNW0xNVNSZ1F5RW84OERGS0RlLVhvdE9ON3d4eHQ5S3UtWml5Y3pTS0NaX00xSGV0UkVpS3YxY3ZidU80dHIzZVdrcmphYnhNcldOY0VvUlJNWWQ3eFNrb3pnNVdhQV9HY1FYZlVFUmVlb0diVmhZam1GaHVxcUxyRWhQajdnVkhlVk1iTEE?oc=5",
-   "published_utc": "2026-10-14T08:28:12+00:00",
-   "title_original": "Surging China Exports Push Trade Surplus Toward Fresh Record",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "50965c56ac4f1a79"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Tsang Yow's semiconductor revenue share reaches 12%",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOekp0SDZWN1JjRjNjODVqUlpVS0pNZThPN2FJQ2RFQWE1Yks0UzV4LV9JMFdsUkJ3bHY2OU5LM2NkSEl2LTY0NGc4a29RbHNhUk5YN21pc0p5YUZRRkNIM3RfYTdXaWd0dFA0aGZkNlJxcWREMGFrWkNlRWtac2lJS3NURmxROXRHczV6RGg3cG0xa3Zh?oc=5",
-   "published_utc": "2026-10-14T08:26:00+00:00",
-   "title_original": "Tsang Yow's semiconductor revenue share reaches 12%",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "edd2871f3bbe56aa"
   },
   {
    "source_id": "manual_ia",
