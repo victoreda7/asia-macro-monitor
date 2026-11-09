@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-11-09T13:42:43.975492+00:00",
- "collected_at_utc": "2026-11-09T13:42:43.975492+00:00",
+ "generated_at_utc": "2026-11-09T13:52:50.768209+00:00",
+ "collected_at_utc": "2026-11-09T13:52:50.768209+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
-  "china": 873,
+  "japan": 926,
+  "china": 875,
   "taiwan": 333,
-  "korea": 865
+  "korea": 866
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -123,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T12:36:44+00:00"
+   "newest": "2026-11-09T13:50:02+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T05:50:19+00:00"
+   "newest": "2026-11-09T05:56:28+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -219,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T12:23:09+00:00"
+   "newest": "2026-11-09T12:54:20+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -228,6 +220,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-09T08:09:45+00:00"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-09T03:24:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T13:41:22+00:00"
+   "newest": "2026-11-09T13:52:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T12:10:43+00:00"
+   "newest": "2026-11-09T09:08:45+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T12:42:00+00:00"
+   "newest": "2026-11-09T12:11:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109005890:0-japanese-yen-likely-to-gain-on-boj-rate-rise-prospects-market-talk/",
+   "published_utc": "2026-11-09T13:49:00+00:00",
+   "title_original": "Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "58fa6d0e13f3827c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Beijing Orient EcoEnergy's LP Vehicle Signs 912.5 Million Yuan GPU Card Purchase Contract",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Q10T:0-beijing-orient-ecoenergy-s-lp-vehicle-signs-912-5-million-yuan-gpu-card-purchase-contract/",
+   "published_utc": "2026-11-09T13:38:08+00:00",
+   "title_original": "Beijing Orient EcoEnergy's LP Vehicle Signs 912.5 Million Yuan GPU Card Purchase Contract",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5a8efc023882204b"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -2015,23 +2050,6 @@
    "id": "3f708cc6730598f2"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001253:0-mitsui-chemicals-to-acquire-jsr-with-development-bank-of-japan-for-8-8-billion/",
-   "published_utc": "2026-11-09T03:18:00+00:00",
-   "title_original": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9e2db30495a34711"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "High-rise residential fire kills 14 in China's northern city of Taiyuan",
@@ -2064,23 +2082,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d35f3478de9cbc6b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001345:0-japan-spent-record-50-billion-in-single-day-to-bolster-yen/",
-   "published_utc": "2026-11-09T03:08:00+00:00",
-   "title_original": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7fe14dc86a746173"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3523,6 +3524,23 @@
    "id": "0b83d2540c70e951"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "While the Democratic Party of Korea won the U.S. midterm elections and warned of tightening regulati..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oZFdqb1RsN24yQUJ5cnFraGRZd1R5b3ZBQWxEYUlsT0FvQmIxVlhHQXFXU1F6clpKZTZqUjFocGdlRno0bmUyQlJCWEdJZVpweVE?oc=5",
+   "published_utc": "2026-11-07T00:13:19+00:00",
+   "title_original": "While the Democratic Party of Korea won the U.S. midterm elections and warned of tightening regulati..",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0233e925d9b0946d"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Governor warns of upward swing in prices, saying there are “many challenges” even after reaching 2% (Kyodo News)",
@@ -4007,8 +4025,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -4022,7 +4040,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -4352,8 +4370,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -4367,7 +4385,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4509,8 +4527,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4524,7 +4542,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -7373,6 +7391,23 @@
    "id": "453b64e772fd6b12"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "The three-month buyout reverse repurchase volume reduction is continued, and the central bank's \"peak cutting and valley filling\" net withdrawal of 200 billion",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YOU9SVGdDek9xaEtkWHg0Y3lxYkhGUTJjVEQtODdMd1dZSXBqWDRhNkFkOE9HWEhiSVBKNUtwclhKNTV0Ui1fR0ZMN2w?oc=5",
+   "published_utc": "2026-11-05T08:04:56+00:00",
+   "title_original": "3个月买断式逆回购缩量续作，央行“削峰填谷”净回笼2000亿",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "812026373d15c4a0"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment",
@@ -7904,24 +7939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de82a004de59991d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
-   "published_utc": "2026-11-05T04:19:41+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed2a6680a0d80a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -9199,6 +9216,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
+   "published_utc": "2026-11-04T16:03:02+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5faf56004dbf3216"
   },
   {
    "source_id": "investing_econ",
@@ -51944,42 +51979,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b42461fcae973db2"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock prices temporarily fell by more than 3,000 yen against the backdrop of expectations for a US interest rate hike",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59563",
-   "published_utc": "2026-10-15T01:59:25+00:00",
-   "title_original": "株価 一時3000円以上値下がり 米利上げ観測など背景",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ee6dc09beb323e8"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "BOJ policymaker warns against being overly cautious on rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3BFbmZRbVlmMmlaa2xiSUE0bnpSYjh4dERWcEtsNUNPUFZKdkV0VUd2Y2x1V0VIQ1ZGSll0RzdVMnNSa05uVkJ5eFdtdk1NVXpLbXc5cDRNRGlNb296MUZGRWlQU0xUZ3R5THhrUDAzVTVHQ0N3MDFvcWxfODhaVmhfT2QyU01ISEY4M0RUTGhwT29uTDNEcjZoR3g4UFhOOEhEWFV6SkJFX0JLM25mbVY2c1lnVm9ZN2ZOTVJZSHM2Y2wx?oc=5",
-   "published_utc": "2026-10-15T01:56:40+00:00",
-   "title_original": "BOJ policymaker warns against being overly cautious on rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b49c3989398a6e9"
   },
   {
    "source_id": "manual_ia",

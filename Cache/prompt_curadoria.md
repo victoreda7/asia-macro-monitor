@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T13:42:43.975492+00:00
+Última coleta: 2026-11-09T13:52:50.768209+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          873
+  🇯🇵 Japão          926
+  🇨🇳 China          875
   🇹🇼 Taiwan         333
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk
+  - [china] Beijing Orient EcoEnergy's LP Vehicle Signs 912.5 Million Yuan GPU Card Purchase Contract
   - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
   - [japan] Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structur
   - [china] China extends US trade truce by two months
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Car Exports Forecast to Slow From ‘Supercharged’ Pace
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
   - [japan] Russia’s Japan Tobacco Grab Is Risk for Takaichi’s Spending Plan
-  - [taiwan] AI chip testing demands lift Taiwan's wafer testing specialist HTSI as October revenue surges 62%
-  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T13:42:44+00:00",
+      "published_utc": "2026-11-09T13:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
