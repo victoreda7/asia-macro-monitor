@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T22:12:47.849976+00:00
+Última coleta: 2026-11-09T22:22:42.616832+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
+  🇯🇵 Japão          926
   🇨🇳 China          875
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
   - [japan] Threat of trade curbs pushes Japan steel exports to three-decade low
   - [japan] Worst ranking of credit unions and credit unions for "deposit outflow"... 1st place decreased by 30%, more tha
   - [china] House Democratic leader says lawmakers need answers about Nvidia and wants restrictions on chip sales to China
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project
-  - [china] Chinese Producer Inflation Hits 5.7% for Post-Covid Era High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T22:12:48+00:00",
+      "published_utc": "2026-11-09T22:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

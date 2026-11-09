@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T22:12:47.849976+00:00",
- "collected_at_utc": "2026-11-09T22:12:47.849976+00:00",
+ "generated_at_utc": "2026-11-09T22:22:42.616832+00:00",
+ "collected_at_utc": "2026-11-09T22:22:42.616832+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 927,
+  "japan": 926,
   "china": 875,
   "taiwan": 332,
-  "korea": 866
+  "korea": 867
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T19:14:14+00:00"
+   "newest": "2026-11-09T21:29:22+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T21:50:09+00:00"
+   "newest": "2026-11-09T22:12:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T20:54:22+00:00"
+   "newest": "2026-11-09T22:12:57+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T21:42:15+00:00"
+   "newest": "2026-11-09T22:18:40+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T22:12:11+00:00"
+   "newest": "2026-11-09T22:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-09T14:53:24+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:74a68ebc90055:0-sk-hynix-inc-stock-12-month-price-target-cut-to-krw-3161025-43-implies-179-upside/",
+   "published_utc": "2026-11-09T22:20:00+00:00",
+   "title_original": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dfec49ada82c46c8"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1859,23 +1877,6 @@
    "id": "72554f74d8d860d2"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q05X:0-mirait-one-corp-says-it-will-buy-back-up-to-0-91-of-own-shares-worth-2-billion-yen/",
-   "published_utc": "2026-11-09T06:00:58+00:00",
-   "title_original": "Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d2e11d07f3df3e91"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Chinese central bank pledge to probe Solana shows crypto crackdown is continuing",
@@ -3138,6 +3139,24 @@
    "id": "122bf16cc929319d"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-11-08T05:29:27+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "China's surge in new energy vehicle exports raises concerns about after-sales service pressure in the next three years | Cross-Strait",
@@ -4214,8 +4233,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -4229,7 +4248,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -4559,8 +4578,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -4574,7 +4593,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4716,8 +4735,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4731,7 +4750,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -9282,24 +9301,6 @@
    "live_wire": false,
    "manual": false,
    "id": "00628f831f38c805"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-11-04T20:46:27+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "gn_jp_yahoo",
