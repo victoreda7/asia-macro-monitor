@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T03:22:43.992209+00:00
+Última coleta: 2026-11-09T03:32:43.461886+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          936
-  🇨🇳 China          871
+  🇯🇵 Japão          934
+  🇨🇳 China          873
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  862
 
@@ -24,6 +24,8 @@ Total: 3000 manchetes
   - [china] Decision Effective 1:01 p.m. Local Time Tuesday, Customs Tariff Commission of the State Council Says
   - [china] China to Continue to Suspend 24% Additional Tariff on U.S. Goods for Two Months
   - [china] China to Retain 10% Additional Tariff Rate on U.S. Goods for Two Months
+  - [china] Chinese consumer prices rise 0.7%, domestic demand slumps, below 1% for 4 consecutive months October (Jiji Pre
+  - [china] China's October price rise of 0.7%, growth rate slowing (Kyodo News)
   - [japan] BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen
   - [japan] Foreign exchange intervention revealed to be “largest ever” at 8 trillion yen The government and the Bank of J
   - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
@@ -33,6 +35,7 @@ Total: 3000 manchetes
   - [korea] South Korean won gains most among subdued Asian FX
   - [china] China Producer Inflation Accelerates to Over Four-Year High
   - [china] China’s factory-gate inflation gains momentum in October, consumer price pressures stay muted
+  - [china] China’s imported inflation accelerates as PPI up most since 2022 amid Iran war
   - [japan] Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition
   - [korea] Citi: "If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the
   - [korea] Citi: "If the semiconductor industry declines, interest rates will be cut in the second half of next year... I
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Oct CPI 0.0% on Month
   - [japan] Japan MOF To Auction Y250.0B Of 10-Year CPI-Indexed Bonds Nov 16
   - [china] China Oct CPI +0.7% on Year; Market Expected +0.8%
-  - [korea] Citi: “Despite the decline in stock prices, we will raise the base interest rate this month… If the semiconduc
-  - [china] Consumer prices in October 2026 increased by 0.7% year-on-year
-  - [korea] What will the interest rates be next year? “If the semiconductor industry collapses, the Bank of Korea will al
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T03:22:44+00:00",
+      "published_utc": "2026-11-09T03:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

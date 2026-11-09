@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T03:22:43.992209+00:00",
- "collected_at_utc": "2026-11-09T03:22:43.992209+00:00",
+ "generated_at_utc": "2026-11-09T03:32:43.461886+00:00",
+ "collected_at_utc": "2026-11-09T03:32:43.461886+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 936,
-  "china": 871,
+  "japan": 934,
+  "china": 873,
   "taiwan": 331,
   "korea": 862
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:37:00+00:00"
+   "newest": "2026-11-09T02:53:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
-   "newest": "2026-11-07T09:41:00+00:00"
+   "newest": "2026-11-09T03:24:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T00:07:54+00:00"
+   "newest": "2026-11-09T02:35:09+00:00"
   },
   {
    "source_id": "ked_global",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T03:49:00+00:00"
+   "newest": "2026-11-09T01:46:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T14:30:20+00:00"
+   "newest": "2026-11-09T02:05:49+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T03:19:14+00:00"
+   "newest": "2026-11-09T03:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T02:54:49+00:00"
+   "newest": "2026-11-09T02:59:52+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -464,6 +464,41 @@
    "id": "c781b0372f3f1c73"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Chinese consumer prices rise 0.7%, domestic demand slumps, below 1% for 4 consecutive months October (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yY0RKU1RabG4weDN6SUxob1JzWU5OUEpYT3A5U09nSE9UbDNPQ19xVTIxSUNtV3BlLXkzWk9TUks0MWdlUkR0TURoSDAxNUU4S2l6Vk0zcE1uNnhrX3FvLXR3UEMyQmZPM2hVTGVSSEU0ZXhoeTJWOF9heE9NWTQ?oc=5",
+   "published_utc": "2026-11-09T02:59:52+00:00",
+   "title_original": "中国消費者物価、0．7％上昇 内需低迷、4カ月連続1％割れ 10月（時事通信）",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d6da381ca786a8cf"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "China's October price rise of 0.7%, growth rate slowing (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxWHdIQkROWTE4STg1SjZ3SjZHaEgycUlWWkl3VFdkclNEUWh1WktFbDg1dTJkeUhoOHpZNm1RM2dFODN3OV9IRXlaVlVKU1JHMjVUREhZREVJaXVidXZ4cWF0dDBZLWd4em9PZklST3ZCeU9Mc1p6azJSODZaR0k?oc=5",
+   "published_utc": "2026-11-09T02:56:05+00:00",
+   "title_original": "中国10月物価0.7％上昇 伸び率縮小（共同通信）",
+   "region": "china",
+   "topics": [
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "28307f0baa55b38d"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Mitsui Chemicals to buy chip material supplier JSR for 1.84 tril. yen",
@@ -617,6 +652,24 @@
    "live_wire": false,
    "manual": false,
    "id": "12871dc6a8d89f21"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China’s imported inflation accelerates as PPI up most since 2022 amid Iran war",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFRCVmdLTzF5aFZWMWRoUWkzWEgwZ0xwLUhkVFBGT3gzRlZqaW1pUlJ5Ui1lTzBRY05Fd1FQQXdCblZWU1VIVHhQR0Izd1RKMFJFNXpnQ3kxM3pNQkw2dTlseDBqRzdobHJkb0tyd0lPNTJDcnJPalhmVmNPaFBmOXlFaE1VWVc4U2s1NUNuNDJKLUdMVkc0Z0lhQ0djbkxGbTJMX2dsOTBjZWt3N0dBSFpvTV9qUjdKRjNqZE1VRjNwcktUVjlPVFMwbWhEd9IBzgFBVV95cUxNeGY1TG5UYVczZzhrSVNVVlNYX3g5SkxWTkVwLWVjNnAzQnRSd1dNQ1dmT3Z0dG5QREdfTmVjai1OWGpSZjJGekNma3plZUtzWjhPTzR1aWJpVTZEdlJ3djJPTWFDdE1QMkVJcUhPaEFaQWxCY1dXa1R1UTF3aGZhNVRxcS10S3pVN0tWMHRQbUo3WWVZZXZ4d2txMjN5VW01RE1aaUFLUUpwYzRvT0tRakJrN1BpSzFBaHpfSmpPc3RIUHA5WHpwdFVMMk5qUQ?oc=5",
+   "published_utc": "2026-11-09T02:05:49+00:00",
+   "title_original": "China’s imported inflation accelerates as PPI up most since 2022 amid Iran war",
+   "region": "china",
+   "topics": [
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "daadb8dd9cc80d28"
   },
   {
    "source_id": "tradingview_live",
@@ -2624,8 +2677,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -2639,7 +2692,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -2969,8 +3022,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -2984,7 +3037,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3126,8 +3179,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -3141,7 +3194,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3264,8 +3317,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -3278,7 +3331,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -7079,6 +7132,24 @@
    "live_wire": false,
    "manual": false,
    "id": "064792c99f284b27"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launched a 263 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44SDU5M0x2X2dwS3JXS2V4aXAtTUZzMFFaNVVtRUY4RGp6Tm9GbDRPU0pZcEdISEVoYXM4TmJrTXFmSGJNMFRSNzllbnc4MlctZHp6aEhlbnU3dWRibXNLaVlWbXQ?oc=5",
+   "published_utc": "2026-11-05T01:24:00+00:00",
+   "title_original": "央行开展2630亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba19e7397a95b950"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -11425,24 +11496,6 @@
    "id": "57e1f44369a122d5"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
-   "published_utc": "2026-11-03T02:47:23+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb08c742bed91b2e"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 billion yen turned into a deficit of 2.8 billion yen | Politics, Economy, Investment | Toyo Keizai Online",
@@ -11510,6 +11563,24 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
+   "published_utc": "2026-11-03T02:08:10+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51913,74 +51984,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d0e999de9c59520d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "China Inflation Rises Marginally; PPI Inflation Strongest Since 2022",
-   "url": "https://www.tradingview.com/news/dpa_afx:c0684b0769396:0-china-inflation-rises-marginally-ppi-inflation-strongest-since-2022/",
-   "published_utc": "2026-10-14T12:01:53+00:00",
-   "title_original": "China Inflation Rises Marginally; PPI Inflation Strongest Since 2022",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6a9a33bec8129e52"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014003381:0-yomiuri-japan-publishes-english-language-booklet-on-pm-takaichi-s-economic-policies/",
-   "published_utc": "2026-10-14T11:56:00+00:00",
-   "title_original": "Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b033bf54a8ee56e8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Euro/yen shorts on Japan investors' OAT sales overdone, say UBS",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N46012Y:0-euro-yen-shorts-on-japan-investors-oat-sales-overdone-say-ubs/",
-   "published_utc": "2026-10-14T11:53:37+00:00",
-   "title_original": "Euro/yen shorts on Japan investors' OAT sales overdone, say UBS",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bedeb68b77cfc3cf"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "MAC accuses Beijing of election interference over Puma Shen family firm sanctions",
-   "url": "https://focustaiwan.tw/politics/202610140020",
-   "published_utc": "2026-10-14T11:42:53+00:00",
-   "title_original": "MAC accuses Beijing of election interference over Puma Shen family firm sanctions",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2580ffde44503b70"
   },
   {
    "source_id": "manual_ia",
