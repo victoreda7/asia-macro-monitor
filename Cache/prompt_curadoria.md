@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T13:02:43.352000+00:00
+Última coleta: 2026-11-09T13:12:47.133083+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structur
   - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
   - [china] China's export controls to the United States and unreliable entity list will continue to be suspended for 2 mo
   - [japan] J-Star to host Japan manufacturer for Texas facility review By Investing.com
@@ -48,15 +49,14 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October exports surge again on strong AI demand
   - [korea] As international energy prices soar, concerns are growing over the financial deterioration of state
   - [korea] As financial authorities regulate Samsung Electronics and SK Hynix's single-stock leveraged exchange..
+  - [korea] Woori Financial Group: “The Bank of Korea is expected to raise the base interest rate to 3.25% at the November
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
   - [china] China Car Exports Forecast to Slow From ‘Supercharged’ Pace
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
+  - [japan] Russia’s Japan Tobacco Grab Is Risk for Takaichi’s Spending Plan
   - [taiwan] AI chip testing demands lift Taiwan's wafer testing specialist HTSI as October revenue surges 62%
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] Xinhua News | China extends suspension of 24 pct additional tariff on U.S. goods for two months
-  - [japan] September economic trend index increased by 0.7 points from the previous month, the first increase in 2 months
-  - [taiwan] Taiwan's Export Growth Stays Robust Despite AI Selloff
-  - [korea] The government has set aside 1.4 trillion won in budget to supply 10,000 public rental homes for you..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T13:02:43+00:00",
+      "published_utc": "2026-11-09T13:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-09T13:02:43.352000+00:00",
- "collected_at_utc": "2026-11-09T13:02:43.352000+00:00",
+ "generated_at_utc": "2026-11-09T13:12:47.133083+00:00",
+ "collected_at_utc": "2026-11-09T13:12:47.133083+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 333,
   "korea": 865
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 44,
    "error": "",
-   "newest": "2026-11-09T19:11:50+08:00"
+   "newest": "2026-11-09T19:32:54+08:00"
   },
   {
    "source_id": "investing_live",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T07:06:11+00:00"
+   "newest": "2026-11-09T06:53:32+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "newest": "2026-11-09T07:07:00+00:00"
+   "newest": "2026-11-09T08:33:34+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T12:51:36+00:00"
+   "newest": "2026-11-09T13:12:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T11:22:14+00:00"
+   "newest": "2026-11-09T12:58:46+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-09T06:07:15+00:00"
+   "newest": "2026-11-09T08:30:15+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structural factors of yen depreciation cannot be eliminated (Sankei Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42TTFPMzB5QkhnMC15eGs3SzFkQUZOa1V4cEF4UFNMUHlsb1ZSaDdNaHJiVnlkRC1rUFhDNWVmN2hza3JKT1YyY3J1bGU2a3dxMFFVaFE1RDBYZDBjcTJGZVNGcllfZ1JzdUhpTzl1WEt1YmxGWEIwb2Q5bHlZSFE?oc=5",
+   "published_utc": "2026-11-09T12:58:46+00:00",
+   "title_original": "政府・日銀の為替介入7.9兆円、7月30日過去最大 円安の構造的要因は払拭できず（産経新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ab8d056419a3d554"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -413,11 +431,11 @@
    "id": "48f43eb72820b016"
   },
   {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan's October exports hit high, jump nearly 60% on AI demand",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDWF9TVjFpTGhSRkRuX2ZEdGdSUzFLU1RVWWxpV3ZKbTRud0JiR18wdlNsMmlrck5aWjJzSVdWc1FyX2x4UWNUZ29wWEJoeDNLeUFKcVZaMA?oc=5",
-   "published_utc": "2026-11-09T11:26:00+00:00",
+   "url": "https://focustaiwan.tw/business/202611090020",
+   "published_utc": "2026-11-09T11:26:52+00:00",
    "title_original": "Taiwan's October exports hit high, jump nearly 60% on AI demand",
    "region": "taiwan",
    "topics": [
@@ -427,7 +445,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e59e5cc96b8c8fb4"
+   "id": "d78a86239a91c874"
   },
   {
    "source_id": "nhk_politics",
@@ -878,6 +896,24 @@
    "id": "a0d31ce423052e3b"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "글로벌경제신문",
+   "title_en": "Woori Financial Group: “The Bank of Korea is expected to raise the base interest rate to 3.25% at the November Monetary Policy Committee meeting.”",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EdXZZVG45bG5kbTh6UWFNVjIzN3pXa0FmNU96R1VzaEtHVGtFM1l2bnNfd3hsay1RUk5mYzVIZVFlMktTZ0RCNXcwbXZ3V014Y2tPLV9naUs2UF9yNzFHVDZ6NVRTMFo1Z2NfctIBcEFVX3lxTE5IblRERExQOGp5R05mTmo5WDVoREd2VHNJN2d4N01iVDBFMWdaWmNVelFqX25QTF9ad1hyaWRDOF9oN3d1dGNfLXFmeHlrTnNVMUUzeGRzTzI2RDU0VGRQRWxvYlo1T3dfMEJhaVRWM3c?oc=5",
+   "published_utc": "2026-11-09T08:30:15+00:00",
+   "title_original": "우리금융硏 “한은, 11월 금통위서 기준금리 3.25%로 인상 전망”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "674818d73f8a00ad"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms",
@@ -927,6 +963,23 @@
    "live_wire": false,
    "manual": false,
    "id": "36530449d020d26e"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Russia’s Japan Tobacco Grab Is Risk for Takaichi’s Spending Plan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaThLOTlja0txbHhiaktuVmFBYU1FSnlHUUdGejItMVdLS1FzUm9LWXNWQ1RJcEt2TUo2QlRndmNLZlE1YjExQ2hqXzhTbVZXU2NwQ1NqSFhjVVdLMEMxRGk2RVI4V1o2R3lnU2VvRkcwSmM5MWtaUFdpRkY4eGVBSmc5R003MGdla1RhalUtcmpLand0a2RvY3BJYWZvcmpQZjlZblJ5a1pIel9JNUIwOWo1UlIxZw?oc=5",
+   "published_utc": "2026-11-09T08:25:36+00:00",
+   "title_original": "Russia’s Japan Tobacco Grab Is Risk for Takaichi’s Spending Plan",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9a02455c809486d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51928,57 +51981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "65aaa66e5158dfa1"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The cancellation of land supply contracts by the Korea Land and Housing Corporation (LH) increased a..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YVWJBTXpWdmE2am5WQjJyZDk5T3RNd3loVkJDd1lkWkJ3c005cXoyTk9BX21UV1ZZZEJYc0RKMnVIcHQ1Q2x5RGYzdGhJRDBCNGc?oc=5",
-   "published_utc": "2026-10-15T01:51:19+00:00",
-   "title_original": "The cancellation of land supply contracts by the Korea Land and Housing Corporation (LH) increased a..",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c550eca606dd8ed5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan member says there is \"no need to be cautious\" in raising interest rates (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxRm4tNnd5TkhQMUQyVkk2X1MzbGo2VHE1U0dsUHVXRkJ6Z3EtRG4zcWhaYWExOVZ0SFY1aWZhSGdycGNaTHBESmZWOGVkdjFWMzNjejU0M29oNG42dnFjajBhQ2RMUDFPeW5kLTYtVlpfX184ZnhqZnc3d1FPM1k?oc=5",
-   "published_utc": "2026-10-15T01:50:06+00:00",
-   "title_original": "利上げ「慎重になることない」と日銀委員（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca248214d157525b"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ should not be overly cautious raising rates, board member Koeda says",
-   "url": "https://www.investing.com/news/economy-news/boj-should-not-be-overly-cautious-raising-rates-board-member-koeda-says-4950377",
-   "published_utc": "2026-10-15T01:48:34+00:00",
-   "title_original": "BOJ should not be overly cautious raising rates, board member Koeda says",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "789fadb30794c92c"
   },
   {
    "source_id": "manual_ia",
