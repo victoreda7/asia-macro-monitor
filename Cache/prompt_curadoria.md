@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T04:02:42.187796+00:00
+Última coleta: 2026-11-09T04:12:42.533265+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          875
+  🇯🇵 Japão          931
+  🇨🇳 China          878
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  862
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [china] China's CPI Data Shows Domestic Demand Remains Weak — Market Talk
+  - [china] China’s factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates
+  - [china] China Producer Inflation Accelerates to Over Four-Year High — Update
+  - [china] China's yuan holds steady as seasonal FX sales offset dollar strength
+  - [taiwan] UKSC highlights three UK semiconductor strengths for Taiwan
   - [china] China October consumer price index +0.7% 1% lower for 4th consecutive month
   - [japan] Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue
   - [china] China extends suspension of 24% tariff on US imports for two months
@@ -36,7 +41,6 @@ Total: 3000 manchetes
   - [japan] Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR
   - [korea] South Korean won gains most among subdued Asian FX
   - [china] China Producer Inflation Accelerates to Over Four-Year High
-  - [china] China’s factory-gate inflation gains momentum in October, consumer price pressures stay muted
   - [china] China’s imported inflation accelerates as PPI up most since 2022 amid Iran war
   - [japan] Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition
   - [korea] Citi: "If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] On November 9, the central bank launched a 182 billion yuan overnight reverse repurchase operation.
   - [china] China's October producer inflation quickens further, consumer prices edge down
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7188 MON VS 6.7168
-  - [china] China Oct Non-Food Prices +1.5% on Year
-  - [china] China Oct Food Prices -2.9% On Year
-  - [china] China Jan-Oct CPI +0.9% on Year
-  - [china] China Oct CPI 0.0% on Month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T04:02:42+00:00",
+      "published_utc": "2026-11-09T04:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
