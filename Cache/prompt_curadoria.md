@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T09:32:49.251770+00:00
+Última coleta: 2026-11-09T09:42:43.804110+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
-  🇨🇳 China          871
+  🇨🇳 China          872
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  871
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] Shenzhen Qingyi Photomask's Unit To Invest In Semiconductor Photomask Production Base Project
+  - [china] Chinese Producer Inflation Hits 5.7% for Post-Covid Era High
   - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
   - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
   - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The Chiba Bank, Ltd. - To Buy Back Up To 1.09% Own Shares Worth 15 Billion Yen
   - [japan] Pola Orbis Holdings: Operating profit rose 21.3%; yen-driven FX gains lifted the FY outlook
   - [korea] A total of 8.354 billion won in monetary sanctions and measures against 23 executives and employees
-  - [taiwan] Zhang Jianyi: CPI may exceed 3% if CNPC and Taipower fail to allocate subsidies, forcing the central bank to r
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T09:32:49+00:00",
+      "published_utc": "2026-11-09T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
