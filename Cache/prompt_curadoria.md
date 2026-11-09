@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T12:22:41.315520+00:00
+Última coleta: 2026-11-09T12:32:44.146118+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -17,8 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
+  - [china] China's export controls to the United States and unreliable entity list will continue to be suspended for 2 mo
   - [japan] J-Star to host Japan manufacturer for Texas facility review By Investing.com
-  - [japan] Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”
   - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
   - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
   - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] September economic trend index increased by 0.7 points from the previous month, the first increase in 2 months
   - [taiwan] Taiwan's Export Growth Stays Robust Despite AI Selloff
   - [korea] The government has set aside 1.4 trillion won in budget to supply 10,000 public rental homes for you..
-  - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T12:22:41+00:00",
+      "published_utc": "2026-11-09T12:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
