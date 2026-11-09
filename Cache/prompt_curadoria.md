@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T12:12:42.960233+00:00
+Última coleta: 2026-11-09T12:22:41.315520+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
+  🇯🇵 Japão          929
   🇨🇳 China          873
   🇹🇼 Taiwan         333
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [japan] J-Star to host Japan manufacturer for Texas facility review By Investing.com
   - [japan] Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”
   - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
   - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's Export Growth Stays Robust Despite AI Selloff
   - [korea] The government has set aside 1.4 trillion won in budget to supply 10,000 public rental homes for you..
   - [china] China Passenger-Car Sales Slump in October Despite Export Boom — Update
-  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T12:12:43+00:00",
+      "published_utc": "2026-11-09T12:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
