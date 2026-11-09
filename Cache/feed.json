@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-09T05:52:43.384315+00:00",
- "collected_at_utc": "2026-11-09T05:52:43.384315+00:00",
+ "generated_at_utc": "2026-11-09T06:02:43.928998+00:00",
+ "collected_at_utc": "2026-11-09T06:02:43.928998+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 927,
-  "china": 879,
+  "japan": 930,
+  "china": 876,
   "taiwan": 330,
   "korea": 864
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": "",
-   "newest": "2026-11-09T14:00:00+09:00"
+   "newest": "2026-11-09T15:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:50:34+00:00"
+   "newest": "2026-11-09T05:04:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T14:48:01+09:00"
+   "newest": "2026-11-09T14:52:02+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T14:40:11+09:00"
+   "newest": "2026-11-09T14:57:43+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:34:00+00:00"
+   "newest": "2026-11-09T03:07:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T05:52:00+00:00"
+   "newest": "2026-11-09T06:02:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46N45H:0-juroku-financial-group-inc-to-buy-back-up-to-1-129-own-shares-worth-5-billion-yen/",
+   "published_utc": "2026-11-09T06:01:25+00:00",
+   "title_original": "Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "72554f74d8d860d2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q05X:0-mirait-one-corp-says-it-will-buy-back-up-to-0-91-of-own-shares-worth-2-billion-yen/",
+   "published_utc": "2026-11-09T06:00:58+00:00",
+   "title_original": "Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d2e11d07f3df3e91"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving their seats, and the executive department will consider how to respond.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72848",
+   "published_utc": "2026-11-09T05:52:02+00:00",
+   "title_original": "石破氏ら4人 消費税減税法案 退席理由を回答 執行部が対応検討",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8e0941335fc6b95"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -581,6 +633,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cf7b038de163169b"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
+   "published_utc": "2026-11-09T04:36:00+00:00",
+   "title_original": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "42ac9fc4329e4cea"
   },
   {
    "source_id": "investing_fx",
@@ -1357,23 +1426,6 @@
    "live_wire": true,
    "manual": false,
    "id": "366400c32fb63227"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Jan-Oct CPI +0.9% on Year",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001170_20261108001180:0-china-jan-oct-cpi-0-9-on-year/",
-   "published_utc": "2026-11-09T01:32:00+00:00",
-   "title_original": "China Jan-Oct CPI +0.9% on Year",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2ff10db76e0511af"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51927,58 +51979,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d7c02f58957a1864"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
-   "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt-4947973",
-   "published_utc": "2026-10-14T14:43:56+00:00",
-   "title_original": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1f8c5e6717416b15"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU Set to Lift Sanction on Chinese Firm to Save ASML Supplier",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
-   "published_utc": "2026-10-14T14:36:43+00:00",
-   "title_original": "EU Set to Lift Sanction on Chinese Firm to Save ASML Supplier",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff8f34290fd135a8"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
-   "published_utc": "2026-10-14T14:36:43+00:00",
-   "title_original": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "733165bf16408942"
   },
   {
    "source_id": "manual_ia",

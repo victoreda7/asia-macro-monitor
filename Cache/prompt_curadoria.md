@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T05:52:43.384315+00:00
+Última coleta: 2026-11-09T06:02:43.928998+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          879
+  🇯🇵 Japão          930
+  🇨🇳 China          876
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [japan] Juroku Financial Group Inc - To Buy Back Up To 1.129% Own Shares Worth 5 Billion Yen
+  - [japan] Mirait One Corp Says It Will Buy Back Up To 0.91% Of Own Shares Worth 2 Billion Yen
+  - [japan] Mr. Ishiba and four others respond to the consumption tax reduction bill by giving their reasons for leaving t
   - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [japan] Record retail JGB demand signals bets Japan yields are peaking
@@ -31,6 +34,7 @@ Total: 3000 manchetes
   - [china] China's Inflation Likely to Remain Low Next Year — Market Talk
   - [china] The central bank launched a 182 billion yuan reverse repurchase operation on November 9, with a net withdrawal
   - [japan] Japan bought yen at record pace in July
+  - [china] China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate
   - [china] Asia FX gains as dollar steadies after strong U.S. jobs data; China CPI in focus
   - [china] China, Hong Kong stocks edge up as State Council vows to stabilise market
   - [korea] Citibank, 'Early interest rate cut when semiconductor exports slow'...suggesting policy changes in the second 
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Foreign exchange intervention revealed to be “largest ever” at 8 trillion yen The government and the Bank of J
   - [china] China extends suspension of 24% tariff on US imports for two months
   - [taiwan] Taiwan chipmaker CEO warns memory price rises are unsustainable
-  - [korea] Samsung Electronics, SK hynix trade mixed after two-day plunge last week
-  - [china] China CPI inflation misses forecasts in Oct; factory-gate prices accelerate
-  - [japan] Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR
-  - [korea] South Korean won gains most among subdued Asian FX
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T05:52:43+00:00",
+      "published_utc": "2026-11-09T06:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
