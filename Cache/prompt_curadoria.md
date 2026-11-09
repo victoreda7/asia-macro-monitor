@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T23:22:42.428722+00:00
+Última coleta: 2026-11-09T23:32:45.238136+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          875
+  🇯🇵 Japão          927
+  🇨🇳 China          876
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  866
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Popular government bonds for individuals with over 8 trillion yen issued
   - [japan] Can the proceeds from the sale of Bank of Japan ETFs cover the economic security "bridgment government bonds"?
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
+  - [china] House Democratic leader says lawmakers need answers on Nvidia, wants China chip restrictions
   - [japan] Threat of trade curbs pushes Japan steel exports to three-decade low
   - [japan] Worst ranking of credit unions and credit unions for "deposit outflow"... 1st place decreased by 30%, more tha
   - [japan] Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Ministry of Finance: Exports to the United States accounted for 31.7% in the first 10 months, setting a new hi
   - [taiwan] October's export record hit 5 major highlights, with 36 hits in a row, the longest growth cycle in history | S
   - [korea] The Trade Remedy Review Committee of the Ministry of Economic Affairs made a positive determination of industr
-  - [taiwan] Taiwan President taps chip strengths for self-reliant space push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T23:22:42+00:00",
+      "published_utc": "2026-11-09T23:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
