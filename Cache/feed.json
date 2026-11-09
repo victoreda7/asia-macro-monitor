@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T14:32:44.806554+00:00",
- "collected_at_utc": "2026-11-09T14:32:44.806554+00:00",
+ "generated_at_utc": "2026-11-09T14:42:45.104099+00:00",
+ "collected_at_utc": "2026-11-09T14:42:45.104099+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 926,
-  "china": 875,
+  "japan": 927,
+  "china": 874,
   "taiwan": 333,
   "korea": 866
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T11:35:14+00:00"
+   "newest": "2026-11-09T13:12:58+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T14:10:59+00:00"
+   "newest": "2026-11-09T14:35:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T22:23:36+09:00"
+   "newest": "2026-11-09T23:33:22+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T14:32:02+00:00"
+   "newest": "2026-11-09T14:42:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,41 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "IBM Announces Offering Of Multiple Series Of Yen-Denominated Notes - SEC Filing",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q1IE:0-ibm-announces-offering-of-multiple-series-of-yen-denominated-notes-sec-filing/",
+   "published_utc": "2026-11-09T14:34:30+00:00",
+   "title_original": "IBM Announces Offering Of Multiple Series Of Yen-Denominated Notes - SEC Filing",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8cc82ca2ef03d020"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear power",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72912",
+   "published_utc": "2026-11-09T14:33:22+00:00",
+   "title_original": "日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9125ef5f284bb0a"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261109005890:0-japanese-yen-likely-to-gain-on-boj-rate-rise-prospects-market-talk/",
@@ -377,24 +412,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5a8efc023882204b"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear power",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72912",
-   "published_utc": "2026-11-09T13:23:36+00:00",
-   "title_original": "日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9125ef5f284bb0a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1963,23 +1980,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c6322b89b2c255f3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's yuan holds steady as seasonal FX sales offset dollar strength",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Q067:0-china-s-yuan-holds-steady-as-seasonal-fx-sales-offset-dollar-strength/",
-   "published_utc": "2026-11-09T03:53:01+00:00",
-   "title_original": "China's yuan holds steady as seasonal FX sales offset dollar strength",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fd80dc7c9f8817ea"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4025,8 +4025,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -4040,7 +4040,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -4370,8 +4370,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -4385,7 +4385,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4527,8 +4527,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4542,7 +4542,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6649,7 +6649,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "SCMP",
+   "source_name": "South China Morning Post",
    "title_en": "China ready to expand US farm imports – on 1 condition",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOU5wSHZoRmtZT3ZwREIwYWVBQzZYQmR6UDd1Z0hpSUdPM3lCWURJU19ITG54dkQzbW54TjlmaW8tenFxbjQ3Vnc0UkpqRmlvQ295YjBmYnhLSk1NR3VvNkdfSkxJc3ZtZWxmZ1ZzcDcza1ZBVER6eGdhdnJNQnltc1lmWU02MzdlWHZjTXNja0FMdERFYUlkeXR1WHN4dWRqeHI2c1NGX3phX0JKZFRTNkVoSmtsRUQydGVQdzR5VnN5VmFBYjBSVVpTOTBxR1lrLXhLclBVY0fSAdgBQVVfeXFMT2VuYl9iTGJ5Um9ZcXFmczdEUHdkWENMRDY5RlhKVDZTbmJkWlB0UXRWemdKQU1Eb09vbDc0MWx6YmtLUUFlLUpYOUc5QnBtaWpDY3hWdTJ5aEN2Tm5LRXVkSkFZS0ZkVGN3TnhrWVlFREZ6VWVjcWxKV25vVkNUOHMxOEp1Ul9DdG5hRm1vR0dSNDBYck1JNGl5Q01ZdEZuYl9EN0NDeGpQMHRNel9NRzZvSHBrVDY1cUVKNEh3MW85eG1NVHh5b1JGdEc5QWo4b2piRTJPZU9X?oc=5",
    "published_utc": "2026-11-05T12:00:21+00:00",

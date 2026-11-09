@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T14:32:44.806554+00:00
+Última coleta: 2026-11-09T14:42:45.104099+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          875
+  🇯🇵 Japão          927
+  🇨🇳 China          874
   🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] IBM Announces Offering Of Multiple Series Of Yen-Denominated Notes - SEC Filing
+  - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
   - [japan] Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk
   - [china] Beijing Orient EcoEnergy's LP Vehicle Signs 912.5 Million Yuan GPU Card Purchase Contract
-  - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
   - [japan] Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structur
   - [china] China extends US trade truce by two months
   - [china] China's export controls to the United States and unreliable entity list will continue to be suspended for 2 mo
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
   - [china] China Car Exports Forecast to Slow From ‘Supercharged’ Pace
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
-  - [japan] Russia’s Japan Tobacco Grab Is Risk for Takaichi’s Spending Plan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T14:32:45+00:00",
+      "published_utc": "2026-11-09T14:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
