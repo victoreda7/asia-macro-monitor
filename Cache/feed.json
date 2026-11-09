@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-09T08:42:43.205943+00:00",
- "collected_at_utc": "2026-11-09T08:42:43.205943+00:00",
+ "generated_at_utc": "2026-11-09T08:52:43.519561+00:00",
+ "collected_at_utc": "2026-11-09T08:52:43.519561+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 928,
-  "china": 872,
+  "china": 870,
   "taiwan": 331,
-  "korea": 869
+  "korea": 871
  },
  "elapsed_s": 29.7,
  "sources": [
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
    "newest": "2026-11-09T07:07:00+00:00"
   },
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:48:23+00:00"
+   "newest": "2026-11-09T01:52:42+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T08:40:35+00:00"
+   "newest": "2026-11-09T08:51:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T07:50:44+00:00"
+   "newest": "2026-11-09T08:20:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:10:17+00:00"
+   "newest": "2026-11-09T08:51:47+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -359,6 +359,40 @@
    "live_wire": true,
    "manual": false,
    "id": "894e3438af4b5bdd"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "As international energy prices soar, concerns are growing over the financial deterioration of state",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZ0hYaDhycDM1RXNUWEdRc2g4STBybzBnWXRmWm83NFVSNXcwQnJrMHk3b2lmbkVfUm9LYjJrclVBdFRpSjB2ZE5FQ2pyOGFOeWc?oc=5",
+   "published_utc": "2026-11-09T08:39:13+00:00",
+   "title_original": "As international energy prices soar, concerns are growing over the financial deterioration of state",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "91e5031ef47ffd38"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "As financial authorities regulate Samsung Electronics and SK Hynix's single-stock leveraged exchange..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tSU5tME5CV1dKMGI3anY4eHRtQ0E0Q0tnUXp3N2Z5THdxRU9lSnhoWFlIY0E2VVFLTW02OXhRc3pxeXEwOXNiM2U5cVFoYUU?oc=5",
+   "published_utc": "2026-11-09T08:33:55+00:00",
+   "title_original": "As financial authorities regulate Samsung Electronics and SK Hynix's single-stock leveraged exchange..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0d31ce423052e3b"
   },
   {
    "source_id": "tradingview_live",
@@ -1156,23 +1190,6 @@
    "id": "137e6335238cd058"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan bought yen at record pace in July",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HX1V1akNkMzIxUFlSMTBfUWdPQmFheXN6ZXZIemJLXzN2UldjLWJaYnVidFhJOUJuNEJtcTJTYld2dldsb0ZCNTJaeU1kb0dEemVWeWpsVDJqbGRqcXI0cGhvQQ?oc=5",
-   "published_utc": "2026-11-09T04:48:23+00:00",
-   "title_original": "Japan bought yen at record pace in July",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf7b038de163169b"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
@@ -1759,6 +1776,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1d30d9e463be3e7c"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan bought yen at record pace in July",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HX1V1akNkMzIxUFlSMTBfUWdPQmFheXN6ZXZIemJLXzN2UldjLWJaYnVidFhJOUJuNEJtcTJTYld2dldsb0ZCNTJaeU1kb0dEemVWeWpsVDJqbGRqcXI0cGhvQQ?oc=5",
+   "published_utc": "2026-11-09T01:52:42+00:00",
+   "title_original": "Japan bought yen at record pace in July",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf7b038de163169b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7320,24 +7354,6 @@
    "id": "de82a004de59991d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
-   "published_utc": "2026-11-05T04:19:41+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed2a6680a0d80a"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -10770,6 +10786,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
+   "published_utc": "2026-11-03T17:58:05+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5faf56004dbf3216"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "36Kr.com",
    "title_en": "Central Bank: A 300 billion yuan buyout reverse repurchase operation will be carried out on November 5 - 36 Krypton",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PRGNEWksxb0tWUERxc0kwR3N3WVVaVjdxUm1IR0ZGdE44aXpJMnZOV3VnU0s3MEpmUXg5aEU2Q2dNejJpakgzNTE1ekdpOHNvd0s4ejRma1A?oc=5",
@@ -12325,24 +12359,6 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "央视网",
-   "title_en": "First time in nearly 5 years! The central bank raised the foreign exchange reserve ratio by 2 percentage points to ease the pressure on RMB appreciation",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HVGIzbVdZTVFuaHJ0UlhydzNrQ1hoMXY0NjRQOHNhQU5EMUVwbG1IYXYxd0JPN2JheTM5NE9UV0otTFk4bzFoRFE2WUVEc1BUV2ZXTE9JTnZSelNHTHg1VEZ4M2xrM2ZsUm1aQVZZdWJsZERCQTEteUoxdjE?oc=5",
-   "published_utc": "2026-11-03T02:07:00+00:00",
-   "title_original": "近5年来首次！央行上调外汇存准率2个百分点，缓解人民币升值压力",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f406fb80625b477"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51966,23 +51982,6 @@
    "live_wire": false,
    "manual": false,
    "id": "42fcfb671c8fe81b"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Hegseth calls US$1.5 trillion defence budget ‘critical’ to counter China",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2RFNEZqd2dFUF9Eb04xMjMtWjh6bFZ0bnE1ZmNFRWI3SkhuNnVWMzhCX0k4QUEzUkZqelIwOV96a3ZteENjZUhqUTBmVHhacE9wUVpuVVA0ZWhVVlY0M0pWcExJNTIxSnJIdThVVm14U2lLM25GRWh2Y0ZzWkJicDZZdEh3aVdRTDB6bzVWQ2FkS0k3d2NBdnlVZXZSalMtbEgxckpzY3QtRnVZaHNhQ2NmUlZLek12MFo00gG7AUFVX3lxTFBwM2ZFb1UwZ3dzWlFKM0FSdjkxVFBjMzRFTkVZZnI2UW45N3h6LWJqdFF5LWR3YXV3aUo0eG5wZUxHemFSVU05RGJrcEFLZE1TUmZFVll2N2t4RUVqeWNqNUpud1UyamNCU05nWkV1eHJoMUIybVpqUHQ4ODNHT094QjBaQ0FjeHlLc0VQTFNVbnB6Y0IxbjhfTVZxVkN4OTRxd3NfVDdReVlmRnpvdzRVTkNDMTFGaXB1MHc?oc=5",
-   "published_utc": "2026-10-14T21:45:00+00:00",
-   "title_original": "Hegseth calls US$1.5 trillion defence budget ‘critical’ to counter China",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d25701cf49d3e97c"
   },
   {
    "source_id": "manual_ia",
