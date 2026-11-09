@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T20:52:44.618155+00:00",
- "collected_at_utc": "2026-11-09T20:52:44.618155+00:00",
+ "generated_at_utc": "2026-11-09T21:02:46.674170+00:00",
+ "collected_at_utc": "2026-11-09T21:02:46.674170+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 926,
-  "china": 876,
+  "japan": 927,
+  "china": 875,
   "taiwan": 332,
   "korea": 866
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T20:36:25+00:00"
+   "newest": "2026-11-09T20:54:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T19:43:50+00:00"
+   "newest": "2026-11-09T20:54:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T20:51:01+00:00"
+   "newest": "2026-11-09T21:02:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-10T05:45:00+09:00"
+   "newest": "2026-11-10T06:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Threat of trade curbs pushes Japan steel exports to three-decade low",
+   "url": "https://asia.nikkei.com/business/materials/threat-of-trade-curbs-pushes-japan-steel-exports-to-three-decade-low",
+   "published_utc": "2026-11-09T21:02:44.764561+00:00",
+   "title_original": "Threat of trade curbs pushes Japan steel exports to three-decade low",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "38b3b287d5ea49c5"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Worst ranking of credit unions and credit unions for \"deposit outflow\"... 1st place decreased by 30%, more than half of deposits decreased due to inheritance, population decline, and fierce interest rate competition | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964040?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-09T21:00:00+00:00",
+   "title_original": "信金･信組｢預金流出｣ワーストランキング…1位は3割減､相続や人口減少､熾烈な金利競争を背景に半数以上が預金減少 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "885ca5925da09d33"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -51941,41 +51975,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d5d0b3ad031499cd"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi held a press conference regarding ministerial appointments, etc.",
-   "url": "https://www.kantei.go.jp/jp/105/statement/2026/1015kaiken.html",
-   "published_utc": "2026-10-15T02:45:00+00:00",
-   "title_original": "高市総理は閣僚人事等についての会見を行いました",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb2f1c3c6aa1332c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中华网",
-   "title_en": "The central bank carries out 700 billion yuan of 182-day buyout reverse repurchase, increasing the amount and continuing to stabilize liquidity",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZakVjWkV5RWg5a1hjSzdESVJJcXNhbjBtWlYza0pWcWZXcUlmbG1hcHZQeGw0WHpxbVZKMVRGTGZwbzRPbnRNVDB4eEZ1R3M5b3NUNVl1aHRzeWlFb3BNbmgxcFJWdE1nREl2VFZVUGM?oc=5",
-   "published_utc": "2026-10-15T02:35:52+00:00",
-   "title_original": "央行开展7000亿元182天买断式逆回购 加量续作稳流动性",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "591d5eff4649aedc"
   },
   {
    "source_id": "manual_ia",
