@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T05:42:42.790453+00:00
+Última coleta: 2026-11-09T05:52:43.384315+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
@@ -17,15 +17,15 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
+  - [china] Exclusive-Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [japan] Record retail JGB demand signals bets Japan yields are peaking
   - [china] China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk
-  - [china] Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
   - [korea] Korean food exporters sign $15 million in preliminary deals at Melbourne fair
   - [korea] Woori Financial Group: "The direct impact of the U.S. midterm elections is limited... The Bank of Korea will r
   - [korea] Nvidia, SK Telecom, Rebellions forge AI chip alliance
   - [japan] Berkshire plans second yen-denominated bond offering of 2026
   - [china] China extends suspension of 24 pct additional tariff on U.S. goods for two months
-  - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] China's October car exports stay resilient, falling domestic sales yet to hit bottom
   - [japan] Consumption Activity Index
   - [china] China's Inflation Likely to Remain Low Next Year — Market Talk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T05:42:43+00:00",
+      "published_utc": "2026-11-09T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
