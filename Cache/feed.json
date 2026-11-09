@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T10:12:44.822828+00:00",
- "collected_at_utc": "2026-11-09T10:12:44.822828+00:00",
+ "generated_at_utc": "2026-11-09T10:22:43.822675+00:00",
+ "collected_at_utc": "2026-11-09T10:22:43.822675+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
+  "japan": 930,
   "china": 872,
   "taiwan": 332,
-  "korea": 867
+  "korea": 866
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T09:53:30+00:00"
+   "newest": "2026-11-09T10:12:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T09:48:34+00:00"
+   "newest": "2026-11-09T10:00:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T09:38:10+00:00"
+   "newest": "2026-11-09T10:08:02+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T19:11:16+09:00"
+   "newest": "2026-11-09T19:20:31+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T19:03:09+09:00"
+   "newest": "2026-11-09T19:17:59+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T05:36:00+00:00"
+   "newest": "2026-11-09T09:14:20+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T10:12:07+00:00"
+   "newest": "2026-11-09T10:21:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:48:28+00:00"
+   "newest": "2026-11-09T09:34:15+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T09:53:00+00:00"
+   "newest": "2026-11-09T10:09:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72912",
+   "published_utc": "2026-11-09T10:20:31+00:00",
+   "title_original": "日ベトナム首脳会談 高市首相“両国関係を新たな高みに”",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6911ddc09ca48b7c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "ShareCast",
@@ -719,6 +736,23 @@
    "live_wire": true,
    "manual": false,
    "id": "596d2737d4bb89f1"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Car Exports Forecast to Slow From ‘Supercharged’ Pace",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTIybTNrSFI1MEhfcURwSl93OGVJalh6UTFVVnpKMmgyTEFid3ZQeExBcjlTYjdRRDVjWWE1eXFhVDd6aHJGMWdkdk5sQUVXWU05YWxfNnhNT1ZabHhTbDhIUzhLaVQ0eXBEdldnTDl3NmI0UllCQVk5SkduTnY1OGQ3blpiclZOSUp4c2NYeUlfSEVqUVB3ZW5zRTNmRWh4OVV6ZGszamJKOTBTanlpbTZB?oc=5",
+   "published_utc": "2026-11-09T08:27:14+00:00",
+   "title_original": "China Car Exports Forecast to Slow From ‘Supercharged’ Pace",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "58f515a88240da60"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3749,8 +3783,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -3764,7 +3798,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -4094,8 +4128,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -4109,7 +4143,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4251,8 +4285,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4266,7 +4300,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4389,8 +4423,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -4403,7 +4437,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c530180905f7b7d3"
+   "id": "705c63df64126f26"
   },
   {
    "source_id": "tradingview_live",
@@ -7648,24 +7682,6 @@
    "id": "de82a004de59991d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
-   "published_utc": "2026-11-05T04:19:41+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed2a6680a0d80a"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -8941,6 +8957,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
+   "published_utc": "2026-11-04T16:03:02+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5faf56004dbf3216"
   },
   {
    "source_id": "investing_econ",
@@ -51949,40 +51983,6 @@
    "live_wire": false,
    "manual": false,
    "id": "324e9949a08f3758"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, US inflation",
-   "url": "https://www.koreaherald.com/article/10903265",
-   "published_utc": "2026-10-15T00:42:41.033196+00:00",
-   "title_original": "Seoul stocks open sharply lower on lingering concerns over AI, US inflation",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75bc2f4301db04d7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Securities Star morning news summary on October 15: The central bank released the latest social financing data_Securities News",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOSXVUMmVFQ3J2aHRiRHpHWkNkd09KY0lTRTM1eGhnOXlWUW93OGczQzQ0c3pGbF9BclhEbU10dHM2TmVwT3QzUEx1dno1U25FTjM1eWxRZXFFS0t0OTVVMTlR?oc=5",
-   "published_utc": "2026-10-15T00:42:33+00:00",
-   "title_original": "10月15日证券之星早间消息汇总：央行公布最新社融数据_证券要闻",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9293a253e4ae660d"
   },
   {
    "source_id": "manual_ia",

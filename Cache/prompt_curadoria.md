@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T10:12:44.822828+00:00
+Última coleta: 2026-11-09T10:22:43.822675+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          930
   🇨🇳 China          872
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan-Vietnam Summit: Prime Minister Takaichi “takes bilateral relations to new heights”
   - [china] China producer inflation hits four-year high as energy costs surge
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.9% “No support” 37.1% NHK public opinion poll
   - [japan] The approval rate for the high city cabinet is 53%, while 32% do not support it
@@ -39,6 +40,7 @@ Total: 3000 manchetes
   - [korea] As international energy prices soar, concerns are growing over the financial deterioration of state
   - [korea] As financial authorities regulate Samsung Electronics and SK Hynix's single-stock leveraged exchange..
   - [china] China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms
+  - [china] China Car Exports Forecast to Slow From ‘Supercharged’ Pace
   - [china] CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year
   - [taiwan] AI chip testing demands lift Taiwan's wafer testing specialist HTSI as October revenue surges 62%
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China inflation misses estimates as food prices extend decline
   - [japan] SoftBank: AI-led growth targets FY2030 revenue of JPY 9.0 tn and operating income of JPY 1.7 tn
   - [taiwan] Exclusive: Gallium oxide prepares to tackle power semiconductor market with 6-inch mass production and 8-inch 
-  - [china] China’s export growth expected to have remained strong in October: Reuters poll
-  - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T10:12:45+00:00",
+      "published_utc": "2026-11-09T10:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
