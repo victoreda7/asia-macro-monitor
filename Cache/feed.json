@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T09:02:44.024906+00:00",
- "collected_at_utc": "2026-11-09T09:02:44.024906+00:00",
+ "generated_at_utc": "2026-11-09T09:12:44.950172+00:00",
+ "collected_at_utc": "2026-11-09T09:12:44.950172+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 929,
-  "china": 869,
+  "china": 870,
   "taiwan": 329,
-  "korea": 873
+  "korea": 872
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T07:09:00+00:00"
+   "newest": "2026-11-09T08:26:17+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T07:23:20+00:00"
+   "newest": "2026-11-09T08:21:54+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T02:30:21+00:00"
+   "newest": "2026-11-09T04:51:42+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T09:01:00+00:00"
+   "newest": "2026-11-09T09:11:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:15:00+00:00"
+   "newest": "2026-11-09T08:14:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109001987:0-china-will-extend-u-s-tariff-suspensions-for-two-months-as-trump-visit-looms-update/",
+   "published_utc": "2026-11-09T09:10:00+00:00",
+   "title_original": "China Will Extend U.S. Tariff Suspensions for Two Months as Trump Visit Looms — Update",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "05a65e622af430a3"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -463,6 +480,40 @@
    "live_wire": true,
    "manual": false,
    "id": "596d2737d4bb89f1"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDB5NXM3LW9lQkhzYXpoU2FtVTZWUEUteVRfLWZZZ0dKR0c4MUpjbXo0ZzdOSDNDa1JUckNQUVg5ejctRERud1ZiQTVsR2F6QWtMTlFnSHQxUWhGclhxT3YwQlQyYXZfQ0ZsM19qNWVCb3BtdmxqR3dQVVFBZnN0dlRrd2F6aU81LV9Kak5GSWRTTjM4ZkRJM3doSi1oYTUxT3YwN1ZXSXd0bWp2WmlmYnlCYVM?oc=5",
+   "published_utc": "2026-11-09T08:26:17+00:00",
+   "title_original": "CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36530449d020d26e"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI chip testing demands lift Taiwan's wafer testing specialist HTSI as October revenue surges 62%",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDR1d3JFbkdtc0QzNkczaDAtbkhHRjJzN25Kb01JOTljZ0lxYnVNWWlMbmJaRnNXeGdmQlZqeEZOendqVHlVSS1xNGxBQTRhclBXY3J2UDBiWTVMaURLVFhsT0YwU3pTNFBJUHBoMm9ld0k1cmpqTk1uVVJDWFloeWJYYTVHZWRWcG9BQ3RtSlEyd1dnMlc3aTZ3dkY?oc=5",
+   "published_utc": "2026-11-09T08:21:54+00:00",
+   "title_original": "AI chip testing demands lift Taiwan's wafer testing specialist HTSI as October revenue surges 62%",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "826b04b6b5794c07"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -985,23 +1036,6 @@
    "id": "d2e11d07f3df3e91"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDB5NXM3LW9lQkhzYXpoU2FtVTZWUEUteVRfLWZZZ0dKR0c4MUpjbXo0ZzdOSDNDa1JUckNQUVg5ejctRERud1ZiQTVsR2F6QWtMTlFnSHQxUWhGclhxT3YwQlQyYXZfQ0ZsM19qNWVCb3BtdmxqR3dQVVFBZnN0dlRrd2F6aU81LV9Kak5GSWRTTjM4ZkRJM3doSi1oYTUxT3YwN1ZXSXd0bWp2WmlmYnlCYVM?oc=5",
-   "published_utc": "2026-11-09T05:57:00+00:00",
-   "title_original": "CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "36530449d020d26e"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "뉴데일리",
    "title_en": "If the semiconductor industry declines, interest rates may be lowered in the second half of next year... Citibank: “There is a possibility of a sharp change in monetary policy from the Bank of Korea.”",
@@ -1241,6 +1275,23 @@
    "live_wire": false,
    "manual": false,
    "id": "137e6335238cd058"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan bought yen at record pace in July",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HX1V1akNkMzIxUFlSMTBfUWdPQmFheXN6ZXZIemJLXzN2UldjLWJaYnVidFhJOUJuNEJtcTJTYld2dldsb0ZCNTJaeU1kb0dEemVWeWpsVDJqbGRqcXI0cGhvQQ?oc=5",
+   "published_utc": "2026-11-09T04:51:42+00:00",
+   "title_original": "Japan bought yen at record pace in July",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf7b038de163169b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1742,23 +1793,6 @@
    "id": "3757a36491d40540"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean won gains most among subdued Asian FX",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Q04P:0-south-korean-won-gains-most-among-subdued-asian-fx/",
-   "published_utc": "2026-11-09T02:16:22+00:00",
-   "title_original": "South Korean won gains most among subdued Asian FX",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3f9da2592cb6a908"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s factory gate inflation accelerates with highest PPI increase since 2022",
@@ -1829,23 +1863,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1d30d9e463be3e7c"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan bought yen at record pace in July",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HX1V1akNkMzIxUFlSMTBfUWdPQmFheXN6ZXZIemJLXzN2UldjLWJaYnVidFhJOUJuNEJtcTJTYld2dldsb0ZCNTJaeU1kb0dEemVWeWpsVDJqbGRqcXI0cGhvQQ?oc=5",
-   "published_utc": "2026-11-09T01:52:42+00:00",
-   "title_original": "Japan bought yen at record pace in July",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf7b038de163169b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3508,8 +3525,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -3523,7 +3540,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -3853,8 +3870,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -3868,7 +3885,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4010,8 +4027,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4025,7 +4042,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4148,8 +4165,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -4162,7 +4179,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -51967,23 +51984,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4378c0657bb65dbc"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "TSMC forecasts increase in Q4 revenue after posting sixth straight quarter of record profit",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
-   "published_utc": "2026-10-14T23:02:00+00:00",
-   "title_original": "TSMC forecasts increase in Q4 revenue after posting sixth straight quarter of record profit",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d32070122e8f9124"
   },
   {
    "source_id": "manual_ia",
