@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T20:42:44.175756+00:00
+Última coleta: 2026-11-09T20:52:44.618155+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          875
+  🇯🇵 Japão          926
+  🇨🇳 China          876
   🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [china] House Democratic leader says lawmakers need answers about Nvidia and wants restrictions on chip sales to China
+  - [china] House Democratic leader says lawmakers needs answers on Nvidia, wants China chip restrictions
   - [china] Taiyuan Investigates Deadly Fire at Mixed-Use High-Rise
   - [japan] Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn
   - [japan] Dollar weakens against euro, yen as Iran talks lift risk appetite
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Producer Inflation Hits 5.7% for Post-Covid Era High
   - [taiwan] KYEC warns AI demand is amplifying semiconductor supply-chain risks
   - [japan] ``Party support rate'' for about 30 years The key to elections revealed by NHK opinion poll
-  - [korea] Lam Research, Comet bid for S.Korean chip equipment maker Dawon Powertron
-  - [taiwan] Taiex posts 2nd-largest daily point gain on intervention pledge
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T20:42:44+00:00",
+      "published_utc": "2026-11-09T20:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
