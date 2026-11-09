@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-09T05:22:45.600668+00:00",
- "collected_at_utc": "2026-11-09T05:22:45.600668+00:00",
+ "generated_at_utc": "2026-11-09T05:32:43.168455+00:00",
+ "collected_at_utc": "2026-11-09T05:32:43.168455+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 927,
-  "china": 881,
+  "japan": 926,
+  "china": 880,
   "taiwan": 330,
-  "korea": 862
+  "korea": 864
  },
  "elapsed_s": 29.5,
  "sources": [
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:45:00+00:00"
+   "newest": "2026-11-09T05:21:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T12:00:10+00:00"
+   "newest": "2026-11-09T04:54:20+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T05:03:46+00:00"
+   "newest": "2026-11-09T05:24:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-09T05:00:38+00:00"
+   "newest": "2026-11-09T05:24:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T02:13:11+00:00"
+   "newest": "2026-11-09T05:23:39+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-09T05:18:42+00:00"
+   "newest": "2026-11-09T05:30:55+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T05:20:04+00:00"
+   "newest": "2026-11-09T05:31:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,78 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-09T04:25:00+00:00"
+   "newest": "2026-11-09T05:20:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109000130:0-china-faces-deflationary-risks-in-2027-even-if-oil-prices-normalize-market-talk/",
+   "published_utc": "2026-11-09T05:31:00+00:00",
+   "title_original": "China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "625e6d6ec953a118"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46L0SK:0-chinese-banks-boost-dollar-deposit-rates-sources-say-as-beijing-seeks-to-smooth-yuan-rally/",
+   "published_utc": "2026-11-09T05:30:00+00:00",
+   "title_original": "Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d19ed7188647eccd"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Korean food exporters sign $15 million in preliminary deals at Melbourne fair",
+   "url": "https://www.koreaherald.com/article/10930798",
+   "published_utc": "2026-11-09T05:27:47+00:00",
+   "title_original": "Korean food exporters sign $15 million in preliminary deals at Melbourne fair",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "76a6684c1f66d19f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "파이낸셜신문",
+   "title_en": "Woori Financial Group: \"The direct impact of the U.S. midterm elections is limited... The Bank of Korea will raise the benchmark interest rate by 25 basis points.\"",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zQkY5ZTRiZXExRFRfc1lfSEdmcHFxTWxDNmd6VHJUcHpoeHl6cGlkeTdXV1l3d29UU3VlS0hQNUFqMGxmVjc0Z3plXzNSSWlvRmktUWJ1eUZWYWRPVkJUSGV4elpKbnhYNmhN?oc=5",
+   "published_utc": "2026-11-09T05:20:00+00:00",
+   "title_original": "우리금융硏 \"미 중간선거 직접적인 영향 제한적 ... 한은, 기준금리 25bp 인상할 것\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d529f44b20a1b60"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -395,6 +463,23 @@
    "id": "6cd02a17b3835b45"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months",
+   "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-5010427",
+   "published_utc": "2026-11-09T05:07:14+00:00",
+   "title_original": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3d5a86eaef10a956"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's October car exports stay resilient, falling domestic sales yet to hit bottom",
@@ -444,23 +529,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e7ee5d57d9ac84d2"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months",
-   "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-5010427",
-   "published_utc": "2026-11-09T04:54:35+00:00",
-   "title_original": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3d5a86eaef10a956"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1306,41 +1374,6 @@
    "live_wire": true,
    "manual": false,
    "id": "48d4691b6ed656cb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y250.0B Of 10-Year CPI-Indexed Bonds Nov 16",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001168:0-japan-mof-to-auction-y250-0b-of-10-year-cpi-indexed-bonds-nov-16/",
-   "published_utc": "2026-11-09T01:30:00+00:00",
-   "title_original": "Japan MOF To Auction Y250.0B Of 10-Year CPI-Indexed Bonds Nov 16",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c5a5f4c8a2076b09"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Oct CPI +0.7% on Year; Market Expected +0.8%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261108001170_20261108001170:0-china-oct-cpi-0-7-on-year-market-expected-0-8/",
-   "published_utc": "2026-11-09T01:30:00+00:00",
-   "title_original": "China Oct CPI +0.7% on Year; Market Expected +0.8%",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "88e9f4b175bf98cb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -11788,24 +11821,6 @@
    "id": "57e1f44369a122d5"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
-   "published_utc": "2026-11-03T02:47:23+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb08c742bed91b2e"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 billion yen turned into a deficit of 2.8 billion yen | Politics, Economy, Investment | Toyo Keizai Online",
@@ -11873,6 +11888,24 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
+   "published_utc": "2026-11-03T02:08:10+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51946,41 +51979,6 @@
    "live_wire": false,
    "manual": false,
    "id": "733165bf16408942"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU to Remove Sanctions on Chinese Firm to Save ASML Supplier",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
-   "published_utc": "2026-10-14T14:36:43+00:00",
-   "title_original": "EU to Remove Sanctions on Chinese Firm to Save ASML Supplier",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e0eb60b62a1f7ab"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "虎嗅",
-   "title_en": "On October 15, 2026, the central bank increased the amount of 6-month buyout reverse repurchase with an additional amount of 700 billion yuan, with an additional amount of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MUHRNYl8yUzdZT21uRTJ6Y3hqeS04bFpMUV9UbG11VWFQUlNIMTRSSTJOUWNqZVloYzJ5bFBrZmthMmJhRTNMd20tMTMxcDVicWx0MA?oc=5",
-   "published_utc": "2026-10-14T14:30:35+00:00",
-   "title_original": "央行2026年10月15日加量续作7000亿元6个月期买断式逆回购，加量规模2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e40de5f97782ee88"
   },
   {
    "source_id": "manual_ia",

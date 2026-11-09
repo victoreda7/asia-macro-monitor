@@ -7,23 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T05:22:45.600668+00:00
+Última coleta: 2026-11-09T05:32:43.168455+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          881
+  🇯🇵 Japão          926
+  🇨🇳 China          880
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  862
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [china] China Faces Deflationary Risks in 2027 Even if Oil Prices Normalize — Market Talk
+  - [china] Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally
+  - [korea] Korean food exporters sign $15 million in preliminary deals at Melbourne fair
+  - [korea] Woori Financial Group: "The direct impact of the U.S. midterm elections is limited... The Bank of Korea will r
   - [korea] Nvidia, SK Telecom, Rebellions forge AI chip alliance
   - [japan] Berkshire plans second yen-denominated bond offering of 2026
   - [china] China extends suspension of 24 pct additional tariff on U.S. goods for two months
+  - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] China's October car exports stay resilient, falling domestic sales yet to hit bottom
   - [japan] Consumption Activity Index
   - [china] China's Inflation Likely to Remain Low Next Year — Market Talk
-  - [china] China extends suspensions of 24% tariff on US goods, port fees on US ships for two months
   - [china] The central bank launched a 182 billion yuan reverse repurchase operation on November 9, with a net withdrawal
   - [japan] Japan bought yen at record pace in July
   - [china] Asia FX gains as dollar steadies after strong U.S. jobs data; China CPI in focus
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Mitsui Chemicals: Development Bank of Japan to Jointly Invest in JSR
   - [korea] South Korean won gains most among subdued Asian FX
   - [china] China Producer Inflation Accelerates to Over Four-Year High
-  - [china] China’s imported inflation accelerates as PPI up most since 2022 amid Iran war
-  - [japan] Mitsui Chemical Says It Will Sell Shares Worth Up To 150 Billion Yen To Help Finance Jsr Acquisition
-  - [korea] Citi: "If semiconductor exports are sluggish, the Bank of Korea is likely to cut its base interest rate in the
-  - [korea] Citi: "If the semiconductor industry declines, interest rates will be cut in the second half of next year... I
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T05:22:45+00:00",
+      "published_utc": "2026-11-09T05:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
