@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-09T07:02:44.142725+00:00",
- "collected_at_utc": "2026-11-09T07:02:44.142725+00:00",
+ "generated_at_utc": "2026-11-09T07:12:45.455770+00:00",
+ "collected_at_utc": "2026-11-09T07:12:45.455770+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 931,
-  "china": 871,
+  "japan": 934,
+  "china": 869,
   "taiwan": 331,
-  "korea": 867
+  "korea": 866
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T05:58:54+00:00"
+   "newest": "2026-11-09T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:04:11+00:00"
+   "newest": "2026-11-09T05:46:52+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T01:26:00+00:00"
+   "newest": "2026-11-09T07:06:11+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-09T15:52:03+09:00"
+   "newest": "2026-11-09T16:10:41+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-09T07:02:00+00:00"
+   "newest": "2026-11-09T07:10:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T03:00:22+00:00"
+   "newest": "2026-11-09T07:05:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-09T10:00:00+09:00"
+   "newest": "2026-11-09T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors deliberations to pass the consumption tax reduction bill.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72949",
+   "published_utc": "2026-11-09T07:10:41+00:00",
+   "title_original": "自民・維新 消費税減税法案成立に向け 参議院審議でも緊密連携",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc2716421ce20098"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chuo Warehouse Co Ltd - To Buy Back Up To 4.3% Of Own Shares Worth 1 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46N4DP:0-chuo-warehouse-co-ltd-to-buy-back-up-to-4-3-of-own-shares-worth-1-billion-yen/",
+   "published_utc": "2026-11-09T07:02:38+00:00",
+   "title_original": "Chuo Warehouse Co Ltd - To Buy Back Up To 4.3% Of Own Shares Worth 1 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ab42196565a2c262"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction bill when it enters committee deliberation",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261109de72947",
+   "published_utc": "2026-11-09T07:02:22+00:00",
+   "title_original": "参院 野党6党 消費税減税法案“委員会審議入りは首相出席を”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc49093dab9e37aa"
+  },
   {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
@@ -1515,23 +1568,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fb44ce4f3103df34"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON",
-   "url": "https://www.tradingview.com/news/dpa_afx:92520dd92a0ee:0-china-pboc-conducts-cny182-bln-via-o-n-reverse-repo-mon/",
-   "published_utc": "2026-11-09T01:37:17+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY182 BLN VIA O/N REVERSE REPO MON",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a990177d897a8b54"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3160,8 +3196,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -3175,7 +3211,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -3505,8 +3541,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -3520,7 +3556,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64f02842f689e851"
+   "id": "a7dbc7aa1618ce1c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3662,8 +3698,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -3677,7 +3713,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3800,8 +3836,8 @@
    "id": "3c584c134ba2d040"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Proceeds from additional sales of Bank of Japan ETFs will be used as a source of funds for new investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71505",
    "published_utc": "2026-11-06T07:58:30+00:00",
@@ -3814,7 +3850,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "705c63df64126f26"
+   "id": "c530180905f7b7d3"
   },
   {
    "source_id": "tradingview_live",
@@ -51947,40 +51983,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e8a5d648ea678ab0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Micron Takes Another Hit as China Chip Fears Flare",
-   "url": "https://www.tradingview.com/news/gurufocus:b167b8742094b:0-micron-takes-another-hit-as-china-chip-fears-flare/",
-   "published_utc": "2026-10-14T16:40:52+00:00",
-   "title_original": "Micron Takes Another Hit as China Chip Fears Flare",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1bf1321325b5a6d2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Benzinga",
-   "title_en": "ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It",
-   "url": "https://www.tradingview.com/news/benzinga:c8bd47305094b:0-asml-s-next-big-chipmaking-cycle-has-a-timeline-intel-samsung-and-tsmc-set-it/",
-   "published_utc": "2026-10-14T16:22:06+00:00",
-   "title_original": "ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e7f0e69d246e3aad"
   },
   {
    "source_id": "manual_ia",

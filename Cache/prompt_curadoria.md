@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-09T07:02:44.142725+00:00
+Última coleta: 2026-11-09T07:12:45.455770+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          871
+  🇯🇵 Japão          934
+  🇨🇳 China          869
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
+  - [japan] Chuo Warehouse Co Ltd - To Buy Back Up To 4.3% Of Own Shares Worth 1 Billion Yen
+  - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
   - [taiwan] TIER raises Taiwan's 2026 growth forecast to 12.34% on AI demand
   - [japan] Government/BOJ yen buying intervention hits record high of approximately 8 trillion yen on July 30th (ABEMA TI
   - [japan] The Chiba Bank, Ltd. - To Buy Back Up To 1.09% Own Shares Worth 15 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Producer Inflation Accelerates to Over Four-Year High — Update
   - [china] China's yuan holds steady as seasonal FX sales offset dollar strength
   - [taiwan] UKSC highlights three UK semiconductor strengths for Taiwan
-  - [china] China October consumer price index +0.7% 1% lower for 4th consecutive month
-  - [japan] Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue
-  - [taiwan] Malaysia-Taiwan fraying ties threaten future chip investments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-09T07:02:44+00:00",
+      "published_utc": "2026-11-09T07:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
