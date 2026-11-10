@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T02:12:45.048735+00:00
+Última coleta: 2026-11-10T02:22:44.296299+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
-  🇨🇳 China          877
-  🇹🇼 Taiwan         327
+  🇨🇳 China          878
+  🇹🇼 Taiwan         326
   🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean stocks rebound as chip giants lead recovery
+  - [japan] ``I ate 180,000 yen sushi with my wife'' and ``Prices are rising.'' Pros and cons of Shinjuku ward councilor's
+  - [china] On November 10, the central bank launched a 190 billion yuan overnight reverse repurchase operation.
   - [korea] Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?
   - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
   - [japan] At the October meeting of the Bank of Japan, many voices called for interest rate hike “quickly”; it is import
+  - [japan] Bank of Japan debated need for faster rate hikes, October summary shows
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [korea] “$40,000 export contract”... KOMIPO supports overseas expansion of AI and robotics SMEs at Robotworld
   - [japan] Japan has agreed to provide 4.3 billion yen (about 36.6 billion won) worth of defense equipment to t..
@@ -36,10 +40,8 @@ Total: 3000 manchetes
   - [taiwan] Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics
   - [japan] Next interest rate hike: ``Implement when possible'': Bank of Japan members' opinions at the October decision 
   - [japan] As underlying inflation reaches 2%, multiple opinions say it is necessary to raise interest rates to a neutral
-  - [japan] Some in BOJ called for faster rate hikes, October summary shows
   - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
   - [taiwan] Systex hits record October revenue on overseas semiconductor expansion
-  - [japan] Bank of Japan debated need for faster rate hikes, October summary shows
   - [japan] Bank of Japan member says rate hike should be done when possible (Kyodo News)
   - [japan] BREAKING NEWS: BOJ member urges rate hike when possible, without caution
   - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Popular government bonds for individuals with over 8 trillion yen issued
   - [japan] Can the proceeds from the sale of Bank of Japan ETFs cover the economic security "bridgment government bonds"?
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
-  - [china] House Democratic leader says lawmakers need answers on Nvidia, wants China chip restrictions
-  - [japan] Threat of trade curbs pushes Japan steel exports to three-decade low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T02:12:45+00:00",
+      "published_utc": "2026-11-10T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
