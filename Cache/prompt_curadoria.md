@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T04:52:43.476153+00:00
+Última coleta: 2026-11-10T05:02:46.124540+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -17,7 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] Market rout tests BOJ's upbeat view of financial conditions
+  - [taiwan] Demand for gold reserves increases as Singapore launches central bank custody service to tap international mar
+  - [japan] Analysis-Market rout tests BOJ’s upbeat view of financial conditions
   - [japan] BOJ Opinion Summary Shows Board Remains in Favor of More Tightening
   - [china] The central bank launched a 190 billion yuan reverse repurchase program on November 10, with a net investment 
   - [china] China Unlikely to Lower Policy Rate in Near Term — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says
   - [taiwan] Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth
   - [china] The central bank launched a 190 billion yuan overnight reverse repurchase operation in the open market today
-  - [japan] Monetary policy method ``Everything is decided by the Bank of Japan'', no effect on ETF sales = Finance Minist
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T04:52:43+00:00",
+      "published_utc": "2026-11-10T05:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
