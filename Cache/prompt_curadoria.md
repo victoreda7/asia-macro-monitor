@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T01:52:43.552511+00:00
+Última coleta: 2026-11-10T01:59:18.934404+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          877
-  🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  862
+  🇯🇵 Japão          932
+  🇨🇳 China          878
+  🇹🇼 Taiwan         327
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [korea] “$40,000 export contract”... KOMIPO supports overseas expansion of AI and robotics SMEs at Robotworld
   - [china] China busca obter vantagem em alta tecnologia em um setor que responde por 80% do comércio mundial
+  - [korea] With Samsung Electronics and SK Hynix set to return 200 trillion won to shareholders this year...“For share pr
   - [korea] A company that imported tens of billions of won worth of magnesium alloys, mixed them with its own p..
   - [china] CHINA PBOC CONDUCTS CNY190 BLN VIA O/N REVERSE REPO TUES
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7167 TUES VS 6.7188
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
   - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
   - [taiwan] Systex hits record October revenue on overseas semiconductor expansion
+  - [japan] Bank of Japan debated need for faster rate hikes, October summary shows
   - [japan] Bank of Japan member says rate hike should be done when possible (Kyodo News)
   - [japan] BREAKING NEWS: BOJ member urges rate hike when possible, without caution
   - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Taiyuan Investigates Deadly Fire at Mixed-Use High-Rise
   - [japan] Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn
   - [japan] Dollar weakens against euro, yen as Iran talks lift risk appetite
-  - [japan] Toyota Set To Bring Camry Back To Japan With Reverse Imports From US, Nikkei Says
-  - [japan] Toyota set to bring Camry back to Japan with reverse imports from US
-  - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Bln Series A Led By IMM Investment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T01:52:43+00:00",
+      "published_utc": "2026-11-10T01:59:19+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
