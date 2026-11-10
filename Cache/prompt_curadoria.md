@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T01:32:43.528197+00:00
+Última coleta: 2026-11-10T01:42:44.987478+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          874
-  🇹🇼 Taiwan         332
+  🇯🇵 Japão          932
+  🇨🇳 China          877
+  🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY190 BLN VIA O/N REVERSE REPO TUES
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7167 TUES VS 6.7188
+  - [china] The "anchor change" of the central bank's policy interest rate has been implemented smoothly, and the precisio
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
   - [japan] Next interest rate hike: ``Implement when possible'': Bank of Japan members' opinions at the October decision 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Bln Series A Led By IMM Investment
   - [china] MP Stock Rises as China Extends Rare-Earth Reprieve Ahead of Trump-Xi Meeting — Barrons.com
   - [korea] NAVER D2SF-backed MOVIN Raises KRW 10 Billion Series A to Expand from Motion Capture to Motion Data Infrastruc
-  - [china] U.S. Extends Tariff Exclusions for 178 Chinese Product Categories
-  - [china] China Longyuan Power Posts October 2026 Power Generation Up 22.64% To 6.9 Million Mwh
-  - [korea] On the 26th, the Monetary Policy Committee raised the base interest rate by 0.25%… ‘3.25% expected’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T01:32:43+00:00",
+      "published_utc": "2026-11-10T01:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
