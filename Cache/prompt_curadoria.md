@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T06:52:45.169555+00:00
+Última coleta: 2026-11-10T07:02:42.808758+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          936
+  🇯🇵 Japão          935
   🇨🇳 China          895
-  🇹🇼 Taiwan         313
+  🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC October Revenue Jumps 60% Y-o-Y
+  - [taiwan] REG - Nexteq PLC - Taiwan property sale and trading update
+  - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
+  - [china] In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight
   - [japan] Honda raises full-year profit forecast as weak yen trumps costly EV retreat
   - [china] China Opens Onshore Forex Market to Overseas Yuan Clearing Banks
+  - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip, Airline Stocks Advance
   - [taiwan] TSMC October revenue jumps nearly 60% on strong AI chip demand
   - [china] China exports stay brisk as annual trade surplus tops $1tn
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance
   - [japan] Future interest rate hikes will be ``implemented when possible,'' and there is also mention of raising the rat
   - [taiwan] Machine Tool Association: Exports of complete machines remain flat and key components continue to grow | Indus
-  - [china] Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show
-  - [taiwan] Demand for gold reserves increases as Singapore launches central bank custody service to tap international mar
-  - [japan] Analysis-Market rout tests BOJ’s upbeat view of financial conditions
-  - [japan] BOJ Opinion Summary Shows Board Remains in Favor of More Tightening
-  - [china] The central bank launched a 190 billion yuan reverse repurchase program on November 10, with a net investment 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T06:52:45+00:00",
+      "published_utc": "2026-11-10T07:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
