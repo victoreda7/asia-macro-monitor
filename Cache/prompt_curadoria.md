@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T08:42:44.785674+00:00
+Última coleta: 2026-11-10T08:52:43.234663+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
-  🇨🇳 China          894
+  🇨🇳 China          893
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  860
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
@@ -27,12 +27,12 @@ Total: 3000 manchetes
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
   - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
+  - [korea] Monetary Policy Committee members who froze interest rates "check the effect of consecutive interest rate incr
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [taiwan] TSMC's October sales soar almost 60% year-on-year to hit high
   - [taiwan] Taiwan sees US$10 billion in capital outflows in November
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
-  - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
   - [china] Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B
   - [japan] SoftBank Group interim financial results final deficit of 768 billion yen
   - [korea] South Korean shares rebound as chipmaker track US peers
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T08:42:45+00:00",
+      "published_utc": "2026-11-10T08:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
