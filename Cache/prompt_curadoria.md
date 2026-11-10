@@ -7,34 +7,37 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T04:32:43.187664+00:00
+Última coleta: 2026-11-10T04:42:45.508618+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          895
-  🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  857
+  🇯🇵 Japão          934
+  🇨🇳 China          896
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [japan] Market rout tests BOJ's upbeat view of financial conditions
+  - [japan] BOJ Opinion Summary Shows Board Remains in Favor of More Tightening
   - [china] The central bank launched a 190 billion yuan reverse repurchase program on November 10, with a net investment 
+  - [china] China Unlikely to Lower Policy Rate in Near Term — Market Talk
   - [taiwan] Central Bank: The current situation of foreign capital remittances of tens of billions of dollars in non-suppo
   - [japan] MODEC: Higher FY26 guidance follows strong 3Q26 results and a JPY 10B buyback approval
   - [china] China's Trade Surplus Surged Past $1 Trillion in October — WSJ
   - [japan] Toray Industries - To Buy Back Up To 5.08% Own Shares Worth 70 Billion Yen
   - [japan] Toa Corp (Tokyo) - To Buy Back Up To 5.67% Of Own Shares Worth 8 Billion Yen
-  - [china] China’s October crude oil imports rise to highest level since March amid Middle East war
   - [china] China October soybean imports fall on high inventories, weak crush margins
   - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
   - [china] Yuan steady after dollar softens, awaits US CPI
-  - [china] China October rare earth exports jump 2.7% from prior month
   - [china] China's copper concentrate imports slump 11% in October as smelter woes deepen
   - [japan] Modec Inc - To Buy Back Up To 2.9% Of Own Shares Worth 10 Billion Yen
   - [china] China's iron ore imports at five-month low as thin margins dent appetite
   - [china] The Trump-Xi APEC summit paved the way for China to extend its suspension of rare earth and other export contr
+  - [china] China October rare earth exports jump 2.7% from prior month
   - [japan] In Japan chip deal, everyone wins except the buyer
   - [korea] Korean stocks rebound as chip giants lead recovery
   - [china] CXMT chairman's reported DeepSeek investment spotlights China's semiconductor capital network
+  - [china] China's October crude oil imports rise to highest level since March amid Middle East war
   - [china] China exports stay resilient as trade surplus tops $1tn
   - [china] CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS
   - [china] China trade balance shrinks more than expected in Oct; imports surge
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth
   - [china] The central bank launched a 190 billion yuan overnight reverse repurchase operation in the open market today
   - [japan] Monetary policy method ``Everything is decided by the Bank of Japan'', no effect on ETF sales = Finance Minist
-  - [korea] South Korea’s defense export boom exposes cockpit display vulnerability
-  - [taiwan] IEAT and the Export-Import Bank of China signed an MOU to join forces to help enterprises expand into internat
-  - [japan] ``I ate 180,000 yen sushi with my wife'' and ``Prices are rising.'' Pros and cons of Shinjuku ward councilor's
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T04:32:43+00:00",
+      "published_utc": "2026-11-10T04:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
