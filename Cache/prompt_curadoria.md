@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T08:52:43.234663+00:00
+Última coleta: 2026-11-10T09:02:44.979092+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
-  🇨🇳 China          893
+  🇨🇳 China          892
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  861
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Exclusive] LG Chem has amassed 2.5 trillion won ... to build a semiconductor materials plant on a petrochemic
   - [china] China's Hesai Q3 revenue rises 34% as lidar shipments grow
   - [korea] Nexon axes eight projects in restructuring as S.Korean game sector tightens belt amid downturn
   - [china] ZAWYA: Can China’s zero-tariff programme offset the loss of Agoa for South African agriculture?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC: Revenue for January-October Totaled NT$4.485T, Up 43% on Year >2330.TW
   - [taiwan] TSMC: Revenue for October Totaled NT$586.89B, Up 15% From September >2330.TW
   - [taiwan] TSMC Revenue Rose 60% on Year in October >2330.TW
-  - [japan] The current account surplus in the first half of this fiscal year is the second largest on record.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T08:52:43+00:00",
+      "published_utc": "2026-11-10T09:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
