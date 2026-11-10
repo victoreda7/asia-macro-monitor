@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T01:59:18.934404+00:00
+Última coleta: 2026-11-10T02:02:44.198549+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
+  🇯🇵 Japão          933
   🇨🇳 China          878
   🇹🇼 Taiwan         327
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [korea] “$40,000 export contract”... KOMIPO supports overseas expansion of AI and robotics SMEs at Robotworld
   - [china] China busca obter vantagem em alta tecnologia em um setor que responde por 80% do comércio mundial
   - [korea] With Samsung Electronics and SK Hynix set to return 200 trillion won to shareholders this year...“For share pr
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] House Democratic leader says lawmakers needs answers on Nvidia, wants China chip restrictions
   - [china] Taiyuan Investigates Deadly Fire at Mixed-Use High-Rise
   - [japan] Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn
-  - [japan] Dollar weakens against euro, yen as Iran talks lift risk appetite
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T01:59:19+00:00",
+      "published_utc": "2026-11-10T02:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
