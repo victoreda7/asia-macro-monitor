@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T07:02:42.808758+00:00
+Última coleta: 2026-11-10T07:12:47.543800+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
-  🇨🇳 China          895
+  🇯🇵 Japão          936
+  🇨🇳 China          893
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  856
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [japan] SoftBank Group interim financial results final deficit of 768 billion yen
+  - [korea] South Korean shares rebound as chipmaker track US peers
+  - [japan] Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen
   - [taiwan] TSMC October Revenue Jumps 60% Y-o-Y
   - [taiwan] REG - Nexteq PLC - Taiwan property sale and trading update
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
@@ -26,6 +29,7 @@ Total: 3000 manchetes
   - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip, Airline Stocks Advance
   - [taiwan] TSMC October revenue jumps nearly 60% on strong AI chip demand
+  - [taiwan] TSMC October 2026 revenue surges 59.7% on strong AI chip demand
   - [china] China exports stay brisk as annual trade surplus tops $1tn
   - [china] China puts yuan within easier reach of Africa, but adoption faces major hurdles: report
   - [taiwan] TSMC Oct revenue jumps 60% as AI-fueled demand remains strong
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan ETF sales to bring in $6.3 bln annually, finmin Katayama says
   - [china] Chinese Chip Firms Have Mixed Debuts in Hong Kong
   - [china] Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
-  - [china] China's crude oil imports recover, fuel exports not so much: Russell
-  - [japan] Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance
-  - [japan] Future interest rate hikes will be ``implemented when possible,'' and there is also mention of raising the rat
-  - [taiwan] Machine Tool Association: Exports of complete machines remain flat and key components continue to grow | Indus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T07:02:43+00:00",
+      "published_utc": "2026-11-10T07:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

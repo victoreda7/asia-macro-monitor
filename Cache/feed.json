@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T07:02:42.808758+00:00",
- "collected_at_utc": "2026-11-10T07:02:42.808758+00:00",
+ "generated_at_utc": "2026-11-10T07:12:47.543800+00:00",
+ "collected_at_utc": "2026-11-10T07:12:47.543800+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 935,
-  "china": 895,
+  "japan": 936,
+  "china": 893,
   "taiwan": 314,
-  "korea": 856
+  "korea": 857
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 34.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T04:21:06+00:00"
+   "newest": "2026-11-10T06:27:36+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T15:08:00+09:00"
+   "newest": "2026-11-10T16:07:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T05:42:00+00:00"
+   "newest": "2026-11-10T02:23:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:58:00+00:00"
+   "newest": "2026-11-10T03:31:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T07:02:07+00:00"
+   "newest": "2026-11-10T07:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T05:57:00+00:00"
+   "newest": "2026-11-10T06:58:11+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T06:56:33+00:00"
+   "newest": "2026-11-10T06:59:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "SoftBank Group interim financial results final deficit of 768 billion yen",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73545",
+   "published_utc": "2026-11-10T07:07:00+00:00",
+   "title_original": "ソフトバンクグループ中間決算 7680億円の最終赤字",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "afa16fca1ff06cd6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares rebound as chipmaker track US peers",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R088:0-south-korean-shares-rebound-as-chipmaker-track-us-peers/",
+   "published_utc": "2026-11-10T07:06:17+00:00",
+   "title_original": "South Korean shares rebound as chipmaker track US peers",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3c621af0c85e4e5d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q2JF:0-aichi-financial-group-inc-to-buy-back-up-to-0-9-of-own-shares-worth-3-billion-yen/",
+   "published_utc": "2026-11-10T07:02:30+00:00",
+   "title_original": "Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9d49c99b8bdc5f1e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -495,6 +547,23 @@
    "live_wire": true,
    "manual": false,
    "id": "29bab6e9c69ca7f1"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC October 2026 revenue surges 59.7% on strong AI chip demand",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWd1T3VYYUNTUEFBLVJfWWFoa0hNWi1Va3hISTJ1STZBZEd5bU11RU1pdjZuVUVTYXAtT2hLUTdjQlNtTlZmNUtYNWNkZ0hrdDlLZzdsZmJRMGd6YWo4Q19JS3BEa1REampXUmhYOWtHTERlRFV0ZHpHWEl4VXpGRUFoRlRxdncwYVE?oc=5",
+   "published_utc": "2026-11-10T06:27:36+00:00",
+   "title_original": "TSMC October 2026 revenue surges 59.7% on strong AI chip demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b55b82ca927cdbe"
   },
   {
    "source_id": "nikkei_asia",
@@ -1255,24 +1324,6 @@
    "id": "772cdb41be05f367"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yuan steady after dollar softens, awaits US CPI",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R03X:0-yuan-steady-after-dollar-softens-awaits-us-cpi/",
-   "published_utc": "2026-11-10T03:43:15+00:00",
-   "title_original": "Yuan steady after dollar softens, awaits US CPI",
-   "region": "china",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c8b39e3796211aac"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
@@ -1288,23 +1339,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6b8945eca79c4f5c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's copper concentrate imports slump 11% in October as smelter woes deepen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46R09O:0-china-s-copper-concentrate-imports-slump-11-in-october-as-smelter-woes-deepen/",
-   "published_utc": "2026-11-10T03:40:11+00:00",
-   "title_original": "China's copper concentrate imports slump 11% in October as smelter woes deepen",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f38b5c473c47020f"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -9172,7 +9206,7 @@
    "id": "2a6d2709d43ef204"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "China says US farm purchases hinge on tariff-cut deal",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZCZGJiUVFJRkdBeU1DaTExb3FMSmdaLVRuLTRrQWNnd3F5MDg1YnZlTUZfclBPRWhQZXdlbWxEakVXdlNidWVWbmhFcGZTVEpSOWlJSE1FTHhOWTVlUXkwSG5rTXRNTDE5ckRWTzhnYmx3LVVJSDE2S2JNQW9CTUNFanlFNWlqMkJWdFZTMzU0VnpzX2tua25aQS0zNTdsUDNRRA?oc=5",
@@ -9186,7 +9220,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "32a2b0dbe7a5f0c1"
+   "id": "505a82c6f0dda0b9"
   },
   {
    "source_id": "tradingview_live",
@@ -51929,41 +51963,6 @@
    "live_wire": false,
    "manual": false,
    "id": "588cdbebe2db065e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Global policymakers see no imminent risk of financial instability, Japan official says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4611Y1:0-global-policymakers-see-no-imminent-risk-of-financial-instability-japan-official-says/",
-   "published_utc": "2026-10-15T16:08:46+00:00",
-   "title_original": "Global policymakers see no imminent risk of financial instability, Japan official says",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8f7cb856dd6f39c6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Why TSMC's $64 billion spending plan shouldn't scare away investors",
-   "url": "https://www.tradingview.com/news/invezz:8eecc4ec5bc81:0/",
-   "published_utc": "2026-10-15T16:07:49+00:00",
-   "title_original": "Por que o plano de gastos de US$64 bilhões da TSMC não deve afastar investidores",
-   "region": "taiwan",
-   "topics": [
-    "fiscal",
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "c7a1dcb69737524b"
   },
   {
    "source_id": "manual_ia",
