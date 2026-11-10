@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T11:32:44.473637+00:00
+Última coleta: 2026-11-10T11:42:43.750055+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
-  🇨🇳 China          899
+  🇨🇳 China          900
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report
   - [china] Case involving Nvidia CEO and alleged spy favored US$7.5 billion in chips for China, says Information
   - [china] Nvidia CEO's affair with an alleged spy contributed to $7.5 billion worth of chip shipments to China, accordin
   - [china] China's iron ore imports hit lowest level in five months
@@ -43,6 +44,7 @@ Total: 3000 manchetes
   - [korea] KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [china] China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses
+  - [taiwan] UK space firms eye Taiwan's chip and hardware ecosystem, global satellite production scales up
   - [korea] October Monetary Policy Committee unanimously freezes... Additional tightening is weighed against price pressu
   - [korea] [Exclusive] LG Chem has amassed 2.5 trillion won ... to build a semiconductor materials plant on a petrochemic
   - [china] China's Hesai Q3 revenue rises 34% as lidar shipments grow
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
   - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
-  - [korea] Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committ
-  - [korea] Monetary Policy Committee members who froze interest rates "check the effect of consecutive interest rate incr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T11:32:44+00:00",
+      "published_utc": "2026-11-10T11:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

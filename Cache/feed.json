@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T11:32:44.473637+00:00",
- "collected_at_utc": "2026-11-10T11:32:44.473637+00:00",
+ "generated_at_utc": "2026-11-10T11:42:43.750055+00:00",
+ "collected_at_utc": "2026-11-10T11:42:43.750055+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 928,
-  "china": 899,
+  "china": 900,
   "taiwan": 310,
-  "korea": 863
+  "korea": 862
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T06:27:36+00:00"
+   "newest": "2026-11-10T08:59:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T11:14:09+00:00"
+   "newest": "2026-11-10T11:32:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T09:50:30+00:00"
+   "newest": "2026-11-10T11:37:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T20:23:00+09:00"
+   "newest": "2026-11-10T20:41:28+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T11:32:00+00:00"
+   "newest": "2026-11-10T11:42:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-10T11:08:08+00:00"
+   "newest": "2026-11-10T11:31:51+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -337,12 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-10T10:21:36+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report",
+   "url": "https://www.tradingview.com/news/seekingalpha:7ce4bd54e094b:0-nvidia-ceo-s-alleged-affair-helped-facilitate-7-5b-in-chip-shipments-to-china-report/",
+   "published_utc": "2026-11-10T11:39:00+00:00",
+   "title_original": "Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3afc8dc345ef3ff6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -792,6 +810,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b509950edbd6893b"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "UK space firms eye Taiwan's chip and hardware ecosystem, global satellite production scales up",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ1dSUTRaV3JXSG13cmRnaWxmcWlveFJVTEZLUTR3U1Y2WkxQMnNvdW1vblVOTmJQN3VzaVhERHAwZUlfSnFULUgtUjktTnp3SjdnaE1KTzdXeExoX25LaUNMQlc3V0x2MDBYdmR1WnE4UFl4WmIxdTBGUG54b0VPSEc5NkRQbjhIYWlGdkJ5S0dfZ05XLXdXcGlR?oc=5",
+   "published_utc": "2026-11-10T08:59:00+00:00",
+   "title_original": "UK space firms eye Taiwan's chip and hardware ecosystem, global satellite production scales up",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a2e1ceae703bb389"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1464,23 +1499,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cb00d232d50773fc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC: Revenue for January-October Totaled NT$4.485T, Up 43% on Year >2330.TW",
-   "url": "https://www.tradingview.com/news/DJN_DN20261110000592_20261110000620:0-tsmc-revenue-for-january-october-totaled-nt-4-485t-up-43-on-year-2330-tw/",
-   "published_utc": "2026-11-10T06:14:00+00:00",
-   "title_original": "TSMC: Revenue for January-October Totaled NT$4.485T, Up 43% on Year >2330.TW",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "24fff6318382cf3d"
   },
   {
    "source_id": "nhk_economy",
@@ -6677,8 +6695,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -6692,7 +6710,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -51956,24 +51974,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1b89badf80949625"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버 프리미엄콘텐츠",
-   "title_en": "Major schedules in Korea and the United States next week | Focus on Bank of Korea interest rates, Tesla, Meta, and semiconductor performance",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xVEt1OHpnd1NEcEtHN0o3cG9XVXBhQlNrd0dQQy1JTWthbGhxbWpBWVhrS2NSTDUzYi00SzRHb05KNVNuN1RaUnhHeWhVUXNmQzVlQ0NqdGcyRXNSVFhUem5lUjhXbEZQelB6dHlxNE9oTHJKbnkxSWZTTS1RQQ?oc=5",
-   "published_utc": "2026-10-15T23:25:00+00:00",
-   "title_original": "다음주 한국·미국 주요 일정｜한국은행 금리·테슬라·메타·반도체 실적 집중",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "db50bd92d07b6624"
   },
   {
    "source_id": "manual_ia",
