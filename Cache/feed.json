@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T02:02:44.198549+00:00",
- "collected_at_utc": "2026-11-10T02:02:44.198549+00:00",
+ "generated_at_utc": "2026-11-10T02:12:45.048735+00:00",
+ "collected_at_utc": "2026-11-10T02:12:45.048735+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 933,
-  "china": 878,
+  "china": 877,
   "taiwan": 327,
-  "korea": 862
+  "korea": 863
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:18:00+00:00"
+   "newest": "2026-11-10T01:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:24:56+00:00"
+   "newest": "2026-11-10T01:32:30+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
-   "newest": "2026-11-09T07:07:00+00:00"
+   "newest": "2026-11-10T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T11:00:03+09:00"
+   "newest": "2026-11-10T11:04:49+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T10:25:11+09:00"
+   "newest": "2026-11-10T10:25:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T02:00:00+00:00"
+   "newest": "2026-11-10T02:10:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:44:56+00:00"
+   "newest": "2026-11-10T02:01:35+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T05:40:10+00:00"
+   "newest": "2026-11-10T01:55:12+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T01:51:52+00:00"
+   "newest": "2026-11-10T02:02:23+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,63 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "newest": "2026-11-09T14:53:24+00:00"
+   "newest": "2026-11-10T02:10:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "이투데이",
+   "title_en": "Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWUZKUThybGliU01IcUxsekdLZ2YxNDdDMTgyU0NrUGtfRjZiVG9taVZjMU9EUE1ZLWRuYXBNQnZSSmxWNmlPTjZYSEc1cHZwbDJsT0dGdGNLVzRxUTdGWGpPYzd0eTZ4VWQtNW9qZ1dGNTZv?oc=5",
+   "published_utc": "2026-11-10T02:10:00+00:00",
+   "title_original": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f0d2735183b07ab8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R024:0-chinese-chip-firms-denglin-xinde-open-mixed-in-hong-kong-debuts/",
+   "published_utc": "2026-11-10T02:07:40+00:00",
+   "title_original": "Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7566412537835a4b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "At the October meeting of the Bank of Japan, many voices called for interest rate hike “quickly”; it is important for the underlying price index to remain at 2% (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlVEZ2SzFtZjJGNDlmVmk4NkdqTFQzWnpqbmxxWkktUl9UY0xLZ3FfMEZlcFN3SjdxdFdjNWZrdnlQbm1aeGxQeTZzdnhPRnpuRFZ2LURiV29iSHVFcm9nMzVXNUxxa09MWXNBRVNpWjlCTFdmczFNR0cxdWtVYlk?oc=5",
+   "published_utc": "2026-11-10T02:01:35+00:00",
+   "title_original": "日銀10月会合、利上げ「早く」の声相次ぐ 基調物価、2％定着が重要（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c7c965bccc27495"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -377,6 +430,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f647520c66f40de0"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Japan has agreed to provide 4.3 billion yen (about 36.6 billion won) worth of defense equipment to t..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Y1hlanhXaVQtQTFhQUZscmlaSHlOeGxnS0EyNm1IUmlFTEhpZ3pCS3FfRHVKZHVmd3Z1ZHdIckt2STlva2laWnhuNTNEdFE?oc=5",
+   "published_utc": "2026-11-10T01:47:13+00:00",
+   "title_original": "Japan has agreed to provide 4.3 billion yen (about 36.6 billion won) worth of defense equipment to t..",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bb5c5d616b0fb966"
   },
   {
    "source_id": "tradingview_live",
@@ -498,21 +568,72 @@
    "id": "ad086ebff3de846d"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46R02W:0-chinese-chip-firms-denglin-xinde-open-mixed-in-hong-kong-debuts/",
-   "published_utc": "2026-11-10T01:20:36+00:00",
-   "title_original": "Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts",
-   "region": "china",
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Semiconductor test-interface supplier WinWay revenue falls 11.51% MoM, rises 62.62% YoY",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTBHcFRpcXp3LV9USldFb3Q5MVhqejVETV82eDRsdzJZM19TNjUyelI1Zy1Zb05sTjdwNVZCdXNUMXJnLXI3R0xFMGJia0o3NXRCRTVFWlFjdmNPZHdoRGhhcWgyU3J5T184WjJ0V2ktM0ZaZTZ5LXhUSWlXWXpHQXhxV3kyTFVPc19XU01HUW54Zw?oc=5",
+   "published_utc": "2026-11-10T01:22:35+00:00",
+   "title_original": "Semiconductor test-interface supplier WinWay revenue falls 11.51% MoM, rises 62.62% YoY",
+   "region": "taiwan",
    "topics": [
     "industrial"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "e4f767ce9c15ec70"
+   "id": "ec815adfd9f07e4a"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "ePaper manufacturer E Ink to buy manufacturing plant in Taiwan for NT$2.78 billion, teams with Taiflex on AI materials",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOODZBdFB4WUZPTXhNaldTa2ZReWp2RDBpdm5GczhaY09IOWtRcTBYLXdSOHV1Tk4tZERQdkxCRWF2ZjBsSU1wWE5pLUlfQVBaVS0wZ3BQQnAzdmpEbGFRbmJqdktJQ3hYdmZvSDdWamVUOGdpSnluMkU3Um8tb0Z0V29CREdnVFU5d1dVbE5qMDVtWDlpRUtTZ3VLMEs?oc=5",
+   "published_utc": "2026-11-10T01:21:14+00:00",
+   "title_original": "ePaper manufacturer E Ink to buy manufacturing plant in Taiwan for NT$2.78 billion, teams with Taiflex on AI materials",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b8111a5943275ea"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Japanese chipmaker Rapidus targets Taiwan’s chip cluster model, plans 3 more Hokkaido plants",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVhhMzdtazh1TEM0ME5WWTUxdm9zbW5wNzRteFRyWVdjeTZCRWE0NE45NGJWZXNGNjZRRGFsRUVZTGhIclBSMlYyRTZtMFJDLUt4Y3RYTVdzVXRqejkySU4tRk8zZTNvOHFzM0FkTE5MZnhwcm5SWmdQaGVjLXJjMERUdmVTMFJZM19hNXlobw?oc=5",
+   "published_utc": "2026-11-10T01:20:20+00:00",
+   "title_original": "Japanese chipmaker Rapidus targets Taiwan’s chip cluster model, plans 3 more Hokkaido plants",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "75a24684934202e2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlRHcjgyWVJYOF82MDE2djRXRXFhY0JXZDdtVy15TmU0ZC1ia3puM1lyT1dGLUh0M0x0UUhrZVdUM3NZTURreTZNQlhXcElLckJ4bDhyZ1UzZFFzdUVJRF8xREZMQmh3UmZJdWo0VUJma3I4YTV4cVRHeFExM3NNcHl2aWJKZFZ3NFFlMkNsc1IycmctU3ZrTXJyWTJCRk1lRzd1bElKMmFlNzU0?oc=5",
+   "published_utc": "2026-11-10T01:19:25+00:00",
+   "title_original": "Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e59c76a054ddef93"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -848,7 +969,7 @@
    "source_name": "Yahoo!ニュース",
    "title_en": "Can the proceeds from the sale of Bank of Japan ETFs cover the economic security \"bridgment government bonds\"? Consideration is needed for fiscal discipline and the independence of the Bank of Japan (current affairs commentary by an NRI researcher)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05NzhTVkhuZHJ0TlZDNW1zSlc4WGRPTTZrTE5UOFhabEFvUjZzSXhCR2N0RlNpdHN2dzFUaEJaUFlaUmNiM1NVWEE2SEF1bXRtdTRQRldWZ3FoOG5ndHBrZ0JKZ0pPUnBnLXN6UlFlNFVFTUNtMjVyR2trZS1pZkU?oc=5",
-   "published_utc": "2026-11-09T22:40:32+00:00",
+   "published_utc": "2026-11-09T22:28:20+00:00",
    "title_original": "日銀ETF売却益で経済安保『つなぎ国債』は賄えるか：財政規律と日本銀行の独立性への配慮が必要（NRI研究員の時事解説）",
    "region": "japan",
    "topics": [
@@ -3641,24 +3762,6 @@
    "live_wire": false,
    "manual": false,
    "id": "122bf16cc929319d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-11-08T05:29:27+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -8704,24 +8807,6 @@
    "id": "de82a004de59991d"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bGp0NFVUbzdKdDFXNGV4OFA1dnFHMG1Gc0Q3aUw2WUNFbVJvZ3ZvMG8yZjVpVjRtUUZVcXdvRmNxVFhBMFlLam1XR2tuNW8wcV9TaXR1eGdEeE5aRnJFZA?oc=5",
-   "published_utc": "2026-11-05T04:19:41+00:00",
-   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed2a6680a0d80a"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
@@ -9859,6 +9944,24 @@
    "id": "00628f831f38c805"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-11-04T20:46:27+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "In Switzerland, it costs about 7,600 yen for just one hour. Swiss people are amazed. What is the surprising difference in prices compared to Japan? (Hint-Pot)",
@@ -9997,6 +10100,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 300 billion yuan buyout reverse repurchase operation with a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zT3V4WDVCa2RUb3NrLUFXaEJiYWZ0cHRDUkxrZ3I0UFB0TFc3czlLYXFqb1o2dlhKSFU1TUJCNkgtRDEzN2tCVGhMUkhXYVEtYmt3MEV4ZXRjXzdQVGNkeVVHWnoxZw?oc=5",
+   "published_utc": "2026-11-04T16:03:02+00:00",
+   "title_original": "央行将开展3000亿元买断式逆回购操作，期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5faf56004dbf3216"
   },
   {
    "source_id": "investing_econ",
@@ -13607,6 +13728,24 @@
    "id": "57e1f44369a122d5"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWk9xQjVXcmk1TnpTenBRd1dCUXNMTFUzX0pvZ2ppM3l2QlJNU3JXWkotS0h6ZlVubXdPeTNOWGlrTGN1SWQtTGphWU42QThyUjRocnFIdWtzMU9Dd2pWeERITUxNUQ?oc=5",
+   "published_utc": "2026-11-03T02:47:23+00:00",
+   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb08c742bed91b2e"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Aeon subsidiary Ministop suddenly goes into the red...The biggest factor behind the expected surplus of 1.5 billion yen turned into a deficit of 2.8 billion yen | Politics, Economy, Investment | Toyo Keizai Online",
@@ -13674,24 +13813,6 @@
    "live_wire": false,
    "manual": false,
    "id": "080c0ba158ef8797"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank takes action! The foreign exchange reserve ratio was raised by 2 percentage points, and the offshore RMB depreciated by more than 200 points.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUxhZzZqaHExNEpUS1QzSUZ0TE0xQ3dYbHRJcVpRT3pwS3FjVGZBNElROGNsS0xRLV9PelNpMkMwMjNFbkRwa3Z6OEhQbG1KUjdyYXY1RWpicWlmWjl1cnEzMnEwSWZ2dktUV3VuTHpLR19qOThOVjRzemgwX2ItQ25sR1ZBYmVqVEcwZUhRRQ?oc=5",
-   "published_utc": "2026-11-03T02:08:10+00:00",
-   "title_original": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7364cc7bb65ed56f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51851,126 +51972,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8ffd1fbf9eb63777"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Fujifilm to expand Arizona semiconductor materials output",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW9QeHp1QThMTGNJZXVHbGRabjFYUVFvUzBBQU92bkxKMDFwQWZncF9FdFNZLWVSVVZjYWpNQnF3aUNjbkxmdmt4TTNHZXZmUHNmRVc3b045N09WWnMyN0poWXl3dWR3eHduLUJpTFpLQkZacDJKcXMyQVJsX2Jma3hlOW5GZ0NNTkZNVUJiQjdSdlRldlowc0Y5SE0zZnBBREEtMA?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Fujifilm to expand Arizona semiconductor materials output",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f4fc9eccb384b11"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5bdb98f54dcc2c13"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Semiconductors to consume 30% of Taiwan's power by 2035",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUJqLVBISXpYR3ZvbUluaFcyeHdRRHBkNHRLNUc2ZUp1enZ6YzJISXRSdXFQOFZxa1FycG1zRTlYWWJteDZ5cU5QX1BHQ2tSQ3VFX1poM0ZvYURXTVUzTWczNmJodU4tdE9NVFdiQTd2U1ZlcW51RUNNc0FjSUlCSU5wMmMtQWlua1Y1ZHExcWF1LU1tQ3JfUGJvdFA?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Semiconductors to consume 30% of Taiwan's power by 2035",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ee38a149163ebf2"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局广东调查总队",
-   "title_en": "Consumer price index in September 2026",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44WnZLSTRjZ25oRzB0VHVNYnF4SzB0aExObUgxMy1qa2ZOU3RVcnMzNzZtT21PWlppbzBYdkprUWhMalg2OENGbHF5TlZWMXBNUU5WaWJHLXZvNkUyMTRfLTZIdDBEbWE1aEhMQU5IcnRFUFhkaUx0aHdwbGozQQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "2026年9月居民消费价格分类指数",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "33d99c938054ca20"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "TSE closing price 3318 yen lower, third largest decline",
-   "url": "https://news.yahoo.co.jp/pickup/6598878?source=rss",
-   "published_utc": "2026-10-15T06:54:08+00:00",
-   "title_original": "東証終値3318円安 3番目の下げ幅",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "31a5fdff39d6443b"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan finance minister: G20 concerned over yields, FX volatility",
-   "url": "https://asia.nikkei.com/business/markets/japan-finance-minister-g20-concerned-over-yields-fx-volatility",
-   "published_utc": "2026-10-15T06:42:42.349375+00:00",
-   "title_original": "Japan finance minister: G20 concerned over yields, FX volatility",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "102ce3b187fc5001"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOUxubk1MTS1iQ05oNjFyT3pqWVkydEhac3YzQ1NtZDVUbURhenJpNHZfRTd2dVZrQk5PUENjdURKMFVySUlkenBCWkpnOGRUS1NQdFhKTVdXQ1U5VWJETGN0RGZmWVhRQ0dDWFJWcTdCMExBbzV6LXJGOWlxRkhXVThpQUVvdw?oc=5",
-   "published_utc": "2026-10-15T06:35:58+00:00",
-   "title_original": "TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cad9a513b8dc61e9"
   },
   {
    "source_id": "manual_ia",

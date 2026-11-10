@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T02:02:44.198549+00:00
+Última coleta: 2026-11-10T02:12:45.048735+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
-  🇨🇳 China          878
+  🇨🇳 China          877
   🇹🇼 Taiwan         327
-  🇰🇷 Coreia do Sul  862
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [korea] Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?
+  - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
+  - [japan] At the October meeting of the Bank of Japan, many voices called for interest rate hike “quickly”; it is import
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [korea] “$40,000 export contract”... KOMIPO supports overseas expansion of AI and robotics SMEs at Robotworld
+  - [japan] Japan has agreed to provide 4.3 billion yen (about 36.6 billion won) worth of defense equipment to t..
   - [china] China busca obter vantagem em alta tecnologia em um setor que responde por 80% do comércio mundial
   - [korea] With Samsung Electronics and SK Hynix set to return 200 trillion won to shareholders this year...“For share pr
   - [korea] A company that imported tens of billions of won worth of magnesium alloys, mixed them with its own p..
@@ -26,7 +30,10 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7167 TUES VS 6.7188
   - [china] The "anchor change" of the central bank's policy interest rate has been implemented smoothly, and the precisio
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
-  - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
+  - [taiwan] Semiconductor test-interface supplier WinWay revenue falls 11.51% MoM, rises 62.62% YoY
+  - [taiwan] ePaper manufacturer E Ink to buy manufacturing plant in Taiwan for NT$2.78 billion, teams with Taiflex on AI m
+  - [japan] Japanese chipmaker Rapidus targets Taiwan’s chip cluster model, plans 3 more Hokkaido plants
+  - [taiwan] Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics
   - [japan] Next interest rate hike: ``Implement when possible'': Bank of Japan members' opinions at the October decision 
   - [japan] As underlying inflation reaches 2%, multiple opinions say it is necessary to raise interest rates to a neutral
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
   - [china] House Democratic leader says lawmakers need answers on Nvidia, wants China chip restrictions
   - [japan] Threat of trade curbs pushes Japan steel exports to three-decade low
-  - [japan] The true meaning of Governor Ueda's ``no declaration of victory'' despite the Bank of Japan's ``reaching 2%'' 
-  - [japan] Worst ranking of credit unions and credit unions for "deposit outflow"... 1st place decreased by 30%, more tha
-  - [japan] Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows
-  - [china] House Democratic leader says lawmakers need answers about Nvidia and wants restrictions on chip sales to China
-  - [china] House Democratic leader says lawmakers needs answers on Nvidia, wants China chip restrictions
-  - [china] Taiyuan Investigates Deadly Fire at Mixed-Use High-Rise
-  - [japan] Japan's Mitsui Chemicals to buy chip materials maker JSR for $11.6bn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T02:02:44+00:00",
+      "published_utc": "2026-11-10T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
