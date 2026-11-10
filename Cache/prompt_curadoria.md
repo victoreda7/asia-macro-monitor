@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T03:32:43.545359+00:00
+Última coleta: 2026-11-10T03:42:46.124063+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -17,8 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's copper concentrate imports slump 11% in October as smelter woes deepen
   - [japan] Modec Inc - To Buy Back Up To 2.9% Of Own Shares Worth 10 Billion Yen
   - [china] China's iron ore imports at five-month low as thin margins dent appetite
+  - [china] The Trump-Xi APEC summit paved the way for China to extend its suspension of rare earth and other export contr
   - [china] China October rare earth exports jump 2.7% from prior month
   - [japan] In Japan chip deal, everyone wins except the buyer
   - [china] China's October crude oil imports rise to highest level since March amid Middle East war
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan has agreed to provide 4.3 billion yen (about 36.6 billion won) worth of defense equipment to t..
   - [china] China busca obter vantagem em alta tecnologia em um setor que responde por 80% do comércio mundial
   - [korea] With Samsung Electronics and SK Hynix set to return 200 trillion won to shareholders this year...“For share pr
-  - [korea] A company that imported tens of billions of won worth of magnesium alloys, mixed them with its own p..
-  - [china] CHINA PBOC CONDUCTS CNY190 BLN VIA O/N REVERSE REPO TUES
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T03:32:43+00:00",
+      "published_utc": "2026-11-10T03:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

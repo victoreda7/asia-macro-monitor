@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-10T03:32:43.545359+00:00",
- "collected_at_utc": "2026-11-10T03:32:43.545359+00:00",
+ "generated_at_utc": "2026-11-10T03:42:46.124063+00:00",
+ "collected_at_utc": "2026-11-10T03:42:46.124063+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 318,
   "korea": 856
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.7,
  "sources": [
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T03:12:43+00:00"
+   "newest": "2026-11-10T03:31:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T03:12:43+00:00"
+   "newest": "2026-11-10T03:18:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -222,6 +214,14 @@
    "newest": "2026-11-10T01:50:00+00:00"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-10T02:23:00+00:00"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "name": "Reuters Korea",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T03:31:45+00:00"
+   "newest": "2026-11-10T03:41:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:16:06+00:00"
+   "newest": "2026-11-09T21:15:30+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:37:02+00:00"
+   "newest": "2026-11-10T03:22:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's copper concentrate imports slump 11% in October as smelter woes deepen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46R09O:0-china-s-copper-concentrate-imports-slump-11-in-october-as-smelter-woes-deepen/",
+   "published_utc": "2026-11-10T03:40:11+00:00",
+   "title_original": "China's copper concentrate imports slump 11% in October as smelter woes deepen",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f38b5c473c47020f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -376,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "080c1ef275bf859f"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The Trump-Xi APEC summit paved the way for China to extend its suspension of rare earth and other export controls for 2 months | Cross-Strait",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ENURKNGZreVR5aDdfd1QyaEZ6T2FOYVlobS00dDhmdXctLXNtOURmZWpYckhUS0c1RFBqZl9jVlF0M28tXzhuY2NRaVZ2Wk44MU9xSS1UNWdxUnNvRkE?oc=5",
+   "published_utc": "2026-11-10T03:22:00+00:00",
+   "title_original": "川習APEC峰會鋪路中國延長暫停稀土等出口管制2個月| 兩岸",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0ba2604e82cec95"
   },
   {
    "source_id": "tradingview_live",
@@ -1524,7 +1558,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The true meaning of Governor Ueda's ``no declaration of victory'' despite the Bank of Japan's ``reaching 2%'' after 2013 The ``guardian of prices'' confronts inflation and fumbles with additional interest rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVhPMXVpanRwNUp2MGY4Qzc5OGlHNUxjWl9XMEVxRGZnb004V3kwdTFZalliU2pBd0hubHh1RjhnNS1pQVhOendtQjhRTXRMcXNReFdfMk9kMDJhZTZOMGZ6ZHZKT3RHTzJ1amExcVlVREJJaXFPejFndGwzZ1ZLZHdpLURzbXFm?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOEh3VzV0YzNNUmJTRW5xMHJiUWVJWGhVazBBcFBBLUhEYjZXQTNITlltUmcxWnJtVXNTdVBfVUVaeEhaZnRtc1FqOEZObURRc1BVS3ItV2FZcG1RSlZaWmlBZlpydm9WaVVIQ2pJdXpRWVlXWjkwMjV3OVVzSEE?oc=5",
    "published_utc": "2026-11-09T21:00:33+00:00",
    "title_original": "日銀が13年越し「2％到達」も植田総裁「勝利宣言なし」の真意 “物価の番人”が直面するインフレへの対峙と手探りの追加利上げ",
    "region": "japan",
@@ -1536,7 +1570,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "123e2af5a59bfd78"
+   "id": "4cb6c0437ff7d4d6"
   },
   {
    "source_id": "toyo_keizai",
@@ -4248,24 +4282,6 @@
    "live_wire": false,
    "manual": false,
    "id": "122bf16cc929319d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-11-08T05:29:27+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -10446,6 +10462,24 @@
    "live_wire": false,
    "manual": false,
    "id": "00628f831f38c805"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-11-04T20:46:27+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51938,40 +51972,6 @@
    "live_wire": false,
    "manual": false,
    "id": "603f585f900ba0e9"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Zambia Says Some Copper Sales to China to Be Settled in Renminbi",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRm1ZZTZ3emlBa3lSOFNJSE5mYWxvSFFXUlpXZW9pYkItbTEyNXZiRzlkSXo1aU1TY1NBVTRGVnA0b2tJVjVNaDZxelNmdzBlUjFhMy1vbmRlX3UtQXdBOTY4VHVkVlJuandxNTRYRFZfTzFBelQwb2dxV05nT1BkRzB0bFFiTmZ0MUhBaXoxbGJheDA2RnZqa3oxaFJ0bjNJQ29ZQUdEUDloQVhOU19lNUVWVThCQQ?oc=5",
-   "published_utc": "2026-10-15T08:34:08+00:00",
-   "title_original": "Zambia Says Some Copper Sales to China to Be Settled in Renminbi",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3cac07352375f867"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Zambia Says Some Copper Sales to China to Be Settled in Yuan",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRm1ZZTZ3emlBa3lSOFNJSE5mYWxvSFFXUlpXZW9pYkItbTEyNXZiRzlkSXo1aU1TY1NBVTRGVnA0b2tJVjVNaDZxelNmdzBlUjFhMy1vbmRlX3UtQXdBOTY4VHVkVlJuandxNTRYRFZfTzFBelQwb2dxV05nT1BkRzB0bFFiTmZ0MUhBaXoxbGJheDA2RnZqa3oxaFJ0bjNJQ29ZQUdEUDloQVhOU19lNUVWVThCQQ?oc=5",
-   "published_utc": "2026-10-15T08:34:08+00:00",
-   "title_original": "Zambia Says Some Copper Sales to China to Be Settled in Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fcb35601bad5a485"
   },
   {
    "source_id": "manual_ia",
