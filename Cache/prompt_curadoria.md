@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T19:12:43.240451+00:00
+Última coleta: 2026-11-10T19:22:43.221667+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          904
+  🇯🇵 Japão          922
+  🇨🇳 China          903
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8810.23, Implies 159% Upside
   - [china] NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China
   - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
   - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Economy Watcher Survey: Decline for the first time in 6 months, impact on consumption due to rising prices
   - [china] Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation
   - [china] China Logs Strong Export Growth In October
-  - [korea] BOK chief becomes first Asian to chair BIS committee
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T19:12:43+00:00",
+      "published_utc": "2026-11-10T19:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
