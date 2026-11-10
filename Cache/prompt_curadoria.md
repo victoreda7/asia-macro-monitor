@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T20:52:45.612328+00:00
+Última coleta: 2026-11-10T21:02:47.088118+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          901
+  🇯🇵 Japão          924
+  🇨🇳 China          900
   🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
   - [korea] Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion
+  - [korea] Exicure, Inc. (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
   - [korea] Exicure (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
+  - [japan] There is no need for a ``Declaration of Overcoming Deflation.'' We must not repeat the mistake of the Bank of 
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [japan] Consumption tax reduction bill will be debated in the House of Councilors today, leading to debate among the r
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8810.23, Implies 159% Upside
@@ -54,9 +56,7 @@ Total: 3000 manchetes
   - [china] The love affair of Nvidia's chief executive contributed to the shipment of chips worth US$7.5 billion to China
   - [china] Nvidia CEO's alleged affair aided $7.5 billion in chip shipments to China, Information reports
   - [china] China's soybean imports fall in October amid high stocks, weak crushing margins
-  - [china] China's trade surplus surpasses $1trn as exports soar
   - [china] China's trade surplus exceeds $1 trillion, causing trade friction
-  - [taiwan] The pressure on foreign capital's remittances has not subsided. The New Taiwan dollar nearly broke through 33 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T20:52:45+00:00",
+      "published_utc": "2026-11-10T21:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
