@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T23:22:45.064182+00:00
+Última coleta: 2026-11-10T23:32:44.043423+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          898
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  859
+  🇯🇵 Japão          926
+  🇨🇳 China          897
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
+  - [japan] Considering registration system for business employing people with disabilities
   - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 155% Upside
   - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] 'Interest Rate Freeze' October Monetary Policy Committee Member "Adjusting the timing and speed of additional 
   - [china] Nvidia CEO's affair with an alleged spy contributed to $7.5 billion worth of chip shipments to China, accordin
   - [china] China's iron ore imports hit lowest level in five months
-  - [taiwan] TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going
-  - [japan] SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T23:22:45+00:00",
+      "published_utc": "2026-11-10T23:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
