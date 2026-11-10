@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-11-10T17:52:44.527808+00:00",
- "collected_at_utc": "2026-11-10T17:52:44.527808+00:00",
+ "generated_at_utc": "2026-11-10T18:02:43.627569+00:00",
+ "collected_at_utc": "2026-11-10T18:02:43.627569+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 922,
-  "china": 903,
+  "japan": 921,
+  "china": 904,
   "taiwan": 318,
   "korea": 857
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.0,
  "sources": [
-  {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -206,6 +198,14 @@
    "newest": ""
   },
   {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-10T04:27:02+00:00"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "name": "Reuters China",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T17:52:00+00:00"
+   "newest": "2026-11-10T18:02:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T15:26:34+00:00"
+   "newest": "2026-11-10T12:21:10+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-10T11:27:59+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China",
+   "url": "https://www.tradingview.com/news/gurufocus:28b71b0c1094b:0-nvidia-stocks-slide-4-43-as-report-alleges-7-5-billion-in-chips-reached-china/",
+   "published_utc": "2026-11-10T17:58:09+00:00",
+   "title_original": "NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2d7591d85f10efe1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1051,23 +1068,6 @@
    "live_wire": false,
    "manual": false,
    "id": "53a8367ab8303ac4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Falls Amid Risk-On Mood",
-   "url": "https://www.tradingview.com/news/dpa_afx:124c0154025dd:0-yen-falls-amid-risk-on-mood/",
-   "published_utc": "2026-11-10T09:42:07+00:00",
-   "title_original": "Yen Falls Amid Risk-On Mood",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "66f8e73da38393d0"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -4924,23 +4924,6 @@
    "id": "b5ea1cd22d45773d"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Watch Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzV0ZDlKMmFieW1JajFTSkJhU0pjUlNEbUdEbU1lVm9HNHM0YzdFYy1nay1lb0E4TDlhZnRORndGOUtqUkNGRzRFT2d3QThSemsyWDg1a3g5ZklOLVhZNzZveDd4S2lwNlQ0aF9VSzktTXd4SENYeXNGMGZKaXB5QVdnQUM1ZUlRT1lWTWtvdHo5WkN2TzVfSEp1aklBNXFmRTRLdWtaOA?oc=5",
-   "published_utc": "2026-11-09T02:47:07+00:00",
-   "title_original": "Watch Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d54cadb3a7d7f4f6"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
    "title_en": "The central bank launched a 182 billion yuan overnight reverse repurchase operation in the open market today",
@@ -5410,6 +5393,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ab779b2d31c049c3"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Watch Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzV0ZDlKMmFieW1JajFTSkJhU0pjUlNEbUdEbU1lVm9HNHM0YzdFYy1nay1lb0E4TDlhZnRORndGOUtqUkNGRzRFT2d3QThSemsyWDg1a3g5ZklOLVhZNzZveDd4S2lwNlQ0aF9VSzktTXd4SENYeXNGMGZKaXB5QVdnQUM1ZUlRT1lWTWtvdHo5WkN2TzVfSEp1aklBNXFmRTRLdWtaOA?oc=5",
+   "published_utc": "2026-11-09T00:00:00+00:00",
+   "title_original": "Watch Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d54cadb3a7d7f4f6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6188,24 +6188,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7801b9acd6ffe0a0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcHVHNFdmUW1Ka3ZNaE82QVhpbG96Q3I3NzhRT2VSc1N3WThxUnZUcVgxQk5YbGNPeW52UXF3MU5Dc0ZMREw4al83TmU1dUcyNlJvZkRHamNPX1F3eUg2RQ?oc=5",
-   "published_utc": "2026-11-07T10:08:22+00:00",
-   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e07cb4e4a29777d6"
   },
   {
    "source_id": "investing_econ",
@@ -8070,6 +8052,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f770de4e2ce2bd6c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank carried out 226 billion yuan in overnight reverse repurchases, with net withdrawals from reverse repurchases for five consecutive trading days.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajJ0UWpGMDBQTGJKU3VGVmFFLVlhX3pYYkhvdnZ0V2JNYjgyLWVsXzc0QjhsZlhfZUZTb0oxTkxhTkFFQWljWGw2aktXQUVTMllVUFlRSUZBOUczaFZKVG5haFlWYTRDZFhKWjM5aDh0UFJQUGJMZ0x2LTNWX3BpY3RoQXQ3ZUVscnRNRzRsTQ?oc=5",
+   "published_utc": "2026-11-06T05:51:50+00:00",
+   "title_original": "央行开展2260亿元隔夜逆回购 连续五个交易日逆回购净回笼",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8da8957c925eb17a"
   },
   {
    "source_id": "nhk_politics",

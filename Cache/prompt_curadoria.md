@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T17:52:44.527808+00:00
+Última coleta: 2026-11-10T18:02:43.627569+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          903
+  🇯🇵 Japão          921
+  🇨🇳 China          904
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China
   - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
   - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
   - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Logs Strong Export Growth In October
   - [korea] BOK chief becomes first Asian to chair BIS committee
   - [korea] BOK chief Shin Hyun-song tapped to lead BIS committee on payment systems
-  - [china] China's Exports Could Face Headwinds in 2027 — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T17:52:44+00:00",
+      "published_utc": "2026-11-10T18:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
