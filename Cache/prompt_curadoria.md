@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T14:52:44.710253+00:00
+Última coleta: 2026-11-10T15:02:45.284473+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Microsoft urges US to reconsider potential import ban on Chinese optical transceivers: report
   - [china] China Everbright Says Court Orders Release Of Asset Preservation Measures Over Chongqing Yingli Real Estate In
   - [china] ‘Adding fuel to fire’: how Nvidia CEO’s troubles, US midterms may tighten China chip curbs
   - [taiwan] TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Softbank G falls into interim deficit
   - [china] Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B
   - [korea] KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook
-  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T14:52:44+00:00",
+      "published_utc": "2026-11-10T15:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
