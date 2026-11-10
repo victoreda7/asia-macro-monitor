@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T15:02:45.284473+00:00
+Última coleta: 2026-11-10T15:12:44.565681+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
-  🇨🇳 China          905
-  🇹🇼 Taiwan         315
+  🇨🇳 China          904
+  🇹🇼 Taiwan         316
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
   - [china] Microsoft urges US to reconsider potential import ban on Chinese optical transceivers: report
   - [china] China Everbright Says Court Orders Release Of Asset Preservation Measures Over Chongqing Yingli Real Estate In
   - [china] ‘Adding fuel to fire’: how Nvidia CEO’s troubles, US midterms may tighten China chip curbs
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Stocks in China and Hong Kong close higher, supported by the appreciation of the technology sector
   - [japan] Softbank G falls into interim deficit
   - [china] Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B
-  - [korea] KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T15:02:45+00:00",
+      "published_utc": "2026-11-10T15:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
