@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T05:32:49.266135+00:00
+Última coleta: 2026-11-10T05:42:45.460977+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          898
-  🇹🇼 Taiwan         314
+  🇯🇵 Japão          934
+  🇨🇳 China          897
+  🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [china] Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services
+  - [japan] BOJ October Summary: Rate hikes should continue as inflation reaches 2% target
+  - [japan] Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen
   - [china] China's October trade surplus reaches $105.3B as exports jump 35.2% and imports surge 41.6%
+  - [japan] Bank of Japan ETF sales to bring in $6.3 bln annually, finmin Katayama says
   - [china] Chinese Chip Firms Have Mixed Debuts in Hong Kong
   - [china] Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
@@ -25,6 +29,7 @@ Total: 3000 manchetes
   - [japan] Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance
   - [japan] Future interest rate hikes will be ``implemented when possible,'' and there is also mention of raising the rat
   - [taiwan] Machine Tool Association: Exports of complete machines remain flat and key components continue to grow | Indus
+  - [china] Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show
   - [taiwan] Demand for gold reserves increases as Singapore launches central bank custody service to tap international mar
   - [japan] Analysis-Market rout tests BOJ’s upbeat view of financial conditions
   - [japan] BOJ Opinion Summary Shows Board Remains in Favor of More Tightening
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS
   - [china] China trade balance shrinks more than expected in Oct; imports surge
   - [japan] Additional proceeds from the sale of Bank of Japan ETFs “Used as a financial source for the Special Account fo
-  - [china] China Export Growth Eases in October as Imports Surge
-  - [china] China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y
-  - [china] China's October coal imports fall 6% year-on-year
-  - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
-  - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T05:32:49+00:00",
+      "published_utc": "2026-11-10T05:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

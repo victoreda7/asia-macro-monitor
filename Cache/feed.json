@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T05:32:49.266135+00:00",
- "collected_at_utc": "2026-11-10T05:32:49.266135+00:00",
+ "generated_at_utc": "2026-11-10T05:42:45.460977+00:00",
+ "collected_at_utc": "2026-11-10T05:42:45.460977+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 932,
-  "china": 898,
-  "taiwan": 314,
+  "japan": 934,
+  "china": 897,
+  "taiwan": 313,
   "korea": 856
  },
- "elapsed_s": 32.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T04:15:00+00:00"
+   "newest": "2026-11-10T04:54:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T05:13:13+00:00"
+   "newest": "2026-11-10T05:34:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T05:12:22+00:00"
+   "newest": "2026-11-10T05:29:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T13:59:37+09:00"
+   "newest": "2026-11-10T14:37:53+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:27:00+00:00"
+   "newest": "2026-11-10T05:14:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T05:32:18+00:00"
+   "newest": "2026-11-10T05:41:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-10T02:10:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "PR Newswire",
+   "title_en": "Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services",
+   "url": "https://www.tradingview.com/news/prnewswire:2689dc377461b:0-shanghai-electric-integrates-industrial-ai-into-heavy-duty-gas-turbine-manufacturing-and-lifecycle-services/",
+   "published_utc": "2026-11-10T05:40:00+00:00",
+   "title_original": "Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "712bb79586e397fa"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "BOJ October Summary: Rate hikes should continue as inflation reaches 2% target",
+   "url": "https://www.tradingview.com/news/seekingalpha:83385e1c0094b:0-boj-october-summary-rate-hikes-should-continue-as-inflation-reaches-2-target/",
+   "published_utc": "2026-11-10T05:39:14+00:00",
+   "title_original": "BOJ October Summary: Rate hikes should continue as inflation reaches 2% target",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "67872923971ea3e6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q2IV:0-sumitomo-metal-mining-to-buy-back-up-to-2-79-own-shares-worth-30-billion-yen/",
+   "published_utc": "2026-11-10T05:32:39+00:00",
+   "title_original": "Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ee351e297bc6a0df"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -359,6 +411,23 @@
    "live_wire": true,
    "manual": false,
    "id": "707ad80c25a1b6dc"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Bank of Japan ETF sales to bring in $6.3 bln annually, finmin Katayama says",
+   "url": "https://www.investing.com/news/stock-market-news/bank-of-japan-etf-sales-to-bring-in-63-bln-annually-finmin-katayama-says-93CH-5014101",
+   "published_utc": "2026-11-10T05:25:46+00:00",
+   "title_original": "Bank of Japan ETF sales to bring in $6.3 bln annually, finmin Katayama says",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "873f7a45bb5dcb64"
   },
   {
    "source_id": "tradingview_live",
@@ -480,6 +549,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c9f33651c5d5cbab"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXFQdXM5NGdadXhNSnRhalRtOE9aSHdPYUNyeWtIam9xZ3JjMEI5cGxyUGpZbXBQamZlY2hxZFdTRC1NbllidG1MdDNpb193bGdmMEpwdGhLMmxLQjVQekZGNEpRY181RkVick94WHlDMTMtblVBaTNWT0tRSkVmNXhlSEZYcFFRTV96WVAzLURWcEo3MGx1RDZFdk1KQ1plTldWdHlxbkdHVlVsX1k0bw?oc=5",
+   "published_utc": "2026-11-10T04:54:00+00:00",
+   "title_original": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b2ef930485c38fd7"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1117,41 +1203,6 @@
    "id": "4ce67ef4fed54ad3"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Oct Imports +41.6% on Year; Expected +34.0%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261109014173_20261109014174:0-china-oct-imports-41-6-on-year-expected-34-0/",
-   "published_utc": "2026-11-10T02:32:00+00:00",
-   "title_original": "China Oct Imports +41.6% on Year; Expected +34.0%",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5c394d6e0bd0d52f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R034:0-boj-estimates-6-billion-annual-gain-from-faster-etf-sales-finance-minister-says/",
-   "published_utc": "2026-11-10T02:31:09+00:00",
-   "title_original": "BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6224cb3fcd5a663c"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth",
@@ -1290,23 +1341,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f0d2735183b07ab8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R024:0-chinese-chip-firms-denglin-xinde-open-mixed-in-hong-kong-debuts/",
-   "published_utc": "2026-11-10T02:07:40+00:00",
-   "title_original": "Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7566412537835a4b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5842,8 +5876,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -5857,7 +5891,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -6344,8 +6378,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -6359,7 +6393,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51927,40 +51961,6 @@
    "live_wire": false,
    "manual": false,
    "id": "115eee3313bd1a62"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnings Summary",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N46116T:0-taiwan-semiconductor-manufacturing-company-limited-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
-   "published_utc": "2026-10-15T12:04:40+00:00",
-   "title_original": "Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnings Summary",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dd08d1b7918b5a99"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s central bank chief urges ’comprehensive’ view on global imbalances",
-   "url": "https://www.investing.com/news/economy-news/chinas-central-bank-chief-urges-comprehensive-view-on-global-imbalances-4951450",
-   "published_utc": "2026-10-15T12:00:54+00:00",
-   "title_original": "China’s central bank chief urges ’comprehensive’ view on global imbalances",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "579778de682375fe"
   },
   {
    "source_id": "manual_ia",
