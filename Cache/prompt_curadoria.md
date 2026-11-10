@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T15:22:47.419822+00:00
+Última coleta: 2026-11-10T15:32:46.915378+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
+  🇯🇵 Japão          922
   🇨🇳 China          904
   🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  857
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
@@ -37,6 +37,7 @@ Total: 3000 manchetes
   - [taiwan] Anthropic Private Placement With Google, Advanced Micro Devices, Broadcom, Micron Tech, Microsoft, Nvidia, TSM
   - [china] Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report
   - [china] Case involving Nvidia CEO and alleged spy favored US$7.5 billion in chips for China, says Information
+  - [korea] 'Interest Rate Freeze' October Monetary Policy Committee Member "Adjusting the timing and speed of additional 
   - [china] Nvidia CEO's affair with an alleged spy contributed to $7.5 billion worth of chip shipments to China, accordin
   - [china] China's iron ore imports hit lowest level in five months
   - [taiwan] TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] SBG has a deficit of 768 billion yen in interim results
   - [japan] Yen Falls Amid Risk-On Mood
   - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
-  - [china] Stocks in China and Hong Kong close higher, supported by the appreciation of the technology sector
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T15:22:47+00:00",
+      "published_utc": "2026-11-10T15:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
