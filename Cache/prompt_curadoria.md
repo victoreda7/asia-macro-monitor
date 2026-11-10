@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T00:52:45.242874+00:00
+Última coleta: 2026-11-10T01:02:46.193083+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
+  🇯🇵 Japão          934
   🇨🇳 China          873
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  862
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [japan] Next interest rate hike: ``Implement when possible'': Bank of Japan members' opinions at the October decision 
   - [japan] As underlying inflation reaches 2%, multiple opinions say it is necessary to raise interest rates to a neutral
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
   - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
@@ -37,6 +38,7 @@ Total: 3000 manchetes
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
   - [china] House Democratic leader says lawmakers need answers on Nvidia, wants China chip restrictions
   - [japan] Threat of trade curbs pushes Japan steel exports to three-decade low
+  - [japan] The true meaning of Governor Ueda's ``no declaration of victory'' despite the Bank of Japan's ``reaching 2%'' 
   - [japan] Worst ranking of credit unions and credit unions for "deposit outflow"... 1st place decreased by 30%, more tha
   - [japan] Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows
   - [china] House Democratic leader says lawmakers need answers about Nvidia and wants restrictions on chip sales to China
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] IBM Announces Offering Of Multiple Series Of Yen-Denominated Notes - SEC Filing
   - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
   - [japan] Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk
-  - [china] Beijing Orient EcoEnergy's LP Vehicle Signs 912.5 Million Yuan GPU Card Purchase Contract
-  - [japan] Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structur
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T00:52:45+00:00",
+      "published_utc": "2026-11-10T01:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
