@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-10T23:42:42.863727+00:00",
- "collected_at_utc": "2026-11-10T23:42:42.863727+00:00",
+ "generated_at_utc": "2026-11-10T23:52:42.570092+00:00",
+ "collected_at_utc": "2026-11-10T23:52:42.570092+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 926,
-  "china": 897,
+  "japan": 925,
+  "china": 898,
   "taiwan": 319,
   "korea": 858
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 45,
+   "count": 46,
    "error": "",
-   "newest": "2026-11-10T08:50:00+09:00"
+   "newest": "2026-11-11T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T23:21:17+00:00"
+   "newest": "2026-11-10T23:42:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T23:13:01+00:00"
+   "newest": "2026-11-10T23:37:01+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T09:10:58+00:00"
+   "newest": "2026-11-09T05:17:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T22:21:45+00:00"
+   "newest": "2026-11-10T23:37:21+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T20:49:47+00:00"
+   "newest": "2026-11-10T23:37:21+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T20:44:24+00:00"
+   "newest": "2026-11-10T23:48:14+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T23:41:08+00:00"
+   "newest": "2026-11-10T23:51:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-10T23:24:17+00:00"
+   "newest": "2026-11-10T23:41:27+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-10T11:27:59+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+   "published_utc": "2026-11-10T23:37:21+00:00",
+   "title_original": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1398ae0aff03df27"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -51952,24 +51969,6 @@
    "live_wire": true,
    "manual": false,
    "id": "03b0fb53934360a8"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Economics and Finance Minister Jouchi requests postponement of the Bank of Japan's resolution, ``There are no facts mentioned at all'' (Mainichi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdmNPYTc1WHl4Z1lLQkpzaHVJOFd6UGNfTEpUNDJtcWJta0NmZ01QTEhnV2FGQlZVRkNUWU03cUFRMVdhQUpwcE1tam9Dd0kyczBNdEY5d0tvU19PZ1dkdjBaRkpwNXc3aEtLT1lJeWo1RG1KVzJ6RXU0MjYybUE?oc=5",
-   "published_utc": "2026-10-16T02:31:38+00:00",
-   "title_original": "城内経財相、日銀の議決延期請求 「言及した事実は一切ない」（毎日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34f05e6f7c64e4c0"
   },
   {
    "source_id": "manual_ia",

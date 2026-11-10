@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T23:42:42.863727+00:00
+Última coleta: 2026-11-10T23:52:42.570092+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          897
+  🇯🇵 Japão          925
+  🇨🇳 China          898
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia faces deepening scrutiny over China chip ties, CEO affair
   - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
   - [japan] Considering registration system for business employing people with disabilities
   - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Case involving Nvidia CEO and alleged spy favored US$7.5 billion in chips for China, says Information
   - [korea] 'Interest Rate Freeze' October Monetary Policy Committee Member "Adjusting the timing and speed of additional 
   - [china] Nvidia CEO's affair with an alleged spy contributed to $7.5 billion worth of chip shipments to China, accordin
-  - [china] China's iron ore imports hit lowest level in five months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T23:42:43+00:00",
+      "published_utc": "2026-11-10T23:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
