@@ -7,26 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T07:12:47.543800+00:00
+Última coleta: 2026-11-10T07:22:45.247753+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          936
-  🇨🇳 China          893
-  🇹🇼 Taiwan         314
+  🇨🇳 China          894
+  🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
+  - [china] Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B
   - [japan] SoftBank Group interim financial results final deficit of 768 billion yen
   - [korea] South Korean shares rebound as chipmaker track US peers
   - [japan] Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen
   - [taiwan] TSMC October Revenue Jumps 60% Y-o-Y
+  - [taiwan] Zhongke's exports in the first nine months exceeded 758.5 ​​billion, and its annual revenue is expected to exc
   - [taiwan] REG - Nexteq PLC - Taiwan property sale and trading update
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
+  - [china] Huang Jen-Hsun’s extramarital affair raises national security concerns Chinese scholar: U.S. exports of AI chi
   - [china] In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight
   - [japan] Honda raises full-year profit forecast as weak yen trumps costly EV retreat
   - [china] China Opens Onshore Forex Market to Overseas Yuan Clearing Banks
   - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
+  - [japan] BREAKING NEWS: SoftBank Group logs net loss of 768 bil. yen in April-Sept.
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip, Airline Stocks Advance
   - [taiwan] TSMC October revenue jumps nearly 60% on strong AI chip demand
   - [taiwan] TSMC October 2026 revenue surges 59.7% on strong AI chip demand
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Yuan Rally Likely to Cool, Not Reverse — Market Talk
   - [japan] Main opinions from the October meeting of the Bank of Japan Pointed out that it is important to “stick” the in
   - [japan] BOJ October Summary: Rate hikes should continue as inflation reaches 2% target
-  - [japan] Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen
-  - [china] China's October trade surplus reaches $105.3B as exports jump 35.2% and imports surge 41.6%
-  - [japan] Bank of Japan ETF sales to bring in $6.3 bln annually, finmin Katayama says
-  - [china] Chinese Chip Firms Have Mixed Debuts in Hong Kong
-  - [china] Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T07:12:47+00:00",
+      "published_utc": "2026-11-10T07:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
