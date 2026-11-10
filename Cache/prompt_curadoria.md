@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T00:12:45.128550+00:00
+Última coleta: 2026-11-10T00:22:42.208555+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          872
+  🇯🇵 Japão          932
+  🇨🇳 China          873
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
+  - [japan] BREAKING NEWS: BOJ member urges rate hike when possible, without caution
   - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
   - [japan] Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026
   - [japan] ECONOMISTS: JAPAN Q3 GDP TO GROW 0.1% Q/Q (+0.4% ANNUALIZED) VS. +0.3% (+1.4% ANNUALIZED) Q2, LED BY RESILIENT
@@ -26,6 +27,7 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -7.5% Y/Y VS. -4.2% IN JULY WHEN OV
   - [japan] IBM Plans Multi-Tranche Yen Bond Offering
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
+  - [china] BYD, Chery-Led China Auto Exports Boom Comes With $270 Billion Cost
   - [japan] Popular government bonds for individuals with over 8 trillion yen issued
   - [japan] Can the proceeds from the sale of Bank of Japan ETFs cover the economic security "bridgment government bonds"?
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] J-Star to host Japan manufacturer for Texas facility review By Investing.com
   - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
   - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
-  - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
-  - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T00:12:45+00:00",
+      "published_utc": "2026-11-10T00:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
