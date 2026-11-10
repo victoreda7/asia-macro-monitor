@@ -7,22 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T19:52:44.120716+00:00
+Última coleta: 2026-11-10T20:02:46.564291+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
+  🇯🇵 Japão          923
   🇨🇳 China          903
-  🇹🇼 Taiwan         318
+  🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill will be debated in the House of Councilors today, leading to debate among the r
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8810.23, Implies 159% Upside
   - [china] NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China
   - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
   - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
   - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
-  - [china] COMMENTARY: China's crude oil imports recover, fuel exports not so much
   - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
   - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
   - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T19:52:44+00:00",
+      "published_utc": "2026-11-10T20:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
