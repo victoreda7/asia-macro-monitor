@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T10:02:45.029003+00:00
+Última coleta: 2026-11-10T10:12:44.975450+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          892
+  🇨🇳 China          891
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  864
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
   - [korea] BOK chief becomes first Asian to chair BIS committee
+  - [korea] BOK chief Shin Hyun-song tapped to lead BIS committee on payment systems
   - [china] China's Exports Could Face Headwinds in 2027 — Market Talk
   - [japan] SBG has a deficit of 768 billion yen in interim results
   - [japan] Yen Falls Amid Risk-On Mood
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] REG - Nexteq PLC - Taiwan property sale and trading update
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
   - [china] Huang Jen-Hsun’s extramarital affair raises national security concerns Chinese scholar: U.S. exports of AI chi
-  - [china] In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T10:02:45+00:00",
+      "published_utc": "2026-11-10T10:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
