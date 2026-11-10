@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T04:22:44.059351+00:00
+Última coleta: 2026-11-10T04:32:43.187664+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          894
+  🇯🇵 Japão          932
+  🇨🇳 China          895
   🇹🇼 Taiwan         316
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 190 billion yuan reverse repurchase program on November 10, with a net investment 
+  - [taiwan] Central Bank: The current situation of foreign capital remittances of tens of billions of dollars in non-suppo
   - [japan] MODEC: Higher FY26 guidance follows strong 3Q26 results and a JPY 10B buyback approval
   - [china] China's Trade Surplus Surged Past $1 Trillion in October — WSJ
   - [japan] Toray Industries - To Buy Back Up To 5.08% Own Shares Worth 70 Billion Yen
@@ -41,6 +43,7 @@ Total: 3000 manchetes
   - [china] China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y
   - [china] China's October coal imports fall 6% year-on-year
   - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
+  - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
   - [china] China Oct Exports +28.7% on Year in Yuan Terms
   - [china] China Oct Imports +34.7% on Year in Yuan Terms
   - [china] China Oct Trade Surplus CNY712.78B
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s defense export boom exposes cockpit display vulnerability
   - [taiwan] IEAT and the Export-Import Bank of China signed an MOU to join forces to help enterprises expand into internat
   - [japan] ``I ate 180,000 yen sushi with my wife'' and ``Prices are rising.'' Pros and cons of Shinjuku ward councilor's
-  - [china] On November 10, the central bank launched a 190 billion yuan overnight reverse repurchase operation.
-  - [korea] Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?
-  - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T04:22:44+00:00",
+      "published_utc": "2026-11-10T04:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

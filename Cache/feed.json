@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T04:22:44.059351+00:00",
- "collected_at_utc": "2026-11-10T04:22:44.059351+00:00",
+ "generated_at_utc": "2026-11-10T04:32:43.187664+00:00",
+ "collected_at_utc": "2026-11-10T04:32:43.187664+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
-  "china": 894,
+  "japan": 932,
+  "china": 895,
   "taiwan": 316,
   "korea": 857
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-10T02:11:05+00:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:28:08+00:00"
+   "newest": "2026-11-10T04:27:02+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:27:00+00:00"
+   "newest": "2026-11-10T02:42:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:56:01+00:00"
+   "newest": "2026-11-10T03:00:37+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T03:51:00+00:00"
+   "newest": "2026-11-10T04:12:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T03:15:17+00:00"
+   "newest": "2026-11-10T04:22:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched a 190 billion yuan reverse repurchase program on November 10, with a net investment of 8 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBReVk2WnBoVV9uWUNzTDRZWXVyV1ZpZmZFcHNONVo2YmRiemFDOEtLR1JxMWM5bWM0LW1kd3RINzNxWXdmcnRoaVBfdm5MMG93ekFaQ1dmdzNLbWNfYkM4QUVB?oc=5",
+   "published_utc": "2026-11-10T04:27:02+00:00",
+   "title_original": "央行11月10日开展1900亿元逆回购 净投放80亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "38d92bc5f184800c"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Central Bank: The current situation of foreign capital remittances of tens of billions of dollars in non-support arbitrage in November is normal | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsRVVZV2ppWXIxTWEtWGtkV2x0TDVmd01HUE8zcnpDc01RSE5GSHBZdmJ2ekQxM1V2enNDUFhDbUVoUlRULW41ZG1ua0pldi1UZnJWczJmWDFnOFRxSkE?oc=5",
+   "published_utc": "2026-11-10T04:12:00+00:00",
+   "title_original": "央行：11月外資匯出百億美元非養套殺目前狀況正常| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "204c4ea7cd35baa1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -753,6 +788,23 @@
    "live_wire": false,
    "manual": false,
    "id": "560dd1c436d56c6b"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's trade surplus soars past $1 trillion as AI boom powers exports",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+   "published_utc": "2026-11-10T02:42:00+00:00",
+   "title_original": "China's trade surplus soars past $1 trillion as AI boom powers exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0433cc3e210d8c39"
   },
   {
    "source_id": "tradingview_live",
@@ -1712,7 +1764,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The true meaning of Governor Ueda's ``no declaration of victory'' despite the Bank of Japan's ``reaching 2%'' after 2013 The ``guardian of prices'' confronts inflation and fumbles with additional interest rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVhPMXVpanRwNUp2MGY4Qzc5OGlHNUxjWl9XMEVxRGZnb004V3kwdTFZalliU2pBd0hubHh1RjhnNS1pQVhOendtQjhRTXRMcXNReFdfMk9kMDJhZTZOMGZ6ZHZKT3RHTzJ1amExcVlVREJJaXFPejFndGwzZ1ZLZHdpLURzbXFm?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOEh3VzV0YzNNUmJTRW5xMHJiUWVJWGhVazBBcFBBLUhEYjZXQTNITlltUmcxWnJtVXNTdVBfVUVaeEhaZnRtc1FqOEZObURRc1BVS3ItV2FZcG1RSlZaWmlBZlpydm9WaVVIQ2pJdXpRWVlXWjkwMjV3OVVzSEE?oc=5",
    "published_utc": "2026-11-09T21:00:33+00:00",
    "title_original": "日銀が13年越し「2％到達」も植田総裁「勝利宣言なし」の真意 “物価の番人”が直面するインフレへの対峙と手探りの追加利上げ",
    "region": "japan",
@@ -1724,7 +1776,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "123e2af5a59bfd78"
+   "id": "4cb6c0437ff7d4d6"
   },
   {
    "source_id": "toyo_keizai",
@@ -5532,8 +5584,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -5547,7 +5599,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -6034,8 +6086,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -6049,7 +6101,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51914,58 +51966,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b907addcc1740643"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Can TSMC earnings help settle AI jitters?",
-   "url": "https://www.investing.com/news/stock-market-news/can-tsmc-earnings-help-settle-ai-jitters-4950915",
-   "published_utc": "2026-10-15T09:37:45+00:00",
-   "title_original": "Can TSMC earnings help settle AI jitters?",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c476229240398946"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Yen price rises due to comments from Bank of Japan committee members",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59986",
-   "published_utc": "2026-10-15T09:36:42+00:00",
-   "title_original": "円相場 値上がり 日銀委員の発言など受け",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "52b3a325b6a0ad92"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll",
-   "url": "https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895",
-   "published_utc": "2026-10-15T09:30:30+00:00",
-   "title_original": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0035373a3462c232"
   },
   {
    "source_id": "manual_ia",
