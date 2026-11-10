@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T00:22:42.208555+00:00
+Última coleta: 2026-11-10T00:32:44.777747+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
+  🇯🇵 Japão          933
   🇨🇳 China          873
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  864
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
   - [japan] BREAKING NEWS: BOJ member urges rate hike when possible, without caution
   - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's export controls to the United States and unreliable entity list will continue to be suspended for 2 mo
   - [japan] J-Star to host Japan manufacturer for Texas facility review By Investing.com
   - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
-  - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T00:22:42+00:00",
+      "published_utc": "2026-11-10T00:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
