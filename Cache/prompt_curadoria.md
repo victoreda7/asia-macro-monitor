@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T03:12:46.150767+00:00
+Última coleta: 2026-11-10T03:22:43.089451+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
-  🇨🇳 China          890
-  🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  857
+  🇨🇳 China          893
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [china] China October rare earth exports jump 2.7% from prior month
+  - [japan] In Japan chip deal, everyone wins except the buyer
   - [china] China's October crude oil imports rise to highest level since March amid Middle East war
   - [china] China exports stay resilient as trade surplus tops $1tn
   - [china] CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS
+  - [china] China trade balance shrinks more than expected in Oct; imports surge
   - [japan] Additional proceeds from the sale of Bank of Japan ETFs “Used as a financial source for the Special Account fo
   - [china] China Export Growth Eases in October as Imports Surge
   - [china] China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y
@@ -53,10 +56,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY190 BLN VIA O/N REVERSE REPO TUES
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7167 TUES VS 6.7188
   - [china] The "anchor change" of the central bank's policy interest rate has been implemented smoothly, and the precisio
-  - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
-  - [taiwan] Semiconductor test-interface supplier WinWay revenue falls 11.51% MoM, rises 62.62% YoY
-  - [taiwan] ePaper manufacturer E Ink to buy manufacturing plant in Taiwan for NT$2.78 billion, teams with Taiflex on AI m
-  - [japan] Japanese chipmaker Rapidus targets Taiwan’s chip cluster model, plans 3 more Hokkaido plants
+  - [china] The central bank launches 190 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T03:12:46+00:00",
+      "published_utc": "2026-11-10T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
