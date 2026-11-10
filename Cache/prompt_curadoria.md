@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T05:12:43.759538+00:00
+Última coleta: 2026-11-10T05:22:44.160523+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
-  🇨🇳 China          896
-  🇹🇼 Taiwan         316
+  🇨🇳 China          898
+  🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese Chip Firms Have Mixed Debuts in Hong Kong
+  - [china] Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [japan] Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance
@@ -34,6 +36,7 @@ Total: 3000 manchetes
   - [japan] Toa Corp (Tokyo) - To Buy Back Up To 5.67% Of Own Shares Worth 8 Billion Yen
   - [china] China October soybean imports fall on high inventories, weak crush margins
   - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
+  - [china] Developing | China’s imports outpace exports in October amid efforts to tackle record surplus
   - [china] Yuan steady after dollar softens, awaits US CPI
   - [china] China's copper concentrate imports slump 11% in October as smelter woes deepen
   - [japan] Modec Inc - To Buy Back Up To 2.9% Of Own Shares Worth 10 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
   - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
   - [china] China Oct Exports +28.7% on Year in Yuan Terms
-  - [china] China Oct Imports +34.7% on Year in Yuan Terms
-  - [china] China Oct Trade Surplus CNY712.78B
-  - [china] China Oct Trade Surplus $105.28B; Expected Surplus $126.9B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T05:12:43+00:00",
+      "published_utc": "2026-11-10T05:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
