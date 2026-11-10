@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T08:32:43.589231+00:00
+Última coleta: 2026-11-10T08:42:44.785674+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          896
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  859
+  🇯🇵 Japão          932
+  🇨🇳 China          894
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Hesai Q3 revenue rises 34% as lidar shipments grow
+  - [korea] Nexon axes eight projects in restructuring as S.Korean game sector tightens belt amid downturn
+  - [china] ZAWYA: Can China’s zero-tariff programme offset the loss of Agoa for South African agriculture?
   - [china] Chinese investment in African manufacturing could change the world
   - [korea] Exports to large companies more than doubled in the third quarter of this year due to the semiconduc..
   - [china] Aluminium falls as surging China exports revive supply worries
@@ -26,6 +29,8 @@ Total: 3000 manchetes
   - [japan] Yen Falls Against Majors
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
+  - [taiwan] TSMC's October sales soar almost 60% year-on-year to hit high
+  - [taiwan] Taiwan sees US$10 billion in capital outflows in November
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
   - [china] Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC: Revenue for October Totaled NT$586.89B, Up 15% From September >2330.TW
   - [taiwan] TSMC Revenue Rose 60% on Year in October >2330.TW
   - [japan] The current account surplus in the first half of this fiscal year is the second largest on record.
-  - [japan] TOMY Company: Japan and Asia growth lifted Q1 profit; Americas shipments were hit by ERP delays
-  - [korea] How Posco fortifies Korea's energy, battery supply chains
-  - [china] Asian stocks rally on US tech rebound; China trade surplus hits $105B in October
-  - [korea] Semiconductor exports influence the Bank of Korea’s interest rate… Expected to be lowered by 3.5% during a boo
-  - [japan] The Hyakujushi Bank - To Buy Back Up To 1.76% Own Shares Worth 3 Bln Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T08:32:43+00:00",
+      "published_utc": "2026-11-10T08:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
