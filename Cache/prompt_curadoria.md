@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T11:22:43.716677+00:00
+Última coleta: 2026-11-10T11:32:44.473637+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
-  🇨🇳 China          897
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  864
+  🇨🇳 China          899
+  🇹🇼 Taiwan         310
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [china] Case involving Nvidia CEO and alleged spy favored US$7.5 billion in chips for China, says Information
   - [china] Nvidia CEO's affair with an alleged spy contributed to $7.5 billion worth of chip shipments to China, accordin
   - [china] China's iron ore imports hit lowest level in five months
+  - [taiwan] TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going
   - [japan] SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan
   - [china] The love affair of Nvidia's chief executive contributed to the shipment of chips worth US$7.5 billion to China
   - [china] Nvidia CEO's alleged affair aided $7.5 billion in chip shipments to China, Information reports
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Falls Against Majors
   - [korea] Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committ
   - [korea] Monetary Policy Committee members who froze interest rates "check the effect of consecutive interest rate incr
-  - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
-  - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T11:22:43+00:00",
+      "published_utc": "2026-11-10T11:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
