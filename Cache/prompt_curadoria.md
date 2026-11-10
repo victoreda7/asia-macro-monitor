@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T03:02:43.042633+00:00
+Última coleta: 2026-11-10T03:12:46.150767+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          887
-  🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  858
+  🇯🇵 Japão          933
+  🇨🇳 China          890
+  🇹🇼 Taiwan         320
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] China's October crude oil imports rise to highest level since March amid Middle East war
   - [china] China exports stay resilient as trade surplus tops $1tn
+  - [china] CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS
+  - [japan] Additional proceeds from the sale of Bank of Japan ETFs “Used as a financial source for the Special Account fo
+  - [china] China Export Growth Eases in October as Imports Surge
   - [china] China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y
   - [china] China's October coal imports fall 6% year-on-year
   - [china] China Oct Exports +28.7% on Year in Yuan Terms
@@ -27,6 +31,7 @@ Total: 3000 manchetes
   - [china] China Oct Exports +35.2% on Year; Expected +36.1%
   - [china] China Oct Imports +41.6% on Year; Expected +34.0%
   - [japan] BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says
+  - [taiwan] Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth
   - [china] The central bank launched a 190 billion yuan overnight reverse repurchase operation in the open market today
   - [japan] Monetary policy method ``Everything is decided by the Bank of Japan'', no effect on ETF sales = Finance Minist
   - [korea] South Korea’s defense export boom exposes cockpit display vulnerability
@@ -37,6 +42,7 @@ Total: 3000 manchetes
   - [korea] Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?
   - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
   - [japan] At the October meeting of the Bank of Japan, many voices called for interest rate hike “quickly”; it is import
+  - [china] Commentary: China's emerging semiconductor investment empire takes quieter route to dominance
   - [japan] Bank of Japan debated need for faster rate hikes, October summary shows
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [korea] “$40,000 export contract”... KOMIPO supports overseas expansion of AI and robotics SMEs at Robotworld
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Semiconductor test-interface supplier WinWay revenue falls 11.51% MoM, rises 62.62% YoY
   - [taiwan] ePaper manufacturer E Ink to buy manufacturing plant in Taiwan for NT$2.78 billion, teams with Taiflex on AI m
   - [japan] Japanese chipmaker Rapidus targets Taiwan’s chip cluster model, plans 3 more Hokkaido plants
-  - [taiwan] Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics
-  - [japan] Next interest rate hike: ``Implement when possible'': Bank of Japan members' opinions at the October decision 
-  - [japan] As underlying inflation reaches 2%, multiple opinions say it is necessary to raise interest rates to a neutral
-  - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
-  - [taiwan] Systex hits record October revenue on overseas semiconductor expansion
-  - [japan] Bank of Japan member says rate hike should be done when possible (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T03:02:43+00:00",
+      "published_utc": "2026-11-10T03:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

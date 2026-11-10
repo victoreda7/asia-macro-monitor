@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T03:02:43.042633+00:00",
- "collected_at_utc": "2026-11-10T03:02:43.042633+00:00",
+ "generated_at_utc": "2026-11-10T03:12:46.150767+00:00",
+ "collected_at_utc": "2026-11-10T03:12:46.150767+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 887,
-  "taiwan": 321,
-  "korea": 858
+  "japan": 933,
+  "china": 890,
+  "taiwan": 320,
+  "korea": 857
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 31.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T01:32:30+00:00"
+   "newest": "2026-11-10T02:28:16+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 34,
+   "count": 36,
    "error": "",
-   "newest": "2026-11-10T09:15:13+08:00"
+   "newest": "2026-11-10T10:17:20+08:00"
   },
   {
    "source_id": "investing_live",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
-   "newest": "2026-11-10T02:11:05+00:00"
+   "newest": "2026-11-10T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T23:10:14+00:00"
+   "newest": "2026-11-10T01:50:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T02:52:00+00:00"
+   "newest": "2026-11-10T03:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:45:22+00:00"
+   "newest": "2026-11-10T02:59:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-10T11:30:00+09:00"
+   "newest": "2026-11-10T12:01:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's October crude oil imports rise to highest level since March amid Middle East war",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46R09C:0-china-s-october-crude-oil-imports-rise-to-highest-level-since-march-amid-middle-east-war/",
+   "published_utc": "2026-11-10T03:09:37+00:00",
+   "title_original": "China's October crude oil imports rise to highest level since March amid Middle East war",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f67b7170f5b838d2"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "China exports stay resilient as trade surplus tops $1tn",
@@ -359,6 +376,59 @@
    "live_wire": false,
    "manual": false,
    "id": "d3bdd1c149bfa8d4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS",
+   "url": "https://www.tradingview.com/news/dpa_afx:2f3362bc5610c:0-china-jan-oct-imports-23-6-y-y-in-yuan-term-customs/",
+   "published_utc": "2026-11-10T03:00:12+00:00",
+   "title_original": "CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dffc3c3592d99351"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Additional proceeds from the sale of Bank of Japan ETFs “Used as a financial source for the Special Account for Economic Security” (TBS NEWS DIG Powered by JNN), Minister of Finance Satsuki Katayama",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14TXN1WFpzVjBMLW9wTXNGWVVac1lFNkhsalN2YkZGN2xlRllKemdsNUxaZlUyMGprM3FzNm10bVhhZUQ4MVF3QUp6b2lxQV9oR3l5NVNYWENpMVhTTVFUbldZUU9HcGxmR055eEwwNVdnc2wweE1qd195U3FWTnM?oc=5",
+   "published_utc": "2026-11-10T02:59:12+00:00",
+   "title_original": "日銀ETFの追加売却益「経済安全保障特別会計の財源に」片山さつき財務大臣（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc24b30f34d1c59d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Export Growth Eases in October as Imports Surge",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109014173:0-china-export-growth-eases-in-october-as-imports-surge/",
+   "published_utc": "2026-11-10T02:55:00+00:00",
+   "title_original": "China Export Growth Eases in October as Imports Surge",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "49d2ab7e4d338fee"
   },
   {
    "source_id": "investing_econ",
@@ -515,6 +585,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6224cb3fcd5a663c"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkI3VXpCajlGR1djYjRLUk5MeUhPRkRYSERhRUQ3aXV5bEQxeEhIczRsME1RLTlzaFk0VmgtYzZxNTB3MmhHNmMtYzV1cjdXTjJVOEtlOGZONzVLaUo2eE9HSWpGWnROMDcwUkJTeXNGcGkyZFVJQi1GcmlzQnFuRUt5OEw0aEVZS0Noa1RzRTRXZXZzUmFzUlhDTHJmbFFfdTNEUTZ3LU9FREVYVnc?oc=5",
+   "published_utc": "2026-11-10T02:28:16+00:00",
+   "title_original": "Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "38751c87c8fdbe2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -691,6 +778,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9c7c965bccc27495"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Commentary: China's emerging semiconductor investment empire takes quieter route to dominance",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzdxaGNMNDVPdURxdTNUYzNlOE1ORm84Vl9leEROVTBQYkwyUmxRWjY0VXlpanJPRTB0bVphVXBjcXFxMnVsOGc2UTg2bzhjNDJ2blJsTktLS1dndkgxWkJ2d2w5UFVuT3pPd2x0VV91T1ExeUE1TnI1enNkZVNwY1VXWF80Z1R6U3lLLXhfNGRPcHh0bGZVQVJtcmZLZWRBdTRxclV3T3pHdw?oc=5",
+   "published_utc": "2026-11-10T02:01:11+00:00",
+   "title_original": "Commentary: China's emerging semiconductor investment empire takes quieter route to dominance",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d7533cba3e4cb10"
   },
   {
    "source_id": "investing_econ",
@@ -5154,8 +5258,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -5169,7 +5273,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -5656,8 +5760,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -5671,7 +5775,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51869,112 +51973,6 @@
    "live_wire": false,
    "manual": false,
    "id": "92ee8c3365eda75f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tsmc-beats-q3-2026-estimates-as-stock-slips-93CH-4950695",
-   "published_utc": "2026-10-15T07:18:47+00:00",
-   "title_original": "Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2767cb41d96c38d1"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation today, and the intraday trading volume of China Development Bank Bond ETF Boshi (159650) exceeded 27 million yuan",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lbXNiYzZ4aWJRTEFtczRTSDRENXU2eHNqejZlU1Jhek8yR3cxOXUzdnBjemNXVFRsME1lRHpEWU40c0dLU2VJOFZPWDZ1M3g2RG1oNER4STU?oc=5",
-   "published_utc": "2026-10-15T07:18:45+00:00",
-   "title_original": "央行今日开展7000亿元买断式逆回购加量续作，国开债ETF博时(159650)盘中成交额超2700万元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c685a2c9e2d1e086"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
-   "url": "https://www.koreaherald.com/article/10904056",
-   "published_utc": "2026-10-15T07:08:39+00:00",
-   "title_original": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6265e435e7d8e490"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "``Don't be overly cautious about raising interest rates'', Bank of Japan's Councilor Koeda gives speech (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tVnRpVTkza1lVaFlmVFZmdHI1MjhUUmFBUkdoT1VHNG5wbHFlN2NOcy0xamRqRWFtQjRSUjJibFZILWRpSkYxeTRMMVB1Nmxkb05IZUJmek1vZ2ZHWUI5dGRYbzNLWmUybmFBeE9xb0dCR0FsamZnaEh5SkFTLUU?oc=5",
-   "published_utc": "2026-10-15T07:05:52+00:00",
-   "title_original": "「利上げ、過度に慎重になることはない」日銀・小枝審議委員が講演（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f022545aa352c742"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus",
-   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
-   "published_utc": "2026-10-15T07:00:33+00:00",
-   "title_original": "Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus",
-   "region": "taiwan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "02096fe335677394"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Economics and Finance Minister Jouchi ``attends this month's Bank of Japan meeting if it suits him'', again denying policy on interest rate hikes (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHRQMjA0dDhMN0JNR2Z6YjJnbmF3QzU5dnc5Vm96ME9NWFVqSlFORWVOb2JVbTdTbF93TWNLVzVQLW1DQkJtM2drOXdKdU5EcEs4MjhVWEFXZHpCMU9jQnFoX3Awcll1bXM2NVUyOFZPMnB2YnU1RGotTkFKY2hfYzhEZDg0RDFmODdJLW5n?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "城内経財相、今月の日銀会合も「都合つけば出席」 利上げけん制改めて否定 (ロイター)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "858b64fc398f2573"
   },
   {
    "source_id": "manual_ia",
