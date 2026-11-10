@@ -1,14 +1,14 @@
 {
- "generated_at_utc": "2026-11-10T02:52:48.989861+00:00",
- "collected_at_utc": "2026-11-10T02:52:48.989861+00:00",
+ "generated_at_utc": "2026-11-10T03:02:43.042633+00:00",
+ "collected_at_utc": "2026-11-10T03:02:43.042633+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 934,
-  "china": 886,
-  "taiwan": 322,
+  "china": 887,
+  "taiwan": 321,
   "korea": 858
  },
  "elapsed_s": 29.8,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T02:33:09+00:00"
+   "newest": "2026-11-10T02:50:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T02:24:38+00:00"
+   "newest": "2026-11-10T02:48:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T02:45:18+00:00"
+   "newest": "2026-11-10T02:51:58+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
-   "newest": "2026-11-10T02:00:00+00:00"
+   "newest": "2026-11-10T02:11:05+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T23:10:14+00:00"
+   "newest": "2026-11-10T01:22:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T12:09:19+00:00"
+   "newest": "2026-11-09T22:00:13+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T21:15:30+00:00"
+   "newest": "2026-11-10T00:16:06+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:00:00+00:00"
+   "newest": "2026-11-10T02:58:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:25:58+00:00"
+   "newest": "2026-11-10T02:45:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China exports stay resilient as trade surplus tops $1tn",
+   "url": "https://asia.nikkei.com/economy/trade/china-exports-stay-resilient-as-trade-surplus-tops-1tn",
+   "published_utc": "2026-11-10T03:02:42.121519+00:00",
+   "title_original": "China exports stay resilient as trade surplus tops $1tn",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d3bdd1c149bfa8d4"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y",
+   "url": "https://www.investing.com/news/economy-news/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-5013969",
+   "published_utc": "2026-11-10T02:48:36+00:00",
+   "title_original": "China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a42aaa6f47bd0f23"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -5120,8 +5154,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -5135,7 +5169,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -5622,8 +5656,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -5637,7 +5671,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51941,40 +51975,6 @@
    "live_wire": false,
    "manual": false,
    "id": "858b64fc398f2573"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Data release and interpretation - Jiangsu consumer prices increased by 0.8% year-on-year in September 2026",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzdYY2V0dzdfQlVXX21wNFZqQTdFZGY3SEkwVXNaVnlQTi1ENklTUXVRMFFmT3dkLXBiZ1paS05DTEt3U3RmdFdFV0Z2d1Z5NG1MQVRXN3lCMlc0VjVPODllLVhBSzlCX0R3MXp4YVREUmlMMGVxTXYxOTVDcTZEN2Q1aHJLdE1lU2w0SDEwOWRpS3RINGpkcjIxeE9vQ0MzdFVJ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "数据发布与解读-2026年9月份江苏居民消费价格同比上涨0.8%",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9f3422a5f3caded"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUc4QURocnBETWg4WllhUmV4TmxFVVJJSjVfRUFETDZwajJmQTh5VGJNNzBFeGJJS29rZHlQaU1TZFV3NDVCQnFBX0RYellwZWpnVHR3Wmx4LXhGU0YtRTF3b21hV0NON0w3RVhpeFN0NTlPN000cTIyMExYU3NHRUZlTGk1cjhCMHFEcHZDOG5VbVlWLXRpQTRJbHBOVmNM?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2fdcb0c9d8bbc820"
   },
   {
    "source_id": "manual_ia",

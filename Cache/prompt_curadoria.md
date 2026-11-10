@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T02:52:48.989861+00:00
+Última coleta: 2026-11-10T03:02:43.042633+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
-  🇨🇳 China          886
-  🇹🇼 Taiwan         322
+  🇨🇳 China          887
+  🇹🇼 Taiwan         321
   🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [china] China exports stay resilient as trade surplus tops $1tn
+  - [china] China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y
   - [china] China's October coal imports fall 6% year-on-year
   - [china] China Oct Exports +28.7% on Year in Yuan Terms
   - [china] China Oct Imports +34.7% on Year in Yuan Terms
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
   - [taiwan] Systex hits record October revenue on overseas semiconductor expansion
   - [japan] Bank of Japan member says rate hike should be done when possible (Kyodo News)
-  - [japan] BREAKING NEWS: BOJ member urges rate hike when possible, without caution
-  - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T02:52:49+00:00",
+      "published_utc": "2026-11-10T03:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
