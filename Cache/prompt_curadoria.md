@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T00:32:44.777747+00:00
+Última coleta: 2026-11-10T00:42:44.679669+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
   🇨🇳 China          873
-  🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  863
+  🇹🇼 Taiwan         332
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
-  - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
+  - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
+  - [taiwan] Systex hits record October revenue on overseas semiconductor expansion
+  - [japan] Bank of Japan member says rate hike should be done when possible (Kyodo News)
   - [japan] BREAKING NEWS: BOJ member urges rate hike when possible, without caution
   - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
   - [japan] Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Beijing Orient EcoEnergy's LP Vehicle Signs 912.5 Million Yuan GPU Card Purchase Contract
   - [japan] Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structur
   - [china] China's export controls to the United States and unreliable entity list will continue to be suspended for 2 mo
-  - [japan] J-Star to host Japan manufacturer for Texas facility review By Investing.com
-  - [japan] Berkshire Hathaway To Offer Three Series Of Yen-Denominated Senior Notes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T00:32:44+00:00",
+      "published_utc": "2026-11-10T00:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

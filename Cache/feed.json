@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-10T00:32:44.777747+00:00",
- "collected_at_utc": "2026-11-10T00:32:44.777747+00:00",
+ "generated_at_utc": "2026-11-10T00:42:44.679669+00:00",
+ "collected_at_utc": "2026-11-10T00:42:44.679669+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 933,
   "china": 873,
-  "taiwan": 331,
-  "korea": 863
+  "taiwan": 332,
+  "korea": 862
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T09:57:50+00:00"
+   "newest": "2026-11-10T00:24:56+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T00:16:05+00:00"
+   "newest": "2026-11-10T00:31:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T00:06:38+00:00"
+   "newest": "2026-11-10T00:30:58+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T00:21:14+00:00"
+   "newest": "2026-11-10T00:41:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T00:32:00+00:00"
+   "newest": "2026-11-10T00:39:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T22:40:32+00:00"
+   "newest": "2026-11-10T00:16:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Some in BOJ called for faster rate hikes, October summary shows",
+   "url": "https://www.investing.com/news/economy-news/some-in-boj-called-for-faster-rate-hikes-october-summary-shows-5013794",
+   "published_utc": "2026-11-10T00:30:58+00:00",
+   "title_original": "Some in BOJ called for faster rate hikes, October summary shows",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c39ed89b2aedf3b0"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related stocks",
@@ -362,21 +379,38 @@
    "id": "57a1b3f09ba979c4"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Some in BOJ called for faster rate hikes, October summary shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R009:0-some-in-boj-called-for-faster-rate-hikes-october-summary-shows/",
-   "published_utc": "2026-11-10T00:19:58+00:00",
-   "title_original": "Some in BOJ called for faster rate hikes, October summary shows",
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Systex hits record October revenue on overseas semiconductor expansion",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWdDLXdUdVNqVEUwSkVIcnlkdUpSeGV6YnVSbXFuTU1nQmJMbnIybFM3aG84d0JtbU9hdkhmWmJCZkJETlRvbk5VNFFkOC1CM3JhX0hkNWRXR0lEQ1dTRktmRGdPdGFfRDZzaVYxa1NFVnl3RlJwNk1jU2JVelNGSksxbDdUWUpVZExFQ29TdV9oLWc?oc=5",
+   "published_utc": "2026-11-10T00:24:56+00:00",
+   "title_original": "Systex hits record October revenue on overseas semiconductor expansion",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "71b226c4f74738a8"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member says rate hike should be done when possible (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsSTZ0M3hSZ0UtQnhVYll1ZXEwQjFob1NqbTVPYlJ0UVZ2dFRhUUpORmt4S040OVA5SnN3Szhfd19SNjJvYTBhdFFWaHcxWkNHTW05S3JnbzF2M3NNa0xmMWFPNWtaaWRCZnBHRkhBYzRLWVVHVkpaeG1meUxRNlU?oc=5",
+   "published_utc": "2026-11-10T00:16:01+00:00",
+   "title_original": "日銀委員、利上げ「できるときに実施を」（共同通信）",
    "region": "japan",
    "topics": [
     "monetary"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "f96e13e524d82dd8"
+   "id": "ddefbbeb3daee07d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -4168,7 +4202,7 @@
    "id": "0d4014e5a6910db1"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
@@ -4182,7 +4216,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8b2fb3dd62f6290a"
+   "id": "28b7513b8463f5d8"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4409,8 +4443,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -4424,7 +4458,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -4754,8 +4788,8 @@
    "id": "fdbabefeab6e286b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors on the 11th",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71664",
    "published_utc": "2026-11-06T09:47:11+00:00",
@@ -4769,7 +4803,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a7dbc7aa1618ce1c"
+   "id": "64f02842f689e851"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4911,8 +4945,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -4926,7 +4960,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51941,42 +51975,6 @@
    "live_wire": false,
    "manual": false,
    "id": "157f77ba4eab1126"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80TkZWSHRpX0VoVGplMkJNdmF0ZHhpSW1RTEJ3Q2x6MkJTdjAwYzBRTEctMVRjQURIWFk2aWJ0d2lkbVN3NG5WOV9HREpvWGtieW1iRkRjMHcwUERLWUJMVXdvdHlRd3N0cUhlUWd2ekV1bjl0RkQxMWx3?oc=5",
-   "published_utc": "2026-10-15T04:27:28+00:00",
-   "title_original": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9aec304ab96d2821"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan",
-   "url": "https://www.investing.com/news/stock-market-news/japan-us-reach-first-chip-deal-under-550-bln-investment-plan-93CH-4950476",
-   "published_utc": "2026-10-15T04:05:38+00:00",
-   "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b31d02b858db6b81"
   },
   {
    "source_id": "manual_ia",
