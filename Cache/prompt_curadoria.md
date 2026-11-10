@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T09:02:44.979092+00:00
+Última coleta: 2026-11-10T09:12:45.189666+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          892
-  🇹🇼 Taiwan         314
+  🇯🇵 Japão          931
+  🇨🇳 China          894
+  🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [japan] SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan
+  - [china] China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses
+  - [korea] October Monetary Policy Committee unanimously freezes... Additional tightening is weighed against price pressu
   - [korea] [Exclusive] LG Chem has amassed 2.5 trillion won ... to build a semiconductor materials plant on a petrochemic
   - [china] China's Hesai Q3 revenue rises 34% as lidar shipments grow
   - [korea] Nexon axes eight projects in restructuring as S.Korean game sector tightens belt amid downturn
@@ -35,7 +38,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan sees US$10 billion in capital outflows in November
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B
-  - [japan] SoftBank Group interim financial results final deficit of 768 billion yen
   - [korea] South Korean shares rebound as chipmaker track US peers
   - [japan] Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen
   - [taiwan] TSMC October Revenue Jumps 60% Y-o-Y
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China puts yuan within easier reach of Africa, but adoption faces major hurdles: report
   - [taiwan] TSMC Oct revenue jumps 60% as AI-fueled demand remains strong
   - [taiwan] TSMC: Revenue for January-October Totaled NT$4.485T, Up 43% on Year >2330.TW
-  - [taiwan] TSMC: Revenue for October Totaled NT$586.89B, Up 15% From September >2330.TW
-  - [taiwan] TSMC Revenue Rose 60% on Year in October >2330.TW
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T09:02:45+00:00",
+      "published_utc": "2026-11-10T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

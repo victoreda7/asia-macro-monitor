@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T09:02:44.979092+00:00",
- "collected_at_utc": "2026-11-10T09:02:44.979092+00:00",
+ "generated_at_utc": "2026-11-10T09:12:45.189666+00:00",
+ "collected_at_utc": "2026-11-10T09:12:45.189666+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 932,
-  "china": 892,
-  "taiwan": 314,
+  "japan": 931,
+  "china": 894,
+  "taiwan": 313,
   "korea": 862
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T16:52:00+09:00"
+   "newest": "2026-11-10T18:02:46+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T17:29:05+09:00"
+   "newest": "2026-11-10T18:07:33+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T07:08:38+00:00"
+   "newest": "2026-11-10T05:47:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T09:02:00+00:00"
+   "newest": "2026-11-10T09:11:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,66 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-10T06:05:25+00:00"
+   "newest": "2026-11-10T08:58:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73545",
+   "published_utc": "2026-11-10T09:07:33+00:00",
+   "title_original": "ソフトバンクグループ中間決算 7680億円の赤字 DC計画変更で",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "18cdd765c692fef3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "AFP",
+   "title_en": "China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses",
+   "url": "https://www.tradingview.com/news/afp:1ac1b200649bf:0/",
+   "published_utc": "2026-11-10T09:05:35+00:00",
+   "title_original": "China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b509950edbd6893b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "October Monetary Policy Committee unanimously freezes... Additional tightening is weighed against price pressures",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWXlJMzJDX2oxcU1PNlpXWldpdTJ1Z0kxRHRkT0VmR2R5bHZIeGJxd2lEZXJXWkU1R29fU1BJLU8wTEpYajNlVHk4dXFGUU11ZkdDODIwY2NzT0F5?oc=5",
+   "published_utc": "2026-11-10T08:58:00+00:00",
+   "title_original": "10월 금통위 만장일치 동결…물가 압력에 추가 긴축 '저울질'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef7b37fd0ffc306a"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -651,24 +705,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7a73395b48c36a66"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "SoftBank Group interim financial results final deficit of 768 billion yen",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73545",
-   "published_utc": "2026-11-10T07:07:00+00:00",
-   "title_original": "ソフトバンクグループ中間決算 7680億円の最終赤字",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "afa16fca1ff06cd6"
   },
   {
    "source_id": "tradingview_live",
@@ -1515,23 +1551,6 @@
    "id": "5a2b8913bbbaddad"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ Opinion Summary Shows Board Remains in Favor of More Tightening",
-   "url": "https://www.tradingview.com/news/DJN_DN20261109014427:0-boj-opinion-summary-shows-board-remains-in-favor-of-more-tightening/",
-   "published_utc": "2026-11-10T04:29:00+00:00",
-   "title_original": "BOJ Opinion Summary Shows Board Remains in Favor of More Tightening",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e3304fef874263b6"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 190 billion yuan reverse repurchase program on November 10, with a net investment of 8 billion yuan.",
@@ -2065,6 +2084,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9f759730e0151a7d"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Chinese chipmakers Denglin, Xinde trade mixed in Hong Kong debuts",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTdYcndFd2JWMHByLXBtQjdzbEZZUGtYVHZvU2JiQ0FGYlRmZ09ZLWJvNjlaUjEyZTVQNTYxMk96bVBUMlJneDZ6dUtoTDlNbzJrdWRiNlEtbnBObERJT0N4dUpWSWdGZFNCRUtJTDNrRy1QRFF3eHJSQjFiRDZrVDdHOV9EMjMzdnAxNDh2cWtmamZBTWxYSk5tMFhTOWdJb0dRdXBPaU5CSjYxQ2FhV1NGX3BwUQ?oc=5",
+   "published_utc": "2026-11-10T01:36:00+00:00",
+   "title_original": "Chinese chipmakers Denglin, Xinde trade mixed in Hong Kong debuts",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ecdd0a8ad2b41718"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51932,40 +51968,6 @@
    "live_wire": false,
    "manual": false,
    "id": "93725d7e16a7f8e7"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "[Editorial] Chip vulnerability",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2MG1tQlFZRm96WllKSkZHQkJiMmZfRm9SNGE2RUktTjFaNW9QWW5LNDNiVXBRRUVscDE2Vy0wQlQxWkhtNllYa0Rhdm1NeWhzWmY1dHpKdw?oc=5",
-   "published_utc": "2026-10-15T20:30:00+00:00",
-   "title_original": "[Editorial] Chip vulnerability",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1b363c709db86ae4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:9de6330245eca:0-2330-stock-12-month-price-target-raised-to-twd-3359-94-implies-35-upside/",
-   "published_utc": "2026-10-15T19:20:00+00:00",
-   "title_original": "2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5617ad9023f1b0ac"
   },
   {
    "source_id": "manual_ia",
