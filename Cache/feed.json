@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T20:42:47.397903+00:00",
- "collected_at_utc": "2026-11-10T20:42:47.397903+00:00",
+ "generated_at_utc": "2026-11-10T20:52:45.612328+00:00",
+ "collected_at_utc": "2026-11-10T20:52:45.612328+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 923,
-  "china": 903,
+  "china": 901,
   "taiwan": 317,
-  "korea": 857
+  "korea": 859
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T20:21:43+00:00"
+   "newest": "2026-11-10T20:45:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T20:16:35+00:00"
+   "newest": "2026-11-10T20:42:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-10T09:53:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T20:05:59+00:00"
+   "newest": "2026-11-10T20:40:01+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T20:05:59+00:00"
+   "newest": "2026-11-10T20:21:46+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T20:20:35+00:00"
+   "newest": "2026-11-10T20:44:24+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T20:41:01+00:00"
+   "newest": "2026-11-10T20:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GlobeNewswire",
+   "title_en": "Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion",
+   "url": "https://www.tradingview.com/news/globenewswire:65b93942c094b:0-exicure-inc-announces-agreement-to-sell-gpc-100-program-assets-to-gpcrt-inc-for-krw-6-5-billion/",
+   "published_utc": "2026-11-10T20:50:00+00:00",
+   "title_original": "Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "51a1775db9a41a16"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Exicure (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B",
+   "url": "https://www.tradingview.com/news/tradingview:2b2375b133ee8:0-exicure-xcur-agrees-to-sell-gpc-100-assets-for-krw-6-5b/",
+   "published_utc": "2026-11-10T20:50:00+00:00",
+   "title_original": "Exicure (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3b882aec8608e7d6"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -1017,40 +1051,6 @@
    "live_wire": false,
    "manual": false,
    "id": "27e77dda8b70fe6c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46R0PI:0-aluminium-falls-on-higher-chinese-exports-and-hopes-for-middle-east-de-escalation/",
-   "published_utc": "2026-11-10T10:13:15+00:00",
-   "title_original": "Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2455e0411853a6e9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "China Logs Strong Export Growth In October",
-   "url": "https://www.tradingview.com/news/dpa_afx:f9ab420fe819b:0-china-logs-strong-export-growth-in-october/",
-   "published_utc": "2026-11-10T10:12:35+00:00",
-   "title_original": "China Logs Strong Export Growth In October",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c1148552967f50ff"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1994,7 +1994,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkRCUDFad3kwMXkxb3VBVXY2OXY4UzNqTXp5dHlXSzB3Q3BOaXZ0RGVKWmFMNXNvT0ZfSWpQUUM2dWQzVlliTldDWWZqTlZ4X2l0S3BfMXZ5VVFhaGhqRU1kdzNrWG1WTzN3dkh0bzNPODV3d1NHTmVLTW9XR3U4b1pPSVJzZ1NfUjlFX09rSUVvV21oVzdtRVBYYjBQZWJPdktTcHkzZHk3aFhrN19sUjhzMi0?oc=5",
-   "published_utc": "2026-11-10T03:42:53+00:00",
+   "published_utc": "2026-11-10T03:42:00+00:00",
    "title_original": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
    "region": "china",
    "topics": [
@@ -17417,6 +17417,23 @@
    "id": "459a36136d9e63ff"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
+   "published_utc": "2026-11-02T08:00:00+00:00",
+   "title_original": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9b6663326de63589"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China Shifts Main Policy Rate to Overnight Reverse Repo Rate",
@@ -18692,23 +18709,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e9c78c4ef103397c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
-   "published_utc": "2026-11-02T00:52:45+00:00",
-   "title_original": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b6663326de63589"
   },
   {
    "source_id": "gn_tw_digitimes",
