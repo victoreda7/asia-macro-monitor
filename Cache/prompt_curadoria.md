@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T02:22:44.296299+00:00
+Última coleta: 2026-11-10T02:32:43.253900+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
+  🇯🇵 Japão          934
   🇨🇳 China          878
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says
+  - [korea] South Korea’s defense export boom exposes cockpit display vulnerability
   - [korea] Korean stocks rebound as chip giants lead recovery
   - [japan] ``I ate 180,000 yen sushi with my wife'' and ``Prices are rising.'' Pros and cons of Shinjuku ward councilor's
   - [china] On November 10, the central bank launched a 190 billion yuan overnight reverse repurchase operation.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
   - [china] BYD, Chery-Led China Auto Exports Boom Comes With $270 Billion Cost
   - [japan] Popular government bonds for individuals with over 8 trillion yen issued
-  - [japan] Can the proceeds from the sale of Bank of Japan ETFs cover the economic security "bridgment government bonds"?
-  - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3161025.43, Implies 179% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T02:22:44+00:00",
+      "published_utc": "2026-11-10T02:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

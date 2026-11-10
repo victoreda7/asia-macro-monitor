@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T02:22:44.296299+00:00",
- "collected_at_utc": "2026-11-10T02:22:44.296299+00:00",
+ "generated_at_utc": "2026-11-10T02:32:43.253900+00:00",
+ "collected_at_utc": "2026-11-10T02:32:43.253900+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
+  "japan": 934,
   "china": 878,
   "taiwan": 326,
-  "korea": 863
+  "korea": 862
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T01:23:00+00:00"
+   "newest": "2026-11-10T01:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:20:24+00:00"
+   "newest": "2026-11-10T02:25:06+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-09T11:30:00+09:00"
+   "newest": "2026-11-10T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T01:57:34+00:00"
+   "newest": "2026-11-10T02:28:38+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T11:04:00+09:00"
+   "newest": "2026-11-10T11:26:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T02:21:00+00:00"
+   "newest": "2026-11-10T02:31:47+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T21:15:30+00:00"
+   "newest": "2026-11-10T00:16:06+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-10T11:20:00+09:00"
+   "newest": "2026-11-10T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:07:39+00:00"
+   "newest": "2026-11-10T02:20:56+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R034:0-boj-estimates-6-billion-annual-gain-from-faster-etf-sales-finance-minister-says/",
+   "published_utc": "2026-11-10T02:31:09+00:00",
+   "title_original": "BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6224cb3fcd5a663c"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea’s defense export boom exposes cockpit display vulnerability",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54YXBiaU5oNjlZR2hnSERXcmljLThYMlhkTVlQRGhKQm5rdFdPYnJvNGFIbllEOEhtazd6bXNMLTdJdTFCc1RMRUhicnV6bl9yYi04NnZtTEx6eWhnUzBvYjNadkJ3NG14QkRsMTR0LXFyS2VfbHZJ?oc=5",
+   "published_utc": "2026-11-10T02:25:06+00:00",
+   "title_original": "South Korea’s defense export boom exposes cockpit display vulnerability",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c7762628bc58558b"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -380,9 +415,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
+   "source_name": "搜狐网",
    "title_en": "On November 10, the central bank launched a 190 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aNGowQlhaNkdSR1h1blAyX1RweG10UU5WYmR6TURSYU1CMGpERGYzQUtFd3R4NEtSV01ESG5oVXctTW4tMHl3Vld1YVNrYXJza25UcVBMTmxXNWZkSHYyZzM5WDd0VmJ0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGZBOS1YYmF6UG5CLXRCTnR0U1hXZ2NvNEU5TFVKdF9aZjZHRkpqRzFILU9qWUtZemJkdzVVekhwcjhaNTdpSVhHdnFPMUFFdS1xSXRJUWs4RGktcFlCcHJkdXIxSWxhSEZ1d3NWcWNESFdrT0pGc0xWcXNaQ0ZhSEFwdmd4Y2tq?oc=5",
    "published_utc": "2026-11-10T02:11:11+00:00",
    "title_original": "11月10日央行开展1900亿元隔夜逆回购操作",
    "region": "china",
@@ -394,7 +429,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "41fbc1cf493b0260"
+   "id": "d3ae35f881a0b1ad"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4911,8 +4946,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -4926,7 +4961,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -5413,8 +5448,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -5428,7 +5463,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "19212136eaa6750a"
+   "id": "4b593f86a5fd703b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51939,41 +51974,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5dd8f23c892dc681"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KSzZaRVliZkFUb0ZfTWJocFl5ZVVsaTB1Y0ptQm5sMTlKOFZSTUdXcXBKRTg5Q3BfNHRXOE45ZW01ODBhWkxndzVsc1RuWmpacnRGZDh5cmZkZw?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fb2dd0d510b11542"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks extend losses as AI, U.S. inflation concerns persist",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EWE1mTUJhNGg0QUtJdHMxNVNqTVV4Z1R6T2wxWWVldXloejVlM3pLRHRRSHFyem1KM3p3UFoxdzVVdkZqTDd5REYxSE8tZmFFdDlsczFNX05NUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Seoul stocks extend losses as AI, U.S. inflation concerns persist",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a2942b96fa29eb44"
   },
   {
    "source_id": "manual_ia",
