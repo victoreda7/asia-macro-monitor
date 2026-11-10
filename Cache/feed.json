@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T12:02:44.074407+00:00",
- "collected_at_utc": "2026-11-10T12:02:44.074407+00:00",
+ "generated_at_utc": "2026-11-10T12:12:46.031533+00:00",
+ "collected_at_utc": "2026-11-10T12:12:46.031533+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
-  "china": 901,
-  "taiwan": 310,
+  "japan": 926,
+  "china": 902,
+  "taiwan": 311,
   "korea": 861
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T05:38:00+00:00"
+   "newest": "2026-11-10T11:45:19+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T11:18:23+00:00"
+   "newest": "2026-11-10T05:47:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T12:02:21+00:00"
+   "newest": "2026-11-10T12:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC Board Approves Investment of Up to $500 Million in Each of Anthropic and OpenAI",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R0HR:0/",
+   "published_utc": "2026-11-10T12:10:05+00:00",
+   "title_original": "Conselho da TSMC aprova investimento de até US$ 500 milhões em cada uma das empresas Anthropic e OpenAI",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "4cbdfc85a22bfae6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Puya Semiconductor (Shanghai) Plans To Seek Hong Kong Listing",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46R0YP:0-puya-semiconductor-shanghai-plans-to-seek-hong-kong-listing/",
+   "published_utc": "2026-11-10T12:06:24+00:00",
+   "title_original": "Puya Semiconductor (Shanghai) Plans To Seek Hong Kong Listing",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1a4401a15357c015"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "AFP",
@@ -1295,40 +1329,6 @@
    "id": "6a384b84b513b275"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "London Stock Exchange",
-   "title_en": "REG - Nexteq PLC - Taiwan property sale and trading update",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-11-10:newsml_RSJ4349Ca:0-reg-nexteq-plc-taiwan-property-sale-and-trading-update/",
-   "published_utc": "2026-11-10T07:00:06+00:00",
-   "title_original": "REG - Nexteq PLC - Taiwan property sale and trading update",
-   "region": "taiwan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8c9c487cda3a1e65"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Fund sellers, China buyers squeeze copper's tariff trade: Andy Home",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0Z4:0-fund-sellers-china-buyers-squeeze-copper-s-tariff-trade-andy-home/",
-   "published_utc": "2026-11-10T07:00:00+00:00",
-   "title_original": "Fund sellers, China buyers squeeze copper's tariff trade: Andy Home",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c73d1e87bc915cb9"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Huang Jen-Hsun’s extramarital affair raises national security concerns Chinese scholar: U.S. exports of AI chips to China may be tightened | Cross-Strait",
@@ -1624,6 +1624,23 @@
    "live_wire": false,
    "manual": false,
    "id": "895dcdad049d6325"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "TSMC’s Revenue Rises 60% in a Sign of Resilient AI Chip Demand",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONGRJQkVuVkdsUDBxN0RaX2F3a0FqWmlUajBQX1NkY01SY293VnZicy1OYUMwaFJkMUtMczQtVi01c25RYnlianZwNGI0Umh0MTNhbjFSU1p0MHZMVUl4VFdSN3ZvZW5ncHV4VlU2MmJDbktNNlcxSG5vTm40LTE0X20wREg5X05jOHRQeFlBVkdnTk9ISEFvVjZlOExmSHMzMkNPSS0wMkFQSElsTzlBQjJ4M0M5R0d6MmNJLWFqQQ?oc=5",
+   "published_utc": "2026-11-10T05:37:00+00:00",
+   "title_original": "TSMC’s Revenue Rises 60% in a Sign of Resilient AI Chip Demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "57edb87679d90d4d"
   },
   {
    "source_id": "investing_live",
@@ -2299,6 +2316,23 @@
    "id": "ecdd0a8ad2b41718"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Chinese chipmakers Denglin, Xinde end mixed in Hong Kong debuts",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTdYcndFd2JWMHByLXBtQjdzbEZZUGtYVHZvU2JiQ0FGYlRmZ09ZLWJvNjlaUjEyZTVQNTYxMk96bVBUMlJneDZ6dUtoTDlNbzJrdWRiNlEtbnBObERJT0N4dUpWSWdGZFNCRUtJTDNrRy1QRFF3eHJSQjFiRDZrVDdHOV9EMjMzdnAxNDh2cWtmamZBTWxYSk5tMFhTOWdJb0dRdXBPaU5CSjYxQ2FhV1NGX3BwUQ?oc=5",
+   "published_utc": "2026-11-10T01:36:00+00:00",
+   "title_original": "Chinese chipmakers Denglin, Xinde end mixed in Hong Kong debuts",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92dece12f09cec4a"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "湖南红网",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate has been implemented smoothly, and the precision of regulation has continued",
@@ -2546,7 +2580,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ member urges rate hike when possible, without caution",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wcjVaOHlTSkV0bmZaeENyTE9GME1wSEYteXBKS0ZCTnF5SFJXTGwtc2RVUkk2aHJpNUZaVXdjWkdhSFl2UWxSMXg1dC1JR3kzZ3RJdzB4dEVrUQ?oc=5",
-   "published_utc": "2026-11-10T00:11:34+00:00",
+   "published_utc": "2026-11-10T00:11:00+00:00",
    "title_original": "BREAKING NEWS: BOJ member urges rate hike when possible, without caution",
    "region": "japan",
    "topics": [
@@ -51940,40 +51974,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6c34660721698cd3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Katayama says she can't comment on whether extra budget needed or not",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN45900U:0-japan-s-katayama-says-she-can-t-comment-on-whether-extra-budget-needed-or-not/",
-   "published_utc": "2026-10-15T23:36:15+00:00",
-   "title_original": "Japan's Katayama says she can't comment on whether extra budget needed or not",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "68a743717e6f81df"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan Medical Dynamic Marketing Inc - Notice Regarding Workforce Reduction And Other Rationalization Measures At U.S. Consolidated Subsidiary",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46120Q:0-japan-medical-dynamic-marketing-inc-notice-regarding-workforce-reduction-and-other-rationalization-measures-at-u-s-consolidated-subsidiary/",
-   "published_utc": "2026-10-15T23:31:10+00:00",
-   "title_original": "Japan Medical Dynamic Marketing Inc - Notice Regarding Workforce Reduction And Other Rationalization Measures At U.S. Consolidated Subsidiary",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1b89badf80949625"
   },
   {
    "source_id": "manual_ia",

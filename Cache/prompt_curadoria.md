@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T12:02:44.074407+00:00
+Última coleta: 2026-11-10T12:12:46.031533+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          901
-  🇹🇼 Taiwan         310
+  🇯🇵 Japão          926
+  🇨🇳 China          902
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Board Approves Investment of Up to $500 Million in Each of Anthropic and OpenAI
+  - [china] Puya Semiconductor (Shanghai) Plans To Seek Hong Kong Listing
   - [china] How does China get Nvidia chips despite restrictions?
   - [taiwan] Anthropic Private Placement With Google, Advanced Micro Devices, Broadcom, Micron Tech, Microsoft, Nvidia, TSM
   - [china] Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese investment in African manufacturing could change the world
   - [korea] Exports to large companies more than doubled in the third quarter of this year due to the semiconduc..
   - [china] Aluminium falls as surging China exports revive supply worries
-  - [korea] KT received a disappointing report card. The progress of artificial intelligence (AI), real estate
-  - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T12:02:44+00:00",
+      "published_utc": "2026-11-10T12:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
