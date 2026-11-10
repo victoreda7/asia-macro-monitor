@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T09:12:45.189666+00:00
+Última coleta: 2026-11-10T09:22:42.884336+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          930
   🇨🇳 China          894
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  862
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] Softbank G falls into interim deficit
+  - [china] Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B
+  - [korea] KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook
+  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [japan] SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan
   - [china] China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses
   - [korea] October Monetary Policy Committee unanimously freezes... Additional tightening is weighed against price pressu
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip, Airline Stocks Advance
   - [taiwan] TSMC October revenue jumps nearly 60% on strong AI chip demand
   - [taiwan] TSMC October 2026 revenue surges 59.7% on strong AI chip demand
-  - [china] China exports stay brisk as annual trade surplus tops $1tn
-  - [china] China puts yuan within easier reach of Africa, but adoption faces major hurdles: report
-  - [taiwan] TSMC Oct revenue jumps 60% as AI-fueled demand remains strong
-  - [taiwan] TSMC: Revenue for January-October Totaled NT$4.485T, Up 43% on Year >2330.TW
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T09:12:45+00:00",
+      "published_utc": "2026-11-10T09:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

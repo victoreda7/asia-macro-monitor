@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T09:12:45.189666+00:00",
- "collected_at_utc": "2026-11-10T09:12:45.189666+00:00",
+ "generated_at_utc": "2026-11-10T09:22:42.884336+00:00",
+ "collected_at_utc": "2026-11-10T09:22:42.884336+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 931,
+  "japan": 930,
   "china": 894,
   "taiwan": 313,
-  "korea": 862
+  "korea": 863
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": "",
-   "newest": "2026-11-09T11:26:00+00:00"
+   "newest": "2026-11-10T09:15:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T08:54:24+00:00"
+   "newest": "2026-11-10T09:15:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T08:30:36+00:00"
+   "newest": "2026-11-10T09:13:14+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T06:38:55+00:00"
+   "newest": "2026-11-10T09:14:10+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T06:24:17+00:00"
+   "newest": "2026-11-10T03:04:51+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 26,
    "error": "",
-   "newest": "2026-11-10T02:11:05+00:00"
+   "newest": "2026-11-10T07:14:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T18:02:46+09:00"
+   "newest": "2026-11-10T18:20:43+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T09:11:36+00:00"
+   "newest": "2026-11-10T09:21:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T03:18:57+00:00"
+   "newest": "2026-11-10T06:17:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-10T07:55:46+00:00"
+   "newest": "2026-11-10T09:19:46+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -337,12 +337,80 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-10T08:58:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Softbank G falls into interim deficit",
+   "url": "https://news.yahoo.co.jp/pickup/6602065?source=rss",
+   "published_utc": "2026-11-10T09:19:46+00:00",
+   "title_original": "ソフトバンクG 中間赤字に転落",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "23e77317092731cb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261110002498:0-table-yuan-ding-investment-corp-oct-rev-nt-1-99b-vs-nt-1-78b/",
+   "published_utc": "2026-11-10T09:14:00+00:00",
+   "title_original": "Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d5da7f4580eb402c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook",
+   "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4551929:0-krafton-9m-results-set-records-as-pubg-expansion-and-krw-917-2bn-in-returns-shape-the-outlook/",
+   "published_utc": "2026-11-10T09:13:00+00:00",
+   "title_original": "KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3a0c8f11587ccfe7"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
+   "url": "https://www.investing.com/news/stock-market-news/alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips-5014096",
+   "published_utc": "2026-11-10T09:12:40+00:00",
+   "title_original": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "38f89313ac0bc6c0"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1274,23 +1342,6 @@
    "id": "60936d02f10baabe"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
-   "url": "https://www.investing.com/news/stock-market-news/alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips-5014096",
-   "published_utc": "2026-11-10T05:48:27+00:00",
-   "title_original": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "38f89313ac0bc6c0"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Yuan Rally Likely to Cool, Not Reverse — Market Talk",
@@ -1428,40 +1479,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6eff59281da7031d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's crude oil imports recover, fuel exports not so much: Russell",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R05A:0-china-s-crude-oil-imports-recover-fuel-exports-not-so-much-russell/",
-   "published_utc": "2026-11-10T05:10:27+00:00",
-   "title_original": "China's crude oil imports recover, fuel exports not so much: Russell",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "36019220e66ddacc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3965187:0-tokyo-ohka-kogyo-ai-led-semiconductor-demand-lifted-9m-results-and-drove-higher-fy26-guidance/",
-   "published_utc": "2026-11-10T05:02:35+00:00",
-   "title_original": "Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "08250dd8d9bb5a5c"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51950,24 +51967,6 @@
    "live_wire": false,
    "manual": false,
    "id": "123ab89132ae32dc"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "First-class Shine Muscat is sold for \"only 300 yen\"...A \"super diversified company in Okayama\" that has been in business for 110 years and employs 500 people has realized the \"trap of local production for local consumption\" | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/961119?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-15T21:00:00+00:00",
-   "title_original": "一級品のシャインマスカットが\"わずか300円\"で販売…創業110年､500人雇用｢岡山の超多角化企業｣が気づいた\"地産地消の罠\" | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "93725d7e16a7f8e7"
   },
   {
    "source_id": "manual_ia",
