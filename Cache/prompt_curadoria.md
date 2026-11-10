@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T10:42:44.959040+00:00
+Última coleta: 2026-11-10T10:52:45.273595+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          892
-  🇹🇼 Taiwan         312
+  🇨🇳 China          893
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [china] China's trade surplus exceeds $1 trillion, causing trade friction
   - [japan] Economy Watcher Survey: Decline for the first time in 6 months, impact on consumption due to rising prices
   - [china] Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation
   - [china] China Logs Strong Export Growth In October
@@ -45,6 +46,7 @@ Total: 3000 manchetes
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
   - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
+  - [korea] Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committ
   - [korea] Monetary Policy Committee members who froze interest rates "check the effect of consecutive interest rate incr
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B
   - [korea] South Korean shares rebound as chipmaker track US peers
   - [japan] Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen
-  - [taiwan] TSMC October Revenue Jumps 60% Y-o-Y
-  - [taiwan] Zhongke's exports in the first nine months exceeded 758.5 ​​billion, and its annual revenue is expected to exc
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T10:42:45+00:00",
+      "published_utc": "2026-11-10T10:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

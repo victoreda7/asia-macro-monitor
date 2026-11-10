@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T10:42:44.959040+00:00",
- "collected_at_utc": "2026-11-10T10:42:44.959040+00:00",
+ "generated_at_utc": "2026-11-10T10:52:45.273595+00:00",
+ "collected_at_utc": "2026-11-10T10:52:45.273595+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 931,
-  "china": 892,
-  "taiwan": 312,
+  "china": 893,
+  "taiwan": 311,
   "korea": 865
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T06:40:05+00:00"
+   "newest": "2026-11-09T05:17:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T19:31:36+09:00"
+   "newest": "2026-11-10T19:47:45+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T10:41:00+00:00"
+   "newest": "2026-11-10T10:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T03:18:57+00:00"
+   "newest": "2026-11-10T09:20:14+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "China's trade surplus exceeds $1 trillion, causing trade friction",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73738",
+   "published_utc": "2026-11-10T10:47:45+00:00",
+   "title_original": "中国の貿易黒字1兆ドル超え 貿易摩擦の要因に",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b2ecf43b34fa1dc4"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -823,6 +840,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d1cc780cb9634bf9"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "헤럴드경제",
+   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bklSNElETVB1M3FJZnBFU1ZhVkdoeEwwQU92a3JkUW96XzVXdWZ5aG02am5MQnV4Q05jMjRsWXdTeW8tVnAyV1NaeEFzZW5xbXNOX21n?oc=5",
+   "published_utc": "2026-11-10T08:01:04+00:00",
+   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2c0cc1cb1a9bcfa2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2488,7 +2523,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
-   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
    "published_utc": "2026-11-09T23:50:00+00:00",
    "title_original": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
    "region": "japan",
@@ -2500,7 +2535,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d990de56b0817522"
+   "id": "8259da92dda213cf"
   },
   {
    "source_id": "tradingview_live",
@@ -2948,24 +2983,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8739676fc0a4da1d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제 미주판",
-   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXNNZk0zekFDNXlCZkJadkF1dmVfWHJnOW1zMndZRTJhVndNaEkzS2dmVmtWSF9LdER3N010VF9JQ3lfSXJabTNwZ0RxbWpscXhsR1JaZXl1UFhhRUlkaQ?oc=5",
-   "published_utc": "2026-11-09T15:01:00+00:00",
-   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9eeeacf5b9cee1f4"
   },
   {
    "source_id": "tradingview_live",
@@ -4300,7 +4317,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Consumption Activity Index",
-   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/cai/index.htm",
    "published_utc": "2026-11-09T05:00:00+00:00",
    "title_original": "Consumption Activity Index",
    "region": "japan",
@@ -4311,7 +4328,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "59b2bbbcbbf50853"
+   "id": "d3d9f294ad8ba496"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5118,7 +5135,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
    "published_utc": "2026-11-08T23:50:00+00:00",
    "title_original": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
    "region": "japan",
@@ -5129,13 +5146,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d7648d7bcff2bcaa"
+   "id": "30f65a03c933b773"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan's Transactions with the Government (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
    "published_utc": "2026-11-08T23:50:00+00:00",
    "title_original": "Bank of Japan's Transactions with the Government (Oct.)",
    "region": "japan",
@@ -5146,13 +5163,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9efe741140705f65"
+   "id": "58c221fd196658f3"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Market Operations by the Bank of Japan (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
    "published_utc": "2026-11-08T23:50:00+00:00",
    "title_original": "Market Operations by the Bank of Japan (Oct.)",
    "region": "japan",
@@ -5163,7 +5180,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e729a23ae4993c19"
+   "id": "9e2bd851096a702a"
   },
   {
    "source_id": "nhk_politics",
@@ -6621,8 +6638,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -6636,7 +6653,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -7520,7 +7537,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
-   "url": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
+   "url": "https://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
    "published_utc": "2026-11-06T07:00:00+00:00",
    "title_original": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
    "region": "japan",
@@ -7531,7 +7548,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "62fe781de204cccb"
+   "id": "31b3e56ac07ab223"
   },
   {
    "source_id": "tradingview_live",
@@ -8344,6 +8361,24 @@
    "live_wire": false,
    "manual": false,
    "id": "27d3946df7fc0405"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 226 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vdklyNnFlMXVCMXJUNjJHTDdaN2paVllYXzA3ZXlvWnA4N09BYmlTb1NYTVJmR1FaRS1JM2Ixcmh3MmJia3BfaFdhMWlsQnJDMjRxRlFoVllFTjN2bjhrZw?oc=5",
+   "published_utc": "2026-11-06T01:27:09+00:00",
+   "title_original": "央行今日开展2260亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e437fabf33579542"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -11536,7 +11571,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Sources of Changes in Current Account Balances (Projections for Nov.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
    "published_utc": "2026-11-04T23:50:00+00:00",
    "title_original": "Sources of Changes in Current Account Balances (Projections for Nov.)",
    "region": "japan",
@@ -11547,13 +11582,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1b487375699f9d3e"
+   "id": "cb62f7ab250d4948"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
-   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
    "published_utc": "2026-11-04T23:50:00+00:00",
    "title_original": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
    "region": "japan",
@@ -11565,7 +11600,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "021d1486f35c2f1b"
+   "id": "277173dfa2870611"
   },
   {
    "source_id": "tradingview_live",
@@ -12740,7 +12775,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Collateral Accepted by the Bank of Japan (End of Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
    "published_utc": "2026-11-04T08:00:00+00:00",
    "title_original": "Collateral Accepted by the Bank of Japan (End of Oct.)",
    "region": "japan",
@@ -12751,13 +12786,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e4c3db652b46b578"
+   "id": "bad16cd3e1150066"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
    "published_utc": "2026-11-04T08:00:00+00:00",
    "title_original": "Japanese Government Bonds Held by the Bank of Japan",
    "region": "japan",
@@ -12768,7 +12803,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "bfcee4fcb0f77a02"
+   "id": "db2841c5df9fe7f6"
   },
   {
    "source_id": "tradingview_live",
@@ -13676,7 +13711,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 31)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
    "published_utc": "2026-11-04T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 31)",
    "region": "japan",
@@ -13687,7 +13722,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "be1e57c0c6ec574b"
+   "id": "82fe891ccb26ce21"
   },
   {
    "source_id": "gn_kr_bok",
@@ -17487,7 +17522,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (October 2026, full text)",
-   "url": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
    "published_utc": "2026-11-02T05:00:00+00:00",
    "title_original": "Outlook for Economic Activity and Prices (October 2026, full text)",
    "region": "japan",
@@ -17498,7 +17533,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "96f5ed559c2e757a"
+   "id": "4f825036150c0e7f"
   },
   {
    "source_id": "gn_kr_mk",
@@ -17640,7 +17675,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
    "published_utc": "2026-11-02T04:00:00+00:00",
    "title_original": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
    "region": "japan",
@@ -17652,7 +17687,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "97c7c71fe4963834"
+   "id": "d17432bf42adb3c5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -23075,7 +23110,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
-   "url": "http://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
    "region": "japan",
@@ -23086,13 +23121,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "66841377209934e7"
+   "id": "6ed9431d88486f82"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Statement on Monetary Policy",
-   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
    "published_utc": "2026-10-30T04:00:00+00:00",
    "title_original": "Statement on Monetary Policy",
    "region": "japan",
@@ -23104,7 +23139,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "af462cf2146976fa"
+   "id": "01b59b1b648e65fc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -23662,7 +23697,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(Reference) Outlook Report and Indicators Related to Underlying Inflation",
-   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030b.pdf",
+   "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030b.pdf",
    "published_utc": "2026-10-30T03:02:00+00:00",
    "title_original": "(Reference) Outlook Report and Indicators Related to Underlying Inflation",
    "region": "japan",
@@ -23673,7 +23708,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "09cbbbd799120a88"
+   "id": "02e54c57b842c9e2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -30652,7 +30687,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Indicators for Core CPI",
-   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/cpi/index.htm",
    "published_utc": "2026-10-27T05:00:00+00:00",
    "title_original": "Indicators for Core CPI",
    "region": "japan",
@@ -30663,7 +30698,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "549870a4319d8a4a"
+   "id": "9774b75f82219d2f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -31472,7 +31507,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Services Producer Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
    "published_utc": "2026-10-26T23:50:00+00:00",
    "title_original": "Services Producer Price Index (Sept.)",
    "region": "japan",
@@ -31483,7 +31518,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ba849d5af773718a"
+   "id": "f13b34f5cf17e8c3"
   },
   {
    "source_id": "investing_live",
@@ -38861,7 +38896,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Developments in Real Exports and Real Imports",
-   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/reri/index.htm",
    "published_utc": "2026-10-22T07:00:00+00:00",
    "title_original": "Developments in Real Exports and Real Imports",
    "region": "japan",
@@ -38872,7 +38907,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "660ca9ffa7c57e97"
+   "id": "ef504da8e8250954"
   },
   {
    "source_id": "gn_jp_investing",
@@ -40021,7 +40056,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 20)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
    "published_utc": "2026-10-22T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 20)",
    "region": "japan",
@@ -40032,7 +40067,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ec0f42a760b9874d"
+   "id": "0d4eb0513f284069"
   },
   {
    "source_id": "investing_econ",
@@ -50645,7 +50680,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "BOJ Current Account Balances by Sector (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
    "published_utc": "2026-10-16T08:00:00+00:00",
    "title_original": "BOJ Current Account Balances by Sector (Sept.)",
    "region": "japan",
@@ -50657,7 +50692,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4fa0bf559afdc7a1"
+   "id": "dfe5350a6c9655a8"
   },
   {
    "source_id": "tradingview_live",
@@ -51934,40 +51969,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bbc507cdbec59d97"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China’s Plan to Make Yuan a Global Currency Enters Faster Phase",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOExUdVVpaHNnM3NXeFFjaHRxMnNwelAzVkRsNE9idFVTRTFGdGFNeVhsZmlUTUdBd0VWb01rTTc1NE9pYkw2ZUI3U3o0NHdZZi1fYzJZV042NGtXQzhBRHZweUJKbEVyVWU1cFd6WVNsM1NyVmtISXI4MjNjYVI3WFNlSzZIOW1RQXdZdkpyN2VVaHZud0VFZXdFSWNKTERiTHVQM0tpWndxbFpSZkNVNk13YTk?oc=5",
-   "published_utc": "2026-10-15T23:00:00+00:00",
-   "title_original": "China’s Plan to Make Yuan a Global Currency Enters Faster Phase",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "878080e6a6d13ae4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Taiwan Semiconductor Is Maintained at Buy by Needham",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015009361:0-taiwan-semiconductor-is-maintained-at-buy-by-needham/",
-   "published_utc": "2026-10-15T22:38:00+00:00",
-   "title_original": "Taiwan Semiconductor Is Maintained at Buy by Needham",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cd76e1c0f941aa4f"
   },
   {
    "source_id": "manual_ia",
