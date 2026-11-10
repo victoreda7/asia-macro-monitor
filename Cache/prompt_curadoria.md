@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T05:22:44.160523+00:00
+Última coleta: 2026-11-10T05:32:49.266135+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's October trade surplus reaches $105.3B as exports jump 35.2% and imports surge 41.6%
   - [china] Chinese Chip Firms Have Mixed Debuts in Hong Kong
   - [china] Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's October coal imports fall 6% year-on-year
   - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
   - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
-  - [china] China Oct Exports +28.7% on Year in Yuan Terms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T05:22:44+00:00",
+      "published_utc": "2026-11-10T05:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
