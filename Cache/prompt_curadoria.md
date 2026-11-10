@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T05:42:45.460977+00:00
+Última coleta: 2026-11-10T05:52:43.650490+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
@@ -18,14 +18,16 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services
+  - [china] Yuan Rally Likely to Cool, Not Reverse — Market Talk
+  - [japan] Main opinions from the October meeting of the Bank of Japan Pointed out that it is important to “stick” the in
   - [japan] BOJ October Summary: Rate hikes should continue as inflation reaches 2% target
   - [japan] Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen
   - [china] China's October trade surplus reaches $105.3B as exports jump 35.2% and imports surge 41.6%
   - [japan] Bank of Japan ETF sales to bring in $6.3 bln annually, finmin Katayama says
+  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [china] Chinese Chip Firms Have Mixed Debuts in Hong Kong
   - [china] Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
-  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [japan] Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance
   - [japan] Future interest rate hikes will be ``implemented when possible,'' and there is also mention of raising the rat
   - [taiwan] Machine Tool Association: Exports of complete machines remain flat and key components continue to grow | Indus
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's October crude oil imports rise to highest level since March amid Middle East war
   - [china] China exports stay resilient as trade surplus tops $1tn
   - [china] CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS
-  - [china] China trade balance shrinks more than expected in Oct; imports surge
-  - [japan] Additional proceeds from the sale of Bank of Japan ETFs “Used as a financial source for the Special Account fo
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T05:42:45+00:00",
+      "published_utc": "2026-11-10T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
