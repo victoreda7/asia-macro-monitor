@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T14:23:02.975458+00:00
+Última coleta: 2026-11-10T14:32:44.529492+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          904
+  🇯🇵 Japão          923
+  🇨🇳 China          905
   🇹🇼 Taiwan         315
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [china] ‘Adding fuel to fire’: how Nvidia CEO’s troubles, US midterms may tighten China chip curbs
   - [taiwan] TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares
   - [taiwan] TSMC investirá até US$ 1 bilhão na Anthropic e na OpenAI
   - [taiwan] TSMC to invest up to $1 billion in Anthropic, OpenAI
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [china] China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses
-  - [taiwan] UK space firms eye Taiwan's chip and hardware ecosystem, global satellite production scales up
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T14:23:03+00:00",
+      "published_utc": "2026-11-10T14:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
