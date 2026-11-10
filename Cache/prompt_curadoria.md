@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T13:22:48.388249+00:00
+Última coleta: 2026-11-10T13:32:43.428514+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
+  🇯🇵 Japão          925
   🇨🇳 China          904
-  🇹🇼 Taiwan         310
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor's October sales offer up 'strong start' to quarter, Wedbush says
+  - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
   - [japan] Honda upwardly revised its earnings forecast for this fiscal year due to weaker yen and increased sales of HVs
   - [taiwan] TSMC Board Approves Investment of Up to $500 Million in Each of Anthropic and OpenAI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] [Exclusive] LG Chem has amassed 2.5 trillion won ... to build a semiconductor materials plant on a petrochemic
   - [china] China's Hesai Q3 revenue rises 34% as lidar shipments grow
   - [korea] Nexon axes eight projects in restructuring as S.Korean game sector tightens belt amid downturn
-  - [china] ZAWYA: Can China’s zero-tariff programme offset the loss of Agoa for South African agriculture?
-  - [china] Chinese investment in African manufacturing could change the world
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T13:22:48+00:00",
+      "published_utc": "2026-11-10T13:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
