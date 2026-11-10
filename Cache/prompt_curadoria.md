@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T01:22:43.145013+00:00
+Última coleta: 2026-11-10T01:32:43.528197+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          873
+  🇯🇵 Japão          933
+  🇨🇳 China          874
   🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
+  - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
   - [japan] Next interest rate hike: ``Implement when possible'': Bank of Japan members' opinions at the October decision 
   - [japan] As underlying inflation reaches 2%, multiple opinions say it is necessary to raise interest rates to a neutral
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] U.S. Extends Tariff Exclusions for 178 Chinese Product Categories
   - [china] China Longyuan Power Posts October 2026 Power Generation Up 22.64% To 6.9 Million Mwh
   - [korea] On the 26th, the Monetary Policy Committee raised the base interest rate by 0.25%… ‘3.25% expected’
-  - [japan] IBM Announces Offering Of Multiple Series Of Yen-Denominated Notes - SEC Filing
-  - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T01:22:43+00:00",
+      "published_utc": "2026-11-10T01:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
