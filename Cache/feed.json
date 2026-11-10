@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T09:42:43.868024+00:00",
- "collected_at_utc": "2026-11-10T09:42:43.868024+00:00",
+ "generated_at_utc": "2026-11-10T09:52:42.536550+00:00",
+ "collected_at_utc": "2026-11-10T09:52:42.536550+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 930,
-  "china": 894,
+  "japan": 931,
+  "china": 893,
   "taiwan": 313,
   "korea": 863
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-10T02:11:05+00:00"
+   "newest": "2026-11-10T07:14:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T18:32:34+09:00"
+   "newest": "2026-11-10T18:32:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T18:24:52+09:00"
+   "newest": "2026-11-10T18:50:50+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T05:14:00+00:00"
+   "newest": "2026-11-10T05:38:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T05:47:00+00:00"
+   "newest": "2026-11-10T09:36:09+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T09:41:00+00:00"
+   "newest": "2026-11-10T09:52:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-10T08:58:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Falls Amid Risk-On Mood",
+   "url": "https://www.tradingview.com/news/dpa_afx:124c0154025dd:0-yen-falls-amid-risk-on-mood/",
+   "published_utc": "2026-11-10T09:42:07+00:00",
+   "title_original": "Yen Falls Amid Risk-On Mood",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "66f8e73da38393d0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -668,24 +685,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d1cc780cb9634bf9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bklSNElETVB1M3FJZnBFU1ZhVkdoeEwwQU92a3JkUW96XzVXdWZ5aG02am5MQnV4Q05jMjRsWXdTeW8tVnAyV1NaeEFzZW5xbXNOX21n?oc=5",
-   "published_utc": "2026-11-10T08:01:04+00:00",
-   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c0cc1cb1a9bcfa2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1464,23 +1463,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ee351e297bc6a0df"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "China's October trade surplus reaches $105.3B as exports jump 35.2% and imports surge 41.6%",
-   "url": "https://www.tradingview.com/news/seekingalpha:733e69fc7094b:0-china-s-october-trade-surplus-reaches-105-3b-as-exports-jump-35-2-and-imports-surge-41-6/",
-   "published_utc": "2026-11-10T05:30:23+00:00",
-   "title_original": "China's October trade surplus reaches $105.3B as exports jump 35.2% and imports surge 41.6%",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "707ad80c25a1b6dc"
   },
   {
    "source_id": "investing_live",
@@ -2897,6 +2879,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8739676fc0a4da1d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "헤럴드경제 미주판",
+   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXNNZk0zekFDNXlCZkJadkF1dmVfWHJnOW1zMndZRTJhVndNaEkzS2dmVmtWSF9LdER3N010VF9JQ3lfSXJabTNwZ0RxbWpscXhsR1JaZXl1UFhhRUlkaQ?oc=5",
+   "published_utc": "2026-11-09T15:01:00+00:00",
+   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9eeeacf5b9cee1f4"
   },
   {
    "source_id": "tradingview_live",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T09:42:43.868024+00:00
+Última coleta: 2026-11-10T09:52:42.536550+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          894
+  🇯🇵 Japão          931
+  🇨🇳 China          893
   🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls Amid Risk-On Mood
   - [china] Stocks in China and Hong Kong close higher, supported by the appreciation of the technology sector
   - [japan] Softbank G falls into interim deficit
   - [china] Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B
@@ -36,7 +37,6 @@ Total: 3000 manchetes
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
   - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
-  - [korea] Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committ
   - [korea] Monetary Policy Committee members who froze interest rates "check the effect of consecutive interest rate incr
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T09:42:44+00:00",
+      "published_utc": "2026-11-10T09:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
