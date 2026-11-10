@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T10:12:44.975450+00:00
+Última coleta: 2026-11-10T10:22:42.854631+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [china] China's Exports Could Face Headwinds in 2027 — Market Talk
   - [japan] SBG has a deficit of 768 billion yen in interim results
   - [japan] Yen Falls Amid Risk-On Mood
+  - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
   - [china] Stocks in China and Hong Kong close higher, supported by the appreciation of the technology sector
   - [japan] Softbank G falls into interim deficit
   - [china] Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Zhongke's exports in the first nine months exceeded 758.5 ​​billion, and its annual revenue is expected to exc
   - [taiwan] REG - Nexteq PLC - Taiwan property sale and trading update
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
-  - [china] Huang Jen-Hsun’s extramarital affair raises national security concerns Chinese scholar: U.S. exports of AI chi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T10:12:45+00:00",
+      "published_utc": "2026-11-10T10:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
