@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T12:52:42.297978+00:00
+Última coleta: 2026-11-10T13:02:45.396459+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          903
-  🇹🇼 Taiwan         311
+  🇨🇳 China          904
+  🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [china] China's crude oil imports recover, fuel exports not so much: Russell
   - [japan] Honda upwardly revised its earnings forecast for this fiscal year due to weaker yen and increased sales of HVs
   - [taiwan] TSMC Board Approves Investment of Up to $500 Million in Each of Anthropic and OpenAI
   - [china] Puya Semiconductor (Shanghai) Plans To Seek Hong Kong Listing
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Nexon axes eight projects in restructuring as S.Korean game sector tightens belt amid downturn
   - [china] ZAWYA: Can China’s zero-tariff programme offset the loss of Agoa for South African agriculture?
   - [china] Chinese investment in African manufacturing could change the world
-  - [korea] Exports to large companies more than doubled in the third quarter of this year due to the semiconduc..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T12:52:42+00:00",
+      "published_utc": "2026-11-10T13:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

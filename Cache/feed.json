@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T12:52:42.297978+00:00",
- "collected_at_utc": "2026-11-10T12:52:42.297978+00:00",
+ "generated_at_utc": "2026-11-10T13:02:45.396459+00:00",
+ "collected_at_utc": "2026-11-10T13:02:45.396459+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 926,
-  "china": 903,
-  "taiwan": 311,
+  "china": 904,
+  "taiwan": 310,
   "korea": 860
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T12:34:16+00:00"
+   "newest": "2026-11-10T12:49:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T12:30:21+00:00"
+   "newest": "2026-11-10T12:48:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T06:45:59+00:00"
+   "newest": "2026-11-10T06:40:05+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T12:52:20+00:00"
+   "newest": "2026-11-10T13:01:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-10T10:21:36+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's crude oil imports recover, fuel exports not so much: Russell",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R05Y:0-china-s-crude-oil-imports-recover-fuel-exports-not-so-much-russell/",
+   "published_utc": "2026-11-10T13:00:00+00:00",
+   "title_original": "China's crude oil imports recover, fuel exports not so much: Russell",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "04f4bf14d85972bb"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1311,23 +1328,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9d49c99b8bdc5f1e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "TSMC October Revenue Jumps 60% Y-o-Y",
-   "url": "https://www.tradingview.com/news/dpa_afx:d791a35ee3dbe:0-tsmc-october-revenue-jumps-60-y-o-y/",
-   "published_utc": "2026-11-10T07:01:05+00:00",
-   "title_original": "TSMC October Revenue Jumps 60% Y-o-Y",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fb7a76ed725f2694"
   },
   {
    "source_id": "gn_tw_cna",
