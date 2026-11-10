@@ -7,24 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T05:52:43.650490+00:00
+Última coleta: 2026-11-10T06:02:45.127973+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          897
-  🇹🇼 Taiwan         313
+  🇯🇵 Japão          935
+  🇨🇳 China          895
+  🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Table: Taiwan Semiconductor Mfg Oct Rev NT$586.89B Vs NT$367.47B
   - [china] Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services
+  - [japan] JGB yields rise after 30-year auction draws weak demand
+  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [china] Yuan Rally Likely to Cool, Not Reverse — Market Talk
   - [japan] Main opinions from the October meeting of the Bank of Japan Pointed out that it is important to “stick” the in
   - [japan] BOJ October Summary: Rate hikes should continue as inflation reaches 2% target
   - [japan] Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen
   - [china] China's October trade surplus reaches $105.3B as exports jump 35.2% and imports surge 41.6%
   - [japan] Bank of Japan ETF sales to bring in $6.3 bln annually, finmin Katayama says
-  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [china] Chinese Chip Firms Have Mixed Debuts in Hong Kong
   - [china] Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Korean stocks rebound as chip giants lead recovery
   - [china] CXMT chairman's reported DeepSeek investment spotlights China's semiconductor capital network
   - [china] China's October crude oil imports rise to highest level since March amid Middle East war
-  - [china] China exports stay resilient as trade surplus tops $1tn
-  - [china] CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T05:52:43+00:00",
+      "published_utc": "2026-11-10T06:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
