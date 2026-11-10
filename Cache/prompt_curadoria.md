@@ -7,23 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T04:12:44.038541+00:00
+Última coleta: 2026-11-10T04:22:44.059351+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          896
+  🇯🇵 Japão          933
+  🇨🇳 China          894
   🇹🇼 Taiwan         316
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [japan] MODEC: Higher FY26 guidance follows strong 3Q26 results and a JPY 10B buyback approval
   - [china] China's Trade Surplus Surged Past $1 Trillion in October — WSJ
   - [japan] Toray Industries - To Buy Back Up To 5.08% Own Shares Worth 70 Billion Yen
   - [japan] Toa Corp (Tokyo) - To Buy Back Up To 5.67% Of Own Shares Worth 8 Billion Yen
+  - [china] China’s October crude oil imports rise to highest level since March amid Middle East war
   - [china] China October soybean imports fall on high inventories, weak crush margins
   - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
   - [china] Yuan steady after dollar softens, awaits US CPI
-  - [china] China’s October crude oil imports rise to highest level since March amid Middle East war
   - [china] China October rare earth exports jump 2.7% from prior month
   - [china] China's copper concentrate imports slump 11% in October as smelter woes deepen
   - [japan] Modec Inc - To Buy Back Up To 2.9% Of Own Shares Worth 10 Billion Yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] On November 10, the central bank launched a 190 billion yuan overnight reverse repurchase operation.
   - [korea] Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?
   - [china] Chinese chip firms Denglin, Xinde open mixed in Hong Kong debuts
-  - [japan] At the October meeting of the Bank of Japan, many voices called for interest rate hike “quickly”; it is import
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T04:12:44+00:00",
+      "published_utc": "2026-11-10T04:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
