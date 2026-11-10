@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T08:02:45.291170+00:00
+Última coleta: 2026-11-10T08:12:43.232588+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          936
+  🇯🇵 Japão          935
   🇨🇳 China          894
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  857
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls Against Majors
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services
   - [china] China's exports in October increased by 35.2% year-on-year, beating expectations. The surplus in the previous 
   - [japan] JGB yields rise after 30-year auction draws weak demand
-  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T08:02:45+00:00",
+      "published_utc": "2026-11-10T08:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

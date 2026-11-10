@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T08:02:45.291170+00:00",
- "collected_at_utc": "2026-11-10T08:02:45.291170+00:00",
+ "generated_at_utc": "2026-11-10T08:12:43.232588+00:00",
+ "collected_at_utc": "2026-11-10T08:12:43.232588+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 936,
+  "japan": 935,
   "china": 894,
   "taiwan": 313,
-  "korea": 857
+  "korea": 858
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T07:24:04+00:00"
+   "newest": "2026-11-10T08:07:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T07:23:33+00:00"
+   "newest": "2026-11-10T08:05:39+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T08:02:07+00:00"
+   "newest": "2026-11-10T08:12:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:16:06+00:00"
+   "newest": "2026-11-10T03:18:57+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Falls Against Majors",
+   "url": "https://www.tradingview.com/news/dpa_afx:0e91a26836f73:0-yen-falls-against-majors/",
+   "published_utc": "2026-11-10T08:04:11+00:00",
+   "title_original": "Yen Falls Against Majors",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d1cc780cb9634bf9"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price",
@@ -366,7 +383,7 @@
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition parties officially reach an agreement at the Steering Committee",
    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73298",
-   "published_utc": "2026-11-10T07:33:13+00:00",
+   "published_utc": "2026-11-10T07:33:00+00:00",
    "title_original": "消費税減税法案 参院であす審議入り 与野党が議運委で正式合意",
    "region": "japan",
    "topics": [
@@ -1411,23 +1428,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fa6cb69fe828f59c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Toa Corp (Tokyo) - To Buy Back Up To 5.67% Of Own Shares Worth 8 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q2II:0-toa-corp-tokyo-to-buy-back-up-to-5-67-of-own-shares-worth-8-billion-yen/",
-   "published_utc": "2026-11-10T04:01:09+00:00",
-   "title_original": "Toa Corp (Tokyo) - To Buy Back Up To 5.67% Of Own Shares Worth 8 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "53279cbd69c64313"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -2654,6 +2654,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8739676fc0a4da1d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "헤럴드경제 미주판",
+   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXNNZk0zekFDNXlCZkJadkF1dmVfWHJnOW1zMndZRTJhVndNaEkzS2dmVmtWSF9LdER3N010VF9JQ3lfSXJabTNwZ0RxbWpscXhsR1JaZXl1UFhhRUlkaQ?oc=5",
+   "published_utc": "2026-11-09T15:01:00+00:00",
+   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9eeeacf5b9cee1f4"
   },
   {
    "source_id": "tradingview_live",
@@ -16700,23 +16718,6 @@
    "live_wire": false,
    "manual": false,
    "id": "459a36136d9e63ff"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Falls Against Majors",
-   "url": "https://www.tradingview.com/news/dpa_afx:ce497b2d3dbed:0-yen-falls-against-majors/",
-   "published_utc": "2026-11-02T07:53:27+00:00",
-   "title_original": "Yen Falls Against Majors",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "011dd474c6f02dae"
   },
   {
    "source_id": "gn_cn_caixin",
