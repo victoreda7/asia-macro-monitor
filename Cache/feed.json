@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T14:12:44.402536+00:00",
- "collected_at_utc": "2026-11-10T14:12:44.402536+00:00",
+ "generated_at_utc": "2026-11-10T14:23:02.975458+00:00",
+ "collected_at_utc": "2026-11-10T14:23:02.975458+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
-  "china": 905,
-  "taiwan": 312,
-  "korea": 858
+  "japan": 924,
+  "china": 904,
+  "taiwan": 315,
+  "korea": 857
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T13:55:17+00:00"
+   "newest": "2026-11-10T14:14:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T13:43:29+00:00"
+   "newest": "2026-11-10T14:06:47+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T14:02:00+00:00"
+   "newest": "2026-11-10T14:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T12:21:10+00:00"
+   "newest": "2026-11-10T09:20:14+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-10T13:32:36+00:00"
+   "newest": "2026-11-10T14:12:10+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tsmc-earmarks-up-to-1bn-to-buy-anthropic-and-openai-shares",
+   "published_utc": "2026-11-10T14:23:02.479042+00:00",
+   "title_original": "TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "002be3f7104b7690"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC investirá até US$ 1 bilhão na Anthropic e na OpenAI",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R0NM:0/",
+   "published_utc": "2026-11-10T14:10:53+00:00",
+   "title_original": "TSMC investirá até US$ 1 bilhão na Anthropic e na OpenAI",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e7da992016094c62"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46R0VV:0-tsmc-to-invest-up-to-1-billion-in-anthropic-openai/",
+   "published_utc": "2026-11-10T14:10:27+00:00",
+   "title_original": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0d621fc0d65453d9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1172,23 +1223,6 @@
    "id": "d68ed6bc643bbebe"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Falls Against Majors",
-   "url": "https://www.tradingview.com/news/dpa_afx:0e91a26836f73:0-yen-falls-against-majors/",
-   "published_utc": "2026-11-10T08:04:11+00:00",
-   "title_original": "Yen Falls Against Majors",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d1cc780cb9634bf9"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "헤럴드경제",
    "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
@@ -1311,23 +1345,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7bb8539bb377773b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B",
-   "url": "https://www.tradingview.com/news/DJN_DN20261110001695:0-table-chun-yuan-steel-industry-oct-rev-nt-2-02b-vs-nt-2-01b/",
-   "published_utc": "2026-11-10T07:14:00+00:00",
-   "title_original": "Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7a73395b48c36a66"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51955,24 +51972,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6198e10b598d9247"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "SBS Biz",
-   "title_en": "[Global economic indicators] Pay attention to the Bank of Korea’s base interest rate decision... China's third quarter growth rate is also of interest.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42WXBldkppSjlNd3dHTmNRWm5FSjMwTlhRaGVlaXctb01kSlF6ZlI1bW1iTlNNVG5SanhYNXdTTkRpa2pnWW1FVVVsckp5ZWM3RXBncDFkQ0PSAVhBVV95cUxONllwZXZKaUo5TXd3R05jUVpuRUozME5YUWhlZWl3LW9NZEpRemZSNW1tYk5TTVRuUmp4WDV3U05EaWtqZ1ltRVVVbHJKeWVjN0VwZ3AxZEND?oc=5",
-   "published_utc": "2026-10-16T00:49:00+00:00",
-   "title_original": "[글로벌 경제지표] 한국은행 기준금리 결정 주목…中 3분기 성장률도 관심",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "baa9b47dc100cbfc"
   },
   {
    "source_id": "manual_ia",

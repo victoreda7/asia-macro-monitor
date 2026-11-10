@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T14:12:44.402536+00:00
+Última coleta: 2026-11-10T14:23:02.975458+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          905
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  858
+  🇯🇵 Japão          924
+  🇨🇳 China          904
+  🇹🇼 Taiwan         315
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares
+  - [taiwan] TSMC investirá até US$ 1 bilhão na Anthropic e na OpenAI
+  - [taiwan] TSMC to invest up to $1 billion in Anthropic, OpenAI
   - [taiwan] TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers — Barrons.com
   - [taiwan] Taiwan Semiconductor's October sales offer up 'strong start' to quarter, Wedbush says
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [china] China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses
   - [taiwan] UK space firms eye Taiwan's chip and hardware ecosystem, global satellite production scales up
-  - [korea] October Monetary Policy Committee unanimously freezes... Additional tightening is weighed against price pressu
-  - [korea] [Exclusive] LG Chem has amassed 2.5 trillion won ... to build a semiconductor materials plant on a petrochemic
-  - [china] China's Hesai Q3 revenue rises 34% as lidar shipments grow
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T14:12:44+00:00",
+      "published_utc": "2026-11-10T14:23:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
