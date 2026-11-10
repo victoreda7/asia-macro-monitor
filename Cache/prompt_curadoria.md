@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T00:02:45.238916+00:00
+Última coleta: 2026-11-10T00:12:45.128550+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          873
+  🇯🇵 Japão          931
+  🇨🇳 China          872
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Some in BOJ called for faster rate hikes, October summary shows
+  - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
   - [japan] Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026
   - [japan] ECONOMISTS: JAPAN Q3 GDP TO GROW 0.1% Q/Q (+0.4% ANNUALIZED) VS. +0.3% (+1.4% ANNUALIZED) Q2, LED BY RESILIENT
   - [japan] JAPAN Q3 CONSUMPTION TREND INDEX REAL S/A -3.1% Q/Q VS. +0.6% IN Q2, INDICATING PRIVATE CONSUMPTION WEAK IN Q3
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's October exports hit high, jump nearly 60% on AI demand
   - [japan] Six opposition parties in the House of Councilors urge the prime minister to attend consumption tax reduction 
   - [japan] The Liberal Democratic Party and the Meiji Restoration work closely together in the House of Councilors delibe
-  - [china] China plans to boost yuan use in shipping risk-pricing, reduce reliance on West
-  - [taiwan] Ministry of Finance: Taiwan’s export scale will surpass Japan’s this year, ranking “8th and 7th” in the world
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T00:02:45+00:00",
+      "published_utc": "2026-11-10T00:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
