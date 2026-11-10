@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T13:32:43.428514+00:00
+Última coleta: 2026-11-10T13:42:43.707747+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
   🇨🇳 China          904
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  860
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers — Barrons.com
   - [taiwan] Taiwan Semiconductor's October sales offer up 'strong start' to quarter, Wedbush says
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] October Monetary Policy Committee unanimously freezes... Additional tightening is weighed against price pressu
   - [korea] [Exclusive] LG Chem has amassed 2.5 trillion won ... to build a semiconductor materials plant on a petrochemic
   - [china] China's Hesai Q3 revenue rises 34% as lidar shipments grow
-  - [korea] Nexon axes eight projects in restructuring as S.Korean game sector tightens belt amid downturn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T13:32:43+00:00",
+      "published_utc": "2026-11-10T13:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

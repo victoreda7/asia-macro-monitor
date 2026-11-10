@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-10T13:32:43.428514+00:00",
- "collected_at_utc": "2026-11-10T13:32:43.428514+00:00",
+ "generated_at_utc": "2026-11-10T13:42:43.707747+00:00",
+ "collected_at_utc": "2026-11-10T13:42:43.707747+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 925,
   "china": 904,
-  "taiwan": 311,
-  "korea": 860
+  "taiwan": 312,
+  "korea": 859
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T13:16:00+00:00"
+   "newest": "2026-11-10T13:34:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T12:48:26+00:00"
+   "newest": "2026-11-10T13:30:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:43:24+00:00"
+   "newest": "2026-11-10T04:00:30+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T13:31:51+00:00"
+   "newest": "2026-11-10T13:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-10T13:18:08+00:00"
+   "newest": "2026-11-10T13:32:36+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-10T10:21:36+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261110006053:0-tsmc-and-softbank-reveal-a-chasm-between-ai-winners-and-losers-barrons-com/",
+   "published_utc": "2026-11-10T13:40:00+00:00",
+   "title_original": "TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers — Barrons.com",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "95184343ab2ccb10"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1311,23 +1328,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7a73395b48c36a66"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean shares rebound as chipmaker track US peers",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R088:0-south-korean-shares-rebound-as-chipmaker-track-us-peers/",
-   "published_utc": "2026-11-10T07:06:17+00:00",
-   "title_original": "South Korean shares rebound as chipmaker track US peers",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3c621af0c85e4e5d"
   },
   {
    "source_id": "gn_tw_cna",
