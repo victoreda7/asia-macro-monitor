@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-10T07:42:44.056086+00:00",
- "collected_at_utc": "2026-11-10T07:42:44.056086+00:00",
+ "generated_at_utc": "2026-11-10T07:52:44.191112+00:00",
+ "collected_at_utc": "2026-11-10T07:52:44.191112+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 313,
   "korea": 857
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T16:40:51+09:00"
+   "newest": "2026-11-10T16:46:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T05:42:00+00:00"
+   "newest": "2026-11-10T06:37:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T07:31:35+00:00"
+   "newest": "2026-11-10T07:51:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:16:06+00:00"
+   "newest": "2026-11-10T06:17:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T07:01:00+00:00"
+   "newest": "2026-11-10T07:35:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-10T15:00:00+09:00"
+   "newest": "2026-11-10T16:48:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,18 +331,36 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T07:04:56+00:00"
+   "newest": "2026-11-10T07:41:28+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-10T05:59:12+00:00"
+   "newest": "2026-11-10T06:05:25+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73547",
+   "published_utc": "2026-11-10T07:46:24+00:00",
+   "title_original": "日銀10月会合 物価2％到達「できるときに利上げ」の指摘も",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc9d02b790f093f8"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -859,6 +877,25 @@
    "id": "169c63fa1315689f"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "더퍼블릭",
+   "title_en": "Semiconductor exports influence the Bank of Korea’s interest rate… Expected to be lowered by 3.5% during a boom, and expected to be lowered during a slump",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaTlFXRDk3SmVIUUVOY2o2TGNDbWlOVnJVemlreEowZ2pqMVRRb2NnbFF2SjJuTjRUZUhPQkxWVE55S0lodk1rUFdGNkhaUEdtNmZ2MDdOX25TOEhOQnpVWWhrMWVyZjlTNWxNQ3psQdIBb0FVX3lxTFBaTlFXRDk3SmVIUUVOY2o2TGNDbWlOVnJVemlreEowZ2pqMVRRb2NnbFF2SjJuTjRUZUhPQkxWVE55S0lodk1rUFdGNkhaUEdtNmZ2MDdOX25TOEhOQnpVWWhrMWVyZjlTNWxNQ3psQQ?oc=5",
+   "published_utc": "2026-11-10T06:05:25+00:00",
+   "title_original": "반도체 수출이 한은 금리 좌우한다…호황 땐 3.5%, 부진 땐 인하 전망",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2ef615a1a15c4751"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "The Hyakujushi Bank - To Buy Back Up To 1.76% Own Shares Worth 3 Bln Yen",
@@ -926,25 +963,6 @@
    "live_wire": false,
    "manual": false,
    "id": "315e12d59b80aacc"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "더퍼블릭",
-   "title_en": "Semiconductor exports influence the Bank of Korea’s interest rate… Expected to be lowered by 3.5% during a boom, and expected to be lowered during a slump",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55RzNGTHlJVXFqaXA3VVB2WnVPMFJYMENhVU5VXzkzMnlYa2ZOcVh4YXRrMk5MQ19UaldoYWFrTGIzaFNvZHNfZmhPY01ITzdyNjY5cEVFcHgxeDRrY3hhUEhIeVBhSXY0eEg40gFvQVVfeXFMUFpOUVdEOTdKZUhRRU5jajZMY0NtaU5WclV6aWt4SjBnamoxVFFvY2dsUXZKMm5ONFRlSE9CTFZUTnlLSWh2TWtQV0Y2SFpQR202ZnYwN05fblM4SE5CelVZaGsxZXJmOVM1bE1DemxB?oc=5",
-   "published_utc": "2026-11-10T05:59:12+00:00",
-   "title_original": "반도체 수출이 한은 금리 좌우한다…호황 땐 3.5%, 부진 땐 인하 전망",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cfe0489f03d683c5"
   },
   {
    "source_id": "tradingview_live",
@@ -51947,23 +51965,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5f9ada6e9c5c3393"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-kioxia-sheds-two-thirds-of-peak-market-value-as-china-chip-rivals-emerge",
-   "published_utc": "2026-10-15T16:22:43.462609+00:00",
-   "title_original": "Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d02d72ccc3811ac5"
   },
   {
    "source_id": "manual_ia",

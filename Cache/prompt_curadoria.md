@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T07:42:44.056086+00:00
+Última coleta: 2026-11-10T07:52:44.191112+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          936
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
@@ -47,16 +48,15 @@ Total: 3000 manchetes
   - [japan] TOMY Company: Japan and Asia growth lifted Q1 profit; Americas shipments were hit by ERP delays
   - [korea] How Posco fortifies Korea's energy, battery supply chains
   - [china] Asian stocks rally on US tech rebound; China trade surplus hits $105B in October
+  - [korea] Semiconductor exports influence the Bank of Korea’s interest rate… Expected to be lowered by 3.5% during a boo
   - [japan] The Hyakujushi Bank - To Buy Back Up To 1.76% Own Shares Worth 3 Bln Yen
   - [japan] President Keiko Fujimori of Peru, South America, to visit Japan; coordination of summit meeting on 20th
   - [taiwan] Table: Taiwan Semiconductor Mfg Oct Rev NT$586.89B Vs NT$367.47B
   - [japan] If rejected in the House of Councilors, will the consumption tax be dissolved? The reality of the scenario in 
-  - [korea] Semiconductor exports influence the Bank of Korea’s interest rate… Expected to be lowered by 3.5% during a boo
   - [china] Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services
   - [china] China's exports in October increased by 35.2% year-on-year, beating expectations. The surplus in the previous 
   - [japan] JGB yields rise after 30-year auction draws weak demand
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
-  - [china] Yuan Rally Likely to Cool, Not Reverse — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T07:42:44+00:00",
+      "published_utc": "2026-11-10T07:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
