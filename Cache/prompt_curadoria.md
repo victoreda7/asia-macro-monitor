@@ -7,18 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T06:12:45.666252+00:00
+Última coleta: 2026-11-10T06:22:45.967284+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          936
-  🇨🇳 China          896
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  857
+  🇯🇵 Japão          938
+  🇨🇳 China          891
+  🇹🇼 Taiwan         315
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [china] China exports stay brisk as annual trade surplus tops $1tn
+  - [china] China puts yuan within easier reach of Africa, but adoption faces major hurdles: report
+  - [taiwan] TSMC Oct revenue jumps 60% as AI-fueled demand remains strong
+  - [taiwan] TSMC: Revenue for January-October Totaled NT$4.485T, Up 43% on Year >2330.TW
+  - [taiwan] TSMC: Revenue for October Totaled NT$586.89B, Up 15% From September >2330.TW
+  - [taiwan] TSMC Revenue Rose 60% on Year in October >2330.TW
   - [japan] The current account surplus in the first half of this fiscal year is the second largest on record.
+  - [japan] TOMY Company: Japan and Asia growth lifted Q1 profit; Americas shipments were hit by ERP delays
   - [korea] How Posco fortifies Korea's energy, battery supply chains
+  - [china] Asian stocks rally on US tech rebound; China trade surplus hits $105B in October
+  - [japan] The Hyakujushi Bank - To Buy Back Up To 1.76% Own Shares Worth 3 Bln Yen
   - [japan] President Keiko Fujimori of Peru, South America, to visit Japan; coordination of summit meeting on 20th
   - [taiwan] Table: Taiwan Semiconductor Mfg Oct Rev NT$586.89B Vs NT$367.47B
   - [japan] If rejected in the House of Councilors, will the consumption tax be dissolved? The reality of the scenario in 
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Central Bank: The current situation of foreign capital remittances of tens of billions of dollars in non-suppo
   - [japan] MODEC: Higher FY26 guidance follows strong 3Q26 results and a JPY 10B buyback approval
   - [china] China's Trade Surplus Surged Past $1 Trillion in October — WSJ
-  - [japan] Toray Industries - To Buy Back Up To 5.08% Own Shares Worth 70 Billion Yen
-  - [japan] Toa Corp (Tokyo) - To Buy Back Up To 5.67% Of Own Shares Worth 8 Billion Yen
-  - [china] China October soybean imports fall on high inventories, weak crush margins
-  - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
-  - [china] Developing | China’s imports outpace exports in October amid efforts to tackle record surplus
-  - [china] Yuan steady after dollar softens, awaits US CPI
-  - [china] China's copper concentrate imports slump 11% in October as smelter woes deepen
-  - [japan] Modec Inc - To Buy Back Up To 2.9% Of Own Shares Worth 10 Billion Yen
-  - [china] China's iron ore imports at five-month low as thin margins dent appetite
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T06:12:45+00:00",
+      "published_utc": "2026-11-10T06:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
