@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T10:52:45.273595+00:00
+Última coleta: 2026-11-10T11:02:49.340568+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          893
+  🇯🇵 Japão          929
+  🇨🇳 China          896
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [china] Alleged case of Nvidia's chief executive facilitated shipments of chips worth US$7.5 billion to China, accordi
+  - [china] Nvidia CEO's alleged affair aided $7.5 billion in chip shipments to China, Information reports
+  - [china] China's soybean imports fall in October amid high stocks, weak crushing margins
+  - [china] China's trade surplus surpasses $1trn as exports soar
   - [china] China's trade surplus exceeds $1 trillion, causing trade friction
+  - [taiwan] The pressure on foreign capital's remittances has not subsided. The New Taiwan dollar nearly broke through 33 
   - [japan] Economy Watcher Survey: Decline for the first time in 6 months, impact on consumption due to rising prices
   - [china] Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation
   - [china] China Logs Strong Export Growth In October
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [taiwan] TSMC's October sales soar almost 60% year-on-year to hit high
   - [taiwan] Taiwan sees US$10 billion in capital outflows in November
-  - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
-  - [korea] Monetary Policy Committee members say, “We froze interest rates in October, but we must continue the austerity
-  - [china] Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B
-  - [korea] South Korean shares rebound as chipmaker track US peers
-  - [japan] Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T10:52:45+00:00",
+      "published_utc": "2026-11-10T11:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
