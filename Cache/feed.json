@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T06:02:45.127973+00:00",
- "collected_at_utc": "2026-11-10T06:02:45.127973+00:00",
+ "generated_at_utc": "2026-11-10T06:12:45.666252+00:00",
+ "collected_at_utc": "2026-11-10T06:12:45.666252+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 935,
-  "china": 895,
-  "taiwan": 314,
-  "korea": 856
+  "japan": 936,
+  "china": 896,
+  "taiwan": 311,
+  "korea": 857
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 31.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T05:56:19+00:00"
+   "newest": "2026-11-10T06:08:17+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T23:52:49+00:00"
+   "newest": "2026-11-10T00:11:34+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T14:56:18+09:00"
+   "newest": "2026-11-10T15:01:54+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T13:39:11+09:00"
+   "newest": "2026-11-10T15:08:34+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T04:58:00+00:00"
+   "newest": "2026-11-09T21:20:45+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T04:58:00+00:00"
+   "newest": "2026-11-10T05:57:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-10T13:00:00+09:00"
+   "newest": "2026-11-10T15:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,12 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-10T02:10:00+00:00"
+   "newest": "2026-11-10T05:59:12+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "The current account surplus in the first half of this fiscal year is the second largest on record.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73474",
+   "published_utc": "2026-11-10T06:08:34+00:00",
+   "title_original": "今年度上半期の経常収支 黒字幅は過去2番目の大きさに",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6695b4c2316e4105"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "How Posco fortifies Korea's energy, battery supply chains",
+   "url": "https://www.koreaherald.com/article/10932372",
+   "published_utc": "2026-11-10T06:06:55+00:00",
+   "title_original": "How Posco fortifies Korea's energy, battery supply chains",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c167ec0b7b947918"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "President Keiko Fujimori of Peru, South America, to visit Japan; coordination of summit meeting on 20th",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73461",
+   "published_utc": "2026-11-10T06:01:54+00:00",
+   "title_original": "南米ペルー ケイコ・フジモリ大統領訪日へ 20日に首脳会談調整",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "75c90d3a04454246"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -361,6 +413,43 @@
    "id": "92461253aeecd96e"
   },
   {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "If rejected in the House of Councilors, will the consumption tax be dissolved? The reality of the scenario in which the consumption tax reduction bill is rejected by the House of Councilors, which has suddenly escalated due to the \"four-man opposition\" including Ishiba and others | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964244?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-10T06:00:00+00:00",
+   "title_original": "参院で否決なら｢消費税解散｣も？ 石破氏ら\"4人造反\"で一気に高まった消費税減税法案｢参院否決｣シナリオの現実味 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "315e12d59b80aacc"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "더퍼블릭",
+   "title_en": "Semiconductor exports influence the Bank of Korea’s interest rate… Expected to be lowered by 3.5% during a boom, and expected to be lowered during a slump",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55RzNGTHlJVXFqaXA3VVB2WnVPMFJYMENhVU5VXzkzMnlYa2ZOcVh4YXRrMk5MQ19UaldoYWFrTGIzaFNvZHNfZmhPY01ITzdyNjY5cEVFcHgxeDRrY3hhUEhIeVBhSXY0eEg40gFvQVVfeXFMUFpOUVdEOTdKZUhRRU5jajZMY0NtaU5WclV6aWt4SjBnamoxVFFvY2dsUXZKMm5ONFRlSE9CTFZUTnlLSWh2TWtQV0Y2SFpQR202ZnYwN05fblM4SE5CelVZaGsxZXJmOVM1bE1DemxB?oc=5",
+   "published_utc": "2026-11-10T05:59:12+00:00",
+   "title_original": "반도체 수출이 한은 금리 좌우한다…호황 땐 3.5%, 부진 땐 인하 전망",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfe0489f03d683c5"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "PR Newswire",
    "title_en": "Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services",
@@ -376,6 +465,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7847264dcbdd271d"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "China's exports in October increased by 35.2% year-on-year, beating expectations. The surplus in the previous October exceeded US$1 trillion | Cross-Strait",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1hKLVN0T05MN1NDSXRwV0U3RFUwZWhVenpIcU85eEI1TjNrOXM4NlF2NHFoc2RTTXVnZkd4bkpEbFRjUXN1YTBTQXhBVEZwWmx3a3pkS3ItbTNRUWc?oc=5",
+   "published_utc": "2026-11-10T05:57:00+00:00",
+   "title_original": "中國10月出口年增35.2%勝預期前10月順差逾1兆美元| 兩岸",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c5ec4d24acb04da9"
   },
   {
    "source_id": "tradingview_live",
@@ -1781,7 +1887,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZmdFUUxiZ01wSmpkTHVmMDUtbzNveEVJYWRKMzY1RF91U09kUHNmeXpqOFZBVzQzQjhEMlRjd1UzUjVNa0x2UnplSl9BUXRUd19VZEg2VTROQQ?oc=5",
-   "published_utc": "2026-11-09T23:52:49+00:00",
+   "published_utc": "2026-11-09T23:52:00+00:00",
    "title_original": "BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.",
    "region": "japan",
    "topics": [
@@ -2024,7 +2130,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The true meaning of Governor Ueda's ``no declaration of victory'' despite the Bank of Japan's ``reaching 2%'' after 2013 The ``guardian of prices'' confronts inflation and fumbles with additional interest rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOEh3VzV0YzNNUmJTRW5xMHJiUWVJWGhVazBBcFBBLUhEYjZXQTNITlltUmcxWnJtVXNTdVBfVUVaeEhaZnRtc1FqOEZObURRc1BVS3ItV2FZcG1RSlZaWmlBZlpydm9WaVVIQ2pJdXpRWVlXWjkwMjV3OVVzSEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVhPMXVpanRwNUp2MGY4Qzc5OGlHNUxjWl9XMEVxRGZnb004V3kwdTFZalliU2pBd0hubHh1RjhnNS1pQVhOendtQjhRTXRMcXNReFdfMk9kMDJhZTZOMGZ6ZHZKT3RHTzJ1amExcVlVREJJaXFPejFndGwzZ1ZLZHdpLURzbXFm?oc=5",
    "published_utc": "2026-11-09T21:00:33+00:00",
    "title_original": "日銀が13年越し「2％到達」も植田総裁「勝利宣言なし」の真意 “物価の番人”が直面するインフレへの対峙と手探りの追加利上げ",
    "region": "japan",
@@ -2036,7 +2142,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4cb6c0437ff7d4d6"
+   "id": "123e2af5a59bfd78"
   },
   {
    "source_id": "toyo_keizai",
@@ -4423,6 +4529,24 @@
    "id": "d54cadb3a7d7f4f6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "英为财情 Investing.com",
+   "title_en": "Zhitong Hong Kong stocks had known earlier | The Standing Committee of the State Council proposed improving the capital market stabilization mechanism for the first time. The gold reserves of the People’s Bank of China increased for “24 consecutive years”. Provided by Zhitong Finance.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DdVphRTNwOHh0bG80bmZaMEVSalVSdGZWVHB4SWo4VDFJLWx2X2FRVmNreDJGYjNnU0NWZWpVcHExU2NXOXBTdy1pNUJxLWpxQlRwX3g5ZnNzRXdXNmYzTXRrWlRPU3lyQkpKcEJGQmQ?oc=5",
+   "published_utc": "2026-11-08T23:52:41+00:00",
+   "title_original": "智通港股早知道 | 国常会首提完善资本市场稳市机制 中国央行黄金储备“24连增” 提供者 智通财经",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fbc2016eb25aca41"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
@@ -5912,8 +6036,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -5927,7 +6051,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -51843,125 +51967,6 @@
    "live_wire": false,
    "manual": false,
    "id": "86092c9e86c82673"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today's Market — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015002606:0-coreweave-tsmc-fmc-rocket-lab-schwab-and-more-stocks-that-explain-today-s-market-barrons-com/",
-   "published_utc": "2026-10-15T14:02:00+00:00",
-   "title_original": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today's Market — Barrons.com",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7e17c07f24692f2b"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3370921/blast-simulation-university-probes-robotics-fine-ai-spies-7-us-china-relations-reads?utm_source=rss_feed",
-   "published_utc": "2026-10-15T14:00:05+00:00",
-   "title_original": "Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "40f7811756168cf9"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
-   "published_utc": "2026-10-15T13:41:38+00:00",
-   "title_original": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4919285abe22a94"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mint",
-   "title_en": "India to overtake Japan as 4th-largest economy in 2027 with $4.52 trillion GDP: IMF",
-   "url": "https://www.tradingview.com/news/moodys:e0124572b9ad9:0-india-to-overtake-japan-as-4th-largest-economy-in-2027-with-4-52-trillion-gdp-imf/",
-   "published_utc": "2026-10-15T13:41:13+00:00",
-   "title_original": "India to overtake Japan as 4th-largest economy in 2027 with $4.52 trillion GDP: IMF",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c938783f3785545f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "BayStreet",
-   "title_en": "Taiwan Semiconductor Posts Record Profit",
-   "url": "https://www.tradingview.com/news/baystreet:0571a5924094b:0-taiwan-semiconductor-posts-record-profit/",
-   "published_utc": "2026-10-15T13:34:00+00:00",
-   "title_original": "Taiwan Semiconductor Posts Record Profit",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ddd5b5f67bddc0ec"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts",
-   "url": "https://www.tradingview.com/news/seekingalpha:5a14114a5094b:0-tsmc-s-q3-results-outlook-pave-path-for-banner-year-in-2027-analysts/",
-   "published_utc": "2026-10-15T13:19:32+00:00",
-   "title_original": "TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b33d2fedc50006fe"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "AI financing fears send chip-heavy Korean stocks into panic",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qWDlQUWo3bGItTG84TG52NGczMFYtQm9SVHBVOW1CeTVqbkwxeGpZU25vV1FMLTNyTWdSNnRqMDE3b3BhV3FBMEszdlVESHVmcDRqeEtRV3dZY2RURHVMRFkzM1J1SGxQeHVBSVpRTTM4bFFmMlJQdWRB?oc=5",
-   "published_utc": "2026-10-15T12:44:00+00:00",
-   "title_original": "AI financing fears send chip-heavy Korean stocks into panic",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d76c28823ad237ad"
   },
   {
    "source_id": "manual_ia",
