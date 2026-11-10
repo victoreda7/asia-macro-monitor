@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T08:12:43.232588+00:00
+Última coleta: 2026-11-10T08:22:42.733896+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
-  🇨🇳 China          894
-  🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  858
+  🇯🇵 Japão          934
+  🇨🇳 China          895
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [china] Aluminium falls as surging China exports revive supply worries
+  - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
+  - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] President Keiko Fujimori of Peru, South America, to visit Japan; coordination of summit meeting on 20th
   - [taiwan] Table: Taiwan Semiconductor Mfg Oct Rev NT$586.89B Vs NT$367.47B
   - [japan] If rejected in the House of Councilors, will the consumption tax be dissolved? The reality of the scenario in 
-  - [china] Shanghai Electric Integrates Industrial AI into Heavy-Duty Gas Turbine Manufacturing and Lifecycle Services
-  - [china] China's exports in October increased by 35.2% year-on-year, beating expectations. The surplus in the previous 
-  - [japan] JGB yields rise after 30-year auction draws weak demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T08:12:43+00:00",
+      "published_utc": "2026-11-10T08:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
