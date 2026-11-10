@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T05:02:46.124540+00:00",
- "collected_at_utc": "2026-11-10T05:02:46.124540+00:00",
+ "generated_at_utc": "2026-11-10T05:12:43.759538+00:00",
+ "collected_at_utc": "2026-11-10T05:12:43.759538+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
+  "japan": 932,
   "china": 896,
-  "taiwan": 315,
+  "taiwan": 316,
   "korea": 856
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T03:11:24+00:00"
+   "newest": "2026-11-10T04:21:06+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 37,
+   "count": 38,
    "error": "",
-   "newest": "2026-11-10T10:59:23+08:00"
+   "newest": "2026-11-10T12:55:28+08:00"
   },
   {
    "source_id": "investing_live",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-10T02:11:05+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:23:00+00:00"
+   "newest": "2026-11-09T19:38:42+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T05:02:35+00:00"
+   "newest": "2026-11-10T05:10:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T03:00:37+00:00"
+   "newest": "2026-11-10T05:00:23+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T04:42:00+00:00"
+   "newest": "2026-11-10T04:58:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,93 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's crude oil imports recover, fuel exports not so much: Russell",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R05A:0-china-s-crude-oil-imports-recover-fuel-exports-not-so-much-russell/",
+   "published_utc": "2026-11-10T05:10:27+00:00",
+   "title_original": "China's crude oil imports recover, fuel exports not so much: Russell",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "36019220e66ddacc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46R015:0-alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips/",
+   "published_utc": "2026-11-10T05:07:34+00:00",
+   "title_original": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a6f480862a7d25e5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3965187:0-tokyo-ohka-kogyo-ai-led-semiconductor-demand-lifted-9m-results-and-drove-higher-fy26-guidance/",
+   "published_utc": "2026-11-10T05:02:35+00:00",
+   "title_original": "Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "08250dd8d9bb5a5c"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Future interest rate hikes will be ``implemented when possible,'' and there is also mention of raising the rate to a ``neutral'' level...``Main opinions'' at the October meeting of the Bank of Japan to determine the 2% price index",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xc1ZCeDN0WmduQ2M1UVhIWkZuajBzaUZGWFRIUkdSVU9UWjBkUVdwT3BQWXBVckdkWmx0X0tjckFLcDQzN2F1b1JwcU10UzRVSWxLbWR0NGZ0OUY2N1d0WFhBb2tUVWM0aUNFVVRxVVp6Z2U1a1VGZ2ZWRUZHa3c?oc=5",
+   "published_utc": "2026-11-10T05:00:23+00:00",
+   "title_original": "今後の利上げは「できる時に実施」、「中立金利」水準への引き上げに言及も…物価２％判断の日銀１０月会合「主な意見」",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad67c57088768955"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Machine Tool Association: Exports of complete machines remain flat and key components continue to grow | Industrial Economics",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tZ2JWZ2RmRF8xSG5EWnAtcERkd3FSMlVzUjh0b3U2RkI0dmRhek9VOXdibTRJRFZHYmZleUZrSVZQOXFFOHhqVnRYRTRPdEo4a1pKckpLaHExblJNMEE?oc=5",
+   "published_utc": "2026-11-10T04:58:00+00:00",
+   "title_original": "工具機公會：整機出口持平關鍵零組件續成長| 產經",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c9f33651c5d5cbab"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -1327,23 +1414,6 @@
    "id": "4c31aeed8edd1835"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7167 TUES VS 6.7188",
-   "url": "https://www.tradingview.com/news/dpa_afx:99a96247d637d:0-china-sets-yuan-central-parity-at-6-7167-tues-vs-6-7188/",
-   "published_utc": "2026-11-10T01:33:28+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7167 TUES VS 6.7188",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "94d1f6ba67ad04e7"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "湖南红网",
    "title_en": "The \"anchor change\" of the central bank's policy interest rate has been implemented smoothly, and the precision of regulation has continued",
@@ -1745,7 +1815,7 @@
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "BYD, Chery-Led China Auto Exports Boom Comes With $270 Billion Cost",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUFuTkJGdlJ3Si00VWoyVDVoaTRGR3ItLXp0aWVYTWZVWEFlaGtsTHQ5MmQwZFJFODdGTGlHMlVvMC1uZzVDamluQ2wxX3VIMWhMOXRPZzN4a0c2dWpRZXdxYkNhXzJoM2dXVTYzcUE5LTlxRE01MW1udGtGTTZDN1h4T0d5akNUR3o3dg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3pLSF9KRGdHZEFZRWNvcnFhQkJkUFZsTEdzUXp1MWJ2YUl3SHhOQmFCamVsTHpOREUwOW84MW8zLWptQURoZllsR2kzWk9TT2FkRERmeXNHblhYWGl3d3BwYlZlcy1uNEpmRXZJMUdUNjFRVzI3eTg5WFlqTG5vTEhiRFExSkZmR0lPTw?oc=5",
    "published_utc": "2026-11-09T23:00:00+00:00",
    "title_original": "BYD, Chery-Led China Auto Exports Boom Comes With $270 Billion Cost",
    "region": "china",
@@ -1756,7 +1826,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "80b730f4de4307ef"
+   "id": "6341595caca001d3"
   },
   {
    "source_id": "yahoo_business",
@@ -4627,6 +4697,24 @@
    "id": "122bf16cc929319d"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-11-08T05:29:27+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "China's surge in new energy vehicle exports raises concerns about after-sales service pressure in the next three years | Cross-Strait",
@@ -5720,8 +5808,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -5735,7 +5823,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -6222,8 +6310,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -6237,7 +6325,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -10805,24 +10893,6 @@
    "live_wire": false,
    "manual": false,
    "id": "00628f831f38c805"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-11-04T20:46:27+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51891,77 +51961,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cbafaad9f9f08cad"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Nikkei marks 3rd largest single-day point drop on AI, chip concerns",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sNEQ0ZVo0WWx1OGZ4SE5PeHhSY1R4dlFldEt3a2xHdi1TWDBQZUI0dW9QY0FpZm0yX0lwRVNBZDBrZV8xa09vSVNmVF9jaG42cXFaR0tQVklZdw?oc=5",
-   "published_utc": "2026-10-15T11:41:42+00:00",
-   "title_original": "Nikkei marks 3rd largest single-day point drop on AI, chip concerns",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "971aa7fc93969169"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Asian News International",
-   "title_en": "China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report",
-   "url": "https://www.tradingview.com/news/moodys:f125628c88c6d:0-china-s-yuan-may-appreciate-further-but-weak-domestic-demand-and-us-yields-pose-risks-report/",
-   "published_utc": "2026-10-15T11:08:53+00:00",
-   "title_original": "China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a58b43a313979324"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan economy minister stresses BOJ independence, rejects reflationist label",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4610UX:0-japan-economy-minister-stresses-boj-independence-rejects-reflationist-label/",
-   "published_utc": "2026-10-15T11:06:10+00:00",
-   "title_original": "Japan economy minister stresses BOJ independence, rejects reflationist label",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d310db3bfaaa2666"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
-   "published_utc": "2026-10-15T10:56:00+00:00",
-   "title_original": "公明 消費税減税めぐり“1人あたり約8万円給付”提言まとめる",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "manual_ia",

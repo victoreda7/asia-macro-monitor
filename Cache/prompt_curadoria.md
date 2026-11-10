@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T05:02:46.124540+00:00
+Última coleta: 2026-11-10T05:12:43.759538+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
+  🇯🇵 Japão          932
   🇨🇳 China          896
-  🇹🇼 Taiwan         315
+  🇹🇼 Taiwan         316
   🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [china] China's crude oil imports recover, fuel exports not so much: Russell
+  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
+  - [japan] Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance
+  - [japan] Future interest rate hikes will be ``implemented when possible,'' and there is also mention of raising the rat
+  - [taiwan] Machine Tool Association: Exports of complete machines remain flat and key components continue to grow | Indus
   - [taiwan] Demand for gold reserves increases as Singapore launches central bank custody service to tap international mar
   - [japan] Analysis-Market rout tests BOJ’s upbeat view of financial conditions
   - [japan] BOJ Opinion Summary Shows Board Remains in Favor of More Tightening
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] China Oct Imports +34.7% on Year in Yuan Terms
   - [china] China Oct Trade Surplus CNY712.78B
   - [china] China Oct Trade Surplus $105.28B; Expected Surplus $126.9B
-  - [china] China Oct Exports +35.2% on Year; Expected +36.1%
-  - [china] China Oct Imports +41.6% on Year; Expected +34.0%
-  - [japan] BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says
-  - [taiwan] Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth
-  - [china] The central bank launched a 190 billion yuan overnight reverse repurchase operation in the open market today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T05:02:46+00:00",
+      "published_utc": "2026-11-10T05:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
