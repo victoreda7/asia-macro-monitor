@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T17:22:43.921682+00:00
+Última coleta: 2026-11-10T17:32:49.608878+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
-  🇨🇳 China          905
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  856
+  🇨🇳 China          903
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
+  - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
+  - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
   - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
   - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
   - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
   - [china] Microsoft urges US to reconsider potential import ban on Chinese optical transceivers: report
   - [china] China Everbright Says Court Orders Release Of Asset Preservation Measures Over Chongqing Yingli Real Estate In
-  - [china] ‘Adding fuel to fire’: how Nvidia CEO’s troubles, US midterms may tighten China chip curbs
+  - [china] How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’
   - [taiwan] TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares
   - [taiwan] TSMC investirá até US$ 1 bilhão na Anthropic e na OpenAI
   - [taiwan] TSMC to invest up to $1 billion in Anthropic, OpenAI
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK chief becomes first Asian to chair BIS committee
   - [korea] BOK chief Shin Hyun-song tapped to lead BIS committee on payment systems
   - [china] China's Exports Could Face Headwinds in 2027 — Market Talk
-  - [japan] SBG has a deficit of 768 billion yen in interim results
-  - [japan] Yen Falls Amid Risk-On Mood
-  - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T17:22:44+00:00",
+      "published_utc": "2026-11-10T17:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
