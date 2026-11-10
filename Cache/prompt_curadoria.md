@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T07:22:45.247753+00:00
+Última coleta: 2026-11-10T07:32:48.694026+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          936
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] China's trade surplus soars past $1 trillion as AI boom powers exports
   - [china] Table: Chun Yuan Steel Industry Oct Rev NT$2.02B Vs NT$2.01B
   - [japan] SoftBank Group interim financial results final deficit of 768 billion yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [china] Yuan Rally Likely to Cool, Not Reverse — Market Talk
   - [japan] Main opinions from the October meeting of the Bank of Japan Pointed out that it is important to “stick” the in
-  - [japan] BOJ October Summary: Rate hikes should continue as inflation reaches 2% target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T07:22:45+00:00",
+      "published_utc": "2026-11-10T07:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
