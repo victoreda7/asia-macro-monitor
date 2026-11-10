@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T09:52:42.536550+00:00",
- "collected_at_utc": "2026-11-10T09:52:42.536550+00:00",
+ "generated_at_utc": "2026-11-10T10:02:45.029003+00:00",
+ "collected_at_utc": "2026-11-10T10:02:45.029003+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 931,
-  "china": 893,
+  "china": 892,
   "taiwan": 313,
-  "korea": 863
+  "korea": 864
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T06:55:00+00:00"
+   "newest": "2026-11-10T09:24:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T09:32:18+00:00"
+   "newest": "2026-11-10T09:52:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T09:24:27+00:00"
+   "newest": "2026-11-10T09:42:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T08:05:39+00:00"
+   "newest": "2026-11-10T10:01:07+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-10T07:14:00+00:00"
+   "newest": "2026-11-10T02:11:05+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T18:32:00+09:00"
+   "newest": "2026-11-10T18:54:03+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T18:50:50+09:00"
+   "newest": "2026-11-10T19:00:43+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T09:52:01+00:00"
+   "newest": "2026-11-10T10:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:58:30+00:00"
+   "newest": "2026-11-10T09:59:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-10T09:19:46+00:00"
+   "newest": "2026-11-10T09:53:46+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -337,12 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
    "newest": "2026-11-10T08:58:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "BOK chief becomes first Asian to chair BIS committee",
+   "url": "https://www.koreaherald.com/article/10932627",
+   "published_utc": "2026-11-10T10:01:07+00:00",
+   "title_original": "BOK chief becomes first Asian to chair BIS committee",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a7228ab39fd1c813"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Exports Could Face Headwinds in 2027 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261110002733:0-china-s-exports-could-face-headwinds-in-2027-market-talk/",
+   "published_utc": "2026-11-10T09:55:00+00:00",
+   "title_original": "China's Exports Could Face Headwinds in 2027 — Market Talk",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "81feac78c9d9e103"
+  },
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "SBG has a deficit of 768 billion yen in interim results",
+   "url": "https://news.yahoo.co.jp/pickup/6602072?source=rss",
+   "published_utc": "2026-11-10T09:53:46+00:00",
+   "title_original": "SBGが7680億円の赤字 中間決算",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "53a8367ab8303ac4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -685,6 +737,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d1cc780cb9634bf9"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "헤럴드경제",
+   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bklSNElETVB1M3FJZnBFU1ZhVkdoeEwwQU92a3JkUW96XzVXdWZ5aG02am5MQnV4Q05jMjRsWXdTeW8tVnAyV1NaeEFzZW5xbXNOX21n?oc=5",
+   "published_utc": "2026-11-10T08:01:04+00:00",
+   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2c0cc1cb1a9bcfa2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1446,23 +1516,6 @@
    "live_wire": true,
    "manual": false,
    "id": "67872923971ea3e6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q2IV:0-sumitomo-metal-mining-to-buy-back-up-to-2-79-own-shares-worth-30-billion-yen/",
-   "published_utc": "2026-11-10T05:32:39+00:00",
-   "title_original": "Sumitomo Metal Mining - To Buy Back Up To 2.79% Own Shares Worth 30 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ee351e297bc6a0df"
   },
   {
    "source_id": "investing_live",
@@ -2879,24 +2932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8739676fc0a4da1d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제 미주판",
-   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXNNZk0zekFDNXlCZkJadkF1dmVfWHJnOW1zMndZRTJhVndNaEkzS2dmVmtWSF9LdER3N010VF9JQ3lfSXJabTNwZ0RxbWpscXhsR1JaZXl1UFhhRUlkaQ?oc=5",
-   "published_utc": "2026-11-09T15:01:00+00:00",
-   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9eeeacf5b9cee1f4"
   },
   {
    "source_id": "tradingview_live",
@@ -6552,8 +6587,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -6567,7 +6602,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -51933,40 +51968,6 @@
    "live_wire": false,
    "manual": false,
    "id": "99bb2457a5a75826"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "The China decoupling paradox: why the world needs its manufacturing machine",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEU0ZXlaU0IxSnNiX0dLMVliMmxMSEZqbEJUS0hOb01zcWMtSDNDQ2FvOWlHblpKZGdtRFVwQ0VpZDNCcFE4RkxyRE44alEtaXV3c09VY2FJb2VVaXdWdEUtejduRUl3ZlpRZmdyRF90eWZEYmgyVUhQSHBXTkxSWHFFZkdlRi1nVVY1dHFVRnBDMTR2SVBjSUMwSmZJVmJFYXhtTldTbHVmdndQcGlfQTFWZGowVkUya2pJVUNHX0ZoTTBnVjdjNWNzdTfSAcwBQVVfeXFMTk4xYURKREZYMGNvSlE0NDlMblI3d3A0WFFWSXVmQWJscWlrcmNFU01RYzNjRTI2SGpsSmQ5alM5cnVwX0FvQmZ6OTdocDExTmNoRGtlekNYT1dsbEV5czJfMW1hd1JsWndXVHlWSHFBaURCN2FwaXNtYmYwLXhRZEFuY1VYVnFSRmFTWWRreFY2MC1OeTQxSHBPRWs4Ny0xdHUtVk00N09WcHlkekg4YXR1Y3M1cnpiaV9SbVBZQVY5Y2VrQXA0LUgyYVdD?oc=5",
-   "published_utc": "2026-10-15T22:00:15+00:00",
-   "title_original": "The China decoupling paradox: why the world needs its manufacturing machine",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2fda6577adbaf09b"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Visa’s China approval a ‘direct outcome’ of Trump-Xi summit, Beijing says",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2hPb0RsMW5KaGtRM1JTMnJRbm1NdHc3NTVydm1PblM2TV8xVEdnQ1RNM0ZORUJUT1Q4aGlSSWVUNHlpUlVBMnFqZWRldmt2eURUSllWT2k0SVFvQlJvOGZrT0lCcFoxRWR2TkdPZHNCUlhtMWNoN3FFWFB3aER5SWkyQ21zd0JuUFgtb2Zvck45SHMzZjZneGR6M05vdlliaXBBVXZVZkluOEVLZF82dWVBUy1LbkdzTTBrMHk1MNIBvwFBVV95cUxNN3U2MFROMGZfc1E3dTVQaEthbnpONWdDdlZZcG1MYnVNdGx4T0NxSzNpWldtclJONlQ3OVhydlRUbjBqcWdrLTJ4NVhITXFQSjgwNm0yd1U1S2FZMEZBSnB3eDBrZ3ZuaWk1MUUtZWNhYXpwVDAtYXd6ejNYb1VObElCTTlXRnhWTzN4bGpxVk85Rk1tRGxYTGRBTWVabE1Ta01vSHdXYjJUMjNTYWctSDdjYjJZNjRKWEY4cE9qWQ?oc=5",
-   "published_utc": "2026-10-15T21:53:21+00:00",
-   "title_original": "Visa’s China approval a ‘direct outcome’ of Trump-Xi summit, Beijing says",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0760f1ace49fc1db"
   },
   {
    "source_id": "manual_ia",

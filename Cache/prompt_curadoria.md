@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T09:52:42.536550+00:00
+Última coleta: 2026-11-10T10:02:45.029003+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          893
+  🇨🇳 China          892
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK chief becomes first Asian to chair BIS committee
+  - [china] China's Exports Could Face Headwinds in 2027 — Market Talk
+  - [japan] SBG has a deficit of 768 billion yen in interim results
   - [japan] Yen Falls Amid Risk-On Mood
   - [china] Stocks in China and Hong Kong close higher, supported by the appreciation of the technology sector
   - [japan] Softbank G falls into interim deficit
@@ -37,6 +40,7 @@ Total: 3000 manchetes
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
   - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
+  - [korea] Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committ
   - [korea] Monetary Policy Committee members who froze interest rates "check the effect of consecutive interest rate incr
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
   - [china] Huang Jen-Hsun’s extramarital affair raises national security concerns Chinese scholar: U.S. exports of AI chi
   - [china] In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight
-  - [japan] Honda raises full-year profit forecast as weak yen trumps costly EV retreat
-  - [china] China Opens Onshore Forex Market to Overseas Yuan Clearing Banks
-  - [korea] Asia stocks rally as Korean chips surge and oil retreat lifts sentiment
-  - [japan] BREAKING NEWS: SoftBank Group logs net loss of 768 bil. yen in April-Sept.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T09:52:42+00:00",
+      "published_utc": "2026-11-10T10:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
