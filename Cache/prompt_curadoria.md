@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T15:12:44.565681+00:00
+Última coleta: 2026-11-10T15:22:47.419822+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
+  - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
   - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
   - [china] Microsoft urges US to reconsider potential import ban on Chinese optical transceivers: report
   - [china] China Everbright Says Court Orders Release Of Asset Preservation Measures Over Chongqing Yingli Real Estate In
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Falls Amid Risk-On Mood
   - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
   - [china] Stocks in China and Hong Kong close higher, supported by the appreciation of the technology sector
-  - [japan] Softbank G falls into interim deficit
-  - [china] Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T15:12:44+00:00",
+      "published_utc": "2026-11-10T15:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
