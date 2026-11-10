@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T23:12:44.733623+00:00
+Última coleta: 2026-11-10T23:22:45.064182+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 155% Upside
   - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
   - [korea] Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's iron ore imports hit lowest level in five months
   - [taiwan] TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going
   - [japan] SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan
-  - [china] The love affair of Nvidia's chief executive contributed to the shipment of chips worth US$7.5 billion to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T23:12:44+00:00",
+      "published_utc": "2026-11-10T23:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
