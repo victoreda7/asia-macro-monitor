@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T11:42:43.750055+00:00
+Última coleta: 2026-11-10T11:52:43.870808+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          928
-  🇨🇳 China          900
+  🇨🇳 China          901
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  862
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [china] How does China get Nvidia chips despite restrictions?
+  - [taiwan] Anthropic Private Placement With Google, Advanced Micro Devices, Broadcom, Micron Tech, Microsoft, Nvidia, TSM
   - [china] Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report
   - [china] Case involving Nvidia CEO and alleged spy favored US$7.5 billion in chips for China, says Information
   - [china] Nvidia CEO's affair with an alleged spy contributed to $7.5 billion worth of chip shipments to China, accordin
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Aluminium falls as surging China exports revive supply worries
   - [korea] KT received a disappointing report card. The progress of artificial intelligence (AI), real estate
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
-  - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
-  - [japan] Yen Falls Against Majors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T11:42:43+00:00",
+      "published_utc": "2026-11-10T11:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
