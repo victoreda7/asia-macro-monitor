@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T03:22:43.089451+00:00
+Última coleta: 2026-11-10T03:32:43.545359+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Modec Inc - To Buy Back Up To 2.9% Of Own Shares Worth 10 Billion Yen
+  - [china] China's iron ore imports at five-month low as thin margins dent appetite
   - [china] China October rare earth exports jump 2.7% from prior month
   - [japan] In Japan chip deal, everyone wins except the buyer
   - [china] China's October crude oil imports rise to highest level since March amid Middle East war
@@ -27,6 +29,7 @@ Total: 3000 manchetes
   - [china] China Export Growth Eases in October as Imports Surge
   - [china] China’s trade surplus soars past $1 trillion, October exports jump 35.2% y/y
   - [china] China's October coal imports fall 6% year-on-year
+  - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
   - [china] China Oct Exports +28.7% on Year in Yuan Terms
   - [china] China Oct Imports +34.7% on Year in Yuan Terms
   - [china] China Oct Trade Surplus CNY712.78B
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] With Samsung Electronics and SK Hynix set to return 200 trillion won to shareholders this year...“For share pr
   - [korea] A company that imported tens of billions of won worth of magnesium alloys, mixed them with its own p..
   - [china] CHINA PBOC CONDUCTS CNY190 BLN VIA O/N REVERSE REPO TUES
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7167 TUES VS 6.7188
-  - [china] The "anchor change" of the central bank's policy interest rate has been implemented smoothly, and the precisio
-  - [china] The central bank launches 190 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T03:22:43+00:00",
+      "published_utc": "2026-11-10T03:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
