@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T10:22:42.854631+00:00",
- "collected_at_utc": "2026-11-10T10:22:42.854631+00:00",
+ "generated_at_utc": "2026-11-10T10:32:43.446255+00:00",
+ "collected_at_utc": "2026-11-10T10:32:43.446255+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 931,
-  "china": 891,
-  "taiwan": 313,
+  "china": 892,
+  "taiwan": 312,
   "korea": 865
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T08:05:33+00:00"
+   "newest": "2026-11-10T10:18:45+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T19:00:43+09:00"
+   "newest": "2026-11-10T19:30:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T10:12:06+00:00"
+   "newest": "2026-11-10T10:31:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-10T08:58:00+00:00"
+   "newest": "2026-11-10T10:21:36+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Economy Watcher Survey: Decline for the first time in 6 months, impact on consumption due to rising prices",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261110de73686",
+   "published_utc": "2026-11-10T10:30:56+00:00",
+   "title_original": "景気ウォッチャー調査 6か月ぶり低下 物価上昇など消費に影響",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "27e77dda8b70fe6c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46R0PI:0-aluminium-falls-on-higher-chinese-exports-and-hopes-for-middle-east-de-escalation/",
+   "published_utc": "2026-11-10T10:13:15+00:00",
+   "title_original": "Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2455e0411853a6e9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China Logs Strong Export Growth In October",
+   "url": "https://www.tradingview.com/news/dpa_afx:f9ab420fe819b:0-china-logs-strong-export-growth-in-october/",
+   "published_utc": "2026-11-10T10:12:35+00:00",
+   "title_original": "China Logs Strong Export Growth In October",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c1148552967f50ff"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -771,24 +823,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d1cc780cb9634bf9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bklSNElETVB1M3FJZnBFU1ZhVkdoeEwwQU92a3JkUW96XzVXdWZ5aG02am5MQnV4Q05jMjRsWXdTeW8tVnAyV1NaeEFzZW5xbXNOX21n?oc=5",
-   "published_utc": "2026-11-10T08:01:04+00:00",
-   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c0cc1cb1a9bcfa2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1498,23 +1532,6 @@
    "id": "60936d02f10baabe"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yuan Rally Likely to Cool, Not Reverse — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261110000237:0-yuan-rally-likely-to-cool-not-reverse-market-talk/",
-   "published_utc": "2026-11-10T05:48:00+00:00",
-   "title_original": "Yuan Rally Likely to Cool, Not Reverse — Market Talk",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c5893d233081a926"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Main opinions from the October meeting of the Bank of Japan Pointed out that it is important to “stick” the inflation rate to 2% Some people also said that raising interest rates should be done “when possible without being too cautious”",
@@ -1532,24 +1549,6 @@
    "live_wire": false,
    "manual": false,
    "id": "895dcdad049d6325"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "BOJ October Summary: Rate hikes should continue as inflation reaches 2% target",
-   "url": "https://www.tradingview.com/news/seekingalpha:83385e1c0094b:0-boj-october-summary-rate-hikes-should-continue-as-inflation-reaches-2-target/",
-   "published_utc": "2026-11-10T05:39:14+00:00",
-   "title_original": "BOJ October Summary: Rate hikes should continue as inflation reaches 2% target",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "67872923971ea3e6"
   },
   {
    "source_id": "investing_live",
@@ -2949,6 +2948,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8739676fc0a4da1d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "헤럴드경제 미주판",
+   "title_en": "Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committee says “additional austerity is necessary”",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXNNZk0zekFDNXlCZkJadkF1dmVfWHJnOW1zMndZRTJhVndNaEkzS2dmVmtWSF9LdER3N010VF9JQ3lfSXJabTNwZ0RxbWpscXhsR1JaZXl1UFhhRUlkaQ?oc=5",
+   "published_utc": "2026-11-09T15:01:00+00:00",
+   "title_original": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9eeeacf5b9cee1f4"
   },
   {
    "source_id": "tradingview_live",
@@ -6604,8 +6621,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -6619,7 +6636,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "236d96b1bb1d01ea"
+   "id": "408276a37dcef033"
   },
   {
    "source_id": "tradingview_live",
@@ -51951,23 +51968,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cd76e1c0f941aa4f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:19e7bf42df361:0-taiwan-semiconductor-manufacturing-ltd-stock-12-month-price-target-raised-to-552-84-implies-29-upside/",
-   "published_utc": "2026-10-15T22:20:00+00:00",
-   "title_original": "Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "18c8ed6bac67f11d"
   },
   {
    "source_id": "manual_ia",

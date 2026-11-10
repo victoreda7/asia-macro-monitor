@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T10:22:42.854631+00:00
+Última coleta: 2026-11-10T10:32:43.446255+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          891
-  🇹🇼 Taiwan         313
+  🇨🇳 China          892
+  🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [japan] Economy Watcher Survey: Decline for the first time in 6 months, impact on consumption due to rising prices
+  - [china] Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation
+  - [china] China Logs Strong Export Growth In October
   - [korea] BOK chief becomes first Asian to chair BIS committee
   - [korea] BOK chief Shin Hyun-song tapped to lead BIS committee on payment systems
   - [china] China's Exports Could Face Headwinds in 2027 — Market Talk
@@ -42,7 +45,6 @@ Total: 3000 manchetes
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
   - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
-  - [korea] Despite the Bank of Korea freezing its base interest rate by 3%... The majority of the Monetary Policy Committ
   - [korea] Monetary Policy Committee members who froze interest rates "check the effect of consecutive interest rate incr
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Aichi Financial Group Inc - To Buy Back Up To 0.9% Of Own Shares Worth 3 Billion Yen
   - [taiwan] TSMC October Revenue Jumps 60% Y-o-Y
   - [taiwan] Zhongke's exports in the first nine months exceeded 758.5 ​​billion, and its annual revenue is expected to exc
-  - [taiwan] REG - Nexteq PLC - Taiwan property sale and trading update
-  - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T10:22:43+00:00",
+      "published_utc": "2026-11-10T10:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
