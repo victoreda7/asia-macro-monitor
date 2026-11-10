@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-10T21:22:44.192434+00:00",
- "collected_at_utc": "2026-11-10T21:22:44.192434+00:00",
+ "generated_at_utc": "2026-11-10T21:32:43.388144+00:00",
+ "collected_at_utc": "2026-11-10T21:32:43.388144+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -13,14 +13,6 @@
  },
  "elapsed_s": 29.5,
  "sources": [
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T06:51:32+00:00"
+   "newest": "2026-11-10T08:59:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -60,6 +52,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-10T13:59:40+00:00"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": true,
+   "count": 9,
+   "error": "",
+   "newest": "2026-11-10T09:15:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T21:05:10+00:00"
+   "newest": "2026-11-10T21:24:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T20:54:49+00:00"
+   "newest": "2026-11-10T21:18:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T21:22:27+00:00"
+   "newest": "2026-11-10T21:31:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T15:26:34+00:00"
+   "newest": "2026-11-10T18:35:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T14:37:32+00:00"
+   "newest": "2026-11-10T21:25:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -532,6 +532,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e51d66d86f35795e"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "COMMENTARY: China's crude oil imports recover, fuel exports not so much",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazhScG1vNWotRURNakQ0YTRxZ2JXY180M3hPQ2VpdDF3UnBRXy1RSHcxSWRvOFJqTERXSDMteGZuSGVOYzI5Y0x3c1VPQlZpSDBJN255X3UxdGQybXFPNWw2N1BfR2l3azB4ang1Z29LMzU4MXo5RVNrMFR2XzRndDdqU3BfOHNWZ0xfNGhJOXZPV3ROXzBJWW9XSUtfWW9ja1VrU0RZQ2ZKVG9Pa0Frc0lSbnoxUkYwTFhLTnBfc05sTUxm?oc=5",
+   "published_utc": "2026-11-10T17:25:50+00:00",
+   "title_original": "COMMENTARY: China's crude oil imports recover, fuel exports not so much",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1fbe44aef9ac557"
   },
   {
    "source_id": "tradingview_live",
@@ -1990,23 +2007,6 @@
    "live_wire": false,
    "manual": false,
    "id": "772cdb41be05f367"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "COMMENTARY: China's crude oil imports recover, fuel exports not so much",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazhScG1vNWotRURNakQ0YTRxZ2JXY180M3hPQ2VpdDF3UnBRXy1RSHcxSWRvOFJqTERXSDMteGZuSGVOYzI5Y0x3c1VPQlZpSDBJN255X3UxdGQybXFPNWw2N1BfR2l3azB4ang1Z29LMzU4MXo5RVNrMFR2XzRndDdqU3BfOHNWZ0xfNGhJOXZPV3ROXzBJWW9XSUtfWW9ja1VrU0RZQ2ZKVG9Pa0Frc0lSbnoxUkYwTFhLTnBfc05sTUxm?oc=5",
-   "published_utc": "2026-11-10T03:43:57+00:00",
-   "title_original": "COMMENTARY: China's crude oil imports recover, fuel exports not so much",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1fbe44aef9ac557"
   },
   {
    "source_id": "gn_asia_bloomberg",
