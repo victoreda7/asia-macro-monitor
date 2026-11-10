@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T08:22:42.733896+00:00",
- "collected_at_utc": "2026-11-10T08:22:42.733896+00:00",
+ "generated_at_utc": "2026-11-10T08:32:43.589231+00:00",
+ "collected_at_utc": "2026-11-10T08:32:43.589231+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 895,
+  "japan": 933,
+  "china": 896,
   "taiwan": 312,
   "korea": 859
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T16:46:24+09:00"
+   "newest": "2026-11-10T17:29:05+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T06:18:01+00:00"
+   "newest": "2026-11-10T08:30:09+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T08:21:51+00:00"
+   "newest": "2026-11-10T08:32:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T06:55:18+00:00"
+   "newest": "2026-11-09T05:40:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T08:09:25+00:00"
+   "newest": "2026-11-10T08:28:10+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "Chinese investment in African manufacturing could change the world",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3373610/chinese-investment-african-manufacturing-could-change-world",
+   "published_utc": "2026-11-10T08:30:09+00:00",
+   "title_original": "Chinese investment in African manufacturing could change the world",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9a33d6e10a24a134"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Exports to large companies more than doubled in the third quarter of this year due to the semiconduc..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wR1pXeUdHb0hvSTFuR0RPSGRFY2VHRGF1dDBwOEFLUU11VmV4SmZKZ2tkSElmYXVhZDBFT0s2S0phNUFPNTA1Xzg4dDlGNmxlOFE?oc=5",
+   "published_utc": "2026-11-10T08:21:20+00:00",
+   "title_original": "Exports to large companies more than doubled in the third quarter of this year due to the semiconduc..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "087465eea47085db"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "71f9f136d7833958"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "KT received a disappointing report card. The progress of artificial intelligence (AI), real estate",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94WV9LVTc2bkdJaXZLamlCVXFXbmhuUF9IUE1XRGZzU0Vxamx6dWR5djRwT2tTNnRZckxSa3VreWJleGVyV2lIcXRLcw?oc=5",
+   "published_utc": "2026-11-10T08:21:10+00:00",
+   "title_original": "KT received a disappointing report card. The progress of artificial intelligence (AI), real estate",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7a8687c7393f9e8"
   },
   {
    "source_id": "gn_kr_ked",
@@ -6344,8 +6395,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -6359,7 +6410,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -51914,58 +51965,6 @@
    "live_wire": false,
    "manual": false,
    "id": "73eced0f1ddcc509"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Finance Minister Katayama agrees to extend Japan-Korea currency swap",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de60139",
-   "published_utc": "2026-10-15T17:12:25+00:00",
-   "title_original": "片山財務相 日韓通貨スワップ延長で合意",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cd6105fdfb77cbbe"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Micron e SK Hynix continuam em queda: conseguem se recuperar?",
-   "url": "https://www.tradingview.com/news/invezz:425b90d0cbc81:0/",
-   "published_utc": "2026-10-15T17:06:31+00:00",
-   "title_original": "Micron e SK Hynix continuam em queda: conseguem se recuperar?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fbb636b3e28e889e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mint",
-   "title_en": "SK Hynix stock: Up big in H1, down 58% from peak in H2 - is the AI boom losing steam?",
-   "url": "https://www.tradingview.com/news/moodys:210238dd26e8d:0-sk-hynix-stock-up-big-in-h1-down-58-from-peak-in-h2-is-the-ai-boom-losing-steam/",
-   "published_utc": "2026-10-15T17:02:55+00:00",
-   "title_original": "SK Hynix stock: Up big in H1, down 58% from peak in H2 - is the AI boom losing steam?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "744dcd042d785276"
   },
   {
    "source_id": "manual_ia",

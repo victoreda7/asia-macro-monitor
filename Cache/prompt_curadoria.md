@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T08:22:42.733896+00:00
+Última coleta: 2026-11-10T08:32:43.589231+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          895
+  🇯🇵 Japão          933
+  🇨🇳 China          896
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese investment in African manufacturing could change the world
+  - [korea] Exports to large companies more than doubled in the third quarter of this year due to the semiconduc..
   - [china] Aluminium falls as surging China exports revive supply worries
+  - [korea] KT received a disappointing report card. The progress of artificial intelligence (AI), real estate
   - [korea] Kospi posts biggest gain in two weeks as chips rebound, oil falls
   - [china] China’s Moonshot AI rents advanced Nvidia chips: Bloomberg
   - [japan] Yen Falls Against Majors
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Asian stocks rally on US tech rebound; China trade surplus hits $105B in October
   - [korea] Semiconductor exports influence the Bank of Korea’s interest rate… Expected to be lowered by 3.5% during a boo
   - [japan] The Hyakujushi Bank - To Buy Back Up To 1.76% Own Shares Worth 3 Bln Yen
-  - [japan] President Keiko Fujimori of Peru, South America, to visit Japan; coordination of summit meeting on 20th
-  - [taiwan] Table: Taiwan Semiconductor Mfg Oct Rev NT$586.89B Vs NT$367.47B
-  - [japan] If rejected in the House of Councilors, will the consumption tax be dissolved? The reality of the scenario in 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T08:22:42+00:00",
+      "published_utc": "2026-11-10T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
