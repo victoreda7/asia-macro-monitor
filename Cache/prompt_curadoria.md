@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T03:42:46.124063+00:00
+Última coleta: 2026-11-10T03:52:43.369169+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          893
+  🇯🇵 Japão          932
+  🇨🇳 China          894
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan steady after dollar softens, awaits US CPI
   - [china] China's copper concentrate imports slump 11% in October as smelter woes deepen
   - [japan] Modec Inc - To Buy Back Up To 2.9% Of Own Shares Worth 10 Billion Yen
   - [china] China's iron ore imports at five-month low as thin margins dent appetite
   - [china] The Trump-Xi APEC summit paved the way for China to extend its suspension of rare earth and other export contr
   - [china] China October rare earth exports jump 2.7% from prior month
   - [japan] In Japan chip deal, everyone wins except the buyer
+  - [korea] Korean stocks rebound as chip giants lead recovery
   - [china] China's October crude oil imports rise to highest level since March amid Middle East war
   - [china] China exports stay resilient as trade surplus tops $1tn
   - [china] CHINA JAN-OCT IMPORTS +23.6% Y/Y IN YUAN TERM: CUSTOMS
@@ -44,7 +46,6 @@ Total: 3000 manchetes
   - [japan] Monetary policy method ``Everything is decided by the Bank of Japan'', no effect on ETF sales = Finance Minist
   - [korea] South Korea’s defense export boom exposes cockpit display vulnerability
   - [taiwan] IEAT and the Export-Import Bank of China signed an MOU to join forces to help enterprises expand into internat
-  - [korea] Korean stocks rebound as chip giants lead recovery
   - [japan] ``I ate 180,000 yen sushi with my wife'' and ``Prices are rising.'' Pros and cons of Shinjuku ward councilor's
   - [china] On November 10, the central bank launched a 190 billion yuan overnight reverse repurchase operation.
   - [korea] Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] “$40,000 export contract”... KOMIPO supports overseas expansion of AI and robotics SMEs at Robotworld
   - [japan] Japan has agreed to provide 4.3 billion yen (about 36.6 billion won) worth of defense equipment to t..
   - [china] China busca obter vantagem em alta tecnologia em um setor que responde por 80% do comércio mundial
-  - [korea] With Samsung Electronics and SK Hynix set to return 200 trillion won to shareholders this year...“For share pr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T03:42:46+00:00",
+      "published_utc": "2026-11-10T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
