@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T21:52:44.712366+00:00
+Última coleta: 2026-11-10T22:02:44.590661+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
-  🇨🇳 China          900
+  🇨🇳 China          899
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  859
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
   - [korea] Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion
   - [korea] Exicure, Inc. (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
   - [korea] Exicure (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
   - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
   - [china] COMMENTARY: China's crude oil imports recover, fuel exports not so much
-  - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
   - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
   - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
   - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T21:52:44+00:00",
+      "published_utc": "2026-11-10T22:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
