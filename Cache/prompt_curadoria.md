@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T06:32:44.409249+00:00
+Última coleta: 2026-11-10T06:42:43.928067+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          938
-  🇨🇳 China          891
+  🇯🇵 Japão          935
+  🇨🇳 China          893
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  856
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Snaps Three-Session Losing Streak; Chip, Airline Stocks Advance
   - [taiwan] TSMC October revenue jumps nearly 60% on strong AI chip demand
   - [china] China exports stay brisk as annual trade surplus tops $1tn
   - [china] China puts yuan within easier reach of Africa, but adoption faces major hurdles: report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 190 billion yuan reverse repurchase program on November 10, with a net investment 
   - [china] China Unlikely to Lower Policy Rate in Near Term — Market Talk
   - [taiwan] Central Bank: The current situation of foreign capital remittances of tens of billions of dollars in non-suppo
-  - [japan] MODEC: Higher FY26 guidance follows strong 3Q26 results and a JPY 10B buyback approval
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T06:32:44+00:00",
+      "published_utc": "2026-11-10T06:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
