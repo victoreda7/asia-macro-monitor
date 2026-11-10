@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T11:02:49.340568+00:00
+Última coleta: 2026-11-10T11:12:43.711880+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -17,7 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] Alleged case of Nvidia's chief executive facilitated shipments of chips worth US$7.5 billion to China, accordi
+  - [china] China's iron ore imports hit lowest level in five months
+  - [japan] SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan
+  - [china] The love affair of Nvidia's chief executive contributed to the shipment of chips worth US$7.5 billion to China
   - [china] Nvidia CEO's alleged affair aided $7.5 billion in chip shipments to China, Information reports
   - [china] China's soybean imports fall in October amid high stocks, weak crushing margins
   - [china] China's trade surplus surpasses $1trn as exports soar
@@ -37,7 +39,6 @@ Total: 3000 manchetes
   - [china] Table: Yuan Ding Investment Corp. Oct Rev NT$1.99B Vs NT$1.78B
   - [korea] KRAFTON: 9M results set records as PUBG expansion and KRW 917.2bn in returns shape the outlook
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
-  - [japan] SoftBank Group interim financial results: 768 billion yen deficit due to change in DC plan
   - [china] China supera a marca de US$ 1 trilhão de superávit comercial em 10 meses
   - [korea] October Monetary Policy Committee unanimously freezes... Additional tightening is weighed against price pressu
   - [korea] [Exclusive] LG Chem has amassed 2.5 trillion won ... to build a semiconductor materials plant on a petrochemic
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ's October meeting calls for ``raise interest rates when possible'' to reach 2% price
   - [japan] Consumption tax reduction bill to be debated in the House of Councilors tomorrow; ruling and opposition partie
   - [taiwan] TSMC's October sales soar almost 60% year-on-year to hit high
-  - [taiwan] Taiwan sees US$10 billion in capital outflows in November
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T11:02:49+00:00",
+      "published_utc": "2026-11-10T11:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
