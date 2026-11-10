@@ -7,18 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T02:32:43.253900+00:00
+Última coleta: 2026-11-10T02:42:44.505806+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
-  🇨🇳 China          878
-  🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  862
+  🇨🇳 China          885
+  🇹🇼 Taiwan         323
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [china] China Oct Exports +28.7% on Year in Yuan Terms
+  - [china] China Oct Imports +34.7% on Year in Yuan Terms
+  - [china] China Oct Trade Surplus CNY712.78B
+  - [china] China Oct Trade Surplus $105.28B; Expected Surplus $126.9B
+  - [china] China Oct Exports +35.2% on Year; Expected +36.1%
+  - [china] China Oct Imports +41.6% on Year; Expected +34.0%
   - [japan] BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says
+  - [china] The central bank launched a 190 billion yuan overnight reverse repurchase operation in the open market today
+  - [japan] Monetary policy method ``Everything is decided by the Bank of Japan'', no effect on ETF sales = Finance Minist
   - [korea] South Korea’s defense export boom exposes cockpit display vulnerability
+  - [taiwan] IEAT and the Export-Import Bank of China signed an MOU to join forces to help enterprises expand into internat
   - [korea] Korean stocks rebound as chip giants lead recovery
   - [japan] ``I ate 180,000 yen sushi with my wife'' and ``Prices are rising.'' Pros and cons of Shinjuku ward councilor's
   - [china] On November 10, the central bank launched a 190 billion yuan overnight reverse repurchase operation.
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ member urges rate hike when possible, without caution
   - [japan] BREAKING NEWS: Japan logs current account surplus of 2.37 trillion yen in Sept.
   - [japan] Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026
-  - [japan] ECONOMISTS: JAPAN Q3 GDP TO GROW 0.1% Q/Q (+0.4% ANNUALIZED) VS. +0.3% (+1.4% ANNUALIZED) Q2, LED BY RESILIENT
-  - [japan] JAPAN Q3 CONSUMPTION TREND INDEX REAL S/A -3.1% Q/Q VS. +0.6% IN Q2, INDICATING PRIVATE CONSUMPTION WEAK IN Q3
-  - [japan] Japan Data Preview: Forecasters See Raw Materials Keeping PPI Inflation Hot in October
-  - [japan] JAPAN SEPT REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -7.5% Y/Y VS. -4.2% IN JULY WHEN OV
-  - [japan] IBM Plans Multi-Tranche Yen Bond Offering
-  - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
-  - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
-  - [china] BYD, Chery-Led China Auto Exports Boom Comes With $270 Billion Cost
-  - [japan] Popular government bonds for individuals with over 8 trillion yen issued
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T02:32:43+00:00",
+      "published_utc": "2026-11-10T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

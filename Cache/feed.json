@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-10T02:32:43.253900+00:00",
- "collected_at_utc": "2026-11-10T02:32:43.253900+00:00",
+ "generated_at_utc": "2026-11-10T02:42:44.505806+00:00",
+ "collected_at_utc": "2026-11-10T02:42:44.505806+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 934,
-  "china": 878,
-  "taiwan": 326,
-  "korea": 862
+  "china": 885,
+  "taiwan": 323,
+  "korea": 858
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T02:12:48+00:00"
+   "newest": "2026-11-10T02:33:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-10T02:00:53+00:00"
+   "newest": "2026-11-10T02:24:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-10T02:28:38+00:00"
+   "newest": "2026-11-10T02:38:59+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-10T10:25:00+09:00"
+   "newest": "2026-11-10T11:31:53+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:11:11+00:00"
+   "newest": "2026-11-10T02:28:08+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-10T02:31:47+00:00"
+   "newest": "2026-11-10T02:40:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:16:06+00:00"
+   "newest": "2026-11-09T21:15:30+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:01:35+00:00"
+   "newest": "2026-11-10T02:25:58+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T01:55:12+00:00"
+   "newest": "2026-11-09T05:40:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T00:48:00+00:00"
+   "newest": "2026-11-10T02:37:02+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -345,6 +345,110 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Oct Exports +28.7% on Year in Yuan Terms",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109014173_20261109014178:0-china-oct-exports-28-7-on-year-in-yuan-terms/",
+   "published_utc": "2026-11-10T02:34:00+00:00",
+   "title_original": "China Oct Exports +28.7% on Year in Yuan Terms",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5b103ef3ba2c8554"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Oct Imports +34.7% on Year in Yuan Terms",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109014173_20261109014179:0-china-oct-imports-34-7-on-year-in-yuan-terms/",
+   "published_utc": "2026-11-10T02:34:00+00:00",
+   "title_original": "China Oct Imports +34.7% on Year in Yuan Terms",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ea594a0c9b986628"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Oct Trade Surplus CNY712.78B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109014173_20261109014180:0-china-oct-trade-surplus-cny712-78b/",
+   "published_utc": "2026-11-10T02:34:00+00:00",
+   "title_original": "China Oct Trade Surplus CNY712.78B",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c3135a5028f27434"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Oct Trade Surplus $105.28B; Expected Surplus $126.9B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109014173_20261109014176:0-china-oct-trade-surplus-105-28b-expected-surplus-126-9b/",
+   "published_utc": "2026-11-10T02:33:00+00:00",
+   "title_original": "China Oct Trade Surplus $105.28B; Expected Surplus $126.9B",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5e2f315040cbbd7f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Oct Exports +35.2% on Year; Expected +36.1%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109014173_20261109014173:0-china-oct-exports-35-2-on-year-expected-36-1/",
+   "published_utc": "2026-11-10T02:32:00+00:00",
+   "title_original": "China Oct Exports +35.2% on Year; Expected +36.1%",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4ce67ef4fed54ad3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Oct Imports +41.6% on Year; Expected +34.0%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261109014173_20261109014174:0-china-oct-imports-41-6-on-year-expected-34-0/",
+   "published_utc": "2026-11-10T02:32:00+00:00",
+   "title_original": "China Oct Imports +41.6% on Year; Expected +34.0%",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c394d6e0bd0d52f"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "BOJ estimates $6 billion annual gain from faster ETF sales, finance minister says",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R034:0-boj-estimates-6-billion-annual-gain-from-faster-etf-sales-finance-minister-says/",
@@ -362,6 +466,42 @@
    "id": "6224cb3fcd5a663c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank launched a 190 billion yuan overnight reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWkzdWx1REpMY3ZFNmFUVkFuZlNlZ0lndk5GUHMzU0M4aDk4MUR1SktTcU00aS1DRGZaUG00ZXc4RlB5MTBQOHAzQWxmTTI4RS1MV0Y2dTN4UllqX1RuZFJIenNHVDQxWWV0Z1hWSFJJME52ekFLenZHWW9tdGFHZDBFMk9oOHJkUjBqdw?oc=5",
+   "published_utc": "2026-11-10T02:28:08+00:00",
+   "title_original": "央行今日公开市场开展1900亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "82a097944ffaa523"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Monetary policy method ``Everything is decided by the Bank of Japan'', no effect on ETF sales = Finance Minister Katayama (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hd0llZDE4cnJCRGlxNndNeW9oMk8wTmM0Wk1iRE9nM0lBMEllaUplbGlibXl0dENPRmU2enp3RmhDLXphTzJ6OVY5QkhkbXViajVKWHpRdE1ud1ZQRVlHWEZraG5uei1xSVhMMW1GTXpBWW5KWFVoWUt3NGRqMjg?oc=5",
+   "published_utc": "2026-11-10T02:25:58+00:00",
+   "title_original": "金融政策の手法「全て日銀が決定」、ＥＴＦ売却影響せず＝片山財務相（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc10ecd998b59958"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "South Korea’s defense export boom exposes cockpit display vulnerability",
@@ -377,6 +517,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c7762628bc58558b"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "IEAT and the Export-Import Bank of China signed an MOU to join forces to help enterprises expand into international markets.",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sNFFSSzNPamVjMlJYTUdOYzhHbzFkMEpMNlk3RmFjZGhfSC1qQWNsUTJvUXZGTHRKQUJJdUxDNmFVOEdnSl9XR3NUekhaV3NzeE5FZ2hB?oc=5",
+   "published_utc": "2026-11-10T02:24:04+00:00",
+   "title_original": "IEAT與輸出入銀行簽署MOU 強強聯手助力企業拓展國際市場",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc227c930996a5d0"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1076,7 +1233,7 @@
    "source_name": "Reuters",
    "title_en": "House Democratic leader says lawmakers need answers on Nvidia, wants China chip restrictions",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjRfbFFhVjNvY1ZDN2dBRl9jOXZSOWpPOEJmTm15U0d6TFpXZVYtYi1KbmpZczNvaURUcjZlVk9mRlNDemZsZllFa1haUmxBdmJCY3FLZ1BUXzFCdF8tNnpCMVRabHg3dW9sLUpEa0d1TWItcXBjTGZsQmdZdkpvRUc2RnpuZUpCbWp1Q1pnM2piTmJYNHdrRlkwMWdJVUNhWHJuWURWN19TeFhqRG1xZ3FKMThYeldHLWpGeWg2elB0YV9HeFNR?oc=5",
-   "published_utc": "2026-11-09T22:00:44+00:00",
+   "published_utc": "2026-11-09T22:00:00+00:00",
    "title_original": "House Democratic leader says lawmakers need answers on Nvidia, wants China chip restrictions",
    "region": "china",
    "topics": [
@@ -4946,8 +5103,8 @@
    "id": "0eb5ba345ca0a641"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
    "published_utc": "2026-11-06T13:30:47+00:00",
@@ -4961,7 +5118,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "408276a37dcef033"
+   "id": "236d96b1bb1d01ea"
   },
   {
    "source_id": "tradingview_live",
@@ -5448,8 +5605,8 @@
    "id": "51f3aec2e71bbd04"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "GPIF investment performance July-September deficit of over 5.25 trillion yen, impact of low foreign bonds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71681",
    "published_utc": "2026-11-06T08:45:00+00:00",
@@ -5463,7 +5620,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4b593f86a5fd703b"
+   "id": "19212136eaa6750a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51818,162 +51975,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dfc393bc45321e3c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Korean memory makers accept ASML parts price hike, leaving TSMC as the open question",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHpnY2Z3WFJ0Wk1UNThQR3JoQmlWQ2JvcmhTa2cwc053ajJNckFVTzBTQ1UzS3pUTVM4RlNiRDI1VTliRktiNTJlUDlwWVVpa3ZfSnpaR1l2bWU2ZGdkWHE4bWhGQTc5RnRaQkpWZzEwV3FBZ0lCNmJ6Y0tSQXhCMTUwSUs5MFlr?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Korean memory makers accept ASML parts price hike, leaving TSMC as the open question",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ac64bc283cf85c19"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0hvYmZpX1d2aE1UOERjQ3ExNmZGOEVROXRDQm5vaG43VlowaV9EYmd3OHIwc3lyaVpfd3FPYzBjSXdERGcza0VxSlRKLV9Udy1nOWoxdVpBNEptWlVGbE92a2IwdG1EWGRkZkIyb1dhbVRHMXlnWnNEaDlTZG00NEJuNXVKUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f70b6cafaf408c20"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "26ea931a9a4fc6cd"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Applied Materials targets AI-driven semiconductor equipment growth through 2030",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnJnbWRJVXZVdWppSzFfYVNGSElDWERLZVVLVXVDd2xHNGRCYk9yXzJJV1VtMndwdmZsVXJ5NUd5eTFyMTdSX240X1RCZm5hcGNmWjJLeXZBX19VaXgyVFJHcXFnVC11c2F5N3ViX1NKcFY0aTBObkJQMEllTEJpYzVMRjljQWdPWHJPT1cyXzhsdFNodERHTDJHY3RiY0UwdlltTFlhNA?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Applied Materials targets AI-driven semiconductor equipment growth through 2030",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "acdf63eb116952b3"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHRIQm9jWktNS3hLVWdRbmx5VzhXQ05mMW03Skt4S0dBT2M0RE1ob2V5bTY4aEZmNU10Z3lOWUExakd6bmMzbFJ3NWljVUhGVHVXUjZrNXNoQ2RZMmR1NUw0bUpTd3lwM2pJWDBFVEFiUHd3aF9PQ3JoSlR3TTFQdGRiQThBYnFG?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "51a413bc8920483f"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTNhLXpDdElFeEFPWURSbEtzNWtocS1uUGMtcDhwdmVyTjJmakZERGFNT19BOE8tV3dCbV9CLW93UkJYTnNkWC1ZaVpBTDJfVDRSRVRNelZOQTZwMlBfOTVFdzJUM3BJZ0RzMkI5SWFjVmpYcUVQWWw3cGlmVEZOdEU4V3dzWEMtbXMxLQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSaEVqNWZ4dnRWUnlfTk1YNmptRFhZLTA0dkVQNXlCNExUbVN4a2w2cjMyeWI3WFpOeTY2OWthclF0WUdZZnktQWMyd3o3NzlXM0Y2S1JXQmt3UQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "(LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4be73cd566ce766b"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2tPeDA2ZXVTNW5IeFFPS1l5TFNyc3NaS3JDakJNamVzU2tIZVNWbGwzaFVEb0JTQTZTYVk4dGNYR3ltZDhnTEFJQ0ZjTlBFR21IZjAzRW1LWmtkUVV2dVJTczRRS3cxbXFYV1dkcXJiZExnazFCNlpOdkcwVXNjaDhWV0tLeWFpRDRwdjZB?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd7f935ff99055ac"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbDdCM0dWdWNvamRaZ2ZWNENRV1ZXNFFFSnIxMEhyejRTVmRtVVVUOHE0a29qbi1ObWNaMFdoZDZuTUJ2MndKZkFyVlA1NmpKemNjX0FUUGFuS0F2RlE?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dd8f23c892dc681"
   },
   {
    "source_id": "manual_ia",
