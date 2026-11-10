@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T18:22:45.427698+00:00
+Última coleta: 2026-11-10T18:32:45.363729+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          921
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
   - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
   - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
+  - [china] COMMENTARY: China's crude oil imports recover, fuel exports not so much
   - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
   - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
   - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation
   - [china] China Logs Strong Export Growth In October
   - [korea] BOK chief becomes first Asian to chair BIS committee
-  - [korea] BOK chief Shin Hyun-song tapped to lead BIS committee on payment systems
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T18:22:45+00:00",
+      "published_utc": "2026-11-10T18:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
