@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T01:12:43.116179+00:00
+Última coleta: 2026-11-10T01:22:43.145013+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Japan Data Preview: Forecasters See Raw Materials Keeping PPI Inflation Hot in October
   - [japan] JAPAN SEPT REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -7.5% Y/Y VS. -4.2% IN JULY WHEN OV
   - [japan] IBM Plans Multi-Tranche Yen Bond Offering
+  - [china] China Chipmakers to Debut in HK in Test of Tech Stock Demand
   - [china] Fund sellers, China buyers squeeze copper's tariff trade: Andy Home
   - [china] BYD, Chery-Led China Auto Exports Boom Comes With $270 Billion Cost
   - [japan] Popular government bonds for individuals with over 8 trillion yen issued
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] On the 26th, the Monetary Policy Committee raised the base interest rate by 0.25%… ‘3.25% expected’
   - [japan] IBM Announces Offering Of Multiple Series Of Yen-Denominated Notes - SEC Filing
   - [japan] Japan-Vietnam summit meeting agrees on promoting security, collaboration on important minerals and nuclear pow
-  - [japan] Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T01:12:43+00:00",
+      "published_utc": "2026-11-10T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
