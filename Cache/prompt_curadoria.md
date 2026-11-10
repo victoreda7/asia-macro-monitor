@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-10T00:42:44.679669+00:00
+Última coleta: 2026-11-10T00:52:45.242874+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] As underlying inflation reaches 2%, multiple opinions say it is necessary to raise interest rates to a neutral
   - [japan] Some in BOJ called for faster rate hikes, October summary shows
   - [japan] Nikkei Stock Average temporarily recovers to 60,000 yen level, buy orders centered on semiconductor-related st
   - [taiwan] Systex hits record October revenue on overseas semiconductor expansion
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen Likely to Gain on BOJ Rate-Rise Prospects — Market Talk
   - [china] Beijing Orient EcoEnergy's LP Vehicle Signs 912.5 Million Yuan GPU Card Purchase Contract
   - [japan] Government/Bank of Japan foreign exchange intervention of 7.9 trillion yen, record high on July 30th, structur
-  - [china] China's export controls to the United States and unreliable entity list will continue to be suspended for 2 mo
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-10T00:42:44+00:00",
+      "published_utc": "2026-11-10T00:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
