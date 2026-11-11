@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T05:42:43.400466+00:00
+Última coleta: 2026-11-11T05:52:44.074478+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [taiwan] TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI
   - [japan] Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen
   - [korea] Google's AI chip expansion opens new doors for Samsung, SK hynix
@@ -39,7 +40,6 @@ Total: 3000 manchetes
   - [japan] Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen
   - [korea] Household loans again rise in Oct. to record high despite tightened rules, higher rates
   - [japan] Macroscope: High city fiscal policy shows no signs of change even after the US mid-term elections, with stakeh
-  - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [japan] Bank of Japan expects continued appropriate policy management to achieve sustainable and stable 2% target - Pr
   - [korea] “Could I also get an 800 million won performance bonus?” ... SK hynix hires production workers with no educati
   - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T05:42:43+00:00",
+      "published_utc": "2026-11-11T05:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
