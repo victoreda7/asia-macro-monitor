@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T04:42:43.398110+00:00
+Última coleta: 2026-11-11T04:52:43.411174+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          911
+  🇯🇵 Japão          924
+  🇨🇳 China          909
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue
+  - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
   - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
   - [taiwan] Changs Ascending rides semiconductor expansion into AI data-center power
   - [japan] Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Govt. to release growth forecasts 3 times per year: finance minister
   - [korea] South Korea's Tax Cuts for Gasoline, Diesel, Butane to Continue Until Jan. 31, Finance Ministry Says
   - [korea] South Korea to Extend Temporary Fuel Tax Cuts by Two Months, Finance Ministry Says
-  - [korea] Seoul shares turn higher after weak start amid inflation woes
-  - [korea] Even mention of the US ‘big step’… Will the Bank of Korea raise interest rates despite ‘AI risk’? [Money]
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T04:42:43+00:00",
+      "published_utc": "2026-11-11T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
