@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T21:22:48.367219+00:00
+Última coleta: 2026-11-11T21:32:44.675003+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
+  🇯🇵 Japão          931
   🇨🇳 China          893
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill begins deliberation in the House of Councilors and will be questioned by a spec
   - [japan] Worst ranking of credit unions and credit unions in terms of net profit...While they continue to post deficits
   - [japan] Risks posed by Russia's takeover of JT: "Are foreign assets safe?"... Huge foreign net worth = yen appreciatio
   - [china] Como o presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e espio
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
   - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
   - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
-  - [korea] It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T21:22:48+00:00",
+      "published_utc": "2026-11-11T21:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
