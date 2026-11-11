@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T09:22:45.606950+00:00
+Última coleta: 2026-11-11T09:32:44.444958+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          892
+  🇯🇵 Japão          930
+  🇨🇳 China          891
   🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] Japan advisors urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
   - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [korea] It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..
   - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
   - [japan] Japan automakers post strong sales on weaker yen
+  - [japan] Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News
   - [korea] [Table] Foreign Exchange Rate Notice Table
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [korea] Finance minister calls for close monitoring of U.S. midterms impact
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Nippon Thompson Co Ltd - To Buy Back Up To 1.3% Of Own Shares Worth 1.1 Billion Yen
   - [japan] Nagoya Railroad Co., Ltd. - To Buy Back Up To 3.06% Of Shares Worth 10 Billion Yen
   - [japan] Sapporo Breweries Ltd. Says It Will Buy Back Up To 1.8% Of Own Shares Worth 10 Billion Yen
-  - [china] China PLA-linked university bought Nvidia H200 chips despite U.S. curbs - Reuters
-  - [taiwan] Why is TSMC stock rallying today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T09:22:45+00:00",
+      "published_utc": "2026-11-11T09:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
