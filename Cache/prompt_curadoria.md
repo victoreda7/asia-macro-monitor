@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T05:22:44.652883+00:00
+Última coleta: 2026-11-11T05:32:42.605346+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Google's AI chip expansion opens new doors for Samsung, SK hynix
   - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
   - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
   - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Revised regional currency swap arrangement takes effect
   - [korea] South Korean shares slip as US inflation data boosts rate-hike bets
   - [japan] From AKB to the Bank of Japan, on-site financial classes are spreading, one step at a time to prevent fraud (A
-  - [korea] Exports more than double in 1st 10 days of Nov.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T05:22:44+00:00",
+      "published_utc": "2026-11-11T05:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
