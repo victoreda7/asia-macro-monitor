@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T03:02:43.816530+00:00",
- "collected_at_utc": "2026-11-11T03:02:43.816530+00:00",
+ "generated_at_utc": "2026-11-11T03:12:43.315305+00:00",
+ "collected_at_utc": "2026-11-11T03:12:43.315305+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 922,
-  "china": 909,
-  "taiwan": 309,
+  "japan": 919,
+  "china": 911,
+  "taiwan": 310,
   "korea": 860
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T02:30:00+00:00"
+   "newest": "2026-11-11T02:33:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T02:31:07+00:00"
+   "newest": "2026-11-11T02:44:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T11:58:04+09:00"
+   "newest": "2026-11-11T12:04:51+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T00:54:00+00:00"
+   "newest": "2026-11-11T02:05:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T03:02:04+00:00"
+   "newest": "2026-11-11T03:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T02:34:30+00:00"
+   "newest": "2026-11-11T03:00:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:00:03+00:00"
+   "newest": "2026-11-11T03:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-11T11:30:00+09:00"
+   "newest": "2026-11-11T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,12 +337,63 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum",
+   "url": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/tsmc-is-seeing-insatiable-demand-for-chips-executive-tells-nikkei-forum",
+   "published_utc": "2026-11-11T03:12:42.482010+00:00",
+   "title_original": "TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b2f3b37aecf7ee4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shanghai aluminium hits 11-month low on firmer dollar, higher China exports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S057:0-shanghai-aluminium-hits-11-month-low-on-firmer-dollar-higher-china-exports/",
+   "published_utc": "2026-11-11T03:05:42+00:00",
+   "title_original": "Shanghai aluminium hits 11-month low on firmer dollar, higher China exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6089ceef3440ce41"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Nikkei average stock price rise Movement to buy back AI and semiconductor related stocks",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261111de74000",
+   "published_utc": "2026-11-11T03:04:51+00:00",
+   "title_original": "日経平均株価 値上がり AIや半導体関連銘柄買い戻す動き",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8398f13f786efe7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +410,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c9504123a28efd2e"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Household loans again rise in Oct. to record high despite tightened rules, higher rates",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OV0tVQXl1SmRFcHBPQUlnb2t2aWF6aEdEay1tbHRIYWd0Qjh3eUxTTHhNd1VyUjBfOVMwVWo4YXM0OWJIbU02aWE1VHFNenpBVk9TNXdsc08wZw?oc=5",
+   "published_utc": "2026-11-11T03:00:03+00:00",
+   "title_original": "Household loans again rise in Oct. to record high despite tightened rules, higher rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "388690c3f11c8a6d"
   },
   {
    "source_id": "nhk_politics",
@@ -1014,6 +1082,24 @@
    "live_wire": true,
    "manual": false,
    "id": "dad128294e48215c"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China EV Makers See Yuan Rally Erode Profit as Exports Grow",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMUg2eVlBejlTdDFOSnlyalh6NUl4N05NcktQZkVNZUphY2pneDNmRUJabTFrQV9ZbWhpdnJWR0lONlZTc0pWY1BtakhZMWNDblhiSDRoLS1LRUczTDdYaEd3WUdsNGl6ZG9UcXMzeE5ZcWd5c285alFZNTVjc2VySmx4bFVMNHcwZUIwWUJ0ci0yLUxKQ3BDdFZrQ0Y5ZlBDNkNtY1UxUjRLVFg1OWpn?oc=5",
+   "published_utc": "2026-11-10T22:00:00+00:00",
+   "title_original": "China EV Makers See Yuan Rally Erode Profit as Exports Grow",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "10cb524fa260e9b9"
   },
   {
    "source_id": "tradingview_live",
@@ -51874,93 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ddcfea6c89b9b08"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor",
-   "url": "https://www.investing.com/news/economy-news/boj-chief-flags-inflation-overshoot-risk-stresses-importance-of-2-anchor-4953285",
-   "published_utc": "2026-10-16T07:36:27+00:00",
-   "title_original": "BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f54da90410d435bd"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027 By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1JKU0w0Q2FzbVBHZVhlZG92RjE5amc2SFhyOUp2RWJjaWNLcTRPSTRCZGJCM1FBRUo0YVJNMHEyYWdSa2d5U3h4M3dRSHViQVp0eVg4TGozSDk3QkJSU2JkRkdXbWw3QkdfNGlEc1ljeDRRcVlVTXBld2phUjRfMXFMeXZtY2pJeXBscENqLVZsZDZnaGFpZ2lJVHlyTHdINTQ4VU16MlJqTXE1YzB4em10RFRSbnhDSnlZSDBnWXFrZ0UwdVM0cw?oc=5",
-   "published_utc": "2026-10-16T07:34:58+00:00",
-   "title_original": "Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027 By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "74386f7df9833c9d"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027",
-   "url": "https://www.investing.com/news/economy-news/factboxbrokerages-expect-next-boj-rate-hike-in-dec-further-tightening-in-2027-4953275",
-   "published_utc": "2026-10-16T07:24:29+00:00",
-   "title_original": "Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77debeebd6c224f4"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock price rise Repurchase movement centered on AI/semiconductor related products",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60420",
-   "published_utc": "2026-10-16T07:19:32+00:00",
-   "title_original": "株価 値上がり AI・半導体関連中心に買い戻す動き",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5a9e86ee2e6e9024"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul stocks rebound over 2% on eased chip rout, Fed bets",
-   "url": "https://www.koreaherald.com/article/10905334",
-   "published_utc": "2026-10-16T07:19:03+00:00",
-   "title_original": "Seoul stocks rebound over 2% on eased chip rout, Fed bets",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5651a907d60ee14a"
   },
   {
    "source_id": "manual_ia",

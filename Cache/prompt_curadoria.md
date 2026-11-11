@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T03:02:43.816530+00:00
+Última coleta: 2026-11-11T03:12:43.315305+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          909
-  🇹🇼 Taiwan         309
+  🇯🇵 Japão          919
+  🇨🇳 China          911
+  🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum
+  - [china] Shanghai aluminium hits 11-month low on firmer dollar, higher China exports
+  - [japan] Nikkei average stock price rise Movement to buy back AI and semiconductor related stocks
   - [japan] Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen
+  - [korea] Household loans again rise in Oct. to record high despite tightened rules, higher rates
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [japan] Bank of Japan expects continued appropriate policy management to achieve sustainable and stable 2% target - Pr
   - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Russian Push to Escape Dollar for Yuan Collapses Under Sanctions
   - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
   - [japan] Considering registration system for business employing people with disabilities
-  - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
-  - [china] At China’s Big Import Fair, Sellers Try to Crack a Tough Market
-  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 155% Upside
-  - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T03:02:44+00:00",
+      "published_utc": "2026-11-11T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
