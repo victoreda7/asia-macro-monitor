@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T10:02:45.008064+00:00
+Última coleta: 2026-11-11T10:12:44.362242+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
@@ -20,7 +20,6 @@ Total: 3000 manchetes
   - [china] China says offshore trust tax declarations top 160 billion yuan
   - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
-  - [japan] Japan advisors urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
   - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
   - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] The Gunma Bank: Record parent profit and higher FY2027 guidance, alongside rising JGB valuation losses
   - [korea] Cosmax, a cosmetics manufacturer and development production (ODM) company, recorded its highest sale..
   - [japan] Nippon Thompson Co Ltd - To Buy Back Up To 1.3% Of Own Shares Worth 1.1 Billion Yen
+  - [japan] Nagoya Railroad Co., Ltd. - To Buy Back Up To 3.06% Of Shares Worth 10 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T10:02:45+00:00",
+      "published_utc": "2026-11-11T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
