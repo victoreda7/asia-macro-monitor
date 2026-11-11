@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-11T01:02:43.524108+00:00",
- "collected_at_utc": "2026-11-11T01:02:43.524108+00:00",
+ "generated_at_utc": "2026-11-11T01:12:44.697528+00:00",
+ "collected_at_utc": "2026-11-11T01:12:44.697528+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 920,
   "china": 898,
-  "taiwan": 317,
-  "korea": 865
+  "taiwan": 316,
+  "korea": 866
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T08:59:00+00:00"
+   "newest": "2026-11-11T00:34:44+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T00:36:00+00:00"
+   "newest": "2026-11-11T01:01:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T00:12:23+00:00"
+   "newest": "2026-11-11T01:00:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T01:01:03+00:00"
+   "newest": "2026-11-11T01:09:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T00:44:25+00:00"
+   "newest": "2026-11-11T01:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-11T09:30:00+09:00"
+   "newest": "2026-11-11T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares slip as US inflation data boosts rate-hike bets",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46S010:0-south-korean-shares-slip-as-us-inflation-data-boosts-rate-hike-bets/",
+   "published_utc": "2026-11-11T01:09:34+00:00",
+   "title_original": "South Korean shares slip as US inflation data boosts rate-hike bets",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5165444596a18a62"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Revised regional currency swap arrangement takes effect",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pMmNkNENsSHZraWUxZHZ2SlM3Q3ZpdnlFR291U0Vqd1RpeHJ0cjlqMzFnNFE1Wmt3T3ltQmY3cl9mVW5XcnFoWW5JYmp5SmtreVlBSHZIVk4zUQ?oc=5",
+   "published_utc": "2026-11-11T01:00:03+00:00",
+   "title_original": "Revised regional currency swap arrangement takes effect",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d64d61cf13697bcf"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -51925,41 +51959,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b330356c385136f4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU1LakZhV2xQNHBFM0lFWU9pT1JCdGMyTXY4Q01TSjZYd3dNbWZ4Rk50ME1UQnUzVkgta3U0RFpFY0VNZGNaeXZfV25jZm9lMjBDdjVONUhlMmJKLTNwT2xwM1I0Mkl5N2N2c25IQWZwbWtORDRYbUJMMC1hZXhWbzllSFZ2bDJzNThDSFRYYmVyYXJnSVc4V0QzVjFMWHBQWVc4NTlRb1E0WEJsYVl1OV9yZEFBQQ?oc=5",
-   "published_utc": "2026-10-16T05:49:00+00:00",
-   "title_original": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f7065d4585f12151"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Materials, parts providers most vulnerable to monetary tightening: BOK chief",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DTTVaRnB4ellKeUFKVXlLWUpzZnMxSnZQR21haGJDU3MxbFhrN2l0ZmpwRC1FTFVHLXBSZlc3ZXZIWGxUWTdNeDFJUHVlNVQzeXdUZXM3QQ?oc=5",
-   "published_utc": "2026-10-16T05:24:01+00:00",
-   "title_original": "Materials, parts providers most vulnerable to monetary tightening: BOK chief",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "427693cea561e5e0"
   },
   {
    "source_id": "manual_ia",

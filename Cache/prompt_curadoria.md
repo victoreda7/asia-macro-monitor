@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T01:02:43.524108+00:00
+Última coleta: 2026-11-11T01:12:44.697528+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
   🇨🇳 China          898
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  865
+  🇹🇼 Taiwan         316
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean shares slip as US inflation data boosts rate-hike bets
+  - [korea] Revised regional currency swap arrangement takes effect
   - [korea] Exports more than double in 1st 10 days of Nov.
   - [korea] Govt. to release growth forecasts 3 times per year: finance minister
   - [korea] South Korea's Tax Cuts for Gasoline, Diesel, Butane to Continue Until Jan. 31, Finance Ministry Says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares
   - [taiwan] TSMC investirá até US$ 1 bilhão na Anthropic e na OpenAI
   - [taiwan] TSMC to invest up to $1 billion in Anthropic, OpenAI
-  - [taiwan] TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers — Barrons.com
-  - [taiwan] Taiwan Semiconductor's October sales offer up 'strong start' to quarter, Wedbush says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T01:02:43+00:00",
+      "published_utc": "2026-11-11T01:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
