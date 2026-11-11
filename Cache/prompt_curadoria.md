@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T12:12:42.338547+00:00
+Última coleta: 2026-11-11T12:22:43.448536+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          892
-  🇹🇼 Taiwan         311
+  🇨🇳 China          891
+  🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's Jan.-Sept. regular wage growth hits 2nd highest in 26 years: DGBAS
   - [japan] Asia report: AI and chip stocks provide a boost in Tokyo, Seoul, Taipei
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] Yen Slumps as Fed Rate-Hike Bets Boost Dollar — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] NC: FY2026 revenue guidance raised to KRW 2.8T as Core Game and Mobile Casual gain traction
   - [korea] Netlist CEO Hints Licensing Deal With SK Hynix Is In Works After Q3 Sales Rise 150%: Retail Turns Bullish
   - [china] Shanghai aluminium hits 11-month low on firmer dollar, higher China exports
-  - [japan] BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T12:12:42+00:00",
+      "published_utc": "2026-11-11T12:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
