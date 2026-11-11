@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T08:02:43.680146+00:00
+Última coleta: 2026-11-11T08:12:44.707645+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
+  🇯🇵 Japão          934
   🇨🇳 China          892
-  🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  860
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
+  - [korea] Finance minister calls for close monitoring of U.S. midterms impact
+  - [korea] Asia stocks rally as Korean chipmakers ride CoreWeave-fuelled AI rebound
   - [korea] SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”
   - [korea] South Gyeongsang Province announced a budget plan for 2027 worth 14.7368 trillion won on the 11th. A..
   - [japan] Japan Machine Tool Orders Rise 42.5%
@@ -46,7 +49,6 @@ Total: 3000 manchetes
   - [japan] Sapporo Breweries Ltd. Says It Will Buy Back Up To 1.8% Of Own Shares Worth 10 Billion Yen
   - [china] China PLA-linked university bought Nvidia H200 chips despite U.S. curbs - Reuters
   - [taiwan] Why is TSMC stock rallying today?
-  - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [taiwan] TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI
   - [japan] Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen
   - [korea] Google's AI chip expansion opens new doors for Samsung, SK hynix
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
   - [korea] Dongwon Industries’ Q3 OP up 1.1% on B2B, export growth
   - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
-  - [taiwan] TSMC to invest in Anthropic, OpenAI, raise quarterly dividend
-  - [japan] Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T08:02:43+00:00",
+      "published_utc": "2026-11-11T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
