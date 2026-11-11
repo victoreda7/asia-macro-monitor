@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T21:02:47.203379+00:00
+Última coleta: 2026-11-11T21:12:47.366408+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
+  🇯🇵 Japão          930
   🇨🇳 China          893
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  868
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Worst ranking of credit unions and credit unions in terms of net profit...While they continue to post deficits
+  - [japan] Risks posed by Russia's takeover of JT: "Are foreign assets safe?"... Huge foreign net worth = yen appreciatio
   - [china] Como o presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e espio
   - [china] US container imports set all-time volume record in October as Chinese imports spike, Descartes says
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 373.44, Implies 32% Upside
@@ -44,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
   - [japan] Yen Could Turn Stronger Over Medium Term — Market Talk
+  - [japan] Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
   - [japan] [Strategic way to buy government bonds, a powerful asset in an era of interest rates] No loss of principal! Th
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
   - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
   - [korea] It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..
-  - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
-  - [japan] Japan automakers post strong sales on weaker yen
-  - [japan] Prime Minister Takaichi held the 16th Economic and Fiscal Council Meeting in 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T21:02:47+00:00",
+      "published_utc": "2026-11-11T21:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
