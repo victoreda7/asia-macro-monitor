@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T02:09:00.133215+00:00",
- "collected_at_utc": "2026-11-11T02:09:00.133215+00:00",
+ "generated_at_utc": "2026-11-11T02:13:04.275832+00:00",
+ "collected_at_utc": "2026-11-11T02:13:04.275832+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
-  "china": 906,
+  "japan": 920,
+  "china": 907,
   "taiwan": 312,
   "korea": 861
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 51.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T02:01:19+00:00"
+   "newest": "2026-11-11T02:12:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T18:35:01+00:00"
+   "newest": "2026-11-10T21:28:22+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
@@ -12902,6 +12902,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9db408797ce09f66"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "The central bank reduced its supply and continued to issue 300 billion yuan of buyout reverse repos, with a net withdrawal of 200 billion yuan in November.",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44T3BQTDc2VkY0ZDNEdGdvZW1HbUFYc3lNQjV5QzNCQUZSUWJXcnF6cnJtVGlWM2h0UEFSbWZmYjVRak9CLTNncFVDek9jY24waGc?oc=5",
+   "published_utc": "2026-11-04T15:04:43+00:00",
+   "title_original": "央行缩量续作3000亿元买断式逆回购，11月净回笼2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "530d2e5e54c5f134"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51942,23 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5550786906e36fe3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXZKeHhaeUE0MFFqemhUcGpFQ0dsV1JIMjZNMDQzcFpzUnFScHFFQlRfbEFaSzkzN0ItQW5yZndPRVZwUzNmZGVHdTJtS2t3SWg0WjUzaURGdFZERjRwclNqYUZ4enRJcFA1YkQtdmNOZS05amFIekwxTjVKVXk1Y2ZoV3N3M1c2R0xwTEJyRTN2d3ZxZ3hObWtzOHdmVm10MDI2VDZWc2sxcDZxMEVVX0NtN3JiOUthNU1tMA?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aef029472eb5bfa5"
   },
   {
    "source_id": "manual_ia",
