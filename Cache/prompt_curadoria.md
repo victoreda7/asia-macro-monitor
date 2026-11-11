@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T01:12:44.697528+00:00
+Última coleta: 2026-11-11T01:22:43.663475+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
-  🇨🇳 China          898
-  🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  866
+  🇯🇵 Japão          921
+  🇨🇳 China          900
+  🇹🇼 Taiwan         315
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
-  - [korea] South Korean shares slip as US inflation data boosts rate-hike bets
+  - [japan] Japan MOF To Auction Y1.9T Of TD-Bills Nov 18
+  - [china] HEADS UP: US TSY'S BESSENT ABOUT TO SPEAK AT THE NATIONAL COMMITTEE ON US-CHINA RELATIONS GALA DINNER
   - [korea] Revised regional currency swap arrangement takes effect
+  - [korea] South Korean shares slip as US inflation data boosts rate-hike bets
+  - [japan] From AKB to the Bank of Japan, on-site financial classes are spreading, one step at a time to prevent fraud (A
   - [korea] Exports more than double in 1st 10 days of Nov.
   - [korea] Govt. to release growth forecasts 3 times per year: finance minister
   - [korea] South Korea's Tax Cuts for Gasoline, Diesel, Butane to Continue Until Jan. 31, Finance Ministry Says
@@ -27,9 +30,11 @@ Total: 3000 manchetes
   - [korea] Even mention of the US ‘big step’… Will the Bank of Korea raise interest rates despite ‘AI risk’? [Money]
   - [korea] (LEAD) Seoul shares turn higher after weak start amid inflation woes
   - [korea] (LEAD) Exports more than double in 1st 10 days of Nov.
+  - [taiwan] TSMC plans investments in Anthropic, OpenAI; sets up investment firm to expand semiconductor strategy
   - [korea] Seoul shares open lower on inflation woes
   - [korea] South Korea November 1-10 exports surge 111.9% year/year
   - [korea] S. Korea to extend fuel tax cuts through Jan. to ease price burdens
+  - [china] Russian Push to Escape Dollar for Yuan Collapses Under Sanctions
   - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
   - [japan] Considering registration system for business employing people with disabilities
   - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
   - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
   - [china] Microsoft urges US to reconsider potential import ban on Chinese optical transceivers: report
-  - [china] China Everbright Says Court Orders Release Of Asset Preservation Measures Over Chongqing Yingli Real Estate In
-  - [china] How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’
-  - [taiwan] TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares
-  - [taiwan] TSMC investirá até US$ 1 bilhão na Anthropic e na OpenAI
-  - [taiwan] TSMC to invest up to $1 billion in Anthropic, OpenAI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T01:12:44+00:00",
+      "published_utc": "2026-11-11T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
