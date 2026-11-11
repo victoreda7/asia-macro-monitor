@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T10:52:43.272752+00:00",
- "collected_at_utc": "2026-11-11T10:52:43.272752+00:00",
+ "generated_at_utc": "2026-11-11T11:02:45.028202+00:00",
+ "collected_at_utc": "2026-11-11T11:02:45.028202+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 927,
-  "china": 894,
+  "japan": 928,
+  "china": 893,
   "taiwan": 313,
   "korea": 866
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T05:01:11+00:00"
+   "newest": "2026-11-11T05:00:31+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 29,
+   "count": 26,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T18:14:00+09:00"
+   "newest": "2026-11-11T19:58:40+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T19:02:36+09:00"
+   "newest": "2026-11-11T19:58:40+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T10:51:16+00:00"
+   "newest": "2026-11-11T11:02:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T09:14:12+00:00"
+   "newest": "2026-11-11T10:36:11+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
+   "published_utc": "2026-11-11T10:58:40+00:00",
+   "title_original": "高市首相 \"予見可能性高い財政運営で成長力強化\" 日銀とも連携",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5904379753dd723d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -10884,6 +10902,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank shrinks and continues to conduct 3-month buyout reverse repurchase",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORElhelN1bE11OE1vMWxQd3dWd1ktaEJZS01qcGZMYTl6c3BUaVVBOGpsNi15TXpqMnhLemd3czBwa0YweHdTYUhUdDFBN0ZySkdzMjlPUmhPMFktTEpOeU5EVXRnSE41Z25UYUNQcGZ2RHVlXzJ6a2Jwd19Wdm8tZGhQRVJjMDNFWmwteG9RTDBSX1hVdWkwRkxvNWVoa3ZnT1Bj?oc=5",
+   "published_utc": "2026-11-05T22:20:56+00:00",
+   "title_original": "央行缩量续做3个月期买断式逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "32e9190a992718b4"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "上观新闻",
    "title_en": "The three-month buyout reverse repurchase volume reduction is continued, and the central bank's \"peak cutting and valley filling\" net withdrawal of 200 billion",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZy15eDlaZ1pIZTA3Y2ZoTzZYeFNtY2FHSHQwYS1oTktHYkpEeGRxYWQ1MGk5Q05kbmtqT2tlRHdDVWpPTW1VQlR0cFBJVHBYbncxWVduY3g2UQ?oc=5",
@@ -14039,23 +14074,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7f785d0556905a64"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "zqrb.cn",
-   "title_en": "The central bank shrinks and continues to conduct 3-month buyout reverse repurchase",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RaFBseTg3M19ocHpBM28wc3JCMFlCM2RuX2xOY3BMZGhUb01TbHN6WHdIVDItWFBIUXRCekFVZV9qZXdDb2xfaWp3aXB1ZUQxakEyTkRuaXBwcFJVV0VYNjh3aTRtQWZYUDU0NXVQaWtRQU1wMWkyWldiNGY?oc=5",
-   "published_utc": "2026-11-04T17:25:00+00:00",
-   "title_original": "央行缩量续做3个月期买断式逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8505ebb59d07ef69"
   },
   {
    "source_id": "tradingview_live",
@@ -51927,23 +51945,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4bd1ad372053a62b"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "EU urges safeguards against Chinese chemicals, machinery imports",
-   "url": "https://asia.nikkei.com/economy/trade/eu-urges-safeguards-against-chinese-chemicals-machinery-imports",
-   "published_utc": "2026-10-16T15:22:45.027829+00:00",
-   "title_original": "EU urges safeguards against Chinese chemicals, machinery imports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cef9efa58961f6b"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T10:52:43.272752+00:00
+Última coleta: 2026-11-11T11:02:45.028202+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
-  🇨🇳 China          894
+  🇯🇵 Japão          928
+  🇨🇳 China          893
   🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
   - [japan] Yen Could Turn Stronger Over Medium Term — Market Talk
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Busan Metropolitan Office of Education will focus next year's budget on future artificial intell..
   - [taiwan] TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat
   - [japan] Persol Holdings Co Ltd - To Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
-  - [japan] BREAKING NEWS: Nissan posts 39.71 bil. yen net loss in April-Sept.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T10:52:43+00:00",
+      "published_utc": "2026-11-11T11:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
