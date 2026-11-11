@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T03:32:42.096729+00:00
+Última coleta: 2026-11-11T03:42:43.177216+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          919
+  🇯🇵 Japão          921
   🇨🇳 China          911
-  🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  860
+  🇹🇼 Taiwan         309
+  🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan holds steady as PBOC eases guidance, dollar firms
+  - [japan] Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen
+  - [korea] South Korea Jobless Rate Reaches More Than Three-Year Low as Hiring Slows
   - [taiwan] TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum
   - [china] Shanghai aluminium hits 11-month low on firmer dollar, higher China exports
   - [japan] Nikkei average stock price rise Movement to buy back AI and semiconductor related stocks
   - [japan] Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen
   - [korea] Household loans again rise in Oct. to record high despite tightened rules, higher rates
+  - [japan] Macroscope: High city fiscal policy shows no signs of change even after the US mid-term elections, with stakeh
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [japan] Bank of Japan expects continued appropriate policy management to achieve sustainable and stable 2% target - Pr
   - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC plans investments in Anthropic, OpenAI; sets up investment firm to expand semiconductor strategy
   - [korea] Seoul shares open lower on inflation woes
   - [korea] South Korea November 1-10 exports surge 111.9% year/year
-  - [korea] S. Korea to extend fuel tax cuts through Jan. to ease price burdens
-  - [china] Russian Push to Escape Dollar for Yuan Collapses Under Sanctions
-  - [china] Russia’s Push to Replace Dollar With China’s Yuan Collapses
-  - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T03:32:42+00:00",
+      "published_utc": "2026-11-11T03:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

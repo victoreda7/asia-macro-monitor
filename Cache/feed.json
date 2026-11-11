@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T03:32:42.096729+00:00",
- "collected_at_utc": "2026-11-11T03:32:42.096729+00:00",
+ "generated_at_utc": "2026-11-11T03:42:43.177216+00:00",
+ "collected_at_utc": "2026-11-11T03:42:43.177216+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 919,
+  "japan": 921,
   "china": 911,
-  "taiwan": 310,
-  "korea": 860
+  "taiwan": 309,
+  "korea": 859
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-10T09:53:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T03:32:00+00:00"
+   "newest": "2026-11-11T03:42:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T03:00:02+00:00"
+   "newest": "2026-11-11T03:15:34+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,12 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan holds steady as PBOC eases guidance, dollar firms",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S066:0-yuan-holds-steady-as-pboc-eases-guidance-dollar-firms/",
+   "published_utc": "2026-11-11T03:42:09+00:00",
+   "title_original": "Yuan holds steady as PBOC eases guidance, dollar firms",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0f1a4ecd94d41ffd"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46R25C:0-hibiya-engineering-to-buy-back-up-to-0-72-of-own-shares-worth-1-1-billion-yen/",
+   "published_utc": "2026-11-11T03:33:45+00:00",
+   "title_original": "Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2f1211cb0af89440"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "South Korea Jobless Rate Reaches More Than Three-Year Low as Hiring Slows",
+   "url": "https://www.tradingview.com/news/binance_news:64071655d094b:0-south-korea-jobless-rate-reaches-more-than-three-year-low-as-hiring-slows/",
+   "published_utc": "2026-11-11T03:25:07+00:00",
+   "title_original": "South Korea Jobless Rate Reaches More Than Three-Year Low as Hiring Slows",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7fe695b1408a8905"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -427,6 +479,24 @@
    "live_wire": false,
    "manual": false,
    "id": "388690c3f11c8a6d"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Macroscope: High city fiscal policy shows no signs of change even after the US mid-term elections, with stakeholders pointing out risks (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01aG4wLXVJNkxxb3IxNWZjSjBrbHJqZERHaWp4TkRMTDU1REZhVXhscm1PY281MW9ONDNvQ0xFRlJ3LVdYYVczblBGSWpTcFpuMk9RWnkxSndDRWw0dzJPUHpoTFZTbjZtOFZqZVpKbmJuUHhUV0JQdzFreTlSeXc?oc=5",
+   "published_utc": "2026-11-11T02:49:52+00:00",
+   "title_original": "マクロスコープ：高市財政政策、米中間選挙後も変化の兆し見えず 関係者はリスク指摘も（ロイター）",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1cda95ddc37ec36a"
   },
   {
    "source_id": "nhk_politics",
@@ -51890,75 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4fa0bf559afdc7a1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korean Won Strengthens Near 2-Year High",
-   "url": "https://www.tradingview.com/news/te_news:592698:0-south-korean-won-strengthens-near-2-year-high/",
-   "published_utc": "2026-10-16T07:59:24+00:00",
-   "title_original": "South Korean Won Strengthens Near 2-Year High",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6a59efb360337ae1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China",
-   "url": "https://www.tradingview.com/news/stocktwits:557f4a73c094b:0-amid-tsmc-terafab-talks-taiwan-said-to-be-mulling-greater-curbs-on-ai-chip-sales-to-china/",
-   "published_utc": "2026-10-16T07:48:21+00:00",
-   "title_original": "Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bf13d947706b03ac"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(2nd LD) Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjhkUEU1cGpaN2NxT3I3RDl2YjNlaHJmWUwtd1pycUZSaERLNGRSOWhnOS0wNmpFV3JKbjI1YndIOF94TDVwTTE4UGthOGlfTk9MeTFLZmRfcFhsOXEzbWIyX3dXRmhaSGtUc3g4TmRTVlpxNnFpUGZoVmZjLTVLQUtVWGE?oc=5",
-   "published_utc": "2026-10-16T07:47:00+00:00",
-   "title_original": "(2nd LD) Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c0bf9f8489918bfa"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yWXN4LVZoVWZjTjRQWUwxRFBuY2NHcUVNdERBNzREOGR6Q2kwUktaZC1rSjhmV0RHeXA4RGtMNXRmMHQtVUs4ZXlteE1oZE44eENpcm9UYzJ6TlI4QktPdU5PT2FxV3dNbzZXbTQzTldMdExTVTVFOG4yblBCUlE?oc=5",
-   "published_utc": "2026-10-16T07:43:13+00:00",
-   "title_original": "中国財政相、ＥＵとの対話に意欲 マクロ経済政策の協調呼びかけ（ロイター）",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b82de2f90805c0c5"
   },
   {
    "source_id": "manual_ia",
