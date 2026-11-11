@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T03:22:44.764973+00:00
+Última coleta: 2026-11-11T03:32:42.096729+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          919
@@ -55,8 +55,8 @@ Total: 3000 manchetes
   - [korea] South Korea November 1-10 exports surge 111.9% year/year
   - [korea] S. Korea to extend fuel tax cuts through Jan. to ease price burdens
   - [china] Russian Push to Escape Dollar for Yuan Collapses Under Sanctions
+  - [china] Russia’s Push to Replace Dollar With China’s Yuan Collapses
   - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
-  - [japan] Considering registration system for business employing people with disabilities
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T03:22:45+00:00",
+      "published_utc": "2026-11-11T03:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
