@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T00:32:46.708012+00:00
+Última coleta: 2026-11-11T00:42:42.692107+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
+  🇯🇵 Japão          920
   🇨🇳 China          897
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  864
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares turn higher after weak start amid inflation woes
   - [korea] Even mention of the US ‘big step’… Will the Bank of Korea raise interest rates despite ‘AI risk’? [Money]
   - [korea] (LEAD) Seoul shares turn higher after weak start amid inflation woes
   - [korea] (LEAD) Exports more than double in 1st 10 days of Nov.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
   - [japan] Honda upwardly revised its earnings forecast for this fiscal year due to weaker yen and increased sales of HVs
-  - [taiwan] TSMC Board Approves Investment of Up to $500 Million in Each of Anthropic and OpenAI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T00:32:46+00:00",
+      "published_utc": "2026-11-11T00:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
