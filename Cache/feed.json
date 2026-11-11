@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-11T08:32:44.305133+00:00",
- "collected_at_utc": "2026-11-11T08:32:44.305133+00:00",
+ "generated_at_utc": "2026-11-11T08:42:43.739278+00:00",
+ "collected_at_utc": "2026-11-11T08:42:43.739278+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 934,
   "china": 892,
-  "taiwan": 312,
-  "korea": 862
+  "taiwan": 311,
+  "korea": 863
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-11T00:49:00+00:00"
   },
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T04:24:50+00:00"
+   "newest": "2026-11-11T08:34:04+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T17:09:27+09:00"
+   "newest": "2026-11-11T17:35:31+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T12:30:25+00:00"
+   "newest": "2026-11-11T04:01:59+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T08:21:11+00:00"
+   "newest": "2026-11-11T08:41:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T08:24:05+00:00"
+   "newest": "2026-11-11T08:36:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T07:54:00+00:00"
+   "newest": "2026-11-11T08:35:57+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "[Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUjZicVVEVm9ubmgxV1NCeTg1OGdjaUtoSDd1cC1sNU1ZZXBFNHdOcjkzV3NwdV9EU21WcW5id25ZdnZoZ1UtcVBGeDRWUWtIRXB4LThNSUtIZw?oc=5",
+   "published_utc": "2026-11-11T08:35:57+00:00",
+   "title_original": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b98514b210031d01"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan automakers post strong sales on weaker yen",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmRVYxZlFLY2ZGNXg2RDNWSGhUamJERTdiU2ZHT29JV0JGVEFLaDFIcXZLMGJpakp4WVZwd19DT1h0V0paNk1qZGRKbWpJRlJPOGpZN2hSYTVsQWEwNVBTcnA3SQ?oc=5",
+   "published_utc": "2026-11-11T08:34:04+00:00",
+   "title_original": "Japan automakers post strong sales on weaker yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e34310b70d81191e"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -51918,40 +51952,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ed94c4beb55b6dae"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Instinct Bio Technical Company Holdings Inc. (BIOT) Returns To Profit; Revenue Up ~10% YoY in Yen",
-   "url": "https://www.tradingview.com/news/tradingview:2dfdfbd930c9e:0-instinct-bio-technical-company-holdings-inc-biot-returns-to-profit-revenue-up-10-yoy-in-yen/",
-   "published_utc": "2026-10-16T12:30:41+00:00",
-   "title_original": "Instinct Bio Technical Company Holdings Inc. (BIOT) Returns To Profit; Revenue Up ~10% YoY in Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bcac2a75ad7273d5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain",
-   "url": "https://www.tradingview.com/news/gurufocus:8df96432f094b:0-taiwan-eyes-4-billion-texas-hub-to-supercharge-nvidia-s-ai-supply-chain/",
-   "published_utc": "2026-10-16T12:29:53+00:00",
-   "title_original": "Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "616ebb68639a29cf"
   },
   {
    "source_id": "manual_ia",

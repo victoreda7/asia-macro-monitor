@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T08:32:44.305133+00:00
+Última coleta: 2026-11-11T08:42:43.739278+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
   🇨🇳 China          892
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  862
+  🇹🇼 Taiwan         311
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
+  - [japan] Japan automakers post strong sales on weaker yen
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [korea] Finance minister calls for close monitoring of U.S. midterms impact
   - [korea] Asia stocks rally as Korean chipmakers ride CoreWeave-fuelled AI rebound
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
   - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
-  - [korea] Dongwon Industries’ Q3 OP up 1.1% on B2B, export growth
-  - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T08:32:44+00:00",
+      "published_utc": "2026-11-11T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
