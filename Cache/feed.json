@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T02:13:04.275832+00:00",
- "collected_at_utc": "2026-11-11T02:13:04.275832+00:00",
+ "generated_at_utc": "2026-11-11T02:22:43.608929+00:00",
+ "collected_at_utc": "2026-11-11T02:22:43.608929+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 920,
-  "china": 907,
-  "taiwan": 312,
+  "china": 908,
+  "taiwan": 311,
   "korea": 861
  },
- "elapsed_s": 51.2,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-10T09:53:00+00:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:33:36+00:00"
+   "newest": "2026-11-11T01:56:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T23:05:21+00:00"
+   "newest": "2026-11-10T22:21:45+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T02:12:32+00:00"
+   "newest": "2026-11-11T02:20:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T21:28:22+00:00"
+   "newest": "2026-11-10T18:35:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:06:12+00:00"
+   "newest": "2026-11-11T02:00:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,59 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures gain for second session on tyre makers' dip-buying, weaker yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S041:0-japan-futures-gain-for-second-session-on-tyre-makers-dip-buying-weaker-yen/",
+   "published_utc": "2026-11-11T02:13:03+00:00",
+   "title_original": "Japan futures gain for second session on tyre makers' dip-buying, weaker yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4fc5c01c3cb63325"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaU1xelBVSDlMbDkybXdHcHhIb1FsWnoyVEpBZkh4eXljMEhLTzU0bXpIcnNSVnlJbG5aTDVmc0JlT2JUM0dmcjZmX1d1UWwxWDUwMDFnUUhJcnJPenhtaFA2allpZHQwcVBJVllSVHp4dzJDSjJmdzdkU1JDdllBRlRjczVrNm9oVU80aWNJSQ?oc=5",
+   "published_utc": "2026-11-11T01:56:00+00:00",
+   "title_original": "央行今日开展1870亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "af497ce0488e8d11"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPellBTk1FU3cxZU1hZmNoN2FXczlNVVpxQlkwN05YWGVhZFBUX0Fwc1BPdG9wLW1fNmhic2JkWVVROHhEbXo4UTJLY3Q3dFY3a00wazJ2ZEJSWXpkdXZuZl9qd2Jfc19UQ1M2M0czNUFoZWh4UHdseURqSzUtQzd1WDBLSUNYOExoUHhubQ?oc=5",
+   "published_utc": "2026-11-11T01:51:35+00:00",
+   "title_original": "央行今日公开市场开展1870亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a3688640f2140889"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan machinery exports rise for 21st month on AI demand, but US election adds uncertainty",
@@ -393,24 +446,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dfe37ac789cad742"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
-   "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVpIeEhIUnVsazROX2NvQV9LWVNWR2Z4ZmRrMGhaNGx3a2VIam1aSWw2VlpHUzR4dTVUQVhnLXVZejRrSHkxVEhuNkhYUEtIa1FIam5KZkszT3dMdGhMTHl6Nzh4ZVNWaHZ0eDN6UUctYzhTTGRiYXJMcDFWVXdzQ0psUWVJMXFjNmlVc0EtRGxjUQ?oc=5",
-   "published_utc": "2026-11-11T01:33:36+00:00",
-   "title_original": "央行今日开展1870亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6d556346206e59f3"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3564,7 +3599,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The true meaning of Governor Ueda's ``no declaration of victory'' despite the Bank of Japan's ``reaching 2%'' after 2013 The ``guardian of prices'' confronts inflation and fumbles with additional interest rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOEh3VzV0YzNNUmJTRW5xMHJiUWVJWGhVazBBcFBBLUhEYjZXQTNITlltUmcxWnJtVXNTdVBfVUVaeEhaZnRtc1FqOEZObURRc1BVS3ItV2FZcG1RSlZaWmlBZlpydm9WaVVIQ2pJdXpRWVlXWjkwMjV3OVVzSEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVhPMXVpanRwNUp2MGY4Qzc5OGlHNUxjWl9XMEVxRGZnb004V3kwdTFZalliU2pBd0hubHh1RjhnNS1pQVhOendtQjhRTXRMcXNReFdfMk9kMDJhZTZOMGZ6ZHZKT3RHTzJ1amExcVlVREJJaXFPejFndGwzZ1ZLZHdpLURzbXFm?oc=5",
    "published_utc": "2026-11-09T21:00:33+00:00",
    "title_original": "日銀が13年越し「2％到達」も植田総裁「勝利宣言なし」の真意 “物価の番人”が直面するインフレへの対峙と手探りの追加利上げ",
    "region": "japan",
@@ -3576,7 +3611,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4cb6c0437ff7d4d6"
+   "id": "123e2af5a59bfd78"
   },
   {
    "source_id": "toyo_keizai",
@@ -51925,41 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ff4b94f11151b63d"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "37e538277195bcfb"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5maDNZZ19OalJLTXAza1RiT2FfVlZlcDhuR0ZZMmdXS2VQQkdNS29nRWM4b2lCaUhpZDUxZWVmZ3Z0RFd1QkNUaFlJdGpIVDZRRzQwTVI2QnRmQQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5550786906e36fe3"
   },
   {
    "source_id": "manual_ia",

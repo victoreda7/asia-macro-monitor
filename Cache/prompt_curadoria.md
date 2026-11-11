@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T02:13:04.275832+00:00
+Última coleta: 2026-11-11T02:22:43.608929+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          907
-  🇹🇼 Taiwan         312
+  🇨🇳 China          908
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan futures gain for second session on tyre makers' dip-buying, weaker yen
+  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
+  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation in the open market today
   - [taiwan] Taiwan machinery exports rise for 21st month on AI demand, but US election adds uncertainty
   - [china] CHINA PBOC CONDUCTS CNY187 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167
-  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
   - [china] On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation with an interest rate of 1
   - [japan] "Neocloud" Core Weave's final deficit 6 times due to interest payment
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Exicure, Inc. (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
   - [korea] Exicure (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
   - [japan] There is no need for a ``Declaration of Overcoming Deflation.'' We must not repeat the mistake of the Bank of 
-  - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
-  - [japan] Consumption tax reduction bill will be debated in the House of Councilors today, leading to debate among the r
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T02:13:04+00:00",
+      "published_utc": "2026-11-11T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
