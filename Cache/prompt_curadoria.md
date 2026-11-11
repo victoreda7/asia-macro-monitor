@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T14:42:47.155265+00:00
+Última coleta: 2026-11-11T14:52:47.812871+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese university on US blacklist bought Nvidia H200 AI chips: report
   - [china] Amended: China Consumer Prices Flat In October
   - [japan] BofA: Retail yen selling rises but offset by foreign inflows
   - [china] Commentary: China’s AI Export Boom May Reach Beyond Chips
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Gyeongsang Province announced a budget plan for 2027 worth 14.7368 trillion won on the 11th. A..
   - [china] China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports
   - [japan] Japan Machine Tool Orders Rise 42.5%
-  - [japan] Nissan CFO Leondis - Our Liquidity Remains Solid With 2.2 Trillion Yen In Automotive Cash And Cash Equivalents
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T14:42:47+00:00",
+      "published_utc": "2026-11-11T14:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
