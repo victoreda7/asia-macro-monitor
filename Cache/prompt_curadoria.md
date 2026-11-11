@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T02:52:45.877116+00:00
+Última coleta: 2026-11-11T03:02:43.816530+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
+  🇯🇵 Japão          922
   🇨🇳 China          909
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  861
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [japan] Bank of Japan expects continued appropriate policy management to achieve sustainable and stable 2% target - Pr
   - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] At China’s Big Import Fair, Sellers Try to Crack a Tough Market
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 155% Upside
   - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
-  - [korea] Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T02:52:46+00:00",
+      "published_utc": "2026-11-11T03:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

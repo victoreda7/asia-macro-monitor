@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T02:52:45.877116+00:00",
- "collected_at_utc": "2026-11-11T02:52:45.877116+00:00",
+ "generated_at_utc": "2026-11-11T03:02:43.816530+00:00",
+ "collected_at_utc": "2026-11-11T03:02:43.816530+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
+  "japan": 922,
   "china": 909,
   "taiwan": 309,
-  "korea": 861
+  "korea": 860
  },
- "elapsed_s": 32.1,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T11:47:17+09:00"
+   "newest": "2026-11-11T11:47:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T11:29:19+09:00"
+   "newest": "2026-11-11T11:58:04+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T19:31:00+00:00"
+   "newest": "2026-11-10T20:21:43+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T02:52:00+00:00"
+   "newest": "2026-11-11T03:02:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,18 +337,35 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46R258:0-mebuki-financial-group-inc-to-buy-back-up-to-0-95-of-own-shares-worth-10-billion-yen/",
+   "published_utc": "2026-11-11T03:01:55+00:00",
+   "title_original": "Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c9504123a28efd2e"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money for more than 30% of working people”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73947",
-   "published_utc": "2026-11-11T02:47:17+00:00",
+   "published_utc": "2026-11-11T02:47:00+00:00",
    "title_original": "消費税減税法案が参院に 高市首相“支援金 勤労者の3割以上”",
    "region": "japan",
    "topics": [
@@ -13554,6 +13571,24 @@
    "live_wire": false,
    "manual": false,
    "id": "befb1009e7e14310"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "Central Bank: Launch 300 billion yuan buyout reverse repurchase operation on November 5",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOekYtVzYtQS04bFJubk1RMmZ0SEdQdElmUmVVdFo0d1QyU29GOXY4R2N1S3Y0dk1TNm9hRmp4bXpIcnhyRTB0TXBuY0lQTmpCZzFlUWhaQXlmTUI4M0tUXzVUN3JVLWwwbm1CcTB6RTNURk9ZQ2JGd0U0eFFzbnhzUF94QkpORFRvS1V2dGF2aw?oc=5",
+   "published_utc": "2026-11-04T09:05:35+00:00",
+   "title_original": "央行：11月5日开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4f37e07cd386092c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51926,40 +51961,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5651a907d60ee14a"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tdkl2dXNQMXpTRE53aE82VW94U013ZTBWZlZIeHVrcEEtUDBNaURTcDFNTTlURV9wLVJ3TDI4aGV0dFlmWHkwbW52MXlHaGtQNldlcy1mR0hGZw?oc=5",
-   "published_utc": "2026-10-16T07:16:20+00:00",
-   "title_original": "(LEAD) Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "76aa0498beb046f2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China expected to swing to net alumina exports in 2027, Antaike says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44A03S:0-china-expected-to-swing-to-net-alumina-exports-in-2027-antaike-says/",
-   "published_utc": "2026-10-16T07:12:12+00:00",
-   "title_original": "China expected to swing to net alumina exports in 2027, Antaike says",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "552bccb6e6a4aa3d"
   },
   {
    "source_id": "manual_ia",
