@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T19:22:42.489675+00:00
+Última coleta: 2026-11-11T19:32:43.942955+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
   🇨🇳 China          891
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  867
+  🇹🇼 Taiwan         311
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 373.44, Implies 32% Upside
+  - [korea] SK hynix Stocks Climb 5.36% as Foreign Investors Pile Back Into AI Memory
   - [korea] NC: Three growth pillars lifted Q3 operating profit and 2026 revenue expectations to ~KRW 2.8T
   - [taiwan] TSMC Stocks Climb 3.37% After Record NT$586.9 Billion October Revenue
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 377.81, Implies 34% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi held the 16th Economic and Fiscal Council Meeting in 2026
   - [korea] [Table] Foreign Exchange Rate Notice Table
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
-  - [korea] Finance minister calls for close monitoring of U.S. midterms impact
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T19:22:42+00:00",
+      "published_utc": "2026-11-11T19:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
