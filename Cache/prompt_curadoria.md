@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T10:12:44.362242+00:00
+Última coleta: 2026-11-11T10:22:42.752603+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
+  - [china] China's central bank vows to step up policy support for the economy
   - [china] China says offshore trust tax declarations top 160 billion yuan
   - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Cyberagent, Inc. - To Buy Back Up To 1.97% Of Own Shares Worth 12 Billion Yen
   - [japan] The Gunma Bank: Record parent profit and higher FY2027 guidance, alongside rising JGB valuation losses
   - [korea] Cosmax, a cosmetics manufacturer and development production (ODM) company, recorded its highest sale..
-  - [japan] Nippon Thompson Co Ltd - To Buy Back Up To 1.3% Of Own Shares Worth 1.1 Billion Yen
-  - [japan] Nagoya Railroad Co., Ltd. - To Buy Back Up To 3.06% Of Shares Worth 10 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T10:12:44+00:00",
+      "published_utc": "2026-11-11T10:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
