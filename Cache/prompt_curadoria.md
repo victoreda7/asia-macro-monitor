@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T04:52:43.411174+00:00
+Última coleta: 2026-11-11T05:02:43.391032+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          909
+  🇯🇵 Japão          925
+  🇨🇳 China          907
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  857
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
+  - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
   - [japan] Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue
   - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
   - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] From AKB to the Bank of Japan, on-site financial classes are spreading, one step at a time to prevent fraud (A
   - [korea] Exports more than double in 1st 10 days of Nov.
   - [korea] Govt. to release growth forecasts 3 times per year: finance minister
-  - [korea] South Korea's Tax Cuts for Gasoline, Diesel, Butane to Continue Until Jan. 31, Finance Ministry Says
-  - [korea] South Korea to Extend Temporary Fuel Tax Cuts by Two Months, Finance Ministry Says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T04:52:43+00:00",
+      "published_utc": "2026-11-11T05:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
