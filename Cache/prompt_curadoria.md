@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T13:02:44.690199+00:00
+Última coleta: 2026-11-11T13:12:44.681869+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Commentary: China’s AI Export Boom May Reach Beyond Chips
   - [japan] Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minorit
   - [china] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [korea] AI hard to value, interest rates moderate by historical standards: Howard Marks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Finance minister supports doubling stabilization fund
   - [japan] Eqt Raises Tender Offer Price For Shares Of Kakaku.Com To 3,700 Yen Per Share From 3,683 Yen, Filing Shows
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 124% Upside
-  - [korea] Kolon Industries: Chemical drove YoY growth, but Q3 ended in a KRW 4.2bn net loss
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T13:02:44+00:00",
+      "published_utc": "2026-11-11T13:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
