@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T00:52:44.960268+00:00
+Última coleta: 2026-11-11T01:02:43.524108+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          919
+  🇯🇵 Japão          920
   🇨🇳 China          898
-  🇹🇼 Taiwan         318
+  🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [korea] Exports more than double in 1st 10 days of Nov.
+  - [korea] Govt. to release growth forecasts 3 times per year: finance minister
   - [korea] South Korea's Tax Cuts for Gasoline, Diesel, Butane to Continue Until Jan. 31, Finance Ministry Says
   - [korea] South Korea to Extend Temporary Fuel Tax Cuts by Two Months, Finance Ministry Says
   - [korea] Seoul shares turn higher after weak start amid inflation woes
@@ -26,7 +28,6 @@ Total: 3000 manchetes
   - [korea] Seoul shares open lower on inflation woes
   - [korea] South Korea November 1-10 exports surge 111.9% year/year
   - [korea] S. Korea to extend fuel tax cuts through Jan. to ease price burdens
-  - [china] Nvidia faces deepening scrutiny over China chip ties, CEO affair
   - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
   - [japan] Considering registration system for business employing people with disabilities
   - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC to invest up to $1 billion in Anthropic, OpenAI
   - [taiwan] TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers — Barrons.com
   - [taiwan] Taiwan Semiconductor's October sales offer up 'strong start' to quarter, Wedbush says
-  - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T00:52:45+00:00",
+      "published_utc": "2026-11-11T01:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
