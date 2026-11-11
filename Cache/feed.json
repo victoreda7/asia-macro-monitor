@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T08:52:44.070503+00:00",
- "collected_at_utc": "2026-11-11T08:52:44.070503+00:00",
+ "generated_at_utc": "2026-11-11T09:02:45.880693+00:00",
+ "collected_at_utc": "2026-11-11T09:02:45.880693+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 932,
+  "japan": 930,
   "china": 892,
-  "taiwan": 312,
-  "korea": 864
+  "taiwan": 313,
+  "korea": 865
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T08:24:44+00:00"
+   "newest": "2026-11-11T08:54:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T17:47:39+09:00"
+   "newest": "2026-11-11T17:56:55+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T08:51:00+00:00"
+   "newest": "2026-11-11T09:02:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T08:36:46+00:00"
+   "newest": "2026-11-11T08:48:52+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46S0JH:0-eqt-raises-bid-for-kakaku-com-to-3-700-yen-matching-bain-and-ly/",
+   "published_utc": "2026-11-11T08:55:22+00:00",
+   "title_original": "EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "124dac46d71013b3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261111002338:0-tsmc-s-anthropic-openai-investment-plan-a-mild-surprise-to-morningstar-market-talk/",
+   "published_utc": "2026-11-11T08:54:00+00:00",
+   "title_original": "TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "edd8a09f80cff33d"
+  },
   {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
@@ -359,6 +394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e310fc6d0435c7da"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xM0pKVWEyZ2E0WjBaV2lfZFRlRmRNY0tZRlNLUWdQRG9IZTlWSDdINzlWY2VUTmM4bnVzdWN3SzluT2NTem1hdFk5Ri1HSUVzVnc?oc=5",
+   "published_utc": "2026-11-11T08:40:15+00:00",
+   "title_original": "It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5202a79ba72ca7cb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -450,7 +502,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSEVVbV9iRC14N0thNmdONzZnMll5NV9ZMHIzd1hCelkyZUM0Wjh1YjVLT0d5amZGNFNFWnVKM0hEZlFXSFl6eTNHNnZaSWZDUFJQV3c2OHRtZmNNaFA4M9IBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cNIBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
    "published_utc": "2026-11-11T07:54:00+00:00",
    "title_original": "SC제일은행 \"내년 한국 경제 성장세 둔화…통화정책이 주요 변수\"",
    "region": "korea",
@@ -463,7 +515,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8214e57caaa25fcf"
+   "id": "4d803028d7b814ba"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1583,23 +1635,6 @@
    "id": "5fe0d92ac267906a"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18",
-   "url": "https://www.tradingview.com/news/DJN_DN20261110013590:0-japan-mof-to-auction-y700-0b-of-20-year-govt-bonds-nov-18/",
-   "published_utc": "2026-11-11T01:30:00+00:00",
-   "title_original": "Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8e33454ee6538c7e"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation on November 11",
@@ -1616,23 +1651,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9529a66bd06ff571"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y1.9T Of TD-Bills Nov 18",
-   "url": "https://www.tradingview.com/news/DJN_DN20261110013569:0-japan-mof-to-auction-y1-9t-of-td-bills-nov-18/",
-   "published_utc": "2026-11-11T01:20:00+00:00",
-   "title_original": "Japan MOF To Auction Y1.9T Of TD-Bills Nov 18",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f704ccd1c4660ae3"
   },
   {
    "source_id": "investing_live",
@@ -7810,7 +7828,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "中华网",
    "title_en": "Why the central bank raised the foreign exchange deposit reserve ratio to stabilize the pace of appreciation",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TRHZVbXlIUE9FWFpYSkR4MXlSZDhkdF9uRV9qYzlKdkl3QUVlQlRWam54ZzR0dTVqZmdtMFZod3BZa3QzRDdhQ1VRbVFVaU1rTDZuMkc5eVNpbFZRQjZkRTlXWjZlVU5CWVpVYUtn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWlRsb3hNckZkYi1zRjQ0bzRrTEZWRnV1bGY4akc2c1hUS3UyNkYwSENCeXZIbkxremVTdHcwY3dVT3dvYnRTdy1iNU8tOVhyN1J1QWJXVmpBWEVhMl9uampSdktuU1hzN1NybE1kWlo?oc=5",
    "published_utc": "2026-11-07T15:03:37+00:00",
    "title_original": "央行为何上调外汇存款准备金率 稳住升值节奏",
    "region": "china",
@@ -7822,7 +7840,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "31deb96b1c3f037d"
+   "id": "48ff332367949760"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51931,25 +51949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e9ae689dd0f200c7"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Decision on 2% underlying inflation rate will be thoroughly discussed at October meeting; economy is in line with forecast - Bank of Japan Governor (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50X3dvVkxxUkpiYUVZcm55elRJUXd5YVFVc1o5cXZTel94MjBpNlNWOXVKbVFwMkhCYmE4NEFmWDdvV3hiTlotSUpNZ3c5ejdhNlhYUVBGNXY3UUVRRUlOMHhtSXZBMlRfdmowb1Z4QWxrb1kzVy1BNUtlN00zWTg?oc=5",
-   "published_utc": "2026-10-16T12:50:32+00:00",
-   "title_original": "基調物価2％の判断、10月会合でしっかり議論 経済は見通し通り＝日銀総裁（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da75dc82edf1eb2c"
   },
   {
    "source_id": "manual_ia",

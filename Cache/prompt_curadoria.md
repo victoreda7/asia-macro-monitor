@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T08:52:44.070503+00:00
+Última coleta: 2026-11-11T09:02:45.880693+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
+  🇯🇵 Japão          930
   🇨🇳 China          892
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  864
+  🇹🇼 Taiwan         313
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
+  - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
   - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
+  - [korea] It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..
   - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
   - [japan] Japan automakers post strong sales on weaker yen
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Why is TSMC stock rallying today?
   - [taiwan] TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI
   - [japan] Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen
-  - [korea] Google's AI chip expansion opens new doors for Samsung, SK hynix
-  - [china] EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
-  - [china] EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T08:52:44+00:00",
+      "published_utc": "2026-11-11T09:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
