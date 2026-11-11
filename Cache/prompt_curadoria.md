@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T22:52:46.566621+00:00
+Última coleta: 2026-11-11T23:02:45.250694+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -19,9 +19,9 @@ Total: 3000 manchetes
 
   - [japan] Japan Producer Price Data Due On Thursday
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
+  - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
   - [korea] NC: Three growth pillars lifted Q3 results and underpin 2027 revenue guidance of KRW 3.2t–3.4t
   - [japan] Consumption tax reduction bill begins deliberation in the House of Councilors and will be questioned by a spec
-  - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
   - [japan] Worst ranking of credit unions and credit unions in terms of net profit...While they continue to post deficits
   - [japan] Risks posed by Russia's takeover of JT: "Are foreign assets safe?"... Huge foreign net worth = yen appreciatio
   - [china] Como o presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e espio
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T22:52:46+00:00",
+      "published_utc": "2026-11-11T23:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
