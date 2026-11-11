@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T23:32:42.735178+00:00
+Última coleta: 2026-11-11T23:42:49.368234+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -46,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] Yen Slumps as Fed Rate-Hike Bets Boost Dollar — Update
   - [china] China’s central bank vows to step up policy support for the economy
+  - [japan] Food Tax Cut Bill Faces Upper House Debate
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further By Investing.com
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] [Strategic way to buy government bonds, a powerful asset in an era of interest rates] No loss of principal! Th
   - [china] China says offshore trust tax declarations top 160 billion yuan
   - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
-  - [korea] Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T23:32:42+00:00",
+      "published_utc": "2026-11-11T23:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
