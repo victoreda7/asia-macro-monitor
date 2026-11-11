@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T06:42:42.352273+00:00
+Última coleta: 2026-11-11T06:52:42.088717+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] Persol Holdings Co Ltd - To Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
   - [japan] BREAKING NEWS: Nissan posts 39.71 bil. yen net loss in April-Sept.
   - [japan] Cyberagent, Inc. - To Buy Back Up To 1.97% Of Own Shares Worth 12 Billion Yen
@@ -41,7 +42,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI
   - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
   - [taiwan] Changs Ascending rides semiconductor expansion into AI data-center power
-  - [japan] Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low
   - [china] Yuan holds steady as PBOC eases guidance, dollar firms
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase on November 11, with a net withdrawa
   - [japan] Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T06:42:42+00:00",
+      "published_utc": "2026-11-11T06:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
