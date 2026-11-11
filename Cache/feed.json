@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-11T14:22:42.520846+00:00",
- "collected_at_utc": "2026-11-11T14:22:42.520846+00:00",
+ "generated_at_utc": "2026-11-11T14:32:49.585377+00:00",
+ "collected_at_utc": "2026-11-11T14:32:49.585377+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
+  "japan": 932,
   "china": 889,
-  "taiwan": 311,
+  "taiwan": 312,
   "korea": 867
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 46,
-   "error": "",
-   "newest": "2026-11-11T08:50:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T12:51:16+00:00"
+   "newest": "2026-11-11T11:11:22+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T14:21:43+00:00"
+   "newest": "2026-11-11T14:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T09:36:00+00:00"
+   "newest": "2026-11-11T07:54:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -396,8 +396,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -411,7 +411,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "korea_herald_biz",
@@ -585,8 +585,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -600,7 +600,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -1613,6 +1613,23 @@
    "live_wire": false,
    "manual": false,
    "id": "94ed28bb9699a0e2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Acer Synergy Tech rides semiconductor demand to record revenue",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFh4bGVZLWtQOGZpMXYxUi1USDFXNks4UDZsRFlyU0VuTi1iclBVdUJFVlQ5LU5tc1diQTR2SExHa2FhNlRyZS14aEltTkdhQ1puakR3M2V2NndrNW9aWXhmcmYxcHNKSHU5MmMtdWpUNzExWVd3SVM3Y0U1ekZteTJDc0ZWbnVNa2g4dW9R?oc=5",
+   "published_utc": "2026-11-11T04:49:28+00:00",
+   "title_original": "Acer Synergy Tech rides semiconductor demand to record revenue",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "497cf7b46fb9167d"
   },
   {
    "source_id": "tradingview_live",
@@ -51927,24 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a106111f087452f6"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Bank of Japan Governor Ueda “will not tolerate price increases exceeding 2%” and will continue to raise interest rates",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60794",
-   "published_utc": "2026-10-16T20:01:00+00:00",
-   "title_original": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "deb5a0d6dbe3827e"
   },
   {
    "source_id": "manual_ia",
