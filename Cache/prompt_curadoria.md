@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T15:42:46.037634+00:00
+Última coleta: 2026-11-11T15:52:46.143587+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Odisha, Japan's Tottori Prefecture sign agreement to boost investment, startups and overseas employment
   - [china] China's central bank vows to step up counter-cyclical adjustment, boost domestic demand
   - [china] Chinese university on US blacklist bought Nvidia H200 AI chips: report
   - [china] Amended: China Consumer Prices Flat In October
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Asia stocks rally as Korean chipmakers ride CoreWeave-fuelled AI rebound
   - [korea] SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”
   - [korea] South Gyeongsang Province announced a budget plan for 2027 worth 14.7368 trillion won on the 11th. A..
-  - [china] China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T15:42:46+00:00",
+      "published_utc": "2026-11-11T15:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
