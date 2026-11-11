@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-11T11:02:45.028202+00:00",
- "collected_at_utc": "2026-11-11T11:02:45.028202+00:00",
+ "generated_at_utc": "2026-11-11T11:12:43.625454+00:00",
+ "collected_at_utc": "2026-11-11T11:12:43.625454+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 928,
-  "china": 893,
+  "japan": 929,
+  "china": 891,
   "taiwan": 313,
-  "korea": 866
+  "korea": 867
  },
  "elapsed_s": 30.6,
  "sources": [
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T05:00:31+00:00"
+   "newest": "2026-11-11T05:00:41+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T10:42:47+00:00"
+   "newest": "2026-11-11T11:04:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T10:19:36+00:00"
+   "newest": "2026-11-11T10:49:03+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T10:21:12+00:00"
+   "newest": "2026-11-11T11:04:36+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T19:58:40+09:00"
+   "newest": "2026-11-11T20:07:04+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T19:58:40+09:00"
+   "newest": "2026-11-11T19:58:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T07:32:00+00:00"
+   "newest": "2026-11-11T07:14:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T11:02:10+00:00"
+   "newest": "2026-11-11T11:11:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,16 +339,33 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T08:35:57+00:00"
+   "newest": "2026-11-11T09:05:11+00:00"
   }
  ],
  "items": [
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Citi sees yen strengthening risk if Japanese stocks correct further",
+   "url": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-risk-if-japanese-stocks-correct-further-93CH-5018320",
+   "published_utc": "2026-11-11T11:04:36+00:00",
+   "title_original": "Citi sees yen strengthening risk if Japanese stocks correct further",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8d9ad3beea98e0b6"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
-   "published_utc": "2026-11-11T10:58:40+00:00",
+   "published_utc": "2026-11-11T10:58:00+00:00",
    "title_original": "高市首相 \"予見可能性高い財政運営で成長力強化\" 日銀とも連携",
    "region": "japan",
    "topics": [
@@ -359,7 +376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -499,6 +516,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a480187c0081b9a0"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "아주경제",
+   "title_en": "Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RW9PWmMwNXdUSWRreEwzeXk1dEdBWThlVDlNSFBIZHQ5c2owdWFlZUpGcUdYRDBOVklQRjg1ZTRiQWJBU2N4ZzhCU0w4aTBab0VQV0s4SjfSAVhBVV95cUxONEVvT1pjMDV3VElka3hMM3l5NXRHQVk4ZVQ5TUhQSGR0OXNqMHVhZWVKRnFHWEQwTlZJUEY4NWU0YkFiQVNjeGc4QlNMOGkwWm9FUFdLOEo3?oc=5",
+   "published_utc": "2026-11-11T09:05:11+00:00",
+   "title_original": "美 빅스텝 거론에 한은 금리 인상 압력 커지나",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aabb7861fb96b936"
   },
   {
    "source_id": "tradingview_live",
@@ -51911,40 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6088e2121053eaea"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's central bank to further open its financial markets to foreigners, chief says",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5",
-   "published_utc": "2026-10-16T15:59:00+00:00",
-   "title_original": "China's central bank to further open its financial markets to foreigners, chief says",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1091d4b4b19dfc47"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China seeks tighter controls on AI-related exports amid rivalry with US",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4620T0:0/",
-   "published_utc": "2026-10-16T15:24:33+00:00",
-   "title_original": "China busca controle mais rígido de exportações relacionadas à IA em meio à rivalidade com EUA",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "4bd1ad372053a62b"
   },
   {
    "source_id": "manual_ia",

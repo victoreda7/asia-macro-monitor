@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T11:02:45.028202+00:00
+Última coleta: 2026-11-11T11:12:43.625454+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          893
+  🇯🇵 Japão          929
+  🇨🇳 China          891
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
   - [japan] Yen Could Turn Stronger Over Medium Term — Market Talk
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
@@ -26,6 +27,7 @@ Total: 3000 manchetes
   - [china] China says offshore trust tax declarations top 160 billion yuan
   - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
+  - [korea] Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?
   - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
   - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
   - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances
   - [korea] Fed's 'big step' emerges due to US price shock... The Bank of Korea's interest rate calculation method has bec
   - [korea] The Busan Metropolitan Office of Education will focus next year's budget on future artificial intell..
-  - [taiwan] TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat
-  - [japan] Persol Holdings Co Ltd - To Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T11:02:45+00:00",
+      "published_utc": "2026-11-11T11:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
