@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T09:02:45.880693+00:00
+Última coleta: 2026-11-11T09:12:43.880359+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
+  🇯🇵 Japão          929
   🇨🇳 China          892
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [korea] It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..
   - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
   - [japan] Japan automakers post strong sales on weaker yen
+  - [korea] [Table] Foreign Exchange Rate Notice Table
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [korea] Finance minister calls for close monitoring of U.S. midterms impact
   - [korea] Asia stocks rally as Korean chipmakers ride CoreWeave-fuelled AI rebound
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China PLA-linked university bought Nvidia H200 chips despite U.S. curbs - Reuters
   - [taiwan] Why is TSMC stock rallying today?
   - [taiwan] TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI
-  - [japan] Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T09:02:46+00:00",
+      "published_utc": "2026-11-11T09:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
