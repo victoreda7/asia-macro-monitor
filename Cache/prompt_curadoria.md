@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T01:22:43.663475+00:00
+Última coleta: 2026-11-11T01:32:44.379517+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
+  🇯🇵 Japão          923
   🇨🇳 China          900
-  🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  864
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] "Neocloud" Core Weave's final deficit 6 times due to interest payment
+  - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18
   - [japan] Japan MOF To Auction Y1.9T Of TD-Bills Nov 18
+  - [china] US lawmakers push China chip rules after Nvidia CEO allegations
   - [china] HEADS UP: US TSY'S BESSENT ABOUT TO SPEAK AT THE NATIONAL COMMITTEE ON US-CHINA RELATIONS GALA DINNER
   - [korea] Revised regional currency swap arrangement takes effect
   - [korea] South Korean shares slip as US inflation data boosts rate-hike bets
@@ -38,7 +41,6 @@ Total: 3000 manchetes
   - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
   - [japan] Considering registration system for business employing people with disabilities
   - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
-  - [china] US lawmakers push China chip rules after Nvidia CEO allegations
   - [china] At China’s Big Import Fair, Sellers Try to Crack a Tough Market
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 155% Upside
   - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
   - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
   - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
-  - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
-  - [china] Microsoft urges US to reconsider potential import ban on Chinese optical transceivers: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T01:22:43+00:00",
+      "published_utc": "2026-11-11T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

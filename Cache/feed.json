@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T01:22:43.663475+00:00",
- "collected_at_utc": "2026-11-11T01:22:43.663475+00:00",
+ "generated_at_utc": "2026-11-11T01:32:44.379517+00:00",
+ "collected_at_utc": "2026-11-11T01:32:44.379517+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
+  "japan": 923,
   "china": 900,
-  "taiwan": 315,
-  "korea": 864
+  "taiwan": 314,
+  "korea": 863
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T01:01:23+00:00"
+   "newest": "2026-11-11T01:18:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T01:00:25+00:00"
+   "newest": "2026-11-11T01:18:27+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-10T09:53:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T04:56:00+09:00"
+   "newest": "2026-11-11T10:31:38+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "newest": "2026-11-10T04:27:02+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T01:20:00+00:00"
+   "newest": "2026-11-11T01:31:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T00:30:17+00:00"
+   "newest": "2026-11-10T18:35:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:00:01+00:00"
+   "newest": "2026-11-11T01:06:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,12 +337,46 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "\"Neocloud\" Core Weave's final deficit 6 times due to interest payment",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261111de73895",
+   "published_utc": "2026-11-11T01:31:38+00:00",
+   "title_original": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5fe0d92ac267906a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18",
+   "url": "https://www.tradingview.com/news/DJN_DN20261110013590:0-japan-mof-to-auction-y700-0b-of-20-year-govt-bonds-nov-18/",
+   "published_utc": "2026-11-11T01:30:00+00:00",
+   "title_original": "Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8e33454ee6538c7e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "f704ccd1c4660ae3"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "US lawmakers push China chip rules after Nvidia CEO allegations",
+   "url": "https://www.investing.com/news/stock-market-news/schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo-5016683",
+   "published_utc": "2026-11-11T01:18:53+00:00",
+   "title_original": "US lawmakers push China chip rules after Nvidia CEO allegations",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a7aafda128d6214b"
   },
   {
    "source_id": "tradingview_live",
@@ -701,23 +752,6 @@
    "live_wire": false,
    "manual": false,
    "id": "90dd3c0e53e5ac9b"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "US lawmakers push China chip rules after Nvidia CEO allegations",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWxqUnFpSkZaOE5LVFZnaWZJaHhteVV2dkdiQnRnX1Zua2Jnd0N3VVBxSzBtOWhETm92Mk9EY0JMbEZMNV9ibThnaWhjd1Y5RTZfMEoxYkk0TTF4Zlk4cmd2RnV2bV85VExSZmswbEJFNmZuZGNBMHYwUklvTjNmdDR1cEIteDdzSlJDc2ZVT3FrS0lZaUVJb1J2MDBvdWtNR0l5NllodU1WUQ?oc=5",
-   "published_utc": "2026-11-10T23:05:21+00:00",
-   "title_original": "US lawmakers push China chip rules after Nvidia CEO allegations",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "34d1c5476dfe9f5c"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -7402,7 +7436,7 @@
    "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill passes the House of Representatives and will be debated in the House of Councilors, where the ruling party is a minority",
    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71864",
-   "published_utc": "2026-11-06T13:30:47+00:00",
+   "published_utc": "2026-11-06T13:30:00+00:00",
    "title_original": "食料品の消費税減税法案 衆院通過 与党少数の参院で議論へ",
    "region": "japan",
    "topics": [
@@ -51922,42 +51956,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07d3cbedfebbd34a"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC excludes CPUs from AI accelerator growth forecast",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjE4a2Q3X3lhTV96TnJiR2d5RHJNa1RoMTFxcmh1ZTBDNFZnUHF6SXVZckYwOTVnYjVWdEhmM3VBbjJQM1BpYmU1b19CVDV0T0FYOW1DemFJeUF4cXVXWDMwV1pWNDA3b3VKVzZvUVZQOWhLWUhSR2JXUUlCWlNCMzR2YUlHd2g0YnVWQk1ld3Jsdw?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC excludes CPUs from AI accelerator growth forecast",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "industrial",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c3ea6e246bf63214"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix rebound after sell-off",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TYU5xcTVfSFZ5dEdqTUYxTkNOU01mRmhEQ1c4SGg1ZnNkV0UyV28tSXV0UGpPakVIaWhzRkZYaDZWeUVxc0dpaU9TLWh2MUxDeGlkV29uaw?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "Samsung Electronics, SK hynix rebound after sell-off",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1800223d8796e355"
   },
   {
    "source_id": "manual_ia",
