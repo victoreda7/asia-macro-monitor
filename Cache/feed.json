@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T03:52:43.800032+00:00",
- "collected_at_utc": "2026-11-11T03:52:43.800032+00:00",
+ "generated_at_utc": "2026-11-11T04:02:45.409509+00:00",
+ "collected_at_utc": "2026-11-11T04:02:45.409509+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
-  "china": 911,
-  "taiwan": 309,
-  "korea": 859
+  "japan": 922,
+  "china": 912,
+  "taiwan": 310,
+  "korea": 856
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:49:44+00:00"
+   "newest": "2026-11-11T03:50:03+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T03:39:34+00:00"
+   "newest": "2026-11-11T03:56:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T09:16:28+00:00"
+   "newest": "2026-11-11T03:55:28+00:00"
   },
   {
    "source_id": "ked_global",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:56:00+00:00"
+   "newest": "2026-11-11T03:37:12+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T03:51:45+00:00"
+   "newest": "2026-11-11T04:02:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46R25E:0-taisei-corporation-to-buy-back-up-to-1-41-of-shares-worth-20-billion-yen/",
+   "published_utc": "2026-11-11T04:01:34+00:00",
+   "title_original": "Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "140ae23fd92cdaaa"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Changs Ascending rides semiconductor expansion into AI data-center power",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzM3c2tuTXZHZ3dnSHlXR0NTYTNfWjFCUDJ4OGhqRGxxa3k5aUlaMUFxdEozWmxFUHYtYk9oaWZDUDQ0dDJNU0FobDdwdlBJWld1dEs2NldnS0dsTEtfUnRaRFE5c0pyUHA3dDJCUDY0MTg1d0RCZkYyOUhXRGx4ZzhuandZNG80Nm9YNA?oc=5",
+   "published_utc": "2026-11-11T03:47:00+00:00",
+   "title_original": "Changs Ascending rides semiconductor expansion into AI data-center power",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1a5622cc2ac52777"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low",
+   "url": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
+   "published_utc": "2026-11-11T03:46:33+00:00",
+   "title_original": "Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "85156214ddcc9e17"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -360,6 +412,24 @@
    "live_wire": true,
    "manual": false,
    "id": "0f1a4ecd94d41ffd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase on November 11, with a net withdrawal of 3 billion yuan that day.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Qbm94czNPX2dKajBXbHRUck1WYjd4RUM2ZEdHV1VNZWhaRng0bDRGOTAwU1hJV2REdHFwM1BBcmNuWkVrMDN5X0JNeDNLQ2wwRm00Y3k5VzM4NWxGMkswSFJB?oc=5",
+   "published_utc": "2026-11-11T03:37:12+00:00",
+   "title_original": "央行11月11日开展1870亿元隔夜逆回购 当日净回笼30亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4292b4237a9fb41e"
   },
   {
    "source_id": "tradingview_live",
@@ -51890,76 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8a1a196ed001b8a"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The won-dollar exchange rate fell to its lowest level in about two years, breaking its annual low.",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByVjVaTHhVbExqX1BvMWpsNkgyRERuNnlxY09mbG0wdjU0Y2ZnV3p2ekhpbTJWcTVzX3FGbGJ2dnBoWFMwZnNLeTlrdmpWN3M?oc=5",
-   "published_utc": "2026-10-16T08:03:11+00:00",
-   "title_original": "The won-dollar exchange rate fell to its lowest level in about two years, breaking its annual low.",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c9d0bed335e1047"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSnBNbEp5MEVxLVlZOU9VRXRIRE02UC12eG1YaHNlWXpnOG5ZSWdYMXZaSGpRSTQ4bFByUFdING56bFdNek53NUxMZjU1TmZMSHhVMmtJRngyZjBQeE5IdkxRTDVKajNHUmV0Vm5OX2c0TFVFak1jdndB?oc=5",
-   "published_utc": "2026-10-16T08:00:31+00:00",
-   "title_original": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5344c29af0470e2a"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korea, U.S. hold first 2+2 meeting of finance, monetary policymakers",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBodmZQcGdhdTcyMWsyVURwR2NVWnpDMXlYS09uRHFGVUJnel9hSG9TallnUWc5TWdEMG9uS1B3SzlrMktUNkQ4LWRxSWZaWlpYcW5FQXNxdjR2dw?oc=5",
-   "published_utc": "2026-10-16T08:00:02+00:00",
-   "title_original": "S. Korea, U.S. hold first 2+2 meeting of finance, monetary policymakers",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "789f03315b4be09f"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "BOJ Current Account Balances by Sector (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
-   "published_utc": "2026-10-16T08:00:00+00:00",
-   "title_original": "BOJ Current Account Balances by Sector (Sept.)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4fa0bf559afdc7a1"
   },
   {
    "source_id": "manual_ia",

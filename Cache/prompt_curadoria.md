@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T03:52:43.800032+00:00
+Última coleta: 2026-11-11T04:02:45.409509+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          911
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  859
+  🇯🇵 Japão          922
+  🇨🇳 China          912
+  🇹🇼 Taiwan         310
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
+  - [taiwan] Changs Ascending rides semiconductor expansion into AI data-center power
+  - [japan] Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low
   - [china] Yuan holds steady as PBOC eases guidance, dollar firms
+  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase on November 11, with a net withdrawa
   - [japan] Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen
   - [korea] South Korea Jobless Rate Reaches More Than Three-Year Low as Hiring Slows
   - [taiwan] TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Seoul shares turn higher after weak start amid inflation woes
   - [korea] Even mention of the US ‘big step’… Will the Bank of Korea raise interest rates despite ‘AI risk’? [Money]
   - [korea] (LEAD) Seoul shares turn higher after weak start amid inflation woes
-  - [korea] (LEAD) Exports more than double in 1st 10 days of Nov.
-  - [taiwan] TSMC plans investments in Anthropic, OpenAI; sets up investment firm to expand semiconductor strategy
-  - [korea] Seoul shares open lower on inflation woes
-  - [korea] South Korea November 1-10 exports surge 111.9% year/year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T03:52:44+00:00",
+      "published_utc": "2026-11-11T04:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
