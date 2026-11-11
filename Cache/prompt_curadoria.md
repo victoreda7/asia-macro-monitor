@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T07:42:42.571303+00:00
+Última coleta: 2026-11-11T07:52:43.662172+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          936
-  🇨🇳 China          895
+  🇯🇵 Japão          937
+  🇨🇳 China          894
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan Machine Tool Orders Rise 42.5%
+  - [japan] Nissan CFO Leondis - Our Liquidity Remains Solid With 2.2 Trillion Yen In Automotive Cash And Cash Equivalents
   - [japan] Eqt Raises Tender Offer Price For Shares Of Kakaku.Com To 3,700 Yen Per Share From 3,683 Yen, Filing Shows
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 124% Upside
   - [korea] Kolon Industries: Chemical drove YoY growth, but Q3 ended in a KRW 4.2bn net loss
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
   - [japan] Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low
   - [taiwan] Changs Ascending rides semiconductor expansion into AI data-center power
-  - [china] Yuan holds steady as PBOC eases guidance, dollar firms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T07:42:42+00:00",
+      "published_utc": "2026-11-11T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
