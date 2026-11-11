@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T09:52:42.787181+00:00",
- "collected_at_utc": "2026-11-11T09:52:42.787181+00:00",
+ "generated_at_utc": "2026-11-11T10:02:45.008064+00:00",
+ "collected_at_utc": "2026-11-11T10:02:45.008064+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
-  "china": 892,
+  "japan": 927,
+  "china": 894,
   "taiwan": 313,
   "korea": 866
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T03:59:56+00:00"
+   "newest": "2026-11-11T09:45:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T18:49:43+09:00"
+   "newest": "2026-11-11T18:51:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-11T09:11:32+00:00"
+   "newest": "2026-11-11T09:57:57+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T09:51:59+00:00"
+   "newest": "2026-11-11T10:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-11T07:40:49+00:00"
+   "newest": "2026-11-11T09:55:26+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China says offshore trust tax declarations top 160 billion yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46S0MD:0-china-says-offshore-trust-tax-declarations-top-160-billion-yuan/",
+   "published_utc": "2026-11-11T09:57:32+00:00",
+   "title_original": "China says offshore trust tax declarations top 160 billion yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "282dc205ed98d4d6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1565,23 +1582,6 @@
    "id": "16d33481a3f0209f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan futures gain for second session on tyre makers' dip-buying, weaker yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S041:0-japan-futures-gain-for-second-session-on-tyre-makers-dip-buying-weaker-yen/",
-   "published_utc": "2026-11-11T02:13:03+00:00",
-   "title_original": "Japan futures gain for second session on tyre makers' dip-buying, weaker yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4fc5c01c3cb63325"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation today",
@@ -1704,6 +1704,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9529a66bd06ff571"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机网易网",
+   "title_en": "The central bank conducts 187 billion yuan in overnight reverse repurchase operations today",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hellNQlNnMzBFUFBWQXlKSTVrT0dmRWMyalJvNmFPV1NIUGh2ZzdmcVFFUDEtTUJrdFpyeE13ZV9DYVRubGNZLXRPUmNZb2pSdW9FUEdUU3V3UGVWSFkxcG1B?oc=5",
+   "published_utc": "2026-11-11T01:27:06+00:00",
+   "title_original": "央行今日进行1870亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2a697cd522f0ab6c"
   },
   {
    "source_id": "investing_live",
@@ -7899,7 +7917,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "中华网",
    "title_en": "Why the central bank raised the foreign exchange deposit reserve ratio to stabilize the pace of appreciation",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TRHZVbXlIUE9FWFpYSkR4MXlSZDhkdF9uRV9qYzlKdkl3QUVlQlRWam54ZzR0dTVqZmdtMFZod3BZa3QzRDdhQ1VRbVFVaU1rTDZuMkc5eVNpbFZRQjZkRTlXWjZlVU5CWVpVYUtn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWlRsb3hNckZkYi1zRjQ0bzRrTEZWRnV1bGY4akc2c1hUS3UyNkYwSENCeXZIbkxremVTdHcwY3dVT3dvYnRTdy1iNU8tOVhyN1J1QWJXVmpBWEVhMl9uampSdktuU1hzN1NybE1kWlo?oc=5",
    "published_utc": "2026-11-07T15:03:37+00:00",
    "title_original": "央行为何上调外汇存款准备金率 稳住升值节奏",
    "region": "china",
@@ -7911,7 +7929,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "31deb96b1c3f037d"
+   "id": "48ff332367949760"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51928,24 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1336f7d1a8c06ead"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ's Ueda says inflation can't be allowed to rise further",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-s-ueda-says-inflation-can-t-be-allowed-to-rise-further",
-   "published_utc": "2026-10-16T13:52:42.942119+00:00",
-   "title_original": "BOJ's Ueda says inflation can't be allowed to rise further",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe270ab56efd8ea2"
   },
   {
    "source_id": "manual_ia",
