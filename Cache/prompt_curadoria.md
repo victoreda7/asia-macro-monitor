@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T01:32:44.379517+00:00
+Última coleta: 2026-11-11T01:42:44.371192+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          900
-  🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  863
+  🇯🇵 Japão          922
+  🇨🇳 China          904
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY187 BLN VIA O/N REVERSE REPO WEDS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167
+  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
+  - [china] On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.
   - [japan] "Neocloud" Core Weave's final deficit 6 times due to interest payment
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18
   - [japan] Japan MOF To Auction Y1.9T Of TD-Bills Nov 18
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8810.23, Implies 159% Upside
   - [china] NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China
   - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
-  - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
-  - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
-  - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
-  - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T01:32:44+00:00",
+      "published_utc": "2026-11-11T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

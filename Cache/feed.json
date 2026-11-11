@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T01:32:44.379517+00:00",
- "collected_at_utc": "2026-11-11T01:32:44.379517+00:00",
+ "generated_at_utc": "2026-11-11T01:42:44.371192+00:00",
+ "collected_at_utc": "2026-11-11T01:42:44.371192+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 923,
-  "china": 900,
-  "taiwan": 314,
-  "korea": 863
+  "japan": 922,
+  "china": 904,
+  "taiwan": 312,
+  "korea": 862
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:18:02+00:00"
+   "newest": "2026-11-10T01:18:02+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T10:31:38+09:00"
+   "newest": "2026-11-11T10:31:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "newest": "2026-11-10T04:27:02+00:00"
+   "newest": "2026-11-11T01:33:36+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T06:46:00+00:00"
+   "newest": "2026-11-10T19:31:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T01:31:59+00:00"
+   "newest": "2026-11-11T01:41:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,18 +337,88 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY187 BLN VIA O/N REVERSE REPO WEDS",
+   "url": "https://www.tradingview.com/news/dpa_afx:731ec75a3a9e0:0-china-pboc-conducts-cny187-bln-via-o-n-reverse-repo-weds/",
+   "published_utc": "2026-11-11T01:40:30+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY187 BLN VIA O/N REVERSE REPO WEDS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7e2579dc96c2c6f8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167",
+   "url": "https://www.tradingview.com/news/dpa_afx:826dbbd286e4b:0-china-sets-yuan-central-parity-at-6-7191-weds-vs-6-7167/",
+   "published_utc": "2026-11-11T01:34:24+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dfe37ac789cad742"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "资鲸",
+   "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVpIeEhIUnVsazROX2NvQV9LWVNWR2Z4ZmRrMGhaNGx3a2VIam1aSWw2VlpHUzR4dTVUQVhnLXVZejRrSHkxVEhuNkhYUEtIa1FIam5KZkszT3dMdGhMTHl6Nzh4ZVNWaHZ0eDN6UUctYzhTTGRiYXJMcDFWVXdzQ0psUWVJMXFjNmlVc0EtRGxjUQ?oc=5",
+   "published_utc": "2026-11-11T01:33:36+00:00",
+   "title_original": "央行今日开展1870亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6d556346206e59f3"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NTm5GWUcwTHpuYWdSeFItMXRTWnFHakxKWXZ0NGpqQWppY2lqeFh0RXJFY1dVVHdCLU5ncTA2VmNaUml3bVZWd3d5UExmR21NOGprdGZWMWRVNnhXemtRbVhPeXVfOVR1?oc=5",
+   "published_utc": "2026-11-11T01:32:42+00:00",
+   "title_original": "11月11日央行开展1870亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e976e4e23886d344"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "\"Neocloud\" Core Weave's final deficit 6 times due to interest payment",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73895",
-   "published_utc": "2026-11-11T01:31:38+00:00",
+   "published_utc": "2026-11-11T01:31:00+00:00",
    "title_original": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
    "region": "japan",
    "topics": [
@@ -51887,75 +51957,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5ed3d10817c389f2"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "912c3fdcf5b7083e"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Underlying inflation is approaching 2%: BOJ chief Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HZGxxUWNVTFF3TWpkSENnejdrOHV6YV8wSUhhU3JLM1BjWm9ESGxFVkg0NFIwTWNoMGlCR2dDcTdZbjFPV3lVcmNvNHJXSnNBdndDeWQyc3J3UQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Underlying inflation is approaching 2%: BOJ chief Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5133e1246a3a5098"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea warns of 200-times leveraged bets on Samsung, SK Hynix",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qMGhpNnZ6eFd3YnZFYjY2Y0RuSlBlNHp0aDV6QUR3YmdUbktGbW1tbm0zTE4zdGcwMHZZc0UzbW1fTUxKUEpRVDlPTFdUM2ZWRDBiM25wNmpMOW1uU0VQaTdHckMtUWpV?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "South Korea warns of 200-times leveraged bets on Samsung, SK Hynix",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cef8e592af69bb04"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC details pricing, confirms agentic AI boosts CPU demand",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGdnRGx2eEd5LWVuc1hEMmxIemQ4Z255OHpGUXBRcXZJX09LeGhyNjVSUGRsZDZpZEpYNUl3c2V5Wml0UFpVQkJCRmpaWFBIbC1Da1RTek5vckd5cGtwNkxLQTF3N3ZRZnZCMmFjTGpYQTdWVWVTMFJYSGktU21IcmZQSnZjanhvc1k2NDF3?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC details pricing, confirms agentic AI boosts CPU demand",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07d3cbedfebbd34a"
   },
   {
    "source_id": "manual_ia",
