@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T22:22:44.073476+00:00
+Última coleta: 2026-11-11T22:32:45.269540+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
   - [korea] NC: Three growth pillars lifted Q3 results and underpin 2027 revenue guidance of KRW 3.2t–3.4t
   - [japan] Consumption tax reduction bill begins deliberation in the House of Councilors and will be questioned by a spec
   - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China says offshore trust tax declarations top 160 billion yuan
   - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
   - [korea] Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?
-  - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T22:22:44+00:00",
+      "published_utc": "2026-11-11T22:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
