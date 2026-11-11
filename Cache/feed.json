@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T11:32:45.896152+00:00",
- "collected_at_utc": "2026-11-11T11:32:45.896152+00:00",
+ "generated_at_utc": "2026-11-11T11:42:42.305585+00:00",
+ "collected_at_utc": "2026-11-11T11:42:42.305585+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 930,
+  "japan": 931,
   "china": 891,
-  "taiwan": 312,
+  "taiwan": 311,
   "korea": 867
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T11:04:44+00:00"
+   "newest": "2026-11-11T11:36:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T10:49:03+00:00"
+   "newest": "2026-11-11T11:30:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T11:04:36+00:00"
+   "newest": "2026-11-11T11:25:47+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:45:35+00:00"
+   "newest": "2026-11-11T06:23:42+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T11:31:53+00:00"
+   "newest": "2026-11-11T11:41:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,20 +345,37 @@
  "items": [
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank vows to step up policy support for the economy",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46S0NS:0-china-s-central-bank-vows-to-step-up-policy-support-for-the-economy/",
-   "published_utc": "2026-11-11T11:23:43+00:00",
-   "title_original": "China's central bank vows to step up policy support for the economy",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261111003342:0-yen-slumps-as-fed-rate-hike-bets-boost-dollar-update/",
+   "published_utc": "2026-11-11T11:37:00+00:00",
+   "title_original": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar — Update",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ce7f5b8a745ca809"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s central bank vows to step up policy support for the economy",
+   "url": "https://www.investing.com/news/economy-news/chinas-central-bank-vows-to-step-up-policy-support-for-the-economy-5018404",
+   "published_utc": "2026-11-11T11:30:37+00:00",
+   "title_original": "China’s central bank vows to step up policy support for the economy",
    "region": "china",
    "topics": [
     "monetary"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "259c7ae07f970c10"
+   "id": "97f7cc505803c6f8"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51928,23 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b508865aed53332"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Economic growth to be highest in 39 years: CIER",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkcy1qbkwwdmVRVWVwYmkxNnhEVzdLMGNhSVkyU1FsYUExWjkxZHpJcU5fNE13c1pLZVFWelBVQ0tDQUJidjZhdnNLMVM3bWxfcGEtMnJLdkZuaUZ1V1hBMFJrQlloM1JZbVNXVFIxZnlVT0RJdTRaOA?oc=5",
-   "published_utc": "2026-10-16T16:00:00+00:00",
-   "title_original": "Economic growth to be highest in 39 years: CIER",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "90c2448bd43cacb0"
   },
   {
    "source_id": "manual_ia",

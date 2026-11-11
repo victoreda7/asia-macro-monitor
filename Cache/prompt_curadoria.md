@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T11:32:45.896152+00:00
+Última coleta: 2026-11-11T11:42:42.305585+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
+  🇯🇵 Japão          931
   🇨🇳 China          891
-  🇹🇼 Taiwan         312
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
-  - [china] China's central bank vows to step up policy support for the economy
+  - [japan] Yen Slumps as Fed Rate-Hike Bets Boost Dollar — Update
+  - [china] China’s central bank vows to step up policy support for the economy
   - [japan] Food Tax Cut Bill Faces Upper House Debate
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter
   - [japan] Who will bear the costs of national universities and when? Things to consider when reviewing national universi
   - [taiwan] AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances
-  - [korea] Fed's 'big step' emerges due to US price shock... The Bank of Korea's interest rate calculation method has bec
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T11:32:46+00:00",
+      "published_utc": "2026-11-11T11:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
