@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T15:22:43.973428+00:00",
- "collected_at_utc": "2026-11-11T15:22:43.973428+00:00",
+ "generated_at_utc": "2026-11-11T15:33:05.542749+00:00",
+ "collected_at_utc": "2026-11-11T15:33:05.542749+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 931,
-  "china": 890,
+  "japan": 930,
+  "china": 891,
   "taiwan": 312,
   "korea": 867
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T15:21:03+00:00"
+   "newest": "2026-11-11T15:32:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T15:13:30+00:00"
+   "newest": "2026-11-11T15:20:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's central bank vows to step up counter-cyclical adjustment, boost domestic demand",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbFNuVVdEWUdqSEdxa2ZRSWQtU2p6NDUwTURnVnFVbnRtaUpVY0xtaUd5UjY4SE5yRVlMeFN4dlNuT1JQcjltSFBJY3NyQkRreDM3aWtEaXpoU1J1dFQ0bnFiU1MyY2RiN2R2bGRuY19lN0tKa1I2UGthaHo?oc=5",
+   "published_utc": "2026-11-11T15:20:15+00:00",
+   "title_original": "China's central bank vows to step up counter-cyclical adjustment, boost domestic demand",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a6a42d903da2b0df"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -413,8 +430,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -428,7 +445,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -619,8 +636,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -634,7 +651,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51925,24 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ac7c016df26c92a"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60762",
-   "published_utc": "2026-10-16T20:05:00+00:00",
-   "title_original": "消費減税 農家などに売り上げ5％程度の給付金検討",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0f7faaf2c377a92"
   },
   {
    "source_id": "manual_ia",
