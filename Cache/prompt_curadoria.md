@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T14:02:45.178222+00:00
+Última coleta: 2026-11-11T14:14:06.929342+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -33,6 +33,7 @@ Total: 3000 manchetes
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
   - [japan] Yen Could Turn Stronger Over Medium Term — Market Talk
+  - [japan] Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
   - [japan] [Strategic way to buy government bonds, a powerful asset in an era of interest rates] No loss of principal! Th
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Machine Tool Orders Rise 42.5%
   - [japan] Nissan CFO Leondis - Our Liquidity Remains Solid With 2.2 Trillion Yen In Automotive Cash And Cash Equivalents
   - [taiwan] Finance minister supports doubling stabilization fund
-  - [japan] Eqt Raises Tender Offer Price For Shares Of Kakaku.Com To 3,700 Yen Per Share From 3,683 Yen, Filing Shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T14:02:45+00:00",
+      "published_utc": "2026-11-11T14:14:07+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
