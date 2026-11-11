@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T05:02:43.391032+00:00",
- "collected_at_utc": "2026-11-11T05:02:43.391032+00:00",
+ "generated_at_utc": "2026-11-11T05:12:43.462174+00:00",
+ "collected_at_utc": "2026-11-11T05:12:43.462174+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 925,
-  "china": 907,
-  "taiwan": 310,
+  "china": 906,
+  "taiwan": 311,
   "korea": 858
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T03:50:03+00:00"
+   "newest": "2026-11-11T04:31:58+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T04:33:14+00:00"
+   "newest": "2026-11-11T05:01:27+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T03:21:34+00:00"
+   "newest": "2026-11-11T05:00:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-11T00:49:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T05:01:58+00:00"
+   "newest": "2026-11-11T05:11:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Slumps to Over One-Month Low on Fed Hike Bets",
+   "url": "https://www.tradingview.com/news/DJN_DN20261111000054:0-yen-slumps-to-over-one-month-low-on-fed-hike-bets/",
+   "published_utc": "2026-11-11T05:06:00+00:00",
+   "title_original": "Yen Slumps to Over One-Month Low on Fed Hike Bets",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ad715792043046a1"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46R2FO:0-bml-inc-to-buy-back-up-to-4-of-shares-worth-5-billion-yen/",
@@ -396,20 +413,20 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yen Slumps to Over One-Month Low on Fed Hike Bets",
-   "url": "https://www.tradingview.com/news/DJN_DN20261110014003:0-yen-slumps-to-over-one-month-low-on-fed-hike-bets/",
-   "published_utc": "2026-11-11T04:51:00+00:00",
-   "title_original": "Yen Slumps to Over One-Month Low on Fed Hike Bets",
-   "region": "japan",
+   "source_name": "Benzinga",
+   "title_en": "TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI",
+   "url": "https://www.tradingview.com/news/benzinga:56deeb2ae094b:0-tsmc-stock-is-trending-after-hours-as-chipmaker-plans-up-to-1-billion-bet-on-anthropic-openai/",
+   "published_utc": "2026-11-11T04:01:42+00:00",
+   "title_original": "TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI",
+   "region": "taiwan",
    "topics": [
-    "fx"
+    "industrial"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "531f1907c7bb0e7f"
+   "id": "aeb979f2806c6d71"
   },
   {
    "source_id": "tradingview_live",
@@ -51943,23 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7f0a869c1428a831"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Developing | China mulls new tech export bans covering AI, biotech and solar power",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5",
-   "published_utc": "2026-10-16T08:31:39+00:00",
-   "title_original": "Developing | China mulls new tech export bans covering AI, biotech and solar power",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "241ed7a68b38af29"
   },
   {
    "source_id": "manual_ia",
