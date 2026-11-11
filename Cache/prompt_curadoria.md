@@ -7,20 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T06:02:42.837363+00:00
+Última coleta: 2026-11-11T06:12:42.741000+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
+  🇯🇵 Japão          926
   🇨🇳 China          905
-  🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  858
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  855
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nippon Thompson Co Ltd - To Buy Back Up To 1.3% Of Own Shares Worth 1.1 Billion Yen
+  - [japan] Nagoya Railroad Co., Ltd. - To Buy Back Up To 3.06% Of Shares Worth 10 Billion Yen
+  - [japan] Sapporo Breweries Ltd. Says It Will Buy Back Up To 1.8% Of Own Shares Worth 10 Billion Yen
+  - [china] China PLA-linked university bought Nvidia H200 chips despite U.S. curbs - Reuters
+  - [taiwan] Why is TSMC stock rallying today?
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [taiwan] TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI
   - [japan] Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen
   - [korea] Google's AI chip expansion opens new doors for Samsung, SK hynix
+  - [china] EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
   - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
   - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167
   - [china] On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation with an interest rate of 1
-  - [japan] "Neocloud" Core Weave's final deficit 6 times due to interest payment
-  - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18
-  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation on November 11
-  - [japan] Japan MOF To Auction Y1.9T Of TD-Bills Nov 18
-  - [china] US lawmakers push China chip rules after Nvidia CEO allegations
-  - [china] HEADS UP: US TSY'S BESSENT ABOUT TO SPEAK AT THE NATIONAL COMMITTEE ON US-CHINA RELATIONS GALA DINNER
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T06:02:43+00:00",
+      "published_utc": "2026-11-11T06:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
