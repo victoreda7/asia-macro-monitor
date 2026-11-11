@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T05:32:42.605346+00:00
+Última coleta: 2026-11-11T05:42:43.400466+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          906
-  🇹🇼 Taiwan         311
+  🇯🇵 Japão          924
+  🇨🇳 China          905
+  🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI
+  - [japan] Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen
   - [korea] Google's AI chip expansion opens new doors for Samsung, SK hynix
   - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
   - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
   - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
+  - [taiwan] TSMC to invest in Anthropic, OpenAI, raise quarterly dividend
   - [japan] Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue
   - [taiwan] TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI
   - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y1.9T Of TD-Bills Nov 18
   - [china] US lawmakers push China chip rules after Nvidia CEO allegations
   - [china] HEADS UP: US TSY'S BESSENT ABOUT TO SPEAK AT THE NATIONAL COMMITTEE ON US-CHINA RELATIONS GALA DINNER
-  - [korea] Revised regional currency swap arrangement takes effect
-  - [korea] South Korean shares slip as US inflation data boosts rate-hike bets
-  - [japan] From AKB to the Bank of Japan, on-site financial classes are spreading, one step at a time to prevent fraud (A
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T05:32:42+00:00",
+      "published_utc": "2026-11-11T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

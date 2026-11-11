@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T05:32:42.605346+00:00",
- "collected_at_utc": "2026-11-11T05:32:42.605346+00:00",
+ "generated_at_utc": "2026-11-11T05:42:43.400466+00:00",
+ "collected_at_utc": "2026-11-11T05:42:43.400466+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 925,
-  "china": 906,
-  "taiwan": 311,
+  "japan": 924,
+  "china": 905,
+  "taiwan": 313,
   "korea": 858
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 48,
+   "count": 49,
    "error": "",
-   "newest": "2026-11-11T12:02:47+08:00"
+   "newest": "2026-11-11T12:52:50+08:00"
   },
   {
    "source_id": "investing_live",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-11T05:24:11+00:00"
+   "newest": "2026-11-11T05:38:33+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-11T00:49:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T05:19:54+00:00"
+   "newest": "2026-11-11T05:41:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
+   "url": "https://www.tradingview.com/news/DJN_DN20261111000108:0-tsmc-approves-up-to-1-billion-investment-plan-in-anthropic-openai/",
+   "published_utc": "2026-11-11T05:38:00+00:00",
+   "title_original": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "de2478822c488b54"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46R2DD:0-sumitomo-osaka-cement-co-ltd-to-buy-back-up-to-3-68-of-shares-worth-5-billion-yen/",
+   "published_utc": "2026-11-11T05:31:00+00:00",
+   "title_original": "Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2c6bcd989706fbd7"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -410,6 +445,23 @@
    "live_wire": false,
    "manual": false,
    "id": "80b987e549655f2e"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "TSMC to invest in Anthropic, OpenAI, raise quarterly dividend",
+   "url": "https://focustaiwan.tw/business/202611110009",
+   "published_utc": "2026-11-11T04:52:50+00:00",
+   "title_original": "TSMC to invest in Anthropic, OpenAI, raise quarterly dividend",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7434e6e484297ac6"
   },
   {
    "source_id": "nikkei_asia",
@@ -51905,60 +51957,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3f861cf0645e2a0f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Proposes Export Controls on AI Models, Chips and Agents",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ?oc=5",
-   "published_utc": "2026-10-16T08:46:44+00:00",
-   "title_original": "China Proposes Export Controls on AI Models, Chips and Agents",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3cd878d6022164ed"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party of Japan Committee Chairman meeting",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60357",
-   "published_utc": "2026-10-16T08:45:27+00:00",
-   "title_original": "消費税減税法案 20日審議入り合意 自民・民改国対委員長会談",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f080d03628efbe99"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Global inflation debate puts BOJ rate-hike pace in spotlight",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW5LS2JnMk04Z3BqMmlWRi1ia2NxUXJaR21PSnY1d080cXkxMTNjS3N1QmhHXzQwc3B6Y01mc0ZfX1lkRGZ4Sl9rVkVzc3NkTGlzb0FDb2lxRDJDZFgyWmRNdl9jT2pVMnZmRi1QUUlvN1Uybl9salRydEw0U0R1RE52T1RicVBTMTNJSHBzRVc4bG1FaTk0NGJwcmNvSlAtWkYzSnFKaTZOZG44aDdNWVJR?oc=5",
-   "published_utc": "2026-10-16T08:44:23+00:00",
-   "title_original": "Global inflation debate puts BOJ rate-hike pace in spotlight",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43cf9fda93d11f53"
   },
   {
    "source_id": "manual_ia",
