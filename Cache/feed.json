@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T02:42:44.499844+00:00",
- "collected_at_utc": "2026-11-11T02:42:44.499844+00:00",
+ "generated_at_utc": "2026-11-11T02:52:45.877116+00:00",
+ "collected_at_utc": "2026-11-11T02:52:45.877116+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 920,
+  "japan": 921,
   "china": 909,
-  "taiwan": 310,
+  "taiwan": 309,
   "korea": 861
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 32.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 44,
    "error": "",
-   "newest": "2026-11-11T09:07:30+08:00"
+   "newest": "2026-11-11T10:42:37+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T02:16:08+00:00"
+   "newest": "2026-11-11T02:31:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T02:06:19+00:00"
+   "newest": "2026-11-11T02:25:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-11T02:34:53+00:00"
+   "newest": "2026-11-11T02:45:34+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T08:08:00+09:00"
+   "newest": "2026-11-11T11:47:17+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T20:21:43+00:00"
+   "newest": "2026-11-10T19:31:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T02:41:46+00:00"
+   "newest": "2026-11-11T02:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T18:35:01+00:00"
+   "newest": "2026-11-11T00:30:17+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T02:00:00+00:00"
+   "newest": "2026-11-11T02:34:30+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,12 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-11T00:28:50+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money for more than 30% of working people”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261111de73947",
+   "published_utc": "2026-11-11T02:47:17+00:00",
+   "title_original": "消費税減税法案が参院に 高市首相“支援金 勤労者の3割以上”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb33db098a936813"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan expects continued appropriate policy management to achieve sustainable and stable 2% target - Prime Minister Takaichi (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uSW84cV84MXR5bWVDQlh0YVVaREpKV0xCclJxQWd0QXdlbUxFUFpqY190bmxhS09VQVFBYWw4aDc5dzcxdXJ0bzFObEcwbEx0a21EeEJKMlJyNHR0ZmRPZS1qS2lXLWRnQ2VNVHQ4a0FzRkRtdW9zeEc5ZVZSTHc?oc=5",
+   "published_utc": "2026-11-11T02:34:30+00:00",
+   "title_original": "日銀、2％目標の持続的・安定的実現へ適切な政策運営引き続き期待＝高市首相（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "676f40f64c8d4624"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -2574,6 +2609,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0556cadeb688f57a"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Why is Vietnam’s To Lam in Japan? AI, chips and nuclear power",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ19Jb2V0R3BqWDZvSjFNeEx1UURzSG9zTDNHUF81NUV5ZUVyT2dEVkYteV9jbDlWWmowR1lpenk0NS1EeTJuZlNkSThhdkpmOE9EUGJiUm5hQlBCYWpwQzJIMlQ4N1JMSGpHQm9jWTVQSEpTZ3FRZWNLS2l6NXF3aHhRUnlHbVhYU1ZOQW8zWEhDcFRiWGx1SmZnbWt6RUlrNjNJQW9iMlLSAagBQVVfeXFMTjJTVF82dV9ZRXdxcHhhelE1eTAySnN2bUlIbW5LMWlNTlMtd2tvVW5sVHhBYUtSLUk0SmdpemdhbVdSV0xURWJPSDZ4N1hZRzd5NTA0TkxWclozc2RsTkxXZkxDR3JESnByZWtBbjNtLUhNZW9vWkc3U1hqRFJoX0lnN3prWU9NSERPT2Z3Q0g3c1FvSlF5T2xCR2ViQ0drdUhGcUVtYm5h?oc=5",
+   "published_utc": "2026-11-10T04:12:23+00:00",
+   "title_original": "Why is Vietnam’s To Lam in Japan? AI, chips and nuclear power",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "00eb35906ab786d9"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51908,59 +51960,6 @@
    "live_wire": true,
    "manual": false,
    "id": "552bccb6e6a4aa3d"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Policy to continue raising interest rates, financial environment is accommodative as underlying inflation approaches 2% - Bank of Japan Governor Ueda (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8taC1ZZFZ5M2lsNmpDWTNyMnd4Z2o0dk82SndNdXVQTW1Way1JSF9CVFZEcVB2dS11R2lmTlVYeENlekdQUFdtUGQ4Q3RsXzJpQjRhNzVRVm1JYmRtaEltbHo0S0xJc3lkbG9KSUlOYjNBcGJqR2RldWFXZldGeVk?oc=5",
-   "published_utc": "2026-10-16T07:12:02+00:00",
-   "title_original": "利上げ継続方針、基調物価2％に近づく中で金融環境は緩和的＝植田日銀総裁（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8c187e913c151ef"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan data broadly in line with BOJ outlook since Sept. policy meet: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yZmtXUDlBcE8wQjN4VWhIUUhmcmJ6ZWJtZWw0MzAzZnVBY1NkcmNPRkxhaElPeWM1bXBtV1cyeldwTVFXT2oxYzNEQ29QemduRHRzSmNaQ2UwQQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan data broadly in line with BOJ outlook since Sept. policy meet: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "893c04f0fc4e799b"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1pQNHlrcTZBMUQ5RjMwVmt0azM4WUFkdl8zTTNaRzczZVpDQmxfd24xNVZGYkt0SGJZVy1jQlhhOWF1X21qSmxFaGN2MlZUX2NtaFA0aUU1dVFMLXdnVm5QU1BpNFN1bVlGWEZSRzhMeWdVQjY1TWEyRHV6NWgxb1ZDcXc2X0ZILURuQmVGVlc3SktSZE9wcnNLOXc?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ad73edafe7c29df5"
   },
   {
    "source_id": "manual_ia",
