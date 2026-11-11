@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T00:22:42.415243+00:00
+Última coleta: 2026-11-11T00:32:46.708012+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
+  🇯🇵 Japão          921
   🇨🇳 China          897
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  861
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [korea] Even mention of the US ‘big step’… Will the Bank of Korea raise interest rates despite ‘AI risk’? [Money]
+  - [korea] (LEAD) Seoul shares turn higher after weak start amid inflation woes
+  - [korea] (LEAD) Exports more than double in 1st 10 days of Nov.
   - [korea] Seoul shares open lower on inflation woes
   - [korea] South Korea November 1-10 exports surge 111.9% year/year
   - [korea] S. Korea to extend fuel tax cuts through Jan. to ease price burdens
@@ -24,6 +27,7 @@ Total: 3000 manchetes
   - [taiwan] LWLG: Foxconn system demo advances polymer optics; foundry delays move volume production to 2028
   - [japan] Considering registration system for business employing people with disabilities
   - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
+  - [china] US lawmakers push China chip rules after Nvidia CEO allegations
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 155% Upside
   - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
   - [korea] Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China's crude oil imports recover, fuel exports not so much: Russell
   - [japan] Honda upwardly revised its earnings forecast for this fiscal year due to weaker yen and increased sales of HVs
   - [taiwan] TSMC Board Approves Investment of Up to $500 Million in Each of Anthropic and OpenAI
-  - [china] Puya Semiconductor (Shanghai) Plans To Seek Hong Kong Listing
-  - [china] How does China get Nvidia chips despite restrictions?
-  - [taiwan] Anthropic Private Placement With Google, Advanced Micro Devices, Broadcom, Micron Tech, Microsoft, Nvidia, TSM
-  - [china] Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T00:22:42+00:00",
+      "published_utc": "2026-11-11T00:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
