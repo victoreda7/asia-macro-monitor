@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T21:52:43.953019+00:00
+Última coleta: 2026-11-11T22:02:44.046774+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          930
   🇨🇳 China          893
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [korea] NC: Three growth pillars lifted Q3 results and underpin 2027 revenue guidance of KRW 3.2t–3.4t
   - [japan] Consumption tax reduction bill begins deliberation in the House of Councilors and will be questioned by a spec
   - [japan] Worst ranking of credit unions and credit unions in terms of net profit...While they continue to post deficits
   - [japan] Risks posed by Russia's takeover of JT: "Are foreign assets safe?"... Huge foreign net worth = yen appreciatio
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?
   - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
   - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
-  - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T21:52:44+00:00",
+      "published_utc": "2026-11-11T22:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
