@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T07:32:45.321492+00:00",
- "collected_at_utc": "2026-11-11T07:32:45.321492+00:00",
+ "generated_at_utc": "2026-11-11T07:42:42.571303+00:00",
+ "collected_at_utc": "2026-11-11T07:42:42.571303+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 935,
+  "japan": 936,
   "china": 895,
   "taiwan": 312,
-  "korea": 858
+  "korea": 857
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T02:24:50+00:00"
+   "newest": "2026-11-09T21:24:50+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T16:26:08+09:00"
+   "newest": "2026-11-11T16:39:08+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T07:32:04+00:00"
+   "newest": "2026-11-11T07:41:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T06:36:03+00:00"
+   "newest": "2026-11-11T06:30:55+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-11T16:15:00+09:00"
+   "newest": "2026-11-11T16:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T06:43:02+00:00"
+   "newest": "2026-11-11T07:33:58+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Machine Tool Orders Rise 42.5%",
+   "url": "https://www.tradingview.com/news/dpa_afx:ffacb12225348:0-japan-machine-tool-orders-rise-42-5/",
+   "published_utc": "2026-11-11T07:41:21+00:00",
+   "title_original": "Japan Machine Tool Orders Rise 42.5%",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "61a31dc8e8bee378"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1460,23 +1477,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43bbd84f41485d75"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean shares slip as US inflation data boosts rate-hike bets",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46S010:0-south-korean-shares-slip-as-us-inflation-data-boosts-rate-hike-bets/",
-   "published_utc": "2026-11-11T01:09:34+00:00",
-   "title_original": "South Korean shares slip as US inflation data boosts rate-hike bets",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5165444596a18a62"
   },
   {
    "source_id": "gn_jp_yahoo",
