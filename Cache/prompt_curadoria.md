@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T20:02:43.175454+00:00
+Última coleta: 2026-11-11T20:12:42.095847+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
-  🇨🇳 China          891
-  🇹🇼 Taiwan         311
+  🇨🇳 China          892
+  🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [china] US container imports set all-time volume record in October as Chinese imports spike, Descartes says
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 373.44, Implies 32% Upside
   - [korea] SK hynix Stocks Climb 5.36% as Foreign Investors Pile Back Into AI Memory
   - [korea] NC: Three growth pillars lifted Q3 operating profit and 2026 revenue expectations to ~KRW 2.8T
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
   - [japan] Japan automakers post strong sales on weaker yen
   - [japan] Prime Minister Takaichi held the 16th Economic and Fiscal Council Meeting in 2026
-  - [korea] [Table] Foreign Exchange Rate Notice Table
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T20:02:43+00:00",
+      "published_utc": "2026-11-11T20:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T20:02:43.175454+00:00",
- "collected_at_utc": "2026-11-11T20:02:43.175454+00:00",
+ "generated_at_utc": "2026-11-11T20:12:42.095847+00:00",
+ "collected_at_utc": "2026-11-11T20:12:42.095847+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 930,
-  "china": 891,
-  "taiwan": 311,
+  "china": 892,
+  "taiwan": 310,
   "korea": 868
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T19:43:40+00:00"
+   "newest": "2026-11-11T20:01:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T19:12:43+00:00"
+   "newest": "2026-11-11T19:48:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T19:52:06+00:00"
+   "newest": "2026-11-11T20:11:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T15:52:09+00:00"
+   "newest": "2026-11-11T20:08:07+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-12T04:30:00+09:00"
+   "newest": "2026-11-12T05:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "US container imports set all-time volume record in October as Chinese imports spike, Descartes says",
+   "url": "https://www.investing.com/news/economic-indicators/us-container-imports-set-alltime-volume-record-in-october-as-chinese-imports-spike-descartes-says-5019778",
+   "published_utc": "2026-11-11T20:00:43+00:00",
+   "title_original": "US container imports set all-time volume record in October as Chinese imports spike, Descartes says",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0adaefa6b88aecc1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -532,8 +549,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -547,7 +564,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -738,8 +755,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -753,7 +770,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51922,23 +51939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab1dee809400092c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Zacks",
-   "title_en": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
-   "url": "https://www.tradingview.com/news/zacks:bdeff9e3d094b:0-taiwan-semiconductor-posts-record-q3-results-time-to-buy-the-dip/",
-   "published_utc": "2026-10-16T22:36:00+00:00",
-   "title_original": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0f247b2229149a66"
   },
   {
    "source_id": "manual_ia",
