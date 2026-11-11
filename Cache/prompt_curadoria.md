@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T07:05:21.949036+00:00
+Última coleta: 2026-11-11T07:12:43.714681+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          900
+  🇯🇵 Japão          933
+  🇨🇳 China          896
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  856
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [japan] BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter
+  - [japan] Who will bear the costs of national universities and when? Things to consider when reviewing national universi
+  - [taiwan] AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances
+  - [korea] The Busan Metropolitan Office of Education will focus next year's budget on future artificial intell..
+  - [taiwan] TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] Persol Holdings Co Ltd - To Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
   - [japan] BREAKING NEWS: Nissan posts 39.71 bil. yen net loss in April-Sept.
@@ -41,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue
   - [taiwan] TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI
   - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
+  - [japan] Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low
   - [taiwan] Changs Ascending rides semiconductor expansion into AI data-center power
   - [china] Yuan holds steady as PBOC eases guidance, dollar firms
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase on November 11, with a net withdrawa
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei average stock price rise Movement to buy back AI and semiconductor related stocks
   - [japan] Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen
   - [korea] Household loans again rise in Oct. to record high despite tightened rules, higher rates
-  - [japan] Macroscope: High city fiscal policy shows no signs of change even after the US mid-term elections, with stakeh
-  - [japan] Bank of Japan expects continued appropriate policy management to achieve sustainable and stable 2% target - Pr
-  - [korea] “Could I also get an 800 million won performance bonus?” ... SK hynix hires production workers with no educati
-  - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
-  - [japan] Japan futures gain for second session on tyre makers' dip-buying, weaker yen
-  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T07:05:22+00:00",
+      "published_utc": "2026-11-11T07:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
