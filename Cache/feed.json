@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T11:22:44.481903+00:00",
- "collected_at_utc": "2026-11-11T11:22:44.481903+00:00",
+ "generated_at_utc": "2026-11-11T11:32:45.896152+00:00",
+ "collected_at_utc": "2026-11-11T11:32:45.896152+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 929,
+  "japan": 930,
   "china": 891,
-  "taiwan": 313,
+  "taiwan": 312,
   "korea": 867
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T10:31:25+00:00"
+   "newest": "2026-11-11T11:26:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T08:33:40+00:00"
+   "newest": "2026-11-11T11:18:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T20:07:04+09:00"
+   "newest": "2026-11-11T20:27:58+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T11:22:00+00:00"
+   "newest": "2026-11-11T11:31:53+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's central bank vows to step up policy support for the economy",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46S0NS:0-china-s-central-bank-vows-to-step-up-policy-support-for-the-economy/",
+   "published_utc": "2026-11-11T11:23:43+00:00",
+   "title_original": "China's central bank vows to step up policy support for the economy",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "259c7ae07f970c10"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Food Tax Cut Bill Faces Upper House Debate",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iNUVYMExRSWFsR2xtc2FsZE9WX183OGN2YkNkbi1ZR2pPSFBsbmh0Unl2d1FoMTN5UW9iMDlvRXRSZ21WZDYzWlZGaVo5RVE0ZHMwMHpVNjFVVF9leWJaY0VZYw?oc=5",
+   "published_utc": "2026-11-11T11:18:41+00:00",
+   "title_original": "Food Tax Cut Bill Faces Upper House Debate",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c64e16a2bad937a2"
+  },
+  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Citi sees yen strengthening risk if Japanese stocks correct further",
@@ -361,8 +395,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -376,7 +410,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -429,23 +463,6 @@
    "live_wire": true,
    "manual": false,
    "id": "626ce0a37f115af7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank vows to step up policy support for the economy",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46108I:0-china-s-central-bank-vows-to-step-up-policy-support-for-the-economy/",
-   "published_utc": "2026-11-11T10:07:48+00:00",
-   "title_original": "China's central bank vows to step up policy support for the economy",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f4402e9b1b0208c1"
   },
   {
    "source_id": "toyo_keizai",
@@ -51928,23 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "90c2448bd43cacb0"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Legislature passes NHI senior subsidies",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyaDFjTEl3QTJRY2tyYnNJYzd2NTZDMlQ2NEh1SWpwa0E2aXFGTlRlTU96VWhCTVVvNHlMY0Fua3lSQUN3Zno2QTFjaGFvQjY1VktXQXhZN3NIcllCWWtrcnJSOXJJNnZ1QU0tX3Z3aHJKNzBvUzZVSQ?oc=5",
-   "published_utc": "2026-10-16T16:00:00+00:00",
-   "title_original": "Legislature passes NHI senior subsidies",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6088e2121053eaea"
   },
   {
    "source_id": "manual_ia",
