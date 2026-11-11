@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T23:42:49.368234+00:00
+Última coleta: 2026-11-11T23:52:42.753944+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Corporate Goods Price Index (Oct.)
   - [japan] Japan Producer Price Data Due On Thursday
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
   - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
   - [japan] [Strategic way to buy government bonds, a powerful asset in an era of interest rates] No loss of principal! Th
   - [china] China says offshore trust tax declarations top 160 billion yuan
-  - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T23:42:49+00:00",
+      "published_utc": "2026-11-11T23:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

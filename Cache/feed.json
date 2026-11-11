@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-11T23:42:49.368234+00:00",
- "collected_at_utc": "2026-11-11T23:42:49.368234+00:00",
+ "generated_at_utc": "2026-11-11T23:52:42.753944+00:00",
+ "collected_at_utc": "2026-11-11T23:52:42.753944+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,15 +11,15 @@
   "taiwan": 309,
   "korea": 867
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 46,
+   "count": 48,
    "error": "",
-   "newest": "2026-11-11T08:50:00+09:00"
+   "newest": "2026-11-12T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T23:03:16+00:00"
+   "newest": "2026-11-11T14:31:09+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T23:24:56+00:00"
+   "newest": "2026-11-11T23:42:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T07:54:03+09:00"
+   "newest": "2026-11-12T08:50:30+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Corporate Goods Price Index (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2610.pdf",
+   "published_utc": "2026-11-11T23:50:00+00:00",
+   "title_original": "Corporate Goods Price Index (Oct.)",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "727f16863a398e46"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -687,8 +704,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -702,7 +719,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -893,8 +910,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -908,7 +925,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -2479,7 +2496,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China EV Makers See Yuan Rally Erode Profit as Exports Grow",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMUg2eVlBejlTdDFOSnlyalh6NUl4N05NcktQZkVNZUphY2pneDNmRUJabTFrQV9ZbWhpdnJWR0lONlZTc0pWY1BtakhZMWNDblhiSDRoLS1LRUczTDdYaEd3WUdsNGl6ZG9UcXMzeE5ZcWd5c285alFZNTVjc2VySmx4bFVMNHcwZUIwWUJ0ci0yLUxKQ3BDdFZrQ0Y5ZlBDNkNtY1UxUjRLVFg1OWpn?oc=5",
    "published_utc": "2026-11-10T22:00:00+00:00",
@@ -5250,7 +5267,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkhFZDd5R1ZESDNFUk9CTXFrMzlFRktiR1JsWmdfTWlyd1lhbTh0TFRqbF9IWm9QaWloUlJSOUh5MVVXR0dpLVg2R2I0MDM3ZXlGdjVsdUNNYW9la2pEOEtEU3dfOF8wX2g3aGVCQ01uc0EzYW16T3dKN0dPNmRkd3pVdjJaMGRvYU11RV9tUlE5MTFHYVp4SXV5RDJyVkhCbHhNRjhPRkpUZHYtaWtVR1JpSQ?oc=5",
    "published_utc": "2026-11-09T21:00:00+00:00",
@@ -6057,7 +6074,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Extends Pause on US Tariffs and Trade Curbs for Two Months",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
    "published_utc": "2026-11-09T08:52:55+00:00",
@@ -7668,7 +7685,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Watch Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzV0ZDlKMmFieW1JajFTSkJhU0pjUlNEbUdEbU1lVm9HNHM0YzdFYy1nay1lb0E4TDlhZnRORndGOUtqUkNGRzRFT2d3QThSemsyWDg1a3g5ZklOLVhZNzZveDd4S2lwNlQ0aF9VSzktTXd4SENYeXNGMGZKaXB5QVdnQUM1ZUlRT1lWTWtvdHo5WkN2TzVfSEp1aklBNXFmRTRLdWtaOA?oc=5",
    "published_utc": "2026-11-09T00:00:00+00:00",
@@ -51922,23 +51939,6 @@
    "live_wire": true,
    "manual": false,
    "id": "95830386e2ba8866"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "The Russo-Japanese War that Ryotaro Shiba did not depict in ``Clouds on the Slope''...Tax increase, Hibiya burning incident, anti-war voices - the people behind the gun who are absent from the story | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/961016?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-17T01:00:00+00:00",
-   "title_original": "司馬遼太郎が『坂の上の雲』に描かなかった日露戦争…増税､日比谷焼き打ち事件､反戦の声――物語に不在の｢銃後｣の人々 | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a95978e054843c56"
   },
   {
    "source_id": "manual_ia",
