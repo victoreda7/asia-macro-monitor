@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T13:52:42.948481+00:00
+Última coleta: 2026-11-11T14:02:45.178222+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          888
+  🇯🇵 Japão          933
+  🇨🇳 China          889
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] Amended: China Consumer Prices Flat In October
   - [japan] BofA: Retail yen selling rises but offset by foreign inflows
   - [china] Commentary: China’s AI Export Boom May Reach Beyond Chips
   - [japan] Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minorit
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Nissan CFO Leondis - Our Liquidity Remains Solid With 2.2 Trillion Yen In Automotive Cash And Cash Equivalents
   - [taiwan] Finance minister supports doubling stabilization fund
   - [japan] Eqt Raises Tender Offer Price For Shares Of Kakaku.Com To 3,700 Yen Per Share From 3,683 Yen, Filing Shows
-  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 124% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T13:52:43+00:00",
+      "published_utc": "2026-11-11T14:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

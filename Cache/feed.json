@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T13:52:42.948481+00:00",
- "collected_at_utc": "2026-11-11T13:52:42.948481+00:00",
+ "generated_at_utc": "2026-11-11T14:02:45.178222+00:00",
+ "collected_at_utc": "2026-11-11T14:02:45.178222+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 888,
+  "japan": 933,
+  "china": 889,
   "taiwan": 311,
   "korea": 867
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T13:30:59+00:00"
+   "newest": "2026-11-11T13:54:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T12:54:23+00:00"
+   "newest": "2026-11-11T13:54:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T13:25:49+00:00"
+   "newest": "2026-11-11T13:34:47+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T13:19:32+00:00"
+   "newest": "2026-11-11T13:18:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-11-11T03:37:12+00:00"
   },
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T09:00:22+00:00"
+   "newest": "2026-11-11T12:30:10+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T13:41:59+00:00"
+   "newest": "2026-11-11T14:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T13:10:15+00:00"
+   "newest": "2026-11-11T13:50:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T12:00:00+00:00"
+   "newest": "2026-11-11T09:36:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Amended: China Consumer Prices Flat In October",
+   "url": "https://www.tradingview.com/news/dpa_afx:00b03167360b1:0-amended-china-consumer-prices-flat-in-october/",
+   "published_utc": "2026-11-11T13:47:37+00:00",
+   "title_original": "Amended: China Consumer Prices Flat In October",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "190b95457b8c547d"
+  },
   {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
@@ -1701,23 +1718,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e44a833bf6506c75"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46R25C:0-hibiya-engineering-to-buy-back-up-to-0-72-of-own-shares-worth-1-1-billion-yen/",
-   "published_utc": "2026-11-11T03:33:45+00:00",
-   "title_original": "Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2f1211cb0af89440"
   },
   {
    "source_id": "nikkei_asia",
