@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T10:22:42.752603+00:00
+Última coleta: 2026-11-11T10:32:44.909755+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
@@ -17,8 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
   - [china] China's central bank vows to step up policy support for the economy
+  - [japan] [Strategic way to buy government bonds, a powerful asset in an era of interest rates] No loss of principal! Th
   - [china] China says offshore trust tax declarations top 160 billion yuan
   - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
@@ -51,12 +53,10 @@ Total: 3000 manchetes
   - [korea] Fed's 'big step' emerges due to US price shock... The Bank of Korea's interest rate calculation method has bec
   - [korea] The Busan Metropolitan Office of Education will focus next year's budget on future artificial intell..
   - [taiwan] TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat
-  - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] Persol Holdings Co Ltd - To Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
   - [japan] BREAKING NEWS: Nissan posts 39.71 bil. yen net loss in April-Sept.
   - [japan] Cyberagent, Inc. - To Buy Back Up To 1.97% Of Own Shares Worth 12 Billion Yen
   - [japan] The Gunma Bank: Record parent profit and higher FY2027 guidance, alongside rising JGB valuation losses
-  - [korea] Cosmax, a cosmetics manufacturer and development production (ODM) company, recorded its highest sale..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T10:22:43+00:00",
+      "published_utc": "2026-11-11T10:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

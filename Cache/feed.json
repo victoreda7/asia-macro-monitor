@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-11T10:22:42.752603+00:00",
- "collected_at_utc": "2026-11-11T10:22:42.752603+00:00",
+ "generated_at_utc": "2026-11-11T10:32:44.909755+00:00",
+ "collected_at_utc": "2026-11-11T10:32:44.909755+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 313,
   "korea": 866
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T10:02:30+00:00"
+   "newest": "2026-11-11T10:22:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T09:36:42+00:00"
+   "newest": "2026-11-11T10:19:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T09:22:09+00:00"
+   "newest": "2026-11-11T10:21:12+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-11T03:37:12+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T06:30:10+00:00"
+   "newest": "2026-11-11T06:28:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T07:03:17+00:00"
+   "newest": "2026-11-11T04:01:59+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T10:22:00+00:00"
+   "newest": "2026-11-11T10:32:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-11T16:30:00+09:00"
+   "newest": "2026-11-11T19:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
+   "url": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
+   "published_utc": "2026-11-11T10:21:12+00:00",
+   "title_original": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e8770cad09487b4c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -376,6 +394,24 @@
    "live_wire": true,
    "manual": false,
    "id": "f4402e9b1b0208c1"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[Strategic way to buy government bonds, a powerful asset in an era of interest rates] No loss of principal! The charm of 2% risk-free / ``10-year floating rate'' interest rate trends / ``Deposits and government bonds'' Why will the interest rate increase? / Recommended Portfolio [Eiji Wentz's Money Farm] | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964454?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-11T10:00:00+00:00",
+   "title_original": "【金利ある時代の有力資産「国債」の戦略的買い方】元本割れなし！無リスク2%の魅力／「変動10年」の金利推移／「預金と国債」利息が増えるのは？／おすすめポートフォリオ【ウエンツ瑛士のマネーファーム】 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ca05d7f7b647f9b5"
   },
   {
    "source_id": "tradingview_live",
@@ -926,24 +962,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9847aa27c382d62e"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
-   "url": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
-   "published_utc": "2026-11-11T06:37:08+00:00",
-   "title_original": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e8770cad09487b4c"
   },
   {
    "source_id": "tradingview_live",
@@ -51926,24 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e1a10142513813b1"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
-   "published_utc": "2026-10-16T14:27:21+00:00",
-   "title_original": "財政制度等審議会 備蓄米に輸入米活用を提案",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "manual_ia",
