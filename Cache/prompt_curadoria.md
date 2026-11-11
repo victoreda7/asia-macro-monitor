@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T10:42:43.360331+00:00
+Última coleta: 2026-11-11T10:52:43.272752+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          927
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Could Turn Stronger Over Medium Term — Market Talk
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
   - [china] China's central bank vows to step up policy support for the economy
@@ -37,6 +38,7 @@ Total: 3000 manchetes
   - [korea] Asia stocks rally as Korean chipmakers ride CoreWeave-fuelled AI rebound
   - [korea] SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”
   - [korea] South Gyeongsang Province announced a budget plan for 2027 worth 14.7368 trillion won on the 11th. A..
+  - [china] China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports
   - [japan] Japan Machine Tool Orders Rise 42.5%
   - [japan] Nissan CFO Leondis - Our Liquidity Remains Solid With 2.2 Trillion Yen In Automotive Cash And Cash Equivalents
   - [taiwan] Finance minister supports doubling stabilization fund
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat
   - [japan] Persol Holdings Co Ltd - To Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
   - [japan] BREAKING NEWS: Nissan posts 39.71 bil. yen net loss in April-Sept.
-  - [japan] Cyberagent, Inc. - To Buy Back Up To 1.97% Of Own Shares Worth 12 Billion Yen
-  - [japan] The Gunma Bank: Record parent profit and higher FY2027 guidance, alongside rising JGB valuation losses
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T10:42:43+00:00",
+      "published_utc": "2026-11-11T10:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
