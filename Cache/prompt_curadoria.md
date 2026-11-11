@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T02:22:43.608929+00:00
+Última coleta: 2026-11-11T02:32:42.823034+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          908
-  🇹🇼 Taiwan         311
+  🇨🇳 China          909
+  🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
   - [japan] Japan futures gain for second session on tyre makers' dip-buying, weaker yen
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation in the open market today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion
   - [korea] Exicure, Inc. (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
   - [korea] Exicure (XCUR) Agrees to Sell GPC-100 Assets for KRW 6.5B
-  - [japan] There is no need for a ``Declaration of Overcoming Deflation.'' We must not repeat the mistake of the Bank of 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T02:22:43+00:00",
+      "published_utc": "2026-11-11T02:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
