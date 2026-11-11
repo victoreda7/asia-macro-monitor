@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T12:52:42.696922+00:00
+Última coleta: 2026-11-11T13:02:44.690199+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
+  🇯🇵 Japão          933
   🇨🇳 China          889
-  🇹🇼 Taiwan         312
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [japan] Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minorit
   - [china] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [korea] AI hard to value, interest rates moderate by historical standards: Howard Marks
   - [taiwan] Taiwan's Jan.-Sept. regular wage growth hits 2nd highest in 26 years: DGBAS
@@ -40,8 +41,8 @@ Total: 3000 manchetes
   - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
   - [korea] It has been confirmed that the Ministry of Finance and Economy asked the Fair Trade Commission to ad..
   - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
-  - [japan] Japan automakers post strong sales on weaker yen
   - [japan] Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News
+  - [japan] Japan automakers post strong sales on weaker yen
   - [japan] Prime Minister Takaichi held the 16th Economic and Fiscal Council Meeting in 2026
   - [korea] [Table] Foreign Exchange Rate Notice Table
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Eqt Raises Tender Offer Price For Shares Of Kakaku.Com To 3,700 Yen Per Share From 3,683 Yen, Filing Shows
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 124% Upside
   - [korea] Kolon Industries: Chemical drove YoY growth, but Q3 ended in a KRW 4.2bn net loss
-  - [korea] Seoul shares rise for 2nd day on tech rally amid rate hike woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T12:52:42+00:00",
+      "published_utc": "2026-11-11T13:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
