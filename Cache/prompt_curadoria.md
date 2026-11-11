@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T08:42:43.739278+00:00
+Última coleta: 2026-11-11T08:52:44.070503+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
+  🇯🇵 Japão          932
   🇨🇳 China          892
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  863
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
   - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
   - [japan] Japan automakers post strong sales on weaker yen
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
@@ -55,8 +56,7 @@ Total: 3000 manchetes
   - [japan] Sumitomo Osaka Cement Co Ltd - To Buy Back Up To 3.68% Of Shares Worth 5 Billion Yen
   - [korea] Google's AI chip expansion opens new doors for Samsung, SK hynix
   - [china] EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
-  - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
-  - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
+  - [china] EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T08:42:43+00:00",
+      "published_utc": "2026-11-11T08:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
