@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T12:22:43.448536+00:00",
- "collected_at_utc": "2026-11-11T12:22:43.448536+00:00",
+ "generated_at_utc": "2026-11-11T12:32:44.143780+00:00",
+ "collected_at_utc": "2026-11-11T12:32:44.143780+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 931,
-  "china": 891,
+  "japan": 932,
+  "china": 889,
   "taiwan": 312,
-  "korea": 866
+  "korea": 867
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T11:59:00+00:00"
+   "newest": "2026-11-11T12:26:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,15 +51,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T05:01:11+00:00"
+   "newest": "2026-11-11T05:00:31+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "newest": "2026-11-11T12:08:00+00:00"
+   "newest": "2026-11-11T12:23:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T11:26:00+00:00"
+   "newest": "2026-11-11T12:26:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-11T13:40:00+09:00"
+   "newest": "2026-11-11T17:20:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-11T07:30:00+00:00"
+   "newest": "2026-11-11T12:26:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-11T11:47:16+00:00"
+   "newest": "2026-11-11T12:30:10+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T12:21:12+00:00"
+   "newest": "2026-11-11T12:32:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+   "url": "https://www.koreaherald.com/article/10934237",
+   "published_utc": "2026-11-11T12:26:15+00:00",
+   "title_original": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "54ea5ead4a14b78c"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "AI hard to value, interest rates moderate by historical standards: Howard Marks",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByem5xSEpzVFhnZkw0WmN3MWxPZ1Z4ZEdyRWZ6c0xsMGFCdlgyVmppdWNHcWlyd2dJaGVnaEVDTjNULUpaSVc2N21tMk1IY2Q0emUyRUxuaTA4UkJWbkNxM0FDUGFsOURFTHg2elJwNEF1NHM?oc=5",
+   "published_utc": "2026-11-11T12:26:00+00:00",
+   "title_original": "AI hard to value, interest rates moderate by historical standards: Howard Marks",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fe4ad79015e5b9e"
+  },
   {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
@@ -481,8 +515,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -496,7 +530,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -738,6 +772,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f8d7798feb85cccf"
+  },
+  {
+   "source_id": "kantei_jnews",
+   "source_name": "Kantei 首相官邸",
+   "title_en": "Prime Minister Takaichi held the 16th Economic and Fiscal Council Meeting in 2026",
+   "url": "https://www.kantei.go.jp/jp/105/actions/202611/11keizai.html",
+   "published_utc": "2026-11-11T08:20:00+00:00",
+   "title_original": "高市総理は令和８年第１６回経済財政諮問会議を開催しました",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9488fd300563ce0e"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51890,59 +51942,6 @@
    "live_wire": true,
    "manual": false,
    "id": "56ecb1a7282507d0"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "European Commission to propose additional China import curbs",
-   "url": "https://www.investing.com/news/economy-news/european-commission-to-propose-additional-china-import-curbs-93CH-4954672",
-   "published_utc": "2026-10-16T17:24:17+00:00",
-   "title_original": "European Commission to propose additional China import curbs",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1404ac3368ba75ed"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社电报",
-   "title_en": "The central bank will carry out a 700 billion yuan buyout reverse repurchase operation, and additional government bond issuance in the fourth quarter will require liquidity support",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wYzRRWmc3emsyZGFSMlUwSEVMZG9LRVA5STkzZGxTdUIwbXh6cGltX0tjOExnWGExR3JNLWhONE1JV2ZHOHc?oc=5",
-   "published_utc": "2026-10-16T17:08:49+00:00",
-   "title_original": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5b6cb3968cc447d6"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Hangzhou and Shenzhen Flesh Out Rules for Housing Sales Overhaul",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1cyaEpuei1kS1JaSWxPcXM1aVExdnRXTzdFQU5hd205WVR1ZlFHckE2akRRLWhvTk9ITWFXeEg0eVdtMEFGZjZaTHZ5Q3hYTnN2aHUtbnBMWmtxMUtuOXh3X2YyYXNmNGN0bHNVU2ZqdGExVXZqTDE4UkNIMlV3ZGg0eVBBOWJPVTg5ZHRzcDc3QzE3YUF5NmNjTDkzdDFFb1FNRDF2V0hDa3I2QVV3bTRrZDd2X3dfSXJ3?oc=5",
-   "published_utc": "2026-10-16T16:40:00+00:00",
-   "title_original": "Hangzhou and Shenzhen Flesh Out Rules for Housing Sales Overhaul",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ad0cd05152f35d2"
   },
   {
    "source_id": "manual_ia",

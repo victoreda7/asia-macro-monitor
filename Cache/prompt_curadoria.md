@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T12:22:43.448536+00:00
+Última coleta: 2026-11-11T12:32:44.143780+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          891
+  🇯🇵 Japão          932
+  🇨🇳 China          889
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  866
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [china] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
+  - [korea] AI hard to value, interest rates moderate by historical standards: Howard Marks
   - [taiwan] Taiwan's Jan.-Sept. regular wage growth hits 2nd highest in 26 years: DGBAS
   - [japan] Asia report: AI and chip stocks provide a boost in Tokyo, Seoul, Taipei
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
@@ -40,6 +42,7 @@ Total: 3000 manchetes
   - [korea] [Hyun Seung-yoon Column] When the Bank of Korea is cautious about raising the base interest rate
   - [japan] Japan automakers post strong sales on weaker yen
   - [japan] Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News
+  - [japan] Prime Minister Takaichi held the 16th Economic and Fiscal Council Meeting in 2026
   - [korea] [Table] Foreign Exchange Rate Notice Table
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [korea] Finance minister calls for close monitoring of U.S. midterms impact
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 124% Upside
   - [korea] Kolon Industries: Chemical drove YoY growth, but Q3 ended in a KRW 4.2bn net loss
   - [korea] Seoul shares rise for 2nd day on tech rally amid rate hike woes
-  - [korea] NC: FY2026 revenue guidance raised to KRW 2.8T as Core Game and Mobile Casual gain traction
-  - [korea] Netlist CEO Hints Licensing Deal With SK Hynix Is In Works After Q3 Sales Rise 150%: Retail Turns Bullish
-  - [china] Shanghai aluminium hits 11-month low on firmer dollar, higher China exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T12:22:43+00:00",
+      "published_utc": "2026-11-11T12:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
