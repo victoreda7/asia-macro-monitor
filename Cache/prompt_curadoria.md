@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T06:22:44.427314+00:00
+Última coleta: 2026-11-11T06:32:43.971015+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Cosmax, a cosmetics manufacturer and development production (ODM) company, recorded its highest sale..
   - [japan] Nippon Thompson Co Ltd - To Buy Back Up To 1.3% Of Own Shares Worth 1.1 Billion Yen
   - [japan] Nagoya Railroad Co., Ltd. - To Buy Back Up To 3.06% Of Shares Worth 10 Billion Yen
   - [japan] Sapporo Breweries Ltd. Says It Will Buy Back Up To 1.8% Of Own Shares Worth 10 Billion Yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY187 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167
   - [china] On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.
-  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation with an interest rate of 1
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T06:22:44+00:00",
+      "published_utc": "2026-11-11T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
