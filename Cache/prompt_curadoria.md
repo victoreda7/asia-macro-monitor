@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T04:32:44.298097+00:00
+Última coleta: 2026-11-11T04:42:43.398110+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
-  🇨🇳 China          912
+  🇨🇳 China          911
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  856
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
@@ -32,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Macroscope: High city fiscal policy shows no signs of change even after the US mid-term elections, with stakeh
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [japan] Bank of Japan expects continued appropriate policy management to achieve sustainable and stable 2% target - Pr
+  - [korea] “Could I also get an 800 million won performance bonus?” ... SK hynix hires production workers with no educati
   - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
   - [japan] Japan futures gain for second session on tyre makers' dip-buying, weaker yen
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea to Extend Temporary Fuel Tax Cuts by Two Months, Finance Ministry Says
   - [korea] Seoul shares turn higher after weak start amid inflation woes
   - [korea] Even mention of the US ‘big step’… Will the Bank of Korea raise interest rates despite ‘AI risk’? [Money]
-  - [korea] (LEAD) Seoul shares turn higher after weak start amid inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T04:32:44+00:00",
+      "published_utc": "2026-11-11T04:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
