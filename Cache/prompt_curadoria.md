@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T17:02:47.940381+00:00
+Última coleta: 2026-11-11T17:12:43.565268+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          929
   🇨🇳 China          891
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  867
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  868
 
 ## O que já está no feed (não repita)
 
+  - [korea] NC: Three growth pillars lifted Q3 operating profit and 2026 revenue expectations to ~KRW 2.8T
+  - [taiwan] TSMC Stocks Climb 3.37% After Record NT$586.9 Billion October Revenue
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 377.81, Implies 34% Upside
   - [japan] Odisha, Japan's Tottori Prefecture sign agreement to boost investment, startups and overseas employment
   - [china] China's central bank vows to step up counter-cyclical adjustment, boost domestic demand
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [korea] Finance minister calls for close monitoring of U.S. midterms impact
   - [korea] Asia stocks rally as Korean chipmakers ride CoreWeave-fuelled AI rebound
-  - [korea] SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”
-  - [korea] South Gyeongsang Province announced a budget plan for 2027 worth 14.7368 trillion won on the 11th. A..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T17:02:48+00:00",
+      "published_utc": "2026-11-11T17:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
