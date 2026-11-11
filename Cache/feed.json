@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-11T14:32:49.585377+00:00",
- "collected_at_utc": "2026-11-11T14:32:49.585377+00:00",
+ "generated_at_utc": "2026-11-11T14:42:47.155265+00:00",
+ "collected_at_utc": "2026-11-11T14:42:47.155265+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 932,
-  "china": 889,
+  "japan": 931,
+  "china": 890,
   "taiwan": 312,
   "korea": 867
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 46,
+   "error": "",
+   "newest": "2026-11-11T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T14:14:02+00:00"
+   "newest": "2026-11-11T14:34:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-11T14:12:32+00:00"
+   "newest": "2026-11-11T14:30:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T03:37:12+00:00"
+   "newest": "2026-11-11T12:28:34+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T07:54:00+00:00"
+   "newest": "2026-11-11T09:36:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -396,8 +396,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -411,7 +411,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "Lots of money, lots of discussion | The foreign exchange deposit reserve ratio is raised, why does the central bank take action now?",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03NHFvbHlqYmNnVWxhMmlEdmxmOFNIdjViQ0E4dmVicnJ1VUZwSXU5OXZZeHBpNktJRXY0cTk3WEFjLW42VXJDdHcydXNEMV9XeFBUS29IR21mZzcwN0JV?oc=5",
+   "published_utc": "2026-11-11T12:28:34+00:00",
+   "title_original": "多财多议|外汇存款准备金率上调，央行为啥现在出手？",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "71c0182e6149c8a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -585,8 +602,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -600,7 +617,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -13161,6 +13178,24 @@
    "id": "dabb75a09d44a7c1"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: 300 billion yuan buyout reverse repurchase operation will be carried out",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81ekdKZ3JxYUg3MzJickJlNHBtYzZxTWF1NFdJMlRybUVMWE9BMGRiY3ZFUXplNjhTcDBkMXVvLTVfY2pGU2w0cTd5MWNsZGRvV2MyYzBjQ3VPQkV0U1hnNA?oc=5",
+   "published_utc": "2026-11-05T03:53:54+00:00",
+   "title_original": "央行：将开展3000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e8db29c20ac9ca2b"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China’s Vice Premier Pushes Back on Trade Barbs at Import Fair",
@@ -13683,24 +13718,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9150445af3b96787"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中华网财经",
-   "title_en": "Central Bank: 300 billion yuan buyout reverse repurchase operation will be carried out",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41dzk3M1BfMm90MXFmbXNqMS1pakl1N1RqVEhOYUFVdEtfR2xWLWRMMmZrNkNpR2M4T1ItbHMyQWszUGRZQTBfN3A1RGxVQU5idVBsOF9aZ0hKWGhyQmYtamRLVTBaSEJiR0dvbldrUTlXeWc?oc=5",
-   "published_utc": "2026-11-05T01:19:51+00:00",
-   "title_original": "央行：将开展3000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4e16fb3e65e0e75c"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51927,23 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d0f7faaf2c377a92"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "US has full confidence in Takaichi's fiscal discipline: Treasury official",
-   "url": "https://asia.nikkei.com/editor-s-picks/interview/us-has-full-confidence-in-takaichi-s-fiscal-discipline-treasury-official",
-   "published_utc": "2026-10-16T20:02:41.811614+00:00",
-   "title_original": "US has full confidence in Takaichi's fiscal discipline: Treasury official",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a106111f087452f6"
   },
   {
    "source_id": "manual_ia",

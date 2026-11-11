@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T14:32:49.585377+00:00
+Última coleta: 2026-11-11T14:42:47.155265+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          889
+  🇯🇵 Japão          931
+  🇨🇳 China          890
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  867
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] BofA: Retail yen selling rises but offset by foreign inflows
   - [china] Commentary: China’s AI Export Boom May Reach Beyond Chips
   - [japan] Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minorit
+  - [china] Lots of money, lots of discussion | The foreign exchange deposit reserve ratio is raised, why does the central
   - [china] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [korea] AI hard to value, interest rates moderate by historical standards: Howard Marks
   - [taiwan] Taiwan's Jan.-Sept. regular wage growth hits 2nd highest in 26 years: DGBAS
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports
   - [japan] Japan Machine Tool Orders Rise 42.5%
   - [japan] Nissan CFO Leondis - Our Liquidity Remains Solid With 2.2 Trillion Yen In Automotive Cash And Cash Equivalents
-  - [taiwan] Finance minister supports doubling stabilization fund
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T14:32:49+00:00",
+      "published_utc": "2026-11-11T14:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
