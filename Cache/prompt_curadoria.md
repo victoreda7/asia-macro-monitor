@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T17:52:44.251151+00:00
+Última coleta: 2026-11-11T18:02:42.641528+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] Yen Slumps as Fed Rate-Hike Bets Boost Dollar — Update
   - [china] China’s central bank vows to step up policy support for the economy
+  - [japan] Food Tax Cut Bill Faces Upper House Debate
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further By Investing.com
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill goes to the House of Councilors, Prime Minister Takaichi says, “Support money f
   - [korea] Finance minister calls for close monitoring of U.S. midterms impact
   - [korea] Asia stocks rally as Korean chipmakers ride CoreWeave-fuelled AI rebound
-  - [korea] SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T17:52:44+00:00",
+      "published_utc": "2026-11-11T18:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
