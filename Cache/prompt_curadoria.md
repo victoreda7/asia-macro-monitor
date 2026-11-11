@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T09:12:43.880359+00:00
+Última coleta: 2026-11-11T09:22:45.606950+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          929
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan advisors urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
   - [taiwan] TSMC's Anthropic, OpenAI Investment Plan a Mild Surprise to Morningstar — Market Talk
   - [taiwan] Taiex ends sharply higher as TSMC soars almost 5% on dividends, sales
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Sapporo Breweries Ltd. Says It Will Buy Back Up To 1.8% Of Own Shares Worth 10 Billion Yen
   - [china] China PLA-linked university bought Nvidia H200 chips despite U.S. curbs - Reuters
   - [taiwan] Why is TSMC stock rallying today?
-  - [taiwan] TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T09:12:44+00:00",
+      "published_utc": "2026-11-11T09:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
