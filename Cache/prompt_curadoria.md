@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T06:32:43.971015+00:00
+Última coleta: 2026-11-11T06:42:42.352273+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          905
+  🇯🇵 Japão          930
+  🇨🇳 China          900
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  855
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [japan] Persol Holdings Co Ltd - To Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
+  - [japan] BREAKING NEWS: Nissan posts 39.71 bil. yen net loss in April-Sept.
+  - [japan] Cyberagent, Inc. - To Buy Back Up To 1.97% Of Own Shares Worth 12 Billion Yen
+  - [japan] The Gunma Bank: Record parent profit and higher FY2027 guidance, alongside rising JGB valuation losses
   - [korea] Cosmax, a cosmetics manufacturer and development production (ODM) company, recorded its highest sale..
   - [japan] Nippon Thompson Co Ltd - To Buy Back Up To 1.3% Of Own Shares Worth 1.1 Billion Yen
   - [japan] Nagoya Railroad Co., Ltd. - To Buy Back Up To 3.06% Of Shares Worth 10 Billion Yen
@@ -30,6 +34,7 @@ Total: 3000 manchetes
   - [china] EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [japan] Yen Slumps to Over One-Month Low on Fed Hike Bets
   - [japan] Bml Inc - To Buy Back Up To 4% Of Shares Worth 5 Billion Yen
+  - [korea] Dongwon Industries’ Q3 OP up 1.1% on B2B, export growth
   - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
   - [taiwan] TSMC to invest in Anthropic, OpenAI, raise quarterly dividend
   - [japan] Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Russia retreats from China's yuan as U.S. sanctions bolster dollar
   - [japan] Japan futures gain for second session on tyre makers' dip-buying, weaker yen
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
-  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation in the open market today
-  - [taiwan] Taiwan machinery exports rise for 21st month on AI demand, but US election adds uncertainty
-  - [china] CHINA PBOC CONDUCTS CNY187 BLN VIA O/N REVERSE REPO WEDS
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167
-  - [china] On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T06:32:44+00:00",
+      "published_utc": "2026-11-11T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
