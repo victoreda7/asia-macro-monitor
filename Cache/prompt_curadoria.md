@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T01:42:44.371192+00:00
+Última coleta: 2026-11-11T01:52:43.641498+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          904
-  🇹🇼 Taiwan         312
+  🇯🇵 Japão          921
+  🇨🇳 China          906
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
@@ -21,8 +21,10 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7191 WEDS VS 6.7167
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation today
   - [china] On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.
+  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation with an interest rate of 1
   - [japan] "Neocloud" Core Weave's final deficit 6 times due to interest payment
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Nov 18
+  - [china] The central bank launched a 187 billion yuan overnight reverse repurchase operation on November 11
   - [japan] Japan MOF To Auction Y1.9T Of TD-Bills Nov 18
   - [china] US lawmakers push China chip rules after Nvidia CEO allegations
   - [china] HEADS UP: US TSY'S BESSENT ABOUT TO SPEAK AT THE NATIONAL COMMITTEE ON US-CHINA RELATIONS GALA DINNER
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips
   - [japan] Consumption tax reduction bill will be debated in the House of Councilors today, leading to debate among the r
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8810.23, Implies 159% Upside
-  - [china] NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China
-  - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T01:42:44+00:00",
+      "published_utc": "2026-11-11T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
