@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T00:42:42.692107+00:00
+Última coleta: 2026-11-11T00:52:44.960268+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
-  🇨🇳 China          897
+  🇯🇵 Japão          919
+  🇨🇳 China          898
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Tax Cuts for Gasoline, Diesel, Butane to Continue Until Jan. 31, Finance Ministry Says
+  - [korea] South Korea to Extend Temporary Fuel Tax Cuts by Two Months, Finance Ministry Says
   - [korea] Seoul shares turn higher after weak start amid inflation woes
   - [korea] Even mention of the US ‘big step’… Will the Bank of Korea raise interest rates despite ‘AI risk’? [Money]
   - [korea] (LEAD) Seoul shares turn higher after weak start amid inflation woes
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Considering registration system for business employing people with disabilities
   - [taiwan] TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue
   - [china] US lawmakers push China chip rules after Nvidia CEO allegations
+  - [china] At China’s Big Import Fair, Sellers Try to Crack a Tough Market
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 155% Upside
   - [china] Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says
   - [korea] Exicure, Inc. Announces Agreement to Sell GPC-100 Program Assets to GPCRT Inc. for KRW 6.5 Billion
@@ -42,7 +45,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won
   - [korea] SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%
   - [taiwan] TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
-  - [china] COMMENTARY: China's crude oil imports recover, fuel exports not so much
   - [china] Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares
   - [china] Shanghai Electric integrates industrial artificial intelligence into high-power gas turbine manufacturing and 
   - [taiwan] TSMC's October Sales Climb 14.7% Sequentially
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers — Barrons.com
   - [taiwan] Taiwan Semiconductor's October sales offer up 'strong start' to quarter, Wedbush says
   - [korea] Louis Vuitton hit by stock slump, stronger won in South Korea
-  - [china] China's crude oil imports recover, fuel exports not so much: Russell
-  - [japan] Honda upwardly revised its earnings forecast for this fiscal year due to weaker yen and increased sales of HVs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T00:42:42+00:00",
+      "published_utc": "2026-11-11T00:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
