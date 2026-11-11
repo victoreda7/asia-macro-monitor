@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T07:12:43.714681+00:00
+Última coleta: 2026-11-11T07:22:42.112569+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          896
-  🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  857
+  🇯🇵 Japão          935
+  🇨🇳 China          895
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [japan] Eqt Raises Tender Offer Price For Shares Of Kakaku.Com To 3,700 Yen Per Share From 3,683 Yen, Filing Shows
+  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 124% Upside
+  - [korea] Kolon Industries: Chemical drove YoY growth, but Q3 ended in a KRW 4.2bn net loss
+  - [korea] Seoul shares rise for 2nd day on tech rally amid rate hike woes
+  - [korea] NC: FY2026 revenue guidance raised to KRW 2.8T as Core Game and Mobile Casual gain traction
+  - [korea] Netlist CEO Hints Licensing Deal With SK Hynix Is In Works After Q3 Sales Rise 150%: Retail Turns Bullish
+  - [china] Shanghai aluminium hits 11-month low on firmer dollar, higher China exports
   - [japan] BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter
   - [japan] Who will bear the costs of national universities and when? Things to consider when reviewing national universi
   - [taiwan] AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Changs Ascending rides semiconductor expansion into AI data-center power
   - [china] Yuan holds steady as PBOC eases guidance, dollar firms
   - [china] The central bank launched a 187 billion yuan overnight reverse repurchase on November 11, with a net withdrawa
-  - [japan] Hibiya Engineering - To Buy Back Up To 0.72% of Own Shares Worth 1.1 Billion Yen
-  - [korea] South Korea Jobless Rate Reaches More Than Three-Year Low as Hiring Slows
-  - [taiwan] TSMC is seeing 'insatiable' demand for chips, executive tells Nikkei Forum
-  - [china] Shanghai aluminium hits 11-month low on firmer dollar, higher China exports
-  - [japan] Nikkei average stock price rise Movement to buy back AI and semiconductor related stocks
-  - [japan] Mebuki Financial Group Inc - To Buy Back Up To 0.95% Of Own Shares Worth 10 Billion Yen
-  - [korea] Household loans again rise in Oct. to record high despite tightened rules, higher rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T07:12:43+00:00",
+      "published_utc": "2026-11-11T07:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
