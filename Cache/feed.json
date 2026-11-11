@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-11T09:46:50.321988+00:00",
- "collected_at_utc": "2026-11-11T09:46:50.321988+00:00",
+ "generated_at_utc": "2026-11-11T09:52:42.787181+00:00",
+ "collected_at_utc": "2026-11-11T09:52:42.787181+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 930,
-  "china": 891,
+  "japan": 929,
+  "china": 892,
   "taiwan": 313,
   "korea": 866
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T01:00:00+00:00"
+   "newest": "2026-11-11T09:45:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-11T18:35:47+09:00"
+   "newest": "2026-11-11T18:49:43+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T07:03:00+00:00"
+   "newest": "2026-11-11T08:08:21+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-11T09:45:28+00:00"
+   "newest": "2026-11-11T09:51:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T09:05:01+00:00"
+   "newest": "2026-11-11T09:39:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T09:11:00+00:00"
+   "newest": "2026-11-11T09:36:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China to issue US dollar-denominated sovereign bonds in Hong Kong next week",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46109L:0-china-to-issue-us-dollar-denominated-sovereign-bonds-in-hong-kong-next-week/",
+   "published_utc": "2026-11-11T09:41:29+00:00",
+   "title_original": "China to issue US dollar-denominated sovereign bonds in Hong Kong next week",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "21146cbc708c2455"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -51929,25 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe270ab56efd8ea2"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor maintains interest rate hike stance, keeping a close eye on energy prices and AI demand (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2JvTEhYOUliQk5kX0RrZ1o1ZENhZGdoSkVrZlY2b09oczBqVGtxQUxUMDh6bHFyUmZHNEU2YjEyaHB4Qmd3VkhtS0ZBcU5ZNmxKa1BRY0IzR0ZhaEFXR3Z4ZjZaNTZSOVlVRVlBM1p4aHZhdjhOcFBzcEY5S1JTT18yb3NNamo4UWdNcG13?oc=5",
-   "published_utc": "2026-10-16T13:49:26+00:00",
-   "title_original": "日銀総裁、利上げ姿勢維持 エネルギー価格、AI需要を注視（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc6290b24f4f3f32"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T09:46:50.321988+00:00
+Última coleta: 2026-11-11T09:52:42.787181+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          891
+  🇯🇵 Japão          929
+  🇨🇳 China          892
   🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [china] China to issue US dollar-denominated sovereign bonds in Hong Kong next week
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] Japan advisors urge focus on sustaining growth after inflation hits BOJ goal
   - [japan] EQT raises bid for Kakaku.com to 3,700 yen, matching Bain and LY
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Cosmax, a cosmetics manufacturer and development production (ODM) company, recorded its highest sale..
   - [japan] Nippon Thompson Co Ltd - To Buy Back Up To 1.3% Of Own Shares Worth 1.1 Billion Yen
   - [japan] Nagoya Railroad Co., Ltd. - To Buy Back Up To 3.06% Of Shares Worth 10 Billion Yen
-  - [japan] Sapporo Breweries Ltd. Says It Will Buy Back Up To 1.8% Of Own Shares Worth 10 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T09:46:50+00:00",
+      "published_utc": "2026-11-11T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
