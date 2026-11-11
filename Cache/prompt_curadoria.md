@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T07:52:43.662172+00:00
+Última coleta: 2026-11-11T08:02:43.680146+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          937
-  🇨🇳 China          894
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  857
+  🇯🇵 Japão          935
+  🇨🇳 China          892
+  🇹🇼 Taiwan         313
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [korea] SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”
+  - [korea] South Gyeongsang Province announced a budget plan for 2027 worth 14.7368 trillion won on the 11th. A..
   - [japan] Japan Machine Tool Orders Rise 42.5%
   - [japan] Nissan CFO Leondis - Our Liquidity Remains Solid With 2.2 Trillion Yen In Automotive Cash And Cash Equivalents
+  - [taiwan] Finance minister supports doubling stabilization fund
   - [japan] Eqt Raises Tender Offer Price For Shares Of Kakaku.Com To 3,700 Yen Per Share From 3,683 Yen, Filing Shows
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8677.28, Implies 124% Upside
   - [korea] Kolon Industries: Chemical drove YoY growth, but Q3 ended in a KRW 4.2bn net loss
@@ -29,6 +32,7 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter
   - [japan] Who will bear the costs of national universities and when? Things to consider when reviewing national universi
   - [taiwan] AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances
+  - [korea] Fed's 'big step' emerges due to US price shock... The Bank of Korea's interest rate calculation method has bec
   - [korea] The Busan Metropolitan Office of Education will focus next year's budget on future artificial intell..
   - [taiwan] TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung, SK hynix price targets diverge nearly threefold over AI outlook
   - [taiwan] TSMC to invest in Anthropic, OpenAI, raise quarterly dividend
   - [japan] Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue
-  - [taiwan] TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI
-  - [japan] Taisei Corporation - To Buy Back Up To 1.41% Of Shares Worth 20 Billion Yen
-  - [japan] Asia FX steadies after falling on hot U.S. inflation; yen near 6-wk low
-  - [taiwan] Changs Ascending rides semiconductor expansion into AI data-center power
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T07:52:43+00:00",
+      "published_utc": "2026-11-11T08:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
