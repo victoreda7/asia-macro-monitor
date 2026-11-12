@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T01:12:45.324553+00:00
+Última coleta: 2026-11-12T01:22:43.633202+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          936
   🇨🇳 China          892
-  🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  866
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  867
 
 ## O que já está no feed (não repita)
 
+  - [korea] Foreign student boom puts Seoul housing on global investors' radar
   - [japan] Japan's top currency diplomat renews volatility warning as yen nears key 160 level
   - [japan] Bank of Japan Accounts (November 10)
   - [japan] The business cost index in October increased by 7.1% compared with the same month last year
@@ -37,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
   - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
   - [korea] NC: Three growth pillars lifted Q3 results and underpin 2027 revenue guidance of KRW 3.2t–3.4t
+  - [japan] "Mizuho" is hotly chasing Mitsubishi UFJ and Sumitomo Mitsui... What is the difference in the "growth rate" of
   - [japan] Consumption tax reduction bill begins deliberation in the House of Councilors and will be questioned by a spec
   - [japan] Worst ranking of credit unions and credit unions in terms of net profit...While they continue to post deficits
   - [japan] Risks posed by Russia's takeover of JT: "Are foreign assets safe?"... Huge foreign net worth = yen appreciatio
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Commentary: China’s AI Export Boom May Reach Beyond Chips
   - [japan] Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minorit
   - [china] Lots of money, lots of discussion | The foreign exchange deposit reserve ratio is raised, why does the central
-  - [china] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
-  - [korea] AI hard to value, interest rates moderate by historical standards: Howard Marks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T01:12:45+00:00",
+      "published_utc": "2026-11-12T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
