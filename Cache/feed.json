@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T01:52:45.070136+00:00",
- "collected_at_utc": "2026-11-12T01:52:45.070136+00:00",
+ "generated_at_utc": "2026-11-12T02:02:44.582065+00:00",
+ "collected_at_utc": "2026-11-12T02:02:44.582065+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 939,
+  "japan": 941,
   "china": 896,
   "taiwan": 305,
-  "korea": 860
+  "korea": 858
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-12T01:44:37+00:00"
+   "newest": "2026-11-12T02:00:17+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T06:35:00+00:00"
+   "newest": "2026-11-12T01:51:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:21:00+00:00"
+   "newest": "2026-11-11T22:18:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T01:49:46+00:00"
+   "newest": "2026-11-12T02:02:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-12T10:41:00+09:00"
+   "newest": "2026-11-12T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByQzJHR1dnWkotS0JiNHhQMGVzVi03ZlRjQ1h6SDFNYW5vOW11T2UxZ3VBVDViaWNHTDRZQUdKOTlmUUx4VEx2ZXBndFlrVHBMSTlOTVM1X1F6QQ?oc=5",
+   "published_utc": "2026-11-12T01:51:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "66e15d4e7913746e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ's Asada warns against premature rate hikes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42X02R:0-boj-s-asada-warns-against-premature-rate-hikes/",
+   "published_utc": "2026-11-12T01:37:49+00:00",
+   "title_original": "BOJ's Asada warns against premature rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "14eac09a876652a0"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
@@ -1191,8 +1226,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -1206,7 +1241,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1397,8 +1432,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -1412,7 +1447,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51903,41 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2e5a41cab4f53b8a"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "자본시장뉴스",
-   "title_en": "[Preview] Bank of Korea freezes this month... November's raise card remains",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3azRpYWxCOGZJbkVXaW9QZWV3emx3NFF0cC1EZ0FyOEVLa3k3TkxtM0RvV1BudEhSTUFzWkhWSF9GTjhfTmx1amlFbEpxLWNsblVBSENnY04zTGRQVXJCWTExNENsWmc?oc=5",
-   "published_utc": "2026-10-18T03:00:00+00:00",
-   "title_original": "[미리보는 금통] 한국은행 이달 동결 무게…11월 인상 카드는 남았다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "79f067f8a0b85ff8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected this week.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PU2FIcjhlR2cxeWkweTY1aE1BRUs4ZGhyV3VsMkdVRy1pWkZHQ3oxeUxIUVVKODcxQ3VKM1ZsMkJlb3hXanpfaTNwazRlbnc2QVl4cHRxVF96OUowS3c?oc=5",
-   "published_utc": "2026-10-18T02:11:00+00:00",
-   "title_original": "연거푸 인상한 기준금리...이번 주 금통위 결정 촉각",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4f6fc73f61ae158"
   },
   {
    "source_id": "manual_ia",

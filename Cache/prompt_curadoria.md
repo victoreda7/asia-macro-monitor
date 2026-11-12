@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T01:52:45.070136+00:00
+Última coleta: 2026-11-12T02:02:44.582065+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          939
+  🇯🇵 Japão          941
   🇨🇳 China          896
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  860
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [japan] BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes
+  - [japan] BOJ's Asada warns against premature rate hikes
   - [china] On November 12, the central bank launched a 384 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7174 THURS VS 6.7191
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Risks posed by Russia's takeover of JT: "Are foreign assets safe?"... Huge foreign net worth = yen appreciatio
   - [china] Como o presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e espio
   - [china] US container imports set all-time volume record in October as Chinese imports spike, Descartes says
-  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 373.44, Implies 32% Upside
-  - [korea] SK hynix Stocks Climb 5.36% as Foreign Investors Pile Back Into AI Memory
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T01:52:45+00:00",
+      "published_utc": "2026-11-12T02:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
