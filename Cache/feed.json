@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T09:22:44.810765+00:00",
- "collected_at_utc": "2026-11-12T09:22:44.810765+00:00",
+ "generated_at_utc": "2026-11-12T09:32:43.841641+00:00",
+ "collected_at_utc": "2026-11-12T09:32:43.841641+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 961,
+  "japan": 963,
   "china": 884,
   "taiwan": 314,
-  "korea": 841
+  "korea": 839
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T09:05:53+00:00"
+   "newest": "2026-11-12T09:23:43+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T07:31:00+00:00"
+   "newest": "2026-11-12T09:23:43+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T18:15:50+09:00"
+   "newest": "2026-11-12T18:15:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-12T03:26:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T09:22:03+00:00"
+   "newest": "2026-11-12T09:32:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T03:34:27+00:00"
+   "newest": "2026-11-12T06:36:26+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T09:09:40+00:00"
+   "newest": "2026-11-12T09:23:08+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T08:34:59+00:00"
+   "newest": "2026-11-12T09:25:36+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T08:39:48+00:00"
+   "newest": "2026-11-12T09:16:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member Asada ``needs to pay attention to the pace'' of future interest rate hikes, expressing concern about economic downturn (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wazBRaU4xaVVEblRzLVJjVldUYjdwVE1tSVpNZjF6N2IxajNwdE5ILXdSUVBDbmpBZXpYemw5bTdxeTNvekJaeUVrd1ZBZHRVQjREaTJNX0VFNFEtWDlKNWZ6TkVveFc1U0pnS0NtOUtMbl85UDFvUEdqcHI0X1U?oc=5",
+   "published_utc": "2026-11-12T09:23:08+00:00",
+   "title_original": "日銀浅田委員 今後の利上げ「ペースに留意が必要」 経済の下振れに懸念を示す（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ade517dfb07cbdbf"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -359,6 +376,40 @@
    "live_wire": false,
    "manual": false,
    "id": "3c447a8994532695"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member Asada says, ``This is not a stance of not allowing anything at all'' (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZalZGblJ2UjhHaHJBaHlHNDNDZzhnYXpoeGxFajNlbXpWSGJfQWR2UXFrZ0RCWDdvaHEwVk9uNWZjLUl0enhkRlpreXR0TzloRlpWTHpNU3d4enF2a3JqTW4tN1lYZm5sVVlmVlNSOWNpZHFKdzA5UXdVTGhIVm8?oc=5",
+   "published_utc": "2026-11-12T09:16:31+00:00",
+   "title_original": "利上げスピード、慎重に判断 浅田日銀委員「一切認めぬスタンスでない」（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "85f9f7332cf0418a"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Council Member Asada ``We need to be careful about the pace of interest rate hikes'' Showing cautious stance on interest rate hikes (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Tm84d29EdlVBaGtqQmw0X2lOdzEtRTNQQmIyeFoyMjAzVFRERmdoby1uWm5Eb3RabUZka0RELUc4SlRZOFJoWGdiU2dkUkFpMEt0TnVtSGRQMXhKaTF4dmdQRGRaYXRGc2tOR0NYZVNOMHU2ak1HT1lmUFRxX3c?oc=5",
+   "published_utc": "2026-11-12T09:10:09+00:00",
+   "title_original": "日銀 浅田審議委員「利上げペースには留意が必要」 利上げに慎重な姿勢示す（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b72b8f34abf4603c"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51881,61 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f77a1bb4c75f51ca"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Now is the time when it is more important to stabilize the underlying price index at around 2% - Bank of Japan Governor Ueda (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNC1CMmVuMXl0ajdydnlRQV9oQUNPMmoxcWRHem0tVzVTT05Wa3VEOFBtbW56UHhPZWlUdlJwZF9nbWNTb3lLX0wxZEJvYVdxRHZ5QmFiQmNQU21qVG1tQi1VN0RibWZnWUdYY0FheTM2UW1kOEdSRXN1U0FBTm4tbzJUbEtyVk8tSEs4ZTZ3?oc=5",
-   "published_utc": "2026-10-19T01:13:14+00:00",
-   "title_original": "基調物価、2％程度に安定させる観点がより重要な局面＝植田日銀総裁 (ロイター)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "534a4d9f388c4e57"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted a growth rate of 3...",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMYmJfN3VidjJVMGg1UFVKVk1rdWVtYVJkUDR5ZERVdXktR1pTOE9rSmhMNVhwV05UV2F6SW1vaVN5bUR6TWpRRmt0VFZ6UXBjSkE?oc=5",
-   "published_utc": "2026-10-19T01:04:20+00:00",
-   "title_original": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted a growth rate of 3...",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "010e8c115054ea83"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korea's growth could exceed IMF projection: finance minister",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNEZXOG4zWEhMeVloWC1uWU9hNUJWeEI3SWE0M3k5TWROTUtodlYxaV9OUDhiX2JJSkZuMWlEOVl1VzhiekhkemF5NFVjWHozVG9XYW9kcVQtZw?oc=5",
-   "published_utc": "2026-10-19T01:00:04+00:00",
-   "title_original": "S. Korea's growth could exceed IMF projection: finance minister",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "768bba6b33e245e0"
   },
   {
    "source_id": "manual_ia",

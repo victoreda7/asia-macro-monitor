@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T09:22:44.810765+00:00
+Última coleta: 2026-11-12T09:32:43.841641+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          961
+  🇯🇵 Japão          963
   🇨🇳 China          884
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  841
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan member Asada ``needs to pay attention to the pace'' of future interest rate hikes, expressing co
   - [japan] The yen depreciates in the Tokyo foreign exchange market, at one point approaching 160 yen to the dollar.
+  - [japan] Bank of Japan member Asada says, ``This is not a stance of not allowing anything at all'' (Jiji Press)
+  - [japan] Bank of Japan Council Member Asada ``We need to be careful about the pace of interest rate hikes'' Showing cau
   - [japan] Bank of Japan Commissioner Asada ``Pay attention to the pace'' of future interest rate hikes (TV Asahi (ANN))
   - [japan] ICC's survival is in danger due to sanctions; bipartisan coalition requests financial support from Japanese go
   - [korea] Fees for reading and issuing certificates of real estate registered matters (a certified copy of the..
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] The Korea Land and Housing Corporation (LH) has decided to invest a total of 2 trillion won this yea..
   - [china] Has China’s latest easing cycle run its course? PBOC report hints at a pause
   - [japan] Tsurumi Manufacturing Co Ltd - To Buy Back Up To 2.51% Of Own Shares Worth 2.6 Billion Yen
-  - [taiwan] Ministry of Economic Affairs assists industrial upgrading, AI demand drives exports | Financial Management
-  - [japan] Macroscope: Corporate prices accelerate in October, Bank of Japan assesses future direction of AI investment, 
-  - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T09:22:45+00:00",
+      "published_utc": "2026-11-12T09:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
