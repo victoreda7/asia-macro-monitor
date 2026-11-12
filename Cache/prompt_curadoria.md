@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T22:32:45.512983+00:00
+Última coleta: 2026-11-12T22:42:44.613966+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          970
+  🇯🇵 Japão          972
   🇨🇳 China          875
-  🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  840
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Deputy Governor Himino attends a special committee meeting of the House of Councilors at 1:26 p.
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 366.43, Implies 32% Upside
   - [japan] US Treasury bought yen in July; Fed made no solo FX interventions in Q3
   - [japan] BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Huida is like the central bank's "circular financing" in the AI ​​industry, may it cause financial risks? Expe
   - [japan] Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level
   - [japan] Dollar hits 19-mth high on Fed hike bets; yen nears 160
-  - [japan] Bank of Japan member Asada ``needs to pay attention to the pace'' of future interest rate hikes, expressing co
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T22:32:45+00:00",
+      "published_utc": "2026-11-12T22:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
