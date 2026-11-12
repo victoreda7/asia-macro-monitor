@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T21:02:42.370744+00:00
+Última coleta: 2026-11-12T21:12:44.721211+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          968
-  🇨🇳 China          878
+  🇯🇵 Japão          969
+  🇨🇳 China          876
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  839
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [korea] Scandal shakes the industry... Nvidia CEO Jensen Huang resigns, semiconductor kingdom Korea fears memory chang
+  - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
+  - [korea] <Shock of scandal> Jensen Huang, CEO of Nvidia, the core of the AI ​​industry, resigns...Korean semiconductor 
   - [japan] Dollar scales fresh 19-month peak, yen hits 160 for first time since September
   - [japan] Consumption tax reduction bill to be questioned at House of Councilors special committee; debate over effectiv
   - [korea] SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk
   - [japan] Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months
   - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
+  - [japan] Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk
   - [japan] Yen Hovers Near Key 160 Level, Fueling Intervention Concerns
   - [japan] Takaichi looks to meet with Trump to head off defense spending demands
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
@@ -46,17 +50,13 @@ Total: 3000 manchetes
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
   - [taiwan] Huida is like the central bank's "circular financing" in the AI ​​industry, may it cause financial risks? Expe
+  - [japan] Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level
   - [japan] Dollar hits 19-mth high on Fed hike bets; yen nears 160
   - [japan] Bank of Japan member Asada ``needs to pay attention to the pace'' of future interest rate hikes, expressing co
   - [japan] The yen depreciates in the Tokyo foreign exchange market, at one point approaching 160 yen to the dollar.
   - [japan] Bank of Japan member Asada says, ``This is not a stance of not allowing anything at all'' (Jiji Press)
   - [japan] Bank of Japan Council Member Asada ``We need to be careful about the pace of interest rate hikes'' Showing cau
   - [japan] Bank of Japan Commissioner Asada ``Pay attention to the pace'' of future interest rate hikes (TV Asahi (ANN))
-  - [japan] ICC's survival is in danger due to sanctions; bipartisan coalition requests financial support from Japanese go
-  - [korea] Fees for reading and issuing certificates of real estate registered matters (a certified copy of the..
-  - [korea] It is observed that housing prices in Seoul have entered an inflection point as the decline in apart..
-  - [japan] Japan's Mimura reminds markets of intervention risks as yen nears 160
-  - [china] Citi turns to China Inc.’s global expansion, yuan to grow cross-border business
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T21:02:42+00:00",
+      "published_utc": "2026-11-12T21:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

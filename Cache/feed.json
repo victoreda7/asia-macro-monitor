@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T21:02:42.370744+00:00",
- "collected_at_utc": "2026-11-12T21:02:42.370744+00:00",
+ "generated_at_utc": "2026-11-12T21:12:44.721211+00:00",
+ "collected_at_utc": "2026-11-12T21:12:44.721211+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 968,
-  "china": 878,
+  "japan": 969,
+  "china": 876,
   "taiwan": 315,
-  "korea": 839
+  "korea": 840
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-12T03:26:00+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T08:29:02+00:00"
+   "newest": "2026-11-12T16:37:21+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T20:51:30+00:00"
+   "newest": "2026-11-12T21:12:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T03:00:16+00:00"
+   "newest": "2026-11-12T21:00:08+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T05:45:00+09:00"
+   "newest": "2026-11-13T06:05:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Scandal shakes the industry... Nvidia CEO Jensen Huang resigns, semiconductor kingdom Korea fears memory change | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964630?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-12T21:01:00+00:00",
+   "title_original": "スキャンダルが産業を揺るがす…エヌビディアのジェンスン･フアンCEOが辞任､〈半導体王国〉韓国が恐れるメモリー異変 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad9200ce8e29353b"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Import prices fall again in Oct. on stronger S. Korean won, lower oil prices",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVTmhjWFRhcXFDdDBwQXl5dEF0ZVRKQmdtNWctR0hwQ2s4QWw5X0tBOEtzbEpoSEh4TWRwYzN4S1VSZHdLcjdEdy1XMXBkYjdrWEx5ZnVQVHNJQQ?oc=5",
+   "published_utc": "2026-11-12T21:00:08+00:00",
+   "title_original": "Import prices fall again in Oct. on stronger S. Korean won, lower oil prices",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "243037ba42e4d1c1"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "<Shock of scandal> Jensen Huang, CEO of Nvidia, the core of the AI ​​industry, resigns...Korean semiconductor giant fears changes in memory demand | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964617?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-12T21:00:00+00:00",
+   "title_original": "〈スキャンダルの衝撃〉AI産業の核エヌビディアのジェンスン･フアンCEO辞任…韓国半導体大手が恐れるメモリー需要異変 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a777a96b40ff4f29"
+  },
   {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
@@ -428,6 +480,23 @@
    "live_wire": true,
    "manual": false,
    "id": "233751f7604cd82e"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTk1NVHMydHhSME14cFAtRFBncHNCOWc5MEw4ODZkLUtkSEpSeVNpNkhCZXRhTHNvTUowdlEyQ3ZlQmZuenozTjNtM3VNRTB6N2JSMVhoT2lJS3ljTldVZDROa0ZWZ01ZaU52SjloUFlwV18tRi1idk45ZGtNajdPZ2toajZYVHNORHRyMWRxSHdab045VjdLVDNRUXhYUjIxX1lIUzNWOFVDSHYxT1p0NnhEclc?oc=5",
+   "published_utc": "2026-11-12T17:43:16+00:00",
+   "title_original": "Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2087ebcde0ef71e6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -844,6 +913,23 @@
    "live_wire": false,
    "manual": false,
    "id": "713dba759cfcc60d"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHFoNURLU2VRX0NxQ2NVQXBUUlVlQ0Z5NExUT0dVSWpDSmdjVFUzNW41WVdHOENFdGlqRE1hX3dMaDVlYVBnQzBWS2Zla04zQXhGN0JYSXZQUkhEdkZLY0dkdG1FWEN2TU5FMDg4WlpQLUlMQ281T3FQMEI1WDRIb0lwa1hqMndtMHFUeVNwV2hDRy1XM1FGTWZtQUtYNG9BSm1ESkI4b1FMSGxiUmNJ?oc=5",
+   "published_utc": "2026-11-12T09:32:47+00:00",
+   "title_original": "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2a4d215af7341ed9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2804,8 +2890,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -2819,7 +2905,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2993,8 +3079,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3008,7 +3094,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51841,94 +51927,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b137195b25c273f7"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan Power Price at Four-Year High With Rising Coal, LNG Costs",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzI1b1hnZVVZUTV1al9lbDh0NzNIZjNxVmhhTDNpZ1ZXcC1QZnNweHI3NWQ5N1BCOE1MdER0WVUzR3BscWdQbm9Ld1Zub0VUTFRodzZqUGxnZ1UxcXBDZzRUNy0yd0t5RmhlajA3ZmlpeU1oX1lVMGlramtZdUR2dl9hNWxPVFZEZW5qOEtDalJKR2FsWXlhV0RDRTVQbzg0RVl0TExjV0tiVERmV0ljdGNwNA?oc=5",
-   "published_utc": "2026-10-19T04:42:00+00:00",
-   "title_original": "Japan Power Price at Four-Year High With Rising Coal, LNG Costs",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f9dcc9955ef83bc"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "PRESS9",
-   "title_en": "The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdTVIcEpzTHYwd3RNREw3eVVOSHhWTmtJSmNmYUF0TDhXOGRJaUszV3dTY2xHR0NqT3hTN2dLeGNrUnQ5dTZWSXh2UWZOY0ZDN1djbzBkZ25ieExuQ0JrVS03V1A?oc=5",
-   "published_utc": "2026-10-19T04:33:40+00:00",
-   "title_original": "한은, 22일 기준금리 동결 전망…연 3.00% 유지에 무게",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4f20dc339591eca"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
-   "published_utc": "2026-10-19T04:17:35+00:00",
-   "title_original": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
-   "region": "china",
-   "topics": [
-    "fx",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "16e121d36709a18c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "CITIC Securities: Funding is expected to be relatively loose and the central bank has room to cut interest rates and reserve requirements | USD and RMB | Trade surplus | Liquidity | Deposits | RMB",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMzN5MGpraGdEU2F3UE5fSFlaZWxiV1Y1emk1LVF3OWk5NzJiUDBZWXpJUDBzTHhRVlIwUUhVVXNCdGU5UUJJeE52YVBzS0w5Q0lyLU5nN0lpN3ZUNVZHT21PZ3dFSVA2WUtrWHZKaXJUbU1MYnl4cVdBZzhjR3J5MndYMEZrYmk2dFRwSm45YkxjeThSN0UyWnVWcTg3akp3T090RndjelNpeXoxM0NKRjU5OWEtVzNCU0RoNk54WklZVjZRaEdrSTBGZW1qMHZQRG9YNlJwTEZWbklSNDZqYVhnU2pDTVZmZVlxeHoyTkVaQzBSQWUycTEyQVluMWlpZ0Z2eFo2VXhoQ0JId2ZoMDBSOFdPclFySHYtcWlZaENGQlFEZ0NpalhQZw?oc=5",
-   "published_utc": "2026-10-19T04:07:30+00:00",
-   "title_original": "中信证券：预计资金面将相对宽松央行存在降息降准空间|美元人民币|贸易顺差|流动性|存款|人民币",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "def30c2c7f0f3bb0"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Samsung and SK Hynix stocks slide; is there a reversal in sight?",
-   "url": "https://www.investing.com/news/stock-market-news/samsung-and-sk-hynix-stocks-slide-is-there-a-reversal-in-sight-93CH-4956282",
-   "published_utc": "2026-10-19T03:49:31+00:00",
-   "title_original": "Samsung and SK Hynix stocks slide; is there a reversal in sight?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1acb7da8bdcf55c2"
   },
   {
    "source_id": "manual_ia",
