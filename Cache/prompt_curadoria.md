@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T07:52:43.291781+00:00
+Última coleta: 2026-11-12T08:02:43.616936+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          963
+  🇯🇵 Japão          962
   🇨🇳 China          885
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  838
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Fed hike 'certainty' pushes Asian currencies lower with yen down near 160
   - [korea] South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging
   - [japan] Bank of Japan member Asada: “We need to be mindful of the economic downside risks brought about by interest ra
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Loan Interest Rates Are Already Low, Central Bank Says
   - [china] U.S. finalizing rule to block China’s remote AI chip access- The Information
   - [china] China's yuan inches higher as PBOC sets firmer guidance
-  - [china] Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concer
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T07:52:43+00:00",
+      "published_utc": "2026-11-12T08:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

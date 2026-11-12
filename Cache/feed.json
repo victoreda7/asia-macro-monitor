@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-12T07:52:43.291781+00:00",
- "collected_at_utc": "2026-11-12T07:52:43.291781+00:00",
+ "generated_at_utc": "2026-11-12T08:02:43.616936+00:00",
+ "collected_at_utc": "2026-11-12T08:02:43.616936+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 963,
+  "japan": 962,
   "china": 885,
   "taiwan": 314,
-  "korea": 838
+  "korea": 839
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
-   "newest": "2026-11-12T16:30:00+09:00"
+   "newest": "2026-11-12T17:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:43:00+00:00"
+   "newest": "2026-11-12T07:48:46+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T16:42:46+09:00"
+   "newest": "2026-11-12T16:42:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T16:42:46+09:00"
+   "newest": "2026-11-12T16:52:13+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:14:00+00:00"
+   "newest": "2026-11-12T01:53:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T07:51:58+00:00"
+   "newest": "2026-11-12T08:01:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Japanese Government Bonds Held by the Bank of Japan",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261110.xlsx",
+   "published_utc": "2026-11-12T08:00:00+00:00",
+   "title_original": "Japanese Government Bonds Held by the Bank of Japan",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c2b1c8ed769409d9"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1454,6 +1471,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7e1f4fd77b815a80"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlRGQlBiSTVaaWVLek9ESklNZld6X05nWWhZOHJJb1JfRjlkRnFNekpUNkU2NEppMkFLTFplak5YWFRVb2d1cG90TWU3SGkyRlFxZXYySnpPbjluUmR0YUp1YjFodnc4M3hQdWw5MWZKaTMtZzZBRUpMRUQtb0pheUthcDRtNWQ1ZFktOFB5eU1BODc4TE5TY0FfSUxfb1JnNnRlbDBMMmN5YmdLSDNpSHFtWjlndS1qdHJSU3p3a0x1VjA?oc=5",
+   "published_utc": "2026-11-12T01:43:00+00:00",
+   "title_original": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0488ee2f7cead4c0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -17083,23 +17117,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e4c3db652b46b578"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
-   "published_utc": "2026-11-04T08:00:00+00:00",
-   "title_original": "Japanese Government Bonds Held by the Bank of Japan",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfcee4fcb0f77a02"
   },
   {
    "source_id": "tradingview_live",
@@ -51926,25 +51943,6 @@
    "live_wire": true,
    "manual": false,
    "id": "301e1d77d7fbbda5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor Ueda calls upward movement in prices ``unacceptable'', approaches 2% target, continues rate hike (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zd2l1NElhSkVPSVd0bUxCeXd2eUVJeXdBQ2JaVTcwMEpUOVlxZWVSRGpGS256R05EQ0F5YUdYRWVjSDNCSDVfMFhQWXdkbGtTT19YMGxoSllOSm5zRFZVN251cmo4bWFCX2ZzeDQ5X1A3VXZmLXAxMkY1ZVRGaXM?oc=5",
-   "published_utc": "2026-10-18T22:24:00+00:00",
-   "title_original": "植田日銀総裁、物価上振れ「容認できず」 2％目標に接近、利上げ継続（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1b4ed3274c3aa445"
   },
   {
    "source_id": "manual_ia",
