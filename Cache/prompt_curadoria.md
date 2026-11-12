@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T21:22:43.534377+00:00
+Última coleta: 2026-11-12T21:32:49.613633+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          969
-  🇨🇳 China          876
+  🇯🇵 Japão          970
+  🇨🇳 China          875
   🇹🇼 Taiwan         315
   🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [japan] House wine remains the same even though Doria prices have increased... Why Saizeriya, which has been reconfirm
   - [korea] Scandal shakes the industry... Nvidia CEO Jensen Huang resigns, semiconductor kingdom Korea fears memory chang
   - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
   - [korea] <Shock of scandal> Jensen Huang, CEO of Nvidia, the core of the AI ​​industry, resigns...Korean semiconductor 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The yen depreciates in the Tokyo foreign exchange market, at one point approaching 160 yen to the dollar.
   - [japan] Bank of Japan member Asada says, ``This is not a stance of not allowing anything at all'' (Jiji Press)
   - [japan] Bank of Japan Council Member Asada ``We need to be careful about the pace of interest rate hikes'' Showing cau
-  - [japan] Bank of Japan Commissioner Asada ``Pay attention to the pace'' of future interest rate hikes (TV Asahi (ANN))
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T21:22:43+00:00",
+      "published_utc": "2026-11-12T21:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
