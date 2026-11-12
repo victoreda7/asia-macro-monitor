@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T08:42:47.472716+00:00
+Última coleta: 2026-11-12T08:52:44.207852+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          961
+  🇯🇵 Japão          959
   🇨🇳 China          885
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  840
+  🇰🇷 Coreia do Sul  842
 
 ## O que já está no feed (não repita)
 
+  - [korea] Fees for reading and issuing certificates of real estate registered matters (a certified copy of the..
+  - [korea] It is observed that housing prices in Seoul have entered an inflection point as the decline in apart..
   - [china] Citi turns to China Inc.’s global expansion, yuan to grow cross-border business
   - [japan] DXY: Dollar Hits 19-Month High Above 103, Yen Edges Toward ¥160 on Rate-Hike Prospects
   - [china] Burberry CEO: Chinese Consumers Remain Very Important for Company
@@ -47,6 +49,7 @@ Total: 3000 manchetes
   - [japan] Japan's producer inflation accelerates to 7.1% in October; BoJ urges caution on rate hikes
   - [japan] Crude Oil Could Keep Pressure on Japan Import Costs — Market Talk
   - [korea] The Korea Land and Housing Corporation (LH) has decided to invest a total of 2 trillion won this yea..
+  - [china] Has China’s latest easing cycle run its course? PBOC report hints at a pause
   - [japan] Tsurumi Manufacturing Co Ltd - To Buy Back Up To 2.51% Of Own Shares Worth 2.6 Billion Yen
   - [taiwan] Ministry of Economic Affairs assists industrial upgrading, AI demand drives exports | Financial Management
   - [japan] Macroscope: Corporate prices accelerate in October, Bank of Japan assesses future direction of AI investment, 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers
   - [china] Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs
   - [china] China's Central Bank Signals Easing Restraint as Growth Holds Up
-  - [japan] ``We need to pay close attention to the pace'' of future interest rate hikes, says Bank of Japan Councilor Asa
-  - [korea] South Korea’s HBM demand drives 54% surge in Taiwan glass fiber exports
-  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 372.31, Implies 34% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T08:42:47+00:00",
+      "published_utc": "2026-11-12T08:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
