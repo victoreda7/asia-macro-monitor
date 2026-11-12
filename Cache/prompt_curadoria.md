@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T22:42:44.613966+00:00
+Última coleta: 2026-11-12T22:52:43.453107+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          972
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 366.43, Implies 32% Upside
   - [japan] US Treasury bought yen in July; Fed made no solo FX interventions in Q3
   - [japan] BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed
+  - [japan] Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk
   - [japan] House wine remains the same even though Doria prices have increased... Why Saizeriya, which has been reconfirm
   - [korea] Scandal shakes the industry... Nvidia CEO Jensen Huang resigns, semiconductor kingdom Korea fears memory chang
   - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
@@ -30,7 +31,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk
   - [japan] Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months
   - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
-  - [japan] Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk
   - [japan] Yen Hovers Near Key 160 Level, Fueling Intervention Concerns
   - [japan] Takaichi looks to meet with Trump to head off defense spending demands
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T22:42:44+00:00",
+      "published_utc": "2026-11-12T22:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
