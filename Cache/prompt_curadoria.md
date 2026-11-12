@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T00:52:43.614455+00:00
+Última coleta: 2026-11-12T01:02:45.552004+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          893
-  🇹🇼 Taiwan         308
+  🇯🇵 Japão          935
+  🇨🇳 China          892
+  🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Accounts (November 10)
   - [japan] The business cost index in October increased by 7.1% compared with the same month last year
   - [japan] Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view
   - [japan] Japan top currency diplomat says FX moves in the past few days too rapid
+  - [japan] Japan wholesale inflation accelerates, keeps alive rate hike view
   - [japan] Japan Producer Prices Jump 0.7% In October
   - [japan] Dollar near one-month high as yen edges toward 160
   - [japan] JAPAN OCT CGPI IMPORT INDEX +24.8% Y/Y IN YEN TERMS FOR 11TH STRAIGHT RISE VS. REVISED +23.8% IN SEPT
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [korea] AI hard to value, interest rates moderate by historical standards: Howard Marks
   - [taiwan] Taiwan's Jan.-Sept. regular wage growth hits 2nd highest in 26 years: DGBAS
-  - [japan] Asia report: AI and chip stocks provide a boost in Tokyo, Seoul, Taipei
-  - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T00:52:43+00:00",
+      "published_utc": "2026-11-12T01:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

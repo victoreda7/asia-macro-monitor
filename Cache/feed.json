@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T00:52:43.614455+00:00",
- "collected_at_utc": "2026-11-12T00:52:43.614455+00:00",
+ "generated_at_utc": "2026-11-12T01:02:45.552004+00:00",
+ "collected_at_utc": "2026-11-12T01:02:45.552004+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
-  "china": 893,
-  "taiwan": 308,
+  "japan": 935,
+  "china": 892,
+  "taiwan": 307,
   "korea": 866
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 48,
    "error": "",
-   "newest": "2026-11-12T08:50:00+09:00"
+   "newest": "2026-11-12T10:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T00:41:00+00:00"
+   "newest": "2026-11-12T01:02:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-12T09:30:00+09:00"
+   "newest": "2026-11-12T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan Accounts (November 10)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261110.htm",
+   "published_utc": "2026-11-12T01:00:00+00:00",
+   "title_original": "Bank of Japan Accounts (November 10)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "05d53d3dae6e17f5"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -394,6 +411,24 @@
    "live_wire": true,
    "manual": false,
    "id": "fb33dfd92aa37f88"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan wholesale inflation accelerates, keeps alive rate hike view",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S1MU:0-japan-wholesale-inflation-accelerates-keeps-alive-rate-hike-view/",
+   "published_utc": "2026-11-12T00:11:30+00:00",
+   "title_original": "Japan wholesale inflation accelerates, keeps alive rate hike view",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4ce67bda37ef12a8"
   },
   {
    "source_id": "tradingview_live",
@@ -571,7 +606,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "www.thedailyeconomy.kr",
+   "source_name": "https://www.thedailyeconomy.kr/",
    "title_en": "The majority of the Monetary Policy Committee mentioned the need for additional interest rate increases... October base interest rate frozen at 3.00%",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oYi1QZFJhQ3hwMXZac3EtWnBvV0FhZ2Roc0NFQTVuTkxEUUVERG5Kc0tFSUdlaDVncUVuSWxkZHk3NXRhUEpKUXNyQXJ6SHl3bXRJTnhQd2FyWlYyQ1ZvS2J2aUtiMDZIR0FBSzU3S1Y?oc=5",
    "published_utc": "2026-11-11T22:44:21+00:00",
@@ -914,8 +949,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -929,7 +964,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1069,6 +1104,23 @@
    "id": "97f7cc505803c6f8"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Food Tax Cut Bill Faces Upper House Debate",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iNUVYMExRSWFsR2xtc2FsZE9WX183OGN2YkNkbi1ZR2pPSFBsbmh0Unl2d1FoMTN5UW9iMDlvRXRSZ21WZDYzWlZGaVo5RVE0ZHMwMHpVNjFVVF9leWJaY0VZYw?oc=5",
+   "published_utc": "2026-11-11T11:18:41+00:00",
+   "title_original": "Food Tax Cut Bill Faces Upper House Debate",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c64e16a2bad937a2"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Citi sees yen strengthening risk if Japanese stocks correct further By Investing.com",
@@ -1103,8 +1155,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -1118,7 +1170,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -2601,23 +2653,6 @@
    "live_wire": false,
    "manual": false,
    "id": "90dd3c0e53e5ac9b"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Food Tax Cut Bill Faces Upper House Debate",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iNUVYMExRSWFsR2xtc2FsZE9WX183OGN2YkNkbi1ZR2pPSFBsbmh0Unl2d1FoMTN5UW9iMDlvRXRSZ21WZDYzWlZGaVo5RVE0ZHMwMHpVNjFVVF9leWJaY0VZYw?oc=5",
-   "published_utc": "2026-11-10T23:19:17+00:00",
-   "title_original": "Food Tax Cut Bill Faces Upper House Debate",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c64e16a2bad937a2"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4285,7 +4320,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Chinese Trade Surplus Tops $1 Trillion for Second Time Ever",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV09ia2ZxQ0QxUDlzdC1TRFhXRENHNG9kc0NTQjk2YXljZTlhcDNrSHl5WENNRkNFS3VLS3Q1cEo5Q29tOVNzQm5yMGJRQ2ExTF92OTdKeFJRRDNrWE5Fb3ZmZThrWkh1cEU3U3ItS1l2SFN3TEU0V2lTVlNJVlJISDVoVXhMRlpCTWsyeFVJMWxGd1Q3THRnXzRsUFR2QWUycllJRGFQZmt2aTVvWUhpYmVkTDM?oc=5",
    "published_utc": "2026-11-10T04:39:00+00:00",
@@ -51906,41 +51941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "298e0e8aaa9ead73"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China central bank chief supports closer IMF surveillance of fiscal, spillover risks",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDlkTV9ZX1VzWXpSMnpIYkZiNkNJdVNxVVU4WldvNHIwMzJVZGRXWlljY1RqVnliUzZNQk0wRzhCYnhrbXF4ci1uLVJUcTJDQWFNdWFvWkdMaXhpdFNaYUZZcmY1cXpXeWJhVHU4MHlBYWFiSTk3OEdNTjFiSTNRQUNwbGxZNDdwRTJFbDJSdW8wMHZHV0QtaUNTVVNFUUI4U2JXQ3VNSFNJaDVGcklDZldnV1dIYldtX1doZHhoa0c5VFVtYlE0U0o0OUxSdw?oc=5",
-   "published_utc": "2026-10-17T13:38:47+00:00",
-   "title_original": "China central bank chief supports closer IMF surveillance of fiscal, spillover risks",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "78ef8e2a00002e76"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike",
-   "url": "https://focustaiwan.tw/society/202610170014",
-   "published_utc": "2026-10-17T11:57:31+00:00",
-   "title_original": "Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1a2dd1680fe15b9b"
   },
   {
    "source_id": "manual_ia",
