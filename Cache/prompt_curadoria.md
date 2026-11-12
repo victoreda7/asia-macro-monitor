@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T05:02:45.355991+00:00
+Última coleta: 2026-11-12T05:12:43.889689+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          960
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tsurumi Manufacturing Co Ltd - To Buy Back Up To 2.51% Of Own Shares Worth 2.6 Billion Yen
+  - [taiwan] Ministry of Economic Affairs assists industrial upgrading, AI demand drives exports | Financial Management
   - [japan] Macroscope: Corporate prices accelerate in October, Bank of Japan assesses future direction of AI investment, 
   - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
   - [china] Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike (Kyodo News)
   - [japan] BOJ's Asada warns against premature rate hikes
-  - [china] On November 12, the central bank launched a 384 billion yuan overnight reverse repurchase operation.
-  - [china] CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T05:02:45+00:00",
+      "published_utc": "2026-11-12T05:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
