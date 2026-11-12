@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T03:42:45.529431+00:00
+Última coleta: 2026-11-12T03:52:43.369947+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          955
-  🇨🇳 China          889
+  🇨🇳 China          890
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  847
+  🇰🇷 Coreia do Sul  846
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan inches higher as PBOC sets firmer guidance
   - [japan] Bank of Japan member Asada talks with the business community in Nagasaki to pay attention to the impact of int
   - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12, with a net
   - [japan] Corporate prices rose 7.1% in October; growth accelerated due to high crude oil prices and AI demand; Bank of 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
   - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
-  - [china] China's central bank vows to step up counter-cyclical adjustment, boost domestic demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T03:42:45+00:00",
+      "published_utc": "2026-11-12T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
