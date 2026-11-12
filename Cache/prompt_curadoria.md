@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T02:12:43.699293+00:00
+Última coleta: 2026-11-12T02:22:43.620289+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          944
+  🇯🇵 Japão          948
   🇨🇳 China          894
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  855
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese chip firms Hosin, Amicro rise in Hong Kong debuts
+  - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike
+  - [japan] BREAKING NEWS: Further rate hikes may weigh on underlying inflation in Japan: BOJ's Asada
+  - [japan] “Rising prices” calls for a 0.5% interest rate hike in the US… “Falling oil prices” emerge as a relief pitcher
   - [japan] BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike (Kyodo News)
   - [korea] South Korea’s Lee says Samsung chip packaging expansion to spur $30 billion additional investment
@@ -31,11 +35,13 @@ Total: 3000 manchetes
   - [china] Central Bank: Today it launched a 384 billion yuan overnight reverse repurchase operation
   - [japan] US Dollar near one-month high as yen edges toward 160
   - [japan] Nissan Motor's interim financial results show a final deficit for the second consecutive term despite narrowin
+  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation
   - [china] China Renaissance taps ex-Shenwan Hongyuan executive to lead Hong Kong business
   - [china] Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts
   - [japan] Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
   - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
+  - [japan] Japan's Mimura says markets shouldn't forget intervention risks as yen nears 160
   - [japan] Bank of Japan Accounts (November 10)
   - [japan] Japan FX Chief Cautions Against Forgetting Summer Intervention
   - [japan] Yen Near $160 per Dollar as Intervention Concerns Rise
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Corporate prices rise 7.1% in October Bank of Japan (Jiji Press)
   - [japan] JAPAN OCT PRODUCER PRICES +0.7% M/M, FIRST RISE IN 3 MONTHS (SEPT REVISED UP TO -0.2%);MEDIAN FORECAST +0.2%
   - [japan] Corporate Goods Price Index (Oct.)
-  - [taiwan] "Central Bank of the AI ​​Industry" Huida's share price stops falling and rebounds. US stocks focus on the dev
-  - [japan] Japan Producer Price Data Due On Thursday
-  - [korea] The majority of the Monetary Policy Committee mentioned the need for additional interest rate increases... Oct
-  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
-  - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
-  - [korea] NC: Three growth pillars lifted Q3 results and underpin 2027 revenue guidance of KRW 3.2t–3.4t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T02:12:43+00:00",
+      "published_utc": "2026-11-12T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
