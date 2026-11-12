@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T05:32:42.458887+00:00
+Última coleta: 2026-11-12T05:42:43.674187+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          960
-  🇨🇳 China          889
+  🇯🇵 Japão          962
+  🇨🇳 China          890
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  840
+  🇰🇷 Coreia do Sul  837
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's producer inflation accelerates to 7.1% in October; BoJ urges caution on rate hikes
+  - [japan] Crude Oil Could Keep Pressure on Japan Import Costs — Market Talk
+  - [korea] The Korea Land and Housing Corporation (LH) has decided to invest a total of 2 trillion won this yea..
   - [japan] Tsurumi Manufacturing Co Ltd - To Buy Back Up To 2.51% Of Own Shares Worth 2.6 Billion Yen
   - [taiwan] Ministry of Economic Affairs assists industrial upgrading, AI demand drives exports | Financial Management
   - [japan] Macroscope: Corporate prices accelerate in October, Bank of Japan assesses future direction of AI investment, 
@@ -29,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 372.31, Implies 34% Upside
   - [japan] JGB Yields Fall as Hopes for Accelerated BOJ Tightening Eases — Market Talk
   - [japan] Asia FX holds losses as dollar hits 19-mth high; yen nears 160
+  - [china] China’s Loan Interest Rates Are Already Low, Central Bank Says
   - [china] U.S. finalizing rule to block China’s remote AI chip access- The Information
   - [china] China's yuan inches higher as PBOC sets firmer guidance
   - [china] Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concer
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan PPI inflation surges past expectations in Oct
   - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] BREAKING NEWS: Further rate hikes may weigh on underlying inflation in Japan: BOJ's Asada
-  - [japan] “Rising prices” calls for a 0.5% interest rate hike in the US… “Falling oil prices” emerge as a relief pitcher
-  - [japan] BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes
-  - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike (Kyodo News)
-  - [japan] BOJ's Asada warns against premature rate hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T05:32:42+00:00",
+      "published_utc": "2026-11-12T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
