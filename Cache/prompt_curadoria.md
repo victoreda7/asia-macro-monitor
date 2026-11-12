@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T07:42:43.227948+00:00
+Última coleta: 2026-11-12T07:52:43.291781+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
-  🇨🇳 China          886
+  🇯🇵 Japão          963
+  🇨🇳 China          885
   🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
   - [japan] Fed hike 'certainty' pushes Asian currencies lower with yen down near 160
+  - [korea] South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging
   - [japan] Bank of Japan member Asada: “We need to be mindful of the economic downside risks brought about by interest ra
   - [taiwan] Foxconn Chairman: Component Supply Constraints, Geopolitics, Inflation and Monetary Policy in Focus
   - [japan] Cosel Co Ltd - To Buy Back Up To 3.89% Of Own Shares Worth 1.9 Billion Yen Before Market Open On Friday
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] U.S. finalizing rule to block China’s remote AI chip access- The Information
   - [china] China's yuan inches higher as PBOC sets firmer guidance
   - [china] Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concer
-  - [taiwan] AUO and Innolux target 2028 commercial breakthrough in semiconductor packaging
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T07:42:43+00:00",
+      "published_utc": "2026-11-12T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
