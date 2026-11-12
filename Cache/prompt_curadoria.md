@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T20:52:43.954906+00:00
+Última coleta: 2026-11-12T21:02:42.370744+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          968
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar scales fresh 19-month peak, yen hits 160 for first time since September
   - [japan] Consumption tax reduction bill to be questioned at House of Councilors special committee; debate over effectiv
   - [korea] SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk
   - [japan] Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months
@@ -39,7 +40,6 @@ Total: 3000 manchetes
   - [china] DDL: GMV grew 14.3% as profits continued, partly boosted by suspended China-asset depreciation
   - [china] Caixin Summit: TCL Chairman Urges Manufacturers to Embrace AI and Localize Overseas
   - [taiwan] Chailease Holding Company: Assets reached TWD 1 trillion as portfolio growth and 9M profit advanced
-  - [japan] Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level
   - [taiwan] TSMC confirms employee data leak as hackers seek 3 BTC for the records
   - [japan] [Consumption tax reduction] 5 trillion yen per year is ``enough to cover the costs'' / Mr. Ishiba and Mr. Obuc
   - [china] China's trade surplus, strong exports to support yuan appreciation against US dollar: Report
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T20:52:44+00:00",
+      "published_utc": "2026-11-12T21:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
