@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T19:32:43.427450+00:00
+Última coleta: 2026-11-12T19:42:45.438303+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          966
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
   - [japan] Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months
+  - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
   - [japan] Yen Hovers Near Key 160 Level, Fueling Intervention Concerns
   - [japan] Takaichi looks to meet with Trump to head off defense spending demands
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T19:32:43+00:00",
+      "published_utc": "2026-11-12T19:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
