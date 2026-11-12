@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T06:42:42.673934+00:00
+Última coleta: 2026-11-12T06:52:44.403261+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          960
-  🇨🇳 China          890
+  🇨🇳 China          889
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  837
+  🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hanwha Life Insurance: 9M earnings and CSM grew, while Q3 volatility drove KRW 431bn in investment losses
   - [japan] JAPAN MATERIAL: Semiconductor demand drove H1 sales up 20.4% and operating profit up 41.0% YoY
   - [japan] Tokyo Tatemono: Investor property sales lifted 9M profit, putting FY2026 targets ahead of schedule
   - [korea] How bad is the memory crunch? New phones now use secondhand chips
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Interest rate hike: ``need to pay close attention to pace''; concerns about negative impact on economy; Bank o
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [taiwan] Central Bank of Paraguay: Qualified depositors of Ueno Bank are gradually getting back some of their deposits 
-  - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T06:42:42+00:00",
+      "published_utc": "2026-11-12T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
