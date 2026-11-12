@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T14:22:44.494983+00:00
+Última coleta: 2026-11-12T14:32:44.638246+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          966
-  🇨🇳 China          878
-  🇹🇼 Taiwan         318
+  🇨🇳 China          877
+  🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
   - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
   - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
   - [china] Republican senator urges ban on Chinese chipmaker CXMT from US market
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Meiji: Pharmaceutical strength offsets Food pressure; FY operating profit guidance holds at JPY 100.0bn
   - [china] Global EV sales bounce back in October on European gains and Chinese exports
   - [japan] Sumitomo Mitsui Trust Group, Inc. - To Buy Back Up To 1.6% Of Shares Worth 50 Billion Yen
-  - [korea] Hanwha Life Insurance: 9M earnings and CSM grew, while Q3 volatility drove KRW 431bn in investment losses
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T14:22:44+00:00",
+      "published_utc": "2026-11-12T14:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

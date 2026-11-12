@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T14:22:44.494983+00:00",
- "collected_at_utc": "2026-11-12T14:22:44.494983+00:00",
+ "generated_at_utc": "2026-11-12T14:32:44.638246+00:00",
+ "collected_at_utc": "2026-11-12T14:32:44.638246+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 966,
-  "china": 878,
-  "taiwan": 318,
+  "china": 877,
+  "taiwan": 319,
   "korea": 838
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T14:03:27+00:00"
+   "newest": "2026-11-12T14:23:27+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T13:44:34+00:00"
+   "newest": "2026-11-12T14:18:52+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T07:22:00+00:00"
+   "newest": "2026-11-12T09:17:44+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-12T14:17:38+00:00"
+   "newest": "2026-11-12T14:23:48+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T06:30:07+00:00"
+   "newest": "2026-11-12T09:13:46+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T14:22:00+00:00"
+   "newest": "2026-11-12T14:32:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T09:36:42+00:00"
+   "newest": "2026-11-12T06:36:26+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Authorization - SEC Filing",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46T1HN:0-tsmc-says-found-some-current-and-former-employee-data-was-made-available-on-an-external-website-without-authorization-sec-filing/",
+   "published_utc": "2026-11-12T14:22:12+00:00",
+   "title_original": "TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Authorization - SEC Filing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "07e7f7908c3089ee"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -1399,23 +1416,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ecd475b530121081"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers",
-   "url": "https://www.tradingview.com/news/DJN_DN20261111009982_20261111009993:0-hartalega-higher-u-s-tariffs-on-china-origin-gloves-improve-price-competitiveness-of-malaysia-producers/",
-   "published_utc": "2026-11-12T04:44:00+00:00",
-   "title_original": "Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "61a0205a7ac36f79"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2686,8 +2686,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -2701,7 +2701,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2875,8 +2875,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -2890,7 +2890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -8660,7 +8660,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s tax compliance drive falls short of covering fiscal gaps, report says",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWVqWm9rTWtLRkRJcy1zS3p6ZmFUREU2T1ZBRURNX1ZOOUJNU1JJNkhNdnhYdW9XOXVKR1AzS3ZkUlZReGNBbXl1YXdFMy0xZnJJRGJuMWlTX3ZWSF96WktpMjAtMXFGM3UwZV9OQlF4V1FQWVp6ZzlVMWpFeDg5Tm9hSFBPWk9ScHVTbWV0engxV01EUU9XM1dudHNfZmd3eHRiTWlfTDVwMW9GMmdjTlhQTDJUNUh3bjlHaUJnZGZFNldBMnkwcm1YaEhsc3Y4MTFwR2V5aTA3UEHSAdsBQVVfeXFMUDU5MmpFSW90U29QRGhHUXpnbFExdWZOd0ludnhIT1Q4TFBVOEstQVRjcGdJUlpxWVhTVXAxcy1sbUZEOXlpZ2tiREw3bmg1dzdUNWxsLXV3b2xGNFRzamh6cE9QWUt4amRtQkpKM3Y2MW1xQ3FWdkxId2RhUnNaY2daQThUa2h2UGROSERaQy1iOW1xaE1UclJGMVlQMk1BTmloeS03a0ducEJCbEVYXzQ5M2NET3dqcG0zblAtV0NBWVBoUHhST2MtOUR2M0NobDF4VGI3YURTVHYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWVqWm9rTWtLRkRJcy1zS3p6ZmFUREU2T1ZBRURNX1ZOOUJNU1JJNkhNdnhYdW9XOXVKR1AzS3ZkUlZReGNBbXl1YXdFMy0xZnJJRGJuMWlTX3ZWSF96WktpMjAtMXFGM3UwZV9OQlF4V1FQWVp6ZzlVMWpFeDg5Tm9hSFBPWk9ScHVTbWV0engxV01EUU9XM1dudHNfZmd3eHRiTWlfTDVwMW9GMmdjTlhQTDJUNUh3bjlHaUJnZGZFNldBMnkwcm1YaEhsc3Y4MTFwR2V5aTA3UEE?oc=5",
    "published_utc": "2026-11-09T07:05:23+00:00",
    "title_original": "China’s tax compliance drive falls short of covering fiscal gaps, report says",
    "region": "china",
@@ -8671,7 +8671,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "47ecebd46cc04c2e"
+   "id": "06e29c7d6f1f2051"
   },
   {
    "source_id": "gn_jp_kyodo",
