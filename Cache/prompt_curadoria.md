@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T15:02:45.121926+00:00
+Última coleta: 2026-11-12T15:12:45.241375+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          966
-  🇨🇳 China          877
+  🇯🇵 Japão          965
+  🇨🇳 China          878
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  838
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [china] Republican senator urges ban on Chinese chipmaker CXMT from US market
   - [china] Como Jensen Huang, da Nvidia, se viu envolvido em um escândalo envolvendo chips e espionagem na China
   - [japan] Udon chain announces price cuts in anticipation of food consumption tax cut
+  - [china] Carney to Raise Chinese Auto Manufacturing in Talks With Xi
   - [japan] Intervention Risk Could Curb Further Japanese Yen Falls — Market Talk
   - [china] DDL: GMV grew 14.3% as profits continued, partly boosted by suspended China-asset depreciation
   - [china] Caixin Summit: TCL Chairman Urges Manufacturers to Embrace AI and Localize Overseas
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen wobbles
   - [japan] Meiji: Pharmaceutical strength offsets Food pressure; FY operating profit guidance holds at JPY 100.0bn
   - [china] Global EV sales bounce back in October on European gains and Chinese exports
-  - [japan] Sumitomo Mitsui Trust Group, Inc. - To Buy Back Up To 1.6% Of Shares Worth 50 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T15:02:45+00:00",
+      "published_utc": "2026-11-12T15:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
