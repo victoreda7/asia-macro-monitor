@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T14:12:44.953060+00:00
+Última coleta: 2026-11-12T14:22:44.494983+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          966
@@ -17,6 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
+  - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
+  - [china] Republican senator urges ban on Chinese chipmaker CXMT from US market
+  - [china] Como Jensen Huang, da Nvidia, se viu envolvido em um escândalo envolvendo chips e espionagem na China
   - [japan] Udon chain announces price cuts in anticipation of food consumption tax cut
   - [japan] Intervention Risk Could Curb Further Japanese Yen Falls — Market Talk
   - [china] DDL: GMV grew 14.3% as profits continued, partly boosted by suspended China-asset depreciation
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Global EV sales bounce back in October on European gains and Chinese exports
   - [japan] Sumitomo Mitsui Trust Group, Inc. - To Buy Back Up To 1.6% Of Shares Worth 50 Billion Yen
   - [korea] Hanwha Life Insurance: 9M earnings and CSM grew, while Q3 volatility drove KRW 431bn in investment losses
-  - [japan] JAPAN MATERIAL: Semiconductor demand drove H1 sales up 20.4% and operating profit up 41.0% YoY
-  - [japan] Tokyo Tatemono: Investor property sales lifted 9M profit, putting FY2026 targets ahead of schedule
-  - [china] Nexperia’s Chinese unit declares supply chain independence in chips
-  - [taiwan] Taiwan's Foxconn bullish on outlook but warns about supply chain tightness
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T14:12:45+00:00",
+      "published_utc": "2026-11-12T14:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
