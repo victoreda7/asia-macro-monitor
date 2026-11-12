@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T04:42:42.849256+00:00
+Última coleta: 2026-11-12T04:52:44.016833+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          960
-  🇨🇳 China          889
+  🇯🇵 Japão          959
+  🇨🇳 China          890
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
-  - [china] China's Central Bank Signals Easing Restraint as Growth Holds Up
   - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
+  - [china] Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers
+  - [china] Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs
+  - [china] China's Central Bank Signals Easing Restraint as Growth Holds Up
   - [japan] ``We need to pay close attention to the pace'' of future interest rate hikes, says Bank of Japan Councilor Asa
   - [korea] South Korea’s HBM demand drives 54% surge in Taiwan glass fiber exports
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 372.31, Implies 34% Upside
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] On November 12, the central bank launched a 384 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS
   - [taiwan] Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7174 THURS VS 6.7191
-  - [taiwan] Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T04:42:43+00:00",
+      "published_utc": "2026-11-12T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

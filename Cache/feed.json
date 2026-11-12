@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T04:42:42.849256+00:00",
- "collected_at_utc": "2026-11-12T04:42:42.849256+00:00",
+ "generated_at_utc": "2026-11-12T04:52:44.016833+00:00",
+ "collected_at_utc": "2026-11-12T04:52:44.016833+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 960,
-  "china": 889,
+  "japan": 959,
+  "china": 890,
   "taiwan": 311,
   "korea": 840
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T20:34:00+00:00"
+   "newest": "2026-11-11T17:48:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T04:21:32+00:00"
+   "newest": "2026-11-12T04:35:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T03:55:17+00:00"
+   "newest": "2026-11-12T04:31:10+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-11T08:49:00+00:00"
+   "newest": "2026-11-12T01:12:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T13:32:52+09:00"
+   "newest": "2026-11-12T13:50:15+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T04:42:00+00:00"
+   "newest": "2026-11-12T04:51:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T04:38:09+00:00"
+   "newest": "2026-11-12T04:43:45+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,58 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting tomorrow",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261112de74564",
+   "published_utc": "2026-11-12T04:50:15+00:00",
+   "title_original": "消費税減税法案 高市首相 あす参院特別委に出席へ",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ecd475b530121081"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers",
+   "url": "https://www.tradingview.com/news/DJN_DN20261111009982_20261111009993:0-hartalega-higher-u-s-tariffs-on-china-origin-gloves-improve-price-competitiveness-of-malaysia-producers/",
+   "published_utc": "2026-11-12T04:44:00+00:00",
+   "title_original": "Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "61a0205a7ac36f79"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46T0BA:0-semiconductors-lift-china-stocks-hong-kong-falls-as-alibaba-weighs/",
+   "published_utc": "2026-11-12T04:43:10+00:00",
+   "title_original": "Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5bd0dc89e8b3a047"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China's Central Bank Signals Easing Restraint as Growth Holds Up",
@@ -359,24 +411,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9bf49ba50035e1d7"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting tomorrow",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261112de74564",
-   "published_utc": "2026-11-12T04:27:03+00:00",
-   "title_original": "消費税減税法案 高市首相 あす参院特別委に出席へ",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ecd475b530121081"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1905,8 +1939,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -1920,7 +1954,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2094,8 +2128,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -2109,7 +2143,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51909,42 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1609133c01d21822"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
-   "url": "https://www.tradingview.com/news/stocktwits:ba939e183094b:0-tsla-csiq-stocks-in-focus-as-china-tightens-solar-manufacturing-technology-exports/",
-   "published_utc": "2026-10-18T10:16:21+00:00",
-   "title_original": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "97c82955a0a61ba8"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59772",
-   "published_utc": "2026-10-18T10:04:42+00:00",
-   "title_original": "横浜市長選挙 開票や出口調査 当選情報はこちらで【速報】",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe00a26371f94934"
   },
   {
    "source_id": "manual_ia",
