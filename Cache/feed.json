@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T09:32:43.841641+00:00",
- "collected_at_utc": "2026-11-12T09:32:43.841641+00:00",
+ "generated_at_utc": "2026-11-12T09:42:44.150402+00:00",
+ "collected_at_utc": "2026-11-12T09:42:44.150402+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 963,
-  "china": 884,
-  "taiwan": 314,
+  "china": 882,
+  "taiwan": 316,
   "korea": 839
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T05:07:31+00:00"
+   "newest": "2026-11-12T08:00:08+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-12T01:12:00+00:00"
   },
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-12T03:26:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T09:32:24+00:00"
+   "newest": "2026-11-12T09:41:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T06:36:26+00:00"
+   "newest": "2026-11-12T03:34:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T09:23:08+00:00"
+   "newest": "2026-11-12T09:36:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T09:25:36+00:00"
+   "newest": "2026-11-12T09:36:00+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T06:43:23+00:00"
+   "newest": "2026-11-12T09:34:59+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Bank of Japan member worries about economic slowdown due to interest rate hike",
+   "url": "https://news.yahoo.co.jp/pickup/6602330?source=rss",
+   "published_utc": "2026-11-12T09:36:00+00:00",
+   "title_original": "日銀委員 利上げで経済減速懸念",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f32b55187aa984cc"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to the pace''",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Yd05hOUJCaEpVT21XbVNOR2VrS0t1alczVzJpcmFIaWRVTC1teWdZMm5YLVdxN2dKV1M0UmJOVGlhdE1OX0RRbUJVbWZoajFN?oc=5",
+   "published_utc": "2026-11-12T09:36:00+00:00",
+   "title_original": "日銀委員、利上げで経済減速懸念 「ペースに留意する必要ある」",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9716de52147ac19f"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Huida is like the central bank's \"circular financing\" in the AI ​​industry, may it cause financial risks? Experts point out that part of the market share may flow to Super Weibo",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UUWNxWmQwNUFjNFpVU1oxaDVFbjlmWXo5R1VGWFpvcWtValI1WlVPUWEtTmFqY1R2X1lFNmhlS2tJSEk1VFB2QlJBdkl3b2dxZDVv?oc=5",
+   "published_utc": "2026-11-12T09:34:59+00:00",
+   "title_original": "輝達宛如AI界央行「循環融資」恐掀金融風險？ 專家指部分市占可能流向超微博通",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "713dba759cfcc60d"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -1504,7 +1555,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo! JAPAN",
+   "source_name": "Yahoo!ニュース",
    "title_en": "[Illustration] Corporate prices rose 7.1% in October = Growth expanded due to rise in crude oil prices - Bank of Japan (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaVExLOEhDd24yVUk0VnZrMUlhWktRdTNjVXdLaVB6Ny1RR2JZMms0U0k2aEoyaHlYcmdlY0EtZThNaS1DWUVlazBnc0xNTVM3bFZmeGF4bTZ4V3pMTUYtalowQlJqTHI2X3lDa0I3ZXdGa0l1LU0zRTFrRDBEMnc?oc=5",
    "published_utc": "2026-11-12T02:42:57+00:00",
@@ -3199,6 +3250,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a16f659df6d82138"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Malaysia moves to calm Taipei chip investors after China remarks freeze talks",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHVaZFlXNDVGenZCbU44NUY5bGZSZDFSV1I3anYyTE5LaFFKRGxHMnVsMUhoRVVHZlAxY29XYU9nUjF2NFZ3eng1SGVlV0QxdkhVX2s0c1RjUlJEay1RbUtiNExHaWdnYlFBeVdIaTkxZ0d5V3A2LXMwVEhha0Jmamg4Zm45ellzUzdGa0tpR3UxN25iQmVWYXhBajQyUkN1aEN5ZFd0TGRBVDVzYllvSVJiNjdWOGU1MVViV1lZcmM4V2ZIYVhkLVZSQmQyZ9IBzgFBVV95cUxON3FBVDlpVUlVck1SNmZES3I1VldEOS1wd0NuaDlnMGZRMTRoaHZvdHlaV3czX2Y1bkhCTFRMdWJJTi1BMkdhdnI0b1RaNXJ6cl9JMjk1SExYTTRIRGo0S2FRU0JZb21mRUVUZGJBdFpSUXQtSWhNV0pla2VKYVp1d053TzNVSjdXRUpYVGhLN0VvY19OQ0xyX0hTSWlRb3ZYdElfeTg1Q3Y0YmJLczZuLWp1RkpRQkNZR0RYUkFJcm1EZ1A2azZhMXhVMWprUQ?oc=5",
+   "published_utc": "2026-11-11T07:13:56+00:00",
+   "title_original": "Malaysia moves to calm Taipei chip investors after China remarks freeze talks",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ddfa5ee9780787d7"
   },
   {
    "source_id": "tradingview_live",
@@ -51860,78 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "761a3d6e1a278261"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "url": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
-   "published_utc": "2026-10-19T01:24:31+00:00",
-   "title_original": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2212c486e9d03a5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中新经纬",
-   "title_en": "The central bank launches 80 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeGpkYUppZUFlNHFaSUxJdTZOTG9CaGt5a0ZobU5RejdwdTNIbnVWSkpSX1drR05qV0Z2VFBCZnotaG5UcmVSR1FPbUlJX3ozX2g5bW9YMjhSOG5nV05hbXE0QUw?oc=5",
-   "published_utc": "2026-10-19T01:21:00+00:00",
-   "title_original": "央行开展800亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "861c44f768a13a7a"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "New Zealand’s Trade Deficit With China Widens on EV Imports",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDRtTTRpN0QwMGstbG05Y3RObW44UFFRY2ZiclhKOUctbmlPcDhMNUVKbUNjSURoQjY5alpsNHJDWEd2ajZiX1M4MG8wYTdyYjRsSUZBSWtSMnZOaFBWeWZZMFYxVjlRc1lPZ24yejZIV2VfVThSdUczcEZaZHRqbmVWWlV2OTNzUDFBc1BReFk5NnR2MFEwd2l6NnVncnZmOTE0T1lTYkpGWXFhZW9r?oc=5",
-   "published_utc": "2026-10-19T01:14:00+00:00",
-   "title_original": "New Zealand’s Trade Deficit With China Widens on EV Imports",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4a223cbd1ed649f3"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Agile response to interest rates, comprehensive judgment including speed of increase and market function - Bank of Japan Governor (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rVUFZTU1SekFFaDBCM21TV1ZQcjEyVGE3N0NQSXJjenprQ0NaTjJkTWl5bEpZSmJrenBkVktUN0FNZGtRQ3kyVHp6a0kxM0dTWDFlNEx4aU85SzBCbkNKUmtYbnJDaXRpcm5PZnBLVkxsSWlOaEllNHJCeHFNM2c?oc=5",
-   "published_utc": "2026-10-19T01:13:14+00:00",
-   "title_original": "金利への機動対応、上昇スピードや市場機能など総合判断＝日銀総裁（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f77a1bb4c75f51ca"
   },
   {
    "source_id": "manual_ia",
