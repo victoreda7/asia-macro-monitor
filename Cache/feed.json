@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-12T01:22:43.633202+00:00",
- "collected_at_utc": "2026-11-12T01:22:43.633202+00:00",
+ "generated_at_utc": "2026-11-12T01:32:45.967709+00:00",
+ "collected_at_utc": "2026-11-12T01:32:45.967709+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 936,
-  "china": 892,
+  "japan": 939,
+  "china": 893,
   "taiwan": 305,
-  "korea": 867
+  "korea": 863
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 48,
+   "count": 49,
    "error": "",
-   "newest": "2026-11-12T10:00:00+09:00"
+   "newest": "2026-11-12T10:30:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T01:01:16+00:00"
+   "newest": "2026-11-12T01:16:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T00:48:39+00:00"
+   "newest": "2026-11-12T01:12:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-12T01:17:16+00:00"
+   "newest": "2026-11-12T01:32:08+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T09:20:13+09:00"
+   "newest": "2026-11-12T10:22:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T06:28:00+00:00"
+   "newest": "2026-11-12T00:05:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T22:09:00+00:00"
+   "newest": "2026-11-12T00:21:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T01:10:08+00:00"
+   "newest": "2026-11-12T01:31:47+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T01:11:01+00:00"
+   "newest": "2026-11-12T01:27:01+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,92 @@
  ],
  "items": [
   {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261112a.htm",
+   "published_utc": "2026-11-12T01:30:00+00:00",
+   "title_original": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "de0022ceb011be2a"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Nissan Motor's interim financial results show a final deficit for the second consecutive term despite narrowing the deficit",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261112de74555",
+   "published_utc": "2026-11-12T01:22:00+00:00",
+   "title_original": "日産自動車 中間決算 赤字幅縮小も2期連続の最終赤字",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c66a1c66e5377a8b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Renaissance taps ex-Shenwan Hongyuan executive to lead Hong Kong business",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S05N:0-china-renaissance-taps-ex-shenwan-hongyuan-executive-to-lead-hong-kong-business/",
+   "published_utc": "2026-11-12T01:21:15+00:00",
+   "title_original": "China Renaissance taps ex-Shenwan Hongyuan executive to lead Hong Kong business",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bfeeebc6ba8c07e3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46T02Y:0-chinese-chip-firms-hosin-and-amicro-are-set-to-open-mixed-in-hong-kong-debuts/",
+   "published_utc": "2026-11-12T01:20:29+00:00",
+   "title_original": "Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4cc47cb8a49192e1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S04T:0-osaka-exchange-aims-to-boost-liquidity-of-mini-jgb-futures-to-meet-hedging-demand/",
+   "published_utc": "2026-11-12T01:17:33+00:00",
+   "title_original": "Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2389bb8bed7d3dc7"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Foreign student boom puts Seoul housing on global investors' radar",
@@ -361,21 +447,21 @@
    "id": "585659ff5f61a191"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's top currency diplomat renews volatility warning as yen nears key 160 level",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46T00S:0-japan-s-top-currency-diplomat-renews-volatility-warning-as-yen-nears-key-160-level/",
-   "published_utc": "2026-11-12T01:03:03+00:00",
-   "title_original": "Japan's top currency diplomat renews volatility warning as yen nears key 160 level",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s top currency diplomat renews volatility warning as yen nears key 160 level",
+   "url": "https://www.investing.com/news/economy-news/japans-top-currency-diplomat-renews-volatility-warning-as-yen-nears-key-160-level-5020140",
+   "published_utc": "2026-11-12T01:12:38+00:00",
+   "title_original": "Japan’s top currency diplomat renews volatility warning as yen nears key 160 level",
    "region": "japan",
    "topics": [
     "fx"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "e029bef24b10746c"
+   "id": "4c8ff73f46d6dd01"
   },
   {
    "source_id": "boj_whatsnew",
@@ -10848,23 +10934,6 @@
    "id": "6d5cd35810774a82"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzN4eVItZkJWTUR6Ukt3bVBNTVVDSnl0eXBnWDhoZVJSbVhKUlNWcWNfNF8wb0pMTXoyM2hSSnFOZ292S1lGQmlKRThhMXgyRUp1R09oektCZWdVa19aQl9wR182bHZncFJqWlVFaHpPa1VoeTZ5dTRvczBwejlOQkxhSjJ2VDFCVzJYVWpNaFNpdU9kYm9YRnowU3NmNzhGdFlVZjhiZVkwbWxKd1R5OWhySzZITzdKYVRNTjVoaXVzMGFPbXlqSHlMM2stQktLYUxHLW1PTQ?oc=5",
-   "published_utc": "2026-11-06T03:40:24+00:00",
-   "title_original": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "faed53e05b7014e3"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan-UK tech ties could support Europe's chip autonomy drive",
@@ -10880,6 +10949,23 @@
    "live_wire": false,
    "manual": false,
    "id": "18a0a64f91cca66e"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS0xCZ0pRNTNlQUNJc0ZicHN2SHMxRmVHV0JrM19jT3o0OHBFWFlGak1mdGc1dFQyNGpSYU4telk5M09ZMXF2NzdKbkIzc1NDN2RPdnlKVWRkY2RzR2dpOTFreERvTnlBUkpETElscG1vNmhKYzI4UE9qR0ZVZTFyZzFCb0l1MGxmRjgzVlhPNFYxU0RpVDBhZ2tCMFZBTnhwMWkwa0x2cXJ5R2RmV3h4SUNnVVdaaXVhX2w0WG9oVzBqQnJadjBPQlN6dkJ0eVBaLU4yRUNWMGQ?oc=5",
+   "published_utc": "2026-11-06T03:10:41+00:00",
+   "title_original": "Japan Q3 GDP growth seen slowing sharply as consumption, external demand drag: Reuters poll By Reuters",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6f028c9747af911"
   },
   {
    "source_id": "investing_econ",
@@ -51852,96 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3609ce296c337ff7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "CBC뉴스",
-   "title_en": "[Base interest rate decision] “Should I raise it three times in a row or hide?”… The Bank of Korea determines the direction of the base interest rate on the 22nd",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FdFVCNEhCZEZXb0VNVkpsVVhaZDN0MzE0MnB3ZlZQdWxqYXpfZHQzNEdOdEE5Mm43NTJISFdrcWIxZGo3ZmdITzZRRmRRZndOSmxxcDhfRkhiVnZfLUFXRF94a1ROTERJ?oc=5",
-   "published_utc": "2026-10-17T21:08:00+00:00",
-   "title_original": "[기준금리 결정] \"3연속 올릴까 숨고를까\"…한은, 22일 기준금리 방향 가른다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d234baa3de125f65"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "마켓인",
-   "title_en": "The base interest rate has been raised continuously, will it take a break this time? October Monetary Policy Committee attention",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40WjdsVG01N3hxZnJjTTR3YWctT1JKa21lcUxSUGxoVlQ2LTJnN0pyT0RQNFRHRnlzUTE4TUZQNXRJeXg5R0t4S181Mi1uR0l0cy1tT0xDQm9IRER5SWxSTmdjWjY3TXVpdHZ4dUdDVVBSWlE?oc=5",
-   "published_utc": "2026-10-17T21:00:04+00:00",
-   "title_original": "연속 인상한 기준금리, 이번엔 쉬어가나…10월 금통위 주목",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6625a2607682cc74"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "In 2027, China's economy will be in a state of \"4% growth and defense\"...US City predicts, headwinds of export exhaustion, real estate recession, and deleveraging will grow | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/961189?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-17T21:00:00+00:00",
-   "title_original": "2027年の中国経済は｢4％成長死守｣の攻防に…米シティが予想､輸出息切れ･不動産不況･デレバレッジの逆風強まる | ビジネス | 東洋経済オンライン",
-   "region": "china",
-   "topics": [
-    "activity",
-    "trade",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fcca858d640396e0"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "The Bank of Korea has repeatedly raised interest rates... The outlook for this week's Monetary Policy Committee to take a break in austerity is strong.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jei1XZEtjTUlMaGFLbHVIVE5WTGd4aVJaa0JzbjN0cFFFd3hoUVp3Wm9rVlNvcU9hck1uQ3h4RFlwaGF1VVJzems4eW9OZC1FZ1V3OWkxQXphb0djeUlvbmZDREl1OWZqVjBtQWN5MTFadWMwVWZTaNIBeEFVX3lxTE5Jei1XZEtjTUlMaGFLbHVIVE5WTGd4aVJaa0JzbjN0cFFFd3hoUVp3Wm9rVlNvcU9hck1uQ3h4RFlwaGF1VVJzems4eW9OZC1FZ1V3OWkxQXphb0djeUlvbmZDREl1OWZqVjBtQWN5MTFadWMwVWZTaA?oc=5",
-   "published_utc": "2026-10-17T21:00:00+00:00",
-   "title_original": "연거푸 금리 올린 한은…금주 금통위는 '긴축 쉬어가기' 전망 우세",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "221261375135f983"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "www.ebn.co.kr",
-   "title_en": "Will the Bank of Korea be open to raising interest rates? Treasury bond rebound alert",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tNGNJd2JET2JISjRXOUZFUnFFMElkSW9aMHBqX0picDdwVGk2OUdJYWFYZzFRUUJQTGVBY0dkREFESlNyVUh5NlcwaUJES1V6TGJEVDZLcXJQMHJDWkpZdnhwNHlXNjRi?oc=5",
-   "published_utc": "2026-10-17T21:00:00+00:00",
-   "title_original": "한은, 금리 인상 열어둘까…국고채 반등 경계",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "19a59ef26b65c492"
   },
   {
    "source_id": "manual_ia",

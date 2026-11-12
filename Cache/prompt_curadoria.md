@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T01:22:43.633202+00:00
+Última coleta: 2026-11-12T01:32:45.967709+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          936
-  🇨🇳 China          892
+  🇯🇵 Japão          939
+  🇨🇳 China          893
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  867
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)
+  - [japan] Nissan Motor's interim financial results show a final deficit for the second consecutive term despite narrowin
+  - [china] China Renaissance taps ex-Shenwan Hongyuan executive to lead Hong Kong business
+  - [china] Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts
+  - [japan] Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
-  - [japan] Japan's top currency diplomat renews volatility warning as yen nears key 160 level
+  - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
   - [japan] Bank of Japan Accounts (November 10)
   - [japan] The business cost index in October increased by 7.1% compared with the same month last year
   - [japan] Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Odisha, Japan's Tottori Prefecture sign agreement to boost investment, startups and overseas employment
   - [china] China's central bank vows to step up counter-cyclical adjustment, boost domestic demand
   - [china] Chinese university on US blacklist bought Nvidia H200 AI chips: report
-  - [china] Amended: China Consumer Prices Flat In October
-  - [japan] BofA: Retail yen selling rises but offset by foreign inflows
-  - [china] Commentary: China’s AI Export Boom May Reach Beyond Chips
-  - [japan] Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minorit
-  - [china] Lots of money, lots of discussion | The foreign exchange deposit reserve ratio is raised, why does the central
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T01:22:43+00:00",
+      "published_utc": "2026-11-12T01:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
