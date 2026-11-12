@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T04:12:43.215847+00:00
+Última coleta: 2026-11-12T04:22:42.723659+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          958
@@ -24,8 +24,8 @@ Total: 3000 manchetes
   - [china] Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concer
   - [taiwan] AUO and Innolux target 2028 commercial breakthrough in semiconductor packaging
   - [japan] Bank of Japan member Asada talks with the business community in Nagasaki to pay attention to the impact of int
-  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12, with a net
   - [japan] Corporate prices rose 7.1% in October; growth accelerated due to high crude oil prices and AI demand; Bank of 
+  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12, with a net
   - [taiwan] Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties
   - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen softens
   - [japan] Interest rate hike: ``need to pay close attention to pace''; concerns about negative impact on economy; Bank o
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T04:12:43+00:00",
+      "published_utc": "2026-11-12T04:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
