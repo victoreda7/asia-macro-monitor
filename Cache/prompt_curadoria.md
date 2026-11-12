@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T01:02:45.552004+00:00
+Última coleta: 2026-11-12T01:12:45.324553+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
+  🇯🇵 Japão          936
   🇨🇳 China          892
-  🇹🇼 Taiwan         307
+  🇹🇼 Taiwan         306
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's top currency diplomat renews volatility warning as yen nears key 160 level
   - [japan] Bank of Japan Accounts (November 10)
   - [japan] The business cost index in October increased by 7.1% compared with the same month last year
   - [japan] Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Lots of money, lots of discussion | The foreign exchange deposit reserve ratio is raised, why does the central
   - [china] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
   - [korea] AI hard to value, interest rates moderate by historical standards: Howard Marks
-  - [taiwan] Taiwan's Jan.-Sept. regular wage growth hits 2nd highest in 26 years: DGBAS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T01:02:45+00:00",
+      "published_utc": "2026-11-12T01:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

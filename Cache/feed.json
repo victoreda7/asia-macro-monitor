@@ -1,14 +1,14 @@
 {
- "generated_at_utc": "2026-11-12T01:02:45.552004+00:00",
- "collected_at_utc": "2026-11-12T01:02:45.552004+00:00",
+ "generated_at_utc": "2026-11-12T01:12:45.324553+00:00",
+ "collected_at_utc": "2026-11-12T01:12:45.324553+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 935,
+  "japan": 936,
   "china": 892,
-  "taiwan": 307,
+  "taiwan": 306,
   "korea": 866
  },
  "elapsed_s": 29.6,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T00:42:23+00:00"
+   "newest": "2026-11-12T01:01:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T00:19:20+00:00"
+   "newest": "2026-11-12T00:48:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T23:52:36+00:00"
+   "newest": "2026-11-11T22:09:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T01:02:04+00:00"
+   "newest": "2026-11-12T01:10:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:03:51+00:00"
+   "newest": "2026-11-12T00:34:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's top currency diplomat renews volatility warning as yen nears key 160 level",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46T00S:0-japan-s-top-currency-diplomat-renews-volatility-warning-as-yen-nears-key-160-level/",
+   "published_utc": "2026-11-12T01:03:03+00:00",
+   "title_original": "Japan's top currency diplomat renews volatility warning as yen nears key 160 level",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e029bef24b10746c"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -949,8 +966,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -964,7 +981,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1155,8 +1172,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -1170,7 +1187,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51924,23 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "248a2f777c066b10"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus",
-   "url": "https://www.tradingview.com/news/seekingalpha:815275ae5094b:0-notable-tech-headlines-for-the-week-coreweave-tsmc-anthropic-in-focus/",
-   "published_utc": "2026-10-17T14:10:42+00:00",
-   "title_original": "Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "298e0e8aaa9ead73"
   },
   {
    "source_id": "manual_ia",
