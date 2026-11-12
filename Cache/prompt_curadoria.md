@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T04:32:46.047545+00:00
+Última coleta: 2026-11-12T04:42:42.849256+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          959
-  🇨🇳 China          891
-  🇹🇼 Taiwan         310
+  🇯🇵 Japão          960
+  🇨🇳 China          889
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
   - [china] China's Central Bank Signals Easing Restraint as Growth Holds Up
   - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
+  - [japan] ``We need to pay close attention to the pace'' of future interest rate hikes, says Bank of Japan Councilor Asa
+  - [korea] South Korea’s HBM demand drives 54% surge in Taiwan glass fiber exports
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 372.31, Implies 34% Upside
   - [japan] JGB Yields Fall as Hopes for Accelerated BOJ Tightening Eases — Market Talk
   - [japan] Asia FX holds losses as dollar hits 19-mth high; yen nears 160
@@ -33,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen softens
   - [japan] Interest rate hike: ``need to pay close attention to pace''; concerns about negative impact on economy; Bank o
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
+  - [taiwan] Central Bank of Paraguay: Qualified depositors of Ueno Bank are gradually getting back some of their deposits 
   - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
   - [japan] Dovish BOJ Member Urges Caution in Raising Rates Further
   - [japan] [Illustration] Corporate prices rose 7.1% in October = Growth expanded due to rise in crude oil prices - Bank 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7174 THURS VS 6.7191
   - [taiwan] Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?
-  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12
-  - [japan] Japan Producer-Price Inflation Accelerates, Bolstering Case for Another BOJ Hike
-  - [japan] Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T04:32:46+00:00",
+      "published_utc": "2026-11-12T04:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
