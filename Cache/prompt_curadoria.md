@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T06:22:44.143535+00:00
+Última coleta: 2026-11-12T06:32:42.633284+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          963
-  🇨🇳 China          889
-  🇹🇼 Taiwan         311
+  🇯🇵 Japão          960
+  🇨🇳 China          890
+  🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  837
 
 ## O que já está no feed (não repita)
 
+  - [korea] How bad is the memory crunch? New phones now use secondhand chips
+  - [japan] Nikkei leads Asian sell-off after reports of Nvidia shake-up weigh on U.S. futures; Japan PPI beats forecasts
+  - [taiwan] Foxconn: Expect 2027 AI Rack Shipment to Post High Double-Digit Growth >2317.TW
+  - [taiwan] Foxconn: Expect 4Q AI Server Rack Shipments to Post High Double-Digit Growth on Quarter >2317.TW
   - [japan] BOJ's Asada says role of reflationist policies may be over
+  - [china] China chip stocks rally as U.S. weighs curbs on remote AI access
   - [japan] BOJ Board Member Asada Could Dissent Again in December — Market Talk
   - [china] China’s central bank vows ample liquidity and yuan stability in Q3 monetary policy report
   - [japan] Beer sales increase by 20% in October thanks to tax cut
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
   - [japan] Dovish BOJ Member Urges Caution in Raising Rates Further
   - [japan] [Illustration] Corporate prices rose 7.1% in October = Growth expanded due to rise in crude oil prices - Bank 
-  - [japan] Yen Hitting 160 to Dollar Again Won't Be Surprising — Market Talk
-  - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike
-  - [china] Chinese chip firms Hosin, Amicro rise in Hong Kong debuts
-  - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
-  - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike calls
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T06:22:44+00:00",
+      "published_utc": "2026-11-12T06:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
