@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T16:32:52.468858+00:00",
- "collected_at_utc": "2026-11-12T16:32:52.468858+00:00",
+ "generated_at_utc": "2026-11-12T16:42:46.092380+00:00",
+ "collected_at_utc": "2026-11-12T16:42:46.092380+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 963,
-  "china": 880,
+  "japan": 965,
+  "china": 878,
   "taiwan": 319,
   "korea": 838
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T16:15:33+00:00"
+   "newest": "2026-11-12T16:35:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T16:12:58+00:00"
+   "newest": "2026-11-12T16:31:05+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T04:29:53+00:00"
+   "newest": "2026-11-11T17:30:53+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T23:16:00+09:00"
+   "newest": "2026-11-13T01:37:04+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T14:37:58+00:00"
+   "newest": "2026-11-12T07:22:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2114,6 +2114,23 @@
    "id": "4c8ff73f46d6dd01"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's central bank vows to step up counter-cyclical adjustment, boost domestic demand",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iSFo1LWlBUzRRUlQyVHpTYXlOSzJwOXhXMHRJUkV2OHpfRWJtOEVuTTMyZTdVMldXaDZCSFpRMFJCNXh1VWZRR2NYYjlYUzBYaU9ESXF5TzFZZUdDZVpGbUI4czdyZHRKU1VlQUVtSXJ3eF9CMnpZbFUtRHY?oc=5",
+   "published_utc": "2026-11-12T01:12:17+00:00",
+   "title_original": "China's central bank vows to step up counter-cyclical adjustment, boost domestic demand",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a954fddcc694bd3a"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Japan's Mimura reminds markets of intervention risks as yen nears 160",
@@ -2649,23 +2666,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bf39f6c0128faad9"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China's central bank vows to step up counter-cyclical adjustment, boost domestic demand",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbFNuVVdEWUdqSEdxa2ZRSWQtU2p6NDUwTURnVnFVbnRtaUpVY0xtaUd5UjY4SE5yRVlMeFN4dlNuT1JQcjltSFBJY3NyQkRreDM3aWtEaXpoU1J1dFQ0bnFiU1MyY2RiN2R2bGRuY19lN0tKa1I2UGthaHo?oc=5",
-   "published_utc": "2026-11-11T15:20:15+00:00",
-   "title_original": "China's central bank vows to step up counter-cyclical adjustment, boost domestic demand",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a6a42d903da2b0df"
   },
   {
    "source_id": "tradingview_live",
@@ -6105,6 +6105,23 @@
    "id": "e1fbe44aef9ac557"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Analysis-Market rout tests BOJ’s upbeat view of financial conditions By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkk5cmFVbEJtUkxUWW40em83MDdFQ092Q0w5d0FsSTJIR2kwTG9YZ3pFU2U4XzMtWUZTeXdYaTBRTFJCNjBqNnRaTkduY29odDlQeC1uSFdtQnFTOTZPQjNDMkpDUGJ5azJTNDU1UlVfaW84Tk9ZNW1JdlRKNFJPVnFrS29JbUViMVR5R1QwUlVxSUNaZE9PWUlXWHUtVTdNZlg2R2s0ZXNZYkdyOTBNUFpkLXhpVEJDWHc?oc=5",
+   "published_utc": "2026-11-10T05:00:35+00:00",
+   "title_original": "Analysis-Market rout tests BOJ’s upbeat view of financial conditions By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6e78abf32c9d20d"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Future interest rate hikes will be ``implemented when possible,'' and there is also mention of raising the rate to a ``neutral'' level...``Main opinions'' at the October meeting of the Bank of Japan to determine the 2% price index",
@@ -9228,6 +9245,23 @@
    "id": "d0973fddf0b2eb82"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China extends US trade truce by two months",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+   "published_utc": "2026-11-09T03:06:09+00:00",
+   "title_original": "China extends US trade truce by two months",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b5ea1cd22d45773d"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Chinese consumer prices rise 0.7%, domestic demand slumps, below 1% for 4 consecutive months October (Jiji Press)",
@@ -9314,23 +9348,6 @@
    "live_wire": false,
    "manual": false,
    "id": "77e1193c27955a94"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China extends US trade truce by two months",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
-   "published_utc": "2026-11-09T02:48:00+00:00",
-   "title_original": "China extends US trade truce by two months",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b5ea1cd22d45773d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -12017,6 +12034,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3c584c134ba2d040"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzlPOTFaV29PYzhid1JPTHVtQ090ejVMUHVhNVVxalljcG1wZGVpcHQ0ZG0tX3hrbHp3M1JxMkY0Sk54eUFWRDkzeXhaQVNfeUw4d01CaFEzYVJmSGVVSm9DNDRqbVNrMzFtTGk2UG56eHE3TFJVQTlXVXRhSEhGWjRIdDZBaUs3YUR0SmhFbEFwaWYwT3pmaGgxaWs5WlVzRDdrT2haNmY3LVVmYk9uTTU5UU1ub3dmTThaQkNuVXRBRzhsdE1NSE5rNll5QQ?oc=5",
+   "published_utc": "2026-11-06T08:01:03+00:00",
+   "title_original": "BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4f8457da776698bd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51896,40 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "03778d564ee59637"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s new home prices fall again in September as recovery stays elusive",
-   "url": "https://www.investing.com/news/economy-news/chinas-new-home-prices-fall-again-in-september-as-recovery-stays-elusive-4956237",
-   "published_utc": "2026-10-19T02:49:20+00:00",
-   "title_original": "China’s new home prices fall again in September as recovery stays elusive",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fd036183e1a31faa"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s economic growth accelerates to 4.5% in third quarter",
-   "url": "https://www.investing.com/news/economy-news/chinas-economic-growth-accelerates-to-45-in-third-quarter-4956227",
-   "published_utc": "2026-10-19T02:42:44+00:00",
-   "title_original": "China’s economic growth accelerates to 4.5% in third quarter",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9f66a4f784fa959"
   },
   {
    "source_id": "manual_ia",
