@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T00:12:44.901648+00:00
+Última coleta: 2026-11-12T00:22:46.405275+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          892
-  🇹🇼 Taiwan         310
+  🇯🇵 Japão          933
+  🇨🇳 China          893
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] The business cost index in October increased by 7.1% compared with the same month last year
+  - [japan] Japan top currency diplomat says FX moves in the past few days too rapid
+  - [japan] Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view
+  - [japan] Japan Producer Prices Jump 0.7% In October
+  - [japan] Dollar near one-month high as yen edges toward 160
+  - [japan] JAPAN OCT CGPI IMPORT INDEX +24.8% Y/Y IN YEN TERMS FOR 11TH STRAIGHT RISE VS. REVISED +23.8% IN SEPT
   - [japan] Domestic corporate goods prices rose 7.1% year-on-year in October, growth rate increasing from previous month 
   - [japan] JAPAN OCT CGPI KEY ENERGY PRICES: CRUDE OIL/COAL PRODUCTS +15.9% VS. SEPT +11.5%
   - [japan] Corporate prices rise 7.1% in October Bank of Japan (Jiji Press)
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's Jan.-Sept. regular wage growth hits 2nd highest in 26 years: DGBAS
   - [japan] Asia report: AI and chip stocks provide a boost in Tokyo, Seoul, Taipei
   - [japan] Japan advisers urge focus on sustaining growth after inflation hits BOJ goal
-  - [japan] Yen Slumps as Fed Rate-Hike Bets Boost Dollar — Update
-  - [china] China’s central bank vows to step up policy support for the economy
-  - [japan] Food Tax Cut Bill Faces Upper House Debate
-  - [japan] Citi sees yen strengthening risk if Japanese stocks correct further By Investing.com
-  - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
-  - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T00:12:45+00:00",
+      "published_utc": "2026-11-12T00:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
