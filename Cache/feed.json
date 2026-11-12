@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-12T07:22:43.167719+00:00",
- "collected_at_utc": "2026-11-12T07:22:43.167719+00:00",
+ "generated_at_utc": "2026-11-12T07:32:46.143293+00:00",
+ "collected_at_utc": "2026-11-12T07:32:46.143293+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 961,
-  "china": 888,
-  "taiwan": 313,
+  "china": 887,
+  "taiwan": 314,
   "korea": 838
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "error": "",
-   "newest": "2026-11-12T10:30:00+09:00"
+   "newest": "2026-11-12T16:30:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T07:00:40+00:00"
+   "newest": "2026-11-12T07:24:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T06:54:22+00:00"
+   "newest": "2026-11-12T07:13:13+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-12T01:12:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T16:09:28+09:00"
+   "newest": "2026-11-12T16:22:56+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T15:29:53+09:00"
+   "newest": "2026-11-12T16:27:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-11-12T03:26:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T07:21:31+00:00"
+   "newest": "2026-11-12T07:32:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T05:31:01+00:00"
+   "newest": "2026-11-12T07:06:38+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T05:44:00+00:00"
+   "newest": "2026-11-12T06:43:23+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,18 +331,71 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T07:02:42+00:00"
+   "newest": "2026-11-12T07:13:51+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-11T22:44:21+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Bank of Japan member Asada: “We need to be mindful of the economic downside risks brought about by interest rate hikes”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261112de74822",
+   "published_utc": "2026-11-12T07:27:56+00:00",
+   "title_original": "日銀浅田委員“利上げがもたらす経済下振れリスクに留意必要”",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2427c756cd769ab7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Foxconn Chairman: Component Supply Constraints, Geopolitics, Inflation and Monetary Policy in Focus",
+   "url": "https://www.tradingview.com/news/DJN_DN20261112002642_20261112002724:0-foxconn-chairman-component-supply-constraints-geopolitics-inflation-and-monetary-policy-in-focus/",
+   "published_utc": "2026-11-12T07:25:00+00:00",
+   "title_original": "Foxconn Chairman: Component Supply Constraints, Geopolitics, Inflation and Monetary Policy in Focus",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f483edd362db30f3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Cosel Co Ltd - To Buy Back Up To 3.89% Of Own Shares Worth 1.9 Billion Yen Before Market Open On Friday",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46T01V:0-cosel-co-ltd-to-buy-back-up-to-3-89-of-own-shares-worth-1-9-billion-yen-before-market-open-on-friday/",
+   "published_utc": "2026-11-12T07:23:00+00:00",
+   "title_original": "Cosel Co Ltd - To Buy Back Up To 3.89% Of Own Shares Worth 1.9 Billion Yen Before Market Open On Friday",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "79125844f4299ef4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1385,27 +1438,10 @@
    "id": "7e1f4fd77b815a80"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ's Asada warns against premature rate hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42X02R:0-boj-s-asada-warns-against-premature-rate-hikes/",
-   "published_utc": "2026-11-12T01:37:49+00:00",
-   "title_original": "BOJ's Asada warns against premature rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "14eac09a876652a0"
-  },
-  {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "中国新闻网",
    "title_en": "On November 12, the central bank launched a 384 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV243Zm1pQjZodUZpMVpLZk54Q3gtRVVQN0lBRmpBbk8tOGxpSUk5YlNwQlRlM2ZFVmV2RmVMS1FtNGtpWUtNTnV5TWdieXZ4aUJZeGdQSXdrUUl5ck5CYTdvQ2JCXzNDdldFWGtWVlM3TDlsQjBZVGVzYUNITV9LUlFrWGU2MExs?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xNlpDQzM2VXh4ekUwcFNWajRSRTFTMTR5cXZ0WWlVOUJkNFNCZnhYLXhFN0ZBNUExbnJySHZJZGNzT1pfdmFlYWhmdzI4dmFiWHd1WnZvbnQ1OXg2WEctRC1yWXI5UjRm?oc=5",
    "published_utc": "2026-11-12T01:37:04+00:00",
    "title_original": "11月12日央行开展3840亿元隔夜逆回购操作",
    "region": "china",
@@ -1417,24 +1453,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34cd728cfd39fe10"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS",
-   "url": "https://www.tradingview.com/news/dpa_afx:4ef864aab66cf:0-china-pboc-conducts-cny384-bln-via-o-n-reverse-repo-thurs/",
-   "published_utc": "2026-11-12T01:37:01+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d087fc275e5f5c3f"
+   "id": "651b1576ec1491a2"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -13585,7 +13604,7 @@
    "id": "0cb43c61b4f639fb"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
@@ -13600,7 +13619,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3ff3c084e9723e65"
+   "id": "f1004357beeca4b1"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51925,23 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "518c82991f792168"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "An uneasy government and riots in France, etc. = Bank of Japan's uneasy jinx (Hirotoshi Kubozono) - Expert",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFhxTm1OMHRfR25MNUxxNFUzYnN6bzdhV1dEdlVsVHlwZ0kzMVV4Uy1NRnhaaXdJRHktUGZDSFpmanU5Yk03TldmMndtaDFDeFY3SHFsbzhheXpTMFVERmRPWmFSOGlsNFB6T0pZUllCTDlRVWlwMDc2czFKb0RzT093V2FSbjdB?oc=5",
-   "published_utc": "2026-10-18T21:01:13+00:00",
-   "title_original": "舌好調の政権＆フランスの暴動etc＝日銀の不安なジンクス（窪園博俊） - エキスパート",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "22eac644d43f0782"
   },
   {
    "source_id": "manual_ia",

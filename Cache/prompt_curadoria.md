@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T07:22:43.167719+00:00
+Última coleta: 2026-11-12T07:32:46.143293+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          961
-  🇨🇳 China          888
-  🇹🇼 Taiwan         313
+  🇨🇳 China          887
+  🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan member Asada: “We need to be mindful of the economic downside risks brought about by interest ra
+  - [taiwan] Foxconn Chairman: Component Supply Constraints, Geopolitics, Inflation and Monetary Policy in Focus
+  - [japan] Cosel Co Ltd - To Buy Back Up To 3.89% Of Own Shares Worth 1.9 Billion Yen Before Market Open On Friday
   - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen wobbles
   - [japan] Meiji: Pharmaceutical strength offsets Food pressure; FY operating profit guidance holds at JPY 100.0bn
   - [china] Global EV sales bounce back in October on European gains and Chinese exports
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concer
   - [taiwan] AUO and Innolux target 2028 commercial breakthrough in semiconductor packaging
   - [japan] Bank of Japan member Asada talks with the business community in Nagasaki to pay attention to the impact of int
-  - [japan] Corporate prices rose 7.1% in October; growth accelerated due to high crude oil prices and AI demand; Bank of 
-  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12, with a net
-  - [japan] Stock prices fall Sell orders for AI/semiconductor related stocks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T07:22:43+00:00",
+      "published_utc": "2026-11-12T07:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
