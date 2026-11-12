@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-11T23:52:42.753944+00:00
+Última coleta: 2026-11-12T00:02:48.371696+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          894
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  867
+  🇯🇵 Japão          932
+  🇨🇳 China          892
+  🇹🇼 Taiwan         310
+  🇰🇷 Coreia do Sul  866
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN OCT CGPI KEY ENERGY PRICES: CRUDE OIL/COAL PRODUCTS +15.9% VS. SEPT +11.5%
+  - [japan] Corporate prices rise 7.1% in October Bank of Japan (Jiji Press)
+  - [japan] JAPAN OCT PRODUCER PRICES +0.7% M/M, FIRST RISE IN 3 MONTHS (SEPT REVISED UP TO -0.2%);MEDIAN FORECAST +0.2%
   - [japan] Corporate Goods Price Index (Oct.)
+  - [taiwan] "Central Bank of the AI ​​Industry" Huida's share price stops falling and rebounds. US stocks focus on the dev
   - [japan] Japan Producer Price Data Due On Thursday
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
   - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
@@ -52,11 +56,7 @@ Total: 3000 manchetes
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
   - [japan] Yen Could Turn Stronger Over Medium Term — Market Talk
-  - [japan] Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News
   - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
-  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8611.49, Implies 122% Upside
-  - [japan] [Strategic way to buy government bonds, a powerful asset in an era of interest rates] No loss of principal! Th
-  - [china] China says offshore trust tax declarations top 160 billion yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-11T23:52:42+00:00",
+      "published_utc": "2026-11-12T00:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
