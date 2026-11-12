@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T13:42:45.504579+00:00
+Última coleta: 2026-11-12T13:52:47.950721+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
-  🇨🇳 China          879
+  🇯🇵 Japão          966
+  🇨🇳 China          878
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [japan] Udon chain announces price cuts in anticipation of food consumption tax cut
   - [japan] Intervention Risk Could Curb Further Japanese Yen Falls — Market Talk
   - [china] DDL: GMV grew 14.3% as profits continued, partly boosted by suspended China-asset depreciation
   - [china] Caixin Summit: TCL Chairman Urges Manufacturers to Embrace AI and Localize Overseas
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo Tatemono: Investor property sales lifted 9M profit, putting FY2026 targets ahead of schedule
   - [china] Nexperia’s Chinese unit declares supply chain independence in chips
   - [taiwan] Taiwan's Foxconn bullish on outlook but warns about supply chain tightness
-  - [korea] How bad is the memory crunch? Budget phones now use secondhand chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T13:42:45+00:00",
+      "published_utc": "2026-11-12T13:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

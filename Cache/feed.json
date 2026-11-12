@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-12T13:42:45.504579+00:00",
- "collected_at_utc": "2026-11-12T13:42:45.504579+00:00",
+ "generated_at_utc": "2026-11-12T13:52:47.950721+00:00",
+ "collected_at_utc": "2026-11-12T13:52:47.950721+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
-  "china": 879,
+  "japan": 966,
+  "china": 878,
   "taiwan": 318,
   "korea": 838
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 32.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 51,
-   "error": "",
-   "newest": "2026-11-12T17:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T13:27:14+00:00"
+   "newest": "2026-11-12T13:45:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T13:01:03+00:00"
+   "newest": "2026-11-12T13:44:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T22:40:03+09:00"
+   "newest": "2026-11-12T22:40:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T21:55:19+09:00"
+   "newest": "2026-11-12T22:49:55+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-12T03:26:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-12T12:45:51+00:00"
+   "newest": "2026-11-12T13:43:09+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T13:42:18+00:00"
+   "newest": "2026-11-12T13:52:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T12:33:12+00:00"
+   "newest": "2026-11-12T13:39:51+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Udon chain announces price cuts in anticipation of food consumption tax cut",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75068",
+   "published_utc": "2026-11-12T13:49:55+00:00",
+   "title_original": "食料品の消費税減税見据え うどんチェーンが値下げ発表",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "710070dab2290a11"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -5097,6 +5115,23 @@
    "id": "ddb86363bccc9b4f"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+   "published_utc": "2026-11-10T11:15:37+00:00",
+   "title_original": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1398ae0aff03df27"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's iron ore imports hit lowest level in five months",
@@ -5112,23 +5147,6 @@
    "live_wire": true,
    "manual": false,
    "id": "66e1e717f63e24d2"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
-   "published_utc": "2026-11-10T11:11:00+00:00",
-   "title_original": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "tradingview_live",
@@ -51911,23 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f1ecd4ce8f9069de"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s economic growth picks up in third quarter, beating expectations",
-   "url": "https://www.investing.com/news/economy-news/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations-4956218",
-   "published_utc": "2026-10-19T02:24:21+00:00",
-   "title_original": "China’s economic growth picks up in third quarter, beating expectations",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ecab08771b3d7ab"
   },
   {
    "source_id": "manual_ia",
