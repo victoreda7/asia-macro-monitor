@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T04:22:42.723659+00:00
+Última coleta: 2026-11-12T04:32:46.047545+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          958
+  🇯🇵 Japão          959
   🇨🇳 China          891
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  841
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Central Bank Signals Easing Restraint as Growth Holds Up
+  - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
+  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 372.31, Implies 34% Upside
   - [japan] JGB Yields Fall as Hopes for Accelerated BOJ Tightening Eases — Market Talk
   - [japan] Asia FX holds losses as dollar hits 19-mth high; yen nears 160
   - [china] U.S. finalizing rule to block China’s remote AI chip access- The Information
@@ -29,7 +32,6 @@ Total: 3000 manchetes
   - [taiwan] Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties
   - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen softens
   - [japan] Interest rate hike: ``need to pay close attention to pace''; concerns about negative impact on economy; Bank o
-  - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
   - [japan] Dovish BOJ Member Urges Caution in Raising Rates Further
@@ -52,11 +54,9 @@ Total: 3000 manchetes
   - [taiwan] Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7174 THURS VS 6.7191
   - [taiwan] Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?
+  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12
   - [japan] Japan Producer-Price Inflation Accelerates, Bolstering Case for Another BOJ Hike
   - [japan] Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)
-  - [china] Central Bank: Today it launched a 384 billion yuan overnight reverse repurchase operation
-  - [japan] US Dollar near one-month high as yen edges toward 160
-  - [japan] Nissan Motor's interim financial results show a final deficit for the second consecutive term despite narrowin
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T04:22:42+00:00",
+      "published_utc": "2026-11-12T04:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
