@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T08:12:43.666316+00:00
+Última coleta: 2026-11-12T08:22:44.885789+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
+  🇯🇵 Japão          961
   🇨🇳 China          885
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  839
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [japan] DXY: Dollar Hits 19-Month High Above 103, Yen Edges Toward ¥160 on Rate-Hike Prospects
+  - [china] Citi turns to China Inc.'s global expansion, yuan to grow cross-border business
+  - [china] Burberry CEO: Chinese Consumers Remain Very Important for Company
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Fed hike 'certainty' pushes Asian currencies lower with yen down near 160
   - [korea] South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s HBM demand drives 54% surge in Taiwan glass fiber exports
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 372.31, Implies 34% Upside
   - [japan] JGB Yields Fall as Hopes for Accelerated BOJ Tightening Eases — Market Talk
-  - [japan] Asia FX holds losses as dollar hits 19-mth high; yen nears 160
-  - [china] China’s Loan Interest Rates Are Already Low, Central Bank Says
-  - [china] U.S. finalizing rule to block China’s remote AI chip access- The Information
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T08:12:43+00:00",
+      "published_utc": "2026-11-12T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
