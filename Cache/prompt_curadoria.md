@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T01:32:45.967709+00:00
+Última coleta: 2026-11-12T01:42:44.477995+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          939
-  🇨🇳 China          893
+  🇨🇳 China          895
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7174 THURS VS 6.7191
   - [japan] Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)
+  - [japan] US Dollar near one-month high as yen edges toward 160
+  - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] Nissan Motor's interim financial results show a final deficit for the second consecutive term despite narrowin
   - [china] China Renaissance taps ex-Shenwan Hongyuan executive to lead Hong Kong business
   - [china] Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Climb 5.36% as Foreign Investors Pile Back Into AI Memory
   - [korea] NC: Three growth pillars lifted Q3 operating profit and 2026 revenue expectations to ~KRW 2.8T
   - [taiwan] TSMC Stocks Climb 3.37% After Record NT$586.9 Billion October Revenue
-  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 377.81, Implies 34% Upside
-  - [japan] Odisha, Japan's Tottori Prefecture sign agreement to boost investment, startups and overseas employment
-  - [china] China's central bank vows to step up counter-cyclical adjustment, boost domestic demand
-  - [china] Chinese university on US blacklist bought Nvidia H200 AI chips: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T01:32:46+00:00",
+      "published_utc": "2026-11-12T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
