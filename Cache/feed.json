@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-12T22:02:42.855647+00:00",
- "collected_at_utc": "2026-11-12T22:02:42.855647+00:00",
+ "generated_at_utc": "2026-11-12T22:12:49.261796+00:00",
+ "collected_at_utc": "2026-11-12T22:12:49.261796+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 315,
   "korea": 840
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T21:44:27+00:00"
+   "newest": "2026-11-12T22:03:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T13:34:21+00:00"
+   "newest": "2026-11-12T21:57:18+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-12T01:12:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T22:02:26+00:00"
+   "newest": "2026-11-12T22:12:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T06:45:00+09:00"
+   "newest": "2026-11-13T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,12 +337,46 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T1GT:0-us-treasury-bought-yen-in-july-fed-made-no-solo-fx-interventions-in-q3/",
+   "published_utc": "2026-11-12T22:07:01+00:00",
+   "title_original": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a72e00ec663bd7e2"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5COURlazFfeFgxQ0xsTVZxYXIxVFJpRHpLQlFuVXM5LXkyMW5KMS1GS3JHU1RrOEtCSVBVRlhEVDlDQjl0ZThkdFJqZS0zakR0cndjb1NNTnhZZw?oc=5",
+   "published_utc": "2026-11-12T21:57:18+00:00",
+   "title_original": "BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2c013282d261c1c3"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1565,24 +1599,6 @@
    "live_wire": true,
    "manual": false,
    "id": "00cab108d1c595c6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ Board Member Asada Could Dissent Again in December — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261112000223:0-boj-board-member-asada-could-dissent-again-in-december-market-talk/",
-   "published_utc": "2026-11-12T05:57:00+00:00",
-   "title_original": "BOJ Board Member Asada Could Dissent Again in December — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b7c745173e907468"
   },
   {
    "source_id": "yahoo_business",
@@ -51909,23 +51925,6 @@
    "live_wire": true,
    "manual": false,
    "id": "58d2998336af82ad"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Nikkei 225 in strong downtrend at JPY 65,000: Live levels",
-   "url": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-   "published_utc": "2026-10-19T05:06:10+00:00",
-   "title_original": "Nikkei 225 in strong downtrend at JPY 65,000: Live levels",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "69603940d8b4a82f"
   },
   {
    "source_id": "manual_ia",
