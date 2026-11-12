@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T06:32:42.633284+00:00
+Última coleta: 2026-11-12T06:42:42.673934+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          960
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN MATERIAL: Semiconductor demand drove H1 sales up 20.4% and operating profit up 41.0% YoY
+  - [japan] Tokyo Tatemono: Investor property sales lifted 9M profit, putting FY2026 targets ahead of schedule
   - [korea] How bad is the memory crunch? New phones now use secondhand chips
   - [japan] Nikkei leads Asian sell-off after reports of Nvidia shake-up weigh on U.S. futures; Japan PPI beats forecasts
   - [taiwan] Foxconn: Expect 2027 AI Rack Shipment to Post High Double-Digit Growth >2317.TW
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [taiwan] Central Bank of Paraguay: Qualified depositors of Ueno Bank are gradually getting back some of their deposits 
   - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
-  - [japan] Dovish BOJ Member Urges Caution in Raising Rates Further
-  - [japan] [Illustration] Corporate prices rose 7.1% in October = Growth expanded due to rise in crude oil prices - Bank 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T06:32:42+00:00",
+      "published_utc": "2026-11-12T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
