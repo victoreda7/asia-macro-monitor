@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T18:22:45.532478+00:00
+Última coleta: 2026-11-12T18:32:44.161660+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          966
@@ -52,11 +52,11 @@ Total: 3000 manchetes
   - [japan] ICC's survival is in danger due to sanctions; bipartisan coalition requests financial support from Japanese go
   - [korea] Fees for reading and issuing certificates of real estate registered matters (a certified copy of the..
   - [korea] It is observed that housing prices in Seoul have entered an inflection point as the decline in apart..
+  - [japan] Japan's Mimura reminds markets of intervention risks as yen nears 160
   - [china] Citi turns to China Inc.’s global expansion, yuan to grow cross-border business
   - [japan] DXY: Dollar Hits 19-Month High Above 103, Yen Edges Toward ¥160 on Rate-Hike Prospects
   - [china] Burberry CEO: Chinese Consumers Remain Very Important for Company
   - [japan] Japanese Government Bonds Held by the Bank of Japan
-  - [japan] Fed hike 'certainty' pushes Asian currencies lower with yen down near 160
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T18:22:45+00:00",
+      "published_utc": "2026-11-12T18:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
