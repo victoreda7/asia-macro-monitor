@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T15:32:54.082982+00:00
+Última coleta: 2026-11-12T15:42:52.174304+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
-  🇨🇳 China          878
+  🇯🇵 Japão          964
+  🇨🇳 China          879
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese AI firms scramble for Nvidia chips amid fears of tighter US curbs: report
   - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
   - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
   - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Cosel Co Ltd - To Buy Back Up To 3.89% Of Own Shares Worth 1.9 Billion Yen Before Market Open On Friday
   - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen wobbles
   - [japan] Meiji: Pharmaceutical strength offsets Food pressure; FY operating profit guidance holds at JPY 100.0bn
-  - [china] Global EV sales bounce back in October on European gains and Chinese exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T15:32:54+00:00",
+      "published_utc": "2026-11-12T15:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
