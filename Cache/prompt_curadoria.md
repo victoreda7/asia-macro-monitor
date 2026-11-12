@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T00:02:48.371696+00:00
+Última coleta: 2026-11-12T00:12:44.901648+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
@@ -17,12 +17,14 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Domestic corporate goods prices rose 7.1% year-on-year in October, growth rate increasing from previous month 
   - [japan] JAPAN OCT CGPI KEY ENERGY PRICES: CRUDE OIL/COAL PRODUCTS +15.9% VS. SEPT +11.5%
   - [japan] Corporate prices rise 7.1% in October Bank of Japan (Jiji Press)
   - [japan] JAPAN OCT PRODUCER PRICES +0.7% M/M, FIRST RISE IN 3 MONTHS (SEPT REVISED UP TO -0.2%);MEDIAN FORECAST +0.2%
   - [japan] Corporate Goods Price Index (Oct.)
   - [taiwan] "Central Bank of the AI ​​Industry" Huida's share price stops falling and rebounds. US stocks focus on the dev
   - [japan] Japan Producer Price Data Due On Thursday
+  - [korea] The majority of the Monetary Policy Committee mentioned the need for additional interest rate increases... Oct
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
   - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
   - [korea] NC: Three growth pillars lifted Q3 results and underpin 2027 revenue guidance of KRW 3.2t–3.4t
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further By Investing.com
   - [japan] Citi sees yen strengthening risk if Japanese stocks correct further
   - [japan] Prime Minister Takaichi "Strengthens growth potential through highly predictable fiscal management" Collaborat
-  - [japan] Yen Could Turn Stronger Over Medium Term — Market Talk
-  - [japan] Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T00:02:48+00:00",
+      "published_utc": "2026-11-12T00:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
