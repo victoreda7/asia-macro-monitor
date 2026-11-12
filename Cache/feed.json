@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T04:52:44.016833+00:00",
- "collected_at_utc": "2026-11-12T04:52:44.016833+00:00",
+ "generated_at_utc": "2026-11-12T05:02:45.355991+00:00",
+ "collected_at_utc": "2026-11-12T05:02:45.355991+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 959,
-  "china": 890,
+  "japan": 960,
+  "china": 889,
   "taiwan": 311,
   "korea": 840
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:53:00+00:00"
+   "newest": "2026-11-12T01:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T11:16:13+00:00"
+   "newest": "2026-11-11T03:51:02+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T13:35:19+09:00"
+   "newest": "2026-11-12T13:57:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T04:51:51+00:00"
+   "newest": "2026-11-12T05:01:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T04:25:43+00:00"
+   "newest": "2026-11-12T04:52:57+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T04:43:45+00:00"
+   "newest": "2026-11-12T04:54:29+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,25 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Macroscope: Corporate prices accelerate in October, Bank of Japan assesses future direction of AI investment, also focusing on impact on economy (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMHNZeEQ4S0pMYUgzeEJyby1Rc2l5MEREaEhLREdIT1YzeU9FX3FYRkRLNlJSU0l1ZkI4N0FkQWZKOUlvNW9zYmh3ZVNzNk83Nk1ENzcwMlVGMkpFWHVRM1dDZ2RnaV9Sakt0b0NzdVdQTndxTFkwczdQT0NuejQ?oc=5",
+   "published_utc": "2026-11-12T04:52:57+00:00",
+   "title_original": "マクロスコープ：企業物価10月加速、日銀はＡＩ投資先行き見極め 景気への波及も焦点（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f984ee632c3e241b"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -1939,8 +1958,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -1954,7 +1973,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2128,8 +2147,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -2143,7 +2162,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51925,24 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4f4425a65734e560"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36氪",
-   "title_en": "The central bank launches 80 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVSTBQVkRCbkkxeWx1TUs3Wmk3Zk9IdmE2bkVZS3VWV2hBZmtRbUdPcUhGRFlYTjJZQnZfakNNZ1RwcDE3M20wdU9UbGtaeDR3a2FSZm5CcGg?oc=5",
-   "published_utc": "2026-10-18T10:30:00+00:00",
-   "title_original": "央行今日开展800亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1609133c01d21822"
   },
   {
    "source_id": "manual_ia",

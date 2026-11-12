@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T04:52:44.016833+00:00
+Última coleta: 2026-11-12T05:02:45.355991+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          959
-  🇨🇳 China          890
+  🇯🇵 Japão          960
+  🇨🇳 China          889
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [japan] Macroscope: Corporate prices accelerate in October, Bank of Japan assesses future direction of AI investment, 
   - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
   - [china] Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers
   - [china] Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ's Asada warns against premature rate hikes
   - [china] On November 12, the central bank launched a 384 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS
-  - [taiwan] Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T04:52:44+00:00",
+      "published_utc": "2026-11-12T05:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
