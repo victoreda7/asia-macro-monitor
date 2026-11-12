@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T05:42:43.674187+00:00",
- "collected_at_utc": "2026-11-12T05:42:43.674187+00:00",
+ "generated_at_utc": "2026-11-12T05:52:42.995984+00:00",
+ "collected_at_utc": "2026-11-12T05:52:42.995984+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 962,
-  "china": 890,
+  "japan": 963,
+  "china": 889,
   "taiwan": 311,
   "korea": 837
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T03:53:13+00:00"
+   "newest": "2026-11-12T03:53:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T04:21:43+00:00"
+   "newest": "2026-11-12T04:24:49+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T05:24:37+00:00"
+   "newest": "2026-11-12T05:42:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T05:25:30+00:00"
+   "newest": "2026-11-12T05:42:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-12T04:05:51+00:00"
+   "newest": "2026-11-12T05:50:06+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-12T01:12:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T05:41:39+00:00"
+   "newest": "2026-11-12T05:51:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:34:47+00:00"
+   "newest": "2026-11-11T21:34:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T05:07:26+00:00"
+   "newest": "2026-11-12T05:47:59+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Beer sales increase by 20% in October thanks to tax cut",
+   "url": "https://news.yahoo.co.jp/pickup/6602303?source=rss",
+   "published_utc": "2026-11-12T05:47:59+00:00",
+   "title_original": "ビール10月販売2割増 減税追い風",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b59866f2e623dab"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -610,7 +627,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "China’s Loan Interest Rates Are Already Low, Central Bank Says",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW1ueXJqQzBaUmFvSzY3cFh6MkdVOEN3WUxsQ2pzSHhySDJsTHljS01VQ0NxeXpSQ1RrVzBOM3VBaUZ0NlR4Q2U1c2xhRjBHTnlSam4xSlFubWN6ejEwNnRJNG9NU2x4Rnk5bmw0dUpoUnN1TEV2OTA5WGRpYm52UmVtNzd0eGpVQ3F0WGdjZmMzUlFWcDVMcGJwbHZqeS0zY1hwWEdXT1hsNG0xeXA1T1JR?oc=5",
-   "published_utc": "2026-11-12T03:53:13+00:00",
+   "published_utc": "2026-11-12T03:53:00+00:00",
    "title_original": "China’s Loan Interest Rates Are Already Low, Central Bank Says",
    "region": "china",
    "topics": [
@@ -51927,25 +51944,6 @@
    "live_wire": true,
    "manual": false,
    "id": "81d0d36b69ef318d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Weekly bond market highlights | The central bank invested a net 100 billion yuan in open market government bond sales in September, and the Shenzhen Stock Exchange terminated the review of 5 bond projects",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGejJCY2FHYzN0NmJ0RjBreGRubUNIMV9KMU5xdHg3TmdOQ0p4Q0VkNk4zOHM1cFdoaDFvUTZ6TEVVOE1Bdk9IQkE4enBGMEQzRFVfdmpadE1DSHRORmdJbkNVRUVOQTRoTHBGR2F6SWVJQ3U3Q1pLZQ?oc=5",
-   "published_utc": "2026-10-18T14:13:00+00:00",
-   "title_original": "每周债市看点|央行9月公开市场国债买卖净投放1000亿元，深交所终止审核5笔债券项目",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7411b2a4b068c8ab"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T05:42:43.674187+00:00
+Última coleta: 2026-11-12T05:52:42.995984+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
-  🇨🇳 China          890
+  🇯🇵 Japão          963
+  🇨🇳 China          889
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  837
 
 ## O que já está no feed (não repita)
 
+  - [japan] Beer sales increase by 20% in October thanks to tax cut
   - [japan] Japan's producer inflation accelerates to 7.1% in October; BoJ urges caution on rate hikes
   - [japan] Crude Oil Could Keep Pressure on Japan Import Costs — Market Talk
   - [korea] The Korea Land and Housing Corporation (LH) has decided to invest a total of 2 trillion won this yea..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan PPI inflation surges past expectations in Oct By Investing.com
   - [japan] Japan PPI inflation surges past expectations in Oct
   - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
-  - [japan] BREAKING NEWS: Further rate hikes may weigh on underlying inflation in Japan: BOJ's Asada
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T05:42:43+00:00",
+      "published_utc": "2026-11-12T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
