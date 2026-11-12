@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T10:02:43.082146+00:00
+Última coleta: 2026-11-12T10:12:44.955528+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          963
   🇨🇳 China          882
-  🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  839
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC confirms employee data leak as hackers seek 3 BTC for the records
+  - [japan] [Consumption tax reduction] 5 trillion yen per year is ``enough to cover the costs'' / Mr. Ishiba and Mr. Obuc
   - [china] China's trade surplus, strong exports to support yuan appreciation against US dollar: Report
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China chip stocks rally as U.S. weighs curbs on remote AI access
   - [japan] BOJ Board Member Asada Could Dissent Again in December — Market Talk
   - [china] China’s central bank vows ample liquidity and yuan stability in Q3 monetary policy report
-  - [japan] Beer sales increase by 20% in October thanks to tax cut
-  - [japan] Japan's producer inflation accelerates to 7.1% in October; BoJ urges caution on rate hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T10:02:43+00:00",
+      "published_utc": "2026-11-12T10:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

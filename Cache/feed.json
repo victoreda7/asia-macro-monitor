@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-12T10:02:43.082146+00:00",
- "collected_at_utc": "2026-11-12T10:02:43.082146+00:00",
+ "generated_at_utc": "2026-11-12T10:12:44.955528+00:00",
+ "collected_at_utc": "2026-11-12T10:12:44.955528+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 963,
   "china": 882,
-  "taiwan": 316,
-  "korea": 839
+  "taiwan": 317,
+  "korea": 838
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T09:43:00+00:00"
+   "newest": "2026-11-12T10:04:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T09:04:45+00:00"
+   "newest": "2026-11-12T10:01:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T19:00:17+09:00"
+   "newest": "2026-11-12T19:06:17+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T18:43:15+09:00"
+   "newest": "2026-11-12T19:03:39+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T10:01:28+00:00"
+   "newest": "2026-11-12T10:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T09:36:00+00:00"
+   "newest": "2026-11-12T10:02:14+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-12T16:01:00+09:00"
+   "newest": "2026-11-12T19:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,47 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T23:00:00+00:00"
+   "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Crypto Briefing",
+   "title_en": "TSMC confirms employee data leak as hackers seek 3 BTC for the records",
+   "url": "https://www.tradingview.com/news/cryptobriefing:d4e317cfb094b:0-tsmc-confirms-employee-data-leak-as-hackers-seek-3-btc-for-the-records/",
+   "published_utc": "2026-11-12T10:02:57+00:00",
+   "title_original": "TSMC confirms employee data leak as hackers seek 3 BTC for the records",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3bb7d6e6f869507e"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[Consumption tax reduction] 5 trillion yen per year is ``enough to cover the costs'' / Mr. Ishiba and Mr. Obuchi... What do you think about the members who \"resigned in protest\" / \"Contradiction\" in the opposition party's claims / What do you think about the \"appropriateness\" as a measure against high prices? [How to look at politics (Itsunori Onodera)] | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964634?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-12T10:00:00+00:00",
+   "title_original": "【消費税減税】単年度5兆円の財源は「十分やりくり可能」／石破氏､小渕氏…“造反退席”議員に今思うこと／野党の主張に感じる「矛盾」／物価高対策としての「妥当性」をどう考える？【政治の見方（小野寺五典）】 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6528b7c970d67407"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Asian News International",
@@ -1553,23 +1590,6 @@
    "live_wire": false,
    "manual": false,
    "id": "137eb288f0beadfd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Dovish BOJ Member Urges Caution in Raising Rates Further",
-   "url": "https://www.tradingview.com/news/DJN_DN20261111009702:0-dovish-boj-member-urges-caution-in-raising-rates-further/",
-   "published_utc": "2026-11-12T02:43:00+00:00",
-   "title_original": "Dovish BOJ Member Urges Caution in Raising Rates Further",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aedfd1df3d85f067"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51910,23 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "42da8dcba958c49b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "NPS’s stock holdings lose $136bn in Q3 amid Samsung, SK hynix slump",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1penpqek9PWmIwQ3FfazJROFI5VXZqeUEtRTEtRFJTcWRoVjI5YXlfQjE2OTVTZERNV3dtRU9iZWtsRVBPb2JVLTJYLTJ0WHJLcVVWdUhCRQ?oc=5",
-   "published_utc": "2026-10-19T01:49:31+00:00",
-   "title_original": "NPS’s stock holdings lose $136bn in Q3 amid Samsung, SK hynix slump",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "db58763a0882baa2"
   },
   {
    "source_id": "manual_ia",
