@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T02:52:43.635387+00:00
+Última coleta: 2026-11-12T03:02:46.271970+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          950
-  🇨🇳 China          893
-  🇹🇼 Taiwan         307
+  🇨🇳 China          892
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
+  - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
   - [japan] Dovish BOJ Member Urges Caution in Raising Rates Further
   - [japan] [Illustration] Corporate prices rose 7.1% in October = Growth expanded due to rise in crude oil prices - Bank 
   - [japan] Yen Hitting 160 to Dollar Again Won't Be Surprising — Market Talk
@@ -46,6 +48,7 @@ Total: 3000 manchetes
   - [japan] Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
   - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
+  - [china] China's central bank vows to step up counter-cyclical adjustment, boost domestic demand
   - [japan] Bank of Japan Accounts (November 10)
   - [japan] Japan FX Chief Cautions Against Forgetting Summer Intervention
   - [japan] Yen Near $160 per Dollar as Intervention Concerns Rise
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan top currency diplomat says FX moves in the past few days too rapid
   - [japan] Japan wholesale inflation accelerates, keeps alive rate hike view
   - [japan] Japan Producer Prices Jump 0.7% In October
-  - [japan] Dollar near one-month high as yen edges toward 160
-  - [japan] JAPAN OCT CGPI IMPORT INDEX +24.8% Y/Y IN YEN TERMS FOR 11TH STRAIGHT RISE VS. REVISED +23.8% IN SEPT
-  - [japan] Domestic corporate goods prices rose 7.1% year-on-year in October, growth rate increasing from previous month 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T02:52:43+00:00",
+      "published_utc": "2026-11-12T03:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
