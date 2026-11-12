@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T17:02:45.109884+00:00
+Última coleta: 2026-11-12T17:12:46.169751+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
+  🇯🇵 Japão          966
   🇨🇳 China          878
-  🇹🇼 Taiwan         319
+  🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months
   - [japan] Takaichi looks to meet with Trump to head off defense spending demands
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [china] Anxian Yuan China Expects HY Net Profit Of HK$18 MLN
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Fed hike 'certainty' pushes Asian currencies lower with yen down near 160
   - [korea] South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging
-  - [japan] Japan’s FX Chief Warns Not To Forget Summer Intervention
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T17:02:45+00:00",
+      "published_utc": "2026-11-12T17:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

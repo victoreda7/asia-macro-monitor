@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T17:02:45.109884+00:00",
- "collected_at_utc": "2026-11-12T17:02:45.109884+00:00",
+ "generated_at_utc": "2026-11-12T17:12:46.169751+00:00",
+ "collected_at_utc": "2026-11-12T17:12:46.169751+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
+  "japan": 966,
   "china": 878,
-  "taiwan": 319,
+  "taiwan": 318,
   "korea": 838
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T12:30:50+00:00"
+   "newest": "2026-11-12T14:32:51+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T01:37:04+09:00"
+   "newest": "2026-11-13T02:07:38+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T17:02:11+00:00"
+   "newest": "2026-11-12T17:11:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75110",
+   "published_utc": "2026-11-12T17:07:38+00:00",
+   "title_original": "円相場1ドル＝160円台 約2か月ぶり円安水準",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4fda450cce847c69"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -2737,8 +2754,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -2752,7 +2769,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2926,8 +2943,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -2941,7 +2958,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51913,23 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "af81379d04a36c92"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Finance minister leads Taiwan delegation to APEC meeting in Hong Kong",
-   "url": "https://focustaiwan.tw/business/202610190006",
-   "published_utc": "2026-10-19T03:38:59+00:00",
-   "title_original": "Finance minister leads Taiwan delegation to APEC meeting in Hong Kong",
-   "region": "taiwan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "03778d564ee59637"
   },
   {
    "source_id": "manual_ia",
