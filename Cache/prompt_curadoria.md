@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T04:02:43.688985+00:00
+Última coleta: 2026-11-12T04:12:43.215847+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          956
-  🇨🇳 China          890
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  845
+  🇯🇵 Japão          958
+  🇨🇳 China          891
+  🇹🇼 Taiwan         310
+  🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Yields Fall as Hopes for Accelerated BOJ Tightening Eases — Market Talk
+  - [japan] Asia FX holds losses as dollar hits 19-mth high; yen nears 160
+  - [china] U.S. finalizing rule to block China’s remote AI chip access- The Information
   - [china] China's yuan inches higher as PBOC sets firmer guidance
+  - [china] Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concer
+  - [taiwan] AUO and Innolux target 2028 commercial breakthrough in semiconductor packaging
   - [japan] Bank of Japan member Asada talks with the business community in Nagasaki to pay attention to the impact of int
   - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12, with a net
   - [japan] Corporate prices rose 7.1% in October; growth accelerated due to high crude oil prices and AI demand; Bank of 
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Today it launched a 384 billion yuan overnight reverse repurchase operation
   - [japan] US Dollar near one-month high as yen edges toward 160
   - [japan] Nissan Motor's interim financial results show a final deficit for the second consecutive term despite narrowin
-  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation
-  - [china] China Renaissance taps ex-Shenwan Hongyuan executive to lead Hong Kong business
-  - [china] Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts
-  - [japan] Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand
-  - [korea] Foreign student boom puts Seoul housing on global investors' radar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T04:02:43+00:00",
+      "published_utc": "2026-11-12T04:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
