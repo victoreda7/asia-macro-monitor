@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T15:52:43.728603+00:00
+Última coleta: 2026-11-12T16:02:43.808416+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
-  🇨🇳 China          881
+  🇯🇵 Japão          963
+  🇨🇳 China          880
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [japan] Takaichi looks to meet with Trump to head off defense spending demands
+  - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [china] Anxian Yuan China Expects HY Net Profit Of HK$18 MLN
   - [china] Chinese AI firms scramble for Nvidia chips amid fears of tighter US curbs: report
   - [china] USDA anuncia venda de soja à China, enquanto Pequim cobra dos EUA avanço em acordo de redução de tarifas
+  - [china] Speaker Johnson says Congress developing consensus on limiting chip exports to China
   - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
   - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
   - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Fed hike 'certainty' pushes Asian currencies lower with yen down near 160
   - [korea] South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging
   - [japan] Japan’s FX Chief Warns Not To Forget Summer Intervention
-  - [japan] Bank of Japan member Asada: “We need to be mindful of the economic downside risks brought about by interest ra
-  - [taiwan] Foxconn Chairman: Component Supply Constraints, Geopolitics, Inflation and Monetary Policy in Focus
-  - [japan] Cosel Co Ltd - To Buy Back Up To 3.89% Of Own Shares Worth 1.9 Billion Yen Before Market Open On Friday
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T15:52:43+00:00",
+      "published_utc": "2026-11-12T16:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T15:52:43.728603+00:00",
- "collected_at_utc": "2026-11-12T15:52:43.728603+00:00",
+ "generated_at_utc": "2026-11-12T16:02:43.808416+00:00",
+ "collected_at_utc": "2026-11-12T16:02:43.808416+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 962,
-  "china": 881,
+  "japan": 963,
+  "china": 880,
   "taiwan": 319,
   "korea": 838
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T15:34:15+00:00"
+   "newest": "2026-11-12T15:54:06+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T15:31:06+00:00"
+   "newest": "2026-11-12T15:48:53+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T19:30:53+00:00"
+   "newest": "2026-11-12T04:29:53+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T09:17:44+00:00"
+   "newest": "2026-11-12T14:37:58+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T15:51:55+00:00"
+   "newest": "2026-11-12T16:01:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Takaichi looks to meet with Trump to head off defense spending demands",
+   "url": "https://asia.nikkei.com/politics/international-relations/takaichi-looks-to-meet-with-trump-to-head-off-defense-spending-demands",
+   "published_utc": "2026-11-12T16:02:42.885605+00:00",
+   "title_original": "Takaichi looks to meet with Trump to head off defense spending demands",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fefd41440cf9ffd1"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "US says China agreed importance of leader-level talks to advance denuclearization",
+   "url": "https://www.investing.com/news/economy-news/chinas-foreign-minister-says-call-withrubio-was-positive-and-constructive-5020127",
+   "published_utc": "2026-11-12T15:48:53+00:00",
+   "title_original": "US says China agreed importance of leader-level talks to advance denuclearization",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb7b5b21853c6fb3"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Anxian Yuan China Expects HY Net Profit Of HK$18 MLN",
@@ -393,6 +427,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e140460d2d4e5aee"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Speaker Johnson says Congress developing consensus on limiting chip exports to China",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFBGZG9jUFFjX0tFY2tXSEVILWxGWU1rMzBvT1pTcUpqa2tEdEV0QWRybENzel9tU3hIQVhmTngyY3VGRGZZeGtCWDhEWm1oRXBzVWlGRnhwRzJrd0Z5bGZhUi1STHFLdFdLVnhoRUxMOW42MkNSSjNZX3JQR0o3OVpBSE10bE1kekw3OVVXYXVub0NzekN5NE4zb1JpRzB6Zjl2V1pTWFEteUQ1Q0hxd2lhLV9JLXloLVJqbWhUQ1pmN21H?oc=5",
+   "published_utc": "2026-11-12T14:37:58+00:00",
+   "title_original": "Speaker Johnson says Congress developing consensus on limiting chip exports to China",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f00571ec2119ff9f"
   },
   {
    "source_id": "tradingview_live",
@@ -1641,23 +1693,6 @@
    "live_wire": false,
    "manual": false,
    "id": "166ac5132b58919b"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "US says China agreed importance of leader-level talks to advance denuclearization",
-   "url": "https://www.investing.com/news/economy-news/chinas-foreign-minister-says-call-withrubio-was-positive-and-constructive-5020127",
-   "published_utc": "2026-11-12T02:54:16+00:00",
-   "title_original": "US says China agreed importance of leader-level talks to advance denuclearization",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb7b5b21853c6fb3"
   },
   {
    "source_id": "gn_tw_cna",
@@ -5149,23 +5184,6 @@
    "id": "ddb86363bccc9b4f"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
-   "published_utc": "2026-11-10T11:15:37+00:00",
-   "title_original": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1398ae0aff03df27"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's iron ore imports hit lowest level in five months",
@@ -5181,6 +5199,23 @@
    "live_wire": true,
    "manual": false,
    "id": "66e1e717f63e24d2"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+   "published_utc": "2026-11-10T11:11:00+00:00",
+   "title_original": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "tradingview_live",
@@ -51895,40 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a9f66a4f784fa959"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "VIEW China's economic growth accelerates to 4.5% in third quarter",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXFNS245X3pBcV9XTmxwQVljcVRHRW9YWER5N3EtUlo3UnBXVm9WaE5VbUdDTTBMczJnY0hQeEpEYUdackhNb1g4VGhIcUM4VGl5UnlwOEJCT1ZqREhRZXMwVUFMVzlmT3lneGZROGR0STFaeGNuVmlCTnNEaFNjYlRta3RSd2tXVEJyOHJWNkgtSjdqZnZtanRYOUNDckZ4RUtfeTgzOTV5b3RYX0hFTg?oc=5",
-   "published_utc": "2026-10-19T02:40:00+00:00",
-   "title_original": "VIEW China's economic growth accelerates to 4.5% in third quarter",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ed56761ef46c2a31"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China industrial output, retail sales beat forecasts in September",
-   "url": "https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
-   "published_utc": "2026-10-19T02:34:59+00:00",
-   "title_original": "China industrial output, retail sales beat forecasts in September",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "00404f1a45fdc07b"
   },
   {
    "source_id": "manual_ia",
