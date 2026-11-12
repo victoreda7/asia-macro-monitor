@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T03:02:46.271970+00:00
+Última coleta: 2026-11-12T03:12:43.959686+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          950
+  🇯🇵 Japão          951
   🇨🇳 China          892
-  🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  850
+  🇹🇼 Taiwan         309
+  🇰🇷 Coreia do Sul  848
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties
+  - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen softens
   - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
+  - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
   - [japan] Dovish BOJ Member Urges Caution in Raising Rates Further
   - [japan] [Illustration] Corporate prices rose 7.1% in October = Growth expanded due to rise in crude oil prices - Bank 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Near $160 per Dollar as Intervention Concerns Rise
   - [japan] The business cost index in October increased by 7.1% compared with the same month last year
   - [japan] Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view
-  - [japan] Japan top currency diplomat says FX moves in the past few days too rapid
-  - [japan] Japan wholesale inflation accelerates, keeps alive rate hike view
-  - [japan] Japan Producer Prices Jump 0.7% In October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T03:02:46+00:00",
+      "published_utc": "2026-11-12T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

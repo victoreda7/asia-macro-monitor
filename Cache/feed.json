@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T03:02:46.271970+00:00",
- "collected_at_utc": "2026-11-12T03:02:46.271970+00:00",
+ "generated_at_utc": "2026-11-12T03:12:43.959686+00:00",
+ "collected_at_utc": "2026-11-12T03:12:43.959686+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 950,
+  "japan": 951,
   "china": 892,
-  "taiwan": 308,
-  "korea": 850
+  "taiwan": 309,
+  "korea": 848
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T10:30:00+00:00"
+   "newest": "2026-11-11T17:48:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T02:43:43+00:00"
+   "newest": "2026-11-12T03:01:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T02:24:41+00:00"
+   "newest": "2026-11-12T02:54:16+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-12T11:53:06+09:00"
+   "newest": "2026-11-12T12:05:57+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T01:04:00+00:00"
+   "newest": "2026-11-12T02:17:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T01:53:00+00:00"
+   "newest": "2026-11-12T02:17:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T03:01:52+00:00"
+   "newest": "2026-11-12T03:11:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-12T11:30:00+09:00"
+   "newest": "2026-11-12T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties",
+   "url": "https://asia.nikkei.com/business/aerospace-defense-industries/ukraine-defense-tech-unicorn-cultivates-taiwan-and-japan-supply-chain-ties",
+   "published_utc": "2026-11-12T03:12:43.138001+00:00",
+   "title_original": "Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1cb6a45453e78dec"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T00K:0-dollar-rises-to-19-month-high-as-fed-hike-bets-grow-yen-softens/",
+   "published_utc": "2026-11-12T03:11:15+00:00",
+   "title_original": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dd164abdfa8c9ce1"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting tomorrow",
@@ -360,6 +394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ecd475b530121081"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "US says China agreed importance of leader-level talks to advance denuclearization",
+   "url": "https://www.investing.com/news/economy-news/chinas-foreign-minister-says-call-withrubio-was-positive-and-constructive-5020127",
+   "published_utc": "2026-11-12T02:54:16+00:00",
+   "title_original": "US says China agreed importance of leader-level talks to advance denuclearization",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb7b5b21853c6fb3"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51888,57 +51939,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d74a083c5e4b8005"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46400F:0-galaxycore-plans-to-buy-back-shares-for-150-300-mln-yuan/",
-   "published_utc": "2026-10-18T07:44:43+00:00",
-   "title_original": "Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "601eebd27b0ee484"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스TV",
-   "title_en": "The Bank of Korea decides on the base interest rate on the 22nd... Take a breather",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VTmQwZXd1d00wZlJNR0N0WXNuM3pack11amJlaXAzSU1zQ0xNVXp4clFoenNEZmEyamFyaEVESXpuUXJUckdVUlA1QXoxbDVzVGVIWUZ5Qm1MN3lwMmVoWmhLeVREUVk?oc=5",
-   "published_utc": "2026-10-18T07:32:00+00:00",
-   "title_original": "한은, 22일 기준금리 결정…숨고르기 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "05447f52a4a2f57b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Foreign exchange prices are displayed at a currency exchange in Myeong-dong, Jung-gu, Seoul on the 1..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xaDg5UjhqRnFfaVZKOVFJZzJnbzFHa1FGMWpnM1lYeTlvRUh5dlhlVDBFOGxoY3c3aEJtYm50ZXlDZlpkUGoyTE5YSC1JNERtRWc?oc=5",
-   "published_utc": "2026-10-18T07:30:15+00:00",
-   "title_original": "Foreign exchange prices are displayed at a currency exchange in Myeong-dong, Jung-gu, Seoul on the 1..",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "880d56a043649b11"
   },
   {
    "source_id": "manual_ia",
