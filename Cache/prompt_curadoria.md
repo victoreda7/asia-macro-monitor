@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T11:32:42.659643+00:00
+Última coleta: 2026-11-12T11:42:43.591868+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          964
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Caixin Summit: TCL Chairman Urges Manufacturers to Embrace AI and Localize Overseas
   - [taiwan] Chailease Holding Company: Assets reached TWD 1 trillion as portfolio growth and 9M profit advanced
   - [japan] Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level
   - [taiwan] TSMC confirms employee data leak as hackers seek 3 BTC for the records
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] How bad is the memory crunch? Budget phones now use secondhand chips
   - [japan] Nikkei leads Asian sell-off after reports of Nvidia shake-up weigh on U.S. futures; Japan PPI beats forecasts
   - [taiwan] Foxconn: Expect 2027 AI Rack Shipment to Post High Double-Digit Growth >2317.TW
-  - [taiwan] Foxconn: Expect 4Q AI Server Rack Shipments to Post High Double-Digit Growth on Quarter >2317.TW
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T11:32:42+00:00",
+      "published_utc": "2026-11-12T11:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
