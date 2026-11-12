@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T02:22:43.620289+00:00
+Última coleta: 2026-11-12T02:32:42.491856+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          948
-  🇨🇳 China          894
+  🇯🇵 Japão          949
+  🇨🇳 China          893
   🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Hitting 160 to Dollar Again Won't Be Surprising — Market Talk
   - [china] Chinese chip firms Hosin, Amicro rise in Hong Kong debuts
+  - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
   - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike
+  - [japan] Japan PPI inflation surges past expectations in Oct
+  - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] BREAKING NEWS: Further rate hikes may weigh on underlying inflation in Japan: BOJ's Asada
   - [japan] “Rising prices” calls for a 0.5% interest rate hike in the US… “Falling oil prices” emerge as a relief pitcher
   - [japan] BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike (Kyodo News)
-  - [korea] South Korea’s Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] BOJ's Asada warns against premature rate hikes
   - [china] On November 12, the central bank launched a 384 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS
@@ -41,7 +44,6 @@ Total: 3000 manchetes
   - [japan] Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
   - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
-  - [japan] Japan's Mimura says markets shouldn't forget intervention risks as yen nears 160
   - [japan] Bank of Japan Accounts (November 10)
   - [japan] Japan FX Chief Cautions Against Forgetting Summer Intervention
   - [japan] Yen Near $160 per Dollar as Intervention Concerns Rise
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Domestic corporate goods prices rose 7.1% year-on-year in October, growth rate increasing from previous month 
   - [japan] JAPAN OCT CGPI KEY ENERGY PRICES: CRUDE OIL/COAL PRODUCTS +15.9% VS. SEPT +11.5%
   - [japan] Corporate prices rise 7.1% in October Bank of Japan (Jiji Press)
-  - [japan] JAPAN OCT PRODUCER PRICES +0.7% M/M, FIRST RISE IN 3 MONTHS (SEPT REVISED UP TO -0.2%);MEDIAN FORECAST +0.2%
-  - [japan] Corporate Goods Price Index (Oct.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T02:22:43+00:00",
+      "published_utc": "2026-11-12T02:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

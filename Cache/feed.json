@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T02:22:43.620289+00:00",
- "collected_at_utc": "2026-11-12T02:22:43.620289+00:00",
+ "generated_at_utc": "2026-11-12T02:32:42.491856+00:00",
+ "collected_at_utc": "2026-11-12T02:32:42.491856+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 948,
-  "china": 894,
+  "japan": 949,
+  "china": 893,
   "taiwan": 307,
   "korea": 851
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T02:03:32+00:00"
+   "newest": "2026-11-12T02:18:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T02:01:01+00:00"
+   "newest": "2026-11-12T02:18:44+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T02:22:03+00:00"
+   "newest": "2026-11-12T02:32:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T02:01:58+00:00"
+   "newest": "2026-11-12T02:16:24+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T02:06:35+00:00"
+   "newest": "2026-11-12T02:09:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Hitting 160 to Dollar Again Won't Be Surprising — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261111009659:0-yen-hitting-160-to-dollar-again-won-t-be-surprising-market-talk/",
+   "published_utc": "2026-11-12T02:28:00+00:00",
+   "title_original": "Yen Hitting 160 to Dollar Again Won't Be Surprising — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c67c85a9e8f40538"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -361,6 +378,23 @@
    "id": "5a917d29f33a1ac9"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to the pace'' (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GLTNPajBEdGlWb3QyODRHRzlDdkdBUmNfbmhJbTl6blZBRFd2T0VuMGdpMmYxdEc2Sm9zOUN6M3VzRVlwZUI0REpzd2JBUFlCbV9rMFhPakJyVGxNQ1pzLThwX1hSWDlnMV9sTEh3Z0FnRVZadkROWFFwdjlHS1U?oc=5",
+   "published_utc": "2026-11-12T02:16:24+00:00",
+   "title_original": "日銀委員、利上げで経済減速懸念 「ペースに留意する必要ある」（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d519a304668c1f80"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Dovish BOJ policymaker Asada pushes back against early rate hike",
@@ -377,6 +411,40 @@
    "live_wire": true,
    "manual": false,
    "id": "16e3ad452c931a39"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan PPI inflation surges past expectations in Oct",
+   "url": "https://www.investing.com/news/economic-indicators/japan-ppi-inflation-surges-past-expectations-in-oct-5020186",
+   "published_utc": "2026-11-12T02:12:39+00:00",
+   "title_original": "Japan PPI inflation surges past expectations in Oct",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0506e084169b2a31"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T01T:0-south-korea-s-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment/",
+   "published_utc": "2026-11-12T02:12:28+00:00",
+   "title_original": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "92daf9fc7217de1d"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -448,23 +516,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7e1f4fd77b815a80"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "South Korea’s Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
-   "url": "https://www.investing.com/news/stock-market-news/south-koreas-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment-5020166",
-   "published_utc": "2026-11-12T01:48:22+00:00",
-   "title_original": "South Korea’s Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4fb4d01abf26c848"
   },
   {
    "source_id": "tradingview_live",
@@ -759,23 +810,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4c8ff73f46d6dd01"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Mimura says markets shouldn't forget intervention risks as yen nears 160",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46T00S:0-japan-s-mimura-says-markets-shouldn-t-forget-intervention-risks-as-yen-nears-160/",
-   "published_utc": "2026-11-12T01:03:03+00:00",
-   "title_original": "Japan's Mimura says markets shouldn't forget intervention risks as yen nears 160",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9a2d0f1e6a0e69df"
   },
   {
    "source_id": "boj_whatsnew",
@@ -1435,8 +1469,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -1450,7 +1484,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1641,8 +1675,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -1656,7 +1690,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -4789,7 +4823,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXFQdXM5NGdadXhNSnRhalRtOE9aSHdPYUNyeWtIam9xZ3JjMEI5cGxyUGpZbXBQamZlY2hxZFdTRC1NbllidG1MdDNpb193bGdmMEpwdGhLMmxLQjVQekZGNEpRY181RkVick94WHlDMTMtblVBaTNWT0tRSkVmNXhlSEZYcFFRTV96WVAzLURWcEo3MGx1RDZFdk1KQ1plTldWdHlxbkdHVlVsX1k0bw?oc=5",
    "published_utc": "2026-11-10T04:54:00+00:00",
@@ -51904,41 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f4acc30d308c882c"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's new home prices fall again as recovery remains elusive",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndWUGt0d00tOWNGS2lsS3c3WmZTcWFaeVZwNUJVZC0tNkpaR295ZkJpc3FiWGgyeEVUYkgwUi1OUXpiUUo3WG5xeDN3WnpXNlIzc3hSdWxPdkpPcVd4QjI0eTNtR19KX25FcmNRYjlBX2h1R2twRzlPeW1wb0t5QnJ6Q091bnpSMVpLa3cycXAxS2JlTU13YWw5TGhqREx2NGJ3bG5GTi16d0dNVmpzSkVfR3RqclJFd0J0MzdB?oc=5",
-   "published_utc": "2026-10-18T07:00:00+00:00",
-   "title_original": "China's new home prices fall again as recovery remains elusive",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "398cc36db2c31844"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate any more” stance on continuing interest rate hikes (NTV NEWS NNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VEV5M3lJdjIwOTlaaWpBUzFpMWxKZjByZ00yMFYxRXdRUnhqYlhlcVNUdXFUdnZHeUE1dDk2WXphSW1hMWhxUGZPcUk0S2dzMF9WTTl0eklKd05fY2lwbTJ0Mk5SUlZNVFJiUjd2N0lsTEtySmwzNEEzcTdYM1E?oc=5",
-   "published_utc": "2026-10-18T06:30:00+00:00",
-   "title_original": "基調的な物価上昇率“2％に近づく” 日銀・植田総裁「これ以上は容認できない」利上げ継続の姿勢（日テレNEWS NNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f0f97d79a27831f2"
   },
   {
    "source_id": "manual_ia",
