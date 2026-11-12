@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T02:02:44.582065+00:00",
- "collected_at_utc": "2026-11-12T02:02:44.582065+00:00",
+ "generated_at_utc": "2026-11-12T02:12:43.699293+00:00",
+ "collected_at_utc": "2026-11-12T02:12:43.699293+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 941,
-  "china": 896,
-  "taiwan": 305,
-  "korea": 858
+  "japan": 944,
+  "china": 894,
+  "taiwan": 307,
+  "korea": 855
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:39:36+00:00"
+   "newest": "2026-11-12T01:36:16+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T01:41:31+00:00"
+   "newest": "2026-11-12T02:03:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T01:12:38+00:00"
+   "newest": "2026-11-12T02:01:01+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-11T08:49:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T22:12:18+00:00"
+   "newest": "2026-11-12T01:04:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T22:18:00+00:00"
+   "newest": "2026-11-12T01:04:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T02:02:19+00:00"
+   "newest": "2026-11-12T02:11:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T18:35:04+00:00"
+   "newest": "2026-11-11T21:34:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T00:34:00+00:00"
+   "newest": "2026-11-12T01:50:29+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-12T01:27:01+00:00"
+   "newest": "2026-11-12T02:01:03+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T01:04:36+00:00"
+   "newest": "2026-11-12T02:06:35+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -360,6 +360,40 @@
    "live_wire": false,
    "manual": false,
    "id": "66e15d4e7913746e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member worries about economic slowdown due to interest rate hike (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OWi1xemNzNC1abTFDNDhGMms3U0VGUkVOQWJBbWFEUXJOaE1OTG01QU9UUlVwZmI2RVFXZTNCbE4yTFh1YkwzYUJMcHRoc3BucHNhNkNxblRLS2JsWWpPNGdJVDd1LTlCYU5sRVRrZ2l5NVBvSHl1TkQ4alFmZ0U?oc=5",
+   "published_utc": "2026-11-12T01:50:29+00:00",
+   "title_original": "日銀委員、利上げによる経済減速懸念（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e1f4fd77b815a80"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "South Korea’s Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+   "url": "https://www.investing.com/news/stock-market-news/south-koreas-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment-5020166",
+   "published_utc": "2026-11-12T01:48:22+00:00",
+   "title_original": "South Korea’s Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4fb4d01abf26c848"
   },
   {
    "source_id": "tradingview_live",
@@ -414,6 +448,23 @@
    "id": "d087fc275e5f5c3f"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTV1VkpMaHg3bHNSUWx6VHF4MDdKam5nQU5GZHd6cGJoM052RS1TQlZpcy1BMTNzczVhOUN3dVpmeHNVU3UyZTBGeDFYMFBjaFU0S1diY19XVUczNlNCbzhEYlhmRDVkOWgtOVZTcElmMlpjSDV6eGN4RHl4eUlOLUtBdmhTRHp2aFBwajhtdGVkbzNhcDZqVmNDWXhLQjlBdUE?oc=5",
+   "published_utc": "2026-11-12T01:35:10+00:00",
+   "title_original": "Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e639e91a374a1cfb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7174 THURS VS 6.7191",
@@ -429,6 +480,41 @@
    "live_wire": true,
    "manual": false,
    "id": "580dbc67f9191340"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0wtbFJQamhsel9sRm9PTTB4RmRPeGpteWJINEdQZV9ETFAtNlg4Sy1LanloU2RVSDlCWklHQ1B6SHVDa1BVVkVkLTIzdHI5S0ZzR2czbDJGcHpKX09lS2F4LTlab05VWkR6WW52UF8zNnlBTlNTVkJVMWxwcUxvWWJRdFpIbXI3bnBXZy10Q0x1N2oxdnJ3MlVR?oc=5",
+   "published_utc": "2026-11-12T01:34:14+00:00",
+   "title_original": "Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9bf6ff9b883fbc5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Japan Producer-Price Inflation Accelerates, Bolstering Case for Another BOJ Hike",
+   "url": "https://www.tradingview.com/news/binance_news:18b69f5ae094b:0-japan-producer-price-inflation-accelerates-bolstering-case-for-another-boj-hike/",
+   "published_utc": "2026-11-12T01:30:20+00:00",
+   "title_original": "Japan Producer-Price Inflation Accelerates, Bolstering Case for Another BOJ Hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "55264ab9eb86ad23"
   },
   {
    "source_id": "boj_whatsnew",
@@ -482,23 +568,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b93405f68e4509ab"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45T0A1:0-south-korea-s-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment/",
-   "published_utc": "2026-11-12T01:27:06+00:00",
-   "title_original": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8551ad5016aa619d"
   },
   {
    "source_id": "nhk_economy",
@@ -618,6 +687,40 @@
    "live_wire": false,
    "manual": false,
    "id": "05d53d3dae6e17f5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Japan FX Chief Cautions Against Forgetting Summer Intervention",
+   "url": "https://www.tradingview.com/news/binance_news:af14b771e094b:0-japan-fx-chief-cautions-against-forgetting-summer-intervention/",
+   "published_utc": "2026-11-12T00:53:25+00:00",
+   "title_original": "Japan FX Chief Cautions Against Forgetting Summer Intervention",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "82f3adc142ea3b47"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Yen Near $160 per Dollar as Intervention Concerns Rise",
+   "url": "https://www.tradingview.com/news/binance_news:ecde90b42094b:0-yen-near-160-per-dollar-as-intervention-concerns-rise/",
+   "published_utc": "2026-11-12T00:52:05+00:00",
+   "title_original": "Yen Near $160 per Dollar as Intervention Concerns Rise",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d66fc3f968360503"
   },
   {
    "source_id": "nhk_economy",
@@ -3158,6 +3261,23 @@
    "id": "1e03ba31b67b5205"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmRVYxZlFLY2ZGNXg2RDNWSGhUamJERTdiU2ZHT29JV0JGVEFLaDFIcXZLMGJpakp4WVZwd19DT1h0V0paNk1qZGRKbWpJRlJPOGpZN2hSYTVsQWEwNVBTcnA3SQ?oc=5",
+   "published_utc": "2026-11-10T19:27:00+00:00",
+   "title_original": "Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f8d7798feb85cccf"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8810.23, Implies 159% Upside",
@@ -3173,23 +3293,6 @@
    "live_wire": true,
    "manual": false,
    "id": "658e3d6f579395ae"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmRVYxZlFLY2ZGNXg2RDNWSGhUamJERTdiU2ZHT29JV0JGVEFLaDFIcXZLMGJpakp4WVZwd19DT1h0V0paNk1qZGRKbWpJRlJPOGpZN2hSYTVsQWEwNVBTcnA3SQ?oc=5",
-   "published_utc": "2026-11-10T18:27:00+00:00",
-   "title_original": "Japan automakers post strong sales on weaker yen | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8d7798feb85cccf"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51834,110 +51937,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0d55a6184fbcf6b2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's September refined fuel exports surge amid Iran war, diesel exports more than triple",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N464005:0-china-s-september-refined-fuel-exports-surge-amid-iran-war-diesel-exports-more-than-triple/",
-   "published_utc": "2026-10-18T04:14:11+00:00",
-   "title_original": "China's September refined fuel exports surge amid Iran war, diesel exports more than triple",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c2473185f687ec32"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "The Monetary Policy Committee has raised the base interest rate in succession, with a freeze expected this month.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84M2x5TWc4NXlISVVlNXNEc29lRWEzSUV4NTVpckF0aXRMbzNjWjExTEVlUllJdmpadmFkdXAxOU5MZEtMZXJnVDYyNVFUX0k2WFhtbTg0UkxVM0dFN3c?oc=5",
-   "published_utc": "2026-10-18T04:05:00+00:00",
-   "title_original": "기준금리 연속 인상한 금통위...이번 달 동결 전망도",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "13aace50261eb596"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's September grain, sugar and pork imports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620GS:0-china-s-september-grain-sugar-and-pork-imports/",
-   "published_utc": "2026-10-18T03:23:11+00:00",
-   "title_original": "China's September grain, sugar and pork imports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e4bc0c76458cab0d"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Ruling and opposition party leaders discuss consumption tax reduction bill NHK Sunday debate",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261018de61079",
-   "published_utc": "2026-10-18T03:19:58+00:00",
-   "title_original": "消費税減税法案めぐり与野党幹部が議論 NHK日曜討論",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dfc77ffb668bc876"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stock Story",
-   "title_en": "What To Expect From BOK Financial’s (BOKF) Q3 Earnings",
-   "url": "https://www.tradingview.com/news/stockstory:e83ae0e87094b:0-what-to-expect-from-bok-financial-s-bokf-q3-earnings/",
-   "published_utc": "2026-10-18T03:01:38+00:00",
-   "title_original": "What To Expect From BOK Financial’s (BOKF) Q3 Earnings",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "857c78e9595747ae"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Finance minister stresses tackling disparities for sustainable growth at IMFC",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOT3VqRVhVZW5RbGhpLWpPTV9ybXFyVDBYVHhhRjZkcHJGenQ2dUpIQWtZTElwdnhLTTlic2ZQT3Y1Z3NwR1hBOGdrWjVoUkxGc3ByWi1wWU1Ndw?oc=5",
-   "published_utc": "2026-10-18T03:00:01+00:00",
-   "title_original": "Finance minister stresses tackling disparities for sustainable growth at IMFC",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2e5a41cab4f53b8a"
   },
   {
    "source_id": "manual_ia",

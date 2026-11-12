@@ -7,25 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T02:02:44.582065+00:00
+Última coleta: 2026-11-12T02:12:43.699293+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          941
-  🇨🇳 China          896
-  🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  858
+  🇯🇵 Japão          944
+  🇨🇳 China          894
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  855
 
 ## O que já está no feed (não repita)
 
   - [japan] BREAKING NEWS: BOJ policymaker warns of downside risks to economy from rate hikes
+  - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike (Kyodo News)
+  - [korea] South Korea’s Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] BOJ's Asada warns against premature rate hikes
   - [china] On November 12, the central bank launched a 384 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY384 BLN VIA O/N REVERSE REPO THURS
+  - [taiwan] Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7174 THURS VS 6.7191
+  - [taiwan] Universities aren't factories: Can a hot-rodding spirit drive semiconductor innovation?
+  - [japan] Japan Producer-Price Inflation Accelerates, Bolstering Case for Another BOJ Hike
   - [japan] Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)
   - [china] Central Bank: Today it launched a 384 billion yuan overnight reverse repurchase operation
   - [japan] US Dollar near one-month high as yen edges toward 160
-  - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] Nissan Motor's interim financial results show a final deficit for the second consecutive term despite narrowin
   - [china] China Renaissance taps ex-Shenwan Hongyuan executive to lead Hong Kong business
   - [china] Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts
@@ -33,6 +37,8 @@ Total: 3000 manchetes
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
   - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
   - [japan] Bank of Japan Accounts (November 10)
+  - [japan] Japan FX Chief Cautions Against Forgetting Summer Intervention
+  - [japan] Yen Near $160 per Dollar as Intervention Concerns Rise
   - [japan] The business cost index in October increased by 7.1% compared with the same month last year
   - [japan] Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view
   - [japan] Japan top currency diplomat says FX moves in the past few days too rapid
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 370.31, Implies 31% Upside
   - [china] Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports
   - [korea] NC: Three growth pillars lifted Q3 results and underpin 2027 revenue guidance of KRW 3.2t–3.4t
-  - [japan] "Mizuho" is hotly chasing Mitsubishi UFJ and Sumitomo Mitsui... What is the difference in the "growth rate" of
-  - [japan] Consumption tax reduction bill begins deliberation in the House of Councilors and will be questioned by a spec
-  - [japan] Worst ranking of credit unions and credit unions in terms of net profit...While they continue to post deficits
-  - [japan] Risks posed by Russia's takeover of JT: "Are foreign assets safe?"... Huge foreign net worth = yen appreciatio
-  - [china] Como o presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e espio
-  - [china] US container imports set all-time volume record in October as Chinese imports spike, Descartes says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T02:02:44+00:00",
+      "published_utc": "2026-11-12T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
