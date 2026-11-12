@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T19:52:43.142573+00:00
+Última coleta: 2026-11-12T20:02:45.795557+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          966
+  🇯🇵 Japão          967
   🇨🇳 China          878
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  838
+  🇹🇼 Taiwan         316
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill to be questioned at House of Councilors special committee; debate over effectiv
+  - [korea] SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk
   - [japan] Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months
   - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
   - [japan] Yen Hovers Near Key 160 Level, Fueling Intervention Concerns
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] It is observed that housing prices in Seoul have entered an inflection point as the decline in apart..
   - [japan] Japan's Mimura reminds markets of intervention risks as yen nears 160
   - [china] Citi turns to China Inc.’s global expansion, yuan to grow cross-border business
-  - [japan] DXY: Dollar Hits 19-Month High Above 103, Yen Edges Toward ¥160 on Rate-Hike Prospects
-  - [china] Burberry CEO: Chinese Consumers Remain Very Important for Company
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T19:52:43+00:00",
+      "published_utc": "2026-11-12T20:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
