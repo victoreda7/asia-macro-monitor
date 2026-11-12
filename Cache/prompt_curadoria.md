@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T22:12:49.261796+00:00
+Última coleta: 2026-11-12T22:22:45.318775+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          970
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 366.43, Implies 32% Upside
   - [japan] US Treasury bought yen in July; Fed made no solo FX interventions in Q3
   - [japan] BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed
   - [japan] House wine remains the same even though Doria prices have increased... Why Saizeriya, which has been reconfirm
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level
   - [japan] Dollar hits 19-mth high on Fed hike bets; yen nears 160
   - [japan] Bank of Japan member Asada ``needs to pay attention to the pace'' of future interest rate hikes, expressing co
-  - [japan] The yen depreciates in the Tokyo foreign exchange market, at one point approaching 160 yen to the dollar.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T22:12:49+00:00",
+      "published_utc": "2026-11-12T22:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
