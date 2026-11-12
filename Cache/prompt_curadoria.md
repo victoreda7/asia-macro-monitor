@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T11:12:45.923860+00:00
+Última coleta: 2026-11-12T11:22:43.127004+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
-  🇨🇳 China          880
+  🇯🇵 Japão          963
+  🇨🇳 China          881
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  838
 
@@ -51,12 +51,12 @@ Total: 3000 manchetes
   - [korea] Hanwha Life Insurance: 9M earnings and CSM grew, while Q3 volatility drove KRW 431bn in investment losses
   - [japan] JAPAN MATERIAL: Semiconductor demand drove H1 sales up 20.4% and operating profit up 41.0% YoY
   - [japan] Tokyo Tatemono: Investor property sales lifted 9M profit, putting FY2026 targets ahead of schedule
+  - [china] Nexperia’s Chinese unit declares supply chain independence in chips
   - [taiwan] Taiwan's Foxconn bullish on outlook but warns about supply chain tightness
   - [korea] How bad is the memory crunch? Budget phones now use secondhand chips
   - [japan] Nikkei leads Asian sell-off after reports of Nvidia shake-up weigh on U.S. futures; Japan PPI beats forecasts
   - [taiwan] Foxconn: Expect 2027 AI Rack Shipment to Post High Double-Digit Growth >2317.TW
   - [taiwan] Foxconn: Expect 4Q AI Server Rack Shipments to Post High Double-Digit Growth on Quarter >2317.TW
-  - [japan] BOJ's Asada says role of reflationist policies may be over
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T11:12:46+00:00",
+      "published_utc": "2026-11-12T11:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
