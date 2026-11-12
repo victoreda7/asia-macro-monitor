@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T09:42:44.150402+00:00
+Última coleta: 2026-11-12T09:52:43.471339+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          963
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's trade surplus, strong exports to support yuan appreciation against US dollar: Report
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
   - [taiwan] Huida is like the central bank's "circular financing" in the AI ​​industry, may it cause financial risks? Expe
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s central bank vows ample liquidity and yuan stability in Q3 monetary policy report
   - [japan] Beer sales increase by 20% in October thanks to tax cut
   - [japan] Japan's producer inflation accelerates to 7.1% in October; BoJ urges caution on rate hikes
-  - [japan] Crude Oil Could Keep Pressure on Japan Import Costs — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T09:42:44+00:00",
+      "published_utc": "2026-11-12T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
