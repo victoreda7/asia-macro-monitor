@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T20:32:44.283306+00:00",
- "collected_at_utc": "2026-11-12T20:32:44.283306+00:00",
+ "generated_at_utc": "2026-11-12T20:42:44.060399+00:00",
+ "collected_at_utc": "2026-11-12T20:42:44.060399+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 967,
+  "japan": 968,
   "china": 878,
-  "taiwan": 316,
+  "taiwan": 315,
   "korea": 839
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T20:14:35+00:00"
+   "newest": "2026-11-12T20:32:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T19:48:28+00:00"
+   "newest": "2026-11-12T20:25:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-11T16:00:00+00:00"
+   "newest": "2026-11-12T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T20:31:01+00:00"
+   "newest": "2026-11-12T20:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -2787,8 +2787,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -2802,7 +2802,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2976,8 +2976,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -2991,7 +2991,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -3303,6 +3303,23 @@
    "live_wire": false,
    "manual": false,
    "id": "83b06b7abd20c817"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlRHcjgyWVJYOF82MDE2djRXRXFhY0JXZDdtVy15TmU0ZC1ia3puM1lyT1dGLUh0M0x0UUhrZVdUM3NZTURreTZNQlhXcElLckJ4bDhyZ1UzZFFzdUVJRF8xREZMQmh3UmZJdWo0VUJma3I4YTV4cVRHeFExM3NNcHl2aWJKZFZ3NFFlMkNsc1IycmctU3ZrTXJyWTJCRk1lRzd1bElKMmFlNzU0?oc=5",
+   "published_utc": "2026-11-11T08:00:00+00:00",
+   "title_original": "Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e59c76a054ddef93"
   },
   {
    "source_id": "investing_live",
@@ -7016,23 +7033,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ce5bb27736accb60"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlRHcjgyWVJYOF82MDE2djRXRXFhY0JXZDdtVy15TmU0ZC1ia3puM1lyT1dGLUh0M0x0UUhrZVdUM3NZTURreTZNQlhXcElLckJ4bDhyZ1UzZFFzdUVJRF8xREZMQmh3UmZJdWo0VUJma3I4YTV4cVRHeFExM3NNcHl2aWJKZFZ3NFFlMkNsc1IycmctU3ZrTXJyWTJCRk1lRzd1bElKMmFlNzU0?oc=5",
-   "published_utc": "2026-11-10T01:19:25+00:00",
-   "title_original": "Exclusive: Quantum beyond quantum—Photarix bets on a new era of semiconductor photonics",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e59c76a054ddef93"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -12874,6 +12874,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ed4ed2b014fdc478"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan to tap proceeds from BOJ asset sales as AI rout stokes fiscal worries By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFFBMU9IZUFIWDh3TnB6WkZ5LWh1dVRacC1WN0FxZEdBaC1XY0NieUdFN3RKR0VFUU84a05qdFY4d1dmRnVJNHpIQXBjQTFkeUlrdGVRRWplQ3dCUUN2Xzd1czNQdFF5Y3pSUGJyR25XNVB1VWNlckdTbjVqbGFWeF91NFZua1R1XzNjWHk4SGJ2eWpfWUtNTG9vcUdoYUF6SURYMTY1UDBnRnJ5Wk01Qmxkd29CUkFMaFRiTlR4VU9IYmlfdXJqMDBR?oc=5",
+   "published_utc": "2026-11-06T02:41:47+00:00",
+   "title_original": "Japan to tap proceeds from BOJ asset sales as AI rout stokes fiscal worries By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "99d7237428dbd915"
   },
   {
    "source_id": "focus_taiwan",
@@ -51911,24 +51929,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1acb7da8bdcf55c2"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The central bank's intraday announcement: The performance of the New Taiwan dollar is relatively stable and will be adjusted depending on the situation | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByd2dQVEVnZjJDZUF1aVE4bDJnLTdvZ0ZLRXc2cFVobWg5aXQyeUM4OFpkcE93YkFaZnVOZFBGMkxXOGs5S0Vyb2pHYkx2M3BSTVBiMkxBY1J6RlRqcEE?oc=5",
-   "published_utc": "2026-10-19T03:46:00+00:00",
-   "title_original": "股匯雙殺央行盤中喊話：新台幣表現相對穩定、將視情況調節| 產經",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "459aa32187eba9f5"
   },
   {
    "source_id": "manual_ia",
