@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-12T22:52:43.453107+00:00",
- "collected_at_utc": "2026-11-12T22:52:43.453107+00:00",
+ "generated_at_utc": "2026-11-12T23:02:49.887145+00:00",
+ "collected_at_utc": "2026-11-12T23:02:49.887145+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 972,
+  "japan": 973,
   "china": 875,
   "taiwan": 314,
-  "korea": 839
+  "korea": 838
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 32.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T22:24:44+00:00"
+   "newest": "2026-11-12T22:52:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T22:12:23+00:00"
+   "newest": "2026-11-12T22:42:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-12T21:26:51+00:00"
+   "newest": "2026-11-12T23:01:00+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-12T22:52:01+00:00"
+   "newest": "2026-11-12T23:01:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T22:35:11+00:00"
+   "newest": "2026-11-12T22:57:52+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,12 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "Japan Q3 GDP Seen Slightly Up as Capex Offsets First Private Consumption Drop in 10 Quarters",
+   "url": "https://www.tradingview.com/news/macenews:7e64bd7f3094b:0-japan-q3-gdp-seen-slightly-up-as-capex-offsets-first-private-consumption-drop-in-10-quarters/",
+   "published_utc": "2026-11-12T23:00:00+00:00",
+   "title_original": "Japan Q3 GDP Seen Slightly Up as Capex Offsets First Private Consumption Drop in 10 Quarters",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bb097af06170027e"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -2489,6 +2507,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9bb26f1ff05d097f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Corporate prices rise 7.1% in October; growth expands due to rise in crude oil prices Bank of Japan (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnQkJaN3V2T01qcGoxN3M3bFd3SUFrVjY1WndlcTFQOVBSMG94WTd6SVBfcXhybU4weTRYVnpiOUp2ZnZtczJMc19fdTJ2YW9VT2xBUFdDX0VCeWxJalB4ZnM2NkNOVXg4a0RBNVNKcGR4eEFubHZDM0JtMVFkWVE?oc=5",
+   "published_utc": "2026-11-11T23:57:51+00:00",
+   "title_original": "10月の企業物価、7．1％上昇 原油価格上昇で伸び拡大 日銀（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a80332001e0044fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51889,41 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "21f8fba07d2d210e"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTi1yQUp4VmJyS0NvX3RCcWhfSlB1N3hZLVRXLVV1YXh0aGVhdE14bXVhZ0RHN25RZkhWTHNRbmVtcy04MUExanJaaFRJbnU1OGxz?oc=5",
-   "published_utc": "2026-10-19T05:53:03+00:00",
-   "title_original": "Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "af0175e21c871d4e"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "House of Councilors, Liberal Democratic Party, Ritsumeikan Committee on National Affairs meeting, discussion on consumption tax reduction bill",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61538",
-   "published_utc": "2026-10-19T05:22:39+00:00",
-   "title_original": "参院自民 立民 国対委員長会談 消費税減税法案審議めぐり協議",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0cb61360477a8af0"
   },
   {
    "source_id": "manual_ia",
