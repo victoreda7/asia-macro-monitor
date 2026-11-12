@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T19:12:45.880830+00:00
+Última coleta: 2026-11-12T19:22:43.225710+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          966
@@ -24,8 +24,8 @@ Total: 3000 manchetes
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [china] Anxian Yuan China Expects HY Net Profit Of HK$18 MLN
   - [china] Chinese AI firms scramble for Nvidia chips amid fears of tighter US curbs: report
-  - [china] USDA anuncia venda de soja à China, enquanto Pequim cobra dos EUA avanço em acordo de redução de tarifas
   - [china] Speaker Johnson says Congress developing consensus on limiting chip exports to China
+  - [china] USDA anuncia venda de soja à China, enquanto Pequim cobra dos EUA avanço em acordo de redução de tarifas
   - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
   - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
   - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T19:12:46+00:00",
+      "published_utc": "2026-11-12T19:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
