@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T03:52:43.369947+00:00
+Última coleta: 2026-11-12T04:02:43.688985+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          955
+  🇯🇵 Japão          956
   🇨🇳 China          890
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  846
+  🇰🇷 Coreia do Sul  845
 
 ## O que já está no feed (não repita)
 
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [china] Chinese chip firms Hosin, Amicro rise in Hong Kong debuts
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
   - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike calls
+  - [japan] Japan PPI inflation surges past expectations in Oct By Investing.com
   - [japan] Japan PPI inflation surges past expectations in Oct
   - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] BREAKING NEWS: Further rate hikes may weigh on underlying inflation in Japan: BOJ's Asada
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese chip firms Hosin and Amicro are set to open mixed in Hong Kong debuts
   - [japan] Osaka Exchange aims to boost liquidity of mini JGB futures to meet hedging demand
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
-  - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T03:52:43+00:00",
+      "published_utc": "2026-11-12T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
