@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T03:32:45.806977+00:00
+Última coleta: 2026-11-12T03:42:45.529431+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          951
-  🇨🇳 China          892
+  🇯🇵 Japão          955
+  🇨🇳 China          889
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  848
+  🇰🇷 Coreia do Sul  847
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan member Asada talks with the business community in Nagasaki to pay attention to the impact of int
+  - [china] The central bank launched a 384 billion yuan overnight reverse repurchase operation on November 12, with a net
+  - [japan] Corporate prices rose 7.1% in October; growth accelerated due to high crude oil prices and AI demand; Bank of 
   - [taiwan] Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties
   - [japan] Dollar rises to 19-month high as Fed hike bets grow, yen softens
+  - [japan] Interest rate hike: ``need to pay close attention to pace''; concerns about negative impact on economy; Bank o
   - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [taiwan] Paraguay's Ueno Bank collapses Central Bank has partially refunded all eligible depositors | International
@@ -28,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike
   - [china] Chinese chip firms Hosin, Amicro rise in Hong Kong debuts
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
+  - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike calls
   - [japan] Japan PPI inflation surges past expectations in Oct
   - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] BREAKING NEWS: Further rate hikes may weigh on underlying inflation in Japan: BOJ's Asada
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Foreign student boom puts Seoul housing on global investors' radar
   - [japan] Japan’s top currency diplomat renews volatility warning as yen nears key 160 level
   - [china] China's central bank vows to step up counter-cyclical adjustment, boost domestic demand
-  - [japan] Bank of Japan Accounts (November 10)
-  - [japan] Japan FX Chief Cautions Against Forgetting Summer Intervention
-  - [japan] Yen Near $160 per Dollar as Intervention Concerns Rise
-  - [japan] The business cost index in October increased by 7.1% compared with the same month last year
-  - [japan] Japan wholesale inflation accelerates, keeps alive BOJ rate-hike view
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T03:32:46+00:00",
+      "published_utc": "2026-11-12T03:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
