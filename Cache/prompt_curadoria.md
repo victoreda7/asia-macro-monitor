@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T08:52:44.207852+00:00
+Última coleta: 2026-11-12T09:02:43.553702+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          959
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] ICC's survival is in danger due to sanctions; bipartisan coalition requests financial support from Japanese go
   - [korea] Fees for reading and issuing certificates of real estate registered matters (a certified copy of the..
   - [korea] It is observed that housing prices in Seoul have entered an inflection point as the decline in apart..
   - [china] Citi turns to China Inc.’s global expansion, yuan to grow cross-border business
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill Prime Minister Takaichi to attend House of Councilors special committee meeting
   - [china] Hartalega: Higher U.S. Tariffs on China-Origin Gloves Improve Price Competitiveness of Malaysia Producers
   - [china] Semiconductors lift China stocks; Hong Kong falls as Alibaba weighs
-  - [china] China's Central Bank Signals Easing Restraint as Growth Holds Up
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T08:52:44+00:00",
+      "published_utc": "2026-11-12T09:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
