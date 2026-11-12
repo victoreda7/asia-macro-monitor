@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T02:42:43.303147+00:00
+Última coleta: 2026-11-12T02:52:43.635387+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          949
+  🇯🇵 Japão          950
   🇨🇳 China          893
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dovish BOJ Member Urges Caution in Raising Rates Further
+  - [japan] [Illustration] Corporate prices rose 7.1% in October = Growth expanded due to rise in crude oil prices - Bank 
   - [japan] Yen Hitting 160 to Dollar Again Won't Be Surprising — Market Talk
+  - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike
   - [china] Chinese chip firms Hosin, Amicro rise in Hong Kong debuts
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
-  - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike
   - [japan] Japan PPI inflation surges past expectations in Oct
   - [korea] South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment
   - [japan] BREAKING NEWS: Further rate hikes may weigh on underlying inflation in Japan: BOJ's Asada
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar near one-month high as yen edges toward 160
   - [japan] JAPAN OCT CGPI IMPORT INDEX +24.8% Y/Y IN YEN TERMS FOR 11TH STRAIGHT RISE VS. REVISED +23.8% IN SEPT
   - [japan] Domestic corporate goods prices rose 7.1% year-on-year in October, growth rate increasing from previous month 
-  - [japan] JAPAN OCT CGPI KEY ENERGY PRICES: CRUDE OIL/COAL PRODUCTS +15.9% VS. SEPT +11.5%
-  - [japan] Corporate prices rise 7.1% in October Bank of Japan (Jiji Press)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T02:42:43+00:00",
+      "published_utc": "2026-11-12T02:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
