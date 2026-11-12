@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T06:12:43.875867+00:00
+Última coleta: 2026-11-12T06:22:44.143535+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          963
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ's Asada says role of reflationist policies may be over
   - [japan] BOJ Board Member Asada Could Dissent Again in December — Market Talk
   - [china] China’s central bank vows ample liquidity and yuan stability in Q3 monetary policy report
   - [japan] Beer sales increase by 20% in October thanks to tax cut
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese chip firms Hosin, Amicro rise in Hong Kong debuts
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
   - [japan] Dovish BOJ policymaker Asada pushes back against early rate hike calls
-  - [japan] Japan PPI inflation surges past expectations in Oct By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T06:12:44+00:00",
+      "published_utc": "2026-11-12T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
