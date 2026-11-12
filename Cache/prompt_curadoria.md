@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T08:32:47.433594+00:00
+Última coleta: 2026-11-12T08:42:47.472716+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          961
@@ -35,7 +35,7 @@ Total: 3000 manchetes
   - [japan] JAPAN MATERIAL: Semiconductor demand drove H1 sales up 20.4% and operating profit up 41.0% YoY
   - [japan] Tokyo Tatemono: Investor property sales lifted 9M profit, putting FY2026 targets ahead of schedule
   - [taiwan] Taiwan's Foxconn bullish on outlook but warns about supply chain tightness
-  - [korea] How bad is the memory crunch? New phones now use secondhand chips
+  - [korea] How bad is the memory crunch? Budget phones now use secondhand chips
   - [japan] Nikkei leads Asian sell-off after reports of Nvidia shake-up weigh on U.S. futures; Japan PPI beats forecasts
   - [taiwan] Foxconn: Expect 2027 AI Rack Shipment to Post High Double-Digit Growth >2317.TW
   - [taiwan] Foxconn: Expect 4Q AI Server Rack Shipments to Post High Double-Digit Growth on Quarter >2317.TW
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T08:32:47+00:00",
+      "published_utc": "2026-11-12T08:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
