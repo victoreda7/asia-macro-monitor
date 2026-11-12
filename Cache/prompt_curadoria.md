@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-12T08:22:44.885789+00:00
+Última coleta: 2026-11-12T08:32:47.433594+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          961
@@ -17,12 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Citi turns to China Inc.’s global expansion, yuan to grow cross-border business
   - [japan] DXY: Dollar Hits 19-Month High Above 103, Yen Edges Toward ¥160 on Rate-Hike Prospects
-  - [china] Citi turns to China Inc.'s global expansion, yuan to grow cross-border business
   - [china] Burberry CEO: Chinese Consumers Remain Very Important for Company
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Fed hike 'certainty' pushes Asian currencies lower with yen down near 160
   - [korea] South Korea’s Lee announces $34B Samsung investment plan for advanced chip packaging
+  - [japan] Japan’s FX Chief Warns Not To Forget Summer Intervention
   - [japan] Bank of Japan member Asada: “We need to be mindful of the economic downside risks brought about by interest ra
   - [taiwan] Foxconn Chairman: Component Supply Constraints, Geopolitics, Inflation and Monetary Policy in Focus
   - [japan] Cosel Co Ltd - To Buy Back Up To 3.89% Of Own Shares Worth 1.9 Billion Yen Before Market Open On Friday
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] ``We need to pay close attention to the pace'' of future interest rate hikes, says Bank of Japan Councilor Asa
   - [korea] South Korea’s HBM demand drives 54% surge in Taiwan glass fiber exports
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 372.31, Implies 34% Upside
-  - [japan] JGB Yields Fall as Hopes for Accelerated BOJ Tightening Eases — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-12T08:22:45+00:00",
+      "published_utc": "2026-11-12T08:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
