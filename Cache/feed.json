@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T14:22:44.882302+00:00",
- "collected_at_utc": "2026-11-13T14:22:44.882302+00:00",
+ "generated_at_utc": "2026-11-13T14:32:42.511004+00:00",
+ "collected_at_utc": "2026-11-13T14:32:42.511004+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 994,
+  "japan": 993,
   "china": 869,
   "taiwan": 308,
-  "korea": 829
+  "korea": 830
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T04:01:00+00:00"
+   "newest": "2026-11-13T13:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T14:01:18+00:00"
+   "newest": "2026-11-13T14:25:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T14:00:18+00:00"
+   "newest": "2026-11-13T14:18:48+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 24,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T03:18:00+00:00"
+   "newest": "2026-11-13T10:07:27+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T10:30:03+00:00"
+   "newest": "2026-11-13T13:00:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T14:22:08+00:00"
+   "newest": "2026-11-13T14:32:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T19:00:00+09:00"
+   "newest": "2026-11-13T23:21:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+   "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
+   "published_utc": "2026-11-13T14:25:00+00:00",
+   "title_original": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4f4ea49efd48085b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Polen Global Growth adds Seagate, AMD And SK Hynix, trims Nvidia and Broadcom among Q3 moves",
+   "url": "https://www.tradingview.com/news/seekingalpha:b5edb0882094b:0-polen-global-growth-adds-seagate-amd-and-sk-hynix-trims-nvidia-and-broadcom-among-q3-moves/",
+   "published_utc": "2026-11-13T14:24:28+00:00",
+   "title_original": "Polen Global Growth adds Seagate, AMD And SK Hynix, trims Nvidia and Broadcom among Q3 moves",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "988eb9f22defe5a2"
+  },
   {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
@@ -396,8 +430,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -411,24 +445,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
-   "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
-   "published_utc": "2026-11-13T13:00:42+00:00",
-   "title_original": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
+   "published_utc": "2026-11-13T13:00:08+00:00",
+   "title_original": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts",
    "region": "china",
    "topics": [
     "industrial"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "4f4ea49efd48085b"
+   "id": "8bc300eac265374e"
   },
   {
    "source_id": "investing_econ",
@@ -5171,8 +5205,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5186,7 +5220,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5360,8 +5394,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5375,7 +5409,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51891,41 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "64993bffd548374b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a daily limit of no more than 1 trillion yuan｜News",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ05JekFBZk84STBXbC1OTUk3Z2thaU9kQkxnZFNPNDFlUk5XNEVvYmd4Y2luOFVrQ3kyVHBtbUxKNmU0bHNod21yZkg3d2Rwa3hobExHMDBlNllKWVlKcFo4dHVTT3c4YngtWVNHc05pQ21hN3UyVWpUOTZhSThVM01ZUm9DZWFx?oc=5",
-   "published_utc": "2026-10-20T05:08:00+00:00",
-   "title_original": "央行将连续9个工作日开展隔夜逆回购操作，每日不超1万亿元｜快讯",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2e0f290e3e73bd70"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEtCeTJxR1V6MFJVX0hYZlFoNmswaGMzVjE4WFVjczhqWjRoUHhBU1I2bm5sbXliS1gtLXByNGxmOTBDbWx0S3pjMGk3QXZMdXlTY05tR05LLWhhU3k5Y2R5T3pEdEtEc083MTZMd1NFZEM2Z0g4VTVVbmZCcW9yYzdvLWlZZWVtWXZ4V25NYzQ5NzdKalVycWlHRGc0a1ZuVlJqS1NfUUQ2bU9jc1VkcHRWX05MNWtyVDlZSXp1a2tIb3NlQnd4Y0xCdE9Rcm8zOV9mSkd5aE4?oc=5",
-   "published_utc": "2026-10-20T04:58:26+00:00",
-   "title_original": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s By Reuters",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77972d145585bebb"
   },
   {
    "source_id": "manual_ia",
