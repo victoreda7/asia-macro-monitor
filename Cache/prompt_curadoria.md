@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T06:22:48.636564+00:00
+Última coleta: 2026-11-13T06:32:42.413477+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          990
-  🇨🇳 China          858
+  🇯🇵 Japão          989
+  🇨🇳 China          859
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  843
 
 ## O que já está no feed (não repita)
 
-  - [korea] Samsung Electronics Reportedly Considering Acquisition Of Data Center Cooling Systems Maker Modine
   - [japan] Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert — Update
+  - [korea] Samsung Electronics Reportedly Considering Acquisition Of Data Center Cooling Systems Maker Modine
+  - [china] Cargill says China's 2027 bulk palm olein imports to reach around 1.6 million tons
+  - [japan] Limited US role in Japan intervention undermines deterrent as yen touches 160
+  - [china] China AI stocks tumble as Nvidia fallout fuels fears of tighter U.S. chip curbs
   - [japan] Sumitomo Mitsui Financial Group: Record 1H net income lifts FY guidance to JPY 1.9tn and buybacks to JPY 400bn
   - [korea] YC: 9M profit climbed as AI-led demand supported a KRW 337.61bn equipment backlog
   - [korea] Doosan Fuel Cell: 9M sales reached KRW 334,333m as losses widened and leverage rose
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korean gov't sees solid economic growth trend amid surging exports, investment
   - [japan] Asia FX: yen intervention in focus as rate hike bets put dollar near 19-mth high
   - [china] Mike Johnson Sees Growing Support For China Chip Restrictions As Nvidia’s Jensen Huang Exit Rocks Washington: 
-  - [taiwan] TSMC seeks to back next chip titan with new investment arm
-  - [japan] Obayashi Corporation - To Buy Back Up To 2.9% Of Own Shares Worth 30 Billion Yen
-  - [korea] Cloud: Upbit opens spot trading in KRW, BTC and USDT markets - 13 Nov 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T06:22:48+00:00",
+      "published_utc": "2026-11-13T06:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
