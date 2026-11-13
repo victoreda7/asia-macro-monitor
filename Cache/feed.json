@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T13:02:44.693227+00:00",
- "collected_at_utc": "2026-11-13T13:02:44.693227+00:00",
+ "generated_at_utc": "2026-11-13T13:12:45.205624+00:00",
+ "collected_at_utc": "2026-11-13T13:12:45.205624+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 993,
-  "china": 867,
+  "japan": 994,
+  "china": 866,
   "taiwan": 309,
   "korea": 831
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T12:46:03+00:00"
+   "newest": "2026-11-13T13:03:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T12:24:30+00:00"
+   "newest": "2026-11-13T13:03:13+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T21:15:44+09:00"
+   "newest": "2026-11-13T22:03:24+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T21:10:54+09:00"
+   "newest": "2026-11-13T22:03:24+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T12:37:47+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T11:39:41+00:00"
+   "newest": "2026-11-13T13:00:03+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T12:30:07+00:00"
+   "newest": "2026-11-13T13:10:08+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T06:52:39+00:00"
+   "newest": "2026-11-13T09:54:08+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,21 +344,56 @@
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Dollar set for best week in two months, weak yen captures Tokyo's attention",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U0KU:0-dollar-set-for-best-week-in-two-months-weak-yen-captures-tokyo-s-attention/",
-   "published_utc": "2026-11-13T12:51:35+00:00",
-   "title_original": "Dollar set for best week in two months, weak yen captures Tokyo's attention",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
+   "published_utc": "2026-11-13T13:03:24+00:00",
+   "title_original": "食料品消費税減税法案 支援金“勤労者の5割以上の方向で検討”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cedd4f2b06dd3c91"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+   "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
+   "published_utc": "2026-11-13T13:00:42+00:00",
+   "title_original": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4f4ea49efd48085b"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Dollar set for best week in two months, weak yen captures Tokyo’s attention",
+   "url": "https://www.investing.com/news/economy-news/dollar-near-19month-high-on-fed-hike-bets-yen-tests-160-5023930",
+   "published_utc": "2026-11-13T12:54:40+00:00",
+   "title_original": "Dollar set for best week in two months, weak yen captures Tokyo’s attention",
    "region": "japan",
    "topics": [
     "fx"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "4d8b4318c5e4c4e1"
+   "id": "3efba8c0e6d68ca6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -550,24 +585,6 @@
    "id": "48ac7c9d2f25600e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41WC1xdVI5Sks1dWpINkY4WW9RQ0hJSklLbG5DYzBtV1ZxRUU1aFlIX2EzTmlpdUR3VGhMaFdIaVVUbG5XaWEwdlZzbVJFN1U1akZRMW9DN1RsLW9qeHFLZ2hlV2M5a3pYZ3Z2RnZzc2oxWGRtdndQeQ?oc=5",
-   "published_utc": "2026-11-13T11:17:09+00:00",
-   "title_original": "央行：11月16日开展2000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "98dc553188467218"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Dollar set for best week in two months, yen tests 160 By Reuters",
@@ -618,6 +635,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b9a18f7a9f5e6f29"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QTWx3ZXA1NXB0b0VOdHlORU44Yk1MSlFHS0VLdWNxMFZYX0ZlelFrS1lTOTFSa1c0UWdlUFMzNnlBOGY0VHMzRm15QzlHMm9zNzNtTWtmYWZ1ejFfZGFIVg?oc=5",
+   "published_utc": "2026-11-13T11:04:49+00:00",
+   "title_original": "央行：11月16日开展2000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "21929de31608faac"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1120,23 +1155,6 @@
    "id": "187476127bde5bb0"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
-   "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
-   "published_utc": "2026-11-13T08:00:44+00:00",
-   "title_original": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4f4ea49efd48085b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Fund Inflows Into Japan Likely to Support Yen in Long Term — Market Talk",
@@ -1634,24 +1652,6 @@
    "id": "688ba31159f7eac2"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
-   "url": "https://www.investing.com/news/economy-news/dollar-near-19month-high-on-fed-hike-bets-yen-tests-160-5023930",
-   "published_utc": "2026-11-13T05:48:26+00:00",
-   "title_original": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee141894533abf96"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Nongshim increased its sales in the third quarter on the back of strong exports and growth of overse..",
@@ -2101,6 +2101,23 @@
    "live_wire": false,
    "manual": false,
    "id": "08f24a97e9e0af2b"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Dollar set for best week in two months, yen tests 160",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
+   "published_utc": "2026-11-13T01:58:00+00:00",
+   "title_original": "Dollar set for best week in two months, yen tests 160",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a89b2ff18cc1e7e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51907,23 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "94948b0310f08f53"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ubk5vLXZRMWtvZ3VPTEpoQ1pCQnYyc291dW52MFJTalcxM2VqN3MxckJfbm55b0JvTVVxS0MwbE1kRzk4MndEeHlGUUkyQWp4a2dZUUt3VjZDVzIwM0tVS2s0cVYxZw?oc=5",
-   "published_utc": "2026-10-20T04:32:28+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9e8cfec4b745bb0"
   },
   {
    "source_id": "manual_ia",

@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T13:02:44.693227+00:00
+Última coleta: 2026-11-13T13:12:45.205624+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          867
+  🇯🇵 Japão          994
+  🇨🇳 China          866
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  831
 
 ## O que já está no feed (não repita)
 
-  - [japan] Dollar set for best week in two months, weak yen captures Tokyo's attention
+  - [japan] Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”
+  - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
+  - [japan] Dollar set for best week in two months, weak yen captures Tokyo’s attention
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
   - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [japan] Interim results for three megabanks record high profits due to rising interest rates
@@ -29,10 +31,10 @@ Total: 3000 manchetes
   - [japan] Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate h
   - [china] Nvidia scandal deepens as banned chips traced to China
   - [japan] US bought 79 billion yen in July intervention with Japan
-  - [china] Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
   - [china] How a slowdown in US AI capex might impact China's economy
   - [china] Scaled-down sequel! The central bank will launch a 200 billion yuan buyout reverse repurchase operation next w
+  - [china] Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [japan] 3 mega banks G's interim results show record high profits, boosted by Bank of Japan interest rate hike, full-y
   - [korea] GRAVITY Co., Ltd. (GRVY) Q3 Net Profit Rose 7.7% YoY to KRW 21.4B
   - [japan] Three mega bank groups achieve record high profits in interim results, boosted by Bank of Japan's interest rat
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project
   - [japan] Appier Group, Inc. Raises FY26 Operating Income Guidance to JPY 5.9B
   - [korea] As Google completes security measures to export precision maps abroad, such as covering military and..
-  - [korea] Google to compete with Korean mapping firms after Seoul clears high-resolution map exports
-  - [japan] Japan Post Bank Lifts Annual Earnings Outlook On Increased Policy Interest Rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T13:02:44+00:00",
+      "published_utc": "2026-11-13T13:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
