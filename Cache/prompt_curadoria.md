@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T08:32:42.707714+00:00
+Última coleta: 2026-11-13T08:42:43.059375+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          995
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Post Bank Lifts Annual Earnings Outlook On Increased Policy Interest Rates
   - [japan] MUFG raises annual profit target, announces 200 billion yen buyback
   - [china] China's Industrial Production Growth Likely Slowed in October — Market Talk
   - [taiwan] The central bank will pay more than 220 billion to the treasury next year. The sharp increase in the proportio
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Limited US role in Japan intervention undermines deterrent as yen touches 160
   - [china] China AI stocks tumble as Nvidia fallout fuels fears of tighter U.S. chip curbs
   - [japan] Sumitomo Mitsui Financial Group: Record 1H net income lifts FY guidance to JPY 1.9tn and buybacks to JPY 400bn
-  - [korea] YC: 9M profit climbed as AI-led demand supported a KRW 337.61bn equipment backlog
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T08:32:42+00:00",
+      "published_utc": "2026-11-13T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
