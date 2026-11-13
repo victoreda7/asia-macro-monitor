@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T08:02:44.408558+00:00
+Última coleta: 2026-11-13T08:12:45.015994+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
+  🇯🇵 Japão          995
   🇨🇳 China          859
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  840
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
   - [china] China's Industrial Production Growth Likely Slowed in October — Market Talk
+  - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [japan] Fund Inflows Into Japan Likely to Support Yen in Long Term — Market Talk
+  - [japan] Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources
   - [china] China's Retail Sales Growth Likely Eased in October — Market Talk
   - [korea] Park Systems: Revenue grew, profit fell, and KRW 100bn in hybrid financing targets expansion and M&A
   - [korea] Classys Reports Nine-Month 2026 Revenue of KRW 275.7 Billion, Up 13% Year over Year; Prepares to Accelerate Gr
@@ -44,7 +46,6 @@ Total: 3000 manchetes
   - [taiwan] Nvidia AI future strong, Huang exit unlikely to affect TSMC: U.S. expert
   - [japan] Japan Post Bank Co Ltd - To Buy Back Up To 0.4% Of Own Shares Worth 30 Billion Yen
   - [japan] Shin-Etsu Chemical Co., Ltd. Says It Will Buy Back Up To 0.55% Of Own Shares Worth 50 Billion Yen
-  - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [japan] Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert — Update
   - [korea] Samsung Electronics Reportedly Considering Acquisition Of Data Center Cooling Systems Maker Modine
   - [japan] Premium apples in north Japan fetch 100,000 yen in season's 1st auction
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Doosan Fuel Cell: 9M sales reached KRW 334,333m as losses widened and leverage rose
   - [korea] Huang's exit could give Korean HBM makers more leverage, raise doubts over Nvidia's AI ventures
   - [japan] Dollar set for best week in two months on rate hike wagers, yen tests 160
-  - [japan] AXE Management Partners sells Osaka hotels for JPY 21 billion, nearly twice its purchase price
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T08:02:44+00:00",
+      "published_utc": "2026-11-13T08:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

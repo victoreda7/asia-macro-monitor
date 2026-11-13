@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T08:02:44.408558+00:00",
- "collected_at_utc": "2026-11-13T08:02:44.408558+00:00",
+ "generated_at_utc": "2026-11-13T08:12:45.015994+00:00",
+ "collected_at_utc": "2026-11-13T08:12:45.015994+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 994,
+  "japan": 995,
   "china": 859,
   "taiwan": 307,
-  "korea": 840
+  "korea": 839
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T07:45:38+00:00"
+   "newest": "2026-11-13T08:04:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T07:00:05+00:00"
+   "newest": "2026-11-13T08:00:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T16:00:22+09:00"
+   "newest": "2026-11-13T17:05:15+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 21,
    "error": "",
    "newest": "2026-11-13T04:32:19+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T08:02:00+00:00"
+   "newest": "2026-11-13T08:12:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T04:33:00+00:00"
+   "newest": "2026-11-13T07:50:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T16:30:00+09:00"
+   "newest": "2026-11-13T17:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,13 +331,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T07:37:10+00:00"
+   "newest": "2026-11-13T08:07:28+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
@@ -361,6 +361,23 @@
    "id": "b899626b56162f05"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+   "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
+   "published_utc": "2026-11-13T08:00:44+00:00",
+   "title_original": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4f4ea49efd48085b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Fund Inflows Into Japan Likely to Support Yen in Long Term — Market Talk",
@@ -376,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4c2078d4781d628d"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVHlZemZuX2NPV1lOUFBDUGVIMkZDd2FWcWVwMkVYMVJzckx6Y3JUMU1kTmVMbkFMTzVrZTRBUHlWcS0yREo5OUtpN2JoUUZMcWYzanZFUjFOZw?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2967c72e55a4eac7"
   },
   {
    "source_id": "tradingview_live",
@@ -803,23 +837,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fcc001ba24e1722e"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
-   "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
-   "published_utc": "2026-11-13T06:30:21+00:00",
-   "title_original": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4f4ea49efd48085b"
   },
   {
    "source_id": "tradingview_live",
@@ -1274,7 +1291,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korean gov't sees solid economic growth trend amid surging exports, investment",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelZERUNRRGtSS1BISG16Q25DRnlzS2NaT2NjOTlZbTZHWTZGTmhFNmFJTXhkYTNDTEhKdS1TOWN5X2RmR2gzRWtwc3llUUt2M2d4QlVWM1EzVWpXX2Q1YUJncWhBVEIyQ2ZSU1h0c3B5Wkt5QTM2X0hNVzh5U3hNLWIwaElFX1dfYlhFUw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VMUNrNmRFRG5VRHJkU2RnR0ZuSk9WbFpQSFEtVF91aHVTbzgwaWF3Uzd4cW1UT0V5M0dOeGRNU05fblNmbHpOMEhRNlVXdHFvd2tQX2lDek9yd0lld0dQYVRUaHZRc2VaaXBSWXlITFNEVFdHQmQza1UtUlA?oc=5",
    "published_utc": "2026-11-13T03:29:00+00:00",
    "title_original": "S. Korean gov't sees solid economic growth trend amid surging exports, investment",
    "region": "korea",
@@ -1286,7 +1303,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f3a98227eb2d2ebd"
+   "id": "95d60d90efd9087b"
   },
   {
    "source_id": "investing_fx",
@@ -2598,6 +2615,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a2775052b3efc5fe"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+   "published_utc": "2026-11-12T08:12:06+00:00",
+   "title_original": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "boj_whatsnew",
@@ -6902,23 +6936,6 @@
    "id": "ddb86363bccc9b4f"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
-   "published_utc": "2026-11-10T11:15:37+00:00",
-   "title_original": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1398ae0aff03df27"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's iron ore imports hit lowest level in five months",
@@ -8396,7 +8413,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tSVpFcHNKT21CMjRLTk9vXzMwWUpzZmlEWmlfcHBpZDE5eDNMSks3MUR4RGUtYkpKcXRIaTJ5di0zU212aGhqRFlndURzWDJmendFUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWUZKUThybGliU01IcUxsekdLZ2YxNDdDMTgyU0NrUGtfRjZiVG9taVZjMU9EUE1ZLWRuYXBNQnZSSmxWNmlPTjZYSEc1cHZwbDJsT0dGdGNLVzRxUTdGWGpPYzd0eTZ4VWQtNW9qZ1dGNTZv?oc=5",
    "published_utc": "2026-11-10T02:10:00+00:00",
    "title_original": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
    "region": "korea",
@@ -8407,7 +8424,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3d2813785741c4a2"
+   "id": "f0d2735183b07ab8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -16635,6 +16652,25 @@
    "id": "d006de6af1fe60ac"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ minutes: Inflation could prompt faster rate hikes | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RNllzUGtaWWZQZ3hCWWU2MExNV2k0aEkwRWxWY3Nsb1BYV3lNajJUR1hjSUI5alRmZmpHMXVxZDYwZnU3ZFpXRXp1R2lJTkk3TTVGMVlQTUwxUEVTYlAwWHdYOA?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "BOJ minutes: Inflation could prompt faster rate hikes | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7589966809886ab9"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "팸타임스 FAM Times",
    "title_en": "Malaysia base interest rate frozen at 2.75%... 0.25%p lower than Korea",
@@ -18460,25 +18496,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d111955c3d02c0e5"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ minutes: Inflation could prompt faster rate hikes | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RNllzUGtaWWZQZ3hCWWU2MExNV2k0aEkwRWxWY3Nsb1BYV3lNajJUR1hjSUI5alRmZmpHMXVxZDYwZnU3ZFpXRXp1R2lJTkk3TTVGMVlQTUwxUEVTYlAwWHdYOA?oc=5",
-   "published_utc": "2026-11-04T16:04:00+00:00",
-   "title_original": "BOJ minutes: Inflation could prompt faster rate hikes | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7589966809886ab9"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51910,23 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d1a98114cca9d10e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stock Story",
-   "title_en": "BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings",
-   "url": "https://www.tradingview.com/news/stockstory:f9defa501094b:0-bok-financial-nasdaq-bokf-reports-sales-below-analyst-estimates-in-q3-2026-earnings/",
-   "published_utc": "2026-10-19T21:50:25+00:00",
-   "title_original": "BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c2277e1fb60f3107"
   },
   {
    "source_id": "manual_ia",
