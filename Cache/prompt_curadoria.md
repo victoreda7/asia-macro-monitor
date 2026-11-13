@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T10:52:44.975519+00:00
+Última coleta: 2026-11-13T11:02:45.941098+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
-  🇨🇳 China          867
+  🇨🇳 China          866
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  833
+  🇰🇷 Coreia do Sul  834
 
 ## O que já está no feed (não repita)
 
+  - [korea] GRAVITY Co., Ltd. (GRVY) Q3 Net Profit Rose 7.7% YoY to KRW 21.4B
+  - [japan] Three mega bank groups achieve record high profits in interim results, boosted by Bank of Japan's interest rat
   - [japan] Adjustment by postponing government bond NISA for individuals
   - [japan] Rakuten's 3rd quarter financial results record high sales but end up in the red due to strong finance and trav
   - [china] China's New Yuan Loans Contracted in October
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] VINA TECH: Data-center demand and Vietnam expansion meet a KRW 39.69bn 9M net loss
   - [japan] Case for BOJ Rate Hikes Seen Strengthening — Market Talk
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.93, Implies 49% Upside
-  - [japan] Japan's Likely Soft GDP Data Unlikely to Stop BOJ Rate Hikes — Market Talk
-  - [japan] Mitsubishi Ufj Financial Group, Inc. - To Buy Back Up To 0.62% Of Own Shares Worth 200 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T10:52:45+00:00",
+      "published_utc": "2026-11-13T11:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
