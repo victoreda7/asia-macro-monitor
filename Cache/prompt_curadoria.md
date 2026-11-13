@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T03:42:47.070977+00:00
+Última coleta: 2026-11-13T03:52:43.951208+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
-  🇨🇳 China          865
+  🇯🇵 Japão          990
+  🇨🇳 China          864
   🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [china] PBOC Looks Focused on Directing Credit Toward Priority Sectors — Market Talk
   - [japan] Stock price rise Buy orders for AI/semiconductor related stocks
   - [japan] U.S. Treasury Department “purchased 79.4 billion yen worth of yen” during Japan-U.S. joint intervention, Fed r
   - [korea] S. Korean gov't sees solid economic growth trend amid surging exports, investment
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB Yields Rise After Selloff in U.S. Treasurys Overnight — Market Talk
   - [japan] U.S. demands Japan triple troop-hosting costs to 3 tril. yen over 5 yrs
   - [china] HSBC Says Yuan Could Double Its Global Payments Share
-  - [japan] Japan's finance minister warns of potential action against FX volatility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T03:42:47+00:00",
+      "published_utc": "2026-11-13T03:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
