@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T01:32:43.962083+00:00
+Última coleta: 2026-11-13T01:42:43.441418+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
+  🇯🇵 Japão          982
   🇨🇳 China          865
-  🇹🇼 Taiwan         313
+  🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7152 FRI VS 6.7174
+  - [china] On November 13, the central bank launched a 364 billion yuan overnight reverse repurchase operation.
   - [korea] BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn
   - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
+  - [china] The Central Bank of China: Today it launched a 364 billion yuan overnight reverse repurchase operation, with a
+  - [japan] Bank of Japan's Councilor Asada gives speech in Nagasaki: Future rate hike pace "needs to be kept in mind" (Na
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 20
   - [japan] Yen market price temporarily fell to the 160 yen level to the dollar, the weakest yen level in about 2 months
   - [japan] BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
   - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
   - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
-  - [china] Republican senator urges ban on Chinese chipmaker CXMT from US market
-  - [china] Como Jensen Huang, da Nvidia, se viu envolvido em um escândalo envolvendo chips e espionagem na China
-  - [japan] Udon chain announces price cuts in anticipation of food consumption tax cut
-  - [china] Carney to Raise Chinese Auto Manufacturing in Talks With Xi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T01:32:44+00:00",
+      "published_utc": "2026-11-13T01:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

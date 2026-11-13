@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T01:32:43.962083+00:00",
- "collected_at_utc": "2026-11-13T01:32:43.962083+00:00",
+ "generated_at_utc": "2026-11-13T01:42:43.441418+00:00",
+ "collected_at_utc": "2026-11-13T01:42:43.441418+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 981,
+  "japan": 982,
   "china": 865,
-  "taiwan": 313,
+  "taiwan": 312,
   "korea": 841
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T01:13:23+00:00"
+   "newest": "2026-11-13T01:34:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:15:47+00:00"
+   "newest": "2026-11-13T01:23:46+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
-   "newest": "2026-11-12T03:26:00+00:00"
+   "newest": "2026-11-13T01:30:27+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T21:00:00+00:00"
+   "newest": "2026-11-12T20:31:18+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T01:30:29+00:00"
+   "newest": "2026-11-13T01:41:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T00:25:42+00:00"
+   "newest": "2026-11-13T01:27:42+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,6 +345,41 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7152 FRI VS 6.7174",
+   "url": "https://www.tradingview.com/news/dpa_afx:4fd6cbb8029da:0-china-sets-yuan-central-parity-at-6-7152-fri-vs-6-7174/",
+   "published_utc": "2026-11-13T01:37:37+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7152 FRI VS 6.7174",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7031a076ae353f40"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 13, the central bank launched a 364 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfVGNyeDZRV2VvQ0wtMFg3azJuRThCM3dsZWMtMWg2YmZsdHpqS2w0bDc0Z1BwXzNtR2d4aW40bkVZNDRyMWp2NG44YjZESVNtLU9Qc3QtR2pxZTZOcWpJV1dVV1JuMlNP?oc=5",
+   "published_utc": "2026-11-13T01:30:27+00:00",
+   "title_original": "11月13日央行开展3640亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a989a0547a3830e7"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Quartr",
    "title_en": "BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn",
    "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4022963:0-bhi-9m-sales-rose-earnings-strengthened-and-the-order-backlog-reached-krw-2-458tn/",
@@ -377,6 +412,41 @@
    "live_wire": true,
    "manual": false,
    "id": "ff1b4fe21ccca5e6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "汇通网",
+   "title_en": "The Central Bank of China: Today it launched a 364 billion yuan overnight reverse repurchase operation, with a bidding volume of 364 billion yuan, a winning bid of 364 billion yuan, and an operating interest rate of 1.25%_Foreign Exchange Dynamic Report",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BR3lpbDdvLXBWZzB5c1c2LVJfMzJwVFZwTU54WDg4RkhXb1ROdU4ybEtSSjF3Ynp4MnBqeC1pUHU5Z1dkcmR2eUpCVWoxOWplMXN3RWQyTVdtcHkza0xBRWFzUjNqY1U?oc=5",
+   "published_utc": "2026-11-13T01:22:01+00:00",
+   "title_original": "中国央行：今日开展3640亿元隔夜逆回购操作，投标量3640亿元，中标量3640亿元，操作利率为1.25%_外汇动态报道",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6bd51d26e631074"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan's Councilor Asada gives speech in Nagasaki: Future rate hike pace \"needs to be kept in mind\" (Nagasaki Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xT25UUURNMFpBWnhVY2pBZjgxa0xfLWZHcnFhYzhxZHZWZmJyMnpER1I0UW5rOG53Q3B5U2hQRy1zWEZIc29PcjZNS24yUElheEJBWTFaY09wVnhnU2FmcGlXUzNZYldMYWlmY045RENBY2JneVZCRk0xVWkzMmM?oc=5",
+   "published_utc": "2026-11-13T01:20:21+00:00",
+   "title_original": "日銀の浅田審議委員が長崎で講演 今後の利上げペース「留意必要」（長崎新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c9fbca2188680a6a"
   },
   {
    "source_id": "tradingview_live",
@@ -1375,23 +1445,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2859565b435fa69e"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan's Mimura reminds markets of intervention risks as yen nears 160",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTdnRkFzQUZJTnRnYmRuTExZbDF2cGZleDN6UHhuaXFIS1puMThyR2tSc1hxMF85ZmVnM0doN3dxSmNVV3dyajNvbXFlWWoyS196OGZsU1dQeWphLWhZaFZ1YjNWUUQtZlByZmpHSFpJMWJrWTlhNWF4YkVubDV6djJBaU9DSjRSUHhVcVRDTHhiWDM5RkZwbnBEXzJpdlhkaWZMWURFNUYyRTVRTXZQcVdnVUttRkl4NjBIemtSRnd0d1l0TmRIckx5TmFMUQ?oc=5",
-   "published_utc": "2026-11-12T08:29:02+00:00",
-   "title_original": "Japan's Mimura reminds markets of intervention risks as yen nears 160",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "158cd9449ff1225e"
   },
   {
    "source_id": "investing_live",
@@ -2589,6 +2642,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a954fddcc694bd3a"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Japan's Mimura reminds markets of intervention risks as yen nears 160",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTdnRkFzQUZJTnRnYmRuTExZbDF2cGZleDN6UHhuaXFIS1puMThyR2tSc1hxMF85ZmVnM0doN3dxSmNVV3dyajNvbXFlWWoyS196OGZsU1dQeWphLWhZaFZ1YjNWUUQtZlByZmpHSFpJMWJrWTlhNWF4YkVubDV6djJBaU9DSjRSUHhVcVRDTHhiWDM5RkZwbnBEXzJpdlhkaWZMWURFNUYyRTVRTXZQcVdnVUttRkl4NjBIemtSRnd0d1l0TmRIckx5TmFMUQ?oc=5",
+   "published_utc": "2026-11-12T01:07:00+00:00",
+   "title_original": "Japan's Mimura reminds markets of intervention risks as yen nears 160",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "158cd9449ff1225e"
   },
   {
    "source_id": "boj_whatsnew",
@@ -51858,75 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aeb493139bcf4642"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1%",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aQndINDdCZkZwWU5qVFRDTHZ4T0VILXZ0cnVuVl9SX2VmRWFfa3NJcGhQelI1dmp6NnFTUkVaNGltNU9NY2s0ZHBDTnJoaHB4RDA1VkEwdHZ5Z0FVOHdpWGZEbS0xSG1VczgweW5hWQ?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "2026年三季度全国规模以上工业产能利用率为73.1%",
-   "region": "china",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e74350000a8c869"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Chenming Hu urges universities to 'find the solutions', targets world-class Taiwan semiconductor sector",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFk0amltWmtxVXozZVptMW5fRi1uUGJxVFFnd1hJNTVYcFA3OTZsbDJVa01GbTNGbjFiOWlBc0xzVnlVTDJ0SFBzYTRBLTNyS1pBTmJycXRnTURNNG0zU0tWUXBOVHR0bDExeTl2X3RXenZrZmYwWnp2bnM5SGZfbUVqU0VHREZEVzY5YU13UTUyZW5ScTlJeTVJMHd2TzZOY3c?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Chenming Hu urges universities to 'find the solutions', targets world-class Taiwan semiconductor sector",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "51652561aa678742"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "The added value of industrial enterprises above designated size increased by 5.5% in September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80ZlRuLThhbVM2UmtuRy13REs2bnpIeVZxTlQ0VWZqYkVXNFlDS1F0LThkUFlVZVZuOXNXbFY3ZW9mLWNaSXRPVlJwVmt0cjlLdnZaT1g1aV9pVmlUb0NmQU4tUjhCNmlfYXN2RUJiMA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "2026年9月份规模以上工业增加值增长5.5%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "655119343804ae4a"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Changes in sales prices of commercial housing in 70 large and medium-sized cities in September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52dTNVamlWSFhmSXFfQ0cwMmtNcDFJUXFKQm1YckJNOTNzS0hWYndLcmRHZmc5UENuRXNIUFJVd0lzaHNPa2hhYUZpdmJvNFpwYlM1ejFwZUJaZmNSaHo1T2NkZ0lvOUpMbTJOZmU1cw?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "2026年9月份70个大中城市商品住宅销售价格变动情况",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f902964ad5a000aa"
   },
   {
    "source_id": "manual_ia",
