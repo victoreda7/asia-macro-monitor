@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T09:42:46.002497+00:00
+Última coleta: 2026-11-13T09:52:44.867208+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
+  🇯🇵 Japão          992
   🇨🇳 China          864
-  🇹🇼 Taiwan         308
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  835
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
   - [china] Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [china] Central Bank: The stock of social financing at the end of October 2026 was 469.16 trillion yuan, a year-on-yea
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
   - [japan] Mizuho Financial Group, Inc. - To Buy Back Up To 1.4% Own Shares Worth 200 Billion Yen
   - [japan] Rakus Co., Ltd. - To Buy Back Up To 1.02% Of Shares Worth 3 Billion Yen
-  - [korea] It was found that the top 1% of stock investment returns intensively bought Samsung Electronics and
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T09:42:46+00:00",
+      "published_utc": "2026-11-13T09:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
