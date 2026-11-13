@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T22:42:44.910857+00:00
+Última coleta: 2026-11-13T22:52:43.162775+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Defense budget, 60 trillion yen target, 5-year total, finance, defense offensive and defense Prime Minister Ta
+  - [china] Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports
   - [japan] US Treasury bought nearly $500mn in yen during joint July forex intervention
   - [china] EU’s fixation on Chinese subsidies masks its own structural stagnation
   - [japan] "Anthropic's malicious IPO" + "NVIDIA CEO Jensen Huang scandal"...The collapse of the AI/semiconductor bubble 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] How a slowdown in US AI capex might impact China's economy
   - [china] The central bank takes action: 200 billion yuan buyout reverse repurchase is coming
   - [china] Central Bank: Will carry out 200 billion yuan buyout reverse repurchase operation
-  - [china] Scaled-down sequel! The central bank will launch a 200 billion yuan buyout reverse repurchase operation next w
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T22:42:45+00:00",
+      "published_utc": "2026-11-13T22:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
