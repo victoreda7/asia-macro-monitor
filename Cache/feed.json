@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T12:12:46.771281+00:00",
- "collected_at_utc": "2026-11-13T12:12:46.771281+00:00",
+ "generated_at_utc": "2026-11-13T12:22:46.412463+00:00",
+ "collected_at_utc": "2026-11-13T12:22:46.412463+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 993,
+  "japan": 994,
   "china": 866,
   "taiwan": 309,
-  "korea": 832
+  "korea": 831
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 31.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T12:00:46+00:00"
+   "newest": "2026-11-13T12:18:41+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T21:01:45+09:00"
+   "newest": "2026-11-13T21:15:44+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-13T11:46:52+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T12:12:20+00:00"
+   "newest": "2026-11-13T12:22:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -465,6 +465,23 @@
    "id": "62332a24b2193545"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate hike (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUUY4NE1RREZJc2oxdkM1R3dvTWt6TEdBYkd1Nm1NV0FqV3BlRnVuUlFxWE9OeWRETEIyVU5SMWtUNHNTUUVqVlAzalEzNFlmdDNUMTZNYVBLUXluSDVleElrV3BoUU1fNXdIZHBpaXBFVVJ1ODhIRzdMSHExd3M?oc=5",
+   "published_utc": "2026-11-13T11:30:47+00:00",
+   "title_original": "3メガバンク中間決算、今回も過去最高益 日銀の利上げで絶好調（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cd9bbeaae083a692"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "Nvidia scandal deepens as banned chips traced to China",
@@ -497,6 +514,24 @@
    "live_wire": false,
    "manual": false,
    "id": "48ac7c9d2f25600e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经_金融信息服务商",
+   "title_en": "Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41WC1xdVI5Sks1dWpINkY4WW9RQ0hJSklLbG5DYzBtV1ZxRUU1aFlIX2EzTmlpdUR3VGhMaFdIaVVUbG5XaWEwdlZzbVJFN1U1akZRMW9DN1RsLW9qeHFLZ2hlV2M5a3pYZ3Z2RnZzc2oxWGRtdndQeQ?oc=5",
+   "published_utc": "2026-11-13T11:17:09+00:00",
+   "title_original": "央行：11月16日开展2000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "98dc553188467218"
   },
   {
    "source_id": "gn_jp_investing",
@@ -549,24 +584,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b9a18f7a9f5e6f29"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QTWx3ZXA1NXB0b0VOdHlORU44Yk1MSlFHS0VLdWNxMFZYX0ZlelFrS1lTOTFSa1c0UWdlUFMzNnlBOGY0VHMzRm15QzlHMm9zNzNtTWtmYWZ1ejFfZGFIVg?oc=5",
-   "published_utc": "2026-11-13T11:04:49+00:00",
-   "title_original": "央行：11月16日开展2000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "21929de31608faac"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51907,23 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c89c06279a3ed723"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Hbl8xUy1GbS01aWdNdTJXc09ka1NKNlF5NEhoY1NlLWt6WTVUSWRkZnpzVXpLcjAzT01xXzdQekx2b05zSnpONGFpVDR6ODQ?oc=5",
-   "published_utc": "2026-10-20T03:58:32+00:00",
-   "title_original": "Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "46b6f60802292d8f"
   },
   {
    "source_id": "manual_ia",
