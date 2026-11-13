@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T08:12:45.015994+00:00",
- "collected_at_utc": "2026-11-13T08:12:45.015994+00:00",
+ "generated_at_utc": "2026-11-13T08:22:46.296743+00:00",
+ "collected_at_utc": "2026-11-13T08:22:46.296743+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 995,
-  "china": 859,
+  "china": 860,
   "taiwan": 307,
-  "korea": 839
+  "korea": 838
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T06:48:00+00:00"
+   "newest": "2026-11-13T07:30:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T03:26:54+00:00"
+   "newest": "2026-11-13T06:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T06:25:44+00:00"
+   "newest": "2026-11-13T08:15:10+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T17:00:21+09:00"
+   "newest": "2026-11-13T17:12:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "newest": "2026-11-13T04:32:19+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T08:12:10+00:00"
+   "newest": "2026-11-13T08:22:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T07:50:00+00:00"
+   "newest": "2026-11-13T08:01:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b899626b56162f05"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The central bank will pay more than 220 billion to the treasury next year. The sharp increase in the proportion of Taiwanese stocks held by foreign investors may affect the number of payments | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfNnFCQWswX2FQNUQ3NnFUcTJGUWJRaXR0WDZlWlBJdHYzdWhXWjZ3VmcyYTBwSDNQZzMxc2dldDQ2cVptOUhHVU5IYVhXME1YZFY4Q01mRlQzMl9EUnc?oc=5",
+   "published_utc": "2026-11-13T08:01:00+00:00",
+   "title_original": "央行明年繳庫逾2200億外資持有台股占比大增恐影響上繳數| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "187476127bde5bb0"
   },
   {
    "source_id": "investing_live",
@@ -444,6 +461,23 @@
    "live_wire": true,
    "manual": false,
    "id": "be492629565d989e"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTVQX056VWJyVXp2UTNaRWlHSXdrSnR3TmRYT19HVjRVTTc0MXM1ZFJvRmNlV0w5QW80OEdZWUlLc2ZPRmlDUDFwTWxMNHkwMHFHclNKZVE4d0NQTTZtUWZTZDdTWDFNTlMtNlJwT0FYUXJpZWtYaGV1a3BJM04wODJBQnRtLXVHbEo0NHBIWFl6Q3hKV0M3U3hibGkzTVJuZHc0UjZ1bWxfTVZJRGVuS0FsYw?oc=5",
+   "published_utc": "2026-11-13T07:30:00+00:00",
+   "title_original": "Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f367f53c9fa08379"
   },
   {
    "source_id": "tradingview_live",
@@ -990,6 +1024,24 @@
    "live_wire": true,
    "manual": false,
    "id": "5c608a10625ca358"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar set for best week in two months on rate hike wagers, yen tests 160 By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2YycUpqV0pydW8zeDUzLVZ6VW1IdG5EaGs4MUZTcFZKU0hUb18wQzVsa3hITmJMVjM3dTQyVTktOTB5ZzkwZkFBSzY1dnZXTks2VnV3YmNHR21OYVdzejVtNUJYeURZOWJkcmFJcUZScHlKX3o1czQ3c2MzRS1KUE1ydFpuWmUyRE1ocTdaMnFCYXd1TDZrRFF2WEtRcEFwZDluQ2h3cGFadmM?oc=5",
+   "published_utc": "2026-11-13T06:00:00+00:00",
+   "title_original": "Dollar set for best week in two months on rate hike wagers, yen tests 160 By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4bfc1b6d0154be59"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4421,8 +4473,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -4436,7 +4488,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4610,8 +4662,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -4625,7 +4677,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51876,57 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a5731657b5f4bb89"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength",
-   "url": "https://www.tradingview.com/news/tradingview:31e40bcab6c3e:0-weekly-recap-tsmc-3nm-nvhbm-sourcing-and-goldman-sachs-buy-on-nand-strength/",
-   "published_utc": "2026-10-19T22:00:00+00:00",
-   "title_original": "Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4046641a2c28fe68"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot",
-   "url": "https://www.tradingview.com/news/tradingview:1969de7c7fe8d:0-weekly-recap-20-stake-in-shriram-finance-and-yen-stablecoin-pilot/",
-   "published_utc": "2026-10-19T22:00:00+00:00",
-   "title_original": "Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "92dcb435639c890c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The Korea Land and Housing Corporation (LH) reported a valuation loss of 75.8 billion won last year",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvVkpJR0VOUldicjFma0NibkwyUG1oclJiVkxNZG9sckxPNGN0RXRka094QzdQanBTMEI2c2JHWWY1MjA4bVR0VEd5eVA4YWtwc3c?oc=5",
-   "published_utc": "2026-10-19T22:00:00+00:00",
-   "title_original": "The Korea Land and Housing Corporation (LH) reported a valuation loss of 75.8 billion won last year",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d1a98114cca9d10e"
   },
   {
    "source_id": "manual_ia",

@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T08:12:45.015994+00:00
+Última coleta: 2026-11-13T08:22:46.296743+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          995
-  🇨🇳 China          859
+  🇨🇳 China          860
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  839
+  🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
   - [china] China's Industrial Production Growth Likely Slowed in October — Market Talk
+  - [taiwan] The central bank will pay more than 220 billion to the treasury next year. The sharp increase in the proportio
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [japan] Fund Inflows Into Japan Likely to Support Yen in Long Term — Market Talk
   - [japan] Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources
   - [china] China's Retail Sales Growth Likely Eased in October — Market Talk
   - [korea] Park Systems: Revenue grew, profit fell, and KRW 100bn in hybrid financing targets expansion and M&A
+  - [china] Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs
   - [korea] Classys Reports Nine-Month 2026 Revenue of KRW 275.7 Billion, Up 13% Year over Year; Prepares to Accelerate Gr
   - [korea] Classys Nine-Month Revenue Rose 13% to KRW 275.7B
   - [korea] VINA TECH: Data-center demand and Vietnam expansion meet a KRW 39.69bn 9M net loss
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Sumitomo Mitsui Financial Group: Record 1H net income lifts FY guidance to JPY 1.9tn and buybacks to JPY 400bn
   - [korea] YC: 9M profit climbed as AI-led demand supported a KRW 337.61bn equipment backlog
   - [korea] Doosan Fuel Cell: 9M sales reached KRW 334,333m as losses widened and leverage rose
-  - [korea] Huang's exit could give Korean HBM makers more leverage, raise doubts over Nvidia's AI ventures
-  - [japan] Dollar set for best week in two months on rate hike wagers, yen tests 160
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T08:12:45+00:00",
+      "published_utc": "2026-11-13T08:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
