@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T06:02:43.895449+00:00
+Última coleta: 2026-11-13T06:12:42.854265+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          992
+  🇯🇵 Japão          991
   🇨🇳 China          859
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  840
+  🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [taiwan] Table: Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
   - [taiwan] Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
   - [korea] Nongshim increased its sales in the third quarter on the back of strong exports and growth of overse..
+  - [china] China Locks In Export Power by Equipping the World’s Factories
   - [japan] Hisaka Works Ltd - To Buy Back Up To 3.80% Of Shares Worth 2 Billion Yen
   - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
   - [japan] "What will happen to mortgages if the Bank of Japan raises interest rates?" Will be raised twice in 2026! Reas
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The U.S. Congress has launched a bipartisan effort to regulate semiconductors...It will also affect Samsung El
   - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
   - [korea] South Korean won gains most among tepid Asian FX
-  - [korea] i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T06:02:44+00:00",
+      "published_utc": "2026-11-13T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T06:02:43.895449+00:00",
- "collected_at_utc": "2026-11-13T06:02:43.895449+00:00",
+ "generated_at_utc": "2026-11-13T06:12:42.854265+00:00",
+ "collected_at_utc": "2026-11-13T06:12:42.854265+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 992,
+  "japan": 991,
   "china": 859,
   "taiwan": 309,
-  "korea": 840
+  "korea": 841
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T02:11:00+00:00"
+   "newest": "2026-11-13T05:37:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": "",
-   "newest": "2026-11-12T11:28:00+00:00"
+   "newest": "2026-11-13T05:55:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T05:44:15+00:00"
+   "newest": "2026-11-13T06:04:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T05:36:36+00:00"
+   "newest": "2026-11-13T06:02:32+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T02:15:09+00:00"
+   "newest": "2026-11-13T06:10:51+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T05:49:54+00:00"
+   "newest": "2026-11-13T06:05:24+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T14:49:42+09:00"
+   "newest": "2026-11-13T15:05:39+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 23,
    "error": "",
    "newest": "2026-11-13T04:32:19+00:00"
   },
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T02:19:15+00:00"
+   "newest": "2026-11-13T01:01:06+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T04:30:39+00:00"
+   "newest": "2026-11-13T05:05:56+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -361,11 +361,11 @@
    "id": "688ba31159f7eac2"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U06A:0-dollar-set-for-best-week-in-two-months-on-rate-hike-wagers-yen-tests-160/",
-   "published_utc": "2026-11-13T05:47:09+00:00",
+   "url": "https://www.investing.com/news/economy-news/dollar-near-19month-high-on-fed-hike-bets-yen-tests-160-5023930",
+   "published_utc": "2026-11-13T05:48:26+00:00",
    "title_original": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
    "region": "japan",
    "topics": [
@@ -374,9 +374,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "bade914f6cfdc4d4"
+   "id": "ee141894533abf96"
   },
   {
    "source_id": "tradingview_live",
@@ -462,6 +462,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9df013ec7b02e8bb"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Locks In Export Power by Equipping the World’s Factories",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUt6cWEzdzlQTHJDekd5U291dzc3cVhWdmY1STNSZE13LVRIaFkxNGpyb1M2Tk45VUk4dzJtOG5lQmVMQzNaeHM2eFF4eTlKTVRWNi1PTk9iWXdCMllUelZodDVFV251M05OQW81YVF0c3RRMWF2MWt0WWRCZG5oYmt4WGdpaWRBZjB3dW9NOGdjSDJIazJoTm5SWTR5N3FVTWNUbi1tQ2FuWEViYXhZSUpybw?oc=5",
+   "published_utc": "2026-11-13T05:37:00+00:00",
+   "title_original": "China Locks In Export Power by Equipping the World’s Factories",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "522f2d7978aba16a"
   },
   {
    "source_id": "tradingview_live",
@@ -1119,23 +1136,6 @@
    "id": "bb5173d4399c469e"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Dollar near 19-month high on Fed hike bets, yen tests 160",
-   "url": "https://www.investing.com/news/economy-news/dollar-near-19month-high-on-fed-hike-bets-yen-tests-160-5023930",
-   "published_utc": "2026-11-13T02:06:21+00:00",
-   "title_original": "Dollar near 19-month high on Fed hike bets, yen tests 160",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ab5c97498c9966b"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
@@ -1550,23 +1550,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bb097af06170027e"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Locks In Export Power by Equipping the World’s Factories",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUt6cWEzdzlQTHJDekd5U291dzc3cVhWdmY1STNSZE13LVRIaFkxNGpyb1M2Tk45VUk4dzJtOG5lQmVMQzNaeHM2eFF4eTlKTVRWNi1PTk9iWXdCMllUelZodDVFV251M05OQW81YVF0c3RRMWF2MWt0WWRCZG5oYmt4WGdpaWRBZjB3dW9NOGdjSDJIazJoTm5SWTR5N3FVTWNUbi1tQ2FuWEViYXhZSUpybw?oc=5",
-   "published_utc": "2026-11-12T23:00:00+00:00",
-   "title_original": "China Locks In Export Power by Equipping the World’s Factories",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "522f2d7978aba16a"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -5558,24 +5541,6 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
-   "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3NXclZndU9IQk5aVjQ3VlVxazlBeFVOcTdEVnJvR215MThUOGJEWE1tVUw0Qk5wY2ttOEhGRjRqRnNCMy1vTDFIMWxiRU9Fd3N6Q2lTMG9Pa1Z2SzBoMVQ0MWdQUldVNzlQR2Jxckc0MDh0RGFFbVhNU3Q4V0p0SWlVaEEyRnhDOHRuZg?oc=5",
-   "published_utc": "2026-11-11T01:56:00+00:00",
-   "title_original": "央行今日开展1870亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "77582685671cd416"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
    "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation in the open market today",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPellBTk1FU3cxZU1hZmNoN2FXczlNVVpxQlkwN05YWGVhZFBUX0Fwc1BPdG9wLW1fNmhic2JkWVVROHhEbXo4UTJLY3Q3dFY3a00wazJ2ZEJSWXpkdXZuZl9qd2Jfc19UQ1M2M0czNUFoZWh4UHdseURqSzUtQzd1WDBLSUNYOExoUHhubQ?oc=5",
    "published_utc": "2026-11-11T01:51:35+00:00",
@@ -5610,10 +5575,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
+   "source_name": "中国青年网",
    "title_en": "On November 11, the central bank launched a 187 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NTm5GWUcwTHpuYWdSeFItMXRTWnFHakxKWXZ0NGpqQWppY2lqeFh0RXJFY1dVVHdCLU5ncTA2VmNaUml3bVZWd3d5UExmR21NOGprdGZWMWRVNnhXemtRbVhPeXVfOVR1?oc=5",
-   "published_utc": "2026-11-11T01:32:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQ3F3OTZuajBLZTJ6eHJkaUllSlRFQVJ2YUg4YWM3MzM3ZmZPTlp4RlpMRDRaU1VXTGRIemJUY2Z1dE1rWFo3clBlVk1vdHJIT0Q2TElYem9CMUtyZXVBOHNnbDRkeFE?oc=5",
+   "published_utc": "2026-11-11T01:39:00+00:00",
    "title_original": "11月11日央行开展1870亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -5624,7 +5589,25 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e976e4e23886d344"
+   "id": "be3ba295de3572dc"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "https://m.capwhale.com/",
+   "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVpIeEhIUnVsazROX2NvQV9LWVNWR2Z4ZmRrMGhaNGx3a2VIam1aSWw2VlpHUzR4dTVUQVhnLXVZejRrSHkxVEhuNkhYUEtIa1FIam5KZkszT3dMdGhMTHl6Nzh4ZVNWaHZ0eDN6UUctYzhTTGRiYXJMcDFWVXdzQ0psUWVJMXFjNmlVc0EtRGxjUQ?oc=5",
+   "published_utc": "2026-11-11T01:33:21+00:00",
+   "title_original": "央行今日开展1870亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6d556346206e59f3"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51929,6 +51912,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6724e7e04e52e3cc"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMzRlRGtndWZJekxiSnJ2eldNVVk0VGZBY1FsUXRGc2g2QTZiWERUT0s5VHhVWkM4aURzS1Q2OG80ZW1VTzVlaHF5NHlWWGJreXkzS1RxaU5SZw?oc=5",
+   "published_utc": "2026-10-18T07:00:00+00:00",
+   "title_original": "Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4acc30d308c882c"
   },
   {
    "source_id": "manual_ia",
