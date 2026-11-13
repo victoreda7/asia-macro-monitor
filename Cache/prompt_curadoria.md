@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T11:42:48.279277+00:00
+Última coleta: 2026-11-13T11:52:47.480496+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -17,11 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
   - [china] Nvidia scandal deepens as banned chips traced to China
   - [japan] US bought 79 billion yen in July intervention with Japan
   - [china] How a slowdown in US AI capex might impact China's economy
   - [china] Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16
+  - [japan] 3 mega banks G's interim results show record high profits, boosted by Bank of Japan interest rate hike, full-y
   - [korea] GRAVITY Co., Ltd. (GRVY) Q3 Net Profit Rose 7.7% YoY to KRW 21.4B
   - [japan] Three mega bank groups achieve record high profits in interim results, boosted by Bank of Japan's interest rat
   - [japan] Adjustment by postponing government bond NISA for individuals
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources
   - [japan] [Prices 30 years ago and now] How many times more expensive are rice, eggs, and white bread? Eggs were about 1
   - [china] China's Retail Sales Growth Likely Eased in October — Market Talk
-  - [korea] Park Systems: Revenue grew, profit fell, and KRW 100bn in hybrid financing targets expansion and M&A
-  - [china] Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T11:42:48+00:00",
+      "published_utc": "2026-11-13T11:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
