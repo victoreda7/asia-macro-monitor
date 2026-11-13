@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T16:02:45.197170+00:00
+Última coleta: 2026-11-13T16:12:44.043185+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          868
+  🇨🇳 China          869
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  830
+  🇰🇷 Coreia do Sul  829
 
 ## O que já está no feed (não repita)
 
+  - [china] Update: China's yuan loans grow 11.42 trln yuan in first 10 months
   - [china] 1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months
   - [korea] Modine Manufacturing jumps 30% on reports of acquisition talks with Samsung
   - [china] China's yuan loans grow 11.42 trln yuan in first 10 months
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Metro Holdings: Indonesian property sales and improved China results drove a return to pre-tax profit
   - [china] Metallurgical Corporation Of China's January-October New Contracts Totalled 548.8 Billion Yuan
   - [china] 664 billion yuan! The central bank’s first matching operation
-  - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T16:02:45+00:00",
+      "published_utc": "2026-11-13T16:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

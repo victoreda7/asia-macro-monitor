@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T16:02:45.197170+00:00",
- "collected_at_utc": "2026-11-13T16:02:45.197170+00:00",
+ "generated_at_utc": "2026-11-13T16:12:44.043185+00:00",
+ "collected_at_utc": "2026-11-13T16:12:44.043185+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 994,
-  "china": 868,
+  "china": 869,
   "taiwan": 308,
-  "korea": 830
+  "korea": 829
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T13:51:07+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T16:02:00+00:00"
+   "newest": "2026-11-13T16:11:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T15:56:15+00:00"
+   "newest": "2026-11-13T16:05:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
-   "newest": "2026-11-12T02:25:40+00:00"
+   "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Update: China's yuan loans grow 11.42 trln yuan in first 10 months",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vS0hkZDZpdGkwQjZXWFVWX3h4UEtFb2cxRElIOXo4UlV4cGFPVGVYX1V1ZVRCTVVIYkNoS2I5MmE5MzFwQXBaaGtQdlNBaUJlSTdxWEJVVVZXY2dsUHpTOExjc1lxMHQwTi14X21tcUhFbXBEVWJNeTB3V3Q?oc=5",
+   "published_utc": "2026-11-13T16:05:15+00:00",
+   "title_original": "Update: China's yuan loans grow 11.42 trln yuan in first 10 months",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d80c7b749143eb40"
+  },
   {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
@@ -4217,23 +4234,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "연합인포맥스",
-   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
-   "published_utc": "2026-11-12T02:25:40+00:00",
-   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5913d7dce403b065"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "뉴닉",
    "title_en": "US Federal Reserve's December interest rate hike forecast: Summary of the possibility of a 'big step' and the impact on the Korean economy 💸",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
@@ -4665,6 +4665,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b25e4ff8f4d49ed6"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
+   "published_utc": "2026-11-12T00:25:39+00:00",
+   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b3ecde5047aee35c"
   },
   {
    "source_id": "nhk_economy",
@@ -11510,7 +11527,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴데일리",
    "title_en": "If the semiconductor industry declines, interest rates may be lowered in the second half of next year... Citibank: “There is a possibility of a sharp change in monetary policy from the Bank of Korea.”",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUFTVzlxc0RPOXlQWk11SVFaZFp4UzlLdXZDSjF3XzBhZ3FPY2tiQ01LUGhYR2NkN1FiTnFzbDNReE1kbXhrV2xfbXI3cHlRQlZBM3ZnYUdrRUFuYVdINmwxTGYzX2xOSlh5ekEtRWt6ZjFzMUhFUjU5VUFzbXhFeNIBgAFBVV95cUxOMUFTVzlxc0RPOXlQWk11SVFaZFp4UzlLdXZDSjF3XzBhZ3FPY2tiQ01LUGhYR2NkN1FiTnFzbDNReE1kbXhrV2xfbXI3cHlRQlZBM3ZnYUdrRUFuYVdINmwxTGYzX2xOSlh5ekEtRWt6ZjFzMUhFUjU5VUFzbXhFeA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNenBxOEdtbzdHbnpaeFN3TTFUcVhuRi15Q01TSGRoYlBGOTk4cTBvU0pLR2FXMndWYzRqYTVXWU1qUk5scUNXb01rT2hqZ3BSZzZMd21LLU43cElLaE5MRHVSYTZlOHR6ZTk1dnIwdFBLZXhCQi1lRVpfa9IBgAFBVV95cUxOMUFTVzlxc0RPOXlQWk11SVFaZFp4UzlLdXZDSjF3XzBhZ3FPY2tiQ01LUGhYR2NkN1FiTnFzbDNReE1kbXhrV2xfbXI3cHlRQlZBM3ZnYUdrRUFuYVdINmwxTGYzX2xOSlh5ekEtRWt6ZjFzMUhFUjU5VUFzbXhFeA?oc=5",
    "published_utc": "2026-11-09T05:53:00+00:00",
    "title_original": "반도체 업황 꺾이면 내년 하반기 금리 인하할 수도 … 씨티銀 \"한은 통화정책 급선회 가능성\"",
    "region": "korea",
@@ -11523,7 +11540,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9de8fae803761496"
+   "id": "93870afbd8af0c9e"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51908,24 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a7ccb31bb2554d6a"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "머니투데이",
-   "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
-   "published_utc": "2026-10-20T05:34:46+00:00",
-   "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f458f88af40eac09"
   },
   {
    "source_id": "manual_ia",
