@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T07:22:42.901129+00:00
+Última coleta: 2026-11-13T07:32:44.181006+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
-  🇨🇳 China          856
+  🇯🇵 Japão          994
+  🇨🇳 China          857
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  839
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [korea] Classys Reports Nine-Month 2026 Revenue of KRW 275.7 Billion, Up 13% Year over Year; Prepares to Accelerate Gr
+  - [korea] Classys Nine-Month Revenue Rose 13% to KRW 275.7B
+  - [korea] VINA TECH: Data-center demand and Vietnam expansion meet a KRW 39.69bn 9M net loss
   - [japan] Case for BOJ Rate Hikes Seen Strengthening — Market Talk
   - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.93, Implies 49% Upside
   - [japan] Japan's Likely Soft GDP Data Unlikely to Stop BOJ Rate Hikes — Market Talk
@@ -26,6 +29,7 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Investor Relations Event
   - [japan] Consumption tax reduction bill: Support money “considered for 50% or more of workers” Prime Minister Takaichi
   - [japan] Stock prices rise Buy orders for some AI/semiconductor related stocks
+  - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen
   - [china] Table: Yuan Jen Enterprises 3Q Net Profit NT$323.3M Vs NT$233.6M
   - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Table: Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
   - [taiwan] Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
   - [korea] Nongshim increased its sales in the third quarter on the back of strong exports and growth of overse..
-  - [china] China Locks In Export Power by Equipping the World’s Factories
-  - [japan] Hisaka Works Ltd - To Buy Back Up To 3.80% Of Shares Worth 2 Billion Yen
-  - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
-  - [japan] "What will happen to mortgages if the Bank of Japan raises interest rates?" Will be raised twice in 2026! Reas
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T07:22:43+00:00",
+      "published_utc": "2026-11-13T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
