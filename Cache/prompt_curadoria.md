@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T13:12:45.205624+00:00
+Última coleta: 2026-11-13T13:22:46.754508+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          866
+  🇨🇳 China          867
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  831
+  🇰🇷 Coreia do Sul  830
 
 ## O que já está no feed (não repita)
 
+  - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [japan] Dollar set for best week in two months, weak yen captures Tokyo’s attention
@@ -46,7 +47,6 @@ Total: 3000 manchetes
   - [japan] Profit of 5 major banks approaches 4 trillion yen; interest income increases due to Bank of Japan interest rat
   - [china] Metro Holdings: Indonesian property sales and improved China results drove a return to pre-tax profit
   - [china] Metallurgical Corporation Of China's January-October New Contracts Totalled 548.8 Billion Yuan
-  - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [china] 664 billion yuan! The central bank’s first matching operation
   - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T13:12:45+00:00",
+      "published_utc": "2026-11-13T13:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T13:12:45.205624+00:00",
- "collected_at_utc": "2026-11-13T13:12:45.205624+00:00",
+ "generated_at_utc": "2026-11-13T13:22:46.754508+00:00",
+ "collected_at_utc": "2026-11-13T13:22:46.754508+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 994,
-  "china": 866,
+  "china": 867,
   "taiwan": 309,
-  "korea": 831
+  "korea": 830
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T10:44:30+00:00"
+   "newest": "2026-11-13T13:09:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T11:57:15+00:00"
+   "newest": "2026-11-13T08:00:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 23,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-13T12:37:47+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T13:01:46+00:00"
+   "newest": "2026-11-13T13:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T09:54:08+00:00"
+   "newest": "2026-11-13T06:52:39+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-13T11:30:25+00:00"
+   "newest": "2026-11-13T13:18:38+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,8 +344,25 @@
  ],
  "items": [
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhfekJtSDUzVXhKZHNDNzgtTXc1RXBUVk9sR3JJX0ZtNDdmazBHU2ZvRXJEN25HMWpOTVdxWng1Y1VXa05OSGlwMmFGUllzMDgyRnkzWWxFdk5pLUhZd1BvUUNXS3NYYXg2TzdxSk9MSXowWWpGTG1CdUxka01oODhvVzBnNDN3Sk5uYWtybjVoelhGRVFWNk5MR2g1Ykx3cXVJazNUWE92ZElRbmVQYzEwaUxBc3lHRHdBVDJvVjA?oc=5",
+   "published_utc": "2026-11-13T13:09:00+00:00",
+   "title_original": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2cfa49aaca04650c"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -359,7 +376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "investing_live",
@@ -844,23 +861,6 @@
    "id": "d382b59f09c551d1"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhfekJtSDUzVXhKZHNDNzgtTXc1RXBUVk9sR3JJX0ZtNDdmazBHU2ZvRXJEN25HMWpOTVdxWng1Y1VXa05OSGlwMmFGUllzMDgyRnkzWWxFdk5pLUhZd1BvUUNXS3NYYXg2TzdxSk9MSXowWWpGTG1CdUxka01oODhvVzBnNDN3Sk5uYWtybjVoelhGRVFWNk5MR2g1Ykx3cXVJazNUWE92ZElRbmVQYzEwaUxBc3lHRHdBVDJvVjA?oc=5",
-   "published_utc": "2026-11-13T10:01:41+00:00",
-   "title_original": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2cfa49aaca04650c"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "664 billion yuan! The central bank’s first matching operation",
@@ -1085,6 +1085,25 @@
    "live_wire": false,
    "manual": false,
    "id": "43ae4fec5afab913"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-13T08:19:02+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "investing_live",
@@ -2266,7 +2285,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INkRkak54R1dEVEY5M3NrVG9sT3pZcnZiU0NWOWdUSG5BRlI2bmJNYmM2X0tjR3puOTNvWXFPMVZLQUhCU1poMThOMTBUUkZXbEdNOEswTVU4dw?oc=5",
-   "published_utc": "2026-11-13T01:15:47+00:00",
+   "published_utc": "2026-11-13T01:15:00+00:00",
    "title_original": "BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief",
    "region": "japan",
    "topics": [
@@ -5099,8 +5118,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5114,7 +5133,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5288,8 +5307,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5303,7 +5322,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51906,24 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "113a63c4f4301728"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "브릿지경제",
-   "title_en": "93% of bond experts say, “The Monetary Policy Committee will freeze the base interest rate in October”… Increasing outlook for interest rate decline",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncFZRVDRHTFZHRHNReFkwMkxZR3JxRnhRdG50QUttcEVtTkRvOGRHUjZBUnZDWHh0UHZKbXlBeXZ4ZVRBVXBCVEJxV1VtaGdqRG05ZTcxcnJnQQ?oc=5",
-   "published_utc": "2026-10-20T04:36:00+00:00",
-   "title_original": "채권전문가 93% “10월 금통위 기준금리 동결”…금리 하락 전망 확대",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "94948b0310f08f53"
   },
   {
    "source_id": "manual_ia",
