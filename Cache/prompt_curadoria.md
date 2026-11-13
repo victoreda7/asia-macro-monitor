@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T15:42:46.253388+00:00
+Última coleta: 2026-11-13T15:52:48.406681+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
@@ -37,7 +37,6 @@ Total: 3000 manchetes
   - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
   - [japan] Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate h
   - [china] Nvidia scandal deepens as banned chips traced to China
-  - [japan] US bought 79 billion yen in July intervention with Japan
   - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
   - [china] How a slowdown in US AI capex might impact China's economy
   - [china] Central Bank: Will carry out 200 billion yuan buyout reverse repurchase operation
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] 664 billion yuan! The central bank’s first matching operation
   - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
+  - [china] Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T15:42:46+00:00",
+      "published_utc": "2026-11-13T15:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
