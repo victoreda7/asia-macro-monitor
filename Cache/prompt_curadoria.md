@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T19:32:43.097919+00:00
+Última coleta: 2026-11-13T19:42:55.487517+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
@@ -43,6 +43,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Faces Major Security Scare as Hackers Demand Bitcoin
   - [japan] BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike
   - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
+  - [korea] “46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data
   - [japan] Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate h
   - [china] Nvidia scandal deepens as banned chips traced to China
   - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
@@ -51,12 +52,11 @@ Total: 3000 manchetes
   - [china] Scaled-down sequel! The central bank will launch a 200 billion yuan buyout reverse repurchase operation next w
   - [china] Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [japan] 3 mega banks G's interim results show record high profits, boosted by Bank of Japan interest rate hike, full-y
+  - [japan] Dollar bulls stampede to best week Since Sept; Yen teeters near 160 By Investing.com
   - [korea] GRAVITY Co., Ltd. (GRVY) Q3 Net Profit Rose 7.7% YoY to KRW 21.4B
   - [japan] Three mega bank groups achieve record high profits in interim results, boosted by Bank of Japan's interest rat
   - [japan] Adjustment by postponing government bond NISA for individuals
   - [japan] Rakuten's 3rd quarter financial results record high sales but end up in the red due to strong finance and trav
-  - [china] China's New Yuan Loans Contracted in October
-  - [korea] VKAISS 2026 Strengthens Vietnam and South Korea Cooperation in AI and Semiconductors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T19:32:43+00:00",
+      "published_utc": "2026-11-13T19:42:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

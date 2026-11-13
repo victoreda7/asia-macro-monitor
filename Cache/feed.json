@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-13T19:32:43.097919+00:00",
- "collected_at_utc": "2026-11-13T19:32:43.097919+00:00",
+ "generated_at_utc": "2026-11-13T19:42:55.487517+00:00",
+ "collected_at_utc": "2026-11-13T19:42:55.487517+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 308,
   "korea": 829
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 39.3,
  "sources": [
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T19:12:29+00:00"
+   "newest": "2026-11-13T19:33:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T14:38:09+00:00"
+   "newest": "2026-11-13T19:30:07+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -107,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T03:26:54+00:00"
+   "newest": "2026-11-13T18:00:56+00:00"
   },
   {
    "source_id": "ked_global",
@@ -169,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T19:31:03+00:00"
+   "newest": "2026-11-13T19:41:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -292,6 +284,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-13T18:45:15+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-13T14:05:29+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T23:21:00+09:00"
+   "newest": "2026-11-14T04:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:53:39+00:00"
+   "newest": "2026-11-13T11:35:42+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -792,6 +792,23 @@
    "id": "62332a24b2193545"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "“46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1abDhXX2hkaVMzRzVyR2tLY2JMUlZlSjdoRlRXaG5abEhxZVZXMFpScy1vUmZPX0h0YUpXZGw3cTBRWl85eUdJTTNqcW5EYk1OQXVz?oc=5",
+   "published_utc": "2026-11-13T11:35:42+00:00",
+   "title_original": "“46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a452801acb20ceac"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate hike (Asahi Shimbun)",
@@ -929,6 +946,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b634450075c639c7"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Dollar bulls stampede to best week Since Sept; Yen teeters near 160 By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmhBdlNsUUJtYjZUOTNBUmt0WlpQLWlTRmQ4LXZLRFZIWlhqLVkta0JORi13aTcxSkdybl9HWm5FanZPbDd1UVVLeUxtN1lwLWJ4LXlLdWhhYXkyOS1FWUNIU2tjX0dqSmJLUGgzWlBnbUY2U0ZfMno4SGFnMHNWemtEVFJIRmRGLTBPbUpoODBkd0d3a0JpUWtHdmNBaVczbWpQVENUUVJ5WG1YUHZ4UGxVTFA5XzhUNk5hNW10X29mS1R3cEE?oc=5",
+   "published_utc": "2026-11-13T11:03:35+00:00",
+   "title_original": "Dollar bulls stampede to best week Since Sept; Yen teeters near 160 By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "91489237af0ac384"
   },
   {
    "source_id": "tradingview_live",
@@ -2952,6 +2986,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e140460d2d4e5aee"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnoyeFVLZ2NoRWpRS05rVUQ3a0VfUUNnRWk4eXZtUWJCbmZiZ1Q5QllneGFWc3o1YzBQdkdaSEVBWVcxZkpZS1FjNE5ZYVNseWhKSjVmNEUwWmNKRTYtd2NRSDU2TGxBVzdteFQ5V29JZ3NoalcxOHJEREZnYV9DaGd2VC1Pc3JSdlNSSWtBVHVJeXp5RlNBVDdWa1FiMnE3LTBqdmdvX2MyamN6QUE?oc=5",
+   "published_utc": "2026-11-12T15:16:57+00:00",
+   "title_original": "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d4ebb3f089aaa807"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51872,60 +51923,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fa54b0fb1f82aae6"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan may raise inflation outlook for FY2027, policy interest rate likely to remain unchanged = sources (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGtBUm9Md0dmUnZpUWdHNlVSM2JNcVNNRmsyTFNBdVZiaDRnczZoUVRLTF9CdmwtbG1sX0swZU1ZUWVRejZtSTVDWm80SW5nVmczUXA5M29pV2VjUm03Zmc2dmZ4VlIwS25yeldEbWxNaWp6RDdSUlNRQjh3c1Bodk40azRDTzh6N3NNU29R?oc=5",
-   "published_utc": "2026-10-20T05:54:36+00:00",
-   "title_original": "日銀、27年度物価見通し引き上げの可能性 政策金利は据え置く公算＝関係筋 (ロイター)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9d317a4d3a579142"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan may raise price outlook for FY2027, policy interest rate likely to remain unchanged = source (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRS1fRVZSaHFfdk14Z1RIWWlGbWtlOC1rdEtLRnNoZllTX2VaYVc0bWttN0R5OVJ1ZUpDbDMwSzZVLXRVcW0wN3pPYmpaeWxrdnhGbTFnUlhoT2FleGIwNDVFTzdOVWpETkFpQm9JNC1feXlXUFFBNURFd1N5MjQ?oc=5",
-   "published_utc": "2026-10-20T05:54:36+00:00",
-   "title_original": "日銀、27年度物価見通し引き上げの可能性 政策金利は据え置く公算＝関係筋（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "898ceb242272ffe6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "대한데일리",
-   "title_en": "The Bank of Korea is taking a breather, the stock market is at a crossroads... The decision on the base interest rate is",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWUcxcllGdjB6STltTWZlejFGSURVYWpNakNFendnVVh6QXZSel92NjNtUW5CWmxjT1QtQ0FrWnN6MVRGczV6S2szeEhQeVF5QmhwdHFXSzVuTHBfdEtqdy1rS1hLUUJsTURZ?oc=5",
-   "published_utc": "2026-10-20T05:53:57+00:00",
-   "title_original": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "39f13cec614c29c6"
   },
   {
    "source_id": "manual_ia",
