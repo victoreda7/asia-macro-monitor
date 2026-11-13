@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T06:12:42.854265+00:00
+Última coleta: 2026-11-13T06:22:48.636564+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          859
+  🇯🇵 Japão          990
+  🇨🇳 China          858
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  841
+  🇰🇷 Coreia do Sul  843
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics Reportedly Considering Acquisition Of Data Center Cooling Systems Maker Modine
+  - [japan] Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert — Update
+  - [japan] Sumitomo Mitsui Financial Group: Record 1H net income lifts FY guidance to JPY 1.9tn and buybacks to JPY 400bn
+  - [korea] YC: 9M profit climbed as AI-led demand supported a KRW 337.61bn equipment backlog
+  - [korea] Doosan Fuel Cell: 9M sales reached KRW 334,333m as losses widened and leverage rose
   - [korea] Huang's exit could give Korean HBM makers more leverage, raise doubts over Nvidia's AI ventures
   - [japan] Dollar set for best week in two months on rate hike wagers, yen tests 160
   - [japan] AXE Management Partners sells Osaka hotels for JPY 21 billion, nearly twice its purchase price
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC seeks to back next chip titan with new investment arm
   - [japan] Obayashi Corporation - To Buy Back Up To 2.9% Of Own Shares Worth 30 Billion Yen
   - [korea] Cloud: Upbit opens spot trading in KRW, BTC and USDT markets - 13 Nov 2026
-  - [japan] Japanese yen tests 160 again, drawing intervention threats
-  - [japan] Toda Corporation Says It Will Buy Back Up To 2.7% Of Own Shares Worth 10 Billion Yen
-  - [china] The U.S. Congress has launched a bipartisan effort to regulate semiconductors...It will also affect Samsung El
-  - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
-  - [korea] South Korean won gains most among tepid Asian FX
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T06:12:43+00:00",
+      "published_utc": "2026-11-13T06:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
