@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T02:42:44.791953+00:00",
- "collected_at_utc": "2026-11-13T02:42:44.791953+00:00",
+ "generated_at_utc": "2026-11-13T02:51:19.765188+00:00",
+ "collected_at_utc": "2026-11-13T02:51:19.765188+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 984,
-  "china": 866,
+  "china": 867,
   "taiwan": 308,
-  "korea": 842
+  "korea": 841
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T04:21:43+00:00"
+   "newest": "2026-11-13T00:30:26+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T02:15:24+00:00"
+   "newest": "2026-11-13T02:42:29+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T00:30:05+00:00"
+   "newest": "2026-11-13T02:08:37+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T02:32:00+00:00"
+   "newest": "2026-11-13T02:51:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T19:00:59+00:00"
+   "newest": "2026-11-13T00:51:58+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
@@ -5630,6 +5630,23 @@
    "id": "e51d66d86f35795e"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Passenger Car Sales Fall 27% as Exports Rise 69%",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVVnZUE3WmY2QTFlaVlrd01xdmJocVR5RUU0RHh3dmk4b1dtQmJpUmt0a1lRTGRPVWZoWHdiT01jMEdKUEd3em9OMGhnS0pHa2hNUDNkWk5wTnlzMkJZc3FDTGNHOUF3RU15azRiRk0tM1F0S19kc2xTZ1VlMkI3VWJ4UW9RTjRUcWh2TTRzZUU0cEVxXzlqSnkzdE1Jd2QtdUg4RGZTVzEwWEVs?oc=5",
+   "published_utc": "2026-11-10T15:24:00+00:00",
+   "title_original": "China’s Passenger Car Sales Fall 27% as Exports Rise 69%",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba742a236e80a466"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Xin Yuan Enterprises Says PLH Enters Additional Irrevocable Undertaking For PLH Second IU Shares",
@@ -7486,7 +7503,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWUZKUThybGliU01IcUxsekdLZ2YxNDdDMTgyU0NrUGtfRjZiVG9taVZjMU9EUE1ZLWRuYXBNQnZSSmxWNmlPTjZYSEc1cHZwbDJsT0dGdGNLVzRxUTdGWGpPYzd0eTZ4VWQtNW9qZ1dGNTZv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tSVpFcHNKT21CMjRLTk9vXzMwWUpzZmlEWmlfcHBpZDE5eDNMSks3MUR4RGUtYkpKcXRIaTJ5di0zU212aGhqRFlndURzWDJmendFUQ?oc=5",
    "published_utc": "2026-11-10T02:10:00+00:00",
    "title_original": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
    "region": "korea",
@@ -7497,7 +7514,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f0d2735183b07ab8"
+   "id": "3d2813785741c4a2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51915,23 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bf03992070f52474"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한양경제",
-   "title_en": "The Bank of Korea is likely to freeze its benchmark interest rate in October... Expert: “This is not the end of the hike”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZk41UXdmcDBiNjJUM1BIYUdOcmx2T3ZGenpqbGpfbWF2dWkwTmVSVHh0dUhpSTUxclVBd2o2S3hnQWgxdTdfWWFlR1N3WjA4VW95eEprZHB3VWJpZml4NjcwQW41Zzk3bmd0cGpPdUhLQQ?oc=5",
-   "published_utc": "2026-10-19T08:26:01+00:00",
-   "title_original": "한은 10월 기준금리 ’동결‘ 전망 우세... 전문가 “인상 종료는 아냐”",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e0700d04f6ec5adb"
   },
   {
    "source_id": "manual_ia",
