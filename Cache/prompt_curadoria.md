@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T03:52:43.951208+00:00
+Última coleta: 2026-11-13T04:02:43.746949+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          990
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese shares lead Asia chip rally amid Jensen Huang turmoil
   - [china] PBOC Looks Focused on Directing Credit Toward Priority Sectors — Market Talk
   - [japan] Stock price rise Buy orders for AI/semiconductor related stocks
   - [japan] U.S. Treasury Department “purchased 79.4 billion yen worth of yen” during Japan-U.S. joint intervention, Fed r
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s access to Nvidia chips in doubt as curbs gain traction in US Congress
   - [japan] JGB Yields Rise After Selloff in U.S. Treasurys Overnight — Market Talk
   - [japan] U.S. demands Japan triple troop-hosting costs to 3 tril. yen over 5 yrs
-  - [china] HSBC Says Yuan Could Double Its Global Payments Share
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T03:52:44+00:00",
+      "published_utc": "2026-11-13T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
