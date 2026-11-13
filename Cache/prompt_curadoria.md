@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T02:52:42.292089+00:00
+Última coleta: 2026-11-13T03:02:42.745431+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
-  🇨🇳 China          867
-  🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  841
+  🇯🇵 Japão          986
+  🇨🇳 China          865
+  🇹🇼 Taiwan         309
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC seeks to back next chip titan with new investment arm
+  - [japan] Obayashi Corporation - To Buy Back Up To 2.9% Of Own Shares Worth 30 Billion Yen
+  - [korea] Cloud: Upbit opens spot trading in KRW, BTC and USDT markets - 13 Nov 2026
   - [japan] Toda Corporation Says It Will Buy Back Up To 2.7% Of Own Shares Worth 10 Billion Yen
   - [china] The U.S. Congress has launched a bipartisan effort to regulate semiconductors...It will also affect Samsung El
   - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed
   - [japan] Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk
   - [japan] House wine remains the same even though Doria prices have increased... Why Saizeriya, which has been reconfirm
-  - [korea] Scandal shakes the industry... Nvidia CEO Jensen Huang resigns, semiconductor kingdom Korea fears memory chang
-  - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
-  - [korea] Jensen Huang, CEO of Nvidia, the core of the AI ​​industry, resigns...Korean semiconductor giant fears changes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T02:52:42+00:00",
+      "published_utc": "2026-11-13T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
