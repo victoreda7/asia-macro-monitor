@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T04:32:43.572258+00:00
+Última coleta: 2026-11-13T04:42:44.149979+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
+  🇯🇵 Japão          988
   🇨🇳 China          865
-  🇹🇼 Taiwan         307
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [china] Toyota rewires China supply chain to fight back in EV race
+  - [china] China's yuan inches higher as companies convert cash holdings
+  - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
+  - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today
+  - [taiwan] Sheffield, Taiwan firms target aerospace, defense semiconductor opportunities
   - [china] Chinese shares lead Asia chip rally amid Jensen Huang turmoil
   - [china] PBOC Looks Focused on Directing Credit Toward Priority Sectors — Market Talk
   - [japan] Stock price rise Buy orders for AI/semiconductor related stocks
@@ -39,7 +44,6 @@ Total: 3000 manchetes
   - [korea] Samsung, SK hynix gain over 2% despite Nvidia sell-off
   - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
   - [china] The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation
-  - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today
   - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
   - [china] CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI
   - [china] CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan's Councilor Asada gives speech in Nagasaki: Future rate hike pace "needs to be kept in mind" (Na
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 20
   - [japan] Yen market price temporarily fell to the 160 yen level to the dollar, the weakest yen level in about 2 months
-  - [japan] BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief
-  - [japan] Yen jumps in ‘jittery’ trading after hitting 160 against US dollar
-  - [china] China’s access to Nvidia chips in doubt as curbs gain traction in US Congress
-  - [japan] JGB Yields Rise After Selloff in U.S. Treasurys Overnight — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T04:32:43+00:00",
+      "published_utc": "2026-11-13T04:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
