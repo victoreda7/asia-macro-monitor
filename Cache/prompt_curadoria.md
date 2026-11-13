@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T01:52:52.512360+00:00
+Última coleta: 2026-11-13T02:02:45.621437+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
-  🇨🇳 China          866
-  🇹🇼 Taiwan         311
+  🇨🇳 China          867
+  🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [china] Central Bank: Launching 364 billion yuan overnight reverse repurchase operation today
   - [china] On November 13, the central bank launched a 364 billion yuan overnight reverse repurchase operation.
   - [korea] BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn
+  - [china] The central bank launched a 364 billion yuan overnight reverse repurchase operation
   - [china] The Central Bank of China: Today it launched a 364 billion yuan overnight reverse repurchase operation, with a
   - [japan] Bank of Japan's Councilor Asada gives speech in Nagasaki: Future rate hike pace "needs to be kept in mind" (Na
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 20
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Takaichi looks to meet with Trump to head off defense spending demands
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [china] Anxian Yuan China Expects HY Net Profit Of HK$18 MLN
-  - [china] Chinese AI firms scramble for Nvidia chips amid fears of tighter US curbs: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T01:52:52+00:00",
+      "published_utc": "2026-11-13T02:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

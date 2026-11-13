@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T01:52:52.512360+00:00",
- "collected_at_utc": "2026-11-13T01:52:52.512360+00:00",
+ "generated_at_utc": "2026-11-13T02:02:45.621437+00:00",
+ "collected_at_utc": "2026-11-13T02:02:45.621437+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 983,
-  "china": 866,
-  "taiwan": 311,
+  "china": 867,
+  "taiwan": 310,
   "korea": 840
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T01:34:59+00:00"
+   "newest": "2026-11-13T01:53:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T22:42:29+00:00"
+   "newest": "2026-11-13T01:42:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T19:01:37+00:00"
+   "newest": "2026-11-13T02:00:06+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
-   "newest": "2026-11-13T01:31:00+00:00"
+   "newest": "2026-11-13T01:23:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T01:52:00+00:00"
+   "newest": "2026-11-13T02:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:27:42+00:00"
+   "newest": "2026-11-13T01:35:38+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
@@ -499,6 +499,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3d6b3308b9cd494f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launched a 364 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14UEJFZTYtdm1wSThoSkRfSDVqUnJscDdtaXhzSXFyYjRBOHFXV2ljeUU3ZVNFdW1WR0RXdXlJcThadnFQb1JyVk9RclpfTWN6T0E5V3lSQjA4TWVoc2RYSm92SWc?oc=5",
+   "published_utc": "2026-11-13T01:23:00+00:00",
+   "title_original": "央行开展3640亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2e23ace7478dc3d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3338,8 +3356,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -3353,7 +3371,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3527,8 +3545,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3542,7 +3560,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51913,23 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dc70523c79b40159"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Solution Finders Part 1 of 2: the DARPA challenge behind TSMC's success",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVJ6eEVNWmJuZUlxVnVxNlVzcTRIOVhvUTNpQ2tzWk40MTVLRVg5ZW9Ra2FrUlRXekoxcmZyU2RRNG9ERF9PLVFfejlMSU0xQTJCcVdQOS10d1hDYzFOQlNpZHpBNWREMDdwVWYwMWZYcWo1emNjLWFMSFB5akdJUG4yeXNuaWwzQmN1V3NOaUU?oc=5",
-   "published_utc": "2026-10-19T07:29:04+00:00",
-   "title_original": "Solution Finders Part 1 of 2: the DARPA challenge behind TSMC's success",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f207d2b7e6555768"
   },
   {
    "source_id": "manual_ia",
