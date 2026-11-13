@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T17:02:47.473651+00:00
+Última coleta: 2026-11-13T17:12:45.113341+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
+  🇯🇵 Japão          995
   🇨🇳 China          868
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  830
+  🇰🇷 Coreia do Sul  829
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
   - [japan] GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative
   - [korea] Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what y
   - [china] Update: China's yuan loans grow 11.42 trln yuan in first 10 months
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi says consumption tax reduction bill support funds will be considered for 50% or more o
   - [japan] Profit of 5 major banks approaches 4 trillion yen; interest income increases due to Bank of Japan interest rat
   - [china] Metro Holdings: Indonesian property sales and improved China results drove a return to pre-tax profit
-  - [china] Metallurgical Corporation Of China's January-October New Contracts Totalled 548.8 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T17:02:47+00:00",
+      "published_utc": "2026-11-13T17:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
