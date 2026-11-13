@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T02:12:42.119909+00:00
+Última coleta: 2026-11-13T02:22:43.873445+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
-  🇨🇳 China          867
+  🇨🇳 China          866
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  841
+  🇰🇷 Coreia do Sul  842
 
 ## O que já está no feed (não repita)
 
+  - [korea] i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.
+  - [japan] Japan’s finance minister vows action as yen breaches 160 threshold
   - [korea] Samsung, SK hynix gain over 2% despite Nvidia sell-off
   - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
-  - [japan] Japan's finance minister vows action as yen breaches 160 threshold
+  - [china] The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation
+  - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today
   - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
   - [china] CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI
   - [china] CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill to be questioned at House of Councilors special committee; debate over effectiv
   - [korea] SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk
   - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
-  - [japan] Yen Hovers Near Key 160 Level, Fueling Intervention Concerns
-  - [japan] Takaichi looks to meet with Trump to head off defense spending demands
-  - [china] US says China agreed importance of leader-level talks to advance denuclearization
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T02:12:42+00:00",
+      "published_utc": "2026-11-13T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

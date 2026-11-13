@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T02:12:42.119909+00:00",
- "collected_at_utc": "2026-11-13T02:12:42.119909+00:00",
+ "generated_at_utc": "2026-11-13T02:22:43.873445+00:00",
+ "collected_at_utc": "2026-11-13T02:22:43.873445+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 983,
-  "china": 867,
+  "china": 866,
   "taiwan": 309,
-  "korea": 841
+  "korea": 842
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T01:53:03+00:00"
+   "newest": "2026-11-13T02:12:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T01:42:37+00:00"
+   "newest": "2026-11-13T02:12:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T02:00:06+00:00"
+   "newest": "2026-11-13T02:15:09+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-12T15:05:00+09:00"
+   "newest": "2026-11-13T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T02:08:33+00:00"
+   "newest": "2026-11-13T02:15:24+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T10:42:36+09:00"
+   "newest": "2026-11-13T10:42:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T11:10:33+09:00"
+   "newest": "2026-11-13T11:16:15+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-13T01:23:00+00:00"
+   "newest": "2026-11-13T02:04:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T16:00:00+00:00"
+   "newest": "2026-11-13T02:05:01+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T02:11:36+00:00"
+   "newest": "2026-11-13T02:21:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:02:14+00:00"
+   "newest": "2026-11-13T02:11:14+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4015039:0-i3system-infrared-led-growth-lifted-9m-revenue-and-operating-income-orders-reached-krw-151-82bn/",
+   "published_utc": "2026-11-13T02:21:51+00:00",
+   "title_original": "i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "22f5a95695176859"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s finance minister vows action as yen breaches 160 threshold",
+   "url": "https://www.investing.com/news/economy-news/japans-finance-minister-vows-action-as-yen-breaches-160-threshold-5023917",
+   "published_utc": "2026-11-13T02:12:18+00:00",
+   "title_original": "Japan’s finance minister vows action as yen breaches 160 threshold",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "682befa4669a2c01"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -361,11 +396,11 @@
    "id": "bb5173d4399c469e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Dollar near 19-month high on Fed hike bets, yen tests 160",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02T:0-dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/",
-   "published_utc": "2026-11-13T01:51:11+00:00",
+   "url": "https://www.investing.com/news/economy-news/dollar-near-19month-high-on-fed-hike-bets-yen-tests-160-5023930",
+   "published_utc": "2026-11-13T02:06:21+00:00",
    "title_original": "Dollar near 19-month high on Fed hike bets, yen tests 160",
    "region": "japan",
    "topics": [
@@ -373,27 +408,45 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "01677329592f9d2b"
+   "id": "6ab5c97498c9966b"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's finance minister vows action as yen breaches 160 threshold",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02C:0-japan-s-finance-minister-vows-action-as-yen-breaches-160-threshold/",
-   "published_utc": "2026-11-13T01:46:53+00:00",
-   "title_original": "Japan's finance minister vows action as yen breaches 160 threshold",
-   "region": "japan",
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
+   "published_utc": "2026-11-13T02:04:00+00:00",
+   "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
+   "region": "china",
    "topics": [
-    "fx",
-    "signaling"
+    "monetary",
+    "fx"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "1618793a7db4a2b7"
+   "id": "aa0d2463fcd54a19"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRk92UkFxWkx1bExBZDBLV0pXT2Y3OGNVMlJsUTFvdTdCZ2lzRXJzT3RNekdWdUZjY1pFdVd5OXdGSzRmMWQyd3NSWWNNWUFHMEo4ck15U1VOWEt0VkFmRU1pWlFQcGIxYjEyeTVMNEcwYWVJbzdjVFE2Y1JqQnJFWTBCaHplUkJ0Y3RGZQ?oc=5",
+   "published_utc": "2026-11-13T01:56:22+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "87c5b8a8684582c6"
   },
   {
    "source_id": "tradingview_live",
@@ -51880,57 +51933,6 @@
    "live_wire": true,
    "manual": false,
    "id": "79f659afb38fc37b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide",
-   "url": "https://www.tradingview.com/news/stocktwits:4c8f1d9b9094b:0-chip-investors-watch-out-china-s-cxmt-plunges-despite-record-forecast-after-samsung-s-post-outlook-slide/",
-   "published_utc": "2026-10-19T07:52:18+00:00",
-   "title_original": "Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3be847af91469958"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China commerce ministry announces export controls for tunnel boring machines",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4650H6:0-china-commerce-ministry-announces-export-controls-for-tunnel-boring-machines/",
-   "published_utc": "2026-10-19T07:49:14+00:00",
-   "title_original": "China commerce ministry announces export controls for tunnel boring machines",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e0824ee22b1f637d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWhfNUhYYTVPQUJZQmw4azJVMnpCV0F1OV9wWWduNE1LQjNTcXRsTGpmLTduV3FhZnFISE5zcDhfRTdYVUVvZ1A1a0lGZUs1a25oOTg3QjFhUFRINkw4bHpSZGJ6Tk5XczZUcUtjcnVjZ01sc0Y4QU0tRFlOZENpdmh5MmdZaWRUa2x2cQ?oc=5",
-   "published_utc": "2026-10-19T07:43:43+00:00",
-   "title_original": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc1e7cc7a89672d8"
   },
   {
    "source_id": "manual_ia",
