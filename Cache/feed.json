@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T09:02:45.257563+00:00",
- "collected_at_utc": "2026-11-13T09:02:45.257563+00:00",
+ "generated_at_utc": "2026-11-13T09:12:44.611029+00:00",
+ "collected_at_utc": "2026-11-13T09:12:44.611029+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 996,
-  "china": 860,
-  "taiwan": 307,
+  "japan": 994,
+  "china": 861,
+  "taiwan": 308,
   "korea": 837
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T04:21:53+00:00"
+   "newest": "2026-11-13T08:15:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:30:05+00:00"
+   "newest": "2026-11-13T01:30:57+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T08:44:58+00:00"
+   "newest": "2026-11-13T09:05:48+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T08:24:39+00:00"
+   "newest": "2026-11-13T09:05:48+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T03:25:27+00:00"
+   "newest": "2026-11-13T08:58:22+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:41:00+00:00"
+   "newest": "2026-11-13T09:07:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-11-13T02:02:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T17:12:54+09:00"
+   "newest": "2026-11-13T18:11:08+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
-   "newest": "2026-11-13T04:32:19+00:00"
+   "newest": "2026-11-13T09:04:26+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T17:00:00+09:00"
+   "newest": "2026-11-13T18:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:52:19+00:00"
+   "newest": "2026-11-13T08:53:39+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "Central Bank: It will launch a 200 billion yuan buyout reverse repurchase operation on November 16 with a period of 6 months",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wcXFKaktMckpia3JHVTBZWDRaU1c2cE1Ia21uOUtHRkM5QmtaUVRNOFE3b2Y0Y1BmNW9YM3k5M0FBbUFLOWJTVWZxT0xHRDhReUdzbw?oc=5",
+   "published_utc": "2026-11-13T09:04:26+00:00",
+   "title_original": "央行：11月16日将开展2000亿元买断式逆回购操作，期限为6个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "87541366466836cf"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -479,6 +497,23 @@
    "live_wire": true,
    "manual": false,
    "id": "062cd1f510615480"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1F0NjdWNC1BRm1KS2IyUUhhR0dzZkxRYjEwcU1GTDRVVms0RUpadldLUktvY0psQmJHZDJqLWJLem56ckFES0NNNEgtZWQyN01uZmFsTWFScTBfSVY2RHA1LUlqcmdHalByV3VRbzRYNGtvN0ZMNnVyQ2d0ZkVLeENNbUdocGJyYURIeU12MXBEdnlwR3lrMA?oc=5",
+   "published_utc": "2026-11-13T08:15:00+00:00",
+   "title_original": "Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "faa4cf17b80111c8"
   },
   {
    "source_id": "tradingview_live",
@@ -51889,43 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "77e7c99a37ef14c4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Yen depreciation and long-term interest rates at historic levels, pressure to revise the signature policy of ``active fiscal policy'' 1st anniversary of Takaichi administration (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGVEVkM1X3lZNm55RnBsODZUb0RmU1JEN1l4UzZGbzlKZm9scnlzOFE2cUZmYXp4QnotMVJrSjd3NndtSlVTZEVfTmFHUVFobENfaUhzSkgxZUVrWFhLbVNOYXpFX1J5alBnRWx0NFR1bmRkVklaV0o4SjNnNzNtRmJKaDBFX2ZhRDllOHFR?oc=5",
-   "published_utc": "2026-10-19T23:52:12+00:00",
-   "title_original": "円安・長期金利、歴史的水準に 看板政策「積極財政」に修正圧力 高市政権発足1年 (時事通信)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2449ffd61a925935"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Japanese Prime Minister Sanae Takaichi Has Not Ruled Out Issuing Bonds to Finance Budget",
-   "url": "https://www.tradingview.com/news/binance_news:16d0428c4094b:0-japanese-prime-minister-sanae-takaichi-has-not-ruled-out-issuing-bonds-to-finance-budget/",
-   "published_utc": "2026-10-19T23:24:35+00:00",
-   "title_original": "Japanese Prime Minister Sanae Takaichi Has Not Ruled Out Issuing Bonds to Finance Budget",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e586ccb03a677bfc"
   },
   {
    "source_id": "manual_ia",

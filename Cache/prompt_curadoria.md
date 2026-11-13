@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T09:02:45.257563+00:00
+Última coleta: 2026-11-13T09:12:44.611029+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
-  🇨🇳 China          860
-  🇹🇼 Taiwan         307
+  🇯🇵 Japão          994
+  🇨🇳 China          861
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  837
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: It will launch a 200 billion yuan buyout reverse repurchase operation on November 16 with a peri
   - [china] Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report
   - [china] China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project
   - [japan] Appier Group, Inc. Raises FY26 Operating Income Guidance to JPY 5.9B
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [japan] Japan Post Bank Lifts Annual Earnings Outlook On Increased Policy Interest Rates
   - [japan] Japan core inflation seen above BOJ target for second month in October: Reuters poll
   - [japan] MUFG raises annual profit target, announces 200 billion yen buyback
+  - [taiwan] Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27
   - [china] China's Industrial Production Growth Likely Slowed in October — Market Talk
   - [taiwan] The central bank will pay more than 220 billion to the treasury next year. The sharp increase in the proportio
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Post Insurance Co - To Buy Back, Retire Up To 4.6% Own Shares Worth 47 Bln Yen
   - [korea] Kospi Gives Up Early Gains as Chip, Airline Stocks Retreat
   - [taiwan] Nvidia AI future strong, Huang exit unlikely to affect TSMC: U.S. expert
-  - [japan] Japan Post Bank Co Ltd - To Buy Back Up To 0.4% Of Own Shares Worth 30 Billion Yen
-  - [japan] Shin-Etsu Chemical Co., Ltd. Says It Will Buy Back Up To 0.55% Of Own Shares Worth 50 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T09:02:45+00:00",
+      "published_utc": "2026-11-13T09:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
