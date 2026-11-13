@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T09:25:31.253462+00:00
+Última coleta: 2026-11-13T09:32:43.631457+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
@@ -17,7 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] Central Bank: It will launch a 200 billion yuan buyout reverse repurchase operation on November 16 with a peri
+  - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
   - [china] Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report
   - [china] China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project
   - [japan] Appier Group, Inc. Raises FY26 Operating Income Guidance to JPY 5.9B
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T09:25:31+00:00",
+      "published_utc": "2026-11-13T09:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
