@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T04:02:43.746949+00:00",
- "collected_at_utc": "2026-11-13T04:02:43.746949+00:00",
+ "generated_at_utc": "2026-11-13T04:12:43.149923+00:00",
+ "collected_at_utc": "2026-11-13T04:12:43.149923+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 990,
-  "china": 864,
+  "japan": 989,
+  "china": 865,
   "taiwan": 307,
   "korea": 839
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T00:30:26+00:00"
+   "newest": "2026-11-13T03:22:26+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 50,
+   "count": 52,
    "error": "",
-   "newest": "2026-11-13T10:40:13+08:00"
+   "newest": "2026-11-13T11:31:18+08:00"
   },
   {
    "source_id": "investing_live",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T02:15:09+00:00"
+   "newest": "2026-11-09T08:56:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T21:41:44+00:00"
+   "newest": "2026-11-13T02:28:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T20:31:18+00:00"
+   "newest": "2026-11-12T21:00:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T04:01:23+00:00"
+   "newest": "2026-11-13T04:12:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T12:40:00+09:00"
+   "newest": "2026-11-13T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
@@ -447,6 +447,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a131265a9c1394dd"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Benzinga",
+   "title_en": "Mike Johnson Sees Growing Support For China Chip Restrictions As Nvidia’s Jensen Huang Exit Rocks Washington: ‘Developing Consensus in Congress’",
+   "url": "https://www.tradingview.com/news/benzinga:bc91753a2094b:0-mike-johnson-sees-growing-support-for-china-chip-restrictions-as-nvidia-s-jensen-huang-exit-rocks-washington-developing-consensus-in-congress/",
+   "published_utc": "2026-11-13T03:06:24+00:00",
+   "title_original": "Mike Johnson Sees Growing Support For China Chip Restrictions As Nvidia’s Jensen Huang Exit Rocks Washington: ‘Developing Consensus in Congress’",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "759c88c4af518f41"
   },
   {
    "source_id": "nikkei_asia",
@@ -1177,7 +1194,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5COURlazFfeFgxQ0xsTVZxYXIxVFJpRHpLQlFuVXM5LXkyMW5KMS1GS3JHU1RrOEtCSVBVRlhEVDlDQjl0ZThkdFJqZS0zakR0cndjb1NNTnhZZw?oc=5",
-   "published_utc": "2026-11-12T21:57:18+00:00",
+   "published_utc": "2026-11-12T21:57:00+00:00",
    "title_original": "BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed",
    "region": "japan",
    "topics": [
@@ -51915,24 +51932,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7012b5569eb11b4d"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expenditures and revenue”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61375",
-   "published_utc": "2026-10-19T09:55:00+00:00",
-   "title_original": "高市首相 消費税減税の財源確保 “歳出歳入の見直し進める”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "626a0258462db077"
   },
   {
    "source_id": "manual_ia",
