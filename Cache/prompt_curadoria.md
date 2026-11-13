@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T20:02:43.772213+00:00
+Última coleta: 2026-11-13T20:12:51.605452+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Commerce Secretary Lutnick's responsibility for export of Nvidia's advanced semiconductors emerges
   - [china] Nvidia scandal sparks Washington blame game over China chip exports
   - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
   - [china] Nvidia faces new $3.2 billion China chip problem
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Three mega bank groups achieve record high profits in interim results, boosted by Bank of Japan's interest rat
   - [japan] Adjustment by postponing government bond NISA for individuals
   - [japan] Rakuten's 3rd quarter financial results record high sales but end up in the red due to strong finance and trav
-  - [china] China's New Yuan Loans Contracted in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T20:02:44+00:00",
+      "published_utc": "2026-11-13T20:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
