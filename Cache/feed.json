@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T21:22:46.255718+00:00",
- "collected_at_utc": "2026-11-13T21:22:46.255718+00:00",
+ "generated_at_utc": "2026-11-13T21:32:44.152924+00:00",
+ "collected_at_utc": "2026-11-13T21:32:44.152924+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 991,
-  "china": 871,
+  "japan": 992,
+  "china": 873,
   "taiwan": 309,
-  "korea": 829
+  "korea": 826
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T16:20:27+00:00"
+   "newest": "2026-11-13T15:37:27+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-14T05:32:39+09:00"
+   "newest": "2026-11-14T05:32:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T20:49:15+00:00"
+   "newest": "2026-11-13T21:30:09+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T21:12:07+00:00"
+   "newest": "2026-11-13T21:32:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,46 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "US Treasury bought nearly $500mn in yen during joint July forex intervention",
+   "url": "https://asia.nikkei.com/business/markets/currencies/us-treasury-bought-nearly-500mn-in-yen-during-joint-july-forex-intervention",
+   "published_utc": "2026-11-13T21:32:43.164413+00:00",
+   "title_original": "US Treasury bought nearly $500mn in yen during joint July forex intervention",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62edaf1b321bdbc2"
+  },
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "EU’s fixation on Chinese subsidies masks its own structural stagnation",
+   "url": "https://www.scmp.com/opinion/world-opinion/article/3373980/eus-fixation-chinese-subsidies-masks-its-own-structural-stagnation",
+   "published_utc": "2026-11-13T21:30:09+00:00",
+   "title_original": "EU’s fixation on Chinese subsidies masks its own structural stagnation",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "71081751645c7221"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -705,24 +739,6 @@
    "id": "bad7d9e96feed833"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanFYekMtUjZUUExQMGxBbDVWOU5FS1BIX053ZDVsYnRJYUhPSGN6Q1FvbHRNLVdMTDMtUHVHaWc3S1RacXdEVndYSUwyaFdLcFhfcnVhWElBUUxoNDItRGdZT3ZOVDc0V0ZDSnpyZjJhZWtLYnZXYUhPWHlpZG5uMm00aE9taFM1Wm1SNnc0VHRILU1wS256eQ?oc=5",
-   "published_utc": "2026-11-13T12:27:48+00:00",
-   "title_original": "央行出手！2000亿元买断式逆回购来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34705489f09bbca5"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Interim results for three megabanks record high profits due to rising interest rates",
@@ -909,6 +925,24 @@
    "live_wire": true,
    "manual": false,
    "id": "4a4ef035480dec51"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺财经",
+   "title_en": "The central bank takes action: 200 billion yuan buyout reverse repurchase is coming",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbGRvd0ZBMC00T1dUMEFWVUNHai14aW1yREltUGFudVFBV3VYVndhc0lRZ2JRMVUyQ2dRV2ZfTWpjUWZ4NGltTjBEMnNDdlpUMjhhMDE1M2FDT0pXeGNxRTVn?oc=5",
+   "published_utc": "2026-11-13T11:10:01+00:00",
+   "title_original": "央行出手：2000亿元买断式逆回购来了",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f3482e6eb2382cd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1981,6 +2015,23 @@
    "live_wire": false,
    "manual": false,
    "id": "085f42978f42082b"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWJ1WDhrbXd3azJqM1RjMnBnTkNlckRGTC1BcGdaLXJZeEt0Q3A5S0gxSjNrMjFLZnAxYnItM2JvTzd5eWRLQlhEWnYyQnRCc1VicWI4RXRtYXVVM1RXYkhMSlRiU0N0SjQ1VlJnRC0wRHBJV0U4Q3dRUUxhZHdqdXpuVEtEaU5GYmpacWoxU0RhbzdGOE1WTWI3WGJCWDdEbWdVc0NzX19Ob3ZLNEpWV1JuWmluc0l3ejNHWk9hQXJSeE1vTTU2ZGlR?oc=5",
+   "published_utc": "2026-11-13T05:00:00+00:00",
+   "title_original": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8a96f6c5377feca9"
   },
   {
    "source_id": "investing_live",
@@ -3262,6 +3313,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cf914c399e8cf9b4"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "published_utc": "2026-11-12T10:58:36+00:00",
+   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33318593d8f886be"
   },
   {
    "source_id": "tradingview_live",
@@ -6443,23 +6511,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bfc6219147dd71e2"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-   "published_utc": "2026-11-11T05:13:00+00:00",
-   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33318593d8f886be"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51868,60 +51919,6 @@
    "live_wire": false,
    "manual": false,
    "id": "55ab5d52d5e4ba42"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, said on the 20th, \"There are currently",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1scGtvUFVqTzV6QmNwb3VYSUFjX1dzb3hYVkpFRmdMMmJiLTl2UlQ2TjYtRW9CbVN0ZWx5WUV4SXl2TF9XcWVTSFhVaElkM1RpRHc?oc=5",
-   "published_utc": "2026-10-20T06:21:14+00:00",
-   "title_original": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, said on the 20th, \"There are currently",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b8de53e365503141"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FczNaMG9hcEp4b2VNS0JGSkpNTVJWTEZ6Y2dEUF9aMXdRS2NhaVdZNmdJZkNRckJRVGVYUmZzYmxyU0R2aTNRMmo2ZG9naC12SzQw?oc=5",
-   "published_utc": "2026-10-20T06:16:20+00:00",
-   "title_original": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a93d13e8d9254ede"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZRi1HUzYzaFF3RUo1SEt0QXVOMVQ4QWVSd0VqVG1RdkNqQWR6VkR4RU5XR1NYQ2VJSGNuSTYyR3JWLWVXeUMtbER1ekpsdkdzV1ZF?oc=5",
-   "published_utc": "2026-10-20T06:15:48+00:00",
-   "title_original": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71404ed3289b6b41"
   },
   {
    "source_id": "manual_ia",
