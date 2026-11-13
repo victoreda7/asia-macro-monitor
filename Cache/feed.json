@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T02:22:43.873445+00:00",
- "collected_at_utc": "2026-11-13T02:22:43.873445+00:00",
+ "generated_at_utc": "2026-11-13T02:32:47.373973+00:00",
+ "collected_at_utc": "2026-11-13T02:32:47.373973+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 983,
+  "japan": 984,
   "china": 866,
-  "taiwan": 309,
+  "taiwan": 308,
   "korea": 842
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-12T01:12:00+00:00"
+   "newest": "2026-11-13T02:02:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T11:16:15+09:00"
+   "newest": "2026-11-13T11:16:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 25,
    "error": "",
    "newest": "2026-11-13T02:04:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T02:21:51+00:00"
+   "newest": "2026-11-13T02:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-13T02:06:47+00:00"
+   "newest": "2026-11-13T02:30:48+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -337,12 +337,63 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Toda Corporation Says It Will Buy Back Up To 2.7% Of Own Shares Worth 10 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46T23I:0-toda-corporation-says-it-will-buy-back-up-to-2-7-of-own-shares-worth-10-billion-yen/",
+   "published_utc": "2026-11-13T02:31:49+00:00",
+   "title_original": "Toda Corporation Says It Will Buy Back Up To 2.7% Of Own Shares Worth 10 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a0e0ef845ed2c57a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures set for first weekly gain in five as yen weakens, oil jumps",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46U09O:0-japan-futures-set-for-first-weekly-gain-in-five-as-yen-weakens-oil-jumps/",
+   "published_utc": "2026-11-13T02:24:55+00:00",
+   "title_original": "Japan futures set for first weekly gain in five as yen weakens, oil jumps",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d7f7fedd7311bcd2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won gains most among tepid Asian FX",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46U09N:0-south-korean-won-gains-most-among-tepid-asian-fx/",
+   "published_utc": "2026-11-13T02:23:10+00:00",
+   "title_original": "South Korean won gains most among tepid Asian FX",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eb05b25d50f7204c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -51882,57 +51933,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d8fd00344ff08d79"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0VhbHBHM1Q5cDl4a2ZwZXBDaGNtM2M3UF96ZVFmYl80UGNSQUM5YzQtWTNieUh0R2JYQmprZWtGUk90U2QxNU8zT1lYbkxidEV5LVJicC0wbVNoWU44cVN5bjl3TXQ5N2dnRUJpbEZiR3ZxUXhCRzFGWUJGdzhMYTVFbndUZXNRcFNGVUZ6dEJyOTk3QXZhdU11T1RtZGZMZ2w5SGNCSzB2ZEZIaHZUT09XZw?oc=5",
-   "published_utc": "2026-10-19T08:03:24+00:00",
-   "title_original": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "445d44e9729625d5"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Sell orders centered on semiconductor-related stocks with a decline in the Nikkei Stock Average",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61495",
-   "published_utc": "2026-10-19T07:55:32+00:00",
-   "title_original": "日経平均株価 値下がり 半導体関連銘柄を中心に売り注文",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "03f5cc1661fb06b4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen",
-   "url": "https://www.tradingview.com/news/dpa_afx:868942981e3a8:0-foxconn-to-acquire-50-stake-in-mitsubishi-electric-mobility-for-115-bln-yen/",
-   "published_utc": "2026-10-19T07:54:09+00:00",
-   "title_original": "Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "79f659afb38fc37b"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T02:22:43.873445+00:00
+Última coleta: 2026-11-13T02:32:47.373973+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          983
+  🇯🇵 Japão          984
   🇨🇳 China          866
-  🇹🇼 Taiwan         309
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  842
 
 ## O que já está no feed (não repita)
 
+  - [japan] Toda Corporation Says It Will Buy Back Up To 2.7% Of Own Shares Worth 10 Billion Yen
+  - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
+  - [korea] South Korean won gains most among tepid Asian FX
   - [korea] i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.
   - [japan] Japan’s finance minister vows action as yen breaches 160 threshold
   - [korea] Samsung, SK hynix gain over 2% despite Nvidia sell-off
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
   - [korea] <Shock of scandal> Jensen Huang, CEO of Nvidia, the core of the AI ​​industry, resigns...Korean semiconductor 
   - [japan] Dollar scales fresh 19-month peak, yen hits 160 for first time since September
-  - [japan] Consumption tax reduction bill to be questioned at House of Councilors special committee; debate over effectiv
-  - [korea] SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk
-  - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T02:22:44+00:00",
+      "published_utc": "2026-11-13T02:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
