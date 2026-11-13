@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-13T17:22:45.744028+00:00",
- "collected_at_utc": "2026-11-13T17:22:45.744028+00:00",
+ "generated_at_utc": "2026-11-13T17:32:43.146907+00:00",
+ "collected_at_utc": "2026-11-13T17:32:43.146907+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 308,
   "korea": 829
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,7 +65,7 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 60,
+   "count": 42,
    "error": "",
    "newest": "2026-11-13T19:05:52+08:00"
   },
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 28,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-13T13:51:07+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T17:21:01+00:00"
+   "newest": "2026-11-13T17:31:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T12:57:20+00:00"
+   "newest": "2026-11-13T16:07:58+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -1294,23 +1294,6 @@
    "id": "43ae4fec5afab913"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "US bought 79 billion yen in July intervention with Japan",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
-   "published_utc": "2026-11-13T08:21:23+00:00",
-   "title_original": "US bought 79 billion yen in July intervention with Japan",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "48ac7c9d2f25600e"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "第一财经",
    "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
@@ -1704,6 +1687,23 @@
    "live_wire": false,
    "manual": false,
    "id": "41abbd4a53f517d2"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "US bought 79 billion yen in July intervention with Japan",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
+   "published_utc": "2026-11-13T06:21:23+00:00",
+   "title_original": "US bought 79 billion yen in July intervention with Japan",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "48ac7c9d2f25600e"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3123,23 +3123,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cf914c399e8cf9b4"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-   "published_utc": "2026-11-12T10:58:36+00:00",
-   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33318593d8f886be"
   },
   {
    "source_id": "tradingview_live",
@@ -6321,6 +6304,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bfc6219147dd71e2"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "published_utc": "2026-11-11T05:13:00+00:00",
+   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33318593d8f886be"
   },
   {
    "source_id": "gn_kr_mk",
