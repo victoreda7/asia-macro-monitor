@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T23:47:53.346512+00:00
+Última coleta: 2026-11-13T23:52:42.471253+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [china] China could cap rare earths sales if US expands chip curbs over Nvidia: analysts
   - [japan] Dollar set for best week in two months, weak yen captures Tokyo’s attention
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
+  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [japan] Interim results for three megabanks record high profits due to rising interest rates
   - [japan] Analyst sees 4 straight quarters of GDP growth
   - [korea] DeepX bets $100M on new AI chip using Samsung technology
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] US bought 79 billion yen in July intervention with Japan
   - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
   - [china] How a slowdown in US AI capex might impact China's economy
-  - [china] The central bank takes action: 200 billion yuan buyout reverse repurchase is coming
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T23:47:53+00:00",
+      "published_utc": "2026-11-13T23:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
