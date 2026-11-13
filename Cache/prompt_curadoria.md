@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T22:02:56.951077+00:00
+Última coleta: 2026-11-13T22:12:49.405526+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] EU’s fixation on Chinese subsidies masks its own structural stagnation
   - [japan] "Anthropic's malicious IPO" + "NVIDIA CEO Jensen Huang scandal"...The collapse of the AI/semiconductor bubble 
   - [japan] Commerce Secretary Lutnick's responsibility for export of Nvidia's advanced semiconductors emerges
+  - [japan] Questioning the pros and cons of the Takaichi administration's huge fiscal spending...A former general contrac
   - [china] US-China truce masks rising tensions ahead of Xi-Trump redux at APEC
   - [taiwan] What is the impact of the downfall of Nvidia's CEO, a "Taiwanese hero"? What is the reality of the "de-fan dep
   - [china] Nvidia scandal sparks Washington blame game over China chip exports
@@ -41,6 +42,7 @@ Total: 3000 manchetes
   - [china] China could cap rare earths sales if US expands chip curbs over Nvidia: analysts
   - [japan] Dollar set for best week in two months, weak yen captures Tokyo’s attention
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
+  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [japan] Interim results for three megabanks record high profits due to rising interest rates
   - [japan] Analyst sees 4 straight quarters of GDP growth
   - [korea] DeepX bets $100M on new AI chip using Samsung technology
@@ -52,11 +54,9 @@ Total: 3000 manchetes
   - [china] Nvidia scandal deepens as banned chips traced to China
   - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
   - [china] How a slowdown in US AI capex might impact China's economy
-  - [china] The central bank takes action: 200 billion yuan buyout reverse repurchase is coming
   - [china] Central Bank: Will carry out 200 billion yuan buyout reverse repurchase operation
   - [china] Scaled-down sequel! The central bank will launch a 200 billion yuan buyout reverse repurchase operation next w
   - [china] Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16
-  - [japan] 3 mega banks G's interim results show record high profits, boosted by Bank of Japan interest rate hike, full-y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T22:02:57+00:00",
+      "published_utc": "2026-11-13T22:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
