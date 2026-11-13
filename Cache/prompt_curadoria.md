@@ -7,20 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T01:42:43.441418+00:00
+Última coleta: 2026-11-13T01:52:52.512360+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          982
-  🇨🇳 China          865
-  🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  841
+  🇯🇵 Japão          983
+  🇨🇳 China          866
+  🇹🇼 Taiwan         311
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
+  - [japan] Japan's finance minister vows action as yen breaches 160 threshold
+  - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
+  - [china] CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI
+  - [china] CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7152 FRI VS 6.7174
+  - [china] Central Bank: Launching 364 billion yuan overnight reverse repurchase operation today
   - [china] On November 13, the central bank launched a 364 billion yuan overnight reverse repurchase operation.
   - [korea] BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn
-  - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
   - [china] The Central Bank of China: Today it launched a 364 billion yuan overnight reverse repurchase operation, with a
   - [japan] Bank of Japan's Councilor Asada gives speech in Nagasaki: Future rate hike pace "needs to be kept in mind" (Na
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 20
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
   - [china] Anxian Yuan China Expects HY Net Profit Of HK$18 MLN
   - [china] Chinese AI firms scramble for Nvidia chips amid fears of tighter US curbs: report
-  - [china] Speaker Johnson says Congress developing consensus on limiting chip exports to China
-  - [china] USDA anuncia venda de soja à China, enquanto Pequim cobra dos EUA avanço em acordo de redução de tarifas
-  - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
-  - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
-  - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T01:42:43+00:00",
+      "published_utc": "2026-11-13T01:52:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

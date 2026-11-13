@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T01:42:43.441418+00:00",
- "collected_at_utc": "2026-11-13T01:42:43.441418+00:00",
+ "generated_at_utc": "2026-11-13T01:52:52.512360+00:00",
+ "collected_at_utc": "2026-11-13T01:52:52.512360+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 982,
-  "china": 865,
-  "taiwan": 312,
-  "korea": 841
+  "japan": 983,
+  "china": 866,
+  "taiwan": 311,
+  "korea": 840
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T10:09:00+09:00"
+   "newest": "2026-11-13T10:42:36+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "newest": "2026-11-13T01:30:27+00:00"
+   "newest": "2026-11-13T01:31:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T01:41:52+00:00"
+   "newest": "2026-11-13T01:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,99 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar near 19-month high on Fed hike bets, yen tests 160",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02T:0-dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/",
+   "published_utc": "2026-11-13T01:51:11+00:00",
+   "title_original": "Dollar near 19-month high on Fed hike bets, yen tests 160",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "01677329592f9d2b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's finance minister vows action as yen breaches 160 threshold",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02C:0-japan-s-finance-minister-vows-action-as-yen-breaches-160-threshold/",
+   "published_utc": "2026-11-13T01:46:53+00:00",
+   "title_original": "Japan's finance minister vows action as yen breaches 160 threshold",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1618793a7db4a2b7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan's Finance Minister Warns Against Rapid Yen Moves",
+   "url": "https://www.tradingview.com/news/DJN_DN20261112017572:0-japan-s-finance-minister-warns-against-rapid-yen-moves/",
+   "published_utc": "2026-11-13T01:45:00+00:00",
+   "title_original": "Japan's Finance Minister Warns Against Rapid Yen Moves",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ab4afa68049f2755"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI",
+   "url": "https://www.tradingview.com/news/dpa_afx:d51294e3985b6:0-china-pboc-conducts-cny300-bln-via-7d-reverse-repo-fri/",
+   "published_utc": "2026-11-13T01:43:33+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7fb2d20293037962"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI",
+   "url": "https://www.tradingview.com/news/dpa_afx:e1ca4a651c516:0-china-pboc-conducts-cny364-bln-via-o-n-reverse-repo-fri/",
+   "published_utc": "2026-11-13T01:43:32+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c6bc158310598187"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -359,6 +446,24 @@
    "live_wire": true,
    "manual": false,
    "id": "7031a076ae353f40"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "Central Bank: Launching 364 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmVDYl9laHY4VkNIYW1Lc0RGdjdtek9fM1NHZ0RMclItY1NPQkJNZ2dqUExhM292UmFvQms0R1RPZ3Q2Y3Q2SGZOeHkxNTE5RHdDZzJsa1hCbzFLckgtOGtRVlU0bXE1elVib1plQnlxQ014bWVXM2pHVkFmSjZ2SUNfSlpOaU8xMGZMZg?oc=5",
+   "published_utc": "2026-11-13T01:31:00+00:00",
+   "title_original": "央行：今日开展3640亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "80325dfbb302b9c5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -394,24 +499,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3d6b3308b9cd494f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan's Finance Minister Warns Against Rapid Yen Moves",
-   "url": "https://www.tradingview.com/news/DJN_DN20261112017373:0-japan-s-finance-minister-warns-against-rapid-yen-moves/",
-   "published_utc": "2026-11-13T01:30:00+00:00",
-   "title_original": "Japan's Finance Minister Warns Against Rapid Yen Moves",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ff1b4fe21ccca5e6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3251,8 +3338,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -3266,7 +3353,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3440,8 +3527,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3455,7 +3542,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51843,91 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f207d2b7e6555768"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan PM says won’t rule out debt issuance to fund tax cut",
-   "url": "https://www.investing.com/news/economy-news/japan-pm-says-wont-rule-out-debt-issuance-to-fund-tax-cut-4956513",
-   "published_utc": "2026-10-19T07:24:55+00:00",
-   "title_original": "Japan PM says won’t rule out debt issuance to fund tax cut",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a65757b4dce9112d"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China's GDP expands 4.5 pct year on year in Q3",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UbGVjNEZETjRVcGctNC1mUEVoMFNYaTdObzZTb19CNGFPcUVJZElUREkxeTFWTXpvMUlkSTlRbXdfRTBES2dwaTFXblRsM2EweEU2UWRGclJ3REtLazZ5VlNQOUE4aFo4Y1RGUVFmd3RTdUt0UWtEVUdQMV8?oc=5",
-   "published_utc": "2026-10-19T07:03:15+00:00",
-   "title_original": "China's GDP expands 4.5 pct year on year in Q3",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5c87bf4c5375b785"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the statistical data on sales price changes of commercial housing in September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1ZSOE9TRHNqMlVKM2RVUS1tY2E0aEtjdHRGMmk2Y3c4ZG5WcU1tcFpwamNBNVdnbDQyMzhDY2dYTlhEQktsbnBjaWhXUkFYMmdkcWtzVEpUZ3ZwYVJoQkJUTDBfdjAtZlgtcTJkaw?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "国家统计局城市司高级统计师杨彩芳解读2026年9月份商品住宅销售价格变动情况统计数据",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "98a247d1242e50eb"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Chey Tae-won: “If I went back to my 20s, I wouldn’t have gone into semiconductors” ... What would his startup idea be?",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TVA3MmZtb3E1Y1lXRFotMWVyRzl2VVNtUERrcGZING93MjBpbnhQSS1DeHNHUlFlVXBQd095M1dFMEZmZ1BQZGlUQkE0Snd4VWVB?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Chey Tae-won: “If I went back to my 20s, I wouldn’t have gone into semiconductors” ... What would his startup idea be?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "97c832f658362042"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Podcast highlights: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2EzSGZ1Y05CR2E2V0UyRmdOeFlSMGxxYVZiNlBURi1kcGtNaS1JY1B0NFh2UklrM1UyOXNWTXUxeVpOTlB6eGZQV1YtS25SMWl1X1lWZDVua1E5Ny1CdGJ1a1N3YWoyNUZHLVJLbkJnMldsZF9KUUR0Zjkta2EwMWdWVk9keEZmSXJNWjlB?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Podcast highlights: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aeb493139bcf4642"
   },
   {
    "source_id": "manual_ia",
