@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-13T17:43:00.278897+00:00",
- "collected_at_utc": "2026-11-13T17:43:00.278897+00:00",
+ "generated_at_utc": "2026-11-13T17:52:48.702590+00:00",
+ "collected_at_utc": "2026-11-13T17:52:48.702590+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 308,
   "korea": 829
  },
- "elapsed_s": 32.1,
+ "elapsed_s": 29.7,
  "sources": [
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -134,6 +126,14 @@
    "newest": "2026-11-13T19:00:00+09:00"
   },
   {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-13T11:40:55+00:00"
+  },
+  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T13:51:07+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T17:42:24+00:00"
+   "newest": "2026-11-13T17:52:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:52:19+00:00"
+   "newest": "2026-11-13T08:53:39+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3123,23 +3123,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cf914c399e8cf9b4"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-   "published_utc": "2026-11-12T10:58:36+00:00",
-   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33318593d8f886be"
   },
   {
    "source_id": "tradingview_live",
@@ -6321,6 +6304,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bfc6219147dd71e2"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "published_utc": "2026-11-11T05:13:00+00:00",
+   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33318593d8f886be"
   },
   {
    "source_id": "gn_kr_mk",
