@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T01:22:42.356025+00:00",
- "collected_at_utc": "2026-11-13T01:22:42.356025+00:00",
+ "generated_at_utc": "2026-11-13T01:32:43.962083+00:00",
+ "collected_at_utc": "2026-11-13T01:32:43.962083+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 979,
-  "china": 868,
+  "japan": 981,
+  "china": 865,
   "taiwan": 313,
-  "korea": 840
+  "korea": 841
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:56:00+00:00"
+   "newest": "2026-11-12T19:01:37+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T01:03:57+00:00"
+   "newest": "2026-11-13T01:30:39+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T10:09:05+09:00"
+   "newest": "2026-11-13T10:09:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T01:21:49+00:00"
+   "newest": "2026-11-13T01:30:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4022963:0-bhi-9m-sales-rose-earnings-strengthened-and-the-order-backlog-reached-krw-2-458tn/",
+   "published_utc": "2026-11-13T01:30:22+00:00",
+   "title_original": "BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3d6b3308b9cd494f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan's Finance Minister Warns Against Rapid Yen Moves",
+   "url": "https://www.tradingview.com/news/DJN_DN20261112017373:0-japan-s-finance-minister-warns-against-rapid-yen-moves/",
+   "published_utc": "2026-11-13T01:30:00+00:00",
+   "title_original": "Japan's Finance Minister Warns Against Rapid Yen Moves",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ff1b4fe21ccca5e6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -444,6 +479,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c6ad732470483f23"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "U.S. demands Japan triple troop-hosting costs to 3 tril. yen over 5 yrs",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lSWp5cFQ0Tm5pNkpvZUdPdEZhb2dTWExCQUx6YkRCVTV1dTgzV2RjYXRGTkpKUUgwZ25LbEo2NkUxT21OdGNKSjBYbFNLTDF2YXAySE80ZVlPZw?oc=5",
+   "published_utc": "2026-11-13T00:58:00+00:00",
+   "title_original": "U.S. demands Japan triple troop-hosting costs to 3 tril. yen over 5 yrs",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "23fd112536bded6c"
   },
   {
    "source_id": "tradingview_live",
@@ -3129,8 +3181,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -3144,7 +3196,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3318,8 +3370,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3333,7 +3385,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51875,57 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f902964ad5a000aa"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Total retail sales of consumer goods increased by 1.1% from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KVVlUSDdhc0VlcEo3OVVBSGxJRHNHMllqdzVPNmpKbXRxNy1aR0paYlBfUU5wWU9Pa3B0dnVtS0YtOGt4UHlIZV9FSjdrN21CUmF2RTU5U1FRQndvT3NCQ25vTHRuNGppd3Znc05COA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "2026年1—9月份社会消费品零售总额增长1.1%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3df267849337c57c"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Basic situation of national fixed asset investment from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5odVVyQ196X2NYOW53VGpVc0ZZMGh4NzJkeHlXTXBmaUcxTmJCNkdDNzBNVjRDY3U0cDNDTUw3ckZ1bkVTLV9mZ3ZfRFk1RW5LWnlhU0hCLUNHUTF0eGlua0NOTWFFQVdpTTlQM1FreUVOS0k?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "2026年1—9月份全国固定资产投资基本情况",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff7af19597176f64"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Basic situation of the national real estate market from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSVVlanRWY19fOXkycWtaaGFhRnJWcU5WdjhRNjc2TkdqbDF5X2ZhYTVFZG1meGFPUXIwdGoxSWJuaEVvcDE4U3dlLWtTa3M5NjZWd01LT2tEWEdyWXV6TzZGazBBWVhNVkU4UjJTRQ?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "2026年1—9月份全国房地产市场基本情况",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ebb2c7b6d0f517e8"
   },
   {
    "source_id": "manual_ia",

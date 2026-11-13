@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T01:22:42.356025+00:00
+Última coleta: 2026-11-13T01:32:43.962083+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
-  🇨🇳 China          868
+  🇯🇵 Japão          981
+  🇨🇳 China          865
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  840
+  🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
+  - [korea] BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn
+  - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 20
   - [japan] Yen market price temporarily fell to the 160 yen level to the dollar, the weakest yen level in about 2 months
   - [japan] BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief
   - [japan] Yen jumps in ‘jittery’ trading after hitting 160 against US dollar
   - [china] China’s access to Nvidia chips in doubt as curbs gain traction in US Congress
   - [japan] JGB Yields Rise After Selloff in U.S. Treasurys Overnight — Market Talk
+  - [japan] U.S. demands Japan triple troop-hosting costs to 3 tril. yen over 5 yrs
   - [china] HSBC Says Yuan Could Double Its Global Payments Share
   - [japan] Japan's finance minister warns of potential action against FX volatility
   - [korea] Why is Samsung Electronics stock rallying today?
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Como Jensen Huang, da Nvidia, se viu envolvido em um escândalo envolvendo chips e espionagem na China
   - [japan] Udon chain announces price cuts in anticipation of food consumption tax cut
   - [china] Carney to Raise Chinese Auto Manufacturing in Talks With Xi
-  - [japan] Intervention Risk Could Curb Further Japanese Yen Falls — Market Talk
-  - [china] DDL: GMV grew 14.3% as profits continued, partly boosted by suspended China-asset depreciation
-  - [china] Caixin Summit: TCL Chairman Urges Manufacturers to Embrace AI and Localize Overseas
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T01:22:42+00:00",
+      "published_utc": "2026-11-13T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
