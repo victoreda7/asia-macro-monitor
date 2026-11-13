@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T07:02:44.838506+00:00
+Última coleta: 2026-11-13T07:12:45.098495+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Ut Group Co Ltd - To Buy Back Up To 7.2% Of Own Shares Worth 6 Billion Yen
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Investor Relations Event
   - [japan] Consumption tax reduction bill: Support money “considered for 50% or more of workers” Prime Minister Takaichi
   - [japan] Stock prices rise Buy orders for some AI/semiconductor related stocks
   - [japan] Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SEMIFIVE Q3 Orders Rise 437% YoY to KRW 178.4B
   - [korea] South Korea says Google has removed Korean coordinates from maps under export permit
   - [japan] Exclusive-Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say
-  - [japan] Presidents of Chile and Peru will visit Japan next week to hold summit meeting with Prime Minister Takaichi
-  - [china] Toyota rewires China supply chain to fight back in EV race
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T07:02:45+00:00",
+      "published_utc": "2026-11-13T07:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
