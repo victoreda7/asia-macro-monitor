@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T20:52:42.778268+00:00
+Última coleta: 2026-11-13T21:02:52.241709+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          992
-  🇨🇳 China          871
+  🇯🇵 Japão          991
+  🇨🇳 China          872
   🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  829
 
 ## O que já está no feed (não repita)
 
+  - [china] US-China truce masks rising tensions ahead of Xi-Trump redux at APEC
   - [japan] Commerce Secretary Lutnick's responsibility for export of Nvidia's advanced semiconductors emerges
   - [china] Nvidia scandal sparks Washington blame game over China chip exports
   - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] GRAVITY Co., Ltd. (GRVY) Q3 Net Profit Rose 7.7% YoY to KRW 21.4B
   - [japan] Three mega bank groups achieve record high profits in interim results, boosted by Bank of Japan's interest rat
   - [japan] Adjustment by postponing government bond NISA for individuals
-  - [japan] Rakuten's 3rd quarter financial results record high sales but end up in the red due to strong finance and trav
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T20:52:42+00:00",
+      "published_utc": "2026-11-13T21:02:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
