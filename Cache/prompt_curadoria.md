@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T08:52:43.300410+00:00
+Última coleta: 2026-11-13T09:02:45.257563+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          858
+  🇯🇵 Japão          996
+  🇨🇳 China          860
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  838
+  🇰🇷 Coreia do Sul  837
 
 ## O que já está no feed (não repita)
 
+  - [china] Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report
+  - [china] China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project
   - [japan] Appier Group, Inc. Raises FY26 Operating Income Guidance to JPY 5.9B
   - [korea] As Google completes security measures to export precision maps abroad, such as covering military and..
   - [korea] Google to compete with Korean mapping firms after Seoul clears high-resolution map exports
@@ -49,14 +51,12 @@ Total: 3000 manchetes
   - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
   - [japan] Mizuho Financial Group, Inc. - To Buy Back Up To 1.4% Own Shares Worth 200 Billion Yen
   - [japan] Rakus Co., Ltd. - To Buy Back Up To 1.02% Of Shares Worth 3 Billion Yen
+  - [korea] It was found that the top 1% of stock investment returns intensively bought Samsung Electronics and
   - [japan] Japan Post Insurance Co - To Buy Back, Retire Up To 4.6% Own Shares Worth 47 Bln Yen
   - [korea] Kospi Gives Up Early Gains as Chip, Airline Stocks Retreat
   - [taiwan] Nvidia AI future strong, Huang exit unlikely to affect TSMC: U.S. expert
   - [japan] Japan Post Bank Co Ltd - To Buy Back Up To 0.4% Of Own Shares Worth 30 Billion Yen
   - [japan] Shin-Etsu Chemical Co., Ltd. Says It Will Buy Back Up To 0.55% Of Own Shares Worth 50 Billion Yen
-  - [japan] Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert — Update
-  - [korea] Samsung Electronics Reportedly Considering Acquisition Of Data Center Cooling Systems Maker Modine
-  - [japan] Premium apples in north Japan fetch 100,000 yen in season's 1st auction
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T08:52:43+00:00",
+      "published_utc": "2026-11-13T09:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

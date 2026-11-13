@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T08:52:43.300410+00:00",
- "collected_at_utc": "2026-11-13T08:52:43.300410+00:00",
+ "generated_at_utc": "2026-11-13T09:02:45.257563+00:00",
+ "collected_at_utc": "2026-11-13T09:02:45.257563+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 997,
-  "china": 858,
+  "japan": 996,
+  "china": 860,
   "taiwan": 307,
-  "korea": 838
+  "korea": 837
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-13T02:02:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T17:05:00+09:00"
+   "newest": "2026-11-13T18:00:56+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T04:15:04+00:00"
+   "newest": "2026-11-13T09:00:08+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T08:52:09+00:00"
+   "newest": "2026-11-13T09:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:01:00+00:00"
+   "newest": "2026-11-13T08:48:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:46:51+00:00"
+   "newest": "2026-11-13T08:52:19+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report",
+   "url": "https://www.tradingview.com/news/seekingalpha:705516fde094b:0-banned-nvidia-chips-traced-to-alice-huang-linked-data-center-in-shanghai-report/",
+   "published_utc": "2026-11-13T08:57:57+00:00",
+   "title_original": "Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "914f683f668f50d1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46U0W0:0-china-haisum-engineering-s-unit-signs-1-4-billion-yuan-epc-contract-for-uk-waste-to-energy-project/",
+   "published_utc": "2026-11-13T08:53:25+00:00",
+   "title_original": "China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cf976c74e4445e88"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -891,6 +925,23 @@
    "id": "19ad434b45d098e6"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "It was found that the top 1% of stock investment returns intensively bought Samsung Electronics and",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WnczY0h1RTlVRGhZX0J0S1dwaUpPQlpuSGJYM0Y2QzJjdWNic3ZiZTRNTDBfVkc1cTg4SlFQUVhFMU9EZTFXN3JpNUlnT0k?oc=5",
+   "published_utc": "2026-11-13T06:36:48+00:00",
+   "title_original": "It was found that the top 1% of stock investment returns intensively bought Samsung Electronics and",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92f9d2137174c0a8"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Japan Post Insurance Co - To Buy Back, Retire Up To 4.6% Own Shares Worth 47 Bln Yen",
@@ -1076,40 +1127,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e338f406d91c4365"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "Sumitomo Mitsui Financial Group: Record 1H net income lifts FY guidance to JPY 1.9tn and buybacks to JPY 400bn",
-   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4245360:0-sumitomo-mitsui-financial-group-record-1h-net-income-lifts-fy-guidance-to-jpy-1-9tn-and-buybacks-to-jpy-400bn/",
-   "published_utc": "2026-11-13T06:08:34+00:00",
-   "title_original": "Sumitomo Mitsui Financial Group: Record 1H net income lifts FY guidance to JPY 1.9tn and buybacks to JPY 400bn",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7ebd2abb17dff6a4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "YC: 9M profit climbed as AI-led demand supported a KRW 337.61bn equipment backlog",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4023655:0-yc-9m-profit-climbed-as-ai-led-demand-supported-a-krw-337-61bn-equipment-backlog/",
-   "published_utc": "2026-11-13T06:03:18+00:00",
-   "title_original": "YC: 9M profit climbed as AI-led demand supported a KRW 337.61bn equipment backlog",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9564d3239ff733ad"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4542,8 +4559,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -4557,7 +4574,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4731,8 +4748,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -4746,7 +4763,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51909,23 +51926,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e586ccb03a677bfc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027",
-   "url": "https://www.tradingview.com/news/DJN_DN20261019008418_20261019008419:0-samsung-electro-mechanics-to-supply-chip-packaging-substrates-to-major-global-customer-in-2027/",
-   "published_utc": "2026-10-19T23:15:00+00:00",
-   "title_original": "Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c6c66c0bb42efd23"
   },
   {
    "source_id": "manual_ia",
