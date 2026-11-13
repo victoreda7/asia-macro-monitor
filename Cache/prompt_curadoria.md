@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T10:22:42.196065+00:00
+Última coleta: 2026-11-13T10:32:44.404738+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          865
+  🇯🇵 Japão          990
+  🇨🇳 China          868
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  835
+  🇰🇷 Coreia do Sul  833
 
 ## O que já está no feed (não repita)
 
+  - [china] China's New Yuan Loans Contracted in October
+  - [china] Metro Holdings: Indonesian property sales and improved China results drove a return to pre-tax profit
+  - [china] Metallurgical Corporation Of China's January-October New Contracts Totalled 548.8 Billion Yuan
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Investor Relations Event
   - [japan] Consumption tax reduction bill: Support money “considered for 50% or more of workers” Prime Minister Takaichi
   - [japan] Stock prices rise Buy orders for some AI/semiconductor related stocks
-  - [japan] Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen
-  - [china] Table: Yuan Jen Enterprises 3Q Net Profit NT$323.3M Vs NT$233.6M
-  - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T10:22:42+00:00",
+      "published_utc": "2026-11-13T10:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
