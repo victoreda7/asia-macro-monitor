@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T03:22:44.088508+00:00
+Última coleta: 2026-11-13T03:32:47.115442+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          987
   🇨🇳 China          866
-  🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  839
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korean gov't sees solid economic growth trend amid surging exports, investment
   - [taiwan] TSMC seeks to back next chip titan with new investment arm
   - [japan] Obayashi Corporation - To Buy Back Up To 2.9% Of Own Shares Worth 30 Billion Yen
   - [korea] Cloud: Upbit opens spot trading in KRW, BTC and USDT markets - 13 Nov 2026
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [korea] South Korean won gains most among tepid Asian FX
   - [korea] i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.
   - [japan] Japan’s finance minister vows action as yen breaches 160 threshold
+  - [china] China Chipmaker SigmaStar Said to Plan $300 Million HK Listing
   - [korea] Samsung, SK hynix gain over 2% despite Nvidia sell-off
   - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
   - [china] The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Q3 GDP Seen Slightly Up as Capex Offsets First Private Consumption Drop in 10 Quarters
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 366.43, Implies 32% Upside
   - [japan] US Treasury bought yen in July; Fed made no solo FX interventions in Q3
-  - [japan] Bank of Japan Deputy Governor Himino attends a special committee meeting of the House of Councilors at 1:26 p.
-  - [japan] BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T03:22:44+00:00",
+      "published_utc": "2026-11-13T03:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
