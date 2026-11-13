@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T01:12:43.141892+00:00",
- "collected_at_utc": "2026-11-13T01:12:43.141892+00:00",
+ "generated_at_utc": "2026-11-13T01:22:42.356025+00:00",
+ "collected_at_utc": "2026-11-13T01:22:42.356025+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 975,
-  "china": 870,
-  "taiwan": 314,
-  "korea": 841
+  "japan": 979,
+  "china": 868,
+  "taiwan": 313,
+  "korea": 840
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T20:18:00+00:00"
+   "newest": "2026-11-13T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T00:48:15+00:00"
+   "newest": "2026-11-13T01:13:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T19:01:37+00:00"
+   "newest": "2026-11-09T08:56:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T21:57:18+00:00"
+   "newest": "2026-11-13T01:15:47+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T07:47:30+09:00"
+   "newest": "2026-11-13T10:16:48+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T01:01:40+00:00"
+   "newest": "2026-11-13T01:21:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,131 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y3.1T Of TD-Bills Nov 20",
+   "url": "https://www.tradingview.com/news/DJN_DN20261112017515:0-japan-mof-to-auction-y3-1t-of-td-bills-nov-20/",
+   "published_utc": "2026-11-13T01:20:00+00:00",
+   "title_original": "Japan MOF To Auction Y3.1T Of TD-Bills Nov 20",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "df6e83a952a60886"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Yen market price temporarily fell to the 160 yen level to the dollar, the weakest yen level in about 2 months",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75110",
+   "published_utc": "2026-11-13T01:16:48+00:00",
+   "title_original": "円相場 一時1ドル＝160円台まで値下がり 約2か月ぶり円安水準",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7f5abd7737a73e59"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5INkRkak54R1dEVEY5M3NrVG9sT3pZcnZiU0NWOWdUSG5BRlI2bmJNYmM2X0tjR3puOTNvWXFPMVZLQUhCU1poMThOMTBUUkZXbEdNOEswTVU4dw?oc=5",
+   "published_utc": "2026-11-13T01:15:47+00:00",
+   "title_original": "BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fe7c07f0e89fd86"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "Yen jumps in ‘jittery’ trading after hitting 160 against US dollar",
+   "url": "https://www.tradingview.com/news/cnbctv:12d250a43094b:0/",
+   "published_utc": "2026-11-13T01:14:13+00:00",
+   "title_original": "Yen jumps in ‘jittery’ trading after hitting 160 against US dollar",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4dd777ab4e489f17"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s access to Nvidia chips in doubt as curbs gain traction in US Congress",
+   "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
+   "published_utc": "2026-11-13T01:13:07+00:00",
+   "title_original": "China’s access to Nvidia chips in doubt as curbs gain traction in US Congress",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eb720a8511c4a1e7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "JGB Yields Rise After Selloff in U.S. Treasurys Overnight — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261112017484:0-jgb-yields-rise-after-selloff-in-u-s-treasurys-overnight-market-talk/",
+   "published_utc": "2026-11-13T01:08:00+00:00",
+   "title_original": "JGB Yields Rise After Selloff in U.S. Treasurys Overnight — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c6ad732470483f23"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "HSBC Says Yuan Could Double Its Global Payments Share",
+   "url": "https://www.tradingview.com/news/binance_news:03e6d9939094b:0-hsbc-says-yuan-could-double-its-global-payments-share/",
+   "published_utc": "2026-11-13T00:55:21+00:00",
+   "title_original": "HSBC Says Yuan Could Double Its Global Payments Share",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "99c8982db117e43e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -602,23 +721,6 @@
    "id": "8eaf901425a6d436"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75110",
-   "published_utc": "2026-11-12T19:43:22+00:00",
-   "title_original": "円相場1ドル＝160円台 約2か月ぶり円安水準",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4fda450cce847c69"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns",
@@ -754,23 +856,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e140460d2d4e5aee"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFBGZG9jUFFjX0tFY2tXSEVILWxGWU1rMzBvT1pTcUpqa2tEdEV0QWRybENzel9tU3hIQVhmTngyY3VGRGZZeGtCWDhEWm1oRXBzVWlGRnhwRzJrd0Z5bGZhUi1STHFLdFdLVnhoRUxMOW42MkNSSjNZX3JQR0o3OVpBSE10bE1kekw3OVVXYXVub0NzekN5NE4zb1JpRzB6Zjl2V1pTWFEteUQ1Q0hxd2lhLV9JLXloLVJqbWhUQ1pmN21H?oc=5",
-   "published_utc": "2026-11-12T14:35:00+00:00",
-   "title_original": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c93361042a7fe9f4"
   },
   {
    "source_id": "tradingview_live",
@@ -3044,8 +3129,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -3059,7 +3144,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3233,8 +3318,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3248,7 +3333,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51841,92 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ebb2c7b6d0f517e8"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSUhra29wNWZTb2haeFhnN1p6dlU0WDZDbXZpNG1LaWk3X1dUaVVfRC1ZNGlicENjQlBVemRBcW82OVFKeTN5c1RSR0g4OXpyTGZweHRSSWEtUQ?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a6afcef16cf07b63"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Yuan Ranks Third in Global Payments Under Broader Measure, PBOC Chief Says",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSklub3hzdDczMk1ib2lVVC13c0NYZDVXa2F5U09NUW1rMEVuTDNSOUQzWWdoWDB5MS1zMnM2U29EUGJmbzYtSHpmSFh0MkZaVTNISEJkY08tSTFxSWJlaUR6MWJnN3NfdVpLZERYU0Z4MTFvaHpISElaa0MyOWE2bkY5cHM5NlM4Nk9aTWRFU3VWNWZXMFdvTzQtQkpndnNYZTVmamctQ1UtR3czZlZXZ1FfbG9la2dpbFBkX1hmVjliN2RUMGZB?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Yuan Ranks Third in Global Payments Under Broader Measure, PBOC Chief Says",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "156428881b01eb40"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a18328814abf65e8"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkJ1VC1LRkNROGZRbDFVai1GQ0U5dV83TkNOT3lHVWN4bDdXS2p4bzB6MGJpTVlLOWVYRjQ4VWFGVjFaSzBjeWZaUGZhdFUzY01kc284X3hlMk9yc2J6OU1BRUNDQzlKdEp1cWpFSkJmNG5PcFh5UldSY3NJeW5CcWZBRHJYNnZGSWYtNA?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc61015af334d077"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Semiconductor equipment demand rises as risks curb AI bubble",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTm94TUhsSmcxMWZMSUljcW9IbVZqUXFSX1M1Z3AxQThFSVVnMkdtZGR3Rlg4YUZ4OFN6UXlhWmNPRzA1bG1RMWF0X2ZlaVNHbndlajZ3VnBRem5ZQjJoMzkxTlFOQnZtSlFYYlhYcXcxc19aR1J0bHRRb2U2cWdHUkdVZ21qOUo0MVY4cw?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Semiconductor equipment demand rises as risks curb AI bubble",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "81e5f0b6cb26c2c2"
   },
   {
    "source_id": "manual_ia",

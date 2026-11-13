@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T01:12:43.141892+00:00
+Última coleta: 2026-11-13T01:22:42.356025+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
-  🇨🇳 China          870
-  🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  841
+  🇯🇵 Japão          979
+  🇨🇳 China          868
+  🇹🇼 Taiwan         313
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 20
+  - [japan] Yen market price temporarily fell to the 160 yen level to the dollar, the weakest yen level in about 2 months
+  - [japan] BREAKING NEWS: Japan to take appropriate action vs. yen slide if necessary: finance chief
+  - [japan] Yen jumps in ‘jittery’ trading after hitting 160 against US dollar
+  - [china] China’s access to Nvidia chips in doubt as curbs gain traction in US Congress
+  - [japan] JGB Yields Rise After Selloff in U.S. Treasurys Overnight — Market Talk
+  - [china] HSBC Says Yuan Could Double Its Global Payments Share
   - [japan] Japan's finance minister warns of potential action against FX volatility
   - [korea] Why is Samsung Electronics stock rallying today?
   - [japan] Japan Q3 GDP Seen Slightly Up as Capex Offsets First Private Consumption Drop in 10 Quarters
@@ -32,7 +39,6 @@ Total: 3000 manchetes
   - [japan] Dollar scales fresh 19-month peak, yen hits 160 for first time since September
   - [japan] Consumption tax reduction bill to be questioned at House of Councilors special committee; debate over effectiv
   - [korea] SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk
-  - [japan] Yen exchange rate: 1 dollar = 160 yen level, weakest level in about 2 months
   - [china] Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns
   - [japan] Yen Hovers Near Key 160 Level, Fueling Intervention Concerns
   - [japan] Takaichi looks to meet with Trump to head off defense spending demands
@@ -41,7 +47,6 @@ Total: 3000 manchetes
   - [china] Chinese AI firms scramble for Nvidia chips amid fears of tighter US curbs: report
   - [china] Speaker Johnson says Congress developing consensus on limiting chip exports to China
   - [china] USDA anuncia venda de soja à China, enquanto Pequim cobra dos EUA avanço em acordo de redução de tarifas
-  - [china] China's access to Nvidia chips in doubt as curbs gain traction in US Congress
   - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
   - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
   - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Intervention Risk Could Curb Further Japanese Yen Falls — Market Talk
   - [china] DDL: GMV grew 14.3% as profits continued, partly boosted by suspended China-asset depreciation
   - [china] Caixin Summit: TCL Chairman Urges Manufacturers to Embrace AI and Localize Overseas
-  - [taiwan] Chailease Holding Company: Assets reached TWD 1 trillion as portfolio growth and 9M profit advanced
-  - [taiwan] TSMC confirms employee data leak as hackers seek 3 BTC for the records
-  - [japan] [Consumption tax reduction] 5 trillion yen per year is ``enough to cover the costs'' / Mr. Ishiba and Mr. Obuc
-  - [china] China's trade surplus, strong exports to support yuan appreciation against US dollar: Report
-  - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T01:12:43+00:00",
+      "published_utc": "2026-11-13T01:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
