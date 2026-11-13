@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T14:02:47.209022+00:00
+Última coleta: 2026-11-13T14:12:46.539382+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          867
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  830
+  🇨🇳 China          869
+  🇹🇼 Taiwan         308
+  🇰🇷 Coreia do Sul  829
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan loans grow 11.42 trln yuan in first 10 months
   - [china] The People's Bank of China will scale back its operations and carry out a 200 billion yuan six-month buyout re
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”
@@ -53,10 +54,9 @@ Total: 3000 manchetes
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
   - [china] Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [china] Central Bank: The stock of social financing at the end of October 2026 was 469.16 trillion yuan, a year-on-yea
+  - [china] The central bank will carry out a 200 billion yuan buyout reverse repurchase operation to stabilize market exp
   - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
   - [china] Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report
-  - [china] China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project
-  - [japan] Appier Group, Inc. Raises FY26 Operating Income Guidance to JPY 5.9B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T14:02:47+00:00",
+      "published_utc": "2026-11-13T14:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

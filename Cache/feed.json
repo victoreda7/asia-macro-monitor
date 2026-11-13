@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T14:02:47.209022+00:00",
- "collected_at_utc": "2026-11-13T14:02:47.209022+00:00",
+ "generated_at_utc": "2026-11-13T14:12:46.539382+00:00",
+ "collected_at_utc": "2026-11-13T14:12:46.539382+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 994,
-  "china": 867,
-  "taiwan": 309,
-  "korea": 830
+  "china": 869,
+  "taiwan": 308,
+  "korea": 829
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T13:46:31+00:00"
+   "newest": "2026-11-13T14:01:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T13:33:28+00:00"
+   "newest": "2026-11-13T14:00:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-13T13:09:06+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T14:02:10+00:00"
+   "newest": "2026-11-13T14:12:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T09:54:08+00:00"
+   "newest": "2026-11-13T06:52:39+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T07:30:31+00:00"
+   "newest": "2026-11-13T14:09:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's yuan loans grow 11.42 trln yuan in first 10 months",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PbWFGOFZ0MFB3d3NCUjNENFhqMTZtZklENlhOcFhSdzcyT3pHTmRHMVB4Q3RRTUIxU2ZNOU9BZlJCZkJRZm1fd1RKNEF3STlfcXN5aU1lSW9kVl9hZWstWE1yNGRYRV9fUzRVUlhLSTBMbWlISU5QMmNObEU?oc=5",
+   "published_utc": "2026-11-13T14:09:00+00:00",
+   "title_original": "China's yuan loans grow 11.42 trln yuan in first 10 months",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d7675ba0d1e438b"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
@@ -965,6 +982,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c2c4059a194b77c6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "The central bank will carry out a 200 billion yuan buyout reverse repurchase operation to stabilize market expectations.",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSDRGWjVKeERBNTFfd0JJOFloTV9lY1RXOGZ6eXlmN0ZYSDMxUzdBYXpIcENEZXIzTVh6Tm8xMS1oZUwxZm0tQg?oc=5",
+   "published_utc": "2026-11-13T09:13:00+00:00",
+   "title_original": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b0124bb81eb0f8d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51891,40 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "77972d145585bebb"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Legislators pay attention to inflation Zhuo Rongtai: strive to maintain the annual CPI below 2%",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TbTc4bEx5cDZJZlNQS0UtTWZkS18tN2dtd0tTS2JsOEo2UVdaYjNpRzdGcW1lMS1USGNGa3QxeUNId0U3dF85UEhHUlVFQXNlLW5Hek10M01lbml2MHc?oc=5",
-   "published_utc": "2026-10-20T04:52:00+00:00",
-   "title_original": "立委關注通膨 卓榮泰：努力維持全年CPI在2%以下",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c2be87a406263b0d"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The Jeonnam Gwangju Semiconductor Forum held its first board meeting and launched activities to crea..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LR2JGX2x1NEEybDhPcjlOZTdISnhWRURPdVhnVFMzTkdOXzZfNlk5S1NneUlRSXFhS19LQ2o1a09Kbm8yMDhGeExpcVNZLXR1UGc?oc=5",
-   "published_utc": "2026-10-20T04:50:45+00:00",
-   "title_original": "The Jeonnam Gwangju Semiconductor Forum held its first board meeting and launched activities to crea..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ac3b027527f7ebd3"
   },
   {
    "source_id": "manual_ia",
