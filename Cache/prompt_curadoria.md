@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T04:52:45.197486+00:00
+Última coleta: 2026-11-13T05:02:43.956559+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          989
-  🇨🇳 China          864
+  🇨🇳 China          865
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  839
+  🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [japan] SMC Corp - Announces Maximum Buyback Value Of Jpy 50 Billion
+  - [korea] SEMIFIVE Secures KRW 178.4 Billion in Q3 New Orders, Up 437% YoY, Driving Order Backlog to Record High
+  - [korea] SEMIFIVE Q3 Orders Rise 437% YoY to KRW 178.4B
   - [japan] Presidents of Chile and Peru will visit Japan next week to hold summit meeting with Prime Minister Takaichi
   - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
   - [china] Toyota rewires China supply chain to fight back in EV race
+  - [japan] BOJ not planning further ETF sales review now, Himino says
   - [china] China's yuan inches higher as companies convert cash holdings
   - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
   - [china] The U.S. Congress plans to tighten the export of AI chips to China, making it more difficult for China to obta
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI
   - [china] CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI
   - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation today - 36 Krypton
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7152 FRI VS 6.7174
-  - [china] Central Bank: Launching 364 billion yuan overnight reverse repurchase operation today
-  - [china] On November 13, the central bank launched a 364 billion yuan overnight reverse repurchase operation.
-  - [korea] BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T04:52:45+00:00",
+      "published_utc": "2026-11-13T05:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

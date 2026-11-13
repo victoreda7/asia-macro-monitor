@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T04:52:45.197486+00:00",
- "collected_at_utc": "2026-11-13T04:52:45.197486+00:00",
+ "generated_at_utc": "2026-11-13T05:02:43.956559+00:00",
+ "collected_at_utc": "2026-11-13T05:02:43.956559+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 989,
-  "china": 864,
+  "china": 865,
   "taiwan": 308,
-  "korea": 839
+  "korea": 838
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T14:22:30+00:00"
+   "newest": "2026-11-13T01:30:05+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": "",
    "newest": "2026-11-12T11:28:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T04:33:39+00:00"
+   "newest": "2026-11-13T04:51:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T02:18:44+00:00"
+   "newest": "2026-11-13T04:42:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T04:32:19+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T04:51:00+00:00"
+   "newest": "2026-11-13T05:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T03:03:46+00:00"
+   "newest": "2026-11-13T04:30:39+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,57 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SMC Corp - Announces Maximum Buyback Value Of Jpy 50 Billion",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46T21N:0-smc-corp-announces-maximum-buyback-value-of-jpy-50-billion/",
+   "published_utc": "2026-11-13T05:01:42+00:00",
+   "title_original": "SMC Corp - Announces Maximum Buyback Value Of Jpy 50 Billion",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "334c02d12178edd9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "PR Newswire",
+   "title_en": "SEMIFIVE Secures KRW 178.4 Billion in Q3 New Orders, Up 437% YoY, Driving Order Backlog to Record High",
+   "url": "https://www.tradingview.com/news/prnewswire:faeb3d22f142b:0-semifive-secures-krw-178-4-billion-in-q3-new-orders-up-437-yoy-driving-order-backlog-to-record-high/",
+   "published_utc": "2026-11-13T05:00:00+00:00",
+   "title_original": "SEMIFIVE Secures KRW 178.4 Billion in Q3 New Orders, Up 437% YoY, Driving Order Backlog to Record High",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bd8236c184a3b5dc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "SEMIFIVE Q3 Orders Rise 437% YoY to KRW 178.4B",
+   "url": "https://www.tradingview.com/news/tradingview:81ec5777a7826:0-semifive-q3-orders-rise-437-yoy-to-krw-178-4b/",
+   "published_utc": "2026-11-13T05:00:00+00:00",
+   "title_original": "SEMIFIVE Q3 Orders Rise 437% YoY to KRW 178.4B",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bd19f5f0eb71006b"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Presidents of Chile and Peru will visit Japan next week to hold summit meeting with Prime Minister Takaichi",
@@ -393,6 +444,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b9019477111a8cc2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ not planning further ETF sales review now, Himino says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45H03C:0-boj-not-planning-further-etf-sales-review-now-himino-says/",
+   "published_utc": "2026-11-13T04:38:13+00:00",
+   "title_original": "BOJ not planning further ETF sales review now, Himino says",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "207beb959b3b1ebf"
   },
   {
    "source_id": "tradingview_live",
@@ -3786,6 +3854,23 @@
    "live_wire": true,
    "manual": false,
    "id": "eda1530ae17be198"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a new round of financial package to stabilize growth.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmeUVYdncxTTFiYjRwcUt4cldYMFE1cVpOSzJub3BkYW9KVnJVUmlISWJLLVRfb2M1Q0hZLTRFR0RYejVQX25kRVVPSHF2emtXZUlJ?oc=5",
+   "published_utc": "2026-11-11T18:34:26+00:00",
+   "title_original": "四箭齐发！国常会定调后，央行新一轮稳增长金融组合拳来了",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2b26145e12a08405"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51843,93 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f266c19cff621e88"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill: Ruling party: “Committee deliberation begins on 21st” Opposition: “Enhancement”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61845",
-   "published_utc": "2026-10-19T13:06:43+00:00",
-   "title_original": "消費税減税法案 与党“委員会21日審議入り”野党“充実を”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16284c1d20c36ac9"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
-   "published_utc": "2026-10-19T12:56:24+00:00",
-   "title_original": "簗前農相・関文部科学相めぐり追及 食料品の消費税減税 財源は",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a01396d94bae9e6"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "SK Hynix’s potential Solidigm IPO reignites debate over multiple listings",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6OWZwMlpYTmNUUjIxUXlKWGxlN0Uwa3JLZFVqU2NkWGRJeDR2YlhtdVJrdlZWUXdqcTVlUlQtOXRjRnhkVUpZQW92OHhLM3N3cWxvSTVfQlR3c3hrbi0wdXktZ0JZQQ?oc=5",
-   "published_utc": "2026-10-19T12:54:00+00:00",
-   "title_original": "SK Hynix’s potential Solidigm IPO reignites debate over multiple listings",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory",
-   "url": "https://www.tradingview.com/news/gurufocus:093a232a7094b:0-samsung-is-turning-to-rival-tsmc-for-nvidia-s-next-ai-memory/",
-   "published_utc": "2026-10-19T12:15:20+00:00",
-   "title_original": "Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "00eaaf8e2418eae7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Kr Motors To Divest Real Estate Worth 47.5 Billion Won",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4630OX:0-kr-motors-to-divest-real-estate-worth-47-5-billion-won/",
-   "published_utc": "2026-10-19T11:56:25+00:00",
-   "title_original": "Kr Motors To Divest Real Estate Worth 47.5 Billion Won",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d3d650609119c3eb"
   },
   {
    "source_id": "manual_ia",
