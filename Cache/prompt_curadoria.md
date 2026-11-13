@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T05:22:43.871066+00:00
+Última coleta: 2026-11-13T05:32:44.378899+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
-  🇨🇳 China          865
-  🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  838
+  🇯🇵 Japão          991
+  🇨🇳 China          863
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [japan] Hisaka Works Ltd - To Buy Back Up To 3.80% Of Shares Worth 2 Billion Yen
+  - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
   - [japan] SMC Corp - Announces Maximum Buyback Value Of Jpy 50 Billion
   - [korea] SEMIFIVE Secures KRW 178.4 Billion in Q3 New Orders, Up 437% YoY, Driving Order Backlog to Record High
   - [korea] SEMIFIVE Q3 Orders Rise 437% YoY to KRW 178.4B
+  - [korea] South Korea says Google has removed Korean coordinates from maps under export permit
+  - [japan] Exclusive-Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say
   - [japan] Presidents of Chile and Peru will visit Japan next week to hold summit meeting with Prime Minister Takaichi
-  - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
   - [china] Toyota rewires China supply chain to fight back in EV race
   - [japan] BOJ not planning further ETF sales review now, Himino says
   - [china] China's yuan inches higher as companies convert cash holdings
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
   - [china] The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation
   - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
-  - [china] CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI
-  - [china] CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI
-  - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation today - 36 Krypton
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T05:22:44+00:00",
+      "published_utc": "2026-11-13T05:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
