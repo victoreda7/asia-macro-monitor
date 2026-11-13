@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T02:32:47.373973+00:00
+Última coleta: 2026-11-13T02:42:44.791953+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Toda Corporation Says It Will Buy Back Up To 2.7% Of Own Shares Worth 10 Billion Yen
+  - [china] The U.S. Congress has launched a bipartisan effort to regulate semiconductors...It will also affect Samsung El
   - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
   - [korea] South Korean won gains most among tepid Asian FX
   - [korea] i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.
@@ -47,16 +48,15 @@ Total: 3000 manchetes
   - [japan] Japan's finance minister warns of potential action against FX volatility
   - [korea] Why is Samsung Electronics stock rallying today?
   - [japan] Japan Q3 GDP Seen Slightly Up as Capex Offsets First Private Consumption Drop in 10 Quarters
-  - [japan] Bank of Japan Deputy Governor Himino attends a special committee meeting of the House of Councilors at 1:26 p.
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 366.43, Implies 32% Upside
   - [japan] US Treasury bought yen in July; Fed made no solo FX interventions in Q3
+  - [japan] Bank of Japan Deputy Governor Himino attends a special committee meeting of the House of Councilors at 1:26 p.
   - [japan] BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed
   - [japan] Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk
   - [japan] House wine remains the same even though Doria prices have increased... Why Saizeriya, which has been reconfirm
   - [korea] Scandal shakes the industry... Nvidia CEO Jensen Huang resigns, semiconductor kingdom Korea fears memory chang
   - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
-  - [korea] <Shock of scandal> Jensen Huang, CEO of Nvidia, the core of the AI ​​industry, resigns...Korean semiconductor 
-  - [japan] Dollar scales fresh 19-month peak, yen hits 160 for first time since September
+  - [korea] Jensen Huang, CEO of Nvidia, the core of the AI ​​industry, resigns...Korean semiconductor giant fears changes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T02:32:47+00:00",
+      "published_utc": "2026-11-13T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
