@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T07:52:43.180601+00:00
+Última coleta: 2026-11-13T08:02:44.408558+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          856
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  841
+  🇨🇳 China          859
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Industrial Production Growth Likely Slowed in October — Market Talk
+  - [japan] Fund Inflows Into Japan Likely to Support Yen in Long Term — Market Talk
+  - [china] China's Retail Sales Growth Likely Eased in October — Market Talk
   - [korea] Park Systems: Revenue grew, profit fell, and KRW 100bn in hybrid financing targets expansion and M&A
   - [korea] Classys Reports Nine-Month 2026 Revenue of KRW 275.7 Billion, Up 13% Year over Year; Prepares to Accelerate Gr
   - [korea] Classys Nine-Month Revenue Rose 13% to KRW 275.7B
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Huang's exit could give Korean HBM makers more leverage, raise doubts over Nvidia's AI ventures
   - [japan] Dollar set for best week in two months on rate hike wagers, yen tests 160
   - [japan] AXE Management Partners sells Osaka hotels for JPY 21 billion, nearly twice its purchase price
-  - [japan] AXE Management Partners Sells Osaka Hotels for About JPY 21B
-  - [taiwan] Table: Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
-  - [taiwan] Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T07:52:43+00:00",
+      "published_utc": "2026-11-13T08:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
