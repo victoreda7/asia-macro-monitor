@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T12:43:02.123033+00:00",
- "collected_at_utc": "2026-11-13T12:43:02.123033+00:00",
+ "generated_at_utc": "2026-11-13T12:52:54.741058+00:00",
+ "collected_at_utc": "2026-11-13T12:52:54.741058+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 994,
-  "china": 866,
+  "japan": 993,
+  "china": 867,
   "taiwan": 309,
   "korea": 831
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T12:25:06+00:00"
+   "newest": "2026-11-13T12:46:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T10:44:06+00:00"
+   "newest": "2026-11-13T12:36:20+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T12:18:41+00:00"
+   "newest": "2026-11-13T12:43:14+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-13T12:27:48+00:00"
+   "newest": "2026-11-13T12:37:47+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:58:00+00:00"
+   "newest": "2026-11-13T02:13:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T12:42:16+00:00"
+   "newest": "2026-11-13T12:52:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T09:54:08+00:00"
+   "newest": "2026-11-13T06:52:39+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T11:59:22+00:00"
+   "newest": "2026-11-13T12:37:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar set for best week in two months, weak yen captures Tokyo's attention",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U0KU:0-dollar-set-for-best-week-in-two-months-weak-yen-captures-tokyo-s-attention/",
+   "published_utc": "2026-11-13T12:51:35+00:00",
+   "title_original": "Dollar set for best week in two months, weak yen captures Tokyo's attention",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4d8b4318c5e4c4e1"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will release what signal",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTRydGJnOGRaUjBJUC1oWGtfNWkyTUpBUS1odWZxTEJBLVNGaWk2THRsX18tc3o0eU1QMDBpZF9yOWMwT3Z2SERBN3lqOHY1WkM0X1BpZXk0aDFRTHpfVURXVktZSnNvNmJENzkzNmtpSXNOcEI3QWwzSkVXcUZYYUJCNS1wOXktZTc0RA?oc=5",
+   "published_utc": "2026-11-13T12:37:47+00:00",
+   "title_original": "6640亿！换锚后央行首次“隔夜+7天”搭配操作，释放何信号",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bad7d9e96feed833"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经_金融信息服务商",
@@ -792,6 +826,24 @@
    "id": "2cfa49aaca04650c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "664 billion yuan! The central bank’s first matching operation",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzlxUGhzMG5Ib0NxZWlJdmt6X0dKelpxbmtiSlZ2bnJuYjl1Z1lqYVNUbEdzYmlxek5xa3pmWU12aUxFSGVoY3h3enlDcFlHNHhMT0o4ZXNVWGdicDhRSUJSWGJmMjN2bHNidVFfRVlCVkJZSWVqalNPYUZZS2wtRFNDdHFDR016dmpUQg?oc=5",
+   "published_utc": "2026-11-13T09:51:23+00:00",
+   "title_original": "6640亿元！央行首次搭配操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "73049311e5a63f3a"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan chip suppliers see limited impact from Nvidia leadership change",
@@ -824,23 +876,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9edd47e1230dad44"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will release what signal",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnFhUlhYR3J3emY4bXk2Z2dzN0RvMzI3eXNtVHQzUnJVTXFUdTZ0dGd1VUh1WVVILTA0QkdZX2F0OXJ4NVJHSXFUSHNjbDU0WDZ0Y3Rmd2oyVElnYlpiODBzZG43M0pJYWJZbmYtX2h6dTBoaWtmcDhtSkg0RjhGNlhPZWJudmJpbVlBV0E5Yw?oc=5",
-   "published_utc": "2026-11-13T09:20:00+00:00",
-   "title_original": "6640亿！换锚后央行首次“隔夜+7天”搭配操作，释放何信号",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9a43351c259f1075"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1442,23 +1477,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6170e08c989242c1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Mizuho Financial Group, Inc. - To Buy Back Up To 1.4% Own Shares Worth 200 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46T26S:0-mizuho-financial-group-inc-to-buy-back-up-to-1-4-own-shares-worth-200-billion-yen/",
-   "published_utc": "2026-11-13T06:37:46+00:00",
-   "title_original": "Mizuho Financial Group, Inc. - To Buy Back Up To 1.4% Own Shares Worth 200 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9833d6307e367a05"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4079,7 +4097,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to the pace'' (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GLTNPajBEdGlWb3QyODRHRzlDdkdBUmNfbmhJbTl6blZBRFd2T0VuMGdpMmYxdEc2Sm9zOUN6M3VzRVlwZUI0REpzd2JBUFlCbV9rMFhPakJyVGxNQ1pzLThwX1hSWDlnMV9sTEh3Z0FnRVZadkROWFFwdjlHS1U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYkVVZmN3OTB4ZW1ubDRuYjJfNGxtcl8zS0pqMWlwUkNrWjRNU1I4anFqTmFRNnFhOGwzUmVvTUx1VVNxVm0yWHBSY2s1YjZ5OGhrR002T3IyZmhJOVluSlU0UW1kNTM2VGV0eUdOQ2pSa3ZqNE51SVFFMWxBNXZKS2JIWHlqQ3FWUjNEWlhfal9QVl94VDYtQTA3SW1ZX3BJWHVpSlpyVDV2YXphOHl4aENDX3RWN2hYUW9oLXc1RnY2WXBwdjRORFVuVnI?oc=5",
    "published_utc": "2026-11-12T02:16:24+00:00",
    "title_original": "日銀委員、利上げで経済減速懸念 「ペースに留意する必要ある」（共同通信）",
    "region": "japan",
@@ -4090,7 +4108,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d519a304668c1f80"
+   "id": "62a5c587fc7f8a99"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5064,8 +5082,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5079,7 +5097,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5253,8 +5271,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5268,7 +5286,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51906,24 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a9e8cfec4b745bb0"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Bill related to consumption tax reduction on food items to be debated in the House of Representatives this afternoon",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
-   "published_utc": "2026-10-20T03:58:32+00:00",
-   "title_original": "食料品の消費税減税関連法案 きょう午後に衆議院で審議入り",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c89c06279a3ed723"
   },
   {
    "source_id": "manual_ia",

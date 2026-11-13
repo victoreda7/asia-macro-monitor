@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T12:43:02.123033+00:00
+Última coleta: 2026-11-13T12:52:54.741058+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
-  🇨🇳 China          866
+  🇯🇵 Japão          993
+  🇨🇳 China          867
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  831
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar set for best week in two months, weak yen captures Tokyo's attention
+  - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
   - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [japan] Interim results for three megabanks record high profits due to rising interest rates
   - [japan] Analyst sees 4 straight quarters of GDP growth
@@ -43,9 +45,9 @@ Total: 3000 manchetes
   - [china] Metro Holdings: Indonesian property sales and improved China results drove a return to pre-tax profit
   - [china] Metallurgical Corporation Of China's January-October New Contracts Totalled 548.8 Billion Yuan
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
+  - [china] 664 billion yuan! The central bank’s first matching operation
   - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
-  - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
   - [china] Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [china] Central Bank: The stock of social financing at the end of October 2026 was 469.16 trillion yuan, a year-on-yea
   - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] As Google completes security measures to export precision maps abroad, such as covering military and..
   - [korea] Google to compete with Korean mapping firms after Seoul clears high-resolution map exports
   - [japan] Japan Post Bank Lifts Annual Earnings Outlook On Increased Policy Interest Rates
-  - [japan] Japan core inflation seen above BOJ target for second month in October: Reuters poll
-  - [japan] MUFG raises annual profit target, announces 200 billion yen buyback
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T12:43:02+00:00",
+      "published_utc": "2026-11-13T12:52:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
