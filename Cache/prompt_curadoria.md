@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T00:52:43.915610+00:00
+Última coleta: 2026-11-13T01:02:45.337658+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          975
-  🇨🇳 China          874
+  🇨🇳 China          870
   🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  837
+  🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan's finance minister warns of potential action against FX volatility
+  - [korea] Why is Samsung Electronics stock rallying today?
   - [japan] Japan Q3 GDP Seen Slightly Up as Capex Offsets First Private Consumption Drop in 10 Quarters
   - [japan] Bank of Japan Deputy Governor Himino attends a special committee meeting of the House of Councilors at 1:26 p.
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 366.43, Implies 32% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] [Consumption tax reduction] 5 trillion yen per year is ``enough to cover the costs'' / Mr. Ishiba and Mr. Obuc
   - [china] China's trade surplus, strong exports to support yuan appreciation against US dollar: Report
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike
-  - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T00:52:44+00:00",
+      "published_utc": "2026-11-13T01:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

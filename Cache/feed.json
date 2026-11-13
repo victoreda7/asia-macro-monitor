@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T00:52:43.915610+00:00",
- "collected_at_utc": "2026-11-13T00:52:43.915610+00:00",
+ "generated_at_utc": "2026-11-13T01:02:45.337658+00:00",
+ "collected_at_utc": "2026-11-13T01:02:45.337658+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 975,
-  "china": 874,
+  "china": 870,
   "taiwan": 314,
-  "korea": 837
+  "korea": 841
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T12:30:50+00:00"
+   "newest": "2026-11-12T14:22:30+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T00:35:18+00:00"
+   "newest": "2026-11-13T00:48:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T00:51:43+00:00"
+   "newest": "2026-11-13T01:01:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T00:02:00+00:00"
+   "newest": "2026-11-13T00:25:42+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-13T09:00:00+09:00"
+   "newest": "2026-11-13T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e134a94dc7dedba4"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock rallying today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-rallying-today-93CH-5023832",
+   "published_utc": "2026-11-13T00:40:07+00:00",
+   "title_original": "Why is Samsung Electronics stock rallying today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c579135b2fd4110"
   },
   {
    "source_id": "tradingview_live",
@@ -2176,6 +2193,23 @@
    "id": "172f6bc2987182a0"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix rise as U.S. chip stocks rally",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EQnJ3anYya2hzb0dzYndtWHg0cHktQVZ3RVNENUw2OHoyNU9UVEZmSHd6VXVIQThfVXN1X2kzNlVXNWh6cHAtbWZBN0lRZnRCaTFxSU9kbw?oc=5",
+   "published_utc": "2026-11-12T02:05:52+00:00",
+   "title_original": "Samsung Electronics, SK hynix rise as U.S. chip stocks rally",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "97f627684d9dac89"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "“Rising prices” calls for a 0.5% interest rate hike in the US… “Falling oil prices” emerge as a relief pitcher (JoongAng Ilbo Japanese version)",
@@ -3010,8 +3044,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -3025,7 +3059,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3199,8 +3233,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3214,7 +3248,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -4043,6 +4077,23 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
+   "title_en": "Morgan Stanley, Nomura split sharply on chip stocks",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEZ1N1dnB5UnJVRk1VSGZHNFQybXRneUxjOGd6ZW8zSy1iWmRETmFhSE9XaGxabk0tTHBXM2dLb0tGWHRjcVl4TVU5cFUtcEEzTlIyQ3dtQQ?oc=5",
+   "published_utc": "2026-11-11T05:00:26+00:00",
+   "title_original": "Morgan Stanley, Nomura split sharply on chip stocks",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7bee1c6ba524c284"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
    "title_en": "Dongwon Industries’ Q3 OP up 1.1% on B2B, export growth",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95d0ZXYUstVEtKQUo4cV9FUlVDbnNlNGJHZENxRTFmNUpaUVEzSWF4RFB4UjNpN29vRWRlUXNLalRMNFU4Y3Q0emZPajA0QjU3LU9pUlNYYw?oc=5",
    "published_utc": "2026-11-11T04:53:56+00:00",
@@ -4297,6 +4348,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0b1671ada6344fcf"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix edge lower on Wall Street losses",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6TTNhRmRGVFlOWjF0dVpxb01vQzBSNTVyQjgwMUROOWNra05qTkxsYkVsQUp5R1RsUkZac0YtQzdETHl4VVpIRUthSzIzLWJVUENGVUdZTQ?oc=5",
+   "published_utc": "2026-11-11T02:03:01+00:00",
+   "title_original": "Samsung Electronics, SK hynix edge lower on Wall Street losses",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "885c5cd579639d30"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51859,74 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "81e5f0b6cb26c2c2"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Third-Quarter GDP Growth Edges Up to 4.5%",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2ZiekUtOE9CZlY1Ym1zUHh4ZDRCTm9ZdkI2aGVTdHRWYmlXdkEyLVFPRm4xQ1hqWjF6SGZ1Tko0SHhMQlpwYW1GLTdJVFZCdFhHMHAzeTFJVjRfdElEd3p2TFdxUlNZcXVCcndaVWxuTGJRLXF2elhlSG9PbTdrRW1ZcFFaVzEyakt6c1FLcXBNbEQ5WXVoTHA2TzRxQXFpUTNz?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s Third-Quarter GDP Growth Edges Up to 4.5%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35ef5f7e8e2f411c"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Retail Sales Growth Accelerates to 1.1%",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVhTU2FZRDc2Z2I4QkMyOG1jMkZXZ3pXdEhyMTQxMmphZlZ1elgxWnpjcV8xaHo3Sk9QMDlDcjUtQ21IeHhWUzdkNUJuLU5NNGpBOVJ2TVFJcmk0WkRTT3R2WGcyLWtvUVJNTEJPaTd0TjE4cHJxWnNPT3I1N0s2Nmd6WWtPenZpZEFmY1JXOWlhV1NXT29VY3R6SjgxbnBl?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s Retail Sales Growth Accelerates to 1.1%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a95138856842d9b2"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Industrial Output Growth Picks Up",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2JiN3ljLThQMGJya0RXS1R2MjRWbXV4NTNJMk93Y1pSbjhieE9rOU84WmNqWlgzRE1BWEZFUE4wNjRoUm83QVpsVVdZNkp1MDhfQkZoZHZiSFlFSjJwWFJaQWJsaGtremI3ZjdTSlZsU09MY2lOaGNab0ZzOWlFTm1MbElta2N3YlhDaEJ4OGw0ZndmTzVQUWF2SQ?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "China’s Industrial Output Growth Picks Up",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6b39e9c23cc1e42"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "China GDP growth ticks up to 4.5% in Jul.-Sep. period | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SGdmV2pVckd5OUMySk9pc2ZxLUthY0FnWVNfbTZ3T3NBY1RqbmRiSS1oMGZRdHJBR1lJUzItTnVScXp1Y1hKR3VwU2g2a2N2Y2dyakhpSlhLeWcxZTNjWW00UQ?oc=5",
-   "published_utc": "2026-10-19T06:32:42+00:00",
-   "title_original": "China GDP growth ticks up to 4.5% in Jul.-Sep. period | NHK WORLD-JAPAN News",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "76952354eb63ea39"
   },
   {
    "source_id": "manual_ia",
