@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T14:52:43.914699+00:00
+Última coleta: 2026-11-13T15:02:43.941023+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          868
+  🇨🇳 China          867
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  830
+  🇰🇷 Coreia do Sul  831
 
 ## O que já está no feed (não repita)
 
+  - [korea] Modine Manufacturing jumps 30% on reports of acquisition talks with Samsung
   - [china] China's yuan loans grow 11.42 trln yuan in first 10 months
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [korea] Polen Global Growth adds Seagate, AMD And SK Hynix, trims Nvidia and Broadcom among Q3 moves
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] 664 billion yuan! The central bank’s first matching operation
   - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
-  - [china] Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T14:52:44+00:00",
+      "published_utc": "2026-11-13T15:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
