@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T10:32:44.404738+00:00
+Última coleta: 2026-11-13T10:42:47.594938+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          990
+  🇯🇵 Japão          989
   🇨🇳 China          868
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  833
+  🇰🇷 Coreia do Sul  834
 
 ## O que já está no feed (não repita)
 
   - [china] China's New Yuan Loans Contracted in October
+  - [korea] VKAISS 2026 Strengthens Vietnam and South Korea Cooperation in AI and Semiconductors
+  - [japan] Prime Minister Takaichi says consumption tax reduction bill support funds will be considered for 50% or more o
   - [china] Metro Holdings: Indonesian property sales and improved China results drove a return to pre-tax profit
   - [china] Metallurgical Corporation Of China's January-October New Contracts Totalled 548.8 Billion Yuan
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures post first weekly gain in five as yen weakens, Tokyo shares rebound
   - [japan] Ut Group Co Ltd - To Buy Back Up To 7.2% Of Own Shares Worth 6 Billion Yen
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Investor Relations Event
-  - [japan] Consumption tax reduction bill: Support money “considered for 50% or more of workers” Prime Minister Takaichi
-  - [japan] Stock prices rise Buy orders for some AI/semiconductor related stocks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T10:32:44+00:00",
+      "published_utc": "2026-11-13T10:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
