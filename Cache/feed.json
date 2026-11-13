@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T00:42:43.037009+00:00",
- "collected_at_utc": "2026-11-13T00:42:43.037009+00:00",
+ "generated_at_utc": "2026-11-13T00:52:43.915610+00:00",
+ "collected_at_utc": "2026-11-13T00:52:43.915610+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 974,
-  "china": 875,
+  "japan": 975,
+  "china": 874,
   "taiwan": 314,
   "korea": 837
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T23:36:46+00:00"
+   "newest": "2026-11-12T21:02:58+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T00:40:50+00:00"
+   "newest": "2026-11-13T00:51:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T22:14:38+00:00"
+   "newest": "2026-11-12T19:00:59+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,21 +344,21 @@
  ],
  "items": [
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFBGZG9jUFFjX0tFY2tXSEVILWxGWU1rMzBvT1pTcUpqa2tEdEV0QWRybENzel9tU3hIQVhmTngyY3VGRGZZeGtCWDhEWm1oRXBzVWlGRnhwRzJrd0Z5bGZhUi1STHFLdFdLVnhoRUxMOW42MkNSSjNZX3JQR0o3OVpBSE10bE1kekw3OVVXYXVub0NzekN5NE4zb1JpRzB6Zjl2V1pTWFEteUQ1Q0hxd2lhLV9JLXloLVJqbWhUQ1pmN21H?oc=5",
-   "published_utc": "2026-11-12T23:31:06+00:00",
-   "title_original": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-   "region": "china",
+   "title_en": "Japan's finance minister warns of potential action against FX volatility",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N03G:0-japan-s-finance-minister-warns-of-potential-action-against-fx-volatility/",
+   "published_utc": "2026-11-13T00:40:24+00:00",
+   "title_original": "Japan's finance minister warns of potential action against FX volatility",
+   "region": "japan",
    "topics": [
-    "industrial"
+    "signaling"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": false,
+   "live_wire": true,
    "manual": false,
-   "id": "c93361042a7fe9f4"
+   "id": "e134a94dc7dedba4"
   },
   {
    "source_id": "tradingview_live",
@@ -737,6 +737,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e140460d2d4e5aee"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFBGZG9jUFFjX0tFY2tXSEVILWxGWU1rMzBvT1pTcUpqa2tEdEV0QWRybENzel9tU3hIQVhmTngyY3VGRGZZeGtCWDhEWm1oRXBzVWlGRnhwRzJrd0Z5bGZhUi1STHFLdFdLVnhoRUxMOW42MkNSSjNZX3JQR0o3OVpBSE10bE1kekw3OVVXYXVub0NzekN5NE4zb1JpRzB6Zjl2V1pTWFEteUQ1Q0hxd2lhLV9JLXloLVJqbWhUQ1pmN21H?oc=5",
+   "published_utc": "2026-11-12T14:35:00+00:00",
+   "title_original": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c93361042a7fe9f4"
   },
   {
    "source_id": "tradingview_live",
@@ -2993,8 +3010,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -3008,7 +3025,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3182,8 +3199,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3197,7 +3214,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51910,23 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "76952354eb63ea39"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SGdmV2pVckd5OUMySk9pc2ZxLUthY0FnWVNfbTZ3T3NBY1RqbmRiSS1oMGZRdHJBR1lJUzItTnVScXp1Y1hKR3VwU2g2a2N2Y2dyakhpSlhLeWcxZTNjWW00UQ?oc=5",
-   "published_utc": "2026-10-19T06:32:42+00:00",
-   "title_original": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f3b7ee7ac594176"
   },
   {
    "source_id": "manual_ia",

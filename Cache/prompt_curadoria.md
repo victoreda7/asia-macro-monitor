@@ -7,17 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T00:42:43.037009+00:00
+Última coleta: 2026-11-13T00:52:43.915610+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          974
-  🇨🇳 China          875
+  🇯🇵 Japão          975
+  🇨🇳 China          874
   🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  837
 
 ## O que já está no feed (não repita)
 
-  - [china] China's access to Nvidia chips in doubt as curbs gain traction in US Congress
+  - [japan] Japan's finance minister warns of potential action against FX volatility
   - [japan] Japan Q3 GDP Seen Slightly Up as Capex Offsets First Private Consumption Drop in 10 Quarters
   - [japan] Bank of Japan Deputy Governor Himino attends a special committee meeting of the House of Councilors at 1:26 p.
   - [japan] Nissan Motor Co., Ltd. Stock 12‑Month Price Target Cut to JPY 366.43, Implies 32% Upside
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [china] Chinese AI firms scramble for Nvidia chips amid fears of tighter US curbs: report
   - [china] Speaker Johnson says Congress developing consensus on limiting chip exports to China
   - [china] USDA anuncia venda de soja à China, enquanto Pequim cobra dos EUA avanço em acordo de redução de tarifas
+  - [china] China's access to Nvidia chips in doubt as curbs gain traction in US Congress
   - [taiwan] TSMC Says Found Some Current And Former Employee Data Was Made Available On An External Website Without Author
   - [japan] Prime Minister Takaichi calls for next year's tax reform: "Careful discussion on correcting tax revenue dispar
   - [taiwan] TSMC discovers data on thousands of current, former employees leaked to external website
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's trade surplus, strong exports to support yuan appreciation against US dollar: Report
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike
   - [japan] Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to t
-  - [taiwan] Huida is like the central bank's "circular financing" in the AI ​​industry, may it cause financial risks? Expe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T00:42:43+00:00",
+      "published_utc": "2026-11-13T00:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
