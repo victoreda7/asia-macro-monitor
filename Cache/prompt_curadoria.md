@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T06:42:51.788242+00:00
+Última coleta: 2026-11-13T06:52:44.052989+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen
   - [china] Table: Yuan Jen Enterprises 3Q Net Profit NT$323.3M Vs NT$233.6M
   - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
   - [japan] Mizuho Financial Group, Inc. - To Buy Back Up To 1.4% Own Shares Worth 200 Billion Yen
@@ -26,6 +27,7 @@ Total: 3000 manchetes
   - [taiwan] Nvidia AI future strong, Huang exit unlikely to affect TSMC: U.S. expert
   - [japan] Japan Post Bank Co Ltd - To Buy Back Up To 0.4% Of Own Shares Worth 30 Billion Yen
   - [japan] Shin-Etsu Chemical Co., Ltd. Says It Will Buy Back Up To 0.55% Of Own Shares Worth 50 Billion Yen
+  - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [japan] Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert — Update
   - [korea] Samsung Electronics Reportedly Considering Acquisition Of Data Center Cooling Systems Maker Modine
   - [japan] Premium apples in north Japan fetch 100,000 yen in season's 1st auction
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Toyota rewires China supply chain to fight back in EV race
   - [japan] BOJ not planning further ETF sales review now, Himino says
   - [china] China's yuan inches higher as companies convert cash holdings
-  - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
-  - [china] The U.S. Congress plans to tighten the export of AI chips to China, making it more difficult for China to obta
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T06:42:51+00:00",
+      "published_utc": "2026-11-13T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
