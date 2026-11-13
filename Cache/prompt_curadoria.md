@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T04:42:44.149979+00:00
+Última coleta: 2026-11-13T04:52:45.197486+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          988
-  🇨🇳 China          865
+  🇯🇵 Japão          989
+  🇨🇳 China          864
   🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [japan] Presidents of Chile and Peru will visit Japan next week to hold summit meeting with Prime Minister Takaichi
+  - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
   - [china] Toyota rewires China supply chain to fight back in EV race
   - [china] China's yuan inches higher as companies convert cash holdings
   - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
+  - [china] The U.S. Congress plans to tighten the export of AI chips to China, making it more difficult for China to obta
   - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today
+  - [korea] It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..
   - [taiwan] Sheffield, Taiwan firms target aerospace, defense semiconductor opportunities
   - [china] Chinese shares lead Asia chip rally amid Jensen Huang turmoil
   - [china] PBOC Looks Focused on Directing Credit Toward Priority Sectors — Market Talk
@@ -38,6 +42,7 @@ Total: 3000 manchetes
   - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
   - [korea] South Korean won gains most among tepid Asian FX
   - [korea] i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.
+  - [china] Chinese e-commerce sellers brace for Thai duties. Will a 30% tariff hurt sales?
   - [japan] Japan’s finance minister vows action as yen breaches 160 threshold
   - [korea] On the 13th, KBI Metal, a wire material and automotive electronic parts manufacturer of KBI Group, s..
   - [china] China Chipmaker SigmaStar Said to Plan $300 Million HK Listing
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Launching 364 billion yuan overnight reverse repurchase operation today
   - [china] On November 13, the central bank launched a 364 billion yuan overnight reverse repurchase operation.
   - [korea] BHI: 9M sales rose, earnings strengthened, and the order backlog reached KRW 2.458tn
-  - [china] The central bank launched a 364 billion yuan overnight reverse repurchase operation
-  - [china] The Central Bank of China: Today it launched a 364 billion yuan overnight reverse repurchase operation, with a
-  - [japan] Bank of Japan's Councilor Asada gives speech in Nagasaki: Future rate hike pace "needs to be kept in mind" (Na
-  - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 20
-  - [japan] Yen market price temporarily fell to the 160 yen level to the dollar, the weakest yen level in about 2 months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T04:42:44+00:00",
+      "published_utc": "2026-11-13T04:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
