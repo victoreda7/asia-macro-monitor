@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T11:32:43.530841+00:00
+Última coleta: 2026-11-13T11:42:48.279277+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
-  🇨🇳 China          869
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  831
+  🇨🇳 China          868
+  🇹🇼 Taiwan         308
+  🇰🇷 Coreia do Sul  833
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
   - [china] Nvidia scandal deepens as banned chips traced to China
   - [japan] US bought 79 billion yen in July intervention with Japan
   - [china] How a slowdown in US AI capex might impact China's economy
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Retail Sales Growth Likely Eased in October — Market Talk
   - [korea] Park Systems: Revenue grew, profit fell, and KRW 100bn in hybrid financing targets expansion and M&A
   - [china] Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs
-  - [korea] Classys Reports Nine-Month 2026 Revenue of KRW 275.7 Billion, Up 13% Year over Year; Prepares to Accelerate Gr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T11:32:43+00:00",
+      "published_utc": "2026-11-13T11:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

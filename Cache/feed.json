@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T11:32:43.530841+00:00",
- "collected_at_utc": "2026-11-13T11:32:43.530841+00:00",
+ "generated_at_utc": "2026-11-13T11:42:48.279277+00:00",
+ "collected_at_utc": "2026-11-13T11:42:48.279277+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 991,
-  "china": 869,
-  "taiwan": 309,
-  "korea": 831
+  "china": 868,
+  "taiwan": 308,
+  "korea": 833
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T11:02:14+00:00"
+   "newest": "2026-11-13T11:40:55+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-13T11:04:49+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T10:57:07+00:00"
+   "newest": "2026-11-13T11:12:24+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T03:18:00+00:00"
+   "newest": "2026-11-13T10:07:27+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T11:32:04+00:00"
+   "newest": "2026-11-13T11:41:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Bitcoin slides below $70,000 as inflation concerns hurt crypto",
+   "url": "https://www.koreaherald.com/article/10936770",
+   "published_utc": "2026-11-13T11:40:55+00:00",
+   "title_original": "Bitcoin slides below $70,000 as inflation concerns hurt crypto",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62332a24b2193545"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -4284,6 +4301,23 @@
    "id": "b25e4ff8f4d49ed6"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
+   "published_utc": "2026-11-12T00:25:39+00:00",
+   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b3ecde5047aee35c"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The business cost index in October increased by 7.1% compared with the same month last year",
@@ -4874,8 +4908,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -4889,7 +4923,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5063,8 +5097,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5078,7 +5112,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -5818,6 +5852,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9c0082646e9effe5"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "Big step mentioned in the US high prices... Bank of Korea counts down further interest rate hike in November",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ld09RWjMxc05VQVRyYzhVSWZPUW1kdkUtcjRDVDZJX0tTQzRWaF9mRjhzRDVxOWRFbm05ZEU3dFJoeklvaTljRXUtVk9iVWZ3QUI2U0JqRHQ3Q1Y3?oc=5",
+   "published_utc": "2026-11-11T05:57:00+00:00",
+   "title_original": "美 고물가에 빅스텝 거론…한은, 11월 금리 추가 인상 초읽기",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "450d12df81816e62"
   },
   {
    "source_id": "investing_live",
@@ -8723,7 +8775,7 @@
    "id": "3c7f9fe3be10b38a"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China's trade surplus soars past $1 trillion as AI boom powers exports",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
@@ -8737,7 +8789,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "eba77b264286e0ff"
+   "id": "0433cc3e210d8c39"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -11091,7 +11143,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴데일리",
    "title_en": "If the semiconductor industry declines, interest rates may be lowered in the second half of next year... Citibank: “There is a possibility of a sharp change in monetary policy from the Bank of Korea.”",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNenBxOEdtbzdHbnpaeFN3TTFUcVhuRi15Q01TSGRoYlBGOTk4cTBvU0pLR2FXMndWYzRqYTVXWU1qUk5scUNXb01rT2hqZ3BSZzZMd21LLU43cElLaE5MRHVSYTZlOHR6ZTk1dnIwdFBLZXhCQi1lRVpfa9IBgAFBVV95cUxOMUFTVzlxc0RPOXlQWk11SVFaZFp4UzlLdXZDSjF3XzBhZ3FPY2tiQ01LUGhYR2NkN1FiTnFzbDNReE1kbXhrV2xfbXI3cHlRQlZBM3ZnYUdrRUFuYVdINmwxTGYzX2xOSlh5ekEtRWt6ZjFzMUhFUjU5VUFzbXhFeA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUFTVzlxc0RPOXlQWk11SVFaZFp4UzlLdXZDSjF3XzBhZ3FPY2tiQ01LUGhYR2NkN1FiTnFzbDNReE1kbXhrV2xfbXI3cHlRQlZBM3ZnYUdrRUFuYVdINmwxTGYzX2xOSlh5ekEtRWt6ZjFzMUhFUjU5VUFzbXhFeNIBgAFBVV95cUxOMUFTVzlxc0RPOXlQWk11SVFaZFp4UzlLdXZDSjF3XzBhZ3FPY2tiQ01LUGhYR2NkN1FiTnFzbDNReE1kbXhrV2xfbXI3cHlRQlZBM3ZnYUdrRUFuYVdINmwxTGYzX2xOSlh5ekEtRWt6ZjFzMUhFUjU5VUFzbXhFeA?oc=5",
    "published_utc": "2026-11-09T05:53:00+00:00",
    "title_original": "반도체 업황 꺾이면 내년 하반기 금리 인하할 수도 … 씨티銀 \"한은 통화정책 급선회 가능성\"",
    "region": "korea",
@@ -11104,7 +11156,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "93870afbd8af0c9e"
+   "id": "9de8fae803761496"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51874,58 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "241a268c8b532b7a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Conduct overnight reverse repurchase operations from October 21 to November 2, with a daily limit of no more than 1 trillion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TTk1GRUxfQUNRQ29RdG9jbEQydWE2NHg3YzV1aGtCVDhJUWhpYmprOTdmMU9DVlpVbVRRak9NRXRRUHU2QlI1QzdoNWhtVFpvMWJRczQtMWk5RG5VelRrOQ?oc=5",
-   "published_utc": "2026-10-20T02:56:00+00:00",
-   "title_original": "央行：10月21日至11月2日开展隔夜逆回购操作，每日不超过10000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7c89ef184659e23"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Finance minister pledges support for global 'AI basic society'",
-   "url": "https://www.koreaherald.com/article/10908495",
-   "published_utc": "2026-10-20T02:37:43+00:00",
-   "title_original": "Finance minister pledges support for global 'AI basic society'",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "897b5ebe8924070e"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan industry seeks nuclear restart and utility relief amid energy costs boom",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemRId21BN2lIMFRsN1k5R0RUNk9GT0c0LU1aYXNhNXFmMzhkdi0yVjBuZ19GZl9UNlotNjJKTEdXUzlkWklDbk9OX0d1T0pjc3ZXVFNmeDBsLTZSY0RNd1BMWUoxXzhnQ2I4OWRkMVY5RFB3LUdhV3VBUlMwTlZ1RlN2MFdsdmdieVVDWlMtbFFUbjNacVpjeDlWcV90TTRjbU13Z1hrQ2NkQQ?oc=5",
-   "published_utc": "2026-10-20T02:33:34+00:00",
-   "title_original": "Taiwan industry seeks nuclear restart and utility relief amid energy costs boom",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "528b190d812d7f72"
   },
   {
    "source_id": "manual_ia",
