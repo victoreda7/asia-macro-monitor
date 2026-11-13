@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T10:42:47.594938+00:00
+Última coleta: 2026-11-13T10:46:37.097663+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          989
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Rakuten's 3rd quarter financial results record high sales but end up in the red due to strong finance and trav
   - [china] China's New Yuan Loans Contracted in October
   - [korea] VKAISS 2026 Strengthens Vietnam and South Korea Cooperation in AI and Semiconductors
   - [japan] Prime Minister Takaichi says consumption tax reduction bill support funds will be considered for 50% or more o
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Mitsubishi Ufj Financial Group, Inc. - To Buy Back Up To 0.62% Of Own Shares Worth 200 Billion Yen
   - [japan] Japan futures post first weekly gain in five as yen weakens, Tokyo shares rebound
   - [japan] Ut Group Co Ltd - To Buy Back Up To 7.2% Of Own Shares Worth 6 Billion Yen
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Investor Relations Event
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T10:42:47+00:00",
+      "published_utc": "2026-11-13T10:46:37+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
