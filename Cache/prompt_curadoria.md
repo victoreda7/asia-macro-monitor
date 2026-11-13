@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T14:32:42.511004+00:00
+Última coleta: 2026-11-13T14:42:44.425270+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [korea] Polen Global Growth adds Seagate, AMD And SK Hynix, trims Nvidia and Broadcom among Q3 moves
   - [china] China's yuan loans grow 11.42 trln yuan in first 10 months
+  - [china] The central bank will carry out a 200 billion yuan buyout reverse repurchase operation to stabilize market exp
   - [china] The People's Bank of China will scale back its operations and carry out a 200 billion yuan six-month buyout re
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
   - [china] Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [china] Central Bank: The stock of social financing at the end of October 2026 was 469.16 trillion yuan, a year-on-yea
-  - [china] The central bank will carry out a 200 billion yuan buyout reverse repurchase operation to stabilize market exp
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T14:32:42+00:00",
+      "published_utc": "2026-11-13T14:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
