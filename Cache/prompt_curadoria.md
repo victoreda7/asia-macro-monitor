@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T09:32:43.631457+00:00
+Última coleta: 2026-11-13T09:42:46.002497+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
-  🇨🇳 China          861
+  🇯🇵 Japão          993
+  🇨🇳 China          864
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  837
+  🇰🇷 Coreia do Sul  835
 
 ## O que já está no feed (não repita)
 
+  - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
+  - [china] Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16
+  - [china] Central Bank: The stock of social financing at the end of October 2026 was 469.16 trillion yuan, a year-on-yea
   - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
   - [china] Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report
   - [china] China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Mizuho Financial Group, Inc. - To Buy Back Up To 1.4% Own Shares Worth 200 Billion Yen
   - [japan] Rakus Co., Ltd. - To Buy Back Up To 1.02% Of Shares Worth 3 Billion Yen
   - [korea] It was found that the top 1% of stock investment returns intensively bought Samsung Electronics and
-  - [japan] Japan Post Insurance Co - To Buy Back, Retire Up To 4.6% Own Shares Worth 47 Bln Yen
-  - [korea] Kospi Gives Up Early Gains as Chip, Airline Stocks Retreat
-  - [taiwan] Nvidia AI future strong, Huang exit unlikely to affect TSMC: U.S. expert
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T09:32:43+00:00",
+      "published_utc": "2026-11-13T09:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
