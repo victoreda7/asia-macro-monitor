@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T03:12:45.657773+00:00",
- "collected_at_utc": "2026-11-13T03:12:45.657773+00:00",
+ "generated_at_utc": "2026-11-13T03:22:44.088508+00:00",
+ "collected_at_utc": "2026-11-13T03:22:44.088508+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 986,
-  "china": 865,
-  "taiwan": 309,
-  "korea": 840
+  "japan": 987,
+  "china": 866,
+  "taiwan": 308,
+  "korea": 839
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T02:46:20+00:00"
+   "newest": "2026-11-13T03:06:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-12T20:53:38+00:00"
+   "newest": "2026-11-13T02:55:28+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T12:06:02+09:00"
+   "newest": "2026-11-13T12:19:36+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T12:03:58+09:00"
+   "newest": "2026-11-13T12:20:19+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-13T02:04:00+00:00"
   },
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T02:33:57+00:00"
+   "newest": "2026-11-13T03:03:46+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T03:00:04+00:00"
+   "newest": "2026-11-13T03:11:55+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T11:31:00+00:00"
+   "newest": "2026-11-13T00:26:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
@@ -393,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "cc3af889e3749c3b"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Japanese yen tests 160 again, drawing intervention threats",
+   "url": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
+   "published_utc": "2026-11-13T02:55:28+00:00",
+   "title_original": "Japanese yen tests 160 again, drawing intervention threats",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c4426735c82ae768"
   },
   {
    "source_id": "tradingview_live",
@@ -618,6 +635,24 @@
    "live_wire": true,
    "manual": false,
    "id": "c6bc158310598187"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "www.36kr.com",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation today - 36 Krypton",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wTkJ4VFpKT0hZNTc1U09nYmFrRnJQcWJsNGZFNVNuZHdVZFNZSVBBVEU4X2JrTkJtVlFfXzF5OWRIT2xfTnJaU3FPSGE0WU5UbmdkaFpwdWViVEFIeHc?oc=5",
+   "published_utc": "2026-11-13T01:40:10+00:00",
+   "title_original": "央行今日开展3000亿元7天期逆回购操作-36氪",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2fe00cd6f1d49918"
   },
   {
    "source_id": "tradingview_live",
@@ -3545,8 +3580,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -3560,7 +3595,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3734,8 +3769,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -3749,7 +3784,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -7554,7 +7589,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tSVpFcHNKT21CMjRLTk9vXzMwWUpzZmlEWmlfcHBpZDE5eDNMSks3MUR4RGUtYkpKcXRIaTJ5di0zU212aGhqRFlndURzWDJmendFUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWUZKUThybGliU01IcUxsekdLZ2YxNDdDMTgyU0NrUGtfRjZiVG9taVZjMU9EUE1ZLWRuYXBNQnZSSmxWNmlPTjZYSEc1cHZwbDJsT0dGdGNLVzRxUTdGWGpPYzd0eTZ4VWQtNW9qZ1dGNTZv?oc=5",
    "published_utc": "2026-11-10T02:10:00+00:00",
    "title_original": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
    "region": "korea",
@@ -7565,7 +7600,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3d2813785741c4a2"
+   "id": "f0d2735183b07ab8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51897,41 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "99ef8b2a8910b480"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "Stocks are jumping around the earnings announcement... Why the impact of base interest rate changes is minimal [Nerd’s Investment Method]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xd0h1MTJHRkZuYkI3NnNKMXpkdHJlQWI2MlZGZThZYmFfbWN1T09TY3V5cFNkVnI2UXgwTU9PZ01KdWVrMF9LWHVPYzlTZlh5eFE?oc=5",
-   "published_utc": "2026-10-19T08:51:51+00:00",
-   "title_original": "실적 발표에는 널뛰는 주식…기준금리 변화 영향은 미미 한 까닭 [너드의 투자법]",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5ffbbf538b8bdcb3"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Mitsubishi Electric, Hon Hai subsidiary aim for FY 2030 1 tril. yen sales",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAydkxuekNoRmJDM1IzRngzYWxNZGZhRjlaT0JoV1hDZzdIRGZvNXh0SHp1dDllYzFXcnlEUW82UE9aMVE3VlUwYWR4MFp4a0VBU2ktMm9iMnFHUQ?oc=5",
-   "published_utc": "2026-10-19T08:44:00+00:00",
-   "title_original": "BREAKING NEWS: Mitsubishi Electric, Hon Hai subsidiary aim for FY 2030 1 tril. yen sales",
-   "region": "taiwan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c5dcda7e6dd0f6f"
   },
   {
    "source_id": "manual_ia",

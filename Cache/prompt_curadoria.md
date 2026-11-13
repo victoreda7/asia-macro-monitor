@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T03:12:45.657773+00:00
+Última coleta: 2026-11-13T03:22:44.088508+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          986
-  🇨🇳 China          865
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  840
+  🇯🇵 Japão          987
+  🇨🇳 China          866
+  🇹🇼 Taiwan         308
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
   - [taiwan] TSMC seeks to back next chip titan with new investment arm
   - [japan] Obayashi Corporation - To Buy Back Up To 2.9% Of Own Shares Worth 30 Billion Yen
   - [korea] Cloud: Upbit opens spot trading in KRW, BTC and USDT markets - 13 Nov 2026
+  - [japan] Japanese yen tests 160 again, drawing intervention threats
   - [japan] Toda Corporation Says It Will Buy Back Up To 2.7% Of Own Shares Worth 10 Billion Yen
   - [china] The U.S. Congress has launched a bipartisan effort to regulate semiconductors...It will also affect Samsung El
   - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
@@ -33,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
   - [china] CHINA PBOC CONDUCTS CNY300 BLN VIA 7D REVERSE REPO FRI
   - [china] CHINA PBOC CONDUCTS CNY364 BLN VIA O/N REVERSE REPO FRI
+  - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation today - 36 Krypton
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7152 FRI VS 6.7174
   - [china] Central Bank: Launching 364 billion yuan overnight reverse repurchase operation today
   - [china] On November 13, the central bank launched a 364 billion yuan overnight reverse repurchase operation.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] US Treasury bought yen in July; Fed made no solo FX interventions in Q3
   - [japan] Bank of Japan Deputy Governor Himino attends a special committee meeting of the House of Councilors at 1:26 p.
   - [japan] BREAKING NEWS: U.S. government bought 79.4 billion yen in forex intervention in July: Fed
-  - [japan] Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk
-  - [japan] House wine remains the same even though Doria prices have increased... Why Saizeriya, which has been reconfirm
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T03:12:45+00:00",
+      "published_utc": "2026-11-13T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
