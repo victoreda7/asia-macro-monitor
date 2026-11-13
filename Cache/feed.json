@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T10:46:37.097663+00:00",
- "collected_at_utc": "2026-11-13T10:46:37.097663+00:00",
+ "generated_at_utc": "2026-11-13T10:52:44.975519+00:00",
+ "collected_at_utc": "2026-11-13T10:52:44.975519+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 989,
-  "china": 868,
+  "japan": 991,
+  "china": 867,
   "taiwan": 309,
-  "korea": 834
+  "korea": 833
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:30:05+00:00"
+   "newest": "2026-11-13T01:30:57+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T10:19:50+00:00"
+   "newest": "2026-11-13T10:29:05+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T09:08:09+00:00"
+   "newest": "2026-11-13T10:44:06+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T09:07:00+00:00"
+   "newest": "2026-11-13T10:45:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T08:46:28+00:00"
+   "newest": "2026-11-13T10:51:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "error": "",
    "newest": "2026-11-13T09:20:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T10:45:19+00:00"
+   "newest": "2026-11-13T10:42:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T03:53:50+00:00"
+   "newest": "2026-11-13T06:52:39+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T09:10:06+00:00"
+   "newest": "2026-11-13T10:34:26+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-13T10:00:14+00:00"
+   "newest": "2026-11-13T10:47:40+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Adjustment by postponing government bond NISA for individuals",
+   "url": "https://news.yahoo.co.jp/pickup/6602452?source=rss",
+   "published_utc": "2026-11-13T10:47:40+00:00",
+   "title_original": "個人向け国債NISA化 見送りで調整",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b0ea77b1de269f75"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -411,6 +428,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0aa19248f57d9689"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Profit of 5 major banks approaches 4 trillion yen; interest income increases due to Bank of Japan interest rate hike (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QzFSWWoxTmtyZ2VOeXNqX0k0bDRBeVgweE1VWHBQcnVFS183MFNva2p5SjFtOUtBSU80czg2MzMySXhlaTlLc0tOc3ZvY2FGSXhwc1ZLZjY5RnNETVBqRE1FOGU5a3ZSYXZrbjB3am5hY1BFTW5RUGRaZHZfQU0?oc=5",
+   "published_utc": "2026-11-13T10:34:26+00:00",
+   "title_original": "大手銀5社利益4兆円迫る 日銀利上げで利息収入拡大（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f650cc1ae22987fb"
   },
   {
    "source_id": "tradingview_live",
@@ -1319,6 +1354,24 @@
    "live_wire": false,
    "manual": false,
    "id": "4bfc1b6d0154be59"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar near 19-mth high on rate hike bets; yen back on intervention watch",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1czMHR3QUtMSXlZM2lmREt2T1pvcjBQTG1ZWHdBaUdrX0l2SmJYU2VreWdXMkNWMkM0Ul9ydG9xMnNkdmh1SlprRnZsVTNSMmVaTGE3ZFRKTjI0NU1ianJhR1RYNDkyaVJlV3NCWGotbW9JY1Z5XzZ0VGctVFluWk9ON3VZaW9fbGsyb3RYV1FZc0VEQ3kwQndxTzRXeWxyVGxadndOMGNicDd5UjJnd0plOEdNZ0lqWWVnbkxCRHpqbG9wWTkw?oc=5",
+   "published_utc": "2026-11-13T05:53:14+00:00",
+   "title_original": "Dollar near 19-mth high on rate hike bets; yen back on intervention watch",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7f620d64c5f3fc66"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4769,8 +4822,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -4784,7 +4837,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4958,8 +5011,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -4973,7 +5026,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51873,59 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "730c21a138147b63"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUEzMnZfWGpaOVV6TUFuMi1TVFJObEFhN3hFYnRDaFU2dnJLbENVT0d3bmtHeVpGUEdXaWNiVHcxZjdVT2R0MmozRzJ2WkFRSXNyMjJuUEhOVno3LUlaa0pweEdOeWg4eC1YelJTUk5naTNNbmRzTWlPSU1GNDl1VF9USlRISUp3b252OWlUMk91V1M0NjI1VXdGNHotTER5LVdnM21TVmc1dUU?oc=5",
-   "published_utc": "2026-10-20T01:43:00+00:00",
-   "title_original": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "da84e0d020db20d3"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "브릿지경제",
-   "title_en": "Despite the forecast of freezing the base interest rate, loan interest rates are ‘high’… 4th quarter mortgage loan interest rate of KRW 165 trillion recalculated",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbUwwR180Sl9LVnZYRUlmbVAzR1I1UE9FNG1fZS1vbjdQU1p4bmNnSDVyMXFqcVE2Q1NUQlhaTFNVby1IR0FaSmpJWmpuejVYT1o0Ym54VFoydw?oc=5",
-   "published_utc": "2026-10-20T01:38:00+00:00",
-   "title_original": "기준금리 동결 전망에도 대출금리 ‘고공행진’…4분기 주담대 165조원 금리 재산정",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c208e9c6f9fdde0e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 20 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHUHZNamdoRzhkMFpnWWYtMXdqbzlCa185SVhIcUhyQ29jcFVkcW1GUF92NG5CSXF2Q2FJSHc0ZUdwRHI5ZnQ3c0FzNFBSWU9yS1h0NTJkZUR0cnZnNmx5bzhfWTI3TEJ2?oc=5",
-   "published_utc": "2026-10-20T01:37:44+00:00",
-   "title_original": "央行10月20日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf349ca078bc67ef"
   },
   {
    "source_id": "manual_ia",
