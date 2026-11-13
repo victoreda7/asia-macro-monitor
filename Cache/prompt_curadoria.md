@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T18:28:18.217908+00:00
+Última coleta: 2026-11-13T18:32:45.790474+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
-  🇨🇳 China          869
+  🇯🇵 Japão          992
+  🇨🇳 China          870
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  829
+  🇰🇷 Coreia do Sul  830
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
+  - [china] Nvidia faces new $3.2 billion China chip problem
   - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
   - [japan] GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative
   - [korea] Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what y
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's New Yuan Loans Contracted in October
   - [korea] VKAISS 2026 Strengthens Vietnam and South Korea Cooperation in AI and Semiconductors
   - [japan] Prime Minister Takaichi says consumption tax reduction bill support funds will be considered for 50% or more o
-  - [japan] Profit of 5 major banks approaches 4 trillion yen; interest income increases due to Bank of Japan interest rat
-  - [china] Metro Holdings: Indonesian property sales and improved China results drove a return to pre-tax profit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T18:28:18+00:00",
+      "published_utc": "2026-11-13T18:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
