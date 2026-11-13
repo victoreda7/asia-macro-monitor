@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T05:32:44.378899+00:00
+Última coleta: 2026-11-13T05:42:46.364233+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          863
+  🇯🇵 Japão          992
+  🇨🇳 China          862
   🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  839
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] Hisaka Works Ltd - To Buy Back Up To 3.80% Of Shares Worth 2 Billion Yen
   - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
+  - [japan] "What will happen to mortgages if the Bank of Japan raises interest rates?" Will be raised twice in 2026! Reas
   - [japan] SMC Corp - Announces Maximum Buyback Value Of Jpy 50 Billion
   - [korea] SEMIFIVE Secures KRW 178.4 Billion in Q3 New Orders, Up 437% YoY, Driving Order Backlog to Record High
   - [korea] SEMIFIVE Q3 Orders Rise 437% YoY to KRW 178.4B
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung, SK hynix gain over 2% despite Nvidia sell-off
   - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
   - [china] The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation
-  - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T05:32:44+00:00",
+      "published_utc": "2026-11-13T05:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
