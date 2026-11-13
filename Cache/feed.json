@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-13T08:22:46.296743+00:00",
- "collected_at_utc": "2026-11-13T08:22:46.296743+00:00",
+ "generated_at_utc": "2026-11-13T08:32:42.707714+00:00",
+ "collected_at_utc": "2026-11-13T08:32:42.707714+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 307,
   "korea": 838
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T07:36:00+00:00"
+   "newest": "2026-11-13T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:30:57+00:00"
+   "newest": "2026-11-13T01:30:05+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T08:04:52+00:00"
+   "newest": "2026-11-13T08:24:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T17:05:15+09:00"
+   "newest": "2026-11-13T17:05:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "newest": "2026-11-13T04:32:19+00:00"
   },
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T04:05:23+00:00"
+   "newest": "2026-11-13T03:11:55+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "MUFG raises annual profit target, announces 200 billion yen buyback",
+   "url": "https://www.investing.com/news/earnings/mufg-raises-annual-profit-target-announces-200-billion-yen-buyback-5024403",
+   "published_utc": "2026-11-13T08:17:06+00:00",
+   "title_original": "MUFG raises annual profit target, announces 200 billion yen buyback",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "062cd1f510615480"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -4473,8 +4490,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -4488,7 +4505,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4662,8 +4679,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -4677,7 +4694,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51908,26 +51925,6 @@
    "live_wire": true,
    "manual": false,
    "id": "25985f49ae15232d"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Weak yen and long-term interest rates at historic levels, pressure to revise the signature policy of ``active fiscal policy'' 1st anniversary of Takaichi administration (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VnoxYnloUl9SVzJtMEJGVGtGZWxDTmlJM1J4RHZlV2RjVDdUN2l2eGxRSTR5cHk3N3U0Q1VYdnRzaEtUQjMxT2F3UEFOeGpLd2FNQnNJZHllYnh5RWtueUFXelBBLUQ0ZUlNVUd0bW9TN1ZYYnFLdDBKSjc1S28?oc=5",
-   "published_utc": "2026-10-19T22:06:35+00:00",
-   "title_original": "円安・長期金利、歴史的水準に 看板政策「積極財政」に修正圧力 高市政権発足1年（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a5731657b5f4bb89"
   },
   {
    "source_id": "manual_ia",
