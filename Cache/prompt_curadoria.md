@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T07:42:43.401514+00:00
+Última coleta: 2026-11-13T07:52:43.180601+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          857
+  🇨🇳 China          856
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  840
+  🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
+  - [korea] Park Systems: Revenue grew, profit fell, and KRW 100bn in hybrid financing targets expansion and M&A
   - [korea] Classys Reports Nine-Month 2026 Revenue of KRW 275.7 Billion, Up 13% Year over Year; Prepares to Accelerate Gr
   - [korea] Classys Nine-Month Revenue Rose 13% to KRW 275.7B
   - [korea] VINA TECH: Data-center demand and Vietnam expansion meet a KRW 39.69bn 9M net loss
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] AXE Management Partners Sells Osaka Hotels for About JPY 21B
   - [taiwan] Table: Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
   - [taiwan] Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
-  - [korea] Nongshim increased its sales in the third quarter on the back of strong exports and growth of overse..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T07:42:43+00:00",
+      "published_utc": "2026-11-13T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
