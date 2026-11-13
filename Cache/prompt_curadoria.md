@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T11:22:45.017921+00:00
+Última coleta: 2026-11-13T11:32:43.530841+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
-  🇨🇳 China          867
+  🇨🇳 China          869
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  833
+  🇰🇷 Coreia do Sul  831
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia scandal deepens as banned chips traced to China
+  - [japan] US bought 79 billion yen in July intervention with Japan
   - [china] How a slowdown in US AI capex might impact China's economy
+  - [china] Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16
   - [korea] GRAVITY Co., Ltd. (GRVY) Q3 Net Profit Rose 7.7% YoY to KRW 21.4B
   - [japan] Three mega bank groups achieve record high profits in interim results, boosted by Bank of Japan's interest rat
   - [japan] Adjustment by postponing government bond NISA for individuals
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Park Systems: Revenue grew, profit fell, and KRW 100bn in hybrid financing targets expansion and M&A
   - [china] Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs
   - [korea] Classys Reports Nine-Month 2026 Revenue of KRW 275.7 Billion, Up 13% Year over Year; Prepares to Accelerate Gr
-  - [korea] Classys Nine-Month Revenue Rose 13% to KRW 275.7B
-  - [korea] VINA TECH: Data-center demand and Vietnam expansion meet a KRW 39.69bn 9M net loss
-  - [japan] Case for BOJ Rate Hikes Seen Strengthening — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T11:22:45+00:00",
+      "published_utc": "2026-11-13T11:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
