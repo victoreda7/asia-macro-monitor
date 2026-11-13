@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T13:22:46.754508+00:00
+Última coleta: 2026-11-13T13:32:45.904788+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The People's Bank of China will scale back its operations and carry out a 200 billion yuan six-month buyout re
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report
   - [china] China Haisum Engineering's Unit Signs 1.4 Billion Yuan EPC Contract For UK Waste-To-Energy Project
   - [japan] Appier Group, Inc. Raises FY26 Operating Income Guidance to JPY 5.9B
-  - [korea] As Google completes security measures to export precision maps abroad, such as covering military and..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T13:22:46+00:00",
+      "published_utc": "2026-11-13T13:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
