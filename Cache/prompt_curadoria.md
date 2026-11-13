@@ -7,18 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T06:32:42.413477+00:00
+Última coleta: 2026-11-13T06:42:51.788242+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
-  🇨🇳 China          859
-  🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  843
+  🇯🇵 Japão          992
+  🇨🇳 China          858
+  🇹🇼 Taiwan         310
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [china] Table: Yuan Jen Enterprises 3Q Net Profit NT$323.3M Vs NT$233.6M
+  - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
+  - [japan] Mizuho Financial Group, Inc. - To Buy Back Up To 1.4% Own Shares Worth 200 Billion Yen
+  - [japan] Rakus Co., Ltd. - To Buy Back Up To 1.02% Of Shares Worth 3 Billion Yen
+  - [japan] Japan Post Insurance Co - To Buy Back, Retire Up To 4.6% Own Shares Worth 47 Bln Yen
+  - [korea] Kospi Gives Up Early Gains as Chip, Airline Stocks Retreat
+  - [taiwan] Nvidia AI future strong, Huang exit unlikely to affect TSMC: U.S. expert
+  - [japan] Japan Post Bank Co Ltd - To Buy Back Up To 0.4% Of Own Shares Worth 30 Billion Yen
+  - [japan] Shin-Etsu Chemical Co., Ltd. Says It Will Buy Back Up To 0.55% Of Own Shares Worth 50 Billion Yen
   - [japan] Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert — Update
   - [korea] Samsung Electronics Reportedly Considering Acquisition Of Data Center Cooling Systems Maker Modine
+  - [japan] Premium apples in north Japan fetch 100,000 yen in season's 1st auction
   - [china] Cargill says China's 2027 bulk palm olein imports to reach around 1.6 million tons
   - [japan] Limited US role in Japan intervention undermines deterrent as yen touches 160
   - [china] China AI stocks tumble as Nvidia fallout fuels fears of tighter U.S. chip curbs
@@ -47,16 +57,6 @@ Total: 3000 manchetes
   - [china] China's yuan inches higher as companies convert cash holdings
   - [korea] Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
   - [china] The U.S. Congress plans to tighten the export of AI chips to China, making it more difficult for China to obta
-  - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today
-  - [korea] It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..
-  - [taiwan] Sheffield, Taiwan firms target aerospace, defense semiconductor opportunities
-  - [china] Chinese shares lead Asia chip rally amid Jensen Huang turmoil
-  - [china] PBOC Looks Focused on Directing Credit Toward Priority Sectors — Market Talk
-  - [japan] Stock price rise Buy orders for AI/semiconductor related stocks
-  - [japan] U.S. Treasury Department “purchased 79.4 billion yen worth of yen” during Japan-U.S. joint intervention, Fed r
-  - [korea] S. Korean gov't sees solid economic growth trend amid surging exports, investment
-  - [japan] Asia FX: yen intervention in focus as rate hike bets put dollar near 19-mth high
-  - [china] Mike Johnson Sees Growing Support For China Chip Restrictions As Nvidia’s Jensen Huang Exit Rocks Washington: 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T06:32:42+00:00",
+      "published_utc": "2026-11-13T06:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
