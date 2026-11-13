@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T15:52:48.406681+00:00",
- "collected_at_utc": "2026-11-13T15:52:48.406681+00:00",
+ "generated_at_utc": "2026-11-13T16:02:45.197170+00:00",
+ "collected_at_utc": "2026-11-13T16:02:45.197170+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 994,
-  "china": 867,
+  "china": 868,
   "taiwan": 308,
-  "korea": 831
+  "korea": 830
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T15:30:24+00:00"
+   "newest": "2026-11-13T15:54:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T15:30:24+00:00"
+   "newest": "2026-11-13T15:42:40+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-13T13:51:07+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T15:52:01+00:00"
+   "newest": "2026-11-13T16:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T14:39:15+00:00"
+   "newest": "2026-11-13T15:56:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoeXhBYXN5eFp4SUswNmxFdlNGSHlyOEw0NnkwS0ZOX1V6bDBZMTFDa2s0ZzRhZ3RuYlRXWkYxY2JaQVJkcDhteWZVZ1Vxc3RuRENVSTlndVdQOFR5SmhwbkRPNWlUUkJSdE9HTUFtNFJvNHc3OVVOT2ttb2g?oc=5",
+   "published_utc": "2026-11-13T15:56:15+00:00",
+   "title_original": "1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6f194d1a3319cbc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -465,8 +482,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -480,7 +497,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -687,6 +704,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8d20629ba9f82d19"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "US bought 79 billion yen in July intervention with Japan",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
+   "published_utc": "2026-11-13T11:20:23+00:00",
+   "title_original": "US bought 79 billion yen in July intervention with Japan",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "48ac7c9d2f25600e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1207,23 +1241,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43ae4fec5afab913"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "US bought 79 billion yen in July intervention with Japan",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
-   "published_utc": "2026-11-13T08:21:23+00:00",
-   "title_original": "US bought 79 billion yen in July intervention with Japan",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "48ac7c9d2f25600e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1808,6 +1825,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9df013ec7b02e8bb"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Locks In Export Power by Equipping the World’s Factories",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUt6cWEzdzlQTHJDekd5U291dzc3cVhWdmY1STNSZE13LVRIaFkxNGpyb1M2Tk45VUk4dzJtOG5lQmVMQzNaeHM2eFF4eTlKTVRWNi1PTk9iWXdCMllUelZodDVFV251M05OQW81YVF0c3RRMWF2MWt0WWRCZG5oYmt4WGdpaWRBZjB3dW9NOGdjSDJIazJoTm5SWTR5N3FVTWNUbi1tQ2FuWEViYXhZSUpybw?oc=5",
+   "published_utc": "2026-11-13T05:37:00+00:00",
+   "title_original": "China Locks In Export Power by Equipping the World’s Factories",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "522f2d7978aba16a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2489,23 +2523,6 @@
    "id": "bb097af06170027e"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Locks In Export Power by Equipping the World’s Factories",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUt6cWEzdzlQTHJDekd5U291dzc3cVhWdmY1STNSZE13LVRIaFkxNGpyb1M2Tk45VUk4dzJtOG5lQmVMQzNaeHM2eFF4eTlKTVRWNi1PTk9iWXdCMllUelZodDVFV251M05OQW81YVF0c3RRMWF2MWt0WWRCZG5oYmt4WGdpaWRBZjB3dW9NOGdjSDJIazJoTm5SWTR5N3FVTWNUbi1tQ2FuWEViYXhZSUpybw?oc=5",
-   "published_utc": "2026-11-12T23:00:00+00:00",
-   "title_original": "China Locks In Export Power by Equipping the World’s Factories",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "522f2d7978aba16a"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Jensen Huang’s exit may signal tighter US controls on AI chip exports to China",
@@ -3089,23 +3106,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cf914c399e8cf9b4"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-   "published_utc": "2026-11-12T10:58:36+00:00",
-   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33318593d8f886be"
   },
   {
    "source_id": "tradingview_live",
@@ -5257,8 +5257,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5272,7 +5272,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5446,8 +5446,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5461,7 +5461,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -5812,7 +5812,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSEVVbV9iRC14N0thNmdONzZnMll5NV9ZMHIzd1hCelkyZUM0Wjh1YjVLT0d5amZGNFNFWnVKM0hEZlFXSFl6eTNHNnZaSWZDUFJQV3c2OHRtZmNNaFA4M9IBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cNIBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
    "published_utc": "2026-11-11T07:54:00+00:00",
    "title_original": "SC제일은행 \"내년 한국 경제 성장세 둔화…통화정책이 주요 변수\"",
    "region": "korea",
@@ -5825,7 +5825,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8214e57caaa25fcf"
+   "id": "4d803028d7b814ba"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6287,6 +6287,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bfc6219147dd71e2"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "published_utc": "2026-11-11T05:13:00+00:00",
+   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33318593d8f886be"
   },
   {
    "source_id": "gn_kr_mk",
@@ -9268,7 +9285,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWUZKUThybGliU01IcUxsekdLZ2YxNDdDMTgyU0NrUGtfRjZiVG9taVZjMU9EUE1ZLWRuYXBNQnZSSmxWNmlPTjZYSEc1cHZwbDJsT0dGdGNLVzRxUTdGWGpPYzd0eTZ4VWQtNW9qZ1dGNTZv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tSVpFcHNKT21CMjRLTk9vXzMwWUpzZmlEWmlfcHBpZDE5eDNMSks3MUR4RGUtYkpKcXRIaTJ5di0zU212aGhqRFlndURzWDJmendFUQ?oc=5",
    "published_utc": "2026-11-10T02:10:00+00:00",
    "title_original": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
    "region": "korea",
@@ -9279,7 +9296,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f0d2735183b07ab8"
+   "id": "3d2813785741c4a2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51909,23 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f458f88af40eac09"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "BYD surges to No. 4 in Korea's imported car market",
-   "url": "https://www.koreaherald.com/article/10908721",
-   "published_utc": "2026-10-20T05:29:23+00:00",
-   "title_original": "BYD surges to No. 4 in Korea's imported car market",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aec81a3387efe297"
   },
   {
    "source_id": "manual_ia",
