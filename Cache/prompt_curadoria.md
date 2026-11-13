@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T23:22:45.135767+00:00
+Última coleta: 2026-11-13T23:32:49.882219+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -53,10 +53,10 @@ Total: 3000 manchetes
   - [korea] “46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data
   - [japan] Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate h
   - [china] Nvidia scandal deepens as banned chips traced to China
+  - [japan] US bought 79 billion yen in July intervention with Japan
   - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
   - [china] How a slowdown in US AI capex might impact China's economy
   - [china] The central bank takes action: 200 billion yuan buyout reverse repurchase is coming
-  - [china] Central Bank: Will carry out 200 billion yuan buyout reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T23:22:45+00:00",
+      "published_utc": "2026-11-13T23:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

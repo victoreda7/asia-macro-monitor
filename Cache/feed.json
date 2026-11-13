@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-13T23:22:45.135767+00:00",
- "collected_at_utc": "2026-11-13T23:22:45.135767+00:00",
+ "generated_at_utc": "2026-11-13T23:32:49.882219+00:00",
+ "collected_at_utc": "2026-11-13T23:32:49.882219+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 310,
   "korea": 826
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T21:57:00+00:00"
+   "newest": "2026-11-12T04:01:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-13T21:33:43+00:00"
+   "newest": "2026-11-13T23:23:21+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T23:20:00+00:00"
+   "newest": "2026-11-13T23:30:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T11:35:42+00:00"
+   "newest": "2026-11-13T22:40:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -739,8 +739,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -754,7 +754,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -960,6 +960,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8d20629ba9f82d19"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "US bought 79 billion yen in July intervention with Japan",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
+   "published_utc": "2026-11-13T11:20:23+00:00",
+   "title_original": "US bought 79 billion yen in July intervention with Japan",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "48ac7c9d2f25600e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2035,7 +2052,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Locks In Export Power by Equipping the World’s Factories",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUt6cWEzdzlQTHJDekd5U291dzc3cVhWdmY1STNSZE13LVRIaFkxNGpyb1M2Tk45VUk4dzJtOG5lQmVMQzNaeHM2eFF4eTlKTVRWNi1PTk9iWXdCMllUelZodDVFV251M05OQW81YVF0c3RRMWF2MWt0WWRCZG5oYmt4WGdpaWRBZjB3dW9NOGdjSDJIazJoTm5SWTR5N3FVTWNUbi1tQ2FuWEViYXhZSUpybw?oc=5",
    "published_utc": "2026-11-13T05:37:00+00:00",
@@ -2382,24 +2399,6 @@
    "id": "c4426735c82ae768"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
-   "title_en": "The unexpired balance of MLF of the Central Bank of China remains at 7.4 trillion yuan, and the next maturity will be 1 trillion yuan on November 25.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZM3Ewd1NENjMzTkQzbFpHYXVtT3BrR2hpZlFSNkRnaFljMy1IY3d6RHZfT1l3RTZlbXVrU1hzb0YtbWtTbS1BMWQ0WXYtMUdiR0hYLWM4Q08wRUdiTnY5VEg2Q3hvaHNjU2YzZVZjNUFEMWxqZWJr?oc=5",
-   "published_utc": "2026-11-13T02:45:00+00:00",
-   "title_original": "中国央行MLF未到期余额维持74,000亿元，下次到期在11月25日规模1万亿",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "628de25c879a045f"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "The U.S. Congress has launched a bipartisan effort to regulate semiconductors...It will also affect Samsung Electronics, SK Hynix, and Japan, which have huge production bases in China | Politics, Economy, and Investment | Toyo Keizai Online",
@@ -2660,23 +2659,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f6bd51d26e631074"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "US bought 79 billion yen in July intervention with Japan",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
-   "published_utc": "2026-11-13T01:21:23+00:00",
-   "title_original": "US bought 79 billion yen in July intervention with Japan",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "48ac7c9d2f25600e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3054,6 +3036,24 @@
    "live_wire": true,
    "manual": false,
    "id": "233751f7604cd82e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "TradingView",
+   "title_en": "The unexpired balance of MLF of the Central Bank of China remains at 7.4 trillion yuan, and the next maturity will be 1 trillion yuan on November 25.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82UDRadEhmMEtuYzlybW43M09zRnRtSU9PVzUyczExLWxncjJrRnJiMXlsOHZJYkxtT1FyMFdtZ2U2TV96RzQtbWljcE9fVDRXZm5SQWFkWTFraXFZM3h4ZTFJYlZLNlFWX0RzUEhuT2Rheno0SEF3?oc=5",
+   "published_utc": "2026-11-12T18:45:00+00:00",
+   "title_original": "中国央行MLF未到期余额维持74,000亿元，下次到期在11月25日规模1万亿",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "46e3725a05dea180"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5567,8 +5567,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5582,7 +5582,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5756,8 +5756,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5771,7 +5771,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
