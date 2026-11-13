@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T02:02:45.621437+00:00
+Última coleta: 2026-11-13T02:12:42.119909+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
   🇨🇳 China          867
-  🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  840
+  🇹🇼 Taiwan         309
+  🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK hynix gain over 2% despite Nvidia sell-off
   - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
   - [japan] Japan's finance minister vows action as yen breaches 160 threshold
   - [japan] Japan's Finance Minister Warns Against Rapid Yen Moves
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Hovers Near Key 160 Level, Fueling Intervention Concerns
   - [japan] Takaichi looks to meet with Trump to head off defense spending demands
   - [china] US says China agreed importance of leader-level talks to advance denuclearization
-  - [china] Anxian Yuan China Expects HY Net Profit Of HK$18 MLN
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T02:02:45+00:00",
+      "published_utc": "2026-11-13T02:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
