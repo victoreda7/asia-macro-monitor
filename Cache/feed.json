@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T03:32:47.115442+00:00",
- "collected_at_utc": "2026-11-13T03:32:47.115442+00:00",
+ "generated_at_utc": "2026-11-13T03:42:47.070977+00:00",
+ "collected_at_utc": "2026-11-13T03:42:47.070977+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 987,
-  "china": 866,
+  "japan": 989,
+  "china": 865,
   "taiwan": 307,
-  "korea": 840
+  "korea": 839
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T03:06:36+00:00"
+   "newest": "2026-11-13T03:31:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T02:55:28+00:00"
+   "newest": "2026-11-13T03:25:27+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T12:25:21+09:00"
+   "newest": "2026-11-13T12:39:39+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-13T12:23:37+09:00"
+   "newest": "2026-11-13T12:37:02+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-13T02:04:00+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T01:55:00+00:00"
+   "newest": "2026-11-13T01:58:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-13T02:50:29+00:00"
+   "newest": "2026-11-13T03:32:45+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,18 +331,53 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T02:11:14+00:00"
+   "newest": "2026-11-13T02:15:58+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 29,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock price rise Buy orders for AI/semiconductor related stocks",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75250",
+   "published_utc": "2026-11-13T03:37:02+00:00",
+   "title_original": "株価 値上がり AI・半導体関連銘柄に買い注文",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "33f4bc5a9e5849c4"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "U.S. Treasury Department “purchased 79.4 billion yen worth of yen” during Japan-U.S. joint intervention, Fed report",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75299",
+   "published_utc": "2026-11-13T03:34:13+00:00",
+   "title_original": "米財務省 日米協調介入時に“794億円分の円買い”FRB報告書",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6afc565bc6ae20c6"
+  },
   {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
@@ -360,6 +395,24 @@
    "live_wire": false,
    "manual": false,
    "id": "95d60d90efd9087b"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asia FX: yen intervention in focus as rate hike bets put dollar near 19-mth high",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
+   "published_utc": "2026-11-13T03:25:27+00:00",
+   "title_original": "Asia FX: yen intervention in focus as rate hike bets put dollar near 19-mth high",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a131265a9c1394dd"
   },
   {
    "source_id": "nikkei_asia",
@@ -531,6 +584,23 @@
    "live_wire": false,
    "manual": false,
    "id": "682befa4669a2c01"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "On the 13th, KBI Metal, a wire material and automotive electronic parts manufacturer of KBI Group, s..",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10d3JhNkNMVFNQX3dsYXI4a0swX3ZTUnFDSUd1Z3MzYWhkRDVUaXRScmJmV0dsVHZEaDVMVWdjeUd2VXNFdHowcndjbjVQZw?oc=5",
+   "published_utc": "2026-11-13T02:15:58+00:00",
+   "title_original": "On the 13th, KBI Metal, a wire material and automotive electronic parts manufacturer of KBI Group, s..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ea00e7dbd8248a7d"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3493,6 +3563,23 @@
    "live_wire": true,
    "manual": false,
    "id": "eda1530ae17be198"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "PBOC Says Bond Market Facility Won’t Bail Out Individual Firms",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2ZXcS1vOEVnXzBxLWp6Wml1aDgyX2ZQM1NJeEJXekV1d3lCS19nNlJGa1ZvV3oyRXMwRnJrUlk5X0J3eVlNeGNLUkhuSEE5NjBOYzM4akNYMkhrbFhjbmFTMXVBSEJNdGgzTmY2cmFzM3RZVWgzS2xpM3EtbEsteGZMUGF3UUVPaEgxOUUwa0FrWkt5SVRMVmtQZm1nbnZCc05Zdkk0RUM2bDI4TUprcFVJTVlja0k?oc=5",
+   "published_utc": "2026-11-11T18:25:00+00:00",
+   "title_original": "PBOC Says Bond Market Facility Won’t Bail Out Individual Firms",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "280fb2593cbb5609"
   },
   {
    "source_id": "tradingview_live",
@@ -51846,93 +51933,6 @@
    "live_wire": true,
    "manual": false,
    "id": "330bc5a9ba127da6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Export Boom Masks Deep Economic Problems at Home — WSJ",
-   "url": "https://www.tradingview.com/news/DJN_DN20261019001298:0-china-s-export-boom-masks-deep-economic-problems-at-home-wsj/",
-   "published_utc": "2026-10-19T09:30:00+00:00",
-   "title_original": "China's Export Boom Masks Deep Economic Problems at Home — WSJ",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "71edac1746dd41af"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "베타뉴스",
-   "title_en": "Treasury bond yields rebound ahead of the Bank of Korea interest rate decision... 3-year bond closing at 3.877% per annum",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85enhJT3ZqbVpva29LUTJiYUx5SjZSbGw3N0ZsM1hicDJXWDM4V0hEaWRhNTBXOTJWY1FWVnI1RkVUemNxT2ctMEF4X3FUQUstemVvUEdsQ0lEWnBabno1V25VVXQ?oc=5",
-   "published_utc": "2026-10-19T09:24:25+00:00",
-   "title_original": "한국은행 금리 결정 앞두고 국고채 금리 반등…3년물 연 3.877% 마감",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9d5a39431dfe1ae"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Yen price falls slightly against the dollar against the backdrop of rising crude oil futures prices",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61777",
-   "published_utc": "2026-10-19T09:23:02+00:00",
-   "title_original": "円相場 対ドルで小幅に値下がり 原油先物価格上昇傾向を背景に",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "afff1a548088c2d0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "LME owner HKEX eyes more yuan-denominated commodities contracts",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46508X:0-lme-owner-hkex-eyes-more-yuan-denominated-commodities-contracts/",
-   "published_utc": "2026-10-19T09:00:34+00:00",
-   "title_original": "LME owner HKEX eyes more yuan-denominated commodities contracts",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2a4a5aca2154dffa"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Samsung said to use TSMC tech for Nvidia's next-generation memory chips",
-   "url": "https://www.tradingview.com/news/seekingalpha:7ceb69391094b:0-samsung-said-to-use-tsmc-tech-for-nvidia-s-next-generation-memory-chips/",
-   "published_utc": "2026-10-19T08:56:47+00:00",
-   "title_original": "Samsung said to use TSMC tech for Nvidia's next-generation memory chips",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "077f49691ecbd87e"
   },
   {
    "source_id": "manual_ia",
