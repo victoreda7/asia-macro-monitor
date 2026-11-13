@@ -7,22 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T12:02:45.191005+00:00
+Última coleta: 2026-11-13T12:12:46.771281+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
-  🇨🇳 China          868
+  🇯🇵 Japão          993
+  🇨🇳 China          866
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  834
+  🇰🇷 Coreia do Sul  832
 
 ## O que já está no feed (não repita)
 
+  - [japan] Interim results for three megabanks record high profits due to rising interest rates
+  - [japan] Analyst sees 4 straight quarters of GDP growth
   - [korea] DeepX bets $100M on new AI chip using Samsung technology
   - [taiwan] TSMC Faces Major Security Scare as Hackers Demand Bitcoin
+  - [japan] BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike
   - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
   - [china] Nvidia scandal deepens as banned chips traced to China
   - [japan] US bought 79 billion yen in July intervention with Japan
+  - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
   - [china] How a slowdown in US AI capex might impact China's economy
   - [china] Scaled-down sequel! The central bank will launch a 200 billion yuan buyout reverse repurchase operation next w
   - [china] Central Bank: Launch 200 billion yuan buyout reverse repurchase operation on November 16
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan core inflation seen above BOJ target for second month in October: Reuters poll
   - [japan] MUFG raises annual profit target, announces 200 billion yen buyback
   - [taiwan] Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27
-  - [china] China's Industrial Production Growth Likely Slowed in October — Market Talk
-  - [taiwan] The central bank will pay more than 220 billion to the treasury next year. The sharp increase in the proportio
-  - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
-  - [japan] Fund Inflows Into Japan Likely to Support Yen in Long Term — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T12:02:45+00:00",
+      "published_utc": "2026-11-13T12:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
