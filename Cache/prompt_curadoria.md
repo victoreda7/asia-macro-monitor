@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T05:42:46.364233+00:00
+Última coleta: 2026-11-13T05:52:43.269218+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
-  🇨🇳 China          862
-  🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  839
+  🇨🇳 China          859
+  🇹🇼 Taiwan         309
+  🇰🇷 Coreia do Sul  840
 
 ## O que já está no feed (não repita)
 
+  - [korea] Huang's exit could give Korean HBM makers more leverage, raise doubts over Nvidia's AI ventures
+  - [japan] Dollar set for best week in two months on rate hike wagers, yen tests 160
+  - [japan] AXE Management Partners sells Osaka hotels for JPY 21 billion, nearly twice its purchase price
+  - [japan] AXE Management Partners Sells Osaka Hotels for About JPY 21B
+  - [taiwan] Table: Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
+  - [taiwan] Taiwan Semiconductor Mfg 3Q Net Profit NT$763.34B Vs NT$451.76B
+  - [korea] Nongshim increased its sales in the third quarter on the back of strong exports and growth of overse..
   - [japan] Hisaka Works Ltd - To Buy Back Up To 3.80% Of Shares Worth 2 Billion Yen
   - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
   - [japan] "What will happen to mortgages if the Bank of Japan raises interest rates?" Will be raised twice in 2026! Reas
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures set for first weekly gain in five as yen weakens, oil jumps
   - [korea] South Korean won gains most among tepid Asian FX
   - [korea] i3system: Infrared-led growth lifted 9M revenue and operating income; orders reached KRW 151.82bn.
-  - [china] Chinese e-commerce sellers brace for Thai duties. Will a 30% tariff hurt sales?
-  - [japan] Japan’s finance minister vows action as yen breaches 160 threshold
-  - [korea] On the 13th, KBI Metal, a wire material and automotive electronic parts manufacturer of KBI Group, s..
-  - [china] China Chipmaker SigmaStar Said to Plan $300 Million HK Listing
-  - [korea] Samsung, SK hynix gain over 2% despite Nvidia sell-off
-  - [japan] Dollar near 19-month high on Fed hike bets, yen tests 160
-  - [china] The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T05:42:46+00:00",
+      "published_utc": "2026-11-13T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
