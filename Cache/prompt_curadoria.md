@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T10:12:44.318988+00:00
+Última coleta: 2026-11-13T10:22:42.196065+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
@@ -53,7 +54,6 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Investor Relations Event
   - [japan] Consumption tax reduction bill: Support money “considered for 50% or more of workers” Prime Minister Takaichi
   - [japan] Stock prices rise Buy orders for some AI/semiconductor related stocks
-  - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen
   - [china] Table: Yuan Jen Enterprises 3Q Net Profit NT$323.3M Vs NT$233.6M
   - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T10:12:44+00:00",
+      "published_utc": "2026-11-13T10:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
