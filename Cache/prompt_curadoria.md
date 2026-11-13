@@ -7,17 +7,16 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T10:02:43.998723+00:00
+Última coleta: 2026-11-13T10:12:44.318988+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          992
-  🇨🇳 China          864
+  🇯🇵 Japão          991
+  🇨🇳 China          865
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  835
 
 ## O que já está no feed (não repita)
 
-  - [japan] Dollar set for best week in two months, yen tests 160
   - [taiwan] Taiwan chip suppliers see limited impact from Nvidia leadership change
   - [china] The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen
   - [china] Table: Yuan Jen Enterprises 3Q Net Profit NT$323.3M Vs NT$233.6M
+  - [china] Takasago International Corp - Notice Concerning Construction Of A New Flavor And Fragrance Manufacturing Plant
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T10:02:44+00:00",
+      "published_utc": "2026-11-13T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

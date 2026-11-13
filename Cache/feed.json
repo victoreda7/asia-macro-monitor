@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-13T10:02:43.998723+00:00",
- "collected_at_utc": "2026-11-13T10:02:43.998723+00:00",
+ "generated_at_utc": "2026-11-13T10:12:44.318988+00:00",
+ "collected_at_utc": "2026-11-13T10:12:44.318988+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 992,
-  "china": 864,
+  "japan": 991,
+  "china": 865,
   "taiwan": 309,
   "korea": 835
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 58,
+   "count": 60,
    "error": "",
-   "newest": "2026-11-13T16:09:38+08:00"
+   "newest": "2026-11-13T17:44:47+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T09:46:44+00:00"
+   "newest": "2026-11-13T10:03:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T09:07:25+00:00"
+   "newest": "2026-11-13T10:00:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-13T09:00:00+09:00"
+   "newest": "2026-11-13T19:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 22,
    "error": "",
-   "newest": "2026-11-13T09:21:16+00:00"
+   "newest": "2026-11-13T09:20:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T09:20:06+00:00"
+   "newest": "2026-11-13T09:57:30+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:25:57+00:00"
+   "newest": "2026-11-13T07:00:40+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T10:01:49+00:00"
+   "newest": "2026-11-13T10:11:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,28 +344,11 @@
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Dollar set for best week in two months, yen tests 160",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U0AV:0-dollar-set-for-best-week-in-two-months-yen-tests-160/",
-   "published_utc": "2026-11-13T09:56:57+00:00",
-   "title_original": "Dollar set for best week in two months, yen tests 160",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2d8dfd2031d00afd"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan chip suppliers see limited impact from Nvidia leadership change",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kbk1JZUNQVlRhT2VKV0xhN3lTd2EwRmpsaTBENW5jeFNTbTUyQUpRU2h1Uk5YVzRxWmZiX1NsVjUtMFFUdk1GSFZVRmlWWm5fTWZYakpxbw?oc=5",
-   "published_utc": "2026-11-13T09:44:00+00:00",
+   "url": "https://focustaiwan.tw/business/202611130015",
+   "published_utc": "2026-11-13T09:44:47+00:00",
    "title_original": "Taiwan chip suppliers see limited impact from Nvidia leadership change",
    "region": "taiwan",
    "topics": [
@@ -375,7 +358,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "b8fed7cd3f9f823a"
+   "id": "4aa207c1c3c8c57e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2033,6 +2016,24 @@
    "live_wire": true,
    "manual": false,
    "id": "bb097af06170027e"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Jensen Huang’s exit may signal tighter US controls on AI chip exports to China",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMmRYUm1uWTZkMGFzTTdrQk9RSUViWDgwaUYtdGhBS2h2V0lBdXdQNEhHaU9mZmx3Y0ZlaW50RTVfSXJOQjBtRWRWSW1hUTBTUkFEMGdVMVFlMUNYV1RoT2ZUaGxqbFdleHRxc1g2T2hybHk5ZDIzM0NrMWV4VER5SHIwd3RQell1MWN5c1Z2UURPTF9na3ZrSkMxT3NxWTgtaDE3X2dISERPUkNNOFk5Qlc0aGFqLWtCQ05LZWFHbnRTYmdTNzM3WlhDRGM4NknSAc8BQVVfeXFMTU9jc1RGV1FKTVJqdmdZQmpQSlhZcm5FVUMxZTNSY1ZTZzlySXhzaVd1WFkzaVYyRXd0LU5LNTM2MVFCVVVfSDQ5R0FwQ2ZEbDNsc0g3N3dCNjBhR2hzdXdocXhFdEZKSkNZaXJNcXpBNDA0MTcxTzRETldvejR3cnpsYkZ5VjJCcjVENzk3TWJpQTVpZ25NVXg1eGJGcUd5VjM3SDZRZkltdk9JbjJzYkdKYlUwNVBDeHlvUGFRaUpwZ3VPOURvWkwwRWs0WTg0?oc=5",
+   "published_utc": "2026-11-12T22:35:06+00:00",
+   "title_original": "Jensen Huang’s exit may signal tighter US controls on AI chip exports to China",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "110a2543e6262e9e"
   },
   {
    "source_id": "gn_asia_bloomberg",
