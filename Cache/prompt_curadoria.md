@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T07:12:45.098495+00:00
+Última coleta: 2026-11-13T07:22:42.901129+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          858
+  🇯🇵 Japão          996
+  🇨🇳 China          856
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  840
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [japan] Case for BOJ Rate Hikes Seen Strengthening — Market Talk
+  - [china] CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 44.93, Implies 49% Upside
+  - [japan] Japan's Likely Soft GDP Data Unlikely to Stop BOJ Rate Hikes — Market Talk
+  - [japan] Mitsubishi Ufj Financial Group, Inc. - To Buy Back Up To 0.62% Of Own Shares Worth 200 Billion Yen
+  - [japan] Japan futures post first weekly gain in five as yen weakens, Tokyo shares rebound
   - [japan] Ut Group Co Ltd - To Buy Back Up To 7.2% Of Own Shares Worth 6 Billion Yen
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Investor Relations Event
   - [japan] Consumption tax reduction bill: Support money “considered for 50% or more of workers” Prime Minister Takaichi
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Hisaka Works Ltd - To Buy Back Up To 3.80% Of Shares Worth 2 Billion Yen
   - [japan] Berkshire Hathaway aims to raise $1.1 billion in yen bond sale, term sheet shows
   - [japan] "What will happen to mortgages if the Bank of Japan raises interest rates?" Will be raised twice in 2026! Reas
-  - [japan] SMC Corp - Announces Maximum Buyback Value Of Jpy 50 Billion
-  - [korea] SEMIFIVE Secures KRW 178.4 Billion in Q3 New Orders, Up 437% YoY, Driving Order Backlog to Record High
-  - [korea] SEMIFIVE Q3 Orders Rise 437% YoY to KRW 178.4B
-  - [korea] South Korea says Google has removed Korean coordinates from maps under export permit
-  - [japan] Exclusive-Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T07:12:45+00:00",
+      "published_utc": "2026-11-13T07:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
