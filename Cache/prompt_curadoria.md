@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-13T18:32:45.790474+00:00
+Última coleta: 2026-11-13T18:42:42.600732+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
-  🇨🇳 China          870
+  🇨🇳 China          871
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  830
+  🇰🇷 Coreia do Sul  829
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia scandal sparks Washington blame game over China chip exports
   - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
   - [china] Nvidia faces new $3.2 billion China chip problem
   - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Rakuten's 3rd quarter financial results record high sales but end up in the red due to strong finance and trav
   - [china] China's New Yuan Loans Contracted in October
   - [korea] VKAISS 2026 Strengthens Vietnam and South Korea Cooperation in AI and Semiconductors
-  - [japan] Prime Minister Takaichi says consumption tax reduction bill support funds will be considered for 50% or more o
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-13T18:32:46+00:00",
+      "published_utc": "2026-11-13T18:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
