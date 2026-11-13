@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-13T16:32:45.680054+00:00",
- "collected_at_utc": "2026-11-13T16:32:45.680054+00:00",
+ "generated_at_utc": "2026-11-13T16:42:44.358977+00:00",
+ "collected_at_utc": "2026-11-13T16:42:44.358977+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 308,
   "korea": 830
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T16:14:39+00:00"
+   "newest": "2026-11-13T16:31:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T16:12:39+00:00"
+   "newest": "2026-11-13T16:30:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T14:15:11+00:00"
+   "newest": "2026-11-13T16:40:34+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 28,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T13:51:07+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T16:21:07+00:00"
+   "newest": "2026-11-13T16:42:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GlobeNewswire",
+   "title_en": "GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative",
+   "url": "https://www.tradingview.com/news/globenewswire:bef4a98a5094b:0-globalfoundries-breaks-ground-on-first-new-semiconductor-fab-under-landmark-u-s-japan-initiative/",
+   "published_utc": "2026-11-13T16:30:00+00:00",
+   "title_original": "GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f92baf7c2e6c544c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stock Story",
@@ -516,8 +533,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -531,7 +548,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -1653,23 +1670,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a93b3563492a4913"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46T1RV:0-hirata-corp-to-buy-back-up-to-10-4-of-shares-worth-10-billion-yen/",
-   "published_utc": "2026-11-13T06:41:35+00:00",
-   "title_original": "Hirata Corp - To Buy Back Up To 10.4% Of Shares Worth 10 Billion Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8cf40067cdce571f"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5291,8 +5291,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5306,7 +5306,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5480,8 +5480,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5495,7 +5495,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -8786,7 +8786,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXFQdXM5NGdadXhNSnRhalRtOE9aSHdPYUNyeWtIam9xZ3JjMEI5cGxyUGpZbXBQamZlY2hxZFdTRC1NbllidG1MdDNpb193bGdmMEpwdGhLMmxLQjVQekZGNEpRY181RkVick94WHlDMTMtblVBaTNWT0tRSkVmNXhlSEZYcFFRTV96WVAzLURWcEo3MGx1RDZFdk1KQ1plTldWdHlxbkdHVlVsX1k0bw?oc=5",
-   "published_utc": "2026-11-10T04:54:00+00:00",
+   "published_utc": "2026-11-10T04:54:37+00:00",
    "title_original": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
    "region": "china",
    "topics": [
