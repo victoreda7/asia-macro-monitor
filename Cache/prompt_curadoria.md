@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T04:22:42.891170+00:00
+Última coleta: 2026-11-14T04:35:34.777547+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's BYD clears import hurdle, looks to accelerate India push
   - [china] The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the do
   - [china] Indian solar manufacturers look to Germany as China proposes curbs on technology exports
   - [japan] Shock of consideration of ``1.5 trillion yen'' compassionate budget》 60 trillion yen defense budget proposal i
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Interim results for three megabanks record high profits due to rising interest rates
   - [japan] Analyst sees 4 straight quarters of GDP growth
   - [korea] DeepX bets $100M on new AI chip using Samsung technology
-  - [taiwan] TSMC Faces Major Security Scare as Hackers Demand Bitcoin
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T04:22:43+00:00",
+      "published_utc": "2026-11-14T04:35:34+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
