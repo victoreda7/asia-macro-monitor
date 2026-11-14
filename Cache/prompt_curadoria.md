@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T21:32:48.877478+00:00
+Última coleta: 2026-11-14T21:42:45.992924+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          999
-  🇨🇳 China          865
+  🇯🇵 Japão          1000
+  🇨🇳 China          864
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  824
 
 ## O que já está no feed (não repita)
 
+  - [japan] Why was the 29-story building standing alone in front of the station in the suburbs sold for over 100 million 
   - [korea] The US Federal Reserve is even discussed as a ‘big step’… Will the Bank of Korea raise interest rates next wee
   - [japan] Abeno, Osaka: Voices of ``I want my hometown back''...Behind the scenes of ``revitalization due to inbound tou
   - [china] China e EUA discutem tarifas e comércio agrícola antes de encontro entre Xi e Trump
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what y
   - [china] Update: China's yuan loans grow 11.42 trln yuan in first 10 months
   - [taiwan] Align director, wife charged over suspicious chips
-  - [taiwan] Chip suppliers shrug off Huang’s exit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T21:32:49+00:00",
+      "published_utc": "2026-11-14T21:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
