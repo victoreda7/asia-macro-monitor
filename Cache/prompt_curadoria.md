@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T16:52:45.831237+00:00
+Última coleta: 2026-11-14T17:02:53.222379+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
@@ -25,7 +25,6 @@ Total: 3000 manchetes
   - [china] China, US discuss tariffs, farm trade at first trade council meeting
   - [china] Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions
   - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
-  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [taiwan] TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China
   - [china] China's BYD clears import hurdle, looks to accelerate India push
   - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [taiwan] Chip suppliers shrug off Huang’s exit
   - [china] 1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months
   - [korea] Modine Manufacturing jumps 30% on reports of acquisition talks with Samsung
+  - [china] China's yuan loans grow 11.42 trln yuan in first 10 months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T16:52:46+00:00",
+      "published_utc": "2026-11-14T17:02:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
