@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T20:52:42.787708+00:00
+Última coleta: 2026-11-14T21:02:43.573205+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          998
-  🇨🇳 China          867
+  🇯🇵 Japão          999
+  🇨🇳 China          866
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  823
 
 ## O que já está no feed (não repita)
 
+  - [japan] Abeno, Osaka: Voices of ``I want my hometown back''...Behind the scenes of ``revitalization due to inbound tou
   - [china] China e EUA discutem tarifas e comércio agrícola antes de encontro entre Xi e Trump
   - [japan] Liberal Democratic Party House of Councilors Chairman Matsuyama consumption tax reduction bill “People and Kom
   - [japan] National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Align director, wife charged over suspicious chips
   - [taiwan] Chip suppliers shrug off Huang’s exit
   - [china] 1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months
-  - [japan] Japanese yen tests 160 again, drawing intervention threats By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T20:52:43+00:00",
+      "published_utc": "2026-11-14T21:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
