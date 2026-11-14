@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T07:12:42.545919+00:00
+Última coleta: 2026-11-14T07:22:42.418785+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          996
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] China, US discuss tariffs, farm trade at first trade council meeting
   - [japan] National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction
   - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
+  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [taiwan] TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China
   - [china] China's BYD clears import hurdle, looks to accelerate India push
   - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will scale back its operations and carry out a 200 billion yuan six-month buyout re
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”
-  - [china] China could cap rare earths sales if US expands chip curbs over Nvidia: analysts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T07:12:42+00:00",
+      "published_utc": "2026-11-14T07:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
