@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T05:22:42.695218+00:00
+Última coleta: 2026-11-14T05:32:45.128462+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          869
-  🇹🇼 Taiwan         311
+  🇨🇳 China          868
+  🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  826
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China
   - [china] China's BYD clears import hurdle, looks to accelerate India push
   - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
   - [china] The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the do
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar set for best week in two months, weak yen captures Tokyo’s attention
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
   - [japan] Interim results for three megabanks record high profits due to rising interest rates
-  - [japan] Analyst sees 4 straight quarters of GDP growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T05:22:42+00:00",
+      "published_utc": "2026-11-14T05:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
