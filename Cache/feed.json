@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-14T06:42:43.363983+00:00",
- "collected_at_utc": "2026-11-14T06:42:43.363983+00:00",
+ "generated_at_utc": "2026-11-14T06:52:43.454034+00:00",
+ "collected_at_utc": "2026-11-14T06:52:43.454034+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 995,
-  "china": 868,
+  "japan": 996,
+  "china": 867,
   "taiwan": 312,
   "korea": 825
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-10T10:30:00+00:00"
+   "newest": "2026-11-13T21:57:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-14T14:20:00+09:00"
+   "newest": "2026-11-14T15:49:51+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T06:40:19+00:00"
+   "newest": "2026-11-14T06:49:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T22:29:33+00:00"
+   "newest": "2026-11-14T04:11:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261114de75874",
+   "published_utc": "2026-11-14T06:49:51+00:00",
+   "title_original": "国民 榛葉幹事長 消費税減税法案 住民税減税の受け入れ求める",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7f504214d2482826"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
    "title_en": "JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand",
@@ -359,6 +377,24 @@
    "live_wire": true,
    "manual": false,
    "id": "21f5053284871f95"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Z0stdDkxUnBRek9LNmZXaktGTld6ek12UEZTRmVfeXRrUXBKMVcxcGdTY3NlV2hDRnV0clU4Sy1WcUFXRmttaG5BQUY2cWYwbHpWVmhOZnBPUFdwX1YzRXN1eHJQSHRGcE9Jc0ZSeHMyeXlXZ3VONw?oc=5",
+   "published_utc": "2026-11-14T05:03:45+00:00",
+   "title_original": "央行出手！2000亿元买断式逆回购来了",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a3acbdef72477db2"
   },
   {
    "source_id": "focus_taiwan",
@@ -966,8 +1002,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -981,7 +1017,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -1255,24 +1291,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5d226e3b6a8cd529"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
-   "title_en": "The central bank takes action: 200 billion yuan buyout reverse repurchase is coming",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbGRvd0ZBMC00T1dUMEFWVUNHai14aW1yREltUGFudVFBV3VYVndhc0lRZ2JRMVUyQ2dRV2ZfTWpjUWZ4NGltTjBEMnNDdlpUMjhhMDE1M2FDT0pXeGNxRTVn?oc=5",
-   "published_utc": "2026-11-13T11:10:01+00:00",
-   "title_original": "央行出手：2000亿元买断式逆回购来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f3482e6eb2382cd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5878,8 +5896,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5893,7 +5911,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6067,8 +6085,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -6082,7 +6100,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51896,24 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "64eaa7c85615cd81"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "The central bank carried out overnight reverse repurchases for nine consecutive working days from October 21 to November 2, with a daily operation limit of 1 trillion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82QTN6U3E1YmVtRl9kTXM3Z1pvUnZHWDdEdVRnOWtQWHdteEI0em1uZVcwT05GTTd5eUFRZmxuNFo2cE9ZbGZER0ZJbm5ydTJxSkE?oc=5",
-   "published_utc": "2026-10-20T07:59:55+00:00",
-   "title_original": "央行10月21日至11月2日连续9个工作日开展隔夜逆回购，每日操作上限1万亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4a75701089b6640b"
   },
   {
    "source_id": "manual_ia",

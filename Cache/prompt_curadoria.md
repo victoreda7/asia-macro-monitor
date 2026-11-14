@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T06:42:43.363983+00:00
+Última coleta: 2026-11-14T06:52:43.454034+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          995
-  🇨🇳 China          868
+  🇯🇵 Japão          996
+  🇨🇳 China          867
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [japan] National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction
   - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
+  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [taiwan] TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China
   - [china] China's BYD clears import hurdle, looks to accelerate India push
   - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
   - [japan] Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”
   - [china] China could cap rare earths sales if US expands chip curbs over Nvidia: analysts
-  - [japan] Dollar set for best week in two months, weak yen captures Tokyo’s attention
-  - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T06:42:43+00:00",
+      "published_utc": "2026-11-14T06:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
