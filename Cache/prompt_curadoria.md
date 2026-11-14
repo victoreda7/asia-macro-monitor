@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T00:02:43.041238+00:00
+Última coleta: 2026-11-14T00:12:45.016664+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] What I found interesting about the main opinions from the Bank of Japan's monetary policy meeting (Hiroyuki Ku
+  - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
   - [japan] Defense budget, 60 trillion yen target, 5-year total, finance, defense offensive and defense Prime Minister Ta
   - [china] Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports
   - [japan] US Treasury bought nearly $500mn in yen during joint July forex intervention
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia scandal deepens as banned chips traced to China
   - [japan] US bought 79 billion yen in July intervention with Japan
   - [japan] Dollar set for best week in two months, yen tests 160 By Reuters
-  - [china] How a slowdown in US AI capex might impact China's economy
-  - [china] The central bank takes action: 200 billion yuan buyout reverse repurchase is coming
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T00:02:43+00:00",
+      "published_utc": "2026-11-14T00:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
