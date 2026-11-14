@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T02:02:44.184515+00:00
+Última coleta: 2026-11-14T02:12:46.359876+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          995
-  🇨🇳 China          870
+  🇯🇵 Japão          996
+  🇨🇳 China          869
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  826
 
 ## O que já está no feed (não repita)
 
+  - [japan] Shock of consideration of ``1.5 trillion yen'' compassionate budget》 60 trillion yen defense budget proposal i
   - [japan] “Gindako” turns the corner: Why does it fall into the red?
   - [china] A-share headlines: Financial data released in October, the central bank's reverse repurchase volume is reduced
   - [japan] What I found interesting about the main opinions from the Bank of Japan's monetary policy meeting (Hiroyuki Ku
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike
   - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
   - [korea] “46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data
-  - [japan] Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate h
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T02:02:44+00:00",
+      "published_utc": "2026-11-14T02:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
