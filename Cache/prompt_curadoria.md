@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T01:12:46.386685+00:00
+Última coleta: 2026-11-14T01:22:45.837669+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          992
-  🇨🇳 China          872
+  🇯🇵 Japão          993
+  🇨🇳 China          871
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  827
 
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [japan] Questioning the pros and cons of the Takaichi administration's huge fiscal spending...A former general contrac
   - [china] US-China truce masks rising tensions ahead of Xi-Trump redux at APEC
   - [taiwan] What is the impact of the downfall of Nvidia's CEO, a "Taiwanese hero"? What is the reality of the "de-fan dep
+  - [japan] U.S. wholesale inflation hits 4-year high in October, market bets on Fed rate hike in December | International
   - [china] Nvidia scandal sparks Washington blame game over China chip exports
   - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
   - [china] Nvidia faces new $3.2 billion China chip problem
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] “46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data
   - [japan] Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate h
   - [china] Nvidia scandal deepens as banned chips traced to China
-  - [japan] US bought 79 billion yen in July intervention with Japan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T01:12:46+00:00",
+      "published_utc": "2026-11-14T01:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
