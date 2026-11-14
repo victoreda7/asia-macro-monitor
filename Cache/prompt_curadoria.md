@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T01:22:45.837669+00:00
+Última coleta: 2026-11-14T01:32:45.230625+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          871
+  🇯🇵 Japão          994
+  🇨🇳 China          870
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  827
 
 ## O que já está no feed (não repita)
 
+  - [japan] “Gindako” turns the corner: Why does it fall into the red?
   - [china] A-share headlines: Financial data released in October, the central bank's reverse repurchase volume is reduced
   - [japan] What I found interesting about the main opinions from the Bank of Japan's monetary policy meeting (Hiroyuki Ku
   - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
   - [korea] “46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data
   - [japan] Interim financial results of 3 megabanks show record high profits again due to Bank of Japan's interest rate h
-  - [china] Nvidia scandal deepens as banned chips traced to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T01:22:46+00:00",
+      "published_utc": "2026-11-14T01:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
