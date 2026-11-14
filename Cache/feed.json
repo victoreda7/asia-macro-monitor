@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-13T23:52:42.471253+00:00",
- "collected_at_utc": "2026-11-13T23:52:42.471253+00:00",
+ "generated_at_utc": "2026-11-14T00:02:43.041238+00:00",
+ "collected_at_utc": "2026-11-14T00:02:43.041238+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 310,
   "korea": 826
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-13T23:33:09+00:00"
+   "newest": "2026-11-13T23:46:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T12:07:06+00:00"
+   "newest": "2026-11-13T13:22:57+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-13T23:50:00+00:00"
+   "newest": "2026-11-14T00:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -739,8 +739,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -754,7 +754,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -806,24 +806,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bad7d9e96feed833"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanFYekMtUjZUUExQMGxBbDVWOU5FS1BIX053ZDVsYnRJYUhPSGN6Q1FvbHRNLVdMTDMtUHVHaWc3S1RacXdEVndYSUwyaFdLcFhfcnVhWElBUUxoNDItRGdZT3ZOVDc0V0ZDSnpyZjJhZWtLYnZXYUhPWHlpZG5uMm00aE9taFM1Wm1SNnc0VHRILU1wS256eQ?oc=5",
-   "published_utc": "2026-11-13T12:27:48+00:00",
-   "title_original": "央行出手！2000亿元买断式逆回购来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34705489f09bbca5"
   },
   {
    "source_id": "nhk_economy",
@@ -1029,6 +1011,24 @@
    "live_wire": true,
    "manual": false,
    "id": "4a4ef035480dec51"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺财经",
+   "title_en": "The central bank takes action: 200 billion yuan buyout reverse repurchase is coming",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbGRvd0ZBMC00T1dUMEFWVUNHai14aW1yREltUGFudVFBV3VYVndhc0lRZ2JRMVUyQ2dRV2ZfTWpjUWZ4NGltTjBEMnNDdlpUMjhhMDE1M2FDT0pXeGNxRTVn?oc=5",
+   "published_utc": "2026-11-13T11:10:01+00:00",
+   "title_original": "央行出手：2000亿元买断式逆回购来了",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f3482e6eb2382cd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2451,7 +2451,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Chipmaker SigmaStar Said to Plan $300 Million HK Listing",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWI1YU5id1QyLUIzUDI5bU4wUFdlSHp1NTZGQkVOT3E3c1R5bHozcUFDRTA0UkdOVHluclp4TGtCc1NNWU5TV0l6UVRwUXU3Z1FfOGQ5dzVSRkNVdXF2eHpJUUU1R3g1dFpLZTJkc1ZIbHRzak50N283d1pMUUNHWk9mQnRLMjNkajZwT2lFSXpESlVRa1RPWDZKbFgzVTdWLTJzZFI1aHVrYjJvNURLUHlR?oc=5",
    "published_utc": "2026-11-13T02:11:00+00:00",
@@ -3416,6 +3416,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cf914c399e8cf9b4"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "published_utc": "2026-11-12T10:58:36+00:00",
+   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33318593d8f886be"
   },
   {
    "source_id": "tradingview_live",
@@ -5567,8 +5584,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5582,7 +5599,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5756,8 +5773,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5771,7 +5788,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -6597,23 +6614,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bfc6219147dd71e2"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-   "published_utc": "2026-11-11T05:13:00+00:00",
-   "title_original": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33318593d8f886be"
   },
   {
    "source_id": "gn_kr_mk",
