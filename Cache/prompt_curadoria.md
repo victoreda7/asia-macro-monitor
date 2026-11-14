@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T03:02:44.791715+00:00
+Última coleta: 2026-11-14T03:12:49.216863+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
-  🇨🇳 China          869
+  🇯🇵 Japão          995
+  🇨🇳 China          870
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [china] Indian solar manufacturers look to Germany as China proposes curbs on technology exports
   - [japan] Shock of consideration of ``1.5 trillion yen'' compassionate budget》 60 trillion yen defense budget proposal i
   - [japan] “Gindako” turns the corner: Why does it fall into the red?
   - [china] A-share headlines: Financial data released in October, the central bank's reverse repurchase volume is reduced
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Faces Major Security Scare as Hackers Demand Bitcoin
   - [japan] BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike
   - [korea] Bitcoin slides below $70,000 as inflation concerns hurt crypto
-  - [korea] “46,000 Records, 280 Million Won”... Online Asking Price for TSMC Employees’ Personal Data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T03:02:45+00:00",
+      "published_utc": "2026-11-14T03:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
