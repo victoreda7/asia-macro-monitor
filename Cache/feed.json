@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-14T16:22:42.931960+00:00",
- "collected_at_utc": "2026-11-14T16:22:42.931960+00:00",
+ "generated_at_utc": "2026-11-14T16:32:42.700053+00:00",
+ "collected_at_utc": "2026-11-14T16:32:42.700053+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 997,
-  "china": 869,
+  "china": 868,
   "taiwan": 312,
-  "korea": 822
+  "korea": 823
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T12:00:04+00:00"
+   "newest": "2026-11-14T12:00:06+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T16:12:44+00:00"
+   "newest": "2026-11-14T16:28:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-11-12T02:25:00+00:00"
+   "newest": "2026-11-12T02:25:40+00:00"
   }
  ],
  "items": [
@@ -1122,8 +1122,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -1137,7 +1137,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -1931,25 +1931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43ae4fec5afab913"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-13T08:19:02+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "investing_live",
@@ -2830,6 +2811,25 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-13T02:28:08+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -5045,6 +5045,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "연합인포맥스",
+   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
+   "published_utc": "2026-11-12T02:25:40+00:00",
+   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5913d7dce403b065"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "뉴닉",
    "title_en": "US Federal Reserve's December interest rate hike forecast: Summary of the possibility of a 'big step' and the impact on the Korean economy 💸",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
@@ -5476,23 +5493,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b25e4ff8f4d49ed6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
-   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
-   "published_utc": "2026-11-12T00:25:39+00:00",
-   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3ecde5047aee35c"
   },
   {
    "source_id": "nhk_economy",
@@ -6085,8 +6085,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -6100,7 +6100,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7603,6 +7603,24 @@
    "id": "43bbd84f41485d75"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국사회복지저널",
+   "title_en": "Bank of Korea releases minutes of 20th Monetary Policy Committee meeting in 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SEgxQzVVY0xrVnNSVUN0czVGMEY4eFVlTVgxb29mU2UyTXVFSWlqVEF5Q1BvYzQ1SVRtbzcwNmdRalpHU2dJTVRMVW1RdFJTdjVwWDRMejlmT1NaN2RVbnIzVEJpanVZaVZvLQ?oc=5",
+   "published_utc": "2026-11-11T01:12:22+00:00",
+   "title_original": "한국은행, 2026년 제20차 금융통화위원회 의사록 공개",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5f9d63d0768eb4c1"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "From AKB to the Bank of Japan, on-site financial classes are spreading, one step at a time to prevent fraud (Asahi Shimbun)",
@@ -8584,7 +8602,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "금융신문",
+   "source_name": "한국금융신문",
    "title_en": "'Interest Rate Freeze' October Monetary Policy Committee Member \"Adjusting the timing and speed of additional tightening is desirable\"",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtNWpVZTJ0ajVhRWc5d3NRN2pZZmt4UFEwRk1uTEh4R2gzOE8wYTVvVnVyTkxZX3JkOTR2T1dWZmdqeE9RUXhHM2xNdGRrTUdRUGJTLXlmT2lGakJjSUxpZ2NhWVc4X3EtN0YyZUhYOHBEd21ia0N1X1BXTVA?oc=5",
    "published_utc": "2026-11-10T11:27:59+00:00",
@@ -51897,23 +51915,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5870c4840f7e2120"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Foreign holdings of China's onshore yuan bonds unchanged at end-September",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45A068:0-foreign-holdings-of-china-s-onshore-yuan-bonds-unchanged-at-end-september/",
-   "published_utc": "2026-10-20T09:00:17+00:00",
-   "title_original": "Foreign holdings of China's onshore yuan bonds unchanged at end-September",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d66e7d320efde76e"
   },
   {
    "source_id": "manual_ia",
