@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-14T02:22:43.284653+00:00",
- "collected_at_utc": "2026-11-14T02:22:43.284653+00:00",
+ "generated_at_utc": "2026-11-14T02:32:52.100728+00:00",
+ "collected_at_utc": "2026-11-14T02:32:52.100728+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 996,
   "china": 869,
-  "taiwan": 309,
-  "korea": 826
+  "taiwan": 310,
+  "korea": 825
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 28,
+   "count": 25,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T02:11:39+00:00"
+   "newest": "2026-11-14T02:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
@@ -2871,7 +2871,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "US Confirms $500 Million Spent on Yen Intervention, With Euros",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY19IZ3NQWDNBZFJRR0ZVRk5oZnpZeWpEdV8zaWpiN1ZxOXFWTGt4SURiMlk2YUM4ZVR3REpHNEZEcEE5YktDZ3QtV0M0X0p6WUNnc3JxakJEMjhvQktqVzEzZlA1SU9HQ25ueUFTS0RDbVJkTVVQT3BJTWJkUzA0Rk56VldfZ1B2Nl9IQ3AyUExUeEVicU15eEpqUHF6RnFfVzkxN01XQzBTOEsxTFZ6RA?oc=5",
    "published_utc": "2026-11-13T01:12:00+00:00",
@@ -4540,6 +4540,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e1417f18411ddbaa"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC sees surging AI chip demand, highlights advanced packaging and physical AI opportunities",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDJYajNhdzRuS2tCYmxrT2RpbWtkQjZrYS15QUN6aUgzZzZPeUIxQkVOZ283eUFTczJMYm9TbF9ISFBkWFpHaEFweGd1Wm4yS01ZRDJPeUtaOVZwSzBPVTVxOU1XbU1JVzlEeFB4NUZhVmt0WDdZbUp1R0gtRkV1MHRRdVdsQzU4c3BsVGFPTDBOTUVVLXgtc0FxVQ?oc=5",
+   "published_utc": "2026-11-12T03:32:13+00:00",
+   "title_original": "TSMC sees surging AI chip demand, highlights advanced packaging and physical AI opportunities",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "65d9ced7ce458367"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7449,7 +7466,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Russia’s Push to Replace Dollar With China’s Yuan Collapses",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZm8xX0JMOVl3aFFhaTBKeFFsUXE0eXg4NDliVk9QNFc1bUVhZVpJVFpWSG9qMld5dVQ5WklsSDZsaDJ6ZVk3YzRiV05QODFjTWw4dTI0cm5SNmowNldtQmRqUEJaMkVxY210eGhtbnB4THBaRDJTXzZSZDJVWEVOcGZOZVYyQVFLbmp0QjZBWmFPcHdKT3JjQWhYY0YzaE1va3FtU0VNWWcyVVV2XzZMOUNjRWU3UQ?oc=5",
    "published_utc": "2026-11-11T00:00:00+00:00",
@@ -51899,23 +51916,6 @@
    "live_wire": false,
    "manual": false,
    "id": "04353fa7282ba0f1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스TV",
-   "title_en": "Bank of Korea freezes base interest rate... Possibility of further increase within the year",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qdTE2cEJIN0M1VHpncXRkSnBvNjBISmVBX3g4ZWw3QVhyUE5aLU5LZjdxSWRUMW1MZVRPQ2RObUhzWTNPOUNhWHpoRnE3SVVjT0FaOEFJbFdDUjNwSGUteFRTOFFQZzA?oc=5",
-   "published_utc": "2026-10-20T07:11:00+00:00",
-   "title_original": "한은, 기준금리 동결 무게…연내 추가 인상 가능성",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e6d1c7ea76445882"
   },
   {
    "source_id": "manual_ia",
