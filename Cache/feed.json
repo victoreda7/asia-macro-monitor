@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-14T08:52:52.168945+00:00",
- "collected_at_utc": "2026-11-14T08:52:52.168945+00:00",
+ "generated_at_utc": "2026-11-14T09:02:44.641416+00:00",
+ "collected_at_utc": "2026-11-14T09:02:44.641416+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 998,
-  "china": 867,
+  "japan": 997,
+  "china": 868,
   "taiwan": 312,
   "korea": 823
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-14T08:32:31+00:00"
+   "newest": "2026-11-14T08:51:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-14T08:12:38+00:00"
+   "newest": "2026-11-14T08:51:47+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-14T16:04:56+09:00"
+   "newest": "2026-11-14T17:51:58+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T08:46:33+00:00"
+   "newest": "2026-11-14T08:59:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-14T16:00:00+09:00"
+   "newest": "2026-11-14T18:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-11-12T02:25:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
+   "url": "https://www.investing.com/news/economy-news/china-us-discuss-tariff-cuts-ahead-of-trumpxi-meeting-next-week-5027233",
+   "published_utc": "2026-11-14T08:51:47+00:00",
+   "title_original": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a35d887430cb3169"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -51897,24 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e971d4e15f36caba"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
-   "published_utc": "2026-10-20T07:00:00+00:00",
-   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70e124fbcd6d9970"
   },
   {
    "source_id": "manual_ia",
