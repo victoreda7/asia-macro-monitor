@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-14T00:32:43.548359+00:00",
- "collected_at_utc": "2026-11-14T00:32:43.548359+00:00",
+ "generated_at_utc": "2026-11-14T00:42:42.908854+00:00",
+ "collected_at_utc": "2026-11-14T00:42:42.908854+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 991,
-  "china": 873,
+  "china": 872,
   "taiwan": 310,
-  "korea": 826
+  "korea": 827
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-14T00:19:33+00:00"
+   "newest": "2026-11-14T00:31:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-12T16:00:00+00:00"
+   "newest": "2026-11-13T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T00:30:00+00:00"
+   "newest": "2026-11-14T00:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T22:40:13+00:00"
+   "newest": "2026-11-13T11:35:42+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -775,8 +775,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -790,7 +790,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -2417,24 +2417,6 @@
    "id": "c4426735c82ae768"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
-   "title_en": "The unexpired balance of MLF of the Central Bank of China remains at 7.4 trillion yuan, and the next maturity will be 1 trillion yuan on November 25.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZM3Ewd1NENjMzTkQzbFpHYXVtT3BrR2hpZlFSNkRnaFljMy1IY3d6RHZfT1l3RTZlbXVrU1hzb0YtbWtTbS1BMWQ0WXYtMUdiR0hYLWM4Q08wRUdiTnY5VEg2Q3hvaHNjU2YzZVZjNUFEMWxqZWJr?oc=5",
-   "published_utc": "2026-11-13T02:45:00+00:00",
-   "title_original": "中国央行MLF未到期余额维持74,000亿元，下次到期在11月25日规模1万亿",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "628de25c879a045f"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "The U.S. Congress has launched a bipartisan effort to regulate semiconductors...It will also affect Samsung Electronics, SK Hynix, and Japan, which have huge production bases in China | Politics, Economy, and Investment | Toyo Keizai Online",
@@ -2587,6 +2569,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3a89b2ff18cc1e7e"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Elec, SK hynix rally as Jensen Huang exit eases uncertainty",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2b1lQMlFCREM4WFMzRmVnMnpvUVZxRGV5aFY2T3ZDUWZ1eHdaQkNoYThaeUk1b1RIQWgxR2tCT3doVGNVUmtzNllsNWYyWGltQjRzTkt2OA?oc=5",
+   "published_utc": "2026-11-13T01:40:25+00:00",
+   "title_original": "Samsung Elec, SK hynix rally as Jensen Huang exit eases uncertainty",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2abef354cca810cc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3072,6 +3071,24 @@
    "live_wire": true,
    "manual": false,
    "id": "233751f7604cd82e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "TradingView",
+   "title_en": "The unexpired balance of MLF of the Central Bank of China remains at 7.4 trillion yuan, and the next maturity will be 1 trillion yuan on November 25.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82UDRadEhmMEtuYzlybW43M09zRnRtSU9PVzUyczExLWxncjJrRnJiMXlsOHZJYkxtT1FyMFdtZ2U2TV96RzQtbWljcE9fVDRXZm5SQWFkWTFraXFZM3h4ZTFJYlZLNlFWX0RzUEhuT2Rheno0SEF3?oc=5",
+   "published_utc": "2026-11-12T18:45:00+00:00",
+   "title_original": "中国央行MLF未到期余额维持74,000亿元，下次到期在11月25日规模1万亿",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "46e3725a05dea180"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5602,8 +5619,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5617,7 +5634,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5791,8 +5808,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5806,7 +5823,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51897,23 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7c224d58709d418b"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Preliminary calculation results of GDP in the third quarter of 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zQkJ0S0lvYzhOSHZCUHNHb0pNUm1qS3AyUE03dk90d2luRy1iQ1Z3WXRCRWwxcEVQeWNGR0NFX2ZQbWdJcmhpQXNHdjBYT3R6MlZoN0VJQzdfMEwyY2tCUG82MENyUnBqMTI2R2RZTQ?oc=5",
-   "published_utc": "2026-10-20T07:00:00+00:00",
-   "title_original": "2026年三季度国内生产总值初步核算结果",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9e11255a6720f0e"
   },
   {
    "source_id": "manual_ia",
