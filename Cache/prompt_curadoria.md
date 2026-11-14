@@ -7,17 +7,16 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T08:12:44.817879+00:00
+Última coleta: 2026-11-14T08:25:28.539348+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          868
+  🇯🇵 Japão          998
+  🇨🇳 China          867
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  823
 
 ## O que já está no feed (não repita)
 
-  - [china] China, US discuss tariffs, farm trade ahead of Xi-Trump meeting
   - [china] China, US discuss tariffs, farm trade at first trade council meeting
   - [china] Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions
   - [japan] National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
   - [korea] Polen Global Growth adds Seagate, AMD And SK Hynix, trims Nvidia and Broadcom among Q3 moves
   - [china] The People's Bank of China will scale back its operations and carry out a 200 billion yuan six-month buyout re
+  - [china] Alice Huang-Linked Firm Procured Banned Nvidia Chips in China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T08:12:45+00:00",
+      "published_utc": "2026-11-14T08:25:28+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
