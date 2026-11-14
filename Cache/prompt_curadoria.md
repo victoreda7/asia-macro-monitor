@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T12:12:50.738441+00:00
+Última coleta: 2026-11-14T12:22:42.861241+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
@@ -52,11 +52,11 @@ Total: 3000 manchetes
   - [korea] Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what y
   - [china] Update: China's yuan loans grow 11.42 trln yuan in first 10 months
   - [taiwan] Align director, wife charged over suspicious chips
+  - [taiwan] Chip suppliers shrug off Huang’s exit
   - [china] 1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months
   - [korea] Modine Manufacturing jumps 30% on reports of acquisition talks with Samsung
   - [china] China's yuan loans grow 11.42 trln yuan in first 10 months
   - [china] China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress
-  - [korea] Polen Global Growth adds Seagate, AMD And SK Hynix, trims Nvidia and Broadcom among Q3 moves
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T12:12:50+00:00",
+      "published_utc": "2026-11-14T12:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
