@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-14T07:32:45.546844+00:00",
- "collected_at_utc": "2026-11-14T07:32:45.546844+00:00",
+ "generated_at_utc": "2026-11-14T07:42:46.370774+00:00",
+ "collected_at_utc": "2026-11-14T07:42:46.370774+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 996,
+  "japan": 997,
   "china": 867,
   "taiwan": 312,
-  "korea": 825
+  "korea": 824
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-14T07:10:53+00:00"
+   "newest": "2026-11-14T07:31:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-14T07:10:43+00:00"
+   "newest": "2026-11-14T07:24:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T07:26:21+00:00"
+   "newest": "2026-11-14T07:32:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China, US discuss tariffs, farm trade at first trade council meeting",
+   "url": "https://www.investing.com/news/economy-news/china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting-5027183",
+   "published_utc": "2026-11-14T07:18:19+00:00",
+   "title_original": "China, US discuss tariffs, farm trade at first trade council meeting",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0d43548c73571299"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Crypto Briefing",
    "title_en": "Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions",
@@ -359,23 +376,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4c81a244e437839f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China, US discuss tariffs, farm trade at first trade council meeting",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3T40AA:0-china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting/",
-   "published_utc": "2026-11-14T07:00:28+00:00",
-   "title_original": "China, US discuss tariffs, farm trade at first trade council meeting",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1254f292994349bd"
   },
   {
    "source_id": "nhk_politics",
@@ -411,6 +411,24 @@
    "live_wire": true,
    "manual": false,
    "id": "21f5053284871f95"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Z0stdDkxUnBRek9LNmZXaktGTld6ek12UEZTRmVfeXRrUXBKMVcxcGdTY3NlV2hDRnV0clU4Sy1WcUFXRmttaG5BQUY2cWYwbHpWVmhOZnBPUFdwX1YzRXN1eHJQSHRGcE9Jc0ZSeHMyeXlXZ3VONw?oc=5",
+   "published_utc": "2026-11-14T05:03:45+00:00",
+   "title_original": "央行出手！2000亿元买断式逆回购来了",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a3acbdef72477db2"
   },
   {
    "source_id": "focus_taiwan",
@@ -1018,8 +1036,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -1033,7 +1051,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -1307,24 +1325,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5d226e3b6a8cd529"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
-   "title_en": "The central bank takes action: 200 billion yuan buyout reverse repurchase is coming",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbGRvd0ZBMC00T1dUMEFWVUNHai14aW1yREltUGFudVFBV3VYVndhc0lRZ2JRMVUyQ2dRV2ZfTWpjUWZ4NGltTjBEMnNDdlpUMjhhMDE1M2FDT0pXeGNxRTVn?oc=5",
-   "published_utc": "2026-11-13T11:10:01+00:00",
-   "title_original": "央行出手：2000亿元买断式逆回购来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f3482e6eb2382cd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2813,6 +2813,23 @@
    "live_wire": false,
    "manual": false,
    "id": "aa0d2463fcd54a19"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Dollar set for best week in two months, yen weakens toward 160",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
+   "published_utc": "2026-11-13T01:58:00+00:00",
+   "title_original": "Dollar set for best week in two months, yen weakens toward 160",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a8e86c59a0cab2c2"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5930,8 +5947,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5945,7 +5962,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "686a24e7059c1e2a"
+   "id": "879a1e52a338213f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6119,8 +6136,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -6134,7 +6151,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "600060e82889367e"
+   "id": "5904379753dd723d"
   },
   {
    "source_id": "tradingview_live",
@@ -51897,23 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6da4eda348131f80"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "New bank accounts created following preferential interest rates and stock accounts increased along w..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4QXVPZmk4Y1JxOWlZQXRGQWNtcl9zanZtNGJmR1FFODdWdHhoODVnSWo2aG1fVWNHRU9FTjJPM1ZxS1hDaFN3Z1BwS0N5WkI2M3c?oc=5",
-   "published_utc": "2026-10-20T08:28:58+00:00",
-   "title_original": "New bank accounts created following preferential interest rates and stock accounts increased along w..",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "69ab22734e140d64"
   },
   {
    "source_id": "manual_ia",
