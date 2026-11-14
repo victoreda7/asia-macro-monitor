@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T23:32:43.018864+00:00
+Última coleta: 2026-11-14T23:42:49.584615+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1001
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Good Morning World》U.S. wholesale inflation in October hit a four-year high, and the market is betting on the 
   - [japan] De-stimulation & exposure? A successful advance on the opposite path to "Love Jotou"...Why Netflix "Ai no Sato
   - [korea] “Interest rates are going to rise, so we should be short”… Bank short-term deposits exceed KRW 470 trillion, ‘
   - [japan] Why was the 29-story building standing alone in front of the station in the suburbs sold for over 100 million 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia faces new $3.2 billion China chip problem
   - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
   - [japan] GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative
-  - [korea] Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T23:32:43+00:00",
+      "published_utc": "2026-11-14T23:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
