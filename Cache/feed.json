@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-14T05:53:55.183376+00:00",
- "collected_at_utc": "2026-11-14T05:53:55.183376+00:00",
+ "generated_at_utc": "2026-11-14T06:02:43.462984+00:00",
+ "collected_at_utc": "2026-11-14T06:02:43.462984+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 994,
+  "japan": 995,
   "china": 868,
   "taiwan": 312,
-  "korea": 826
+  "korea": 825
  },
  "elapsed_s": 29.4,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-14T05:31:14+00:00"
+   "newest": "2026-11-14T05:39:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:37:20+00:00"
+   "newest": "2026-11-13T03:26:54+00:00"
   },
   {
    "source_id": "ked_global",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 25,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-14T14:26:05+09:00"
+   "newest": "2026-11-14T14:26:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T05:42:27+00:00"
+   "newest": "2026-11-14T05:59:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T22:39:07+00:00"
+   "newest": "2026-11-14T02:00:33+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4269101:0-japan-material-q2-sales-rose-20-4-while-operating-profit-grew-41-0-on-semiconductor-fab-demand/",
+   "published_utc": "2026-11-14T05:55:19+00:00",
+   "title_original": "JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "21f5053284871f95"
+  },
   {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
@@ -626,7 +643,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Questioning the pros and cons of the Takaichi administration's huge fiscal spending...A former general contractor top reveals behind-the-scenes details of the \"national policy business\"! (Bunshun Online)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGUzNzRBT3V4Q2RWNmJxNGx0dTQ3V2Y2aUNuR3NGeXNyVkhDRTRzSHpZWW5wbFhaaUQzYnRhMTFSTWdHNzhjUmNHT2xJeF9obUhHVFNSUkhqVW4zS2VTMWVKOFRNMFhrRHFwVXU4MFpzWHNubXE4SWtxOUJkY0NIUE5sZVZmdlRZazk5b2N3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VmNhUGVaWVkzQ2duM3ZTalpfZTJLZ3J2bWJNX2ZUOTVlaHhJeF9RMEhYMTF6c2ZSc2pPVi15cVhsQ2JYWGVoSHNlM3hTUlRIOHZVaWxlbkNMaEh0aTRBRm9BMGVSaDhCcWZydjIwWWt3WVJQZXBBNlluX2h0RHM?oc=5",
    "published_utc": "2026-11-13T21:12:17+00:00",
    "title_original": "高市政権の巨額財政出動の是非を問う…元ゼネコントップが「国策ビジネス」の舞台裏を明かした！（文春オンライン）",
    "region": "japan",
@@ -637,7 +654,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "46cb8be4fcd591d2"
+   "id": "620bf31675d5ea2d"
   },
   {
    "source_id": "nikkei_asia",
@@ -949,8 +966,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -964,7 +981,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -4876,7 +4893,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan member worries about economic slowdown due to interest rate hike ``We need to pay attention to the pace'' (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GLTNPajBEdGlWb3QyODRHRzlDdkdBUmNfbmhJbTl6blZBRFd2T0VuMGdpMmYxdEc2Sm9zOUN6M3VzRVlwZUI0REpzd2JBUFlCbV9rMFhPakJyVGxNQ1pzLThwX1hSWDlnMV9sTEh3Z0FnRVZadkROWFFwdjlHS1U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYkVVZmN3OTB4ZW1ubDRuYjJfNGxtcl8zS0pqMWlwUkNrWjRNU1I4anFqTmFRNnFhOGwzUmVvTUx1VVNxVm0yWHBSY2s1YjZ5OGhrR002T3IyZmhJOVluSlU0UW1kNTM2VGV0eUdOQ2pSa3ZqNE51SVFFMWxBNXZKS2JIWHlqQ3FWUjNEWlhfal9QVl94VDYtQTA3SW1ZX3BJWHVpSlpyVDV2YXphOHl4aENDX3RWN2hYUW9oLXc1RnY2WXBwdjRORFVuVnI?oc=5",
    "published_utc": "2026-11-12T02:16:24+00:00",
    "title_original": "日銀委員、利上げで経済減速懸念 「ペースに留意する必要ある」（共同通信）",
    "region": "japan",
@@ -4887,7 +4904,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d519a304668c1f80"
+   "id": "62a5c587fc7f8a99"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5861,8 +5878,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5876,7 +5893,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6050,8 +6067,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -6065,7 +6082,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51897,23 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4a75701089b6640b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Government R&D budget at 40 trillion won ... 80% of equipment is foreign-made",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqU1Z5YVFuWHdrZ2xZUHN6R1phcEV6UTdvUzh5SnV5VjYwSjdvYTRoQ0kyam5Za2lrYmV3VUQxV3RhZmxaQzNTMGI2QjFrTGdtU0ZF?oc=5",
-   "published_utc": "2026-10-20T07:44:21+00:00",
-   "title_original": "Government R&D budget at 40 trillion won ... 80% of equipment is foreign-made",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f6912fee090391f3"
   },
   {
    "source_id": "manual_ia",
