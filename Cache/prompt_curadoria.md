@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T03:42:44.408448+00:00
+Última coleta: 2026-11-14T03:52:44.998210+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          995
+  🇯🇵 Japão          994
   🇨🇳 China          870
-  🇹🇼 Taiwan         310
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [japan] GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative
   - [korea] Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what y
   - [china] Update: China's yuan loans grow 11.42 trln yuan in first 10 months
+  - [taiwan] Align director, wife charged over suspicious chips
   - [china] 1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months
   - [korea] Modine Manufacturing jumps 30% on reports of acquisition talks with Samsung
   - [china] China's yuan loans grow 11.42 trln yuan in first 10 months
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [china] China could cap rare earths sales if US expands chip curbs over Nvidia: analysts
   - [japan] Dollar set for best week in two months, weak yen captures Tokyo’s attention
   - [china] 664 billion! After the anchor change, the central bank’s first “overnight + 7 days” matching operation will re
-  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
   - [japan] Interim results for three megabanks record high profits due to rising interest rates
   - [japan] Analyst sees 4 straight quarters of GDP growth
   - [korea] DeepX bets $100M on new AI chip using Samsung technology
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T03:42:44+00:00",
+      "published_utc": "2026-11-14T03:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

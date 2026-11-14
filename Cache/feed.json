@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-14T03:42:44.408448+00:00",
- "collected_at_utc": "2026-11-14T03:42:44.408448+00:00",
+ "generated_at_utc": "2026-11-14T03:52:44.998210+00:00",
+ "collected_at_utc": "2026-11-14T03:52:44.998210+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 995,
+  "japan": 994,
   "china": 870,
-  "taiwan": 310,
+  "taiwan": 311,
   "korea": 825
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:15:00+00:00"
+   "newest": "2026-11-14T03:40:57+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-13T09:12:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-14T03:41:51+00:00"
+   "newest": "2026-11-14T03:48:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -744,6 +744,23 @@
    "id": "d80c7b749143eb40"
   },
   {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Align director, wife charged over suspicious chips",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YVjlNRTd3OFRGQmtuU3hMUEVJQldLNG1pWEhrVVg1WUZOTXBES0ZUci02NXRWODdkUmpua2ZUOHR6bHlFWWZpVU91YU1mQWE2M2d2NC1BdFoxUklmOVFaSy1UN2FmN1JZaDVISnlFOG9uaVNYMDVyYg?oc=5",
+   "published_utc": "2026-11-13T16:00:00+00:00",
+   "title_original": "Align director, wife charged over suspicious chips",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f03815a6973e9a1d"
+  },
+  {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months",
@@ -864,8 +881,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -879,7 +896,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -931,24 +948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bad7d9e96feed833"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanFYekMtUjZUUExQMGxBbDVWOU5FS1BIX053ZDVsYnRJYUhPSGN6Q1FvbHRNLVdMTDMtUHVHaWc3S1RacXdEVndYSUwyaFdLcFhfcnVhWElBUUxoNDItRGdZT3ZOVDc0V0ZDSnpyZjJhZWtLYnZXYUhPWHlpZG5uMm00aE9taFM1Wm1SNnc0VHRILU1wS256eQ?oc=5",
-   "published_utc": "2026-11-13T12:27:48+00:00",
-   "title_original": "央行出手！2000亿元买断式逆回购来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34705489f09bbca5"
   },
   {
    "source_id": "nhk_economy",
@@ -1171,6 +1170,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5d226e3b6a8cd529"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺财经",
+   "title_en": "The central bank takes action: 200 billion yuan buyout reverse repurchase is coming",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbGRvd0ZBMC00T1dUMEFWVUNHai14aW1yREltUGFudVFBV3VYVndhc0lRZ2JRMVUyQ2dRV2ZfTWpjUWZ4NGltTjBEMnNDdlpUMjhhMDE1M2FDT0pXeGNxRTVn?oc=5",
+   "published_utc": "2026-11-13T11:10:01+00:00",
+   "title_original": "央行出手：2000亿元买断式逆回购来了",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f3482e6eb2382cd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5776,8 +5793,8 @@
    "id": "f3424571efd662b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill enters deliberation in the House of Councilors, ruling party is in minority, what will happen next?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74440",
    "published_utc": "2026-11-11T12:56:58+00:00",
@@ -5791,7 +5808,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "879a1e52a338213f"
+   "id": "686a24e7059c1e2a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5965,8 +5982,8 @@
    "id": "8d9ad3beea98e0b6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi \"Strengthens growth potential through highly predictable fiscal management\" Collaboration with Bank of Japan",
    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74430",
    "published_utc": "2026-11-11T10:58:00+00:00",
@@ -5980,7 +5997,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5904379753dd723d"
+   "id": "600060e82889367e"
   },
   {
    "source_id": "tradingview_live",
@@ -51899,23 +51916,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5b97ae4a000959e8"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi attended the second national and local consultation forum in 2026",
-   "url": "https://www.kantei.go.jp/jp/105/actions/202610/20kunitochihou.html",
-   "published_utc": "2026-10-20T07:30:00+00:00",
-   "title_original": "高市総理は令和８年度第２回国と地方の協議の場に出席しました",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "caf08aeb2625247b"
   },
   {
    "source_id": "manual_ia",
