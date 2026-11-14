@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-14T17:52:49.495146+00:00
+Última coleta: 2026-11-14T18:02:42.523385+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          868
+  🇯🇵 Japão          998
+  🇨🇳 China          867
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  823
 
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [taiwan] Align director, wife charged over suspicious chips
   - [taiwan] Chip suppliers shrug off Huang’s exit
   - [china] 1st LD-Writethru: China's yuan loans grow 11.42 trln yuan in first 10 months
-  - [korea] Modine Manufacturing jumps 30% on reports of acquisition talks with Samsung
+  - [japan] Japanese yen tests 160 again, drawing intervention threats By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-14T17:52:49+00:00",
+      "published_utc": "2026-11-14T18:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
