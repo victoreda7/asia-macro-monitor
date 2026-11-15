@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T01:42:46.318203+00:00
+Última coleta: 2026-11-15T01:52:49.181470+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1002
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [china] Nvidia scandal sparks Washington blame game over China chip exports
   - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
   - [china] Nvidia faces new $3.2 billion China chip problem
-  - [china] The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today
+  - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T01:42:46+00:00",
+      "published_utc": "2026-11-15T01:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
