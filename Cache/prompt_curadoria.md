@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T11:12:50.434146+00:00
+Última coleta: 2026-11-15T11:22:44.904169+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1004
-  🇨🇳 China          864
+  🇨🇳 China          865
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  825
+  🇰🇷 Coreia do Sul  824
 
 ## O que já está no feed (não repita)
 
+  - [china] APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy
   - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China, US Discuss Tariffs in First Meeting of Trade Council
   - [china] China, US discuss tariffs, farm trade at first trade council meeting
   - [china] Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions
-  - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T11:12:50+00:00",
+      "published_utc": "2026-11-15T11:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
