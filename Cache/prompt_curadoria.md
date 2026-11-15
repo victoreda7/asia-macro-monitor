@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T08:02:41.589848+00:00
+Última coleta: 2026-11-15T08:12:43.203786+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut
   - [china] Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% sta
+  - [china] The central bank’s major adjustments are implemented! RMB, new signal
   - [china] After the Huang Renxun scandal, the United States may tighten chip exports. Chinese official media is worried 
   - [china] Novelis to sell two China subsidiaries for $265 million
   - [china] Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
   - [china] The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the do
   - [china] Indian solar manufacturers look to Germany as China proposes curbs on technology exports
-  - [japan] Shock of consideration of ``1.5 trillion yen'' compassionate budget》 60 trillion yen defense budget proposal i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T08:02:41+00:00",
+      "published_utc": "2026-11-15T08:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
