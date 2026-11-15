@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-15T02:22:42.628054+00:00",
- "collected_at_utc": "2026-11-15T02:22:42.628054+00:00",
+ "generated_at_utc": "2026-11-15T02:29:58.658725+00:00",
+ "collected_at_utc": "2026-11-15T02:29:58.658725+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 310,
   "korea": 824
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.4,
  "sources": [
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -147,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-15T02:19:43+00:00"
+   "newest": "2026-11-15T02:23:49+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -169,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -187,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-15T10:54:34+09:00"
+   "newest": "2026-11-15T10:54:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -220,6 +212,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-14T20:23:56+00:00"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-14T14:08:58+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T02:00:00+00:00"
+   "newest": "2026-11-15T02:23:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-15T01:52:40+00:00"
+   "newest": "2026-11-15T02:23:17+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -365,7 +365,7 @@
    "source_name": "NHK 政治",
    "title_en": "20% say they have seen or heard slander against the Ainu people, Cabinet Office poll",
    "url": "https://news.web.nhk/newsweb/na/nd-20261115de76063",
-   "published_utc": "2026-11-15T01:54:34+00:00",
+   "published_utc": "2026-11-15T01:54:00+00:00",
    "title_original": "アイヌの人々へひぼう中傷見聞き「ある」20％ 内閣府世論調査",
    "region": "japan",
    "topics": [
@@ -1072,6 +1072,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Dollar set for best week in two months, yen weakens toward 160",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
+   "published_utc": "2026-11-13T17:17:29+00:00",
+   "title_original": "Dollar set for best week in two months, yen weakens toward 160",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a8e86c59a0cab2c2"
   },
   {
    "source_id": "tradingview_live",
@@ -3124,23 +3141,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aa0d2463fcd54a19"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar set for best week in two months, yen weakens toward 160",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
-   "published_utc": "2026-11-13T01:58:00+00:00",
-   "title_original": "Dollar set for best week in two months, yen weakens toward 160",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a8e86c59a0cab2c2"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -47648,6 +47648,23 @@
    "id": "c212bcd9136052fa"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9cff6654c2fd53b9"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Full text of BOK statement on monetary policy decision in Oct.",
@@ -47664,23 +47681,6 @@
    "live_wire": false,
    "manual": false,
    "id": "891fd7d0680eb082"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cff6654c2fd53b9"
   },
   {
    "source_id": "gn_kr_mk",
