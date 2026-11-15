@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T14:32:43.370284+00:00
+Última coleta: 2026-11-15T14:42:43.170105+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
+  🇯🇵 Japão          1005
   🇨🇳 China          867
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  820
+  🇰🇷 Coreia do Sul  821
 
 ## O que já está no feed (não repita)
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] [Breaking news] Ehime prefecture gubernatorial election exit poll results
   - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] [Breaking news] Matsuyama mayoral election exit poll results
+  - [korea] Will the Bank of Korea raise its base interest rate on the 26th? Tensions rise over the possibility of a ‘big 
   - [china] APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy
   - [japan] [Breaking news] Fukuoka mayoral election exit poll results
   - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] 85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil p
   - [china] China e EUA discutem tarifas e comércio agrícola antes de encontro entre Xi e Trump
   - [china] GEOPOLITICS | Bessent and Lutnick Reportedly Differ on Nvidia Chip Curbs for China
-  - [japan] Liberal Democratic Party House of Councilors Chairman Matsuyama consumption tax reduction bill “People and Kom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T14:32:43+00:00",
+      "published_utc": "2026-11-15T14:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
