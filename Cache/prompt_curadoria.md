@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T04:25:26.503435+00:00
+Última coleta: 2026-11-15T04:32:43.548349+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1003
-  🇨🇳 China          863
+  🇯🇵 Japão          1002
+  🇨🇳 China          864
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
   - [china] The central bank’s major adjustment is happening today
+  - [china] Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%
   - [japan] Japan faces currency hell as yen plunges and bond yields explode
   - [korea] The possibility of a big step by the U.S. Federal Reserve increases pressure on the Bank of Korea to raise int
   - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] US Treasury bought nearly $500mn in yen during joint July forex intervention
   - [china] EU’s fixation on Chinese subsidies masks its own structural stagnation
   - [japan] "Anthropic's malicious IPO" + "NVIDIA CEO Jensen Huang scandal"...The collapse of the AI/semiconductor bubble 
-  - [japan] Commerce Secretary Lutnick's responsibility for export of Nvidia's advanced semiconductors emerges
-  - [japan] Questioning the pros and cons of the Takaichi administration's huge fiscal spending...A former general contrac
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T04:25:26+00:00",
+      "published_utc": "2026-11-15T04:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
