@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T16:54:56.347475+00:00",
- "collected_at_utc": "2026-11-15T16:54:56.347475+00:00",
+ "generated_at_utc": "2026-11-15T17:02:48.911880+00:00",
+ "collected_at_utc": "2026-11-15T17:02:48.911880+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1004,
+  "japan": 1003,
   "china": 867,
-  "taiwan": 308,
+  "taiwan": 309,
   "korea": 821
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-15T16:24:18+00:00"
+   "newest": "2026-11-15T16:54:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T15:51:44+00:00"
+   "newest": "2026-11-15T16:25:13+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-15T16:31:45+00:00"
+   "newest": "2026-11-15T16:56:37+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T16:50:53+00:00"
+   "newest": "2026-11-15T17:01:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T10:23:50+00:00"
+   "newest": "2026-11-15T13:24:07+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T12:00:01+00:00"
+   "newest": "2026-11-15T06:16:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Nvidia defends employee in Taiwan AI chip smuggling case",
+   "url": "https://www.tradingview.com/news/seekingalpha:375ce7e88094b:0-nvidia-defends-employee-in-taiwan-ai-chip-smuggling-case/",
+   "published_utc": "2026-11-15T16:53:19+00:00",
+   "title_original": "Nvidia defends employee in Taiwan AI chip smuggling case",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8de7059b904739bd"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -1883,8 +1900,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -1898,7 +1915,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51902,24 +51919,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bf8a5fb49abacce7"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill: Opposition parties offer counterproposals, ruling party seeks compromise to enact legislation",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62512",
-   "published_utc": "2026-10-20T20:48:00+00:00",
-   "title_original": "消費税減税法案 野党からは対案も 与党は成立へ歩み寄り模索",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ae7e59ada5d2fcd1"
   },
   {
    "source_id": "manual_ia",
