@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T11:42:44.521796+00:00",
- "collected_at_utc": "2026-11-15T11:42:44.521796+00:00",
+ "generated_at_utc": "2026-11-15T11:52:48.154799+00:00",
+ "collected_at_utc": "2026-11-15T11:52:48.154799+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1004,
+  "japan": 1005,
   "china": 866,
   "taiwan": 306,
-  "korea": 824
+  "korea": 823
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-15T20:29:22+09:00"
+   "newest": "2026-11-15T20:48:27+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T11:37:33+00:00"
+   "newest": "2026-11-15T11:50:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-15T04:50:44+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "[Breaking news] Matsuyama mayoral election exit poll results",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261115de76103",
+   "published_utc": "2026-11-15T11:48:27+00:00",
+   "title_original": "【速報】松山市長選挙 出口調査の結果は",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "838f6a123ec1f47e"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -51902,23 +51919,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fef3cacd9f59b2cf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Cointelegraph",
-   "title_en": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-   "url": "https://www.tradingview.com/news/cointelegraph:3d43220e0094b:0-injective-bdacs-plan-korean-won-stablecoin-settlement-for-tokenized-assets/",
-   "published_utc": "2026-10-20T16:47:48+00:00",
-   "title_original": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "44aa0087b4216437"
   },
   {
    "source_id": "manual_ia",
