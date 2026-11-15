@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T11:52:48.154799+00:00
+Última coleta: 2026-11-15T12:02:45.248437+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1005
@@ -17,11 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] [Breaking news] Matsuyama mayoral election exit poll results
   - [china] APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy
   - [japan] [Breaking news] Fukuoka mayoral election exit poll results
   - [china] The central bank's "lock-up and release of short-term measures" stabilized funding expectations, with a net wi
-  - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
   - [china] China’s auto export boom lifts Hyundai Glovis to record profit
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T11:52:48+00:00",
+      "published_utc": "2026-11-15T12:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
