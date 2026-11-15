@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T23:42:48.796486+00:00
+Última coleta: 2026-11-15T23:52:42.539415+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1000
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [china] APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy
   - [japan] [Breaking news] Fukuoka mayoral election exit poll results
   - [china] The central bank's "lock-up and release of short-term measures" stabilized funding expectations, with a net wi
+  - [korea] The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?
   - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
   - [china] China’s auto export boom lifts Hyundai Glovis to record profit
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
   - [china] The central bank’s major adjustment is happening today
   - [china] Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%
-  - [japan] Japan faces currency hell as yen plunges and bond yields explode
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T23:42:48+00:00",
+      "published_utc": "2026-11-15T23:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
