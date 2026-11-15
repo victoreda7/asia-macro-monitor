@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T01:52:49.181470+00:00
+Última coleta: 2026-11-15T02:02:46.573526+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1002
-  🇨🇳 China          862
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  825
+  🇯🇵 Japão          1003
+  🇨🇳 China          863
+  🇹🇼 Taiwan         310
+  🇰🇷 Coreia do Sul  824
 
 ## O que já está no feed (não repita)
 
+  - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
+  - [japan] 20% say they have seen or heard slander against the Ainu people, Cabinet Office poll
   - [japan] Redevelopment is in the red now in Abeno, Osaka
   - [japan] Good Morning World》U.S. wholesale inflation in October hit a four-year high, and the market is betting on the 
   - [japan] De-stimulation & exposure? A successful advance on the opposite path to "Love Jotou"...Why Netflix "Ai no Sato
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] U.S. wholesale inflation hits 4-year high in October, market bets on Fed rate hike in December | International
   - [china] Nvidia scandal sparks Washington blame game over China chip exports
   - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
-  - [china] Nvidia faces new $3.2 billion China chip problem
-  - [korea] Why did Micron, SK Hynix and SanDisk shares fall on Friday?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T01:52:49+00:00",
+      "published_utc": "2026-11-15T02:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
