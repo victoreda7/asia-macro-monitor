@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T20:32:43.904816+00:00
+Última coleta: 2026-11-15T20:42:43.749771+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1003
-  🇨🇳 China          867
+  🇯🇵 Japão          1005
+  🇨🇳 China          866
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  821
+  🇰🇷 Coreia do Sul  820
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and pu
+  - [japan] AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack counter
+  - [japan] AI aims at the "back door of the system"...Bank of Japan and OpenAI talk ``Basics of cyber attack countermeasu
   - [china] US and allies sign accord to protect AI supply chains from China
   - [taiwan] Nvidia defends employee in Taiwan AI chip smuggling case
   - [taiwan] Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Good Morning World》U.S. wholesale inflation in October hit a four-year high, and the market is betting on the 
   - [japan] De-stimulation & exposure? A successful advance on the opposite path to "Love Jotou"...Why Netflix "Ai no Sato
   - [korea] “Interest rates are going to rise, so we should be short”… Bank short-term deposits exceed KRW 470 trillion, ‘
-  - [japan] Why was the 29-story building standing alone in front of the station in the suburbs sold for over 100 million 
-  - [korea] The US Federal Reserve is even discussed as a ‘big step’… Will the Bank of Korea raise interest rates next wee
-  - [japan] Abeno, Osaka: Voices of ``I want my hometown back''...Behind the scenes of ``revitalization due to inbound tou
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T20:32:44+00:00",
+      "published_utc": "2026-11-15T20:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T20:32:43.904816+00:00",
- "collected_at_utc": "2026-11-15T20:32:43.904816+00:00",
+ "generated_at_utc": "2026-11-15T20:42:43.749771+00:00",
+ "collected_at_utc": "2026-11-15T20:42:43.749771+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1003,
-  "china": 867,
+  "japan": 1005,
+  "china": 866,
   "taiwan": 309,
-  "korea": 821
+  "korea": 820
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 31.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-15T19:46:32+00:00"
+   "newest": "2026-11-15T20:31:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T05:21:35+09:00"
+   "newest": "2026-11-16T05:38:51+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-15T19:15:00+09:00"
+   "newest": "2026-11-16T05:38:51+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T20:27:09+00:00"
+   "newest": "2026-11-15T20:42:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T12:00:01+00:00"
+   "newest": "2026-11-15T20:34:50+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-16T05:00:00+09:00"
+   "newest": "2026-11-16T05:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
+   "published_utc": "2026-11-15T20:38:51+00:00",
+   "title_original": "消費税減税法案 参院で審議続く 国民 公明の協力が焦点に",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9b9a199c44cc0fa"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack countermeasures'' AI for attack verification has completed “95% of the tasks”",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xd0pDcWhNVmhWMldKbmhhRHpYSzczeTNDZnB5MWRZN09qX1pld3N5RE5nQUR2dEpHTVBoeFJXRjZFYUVQUGxMckZrb19YdHU3UXhSUU5MUWxNS2o2Z1QyQ2V2MS1EdzBSVVNCbjVZdzVKUG5rc1lMdlhITm9YX2M?oc=5",
+   "published_utc": "2026-11-15T20:34:50+00:00",
+   "title_original": "AIは「システムの裏口」を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは“課題の95％”を完遂",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2bbeb2c4ffabe19f"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "AI aims at the \"back door of the system\"...Bank of Japan and OpenAI talk ``Basics of cyber attack countermeasures'' AI for attack verification has completed ``95% of the tasks'' | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964459?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-15T20:30:00+00:00",
+   "title_original": "AIは｢システムの裏口｣を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは\"課題の95%\"を完遂 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "104e7149b8e6ea75"
+  },
   {
    "source_id": "gn_asia_ft",
    "source_name": "Financial Times",
@@ -51865,58 +51917,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e6a9aa63f6259ee8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4650G0:0-boj-to-raise-rates-to-1-50-in-december-sticking-to-quarterly-pace/",
-   "published_utc": "2026-10-20T22:00:01+00:00",
-   "title_original": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "38754b0cf8454bbc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Commerzbank: The central bank’s policy interest rate shifts to overnight reverse repurchase, and the RMB will still appreciate gradually_Hot Spot Tracking",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mMzlHTzFoRlIyNnRUSmlLLW5sVWxrbGpvZW1qTnFYckRXV3NSNWZJeHREZWxiZDlPYXBiU1B5RThzSmpFVnJaT2k3WTJYaFliVGdiOHE0LUlmaXltY3p5cXV3?oc=5",
-   "published_utc": "2026-10-20T21:28:00+00:00",
-   "title_original": "德商银行：央行政策利率转向隔夜逆回购人民币仍将渐进升值_热点追踪",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "82742cd16b6d1943"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Producer Inflation Eases Slightly",
-   "url": "https://www.tradingview.com/news/te_news:593553:0-south-korea-producer-inflation-eases-slightly/",
-   "published_utc": "2026-10-20T21:18:06+00:00",
-   "title_original": "South Korea Producer Inflation Eases Slightly",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4a1dd3137456dd1e"
   },
   {
    "source_id": "manual_ia",
