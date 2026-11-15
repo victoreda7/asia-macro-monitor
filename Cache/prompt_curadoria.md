@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T21:02:50.960733+00:00
+Última coleta: 2026-11-15T21:12:52.607341+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1006
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Reasons why supermarkets don't welcome food tax cuts...Difficult management decisions faced as ``consumption f
   - [japan] <Combining technologies from withdrawn and loss-making businesses> Responding to re-growth through AI robots a
   - [japan] Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and pu
   - [japan] AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack counter
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Starting today, the foreign exchange deposit reserve ratio of financial institutions will be inc
   - [japan] Redevelopment is in the red now in Abeno, Osaka
   - [japan] Good Morning World》U.S. wholesale inflation in October hit a four-year high, and the market is betting on the 
-  - [japan] De-stimulation & exposure? A successful advance on the opposite path to "Love Jotou"...Why Netflix "Ai no Sato
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T21:02:51+00:00",
+      "published_utc": "2026-11-15T21:12:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
