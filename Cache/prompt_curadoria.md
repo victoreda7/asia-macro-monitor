@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T23:22:43.120229+00:00
+Última coleta: 2026-11-15T23:32:50.450965+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1003
-  🇨🇳 China          867
-  🇹🇼 Taiwan         310
+  🇯🇵 Japão          1000
+  🇨🇳 China          866
+  🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  820
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing
+  - [taiwan] Taiwan warns chip workers of detention risk in China, citing 470 cases
   - [china] China central bank hikes foreign reserve requirement for 1st time in 5 years
   - [china] Senators demand Lutnick testimony over alleged Nvidia chip diversions to China
   - [japan] How a 59-year-old former Hollywood actor, who had failed in karate, acting, and love, became a ``ninja who exp
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank’s major adjustment is happening today
   - [china] Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%
   - [japan] Japan faces currency hell as yen plunges and bond yields explode
-  - [korea] The possibility of a big step by the U.S. Federal Reserve increases pressure on the Bank of Korea to raise int
-  - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T23:22:43+00:00",
+      "published_utc": "2026-11-15T23:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
