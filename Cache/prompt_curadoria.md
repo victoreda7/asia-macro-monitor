@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T22:32:48.747189+00:00
+Última coleta: 2026-11-15T22:42:42.883980+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1004
-  🇨🇳 China          867
+  🇯🇵 Japão          1003
+  🇨🇳 China          868
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  820
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and pu
   - [japan] AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack counter
   - [japan] AI aims at the "back door of the system"...Bank of Japan and OpenAI talk ``Basics of cyber attack countermeasu
+  - [china] US, Allies Agree to Guard AI Supply Chains From China, FT Says
   - [china] US and allies sign accord to protect AI supply chains from China
   - [taiwan] Nvidia defends employee in Taiwan AI chip smuggling case
   - [taiwan] Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan faces currency hell as yen plunges and bond yields explode
   - [korea] The possibility of a big step by the U.S. Federal Reserve increases pressure on the Bank of Korea to raise int
   - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
-  - [japan] 20% say they have seen or heard slander against the Ainu people, Cabinet Office poll
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T22:32:48+00:00",
+      "published_utc": "2026-11-15T22:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
