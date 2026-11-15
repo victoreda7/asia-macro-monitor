@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T09:32:43.000403+00:00
+Última coleta: 2026-11-15T09:42:43.695921+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -48,9 +48,9 @@ Total: 3000 manchetes
   - [japan] Liberal Democratic Party House of Councilors Chairman Matsuyama consumption tax reduction bill “People and Kom
   - [japan] National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction
   - [china] China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week
+  - [china] China, US discuss tariffs, farm trade ahead of Xi-Trump meeting
   - [china] China, US Discuss Tariffs in First Meeting of Trade Council
   - [china] China, US discuss tariffs, farm trade at first trade council meeting
-  - [china] China, US discuss tariffs, farm trade ahead of Xi-Trump meeting
   - [china] Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions
   - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
   - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T09:32:43+00:00",
+      "published_utc": "2026-11-15T09:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
