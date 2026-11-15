@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T08:35:30.518499+00:00
+Última coleta: 2026-11-15T08:42:43.433636+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15
   - [japan] BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut
   - [china] Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% sta
   - [china] The central bank’s major adjustments are implemented! RMB, new signal
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's BYD clears import hurdle, looks to accelerate India push
   - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
   - [china] The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the do
-  - [china] Indian solar manufacturers look to Germany as China proposes curbs on technology exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T08:35:30+00:00",
+      "published_utc": "2026-11-15T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
