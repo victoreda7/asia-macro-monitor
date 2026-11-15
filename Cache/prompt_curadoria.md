@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T07:22:41.449563+00:00
+Última coleta: 2026-11-15T07:32:45.452915+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
-  🇨🇳 China          864
-  🇹🇼 Taiwan         308
+  🇨🇳 China          865
+  🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [china] After the Huang Renxun scandal, the United States may tighten chip exports. Chinese official media is worried 
   - [china] Novelis to sell two China subsidiaries for $265 million
   - [china] Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries
   - [korea] South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] “Gindako” turns the corner: Why does it fall into the red?
   - [china] A-share headlines: Financial data released in October, the central bank's reverse repurchase volume is reduced
   - [japan] What I found interesting about the main opinions from the Bank of Japan's monetary policy meeting (Hiroyuki Ku
-  - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T07:22:41+00:00",
+      "published_utc": "2026-11-15T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

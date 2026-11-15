@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T07:22:41.449563+00:00",
- "collected_at_utc": "2026-11-15T07:22:41.449563+00:00",
+ "generated_at_utc": "2026-11-15T07:32:45.452915+00:00",
+ "collected_at_utc": "2026-11-15T07:32:45.452915+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1003,
-  "china": 864,
-  "taiwan": 308,
+  "china": 865,
+  "taiwan": 307,
   "korea": 825
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T21:57:00+00:00"
+   "newest": "2026-11-10T10:30:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T11:13:00+00:00"
+   "newest": "2026-11-13T15:09:53+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-15T15:54:34+09:00"
+   "newest": "2026-11-15T16:29:20+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T04:32:00+00:00"
+   "newest": "2026-11-15T07:14:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,12 +337,31 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-15T04:50:44+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "After the Huang Renxun scandal, the United States may tighten chip exports. Chinese official media is worried about the impact on cutting-edge computing power | Cross-Strait",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfd1RVYWV3UW5qRDNjYV90NDRPNUxUX2ZzVnF6S0dzaXNTNW9Ya2pkeEdtYWxSamQ2OERnRVdQajFuMGFGcXowQnF1NmN6MDg3bEg5YkQySEVTM19JQWc?oc=5",
+   "published_utc": "2026-11-15T07:14:00+00:00",
+   "title_original": "黃仁勳風波後美恐緊縮晶片出口中國官媒憂衝擊尖端算力| 兩岸",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "441f44fa662e7b43"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -51899,23 +51918,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c61a647b6ba63235"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Starlux expands routes amid AI, chip industry demand",
-   "url": "https://focustaiwan.tw/business/202610200025",
-   "published_utc": "2026-10-20T12:41:13+00:00",
-   "title_original": "Starlux expands routes amid AI, chip industry demand",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9e85fad8a05bda5"
   },
   {
    "source_id": "manual_ia",
