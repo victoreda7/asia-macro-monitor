@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T05:42:41.874652+00:00
+Última coleta: 2026-11-15T05:52:50.560750+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1002
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries
   - [korea] South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%
   - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
   - [china] The central bank’s major adjustment is happening today
@@ -33,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Why was the 29-story building standing alone in front of the station in the suburbs sold for over 100 million 
   - [korea] The US Federal Reserve is even discussed as a ‘big step’… Will the Bank of Korea raise interest rates next wee
   - [japan] Abeno, Osaka: Voices of ``I want my hometown back''...Behind the scenes of ``revitalization due to inbound tou
+  - [korea] 85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil p
   - [china] China e EUA discutem tarifas e comércio agrícola antes de encontro entre Xi e Trump
   - [china] GEOPOLITICS | Bessent and Lutnick Reportedly Differ on Nvidia Chip Curbs for China
   - [japan] Liberal Democratic Party House of Councilors Chairman Matsuyama consumption tax reduction bill “People and Kom
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] What I found interesting about the main opinions from the Bank of Japan's monetary policy meeting (Hiroyuki Ku
   - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
   - [japan] Defense budget, 60 trillion yen target, 5-year total, finance, defense offensive and defense Prime Minister Ta
-  - [china] Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports
-  - [japan] US Treasury bought nearly $500mn in yen during joint July forex intervention
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T05:42:42+00:00",
+      "published_utc": "2026-11-15T05:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

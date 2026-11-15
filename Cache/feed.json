@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-15T05:42:41.874652+00:00",
- "collected_at_utc": "2026-11-15T05:42:41.874652+00:00",
+ "generated_at_utc": "2026-11-15T05:52:50.560750+00:00",
+ "collected_at_utc": "2026-11-15T05:52:50.560750+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-15T14:26:57+09:00"
+   "newest": "2026-11-15T14:26:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T05:13:48+00:00"
+   "newest": "2026-11-14T20:23:56+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T14:00:05+00:00"
+   "newest": "2026-11-15T02:00:18+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T05:34:20+00:00"
+   "newest": "2026-11-15T05:50:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T22:19:09+00:00"
+   "newest": "2026-11-15T01:19:58+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-15T04:50:44+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46V008:0-hindalco-says-novelis-enters-agreement-to-sell-china-aluminum-subsidiaries/",
+   "published_utc": "2026-11-15T05:43:13+00:00",
+   "title_original": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "38219a004a31128f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Binance News",
@@ -619,6 +636,24 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-14T18:27:55+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -20386,24 +20421,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f702a01b5a6de6c6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-04T22:00:05+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51899,23 +51916,6 @@
    "live_wire": true,
    "manual": false,
    "id": "67ee3de7f08798d9"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China mulls policies to accelerate smart manufacturing",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xSzJTVFlOSElRT0w1NGtZV1FMMjBLc3BTd0k5b0R0dy1uVWs2TDNFeVRGS0lxdnFpeTBNWlNXc2RBTzlpN1ViMHVERW14ZmVtbUVWdW9rM0FpeWR4WThmLXRTV0JGaE9LR2ZDeTlsQ2JYTVpaZmF2d20xZk8?oc=5",
-   "published_utc": "2026-10-20T12:18:00+00:00",
-   "title_original": "China mulls policies to accelerate smart manufacturing",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "717dbdc702113097"
   },
   {
    "source_id": "manual_ia",
