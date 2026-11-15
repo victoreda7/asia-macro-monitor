@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T07:12:43.980305+00:00
+Última coleta: 2026-11-15T07:22:41.449563+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
-  🇨🇳 China          863
-  🇹🇼 Taiwan         309
+  🇨🇳 China          864
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [china] Novelis to sell two China subsidiaries for $265 million
   - [china] Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries
   - [korea] South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%
   - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] A-share headlines: Financial data released in October, the central bank's reverse repurchase volume is reduced
   - [japan] What I found interesting about the main opinions from the Bank of Japan's monetary policy meeting (Hiroyuki Ku
   - [china] The central bank will launch a 200 billion yuan buyout reverse repurchase operation
-  - [japan] Defense budget, 60 trillion yen target, 5-year total, finance, defense offensive and defense Prime Minister Ta
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T07:12:44+00:00",
+      "published_utc": "2026-11-15T07:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
