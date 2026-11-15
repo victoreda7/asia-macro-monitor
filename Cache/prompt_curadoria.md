@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T09:02:43.543074+00:00
+Última coleta: 2026-11-15T09:12:45.025031+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [china] After the Huang Renxun scandal, the United States may tighten chip exports. Chinese official media is worried 
   - [china] Novelis to sell two China subsidiaries for $265 million
   - [china] Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries
+  - [china] Novelis Agrees to Sell Two China Subsidiaries for About $265 Million
   - [korea] Samsung conquered AI chips. Now it wants to build data centres
   - [korea] South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%
   - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China
   - [china] China's BYD clears import hurdle, looks to accelerate India push
   - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
-  - [china] The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the do
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T09:02:43+00:00",
+      "published_utc": "2026-11-15T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
