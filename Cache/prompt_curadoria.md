@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T21:32:44.168667+00:00
+Última coleta: 2026-11-15T21:37:18.183370+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
-  🇨🇳 China          865
+  🇯🇵 Japão          1005
+  🇨🇳 China          866
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  820
 
 ## O que já está no feed (não repita)
 
+  - [china] Senators demand Lutnick testimony over alleged Nvidia chip diversions to China
   - [japan] Reasons why supermarkets don't welcome food tax cuts...Difficult management decisions faced as ``consumption f
   - [japan] <Combining technologies from withdrawn and loss-making businesses> Responding to re-growth through AI robots a
   - [japan] Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and pu
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] 20% say they have seen or heard slander against the Ainu people, Cabinet Office poll
   - [china] Central Bank: Starting today, the foreign exchange deposit reserve ratio of financial institutions will be inc
   - [japan] Redevelopment is in the red now in Abeno, Osaka
-  - [japan] Good Morning World》U.S. wholesale inflation in October hit a four-year high, and the market is betting on the 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T21:32:44+00:00",
+      "published_utc": "2026-11-15T21:37:18+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
