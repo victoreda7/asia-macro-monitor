@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T02:42:44.649859+00:00
+Última coleta: 2026-11-15T02:52:41.391378+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1003
-  🇨🇳 China          862
+  🇯🇵 Japão          1004
+  🇨🇳 China          861
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan faces currency hell as yen plunges and bond yields explode
   - [korea] The possibility of a big step by the U.S. Federal Reserve increases pressure on the Bank of Korea to raise int
   - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
   - [japan] 20% say they have seen or heard slander against the Ainu people, Cabinet Office poll
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Questioning the pros and cons of the Takaichi administration's huge fiscal spending...A former general contrac
   - [china] US-China truce masks rising tensions ahead of Xi-Trump redux at APEC
   - [taiwan] What is the impact of the downfall of Nvidia's CEO, a "Taiwanese hero"? What is the reality of the "de-fan dep
-  - [japan] U.S. wholesale inflation hits 4-year high in October, market bets on Fed rate hike in December | International
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T02:42:44+00:00",
+      "published_utc": "2026-11-15T02:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
