@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T02:29:58.658725+00:00",
- "collected_at_utc": "2026-11-15T02:29:58.658725+00:00",
+ "generated_at_utc": "2026-11-15T02:32:51.471147+00:00",
+ "collected_at_utc": "2026-11-15T02:32:51.471147+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1003,
-  "china": 863,
+  "china": 862,
   "taiwan": 310,
-  "korea": 824
+  "korea": 825
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 27,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-14T22:00:00+00:00"
+   "newest": "2026-11-15T02:17:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "스페셜경제",
+   "title_en": "美 연준 빅스텝 가능성에 한은 추가 금리인상 압박 커져",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14d2hGUnJVdHVwRUxUZEVZYmRnY1hfeGZ1TnhORGRNZ0F3YjUyVW5wdi1HMGNVMjFUdEVpNjY1eG1DQWQzc3hYc2J0eW16TENzQ1RWa1czVnZIajVHemZtaU1hZ2N2Uzh0dmdIaw?oc=5",
+   "published_utc": "2026-11-15T02:17:40+00:00",
+   "title_original": "美 연준 빅스텝 가능성에 한은 추가 금리인상 압박 커져",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "14991c770d3d07d2"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
@@ -1330,8 +1347,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -1345,7 +1362,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -47648,23 +47665,6 @@
    "id": "c212bcd9136052fa"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cff6654c2fd53b9"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Full text of BOK statement on monetary policy decision in Oct.",
@@ -47681,6 +47681,23 @@
    "live_wire": false,
    "manual": false,
    "id": "891fd7d0680eb082"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9cff6654c2fd53b9"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51901,23 +51918,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7a0c9cbdd59c63c0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QNkEzT0FIc21yVlgwMV9DTkt0eWJURzlRQjdWbC1EelFsc2N5UmdyRmxRd0VfR05GV2N4ckVXcklieGhmdENOaE9ZeDAzYnlITGwzNFduaGs?oc=5",
-   "published_utc": "2026-10-20T10:29:00+00:00",
-   "title_original": "央行：10月21日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "71b10711180154da"
   },
   {
    "source_id": "manual_ia",
