@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T10:05:31.247391+00:00
+Última coleta: 2026-11-15T10:12:42.539675+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1005
-  🇨🇳 China          863
+  🇯🇵 Japão          1004
+  🇨🇳 China          864
   🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  825
 
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
+  - [china] China’s auto export boom lifts Hyundai Glovis to record profit
   - [china] The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15
   - [japan] BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut
   - [china] Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% sta
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China, US discuss tariffs, farm trade at first trade council meeting
   - [china] Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions
   - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
-  - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T10:05:31+00:00",
+      "published_utc": "2026-11-15T10:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
