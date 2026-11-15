@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-11-15T00:22:48.432923+00:00",
- "collected_at_utc": "2026-11-15T00:22:48.432923+00:00",
+ "generated_at_utc": "2026-11-15T00:32:43.099374+00:00",
+ "collected_at_utc": "2026-11-15T00:32:43.099374+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1001,
-  "china": 863,
+  "japan": 1002,
+  "china": 862,
   "taiwan": 312,
   "korea": 824
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.9,
  "sources": [
-  {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -59,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T05:03:12+00:00"
+   "newest": "2026-11-14T05:00:27+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -118,6 +110,14 @@
    "newest": ""
   },
   {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-13T11:13:00+00:00"
+  },
+  {
    "source_id": "kantei_jnews",
    "name": "Kantei 首相官邸",
    "ok": true,
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-14T22:57:21+00:00"
+   "newest": "2026-11-15T00:24:50+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Redevelopment is in the red now in Abeno, Osaka",
+   "url": "https://news.yahoo.co.jp/pickup/6602629?source=rss",
+   "published_utc": "2026-11-15T00:24:50+00:00",
+   "title_original": "再開発が大赤字 大阪・阿倍野の今",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d0acb60b687b9916"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -47563,6 +47580,23 @@
    "id": "c212bcd9136052fa"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9cff6654c2fd53b9"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Full text of BOK statement on monetary policy decision in Oct.",
@@ -47579,23 +47613,6 @@
    "live_wire": false,
    "manual": false,
    "id": "891fd7d0680eb082"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cff6654c2fd53b9"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51902,23 +51919,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d2c0a5efa05ee98d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China and Hong Kong stocks fall; stable growth dampens stimulus expectations",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4660MC:0/",
-   "published_utc": "2026-10-20T09:47:56+00:00",
-   "title_original": "Ações da China e de Hong Kong caem; crescimento estável diminui expectativas de estímulos",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "9bb4d3a58f6b3afe"
   },
   {
    "source_id": "manual_ia",
