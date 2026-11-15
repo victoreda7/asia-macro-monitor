@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T07:42:48.359900+00:00",
- "collected_at_utc": "2026-11-15T07:42:48.359900+00:00",
+ "generated_at_utc": "2026-11-15T07:52:45.443561+00:00",
+ "collected_at_utc": "2026-11-15T07:52:45.443561+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1003,
-  "china": 865,
+  "china": 864,
   "taiwan": 307,
-  "korea": 825
+  "korea": 826
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T05:03:12+00:00"
+   "newest": "2026-11-15T05:08:13+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T00:25:00+00:00"
+   "newest": "2026-11-15T07:47:10+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T04:08:05+00:00"
+   "newest": "2026-11-15T07:44:10+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T07:35:44+00:00"
+   "newest": "2026-11-15T07:51:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T06:50:51+00:00"
+   "newest": "2026-11-15T07:42:44+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,18 +331,53 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T03:54:24+00:00"
+   "newest": "2026-11-15T06:08:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-15T04:50:44+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYWNNT1FidnV2MGZYczdrS2ZCREwwdFRONUJvT1VadDFtdWluNDd5QWJHV29jeWpuOHUxUUJ5UnlwajUydnVCV25oTm1JaDB4MHN2NkJHN09mQQ?oc=5",
+   "published_utc": "2026-11-15T07:47:10+00:00",
+   "title_original": "BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e8229b209e685dc4"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% starting today",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGQ3QlhIVVdwUFRjY1ZWZ0hsa3FKQWMyekpBaUhEcjNtMklSMThsMk50cC1DSm41U05fQVgybWpQb2YyclI3RVZTZ0YzOXQwZDVlYkVnVF8teVNvSU9WSmJTa3BVOUJ3QmpEMXgtRG9ObnQ0RXVMRVJmNDBZSmRvNmpOelVPd3ZV?oc=5",
+   "published_utc": "2026-11-15T07:44:10+00:00",
+   "title_original": "央行：金融机构外汇存款准备金率今起提高至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c9b5129d7daf5f8b"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -395,6 +430,23 @@
    "live_wire": true,
    "manual": false,
    "id": "38219a004a31128f"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "Samsung conquered AI chips. Now it wants to build data centres",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGlFcXVUUzVSNTBhc2s3R1RFQWpYZGxGc2JCTll4WE1hQ0dRWlBlbzhiRW80ZHVmdktJMlBmZF82dmRyZkpIUW93RDRPbnVPLVloRTlDcmlJOUxGWFJrNnhYWENUZFVZNXBwN19kRjljVkVnaE5lYTUwODdvai1CU0xyTC0?oc=5",
+   "published_utc": "2026-11-15T05:08:13+00:00",
+   "title_original": "Samsung conquered AI chips. Now it wants to build data centres",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "158307e1eb62894c"
   },
   {
    "source_id": "tradingview_live",
@@ -1280,24 +1332,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3002,6 +3036,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51866,58 +51918,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b681d22144b0848c"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "China’s hybrid car exports to EU surge by more than 200% as import cap looms",
-   "url": "https://www.scmp.com/economy/global-economy/article/3371541/chinas-hybrid-car-exports-eu-surge-more-200-import-cap-looms",
-   "published_utc": "2026-10-20T13:00:10+00:00",
-   "title_original": "China’s hybrid car exports to EU surge by more than 200% as import cap looms",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bc573d6f88cf6cb5"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
-   "published_utc": "2026-10-20T12:57:53+00:00",
-   "title_original": "食料品の消費税減税法案 衆院で審議入り どうなる財源・支援金",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0583e4ec02152092"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips",
-   "url": "https://www.tradingview.com/news/stocktwits:6fa3edd00094b:0-micron-invests-in-us-indium-processing-amid-china-export-restrictions-mu-stock-still-dips/",
-   "published_utc": "2026-10-20T12:51:38+00:00",
-   "title_original": "Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c61a647b6ba63235"
   },
   {
    "source_id": "manual_ia",

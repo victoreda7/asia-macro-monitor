@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T07:42:48.359900+00:00
+Última coleta: 2026-11-15T07:52:45.443561+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
-  🇨🇳 China          865
+  🇨🇳 China          864
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  825
+  🇰🇷 Coreia do Sul  826
 
 ## O que já está no feed (não repita)
 
+  - [japan] BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut
+  - [china] Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% sta
   - [china] After the Huang Renxun scandal, the United States may tighten chip exports. Chinese official media is worried 
   - [china] Novelis to sell two China subsidiaries for $265 million
   - [china] Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries
+  - [korea] Samsung conquered AI chips. Now it wants to build data centres
   - [korea] South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%
   - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
   - [china] The central bank’s major adjustment is happening today
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the do
   - [china] Indian solar manufacturers look to Germany as China proposes curbs on technology exports
   - [japan] Shock of consideration of ``1.5 trillion yen'' compassionate budget》 60 trillion yen defense budget proposal i
-  - [japan] “Gindako” turns the corner: Why does it fall into the red?
-  - [china] A-share headlines: Financial data released in October, the central bank's reverse repurchase volume is reduced
-  - [japan] What I found interesting about the main opinions from the Bank of Japan's monetary policy meeting (Hiroyuki Ku
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T07:42:48+00:00",
+      "published_utc": "2026-11-15T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
