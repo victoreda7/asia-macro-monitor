@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T02:12:49.538707+00:00
+Última coleta: 2026-11-15T02:22:42.628054+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
   - [japan] 20% say they have seen or heard slander against the Ainu people, Cabinet Office poll
+  - [china] Central Bank: Starting today, the foreign exchange deposit reserve ratio of financial institutions will be inc
   - [japan] Redevelopment is in the red now in Abeno, Osaka
   - [japan] Good Morning World》U.S. wholesale inflation in October hit a four-year high, and the market is betting on the 
   - [japan] De-stimulation & exposure? A successful advance on the opposite path to "Love Jotou"...Why Netflix "Ai no Sato
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] What is the impact of the downfall of Nvidia's CEO, a "Taiwanese hero"? What is the reality of the "de-fan dep
   - [japan] U.S. wholesale inflation hits 4-year high in October, market bets on Fed rate hike in December | International
   - [china] Nvidia scandal sparks Washington blame game over China chip exports
-  - [korea] Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T02:12:49+00:00",
+      "published_utc": "2026-11-15T02:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
