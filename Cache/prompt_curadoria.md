@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T18:55:29.292405+00:00
+Última coleta: 2026-11-15T19:02:44.218940+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] US and allies sign accord to protect AI supply chains from China
   - [taiwan] Nvidia defends employee in Taiwan AI chip smuggling case
   - [taiwan] Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case
   - [japan] Over 63% skeptical about PM's tax cut to help fight inflation
@@ -27,7 +28,6 @@ Total: 3000 manchetes
   - [korea] Will the Bank of Korea raise its base interest rate on the 26th? Tensions rise over the possibility of a ‘big 
   - [china] APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy
   - [japan] [Breaking news] Fukuoka mayoral election exit poll results
-  - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
   - [china] The central bank's "lock-up and release of short-term measures" stabilized funding expectations, with a net wi
   - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
@@ -47,6 +47,7 @@ Total: 3000 manchetes
   - [china] Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%
   - [japan] Japan faces currency hell as yen plunges and bond yields explode
   - [korea] The possibility of a big step by the U.S. Federal Reserve increases pressure on the Bank of Korea to raise int
+  - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
   - [japan] 20% say they have seen or heard slander against the Ainu people, Cabinet Office poll
   - [china] Central Bank: Starting today, the foreign exchange deposit reserve ratio of financial institutions will be inc
   - [japan] Redevelopment is in the red now in Abeno, Osaka
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Why was the 29-story building standing alone in front of the station in the suburbs sold for over 100 million 
   - [korea] The US Federal Reserve is even discussed as a ‘big step’… Will the Bank of Korea raise interest rates next wee
   - [japan] Abeno, Osaka: Voices of ``I want my hometown back''...Behind the scenes of ``revitalization due to inbound tou
-  - [korea] 85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil p
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T18:55:29+00:00",
+      "published_utc": "2026-11-15T19:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
