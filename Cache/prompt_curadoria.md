@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T14:02:44.032758+00:00
+Última coleta: 2026-11-15T14:12:42.310906+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1006
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [japan] [Breaking news] Matsuyama mayoral election exit poll results
   - [china] APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy
   - [japan] [Breaking news] Fukuoka mayoral election exit poll results
+  - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
   - [china] The central bank's "lock-up and release of short-term measures" stabilized funding expectations, with a net wi
   - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
@@ -43,7 +44,6 @@ Total: 3000 manchetes
   - [china] Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%
   - [japan] Japan faces currency hell as yen plunges and bond yields explode
   - [korea] The possibility of a big step by the U.S. Federal Reserve increases pressure on the Bank of Korea to raise int
-  - [china] Increase to 6%! The central bank’s major adjustments officially take effect today
   - [japan] 20% say they have seen or heard slander against the Ainu people, Cabinet Office poll
   - [china] Central Bank: Starting today, the foreign exchange deposit reserve ratio of financial institutions will be inc
   - [japan] Redevelopment is in the red now in Abeno, Osaka
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T14:02:44+00:00",
+      "published_utc": "2026-11-15T14:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
