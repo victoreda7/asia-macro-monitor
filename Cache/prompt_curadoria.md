@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T03:12:42.497640+00:00
+Última coleta: 2026-11-15T03:22:42.554343+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1004
-  🇨🇳 China          861
-  🇹🇼 Taiwan         310
+  🇨🇳 China          862
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [china] China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week
   - [china] China, US Discuss Tariffs in First Meeting of Trade Council
   - [china] China, US discuss tariffs, farm trade at first trade council meeting
+  - [china] China, US discuss tariffs, farm trade ahead of Xi-Trump meeting
   - [china] Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions
   - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
   - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Commerce Secretary Lutnick's responsibility for export of Nvidia's advanced semiconductors emerges
   - [japan] Questioning the pros and cons of the Takaichi administration's huge fiscal spending...A former general contrac
   - [china] US-China truce masks rising tensions ahead of Xi-Trump redux at APEC
-  - [taiwan] What is the impact of the downfall of Nvidia's CEO, a "Taiwanese hero"? What is the reality of the "de-fan dep
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T03:12:42+00:00",
+      "published_utc": "2026-11-15T03:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
