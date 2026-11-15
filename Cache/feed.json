@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T03:22:42.554343+00:00",
- "collected_at_utc": "2026-11-15T03:22:42.554343+00:00",
+ "generated_at_utc": "2026-11-15T03:32:44.789206+00:00",
+ "collected_at_utc": "2026-11-15T03:32:44.789206+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1004,
-  "china": 862,
+  "japan": 1003,
+  "china": 863,
   "taiwan": 309,
   "korea": 825
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 31.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T02:00:15+00:00"
+   "newest": "2026-11-15T03:22:05+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T03:01:58+00:00"
+   "newest": "2026-11-15T03:31:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经_金融信息服务商",
+   "title_en": "The central bank’s major adjustment is happening today",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaSmlfQ0hneTNsanV6TTFQQjJfZDI4Y3hlY1BLTzNsWndQSzRPNWFTdlhUTTFmdXJna1Z6ZEs1RDVCQUpBVk5WQlBNa0FUS0JmQzJlaFREV2Y5M0R3cUt6OGRFYXRIWi1GSkNOd083QmdIUQ?oc=5",
+   "published_utc": "2026-11-15T03:22:05+00:00",
+   "title_original": "央行重大调整，就在今日",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f4ca89c7dd6d19e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "bne Intellinews",
@@ -1125,24 +1142,6 @@
    "id": "d2134ade3049a4b6"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -1399,8 +1398,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -1414,7 +1413,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -2845,6 +2844,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51900,24 +51917,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d02d31feb428b7d1"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister Takaichi “works to minimize burden on local governments” in consumption tax reduction bill",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62451",
-   "published_utc": "2026-10-20T10:59:00+00:00",
-   "title_original": "高市首相“自治体の負担最小化に取り組む”消費税減税法案で",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "adc2a3ad3d162ed7"
   },
   {
    "source_id": "manual_ia",
