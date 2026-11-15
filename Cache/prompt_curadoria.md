@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T09:52:42.296905+00:00
+Última coleta: 2026-11-15T10:05:31.247391+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1003
-  🇨🇳 China          864
+  🇯🇵 Japão          1005
+  🇨🇳 China          863
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  826
+  🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
+  - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
+  - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
   - [china] The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15
   - [japan] BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut
   - [china] Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% sta
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Blacklisted Chinese university reportedly purchased Nvidia H200s despite export restrictions
   - [japan] JAPAN MATERIAL: Q2 sales rose 20.4%, while operating profit grew 41.0% on semiconductor-fab demand
   - [china] The central bank takes action! 200 billion yuan buyout reverse repurchase is coming
-  - [taiwan] TSMC gets record NT$167.6 billion in aid from U.S., Japan, Germany, China
-  - [china] China's BYD clears import hurdle, looks to accelerate India push
-  - [korea] The banking sector is resuming a series of mortgage insurance subscriptions, which have been restric..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T09:52:42+00:00",
+      "published_utc": "2026-11-15T10:05:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
