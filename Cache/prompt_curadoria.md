@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T04:42:43.843258+00:00
+Última coleta: 2026-11-15T04:52:44.396568+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1002
-  🇨🇳 China          864
+  🇨🇳 China          863
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  825
+  🇰🇷 Coreia do Sul  826
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%
   - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
   - [china] The central bank’s major adjustment is happening today
   - [china] Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports
   - [japan] US Treasury bought nearly $500mn in yen during joint July forex intervention
   - [china] EU’s fixation on Chinese subsidies masks its own structural stagnation
-  - [japan] "Anthropic's malicious IPO" + "NVIDIA CEO Jensen Huang scandal"...The collapse of the AI/semiconductor bubble 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T04:42:44+00:00",
+      "published_utc": "2026-11-15T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

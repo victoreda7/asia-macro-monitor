@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-15T04:42:43.843258+00:00",
- "collected_at_utc": "2026-11-15T04:42:43.843258+00:00",
+ "generated_at_utc": "2026-11-15T04:52:44.396568+00:00",
+ "collected_at_utc": "2026-11-15T04:52:44.396568+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1002,
-  "china": 864,
+  "china": 863,
   "taiwan": 309,
-  "korea": 825
+  "korea": 826
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T07:00:00+00:00"
+   "newest": "2026-11-15T01:40:16+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 25,
    "error": "",
    "newest": "2026-11-14T01:30:00+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T04:49:00+00:00"
+   "newest": "2026-11-14T05:13:48+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-15T04:34:07+00:00"
+   "newest": "2026-11-15T04:50:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-15T02:17:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%",
+   "url": "https://www.tradingview.com/news/binance_news:088ebbd9d094b:0-south-korea-s-october-ict-exports-hit-70-35-billion-as-chip-exports-jump-259-4/",
+   "published_utc": "2026-11-15T04:32:44+00:00",
+   "title_original": "South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0ac5b391422c2339"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "广州日报新花城",
@@ -51898,23 +51916,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e00ac09c9a768b3b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261020003635:0-hormuz-disruption-chinese-export-curbs-keep-fertilizer-supplies-tight-s-p-says-market-talk/",
-   "published_utc": "2026-10-20T11:43:00+00:00",
-   "title_original": "Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "65a03ad5a3c88bb3"
   },
   {
    "source_id": "manual_ia",
