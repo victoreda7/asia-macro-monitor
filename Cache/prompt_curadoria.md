@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T13:12:44.133756+00:00
+Última coleta: 2026-11-15T13:22:43.298806+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1006
-  🇨🇳 China          866
+  🇨🇳 China          867
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  822
+  🇰🇷 Coreia do Sul  821
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links
   - [japan] [Breaking news] Ehime prefecture gubernatorial election exit poll results
   - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] [Breaking news] Matsuyama mayoral election exit poll results
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] GEOPOLITICS | Bessent and Lutnick Reportedly Differ on Nvidia Chip Curbs for China
   - [japan] Liberal Democratic Party House of Councilors Chairman Matsuyama consumption tax reduction bill “People and Kom
   - [japan] National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction
-  - [china] China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T13:12:44+00:00",
+      "published_utc": "2026-11-15T13:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
