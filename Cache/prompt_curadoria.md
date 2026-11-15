@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T04:52:44.396568+00:00
+Última coleta: 2026-11-15T05:02:44.437854+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1002
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [korea] The US Federal Reserve is even discussed as a ‘big step’… Will the Bank of Korea raise interest rates next wee
   - [japan] Abeno, Osaka: Voices of ``I want my hometown back''...Behind the scenes of ``revitalization due to inbound tou
   - [china] China e EUA discutem tarifas e comércio agrícola antes de encontro entre Xi e Trump
+  - [china] GEOPOLITICS | Bessent and Lutnick Reportedly Differ on Nvidia Chip Curbs for China
   - [japan] Liberal Democratic Party House of Councilors Chairman Matsuyama consumption tax reduction bill “People and Kom
   - [japan] National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction
   - [china] China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Defense budget, 60 trillion yen target, 5-year total, finance, defense offensive and defense Prime Minister Ta
   - [china] Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports
   - [japan] US Treasury bought nearly $500mn in yen during joint July forex intervention
-  - [china] EU’s fixation on Chinese subsidies masks its own structural stagnation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T04:52:44+00:00",
+      "published_utc": "2026-11-15T05:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
