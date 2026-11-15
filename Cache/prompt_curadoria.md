@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T15:32:43.333094+00:00
+Última coleta: 2026-11-15T15:42:45.142555+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1005
-  🇨🇳 China          867
-  🇹🇼 Taiwan         307
+  🇨🇳 China          866
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  821
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case
   - [japan] Over 63% skeptical about PM's tax cut to help fight inflation
   - [china] Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links
   - [japan] [Breaking news] Ehime prefecture gubernatorial election exit poll results
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Abeno, Osaka: Voices of ``I want my hometown back''...Behind the scenes of ``revitalization due to inbound tou
   - [korea] 85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil p
   - [china] China e EUA discutem tarifas e comércio agrícola antes de encontro entre Xi e Trump
-  - [china] GEOPOLITICS | Bessent and Lutnick Reportedly Differ on Nvidia Chip Curbs for China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T15:32:43+00:00",
+      "published_utc": "2026-11-15T15:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
