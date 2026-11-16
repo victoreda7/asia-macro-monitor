@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T02:42:52.051294+00:00
+Última coleta: 2026-11-16T02:52:49.851921+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1006
-  🇨🇳 China          874
-  🇹🇼 Taiwan         307
+  🇨🇳 China          875
+  🇹🇼 Taiwan         306
   🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
   - [taiwan] Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies
   - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
   - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
   - [japan] Japan rubber trades in tight range as weaker yen offsets lower oil
+  - [china] The first increase in the past five years! The foreign exchange deposit reserve ratio was increased from 4% to
   - [china] China's factory output grows but household spending remains subdued
   - [china] China's Home Price Decline Gathered Pace in October — Update
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk
   - [japan] CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARC
   - [japan] Japan's Q3 GDP dropped an annualized 0.1%
-  - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com
-  - [japan] Japan Q3 GDP Flat On Quarter
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T02:42:52+00:00",
+      "published_utc": "2026-11-16T02:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
