@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T12:35:32.286596+00:00
+Última coleta: 2026-11-16T12:42:49.351324+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data
   - [china] Kuang-Chi Technologies' Unit Signs 1.8 Billion Yuan Supply Framework Contract
   - [china] RMB deposit balance fell for two consecutive months in October. Central Bank: Concerned about the expected imp
+  - [japan] Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters
   - [japan] Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk
   - [japan] The nickname for the site of the former Bank of Japan Kanazawa branch is ``Machinowa Korinbo.'' A high school 
   - [china] Hungary tightens oversight of Chinese, South Korean battery plants
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Fitch Says US Rate Hikes Have Modest Impact On Taiwan Bills Finance Companies
   - [japan] Wages are quite strongly consistent with 2% inflation - Bank of Japan Governor = Economic and Fiscal Policy Co
   - [japan] Aisan Industry Co., Ltd. - To Buy Back Up To 4.7% Of Shares Worth 7 Billion Yen
-  - [china] China’s Economy Disappoints With New Stimulus Yet to Kick In
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T12:35:32+00:00",
+      "published_utc": "2026-11-16T12:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
