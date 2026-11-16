@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T09:42:56.789471+00:00",
- "collected_at_utc": "2026-11-16T09:42:56.789471+00:00",
+ "generated_at_utc": "2026-11-16T09:52:42.037615+00:00",
+ "collected_at_utc": "2026-11-16T09:52:42.037615+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1010,
+  "japan": 1011,
   "china": 873,
-  "taiwan": 301,
+  "taiwan": 300,
   "korea": 816
  },
- "elapsed_s": 33.9,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T18:04:13+09:00"
+   "newest": "2026-11-16T18:44:13+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:46:00+00:00"
+   "newest": "2026-11-16T09:04:16+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T03:48:00+00:00"
+   "newest": "2026-11-16T09:04:16+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T09:42:28+00:00"
+   "newest": "2026-11-16T09:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:58:00+00:00"
+   "newest": "2026-11-16T05:46:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261116001707:0-yen-likely-to-benefit-from-boj-interest-rate-rises-market-talk/",
+   "published_utc": "2026-11-16T09:43:00+00:00",
+   "title_original": "Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "94bb352934fbeb90"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -466,8 +484,8 @@
    "id": "3ed9904fb380ab70"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T08:46:19+00:00",
@@ -482,7 +500,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -604,24 +622,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ddd02cc4a182e90"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Japan's GDP growth rate in the third quarter was 0%. High inflation suppressed consumption and led to economic stagnation | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iOHl1czRaMUZKVzZkeTEyR3dxTlpyTjRHaTJ5V0xQVjNmNFczMXJydi1rajQwUUVoMl90elFjS040QlpMVU8zOVV2QVNxX1RJOUIwWG1SakJVZjRLU1Nz?oc=5",
-   "published_utc": "2026-11-16T07:58:00+00:00",
-   "title_original": "日本第3季GDP成長率0% 高通膨壓抑消費致經濟停滯| 國際",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e12e7967db9128cd"
   },
   {
    "source_id": "tradingview_live",
@@ -1560,23 +1560,6 @@
    "id": "c7fad8e07c8e867b"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261115001602:0-taiwan-s-taiex-extends-losses-as-chip-makers-weigh-market-talk/",
-   "published_utc": "2026-11-16T04:17:00+00:00",
-   "title_original": "Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1acfdc56e5b9d7e1"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Hong Kong exchange launches first offshore yuan bond index",
@@ -1971,6 +1954,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7a25ecddad9ea2ed"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Japan's GDP growth rate in the third quarter was 0%. High inflation suppressed consumption and led to economic stagnation | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iOHl1czRaMUZKVzZkeTEyR3dxTlpyTjRHaTJ5V0xQVjNmNFczMXJydi1rajQwUUVoMl90elFjS040QlpMVU8zOVV2QVNxX1RJOUIwWG1SakJVZjRLU1Nz?oc=5",
+   "published_utc": "2026-11-16T01:54:00+00:00",
+   "title_original": "日本第3季GDP成長率0% 高通膨壓抑消費致經濟停滯| 國際",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e12e7967db9128cd"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2677,8 +2678,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -2692,7 +2693,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4353,8 +4354,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -4368,7 +4369,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",

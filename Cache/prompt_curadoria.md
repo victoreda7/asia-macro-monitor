@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T09:42:56.789471+00:00
+Última coleta: 2026-11-16T09:52:42.037615+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1010
+  🇯🇵 Japão          1011
   🇨🇳 China          873
-  🇹🇼 Taiwan         301
+  🇹🇼 Taiwan         300
   🇰🇷 Coreia do Sul  816
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk
   - [china] Hungary tightens oversight of Chinese, South Korean battery plants
   - [china] Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps
   - [japan] Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hi
@@ -32,7 +33,6 @@ Total: 3000 manchetes
   - [china] China-ASEAN Summit China calls for promotion of cooperation in economic and trade fields
   - [japan] Highlights of the Outlook for Economic Activity and Prices (October 2026)
   - [japan] BOJ Current Account Balances by Sector (Oct.)
-  - [japan] Japan's GDP growth rate in the third quarter was 0%. High inflation suppressed consumption and led to economic
   - [japan] Japan Real Estate Investment: Rent growth lifts NOI and distributions as annual growth targets rise
   - [korea] HD Hyundai Marine Engine: Engine demand drove 62% revenue growth and a KRW 1,731bn order backlog
   - [korea] Kospi sees worst day in over a week as Nvidia woes, Anthropic IPO drain hit chipmakers
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T09:42:56+00:00",
+      "published_utc": "2026-11-16T09:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
