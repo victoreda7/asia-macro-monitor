@@ -1,18 +1,34 @@
 {
- "generated_at_utc": "2026-11-16T14:42:43.691711+00:00",
- "collected_at_utc": "2026-11-16T14:42:43.691711+00:00",
+ "generated_at_utc": "2026-11-16T14:48:46.043584+00:00",
+ "collected_at_utc": "2026-11-16T14:48:46.043584+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1009,
+  "japan": 1010,
   "china": 876,
   "taiwan": 304,
-  "korea": 811
+  "korea": 810
  },
  "elapsed_s": 29.5,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T14:21:25+00:00"
+   "newest": "2026-11-16T14:45:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T14:19:14+00:00"
+   "newest": "2026-11-16T14:42:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -174,22 +190,6 @@
    "newest": "2026-11-16T04:34:30+00:00"
   },
   {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-16T22:10:04+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-16T21:58:12+09:00"
-  },
-  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T14:41:57+00:00"
+   "newest": "2026-11-16T14:48:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:32:00+00:00"
+   "newest": "2026-11-16T10:31:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -345,6 +345,40 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Could Strengthen Versus Dollar by Year-End — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261116005842:0-yen-could-strengthen-versus-dollar-by-year-end-market-talk/",
+   "published_utc": "2026-11-16T14:44:00+00:00",
+   "title_original": "Yen Could Strengthen Versus Dollar by Year-End — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1db69db7689f70c1"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "US to curb China’s access to AI chips as Trump heads to Asia",
+   "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988",
+   "published_utc": "2026-11-16T14:42:42+00:00",
+   "title_original": "US to curb China’s access to AI chips as Trump heads to Asia",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba6bee99bdad76c2"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "Samsung plans to build satellite chips at Texas fab for SpaceX: report",
    "url": "https://www.tradingview.com/news/seekingalpha:684cfabe5094b:0-samsung-plans-to-build-satellite-chips-at-texas-fab-for-spacex-report/",
@@ -359,23 +393,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e72cba81ca9c70e9"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "US to curb China’s access to AI chips as Trump heads to Asia",
-   "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988",
-   "published_utc": "2026-11-16T14:19:14+00:00",
-   "title_original": "US to curb China’s access to AI chips as Trump heads to Asia",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ba6bee99bdad76c2"
   },
   {
    "source_id": "tradingview_live",
@@ -1381,23 +1398,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6381329ffa6c22e1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Kospi Falls for Third Straight Session; Chip Stocks Retreat",
-   "url": "https://www.tradingview.com/news/DJN_DN20261116000402_20261116000408:0-kospi-falls-for-third-straight-session-chip-stocks-retreat/",
-   "published_utc": "2026-11-16T06:34:00+00:00",
-   "title_original": "Kospi Falls for Third Straight Session; Chip Stocks Retreat",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e3432cb21fa90784"
   },
   {
    "source_id": "gn_kr_mk",
@@ -10124,7 +10124,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cNIBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSEVVbV9iRC14N0thNmdONzZnMll5NV9ZMHIzd1hCelkyZUM0Wjh1YjVLT0d5amZGNFNFWnVKM0hEZlFXSFl6eTNHNnZaSWZDUFJQV3c2OHRtZmNNaFA4M9IBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
    "published_utc": "2026-11-11T07:54:00+00:00",
    "title_original": "SC제일은행 \"내년 한국 경제 성장세 둔화…통화정책이 주요 변수\"",
    "region": "korea",
@@ -10137,7 +10137,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4d803028d7b814ba"
+   "id": "8214e57caaa25fcf"
   },
   {
    "source_id": "gn_kr_mk",
