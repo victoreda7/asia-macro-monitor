@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T06:02:51.832767+00:00
+Última coleta: 2026-11-16T06:12:48.266920+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1011
-  🇨🇳 China          877
+  🇨🇳 China          876
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  809
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hyundai Green Food: 9M earnings improved, while working-capital outflows and buybacks shaped cash deployment
   - [china] China's October retail sales ease to 0.4%, factory output slows to 4.8%, while jobless rate dips to 5.1%
+  - [taiwan] Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and
   - [japan] Japan’s economy contracts 0.1% annualized in Q3; September industrial output rebounds 2.0%
   - [taiwan] Interest rate hike in December? Yang Jinlong: Three key points need to be considered: inflation and lending po
   - [korea] Korea's wage, productivity gaps widen amid chip-led growth: KDI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Consumption Likely to Stay Sluggish Amid Inflation — Market Talk
   - [japan] Japan CPI-Indexed Bond: Lowest Price 96.00 To Yield 1.072%
   - [china] Hong Kong debuts offshore yuan bond index to promote RMB assets
-  - [japan] CORRECT: JAPAN Q3 GDP: EMPLOYEE COMP. +0.3% Q/Q VS. 1.1% IN Q2, +0.4% (CORRECTED FROM +1.4%) IN Q1, +0.6% IN Q
-  - [japan] CORRECTED: JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION +0.0 POINT (CORRECTED FROM -0.1 POINT); MEDIAN FORECAST
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T06:02:52+00:00",
+      "published_utc": "2026-11-16T06:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
