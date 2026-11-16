@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T15:02:57.752307+00:00
+Última coleta: 2026-11-16T15:12:44.286531+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why is SK hynix stock sliding today?
   - [japan] Yen Could Strengthen Versus Dollar by Year-End — Market Talk
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [korea] Samsung plans to build satellite chips at Texas fab for SpaceX: report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
   - [japan] Takada, a Bank of Japan council member, emphasizes the risk of price rises as a new phase accelerates the pace
   - [china] China-ASEAN Summit China calls for promotion of cooperation in economic and trade fields
-  - [japan] Highlights of the Outlook for Economic Activity and Prices (October 2026)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T15:02:57+00:00",
+      "published_utc": "2026-11-16T15:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
