@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T06:22:44.016568+00:00
+Última coleta: 2026-11-16T06:32:42.285129+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
-  🇨🇳 China          878
+  🇨🇳 China          877
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [japan] Net Protections Holdings, Inc. - To Buy Back Up To 3.5% Of Shares Worth 1.2 Billion Yen
+  - [korea] Benchmark rate for banks' mortgage loans continues to rise
+  - [japan] Asian markets mostly lower as weak Japan GDP, soft China data, and Nvidia caution weigh
   - [china] Asia stocks tumble as chipmakers slide and weak China data adds pressure
   - [korea] Hyundai Green Food: 9M earnings improved, while working-capital outflows and buybacks shaped cash deployment
   - [japan] Hawkish BOJ policymaker Takata calls for swift hike in rates to ’good’ position
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's $12 bln chip deal courts needless strife
   - [china] China's economy softens across the board as factory output, spending slow
   - [taiwan] AI giants shift decarbonization pressure upstream, testing Taiwan's chip supply chain
-  - [japan] Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic
-  - [japan] Japan Consumption Likely to Stay Sluggish Amid Inflation — Market Talk
-  - [japan] Japan CPI-Indexed Bond: Lowest Price 96.00 To Yield 1.072%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T06:22:44+00:00",
+      "published_utc": "2026-11-16T06:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
