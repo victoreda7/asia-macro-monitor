@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T07:02:51.286067+00:00",
- "collected_at_utc": "2026-11-16T07:02:51.286067+00:00",
+ "generated_at_utc": "2026-11-16T07:12:44.165057+00:00",
+ "collected_at_utc": "2026-11-16T07:12:44.165057+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1008,
-  "china": 878,
+  "japan": 1007,
+  "china": 877,
   "taiwan": 302,
-  "korea": 812
+  "korea": 814
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:49:00+00:00"
+   "newest": "2026-11-16T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:00:58+00:00"
+   "newest": "2026-11-16T05:02:17+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T02:00:00+00:00"
+   "newest": "2026-11-16T07:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T07:02:12+00:00"
+   "newest": "2026-11-16T07:11:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:40:00+00:00"
+   "newest": "2026-11-16T06:30:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-16T12:00:00+09:00"
+   "newest": "2026-11-16T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:45:50+00:00"
+   "newest": "2026-11-16T06:55:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Industrial Output Recovers Less Than Estimated",
+   "url": "https://www.tradingview.com/news/dpa_afx:e1a08fbc7677a:0-japan-industrial-output-recovers-less-than-estimated/",
+   "published_utc": "2026-11-16T07:07:03+00:00",
+   "title_original": "Japan Industrial Output Recovers Less Than Estimated",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ce6ade0e54617c40"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Resurgent Inflation to Drive More BOJ Rate Hikes — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261116000587:0-resurgent-inflation-to-drive-more-boj-rate-hikes-market-talk/",
+   "published_utc": "2026-11-16T07:04:00+00:00",
+   "title_original": "Resurgent Inflation to Drive More BOJ Rate Hikes — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d50c566a61123a37"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "SK Square: SK Hynix equity earnings drove 9M profit as shareholder returns and AI-led growth advanced",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4634555:0-sk-square-sk-hynix-equity-earnings-drove-9m-profit-as-shareholder-returns-and-ai-led-growth-advanced/",
+   "published_utc": "2026-11-16T07:01:58+00:00",
+   "title_original": "SK Square: SK Hynix equity earnings drove 9M profit as shareholder returns and AI-led growth advanced",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a06fbf56bc2a0fd0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -393,6 +445,40 @@
    "live_wire": true,
    "manual": false,
    "id": "e3432cb21fa90784"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The top 1% of stock investment returns bought SK Hynix, Samsung Electronics and Doosan the most in e..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoS2ZlSHMteGtTelhnYkFYUVVhbi1VU05BV0VWb2NYUFhHTC1sZktsc2xtZW1pbG1NbUszclZQYkgwY0stc2Z1MGJsdFhqNjA?oc=5",
+   "published_utc": "2026-11-16T06:33:24+00:00",
+   "title_original": "The top 1% of stock investment returns bought SK Hynix, Samsung Electronics and Doosan the most in e..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf3c1b96d62f4e84"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "It was found that the top 1% of stock investment returns bought the most semiconductor small-cap sto..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JQ2ZhN3JYTnVZQ05ZZWtoeUtucFlHTmx5SDFETXJjM3hLTG5kYm5KLVdrLTdiaEltYzlhQWtwQUJ3RHNtSzFDQ1pObkJaSHc?oc=5",
+   "published_utc": "2026-11-16T06:33:13+00:00",
+   "title_original": "It was found that the top 1% of stock investment returns bought the most semiconductor small-cap sto..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "afc5fd599def5abc"
   },
   {
    "source_id": "tradingview_live",
@@ -1261,23 +1347,6 @@
    "id": "c188e72355983ed0"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "CORRECTED: JAPAN Q3 GDP PRIVATE CONSUMPTION -0.3% (CORRECTED FROM-0.2%) Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION",
-   "url": "https://www.tradingview.com/news/macenews:1fa04b88a094b:0-corrected-japan-q3-gdp-private-consumption-0-3-corrected-from-0-2-q-q-vs-median-forecast-0-2-0-1-point-contribution/",
-   "published_utc": "2026-11-16T03:24:00+00:00",
-   "title_original": "CORRECTED: JAPAN Q3 GDP PRIVATE CONSUMPTION -0.3% (CORRECTED FROM-0.2%) Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f8c993ad23e218f5"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters",
@@ -1293,41 +1362,6 @@
    "live_wire": false,
    "manual": false,
    "id": "91db7e90660e1269"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "CORRECTED: JAPAN Q3 GDP NET EXPORTS CONTRIBUTION -0.6 PCT POINT (CORRECTED FROM +0.3 PCT POINT) (Q2 +0.5 POINT); MEDIAN FORECAST -0.4 PCT POINT",
-   "url": "https://www.tradingview.com/news/macenews:71d45ed25094b:0-corrected-japan-q3-gdp-net-exports-contribution-0-6-pct-point-corrected-from-0-3-pct-point-q2-0-5-point-median-forecast-0-4-pct-point/",
-   "published_utc": "2026-11-16T03:22:00+00:00",
-   "title_original": "CORRECTED: JAPAN Q3 GDP NET EXPORTS CONTRIBUTION -0.6 PCT POINT (CORRECTED FROM +0.3 PCT POINT) (Q2 +0.5 POINT); MEDIAN FORECAST -0.4 PCT POINT",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f5abe437842dd808"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MEDIAN FORECAST +0.4 POINT",
-   "url": "https://www.tradingview.com/news/macenews:ffceb96b5094b:0-corrected-japan-q3-gdp-domestic-demand-contribution-0-6-pct-corrected-from-0-8-point-q2-0-1-point-median-forecast-0-4-point/",
-   "published_utc": "2026-11-16T03:21:00+00:00",
-   "title_original": "CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MEDIAN FORECAST +0.4 POINT",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7aa3e02ea4c64885"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1556,23 +1590,6 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
-   "title_en": "Basic situation of national fixed asset investment from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVkVXekQ1SmUwLThvRFlnRmpOdnY0WXFVTmY3SGZzZTVuc0hEUTNDUEx0OHh3TTVwV2NIRGQyMVZEcEVrLWEwMU4yZE5QX0lTc2huTlNyWlhnRlMxel9JUGplZmwwZEd5OVJoTFZEVQ?oc=5",
-   "published_utc": "2026-11-16T02:00:00+00:00",
-   "title_original": "2026年1—10月份全国固定资产投资基本情况",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a25ecddad9ea2ed"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
    "title_en": "Basic situation of the national real estate market from January to October 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyUjkwelNKSmNnVHFMSzMxaXQ4Nm9xczViSWtONFlRVk9HZkpVc09VUXhXcGRLeEYxeGxJbTRaTVVSNE5kTEEtVVhJVnBSLUxHN3FkLTZVaFJVUDVsZEJUYnFTY2ZoSk5RaE16aU9XTQ?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
@@ -1586,6 +1603,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7219691bc88f8788"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Basic situation of national fixed asset investment from January to October 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVkVXekQ1SmUwLThvRFlnRmpOdnY0WXFVTmY3SGZzZTVuc0hEUTNDUEx0OHh3TTVwV2NIRGQyMVZEcEVrLWEwMU4yZE5QX0lTc2huTlNyWlhnRlMxel9JUGplZmwwZEd5OVJoTFZEVQ?oc=5",
+   "published_utc": "2026-11-16T02:00:00+00:00",
+   "title_original": "2026年1—10月份全国固定资产投资基本情况",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7a25ecddad9ea2ed"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3625,6 +3659,24 @@
    "id": "d2134ade3049a4b6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -5363,24 +5415,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -5714,7 +5748,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:52+00:00",
+   "published_utc": "2026-11-13T02:04:00+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -51872,40 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d0c2351114fd8070"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "PR Newswire",
-   "title_en": "Hyundai Mobis Accelerates Full-Cycle Collaboration as a \"K-Automotive Semiconductor Korea One Team\"",
-   "url": "https://www.tradingview.com/news/prnewswire:420034bed9e95:0-hyundai-mobis-accelerates-full-cycle-collaboration-as-a-k-automotive-semiconductor-korea-one-team/",
-   "published_utc": "2026-10-21T12:00:00+00:00",
-   "title_original": "Hyundai Mobis Accelerates Full-Cycle Collaboration as a \"K-Automotive Semiconductor Korea One Team\"",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6711e9e1a1294745"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China uses crude stockpiles, but rising oil imports may curtail draws: Russell",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46700Y:0-china-uses-crude-stockpiles-but-rising-oil-imports-may-curtail-draws-russell/",
-   "published_utc": "2026-10-21T12:00:00+00:00",
-   "title_original": "China uses crude stockpiles, but rising oil imports may curtail draws: Russell",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0655e950224ba5c5"
   },
   {
    "source_id": "manual_ia",

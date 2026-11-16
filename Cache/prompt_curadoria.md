@@ -7,19 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T07:02:51.286067+00:00
+Última coleta: 2026-11-16T07:12:44.165057+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1008
-  🇨🇳 China          878
+  🇯🇵 Japão          1007
+  🇨🇳 China          877
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  812
+  🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Industrial Output Recovers Less Than Estimated
+  - [japan] Resurgent Inflation to Drive More BOJ Rate Hikes — Market Talk
+  - [korea] SK Square: SK Hynix equity earnings drove 9M profit as shareholder returns and AI-led growth advanced
   - [china] Nvidia’s All-Important Q3 Report, China Tech Results, Anthropic IPO And Microsoft Ignite To Keep Investors Hoo
   - [korea] Samsung, SK hynix-linked ELS raises fear of further market volatility
   - [korea] Kospi Falls for Third Straight Session; Chip Stocks Retreat
+  - [korea] The top 1% of stock investment returns bought SK Hynix, Samsung Electronics and Doosan the most in e..
+  - [korea] It was found that the top 1% of stock investment returns bought the most semiconductor small-cap sto..
   - [japan] Net Protections Holdings, Inc. - To Buy Back Up To 3.5% Of Shares Worth 1.2 Billion Yen
   - [korea] Benchmark rate for banks' mortgage loans continues to rise
   - [japan] Asian markets mostly lower as weak Japan GDP, soft China data, and Nvidia caution weigh
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] China is accused of manipulating the iron ore trade and the Australian government is worried about the impact 
   - [korea] STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026
   - [taiwan] Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk
-  - [china] Hong Kong exchange launches first offshore yuan bond index
-  - [taiwan] Taiwan will take inflation and measures taken by other countries into account when setting interest rates
-  - [taiwan] Taiwan to consider inflation, other countries' moves when deciding interest rates
-  - [korea] A major semiconductor manufacturing base in South Korea is unveiled to help foster small and medium-sized ente
-  - [china] China Industrial Output Rises 4.8% On Year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T07:02:51+00:00",
+      "published_utc": "2026-11-16T07:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
