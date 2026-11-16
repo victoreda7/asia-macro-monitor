@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T05:02:44.817614+00:00
+Última coleta: 2026-11-16T05:12:44.854793+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1009
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Hawkish BOJ Member Urges Nimble Rate Hikes
   - [japan] BOJ’s Takata calls for swift hike in rates to ’good’ position
   - [japan] Dollar extends gains, yen looks past soft Japan GDP data
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's new home prices fall again in October; slowest annual decline in almost a year
   - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
   - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
-  - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T05:02:45+00:00",
+      "published_utc": "2026-11-16T05:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
