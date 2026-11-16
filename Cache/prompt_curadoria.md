@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T12:52:44.328041+00:00
+Última coleta: 2026-11-16T13:02:57.761475+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1010
+  🇯🇵 Japão          1011
   🇨🇳 China          875
-  🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  813
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Councilor Takada: “Move to a good position: Flexible interest rate hikes”
   - [china] Alibaba details new AI safeguards as Chinese developers step up test disclosures
   - [japan] Japan Real Estate Investment: Strong leasing and higher distributions offset rate, refinancing and acquisition
   - [korea] Coatue Management Raises Stake In Meta, Reports Stake in SK Hynix - SEC Filing
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock price: Closing price below 60,000 yen; sell orders spread mainly among semiconductor-related stocks
   - [taiwan] Fitch Says US Rate Hikes Have Modest Impact On Taiwan Bills Finance Companies
   - [japan] Wages are quite strongly consistent with 2% inflation - Bank of Japan Governor = Economic and Fiscal Policy Co
-  - [japan] Aisan Industry Co., Ltd. - To Buy Back Up To 4.7% Of Shares Worth 7 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T12:52:44+00:00",
+      "published_utc": "2026-11-16T13:02:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
