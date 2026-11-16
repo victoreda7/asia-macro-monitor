@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T15:52:43.652135+00:00
+Última coleta: 2026-11-16T16:05:29.684654+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
-  🇨🇳 China          875
+  🇯🇵 Japão          1009
+  🇨🇳 China          877
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [china] US blocks China's indirect access to American AI chips
+  - [china] No chips for you: US issues rule to stymie China's access to AI GPUs via data centers
   - [japan] Nomura Real Estate to acquire 8 MW of energy storage in Japan
   - [korea] Micron, SK hynix, and Sandisk shares plummet, what you need to know
   - [korea] Why is SK hynix stock sliding today?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million
   - [korea] Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus
   - [korea] Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in
-  - [japan] Yen Expected to Strengthen in 2027 Due to Supportive Policies — Market Talk
-  - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T15:52:43+00:00",
+      "published_utc": "2026-11-16T16:05:29+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
