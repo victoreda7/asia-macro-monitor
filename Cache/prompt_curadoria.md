@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T00:32:43.555191+00:00
+Última coleta: 2026-11-16T00:45:31.175227+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1012
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] BOJ Still Poised to Tighten Despite Sluggish Economic Growth — Market Talk
   - [korea] Future Fund 'fiscal paradigm shift' for strategic investment: policy report
+  - [japan] Japan’s economy unexpectedly shrinks in July-September as consumption falters
   - [japan] JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk
   - [japan] CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARC
   - [japan] Japan's Q3 GDP dropped an annualized 0.1%
@@ -38,7 +39,6 @@ Total: 3000 manchetes
   - [japan] JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q
   - [japan] JAPAN Q3 GDP: EMPLOYEE COMPENSATION IN REAL TERMS +2.4% Q/Q VS. +2.5% IN Q2, +1.4% IN Q1, +0.6% IN Q4
   - [korea] Korea makes world-class memory chips. Can its suppliers catch up?
-  - [japan] Japan's economy unexpectedly shrinks in July-September as consumption falters
   - [japan] JAPAN Q3 GDP PRIVATE CONSUMPTION -0.2% Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION
   - [japan] JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION
   - [japan] JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION -0.1 POINT; MEDIAN FORECAST +0.1 POINT
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T00:32:43+00:00",
+      "published_utc": "2026-11-16T00:45:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
