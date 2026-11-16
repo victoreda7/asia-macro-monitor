@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T17:42:43.072949+00:00
+Última coleta: 2026-11-16T17:52:43.267795+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1012
-  🇨🇳 China          878
+  🇨🇳 China          877
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  806
+  🇰🇷 Coreia do Sul  807
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads
   - [japan] Japan eyes two-pronged approach to cover tax cut, growth investments
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US blocks China's indirect access to American AI chips
@@ -36,8 +37,8 @@ Total: 3000 manchetes
   - [japan] Japan Real Estate Investment: Strong leasing and higher distributions offset rate, refinancing and acquisition
   - [korea] Coatue Management Raises Stake In Meta, Reports Stake in SK Hynix - SEC Filing
   - [japan] Negotiations resume between national and local governments, aiming to settle financial burden ratio of support
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone By Investing.com
+  - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone
   - [japan] Dollar extends rally, yen looks past soft Japan GDP data
   - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Hungary tightens oversight of Chinese, South Korean battery plants
   - [china] Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps
   - [japan] Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hi
-  - [japan] Former Bank of Japan branch will be nicknamed ``Machinowa Korinbo'' by Kanazawa City, starting in May next yea
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T17:42:43+00:00",
+      "published_utc": "2026-11-16T17:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
