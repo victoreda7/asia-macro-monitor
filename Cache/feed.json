@@ -1,21 +1,21 @@
 {
- "generated_at_utc": "2026-11-16T19:46:01.960559+00:00",
- "collected_at_utc": "2026-11-16T19:46:01.960559+00:00",
+ "generated_at_utc": "2026-11-16T19:55:50.337063+00:00",
+ "collected_at_utc": "2026-11-16T19:55:50.337063+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1013,
-  "china": 878,
-  "taiwan": 303,
-  "korea": 806
+  "japan": 1032,
+  "china": 871,
+  "taiwan": 301,
+  "korea": 796
  },
- "elapsed_s": 228.0,
+ "elapsed_s": 239.5,
  "sources": [
   {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
    "ok": false,
    "count": 0,
    "error": "sem resposta",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T17:17:39+00:00"
+   "newest": "2026-11-16T19:33:04+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T19:25:42+00:00"
+   "newest": "2026-11-16T19:43:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T19:19:22+00:00"
+   "newest": "2026-11-16T19:42:28+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -158,12 +158,12 @@
    "newest": "2026-11-16T11:11:17+00:00"
   },
   {
-   "source_id": "gn_jp_mof",
+   "source_id": "mof_jp",
    "name": "MOF Japan",
-   "ok": false,
-   "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-16T15:30:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -214,14 +214,6 @@
    "newest": "2026-11-16T02:25:49+00:00"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-16T18:08:56+00:00"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "name": "Reuters Japan",
    "ok": true,
@@ -243,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T17:00:10+00:00"
+   "newest": "2026-11-16T19:49:51+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -252,6 +244,14 @@
    "count": 50,
    "error": "",
    "newest": "2026-11-16T19:26:22+00:00"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-16T17:43:58+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -331,13 +331,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T11:59:45+00:00"
+   "newest": "2026-11-16T08:38:55+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-16T07:03:59+00:00"
   }
@@ -2035,6 +2035,24 @@
    "id": "a56940549e597549"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 10-Year Inflation-Indexed JGBs on November 16, 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261116.htm",
+   "published_utc": "2026-11-16T03:35:00+00:00",
+   "title_original": "Auction Result of 10-Year Inflation-Indexed JGBs on November 16, 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "73583fe4d7ae4682"
+  },
+  {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Japan's Q3 real GDP shrinks 0.1 pct",
@@ -2604,6 +2622,23 @@
    "id": "985c7f082eb457a2"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Interest Rate (November 13 2026)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/jgbcme.csv",
+   "published_utc": "2026-11-16T00:30:00+00:00",
+   "title_original": "Interest Rate (November 13 2026)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5049ce729c777ac4"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Future Fund 'fiscal paradigm shift' for strategic investment: policy report",
@@ -2996,6 +3031,23 @@
    "live_wire": true,
    "manual": false,
    "id": "094bd0ee12234042"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "LS Securities maintained its target stock price at 2.4 million won on the 16th, saying that SK Hynix..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YaXFGQ0JlaXBfZjFTWFBqeXdGR2lPVk4yV0M1MmZxTTRWQW5aOXB2dXE2Y0NNMmlLcmM3Y2Q0cWcxRV9qQ1BrNnRqbmZvVGs?oc=5",
+   "published_utc": "2026-11-15T23:08:10+00:00",
+   "title_original": "LS Securities maintained its target stock price at 2.4 million won on the 16th, saying that SK Hynix..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "de8dba30e6b9f99c"
   },
   {
    "source_id": "nikkei_asia",
@@ -3533,6 +3585,24 @@
    "id": "6f7e7d999a55e883"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-15T06:23:25+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
@@ -3894,43 +3964,6 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-14T19:58:07+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-14T18:27:55+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4503,24 +4536,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6261,6 +6276,24 @@
    "id": "1516b591619cc878"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -6484,6 +6517,25 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-13T02:28:08+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8298,6 +8350,23 @@
    "id": "51b5d72fb2fa80f4"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 5-Year JGBs on November 12, 2026 (For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261112a.htm",
+   "published_utc": "2026-11-12T06:15:00+00:00",
+   "title_original": "Auction Result of 5-Year JGBs on November 12, 2026 (For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a078131baa013f6d"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "China chip stocks rally as U.S. weighs curbs on remote AI access",
@@ -8521,6 +8590,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e505ce80b09f4ccd"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 5-Year JGBs on November 12, 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261112.htm",
+   "published_utc": "2026-11-12T03:35:00+00:00",
+   "title_original": "Auction Result of 5-Year JGBs on November 12, 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e26c0ab5a33df343"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9307,6 +9393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2f2f256936fc72e7"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
+   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+   "published_utc": "2026-11-11T23:50:00+00:00",
+   "title_original": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4dd1bb53a4b0f5b"
   },
   {
    "source_id": "boj_whatsnew",
@@ -11274,6 +11377,23 @@
    "id": "5fe0d92ac267906a"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 20-year JGBs to Be Issued in November 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261111e.htm",
+   "published_utc": "2026-11-11T01:30:00+00:00",
+   "title_original": "Announcement of 20-year JGBs to Be Issued in November 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "52c39af482dc7fc8"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank launched a 187 billion yuan overnight reverse repurchase operation on November 11",
@@ -13090,6 +13210,23 @@
    "id": "3f10e2fdaa9c7335"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 30-Year JGBs on November 10, 2026 (For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261110a.htm",
+   "published_utc": "2026-11-10T06:15:00+00:00",
+   "title_original": "Auction Result of 30-Year JGBs on November 10, 2026 (For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5a13afbae41295bd"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "TSMC Oct revenue jumps 60% as AI-fueled demand remains strong",
@@ -13335,6 +13472,23 @@
    "id": "ad67c57088768955"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Central Government Debt(As of September 30, 2026)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/reference/gbb/e202609.html",
+   "published_utc": "2026-11-10T05:00:00+00:00",
+   "title_original": "Central Government Debt(As of September 30, 2026)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ee656a1f3749394"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Machine Tool Association: Exports of complete machines remain flat and key components continue to grow | Industrial Economics",
@@ -13574,6 +13728,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0307973d10710aa6"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 30-Year JGBs on November 10, 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261110.htm",
+   "published_utc": "2026-11-10T03:35:00+00:00",
+   "title_original": "Auction Result of 30-Year JGBs on November 10, 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9a5a4f1c666db944"
   },
   {
    "source_id": "gn_tw_cna",
@@ -14354,6 +14525,23 @@
    "id": "b35fc32d71a7d419"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "International Transactions in Securities (Monthly ; based on reports from designated major investors)",
+   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/monthEng.pdf",
+   "published_utc": "2026-11-09T23:50:00+00:00",
+   "title_original": "International Transactions in Securities (Monthly ; based on reports from designated major investors)",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6f8ee31b7a42adaa"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
@@ -14370,6 +14558,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d990de56b0817522"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Trade Statistics (First 20 Days of October 2026 [Provisional])",
+   "url": "https://www.mof.go.jp/outside_link/20261109104912.html",
+   "published_utc": "2026-11-09T23:50:00+00:00",
+   "title_original": "Trade Statistics (First 20 Days of October 2026 [Provisional])",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0f8ea52e2821cd6"
   },
   {
    "source_id": "gn_kr_bok",
@@ -16823,6 +17028,24 @@
    "id": "34cbbc470a94ebc1"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 10-year Inflation-Indexed JGBs to Be Issued in November 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261109e.htm",
+   "published_utc": "2026-11-09T01:30:00+00:00",
+   "title_original": "Announcement of 10-year Inflation-Indexed JGBs to Be Issued in November 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1a6fa5b9fb767981"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "Citi: “Despite the decline in stock prices, we will raise the base interest rate this month… If the semiconductor industry plummets, we will ‘pivot’ next year.”",
@@ -17082,6 +17305,40 @@
    "live_wire": false,
    "manual": false,
    "id": "fbc2016eb25aca41"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "International Reserves/Foreign Currency Liquidity (as of the end of October 2026)",
+   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/official_reserve_assets/e0810.html",
+   "published_utc": "2026-11-08T23:50:00+00:00",
+   "title_original": "International Reserves/Foreign Currency Liquidity (as of the end of October 2026)",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22c9716407ac5d03"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Foreign Exchange Intervention Operations (July – September 2026)",
+   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/feio/quarter/2026_3Qe.html",
+   "published_utc": "2026-11-08T23:50:00+00:00",
+   "title_original": "Foreign Exchange Intervention Operations (July – September 2026)",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "793849d9f7b1c0dc"
   },
   {
    "source_id": "boj_whatsnew",
@@ -18691,6 +18948,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3c6e3cfe72354f0e"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Japan Customs and the Dutch Customs Exchange a Cooperation Document to Strengthen Bilateral Cooperation",
+   "url": "https://www.mof.go.jp/english/policy/customs_tariff/information/ka20261106_e.html",
+   "published_utc": "2026-11-06T11:45:00+00:00",
+   "title_original": "Japan Customs and the Dutch Customs Exchange a Cooperation Document to Strengthen Bilateral Cooperation",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fbb9b350ba018c21"
   },
   {
    "source_id": "gn_kr_ked",
@@ -22523,6 +22797,23 @@
    "id": "e4c96dd5e5443eee"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 10-Year JGBs on November 5, 2026 (For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261105a.htm",
+   "published_utc": "2026-11-05T06:15:00+00:00",
+   "title_original": "Auction Result of 10-Year JGBs on November 5, 2026 (For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2274d92c56afefd"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Mulls Dollar, Offshore Yuan Sovereign Bond Sale This Month",
@@ -22817,6 +23108,23 @@
    "live_wire": false,
    "manual": false,
    "id": "55f928328065238e"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 10-Year JGBs on November 5, 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261105.htm",
+   "published_utc": "2026-11-05T03:35:00+00:00",
+   "title_original": "Auction Result of 10-Year JGBs on November 5, 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3dbb93b37481af2d"
   },
   {
    "source_id": "nhk_economy",
@@ -23236,6 +23544,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c069d3784d429415"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 5-year JGBs to Be Issued in November 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261105e.htm",
+   "published_utc": "2026-11-05T01:30:00+00:00",
+   "title_original": "Announcement of 5-year JGBs to Be Issued in November 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "63cbaa428905d1c9"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -29855,6 +30180,23 @@
    "id": "e427ff208579ab20"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 5-year Climate Transition JGBs on November 2, 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261102.htm",
+   "published_utc": "2026-11-02T03:35:00+00:00",
+   "title_original": "Auction Result of 5-year Climate Transition JGBs on November 2, 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "241f42885c6666fe"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "South Korea’s manufacturing PMI slows to 8-month low in October",
@@ -30221,6 +30563,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1946553e4f8f0b7b"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 30-year JGBs to Be Issued in November 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261102e.htm",
+   "published_utc": "2026-11-02T01:30:00+00:00",
+   "title_original": "Announcement of 30-year JGBs to Be Issued in November 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4640b3bd42bf29a0"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -33624,6 +33983,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0b851788fe56129f"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Foreign Exchange Intervention Operations (September 29, 2026 – October 28, 2026)",
+   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/feio/monthly/20261030e.html",
+   "published_utc": "2026-10-30T10:00:00+00:00",
+   "title_original": "Foreign Exchange Intervention Operations (September 29, 2026 – October 28, 2026)",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6103199b107876e"
   },
   {
    "source_id": "tradingview_live",
@@ -37811,6 +38187,23 @@
    "id": "289148739c49855e"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "JGB Monthly Newsletter (October 2026)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/publication/newsletter/jgb2026_10e.pdf",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "title_original": "JGB Monthly Newsletter (October 2026)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "252d591a4e32dd9f"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "파이낸셜뉴스",
    "title_en": "The Bank of Korea's first base interest rate decision for next year will be on January 14th.",
@@ -37932,6 +38325,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8cb3252a661cb36d"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 2-Year JGBs on October 29, 2026 (For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261029a.htm",
+   "published_utc": "2026-10-29T06:15:00+00:00",
+   "title_original": "Auction Result of 2-Year JGBs on October 29, 2026 (For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dfda43c16fdc9891"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -38250,6 +38660,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e3a831c043b3a5ae"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 2-Year JGBs on October 29, 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261029.htm",
+   "published_utc": "2026-10-29T03:35:00+00:00",
+   "title_original": "Auction Result of 2-Year JGBs on October 29, 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1e6fa421ccdc41bb"
   },
   {
    "source_id": "investing_live",
@@ -38586,23 +39013,6 @@
    "id": "c89c31fa5cfc98dd"
   },
   {
-   "source_id": "gn_jp_mof",
-   "source_name": "財務省",
-   "title_en": "What's New October, 2026 : Ministry of Finance",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
-   "published_utc": "2026-10-29T02:14:31+00:00",
-   "title_original": "What's New October, 2026 : Ministry of Finance",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "816a8b781a3d4bd5"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Why is Samsung Electronics stock sliding today?",
@@ -38707,6 +39117,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f646667b10266f0d"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 10-year JGBs to Be Issued in November 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261029e.htm",
+   "published_utc": "2026-10-29T01:30:00+00:00",
+   "title_original": "Announcement of 10-year JGBs to Be Issued in November 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2c93767988743dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -38997,6 +39424,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8a5d626f82ec07a5"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Trade Statistics (First 10 Days of October 2026 [Provisional])",
+   "url": "https://www.mof.go.jp/outside_link/20261028122602.html",
+   "published_utc": "2026-10-28T23:50:00+00:00",
+   "title_original": "Trade Statistics (First 10 Days of October 2026 [Provisional])",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9384a6e8f64cca0f"
   },
   {
    "source_id": "tradingview_live",
@@ -42517,6 +42961,23 @@
    "id": "aa217bd484c9cb8c"
   },
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Decision to Impose Definitive Anti-Dumping Duties on Nickel-added cold-rolled stainless steel coil, sheet and strip originating in or exported from the People’s Republic of China and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu",
+   "url": "https://www.mof.go.jp/english/policy/customs_tariff/traderemedy/20261027_e.html",
+   "published_utc": "2026-10-27T06:00:00+00:00",
+   "title_original": "Decision to Impose Definitive Anti-Dumping Duties on Nickel-added cold-rolled stainless steel coil, sheet and strip originating in or exported from the People’s Republic of China and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4ce6e0bbfb28a162"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Korea should save chip boom windfall for downturns: IDB economist",
@@ -42881,6 +43342,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8d79b8c1267b6cc8"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Result of Liquidity Enhancement Auction on October 27, 2026(For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261027.htm",
+   "published_utc": "2026-10-27T03:35:00+00:00",
+   "title_original": "Result of Liquidity Enhancement Auction on October 27, 2026(For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bd2af418e260f658"
   },
   {
    "source_id": "gn_kr_bok",
@@ -45605,6 +46083,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a10f3d9e4c85cd08"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 5-year Climate Transition JGBs to Be Issued in November 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261026e.htm",
+   "published_utc": "2026-10-26T01:30:00+00:00",
+   "title_original": "Announcement of 5-year Climate Transition JGBs to Be Issued in November 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8b21f2e55c3ca1aa"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51403,505 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1889682c9bf176d6"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "BOK pauses rate hikes, but signals more may come",
-   "url": "https://www.koreaherald.com/article/10911589",
-   "published_utc": "2026-10-22T06:14:02+00:00",
-   "title_original": "BOK pauses rate hikes, but signals more may come",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "27347a4a372c4b12"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Singapore Dollar Gains on Yen as Carry Funder, Analysts Say",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQktUelFYbk5qWWE1YmlCelJfcHFnZlJzX01JZEJ6YWhCYWlNRjYxMUJQa3pkTDBiNUItbDRnSEROREE5NEhTcHFHV0ZhQkRsRHpqZElGd1Z6ZG9HNGhaWmlEYm9lc1VIMDBOOGZqa0I1VFg3ZTBFNWg0bHRyRmNYV0l4cS0wMUtEemVOSGJQbm5uZVJWZEJNd3d2UFBhYjl1VUNORjR4NDN4Wl9uTFE?oc=5",
-   "published_utc": "2026-10-22T06:14:00+00:00",
-   "title_original": "Singapore Dollar Gains on Yen as Carry Funder, Analysts Say",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "74a0098f8238c451"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMXlFU3FvdEtaU3AxTmhWTm5iUHV1R1pLeWhhM3JFR0FUSm9ua3pod2x4WUdUWHZXMW5Mc1FaY0RMakFzNkN3akV5OE0tODVVRHp4QWlMS0ZiUTg3NkhuODdNVkdkR3RHRGh0Mkhaa2QzNl9aUEl0bVlvSWRoTjJfTnhxeEVpU0pzbE5lcjFUS0R5b2xTSTB2ZkdGX1VtcUxyOTRhejdLWmxVUmRFTElxV01JZXUtaUZWb2s1cTNlM1hyZ1ltUF82NkxVV3RZdw?oc=5",
-   "published_utc": "2026-10-22T06:12:00+00:00",
-   "title_original": "COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "36457313463330e2"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Yang Jinlong was faked and opened Threads. The central bank clarified and urged the public not to believe it | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Scm4xeUFVaExXUVJ3WE5GazVVTklvMTk5V3J5Vkx3T21fUzBieDhmekk1cFlxNHlxY2N1bzh3NGREX0R4WlNQUHRZOEgxYWtqTUFSYWlUQ0M1SW5Ha3c?oc=5",
-   "published_utc": "2026-10-22T05:58:00+00:00",
-   "title_original": "楊金龍遭冒名開Threads 央行澄清籲民眾勿輕信| 產經",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2a7a71bc3963c2bb"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "K-beauty stocks stumble as strong won squeezes profits",
-   "url": "https://www.koreaherald.com/article/10911515",
-   "published_utc": "2026-10-22T05:49:01+00:00",
-   "title_original": "K-beauty stocks stumble as strong won squeezes profits",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ea187d83a2de943"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan's trade deficit nearly doubles in Apr.-Sep.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iTkpSWjhXcWxDeGZUYXVWeUJuZ2JTdFlfdXJPSkM5UFk2TV96RzJaYlRjS3A4dDlQR25iRVFnTG93a2p0LVhOc2pQbUZJeFJzUUYtaHo5YVVTLXNjOWkxN2I3QQ?oc=5",
-   "published_utc": "2026-10-22T05:31:01+00:00",
-   "title_original": "Japan's trade deficit nearly doubles in Apr.-Sep.",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1633ec5dca1f0608"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui DS Asset Management Chief Market Strategist] (THE GOLD ONLINE)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNUFnUWlkZUc3cElyWFFaV2ptNmNiOFJvQm85SkNHQzltZjBTOV9Ra09JVGRnTmVTLTdramVjdmlOejFqNlpveW5pQU5rQS1ON0JfZmMwMHNKQ0llQ3JHX1o0MkVpenpERGx1NktaRVNVUUdJZ085dE5DTk9Rdms?oc=5",
-   "published_utc": "2026-10-22T05:12:15+00:00",
-   "title_original": "2026年10月日銀政策会合プレビュー～今回の注目点を整理する【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f1034c71bbfb07fa"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Nvidia taps Korean component makers for AI chips, robots",
-   "url": "https://www.koreaherald.com/article/10911360",
-   "published_utc": "2026-10-22T04:22:51+00:00",
-   "title_original": "Nvidia taps Korean component makers for AI chips, robots",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "48431fe77fdd5302"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Bank of Korea holds rates, upbeat outlook points to future hikes",
-   "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-after-backtoback-hikes-4964499",
-   "published_utc": "2026-10-22T04:18:25+00:00",
-   "title_original": "Bank of Korea holds rates, upbeat outlook points to future hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e841288bedeb8aa8"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China bets on manufactured water, and wants to sell it to the world",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlRzeXJnMmVqekhrX0hhd08zVlRHbFFNSVp4cnNVdzRRdFg3WHNDbjU4LWdCbWt0Nmc2bmFQWGxNME1uWVVLMlMyUjdNaWlwbElJUTJKTG1KcXBfZlNDMm5NN2liZDhYRXdQUnNxN3dzTVJ1eFBHY0QzRFRVc2s2VHZwbC05VktuR0tEYVhCRDB2cjJIdTlHekJWRlFuT2Uwd1BPMFcxN004QQ?oc=5",
-   "published_utc": "2026-10-22T04:09:35+00:00",
-   "title_original": "China bets on manufactured water, and wants to sell it to the world",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce6c4f6f445d3ff3"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank plans to switch to overnight reverse repos! Dividend low-volatility ETF Huatai-PineBridge (512890) led the category with a transaction volume of 458 million yuan",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2hpVjFpMGFhdlZmejNidW1wV2d6TzRtZzZOamlqTkhEY19fNDdYNl9ZbEZmNTc3NjE2cEk3c0MwUTlRQVJPcUdFalVTdXZsQjliS0U5MDdYamc3R3dUa29XZ0xGUVRBMDV6UWNaZXpPNk5jeWFuNzNRZDBCako1a2N1THNJS1BPNHNmWg?oc=5",
-   "published_utc": "2026-10-22T04:04:08+00:00",
-   "title_original": "央行拟切换隔夜逆回购！红利低波ETF华泰柏瑞（512890）成交4.58亿元领跑同类",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f91944309a47288a"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks slide as AI doubts deepen, Korean chips fall",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmZhZDdjM2h3MWlmZExXcE1JcFhiX1dqSmJkUWJ2OC1QNFo4T1gxZzlXTEtTTWtjNElnM0dFNFotQjFyUk9wUTRtTGtIY1VzQzhmUlo5QXppMGFQYzFpY25uMVpmbU53XzByMEstNTl0RW9ieXloRjVzemgzbGVONW5NZjd2RjFJUngzVTJMTkZLbHhnOFU1NHNzWWpTcEJtSXlQWkVRc2pram5YMG1r?oc=5",
-   "published_utc": "2026-10-22T04:02:47+00:00",
-   "title_original": "Asia stocks slide as AI doubts deepen, Korean chips fall",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "db67ef6a0214c746"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks slide as AI jitters hit Korean chipmakers",
-   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-hit-korean-chipmakers-4964599",
-   "published_utc": "2026-10-22T03:55:43+00:00",
-   "title_original": "Asia stocks slide as AI jitters hit Korean chipmakers",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6d9d439c8ec5d2e5"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Hong Kong stocks fall most in 7 months as chance of strong stimulus shrinks",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjd4bzZJdTNZb3FyaENKbERoTjl4X1pkbWJha2dyZWpnYmdYNDIwTUZTYTcycWlMeTBTcXVIbHZud3paZnF2LTdoS0tHRHVRblN6N0tLTGtFZWV4UGEtamVTNXlHN1V1cTByZlExdHRRNnZkOV9UTmlZUlV2TUhYcndhdU1KeWVOVlp5Q01CMlRDcFhMb29fLXFPQTBKZThHcUwtT3luTWMySjhsZGFVX1VfcnJkbGFNaDQzVGQtNWFvUm5xVVBXM25GWDRld9IBzgFBVV95cUxQdlZRVWNGLVZZdGFZUURFdktjTlZNY1ZieVNIS0VDSU5FSDYyOFE1d1B4dVZjbUh1OC1QT2ZjbUMteFhid1gxeTc5QXpiajFsYkU5ZlFFNjdnQmRON3N5Q3JEOERrODJNNHo4b1dmOFc3bmRXTWo2NDlZdUMzd0tfemlwWldBSW5EUnpoYnY2U2FySm1GZE9NNjZqUXR1ZTlfWUZNMldPMlJxQW8xNHE3d1JuNE8yRE9NVXhTT2plVzRSX005eFN4SzlEU0tsUQ?oc=5",
-   "published_utc": "2026-10-22T03:16:00+00:00",
-   "title_original": "Hong Kong stocks fall most in 7 months as chance of strong stimulus shrinks",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f70bb4d0d61dc0b8"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) BOK expects inflation to approach target level in 2028: Gov. Shin",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42SmJzWnVOb1h2UUxPVm43V3lsME5vSzk4ZmRGMlhpMDlSX2FCWUtmbTlPYUFkYU9CSDN6eXQyby1KanJfbmxFeXFudFRSWHlCRDFYMjlOQnY5dw?oc=5",
-   "published_utc": "2026-10-22T03:09:43+00:00",
-   "title_original": "(URGENT) BOK expects inflation to approach target level in 2028: Gov. Shin",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8a37e047d11aac2"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
-   "published_utc": "2026-10-22T03:01:14+00:00",
-   "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c5865e4da1f5c503"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHNpRXkxajhrcGNicmxVd0FCTU10MjZLSVhVaUc1ejFvOXRFanBYRlI0eHNrU0dlbDEwb1JfTzNjRlFIcnBiN2IxTDFWRTdmRzBHdGJZYkRXMDlvdng4Y2U3VXBKY1FLT2lwc242OGhiZk01cTZIYzZSUzJRMFNObl9GaEtpaS05ZWNUSVRIT0kza0k?oc=5",
-   "published_utc": "2026-10-22T02:51:22+00:00",
-   "title_original": "Exclusive: Apple raises iPhone Duo shipment target 44% on strong preorders",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2763f2549f0a91cc"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: China snaps up Australian canola as improved ties, lower tariffs fuel demand",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFkyb3c2MngteVdVR1Q2S2RGMmE2a0d5NEMwazZvUEFySDlIY01nbU5waHVUSXYzMURzS0xucm1VUkc0NVNZNDA5QjFFdmtxSDFRenBGWS1jZnV0M1l2VUhXTjRqTnBRZXJ5aDRrbWJ1WUNCck15cEZKMzQwalkwblVoSzBzNmdJMVdKVjg3WVh5aGNiUGExQU41dGQ2VHFjNGIwT0xqNlJJYlpTY3ktNlZwcGhrTVRZRUdEOU8xbmhyQkhVeW1rN0hVQXlPUGZ3YkFN?oc=5",
-   "published_utc": "2026-10-22T02:48:00+00:00",
-   "title_original": "EXCLUSIVE: China snaps up Australian canola as improved ties, lower tariffs fuel demand",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3cf9b35dd6ff65d3"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFBYZ1dqLXJ5X3BsNjR4dFlsY2VrX0VPN1AxZ0VEaE96UlhKSjVOUEtFa2NWUGEyN0VDRnNfODdhaFdJdjl5LUctbDkwaWNPRWJwRldrU0h4d3dXOTZEaVpqcjI1QW5YSldxVllQc2Mxc25kLUlOclFaWXY5S2hNVUdYY0Z6ekhHUnItWjFudlpmLUxQOGc3SzJ4N0lFb0VFdlVVV1JCY2Y5dy1Q?oc=5",
-   "published_utc": "2026-10-22T02:47:59+00:00",
-   "title_original": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "12df48a92ffb874e"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung E&A recorded an operating profit of KRW 5006 billion in the third quarter of this year.",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0WmVOckljQ2lJUVBpVXpOcGV4TTVjdkUzLTNtS2Y5V2Z2Q1h6OC1FX2I2QnJEcXBncHY0WHhvNmlXNUZxT2hLT3h2bjVwMlU?oc=5",
-   "published_utc": "2026-10-22T02:39:28+00:00",
-   "title_original": "Samsung E&A recorded an operating profit of KRW 5006 billion in the third quarter of this year.",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8c09b1bfa5342a5"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) BOK Gov. Shin Hyun-song stresses need for monetary tightening",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KTGNJU0JuSnJtemVfUFNObHBYYWdkZ0xtaGVKRmpnXzNSeThYbGVGcDRlOHpsUDZFQjV0Si1sQWZvWFNhQ0pja1ZuNGhWX0V5cHNUR1Ywa3NWQQ?oc=5",
-   "published_utc": "2026-10-22T02:27:10+00:00",
-   "title_original": "(URGENT) BOK Gov. Shin Hyun-song stresses need for monetary tightening",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "58c09a79606c3e1d"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen set for biggest rally in a month as investors seek safe havens By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXJlUjhBbEQzV0R4OWZfOTMwNUNTRTVRZ2VibUxjN1RFOVp0QXJDbDIxZkpTaHpoWk04dXJHdWZNSmk2Tk4tYkFGUlQyTk5aSW5VcW9aVlZsMG5zX05PVjlLbXJ0TVNtZHJlcWpQMFpFbG01dHprZ2Rfb09XVEZvUjBic28waGJ4NE1LQThEem0yekNGak5xM2I1Z1ozams1WTNaQ1daMA?oc=5",
-   "published_utc": "2026-10-22T02:17:12+00:00",
-   "title_original": "Yen set for biggest rally in a month as investors seek safe havens By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cac2620fbe43f56e"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen jumps as oil, AI and France worries rattle markets By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXJlUjhBbEQzV0R4OWZfOTMwNUNTRTVRZ2VibUxjN1RFOVp0QXJDbDIxZkpTaHpoWk04dXJHdWZNSmk2Tk4tYkFGUlQyTk5aSW5VcW9aVlZsMG5zX05PVjlLbXJ0TVNtZHJlcWpQMFpFbG01dHprZ2Rfb09XVEZvUjBic28waGJ4NE1LQThEem0yekNGak5xM2I1Z1ozams1WTNaQ1daMA?oc=5",
-   "published_utc": "2026-10-22T02:17:12+00:00",
-   "title_original": "Yen jumps as oil, AI and France worries rattle markets By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "224dc4646d380770"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen set for biggest rally in a month as investors seek safe havens",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
-   "published_utc": "2026-10-22T02:10:00+00:00",
-   "title_original": "Yen set for biggest rally in a month as investors seek safe havens",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0f879414b83b5ced"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen rallies as dollar wobbles toward Fed meeting",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
-   "published_utc": "2026-10-22T02:10:00+00:00",
-   "title_original": "Yen rallies as dollar wobbles toward Fed meeting",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4d7da800bd4ba94"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Samsung Electro-Mechanics wins Nvidia AI chip substrate deal",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3UHRzTWpDcDVOeVdINk9JVEVsSl9ETjBNNEs3SEIwQUQtQkxNeVhYX1ZWdTlDejlMdVVNNzdXZktBMklXc1NHenhKSjRhVU4tdUhMSTg0NlVxUWk3WVczaGllSW5LdnZWUnlQQ3ZSWQ?oc=5",
-   "published_utc": "2026-10-22T01:58:49+00:00",
-   "title_original": "Samsung Electro-Mechanics wins Nvidia AI chip substrate deal",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "04c192aa529f8a7d"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(2nd LD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yNFRTZXdDemdha0c4amZoMU5ZYUc5ZldSenp0REJTZDhFREszYXpSLWRZMnFKOHVOWVVmdW5vTk9PcXc1TC1ZNkg1Z3QxQ1RrZHFQejY5bGswdw?oc=5",
-   "published_utc": "2026-10-22T01:52:49+00:00",
-   "title_original": "(2nd LD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9aae3b86f2a0cb31"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "https://m.capwhale.com/",
-   "title_en": "The central bank launched a 173 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXhNZTV6aXpoejFQdGNoYUJSQ19WNXZjQWRUQ1lncEo5TVhWUDJtNjVxS1YzcmlNakk2eVltZHp2b18taFFBSWFKaExJYUstNVJvMVFubXJhLUVuZXdwcDhGWThqNHZyNGJfWTBQaHRCZkRxN1V1aUR5SHhtYm1fSkFIbnZQZWFteGNrSzlKbldUQQ?oc=5",
-   "published_utc": "2026-10-22T01:42:01+00:00",
-   "title_original": "央行开展1730亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e40474a2b45a06d9"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Receivers to sell Shimao’s 2 Hong Kong hotels to Malaysian developer",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmthMEhGTHBiOFgtY29uVWJJN3RiLVl3dXJ3M0N3aGZWY21jdnl4bXJaTGhoX0IydWFYZTVXQWVCLU9LWkQ5ZmF3c3dsN1FTYXc5cmJCeVdvVU5YbzdUaTNUdWZvZnRVWVdQX0VOSTNaNlgtczJhLXNmQzVWTDlsTlRIbnJmRC1EdXBweVl0MkxqeUk5eU9lQlFUODVMMzZDTm9MdkdtUjFHWTZWc0ltalRuaF9DTjNPb0prZlJobzE2bFnSAcMBQVVfeXFMTnVOSnlmRVQxMjJRM3B5SWJnRUVGcDZvU01za0VOTEJJNERTYkJqXzJSeFlkOXhXUE1GTjNPT3ppQ3dZMlhoOXFKV1FzMlB0bFRKSzFJeW05U3ZZY29sVzFiQ2NwYXNfcU5jbm9VajV6Y2o0OXJYOXZqOEJnNG9GeGs5S0tPMk52RUpoUUxlTVd5WmwxeXhsYlpiV3cwZDFrcUJXaEtqejNMdGhxT2h2RmRtR0VVQk5HMm4xQUNiVFEyd0ZB?oc=5",
-   "published_utc": "2026-10-22T01:38:42+00:00",
-   "title_original": "Receivers to sell Shimao’s 2 Hong Kong hotels to Malaysian developer",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b49a2e67099a9e64"
   },
   {
    "source_id": "manual_ia",
