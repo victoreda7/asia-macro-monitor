@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T03:02:49.016475+00:00
+Última coleta: 2026-11-16T03:12:43.076640+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -17,9 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
+  - [korea] SK Hynix to Spend About $1 Billion to Support Local Suppliers
   - [china] China's new home prices fall again in October; slowest annual decline in almost a year
   - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
-  - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
   - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
   - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei, Kospi slide: Asian markets fall as Nvidia results, US inflation concerns keep investors cautious
   - [japan] Japan's Economic Growth Underwhelms as Demand, Exports Drag — Market Talk
   - [japan] Yen steady against euro and dollar after soft Japanese GDP data
-  - [japan] Urgent proposal to the government to reflect the reality of Tokyo in nursing care/disability compensation due 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T03:02:49+00:00",
+      "published_utc": "2026-11-16T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
