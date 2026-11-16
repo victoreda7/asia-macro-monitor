@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T05:22:44.804374+00:00
+Última coleta: 2026-11-16T05:32:49.951009+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1009
-  🇨🇳 China          879
+  🇨🇳 China          878
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  809
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samlip, which emerged from the deficit in the first quarter of this year, has continued to improve i..
   - [japan] Hawkish BOJ Member Urges Nimble Rate Hikes
   - [japan] Japan's Economic Growth Trend Likely to Remain Intact — Market Talk
   - [japan] BOJ’s Takata calls for swift hike in rates to ’good’ position
+  - [china] China’s Industrial Output Growth Slows
   - [japan] BOJ hawk Takata calls for quick pace of rate hikes
+  - [china] China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts
   - [japan] Dollar extends gains, yen looks past soft Japan GDP data
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
   - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MED
   - [china] PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets
   - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
-  - [korea] SK Hynix to Spend About $1 Billion to Support Local Suppliers
-  - [japan] How will interest rates on deposits and borrowings change if the Bank of Japan raises interest rates? Time lag
-  - [china] China's new home prices fall again in October; slowest annual decline in almost a year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T05:22:45+00:00",
+      "published_utc": "2026-11-16T05:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

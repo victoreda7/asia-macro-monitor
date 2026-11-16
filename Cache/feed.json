@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T05:22:44.804374+00:00",
- "collected_at_utc": "2026-11-16T05:22:44.804374+00:00",
+ "generated_at_utc": "2026-11-16T05:32:49.951009+00:00",
+ "collected_at_utc": "2026-11-16T05:32:49.951009+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1009,
-  "china": 879,
+  "china": 878,
   "taiwan": 303,
-  "korea": 809
+  "korea": 810
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T01:00:00+00:00"
+   "newest": "2026-11-16T05:12:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T04:36:41+00:00"
+   "newest": "2026-11-16T04:38:10+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-11-16T02:00:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T05:22:00+00:00"
+   "newest": "2026-11-16T05:30:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T04:28:23+00:00"
+   "newest": "2026-11-16T05:15:24+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,18 +331,35 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T02:01:46+00:00"
+   "newest": "2026-11-16T05:25:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samlip, which emerged from the deficit in the first quarter of this year, has continued to improve i..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fYmlFSS1GVVBQdndkcDZJeFhUZnpGYTlMelIxWmRMbmNXcXRCRDFnVWhvOEs0TXlrYTBub1I5LXJMc3gxaTYxRkdacVRzQmxVMFE?oc=5",
+   "published_utc": "2026-11-16T05:25:59+00:00",
+   "title_original": "Samlip, which emerged from the deficit in the first quarter of this year, has continued to improve i..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5c6c994ee2fbc657"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -395,6 +412,23 @@
    "id": "a725b97bb02ebb8c"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Industrial Output Growth Slows",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlRNYWhoMlZjLU13R3F6TG1oVGlWOWVKdzlfam9nSTYtYWpwVkNubFMtcFhldlBCbWl4N1N2Vnl2dmlzc2JWLVlycGQ3ZGZRaGFXdHY4dm53R2xWc3lWenpqcE1jbHQtemM5VVZtcTRCQ0VRcWdWUm5SdHhDSzQ0SkFYM0N3U3JTanNrOTQzdmdDSFRRWVQ4?oc=5",
+   "published_utc": "2026-11-16T05:12:00+00:00",
+   "title_original": "China’s Industrial Output Growth Slows",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f26b6b74c05fe0b6"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ hawk Takata calls for quick pace of rate hikes",
@@ -410,6 +444,23 @@
    "live_wire": false,
    "manual": false,
    "id": "813b0f7e1fde0bfd"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHc1WURYN2ZpaFFSSEZTUHphS09fUnBUVDRTZ3lKdk4yaFhCNzJDcUl4d2hKbTk4OWo1SFZ4ZGtUV3dpTGc0QzFsdnBoUDBzZmJOQVZ0MExIbzJ6SURSSUFTeEpCZUZLSm1NU0JISXpTY1pEV3lrRk5qMk5JX2czVGxGMmNJbUJXczJfbmNXWnRQSWVKLXAyUHVGTmxfYUNKeEFpNlAtejlaUmhJVjhYQw?oc=5",
+   "published_utc": "2026-11-16T04:48:00+00:00",
+   "title_original": "China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c0134982677b2f72"
   },
   {
    "source_id": "tradingview_live",
@@ -1312,6 +1363,23 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
+   "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93LUd5YmFzQlNjYlJ1dUNhX0FzLVBTakZYWnh1elR0ck1lUmdlMm1oM0stOGNEajBvcEFzRWpGS3FrOVo1Z3R0bWtmWE82c1hXT1d5YjRxQ2ZVQXR4WHBBclVMM05YZTl1NkFGb3RxSQ?oc=5",
+   "published_utc": "2026-11-16T02:00:00+00:00",
+   "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b2fc405e546d1775"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
    "title_en": "Basic situation of national fixed asset investment from January to October 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVkVXekQ1SmUwLThvRFlnRmpOdnY0WXFVTmY3SGZzZTVuc0hEUTNDUEx0OHh3TTVwV2NIRGQyMVZEcEVrLWEwMU4yZE5QX0lTc2huTlNyWlhnRlMxel9JUGplZmwwZEd5OVJoTFZEVQ?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
@@ -1980,8 +2048,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -1995,7 +2063,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2326,7 +2394,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2337,7 +2405,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3347,6 +3415,24 @@
    "id": "d2134ade3049a4b6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -3621,8 +3707,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -3636,7 +3722,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -5085,24 +5171,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -5436,7 +5504,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:52+00:00",
+   "published_utc": "2026-11-13T02:04:00+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -51834,74 +51902,6 @@
    "live_wire": true,
    "manual": false,
    "id": "171f6188135a0e52"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Former IMF executive says China and the world need an internationalised yuan",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObXVBSy1QT0ZvZVlVS3AtVXBQOGtEcUd0RUJ3cWN6bXJHQXhhZkNMVVJoTnhoc1FJdWZLMzBUSnhJYUZXSzZDMzh2WmVrcTJfTm1nN3lDdmg4elJJeWxqTXVBY2MyYl8tY1BmTUs0R3VCdkREVUU4YU90MnJWVFlQMWJaN2NFR3VpbHh2LUpHbmFhWF9PbzVsa2MyZTZpTy1IVUstV1NpZzV4YnlkSHpoUldCa2l2SGRzWGdCZEhRb0RMeTB3VmFv?oc=5",
-   "published_utc": "2026-10-21T10:00:13+00:00",
-   "title_original": "Former IMF executive says China and the world need an internationalised yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca4eed8cc5083239"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Former IMF executive says China and world need internationalised yuan",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObXVBSy1QT0ZvZVlVS3AtVXBQOGtEcUd0RUJ3cWN6bXJHQXhhZkNMVVJoTnhoc1FJdWZLMzBUSnhJYUZXSzZDMzh2WmVrcTJfTm1nN3lDdmg4elJJeWxqTXVBY2MyYl8tY1BmTUs0R3VCdkREVUU4YU90MnJWVFlQMWJaN2NFR3VpbHh2LUpHbmFhWF9PbzVsa2MyZTZpTy1IVUstV1NpZzV4YnlkSHpoUldCa2l2SGRzWGdCZEhRb0RMeTB3VmFv0gHHAUFVX3lxTFBPNGpXLUR5Nko0QlNBQklVRGlteVpxMXo5Tk4weDB0dWJ2c2ZhSC03UTBVZ1BlZVZxa1lVSzBXOVFUdTZ4SmR1LU1hZVNKMDdMOUNKaHQwQW81aGh2NTR4SUU4bDd5RWNzanhwRmVqMTZRSFFoa0QtV3dtM0YyYklOSTNHbVAyZlFEejlWYTcyVWJtdWxBd2laSWFzaThyMUVIMlVFTjdhc0lncDdDRmI5SFl0cVZWRzE3dW5GVXhOVnVlWFZBN2s?oc=5",
-   "published_utc": "2026-10-21T10:00:13+00:00",
-   "title_original": "Former IMF executive says China and world need internationalised yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f2e2cd5b19de0f5f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021002437:0-pboc-s-potential-shift-to-overnight-policy-rate-appears-supportive-for-china-bonds-market-talk/",
-   "published_utc": "2026-10-21T09:59:00+00:00",
-   "title_original": "PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c5e91a46bf3a757b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4670RK:0-wens-foodstuff-says-q3-net-loss-at-595-5-million-yuan/",
-   "published_utc": "2026-10-21T09:56:21+00:00",
-   "title_original": "Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ee83c333ce987cd1"
   },
   {
    "source_id": "manual_ia",
