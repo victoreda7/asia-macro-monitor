@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T06:12:48.266920+00:00
+Última coleta: 2026-11-16T06:22:44.016568+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
-  🇨🇳 China          876
-  🇹🇼 Taiwan         303
+  🇯🇵 Japão          1010
+  🇨🇳 China          878
+  🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [china] Asia stocks tumble as chipmakers slide and weak China data adds pressure
   - [korea] Hyundai Green Food: 9M earnings improved, while working-capital outflows and buybacks shaped cash deployment
+  - [japan] Hawkish BOJ policymaker Takata calls for swift hike in rates to ’good’ position
   - [china] China's October retail sales ease to 0.4%, factory output slows to 4.8%, while jobless rate dips to 5.1%
   - [taiwan] Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and
   - [japan] Japan’s economy contracts 0.1% annualized in Q3; September industrial output rebounds 2.0%
@@ -30,7 +32,6 @@ Total: 3000 manchetes
   - [japan] Hawkish BOJ Member Urges Nimble Rate Hikes
   - [japan] Bank of Japan member Takada (Reuters): Set policy interest rates to neutral levels in advance and raise intere
   - [japan] Japan's Economic Growth Trend Likely to Remain Intact — Market Talk
-  - [japan] BOJ’s Takata calls for swift hike in rates to ’good’ position
   - [china] China’s Industrial Output Growth Slows
   - [japan] BOJ hawk Takata calls for quick pace of rate hikes
   - [china] China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic
   - [japan] Japan Consumption Likely to Stay Sluggish Amid Inflation — Market Talk
   - [japan] Japan CPI-Indexed Bond: Lowest Price 96.00 To Yield 1.072%
-  - [china] Hong Kong debuts offshore yuan bond index to promote RMB assets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T06:12:48+00:00",
+      "published_utc": "2026-11-16T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

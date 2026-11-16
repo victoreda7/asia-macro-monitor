@@ -1,14 +1,14 @@
 {
- "generated_at_utc": "2026-11-16T06:12:48.266920+00:00",
- "collected_at_utc": "2026-11-16T06:12:48.266920+00:00",
+ "generated_at_utc": "2026-11-16T06:22:44.016568+00:00",
+ "collected_at_utc": "2026-11-16T06:22:44.016568+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1011,
-  "china": 876,
-  "taiwan": 303,
+  "japan": 1010,
+  "china": 878,
+  "taiwan": 302,
   "korea": 810
  },
  "elapsed_s": 29.8,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T05:50:25+00:00"
+   "newest": "2026-11-16T06:13:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T05:40:32+00:00"
+   "newest": "2026-11-16T06:06:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T02:40:42+00:00"
+   "newest": "2026-11-16T06:11:40+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-16T05:42:19+00:00"
+   "newest": "2026-11-16T06:20:09+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T02:06:00+00:00"
+   "newest": "2026-11-16T04:29:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Asia stocks tumble as chipmakers slide and weak China data adds pressure",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-jitters-deepen-ahead-of-nvidia-results-5028343",
+   "published_utc": "2026-11-16T06:11:45+00:00",
+   "title_original": "Asia stocks tumble as chipmakers slide and weak China data adds pressure",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d4c2530b2eaab4a2"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
    "title_en": "Hyundai Green Food: 9M earnings improved, while working-capital outflows and buybacks shaped cash deployment",
@@ -359,6 +376,24 @@
    "live_wire": true,
    "manual": false,
    "id": "89a5606c1eba60a4"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Hawkish BOJ policymaker Takata calls for swift hike in rates to ’good’ position",
+   "url": "https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
+   "published_utc": "2026-11-16T06:00:24+00:00",
+   "title_original": "Hawkish BOJ policymaker Takata calls for swift hike in rates to ’good’ position",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b756a6dd9cc373c2"
   },
   {
    "source_id": "tradingview_live",
@@ -568,23 +603,6 @@
    "live_wire": true,
    "manual": false,
    "id": "62562afe81b27edf"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
-   "url": "https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
-   "published_utc": "2026-11-16T05:12:41+00:00",
-   "title_original": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a725b97bb02ebb8c"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -1396,6 +1414,24 @@
    "live_wire": false,
    "manual": false,
    "id": "17159cb4d84a794d"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's economy falters as factory output, retail sales undershoot expectations",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5",
+   "published_utc": "2026-11-16T02:06:00+00:00",
+   "title_original": "China's economy falters as factory output, retail sales undershoot expectations",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "805fe063f72f63e0"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51871,40 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9a8a45316d5492e3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX25IbUplU0wxcXZNb2NpMzBVVHpJZjZYS2pMbC1KcU04amx4UEhOalpxVGEzU1pQd092NzM2Tk5hWFdQM2U5THo4SG12WEdwdHNNY0E5LVJrc3Fvb3gwWDYydnBjbkcyalpveUdBeUxsWERaVjFsLUF0OVg1YjdSNzRZWXRBM1JPcHJGR1NtbHdSdkt4OEowb3JoY3A2WlBJVWRYb1A5SHNuTk1GWHdiX0M1cHotMVU?oc=5",
-   "published_utc": "2026-10-21T10:40:46+00:00",
-   "title_original": "Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ee1878633aef1fb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used in Co-Packaged Optics >NVDA",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021003047_20261021003099:0-nvidia-siliconware-precision-industries-to-expand-manufacturing-capacity-in-taiwan-for-optical-engines-used-in-co-packaged-optics-nvda/",
-   "published_utc": "2026-10-21T10:39:00+00:00",
-   "title_original": "Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used in Co-Packaged Optics >NVDA",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "47d6bf08069dc35f"
   },
   {
    "source_id": "manual_ia",
