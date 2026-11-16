@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T07:52:52.868543+00:00
+Última coleta: 2026-11-16T08:02:44.651837+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1005
-  🇨🇳 China          876
+  🇯🇵 Japão          1006
+  🇨🇳 China          874
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  815
+  🇰🇷 Coreia do Sul  816
 
 ## O que já está no feed (não repita)
 
+  - [japan] Highlights of the Outlook for Economic Activity and Prices (October 2026)
+  - [japan] BOJ Current Account Balances by Sector (Oct.)
+  - [korea] Kospi sees worst day in over a week as Nvidia woes, Anthropic IPO drain hit chipmakers
   - [japan] Stock price: Closing price below 60,000 yen; sell orders spread mainly among semiconductor-related stocks
   - [taiwan] Fitch Says US Rate Hikes Have Modest Impact On Taiwan Bills Finance Companies
   - [japan] Aisan Industry Co., Ltd. - To Buy Back Up To 4.7% Of Shares Worth 7 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Economic Growth Trend Likely to Remain Intact — Market Talk
   - [china] China’s Industrial Output Growth Slows
   - [japan] BOJ hawk Takata calls for quick pace of rate hikes
-  - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP By Investing.com
-  - [china] China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts
-  - [japan] Dollar extends gains, yen looks past soft Japan GDP data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T07:52:53+00:00",
+      "published_utc": "2026-11-16T08:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
