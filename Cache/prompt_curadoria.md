@@ -7,23 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T04:22:48.428883+00:00
+Última coleta: 2026-11-16T04:32:44.213417+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1005
-  🇨🇳 China          880
-  🇹🇼 Taiwan         303
+  🇯🇵 Japão          1006
+  🇨🇳 China          878
+  🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix in 24/7 race to complete colossal chip plant
+  - [korea] STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026
+  - [china] HKEX Launches First-Ever Offshore Yuan Bond Index
   - [taiwan] Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk
+  - [japan] BOJ's Takata calls for swift hike in rates to 'good' position
   - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
   - [china] Hong Kong exchange launches first offshore yuan bond index
   - [taiwan] Taiwan will take inflation and measures taken by other countries into account when setting interest rates
   - [taiwan] Taiwan to consider inflation, other countries' moves when deciding interest rates
   - [korea] A major semiconductor manufacturing base in South Korea is unveiled to help foster small and medium-sized ente
   - [china] China Industrial Output Rises 4.8% On Year
+  - [taiwan] Taiwan's Nanya and Winbond adopt EUV, challenging South Korean DRAM dominance
   - [china] Yuan steady as disappointing economic data offset by robust corporate year-end demand
   - [japan] Japan's $12 bln chip deal courts needless strife
   - [china] China's economy softens across the board as factory output, spending slow
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
   - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
   - [japan] Japan rubber trades in tight range as weaker yen offsets lower oil
-  - [china] The first increase in the past five years! The foreign exchange deposit reserve ratio was increased from 4% to
-  - [china] China's factory output grows but household spending remains subdued
-  - [japan] Japan’s Economy Shrinks for the First Time in a Year. Will the BOJ Still Hike?
-  - [china] China's Home Price Decline Gathered Pace in October — Update
-  - [china] China Home Price Slump Drags On Despite Latest Stimulus Push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T04:22:48+00:00",
+      "published_utc": "2026-11-16T04:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
