@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T04:02:51.732806+00:00",
- "collected_at_utc": "2026-11-16T04:02:51.732806+00:00",
+ "generated_at_utc": "2026-11-16T04:13:09.629674+00:00",
+ "collected_at_utc": "2026-11-16T04:13:09.629674+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1005,
+  "japan": 1006,
   "china": 880,
   "taiwan": 302,
-  "korea": 813
+  "korea": 812
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T02:45:00+00:00"
+   "newest": "2026-11-16T03:55:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T02:41:37+00:00"
+   "newest": "2026-11-16T04:00:49+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-16T03:09:17+00:00"
+   "newest": "2026-11-16T04:04:05+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-16T02:00:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T12:57:21+09:00"
+   "newest": "2026-11-16T13:09:06+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:06:00+00:00"
+   "newest": "2026-11-16T02:06:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T04:01:28+00:00"
+   "newest": "2026-11-16T04:12:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T03:46:42+00:00"
+   "newest": "2026-11-16T04:00:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,12 +337,116 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan will take inflation and measures taken by other countries into account when setting interest rates",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02L:0/",
+   "published_utc": "2026-11-16T04:10:29+00:00",
+   "title_original": "Taiwan levará em consideração a inflação e as medidas adotadas por outros países ao definir as taxas de juros",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "5ecb7e029dad670d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02H:0-taiwan-to-consider-inflation-other-countries-moves-when-deciding-interest-rates/",
+   "published_utc": "2026-11-16T04:09:58+00:00",
+   "title_original": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e5ca809922e516e9"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "A major semiconductor manufacturing base in South Korea is unveiled to help foster small and medium-sized enterprises, which is an issue",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76485",
+   "published_utc": "2026-11-16T04:09:06+00:00",
+   "title_original": "韓国の半導体製造の一大拠点公開 課題の中小企業育成へ",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "11682c5a8e63787f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China Industrial Output Rises 4.8% On Year",
+   "url": "https://www.tradingview.com/news/dpa_afx:79fb8bb4fadce:0-china-industrial-output-rises-4-8-on-year/",
+   "published_utc": "2026-11-16T04:05:58+00:00",
+   "title_original": "China Industrial Output Rises 4.8% On Year",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "915fbda919e336ab"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan steady as disappointing economic data offset by robust corporate year-end demand",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02A:0-yuan-steady-as-disappointing-economic-data-offset-by-robust-corporate-year-end-demand/",
+   "published_utc": "2026-11-16T04:04:49+00:00",
+   "title_original": "Yuan steady as disappointing economic data offset by robust corporate year-end demand",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3d95e7873fda0da3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's $12 bln chip deal courts needless strife",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46X03T:0-japan-s-12-bln-chip-deal-courts-needless-strife/",
+   "published_utc": "2026-11-16T04:04:37+00:00",
+   "title_original": "Japan's $12 bln chip deal courts needless strife",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4ebf524e3973569c"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -361,6 +465,24 @@
    "id": "b00b500ef678f079"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI giants shift decarbonization pressure upstream, testing Taiwan's chip supply chain",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0xSLWVwMDZMb1piN1lIUEtTQkZJY3VmcUh6bXJKYjlkQnBNbUFCZ09RNW15THc3Ny01Ynl0M3dBZjRWb2xKZjVfcHVLUVJGWDgxRDFYOTJwZEZDSGdORHhMTHlIeTZkTkJVQzB4YWZ1cTZMa1VJaTNQcU45bmczblgtVmJ5VkZrVXc?oc=5",
+   "published_utc": "2026-11-16T04:00:49+00:00",
+   "title_original": "AI giants shift decarbonization pressure upstream, testing Taiwan's chip supply chain",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7008f44d710559ce"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
@@ -377,24 +499,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a56940549e597549"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02B:0-taiwan-to-consider-inflation-other-countries-moves-when-deciding-interest-rates/",
-   "published_utc": "2026-11-16T03:54:23+00:00",
-   "title_original": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "545cc50b6e7ad2cb"
   },
   {
    "source_id": "tradingview_live",
@@ -877,6 +981,24 @@
    "id": "9f2143889ddd27b1"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "China Home Price Slump Drags On Despite Latest Stimulus Push",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEhLSzAtTC1UcWJYZTRDSUZaVVRzRTdyWUVMaWdLODI1cU5takh4Vm1iUWM5ZnBHNG53WnZ1aGRFNnI4b0VNX0x4SEFrbFZETWczUXlXUGRlNEpkV2pvWEM1cjlPY3ZlX2JxcEJ2UGxaSnVJOGNOSnJWUzVldkdIVlU3S1ZPcy1ZVWNPQU81VUttZ1hIMXVDMmprYjhuZE04NDF6bDh5WVJHdlR4ZE9QeQ?oc=5",
+   "published_utc": "2026-11-16T02:17:00+00:00",
+   "title_original": "China Home Price Slump Drags On Despite Latest Stimulus Push",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f8bd4182077aa605"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y",
@@ -1015,23 +1137,6 @@
    "id": "4da8f35ef9a86cbf"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Oct Industrial Output +0.21% On Month",
-   "url": "https://www.tradingview.com/news/DJN_DN20261115001343_20261115001347:0-china-oct-industrial-output-0-21-on-month/",
-   "published_utc": "2026-11-16T02:00:00+00:00",
-   "title_original": "China Oct Industrial Output +0.21% On Month",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4da344a4a7811664"
-  },
-  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "The added value of industries above designated size increased by 4.8% in October 2026",
@@ -1047,23 +1152,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a2714504ce5ba8ac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3991698:0-nh-nongwoobio-9m-earnings-improved-while-a-krw-36-738-million-seed-business-acquisition-is-pending/",
-   "published_utc": "2026-11-16T01:58:44+00:00",
-   "title_original": "NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a1e38d5bc827084d"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1084,23 +1172,6 @@
    "id": "9fc1f2e9b577cb8d"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Drop in China's new home prices narrows to 11-month low",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TV9KY:0-drop-in-china-s-new-home-prices-narrows-to-11-month-low/",
-   "published_utc": "2026-11-16T01:41:26+00:00",
-   "title_original": "Drop in China's new home prices narrows to 11-month low",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8775eaf09fd668a2"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "nbn 시사경제",
    "title_en": "Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ policy",
@@ -1116,23 +1187,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3292a6b43cdccfa3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON",
-   "url": "https://www.tradingview.com/news/dpa_afx:e1dce9c8ceaec:0-china-pboc-conducts-cny460-bln-via-o-n-reverse-repo-mon/",
-   "published_utc": "2026-11-16T01:37:48+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0614d3e45b2ddceb"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -20745,6 +20799,24 @@
    "id": "30956293bc853dc7"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BOJ policymaker urged rate hike size debate: Sept. minutes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MRkZtT0hoNkZoVHcxOGdVR1oteE5hTG01S0x1OFJNb2E2Zkota040eGJOR1dEeTNWN2R2RHBJX3hpZjJlYVVtVEhyZjdmd0ZqbWJlOVVjamU3UQ?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "BOJ policymaker urged rate hike size debate: Sept. minutes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9a9686c5c527acda"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "BOJ minutes: Inflation could prompt faster rate hikes",
@@ -21313,24 +21385,6 @@
    "live_wire": false,
    "manual": false,
    "id": "32f11b8732416756"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BOJ policymaker urged rate hike size debate: Sept. minutes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MRkZtT0hoNkZoVHcxOGdVR1oteE5hTG01S0x1OFJNb2E2Zkota040eGJOR1dEeTNWN2R2RHBJX3hpZjJlYVVtVEhyZjdmd0ZqbWJlOVVjamU3UQ?oc=5",
-   "published_utc": "2026-11-05T04:10:07+00:00",
-   "title_original": "BOJ policymaker urged rate hike size debate: Sept. minutes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9a9686c5c527acda"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -33323,6 +33377,24 @@
    "id": "c57aa1e605c641cd"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQW9VUEJoNjhxM2pBaDZvTHQwdmZ5MWRreWFUMWpISTBJOUVvZTc4WUZzTnoxdzlpN213QmhuYW9qY3prYjM2WGZtMHhySndaZ1lZM3kwVUxDdw?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "title_original": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8695eca309e6c66"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Japan govt. to spend another $7.3 bil. on fuel subsidy | NHK WORLD-JAPAN News",
@@ -33600,24 +33672,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7a91e15d2df61504"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQW9VUEJoNjhxM2pBaDZvTHQwdmZ5MWRreWFUMWpISTBJOUVvZTc4WUZzTnoxdzlpN213QmhuYW9qY3prYjM2WGZtMHhySndaZ1lZM3kwVUxDdw?oc=5",
-   "published_utc": "2026-10-30T05:08:00+00:00",
-   "title_original": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8695eca309e6c66"
   },
   {
    "source_id": "nikkei_asia",
@@ -51848,58 +51902,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5a665b7ddb140a8b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hbzVJWmdtZjA0LTZtOTFndHpJZk9jaXdJTkJxSG11MDJhdEU1TTU4TE9TOGNGelhsb01MLTNxRU9NMjR5ajh4MG9ZWXpEWllmc0E?oc=5",
-   "published_utc": "2026-10-21T08:13:43+00:00",
-   "title_original": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "52891e9a388fc248"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Rising Risk of Taiwan Central Bank Rate Hike — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021001757:0-rising-risk-of-taiwan-central-bank-rate-hike-market-talk/",
-   "published_utc": "2026-10-21T07:54:00+00:00",
-   "title_original": "Rising Risk of Taiwan Central Bank Rate Hike — Market Talk",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "70ec2221d1ca1e35"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Micron's Taichung union deal eases Taiwan DRAM strike risk; Taoyuan dispute remains unresolved",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc01qNFEtUWtKaG9SeUl1bFo1b29qb1hZYjVKWDJMblBHS0FKWkRYZmduLVVLdFNtVVhISHVIcUFWY3ZDckNFa1ItN1FWbjM0YjMzUFprRmdUNkFJVVVrNWljWHB5OXlRbjFJUzd3Z1hiV0dzLXpKN0g3ZnNTWHVfVHFwVkd4MFh0YzNwY2h4YVY?oc=5",
-   "published_utc": "2026-10-21T07:53:19+00:00",
-   "title_original": "Micron's Taichung union deal eases Taiwan DRAM strike risk; Taoyuan dispute remains unresolved",
-   "region": "taiwan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ae33761e36eb806"
   },
   {
    "source_id": "manual_ia",

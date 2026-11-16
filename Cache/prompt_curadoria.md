@@ -7,19 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T04:02:51.732806+00:00
+Última coleta: 2026-11-16T04:13:09.629674+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1005
+  🇯🇵 Japão          1006
   🇨🇳 China          880
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  813
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
-  - [china] China's economy softens across the board as factory output, spending slow
-  - [japan] Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic
+  - [taiwan] Taiwan will take inflation and measures taken by other countries into account when setting interest rates
   - [taiwan] Taiwan to consider inflation, other countries' moves when deciding interest rates
+  - [korea] A major semiconductor manufacturing base in South Korea is unveiled to help foster small and medium-sized ente
+  - [china] China Industrial Output Rises 4.8% On Year
+  - [china] Yuan steady as disappointing economic data offset by robust corporate year-end demand
+  - [japan] Japan's $12 bln chip deal courts needless strife
+  - [china] China's economy softens across the board as factory output, spending slow
+  - [taiwan] AI giants shift decarbonization pressure upstream, testing Taiwan's chip supply chain
+  - [japan] Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic
   - [japan] Japan Consumption Likely to Stay Sluggish Amid Inflation — Market Talk
   - [japan] Japan CPI-Indexed Bond: Lowest Price 96.00 To Yield 1.072%
   - [china] Hong Kong debuts offshore yuan bond index to promote RMB assets
@@ -48,15 +54,9 @@ Total: 3000 manchetes
   - [china] China's factory output grows but household spending remains subdued
   - [japan] Japan’s Economy Shrinks for the First Time in a Year. Will the BOJ Still Hike?
   - [china] China's Home Price Decline Gathered Pace in October — Update
+  - [china] China Home Price Slump Drags On Despite Latest Stimulus Push
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
   - [china] CHINA YTD RETAIL SALES +1.0% Y/Y VS JAN-SEP +1.1% Y/Y
-  - [china] China factory output, retail sales miss forecasts in Oct
-  - [china] China’s factory output, retail sales growth slow in October
-  - [china] China's Home Price Decline Gathered Pace in October
-  - [china] HKEX launches offshore yuan bond index amid yuan internationalisation push
-  - [china] Developing | China’s economic activity falters in October amid sluggish retail sales
-  - [china] China Oct Industrial Output +4.8% On Year; Market Expected +5.2%
-  - [china] China Oct Industrial Output +0.21% On Month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T04:02:51+00:00",
+      "published_utc": "2026-11-16T04:13:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
