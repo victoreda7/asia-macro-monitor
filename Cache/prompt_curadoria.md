@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T09:32:43.661363+00:00
+Última coleta: 2026-11-16T09:42:56.789471+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
@@ -18,9 +18,9 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] Hungary tightens oversight of Chinese, South Korean battery plants
+  - [china] Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps
   - [japan] Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hi
   - [japan] Former Bank of Japan branch will be nicknamed ``Machinowa Korinbo'' by Kanazawa City, starting in May next yea
-  - [china] Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps
   - [china] Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million
   - [korea] Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus
   - [korea] Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T09:32:43+00:00",
+      "published_utc": "2026-11-16T09:42:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
