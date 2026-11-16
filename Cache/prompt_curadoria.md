@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T20:34:43.544735+00:00
+Última coleta: 2026-11-16T20:47:50.436992+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1031
-  🇨🇳 China          871
+  🇯🇵 Japão          1030
+  🇨🇳 China          872
   🇹🇼 Taiwan         301
   🇰🇷 Coreia do Sul  797
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [korea] A $1 Billion Reason SK Hynix Stock Is Falling Today
   - [china] China developer Huafa's debt woes show resurgence of credit risk
+  - [china] Nvidia China Trouble Could Spill Over to These AI Chip Stocks
   - [taiwan] Tiger Global Management Cuts Share Stake In Meta, TSMC, GE Vernova
   - [japan] Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00
   - [korea] SK hynix Stocks Sink 7.89% Despite 80% Margin and 100 Trillion Won Payout
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Senator accuses US Commerce Department of failing to stem flow of AI chips to China
   - [china] Central China Real Estate Posts October 2026 Contracted Sales Rmb493 Million
   - [korea] SK Square: SK hynix’s record quarter drove ₩7.94tn operating profit as portfolio NAV declined
-  - [china] China's economy falters with lower-than-expected industrial production and retail sales
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T20:34:43+00:00",
+      "published_utc": "2026-11-16T20:47:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
