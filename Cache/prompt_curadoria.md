@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T16:22:45.238794+00:00
+Última coleta: 2026-11-16T16:32:51.115073+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
@@ -17,13 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US blocks China's indirect access to American AI chips
   - [china] No chips for you: US issues rule to stymie China's access to AI GPUs via data centers
   - [japan] Nomura Real Estate to acquire 8 MW of energy storage in Japan
   - [korea] Micron, SK hynix, and Sandisk shares plummet, what you need to know
   - [korea] Why is SK hynix stock sliding today?
   - [japan] Yen Could Strengthen Versus Dollar by Year-End — Market Talk
-  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [korea] Samsung plans to build satellite chips at Texas fab for SpaceX: report
   - [china] China Resources Power Posts October Net Generation Of Subsidiary Power Plants Up 20.9% To 20.1 MLN MWh
   - [japan] Japanese Yen Offers Best Risk-Reward — Market Talk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T16:22:45+00:00",
+      "published_utc": "2026-11-16T16:32:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
