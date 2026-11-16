@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-16T18:32:44.766759+00:00",
- "collected_at_utc": "2026-11-16T18:32:44.766759+00:00",
+ "generated_at_utc": "2026-11-16T18:42:51.213381+00:00",
+ "collected_at_utc": "2026-11-16T18:42:51.213381+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,24 @@
   "taiwan": 305,
   "korea": 805
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T16:54:47+00:00"
+   "newest": "2026-11-15T21:10:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -174,22 +190,6 @@
    "newest": "2026-11-16T03:22:58+00:00"
   },
   {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-16T22:10:04+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-16T21:58:12+09:00"
-  },
-  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T17:15:46+00:00"
+   "newest": "2026-11-16T18:08:56+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T18:32:00+00:00"
+   "newest": "2026-11-16T18:42:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T10:31:27+00:00"
+   "newest": "2026-11-16T13:36:00+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -3499,24 +3499,6 @@
    "id": "6f7e7d999a55e883"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-15T06:23:25+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
@@ -3878,6 +3860,43 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-14T19:58:07+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-14T18:27:55+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4450,6 +4469,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6190,24 +6227,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -6431,25 +6450,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-13T02:28:08+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -7901,7 +7901,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -7915,7 +7915,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5ffbd3cd068ab02a"
+   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "boj_whatsnew",
