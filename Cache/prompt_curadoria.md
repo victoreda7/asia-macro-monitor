@@ -7,22 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T02:12:51.076396+00:00
+Última coleta: 2026-11-16T02:22:41.126679+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1014
-  🇨🇳 China          866
-  🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  812
+  🇯🇵 Japão          1011
+  🇨🇳 China          871
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [china] China's factory output grows but household spending remains subdued
+  - [china] China's Home Price Decline Gathered Pace in October — Update
+  - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
+  - [china] CHINA YTD RETAIL SALES +1.0% Y/Y VS JAN-SEP +1.1% Y/Y
+  - [china] China’s factory output, retail sales growth slow in October
+  - [china] China's Home Price Decline Gathered Pace in October
   - [china] HKEX launches offshore yuan bond index amid yuan internationalisation push
   - [china] China Oct Industrial Output +4.8% On Year; Market Expected +5.2%
   - [china] China Oct Industrial Output +0.21% On Month
   - [korea] NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending
   - [japan] Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consump
-  - [china] China's Home Price Decline Gathered Pace in October
   - [china] Drop in China’s new home prices narrows to 11-month low
   - [korea] Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ po
   - [china] CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2
   - [japan] JAPAN Q3 CONSUMPTION -0.3% Q/Q; -0.1 PP CONTRIBUTION
   - [japan] JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MNI MEDIAN +0.1%
-  - [japan] JAPAN Q3 CAPEX +1.6% Q/Q +0.3 PP CONTRIBUTION
-  - [japan] JAPAN Q3 GDP POSTS 1ST DROP IN 4 QUARTERS
-  - [japan] MNI JAPAN Q3 REAL GDP -0.0% Q/Q; MNI MEDIAN +0.0%
-  - [japan] JAPAN Q2 REAL GDP REVISED TO +1.7% ANNUALIZED FROM +1.4%
-  - [japan] JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T02:12:51+00:00",
+      "published_utc": "2026-11-16T02:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
