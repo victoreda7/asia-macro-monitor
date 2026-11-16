@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T01:42:49.564909+00:00",
- "collected_at_utc": "2026-11-16T01:42:49.564909+00:00",
+ "generated_at_utc": "2026-11-16T01:52:52.536341+00:00",
+ "collected_at_utc": "2026-11-16T01:52:52.536341+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1014,
-  "china": 863,
+  "china": 864,
   "taiwan": 309,
-  "korea": 814
+  "korea": 813
  },
- "elapsed_s": 32.1,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T23:35:37+00:00"
+   "newest": "2026-11-16T00:18:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T07:25:00+00:00"
+   "newest": "2026-11-14T01:38:31+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T10:37:16+09:00"
+   "newest": "2026-11-16T10:47:34+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T19:26:00+00:00"
+   "newest": "2026-11-16T00:13:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T01:41:26+00:00"
+   "newest": "2026-11-16T01:51:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T19:35:00+00:00"
+   "newest": "2026-11-15T22:31:55+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T01:03:35+00:00"
+   "newest": "2026-11-16T01:28:53+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,12 +337,29 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-15T11:26:15+00:00"
+   "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Home Price Decline Gathered Pace in October",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001315:0-china-s-home-price-decline-gathered-pace-in-october/",
+   "published_utc": "2026-11-16T01:51:00+00:00",
+   "title_original": "China's Home Price Decline Gathered Pace in October",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ea1e4798ec8c8ab"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8775eaf09fd668a2"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "nbn 시사경제",
+   "title_en": "Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ policy",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkeTZKQnZWalRHaDk5eE02d2RZWnV3TE9xWnM5QzdXR3JSTkVScjJqa0JpRDBoaUEtRHRVR1pMdC1tcm93WW9DdlZfaUwwQUF0alk3ZHNMdTRUTDVxR0lpNmltY2RocmNrcEE?oc=5",
+   "published_utc": "2026-11-16T01:40:34+00:00",
+   "title_original": "한은, 기준금리 6연속 동결…'장기 동결' 기조 공식화",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3292a6b43cdccfa3"
   },
   {
    "source_id": "tradingview_live",
@@ -600,6 +634,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8b0591ca99da7e63"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEpuRmtMVWlXcnVQbmY5dUo4MVhUaWFSaDVPY0xEZlNnUVBqTXI4OHVyRHdPakdFWHJPUDROVF9MVGFxMXduLWdOWkVxTHVuNXpyQm9TSnlqMW13X0JNYUN2RzRpSFZBUDhTZUk4dGp1eGhaRFc2ZzlRYWlsTFhoS2ZXdWhLN3pLbWtRZ1JrM2NXMXZ3bHJ4WWowNXhHRGc4OG9GZzRjS1NCb2tSZVpVejFjTTg?oc=5",
+   "published_utc": "2026-11-16T00:18:00+00:00",
+   "title_original": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c91d135c9f400e73"
   },
   {
    "source_id": "tradingview_live",
@@ -1324,7 +1375,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "US, Allies Agree to Guard AI Supply Chains From China, FT Says",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdZazV1cGI2aFI0Ymdpb2hhRTU1Z3FjZ1hTdkZWVlRzT0Y4RzZnZXMzSXdPS2VEaFp4NGg2STQxdzhxQ2tGN1AxZzJQc3BkUjE4RnVoenRnM3dwN2t5TzV1dVpyUjAyd254NU1kM1ZSTTdoZkVnU3V3dUJxSE1LVFBiQWxWQzFkSHNIanRhQVRlU3ExV3MzYnpEeVhlZUZjbkRBZ1o4bVQ1YnlsdVl4TA?oc=5",
    "published_utc": "2026-11-15T20:16:10+00:00",
@@ -51849,57 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e9790fe6d322697e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Ryukil C&S To Acquire Real Estate Worth 25 Billion Won",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4661U8:0-ryukil-c-s-to-acquire-real-estate-worth-25-billion-won/",
-   "published_utc": "2026-10-21T06:44:53+00:00",
-   "title_original": "Ryukil C&S To Acquire Real Estate Worth 25 Billion Won",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0341f62d48c6d0ba"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021001391_20261021001408:0-kospi-regains-ground-as-chip-stocks-recoup-most-of-prior-session-s-losses/",
-   "published_utc": "2026-10-21T06:37:00+00:00",
-   "title_original": "Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3622bfef938021d3"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of \"disturbing changes\" threatening Prime Minister Takaichi that have begun to emerge in the \"local elections\" | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962041?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-21T06:30:00+00:00",
-   "title_original": "支持率50％キープでも安心できない？ 横浜､千代田… ｢地方選｣で顕在化し始めた高市首相を脅かす\"不穏な変化\"の足音 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "562599b22a24fc4c"
   },
   {
    "source_id": "manual_ia",

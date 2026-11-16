@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T01:42:49.564909+00:00
+Última coleta: 2026-11-16T01:52:52.536341+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1014
-  🇨🇳 China          863
+  🇨🇳 China          864
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  814
+  🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Home Price Decline Gathered Pace in October
   - [china] Drop in China's new home prices narrows to 11-month low
+  - [korea] Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ po
   - [china] CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON
   - [japan] Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk
   - [china] On November 16, the central bank conducted an overnight reverse repurchase operation of RMB 460 billion.
@@ -32,6 +34,7 @@ Total: 3000 manchetes
   - [japan] BOJ Still Poised to Tighten Despite Sluggish Economic Growth — Market Talk
   - [korea] Future Fund 'fiscal paradigm shift' for strategic investment: policy report
   - [japan] Japan’s economy unexpectedly shrinks in July-September as consumption falters
+  - [japan] Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces
   - [japan] JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk
   - [japan] CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARC
   - [japan] Japan's Q3 GDP dropped an annualized 0.1%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
   - [japan] JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION
   - [japan] JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION -0.1 POINT; MEDIAN FORECAST +0.1 POINT
-  - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh
-  - [japan] BREAKING NEWS: Japan's real GDP down 0.02% on quarter in July-Sept.
-  - [japan] JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.8 PCT POINT (Q2 -0.1 POINT); MEDIAN FORECAST +0.4 POINT
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T01:42:49+00:00",
+      "published_utc": "2026-11-16T01:52:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
