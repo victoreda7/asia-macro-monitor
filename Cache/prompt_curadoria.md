@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T03:45:24.317507+00:00
+Última coleta: 2026-11-16T03:52:50.871131+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1004
-  🇨🇳 China          880
+  🇯🇵 Japão          1005
+  🇨🇳 China          879
   🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Consumption Likely to Stay Sluggish Amid Inflation — Market Talk
   - [japan] Japan CPI-Indexed Bond: Lowest Price 96.00 To Yield 1.072%
   - [china] Hong Kong debuts offshore yuan bond index to promote RMB assets
   - [japan] CORRECT: JAPAN Q3 GDP: EMPLOYEE COMP. +0.3% Q/Q VS. 1.1% IN Q2, +0.4% (CORRECTED FROM +1.4%) IN Q1, +0.6% IN Q
@@ -35,6 +36,7 @@ Total: 3000 manchetes
   - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
   - [korea] SK Hynix to Spend About $1B to Support Local Suppliers
+  - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
   - [taiwan] Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies
   - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
   - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
@@ -43,7 +45,6 @@ Total: 3000 manchetes
   - [china] China's factory output grows but household spending remains subdued
   - [japan] Japan’s Economy Shrinks for the First Time in a Year. Will the BOJ Still Hike?
   - [china] China's Home Price Decline Gathered Pace in October — Update
-  - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
   - [china] CHINA YTD RETAIL SALES +1.0% Y/Y VS JAN-SEP +1.1% Y/Y
   - [china] China factory output, retail sales miss forecasts in Oct
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The added value of industries above designated size increased by 4.8% in October 2026
   - [korea] NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending
   - [japan] Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consump
-  - [china] Drop in China's new home prices narrows to 11-month low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T03:45:24+00:00",
+      "published_utc": "2026-11-16T03:52:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
