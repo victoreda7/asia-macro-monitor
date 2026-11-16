@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T01:02:46.878284+00:00",
- "collected_at_utc": "2026-11-16T01:02:46.878284+00:00",
+ "generated_at_utc": "2026-11-16T01:12:42.602251+00:00",
+ "collected_at_utc": "2026-11-16T01:12:42.602251+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1012,
-  "china": 862,
+  "japan": 1013,
+  "china": 861,
   "taiwan": 309,
   "korea": 817
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T21:10:00+00:00"
+   "newest": "2026-11-16T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T01:02:05+00:00"
+   "newest": "2026-11-16T01:12:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-16T09:00:00+09:00"
+   "newest": "2026-11-16T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yen steady against euro and dollar after soft Japanese GDP data",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46X011:0-yen-steady-against-euro-and-dollar-after-soft-japanese-gdp-data/",
+   "published_utc": "2026-11-16T01:06:19+00:00",
+   "title_original": "Yen steady against euro and dollar after soft Japanese GDP data",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a4483e860e1a39f9"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -51884,23 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "64dc13c2cc1b7769"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XY0tKYTZnZkRkdXJQRDJ6NHUxMTJhQUNwVTRIelA3cWtIdnY2RGtkN0t1ZVFIajAxa1J2WUtyVGdqRGlOZUg0Z2JUVGVYMUR2eUdN?oc=5",
-   "published_utc": "2026-10-21T04:40:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "322d5a1b2f2277e1"
   },
   {
    "source_id": "manual_ia",

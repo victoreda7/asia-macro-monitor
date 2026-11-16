@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T01:02:46.878284+00:00
+Última coleta: 2026-11-16T01:12:42.602251+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1012
-  🇨🇳 China          862
+  🇯🇵 Japão          1013
+  🇨🇳 China          861
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  817
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen steady against euro and dollar after soft Japanese GDP data
   - [japan] Japan's Q3 GDP drops an annualized 0.1%, below market expectations
   - [japan] BOJ Still Poised to Tighten Despite Sluggish Economic Growth — Market Talk
   - [korea] Future Fund 'fiscal paradigm shift' for strategic investment: policy report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing
   - [taiwan] Taiwan warns chip workers of detention risk in China, citing 470 cases
   - [china] GEOPOLITICS | Canada Trade Minister Maninder Sidhu Says Country Is Realistic on China Ties
-  - [china] China central bank hikes foreign reserve requirement for 1st time in 5 years
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T01:02:47+00:00",
+      "published_utc": "2026-11-16T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
