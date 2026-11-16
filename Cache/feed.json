@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T08:33:30.195941+00:00",
- "collected_at_utc": "2026-11-16T08:33:30.195941+00:00",
+ "generated_at_utc": "2026-11-16T08:42:43.853691+00:00",
+ "collected_at_utc": "2026-11-16T08:42:43.853691+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1007,
+  "japan": 1008,
   "china": 872,
-  "taiwan": 304,
+  "taiwan": 303,
   "korea": 817
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T08:12:26+00:00"
+   "newest": "2026-11-16T08:32:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T07:54:20+00:00"
+   "newest": "2026-11-16T08:18:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T08:10:00+00:00"
+   "newest": "2026-11-16T08:26:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:51:00+00:00"
+   "newest": "2026-11-16T08:40:43+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-16T07:22:25+00:00"
+   "newest": "2026-11-16T08:33:57+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T02:00:00+00:00"
+   "newest": "2026-11-16T07:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T08:32:00+00:00"
+   "newest": "2026-11-16T08:41:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T03:26:00+00:00"
+   "newest": "2026-11-16T07:04:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:35:29+00:00"
+   "newest": "2026-11-16T08:29:49+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T08:26:46+00:00"
+   "newest": "2026-11-16T08:38:55+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -345,20 +345,55 @@
  "items": [
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ chief Ueda tells government panel wage growth 'quite strong'",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46X0I8:0-boj-chief-ueda-tells-government-panel-wage-growth-quite-strong/",
-   "published_utc": "2026-11-16T08:15:23+00:00",
-   "title_original": "BOJ chief Ueda tells government panel wage growth 'quite strong'",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261116001278:0-china-s-real-gdp-growth-may-ease-to-4-4-next-year-market-talk/",
+   "published_utc": "2026-11-16T08:37:00+00:00",
+   "title_original": "China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "551ec268a9954f4f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Takada, a Bank of Japan council member, emphasizes the risk of price rises as a new phase accelerates the pace of interest rate hikes (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03OU05WUs0RkNQTmJHdDAtbDB0MGI1NFVZRDlGbUhNLXJYdzYxeTdxREdQUFQzOE9DTVpjbkp3YnIzWThMR3ZOaUlKbXlmZnNJZWxUOHdzd0otdHU0c3o3RDZrX25MZnN5T0tkdHBJcWxGQWtYWHk5WnhJTnZFaUE?oc=5",
+   "published_utc": "2026-11-16T08:29:49+00:00",
+   "title_original": "高田・日銀審議委員「利上げペース速める新局面」物価上昇リスク強調（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "39a2ffcf19176eb2"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ chief Ueda tells government panel wage growth ’quite strong’",
+   "url": "https://www.investing.com/news/economy-news/boj-chief-ueda-tells-government-panel-wage-growth-quite-strong-5028640",
+   "published_utc": "2026-11-16T08:18:25+00:00",
+   "title_original": "BOJ chief Ueda tells government panel wage growth ’quite strong’",
    "region": "japan",
    "topics": [
     "monetary"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "36a497c05822b9a8"
+   "id": "da8fbf5f75f2564b"
   },
   {
    "source_id": "nhk_economy",
@@ -673,6 +708,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ce6ade0e54617c40"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's high-tech manufacturing powers October industrial growth",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DUS14YzU0aHc1eGY2MlBJRkFzZUVNTV9rR3pVM2lkbnJ3Qjd2TTFKdG9FdDNKU3FZM2dGTlJ3ZDlhWm5JTnlUWDhiY1F0Rlc5eV9FbEQxRlV2UnRyUXdyb0Zsem5PVHp0U0NzdkhxcmxNVDlRd2VFXzU3YlA?oc=5",
+   "published_utc": "2026-11-16T07:04:15+00:00",
+   "title_original": "China's high-tech manufacturing powers October industrial growth",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ab266a01355b9410"
   },
   {
    "source_id": "tradingview_live",
@@ -2815,7 +2867,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2826,7 +2878,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3244,6 +3296,25 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-14T19:58:07+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3834,6 +3905,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5574,24 +5663,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -5815,25 +5886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-13T02:28:08+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51855,57 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dee54476c980b140"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance",
-   "url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-tsmc-rating-to-aa2-on-booming-ai-demand-and-market-dominance-4963663",
-   "published_utc": "2026-10-21T15:46:37+00:00",
-   "title_original": "Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d2a9fb19b4de06e6"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Kremlin Says China Preparing for Possible Putin-Trump-Xi Meeting",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMTFtU1ZmYlhkdjhvTUR2ZmFRUzVIcDNQOUpKTkp0S1NCZGJjT1RfUjdobXZ5cTRtOWF3Sm9kaXdBdEo2NUM2VzNjaFp1WjdNRWpVeXY3VS1lbXlzRFNyd1R1SEk2WC1UZWVwdm5WcU1vSE83RmswcVZWSTdTRXVNdm1uV1Jmd1JMNFFxZU9TeXpBQ2NzVzJLV0F0TWg2cUJLdHFjalpHMHRPb3BVV29FSEV2UktyUQ?oc=5",
-   "published_utc": "2026-10-21T15:10:44+00:00",
-   "title_original": "Kremlin Says China Preparing for Possible Putin-Trump-Xi Meeting",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9dd703a5c9d28443"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Germany wants to avoid China trade war despite EU ‘kill switch’: Merz",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVC1TRTVscERwR3BWQlE5NXZTZTRWN0tpbnFYTzR3Tk9qYk95TnNxZXNxSkIwY0JmeVFpczg2WVQyN0IyUkJubWhiajY0djhCcHlzQ3ZjLW1Bb2U5ZERnTjBfUUpsakNjeWhHUWpvXy1qZllKQmNsTkFhN1I3SUEzclJPRU9tS0hMSW5VZmlGV0EtSzYzV1phMjdZbUU2RWpwX184Mkg5Z2hIbVREb2d2dE44V2ZUNi1lYzRjStIBvAFBVV95cUxNaEhFUlMxd2lJQm9DMUNJaURYQXNMX3Bsb1Npa0s3dnUtc0owWUo0S1VJa1pfMUUzWW13RWppTHF6X1lXQTJHZzk1ZDhUZjN1OWJ2OEdBZThkMUc5QnFJVVZRdHZpM2t0Unp0SE9pZmtkcDdVUmw0ZW9rdTJIcHlxcTlLUlBUdEN4S2dUZktDTFN4Qy02VUx3QU16Y095NDB4NkRSNVZTS3FsV2NaLTB6WlRyZU9CTEt2MlNQOQ?oc=5",
-   "published_utc": "2026-10-21T15:00:07+00:00",
-   "title_original": "Germany wants to avoid China trade war despite EU ‘kill switch’: Merz",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7840da97170b9d10"
   },
   {
    "source_id": "manual_ia",

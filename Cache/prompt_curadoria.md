@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T08:33:30.195941+00:00
+Última coleta: 2026-11-16T08:42:43.853691+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1007
+  🇯🇵 Japão          1008
   🇨🇳 China          872
-  🇹🇼 Taiwan         304
+  🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  817
 
 ## O que já está no feed (não repita)
 
-  - [japan] BOJ chief Ueda tells government panel wage growth 'quite strong'
+  - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
+  - [japan] Takada, a Bank of Japan council member, emphasizes the risk of price rises as a new phase accelerates the pace
+  - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
   - [china] China-ASEAN Summit China calls for promotion of cooperation in economic and trade fields
   - [japan] Highlights of the Outlook for Economic Activity and Prices (October 2026)
   - [japan] BOJ Current Account Balances by Sector (Oct.)
@@ -36,6 +38,7 @@ Total: 3000 manchetes
   - [china] Nissan Turns China Into Export Hub as Sales There Slump
   - [japan] Additional interest rate hikes at fixed intervals and widths Bank of Japan member Takada (Jiji Press)
   - [japan] Japan Industrial Output Recovers Less Than Estimated
+  - [china] China's high-tech manufacturing powers October industrial growth
   - [japan] Resurgent Inflation to Drive More BOJ Rate Hikes — Market Talk
   - [korea] SK Square: SK Hynix equity earnings drove 9M profit as shareholder returns and AI-led growth advanced
   - [china] Nvidia’s All-Important Q3 Report, China Tech Results, Anthropic IPO And Microsoft Ignite To Keep Investors Hoo
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
   - [japan] Japan’s economy contracts 0.1% annualized in Q3; September industrial output rebounds 2.0%
   - [taiwan] Interest rate hike in December? Yang Jinlong: Three key points need to be considered: inflation and lending po
-  - [korea] Korea's wage, productivity gaps widen amid chip-led growth: KDI
-  - [japan] Weak Consumption Likely to Keep Japan's Economy in Low Gear — Market Talk
-  - [japan] Weak Japan Consumption Could Deepen BOJ Board Divisions — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T08:33:30+00:00",
+      "published_utc": "2026-11-16T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
