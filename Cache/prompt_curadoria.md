@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T00:05:32.117866+00:00
+Última coleta: 2026-11-16T00:13:57.734180+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1001
@@ -17,11 +17,14 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Q3 GDP dropped an annualized 0.1%
+  - [korea] Korea makes world-class memory chips. Can its suppliers catch up?
   - [japan] Japan's economy unexpectedly shrinks in July-September as consumption falters
   - [japan] JAPAN Q3 GDP PRIVATE CONSUMPTION -0.2% Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION
   - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
   - [japan] JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION
   - [japan] JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION -0.1 POINT; MEDIAN FORECAST +0.1 POINT
+  - [japan] BREAKING NEWS: Japan's real GDP down 0.02% on quarter in July-Sept.
   - [japan] JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.8 PCT POINT (Q2 -0.1 POINT); MEDIAN FORECAST +0.4 POINT
   - [japan] JAPAN Q3 GDP NET EXPORTS CONTRIBUTION +0.3 PCT POINT (Q2 +0.5 POINT); MEDIAN FORECAST -0.4 PCT POINT
   - [japan] JAPAN Q3 REAL GDP POSTS 1ST FALL IN 4 QUARTERS AS PRIVATE CONSUMPTION DECLINES FOR FIRST TIME IN 10 QUARTERS
@@ -34,7 +37,7 @@ Total: 3000 manchetes
   - [china] Senators demand Lutnick testimony over alleged Nvidia chip diversions to China
   - [japan] How a 59-year-old former Hollywood actor, who had failed in karate, acting, and love, became a ``ninja who exp
   - [japan] Reasons why supermarkets don't welcome food tax cuts...Difficult management decisions faced as ``consumption f
-  - [japan] <Combining technologies from withdrawn and loss-making businesses> Responding to re-growth through AI robots a
+  - [japan] Responding to re-growth through AI robots and earphones that embody the new "Casio-ness" | Business | Toyo Kei
   - [japan] Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and pu
   - [japan] AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack counter
   - [japan] AI aims at the "back door of the system"...Bank of Japan and OpenAI talk ``Basics of cyber attack countermeasu
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?
   - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
   - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
-  - [china] China’s auto export boom lifts Hyundai Glovis to record profit
-  - [china] The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15
-  - [japan] BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T00:05:32+00:00",
+      "published_utc": "2026-11-16T00:13:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
