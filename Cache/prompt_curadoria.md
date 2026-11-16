@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T02:02:53.890824+00:00
+Última coleta: 2026-11-16T02:12:51.076396+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1013
-  🇨🇳 China          867
-  🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  813
+  🇯🇵 Japão          1014
+  🇨🇳 China          866
+  🇹🇼 Taiwan         308
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] China Oct Industrial Output +4.8% On Year; Market Expected +5.2%
   - [china] China Oct Industrial Output +0.21% On Month
   - [korea] NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending
+  - [japan] Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consump
   - [china] China's Home Price Decline Gathered Pace in October
   - [china] Drop in China’s new home prices narrows to 11-month low
   - [korea] Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ po
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [japan] Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk
   - [china] On November 16, the central bank conducted an overnight reverse repurchase operation of RMB 460 billion.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7141 MON VS 6.7152
+  - [taiwan] TSMC's new US$500 million arm could invest in chip suppliers
   - [japan] Japan Auctioning Y250.0B Of 10-Year CPI-Indexed Bonds
   - [china] Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026
   - [japan] Nikkei, Kospi slide: Asian markets fall as Nvidia results, US inflation concerns keep investors cautious
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN Q3 REAL GDP -0.0% Q/Q; MNI MEDIAN +0.0%
   - [japan] JAPAN Q2 REAL GDP REVISED TO +1.7% ANNUALIZED FROM +1.4%
   - [japan] JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q
-  - [japan] JAPAN Q3 GDP: EMPLOYEE COMPENSATION IN REAL TERMS +2.4% Q/Q VS. +2.5% IN Q2, +1.4% IN Q1, +0.6% IN Q4
-  - [korea] Korea makes world-class memory chips. Can its suppliers catch up?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T02:02:54+00:00",
+      "published_utc": "2026-11-16T02:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T02:02:53.890824+00:00",
- "collected_at_utc": "2026-11-16T02:02:53.890824+00:00",
+ "generated_at_utc": "2026-11-16T02:12:51.076396+00:00",
+ "collected_at_utc": "2026-11-16T02:12:51.076396+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1013,
-  "china": 867,
-  "taiwan": 307,
-  "korea": 813
+  "japan": 1014,
+  "china": 866,
+  "taiwan": 308,
+  "korea": 812
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:38:58+00:00"
+   "newest": "2026-11-16T01:36:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T10:53:36+09:00"
+   "newest": "2026-11-16T10:53:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T23:05:00+00:00"
+   "newest": "2026-11-15T19:26:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:13:00+00:00"
+   "newest": "2026-11-16T01:35:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T14:00:13+00:00"
+   "newest": "2026-11-16T00:00:13+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T01:28:53+00:00"
+   "newest": "2026-11-16T02:02:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T11:42:00+00:00"
+   "newest": "2026-11-16T01:54:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,13 +331,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T01:54:28+00:00"
+   "newest": "2026-11-16T02:01:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
@@ -410,6 +410,24 @@
    "live_wire": true,
    "manual": false,
    "id": "a1e38d5bc827084d"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consumption | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iOHl1czRaMUZKVzZkeTEyR3dxTlpyTjRHaTJ5V0xQVjNmNFczMXJydi1rajQwUUVoMl90elFjS040QlpMVU8zOVV2QVNxX1RJOUIwWG1SakJVZjRLU1Nz?oc=5",
+   "published_utc": "2026-11-16T01:54:00+00:00",
+   "title_original": "日本第3季經濟停滯伊朗戰爭推升通膨壓抑消費| 國際",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fc1f2e9b577cb8d"
   },
   {
    "source_id": "tradingview_live",
@@ -529,6 +547,23 @@
    "live_wire": true,
    "manual": false,
    "id": "76bc8b70a62705db"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC's new US$500 million arm could invest in chip suppliers",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVo0Wm1GZU9yRTgyQjh5dUxxQVRuNS1jbU1SVzhVSHZOVWgtd19ITVdGS0k2elk1cUhUbmNZcHpmR2F4SC01MEZGLVdHMHZoQ2stYXUzQ1Bxc0ZfWHB0dmp0T2dBM0E5ZE5LeDgyREFwemltRDVWdnZ1YU1MV2V2ZElYbVVQaDdReDl6aHBnOUo3MW1oa1pjcWthdzg0b2pE?oc=5",
+   "published_utc": "2026-11-16T01:31:30+00:00",
+   "title_original": "TSMC's new US$500 million arm could invest in chip suppliers",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6926a5624bf18536"
   },
   {
    "source_id": "tradingview_live",
@@ -51865,40 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e1797372bb8aa058"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Corporate profits, debts improve in 2025: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZ0prZlV0RzRpa0NqWnFDZnhwY1NZSTV0ZnNCMnhZTHdINFYyZ2NGLU82UUtTRUxaaGhfS1A5ajRBVTZXNDR5dlRXUnVYSE9TRk9nQjVfemdjdw?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "Corporate profits, debts improve in 2025: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c6fc93597b1641a"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Youth Unemployment Rate Eases to 18%",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUlVCbDFZOHNXeXN6cmszdmxmNV9hQ1dXdWlaMlVMeXpDemFZVk9KTElQWkF1VmdZVko0NGxyT0ZsZ2FsNlo2aGxpb204d3FSblBGc0NXYmpoRXc4WDN0dS1QX3huYlFHUkVtcmVSeW0wbEJQMlRkT18wQ2lkVzU0MlFrTjVVcE42aVJINENZOWl0YjVqMXFfanUxOFNaZw?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "China’s Youth Unemployment Rate Eases to 18%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "278f7c5e698ece17"
   },
   {
    "source_id": "manual_ia",
