@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T17:22:54.161381+00:00
+Última coleta: 2026-11-16T17:32:56.390045+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
+  🇯🇵 Japão          1012
   🇨🇳 China          878
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  807
+  🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan eyes two-pronged approach to cover tax cut, growth investments
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US blocks China's indirect access to American AI chips
   - [china] No chips for you: US issues rule to stymie China's access to AI GPUs via data centers
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps
   - [japan] Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hi
   - [japan] Former Bank of Japan branch will be nicknamed ``Machinowa Korinbo'' by Kanazawa City, starting in May next yea
-  - [china] Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T17:22:54+00:00",
+      "published_utc": "2026-11-16T17:32:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
