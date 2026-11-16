@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T00:52:49.099770+00:00
+Última coleta: 2026-11-16T01:02:46.878284+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1012
@@ -26,7 +26,6 @@ Total: 3000 manchetes
   - [japan] Japan's Q3 GDP dropped an annualized 0.1%
   - [japan] Japan Q3 GDP Flat On Quarter
   - [japan] Dollar Expected to Rise Further to 162 Yen in 2027 — Market Talk
-  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
   - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com
   - [korea] SK Hynix to Invest $1 Billion Over Five Years to Support Chip Suppliers
   - [japan] JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2
@@ -40,7 +39,9 @@ Total: 3000 manchetes
   - [japan] JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q
   - [japan] JAPAN Q3 GDP: EMPLOYEE COMPENSATION IN REAL TERMS +2.4% Q/Q VS. +2.5% IN Q2, +1.4% IN Q1, +0.6% IN Q4
   - [korea] Korea makes world-class memory chips. Can its suppliers catch up?
+  - [japan] Japan's economy unexpectedly shrinks as inflation squeezes households
   - [japan] JAPAN Q3 GDP PRIVATE CONSUMPTION -0.2% Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION
+  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
   - [japan] JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION
   - [japan] JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION -0.1 POINT; MEDIAN FORECAST +0.1 POINT
   - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan warns chip workers of detention risk in China, citing 470 cases
   - [china] GEOPOLITICS | Canada Trade Minister Maninder Sidhu Says Country Is Realistic on China Ties
   - [china] China central bank hikes foreign reserve requirement for 1st time in 5 years
-  - [china] Senators demand Lutnick testimony over alleged Nvidia chip diversions to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T00:52:49+00:00",
+      "published_utc": "2026-11-16T01:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
