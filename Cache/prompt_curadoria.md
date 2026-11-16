@@ -7,27 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T02:32:44.137753+00:00
+Última coleta: 2026-11-16T02:42:52.051294+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1010
-  🇨🇳 China          872
-  🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  812
+  🇯🇵 Japão          1006
+  🇨🇳 China          874
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies
+  - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
   - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
   - [japan] Japan rubber trades in tight range as weaker yen offsets lower oil
   - [china] China's factory output grows but household spending remains subdued
   - [china] China's Home Price Decline Gathered Pace in October — Update
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
   - [china] CHINA YTD RETAIL SALES +1.0% Y/Y VS JAN-SEP +1.1% Y/Y
+  - [china] China factory output, retail sales miss forecasts in Oct
   - [china] China’s factory output, retail sales growth slow in October
   - [china] China's Home Price Decline Gathered Pace in October
   - [china] HKEX launches offshore yuan bond index amid yuan internationalisation push
   - [china] China Oct Industrial Output +4.8% On Year; Market Expected +5.2%
   - [china] China Oct Industrial Output +0.21% On Month
+  - [china] The added value of industries above designated size increased by 4.8% in October 2026
   - [korea] NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending
   - [japan] Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consump
   - [china] Drop in China’s new home prices narrows to 11-month low
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Q3 GDP dropped an annualized 0.1%
   - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com
   - [japan] Japan Q3 GDP Flat On Quarter
-  - [japan] Dollar Expected to Rise Further to 162 Yen in 2027 — Market Talk
-  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
-  - [korea] SK Hynix to Invest $1 Billion Over Five Years to Support Chip Suppliers
-  - [japan] JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T02:32:44+00:00",
+      "published_utc": "2026-11-16T02:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

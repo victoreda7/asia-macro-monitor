@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T02:32:44.137753+00:00",
- "collected_at_utc": "2026-11-16T02:32:44.137753+00:00",
+ "generated_at_utc": "2026-11-16T02:42:52.051294+00:00",
+ "collected_at_utc": "2026-11-16T02:42:52.051294+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1010,
-  "china": 872,
-  "taiwan": 306,
-  "korea": 812
+  "japan": 1006,
+  "china": 874,
+  "taiwan": 307,
+  "korea": 813
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:18:00+00:00"
+   "newest": "2026-11-16T01:51:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T02:12:39+00:00"
+   "newest": "2026-11-16T02:24:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:13:27+00:00"
+   "newest": "2026-11-13T15:11:57+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T13:05:00+00:00"
+   "newest": "2026-11-16T02:40:42+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-16T02:25:28+00:00"
+   "newest": "2026-11-16T02:41:29+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T01:13:00+00:00"
+   "newest": "2026-11-13T13:31:17+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-16T01:30:00+00:00"
+   "newest": "2026-11-16T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T02:31:00+00:00"
+   "newest": "2026-11-16T02:41:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T01:54:00+00:00"
+   "newest": "2026-11-16T02:27:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-16T10:00:00+09:00"
+   "newest": "2026-11-16T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46X05M:0-indonesian-rupiah-taiwan-dollar-fall-most-among-subdued-asian-currencies/",
+   "published_utc": "2026-11-16T02:41:59+00:00",
+   "title_original": "Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3b5913d0cc9f0b6a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4632141:0-korea-computer-revenue-and-earnings-declined-as-cash-tightened-and-inventory-expanded/",
+   "published_utc": "2026-11-16T02:39:36+00:00",
+   "title_original": "Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "79d701e7f1196f2a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -446,6 +480,24 @@
    "id": "fb7a6be501d8f2e5"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China factory output, retail sales miss forecasts in Oct",
+   "url": "https://www.investing.com/news/economic-indicators/china-factory-output-retail-sales-miss-forecasts-in-oct-5028314",
+   "published_utc": "2026-11-16T02:14:11+00:00",
+   "title_original": "China factory output, retail sales miss forecasts in Oct",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9e6d0b417c50bb07"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China’s factory output, retail sales growth slow in October",
@@ -530,6 +582,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4da344a4a7811664"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "The added value of industries above designated size increased by 4.8% in October 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41VEpNWThyaVRldFZlNUdpOXlUVGFPYjRXWjRfWDIzZHVJR0h6TmU5NU83T2cwZVB5UTFkYnhlM1JVdVpJWkwyOEk4QkhVNWttTGpqVDQwUWlJcE9odVR6UG5jSDc3dFNCUjNzZ2E0UWNNLVk?oc=5",
+   "published_utc": "2026-11-16T02:00:00+00:00",
+   "title_original": "2026年10月份规模以上工业增加值增长4.8%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a2714504ce5ba8ac"
   },
   {
    "source_id": "tradingview_live",
@@ -1115,40 +1184,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e3eacaad31be3cac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "MNI JAPAN Q3 REAL GDP -0.0% Q/Q; MNI MEDIAN +0.0%",
-   "url": "https://www.tradingview.com/news/dpa_afx:af09e069ba178:0-mni-japan-q3-real-gdp-0-0-q-q-mni-median-0-0/",
-   "published_utc": "2026-11-16T00:05:05+00:00",
-   "title_original": "MNI JAPAN Q3 REAL GDP -0.0% Q/Q; MNI MEDIAN +0.0%",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c5c1fceea954e268"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN Q2 REAL GDP REVISED TO +1.7% ANNUALIZED FROM +1.4%",
-   "url": "https://www.tradingview.com/news/macenews:9826fb5f5094b:0-japan-q2-real-gdp-revised-to-1-7-annualized-from-1-4/",
-   "published_utc": "2026-11-16T00:05:00+00:00",
-   "title_original": "JAPAN Q2 REAL GDP REVISED TO +1.7% ANNUALIZED FROM +1.4%",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "77ccc079e946307c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1840,7 +1875,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -1851,7 +1886,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -4950,7 +4985,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:52+00:00",
+   "published_utc": "2026-11-13T02:04:00+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -51865,40 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1cadf4969f0fa604"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7556bcad4f5f915"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVGJxa0ZVZlNlRHROdjdnNjAzQjVOZlhWTHgzSzVMeWZBTXB6MUR5SzlSeEhPRW5QMHNiQnAweWhjOTdjYmFsWm96NTBoaVpPNHhKUjNUSzRKQQ?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec85aea956112af3"
   },
   {
    "source_id": "manual_ia",
