@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T21:06:10.079571+00:00",
- "collected_at_utc": "2026-11-16T21:06:10.079571+00:00",
+ "generated_at_utc": "2026-11-16T21:13:19.590740+00:00",
+ "collected_at_utc": "2026-11-16T21:13:19.590740+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1031,
+  "japan": 1032,
   "china": 872,
   "taiwan": 301,
-  "korea": 796
+  "korea": 795
  },
- "elapsed_s": 236.6,
+ "elapsed_s": 64.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T03:39:48+00:00"
+   "newest": "2026-11-16T05:36:51+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T20:43:28+00:00"
+   "newest": "2026-11-16T21:04:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T20:43:11+00:00"
+   "newest": "2026-11-16T21:00:57+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T18:52:03+00:00"
+   "newest": "2026-11-09T08:56:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T05:35:03+09:00"
+   "newest": "2026-11-17T05:35:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T18:08:56+00:00"
+   "newest": "2026-11-16T20:51:44+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T10:34:47+00:00"
+   "newest": "2026-11-16T20:51:44+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T17:15:46+00:00"
+   "newest": "2026-11-16T20:51:44+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T21:05:00+00:00"
+   "newest": "2026-11-16T21:12:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T15:47:16+00:00"
+   "newest": "2026-11-16T16:47:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-17T05:45:00+09:00"
+   "newest": "2026-11-17T06:05:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,12 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-16T07:03:59+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "The famous soba, which has been priced at 555 yen for 40 years, is suddenly priced at 1,110 yen...The reason why the station cafeteria, which has been in the red for a long time, decided to \"raise the price by about twice\" | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964932?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-16T21:00:00+00:00",
+   "title_original": "40年間｢555円｣だった名物そばを､いきなり｢1110円｣に…《赤字続きの駅食堂》が\"約2倍の値上げ\"を決断した理由 | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d422533c78ba70e0"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1063,8 +1081,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -1079,7 +1097,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -3153,8 +3171,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -3168,7 +3186,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3602,24 +3620,6 @@
    "id": "6f7e7d999a55e883"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-15T06:23:25+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
@@ -4000,6 +4000,24 @@
    "live_wire": false,
    "manual": false,
    "id": "cc95e50fd4b363c7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-14T18:27:55+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4848,8 +4866,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -4863,7 +4881,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8004,7 +8022,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -8018,7 +8036,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5ffbd3cd068ab02a"
+   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "boj_whatsnew",
@@ -13525,7 +13543,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXFQdXM5NGdadXhNSnRhalRtOE9aSHdPYUNyeWtIam9xZ3JjMEI5cGxyUGpZbXBQamZlY2hxZFdTRC1NbllidG1MdDNpb193bGdmMEpwdGhLMmxLQjVQekZGNEpRY181RkVick94WHlDMTMtblVBaTNWT0tRSkVmNXhlSEZYcFFRTV96WVAzLURWcEo3MGx1RDZFdk1KQ1plTldWdHlxbkdHVlVsX1k0bw?oc=5",
    "published_utc": "2026-11-10T04:54:00+00:00",
@@ -51879,23 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a7bee90c535cbbd0"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "[Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip substrate production line",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdTM3WlROVm5XVDU4czhyNGpFUkhRQ1dVeEJmTmI5S1VEUE1EUXJHd2xOSWVva2tYVFdXMXQ5My1tNk9ZT1l0NlNVdFpFdmdPRW5V?oc=5",
-   "published_utc": "2026-10-22T06:34:12+00:00",
-   "title_original": "[Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip substrate production line",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4eaa76ab6ca3cd14"
   },
   {
    "source_id": "manual_ia",
