@@ -7,16 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-15T23:52:42.539415+00:00
+Última coleta: 2026-11-16T00:05:32.117866+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1000
-  🇨🇳 China          866
+  🇯🇵 Japão          1001
+  🇨🇳 China          865
   🇹🇼 Taiwan         314
   🇰🇷 Coreia do Sul  820
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's economy unexpectedly shrinks in July-September as consumption falters
+  - [japan] JAPAN Q3 GDP PRIVATE CONSUMPTION -0.2% Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION
+  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
+  - [japan] JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION
+  - [japan] JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION -0.1 POINT; MEDIAN FORECAST +0.1 POINT
+  - [japan] JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.8 PCT POINT (Q2 -0.1 POINT); MEDIAN FORECAST +0.4 POINT
+  - [japan] JAPAN Q3 GDP NET EXPORTS CONTRIBUTION +0.3 PCT POINT (Q2 +0.5 POINT); MEDIAN FORECAST -0.4 PCT POINT
+  - [japan] JAPAN Q3 REAL GDP POSTS 1ST FALL IN 4 QUARTERS AS PRIVATE CONSUMPTION DECLINES FOR FIRST TIME IN 10 QUARTERS
+  - [japan] JAPAN REAL Q3 GDP +1.1% Y/Y (Q2 REVISED +0.9%); MEDIAN FORECAST +1.2% (RANGE +1.1% TO +1.5%)
+  - [japan] JAPAN Q3 REAL GDP -0.0% Q/Q; MEDIAN ECONOMIST FORECAST +0.1% (RANGE -0.1% TO +0.4%)
+  - [japan] JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MEDIAN FORECAST +0.3% (RANGE -0.3% TO +1.5%)
   - [taiwan] Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing
   - [taiwan] Taiwan warns chip workers of detention risk in China, citing 470 cases
   - [china] China central bank hikes foreign reserve requirement for 1st time in 5 years
@@ -46,17 +57,6 @@ Total: 3000 manchetes
   - [china] China’s auto export boom lifts Hyundai Glovis to record profit
   - [china] The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15
   - [japan] BREAKING NEWS: 68.6% worried about Japan's fiscal health due to consumption tax cut
-  - [china] Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% sta
-  - [china] The central bank’s major adjustments are implemented! RMB, new signal
-  - [china] After the Huang Renxun scandal, the United States may tighten chip exports. Chinese official media is worried 
-  - [china] Novelis to sell two China subsidiaries for $265 million
-  - [china] Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries
-  - [china] Novelis Agrees to Sell Two China Subsidiaries for About $265 Million
-  - [korea] Samsung conquered AI chips. Now it wants to build data centres
-  - [korea] South Korea's October ICT Exports Hit $70.35 Billion as Chip Exports Jump 259.4%
-  - [china] Effective from today! The central bank raised the foreign exchange deposit reserve ratio for the first time in
-  - [china] The central bank’s major adjustment is happening today
-  - [china] Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-15T23:52:42+00:00",
+      "published_utc": "2026-11-16T00:05:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
