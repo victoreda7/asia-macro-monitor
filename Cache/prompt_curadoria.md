@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T05:12:44.854793+00:00
+Última coleta: 2026-11-16T05:22:44.804374+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1009
-  🇨🇳 China          878
-  🇹🇼 Taiwan         304
+  🇨🇳 China          879
+  🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
   - [japan] Hawkish BOJ Member Urges Nimble Rate Hikes
+  - [japan] Japan's Economic Growth Trend Likely to Remain Intact — Market Talk
   - [japan] BOJ’s Takata calls for swift hike in rates to ’good’ position
+  - [japan] BOJ hawk Takata calls for quick pace of rate hikes
   - [japan] Dollar extends gains, yen looks past soft Japan GDP data
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
   - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix to Spend About $1 Billion to Support Local Suppliers
   - [japan] How will interest rates on deposits and borrowings change if the Bank of Japan raises interest rates? Time lag
   - [china] China's new home prices fall again in October; slowest annual decline in almost a year
-  - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
-  - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T05:12:45+00:00",
+      "published_utc": "2026-11-16T05:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
