@@ -166,6 +166,13 @@ RSS_SOURCES = [
     {"id": "ked_global",    "name": "KED Global",         "url": "https://www.kedglobal.com/rss",                        "scope": "korea"},
 
     # ---- Pan-Ásia / global ----
+    # Ministério das Finanças do Japão, RSS oficial em inglês. Substitui a
+    # query gn_jp_mof do Google News, que parou em 01/07/2026 (o GN só
+    # devolvia páginas antigas do site). O feed traz leilões de JGB,
+    # intervenção cambial, reservas, fluxos de portfólio e estatística de
+    # comércio, com data em JST (+0900) já certa.
+    {"id": "mof_jp",        "name": "MOF Japan",          "url": "https://www.mof.go.jp/english/news.rss",               "scope": "japan"},
+
     {"id": "nikkei_asia",   "name": "Nikkei Asia",        "url": "https://asia.nikkei.com/rss/feed/nar",                  "scope": "global"},
     {"id": "investing_econ", "name": "Investing Economy", "url": "https://www.investing.com/rss/news_14.rss",             "scope": "global"},
     {"id": "investing_fx",  "name": "Investing Forex",    "url": "https://www.investing.com/rss/news_1.rss",              "scope": "global"},
@@ -191,8 +198,6 @@ GOOGLE_NEWS_QUERIES = [
      "q": "site:www3.nhk.or.jp/nhkworld (economy OR fiscal OR budget OR tax OR BOJ OR yen OR GDP OR MOF)"},
     {"id": "gn_jp_kyodo",   "name": "Kyodo News EN",   "region": "japan",
      "q": "site:english.kyodonews.net (economy OR BOJ OR yen OR inflation OR GDP OR fiscal OR budget)"},
-    {"id": "gn_jp_mof",     "name": "MOF Japan",       "region": "japan",
-     "q": "site:mof.go.jp OR site:www.mof.go.jp (budget OR fiscal OR tax OR bond)"},
     {"id": "gn_jp_investing", "name": "Investing Japan", "region": None,
      "q": "site:investing.com (Japan OR yen OR BOJ OR intervention OR JGB)"},
     # region=None de propósito: "物価" (preço/inflação) sozinho traz qualquer
@@ -393,7 +398,7 @@ TOPIC_PATTERNS = {
         r"tax (cuts?|hikes?|reform|revenue)|subsid\w+|supplementary budget|"
         r"treasury bonds?|special bonds?|local government (bonds?|debt)|"
         r"spending plan|fiscal (package|stimulus|expansion)|"
-        r"defen[cs]e (spending|budget)|budget request)\b"
+        r"defen[cs]e (spending|budget)|budget request|government debt)\b"
         r"|財政|補正予算|国債|増税|減税|歳出|予算案"
         r"|财政|专项债|国债|减税|增税|赤字|刺激"
         r"|재정|추경|국채|예산|감세"
@@ -405,7 +410,9 @@ TOPIC_PATTERNS = {
         r"yen|yuan|renminbi|taiwan dollar|korean won|"
         r"(won|yen|yuan) (weaken\w*|strengthen\w*|slid\w*|slump\w*|rall\w+|"
         r"rises?|falls?|hits?|tumbl\w+)|"
-        r"currency (fixing|midpoint)|capital (outflow|inflow)s?)\b"
+        r"currency (fixing|midpoint)|capital (outflow|inflow)s?|"
+        # títulos do MOF: fluxos de portfólio e reservas
+        r"international transactions in securities|international reserves)\b"
         r"|\b(jpy|cny|krw|twd)\b"
         r"|為替|円安|円高|介入|外国為替"
         r"|汇率|人民币|中间价|贬值|升值|外匯|新台幣"
@@ -450,7 +457,7 @@ TOPIC_PATTERNS = {
     ),
     "trade": _rx(
         r"\b(exports?\w*|imports?\w*|trade (balance|surplus|deficit|war|deal|"
-        r"talks|data|tension\w*)|tariffs?|customs|shipments?|current account|"
+        r"talks|data|statistics|tension\w*)|tariffs?|customs|shipments?|current account|"
         r"export controls?|sanctions?|supply chains?|trade agreement|"
         # Cúpula e trégua comercial EUA–China e pacotes de investimento
         # bilaterais (ex.: os US$ 350 bi da Coreia nos EUA) — em set/2026 a
