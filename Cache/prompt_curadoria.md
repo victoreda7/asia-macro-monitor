@@ -7,23 +7,39 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T00:13:57.734180+00:00
+Última coleta: 2026-11-16T00:22:49.404263+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1001
-  🇨🇳 China          865
-  🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  820
+  🇯🇵 Japão          1014
+  🇨🇳 China          862
+  🇹🇼 Taiwan         309
+  🇰🇷 Coreia do Sul  815
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk
+  - [japan] CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARC
   - [japan] Japan's Q3 GDP dropped an annualized 0.1%
+  - [japan] Japan Q3 GDP Flat On Quarter
+  - [japan] Dollar Expected to Rise Further to 162 Yen in 2027 — Market Talk
+  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
+  - [japan] JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2
+  - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com
+  - [japan] JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2
+  - [japan] JAPAN Q3 CONSUMPTION -0.3% Q/Q; -0.1 PP CONTRIBUTION
+  - [japan] JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MNI MEDIAN +0.1%
+  - [japan] JAPAN Q3 CAPEX +1.6% Q/Q +0.3 PP CONTRIBUTION
+  - [japan] JAPAN Q3 GDP POSTS 1ST DROP IN 4 QUARTERS
+  - [japan] MNI JAPAN Q3 REAL GDP -0.0% Q/Q; MNI MEDIAN +0.0%
+  - [japan] JAPAN Q2 REAL GDP REVISED TO +1.7% ANNUALIZED FROM +1.4%
+  - [japan] JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q
+  - [japan] JAPAN Q3 GDP: EMPLOYEE COMPENSATION IN REAL TERMS +2.4% Q/Q VS. +2.5% IN Q2, +1.4% IN Q1, +0.6% IN Q4
   - [korea] Korea makes world-class memory chips. Can its suppliers catch up?
   - [japan] Japan's economy unexpectedly shrinks in July-September as consumption falters
   - [japan] JAPAN Q3 GDP PRIVATE CONSUMPTION -0.2% Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION
-  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
   - [japan] JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION
   - [japan] JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION -0.1 POINT; MEDIAN FORECAST +0.1 POINT
+  - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh
   - [japan] BREAKING NEWS: Japan's real GDP down 0.02% on quarter in July-Sept.
   - [japan] JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.8 PCT POINT (Q2 -0.1 POINT); MEDIAN FORECAST +0.4 POINT
   - [japan] JAPAN Q3 GDP NET EXPORTS CONTRIBUTION +0.3 PCT POINT (Q2 +0.5 POINT); MEDIAN FORECAST -0.4 PCT POINT
@@ -41,22 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and pu
   - [japan] AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack counter
   - [japan] AI aims at the "back door of the system"...Bank of Japan and OpenAI talk ``Basics of cyber attack countermeasu
-  - [china] US, Allies Agree to Guard AI Supply Chains From China, FT Says
-  - [china] US and allies sign accord to protect AI supply chains from China
-  - [taiwan] Nvidia defends employee in Taiwan AI chip smuggling case
-  - [taiwan] Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case
-  - [japan] Over 63% skeptical about PM's tax cut to help fight inflation
-  - [china] Nvidia Partner Megaspeed Breaks Silence on Alice Huang, Launches Probe Into China Chip Supply Links
-  - [japan] [Breaking news] Ehime prefecture gubernatorial election exit poll results
-  - [japan] Matsuyama mayoral election vote counting and exit poll election information is here [Breaking news]
-  - [japan] [Breaking news] Matsuyama mayoral election exit poll results
-  - [korea] Will the Bank of Korea raise its base interest rate on the 26th? Tensions rise over the possibility of a ‘big 
-  - [china] APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy
-  - [japan] [Breaking news] Fukuoka mayoral election exit poll results
-  - [china] The central bank's "lock-up and release of short-term measures" stabilized funding expectations, with a net wi
-  - [korea] The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?
-  - [japan] Fukuoka mayoral election vote counting and exit poll election information is here [Breaking news]
-  - [japan] Ehime Prefecture gubernatorial election vote counting and exit poll election information is here [Breaking new
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T00:13:57+00:00",
+      "published_utc": "2026-11-16T00:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T00:13:57.734180+00:00",
- "collected_at_utc": "2026-11-16T00:13:57.734180+00:00",
+ "generated_at_utc": "2026-11-16T00:22:49.404263+00:00",
+ "collected_at_utc": "2026-11-16T00:22:49.404263+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1001,
-  "china": 865,
-  "taiwan": 314,
-  "korea": 820
+  "japan": 1014,
+  "china": 862,
+  "taiwan": 309,
+  "korea": 815
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-15T23:47:19+00:00"
+   "newest": "2026-11-16T00:13:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-15T22:59:34+00:00"
+   "newest": "2026-11-16T00:13:12+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T15:45:39+00:00"
+   "newest": "2026-11-16T00:06:29+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T00:04:06+00:00"
+   "newest": "2026-11-16T00:20:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T22:31:55+00:00"
+   "newest": "2026-11-15T19:35:00+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T15:16:45+00:00"
+   "newest": "2026-11-16T00:15:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,18 +331,54 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T23:56:13+00:00"
+   "newest": "2026-11-16T00:10:51+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
    "newest": "2026-11-15T11:26:15+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001211:0-jgb-futures-fall-tracking-declines-in-u-s-treasurys-market-market-talk/",
+   "published_utc": "2026-11-16T00:16:00+00:00",
+   "title_original": "JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ffd2a8fc82df2fd8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARCH 2027) TO HIT +0.9% OFFICIAL FORECAST",
+   "url": "https://www.tradingview.com/news/macenews:f1ed37aa0094b:0-cabinet-office-japan-gdp-must-grow-real-0-09-q-q-or-annualized-0-4-in-each-quarter-of-fiscal-2026-to-march-2027-to-hit-0-9-official-forecast/",
+   "published_utc": "2026-11-16T00:14:00+00:00",
+   "title_original": "CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARCH 2027) TO HIT +0.9% OFFICIAL FORECAST",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e459751c344e4493"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -359,6 +395,245 @@
    "live_wire": false,
    "manual": false,
    "id": "34cce04f8d242a35"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Q3 GDP Flat On Quarter",
+   "url": "https://www.tradingview.com/news/dpa_afx:ab3c073ca07c4:0-japan-q3-gdp-flat-on-quarter/",
+   "published_utc": "2026-11-16T00:13:04+00:00",
+   "title_original": "Japan Q3 GDP Flat On Quarter",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "33db0e19449192e6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Dollar Expected to Rise Further to 162 Yen in 2027 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001204:0-dollar-expected-to-rise-further-to-162-yen-in-2027-market-talk/",
+   "published_utc": "2026-11-16T00:13:00+00:00",
+   "title_original": "Dollar Expected to Rise Further to 162 Yen in 2027 — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "73daf2e45ff73f2f"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers-5028220",
+   "published_utc": "2026-11-16T00:12:29+00:00",
+   "title_original": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6690623bfb07dd08"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2",
+   "url": "https://www.tradingview.com/news/macenews:aa4392c20094b:0-japan-q3-gdp-adjusted-deflator-0-4-q-q-vs-1-0-in-q-2/",
+   "published_utc": "2026-11-16T00:07:00+00:00",
+   "title_original": "JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dd8ca88e7c2590f7"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnI5bWdXbF9qNEI1emRKaXJ6MXozdFE5THZKbUJyNVg5QmRHekN2SnZXZXRrbG55NVlNSmpfQ0NTWF92Y0N3cTY2Unc3cC12RW83d1o0c0hHbTJLaFM0T08wR1h3RTNxSUNMeDM5VzJ2enhRMEtwblRCdzlyVjhBUVJQeDdoNVFaWHpONTg1OVQ3ekN2QUxMRDlOUDdzaTRvTHJfZENVbF9hc2Y0aHoxbUQ2dUFqcEZzeVh3eDk0MFJKblppdlE1MnFR?oc=5",
+   "published_utc": "2026-11-16T00:06:29+00:00",
+   "title_original": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cdca3f09fe1b64f2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2",
+   "url": "https://www.tradingview.com/news/macenews:e1126b1e3094b:0-japan-q3-gdp-unadjusted-deflator-2-4-y-y-vs-2-6-in-q2/",
+   "published_utc": "2026-11-16T00:06:00+00:00",
+   "title_original": "JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "da2ad2b4930a3200"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "JAPAN Q3 CONSUMPTION -0.3% Q/Q; -0.1 PP CONTRIBUTION",
+   "url": "https://www.tradingview.com/news/dpa_afx:4c0680086cedc:0-japan-q3-consumption-0-3-q-q-0-1-pp-contribution/",
+   "published_utc": "2026-11-16T00:05:06+00:00",
+   "title_original": "JAPAN Q3 CONSUMPTION -0.3% Q/Q; -0.1 PP CONTRIBUTION",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fdf6ea82350d2772"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MNI MEDIAN +0.1%",
+   "url": "https://www.tradingview.com/news/dpa_afx:ec5191a991b8d:0-japan-q3-real-gdp-0-1-annualized-mni-median-0-1/",
+   "published_utc": "2026-11-16T00:05:06+00:00",
+   "title_original": "JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MNI MEDIAN +0.1%",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "900e898fd7e15248"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "JAPAN Q3 CAPEX +1.6% Q/Q +0.3 PP CONTRIBUTION",
+   "url": "https://www.tradingview.com/news/dpa_afx:8546561af635e:0-japan-q3-capex-1-6-q-q-0-3-pp-contribution/",
+   "published_utc": "2026-11-16T00:05:06+00:00",
+   "title_original": "JAPAN Q3 CAPEX +1.6% Q/Q +0.3 PP CONTRIBUTION",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cf43801e7d3bd9f7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "JAPAN Q3 GDP POSTS 1ST DROP IN 4 QUARTERS",
+   "url": "https://www.tradingview.com/news/dpa_afx:79f1ec108c391:0-japan-q3-gdp-posts-1st-drop-in-4-quarters/",
+   "published_utc": "2026-11-16T00:05:06+00:00",
+   "title_original": "JAPAN Q3 GDP POSTS 1ST DROP IN 4 QUARTERS",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e3eacaad31be3cac"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "MNI JAPAN Q3 REAL GDP -0.0% Q/Q; MNI MEDIAN +0.0%",
+   "url": "https://www.tradingview.com/news/dpa_afx:af09e069ba178:0-mni-japan-q3-real-gdp-0-0-q-q-mni-median-0-0/",
+   "published_utc": "2026-11-16T00:05:05+00:00",
+   "title_original": "MNI JAPAN Q3 REAL GDP -0.0% Q/Q; MNI MEDIAN +0.0%",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c5c1fceea954e268"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN Q2 REAL GDP REVISED TO +1.7% ANNUALIZED FROM +1.4%",
+   "url": "https://www.tradingview.com/news/macenews:9826fb5f5094b:0-japan-q2-real-gdp-revised-to-1-7-annualized-from-1-4/",
+   "published_utc": "2026-11-16T00:05:00+00:00",
+   "title_original": "JAPAN Q2 REAL GDP REVISED TO +1.7% ANNUALIZED FROM +1.4%",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "77ccc079e946307c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q",
+   "url": "https://www.tradingview.com/news/macenews:39b190c56094b:0-japan-q2-real-gdp-unrevised-at-0-4-q-q/",
+   "published_utc": "2026-11-16T00:04:00+00:00",
+   "title_original": "JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7476f1fdd222572f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN Q3 GDP: EMPLOYEE COMPENSATION IN REAL TERMS +2.4% Q/Q VS. +2.5% IN Q2, +1.4% IN Q1, +0.6% IN Q4",
+   "url": "https://www.tradingview.com/news/macenews:8fe65b660094b:0-japan-q3-gdp-employee-compensation-in-real-terms-2-4-q-q-vs-2-5-in-q2-1-4-in-q1-0-6-in-q4/",
+   "published_utc": "2026-11-16T00:03:00+00:00",
+   "title_original": "JAPAN Q3 GDP: EMPLOYEE COMPENSATION IN REAL TERMS +2.4% Q/Q VS. +2.5% IN Q2, +1.4% IN Q1, +0.6% IN Q4",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3475b57f3c5d98fe"
   },
   {
    "source_id": "korea_herald_biz",
@@ -413,23 +688,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "SK Hynix to spend $1 billion over five years to support chip suppliers",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S0RR:0-sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers/",
-   "published_utc": "2026-11-16T00:00:00+00:00",
-   "title_original": "SK Hynix to spend $1 billion over five years to support chip suppliers",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fa723ea247357c86"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION",
    "url": "https://www.tradingview.com/news/macenews:8321b55b4094b:0-japan-q3-gdp-business-investment-2-1-q-q-vs-median-forecast-1-5-0-4-point-contribution/",
@@ -461,6 +719,24 @@
    "live_wire": true,
    "manual": false,
    "id": "a9040b283221e264"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh",
+   "url": "https://www.investing.com/news/economic-indicators/japan-q3-gdp-unexpectedly-shrinks-as-slowing-exports-weak-spending-weigh-5028204",
+   "published_utc": "2026-11-15T23:58:53+00:00",
+   "title_original": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "df3b63abd02b7422"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -703,8 +979,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:51+00:00",
@@ -718,7 +994,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2362,8 +2638,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -2377,7 +2653,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -4177,7 +4453,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:00+00:00",
+   "published_utc": "2026-11-13T02:04:52+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -32307,24 +32583,6 @@
    "id": "c57aa1e605c641cd"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQW9VUEJoNjhxM2pBaDZvTHQwdmZ5MWRreWFUMWpISTBJOUVvZTc4WUZzTnoxdzlpN213QmhuYW9qY3prYjM2WGZtMHhySndaZ1lZM3kwVUxDdw?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8695eca309e6c66"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Japan govt. to spend another $7.3 bil. on fuel subsidy | NHK WORLD-JAPAN News",
@@ -32602,6 +32860,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7a91e15d2df61504"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQW9VUEJoNjhxM2pBaDZvTHQwdmZ5MWRreWFUMWpISTBJOUVvZTc4WUZzTnoxdzlpN213QmhuYW9qY3prYjM2WGZtMHhySndaZ1lZM3kwVUxDdw?oc=5",
+   "published_utc": "2026-10-30T05:08:00+00:00",
+   "title_original": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8695eca309e6c66"
   },
   {
    "source_id": "nikkei_asia",
@@ -51630,282 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07dfef43fec29ccc"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: From rockets to fabs, SpaceX's TeraFab bet pushes vertical integration into the semiconductor era",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU0FXc1JBeGYxaEJVV0FqdHk2M3h2cjhrSUd1eENhOVNiSEFmcWJvQWV0ejVPcWU0UHJPaFdKQVBGazFtWXRDLXctbDNKLU85VDVRYjJrQnRVOHNiS1VWb2NuRURxemszSWc0QlN1RTJCellQVEt1XzI2QXk4c1k2anA2b3NPaWl1RmVtT3N6UWFPUlEyRjBwZUtBOWtTSzI5UnZSV0QwcEFhQQ?oc=5",
-   "published_utc": "2026-10-21T03:28:02+00:00",
-   "title_original": "Analysis: From rockets to fabs, SpaceX's TeraFab bet pushes vertical integration into the semiconductor era",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f2c5d8692f5ad8d7"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkd3ekc0QV9UdlhVWGk5cFo0TnlnWkx4OElHT2FKNnRxSUJ2YUkwVWRVR1k2eXBvQmc3OVZUU3MtTkFHVVpvakJWU0ZwbWNtSGdzeHVOSEN2OUY5Sml6T2QtOUF3MnhoakZ1WUcyX3BWRXNreDNBR1ZSU0VMSVdqcnV0a25od2ROT2tWeDJFQVVGQQ?oc=5",
-   "published_utc": "2026-10-21T03:17:57+00:00",
-   "title_original": "Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "48d9de13979eb958"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock prices rise due to fall in crude oil futures prices",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261021de62714",
-   "published_utc": "2026-10-21T03:12:00+00:00",
-   "title_original": "株価 値上がり 原油先物価格の下落を受け",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e755b1743aecb1c"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "TSMC says four construction workers killed at Taiwan site, halting work",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXhBdDJleHE3cU1rZmExdmZwX0szZENmbkYwODFUeXJYcnBrMFZSSmRnMFptVUpiSjFYNko2QUttaEVaTlRhVUo5eVpTU1NVNGE2WVFOSWFPQTlaYXVYOXR5UTdYN0FfTlNQSTJYYU5lV2RxOFlXbDUwdWZ0b1RhemNsLW9EOWpFVUh6N1NLeW80Z25JYjBwbDhDanpySzA0MVhfdlR3UldSYXZzbWU3VUIwdWtYY2tocng1Vm5Gaw?oc=5",
-   "published_utc": "2026-10-21T02:40:00+00:00",
-   "title_original": "TSMC says four construction workers killed at Taiwan site, halting work",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "181c8e6af2d0e3cc"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Vietnam security ministry seeks Samsung's help on AI and chips",
-   "url": "https://asia.nikkei.com/business/electronics/vietnam-security-ministry-seeks-samsung-s-help-on-ai-and-chips",
-   "published_utc": "2026-10-21T02:32:43.850053+00:00",
-   "title_original": "Vietnam security ministry seeks Samsung's help on AI and chips",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "18a595f2d6f9cc59"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix rebound on chip supply constraints, AI demand",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ySk95MVRnZWhkdHFtaG1STVVsSGo4UUFHVjBBZ1dmZjc1ZnF3QVdIVElibzdRMV9yNEY5S1RrQ3cwY0wzaDlzanpaWU15dHMwTUpuQXZKQQ?oc=5",
-   "published_utc": "2026-10-21T02:18:30+00:00",
-   "title_original": "Samsung Electronics, SK hynix rebound on chip supply constraints, AI demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f65c7b4a4311a3c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVl9aM3hSZFBTZVg2T25MaGI0Nno3azlmN0V3ME5mMEpFTVAwVDJZUVktbkNBN0NGcDJadmRGb01ETDB0eWFIR3RfYkg0MEU4SGd0cl8takZ6NGdWUjRXdUpSMGlyb3VfTjI3OWtHNkZjMi1IZlVFTjVhOF9haTFtTlJrZXhnWU56UkhQVw?oc=5",
-   "published_utc": "2026-10-21T02:17:39+00:00",
-   "title_original": "AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9d696c2dc2e4a8f"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "FTC chief acknowledges role of conglomerates in economic growth",
-   "url": "https://www.koreaherald.com/article/10909785",
-   "published_utc": "2026-10-21T02:09:59+00:00",
-   "title_original": "FTC chief acknowledges role of conglomerates in economic growth",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55df4fe1c2f40427"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局广东调查总队",
-   "title_en": "[Authoritative Interpretation] Tian Zhifeng: Guangdong consumer prices have reached a low level and recovered moderately in the first three quarters of 2026",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tRzVHenIyQVFRZjJjXzVaVFNDM19CWGZJdDRyc0N5Qm14TWwxZGFKUTB6MlFHUHQ3TDByWFlpazFIU3lYQWNwN21zVVhfNjA4VUJFb2d1c3lnZERoOGJYVnRKS205N1h5TUEwTGpHMlczMjhvbTZV?oc=5",
-   "published_utc": "2026-10-21T02:00:00+00:00",
-   "title_original": "【权威解读】田志峰：2026年前三季度广东居民消费价格实现低位温和回升",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "160deec5f3755ce0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:01+00:00",
-   "title_original": "央行开展800亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f93275ff9d2dcbf"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 21 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xOGxCNE1ka3lhbVVOZlRoZ2ZhUVpSVlpBTWMwRnc1LWdjaG02WG1QVHFuNUo3djhNT005bFRhNnBJZEJlMUJCOXp4T3pLYnJlVzRudnVtV2FpMmNYOFRGblhsc3ZOWlI1?oc=5",
-   "published_utc": "2026-10-21T01:55:35+00:00",
-   "title_original": "央行10月21日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "749b5435c8f4841a"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0VUWHBaWUkwdFByWjZBMXdVX3RmZTJhU3k2UnlST0I3ZE8yRXpkZnIwOWpKMmwyS25yeEtTNVhBb3dDRzVFcFM2a2hPSm5JbTFuTU5sc3VhM2puS2Rvc1JKcWhta05KOF9CM3ZvSWVZSUtWaUF2dVl6MnFxWklkdHp2Wnp5ZkUwcTBVeg?oc=5",
-   "published_utc": "2026-10-21T01:15:00+00:00",
-   "title_original": "Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab22ac1c186f5488"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan shifting to wage-driven inflation phase, finance minister says",
-   "url": "https://www.investing.com/news/economy-news/japan-shifting-to-wagedriven-inflation-phase-finance-minister-says-4961445",
-   "published_utc": "2026-10-21T01:12:43+00:00",
-   "title_original": "Japan shifting to wage-driven inflation phase, finance minister says",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3e19f7c9974b3a7d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조세금융신문",
-   "title_en": "[Issue Check] Interest rates likely to be frozen, is an increase only a matter of time?... On the 22nd, the Bank of Korea Monetary Policy Committee meeting",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xdklteENrb29TSDl1bW41bVdFQU15MkFuNUY5YXhSdGd3LTFSSksyR1RrUVpxcjNhZTN5VERQcThwNUxfVlpwUk43b3B5VVJKcDBlTlYwdkRPa1d4aThCaWJGOA?oc=5",
-   "published_utc": "2026-10-21T01:04:20+00:00",
-   "title_original": "[이슈체크] 금리 동결 유력, 인상은 시간문제?…22일 한은 금통위 촉각",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "73ac8ca9e46aec02"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan exports rise 16.7% in September as AI chip demand powers trade By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVE5HSVlRb3RyVVdmSkt1SksxVWl3WVhsYW5QWWVEVlJKbXNELXdqazNUN2o2aXBZUkFBZGJvNUZiRlhBLWZQVTVTS0dPY1lmd3JOTGZfcHZsRG95RHNDdnJpcFZOVjJFTll1WmJVYXFjVEJLSXJEdHQtcVB5TnhFaVVMOVRsOGVkR0FiMVIwNFFKVlNzZ3ZSTkdZNWlxbDR3bE82N3RGV1V6QQ?oc=5",
-   "published_utc": "2026-10-21T00:56:58+00:00",
-   "title_original": "Japan exports rise 16.7% in September as AI chip demand powers trade By Reuters",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b80898a886afd510"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Producer prices up for 2nd month in Sept. on higher prices of agricultural goods",
-   "url": "https://www.koreaherald.com/article/10909510",
-   "published_utc": "2026-10-21T00:40:51+00:00",
-   "title_original": "Producer prices up for 2nd month in Sept. on higher prices of agricultural goods",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c918b5047fbbf36"
   },
   {
    "source_id": "manual_ia",
