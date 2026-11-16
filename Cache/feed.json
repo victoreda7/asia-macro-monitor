@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T04:13:09.629674+00:00",
- "collected_at_utc": "2026-11-16T04:13:09.629674+00:00",
+ "generated_at_utc": "2026-11-16T04:22:48.428883+00:00",
+ "collected_at_utc": "2026-11-16T04:22:48.428883+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1006,
+  "japan": 1005,
   "china": 880,
-  "taiwan": 302,
+  "taiwan": 303,
   "korea": 812
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T03:55:00+00:00"
+   "newest": "2026-11-16T04:16:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 30,
+   "count": 31,
    "error": "",
-   "newest": "2026-11-16T10:15:16+08:00"
+   "newest": "2026-11-16T11:56:20+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T03:34:32+00:00"
+   "newest": "2026-11-16T04:12:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T06:13:36+00:00"
+   "newest": "2026-11-15T08:18:06+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T12:53:35+09:00"
+   "newest": "2026-11-16T13:20:32+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T04:12:29+00:00"
+   "newest": "2026-11-16T04:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,63 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001602:0-taiwan-s-taiex-extends-losses-as-chip-makers-weigh-market-talk/",
+   "published_utc": "2026-11-16T04:17:00+00:00",
+   "title_original": "Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1acfdc56e5b9d7e1"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s new home prices fall again in October; slowest annual decline in almost a year",
+   "url": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
+   "published_utc": "2026-11-16T04:12:21+00:00",
+   "title_original": "China’s new home prices fall again in October; slowest annual decline in almost a year",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "90c77223e7858863"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Hong Kong exchange launches first offshore yuan bond index",
+   "url": "https://www.investing.com/news/stock-market-news/hong-kong-exchange-launches-first-offshore-yuan-bond-index-93CH-5028347",
+   "published_utc": "2026-11-16T04:10:30+00:00",
+   "title_original": "Hong Kong exchange launches first offshore yuan bond index",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b9f16c58d01119a0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -705,23 +756,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d954105295bb2376"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China’s new home prices fall again in October; slowest annual decline in almost a year",
-   "url": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
-   "published_utc": "2026-11-16T03:00:25+00:00",
-   "title_original": "China’s new home prices fall again in October; slowest annual decline in almost a year",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "90c77223e7858863"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1118,23 +1152,6 @@
    "live_wire": false,
    "manual": false,
    "id": "292f04da9ae72815"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Oct Industrial Output +4.8% On Year; Market Expected +5.2%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261115001343_20261115001343:0-china-oct-industrial-output-4-8-on-year-market-expected-5-2/",
-   "published_utc": "2026-11-16T02:00:00+00:00",
-   "title_original": "China Oct Industrial Output +4.8% On Year; Market Expected +5.2%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4da8f35ef9a86cbf"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -2119,7 +2136,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2130,7 +2147,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2548,25 +2565,6 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-14T19:58:07+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -5138,6 +5136,25 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-13T02:28:08+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51885,23 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e380692e841e7f6b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan open to winter fuel subsidies to soften heating bill blow",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46708H:0-japan-open-to-winter-fuel-subsidies-to-soften-heating-bill-blow/",
-   "published_utc": "2026-10-21T08:22:14+00:00",
-   "title_original": "Japan open to winter fuel subsidies to soften heating bill blow",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5a665b7ddb140a8b"
   },
   {
    "source_id": "manual_ia",

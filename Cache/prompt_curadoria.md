@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T04:13:09.629674+00:00
+Última coleta: 2026-11-16T04:22:48.428883+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
+  🇯🇵 Japão          1005
   🇨🇳 China          880
-  🇹🇼 Taiwan         302
+  🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk
+  - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
+  - [china] Hong Kong exchange launches first offshore yuan bond index
   - [taiwan] Taiwan will take inflation and measures taken by other countries into account when setting interest rates
   - [taiwan] Taiwan to consider inflation, other countries' moves when deciding interest rates
   - [korea] A major semiconductor manufacturing base in South Korea is unveiled to help foster small and medium-sized ente
@@ -38,7 +41,6 @@ Total: 3000 manchetes
   - [japan] CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MED
   - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
   - [korea] SK Hynix to Spend About $1 Billion to Support Local Suppliers
-  - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
   - [japan] How will interest rates on deposits and borrowings change if the Bank of Japan raises interest rates? Time lag
   - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
   - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s Economy Shrinks for the First Time in a Year. Will the BOJ Still Hike?
   - [china] China's Home Price Decline Gathered Pace in October — Update
   - [china] China Home Price Slump Drags On Despite Latest Stimulus Push
-  - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
-  - [china] CHINA YTD RETAIL SALES +1.0% Y/Y VS JAN-SEP +1.1% Y/Y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T04:13:09+00:00",
+      "published_utc": "2026-11-16T04:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
