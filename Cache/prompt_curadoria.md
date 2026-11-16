@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T22:16:11.270084+00:00
+Última coleta: 2026-11-16T22:25:12.398928+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
   🇨🇳 China          872
-  🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  794
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [japan] SoftBank, Rakuten push Japan retail bond issuance to record high
+  - [taiwan] 3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves
   - [china] US issues new chip rule as China's AI companies fear Nvidia scandal fallout
   - [taiwan] Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC
   - [japan] The famous soba, which has been priced at 555 yen for 40 years, is suddenly priced at 1,110 yen...The reason w
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone By Investing.com
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone
-  - [japan] Dollar extends rally, yen looks past soft Japan GDP data
-  - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T22:16:11+00:00",
+      "published_utc": "2026-11-16T22:25:12+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
