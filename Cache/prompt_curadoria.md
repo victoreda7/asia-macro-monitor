@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T01:52:52.536341+00:00
+Última coleta: 2026-11-16T02:02:53.890824+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1014
-  🇨🇳 China          864
-  🇹🇼 Taiwan         309
+  🇯🇵 Japão          1013
+  🇨🇳 China          867
+  🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [china] HKEX launches offshore yuan bond index amid yuan internationalisation push
+  - [china] China Oct Industrial Output +4.8% On Year; Market Expected +5.2%
+  - [china] China Oct Industrial Output +0.21% On Month
+  - [korea] NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending
   - [china] China's Home Price Decline Gathered Pace in October
-  - [china] Drop in China's new home prices narrows to 11-month low
+  - [china] Drop in China’s new home prices narrows to 11-month low
   - [korea] Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ po
   - [china] CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON
   - [japan] Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN Q2 REAL GDP UNREVISED AT +0.4% Q/Q
   - [japan] JAPAN Q3 GDP: EMPLOYEE COMPENSATION IN REAL TERMS +2.4% Q/Q VS. +2.5% IN Q2, +1.4% IN Q1, +0.6% IN Q4
   - [korea] Korea makes world-class memory chips. Can its suppliers catch up?
-  - [japan] JAPAN Q3 GDP PRIVATE CONSUMPTION -0.2% Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 POINT CONTRIBUTION
-  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
-  - [japan] JAPAN Q3 GDP BUSINESS INVESTMENT +2.1% Q/Q VS. MEDIAN FORECAST +1.5%; +0.4 POINT CONTRIBUTION
-  - [japan] JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION -0.1 POINT; MEDIAN FORECAST +0.1 POINT
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T01:52:52+00:00",
+      "published_utc": "2026-11-16T02:02:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
