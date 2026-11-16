@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-11-16T20:47:50.436992+00:00",
- "collected_at_utc": "2026-11-16T20:47:50.436992+00:00",
+ "generated_at_utc": "2026-11-16T20:55:38.706377+00:00",
+ "collected_at_utc": "2026-11-16T20:55:38.706377+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1030,
+  "japan": 1031,
   "china": 872,
   "taiwan": 301,
-  "korea": 797
+  "korea": 796
  },
- "elapsed_s": 329.1,
+ "elapsed_s": 204.0,
  "sources": [
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T20:24:22+00:00"
+   "newest": "2026-11-16T20:43:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T20:12:32+00:00"
+   "newest": "2026-11-16T20:43:11+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -123,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T18:52:03+00:00"
+   "newest": "2026-11-16T11:22:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -243,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T19:49:51+00:00"
+   "newest": "2026-11-16T20:26:40+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T20:45:36+00:00"
+   "newest": "2026-11-16T20:52:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -292,6 +284,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-16T16:47:45+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-16T11:54:28+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-17T05:30:00+09:00"
+   "newest": "2026-11-17T05:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,12 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-16T07:03:59+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Will the \"smart cash register special demand\" return due to food tax cuts? Reasons why smart cash registers and Recruit are cautious even with 78.1 billion yen of government support | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964086?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-16T20:45:00+00:00",
+   "title_original": "食料品減税で｢スマートレジ特需｣は再来するか…781億円の政府支援あってもスマレジやリクルートが慎重な理由 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "786a6dd89d383b73"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -3584,6 +3602,24 @@
    "id": "6f7e7d999a55e883"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-15T06:23:25+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
@@ -3964,24 +4000,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cc95e50fd4b363c7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-14T18:27:55+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4554,24 +4572,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6310,6 +6310,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51878,24 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4eaa76ab6ca3cd14"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
-   "title_en": "Bank of Korea: “This year’s growth rate will exceed forecasts by a significant margin.”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxYUdZWHhBakczcXFkTkJlSllWT0tLOUtGMVFvRHlmWVA1UnJYT1BISEVDcmgzMm9SWHZ1UVBNM250RXNEeXBVTU0zdmtJMlNpQnVfZ2lmaThsdUxaZmhPVy16azg4Ylg2VGJ6T0VzaDl2QQ?oc=5",
-   "published_utc": "2026-10-22T06:33:00+00:00",
-   "title_original": "한은 “올해 성장률, 전망치 상당 폭 상회할 것”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ae1da920fd82c9"
   },
   {
    "source_id": "manual_ia",

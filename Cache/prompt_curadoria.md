@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T20:47:50.436992+00:00
+Última coleta: 2026-11-16T20:55:38.706377+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
+  🇯🇵 Japão          1031
   🇨🇳 China          872
   🇹🇼 Taiwan         301
-  🇰🇷 Coreia do Sul  797
+  🇰🇷 Coreia do Sul  796
 
 ## O que já está no feed (não repita)
 
+  - [japan] Will the "smart cash register special demand" return due to food tax cuts? Reasons why smart cash registers an
   - [korea] A $1 Billion Reason SK Hynix Stock Is Falling Today
   - [china] China developer Huafa's debt woes show resurgence of credit risk
   - [china] Nvidia China Trouble Could Spill Over to These AI Chip Stocks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Unborn fetuses to count toward social housing priority: Interior ministry
   - [china] Senator accuses US Commerce Department of failing to stem flow of AI chips to China
   - [china] Central China Real Estate Posts October 2026 Contracted Sales Rmb493 Million
-  - [korea] SK Square: SK hynix’s record quarter drove ₩7.94tn operating profit as portfolio NAV declined
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T20:47:50+00:00",
+      "published_utc": "2026-11-16T20:55:38+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
