@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T09:52:42.037615+00:00
+Última coleta: 2026-11-16T10:02:46.656376+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1011
-  🇨🇳 China          873
+  🇨🇳 China          875
   🇹🇼 Taiwan         300
-  🇰🇷 Coreia do Sul  816
+  🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
+  - [china] China's economy falters with lower-than-expected industrial production and retail sales
+  - [japan] Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data
+  - [china] Kuang-Chi Technologies' Unit Signs 1.8 Billion Yuan Supply Framework Contract
+  - [china] RMB deposit balance fell for two consecutive months in October. Central Bank: Concerned about the expected imp
   - [japan] Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk
+  - [japan] The nickname for the site of the former Bank of Japan Kanazawa branch is ``Machinowa Korinbo.'' A high school 
   - [china] Hungary tightens oversight of Chinese, South Korean battery plants
   - [china] Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps
   - [japan] Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hi
@@ -25,7 +30,6 @@ Total: 3000 manchetes
   - [china] Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million
   - [korea] Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus
   - [korea] Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in
-  - [japan] Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data
   - [japan] Yen Expected to Strengthen in 2027 Due to Supportive Policies — Market Talk
   - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
   - [japan] Takada, a Bank of Japan council member, emphasizes the risk of price rises as a new phase accelerates the pace
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia’s All-Important Q3 Report, China Tech Results, Anthropic IPO And Microsoft Ignite To Keep Investors Hoo
   - [korea] Samsung, SK hynix-linked ELS raises fear of further market volatility
   - [korea] Kospi Falls for Third Straight Session; Chip Stocks Retreat
-  - [korea] The top 1% of stock investment returns bought SK Hynix, Samsung Electronics and Doosan the most in e..
-  - [korea] It was found that the top 1% of stock investment returns bought the most semiconductor small-cap sto..
-  - [japan] Net Protections Holdings, Inc. - To Buy Back Up To 3.5% Of Shares Worth 1.2 Billion Yen
-  - [korea] Benchmark rate for banks' mortgage loans continues to rise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T09:52:42+00:00",
+      "published_utc": "2026-11-16T10:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

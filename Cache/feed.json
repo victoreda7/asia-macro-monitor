@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T09:52:42.037615+00:00",
- "collected_at_utc": "2026-11-16T09:52:42.037615+00:00",
+ "generated_at_utc": "2026-11-16T10:02:46.656376+00:00",
+ "collected_at_utc": "2026-11-16T10:02:46.656376+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1011,
-  "china": 873,
+  "china": 875,
   "taiwan": 300,
-  "korea": 816
+  "korea": 814
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T08:17:23+00:00"
+   "newest": "2026-11-16T08:48:05+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T08:03:00+00:00"
+   "newest": "2026-11-16T09:55:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T09:31:28+00:00"
+   "newest": "2026-11-16T09:53:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T09:02:49+00:00"
+   "newest": "2026-11-16T09:48:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T18:44:13+09:00"
+   "newest": "2026-11-16T18:55:40+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T18:37:35+09:00"
+   "newest": "2026-11-16T18:55:40+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T09:52:00+00:00"
+   "newest": "2026-11-16T10:02:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T09:12:17+00:00"
+   "newest": "2026-11-16T09:42:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-16T09:40:24+00:00"
+   "newest": "2026-11-16T09:51:28+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:46:00+00:00"
+   "newest": "2026-11-16T09:47:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,12 +337,82 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's economy falters with lower-than-expected industrial production and retail sales",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZUN00FPLC:0/",
+   "published_utc": "2026-11-16T09:59:09+00:00",
+   "title_original": "Economia da China vacila com produção industrial e vendas no varejo abaixo do esperado",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "143a3250538f89ed"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
+   "published_utc": "2026-11-16T09:55:40+00:00",
+   "title_original": "片山財務相 消費税減税法案 支援金の対象“データ精査し確定”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c27eb3ed04bc406a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Kuang-Chi Technologies' Unit Signs 1.8 Billion Yuan Supply Framework Contract",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46X0N7:0-kuang-chi-technologies-unit-signs-1-8-billion-yuan-supply-framework-contract/",
+   "published_utc": "2026-11-16T09:48:56+00:00",
+   "title_original": "Kuang-Chi Technologies' Unit Signs 1.8 Billion Yuan Supply Framework Contract",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cb59da7192e7e7b1"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "RMB deposit balance fell for two consecutive months in October. Central Bank: Concerned about the expected impact of the Fed's interest rate hike | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TNDNBQ2tfQ2J5SmRfel81a2tmYU4xWWlESVZnWHNuMnRYOW5vWXJMMkF0NlpSblo2X3NIWjFFb3ozcXRRWnp1YTBXaXlnbXhTdmZucVY5VVo2dGx3UVE?oc=5",
+   "published_utc": "2026-11-16T09:47:00+00:00",
+   "title_original": "10月人民幣存款餘額連2降央行：關注Fed升息預期影響| 產經",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9a614ee0862e490b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -360,6 +430,23 @@
    "live_wire": true,
    "manual": false,
    "id": "94bb352934fbeb90"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The nickname for the site of the former Bank of Japan Kanazawa branch is ``Machinowa Korinbo.'' A high school third-year student's idea was selected from 1,300 entries (Ishikawa TV)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5N1ZRQU5oTENvRFRkVk4zQmdnZEpRV0FXUGRTR2h5cDZfeFhUZmpjZWtOVU5xMFh1UmstTDJjbldxWUZhbi1MZHVReXNKYnV2OFpwNmF2c19oYjBXaGhIUF9EWmttdk5KT0NyZkZiRm5PUVdDUU9LNk0wc3dEdUk?oc=5",
+   "published_utc": "2026-11-16T09:42:01+00:00",
+   "title_original": "日銀金沢支店跡地の愛称は「まちのわ香林坊」 応募1300点から高校3年生の案に決定（石川テレビ）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0193d6e5c30e41b"
   },
   {
    "source_id": "nikkei_asia",
@@ -482,25 +569,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3ed9904fb380ab70"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
-   "published_utc": "2026-11-16T08:46:19+00:00",
-   "title_original": "片山財務相 消費税減税法案 支援金の対象“データ精査し確定”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -1475,23 +1543,6 @@
    "id": "c3541ecc2572dc75"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "HKEX Launches First-Ever Offshore Yuan Bond Index",
-   "url": "https://www.tradingview.com/news/DJN_DN20261115001633:0-hkex-launches-first-ever-offshore-yuan-bond-index/",
-   "published_utc": "2026-11-16T04:40:00+00:00",
-   "title_original": "HKEX Launches First-Ever Offshore Yuan Bond Index",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5e305176a049aa08"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions",
@@ -1541,23 +1592,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c0c6d9eba21113de"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4633050:0-stic-investments-lower-fee-revenue-stronger-profit-and-krw-10-3tn-in-fund-commitments-defined-9m-2026/",
-   "published_utc": "2026-11-16T04:29:43+00:00",
-   "title_original": "STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c7fad8e07c8e867b"
   },
   {
    "source_id": "investing_live",
@@ -3470,6 +3504,25 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-14T19:58:07+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6041,25 +6094,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-13T02:28:08+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51872,41 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d9e2e415d439ced8"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan growth strategy to focus on chips in short term, AI in medium term",
-   "url": "https://asia.nikkei.com/economy/japan-growth-strategy-to-focus-on-chips-in-short-term-ai-in-medium-term",
-   "published_utc": "2026-10-21T21:42:42.688445+00:00",
-   "title_original": "Japan growth strategy to focus on chips in short term, AI in medium term",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4fc40cf348882192"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "전남일보",
-   "title_en": "Today, the Bank of Korea's Monetary Policy Committee is expected to freeze the base interest rate at 3.00%.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45UjNORWNTcGxzYTV2ZEJsM3FReU9HS3VkRHgzVEdCZU1vN1NXWWh5Tkw2UlZ4QnhZUjVwZVN5bjYzWnJ2UDMzcnRoeVlKWVlhN3IycjU2dU54cXZzYWVldkgyaUF1SWFuT1hacnN0dw?oc=5",
-   "published_utc": "2026-10-21T21:33:34+00:00",
-   "title_original": "오늘 한국은행 금융통화위원회, 기준금리 3.00% 동결 전망",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8037becf536ac78c"
   },
   {
    "source_id": "manual_ia",
