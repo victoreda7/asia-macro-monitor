@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T07:32:45.275450+00:00
+Última coleta: 2026-11-16T07:42:51.017959+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
+  🇯🇵 Japão          1005
   🇨🇳 China          876
-  🇹🇼 Taiwan         303
+  🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  815
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price: Closing price below 60,000 yen; sell orders spread mainly among semiconductor-related stocks
+  - [taiwan] Fitch Says US Rate Hikes Have Modest Impact On Taiwan Bills Finance Companies
   - [japan] Aisan Industry Co., Ltd. - To Buy Back Up To 4.7% Of Shares Worth 7 Billion Yen
   - [taiwan] Taiwan, South Korea Tech Stocks Plunge Ahead of Key AI Trials
   - [korea] SK hynix commits $1.05B to strengthen semiconductor supply chain
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts
   - [japan] Dollar extends gains, yen looks past soft Japan GDP data
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
-  - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP
-  - [china] HKEX Launches First-Ever Offshore Yuan Bond Index
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T07:32:45+00:00",
+      "published_utc": "2026-11-16T07:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
