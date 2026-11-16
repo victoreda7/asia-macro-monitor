@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-16T07:12:44.165057+00:00",
- "collected_at_utc": "2026-11-16T07:12:44.165057+00:00",
+ "generated_at_utc": "2026-11-16T07:22:52.066135+00:00",
+ "collected_at_utc": "2026-11-16T07:22:52.066135+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 302,
   "korea": 814
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:34:00+00:00"
+   "newest": "2026-11-16T07:17:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 32,
+   "count": 35,
    "error": "",
-   "newest": "2026-11-16T13:24:23+08:00"
+   "newest": "2026-11-16T14:34:31+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T06:52:31+00:00"
+   "newest": "2026-11-16T07:12:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T06:06:19+00:00"
+   "newest": "2026-11-16T07:12:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T04:55:56+00:00"
+   "newest": "2026-11-16T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:00:00+00:00"
+   "newest": "2026-11-16T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T07:11:02+00:00"
+   "newest": "2026-11-16T07:22:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,46 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan rubber futures trade in tight range as weaker yen counters lower oil",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X05D:0-japan-rubber-futures-trade-in-tight-range-as-weaker-yen-counters-lower-oil/",
+   "published_utc": "2026-11-16T07:19:39+00:00",
+   "title_original": "Japan rubber futures trade in tight range as weaker yen counters lower oil",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4074f553503c5977"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Nissan Turns China Into Export Hub as Sales There Slump",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjV3TjBDZWY3eTdTYW5RN1BaTGhudk5NWUFkRG5JLVhlMEN2aWJLRnAySm1wQ0Vuckk4WHp0eXhzMnpVZlEwRWFFX3FKWFRzemYtT1V4V3ZPUmdBLWpNZ3Vqc2U2dWFnQUdNblEyTldhUDB3Z2JxaldlZGpBNUN4NDh4WThCOEd4M2h0VWo0S013Zm1RWVEyX1ZJVkVaeklHRXBnSTRKYWxhc084cDdz?oc=5",
+   "published_utc": "2026-11-16T07:17:00+00:00",
+   "title_original": "Nissan Turns China Into Export Hub as Sales There Slump",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "015acf42439fa4b3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -1330,23 +1364,6 @@
    "id": "cbbbb39784352375"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "CORRECTED: JAPAN Q3 GDP BUSINESS INVESTMENT +1.6% (CORRECTED FROM +2.1%) Q/Q VS. MEDIAN FORECAST +1.5%; +0.3 POINT (CORRECTED FROM +0.4 POINT) CONTRIB",
-   "url": "https://www.tradingview.com/news/macenews:3c64f4f2b094b:0-corrected-japan-q3-gdp-business-investment-1-6-corrected-from-2-1-q-q-vs-median-forecast-1-5-0-3-point-corrected-from-0-4-point-contrib/",
-   "published_utc": "2026-11-16T03:25:00+00:00",
-   "title_original": "CORRECTED: JAPAN Q3 GDP BUSINESS INVESTMENT +1.6% (CORRECTED FROM +2.1%) Q/Q VS. MEDIAN FORECAST +1.5%; +0.3 POINT (CORRECTED FROM +0.4 POINT) CONTRIB",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c188e72355983ed0"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters",
@@ -2292,8 +2309,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -2307,7 +2324,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2638,7 +2655,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2649,7 +2666,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3951,8 +3968,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -3966,7 +3983,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51889,23 +51906,6 @@
    "live_wire": true,
    "manual": false,
    "id": "885cd97cd215c815"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "The EU will ‘pull its punches’ on China despite growing trade war talk: analysts",
-   "url": "https://www.scmp.com/economy/china-economy/article/3371655/eu-will-pull-its-punches-china-despite-growing-trade-war-talk-analysts",
-   "published_utc": "2026-10-21T12:00:10+00:00",
-   "title_original": "The EU will ‘pull its punches’ on China despite growing trade war talk: analysts",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0c2351114fd8070"
   },
   {
    "source_id": "manual_ia",

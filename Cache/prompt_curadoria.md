@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T07:12:44.165057+00:00
+Última coleta: 2026-11-16T07:22:52.066135+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1007
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan rubber futures trade in tight range as weaker yen counters lower oil
+  - [china] Nissan Turns China Into Export Hub as Sales There Slump
   - [japan] Japan Industrial Output Recovers Less Than Estimated
   - [japan] Resurgent Inflation to Drive More BOJ Rate Hikes — Market Talk
   - [korea] SK Square: SK Hynix equity earnings drove 9M profit as shareholder returns and AI-led growth advanced
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions
   - [korea] SK Hynix in 24/7 race to complete colossal chip plant
   - [china] China is accused of manipulating the iron ore trade and the Australian government is worried about the impact 
-  - [korea] STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026
-  - [taiwan] Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T07:12:44+00:00",
+      "published_utc": "2026-11-16T07:22:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
