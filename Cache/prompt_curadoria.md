@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T17:52:43.267795+00:00
+Última coleta: 2026-11-16T18:02:43.263917+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1012
+  🇯🇵 Japão          1013
   🇨🇳 China          877
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  807
+  🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [japan] US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba
   - [china] Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads
+  - [japan] Teradyne Stocks Drop 6.14% as Advantest's 11% Tokyo Plunge Hits Chip Testers
   - [japan] Japan eyes two-pronged approach to cover tax cut, growth investments
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US blocks China's indirect access to American AI chips
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk
   - [japan] The nickname for the site of the former Bank of Japan Kanazawa branch is ``Machinowa Korinbo.'' A high school 
   - [china] Hungary tightens oversight of Chinese, South Korean battery plants
-  - [china] Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps
-  - [japan] Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T17:52:43+00:00",
+      "published_utc": "2026-11-16T18:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
