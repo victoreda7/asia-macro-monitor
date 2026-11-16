@@ -12,6 +12,7 @@ import base64
 import html
 import json
 import re
+import time
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import quote_plus, urlsplit
@@ -382,6 +383,10 @@ def meta_por_fonte() -> dict[str, dict]:
     return meta
 
 
+SEGUNDA_CHANCE_PAUSA = 5       # segundos antes de refazer as fontes que falharam
+SEGUNDA_CHANCE_ORCAMENTO = 60  # teto da segunda rodada, em segundos
+
+
 def collect_all(include_live: bool = True) -> tuple[list[tuple[dict, dict]], list[SourceStatus]]:
     """Baixa tudo em paralelo.
 
@@ -427,6 +432,31 @@ def collect_all(include_live: bool = True) -> tuple[list[tuple[dict, dict]], lis
                     f"{type(exc).__name__}: {exc}"[:100])
             statuses.append(status)
             raw.extend((it, meta) for it in items)
+
+    # Segunda chance para quem falhou. O Google News, chamado de um IP do
+    # GitHub Actions, recusa uma ou outra query por coleta (429/"sem
+    # resposta"), e às vezes todas de uma vez; refazer em série, depois de
+    # uma pausa, recupera a maioria. Com orçamento de tempo: se o IP inteiro
+    # estiver bloqueado, não adianta insistir por minutos.
+    falhas = [s.source_id for s in statuses if not s.ok]
+    if falhas:
+        por_id = {meta["source_id"]: (fn, meta) for fn, meta in jobs}
+        time.sleep(SEGUNDA_CHANCE_PAUSA)
+        prazo = time.time() + SEGUNDA_CHANCE_ORCAMENTO
+        recuperadas = 0
+        for sid in falhas:
+            if time.time() > prazo or sid not in por_id:
+                break
+            fn, meta = por_id[sid]
+            try:
+                items, status = fn()
+            except Exception:
+                continue
+            if status.ok:
+                statuses = [status if s.source_id == sid else s for s in statuses]
+                raw.extend((it, meta) for it in items)
+                recuperadas += 1
+        print(f"  segunda chance: {recuperadas} de {len(falhas)} fontes recuperadas", flush=True)
 
     statuses.sort(key=lambda s: (s.ok, s.name))
     return raw, statuses
