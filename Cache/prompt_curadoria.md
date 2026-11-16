@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T15:32:54.820605+00:00
+Última coleta: 2026-11-16T15:52:43.652135+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1010
+  🇯🇵 Japão          1011
   🇨🇳 China          875
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  811
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nomura Real Estate to acquire 8 MW of energy storage in Japan
   - [korea] Micron, SK hynix, and Sandisk shares plummet, what you need to know
   - [korea] Why is SK hynix stock sliding today?
   - [japan] Yen Could Strengthen Versus Dollar by Year-End — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in
   - [japan] Yen Expected to Strengthen in 2027 Due to Supportive Policies — Market Talk
   - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
-  - [japan] Takada, a Bank of Japan council member, emphasizes the risk of price rises as a new phase accelerates the pace
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T15:32:54+00:00",
+      "published_utc": "2026-11-16T15:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
