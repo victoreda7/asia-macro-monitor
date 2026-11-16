@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T03:12:43.076640+00:00
+Última coleta: 2026-11-16T03:25:28.661990+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1003
+  🇯🇵 Japão          1004
   🇨🇳 China          878
-  🇹🇼 Taiwan         305
+  🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
+  - [japan] CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MED
   - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
   - [korea] SK Hynix to Spend About $1 Billion to Support Local Suppliers
-  - [china] China's new home prices fall again in October; slowest annual decline in almost a year
+  - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
   - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
   - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
   - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
@@ -31,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Japan rubber trades in tight range as weaker yen offsets lower oil
   - [china] The first increase in the past five years! The foreign exchange deposit reserve ratio was increased from 4% to
   - [china] China's factory output grows but household spending remains subdued
+  - [japan] Japan’s Economy Shrinks for the First Time in a Year. Will the BOJ Still Hike?
   - [china] China's Home Price Decline Gathered Pace in October — Update
   - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026
   - [china] The central bank launches 460 billion yuan overnight reverse repurchase operation
   - [japan] Nikkei, Kospi slide: Asian markets fall as Nvidia results, US inflation concerns keep investors cautious
-  - [japan] Japan's Economic Growth Underwhelms as Demand, Exports Drag — Market Talk
-  - [japan] Yen steady against euro and dollar after soft Japanese GDP data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T03:12:43+00:00",
+      "published_utc": "2026-11-16T03:25:28+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
