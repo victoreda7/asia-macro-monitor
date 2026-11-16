@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T10:12:44.470936+00:00
+Última coleta: 2026-11-16T10:22:53.670443+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1011
-  🇨🇳 China          875
-  🇹🇼 Taiwan         300
+  🇨🇳 China          874
+  🇹🇼 Taiwan         301
   🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
+  - [china] Central China Real Estate Posts October 2026 Contracted Sales Rmb493 Million
   - [china] China's economy falters with lower-than-expected industrial production and retail sales
   - [japan] Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data
   - [china] Kuang-Chi Technologies' Unit Signs 1.8 Billion Yuan Supply Framework Contract
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Should we just look at next year’s market interest rate and base interest rate? Bond issuance volume is a vari
   - [korea] SK Square: SK Hynix equity earnings drove 9M profit as shareholder returns and AI-led growth advanced
   - [china] Nvidia’s All-Important Q3 Report, China Tech Results, Anthropic IPO And Microsoft Ignite To Keep Investors Hoo
-  - [korea] Samsung, SK hynix-linked ELS raises fear of further market volatility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T10:12:44+00:00",
+      "published_utc": "2026-11-16T10:22:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
