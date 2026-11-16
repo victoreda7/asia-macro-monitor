@@ -7,22 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T08:12:43.334796+00:00
+Última coleta: 2026-11-16T08:22:45.322592+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
-  🇨🇳 China          874
+  🇯🇵 Japão          1007
+  🇨🇳 China          872
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  816
+  🇰🇷 Coreia do Sul  817
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ chief Ueda tells government panel wage growth 'quite strong'
+  - [china] China-ASEAN Summit China calls for promotion of cooperation in economic and trade fields
   - [japan] Highlights of the Outlook for Economic Activity and Prices (October 2026)
   - [japan] BOJ Current Account Balances by Sector (Oct.)
+  - [japan] Japan's GDP growth rate in the third quarter was 0%. High inflation suppressed consumption and led to economic
+  - [japan] Japan Real Estate Investment: Rent growth lifts NOI and distributions as annual growth targets rise
+  - [korea] HD Hyundai Marine Engine: Engine demand drove 62% revenue growth and a KRW 1,731bn order backlog
   - [korea] Kospi sees worst day in over a week as Nvidia woes, Anthropic IPO drain hit chipmakers
   - [japan] Stock price: Closing price below 60,000 yen; sell orders spread mainly among semiconductor-related stocks
   - [taiwan] Fitch Says US Rate Hikes Have Modest Impact On Taiwan Bills Finance Companies
+  - [japan] Wages are quite strongly consistent with 2% inflation - Bank of Japan Governor = Economic and Fiscal Policy Co
   - [japan] Aisan Industry Co., Ltd. - To Buy Back Up To 4.7% Of Shares Worth 7 Billion Yen
+  - [china] China’s Economy Disappoints With New Stimulus Yet to Kick In
   - [taiwan] Taiwan, South Korea Tech Stocks Plunge Ahead of Key AI Trials
   - [korea] SK hynix commits $1.05B to strengthen semiconductor supply chain
   - [japan] Japan rubber futures trade in tight range as weaker yen counters lower oil
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea's wage, productivity gaps widen amid chip-led growth: KDI
   - [japan] Weak Consumption Likely to Keep Japan's Economy in Low Gear — Market Talk
   - [japan] Weak Japan Consumption Could Deepen BOJ Board Divisions — Market Talk
-  - [china] China factory output, retail sales miss forecasts in Oct amid weak domestic demand
-  - [korea] Samlip, which emerged from the deficit in the first quarter of this year, has continued to improve i..
-  - [japan] Hawkish BOJ Member Urges Nimble Rate Hikes
-  - [japan] Bank of Japan member Takada (Reuters): Set policy interest rates to neutral levels in advance and raise intere
-  - [japan] Japan's Economic Growth Trend Likely to Remain Intact — Market Talk
-  - [china] China’s Industrial Output Growth Slows
-  - [japan] BOJ hawk Takata calls for quick pace of rate hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T08:12:43+00:00",
+      "published_utc": "2026-11-16T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
