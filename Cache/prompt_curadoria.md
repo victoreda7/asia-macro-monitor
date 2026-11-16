@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T02:22:41.126679+00:00
+Última coleta: 2026-11-16T02:32:44.137753+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
-  🇨🇳 China          871
-  🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  811
+  🇯🇵 Japão          1010
+  🇨🇳 China          872
+  🇹🇼 Taiwan         306
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
+  - [japan] Japan rubber trades in tight range as weaker yen offsets lower oil
   - [china] China's factory output grows but household spending remains subdued
   - [china] China's Home Price Decline Gathered Pace in October — Update
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
@@ -52,11 +54,9 @@ Total: 3000 manchetes
   - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com
   - [japan] Japan Q3 GDP Flat On Quarter
   - [japan] Dollar Expected to Rise Further to 162 Yen in 2027 — Market Talk
+  - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
   - [korea] SK Hynix to Invest $1 Billion Over Five Years to Support Chip Suppliers
   - [japan] JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2
-  - [japan] JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2
-  - [japan] JAPAN Q3 CONSUMPTION -0.3% Q/Q; -0.1 PP CONTRIBUTION
-  - [japan] JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MNI MEDIAN +0.1%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T02:22:41+00:00",
+      "published_utc": "2026-11-16T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
