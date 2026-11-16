@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-11-16T19:55:50.337063+00:00",
- "collected_at_utc": "2026-11-16T19:55:50.337063+00:00",
+ "generated_at_utc": "2026-11-16T19:57:51.893370+00:00",
+ "collected_at_utc": "2026-11-16T19:57:51.893370+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1032,
+  "japan": 1031,
   "china": 871,
   "taiwan": 301,
-  "korea": 796
+  "korea": 797
  },
- "elapsed_s": 239.5,
+ "elapsed_s": 98.6,
  "sources": [
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -214,6 +206,14 @@
    "newest": "2026-11-16T02:25:49+00:00"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-16T18:08:56+00:00"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "name": "Reuters Japan",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T19:44:21+00:00"
+   "newest": "2026-11-16T19:55:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T06:27:48+00:00"
+   "newest": "2026-11-15T22:14:57+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,13 +331,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T08:38:55+00:00"
+   "newest": "2026-11-16T11:59:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-16T07:03:59+00:00"
   }
@@ -1011,8 +1011,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -1027,7 +1027,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -3136,8 +3136,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -3151,7 +3151,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3966,6 +3966,25 @@
    "id": "006a521a35c20aa7"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-14T19:58:07+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China e EUA discutem tarifas e comércio agrícola antes de encontro entre Xi e Trump",
@@ -4538,6 +4557,24 @@
    "id": "d2134ade3049a4b6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -4812,8 +4849,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -4827,7 +4864,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -6276,24 +6313,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -6517,25 +6536,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-13T02:28:08+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51623,6 +51623,23 @@
    "id": "c212bcd9136052fa"
   },
   {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "BOK holds key rate steady at 3% after 2 consecutive rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40cmVhdnp5bEFWT3h6MlJ3VUMxRmtOcHU0RmFRa29SSE00elBoc2hQSkJHZ25jUUJ3SFZveDhpdTZyc0dJaDFsQWU3NVU0c0wwU21NRFgtdw?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK holds key rate steady at 3% after 2 consecutive rate hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7ae3831d8f606c8c"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Full text of BOK statement on monetary policy decision in Oct.",
@@ -51639,23 +51656,6 @@
    "live_wire": false,
    "manual": false,
    "id": "891fd7d0680eb082"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "BOK holds key rate steady at 3% after 2 consecutive rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40cmVhdnp5bEFWT3h6MlJ3VUMxRmtOcHU0RmFRa29SSE00elBoc2hQSkJHZ25jUUJ3SFZveDhpdTZyc0dJaDFsQWU3NVU0c0wwU21NRFgtdw?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds key rate steady at 3% after 2 consecutive rate hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ae3831d8f606c8c"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51741,6 +51741,23 @@
    "live_wire": false,
    "manual": false,
    "id": "71c51be2f177186c"
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "BOK pauses rate hikes, but signals more may come",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkRkdHN0N3Ynhya0pvSUdYX01NNmVwaTVTMmNGei1HRDY3S2lUbjJGZlRmaVdqeTE1aEVhc2NScW9OVWltQUthV1U3QVB4Sms4bDN6TDBkVQ?oc=5",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "BOK pauses rate hikes, but signals more may come",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "03afcf16b550fe0c"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51880,24 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e3ae1da920fd82c9"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a special committee”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63494",
-   "published_utc": "2026-10-22T06:21:00+00:00",
-   "title_original": "参院 野党6党 消費税減税法案“特別委員会の新設求める”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1889682c9bf176d6"
   },
   {
    "source_id": "manual_ia",
