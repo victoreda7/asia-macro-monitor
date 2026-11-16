@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T11:12:54.104522+00:00
+Última coleta: 2026-11-16T11:22:42.601597+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
   🇨🇳 China          874
-  🇹🇼 Taiwan         301
-  🇰🇷 Coreia do Sul  815
+  🇹🇼 Taiwan         302
+  🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Dollar extends rally, yen looks past soft Japan GDP data
   - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
   - [japan] Nickname decision for the advance utilization period of the former Bank of Japan Kanazawa branch site (HAB Hok
+  - [taiwan] Unborn fetuses to count toward social housing priority: Interior ministry
   - [china] Senator accuses US Commerce Department of failing to stem flow of AI chips to China
   - [china] Central China Real Estate Posts October 2026 Contracted Sales Rmb493 Million
   - [korea] SK Square: SK hynix’s record quarter drove ₩7.94tn operating profit as portfolio NAV declined
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix commits $1.05B to strengthen semiconductor supply chain
   - [japan] Japan rubber futures trade in tight range as weaker yen counters lower oil
   - [china] Nissan Turns China Into Export Hub as Sales There Slump
-  - [japan] Additional interest rate hikes at fixed intervals and widths Bank of Japan member Takada (Jiji Press)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T11:12:54+00:00",
+      "published_utc": "2026-11-16T11:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
