@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T13:52:44.981654+00:00
+Última coleta: 2026-11-16T14:12:45.874154+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1012
-  🇨🇳 China          874
+  🇯🇵 Japão          1011
+  🇨🇳 China          875
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [china] China Resources Power Posts October Net Generation Of Subsidiary Power Plants Up 20.9% To 20.1 MLN MWh
   - [japan] Japanese Yen Offers Best Risk-Reward — Market Talk
   - [japan] Yomiuri: JIC Expects Capital Gain of Over 900 Billion Yen from Sale of JSR Shares to Mitsui Chemicals
   - [japan] Bank of Japan Councilor Takada: “Move to a good position: Flexible interest rate hikes”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ Current Account Balances by Sector (Oct.)
   - [japan] Japan Real Estate Investment: Rent growth lifts NOI and distributions as annual growth targets rise
   - [korea] HD Hyundai Marine Engine: Engine demand drove 62% revenue growth and a KRW 1,731bn order backlog
-  - [korea] Kospi sees worst day in over a week as Nvidia woes, Anthropic IPO drain hit chipmakers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T13:52:45+00:00",
+      "published_utc": "2026-11-16T14:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T13:52:44.981654+00:00",
- "collected_at_utc": "2026-11-16T13:52:44.981654+00:00",
+ "generated_at_utc": "2026-11-16T14:12:45.874154+00:00",
+ "collected_at_utc": "2026-11-16T14:12:45.874154+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1012,
-  "china": 874,
+  "japan": 1011,
+  "china": 875,
   "taiwan": 304,
   "korea": 810
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T13:33:50+00:00"
+   "newest": "2026-11-16T13:56:27+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T12:52:23+00:00"
+   "newest": "2026-11-16T13:55:30+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T10:41:15+00:00"
+   "newest": "2026-11-16T13:45:54+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T13:52:08+00:00"
+   "newest": "2026-11-16T14:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Resources Power Posts October Net Generation Of Subsidiary Power Plants Up 20.9% To 20.1 MLN MWh",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46X0Q6:0-china-resources-power-posts-october-net-generation-of-subsidiary-power-plants-up-20-9-to-20-1-mln-mwh/",
+   "published_utc": "2026-11-16T14:06:54+00:00",
+   "title_original": "China Resources Power Posts October Net Generation Of Subsidiary Power Plants Up 20.9% To 20.1 MLN MWh",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f272dda633f49c9c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1418,23 +1435,6 @@
    "id": "9d2ad122cf7be1df"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Asian markets mostly lower as weak Japan GDP, soft China data, and Nvidia caution weigh",
-   "url": "https://www.tradingview.com/news/seekingalpha:50b42ec89094b:0-asian-markets-mostly-lower-as-weak-japan-gdp-soft-china-data-and-nvidia-caution-weigh/",
-   "published_utc": "2026-11-16T06:24:43+00:00",
-   "title_original": "Asian markets mostly lower as weak Japan GDP, soft China data, and Nvidia caution weigh",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fcaefdf005a8281f"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Asia stocks tumble as chipmakers slide and weak China data adds pressure",
@@ -1886,7 +1886,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Japan's Q3 real GDP shrinks 0.1 pct",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54N085c3dKdG1XcnRQSF9mWnBTMlJzX19rUWljZTc0NVJMV183OHpleEhQbnVHeTRXc0V6aTIwb0tnc281R2tJSXNDX1poVldBQTViR2tKSDQwZWlZQ1p4ZldOQ2NsQXk2MFdNZ2xsVVZ6b201OFN4Ql9iMA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU21BeFZ1Xy1vMjM2dWVMb3A3MkEyMU9NTFNvb2d2Yk5WSldwVHNsNGxkeUlkNFZKNVotcDVNcFpJTGJpdVdZUUpKRDRXTHFaaUZHZGRnWVZpWXFKc3ROWjBFejZVd1JzZXdYZ1djSkZDZ0NJR3h0aG1lVGtYUmtzeGtkUGJkLUh4VXRPWg?oc=5",
    "published_utc": "2026-11-16T03:26:00+00:00",
    "title_original": "Japan's Q3 real GDP shrinks 0.1 pct",
    "region": "japan",
@@ -1897,7 +1897,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "cbbbb39784352375"
+   "id": "6e65338d7852d98c"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3691,6 +3691,25 @@
    "id": "006a521a35c20aa7"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-14T19:58:07+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "쿠키뉴스",
    "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
@@ -4279,6 +4298,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6019,24 +6056,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -6260,25 +6279,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-13T02:28:08+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
