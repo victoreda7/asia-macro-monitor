@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T22:45:06.482780+00:00
+Última coleta: 2026-11-16T23:05:40.535303+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] The possibility of the Bank of Korea's base interest rate increasing from 3.00 to 3.25% this month increases.
   - [japan] SoftBank, Rakuten push Japan retail bond issuance to record high
   - [taiwan] 3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Offshore yuan bond sales top US dollar debt in Hong Kong for first time
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone By Investing.com
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
-  - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T22:45:06+00:00",
+      "published_utc": "2026-11-16T23:05:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
