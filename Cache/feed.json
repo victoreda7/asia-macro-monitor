@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T08:52:50.574277+00:00",
- "collected_at_utc": "2026-11-16T08:52:50.574277+00:00",
+ "generated_at_utc": "2026-11-16T09:02:53.028291+00:00",
+ "collected_at_utc": "2026-11-16T09:02:53.028291+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1010,
-  "china": 870,
-  "taiwan": 303,
+  "china": 871,
+  "taiwan": 302,
   "korea": 817
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T08:32:32+00:00"
+   "newest": "2026-11-16T08:51:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T08:51:02+00:00"
+   "newest": "2026-11-16T09:02:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,18 +331,52 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T08:38:55+00:00"
+   "newest": "2026-11-16T08:56:29+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Businessworld",
+   "title_en": "Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million",
+   "url": "https://www.tradingview.com/news/moodys:4183565cdd647:0-hindalco-s-novelis-to-sell-two-china-subsidiaries-for-265-million/",
+   "published_utc": "2026-11-16T09:00:49+00:00",
+   "title_original": "Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ec9ac614de19737e"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3R0lsQXBuS2ZpcHc0UHd2WEswQW5RNkg2TVk0YzN1QmdWM0hWVUs2c0l4dURBWnd2bUc2ZWp4VjlFNVRSc2s5dm1pcXFnUQ?oc=5",
+   "published_utc": "2026-11-16T08:56:29+00:00",
+   "title_original": "Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3ed9904fb380ab70"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1471,24 +1505,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5ecb7e029dad670d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02H:0-taiwan-to-consider-inflation-other-countries-moves-when-deciding-interest-rates/",
-   "published_utc": "2026-11-16T04:09:58+00:00",
-   "title_original": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e5ca809922e516e9"
   },
   {
    "source_id": "nhk_economy",
@@ -3076,6 +3092,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "Today, the central bank's major adjustments have been implemented.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGs3TGNLNnRWRVMtSEdtRlI1eGlnZ2FqTWtjS0VHWktsVDdYYmV6cFg1Y1lUWEFEcEhkY3Zia1FJQWltSWJuQ3ZVZXlGRFJXc2ZXQ0xZR3R6cXQ5NzRhMUFhSXNmbmFvMUp5UWtGa3NqdlY0STlfTmpWWC11STQ5b1JlTC1WTzJM?oc=5",
+   "published_utc": "2026-11-15T03:23:44+00:00",
+   "title_original": "今日，央行重大调整落地",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d59d3ce69a4ec746"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "新浪财经_金融信息服务商",
    "title_en": "The central bank’s major adjustment is happening today",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaSmlfQ0hneTNsanV6TTFQQjJfZDI4Y3hlY1BLTzNsWndQSzRPNWFTdlhUTTFmdXJna1Z6ZEs1RDVCQUpBVk5WQlBNa0FUS0JmQzJlaFREV2Y5M0R3cUt6OGRFYXRIWi1GSkNOd083QmdIUQ?oc=5",
@@ -3905,24 +3938,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5661,6 +5676,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51875,40 +51908,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b0707971c96aa17e"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Interview: Regular central bank dialogue underpins win-win China-EU economic and financial ties: ECB official",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfYk9ldnZPMmNLRFJYai0xaDBfTDFHSXRhc0ZoUkQ0Tmg2NWdNUmp5Qk5HTmZjdnR2WU9VWTBnVkVfaFVieXp4WDQ5MExrb0EzQy1kblV5WEZDX01SRDhoYlpqSElHUGN0VUplcnpwLUZPZkJGc29rV2tGMG4?oc=5",
-   "published_utc": "2026-10-21T16:12:15+00:00",
-   "title_original": "Interview: Regular central bank dialogue underpins win-win China-EU economic and financial ties: ECB official",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c80866edd286f92"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021006844:0-bok-financial-price-target-cut-to-141-00-share-from-148-00-by-stephens-co/",
-   "published_utc": "2026-10-21T15:59:00+00:00",
-   "title_original": "BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3fc50b66fd9a91d2"
   },
   {
    "source_id": "manual_ia",

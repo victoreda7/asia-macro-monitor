@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T08:52:50.574277+00:00
+Última coleta: 2026-11-16T09:02:53.028291+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
-  🇨🇳 China          870
-  🇹🇼 Taiwan         303
+  🇨🇳 China          871
+  🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  817
 
 ## O que já está no feed (não repita)
 
+  - [china] Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million
+  - [korea] Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in
   - [japan] Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data
   - [japan] Yen Expected to Strengthen in 2027 Due to Supportive Policies — Market Talk
   - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Hyundai Green Food: 9M earnings improved, while working-capital outflows and buybacks shaped cash deployment
   - [japan] Hawkish BOJ policymaker Takata calls for swift hike in rates to ’good’ position
   - [china] China's October retail sales ease to 0.4%, factory output slows to 4.8%, while jobless rate dips to 5.1%
-  - [taiwan] Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and
-  - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T08:52:50+00:00",
+      "published_utc": "2026-11-16T09:02:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
