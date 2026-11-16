@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T04:32:44.213417+00:00",
- "collected_at_utc": "2026-11-16T04:32:44.213417+00:00",
+ "generated_at_utc": "2026-11-16T04:42:52.008858+00:00",
+ "collected_at_utc": "2026-11-16T04:42:52.008858+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1006,
-  "china": 878,
+  "japan": 1007,
+  "china": 879,
   "taiwan": 304,
-  "korea": 812
+  "korea": 810
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T04:12:21+00:00"
+   "newest": "2026-11-16T04:31:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T02:36:52+00:00"
+   "newest": "2026-11-16T04:30:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:21:16+00:00"
+   "newest": "2026-11-16T03:22:21+00:00"
   },
   {
    "source_id": "ked_global",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T01:38:31+00:00"
+   "newest": "2026-11-14T07:25:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T13:09:06+09:00"
+   "newest": "2026-11-16T13:41:06+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T04:31:04+00:00"
+   "newest": "2026-11-16T04:42:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T04:08:47+00:00"
+   "newest": "2026-11-16T04:28:23+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-16T04:30:28+00:00"
+   "newest": "2026-11-16T04:34:07+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T04:20:00+00:00"
+   "newest": "2026-11-16T03:29:10+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "HKEX Launches First-Ever Offshore Yuan Bond Index",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001633:0-hkex-launches-first-ever-offshore-yuan-bond-index/",
+   "published_utc": "2026-11-16T04:40:00+00:00",
+   "title_original": "HKEX Launches First-Ever Offshore Yuan Bond Index",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5e305176a049aa08"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "SK Hynix in 24/7 race to complete colossal chip plant",
@@ -359,6 +376,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7b50b38f21cf0407"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
+   "url": "https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
+   "published_utc": "2026-11-16T04:30:41+00:00",
+   "title_original": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a725b97bb02ebb8c"
   },
   {
    "source_id": "tradingview_live",
@@ -380,23 +414,6 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
-   "title_en": "HKEX Launches First-Ever Offshore Yuan Bond Index",
-   "url": "https://www.tradingview.com/news/DJN_DN20261115001609:0-hkex-launches-first-ever-offshore-yuan-bond-index/",
-   "published_utc": "2026-11-16T04:25:00+00:00",
-   "title_original": "HKEX Launches First-Ever Offshore Yuan Bond Index",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "43324ea82c24d6bf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
    "title_en": "Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261115001602:0-taiwan-s-taiex-extends-losses-as-chip-makers-weigh-market-talk/",
    "published_utc": "2026-11-16T04:17:00+00:00",
@@ -410,23 +427,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1acfdc56e5b9d7e1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ's Takata calls for swift hike in rates to 'good' position",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46F00B:0-boj-s-takata-calls-for-swift-hike-in-rates-to-good-position/",
-   "published_utc": "2026-11-16T04:14:02+00:00",
-   "title_original": "BOJ's Takata calls for swift hike in rates to 'good' position",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "31aa403d8abac5c1"
   },
   {
    "source_id": "investing_live",
@@ -774,6 +774,23 @@
    "id": "f8c993ad23e218f5"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0NZRW1WeWkxRTZWeWtwenhyM1k5WWxCVWk0bzNqQjBReVdFeHF5eENHMEVoOFJWMkx6YnVWTWRSNUdPVnA1ZGdTVVlUQUJOVm1EZnNRaG5GS1NGTHJFN1NEMTNzUWJ3bVRlU05MNWJ3V0pWRXpFVVpFQTliTFM2eTFzdzNzUVB1RmFkQlR0cE1HTDU1QVB1NG9jNE1BSzlPOThaUVpFdlMtTmppYmFtNlppdmpHQnR6bl9ZcXoyTDZHbEVNVXc?oc=5",
+   "published_utc": "2026-11-16T03:22:21+00:00",
+   "title_original": "Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "91db7e90660e1269"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "CORRECTED: JAPAN Q3 GDP NET EXPORTS CONTRIBUTION -0.6 PCT POINT (CORRECTED FROM +0.3 PCT POINT) (Q2 +0.5 POINT); MEDIAN FORECAST -0.4 PCT POINT",
@@ -948,7 +965,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s Economy Weakens More Than Forecast Despite Stimulus Push",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFiTE1FdTd4TV93WnROMERVZXMtQzdSZDRTOTh3cVhocV9Sb1NSRVVGelJYamtpWkwyLWc5WTc2MGRWVUJWckNkVVJTOVBUZTNuN3Jxdl92R1E3dWRySnk3RTAyZ3BlVVI2bGZKbjJKb0U4WkNSS1VJU3dQZ1B2eUJXaUF3TVZaWk4zS0N5RlVVSWRlcXZ4UkZQYl9nQkxrRkFxNF93dm94c0NLWEdCa1d3X2Z2UQ?oc=5",
    "published_utc": "2026-11-16T02:45:00+00:00",
@@ -1101,7 +1118,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Home Price Slump Drags On Despite Latest Stimulus Push",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEhLSzAtTC1UcWJYZTRDSUZaVVRzRTdyWUVMaWdLODI1cU5takh4Vm1iUWM5ZnBHNG53WnZ1aGRFNnI4b0VNX0x4SEFrbFZETWczUXlXUGRlNEpkV2pvWEM1cjlPY3ZlX2JxcEJ2UGxaSnVJOGNOSnJWUzVldkdIVlU3S1ZPcy1ZVWNPQU81VUttZ1hIMXVDMmprYjhuZE04NDF6bDh5WVJHdlR4ZE9QeQ?oc=5",
    "published_utc": "2026-11-16T02:17:00+00:00",
@@ -1307,6 +1324,23 @@
    "live_wire": false,
    "manual": false,
    "id": "40462e66d39edec7"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "HKEX Launches First Dim Sum Bond Index to Boost Yuan Debt Market",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQjdiY1lHWm1nWkRIR3RScDZnc1JPUUpGc1U4eEFaZTAwNmx6YmNhUmdaZkN2R3FrNGNJT1RWZjlVTDRPT1JsOGZ4VUl0YXYya0dpUEhpMEw3ZDlxRjBDaXVaV0RZUHAzaGFEb19YSUtnZ1JUS1VFc05pZGl2SFNvMGFFdXJJZlhHVmhVSHRCNXVrR2FocUo4anV3aURsbTEzcXNfY25meXY2Uk9XZ0xyLUo1Q1puZw?oc=5",
+   "published_utc": "2026-11-16T01:13:00+00:00",
+   "title_original": "HKEX Launches First Dim Sum Bond Index to Boost Yuan Debt Market",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "96a5332284b2a44e"
   },
   {
    "source_id": "investing_fx",
@@ -2170,7 +2204,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2181,7 +2215,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3467,7 +3501,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhfekJtSDUzVXhKZHNDNzgtTXc1RXBUVk9sR3JJX0ZtNDdmazBHU2ZvRXJEN25HMWpOTVdxWng1Y1VXa05OSGlwMmFGUllzMDgyRnkzWWxFdk5pLUhZd1BvUUNXS3NYYXg2TzdxSk9MSXowWWpGTG1CdUxka01oODhvVzBnNDN3Sk5uYWtybjVoelhGRVFWNk5MR2g1Ykx3cXVJazNUWE92ZElRbmVQYzEwaUxBc3lHRHdBVDJvVjA?oc=5",
    "published_utc": "2026-11-13T13:09:00+00:00",
@@ -5280,7 +5314,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:52+00:00",
+   "published_utc": "2026-11-13T02:04:00+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -51867,40 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "507cd630d40a019f"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Kospi rebounds as strong US tech earnings lift chipmakers",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EVnpTS01DalNQc2lwYjg0c1lYckJCajJ2VVNqVWtPNGFzQUNGZksyYXk4RGRZY3A1ci16ZmtScy0zWGJxLUNzaFlMaW5GWlhZQ1RLRmNpZkROMFBwaVpHZ2ZpZjh0b3JnTl9KeGdQUkp5N2gtMF9nNDBB?oc=5",
-   "published_utc": "2026-10-21T08:58:00+00:00",
-   "title_original": "Kospi rebounds as strong US tech earnings lift chipmakers",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca3a042e7a5b528a"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Hyundai to debut car powered by proprietary automotive chips in 2029",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxRnJEd1hBb0FBUFVvYWEwT3JBaEVuRV9RRGduX2FUSXFjM21Gdk9TSDJubGk4VEhtQ2hzMjhCNkFMVENrYU9ma1VTWnJndkFIUF96TXlvU2dPVUotNzdyOGZCOVMwdnV1MTI2OUx3Zw?oc=5",
-   "published_utc": "2026-10-21T08:50:00+00:00",
-   "title_original": "Hyundai to debut car powered by proprietary automotive chips in 2029",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b18852717e361d8"
   },
   {
    "source_id": "manual_ia",

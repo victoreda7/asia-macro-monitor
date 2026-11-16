@@ -7,21 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T04:32:44.213417+00:00
+Última coleta: 2026-11-16T04:42:52.008858+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
-  🇨🇳 China          878
+  🇯🇵 Japão          1007
+  🇨🇳 China          879
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  812
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
-  - [korea] SK Hynix in 24/7 race to complete colossal chip plant
-  - [korea] STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026
   - [china] HKEX Launches First-Ever Offshore Yuan Bond Index
+  - [korea] SK Hynix in 24/7 race to complete colossal chip plant
+  - [japan] BOJ’s Takata calls for swift hike in rates to ’good’ position
+  - [korea] STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026
   - [taiwan] Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk
-  - [japan] BOJ's Takata calls for swift hike in rates to 'good' position
   - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
   - [china] Hong Kong exchange launches first offshore yuan bond index
   - [taiwan] Taiwan will take inflation and measures taken by other countries into account when setting interest rates
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [japan] Japan's Q3 real GDP shrinks 0.1 pct
   - [japan] CORRECTED: JAPAN Q3 GDP BUSINESS INVESTMENT +1.6% (CORRECTED FROM +2.1%) Q/Q VS. MEDIAN FORECAST +1.5%; +0.3 P
   - [japan] CORRECTED: JAPAN Q3 GDP PRIVATE CONSUMPTION -0.3% (CORRECTED FROM-0.2%) Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 PO
+  - [japan] Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters
   - [japan] CORRECTED: JAPAN Q3 GDP NET EXPORTS CONTRIBUTION -0.6 PCT POINT (CORRECTED FROM +0.3 PCT POINT) (Q2 +0.5 POINT
   - [japan] CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MED
   - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies
   - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
   - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
-  - [japan] Japan rubber trades in tight range as weaker yen offsets lower oil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T04:32:44+00:00",
+      "published_utc": "2026-11-16T04:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
