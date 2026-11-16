@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T13:12:51.452978+00:00
+Última coleta: 2026-11-16T13:22:51.598205+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
-  🇨🇳 China          875
-  🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  811
+  🇯🇵 Japão          1012
+  🇨🇳 China          874
+  🇹🇼 Taiwan         304
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Yen Offers Best Risk-Reward — Market Talk
+  - [japan] Yomiuri: JIC Expects Capital Gain of Over 900 Billion Yen from Sale of JSR Shares to Mitsui Chemicals
   - [japan] Bank of Japan Councilor Takada: “Move to a good position: Flexible interest rate hikes”
+  - [taiwan] Approved FDI hits Jan.-Oct. high; TSMC boosts outbound investments
   - [china] Alibaba details new AI safeguards as Chinese developers step up test disclosures
   - [japan] Japan Real Estate Investment: Strong leasing and higher distributions offset rate, refinancing and acquisition
   - [korea] Coatue Management Raises Stake In Meta, Reports Stake in SK Hynix - SEC Filing
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Real Estate Investment: Rent growth lifts NOI and distributions as annual growth targets rise
   - [korea] HD Hyundai Marine Engine: Engine demand drove 62% revenue growth and a KRW 1,731bn order backlog
   - [korea] Kospi sees worst day in over a week as Nvidia woes, Anthropic IPO drain hit chipmakers
-  - [japan] Stock price: Closing price below 60,000 yen; sell orders spread mainly among semiconductor-related stocks
-  - [taiwan] Fitch Says US Rate Hikes Have Modest Impact On Taiwan Bills Finance Companies
-  - [japan] Wages are quite strongly consistent with 2% inflation - Bank of Japan Governor = Economic and Fiscal Policy Co
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T13:12:51+00:00",
+      "published_utc": "2026-11-16T13:22:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
