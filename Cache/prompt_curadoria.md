@@ -7,20 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T03:25:28.661990+00:00
+Última coleta: 2026-11-16T03:32:44.858328+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1004
-  🇨🇳 China          878
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  814
+  🇨🇳 China          880
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [china] Hong Kong debuts offshore yuan bond index to promote RMB assets
+  - [japan] CORRECT: JAPAN Q3 GDP: EMPLOYEE COMP. +0.3% Q/Q VS. 1.1% IN Q2, +0.4% (CORRECTED FROM +1.4%) IN Q1, +0.6% IN Q
+  - [japan] CORRECTED: JAPAN Q3 GDP PRIVATE INVENTORY CONTRIBUTION +0.0 POINT (CORRECTED FROM -0.1 POINT); MEDIAN FORECAST
+  - [japan] Japan's Q3 real GDP shrinks 0.1 pct
+  - [japan] CORRECTED: JAPAN Q3 GDP BUSINESS INVESTMENT +1.6% (CORRECTED FROM +2.1%) Q/Q VS. MEDIAN FORECAST +1.5%; +0.3 P
+  - [japan] CORRECTED: JAPAN Q3 GDP PRIVATE CONSUMPTION -0.3% (CORRECTED FROM-0.2%) Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 PO
+  - [japan] CORRECTED: JAPAN Q3 GDP NET EXPORTS CONTRIBUTION -0.6 PCT POINT (CORRECTED FROM +0.3 PCT POINT) (Q2 +0.5 POINT
   - [japan] CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MED
   - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
   - [korea] SK Hynix to Spend About $1 Billion to Support Local Suppliers
   - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
+  - [japan] How will interest rates on deposits and borrowings change if the Bank of Japan raises interest rates? Time lag
   - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
   - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
   - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
@@ -41,6 +49,7 @@ Total: 3000 manchetes
   - [china] China’s factory output, retail sales growth slow in October
   - [china] China's Home Price Decline Gathered Pace in October
   - [china] HKEX launches offshore yuan bond index amid yuan internationalisation push
+  - [china] Developing | China’s economic activity falters in October amid sluggish retail sales
   - [china] China Oct Industrial Output +4.8% On Year; Market Expected +5.2%
   - [china] China Oct Industrial Output +0.21% On Month
   - [china] The added value of industries above designated size increased by 4.8% in October 2026
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consump
   - [china] Drop in China's new home prices narrows to 11-month low
   - [korea] Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ po
-  - [china] CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON
-  - [japan] Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk
-  - [china] On November 16, the central bank conducted an overnight reverse repurchase operation of RMB 460 billion.
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7141 MON VS 6.7152
-  - [taiwan] TSMC's new US$500 million arm could invest in chip suppliers
-  - [japan] Japan Auctioning Y250.0B Of 10-Year CPI-Indexed Bonds
-  - [china] Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026
-  - [china] The central bank launches 460 billion yuan overnight reverse repurchase operation
-  - [japan] Nikkei, Kospi slide: Asian markets fall as Nvidia results, US inflation concerns keep investors cautious
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T03:25:28+00:00",
+      "published_utc": "2026-11-16T03:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
