@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T07:22:52.066135+00:00
+Última coleta: 2026-11-16T07:32:45.275450+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1007
-  🇨🇳 China          877
-  🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  814
+  🇯🇵 Japão          1006
+  🇨🇳 China          876
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  815
 
 ## O que já está no feed (não repita)
 
+  - [japan] Aisan Industry Co., Ltd. - To Buy Back Up To 4.7% Of Shares Worth 7 Billion Yen
+  - [taiwan] Taiwan, South Korea Tech Stocks Plunge Ahead of Key AI Trials
+  - [korea] SK hynix commits $1.05B to strengthen semiconductor supply chain
   - [japan] Japan rubber futures trade in tight range as weaker yen counters lower oil
   - [china] Nissan Turns China Into Export Hub as Sales There Slump
   - [japan] Japan Industrial Output Recovers Less Than Estimated
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
   - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP
   - [china] HKEX Launches First-Ever Offshore Yuan Bond Index
-  - [china] China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions
-  - [korea] SK Hynix in 24/7 race to complete colossal chip plant
-  - [china] China is accused of manipulating the iron ore trade and the Australian government is worried about the impact 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T07:22:52+00:00",
+      "published_utc": "2026-11-16T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
