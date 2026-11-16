@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T21:13:19.590740+00:00
+Última coleta: 2026-11-16T21:25:44.342166+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [china] Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads
   - [japan] Teradyne Stocks Drop 6.14% as Advantest's 11% Tokyo Plunge Hits Chip Testers
   - [japan] Japan eyes two-pronged approach to cover tax cut, growth investments
+  - [japan] EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam
   - [china] US blocks China's indirect access to American AI chips
   - [china] No chips for you: US issues rule to stymie China's access to AI GPUs via data centers
   - [japan] Nomura Real Estate to acquire 8 MW of energy storage in Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
   - [japan] Nickname decision for the advance utilization period of the former Bank of Japan Kanazawa branch site (HAB Hok
   - [taiwan] Unborn fetuses to count toward social housing priority: Interior ministry
-  - [china] Senator accuses US Commerce Department of failing to stem flow of AI chips to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T21:13:19+00:00",
+      "published_utc": "2026-11-16T21:25:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

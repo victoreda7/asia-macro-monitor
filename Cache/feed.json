@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-16T21:13:19.590740+00:00",
- "collected_at_utc": "2026-11-16T21:13:19.590740+00:00",
+ "generated_at_utc": "2026-11-16T21:25:44.342166+00:00",
+ "collected_at_utc": "2026-11-16T21:25:44.342166+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 301,
   "korea": 795
  },
- "elapsed_s": 64.3,
+ "elapsed_s": 208.4,
  "sources": [
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -57,7 +65,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 16,
+   "count": 14,
    "error": "",
    "newest": "2026-11-16T11:50:00+00:00"
   },
@@ -115,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:56:00+00:00"
+   "newest": "2026-11-16T18:52:03+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -206,20 +214,12 @@
    "newest": "2026-11-16T02:25:49+00:00"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-16T20:51:44+00:00"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "name": "Reuters Japan",
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T20:51:44+00:00"
+   "newest": "2026-11-16T16:13:36+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T21:12:15+00:00"
+   "newest": "2026-11-16T21:24:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T13:36:00+00:00"
+   "newest": "2026-11-16T16:59:13+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -582,6 +582,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3b5c1f5ba2ec6f1a"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYUhnNWUzQW81cGFtV1o2REEwM1V0Qm1yU05FSk9lRVZNVkw3OGs1dGdJS3JEaXZhUVd3N0tPWUFaX3RqenZpQ1RqMnYyUkFQQmI4TFJ1Q1pCLXNQMDFjWXc?oc=5",
+   "published_utc": "2026-11-16T16:13:36+00:00",
+   "title_original": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "afe86a77493e1224"
   },
   {
    "source_id": "tradingview_live",
@@ -4592,6 +4609,24 @@
    "id": "d2134ade3049a4b6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -6330,24 +6365,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -8022,7 +8039,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -8036,7 +8053,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1398ae0aff03df27"
+   "id": "5ffbd3cd068ab02a"
   },
   {
    "source_id": "boj_whatsnew",
@@ -51880,23 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "adf8e959edc95173"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen rallies as dollar wobbles toward Fed meeting By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXJlUjhBbEQzV0R4OWZfOTMwNUNTRTVRZ2VibUxjN1RFOVp0QXJDbDIxZkpTaHpoWk04dXJHdWZNSmk2Tk4tYkFGUlQyTk5aSW5VcW9aVlZsMG5zX05PVjlLbXJ0TVNtZHJlcWpQMFpFbG01dHprZ2Rfb09XVEZvUjBic28waGJ4NE1LQThEem0yekNGak5xM2I1Z1ozams1WTNaQ1daMA?oc=5",
-   "published_utc": "2026-10-22T06:45:00+00:00",
-   "title_original": "Yen rallies as dollar wobbles toward Fed meeting By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7bee90c535cbbd0"
   },
   {
    "source_id": "manual_ia",
