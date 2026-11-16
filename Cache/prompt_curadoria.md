@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T15:22:59.471670+00:00
+Última coleta: 2026-11-16T15:32:54.820605+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
-  🇨🇳 China          876
+  🇨🇳 China          875
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron, SK hynix, and Sandisk shares plummet, what you need to know
   - [korea] Why is SK hynix stock sliding today?
   - [japan] Yen Could Strengthen Versus Dollar by Year-End — Market Talk
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Expected to Strengthen in 2027 Due to Supportive Policies — Market Talk
   - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
   - [japan] Takada, a Bank of Japan council member, emphasizes the risk of price rises as a new phase accelerates the pace
-  - [china] China-ASEAN Summit China calls for promotion of cooperation in economic and trade fields
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T15:22:59+00:00",
+      "published_utc": "2026-11-16T15:32:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
