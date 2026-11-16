@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T04:42:52.008858+00:00
+Última coleta: 2026-11-16T04:52:46.263166+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1007
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] HKEX Launches First-Ever Offshore Yuan Bond Index
   - [korea] SK Hynix in 24/7 race to complete colossal chip plant
   - [japan] BOJ’s Takata calls for swift hike in rates to ’good’ position
+  - [china] China is accused of manipulating the iron ore trade and the Australian government is worried about the impact 
   - [korea] STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026
   - [taiwan] Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk
   - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
   - [taiwan] Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies
   - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
-  - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T04:42:52+00:00",
+      "published_utc": "2026-11-16T04:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
