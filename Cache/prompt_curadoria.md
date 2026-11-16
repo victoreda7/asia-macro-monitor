@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T19:05:29.076839+00:00
+Última coleta: 2026-11-16T19:12:54.053469+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1013
-  🇨🇳 China          877
-  🇹🇼 Taiwan         304
+  🇨🇳 China          878
+  🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [japan] Japan Real Estate Investment: Strong leasing and higher distributions offset rate, refinancing and acquisition
   - [korea] Coatue Management Raises Stake In Meta, Reports Stake in SK Hynix - SEC Filing
   - [japan] Negotiations resume between national and local governments, aiming to settle financial burden ratio of support
+  - [china] Offshore yuan bond sales top US dollar debt in Hong Kong for first time
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone By Investing.com
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data
   - [china] Kuang-Chi Technologies' Unit Signs 1.8 Billion Yuan Supply Framework Contract
   - [china] RMB deposit balance fell for two consecutive months in October. Central Bank: Concerned about the expected imp
-  - [japan] Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T19:05:29+00:00",
+      "published_utc": "2026-11-16T19:12:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
