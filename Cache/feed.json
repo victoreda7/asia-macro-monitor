@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T09:22:44.848095+00:00",
- "collected_at_utc": "2026-11-16T09:22:44.848095+00:00",
+ "generated_at_utc": "2026-11-16T09:32:43.661363+00:00",
+ "collected_at_utc": "2026-11-16T09:32:43.661363+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1010,
-  "china": 872,
-  "taiwan": 302,
+  "china": 873,
+  "taiwan": 301,
   "korea": 816
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T21:10:00+00:00"
+   "newest": "2026-11-16T08:03:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T06:27:16+00:00"
+   "newest": "2026-11-16T05:00:21+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T04:34:30+00:00"
+   "newest": "2026-11-14T07:25:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T18:09:49+09:00"
+   "newest": "2026-11-16T18:29:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T09:13:52+00:00"
+   "newest": "2026-11-16T09:31:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-16T17:15:00+09:00"
+   "newest": "2026-11-16T18:20:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Hungary tightens oversight of Chinese, South Korean battery plants",
+   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/hungary-tightens-oversight-of-chinese-south-korean-battery-plants",
+   "published_utc": "2026-11-16T09:32:42.574446+00:00",
+   "title_original": "Hungary tightens oversight of Chinese, South Korean battery plants",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62b5c9c3b567a291"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hike by the Bank of Japan",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76757",
+   "published_utc": "2026-11-16T09:29:56+00:00",
+   "title_original": "円相場値上がり 市場介入警戒感や日銀早期利上げ意識も",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a5ff140c211e048a"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -394,6 +429,24 @@
    "live_wire": true,
    "manual": false,
    "id": "ec9ac614de19737e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus",
+   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4635508:0-enchem-sales-increased-but-deep-losses-and-a-krw-274-6bn-working-capital-deficit-put-liquidity-in-focus/",
+   "published_utc": "2026-11-16T08:58:00+00:00",
+   "title_original": "Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus",
+   "region": "korea",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "df07492c42373fa7"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1524,24 +1577,6 @@
    "id": "b9f16c58d01119a0"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan will take inflation and measures taken by other countries into account when setting interest rates",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02L:0/",
-   "published_utc": "2026-11-16T04:10:29+00:00",
-   "title_original": "Taiwan levará em consideração a inflação e as medidas adotadas por outros países ao definir as taxas de juros",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "5ecb7e029dad670d"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "A major semiconductor manufacturing base in South Korea is unveiled to help foster small and medium-sized enterprises, which is an issue",
@@ -1632,7 +1667,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Japan's Q3 real GDP shrinks 0.1 pct",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrSVoyb3hjbHJKNFJHVEZIdkdPVlV3eVd4ODVLNy1TQ0wtZmRLOTh2UzhFZTRHZTJwRzFTVzRLX2g5clI0NVNUZnNDS2E5MzM1RW52ZWhONlZuSjkxaVNiUG5xeU1nRURNS3dYSXU3UEVka0RnUzVDejl4WjY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU21BeFZ1Xy1vMjM2dWVMb3A3MkEyMU9NTFNvb2d2Yk5WSldwVHNsNGxkeUlkNFZKNVotcDVNcFpJTGJpdVdZUUpKRDRXTHFaaUZHZGRnWVZpWXFKc3ROWjBFejZVd1JzZXdYZ1djSkZDZ0NJR3h0aG1lVGtYUmtzeGtkUGJkLUh4VXRPWg?oc=5",
    "published_utc": "2026-11-16T03:26:00+00:00",
    "title_original": "Japan's Q3 real GDP shrinks 0.1 pct",
    "region": "japan",
@@ -1643,7 +1678,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d20628422a3ab744"
+   "id": "6e65338d7852d98c"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2954,7 +2989,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2965,7 +3000,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3990,6 +4025,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5728,24 +5781,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51872,42 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "90dfd59efb99e868"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국금융신문",
-   "title_en": "Today (22nd) October Bank of Korea Monetary Policy Committee meeting... The outlook for a base interest rate freeze is favorable.",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1X2wzU2c1LUNhMUd5TFdQZFh3M092elU1Tk5BM1VvM3F4VzktM2QtNF9JT3JLcUs5aUk1VGpmYkN1ZkxsVXVNWlRadTJGelRCQWZBZWZaRnFDZlpoaXM2a2xjUUE5U19YU2dDUl9EZXRWZEtLX2JXZUVUcw?oc=5",
-   "published_utc": "2026-10-21T21:00:00+00:00",
-   "title_original": "오늘(22일) 10월 한은 금통위…기준금리 동결 전망 우세",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7af20670ab2adc4e"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Lower House committee to debate consumption tax cut",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kWDVLb1N2YzR4N3IwNmJJMHU0VE44bGozUHU3RjRSZFN2RUV5OEJuSmlaTnFCT2VjNXo3R2RXaU1EQTdBZEVEN3ZIaWQyYmFwTzFBMHB1ZmtiNnBfVHZQWHc2OA?oc=5",
-   "published_utc": "2026-10-21T19:32:52+00:00",
-   "title_original": "Lower House committee to debate consumption tax cut",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e4ab3ee068e1de02"
   },
   {
    "source_id": "manual_ia",
