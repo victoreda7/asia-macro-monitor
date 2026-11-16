@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-16T18:42:51.213381+00:00",
- "collected_at_utc": "2026-11-16T18:42:51.213381+00:00",
+ "generated_at_utc": "2026-11-16T18:49:27.957896+00:00",
+ "collected_at_utc": "2026-11-16T18:49:27.957896+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 305,
   "korea": 805
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-15T21:10:00+00:00"
+   "newest": "2026-11-16T16:54:47+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -91,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T18:24:35+00:00"
+   "newest": "2026-11-16T18:44:40+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -188,6 +172,22 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-16T03:22:58+00:00"
+  },
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-16T22:10:04+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-16T21:58:12+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-16T07:03:59+00:00"
   }
@@ -7901,7 +7901,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -7915,7 +7915,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1398ae0aff03df27"
+   "id": "5ffbd3cd068ab02a"
   },
   {
    "source_id": "boj_whatsnew",
