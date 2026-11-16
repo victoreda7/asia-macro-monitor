@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T16:42:42.905317+00:00
+Última coleta: 2026-11-16T16:52:42.505591+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1010
+  🇯🇵 Japão          1011
   🇨🇳 China          878
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  808
+  🇰🇷 Coreia do Sul  807
 
 ## O que já está no feed (não repita)
 
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [korea] Coatue Management Raises Stake In Meta, Reports Stake in SK Hynix - SEC Filing
   - [japan] Negotiations resume between national and local governments, aiming to settle financial burden ratio of support
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
+  - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone By Investing.com
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone
   - [japan] Dollar extends rally, yen looks past soft Japan GDP data
   - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Rise in the yen market, there are concerns about market intervention and concerns about early interest rate hi
   - [japan] Former Bank of Japan branch will be nicknamed ``Machinowa Korinbo'' by Kanazawa City, starting in May next yea
   - [china] Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million
-  - [korea] Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T16:42:43+00:00",
+      "published_utc": "2026-11-16T16:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
