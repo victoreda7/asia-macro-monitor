@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T22:25:12.398928+00:00
+Última coleta: 2026-11-16T22:36:01.990045+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] SoftBank, Rakuten push Japan retail bond issuance to record high
   - [taiwan] 3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves
+  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US issues new chip rule as China's AI companies fear Nvidia scandal fallout
   - [taiwan] Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC
   - [japan] The famous soba, which has been priced at 555 yen for 40 years, is suddenly priced at 1,110 yen...The reason w
@@ -30,7 +31,6 @@ Total: 3000 manchetes
   - [japan] Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00
   - [korea] SK hynix Stocks Sink 7.89% Despite 80% Margin and 100 Trillion Won Payout
   - [taiwan] TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High
-  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [japan] US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba
   - [china] Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads
   - [japan] Teradyne Stocks Drop 6.14% as Advantest's 11% Tokyo Plunge Hits Chip Testers
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T22:25:12+00:00",
+      "published_utc": "2026-11-16T22:36:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
