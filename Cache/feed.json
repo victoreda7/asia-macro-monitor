@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T00:22:49.404263+00:00",
- "collected_at_utc": "2026-11-16T00:22:49.404263+00:00",
+ "generated_at_utc": "2026-11-16T00:32:43.555191+00:00",
+ "collected_at_utc": "2026-11-16T00:32:43.555191+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1014,
+  "japan": 1012,
   "china": 862,
   "taiwan": 309,
-  "korea": 815
+  "korea": 817
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T00:20:06+00:00"
+   "newest": "2026-11-16T00:32:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-15T22:47:18+00:00"
+   "newest": "2026-11-16T00:25:56+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T18:09:25+00:00"
+   "newest": "2026-11-16T00:29:32+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -337,12 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-15T11:26:15+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Still Poised to Tighten Despite Sluggish Economic Growth — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001227:0-boj-still-poised-to-tighten-despite-sluggish-economic-growth-market-talk/",
+   "published_utc": "2026-11-16T00:30:00+00:00",
+   "title_original": "BOJ Still Poised to Tighten Despite Sluggish Economic Growth — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b270f15f2bd86fef"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Future Fund 'fiscal paradigm shift' for strategic investment: policy report",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdV9nbHZqTDhOS1JXMnBxT3BsdDI0ckVZSndTVVFOTEFoTmJuQ29DU2FZc3BnRkYtblpXRlhqRjlNS1lHaDA1M25KNURmdVZWak9ZMUxmODVHZGpwWUl0X1VRdlpIM3kzb3lOeENHNGRmZUQ2REwtYk9qZ1Vjb0tlcXFRSUs?oc=5",
+   "published_utc": "2026-11-16T00:29:32+00:00",
+   "title_original": "Future Fund 'fiscal paradigm shift' for strategic investment: policy report",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d443706b74424a1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -446,6 +481,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6690623bfb07dd08"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "SK Hynix to Invest $1 Billion Over Five Years to Support Chip Suppliers",
+   "url": "https://www.tradingview.com/news/binance_news:c653a1ddd094b:0-sk-hynix-to-invest-1-billion-over-five-years-to-support-chip-suppliers/",
+   "published_utc": "2026-11-16T00:07:53+00:00",
+   "title_original": "SK Hynix to Invest $1 Billion Over Five Years to Support Chip Suppliers",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2c0ba2d50155e253"
   },
   {
    "source_id": "tradingview_live",
@@ -859,6 +911,23 @@
    "id": "086152f0c1c4c83e"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Morgan Stanley Forecasts Bank of Korea Rate Hikes in November and February",
+   "url": "https://www.tradingview.com/news/binance_news:607a66599094b:0-morgan-stanley-forecasts-bank-of-korea-rate-hikes-in-november-and-february/",
+   "published_utc": "2026-11-15T23:48:22+00:00",
+   "title_original": "Morgan Stanley Forecasts Bank of Korea Rate Hikes in November and February",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fb78b8bf95785be2"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
@@ -891,6 +960,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b499313bd8dadd7f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "GEOPOLITICS | Canada Trade Minister Maninder Sidhu Says Country Is Realistic on China Ties",
+   "url": "https://www.tradingview.com/news/binance_news:0d42de49c094b:0-geopolitics-canada-trade-minister-maninder-sidhu-says-country-is-realistic-on-china-ties/",
+   "published_utc": "2026-11-15T23:10:20+00:00",
+   "title_original": "GEOPOLITICS | Canada Trade Minister Maninder Sidhu Says Country Is Realistic on China Ties",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "094bd0ee12234042"
   },
   {
    "source_id": "nikkei_asia",
@@ -1001,7 +1087,7 @@
    "source_name": "Yahoo!ニュース",
    "title_en": "AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack countermeasures'' AI for attack verification has completed “95% of the tasks”",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xd0pDcWhNVmhWMldKbmhhRHpYSzczeTNDZnB5MWRZN09qX1pld3N5RE5nQUR2dEpHTVBoeFJXRjZFYUVQUGxMckZrb19YdHU3UXhSUU5MUWxNS2o2Z1QyQ2V2MS1EdzBSVVNCbjVZdzVKUG5rc1lMdlhITm9YX2M?oc=5",
-   "published_utc": "2026-11-15T20:34:50+00:00",
+   "published_utc": "2026-11-15T20:30:37+00:00",
    "title_original": "AIは「システムの裏口」を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは“課題の95％”を完遂",
    "region": "japan",
    "topics": [
@@ -4002,7 +4088,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWJ1WDhrbXd3azJqM1RjMnBnTkNlckRGTC1BcGdaLXJZeEt0Q3A5S0gxSjNrMjFLZnAxYnItM2JvTzd5eWRLQlhEWnYyQnRCc1VicWI4RXRtYXVVM1RXYkhMSlRiU0N0SjQ1VlJnRC0wRHBJV0U4Q3dRUUxhZHdqdXpuVEtEaU5GYmpacWoxU0RhbzdGOE1WTWI3WGJCWDdEbWdVc0NzX19Ob3ZLNEpWV1JuWmluc0l3ejNHWk9hQXJSeE1vTTU2ZGlR?oc=5",
-   "published_utc": "2026-11-13T05:00:00+00:00",
+   "published_utc": "2026-11-13T05:00:27+00:00",
    "title_original": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis",
    "region": "china",
    "topics": [
@@ -4453,7 +4539,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:52+00:00",
+   "published_utc": "2026-11-13T02:04:00+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -51816,96 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d7c2733f6209654a"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdHZNREFqRGt4aVhEaWhpUEh4djVFZThpdzRVcFFlamxVNFpZX2JxZHpaSjgtbFRkQXRTbC00cmh1clU4bE56R2dsc3Z0VDJwVDA4OGhhemdGdw?oc=5",
-   "published_utc": "2026-10-21T04:19:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7f4a0e9448428010"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan decides to reach 2% price level (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBONzBhbGFWZFNxemNNbFM5eUFrMmVGUlpZeEdWY0JMUEhpT3lISWhYUGduc0IzYUNRWlVxR2NCMHBQYkh3UDl6ak40aUIyV2lHUzZrbjZ2SVRBbmdBLWtmZzdXY2RhRnhhR25hMTRPUWkxQ0FkcExuY3dGLWtXY0k?oc=5",
-   "published_utc": "2026-10-21T04:13:22+00:00",
-   "title_original": "日銀、物価2％到達判断へ（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f3a89c09005b8cf"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Trump Open to Summit With Xi and Putin in China to Discuss Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUF4R2NScTltRjhUS1Y2X0NKeWdLa01QM0RZb3FrOGlDTGswTnNQeHFMeUd4ZEdidjdZbEpmOU5wSk9BWklfQ29wMFhHQWJuSXVFdlc5WXhmb3QxTk9xNWZ3NHVuWWFFblZtV0psUnhnN2lsY0twY3JiZWVEQ0Q0MHcwNlFQVUVfR2s3TE83ZjJHVk9oTlNMN1VjSGU0dUU1OFFmREFqUkpXSVV6TVFoZ29FVEVzZUlhNkczS0JB?oc=5",
-   "published_utc": "2026-10-21T03:39:00+00:00",
-   "title_original": "Trump Open to Summit With Xi and Putin in China to Discuss Ukraine",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a6d11e11f8af1f46"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to feel the effects early.”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
-   "published_utc": "2026-10-21T03:37:08+00:00",
-   "title_original": "片山財務相“消費税減税は早期に効果実感できる物価高対策”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "inflation",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "14cdd23a48cbfd5c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Axcelis plans US$35 million semiconductor facility in South Korea",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZRVlpITWRKcWxSY3pMeVlKamZNX0FIRFM5Z0MtTWpJZ1dmVzRkY2NBN2U2aTdGOFdTVllwa1NheDUyMDVNQlpLeC1lNkdseUM5NVNNZXllRGpvTG9ZTGVPZXpFNTJrVUxGR0o0Q3Q3bG1HcGQzczROckpEd3kyaUlJdTlzUDl3SzZ4SkdEWV8xTG1BVGN5M3FESEsxSDJ0XzdMdWJMNlA?oc=5",
-   "published_utc": "2026-10-21T03:34:07+00:00",
-   "title_original": "Axcelis plans US$35 million semiconductor facility in South Korea",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07dfef43fec29ccc"
   },
   {
    "source_id": "manual_ia",

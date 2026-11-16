@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T00:22:49.404263+00:00
+Última coleta: 2026-11-16T00:32:43.555191+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1014
+  🇯🇵 Japão          1012
   🇨🇳 China          862
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  815
+  🇰🇷 Coreia do Sul  817
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Still Poised to Tighten Despite Sluggish Economic Growth — Market Talk
+  - [korea] Future Fund 'fiscal paradigm shift' for strategic investment: policy report
   - [japan] JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk
   - [japan] CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARC
   - [japan] Japan's Q3 GDP dropped an annualized 0.1%
   - [japan] Japan Q3 GDP Flat On Quarter
   - [japan] Dollar Expected to Rise Further to 162 Yen in 2027 — Market Talk
   - [korea] SK Hynix to spend $1 billion over five years to support chip suppliers
+  - [korea] SK Hynix to Invest $1 Billion Over Five Years to Support Chip Suppliers
   - [japan] JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2
   - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com
   - [japan] JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2
@@ -47,16 +50,13 @@ Total: 3000 manchetes
   - [japan] JAPAN REAL Q3 GDP +1.1% Y/Y (Q2 REVISED +0.9%); MEDIAN FORECAST +1.2% (RANGE +1.1% TO +1.5%)
   - [japan] JAPAN Q3 REAL GDP -0.0% Q/Q; MEDIAN ECONOMIST FORECAST +0.1% (RANGE -0.1% TO +0.4%)
   - [japan] JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MEDIAN FORECAST +0.3% (RANGE -0.3% TO +1.5%)
+  - [korea] Morgan Stanley Forecasts Bank of Korea Rate Hikes in November and February
   - [taiwan] Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing
   - [taiwan] Taiwan warns chip workers of detention risk in China, citing 470 cases
+  - [china] GEOPOLITICS | Canada Trade Minister Maninder Sidhu Says Country Is Realistic on China Ties
   - [china] China central bank hikes foreign reserve requirement for 1st time in 5 years
   - [china] Senators demand Lutnick testimony over alleged Nvidia chip diversions to China
   - [japan] How a 59-year-old former Hollywood actor, who had failed in karate, acting, and love, became a ``ninja who exp
-  - [japan] Reasons why supermarkets don't welcome food tax cuts...Difficult management decisions faced as ``consumption f
-  - [japan] Responding to re-growth through AI robots and earphones that embody the new "Casio-ness" | Business | Toyo Kei
-  - [japan] Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and pu
-  - [japan] AI aims at the “back door of the system”…Bank of Japan and OpenAI talk ``Basic version of cyber attack counter
-  - [japan] AI aims at the "back door of the system"...Bank of Japan and OpenAI talk ``Basics of cyber attack countermeasu
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T00:22:49+00:00",
+      "published_utc": "2026-11-16T00:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
