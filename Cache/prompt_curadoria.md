@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T10:55:28.906638+00:00
-Total: 2999 manchetes
+Última coleta: 2026-11-16T11:02:48.830491+00:00
+Total: 3000 manchetes
 
-  🇯🇵 Japão          1009
+  🇯🇵 Japão          1010
   🇨🇳 China          874
   🇹🇼 Taiwan         301
   🇰🇷 Coreia do Sul  815
@@ -18,8 +18,10 @@ Total: 2999 manchetes
 ## O que já está no feed (não repita)
 
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
-  - [japan] Dollar extends rally, yen looks past soft Japan GDP data
   - [japan] Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone
+  - [japan] Dollar extends rally, yen looks past soft Japan GDP data
+  - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
+  - [japan] Nickname decision for the advance utilization period of the former Bank of Japan Kanazawa branch site (HAB Hok
   - [china] Senator accuses US Commerce Department of failing to stem flow of AI chips to China
   - [china] Central China Real Estate Posts October 2026 Contracted Sales Rmb493 Million
   - [korea] SK Square: SK hynix’s record quarter drove ₩7.94tn operating profit as portfolio NAV declined
@@ -39,7 +41,6 @@ Total: 2999 manchetes
   - [japan] Yen Expected to Strengthen in 2027 Due to Supportive Policies — Market Talk
   - [china] China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk
   - [japan] Takada, a Bank of Japan council member, emphasizes the risk of price rises as a new phase accelerates the pace
-  - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
   - [china] China-ASEAN Summit China calls for promotion of cooperation in economic and trade fields
   - [japan] Highlights of the Outlook for Economic Activity and Prices (October 2026)
   - [japan] BOJ Current Account Balances by Sector (Oct.)
@@ -56,7 +57,6 @@ Total: 2999 manchetes
   - [japan] Japan rubber futures trade in tight range as weaker yen counters lower oil
   - [china] Nissan Turns China Into Export Hub as Sales There Slump
   - [japan] Additional interest rate hikes at fixed intervals and widths Bank of Japan member Takada (Jiji Press)
-  - [japan] Japan Industrial Output Recovers Less Than Estimated
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2999 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T10:55:29+00:00",
+      "published_utc": "2026-11-16T11:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
