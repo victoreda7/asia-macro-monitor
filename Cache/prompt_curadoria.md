@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T04:52:46.263166+00:00
+Última coleta: 2026-11-16T05:02:44.817614+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1007
-  🇨🇳 China          879
+  🇯🇵 Japão          1009
+  🇨🇳 China          878
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
-  - [china] HKEX Launches First-Ever Offshore Yuan Bond Index
-  - [korea] SK Hynix in 24/7 race to complete colossal chip plant
   - [japan] BOJ’s Takata calls for swift hike in rates to ’good’ position
+  - [japan] Dollar extends gains, yen looks past soft Japan GDP data
+  - [china] China's economy falters in October as factory output, retail sales miss forecasts
+  - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP
+  - [china] HKEX Launches First-Ever Offshore Yuan Bond Index
+  - [china] China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions
+  - [korea] SK Hynix in 24/7 race to complete colossal chip plant
   - [china] China is accused of manipulating the iron ore trade and the Australian government is worried about the impact 
   - [korea] STIC Investments: Lower fee revenue, stronger profit and KRW 10.3tn in fund commitments defined 9M 2026
   - [taiwan] Taiwan's Taiex Extends Losses as Chip Makers Weigh — Market Talk
-  - [china] China’s new home prices fall again in October; slowest annual decline in almost a year
   - [china] Hong Kong exchange launches first offshore yuan bond index
   - [taiwan] Taiwan will take inflation and measures taken by other countries into account when setting interest rates
   - [taiwan] Taiwan to consider inflation, other countries' moves when deciding interest rates
@@ -46,17 +49,14 @@ Total: 3000 manchetes
   - [japan] Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters
   - [japan] CORRECTED: JAPAN Q3 GDP NET EXPORTS CONTRIBUTION -0.6 PCT POINT (CORRECTED FROM +0.3 PCT POINT) (Q2 +0.5 POINT
   - [japan] CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MED
+  - [china] PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets
   - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
   - [korea] SK Hynix to Spend About $1 Billion to Support Local Suppliers
   - [japan] How will interest rates on deposits and borrowings change if the Bank of Japan raises interest rates? Time lag
+  - [china] China's new home prices fall again in October; slowest annual decline in almost a year
   - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
   - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
   - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
-  - [china] China's economy falters in October as factory output, retail sales miss forecasts
-  - [korea] SK Hynix to Spend About $1B to Support Local Suppliers
-  - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
-  - [taiwan] Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies
-  - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T04:52:46+00:00",
+      "published_utc": "2026-11-16T05:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

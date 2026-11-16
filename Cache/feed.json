@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T04:52:46.263166+00:00",
- "collected_at_utc": "2026-11-16T04:52:46.263166+00:00",
+ "generated_at_utc": "2026-11-16T05:02:44.817614+00:00",
+ "collected_at_utc": "2026-11-16T05:02:44.817614+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1007,
-  "china": 879,
+  "japan": 1009,
+  "china": 878,
   "taiwan": 304,
-  "korea": 810
+  "korea": 809
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T04:31:25+00:00"
+   "newest": "2026-11-16T04:50:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T04:30:41+00:00"
+   "newest": "2026-11-16T04:54:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T01:12:19+00:00"
+   "newest": "2026-11-16T04:43:37+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T04:34:30+00:00"
+   "newest": "2026-11-14T01:38:31+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T04:42:12+00:00"
+   "newest": "2026-11-16T05:00:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-16T04:34:07+00:00"
+   "newest": "2026-11-16T04:59:06+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -337,12 +337,83 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-16T01:40:34+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
+   "url": "https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
+   "published_utc": "2026-11-16T04:54:39+00:00",
+   "title_original": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a725b97bb02ebb8c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar extends gains, yen looks past soft Japan GDP data",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46X08K:0-dollar-extends-gains-yen-looks-past-soft-japan-gdp-data/",
+   "published_utc": "2026-11-16T04:47:35+00:00",
+   "title_original": "Dollar extends gains, yen looks past soft Japan GDP data",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b6524e182c187628"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "China's economy falters in October as factory output, retail sales miss forecasts",
+   "url": "https://www.tradingview.com/news/cnbctv:a9ee7b1ad094b:0/",
+   "published_utc": "2026-11-16T04:44:32+00:00",
+   "title_original": "China's economy falters in October as factory output, retail sales miss forecasts",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6abb0d0526afb1d5"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
+   "published_utc": "2026-11-16T04:43:37+00:00",
+   "title_original": "Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c3541ecc2572dc75"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -361,6 +432,23 @@
    "id": "5e305176a049aa08"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions",
+   "url": "https://www.investing.com/news/stock-market-news/chinas-zai-minimax-tumble-as-nvidia-row-drives-fears-of-more-chip-restrictions-5028356",
+   "published_utc": "2026-11-16T04:39:01+00:00",
+   "title_original": "China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d9711c2d330437cf"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "SK Hynix in 24/7 race to complete colossal chip plant",
@@ -376,23 +464,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b50b38f21cf0407"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
-   "url": "https://www.investing.com/news/economy-news/bojs-takata-calls-for-swift-hike-in-rates-to-good-position-5028353",
-   "published_utc": "2026-11-16T04:30:41+00:00",
-   "title_original": "BOJ’s Takata calls for swift hike in rates to ’good’ position",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a725b97bb02ebb8c"
   },
   {
    "source_id": "gn_tw_cna",
@@ -444,23 +515,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1acfdc56e5b9d7e1"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China’s new home prices fall again in October; slowest annual decline in almost a year",
-   "url": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
-   "published_utc": "2026-11-16T04:12:21+00:00",
-   "title_original": "China’s new home prices fall again in October; slowest annual decline in almost a year",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "90c77223e7858863"
   },
   {
    "source_id": "investing_live",
@@ -843,6 +897,23 @@
    "id": "7aa3e02ea4c64885"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYi15MXZIR19DZzlUMW1xWHNaalVJV3JLS1RDSktGU3VqQ0RqNzFXaXYtWUNQUFVYcDRaT3BOZy1ScWtXT3NDb0FCTXdsVzRfYzJpVm1lZVlWUU1zMktVT3pNY2xLWUhIbkNBb3V0aHdiVThTNUQzRjUwNjFua2xkMkNKMUxaU1phaE1YODhxcGJ0UEdLMElPY3EtSlZvaklXQ2E0T0dzQjc2anN1c0hXZHZZM0o?oc=5",
+   "published_utc": "2026-11-16T03:21:00+00:00",
+   "title_original": "PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0df00d1b30cd6d31"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan's Economy Contracts Amid Inflation Squeeze — Update",
@@ -892,6 +963,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b6e09f1ab6c1fa72"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's new home prices fall again in October; slowest annual decline in almost a year",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X00Y:0-china-s-new-home-prices-fall-again-in-october-slowest-annual-decline-in-almost-a-year/",
+   "published_utc": "2026-11-16T02:58:27+00:00",
+   "title_original": "China's new home prices fall again in October; slowest annual decline in almost a year",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c790facc40010de5"
   },
   {
    "source_id": "nhk_economy",
@@ -948,10 +1036,10 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "China's economy falters in October as factory output, retail sales miss forecasts",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46X04B:0-china-s-economy-falters-in-october-as-factory-output-retail-sales-miss-forecasts/",
+   "title_en": "China's economy falters as factory output, retail sales undershoot expectations",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46X04B:0-china-s-economy-falters-as-factory-output-retail-sales-undershoot-expectations/",
    "published_utc": "2026-11-16T02:49:44+00:00",
-   "title_original": "China's economy falters in October as factory output, retail sales miss forecasts",
+   "title_original": "China's economy falters as factory output, retail sales undershoot expectations",
    "region": "china",
    "topics": [
     "activity",
@@ -961,7 +1049,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "153fc55d5f92293b"
+   "id": "4c78a22987f60973"
   },
   {
    "source_id": "tradingview_live",
@@ -1117,23 +1205,6 @@
    "id": "354479ed4c8a48e8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Home Price Decline Gathered Pace in October — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261115001395:0-china-s-home-price-decline-gathered-pace-in-october-update/",
-   "published_utc": "2026-11-16T02:18:00+00:00",
-   "title_original": "China's Home Price Decline Gathered Pace in October — Update",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9f2143889ddd27b1"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Home Price Slump Drags On Despite Latest Stimulus Push",
@@ -1150,23 +1221,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f8bd4182077aa605"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y",
-   "url": "https://www.tradingview.com/news/dpa_afx:11fb4fe4f1a5b:0-china-ytd-industrial-output-5-3-y-y-vs-jan-sep-5-3-y-y/",
-   "published_utc": "2026-11-16T02:15:22+00:00",
-   "title_original": "CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "52ba75cee97695c6"
   },
   {
    "source_id": "investing_live",
@@ -1892,8 +1946,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -1907,7 +1961,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1996,7 +2050,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGtpVzRBYjlOTE9OUVd4eWdPWnp4UENBT29YZi1VUFNETjVuRWdmS1ByTlBQWFozVlZBdEtqU1NVaTNJQ2VEVDJCZTdpbXFXXzRvekNqT1lWazBHYUtGVk9DdVJtWDc1UERkRFN5NVFwOS1LdG9VNDUtMl9IXzV2NzIweDdneGoxRmhkdlVTdE1maDFBZ2Z6Z0paR3NoNXhKWEJHSjN6VDlYZmotZEZrVkFvR20?oc=5",
    "published_utc": "2026-11-15T14:48:57+00:00",
@@ -2153,7 +2207,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank's \"lock-up and release of short-term measures\" stabilized funding expectations, with a net withdrawal of RMB 300 billion from reverse repos in November.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOanFTeXRzTjd3bjR2eTR1ZUZCZi1oOHk5Vno4eDZuUENESHlBRnEtb2hmWDgyb3NVV0U2WGR3TmxhZzFaM2VDM3dtWVU1NHRhWFY2VFM4TjZvYlo2cjZJWFlqNDNSM2wyQ1o5a0JMWVZqVi1uaWpLcjEtRlVmQUx6Y2FPalpPeU1lVWxZ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2hrU2ZobUxCOW5CMnZZbVJCRFppUXZTX3gwUjl0VzVjNnpRdjA1czZ6cEtlaHJ2cE9fTjNDbFNtSENCLXpsRUdidWN2LTVFZW9rcUVVNy15TFVfYVd5NkRDUzZRcEY0R1JNenFtZUZ1cGl6NnZmclcySDlTWjVaeXVRaS1NMlY0?oc=5",
    "published_utc": "2026-11-15T10:30:00+00:00",
    "title_original": "央行“锁长放短”稳定资金预期，11月买断式逆回购净回笼3000亿",
    "region": "china",
@@ -2164,7 +2218,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "49a8d0056815c13c"
+   "id": "0a2ea9f8e91d8924"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2238,7 +2292,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2249,7 +2303,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2667,25 +2721,6 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-14T19:58:07+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3570,8 +3605,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -3585,7 +3620,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -4913,7 +4948,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWJ1WDhrbXd3azJqM1RjMnBnTkNlckRGTC1BcGdaLXJZeEt0Q3A5S0gxSjNrMjFLZnAxYnItM2JvTzd5eWRLQlhEWnYyQnRCc1VicWI4RXRtYXVVM1RXYkhMSlRiU0N0SjQ1VlJnRC0wRHBJV0U4Q3dRUUxhZHdqdXpuVEtEaU5GYmpacWoxU0RhbzdGOE1WTWI3WGJCWDdEbWdVc0NzX19Ob3ZLNEpWV1JuWmluc0l3ejNHWk9hQXJSeE1vTTU2ZGlR?oc=5",
    "published_utc": "2026-11-13T05:00:00+00:00",
@@ -5259,6 +5294,25 @@
    "id": "b229f53b6d3319dc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-13T02:28:08+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
+  },
+  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Chinese e-commerce sellers brace for Thai duties. Will a 30% tariff hurt sales?",
@@ -5348,7 +5402,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:00+00:00",
+   "published_utc": "2026-11-13T02:04:52+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -11098,7 +11152,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "금융신문",
+   "source_name": "한국금융신문",
    "title_en": "'Interest Rate Freeze' October Monetary Policy Committee Member \"Adjusting the timing and speed of additional tightening is desirable\"",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtNWpVZTJ0ajVhRWc5d3NRN2pZZmt4UFEwRk1uTEh4R2gzOE8wYTVvVnVyTkxZX3JkOTR2T1dWZmdqeE9RUXhHM2xNdGRrTUdRUGJTLXlmT2lGakJjSUxpZ2NhWVc4X3EtN0YyZUhYOHBEd21ia0N1X1BXTVA?oc=5",
    "published_utc": "2026-11-10T11:27:59+00:00",
@@ -51848,58 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "669f09de88b9741f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4670A2:0-china-s-blue-chip-index-hits-14-month-low-as-catl-tumbles-stimulus-hopes-fade/",
-   "published_utc": "2026-10-21T09:30:14+00:00",
-   "title_original": "China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "87389db81ecd63b3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Asian News International",
-   "title_en": "China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report",
-   "url": "https://www.tradingview.com/news/moodys:a9b5db755ee98:0-china-s-solar-curbs-may-accelerate-india-s-push-for-domestic-wafer-and-cell-manufacturing-report/",
-   "published_utc": "2026-10-21T09:25:43+00:00",
-   "title_original": "China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "03ef99568621d469"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report",
-   "url": "https://www.tradingview.com/news/seekingalpha:c25e006dd094b:0-samsung-sk-hynix-upgrading-china-fabs-to-make-advanced-nand-chips-report/",
-   "published_utc": "2026-10-21T09:18:45+00:00",
-   "title_original": "Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9dcb7d6d425cf756"
   },
   {
    "source_id": "manual_ia",
