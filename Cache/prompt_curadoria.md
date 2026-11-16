@@ -7,16 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T01:32:48.381518+00:00
+Última coleta: 2026-11-16T01:42:49.564909+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1013
-  🇨🇳 China          861
+  🇯🇵 Japão          1014
+  🇨🇳 China          863
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  817
+  🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
+  - [china] Drop in China's new home prices narrows to 11-month low
+  - [china] CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON
+  - [japan] Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk
+  - [china] On November 16, the central bank conducted an overnight reverse repurchase operation of RMB 460 billion.
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7141 MON VS 6.7152
+  - [japan] Japan Auctioning Y250.0B Of 10-Year CPI-Indexed Bonds
+  - [china] Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026
+  - [japan] Nikkei, Kospi slide: Asian markets fall as Nvidia results, US inflation concerns keep investors cautious
   - [japan] Japan's Economic Growth Underwhelms as Demand, Exports Drag — Market Talk
   - [japan] Yen steady against euro and dollar after soft Japanese GDP data
   - [japan] Urgent proposal to the government to reflect the reality of Tokyo in nursing care/disability compensation due 
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh
   - [japan] BREAKING NEWS: Japan's real GDP down 0.02% on quarter in July-Sept.
   - [japan] JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.8 PCT POINT (Q2 -0.1 POINT); MEDIAN FORECAST +0.4 POINT
-  - [japan] JAPAN Q3 GDP NET EXPORTS CONTRIBUTION +0.3 PCT POINT (Q2 +0.5 POINT); MEDIAN FORECAST -0.4 PCT POINT
-  - [japan] JAPAN Q3 REAL GDP POSTS 1ST FALL IN 4 QUARTERS AS PRIVATE CONSUMPTION DECLINES FOR FIRST TIME IN 10 QUARTERS
-  - [japan] JAPAN REAL Q3 GDP +1.1% Y/Y (Q2 REVISED +0.9%); MEDIAN FORECAST +1.2% (RANGE +1.1% TO +1.5%)
-  - [japan] JAPAN Q3 REAL GDP -0.0% Q/Q; MEDIAN ECONOMIST FORECAST +0.1% (RANGE -0.1% TO +0.4%)
-  - [japan] JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MEDIAN FORECAST +0.3% (RANGE -0.3% TO +1.5%)
-  - [korea] Morgan Stanley Forecasts Bank of Korea Rate Hikes in November and February
-  - [taiwan] Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing
-  - [taiwan] Taiwan warns chip workers of detention risk in China, citing 470 cases
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T01:32:48+00:00",
+      "published_utc": "2026-11-16T01:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
