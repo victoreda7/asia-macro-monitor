@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T18:22:43.398023+00:00
+Última coleta: 2026-11-16T18:32:44.766759+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1013
   🇨🇳 China          877
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  806
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  805
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High
+  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [japan] US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba
   - [china] Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads
   - [japan] Teradyne Stocks Drop 6.14% as Advantest's 11% Tokyo Plunge Hits Chip Testers
   - [japan] Japan eyes two-pronged approach to cover tax cut, growth investments
-  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US blocks China's indirect access to American AI chips
   - [china] No chips for you: US issues rule to stymie China's access to AI GPUs via data centers
   - [japan] Nomura Real Estate to acquire 8 MW of energy storage in Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters
   - [japan] Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk
   - [japan] The nickname for the site of the former Bank of Japan Kanazawa branch is ``Machinowa Korinbo.'' A high school 
-  - [china] Hungary tightens oversight of Chinese, South Korean battery plants
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T18:22:43+00:00",
+      "published_utc": "2026-11-16T18:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
