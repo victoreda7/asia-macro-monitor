@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T05:32:49.951009+00:00
+Última coleta: 2026-11-16T05:45:27.750979+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1009
-  🇨🇳 China          878
+  🇯🇵 Japão          1011
+  🇨🇳 China          877
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
+  - [japan] Weak Consumption Likely to Keep Japan's Economy in Low Gear — Market Talk
+  - [japan] Weak Japan Consumption Could Deepen BOJ Board Divisions — Market Talk
+  - [china] China factory output, retail sales miss forecasts in Oct amid weak domestic demand
   - [korea] Samlip, which emerged from the deficit in the first quarter of this year, has continued to improve i..
   - [japan] Hawkish BOJ Member Urges Nimble Rate Hikes
   - [japan] Japan's Economic Growth Trend Likely to Remain Intact — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] CORRECTED: JAPAN Q3 GDP PRIVATE CONSUMPTION -0.3% (CORRECTED FROM-0.2%) Q/Q VS. MEDIAN FORECAST -0.2%; -0.1 PO
   - [japan] Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters
   - [japan] CORRECTED: JAPAN Q3 GDP NET EXPORTS CONTRIBUTION -0.6 PCT POINT (CORRECTED FROM +0.3 PCT POINT) (Q2 +0.5 POINT
-  - [japan] CORRECTED: JAPAN Q3 GDP DOMESTIC DEMAND CONTRIBUTION +0.6 PCT (CORRECTED FROM +0.8) POINT (Q2 -0.1 POINT); MED
-  - [china] PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets
-  - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T05:32:50+00:00",
+      "published_utc": "2026-11-16T05:45:27+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
