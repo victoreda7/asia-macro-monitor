@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T02:52:49.851921+00:00",
- "collected_at_utc": "2026-11-16T02:52:49.851921+00:00",
+ "generated_at_utc": "2026-11-16T03:02:49.016475+00:00",
+ "collected_at_utc": "2026-11-16T03:02:49.016475+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1006,
-  "china": 875,
-  "taiwan": 306,
-  "korea": 813
+  "japan": 1003,
+  "china": 878,
+  "taiwan": 305,
+  "korea": 814
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T01:51:00+00:00"
+   "newest": "2026-11-16T02:17:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T02:24:20+00:00"
+   "newest": "2026-11-16T02:52:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T02:12:39+00:00"
+   "newest": "2026-11-16T02:36:52+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:13:27+00:00"
+   "newest": "2026-11-16T00:00:47+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T10:47:34+09:00"
+   "newest": "2026-11-16T11:51:54+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T11:51:26+09:00"
+   "newest": "2026-11-16T11:58:07+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T02:41:59+00:00"
+   "newest": "2026-11-16T03:01:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,75 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's new home prices fall again in October; slowest annual decline in almost a year",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X00Y:0-china-s-new-home-prices-fall-again-in-october-slowest-annual-decline-in-almost-a-year/",
+   "published_utc": "2026-11-16T02:58:27+00:00",
+   "title_original": "China's new home prices fall again in October; slowest annual decline in almost a year",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c790facc40010de5"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices fall; sell orders spread for AI and semiconductor-related stocks",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76445",
+   "published_utc": "2026-11-16T02:53:59+00:00",
+   "title_original": "株価 値下がり AIや半導体関連の銘柄に売り注文広がる",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bb4af5ca00970bb0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan's Economy Contracts Amid Inflation Squeeze — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001457:0-japan-s-economy-contracts-amid-inflation-squeeze-update/",
+   "published_utc": "2026-11-16T02:53:00+00:00",
+   "title_original": "Japan's Economy Contracts Amid Inflation Squeeze — Update",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9c4ec84367abcc96"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001453:0-japan-s-3q-gdp-data-missing-expectations-looks-like-a-near-term-yen-negative-market-talk/",
+   "published_utc": "2026-11-16T02:52:00+00:00",
+   "title_original": "Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7162bd99a9e39893"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US potatoes",
@@ -359,6 +428,41 @@
    "live_wire": false,
    "manual": false,
    "id": "b9cfa183eae9c6b5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's economy falters in October as factory output, retail sales miss forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46X04B:0-china-s-economy-falters-in-october-as-factory-output-retail-sales-miss-forecasts/",
+   "published_utc": "2026-11-16T02:49:44+00:00",
+   "title_original": "China's economy falters in October as factory output, retail sales miss forecasts",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "153fc55d5f92293b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix to Spend About $1B to Support Local Suppliers",
+   "url": "https://www.tradingview.com/news/DJN_DN20261115001434:0-sk-hynix-to-spend-about-1b-to-support-local-suppliers/",
+   "published_utc": "2026-11-16T02:47:00+00:00",
+   "title_original": "SK Hynix to Spend About $1B to Support Local Suppliers",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "938aaddf885fc565"
   },
   {
    "source_id": "tradingview_live",
@@ -478,6 +582,23 @@
    "live_wire": true,
    "manual": false,
    "id": "9f2143889ddd27b1"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "China’s Economy Weakens More Than Forecast Despite Stimulus Push",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFiTE1FdTd4TV93WnROMERVZXMtQzdSZDRTOTh3cVhocV9Sb1NSRVVGelJYamtpWkwyLWc5WTc2MGRWVUJWckNkVVJTOVBUZTNuN3Jxdl92R1E3dWRySnk3RTAyZ3BlVVI2bGZKbjJKb0U4WkNSS1VJU3dQZ1B2eUJXaUF3TVZaWk4zS0N5RlVVSWRlcXZ4UkZQYl9nQkxrRkFxNF93dm94c0NLWEdCa1d3X2Z2UQ?oc=5",
+   "published_utc": "2026-11-16T02:17:00+00:00",
+   "title_original": "China’s Economy Weakens More Than Forecast Despite Stimulus Push",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "51415c23662bc09b"
   },
   {
    "source_id": "tradingview_live",
@@ -670,12 +791,12 @@
    "id": "9fc1f2e9b577cb8d"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Drop in China’s new home prices narrows to 11-month low",
-   "url": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
-   "published_utc": "2026-11-16T01:48:24+00:00",
-   "title_original": "Drop in China’s new home prices narrows to 11-month low",
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Drop in China's new home prices narrows to 11-month low",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TV9KY:0-drop-in-china-s-new-home-prices-narrows-to-11-month-low/",
+   "published_utc": "2026-11-16T01:41:26+00:00",
+   "title_original": "Drop in China's new home prices narrows to 11-month low",
    "region": "china",
    "topics": [
     "property"
@@ -684,7 +805,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "3c48c8c15bd7e679"
+   "id": "8775eaf09fd668a2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -821,6 +942,24 @@
    "live_wire": false,
    "manual": false,
    "id": "584d21ea90051e54"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launches 460 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBudzFZeWNmdTFmM0xCS2FkdnRSSC1XSGxsQ2J4c2VCa1dQdVJHSTJCQUFOX0NqdVJSZm84ZTVwaVhhUFgyT1NidDJtd2ZYcVJ6bFpyVE1QTl9mNmQ2YXZMaHZzNTM?oc=5",
+   "published_utc": "2026-11-16T01:23:00+00:00",
+   "title_original": "央行开展4600亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "40462e66d39edec7"
   },
   {
    "source_id": "tradingview_live",
@@ -1116,108 +1255,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2c0ba2d50155e253"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2",
-   "url": "https://www.tradingview.com/news/macenews:aa4392c20094b:0-japan-q3-gdp-adjusted-deflator-0-4-q-q-vs-1-0-in-q-2/",
-   "published_utc": "2026-11-16T00:07:00+00:00",
-   "title_original": "JAPAN Q3 GDP ADJUSTED DEFLATOR +0.4% Q/Q VS. +1.0% IN Q 2",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dd8ca88e7c2590f7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2",
-   "url": "https://www.tradingview.com/news/macenews:e1126b1e3094b:0-japan-q3-gdp-unadjusted-deflator-2-4-y-y-vs-2-6-in-q2/",
-   "published_utc": "2026-11-16T00:06:00+00:00",
-   "title_original": "JAPAN Q3 GDP UNADJUSTED DEFLATOR +2.4% Y/Y VS. +2.6% IN Q2",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "da2ad2b4930a3200"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN Q3 CONSUMPTION -0.3% Q/Q; -0.1 PP CONTRIBUTION",
-   "url": "https://www.tradingview.com/news/dpa_afx:4c0680086cedc:0-japan-q3-consumption-0-3-q-q-0-1-pp-contribution/",
-   "published_utc": "2026-11-16T00:05:06+00:00",
-   "title_original": "JAPAN Q3 CONSUMPTION -0.3% Q/Q; -0.1 PP CONTRIBUTION",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fdf6ea82350d2772"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MNI MEDIAN +0.1%",
-   "url": "https://www.tradingview.com/news/dpa_afx:ec5191a991b8d:0-japan-q3-real-gdp-0-1-annualized-mni-median-0-1/",
-   "published_utc": "2026-11-16T00:05:06+00:00",
-   "title_original": "JAPAN Q3 REAL GDP -0.1% ANNUALIZED; MNI MEDIAN +0.1%",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "900e898fd7e15248"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN Q3 CAPEX +1.6% Q/Q +0.3 PP CONTRIBUTION",
-   "url": "https://www.tradingview.com/news/dpa_afx:8546561af635e:0-japan-q3-capex-1-6-q-q-0-3-pp-contribution/",
-   "published_utc": "2026-11-16T00:05:06+00:00",
-   "title_original": "JAPAN Q3 CAPEX +1.6% Q/Q +0.3 PP CONTRIBUTION",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cf43801e7d3bd9f7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN Q3 GDP POSTS 1ST DROP IN 4 QUARTERS",
-   "url": "https://www.tradingview.com/news/dpa_afx:79f1ec108c391:0-japan-q3-gdp-posts-1st-drop-in-4-quarters/",
-   "published_utc": "2026-11-16T00:05:06+00:00",
-   "title_original": "JAPAN Q3 GDP POSTS 1ST DROP IN 4 QUARTERS",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e3eacaad31be3cac"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2338,25 +2375,6 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-14T19:58:07+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4930,6 +4948,25 @@
    "id": "b229f53b6d3319dc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-13T02:28:08+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
+  },
+  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Chinese e-commerce sellers brace for Thai duties. Will a 30% tariff hurt sales?",
@@ -5019,7 +5056,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:00+00:00",
+   "published_utc": "2026-11-13T02:04:52+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -33167,6 +33204,24 @@
    "id": "c57aa1e605c641cd"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQW9VUEJoNjhxM2pBaDZvTHQwdmZ5MWRreWFUMWpISTBJOUVvZTc4WUZzTnoxdzlpN213QmhuYW9qY3prYjM2WGZtMHhySndaZ1lZM3kwVUxDdw?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "title_original": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8695eca309e6c66"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Japan govt. to spend another $7.3 bil. on fuel subsidy | NHK WORLD-JAPAN News",
@@ -33444,24 +33499,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7a91e15d2df61504"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQW9VUEJoNjhxM2pBaDZvTHQwdmZ5MWRreWFUMWpISTBJOUVvZTc4WUZzTnoxdzlpN213QmhuYW9qY3prYjM2WGZtMHhySndaZ1lZM3kwVUxDdw?oc=5",
-   "published_utc": "2026-10-30T05:08:00+00:00",
-   "title_original": "FOCUS: After decades of deflation, BOJ faces test of maintaining price stability",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8695eca309e6c66"
   },
   {
    "source_id": "nikkei_asia",
@@ -51864,40 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dafe0821cd9d3d19"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI customers seek 3-year partnerships as Unimicron calls for Taiwan PCB supply chain collab",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckhQS1dIRy1yc1gwUmVkYXZaVEVINFNRODdhcGdFbF9HU0gxQXZoR2NZUDEtbHhzWS0zWFpESHNUNjB0TUtuTDdYUEJXRjZ4VlJIandDVzdEeHVXajZWaGdEOFkwZ2MxaHRUV2FOMS0yVVBlSFF6R0VPTHEtalAtU2tEdVNVa3JyYUZibQ?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "AI customers seek 3-year partnerships as Unimicron calls for Taiwan PCB supply chain collab",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8bfd8345cb6de2c6"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Caixin Explains: What China’s Proposed Shift to an Overnight Policy Rate Would Mean",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQam1HdVY0bWJNRW1OQW53YnBJeDRvUTQ4OUtzXzdBZGdMRXNpaEFyd01DZXZKTUJCRV82LURfVzEtYm0ydDJzckF2TlplN01LS091T3g1Q0tvbTRGVFRIZm1xbGR6QjNhcEt0cnRYbXpxZ1EzeER0SVB4a1FpcGxDeERyWmFoeDROZThsTDhmUkdqNDVzX2pndy1BTFJ0X05hOW9RdXJBN3VEVm9iSHB5dUJOdjhOZHdnamlwZ1N1Q09fV1JNVU85aDZGWEpzblMxbUE?oc=5",
-   "published_utc": "2026-10-21T07:00:00+00:00",
-   "title_original": "Caixin Explains: What China’s Proposed Shift to an Overnight Policy Rate Would Mean",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61db73999ded5604"
   },
   {
    "source_id": "manual_ia",

@@ -7,17 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T02:52:49.851921+00:00
+Última coleta: 2026-11-16T03:02:49.016475+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
-  🇨🇳 China          875
-  🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  813
+  🇯🇵 Japão          1003
+  🇨🇳 China          878
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
+  - [china] China's new home prices fall again in October; slowest annual decline in almost a year
+  - [japan] Stock prices fall; sell orders spread for AI and semiconductor-related stocks
+  - [japan] Japan's Economy Contracts Amid Inflation Squeeze — Update
+  - [japan] Japan's 3Q GDP Data Missing Expectations Looks Like a Near-Term Yen-Negative — Market Talk
   - [japan] Hokkaido governor requests strict response from agriculture minister regarding lifting of ban on imports of US
+  - [china] China's economy falters in October as factory output, retail sales miss forecasts
+  - [korea] SK Hynix to Spend About $1B to Support Local Suppliers
   - [taiwan] Indonesian rupiah, Taiwan dollar fall most among subdued Asian currencies
   - [korea] Korea Computer: Revenue and earnings declined as cash tightened and inventory expanded
   - [china] NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees ‘Mild Manipulation’ In AI Chipmake
@@ -25,6 +31,7 @@ Total: 3000 manchetes
   - [china] The first increase in the past five years! The foreign exchange deposit reserve ratio was increased from 4% to
   - [china] China's factory output grows but household spending remains subdued
   - [china] China's Home Price Decline Gathered Pace in October — Update
+  - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-SEP +5.3% Y/Y
   - [china] CHINA YTD RETAIL SALES +1.0% Y/Y VS JAN-SEP +1.1% Y/Y
   - [china] China factory output, retail sales miss forecasts in Oct
@@ -36,7 +43,7 @@ Total: 3000 manchetes
   - [china] The added value of industries above designated size increased by 4.8% in October 2026
   - [korea] NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending
   - [japan] Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consump
-  - [china] Drop in China’s new home prices narrows to 11-month low
+  - [china] Drop in China's new home prices narrows to 11-month low
   - [korea] Bank of Korea freezes base interest rate for 6 consecutive times... Formalization of the ‘long-term freeze’ po
   - [china] CHINA PBOC CONDUCTS CNY460 BLN VIA O/N REVERSE REPO MON
   - [japan] Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk
@@ -45,18 +52,11 @@ Total: 3000 manchetes
   - [taiwan] TSMC's new US$500 million arm could invest in chip suppliers
   - [japan] Japan Auctioning Y250.0B Of 10-Year CPI-Indexed Bonds
   - [china] Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026
+  - [china] The central bank launches 460 billion yuan overnight reverse repurchase operation
   - [japan] Nikkei, Kospi slide: Asian markets fall as Nvidia results, US inflation concerns keep investors cautious
   - [japan] Japan's Economic Growth Underwhelms as Demand, Exports Drag — Market Talk
   - [japan] Yen steady against euro and dollar after soft Japanese GDP data
   - [japan] Urgent proposal to the government to reflect the reality of Tokyo in nursing care/disability compensation due 
-  - [japan] Japan's Q3 GDP drops an annualized 0.1%, below market expectations
-  - [japan] BOJ Still Poised to Tighten Despite Sluggish Economic Growth — Market Talk
-  - [korea] Future Fund 'fiscal paradigm shift' for strategic investment: policy report
-  - [japan] Japan’s economy unexpectedly shrinks in July-September as consumption falters
-  - [japan] Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces
-  - [japan] JGB Futures Fall, Tracking Declines in U.S. Treasurys Market — Market Talk
-  - [japan] CABINET OFFICE: JAPAN GDP MUST GROW REAL 0.09% Q/Q, OR ANNUALIZED 0.4% IN EACH QUARTER OF FISCAL 2026 (TO MARC
-  - [japan] Japan's Q3 GDP dropped an annualized 0.1%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T02:52:50+00:00",
+      "published_utc": "2026-11-16T03:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
