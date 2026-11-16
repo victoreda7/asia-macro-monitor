@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T06:42:52.441459+00:00
+Última coleta: 2026-11-16T06:52:44.514810+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1008
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [japan] Hawkish BOJ policymaker Takata calls for swift hike in rates to ’good’ position
   - [china] China's October retail sales ease to 0.4%, factory output slows to 4.8%, while jobless rate dips to 5.1%
   - [taiwan] Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and
+  - [china] China’s Economy Weakens More Than Forecast Despite Stimulus Push
   - [japan] Japan’s economy contracts 0.1% annualized in Q3; September industrial output rebounds 2.0%
   - [taiwan] Interest rate hike in December? Yang Jinlong: Three key points need to be considered: inflation and lending po
   - [korea] Korea's wage, productivity gaps widen amid chip-led growth: KDI
@@ -40,6 +41,7 @@ Total: 3000 manchetes
   - [japan] Japan's Economic Growth Trend Likely to Remain Intact — Market Talk
   - [china] China’s Industrial Output Growth Slows
   - [japan] BOJ hawk Takata calls for quick pace of rate hikes
+  - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP By Investing.com
   - [china] China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts
   - [japan] Dollar extends gains, yen looks past soft Japan GDP data
   - [china] China's economy falters in October as factory output, retail sales miss forecasts
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan to consider inflation, other countries' moves when deciding interest rates
   - [korea] A major semiconductor manufacturing base in South Korea is unveiled to help foster small and medium-sized ente
   - [china] China Industrial Output Rises 4.8% On Year
-  - [taiwan] Taiwan's Nanya and Winbond adopt EUV, challenging South Korean DRAM dominance
-  - [china] Yuan steady as disappointing economic data offset by robust corporate year-end demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T06:42:52+00:00",
+      "published_utc": "2026-11-16T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
