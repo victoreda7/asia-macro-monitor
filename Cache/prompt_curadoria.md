@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T16:32:51.115073+00:00
+Última coleta: 2026-11-16T16:40:02.735032+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1010
-  🇨🇳 China          877
+  🇨🇳 China          878
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  809
+  🇰🇷 Coreia do Sul  808
 
 ## O que já está no feed (não repita)
 
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [japan] Japanese Yen Offers Best Risk-Reward — Market Talk
   - [japan] Yomiuri: JIC Expects Capital Gain of Over 900 Billion Yen from Sale of JSR Shares to Mitsui Chemicals
   - [japan] Bank of Japan Councilor Takada: “Move to a good position: Flexible interest rate hikes”
+  - [china] To Make in America, Start by Importing a Chinese Factory
   - [taiwan] Approved FDI hits Jan.-Oct. high; TSMC boosts outbound investments
   - [china] Alibaba details new AI safeguards as Chinese developers step up test disclosures
   - [japan] Japan Real Estate Investment: Strong leasing and higher distributions offset rate, refinancing and acquisition
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Former Bank of Japan branch will be nicknamed ``Machinowa Korinbo'' by Kanazawa City, starting in May next yea
   - [china] Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million
   - [korea] Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus
-  - [korea] Bithumb, a virtual asset exchange, turned into a deficit in both operating profit and net profit in
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T16:32:51+00:00",
+      "published_utc": "2026-11-16T16:40:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
