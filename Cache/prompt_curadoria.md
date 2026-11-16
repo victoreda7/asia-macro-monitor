@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T18:52:52.186844+00:00
+Última coleta: 2026-11-16T19:05:29.076839+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1013
   🇨🇳 China          877
-  🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  805
+  🇹🇼 Taiwan         304
+  🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [japan] Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00
+  - [korea] SK hynix Stocks Sink 7.89% Despite 80% Margin and 100 Trillion Won Payout
   - [taiwan] TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [japan] US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Kuang-Chi Technologies' Unit Signs 1.8 Billion Yuan Supply Framework Contract
   - [china] RMB deposit balance fell for two consecutive months in October. Central Bank: Concerned about the expected imp
   - [japan] Japan’s economy unexpectedly shrinks as inflation squeezes households By Reuters
-  - [japan] Yen Likely to Benefit From BOJ Interest-Rate Rises — Market Talk
-  - [japan] The nickname for the site of the former Bank of Japan Kanazawa branch is ``Machinowa Korinbo.'' A high school 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T18:52:52+00:00",
+      "published_utc": "2026-11-16T19:05:29+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
