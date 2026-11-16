@@ -96,6 +96,7 @@ class SeenCache:
 
 
 # ---------------------------------------------------------------------------
+FALHAS_PARA_ALERTA = 2   # coletas seguidas sem resposta até a fonte ficar vermelha
 RETRADUZIR_MAX = 80   # herdados sem tradução reprocessados por coleta
 
 
@@ -436,6 +437,22 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
     ultimo_bom = agora_iso if not degradada else (
         anterior.get("generated_at_utc") or agora_iso)
 
+    # Falha de rede pontual não pinta a fonte de vermelho: só a segunda
+    # coleta seguida sem resposta. Uma query do Google News que falha uma vez
+    # volta 10 min depois, e o feed é acumulativo, então nada se perde — mas
+    # o painel mostrava "1 fonte com problema" quase toda hora. "Parada desde"
+    # (fonte que responde mas não traz nada novo) continua aparecendo na hora.
+    falhas_antes = anterior.get("falhas_seguidas") or {}
+    falhas_seguidas: dict[str, int] = {}
+    for st in statuses:
+        if st.ok or st.error.startswith("parada desde"):
+            continue
+        n = int(falhas_antes.get(st.source_id, 0)) + 1
+        falhas_seguidas[st.source_id] = n
+        if n < FALHAS_PARA_ALERTA and not degradada:
+            st.ok = True
+            st.error = f"falha pontual ({st.error}) — tenta de novo na próxima coleta"
+
     feed = {
         "generated_at_utc": ultimo_bom,
         "collected_at_utc": agora_iso,
@@ -446,6 +463,7 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
         "by_region": {r: by_region.get(r, 0) for r in cfg.REGIONS},
         "elapsed_s": round(time.time() - started, 1),
         "sources": [s.to_dict() for s in statuses],
+        "falhas_seguidas": falhas_seguidas,
         "items": [i.to_dict() for i in merged],
     }
 
