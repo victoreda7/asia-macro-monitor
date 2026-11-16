@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T06:32:42.285129+00:00
+Última coleta: 2026-11-16T06:42:52.441459+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1010
-  🇨🇳 China          877
+  🇯🇵 Japão          1008
+  🇨🇳 China          878
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  811
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia’s All-Important Q3 Report, China Tech Results, Anthropic IPO And Microsoft Ignite To Keep Investors Hoo
+  - [korea] Samsung, SK hynix-linked ELS raises fear of further market volatility
+  - [korea] Kospi Falls for Third Straight Session; Chip Stocks Retreat
   - [japan] Net Protections Holdings, Inc. - To Buy Back Up To 3.5% Of Shares Worth 1.2 Billion Yen
   - [korea] Benchmark rate for banks' mortgage loans continues to rise
   - [japan] Asian markets mostly lower as weak Japan GDP, soft China data, and Nvidia caution weigh
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Industrial Output Rises 4.8% On Year
   - [taiwan] Taiwan's Nanya and Winbond adopt EUV, challenging South Korean DRAM dominance
   - [china] Yuan steady as disappointing economic data offset by robust corporate year-end demand
-  - [japan] Japan's $12 bln chip deal courts needless strife
-  - [china] China's economy softens across the board as factory output, spending slow
-  - [taiwan] AI giants shift decarbonization pressure upstream, testing Taiwan's chip supply chain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T06:32:42+00:00",
+      "published_utc": "2026-11-16T06:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
