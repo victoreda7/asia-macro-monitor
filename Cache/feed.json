@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T23:05:40.535303+00:00",
- "collected_at_utc": "2026-11-16T23:05:40.535303+00:00",
+ "generated_at_utc": "2026-11-16T23:25:23.095937+00:00",
+ "collected_at_utc": "2026-11-16T23:25:23.095937+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1032,
-  "china": 872,
+  "china": 874,
   "taiwan": 303,
-  "korea": 793
+  "korea": 791
  },
- "elapsed_s": 176.6,
+ "elapsed_s": 163.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T22:42:57+00:00"
+   "newest": "2026-11-16T23:04:48+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T03:22:58+00:00"
+   "newest": "2026-11-16T12:26:10+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T06:41:15+09:00"
+   "newest": "2026-11-17T08:14:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T16:13:36+00:00"
+   "newest": "2026-11-16T22:19:52+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-16T22:08:48+00:00"
+   "newest": "2026-11-16T23:05:34+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T23:04:00+00:00"
+   "newest": "2026-11-16T23:23:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T06:27:48+00:00"
+   "newest": "2026-11-15T22:14:57+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,19 +331,71 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T22:45:46+00:00"
+   "newest": "2026-11-16T23:02:58+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
-   "newest": "2026-11-16T23:00:00+00:00"
+   "newest": "2026-11-16T23:05:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China resumes storing crude oil, giving it fuel export options: Russell",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X13T:0-china-resumes-storing-crude-oil-giving-it-fuel-export-options-russell/",
+   "published_utc": "2026-11-16T23:19:49+00:00",
+   "title_original": "China resumes storing crude oil, giving it fuel export options: Russell",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6e4a0f7220d03245"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "U.S. Department of Commerce launches new rules to prevent detouring of advanced semiconductors to China and other countries",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de76902",
+   "published_utc": "2026-11-16T23:14:00+00:00",
+   "title_original": "アメリカ商務省 先端半導体の中国などへのう回輸出防ぐ新規則",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1557de117a9e9d30"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한겨레",
+   "title_en": "The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRGR2dWo0VlNOSFlZcTk3ZXN3MmJXZ1MxczRibTFKRWc5WXptQnJBM1NoRmZnYm9Wa1ZkaGRwZFd2Q29YSVVhSVRZM25MelpiWGFIalo1SWxFMEJBY1hOTDZSenJMQV9aenZfNkVldTNUZw?oc=5",
+   "published_utc": "2026-11-16T23:05:00+00:00",
+   "title_original": "한은, 이달 기준금리 0.25%p 인상 가능성 커져",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1bf5e85fae4425a"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "한겨레",
@@ -394,6 +446,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4e40824fc5aeb2df"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Japan's economy unexpectedly shrinks as inflation squeezes households",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
+   "published_utc": "2026-11-16T22:19:52+00:00",
+   "title_original": "Japan's economy unexpectedly shrinks as inflation squeezes households",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8718bfd0c9225c9e"
   },
   {
    "source_id": "investing_econ",
@@ -1374,24 +1443,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ec9ac614de19737e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4635508:0-enchem-sales-increased-but-deep-losses-and-a-krw-274-6bn-working-capital-deficit-put-liquidity-in-focus/",
-   "published_utc": "2026-11-16T08:58:00+00:00",
-   "title_original": "Enchem: Sales increased, but deep losses and a KRW 274.6bn working-capital deficit put liquidity in focus",
-   "region": "korea",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "df07492c42373fa7"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2846,23 +2897,6 @@
    "id": "cdca3f09fe1b64f2"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan's economy unexpectedly shrinks as inflation squeezes households",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
-   "published_utc": "2026-11-16T00:13:00+00:00",
-   "title_original": "Japan's economy unexpectedly shrinks as inflation squeezes households",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8718bfd0c9225c9e"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to spend $1 billion over five years to support chip suppliers",
@@ -3603,7 +3637,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -3614,7 +3648,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3704,24 +3738,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6f7e7d999a55e883"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-15T06:23:25+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4104,6 +4120,24 @@
    "live_wire": false,
    "manual": false,
    "id": "cc95e50fd4b363c7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-14T18:27:55+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4676,6 +4710,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6414,24 +6466,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51862,40 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "71c51be2f177186c"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "BOK pauses rate hikes, but signals more may come",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkRkdHN0N3Ynhya0pvSUdYX01NNmVwaTVTMmNGei1HRDY3S2lUbjJGZlRmaVdqeTE1aEVhc2NScW9OVWltQUthV1U3QVB4Sms4bDN6TDBkVQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK pauses rate hikes, but signals more may come",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "03afcf16b550fe0c"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK holds key rate steady at 3 pct",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoQmJvVW1WaXl2Nnk0R0FqVndwb2JETklObkEtQ1FpanA4VlNYSlo0WTFNa1FaQk9rMXZvVFhoWk8wcS0zY3FfdUtIdUtDa25aUC1pT0ZDQTdDdw?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds key rate steady at 3 pct",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4cc3bd31e93ac6ce"
   },
   {
    "source_id": "manual_ia",
