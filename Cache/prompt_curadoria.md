@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T07:42:51.017959+00:00
+Última coleta: 2026-11-16T07:52:52.868543+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1005
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] SK hynix commits $1.05B to strengthen semiconductor supply chain
   - [japan] Japan rubber futures trade in tight range as weaker yen counters lower oil
   - [china] Nissan Turns China Into Export Hub as Sales There Slump
+  - [japan] Additional interest rate hikes at fixed intervals and widths Bank of Japan member Takada (Jiji Press)
   - [japan] Japan Industrial Output Recovers Less Than Estimated
   - [japan] Resurgent Inflation to Drive More BOJ Rate Hikes — Market Talk
   - [korea] SK Square: SK Hynix equity earnings drove 9M profit as shareholder returns and AI-led growth advanced
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia FX muted as dollar holds near 19-mth high; yen steady after weak GDP By Investing.com
   - [china] China’s Retail Sales Growth Slows to 0.4%, Missing Forecasts
   - [japan] Dollar extends gains, yen looks past soft Japan GDP data
-  - [china] China's economy falters in October as factory output, retail sales miss forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T07:42:51+00:00",
+      "published_utc": "2026-11-16T07:52:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
