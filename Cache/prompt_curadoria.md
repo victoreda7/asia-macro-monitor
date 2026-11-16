@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T12:22:42.815477+00:00
+Última coleta: 2026-11-16T12:35:32.286596+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
-  🇨🇳 China          874
+  🇯🇵 Japão          1010
+  🇨🇳 China          875
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [china] Alibaba details new AI safeguards as Chinese developers step up test disclosures
+  - [japan] Japan Real Estate Investment: Strong leasing and higher distributions offset rate, refinancing and acquisition
   - [korea] Coatue Management Raises Stake In Meta, Reports Stake in SK Hynix - SEC Filing
   - [japan] Negotiations resume between national and local governments, aiming to settle financial burden ratio of support
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Wages are quite strongly consistent with 2% inflation - Bank of Japan Governor = Economic and Fiscal Policy Co
   - [japan] Aisan Industry Co., Ltd. - To Buy Back Up To 4.7% Of Shares Worth 7 Billion Yen
   - [china] China’s Economy Disappoints With New Stimulus Yet to Kick In
-  - [taiwan] Taiwan, South Korea Tech Stocks Plunge Ahead of Key AI Trials
-  - [korea] SK hynix commits $1.05B to strengthen semiconductor supply chain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T12:22:43+00:00",
+      "published_utc": "2026-11-16T12:35:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
