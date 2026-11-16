@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T21:34:20.434481+00:00
+Última coleta: 2026-11-16T21:42:14.436421+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
-  🇨🇳 China          872
-  🇹🇼 Taiwan         301
+  🇨🇳 China          871
+  🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  795
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC
   - [japan] The famous soba, which has been priced at 555 yen for 40 years, is suddenly priced at 1,110 yen...The reason w
   - [japan] Will the "smart cash register special demand" return due to food tax cuts? Reasons why smart cash registers an
   - [korea] A $1 Billion Reason SK Hynix Stock Is Falling Today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar extends rally, yen looks past soft Japan GDP data
   - [japan] BOJ chief Ueda tells government panel wage growth ’quite strong’
   - [japan] Nickname decision for the advance utilization period of the former Bank of Japan Kanazawa branch site (HAB Hok
-  - [taiwan] Unborn fetuses to count toward social housing priority: Interior ministry
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T21:34:20+00:00",
+      "published_utc": "2026-11-16T21:42:14+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

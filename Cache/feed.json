@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T21:34:20.434481+00:00",
- "collected_at_utc": "2026-11-16T21:34:20.434481+00:00",
+ "generated_at_utc": "2026-11-16T21:42:14.436421+00:00",
+ "collected_at_utc": "2026-11-16T21:42:14.436421+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1032,
-  "china": 872,
-  "taiwan": 301,
+  "china": 871,
+  "taiwan": 302,
   "korea": 795
  },
- "elapsed_s": 121.2,
+ "elapsed_s": 212.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-16T20:23:11+00:00"
+   "newest": "2026-11-16T21:34:56+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T21:24:39+00:00"
+   "newest": "2026-11-16T21:40:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T16:47:45+00:00"
+   "newest": "2026-11-16T15:47:16+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -342,7 +342,25 @@
    "newest": "2026-11-16T07:03:59+00:00"
   }
  ],
+ "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46X1MU:0-lone-pine-capital-reports-stake-in-intel-amazon-raises-stakes-in-alphabet-tsmc/",
+   "published_utc": "2026-11-16T21:33:19+00:00",
+   "title_original": "Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4d13bf0f74ae72c3"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1340,23 +1358,6 @@
    "live_wire": true,
    "manual": false,
    "id": "103b851572ba5d65"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261116001278:0-china-s-real-gdp-growth-may-ease-to-4-4-next-year-market-talk/",
-   "published_utc": "2026-11-16T08:37:00+00:00",
-   "title_original": "China's Real GDP Growth May Ease to 4.4% Next Year — Market Talk",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "551ec268a9954f4f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3531,10 +3532,27 @@
    "id": "36131fe5e9e5d439"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "더스쿠프",
+   "title_en": "Raise interest rates? how much? The Bank of Korea’s complicated calculation method for ‘household loans of 1,200 trillion won’ [Weekend Q&A]",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWHI0WWZMNkdiQnAyd0xubzNpenA0UTRpRHpNMUVZdVhkTFpJSUFOODhoNHFZMmI0UTM4SC1JMHRSbzlnUldYd1Nya0tpRlhJOFoxR3NpazU5SkJkY2d3QkMxamxlZTh1R05XdGJR?oc=5",
+   "published_utc": "2026-11-15T08:25:08+00:00",
+   "title_original": "금리 올려? 얼마나? ‘가계대출 1200조’ 앞 복잡해진 한은 셈법 [주말 Q&A]",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "938a804a94076a2e"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -3545,7 +3563,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3635,6 +3653,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6f7e7d999a55e883"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-15T06:23:25+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4017,24 +4053,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cc95e50fd4b363c7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-14T18:27:55+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -4607,24 +4625,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6363,6 +6363,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51878,25 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b4fcebcd8480f063"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
-   "title_en": "The Bank of Korea's monetary policy is a testbed for the Lee Jae-myung administration's '821 trillion active fiscal policy', and the task of managing household and corporate debt is heavy.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80Z2xxeGF4RmZ2TktfSGtqMGlzNnlsMEJJV2VGdTF3aks1dUQyZ2tUOWxLTWs0czNfVzZJWVNUazNkZmRkejBNcm5DbUVwRV9valNOblJJcE56R1NTR2lGNkt3dVVlZVFWWTJkSnNCOGdXMnc?oc=5",
-   "published_utc": "2026-10-22T06:49:01+00:00",
-   "title_original": "한은 통화정책에 이재명 정부 '821조 적극재정' 시험대, 가계·기업부채 관리 과제 무겁다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "adf8e959edc95173"
   },
   {
    "source_id": "manual_ia",
