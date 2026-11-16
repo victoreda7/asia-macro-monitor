@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-16T23:36:51.181500+00:00",
- "collected_at_utc": "2026-11-16T23:36:51.181500+00:00",
+ "generated_at_utc": "2026-11-16T23:44:37.389077+00:00",
+ "collected_at_utc": "2026-11-16T23:44:37.389077+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
-  "china": 875,
+  "japan": 1035,
+  "china": 874,
   "taiwan": 303,
-  "korea": 789
+  "korea": 788
  },
- "elapsed_s": 263.6,
+ "elapsed_s": 143.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T23:34:00+00:00"
+   "newest": "2026-11-16T23:42:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-17T08:00:00+09:00"
+   "newest": "2026-11-17T08:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Dollar's Bias Vs. Yen Looks Increasingly Bullish, Charts Show — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261116011652:0-dollar-s-bias-vs-yen-looks-increasingly-bullish-charts-show-market-talk/",
+   "published_utc": "2026-11-16T23:35:00+00:00",
+   "title_original": "Dollar's Bias Vs. Yen Looks Increasingly Bullish, Charts Show — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "65fb4d7cd27692ab"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "The trick of a subscription service that tricks your brain into thinking \"If it's less than 10,000 yen per month\"... Some people choose to pay monthly even though it's \"6,000 yen more per year\" than a lump sum payment | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/963205?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-16T23:30:00+00:00",
+   "title_original": "｢月々1万円以下なら｣に脳がだまされるサブスクのカラクリ…一括払いより｢年6000円高い｣のに､月額払いを選んでいる人も | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0371379c84a8531e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1253,8 +1287,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -1269,7 +1303,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -1426,23 +1460,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe68bafc6445a7f6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Businessworld",
-   "title_en": "Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million",
-   "url": "https://www.tradingview.com/news/moodys:4183565cdd647:0-hindalco-s-novelis-to-sell-two-china-subsidiaries-for-265-million/",
-   "published_utc": "2026-11-16T09:00:49+00:00",
-   "title_original": "Hindalco's Novelis To Sell Two China Subsidiaries For $265 Million",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ec9ac614de19737e"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3308,8 +3325,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -3323,7 +3340,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3671,7 +3688,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -3682,7 +3699,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -5038,8 +5055,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -5053,7 +5070,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8176,7 +8193,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -8190,7 +8207,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5ffbd3cd068ab02a"
+   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "boj_whatsnew",
@@ -51879,23 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "319bd5fb3aaf4d60"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "BOK holds rate at 3%, leaves door open to November hike",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU21zZmYzVHNEZHNtN0ZkX0lLODFqaTNLVFppNUtZWWlfckJXcVhSQkIwZ0hGSEdLRVBvVV9ZMUVlOWJnN3ZuQnZfdVRTRWl2Q0xtQTdpSQ?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds rate at 3%, leaves door open to November hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "498c0e6782864fff"
   },
   {
    "source_id": "manual_ia",
