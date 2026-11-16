@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-16T03:52:50.871131+00:00",
- "collected_at_utc": "2026-11-16T03:52:50.871131+00:00",
+ "generated_at_utc": "2026-11-16T04:02:51.732806+00:00",
+ "collected_at_utc": "2026-11-16T04:02:51.732806+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1005,
-  "china": 879,
-  "taiwan": 303,
+  "china": 880,
+  "taiwan": 302,
   "korea": 813
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "newest": "2026-11-12T17:00:00+09:00"
+   "newest": "2026-11-16T13:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T03:31:02+00:00"
+   "newest": "2026-11-16T03:34:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:50:37+00:00"
+   "newest": "2026-11-15T06:13:36+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-16T02:00:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T12:23:00+09:00"
+   "newest": "2026-11-16T12:53:35+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-16T12:44:13+09:00"
+   "newest": "2026-11-16T12:57:21+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-16T03:50:14+00:00"
+   "newest": "2026-11-16T04:01:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T03:00:02+00:00"
+   "newest": "2026-11-16T03:46:42+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China's economy softens across the board as factory output, spending slow",
+   "url": "https://asia.nikkei.com/economy/china-s-economy-softens-across-the-board-as-factory-output-spending-slow",
+   "published_utc": "2026-11-16T04:02:51.095317+00:00",
+   "title_original": "China's economy softens across the board as factory output, spending slow",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b00b500ef678f079"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261116a.htm",
+   "published_utc": "2026-11-16T04:00:00+00:00",
+   "title_original": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a56940549e597549"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46X02B:0-taiwan-to-consider-inflation-other-countries-moves-when-deciding-interest-rates/",
+   "published_utc": "2026-11-16T03:54:23+00:00",
+   "title_original": "Taiwan to consider inflation, other countries' moves when deciding interest rates",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "545cc50b6e7ad2cb"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1080,23 +1133,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0614d3e45b2ddceb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261115001321:0-dollar-s-rise-toward-160-yen-brings-intervention-risk-back-into-focus-market-talk/",
-   "published_utc": "2026-11-16T01:36:00+00:00",
-   "title_original": "Dollar's Rise Toward 160 Yen Brings Intervention Risk Back Into Focus — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "77d3b1a69d0286df"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2029,7 +2065,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -2040,7 +2076,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2458,6 +2494,25 @@
    "live_wire": false,
    "manual": false,
    "id": "006a521a35c20aa7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
+   "published_utc": "2026-11-14T19:58:07+00:00",
+   "title_original": "央行8月公开市场国债买卖净投放500亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3290,6 +3345,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "The central bank will carry out a 200 billion yuan buyout reverse repurchase operation to stabilize market expectations.",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSDRGWjVKeERBNTFfd0JJOFloTV9lY1RXOGZ6eXlmN0ZYSDMxUzdBYXpIcENEZXIzTVh6Tm8xMS1oZUwxZm0tQg?oc=5",
+   "published_utc": "2026-11-13T13:51:00+00:00",
+   "title_original": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b0124bb81eb0f8d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
    "title_en": "The People's Bank of China will scale back its operations and carry out a 200 billion yuan six-month buyout reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LMjFWMzkzVHh6MHlzaGNMczRZUWVDRDRJMW9vRnU2SnhWUGdtSE1Ea2NRZDhkT2VKcFcxRm5HVEJYNGhURjNhZ1NmNnhodnR5RGlmcU0teGNMLUpaZXJTczAxX1RqM1ky?oc=5",
@@ -3961,24 +4034,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c2c4059a194b77c6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "The central bank will carry out a 200 billion yuan buyout reverse repurchase operation to stabilize market expectations.",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSDRGWjVKeERBNTFfd0JJOFloTV9lY1RXOGZ6eXlmN0ZYSDMxUzdBYXpIcENEZXIzTVh6Tm8xMS1oZUwxZm0tQg?oc=5",
-   "published_utc": "2026-11-13T09:13:00+00:00",
-   "title_original": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b0124bb81eb0f8d"
   },
   {
    "source_id": "tradingview_live",
@@ -5029,25 +5084,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b229f53b6d3319dc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
-   "title_en": "The central bank invested a net 50 billion yuan in open market government bond sales in August",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMUIzalo5MkNaekxKenFUeldpSUh3WllMeW81Q3J6MkM0TkNyYW5tV1RveFdjbXhXM3QwQWcxOVRKZ1ZVQnhfTXdvYzNFTFZ1ZldN?oc=5",
-   "published_utc": "2026-11-13T02:28:08+00:00",
-   "title_original": "央行8月公开市场国债买卖净投放500亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc95e50fd4b363c7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51864,40 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ae33761e36eb806"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Taiwan and Malaysia (Saul) held the 1st ECA Joint Committee Meeting to start a new chapter in bilateral trade",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBMDNsV0xJemZsY3BkeC13bmtwOGdhc0hIb1RUYUFwb1pnU2QxQUthRTV0N1ZFTTlMQjVFT2VGdzFBckU2TlJ1dDIyYmswYmRqQTNKdXp3?oc=5",
-   "published_utc": "2026-10-21T07:48:27+00:00",
-   "title_original": "臺馬（紹爾）召開第1屆ECA聯合委員會會議 展開雙邊貿易新篇章",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da3a8bdfe41d24c7"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkVlcDRmU3BNa0pDOVpNeXlGdGRFTWNxTWx0MXJzbXV6ZDRZZXp0YnNZeXp1eXNobkNtbndQYWcybjRrWlA5NkowN2p4dzdYWDZzVFZDQWZTM2NScUdyQ3VIbWx0UjRXTWsyelY3WkFiQ0JEbDJ2MW9FRUtUODBtdzRwWUVPdlR1NFRYeFlDc29DVmZERE5KVUctVTYtWXRROGx5ci1wR3FCR3pib1lUdUZfRE9Udw?oc=5",
-   "published_utc": "2026-10-21T07:44:07+00:00",
-   "title_original": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0bef40b94092862b"
   },
   {
    "source_id": "manual_ia",

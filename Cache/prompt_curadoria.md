@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T03:52:50.871131+00:00
+Última coleta: 2026-11-16T04:02:51.732806+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1005
-  🇨🇳 China          879
-  🇹🇼 Taiwan         303
+  🇨🇳 China          880
+  🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [china] China's economy softens across the board as factory output, spending slow
+  - [japan] Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic
+  - [taiwan] Taiwan to consider inflation, other countries' moves when deciding interest rates
   - [japan] Japan Consumption Likely to Stay Sluggish Amid Inflation — Market Talk
   - [japan] Japan CPI-Indexed Bond: Lowest Price 96.00 To Yield 1.072%
   - [china] Hong Kong debuts offshore yuan bond index to promote RMB assets
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Developing | China’s economic activity falters in October amid sluggish retail sales
   - [china] China Oct Industrial Output +4.8% On Year; Market Expected +5.2%
   - [china] China Oct Industrial Output +0.21% On Month
-  - [china] The added value of industries above designated size increased by 4.8% in October 2026
-  - [korea] NH Nongwoobio: 9M earnings improved, while a KRW 36,738 million seed-business acquisition is pending
-  - [japan] Japan's economy stagnated in the third quarter as the war with Iran pushed up inflation and suppressed consump
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T03:52:51+00:00",
+      "published_utc": "2026-11-16T04:02:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
