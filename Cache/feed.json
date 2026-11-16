@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-16T14:48:46.043584+00:00",
- "collected_at_utc": "2026-11-16T14:48:46.043584+00:00",
+ "generated_at_utc": "2026-11-16T14:53:13.534369+00:00",
+ "collected_at_utc": "2026-11-16T14:53:13.534369+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 304,
   "korea": 810
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -190,6 +174,22 @@
    "newest": "2026-11-16T04:34:30+00:00"
   },
   {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-16T22:10:04+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-16T21:58:12+09:00"
+  },
+  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T10:31:27+00:00"
+   "newest": "2026-11-16T13:36:00+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -721,8 +721,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -737,7 +737,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -2914,8 +2914,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -2929,7 +2929,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4609,8 +4609,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -4624,7 +4624,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -10124,7 +10124,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSEVVbV9iRC14N0thNmdONzZnMll5NV9ZMHIzd1hCelkyZUM0Wjh1YjVLT0d5amZGNFNFWnVKM0hEZlFXSFl6eTNHNnZaSWZDUFJQV3c2OHRtZmNNaFA4M9IBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cNIBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
    "published_utc": "2026-11-11T07:54:00+00:00",
    "title_original": "SC제일은행 \"내년 한국 경제 성장세 둔화…통화정책이 주요 변수\"",
    "region": "korea",
@@ -10137,7 +10137,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8214e57caaa25fcf"
+   "id": "4d803028d7b814ba"
   },
   {
    "source_id": "gn_kr_mk",
