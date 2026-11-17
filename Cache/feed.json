@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T20:22:47.322181+00:00",
- "collected_at_utc": "2026-11-17T20:22:47.322181+00:00",
+ "generated_at_utc": "2026-11-17T20:32:44.850557+00:00",
+ "collected_at_utc": "2026-11-17T20:32:44.850557+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1023,
-  "china": 904,
+  "japan": 1022,
+  "china": 905,
   "taiwan": 311,
   "korea": 762
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T10:31:43+00:00"
+   "newest": "2026-11-17T14:32:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T08:54:43+00:00"
+   "newest": "2026-11-17T13:31:27+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T20:21:41+00:00"
+   "newest": "2026-11-17T20:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T17:08:09+00:00"
+   "newest": "2026-11-17T13:49:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-17T09:30:00+00:00"
   }
@@ -3168,8 +3168,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3184,7 +3184,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -5258,8 +5258,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5273,7 +5273,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5359,6 +5359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8de7059b904739bd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "网易新闻客户端",
+   "title_en": "A-shares: Effective today, the central bank raises the foreign exchange deposit reserve ratio! Tomorrow may bring new changes",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGdiWXFlTW9KWEdGa2M2dlFacHoyVndvdEFzMFZDc2xIWWlRMG9SVG5pOWFEbWQtLXlsYkd4MnM5UkxUMzBZbHFQQzFQY1A0TWE3ZV9GaHJkb3Y2VXI2c25TQTh4d21HREVWUWtzMEt3aDZoMGFBUWdIbm9YS1ExYXB3?oc=5",
+   "published_utc": "2026-11-15T16:00:00+00:00",
+   "title_original": "A股：今日生效，央行上调外汇存款准备金率！明日或将迎来新转变",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "67e98759264979b6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51885,24 +51902,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c959c4b41c1f8086"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan core inflation exceeds BOJ target, cements near-term rate hike chance",
-   "url": "https://www.investing.com/news/economy-news/japan-core-inflation-exceeds-boj-target-cements-nearterm-rate-hike-chance-4967842",
-   "published_utc": "2026-10-22T23:54:17+00:00",
-   "title_original": "Japan core inflation exceeds BOJ target, cements near-term rate hike chance",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4411a1b152ec61cb"
   },
   {
    "source_id": "manual_ia",
