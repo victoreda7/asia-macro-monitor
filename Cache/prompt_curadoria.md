@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T05:54:41.519483+00:00
+Última coleta: 2026-11-17T06:05:43.845668+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1039
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Anthropic IPO tests next leg of rally in Samsung, SK hynix
+  - [taiwan] The United States strictly controls the export supply chain of advanced AI chips: the manufacturing flow has a
   - [china] U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update
   - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB yields climb as buyers hold back on long-dated debt
   - [china] On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7132 TUES VS 6.7141
-  - [japan] Fed Policy, Weak Yen Hold Key for BOJ Rate Hikes — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T05:54:41+00:00",
+      "published_utc": "2026-11-17T06:05:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
