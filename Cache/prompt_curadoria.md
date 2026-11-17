@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-16T23:55:35.491673+00:00
+Última coleta: 2026-11-17T00:06:53.101034+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
   🇨🇳 China          874
-  🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  788
+  🇹🇼 Taiwan         304
+  🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners
   - [japan] Dollar's Bias Vs. Yen Looks Increasingly Bullish, Charts Show — Market Talk
   - [japan] The trick of a subscription service that tricks your brain into thinking "If it's less than 10,000 yen per mon
   - [china] China resumes storing crude oil, giving it fuel export options: Russell
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Councilor Takada: “Move to a good position: Flexible interest rate hikes”
   - [china] To Make in America, Start by Importing a Chinese Factory
   - [taiwan] Approved FDI hits Jan.-Oct. high; TSMC boosts outbound investments
-  - [china] Alibaba details new AI safeguards as Chinese developers step up test disclosures
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-16T23:55:35+00:00",
+      "published_utc": "2026-11-17T00:06:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
