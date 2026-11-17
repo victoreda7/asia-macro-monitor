@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T13:02:51.050277+00:00
+Última coleta: 2026-11-17T13:12:53.131458+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1030
-  🇨🇳 China          898
+  🇨🇳 China          899
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  762
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [japan] Will the US-North Korea summit happen? NW9 Hirouchi caster asks experts
   - [china] China resumes storing crude oil, giving it fuel export options: Russell
   - [china] Chinese copper import premium jumps 21% to record peak amid low stocks
   - [korea] Apple nears a rare long-term DRAM supply deal with Samsung Electronics: report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese envoy says restrictions on exports of equipment for the chip industry threaten the unfreezing of trade
   - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
   - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
-  - [china] US confirms investigation into Megaspeed for alleged diversion of chips to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T13:02:51+00:00",
+      "published_utc": "2026-11-17T13:12:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
