@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-17T15:32:45.275541+00:00",
- "collected_at_utc": "2026-11-17T15:32:45.275541+00:00",
+ "generated_at_utc": "2026-11-17T15:42:54.661654+00:00",
+ "collected_at_utc": "2026-11-17T15:42:54.661654+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,24 @@
   "taiwan": 311,
   "korea": 761
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 33.5,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T15:05:01+00:00"
+   "newest": "2026-11-17T15:34:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T14:55:46+00:00"
+   "newest": "2026-11-17T15:30:51+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -174,22 +190,6 @@
    "newest": "2026-11-16T16:11:34+00:00"
   },
   {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-17T22:56:54+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-17T23:34:45+09:00"
-  },
-  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T13:21:42+00:00"
+   "newest": "2026-11-17T15:41:48+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T15:31:55+00:00"
+   "newest": "2026-11-17T15:42:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,12 +337,15 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "nhk_politics": 1,
+  "nhk_economy": 1
+ },
  "items": [
   {
    "source_id": "tradingview_live",
@@ -12525,7 +12528,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cNIBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSEVVbV9iRC14N0thNmdONzZnMll5NV9ZMHIzd1hCelkyZUM0Wjh1YjVLT0d5amZGNFNFWnVKM0hEZlFXSFl6eTNHNnZaSWZDUFJQV3c2OHRtZmNNaFA4M9IBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
    "published_utc": "2026-11-11T07:54:00+00:00",
    "title_original": "SC제일은행 \"내년 한국 경제 성장세 둔화…통화정책이 주요 변수\"",
    "region": "korea",
@@ -12538,7 +12541,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4d803028d7b814ba"
+   "id": "8214e57caaa25fcf"
   },
   {
    "source_id": "gn_kr_mk",
