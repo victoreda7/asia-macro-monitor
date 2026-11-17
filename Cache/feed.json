@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T22:12:49.112697+00:00",
- "collected_at_utc": "2026-11-17T22:12:49.112697+00:00",
+ "generated_at_utc": "2026-11-17T22:22:51.668583+00:00",
+ "collected_at_utc": "2026-11-17T22:22:51.668583+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1022,
-  "china": 908,
+  "china": 907,
   "taiwan": 310,
-  "korea": 760
+  "korea": 761
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T21:52:08+00:00"
+   "newest": "2026-11-17T22:13:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T20:18:23+00:00"
+   "newest": "2026-11-17T22:12:27+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T22:11:47+00:00"
+   "newest": "2026-11-17T22:21:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T07:00:00+09:00"
+   "newest": "2026-11-18T07:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,11 +339,47 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-11-17T09:30:00+00:00"
+   "newest": "2026-11-17T22:05:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 139% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:99b1dd20b1a9c:0-softbank-group-corp-stock-12-month-price-target-cut-to-jpy-8-156-implies-139-upside/",
+   "published_utc": "2026-11-17T22:20:00+00:00",
+   "title_original": "SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 139% Upside",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dc58a280504e673f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "데일리안",
+   "title_en": "6% of main dam was breached... Bank of Korea’s ‘dilemma’ amid price and exchange rate pressures",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FNXBoLU9yWGdnTDZVazF5bVRWaGkyNXh5ZlM5aVZwTnJjSXI4NGt5QXlla25XcnI3a19NUkhHUnphYVhZeXpOUFpfcTlkdGRSdEs0?oc=5",
+   "published_utc": "2026-11-17T22:05:00+00:00",
+   "title_original": "주담대 6% 뚫렸다…물가·환율 압박 속 한은 ‘딜레마’",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2a9e1863b6b9f506"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1320,23 +1356,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e356c331872a86b6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Shanghai Runda Medical Technology Plans Bond Issuance",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Y0S0:0-shanghai-runda-medical-technology-plans-bond-issuance/",
-   "published_utc": "2026-11-17T09:43:17+00:00",
-   "title_original": "Shanghai Runda Medical Technology Plans Bond Issuance",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9e4af772abb344a8"
   },
   {
    "source_id": "nhk_politics",
@@ -5760,7 +5779,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -5771,7 +5790,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51882,24 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "94712f14ae9e07a4"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan manufacturing growth slows to 7-month low in October, PMI shows By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVVYSTJvZkEtMko5czZXS3pzUWkzRUZldXVMXzBxeGZtdVBRaE1lSEhYaDhoTUlmTW1oMlRkbWZOMVhkX290T1N3TUp0RFRFTE1VQ1FaajNFWXdFNEVXUlJWWnN2LUJUVHpneUhlTUo0R0JvbVljcFQwSTh3ZlZ6WHNWejdtYTVPNDhGNkZHcnAzcW1XX1JnUzNWZWZzSWJUcHdWcGQyS3NHMUNQa2VqY2g2QVE5Rk9iaFJBWjJ3dXdncjV2?oc=5",
-   "published_utc": "2026-10-23T00:39:32+00:00",
-   "title_original": "Japan manufacturing growth slows to 7-month low in October, PMI shows By Reuters",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "49afbe8d84bb64b9"
   },
   {
    "source_id": "manual_ia",

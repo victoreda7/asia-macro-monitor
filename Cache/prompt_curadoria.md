@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T22:12:49.112697+00:00
+Última coleta: 2026-11-17T22:22:51.668583+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1022
-  🇨🇳 China          908
+  🇨🇳 China          907
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  760
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 139% Upside
+  - [korea] 6% of main dam was breached... Bank of Korea’s ‘dilemma’ amid price and exchange rate pressures
   - [japan] Taijyu Life Eliminates the negative spread; life insurance operations continue to improve in a world with inte
   - [china] Nvidia Corporation Shipments Of Data Center Hopper Products To China During The Quarter Were $2.4 Billion
   - [japan] The economic effect is supposed to be 1 billion yen, but the vendors are in the red...The Tottori Gourmet Fest
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Forvia Hella Wins Three Series-Production Radar Orders From Leading Chinese Car Manufacturers
   - [japan] Yen Expected to Outperform in 2027, BofA Survey Says — Market Talk
   - [china] Hella - Forvia Hella Wins Series Production Orders For Radar From Leading Chinese Automotive Manufacturer
-  - [taiwan] Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business
-  - [china] Walt Disney: Expect Growth in Global Guests to Continue in 1Q of Fiscal 2027, Despite Consumer Softness in Hon
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T22:12:49+00:00",
+      "published_utc": "2026-11-17T22:22:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
