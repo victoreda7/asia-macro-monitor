@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T21:12:43.317932+00:00",
- "collected_at_utc": "2026-11-17T21:12:43.317932+00:00",
+ "generated_at_utc": "2026-11-17T21:22:47.915709+00:00",
+ "collected_at_utc": "2026-11-17T21:22:47.915709+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1023,
+  "japan": 1024,
   "china": 906,
-  "taiwan": 311,
+  "taiwan": 310,
   "korea": 760
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:34:00+00:00"
+   "newest": "2026-11-17T18:21:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T20:52:44+00:00"
+   "newest": "2026-11-17T21:14:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T08:54:43+00:00"
+   "newest": "2026-11-17T20:30:00+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T16:11:34+00:00"
+   "newest": "2026-11-06T08:00:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:41:00+00:00"
+   "newest": "2026-11-17T01:35:25+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T21:02:11+00:00"
+   "newest": "2026-11-17T21:22:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T17:08:09+00:00"
+   "newest": "2026-11-17T13:49:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-17T12:03:11+00:00"
+   "newest": "2026-11-17T21:19:02+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T06:00:00+09:00"
+   "newest": "2026-11-18T06:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "The economic effect is supposed to be 1 billion yen, but the vendors are in the red...The Tottori Gourmet Festival fire reflects the dangerous belief that \"people will come if we have the numbers\" | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964953?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-17T21:15:00+00:00",
+   "title_original": "経済効果10億円のはずが出店者は大赤字…鳥取グルメフェス炎上が映す｢数字さえあれば人が来る｣という危うい思い込み | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "21ba6428050f7647"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Canada and China Draw Closer with Expanded Trade Pact — WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117007204:0-canada-and-china-draw-closer-with-expanded-trade-pact-wsj/",
+   "published_utc": "2026-11-17T21:08:00+00:00",
+   "title_original": "Canada and China Draw Closer with Expanded Trade Pact — WSJ",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2187c64f01229da0"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -414,23 +449,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5a3c3f648fbd925b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Canada and China Draw Closer with Expanded Trade Pact — WSJ",
-   "url": "https://www.tradingview.com/news/DJN_DN20261117007204:0-canada-and-china-draw-closer-with-expanded-trade-pact-wsj/",
-   "published_utc": "2026-11-17T19:47:00+00:00",
-   "title_original": "Canada and China Draw Closer with Expanded Trade Pact — WSJ",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2187c64f01229da0"
   },
   {
    "source_id": "tradingview_live",
@@ -5708,7 +5726,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -5719,7 +5737,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51884,23 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "115fbfbc98bccbde"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "PSMC eyes Taiwan, Japan, Singapore for 3D AI foundry expansion",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0I4TFlpNVliYkxvYS1PTkdQeUFnaDNQVnZ3aGpJNXZHSzdaeHF3MzNEanZSWFQyN01LSXJHRDRpUmUzeDBpNE5mQVVKelFhZDNaZXJrTWRmM2VBbENVS0JjRHhHS2tJaTllYWU1MTdPMl9meEdPSkkyM0d0U2RZWUxqRlhCSl9Hb3Q5bg?oc=5",
-   "published_utc": "2026-10-23T00:32:18+00:00",
-   "title_original": "PSMC eyes Taiwan, Japan, Singapore for 3D AI foundry expansion",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d05671ff5a13a673"
   },
   {
    "source_id": "manual_ia",
