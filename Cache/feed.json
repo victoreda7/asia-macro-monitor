@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-17T00:06:53.101034+00:00",
- "collected_at_utc": "2026-11-17T00:06:53.101034+00:00",
+ "generated_at_utc": "2026-11-17T00:26:13.668307+00:00",
+ "collected_at_utc": "2026-11-17T00:26:13.668307+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 304,
   "korea": 787
  },
- "elapsed_s": 280.2,
+ "elapsed_s": 213.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T23:51:20+00:00"
+   "newest": "2026-11-16T23:52:38+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-16T23:42:55+00:00"
+   "newest": "2026-11-17T00:21:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T10:55:06+00:00"
+   "newest": "2026-11-16T14:59:41+00:00"
   },
   {
    "source_id": "ked_global",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T23:48:30+00:00"
+   "newest": "2026-11-17T00:02:30+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T17:43:58+00:00"
+   "newest": "2026-11-16T14:31:43+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T00:04:00+00:00"
+   "newest": "2026-11-17T00:21:47+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T22:11:19+00:00"
+   "newest": "2026-11-16T23:40:36+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:29:32+00:00"
+   "newest": "2026-11-16T06:27:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,25 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261116011751:0-bank-of-korea-could-raise-inflation-forecasts-at-coming-policy-meeting-market-talk/",
+   "published_utc": "2026-11-17T00:08:00+00:00",
+   "title_original": "Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6f4f1f1e28cc35c9"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners",
@@ -360,6 +379,25 @@
    "live_wire": false,
    "manual": false,
    "id": "9c9ffd69f727b21e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "A weak yen causes prices to rise and consumption to shrink...Japanese economy has negative growth for the first time in a year (JoongAng Ilbo Japanese version)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGRHI5Rkk2UWY3aWQ5ak9MUmV0UWpWemRNRzdMelljdnJuT25yOHFTTXVhZUV3ZE40RWZjRFd5WTBnZEgyM3dxYjFaWjA5eFdrU3JiVHdtVFdIOVlGT0lqNV9odEZoblhQVWFqS1QyVHdpdWhpZkJlMFNGWWRCdDg?oc=5",
+   "published_utc": "2026-11-16T23:40:36+00:00",
+   "title_original": "円安で物価上昇し消費萎縮…日本経済、1年ぶりマイナス成長（中央日報日本語版）",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9e062837e5924ae"
   },
   {
    "source_id": "tradingview_live",
@@ -1304,8 +1342,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -1320,7 +1358,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -1778,7 +1816,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Benchmark rate for banks' mortgage loans continues to rise",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmloZDlVZl8xaERON005QVozRHV2Z3Y4QVpUZ1N3QWZVSS1Ta3lPYkIycDZ6WVNDNW1yaE1DXy1Gcmd3YlB5R0xKaWE2WXZsS1BrUUVoQ3B0QVhIVDVPeFoxTUQ2UXlYUzRPSHVQeG9aZlIySldsN2FpaWdrelVWa2t3SzU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMU1XN0RBZjczU0c5aEJTOGpRMnJBQ2lldmJhcGE3R0p2T1FzcEFYTUJTX1A5WjI2alkxRFJ3Z3VVSVNtcVdSYWZMZFlPbElhZ0duNkwzOTlHQQ?oc=5",
    "published_utc": "2026-11-16T06:27:48+00:00",
    "title_original": "Benchmark rate for banks' mortgage loans continues to rise",
    "region": "korea",
@@ -1790,7 +1828,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9d2ad122cf7be1df"
+   "id": "aaf04f01b05f3af8"
   },
   {
    "source_id": "investing_live",
@@ -3342,8 +3380,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -3357,7 +3395,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3808,24 +3846,6 @@
    "id": "6f7e7d999a55e883"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-15T06:23:25+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
@@ -4206,6 +4226,24 @@
    "live_wire": false,
    "manual": false,
    "id": "cc95e50fd4b363c7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-14T18:27:55+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -5054,8 +5092,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -5069,7 +5107,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -14267,7 +14305,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "Will the Bank of Korea put a brake on interest rate hikes as stock prices plummet?",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWUZKUThybGliU01IcUxsekdLZ2YxNDdDMTgyU0NrUGtfRjZiVG9taVZjMU9EUE1ZLWRuYXBNQnZSSmxWNmlPTjZYSEc1cHZwbDJsT0dGdGNLVzRxUTdGWGpPYzd0eTZ4VWQtNW9qZ1dGNTZv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tSVpFcHNKT21CMjRLTk9vXzMwWUpzZmlEWmlfcHBpZDE5eDNMSks3MUR4RGUtYkpKcXRIaTJ5di0zU212aGhqRFlndURzWDJmendFUQ?oc=5",
    "published_utc": "2026-11-10T02:10:00+00:00",
    "title_original": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
    "region": "korea",
@@ -14278,7 +14316,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f0d2735183b07ab8"
+   "id": "3d2813785741c4a2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51862,40 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "891fd7d0680eb082"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "BOK holds key rate steady at 3% after 2 consecutive rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40cmVhdnp5bEFWT3h6MlJ3VUMxRmtOcHU0RmFRa29SSE00elBoc2hQSkJHZ25jUUJ3SFZveDhpdTZyc0dJaDFsQWU3NVU0c0wwU21NRFgtdw?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "BOK holds key rate steady at 3% after 2 consecutive rate hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ae3831d8f606c8c"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cff6654c2fd53b9"
   },
   {
    "source_id": "manual_ia",
