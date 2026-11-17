@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T23:42:42.554191+00:00",
- "collected_at_utc": "2026-11-17T23:42:42.554191+00:00",
+ "generated_at_utc": "2026-11-17T23:52:52.687811+00:00",
+ "collected_at_utc": "2026-11-17T23:52:52.687811+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1020,
-  "china": 908,
+  "japan": 1021,
+  "china": 907,
   "taiwan": 313,
   "korea": 759
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 28.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T20:30:00+00:00"
+   "newest": "2026-11-17T08:54:43+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T09:30:00+09:00"
+   "newest": "2026-11-18T08:50:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T06:56:51+09:00"
+   "newest": "2026-11-18T08:50:59+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T23:08:18+00:00"
+   "newest": "2026-11-17T23:50:01+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T23:41:00+00:00"
+   "newest": "2026-11-17T23:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T14:44:11+00:00"
+   "newest": "2026-11-17T21:45:49+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T23:16:38+00:00"
+   "newest": "2026-11-17T08:29:48+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN OCT EXPORTS +20.5% Y/Y (SEPT REVISED +16.5%), 14TH STRAIGHT RISE; MEDIAN FORECAST +22.0%",
+   "url": "https://www.tradingview.com/news/macenews:7c96b30f6094b:0-japan-oct-exports-20-5-y-y-sept-revised-16-5-14th-straight-rise-median-forecast-22-0/",
+   "published_utc": "2026-11-17T23:51:00+00:00",
+   "title_original": "JAPAN OCT EXPORTS +20.5% Y/Y (SEPT REVISED +16.5%), 14TH STRAIGHT RISE; MEDIAN FORECAST +22.0%",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f09acceeed818d98"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Trade Statistics (October 2026[Provisional])",
+   "url": "https://www.mof.go.jp/outside_link/20261117114920.html",
+   "published_utc": "2026-11-17T23:50:00+00:00",
+   "title_original": "Trade Statistics (October 2026[Provisional])",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9d00ebecfd5d487"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -1338,23 +1372,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b4d2d0cb039dec19"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Business Line",
-   "title_en": "JSW Steel CEO flags Chinese exports, trade barriers as key challenges",
-   "url": "https://www.tradingview.com/news/moodys:3e64ed008f6bf:0-jsw-steel-ceo-flags-chinese-exports-trade-barriers-as-key-challenges/",
-   "published_utc": "2026-11-17T10:09:58+00:00",
-   "title_original": "JSW Steel CEO flags Chinese exports, trade barriers as key challenges",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2fd8073b07495da9"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3429,8 +3446,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3445,7 +3462,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -5519,8 +5536,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5534,7 +5551,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51882,23 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0b449075bd88b714"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
-   "published_utc": "2026-10-23T01:20:33+00:00",
-   "title_original": "「船荷証券」など電子化の改正案を決定 貿易手続きの効率化へ",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "manual_ia",
