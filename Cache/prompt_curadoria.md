@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T21:52:48.759547+00:00
+Última coleta: 2026-11-17T22:02:52.549375+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Taijyu Life Eliminates the negative spread; life insurance operations continue to improve in a world with inte
   - [china] Nvidia Corporation Shipments Of Data Center Hopper Products To China During The Quarter Were $2.4 Billion
   - [japan] The economic effect is supposed to be 1 billion yen, but the vendors are in the red...The Tottori Gourmet Fest
   - [china] Canada and China Draw Closer with Expanded Trade Pact — WSJ
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business
   - [china] Walt Disney: Expect Growth in Global Guests to Continue in 1Q of Fiscal 2027, Despite Consumer Softness in Hon
   - [china] Walt Disney: Attendance at Hong Kong and Shanghai Parks Worsened During 4Q, and Expect This Pressure to Contin
-  - [china] Nvidia Sends Stark Warning to Customers Over Chinese Access to Its AI Chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T21:52:48+00:00",
+      "published_utc": "2026-11-17T22:02:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
