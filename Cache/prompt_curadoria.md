@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T13:32:58.352902+00:00
+Última coleta: 2026-11-17T13:42:42.950154+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
-  🇨🇳 China          899
+  🇯🇵 Japão          1028
+  🇨🇳 China          900
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  761
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
+  - [china] Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17
+  - [korea] South Korean grape exports jump 85% as Taiwan leads sales
   - [japan] Will the US-North Korea summit happen? NW9 Hirouchi caster asks experts
   - [china] China resumes storing crude oil, giving it fuel export options: Russell
   - [china] Chinese copper import premium jumps 21% to record peak amid low stocks
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] New rules for US exports of AI chips to prevent transshipment Quanta and Wistron’s assessment will not be affe
   - [korea] Who sets the base interest rate and how?: A summary of the Monetary Policy Committee
   - [china] China will adopt "necessary measures" after new US restrictions on chip exports
-  - [china] Chinese envoy says restrictions on exports of equipment for the chip industry threaten the unfreezing of trade
-  - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
-  - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T13:32:58+00:00",
+      "published_utc": "2026-11-17T13:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

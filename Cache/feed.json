@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-11-17T13:32:58.352902+00:00",
- "collected_at_utc": "2026-11-17T13:32:58.352902+00:00",
+ "generated_at_utc": "2026-11-17T13:42:42.950154+00:00",
+ "collected_at_utc": "2026-11-17T13:42:42.950154+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1030,
-  "china": 899,
+  "japan": 1028,
+  "china": 900,
   "taiwan": 310,
-  "korea": 761
+  "korea": 762
  },
- "elapsed_s": 33.4,
+ "elapsed_s": 29.0,
  "sources": [
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -123,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T11:15:00+00:00"
+   "newest": "2026-11-17T13:39:12+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T06:51:26+00:00"
+   "newest": "2026-11-17T13:31:27+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -195,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T20:49:02+09:00"
+   "newest": "2026-11-17T22:33:28+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:35:25+00:00"
+   "newest": "2026-11-17T13:32:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T13:32:17+00:00"
+   "newest": "2026-11-17T13:42:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +307,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T23:44:18+00:00"
+   "newest": "2026-11-17T08:00:01+00:00"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-17T11:42:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -342,10 +342,60 @@
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_tw_cna": 1
- },
+ "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42cndsY2ZjX1VMZjZFNGp0ZXlaVG54eVJOUkZuQkR4cEFXQVNRUnVOdndMM1luRHEzdjVGNlhKMEZESTJzaWNEY0NBeHlGZnBjdzQzaFNUY1d3U2dRdW5zOHhHSnR0NW9LQXpZ?oc=5",
+   "published_utc": "2026-11-17T13:39:12+00:00",
+   "title_original": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9cd217b45d1f01b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalBpOG5leTJ0LTdnMjQ5YWJNSEVsMzQ0eGlwemZ2NjQ4azVrQjQyOVFOR3VUMTdUQ2FrdV9FWGh1b0hzaUoxWkpWSmFKTl9uYXhKZk5YS19Ednd4WEFFSW9tYUZCSklvYnJqY01qUllSbzVrUDM4UFdFTUxlbVhRamJwa0tIajRFeERKSUY0cw?oc=5",
+   "published_utc": "2026-11-17T13:32:00+00:00",
+   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "91da37975e8dd297"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "South Korean grape exports jump 85% as Taiwan leads sales",
+   "url": "https://www.koreaherald.com/article/10940433",
+   "published_utc": "2026-11-17T13:31:27+00:00",
+   "title_original": "South Korean grape exports jump 85% as Taiwan leads sales",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "aa0ca11467754810"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -1326,23 +1376,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2521a81bac39982f"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42cndsY2ZjX1VMZjZFNGp0ZXlaVG54eVJOUkZuQkR4cEFXQVNRUnVOdndMM1luRHEzdjVGNlhKMEZESTJzaWNEY0NBeHlGZnBjdzQzaFNUY1d3U2dRdW5zOHhHSnR0NW9LQXpZ?oc=5",
-   "published_utc": "2026-11-17T07:39:11+00:00",
-   "title_original": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9cd217b45d1f01b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2982,8 +3015,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -2998,7 +3031,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -3353,7 +3386,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Additional interest rate hikes at fixed intervals and widths Bank of Japan member Takada (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWmJ6RVRhRXQtMGFDa0dDYXpPUUhkUDV0eGxTODVPcklxLXdwYl9VNHpxQ3ZEUW5wQy1Fcld4RGd6Zzk0YlVIMVZnZ3VlYUhCZnVVQ1lYY0hmRFdzVFBjUTN2eGR3d3ZzRE1Ub3FkdHgxSkZWUjRMV0NvRkkyUTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXJuRGw2MGR0QWF5bXpmaHl6TWFpZVdoWF9Pdk9HZ1I4S3VQaFJ5RFhUNXR6U1BYc0J5X2daSVJ6UmRuUVdBcndqZlZIV2VsUVRJcUxESFVLZFdYdjNjNzlWX2E5U0V5WWZKcThHV3BfcV92NF9kcm5Zb3BkT3BnN0lIMExPdnJ4YTcxRjZQZUs2Zzg0Wi1TTlBfTTR1X3hEY2haY19hQ2RPbjRBRVJ1Z2hyaWtreF9pZDVVWkJMVE15MGRnMWpn?oc=5",
    "published_utc": "2026-11-16T07:07:13+00:00",
    "title_original": "一定の間隔、幅にとらわれず 追加利上げ 高田日銀委員（時事通信）",
    "region": "japan",
@@ -3364,7 +3397,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f21ff999fe120653"
+   "id": "2e747072411af5af"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -5072,8 +5105,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5087,7 +5120,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5435,7 +5468,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -5446,7 +5479,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -6838,8 +6871,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -6853,7 +6886,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51872,41 +51905,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e6258ebd725fee7c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022014011:0-japan-consumer-inflation-uptick-offers-tailwind-for-boj-rate-hike/",
-   "published_utc": "2026-10-22T23:41:00+00:00",
-   "title_original": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "606a9d018cc853e9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Inflation Rate Hits 9-Month High",
-   "url": "https://www.tradingview.com/news/te_news:594377:0-japan-inflation-rate-hits-9-month-high/",
-   "published_utc": "2026-10-22T23:39:21+00:00",
-   "title_original": "Japan Inflation Rate Hits 9-Month High",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "11834133d168cfc6"
   },
   {
    "source_id": "manual_ia",
