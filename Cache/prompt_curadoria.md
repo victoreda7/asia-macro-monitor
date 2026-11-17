@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T00:26:13.668307+00:00
+Última coleta: 2026-11-17T00:34:56.778079+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Interest Rate (November 16 2026)
   - [korea] Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk
   - [taiwan] UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners
   - [japan] A weak yen causes prices to rise and consumption to shrink...Japanese economy has negative growth for the firs
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Resources Power Posts October Net Generation Of Subsidiary Power Plants Up 20.9% To 20.1 MLN MWh
   - [japan] Japanese Yen Offers Best Risk-Reward — Market Talk
   - [japan] Yomiuri: JIC Expects Capital Gain of Over 900 Billion Yen from Sale of JSR Shares to Mitsui Chemicals
-  - [japan] Bank of Japan Councilor Takada: “Move to a good position: Flexible interest rate hikes”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T00:26:13+00:00",
+      "published_utc": "2026-11-17T00:34:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
