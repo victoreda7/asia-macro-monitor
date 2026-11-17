@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-17T14:52:58.861124+00:00",
- "collected_at_utc": "2026-11-17T14:52:58.861124+00:00",
+ "generated_at_utc": "2026-11-17T15:03:09.589519+00:00",
+ "collected_at_utc": "2026-11-17T15:03:09.589519+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 311,
   "korea": 762
  },
- "elapsed_s": 33.6,
+ "elapsed_s": 54.9,
  "sources": [
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -43,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:32:00+00:00"
+   "newest": "2026-11-17T07:56:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -123,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-09T08:56:00+00:00"
+   "newest": "2026-11-17T13:39:12+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -131,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-17T15:00:00+09:00"
+   "newest": "2026-11-17T20:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T14:52:00+00:00"
+   "newest": "2026-11-17T15:02:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:28:01+00:00"
+   "newest": "2026-11-17T14:44:11+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -340,11 +332,17 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-17T08:43:40+00:00"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": true,
+   "count": 23,
+   "error": "",
+   "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_kr_bok": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "tradingview_live",
