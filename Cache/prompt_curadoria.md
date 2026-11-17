@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T01:25:21.139128+00:00
+Última coleta: 2026-11-17T01:35:37.301831+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          874
-  🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  786
+  🇯🇵 Japão          1034
+  🇨🇳 China          877
+  🇹🇼 Taiwan         304
+  🇰🇷 Coreia do Sul  785
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7132 TUES VS 6.7141
+  - [japan] Fed Policy, Weak Yen Hold Key for BOJ Rate Hikes — Market Talk
   - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
   - [japan] Interest Rate (November 16 2026)
+  - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [korea] Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk
   - [taiwan] UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners
   - [japan] A weak yen causes prices to rise and consumption to shrink...Japanese economy has negative growth for the firs
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Micron, SK hynix, and Sandisk shares plummet, what you need to know
   - [korea] Why is SK hynix stock sliding today?
   - [japan] Yen Could Strengthen Versus Dollar by Year-End — Market Talk
-  - [korea] Samsung plans to build satellite chips at Texas fab for SpaceX: report
-  - [china] China Resources Power Posts October Net Generation Of Subsidiary Power Plants Up 20.9% To 20.1 MLN MWh
-  - [japan] Japanese Yen Offers Best Risk-Reward — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T01:25:21+00:00",
+      "published_utc": "2026-11-17T01:35:37+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
