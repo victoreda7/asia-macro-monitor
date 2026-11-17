@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T04:05:11.748152+00:00
+Última coleta: 2026-11-17T04:15:04.719832+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1039
-  🇨🇳 China          883
+  🇯🇵 Japão          1038
+  🇨🇳 China          884
   🇹🇼 Taiwan         305
   🇰🇷 Coreia do Sul  773
 
 ## O que já está no feed (não repita)
 
+  - [china] AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] 3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US issues new chip rule as China's AI companies fear Nvidia scandal fallout
-  - [taiwan] Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T04:05:11+00:00",
+      "published_utc": "2026-11-17T04:15:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

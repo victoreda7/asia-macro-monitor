@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T04:05:11.748152+00:00",
- "collected_at_utc": "2026-11-17T04:05:11.748152+00:00",
+ "generated_at_utc": "2026-11-17T04:15:04.719832+00:00",
+ "collected_at_utc": "2026-11-17T04:15:04.719832+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1039,
-  "china": 883,
+  "japan": 1038,
+  "china": 884,
   "taiwan": 305,
   "korea": 773
  },
- "elapsed_s": 155.3,
+ "elapsed_s": 160.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": "",
    "newest": "2026-11-17T02:15:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T22:06:04+00:00"
+   "newest": "2026-11-17T01:26:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T04:01:34+00:00"
+   "newest": "2026-11-17T04:12:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:29:32+00:00"
+   "newest": "2026-11-16T06:27:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
+   "url": "https://www.tradingview.com/news/stocktwits:7d5673800094b:0-amd-mu-skhy-avgo-chip-stocks-ease-overnight-after-selloff-on-new-us-chip-restrictions-targeting-china/",
+   "published_utc": "2026-11-17T04:04:20+00:00",
+   "title_original": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fc7b7816e97488a4"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -1775,8 +1792,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -1791,7 +1808,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -3813,8 +3830,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -3828,7 +3845,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5560,8 +5577,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -5575,7 +5592,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -6164,24 +6181,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVzN6Y3JsQ05RNWJYWGxRTDVVOGtxVU82ZzZIZTBYTzVPUUFoQ3NkcEhOUlQ3YVFfZk91OERIWkNETWdPdm5GVV9fVU52bTRyT0hnWVZxRksza3hXUUE?oc=5",
-   "published_utc": "2026-11-13T09:18:23+00:00",
-   "title_original": "央行：11月16日将开展2000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a464ac6a3e620814"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "Central Bank: The stock of social financing at the end of October 2026 was 469.16 trillion yuan, a year-on-year increase of 7.2%_Rolling News_Finance",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMHBFYURza3RwQzBWU3U4U2NKVjFxUWExeDlqSFBDREkxS3F0c01kUDZxa3VUSVVmUkJZNU8yRHdHSEF0Z3NXeUctVjEyUW5xNS1GcldiQTFZZ2pqaWZsVQ?oc=5",
@@ -6197,6 +6196,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c2c4059a194b77c6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzktVzBNV0NuZ0V2ZHZZSW5yVmhXaWlBRzMzWnB4OUIxVXlVcVNhU09hU2R1SmZzWmJYRW9uWWRGQzZsQ0djTDMxdXNxM2EtbVNiWXJhalljdkc5QlZBYnA4WVJfQ3M?oc=5",
+   "published_utc": "2026-11-13T09:04:17+00:00",
+   "title_original": "央行：11月16日将开展2000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "801cd983ba888292"
   },
   {
    "source_id": "tradingview_live",
@@ -8698,7 +8715,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -8712,7 +8729,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1398ae0aff03df27"
+   "id": "5ffbd3cd068ab02a"
   },
   {
    "source_id": "boj_whatsnew",
@@ -18344,23 +18361,6 @@
    "id": "05bf898418cd71be"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan bought yen at record pace in July",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HX1V1akNkMzIxUFlSMTBfUWdPQmFheXN6ZXZIemJLXzN2UldjLWJaYnVidFhJOUJuNEJtcTJTYld2dldsb0ZCNTJaeU1kb0dEemVWeWpsVDJqbGRqcXI0cGhvQQ?oc=5",
-   "published_utc": "2026-11-08T11:48:00+00:00",
-   "title_original": "Japan bought yen at record pace in July",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf7b038de163169b"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Affiliated real estate trust companies have been in the red for the third consecutive year, with the..",
@@ -18394,6 +18394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b456c59174b90be5"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan bought yen at record pace in July",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HX1V1akNkMzIxUFlSMTBfUWdPQmFheXN6ZXZIemJLXzN2UldjLWJaYnVidFhJOUJuNEJtcTJTYld2dldsb0ZCNTJaeU1kb0dEemVWeWpsVDJqbGRqcXI0cGhvQQ?oc=5",
+   "published_utc": "2026-11-08T08:00:00+00:00",
+   "title_original": "Japan bought yen at record pace in July",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf7b038de163169b"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51882,23 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "73907c84cb893390"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ to hold rate at 1.25% at meeting next week",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-to-hold-rate-at-1.25-at-meeting-next-week",
-   "published_utc": "2026-10-22T08:02:42.446599+00:00",
-   "title_original": "BOJ to hold rate at 1.25% at meeting next week",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b67bc89dd70d95c3"
   },
   {
    "source_id": "manual_ia",
