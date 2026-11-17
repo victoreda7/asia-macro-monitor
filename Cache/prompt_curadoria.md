@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T05:05:19.975274+00:00
+Última coleta: 2026-11-17T05:13:31.733449+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1042
-  🇨🇳 China          888
+  🇨🇳 China          887
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  768
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [korea] IMF raises Korea's 2026 growth forecast to 3.9% on AI chip boom
   - [china] China stocks flat as chip curbs lift local tech, hit internet giants
   - [china] U.S. tightens rules to restrict China’s access to advanced AI chips overseas
   - [china] New rules for beauty festival before Sichuan-Xi meeting! Restricting the export of chips to overseas data cent
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
   - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
   - [japan] Interest Rate (November 16 2026)
-  - [korea] Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T05:05:20+00:00",
+      "published_utc": "2026-11-17T05:13:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
