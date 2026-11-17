@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T06:25:23.675257+00:00
+Última coleta: 2026-11-17T06:36:24.162611+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1039
+  🇯🇵 Japão          1038
   🇨🇳 China          889
-  🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  770
+  🇹🇼 Taiwan         304
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Falls for Fourth Straight Session; Chip, Defense Stocks Retreat
+  - [korea] S. Korea set to achieve US$1 trillion export milestone for 1st time
+  - [taiwan] Taiwan to subsidize employers who let parents work fewer hours
   - [china] How far will nuclear weapons reduction go at the US-China-Russia summit meeting? The twists and turns of the "
   - [korea] Anthropic IPO tests next leg of rally in Samsung, SK hynix
+  - [taiwan] Candidates address Taoyuan's bus woes at TV policy presentation
   - [taiwan] The United States strictly controls the export supply chain of advanced AI chips: the manufacturing flow has a
   - [china] U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update
   - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea regains top spot in global OLED shipments in H1
   - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of Olympics canceled (2) (JoongAng Ilbo Japane
   - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of the Olympics has been canceled (1) (JoongAn
-  - [china] CHINA PBOC CONDUCTS CNY714 BLN VIA O/N REVERSE REPO TUES
-  - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
-  - [japan] JGB yields climb as buyers hold back on long-dated debt
-  - [china] On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T06:25:23+00:00",
+      "published_utc": "2026-11-17T06:36:24+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T06:25:23.675257+00:00",
- "collected_at_utc": "2026-11-17T06:25:23.675257+00:00",
+ "generated_at_utc": "2026-11-17T06:36:24.162611+00:00",
+ "collected_at_utc": "2026-11-17T06:36:24.162611+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1039,
+  "japan": 1038,
   "china": 889,
-  "taiwan": 302,
-  "korea": 770
+  "taiwan": 304,
+  "korea": 769
  },
- "elapsed_s": 188.3,
+ "elapsed_s": 240.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 41,
+   "count": 45,
    "error": "",
-   "newest": "2026-11-17T11:55:40+08:00"
+   "newest": "2026-11-17T14:21:51+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T06:11:00+00:00"
+   "newest": "2026-11-17T06:31:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T05:55:33+00:00"
+   "newest": "2026-11-17T06:31:23+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T06:23:20+00:00"
+   "newest": "2026-11-17T06:34:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:29:32+00:00"
+   "newest": "2026-11-17T06:30:02+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-17T15:00:00+09:00"
+   "newest": "2026-11-17T15:20:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,64 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-17T05:35:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Kospi Falls for Fourth Straight Session; Chip, Defense Stocks Retreat",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117000420_20261117000424:0-kospi-falls-for-fourth-straight-session-chip-defense-stocks-retreat/",
+   "published_utc": "2026-11-17T06:34:00+00:00",
+   "title_original": "Kospi Falls for Fourth Straight Session; Chip, Defense Stocks Retreat",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dfa1bfdb110a1fc2"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "S. Korea set to achieve US$1 trillion export milestone for 1st time",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWp0TVp6MU5ybzJTM0VLU3p5QXZWOC00M3c1eEpYNl9FZG5ESFJPUVNNTGpCS0tzREp6ZWVsMlBOX3ZNRDBIb1JQanlmUFdUR1UzeWZJV1ByVDJoUFQxeGlTVTQzYUd5Q0h3ZElUNmFkTWFqVzhQb2dwbEdyX0tmbkNjN0s?oc=5",
+   "published_utc": "2026-11-17T06:30:02+00:00",
+   "title_original": "S. Korea set to achieve US$1 trillion export milestone for 1st time",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fe075d366a5f4a4"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan to subsidize employers who let parents work fewer hours",
+   "url": "https://focustaiwan.tw/society/202611170008",
+   "published_utc": "2026-11-17T06:11:47+00:00",
+   "title_original": "Taiwan to subsidize employers who let parents work fewer hours",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "610fb3db28397c82"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -377,6 +428,23 @@
    "live_wire": false,
    "manual": false,
    "id": "eea3b0017d416c8e"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Candidates address Taoyuan's bus woes at TV policy presentation",
+   "url": "https://focustaiwan.tw/politics/202611170007",
+   "published_utc": "2026-11-17T05:45:44+00:00",
+   "title_original": "Candidates address Taoyuan's bus woes at TV policy presentation",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "feadb4dda1480311"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2143,8 +2211,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -2159,7 +2227,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -4216,8 +4284,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -4231,7 +4299,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5945,8 +6013,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -5960,7 +6028,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51837,76 +51905,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f807c300e3cbc737"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스TV",
-   "title_en": "The Bank of Korea freezes the base interest rate at 3%... “We will continue the austerity stance.”",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmRqRFh5cF9hTk0wQXJnWHFVOHAwLWc3Ml9fN2NnWFVDZlJWLURvWlNrSnlZVFItYXhBbHBoa05RNUhjQ1RUbUNObXhQbjB5SmhMY0VzS0pLNE9sTWQxMUpiNkRXN0E?oc=5",
-   "published_utc": "2026-10-22T12:06:00+00:00",
-   "title_original": "한은, 기준금리 3%로 동결…\"긴축 기조 이어갈 것\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f6b6c445c167ad2"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
-   "url": "https://www.investing.com/news/economy-news/dip-in-the-dollar-takes-a-breather-with-fed-in-focus-4964546",
-   "published_utc": "2026-10-22T11:31:04+00:00",
-   "title_original": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a81ee2a66a6c79c9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경남신문",
-   "title_en": "Bank of Korea freezes base interest rate... Gyeongnam real estate market recovery is ‘well’",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WdEt0RHM3ZHl1VzBFaElsOC1PNUtLVWlWQlV6ZFhmMkJwVExNWjd1RnViQ0tNTWxSYmVOYmlPeE84Q204QU56Y1ZrQ3JlUjRTbjZ6eWQ5VWZKTEdVNUhLZHJrYWpVQUFBMzJJ?oc=5",
-   "published_utc": "2026-10-22T11:21:46+00:00",
-   "title_original": "한은, 기준금리 동결… 경남 부동산시장 회복은 ‘글쎄’",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f5168341e57c48f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경인일보",
-   "title_en": "Bank of Korea Monetary Policy Committee decides to freeze base interest rate at 3.0%",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCR21ZZERsRF9SQmdibUhCWHdKNHd0ODhyUEc4SzhPb2hGQWRYUEJHR0JhSFl2Zkg0bURyQWYtWHdmOVNaa21zcnhlNTdIekMwWWc?oc=5",
-   "published_utc": "2026-10-22T11:18:49+00:00",
-   "title_original": "한국은행 금융통화위원회 기준금리 3.0%로 동결 결정",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "36087276f9e1648a"
   },
   {
    "source_id": "manual_ia",
