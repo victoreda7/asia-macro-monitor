@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T00:55:35.106159+00:00
+Última coleta: 2026-11-17T01:06:10.697221+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
   🇨🇳 China          874
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  787
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  786
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
   - [japan] Interest Rate (November 16 2026)
   - [korea] Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk
   - [taiwan] UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung plans to build satellite chips at Texas fab for SpaceX: report
   - [china] China Resources Power Posts October Net Generation Of Subsidiary Power Plants Up 20.9% To 20.1 MLN MWh
   - [japan] Japanese Yen Offers Best Risk-Reward — Market Talk
-  - [japan] Yomiuri: JIC Expects Capital Gain of Over 900 Billion Yen from Sale of JSR Shares to Mitsui Chemicals
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T00:55:35+00:00",
+      "published_utc": "2026-11-17T01:06:10+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
