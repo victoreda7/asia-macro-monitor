@@ -7,26 +7,32 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T04:34:59.114346+00:00
+Última coleta: 2026-11-17T04:54:22.941098+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1039
-  🇨🇳 China          885
-  🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  771
+  🇯🇵 Japão          1042
+  🇨🇳 China          887
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [china] New rules for beauty festival before Sichuan-Xi meeting! Restricting the export of chips to overseas data cent
   - [china] Chinese firms turn to US AI models for training as export restrictions tighten: Reuters
+  - [taiwan] Daxin aims for semiconductor materials to exceed half of revenue by 2030
+  - [japan] Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of ma
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi ``negotiates to gain understanding'' of co
+  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
+  - [japan] Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes
   - [japan] Government, Bank of Japan to grasp loan information of Shinkin Banks (Kyodo News)
   - [china] AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China
-  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
+  - [china] China AI Highflier Crashes 85% as Chip Fears Hit Model Makers
   - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
   - [china] China, Canada Expand Tariff Relief in Deepening Trade Thaw
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
   - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
+  - [japan] BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News
   - [japan] BOJ board member calls for 'nimble' monetary policy
   - [japan] [Today's Oha Biz Tuesday, November 17th] Develop semiconductor design talent
   - [china] US moves to curb China's remote access to AI chips after Nvidia scandal
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk
   - [taiwan] UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners
   - [japan] A weak yen causes prices to rise and consumption to shrink...Japanese economy has negative growth for the firs
-  - [japan] Dollar's Bias Vs. Yen Looks Increasingly Bullish, Charts Show — Market Talk
-  - [japan] The trick of a subscription service that tricks your brain into thinking "If it's less than 10,000 yen per mon
-  - [china] China resumes storing crude oil, giving it fuel export options: Russell
-  - [china] U.S. Department of Commerce launches new rules to prevent detouring of advanced semiconductors to China and ot
-  - [korea] The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.
-  - [korea] The possibility of the Bank of Korea's base interest rate increasing from 3.00 to 3.25% this month increases.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T04:34:59+00:00",
+      "published_utc": "2026-11-17T04:54:23+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
