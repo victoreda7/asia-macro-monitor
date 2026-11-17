@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T10:02:55.061852+00:00
+Última coleta: 2026-11-17T10:12:44.847568+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
-  🇨🇳 China          898
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  763
+  🇨🇳 China          899
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
   - [korea] Samsung and Apple near long-term DRAM supply agreement
   - [china] Shanghai Runda Medical Technology Plans Bond Issuance
   - [japan] House of Councilors Special Committee Confirms Second Question Asked for Prime Minister Takaichi's Attendance 
@@ -31,10 +32,12 @@ Total: 3000 manchetes
   - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US confirms investigation into Megaspeed for alleged diversion of chips to China
+  - [taiwan] AI Server Tracker: AI upgrades spark structural shift across Taiwan's PCB supply chain amid rising material co
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] China stocks dip as US chip curbs weigh sentiment, internet majors slide
   - [korea] Although the local stock market is sluggish due to weak semiconductor stocks, Celltrion has risen ne..
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
+  - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
   - [taiwan] AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders
   - [korea] [Exclusive] 1 Trillion Won Investment in Rare Earth Supply Chain... POSCO International Eyed for National Grow
   - [china] New wave of insolvency in China's real estate sector causes credit risk to resurface
@@ -50,13 +53,10 @@ Total: 3000 manchetes
   - [china] Nvidia warns chip buyers about legal risks related to access to AI in China, according to CNBC report
   - [korea] “Key Players in Accelerating the $1 Trillion Export Milestone”... World Class Products Expand to 1,100 Compani
   - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
-  - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
   - [china] Secondhand Home Prices Rise in Fewer Major Chinese Cities
   - [korea] Kospi Falls for Fourth Straight Session; Chip, Defense Stocks Retreat
   - [korea] S. Korea set to achieve US$1 trillion export milestone for 1st time
   - [taiwan] Taiwan to subsidize employers who let parents work fewer hours
-  - [china] How far will nuclear weapons reduction go at the US-China-Russia summit meeting? The twists and turns of the "
-  - [korea] Anthropic IPO tests next leg of rally in Samsung, SK hynix
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T10:02:55+00:00",
+      "published_utc": "2026-11-17T10:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
