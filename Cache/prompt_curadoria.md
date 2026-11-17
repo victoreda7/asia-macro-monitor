@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T03:05:22.509521+00:00
+Última coleta: 2026-11-17T03:16:08.409557+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
   🇨🇳 China          880
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  779
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  778
 
 ## O que já está no feed (não repita)
 
   - [japan] [Today's Oha Biz Tuesday, November 17th] Develop semiconductor design talent
   - [china] US moves to curb China's remote access to AI chips after Nvidia scandal
+  - [taiwan] TSMC 3nm enters HBM as NVHBM reshapes base-die competition
   - [korea] P&T Link, a subsidiary of M83 and specializing in server and artificial intelligence (AI) infras..
   - [japan] Japan Data Preview: Forecasters See Another Month of Strong Gains for Exports, Imports in October
   - [korea] Samsung, SK hynix spend W88tr on capex as cash holdings soar
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] A $1 Billion Reason SK Hynix Stock Is Falling Today
   - [china] China developer Huafa's debt woes show resurgence of credit risk
   - [china] Nvidia China Trouble Could Spill Over to These AI Chip Stocks
-  - [taiwan] Tiger Global Management Cuts Share Stake In Meta, TSMC, GE Vernova
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T03:05:22+00:00",
+      "published_utc": "2026-11-17T03:16:08+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
