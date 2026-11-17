@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T23:16:33.151012+00:00
+Última coleta: 2026-11-17T23:22:44.822235+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1021
+  🇯🇵 Japão          1020
   🇨🇳 China          908
-  🇹🇼 Taiwan         312
+  🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government bonds for individuals Adjusted by forgoing tax benefits
   - [korea] Samsung chip testing supplier Micronics Japan poised to ramp up capacity
+  - [korea] The economic indicators are improving, but why are we struggling to make ends meet? The paradox of 3.9% growth
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 139% Upside
   - [korea] 6% of main dam was breached... Bank of Korea’s ‘dilemma’ amid price and exchange rate pressures
   - [japan] Taijyu Life Eliminates the negative spread; life insurance operations continue to improve in a world with inte
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Apple nears a rare long-term DRAM supply deal with Samsung Electronics: report
   - [korea] Micron, Sandisk, SK Hynix in focus as GF Securities cuts NAND price forecast, sees glut
   - [china] Nvidia sets up board committee to oversee national security, export control risks amid China scrutiny
-  - [china] Forvia Hella Wins Three Series-Production Radar Orders From Leading Chinese Car Manufacturers
-  - [japan] Yen Expected to Outperform in 2027, BofA Survey Says — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T23:16:33+00:00",
+      "published_utc": "2026-11-17T23:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
