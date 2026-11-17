@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-17T14:42:43.316292+00:00",
- "collected_at_utc": "2026-11-17T14:42:43.316292+00:00",
+ "generated_at_utc": "2026-11-17T14:52:58.861124+00:00",
+ "collected_at_utc": "2026-11-17T14:52:58.861124+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 311,
   "korea": 762
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 33.6,
  "sources": [
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T14:23:40+00:00"
+   "newest": "2026-11-17T14:45:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T14:18:48+00:00"
+   "newest": "2026-11-17T14:42:50+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:39:12+00:00"
+   "newest": "2026-11-09T08:56:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -211,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T11:43:53+00:00"
+   "newest": "2026-11-17T13:11:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:00:22+00:00"
+   "newest": "2026-11-17T08:00:10+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T14:42:21+00:00"
+   "newest": "2026-11-17T14:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -332,17 +340,11 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-17T08:43:40+00:00"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 23,
-   "error": "",
-   "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_kr_bok": 1
+ },
  "items": [
   {
    "source_id": "tradingview_live",
@@ -383,7 +385,7 @@
    "source_name": "NHK 経済",
    "title_en": "China's Ministry of Foreign Affairs opposes new U.S. rules for exporting advanced semiconductors",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de77425",
-   "published_utc": "2026-11-17T13:42:47+00:00",
+   "published_utc": "2026-11-17T13:42:00+00:00",
    "title_original": "中国外務省 米の先端半導体輸出新規則に反発",
    "region": "china",
    "topics": [
@@ -3033,8 +3035,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3049,7 +3051,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -5123,8 +5125,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5138,7 +5140,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6889,8 +6891,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -6904,7 +6906,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
