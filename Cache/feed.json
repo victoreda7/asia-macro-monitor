@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-17T19:22:49.538318+00:00",
- "collected_at_utc": "2026-11-17T19:22:49.538318+00:00",
+ "generated_at_utc": "2026-11-17T19:32:53.909409+00:00",
+ "collected_at_utc": "2026-11-17T19:32:53.909409+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,24 @@
   "taiwan": 311,
   "korea": 762
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 33.4,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -174,22 +190,6 @@
    "newest": "2026-11-16T16:11:34+00:00"
   },
   {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-18T01:36:02+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-17T23:34:45+09:00"
-  },
-  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -342,7 +342,10 @@
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "nhk_politics": 1,
+  "nhk_economy": 1
+ },
  "items": [
   {
    "source_id": "tradingview_live",
