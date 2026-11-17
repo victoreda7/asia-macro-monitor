@@ -1,34 +1,18 @@
 {
- "generated_at_utc": "2026-11-17T03:45:48.039709+00:00",
- "collected_at_utc": "2026-11-17T03:45:48.039709+00:00",
+ "generated_at_utc": "2026-11-17T04:05:11.748152+00:00",
+ "collected_at_utc": "2026-11-17T04:05:11.748152+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1039,
-  "china": 882,
+  "china": 883,
   "taiwan": 305,
-  "korea": 774
+  "korea": 773
  },
- "elapsed_s": 205.6,
+ "elapsed_s": 155.3,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -43,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T23:27:28+00:00"
+   "newest": "2026-11-17T03:28:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:00:00+00:00"
+   "newest": "2026-11-17T03:49:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -91,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T03:19:51+00:00"
+   "newest": "2026-11-17T03:54:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T01:48:49+00:00"
+   "newest": "2026-11-17T03:54:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -190,6 +174,22 @@
    "newest": "2026-11-17T03:10:34+00:00"
   },
   {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-17T12:57:21+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-17T12:17:37+09:00"
+  },
+  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:26:00+00:00"
+   "newest": "2026-11-16T22:06:04+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T03:43:00+00:00"
+   "newest": "2026-11-17T04:01:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T06:27:48+00:00"
+   "newest": "2026-11-16T00:29:32+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -342,11 +342,25 @@
    "newest": "2026-11-16T23:36:47+00:00"
   }
  ],
- "falhas_seguidas": {
-  "nhk_politics": 1,
-  "nhk_economy": 1
- },
+ "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
+   "published_utc": "2026-11-17T03:48:24+00:00",
+   "title_original": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a3dcc46c636d640"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -364,6 +378,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d8eab47b342db47e"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVjUlBfX1ZxOFRWZ243YkxEbTVJSm1BSkNJLUpCTzdrZlAtU3ktZzdmekJCZVhVc1lubi0tbklQX2wwTEh6WU8wUkI2M05Ecy1OTWJUNk5UVTV6bjltOWZkaXF3UHpJazUwaVlmTGljMFZBUGd3bFliN21xRWItdWhHeHVvSncxLXQ4SHZael9ySVF4QmlQOTNIQTZWTWl2NGdwaTA4eFhDUm5LVzZQc2JhZmFJQQ?oc=5",
+   "published_utc": "2026-11-17T03:28:00+00:00",
+   "title_original": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e2d0c22d2ea7d1c"
   },
   {
    "source_id": "tradingview_live",
@@ -762,23 +793,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8cedb7bbdb5f40e2"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVjUlBfX1ZxOFRWZ243YkxEbTVJSm1BSkNJLUpCTzdrZlAtU3ktZzdmekJCZVhVc1lubi0tbklQX2wwTEh6WU8wUkI2M05Ecy1OTWJUNk5UVTV6bjltOWZkaXF3UHpJazUwaVlmTGljMFZBUGd3bFliN21xRWItdWhHeHVvSncxLXQ4SHZael9ySVF4QmlQOTNIQTZWTWl2NGdwaTA4eFhDUm5LVzZQc2JhZmFJQQ?oc=5",
-   "published_utc": "2026-11-17T00:22:00+00:00",
-   "title_original": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e2d0c22d2ea7d1c"
   },
   {
    "source_id": "tradingview_live",
@@ -6150,6 +6164,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVzN6Y3JsQ05RNWJYWGxRTDVVOGtxVU82ZzZIZTBYTzVPUUFoQ3NkcEhOUlQ3YVFfZk91OERIWkNETWdPdm5GVV9fVU52bTRyT0hnWVZxRksza3hXUUE?oc=5",
+   "published_utc": "2026-11-13T09:18:23+00:00",
+   "title_original": "央行：11月16日将开展2000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a464ac6a3e620814"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "Central Bank: The stock of social financing at the end of October 2026 was 469.16 trillion yuan, a year-on-year increase of 7.2%_Rolling News_Finance",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMHBFYURza3RwQzBWU3U4U2NKVjFxUWExeDlqSFBDREkxS3F0c01kUDZxa3VUSVVmUkJZNU8yRHdHSEF0Z3NXeUctVjEyUW5xNS1GcldiQTFZZ2pqaWZsVQ?oc=5",
@@ -6165,24 +6197,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c2c4059a194b77c6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzktVzBNV0NuZ0V2ZHZZSW5yVmhXaWlBRzMzWnB4OUIxVXlVcVNhU09hU2R1SmZzWmJYRW9uWWRGQzZsQ0djTDMxdXNxM2EtbVNiWXJhalljdkc5QlZBYnA4WVJfQ3M?oc=5",
-   "published_utc": "2026-11-13T09:04:17+00:00",
-   "title_original": "央行：11月16日将开展2000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "801cd983ba888292"
   },
   {
    "source_id": "tradingview_live",
@@ -8684,7 +8698,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -8698,7 +8712,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5ffbd3cd068ab02a"
+   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "boj_whatsnew",
@@ -51885,23 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b67bc89dd70d95c3"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경기신문",
-   "title_en": "The Bank of Korea freezes the base interest rate at 3.00% per annum... Maintain the austerity stance",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FdGhfaFc4dmMwVGJtbFJBNG9MTzNjakFvSjRQY3ljdjZWTnU2cFB2YzNIb0pWb25uaG95N05NRjZzZS1FWmh5Yy1ESjZ4UkhUSEp0Z2ZEOTRxMzRETEZxbm5B?oc=5",
-   "published_utc": "2026-10-22T07:55:25+00:00",
-   "title_original": "한은, 기준금리 연 3.00% 동결…긴축 기조는 유지",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da1d0a173e5bf694"
   },
   {
    "source_id": "manual_ia",

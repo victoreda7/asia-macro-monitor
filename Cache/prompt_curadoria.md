@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T03:45:48.039709+00:00
+Última coleta: 2026-11-17T04:05:11.748152+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1039
-  🇨🇳 China          882
+  🇨🇳 China          883
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  774
+  🇰🇷 Coreia do Sul  773
 
 ## O que já está no feed (não repita)
 
+  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
+  - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
   - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
   - [japan] BOJ board member calls for 'nimble' monetary policy
@@ -41,7 +43,6 @@ Total: 3000 manchetes
   - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
   - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
   - [japan] Interest Rate (November 16 2026)
-  - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [korea] Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk
   - [taiwan] UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners
   - [japan] A weak yen causes prices to rise and consumption to shrink...Japanese economy has negative growth for the firs
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US issues new chip rule as China's AI companies fear Nvidia scandal fallout
   - [taiwan] Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC
-  - [japan] The famous soba, which has been priced at 555 yen for 40 years, is suddenly priced at 1,110 yen...The reason w
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T03:45:48+00:00",
+      "published_utc": "2026-11-17T04:05:11+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
