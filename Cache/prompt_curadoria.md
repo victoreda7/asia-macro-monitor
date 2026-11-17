@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T22:02:52.549375+00:00
+Última coleta: 2026-11-17T22:12:49.112697+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          907
+  🇯🇵 Japão          1022
+  🇨🇳 China          908
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  760
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [japan] "Exciting and moving" "Beautiful culture" Why "Gen Z" who don't know about the Showa era are obsessed with "Hi
   - [japan] Big headwind from food tax cuts, serious impact feared by restaurant group leaders... Why they are seeking nat
   - [japan] Consumption tax cut: Ruling party "accepts opposition party's insistence on passing through deliberations"
+  - [china] China Is Getting Inflation in All the Wrong Places
   - [japan] ASICS: Scale to JPY 1.5 trillion by 2029 while targeting 50% ROE
   - [china] Economists Call for More Stimulus to Bolster Domestic Demand
   - [japan] Japan to bolster defense ties with Chile, paving way for exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Hella - Forvia Hella Wins Series Production Orders For Radar From Leading Chinese Automotive Manufacturer
   - [taiwan] Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business
   - [china] Walt Disney: Expect Growth in Global Guests to Continue in 1Q of Fiscal 2027, Despite Consumer Softness in Hon
-  - [china] Walt Disney: Attendance at Hong Kong and Shanghai Parks Worsened During 4Q, and Expect This Pressure to Contin
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T22:02:52+00:00",
+      "published_utc": "2026-11-17T22:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
