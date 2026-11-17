@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T01:35:37.301831+00:00
+Última coleta: 2026-11-17T01:46:04.573202+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          877
+  🇯🇵 Japão          1036
+  🇨🇳 China          879
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  785
+  🇰🇷 Coreia do Sul  781
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY714 BLN VIA O/N REVERSE REPO TUES
+  - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
+  - [japan] JGB yields climb as buyers hold back on long-dated debt
+  - [china] On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7132 TUES VS 6.7141
   - [japan] Fed Policy, Weak Yen Hold Key for BOJ Rate Hikes — Market Talk
+  - [japan] Bank of Japan policy management, comprehensive judgment and understanding of the economy and prices, including
   - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
   - [japan] Interest Rate (November 16 2026)
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
@@ -33,7 +38,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.
   - [japan] SoftBank, Rakuten push Japan retail bond issuance to record high
   - [taiwan] 3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves
-  - [japan] Japan's economy unexpectedly shrinks as inflation squeezes households
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US issues new chip rule as China's AI companies fear Nvidia scandal fallout
   - [taiwan] Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam
   - [china] US blocks China's indirect access to American AI chips
   - [china] No chips for you: US issues rule to stymie China's access to AI GPUs via data centers
-  - [japan] Nomura Real Estate to acquire 8 MW of energy storage in Japan
-  - [korea] Micron, SK hynix, and Sandisk shares plummet, what you need to know
-  - [korea] Why is SK hynix stock sliding today?
-  - [japan] Yen Could Strengthen Versus Dollar by Year-End — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T01:35:37+00:00",
+      "published_utc": "2026-11-17T01:46:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
