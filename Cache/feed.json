@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T13:42:42.950154+00:00",
- "collected_at_utc": "2026-11-17T13:42:42.950154+00:00",
+ "generated_at_utc": "2026-11-17T13:54:20.469559+00:00",
+ "collected_at_utc": "2026-11-17T13:54:20.469559+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1028,
-  "china": 900,
+  "japan": 1027,
+  "china": 901,
   "taiwan": 310,
   "korea": 762
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 57.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T13:25:30+00:00"
+   "newest": "2026-11-17T13:44:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T13:24:26+00:00"
+   "newest": "2026-11-17T13:42:45+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T12:18:43+00:00"
+   "newest": "2026-11-17T13:37:22+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T22:33:28+09:00"
+   "newest": "2026-11-17T22:42:47+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:32:00+00:00"
+   "newest": "2026-11-17T01:35:25+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T13:42:16+00:00"
+   "newest": "2026-11-17T13:53:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T12:45:00+00:00"
+   "newest": "2026-11-17T12:59:38+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,13 +337,48 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Rises Amid Fx Intervention Risks",
+   "url": "https://www.tradingview.com/news/dpa_afx:e21eab227b3da:0-yen-rises-amid-fx-intervention-risks/",
+   "published_utc": "2026-11-17T13:49:02+00:00",
+   "title_original": "Yen Rises Amid Fx Intervention Risks",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "32e186416a0f64ce"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "China's Ministry of Foreign Affairs opposes new U.S. rules for exporting advanced semiconductors",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77425",
+   "published_utc": "2026-11-17T13:42:47+00:00",
+   "title_original": "中国外務省 米の先端半導体輸出新規則に反発",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "819da848ba232bb9"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -599,23 +634,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bcd42a594e71f079"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Rises Amid Fx Intervention Risks",
-   "url": "https://www.tradingview.com/news/dpa_afx:2772612f9b812:0-yen-rises-amid-fx-intervention-risks/",
-   "published_utc": "2026-11-17T11:31:19+00:00",
-   "title_original": "Yen Rises Amid Fx Intervention Risks",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0b428d92e577bbb8"
   },
   {
    "source_id": "tradingview_live",
@@ -3015,8 +3033,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3031,7 +3049,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -5105,8 +5123,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5120,7 +5138,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5468,7 +5486,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -5479,7 +5497,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -6871,8 +6889,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -6886,7 +6904,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f9cf2e60052985"
+   "id": "cedd4f2b06dd3c91"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51888,23 +51906,6 @@
    "live_wire": true,
    "manual": false,
    "id": "43b5ec0396e4cbe3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG",
-   "url": "https://www.tradingview.com/news/macenews:0fd475973094b:0-japan-sept-cpi-energy-prices-0-6-y-y-0-04-point-vs-0-7-0-05-pt-in-aug/",
-   "published_utc": "2026-10-22T23:41:00+00:00",
-   "title_original": "JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e6258ebd725fee7c"
   },
   {
    "source_id": "manual_ia",

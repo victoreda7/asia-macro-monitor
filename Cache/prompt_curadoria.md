@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T13:42:42.950154+00:00
+Última coleta: 2026-11-17T13:54:20.469559+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
-  🇨🇳 China          900
+  🇯🇵 Japão          1027
+  🇨🇳 China          901
   🇹🇼 Taiwan         310
   🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Rises Amid Fx Intervention Risks
+  - [china] China's Ministry of Foreign Affairs opposes new U.S. rules for exporting advanced semiconductors
   - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
   - [china] Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17
   - [korea] South Korean grape exports jump 85% as Taiwan leads sales
@@ -32,7 +34,6 @@ Total: 3000 manchetes
   - [taiwan] Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business
   - [china] Walt Disney: Expect Growth in Global Guests to Continue in 1Q of Fiscal 2027, Despite Consumer Softness in Hon
   - [china] Walt Disney: Attendance at Hong Kong and Shanghai Parks Worsened During 4Q, and Expect This Pressure to Contin
-  - [japan] Yen Rises Amid Fx Intervention Risks
   - [china] Nvidia Sends Stark Warning to Customers Over Chinese Access to Its AI Chips
   - [taiwan] Yushan Gold: Taiwan’s central bank has the conditions to raise interest rates by the end of the year and estim
   - [japan] Yen Rises Against Majors
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Local Finance Council “Take concrete steps through tax reform to correct uneven distribution of taxes”
   - [taiwan] New rules for US exports of AI chips to prevent transshipment Quanta and Wistron’s assessment will not be affe
   - [korea] Who sets the base interest rate and how?: A summary of the Monetary Policy Committee
-  - [china] China will adopt "necessary measures" after new US restrictions on chip exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T13:42:43+00:00",
+      "published_utc": "2026-11-17T13:54:20+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
