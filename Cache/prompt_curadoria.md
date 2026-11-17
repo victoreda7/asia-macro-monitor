@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T11:03:30.301729+00:00
+Última coleta: 2026-11-17T11:04:21.409918+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
   🇨🇳 China          900
-  🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  759
+  🇹🇼 Taiwan         308
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [taiwan] Foxconn says it will acquire Sony Semiconductor Solutions' automotive camera module business
   - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
   - [taiwan] The United States strictly controls the export of advanced AI chips: some orders may be delayed | Sankei
+  - [taiwan] Taiex plunges amid AI concerns, suspected gov't intervention
   - [korea] Samsung and Apple near long-term DRAM supply agreement
   - [china] Shanghai Runda Medical Technology Plans Bond Issuance
   - [japan] House of Councilors Special Committee Confirms Second Question Asked for Prime Minister Takaichi's Attendance 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Key facts: Apollo Go; Kunlunxin Listing; Cloud Cash Flow 2.8B Yuan
   - [japan] Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of ma
   - [china] U.S. Chip Curbs Pose Double-Edged Sword for China AI Industry — Market Talk
-  - [china] Nvidia to halt chip sales to data centers renting over half to China - report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T11:03:30+00:00",
+      "published_utc": "2026-11-17T11:04:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

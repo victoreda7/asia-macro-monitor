@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-17T11:03:30.301729+00:00",
- "collected_at_utc": "2026-11-17T11:03:30.301729+00:00",
+ "generated_at_utc": "2026-11-17T11:04:21.409918+00:00",
+ "collected_at_utc": "2026-11-17T11:04:21.409918+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1034,
   "china": 900,
-  "taiwan": 307,
-  "korea": 759
+  "taiwan": 308,
+  "korea": 758
  },
- "elapsed_s": 143.0,
+ "elapsed_s": 28.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 51,
+   "count": 55,
    "error": "",
-   "newest": "2026-11-17T15:38:06+08:00"
+   "newest": "2026-11-17T18:49:18+08:00"
   },
   {
    "source_id": "investing_live",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T19:43:11+09:00"
+   "newest": "2026-11-17T20:01:29+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T11:01:40+00:00"
+   "newest": "2026-11-17T11:03:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-11-17T09:30:00+00:00"
   }
@@ -532,6 +532,23 @@
    "live_wire": false,
    "manual": false,
    "id": "df48d0391e28618c"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiex plunges amid AI concerns, suspected gov't intervention",
+   "url": "https://focustaiwan.tw/business/202611170018",
+   "published_utc": "2026-11-17T09:58:12+00:00",
+   "title_original": "Taiex plunges amid AI concerns, suspected gov't intervention",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67a4f71fbf039f4c"
   },
   {
    "source_id": "investing_live",
@@ -2866,8 +2883,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -2882,7 +2899,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -4956,8 +4973,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -4971,7 +4988,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6448,6 +6465,24 @@
    "id": "d2134ade3049a4b6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -6722,8 +6757,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -6737,7 +6772,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8184,24 +8219,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -10694,6 +10711,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "연합인포맥스",
+   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
+   "published_utc": "2026-11-12T02:25:40+00:00",
+   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5913d7dce403b065"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "뉴닉",
    "title_en": "US Federal Reserve's December interest rate hike forecast: Summary of the possibility of a 'big step' and the impact on the Korean economy 💸",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
@@ -11125,23 +11159,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b25e4ff8f4d49ed6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
-   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
-   "published_utc": "2026-11-12T00:25:39+00:00",
-   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3ecde5047aee35c"
   },
   {
    "source_id": "nhk_economy",
@@ -51894,23 +51911,6 @@
    "live_wire": true,
    "manual": false,
    "id": "43c48e4061397976"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022014023:0-sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm/",
-   "published_utc": "2026-10-22T23:36:00+00:00",
-   "title_original": "SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0a6515a0ea6717a8"
   },
   {
    "source_id": "manual_ia",
