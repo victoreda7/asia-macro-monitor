@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-17T04:15:04.719832+00:00",
- "collected_at_utc": "2026-11-17T04:15:04.719832+00:00",
+ "generated_at_utc": "2026-11-17T04:23:56.317154+00:00",
+ "collected_at_utc": "2026-11-17T04:23:56.317154+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 305,
   "korea": 773
  },
- "elapsed_s": 160.2,
+ "elapsed_s": 102.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T03:54:41+00:00"
+   "newest": "2026-11-17T04:12:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T14:48:06+00:00"
+   "newest": "2026-11-17T02:04:46+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T14:31:43+00:00"
+   "newest": "2026-11-16T14:08:14+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T16:00:00+00:00"
+   "newest": "2026-11-17T03:34:43+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T02:19:12+00:00"
+   "newest": "2026-11-17T04:08:06+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T06:27:48+00:00"
+   "newest": "2026-11-16T00:29:32+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -337,13 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-16T23:36:47+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Government, Bank of Japan to grasp loan information of Shinkin Banks (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYmdvX2pKcldxQ1JQcHUzMF95RmNsUG9McXZhTVJ5cDBCMUMxN2FfTFFnVXpBUTR4YzdOTURwWndILUhzNVNvYW0xVlZ0V2ZiaXRVeW5GSGZwMXFKVVYzMFUyV1IzTktscm5NMU90d043VE1lSVhZVHR6NnpaV2s?oc=5",
+   "published_utc": "2026-11-17T04:08:06+00:00",
+   "title_original": "政府と日銀、信金信組の融資情報把握へ（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f3d092d9dc06fc94"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -2744,6 +2761,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a56940549e597549"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "센머니",
+   "title_en": "Bank of Korea weighs additional interest rate hike in November… U.S. tightening and increasing price pressures",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01U1hqMlhma3NXQWVSLUFKcUJpQ25CVFZvYTZyMjNsTl9wc1pjWnVOb2JaWC1QLW9paXdNX1NNM2YyVk80bk9xb01fRWtWYkpfYzhXN2ZmT0YzUWQzbmdWNVZSRVJXU1Q0ekoyUQ?oc=5",
+   "published_utc": "2026-11-16T03:40:00+00:00",
+   "title_original": "한은, 11월 추가 금리인상 무게…美 긴축·물가 압박 가중",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64b7e449495d5e7a"
   },
   {
    "source_id": "mof_jp",
@@ -51864,41 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3a68ed27b991b11d"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan to consider re-introducing gas and electricity subsidies, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUZjRjAxVEhHb0ZCdWRJelpxNWMtMXNfX0pxU3BtUFBkZ0cxU3lWQUliTXJMZXZfbUdKa0dpNGZicC1lcUtEZUs2LThZLWJpZVRTQzFOaHllODRiX1lMQnFGaHdjTm1Xa2lsZk9WV3dBOUl0RGJONkRTS2lNX3N2MjVjQS1CWDAxNC1iekQ2eVppbXNkeUZjbDh3aTNhZGI4aThDb3hxWmZTS2J5Vk1yWjFiT3Z3WE5OZE5B?oc=5",
-   "published_utc": "2026-10-22T08:16:09+00:00",
-   "title_original": "Japan to consider re-introducing gas and electricity subsidies, sources say",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c1a4015378c1905b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국뉴스",
-   "title_en": "Bank of Korea base interest rate frozen at 3.00%... opens possibility of further increase due to price instability",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WeWdUazdFektxUGJHUDNwRnlFbWFDMFdONDZKblpDZC1jbkZhQXFkak81Zlp5eTROOFcxZVk5YkJoRnRBcHk0M0JvWVMxbk85SVFIek1ubW1uQVJ2Yll5ZFZQU05iRVHSAWtBVV95cUxQTUJUbVlYZUh4akJoQkFlTmNqNWlGSElndVZIRVBLT3ZOc04wa1pXd21MSThqU3huU3ltN29JOW9kclVweWNxMERmUXpDTTB0YjBwUy1nRzQtMngwelNHdENhaUtkc1A3dUxLdw?oc=5",
-   "published_utc": "2026-10-22T08:03:00+00:00",
-   "title_original": "한국은행 기준금리 3.00% 동결... 물가 불안에 추가 인상 가능성 열어",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "73907c84cb893390"
   },
   {
    "source_id": "manual_ia",
