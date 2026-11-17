@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T16:12:53.063479+00:00",
- "collected_at_utc": "2026-11-17T16:12:53.063479+00:00",
+ "generated_at_utc": "2026-11-17T16:22:51.774147+00:00",
+ "collected_at_utc": "2026-11-17T16:22:51.774147+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1026,
-  "china": 902,
+  "japan": 1025,
+  "china": 903,
   "taiwan": 311,
   "korea": 761
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:21:38+00:00"
+   "newest": "2026-11-17T13:58:37+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:56:00+00:00"
+   "newest": "2026-11-17T16:11:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T15:55:04+00:00"
+   "newest": "2026-11-17T16:14:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T15:50:00+00:00"
+   "newest": "2026-11-17T16:07:09+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T16:02:13+00:00"
+   "newest": "2026-11-17T16:21:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T08:00:01+00:00"
+   "newest": "2026-11-16T23:44:18+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Nvidia forms export-control panel as Huang affair puts China ties in focus",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154",
+   "published_utc": "2026-11-17T16:12:47+00:00",
+   "title_original": "Nvidia forms export-control panel as Huang affair puts China ties in focus",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b385306ea4255164"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Japan-Korea summit meeting Continues shuttle diplomacy President Lee’s intention to visit Japan in January next year",
@@ -379,23 +396,6 @@
    "id": "5c7ee6ec477890f2"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Nvidia forms export-control panel as Huang affair puts China ties in focus",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-   "published_utc": "2026-11-17T14:36:17+00:00",
-   "title_original": "Nvidia forms export-control panel as Huang affair puts China ties in focus",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7fa5632c945b5f84"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "Hon Hai agrees to buy Sony Semiconductor's automotive camera unit for $45.5M",
@@ -411,6 +411,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1612ca8b3d096d02"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVh1bVJsakhEQV9mX0VBXzlxZW92aXRsSjdHaWlHeU0yZzBwczVlcmRnMXlyRkh5S3E2blFlNTJRWGtUQ0V4b2h0SmUtV0VHZXhzQlBDZzBmS0wxWC04bTV1MHJfckFURjNTRnZOTC1rM2tIQW5hUHdCaGFPTEd5LTZmZWMyZHdSMjN3cTV6dXd0V3cyQjFCVW5aTXBuTTB4Q0h3ZkdMTy1pT3BYR19NcQ?oc=5",
+   "published_utc": "2026-11-17T13:58:37+00:00",
+   "title_original": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9018feb321ac6f7"
   },
   {
    "source_id": "tradingview_live",
@@ -51888,24 +51905,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0d58c51b72fa420d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46724Q:0-japan-s-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance/",
-   "published_utc": "2026-10-22T23:43:53+00:00",
-   "title_original": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "46a450a39fd64c0c"
   },
   {
    "source_id": "manual_ia",

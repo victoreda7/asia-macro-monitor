@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T16:12:53.063479+00:00
+Última coleta: 2026-11-17T16:22:51.774147+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
-  🇨🇳 China          902
+  🇯🇵 Japão          1025
+  🇨🇳 China          903
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia forms export-control panel as Huang affair puts China ties in focus
   - [japan] Japan-Korea summit meeting Continues shuttle diplomacy President Lee’s intention to visit Japan in January nex
   - [china] Dutch restrictions on chips create friction between EU and China, diplomat says
-  - [china] Nvidia forms export-control panel as Huang affair puts China ties in focus
   - [taiwan] Hon Hai agrees to buy Sony Semiconductor's automotive camera unit for $45.5M
+  - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Yen Rises Amid Fx Intervention Risks
   - [china] China's Ministry of Foreign Affairs opposes new U.S. rules for exporting advanced semiconductors
   - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung and Apple near long-term DRAM supply agreement
   - [china] Shanghai Runda Medical Technology Plans Bond Issuance
   - [japan] House of Councilors Special Committee Confirms Second Question Asked for Prime Minister Takaichi's Attendance 
-  - [japan] Yomiuri: Asics Aims for 1.5 Trillion Yen in Net Sales for 2029
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T16:12:53+00:00",
+      "published_utc": "2026-11-17T16:22:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
