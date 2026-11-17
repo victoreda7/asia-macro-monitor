@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T11:22:51.883738+00:00
+Última coleta: 2026-11-17T11:32:50.477672+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
+  🇯🇵 Japão          1029
   🇨🇳 China          901
-  🇹🇼 Taiwan         308
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Yushan Gold: Taiwan’s central bank has the conditions to raise interest rates by the end of the year and estim
   - [china] Jensen Huang’s Views On China Chips Market Stretch Back Years
   - [japan] Yen Rises Against Majors
   - [china] Canada, China extend tariff relief measures through 2028
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea tightens university exam checks to screen for hidden cameras
   - [taiwan] The catering industry cannot withstand inflation. Five brands in Wacheng will increase their prices by about 3
   - [china] Before the Trump-Xi meeting, the US strictly controlled the export of advanced AI chips and Beijing approved e
-  - [china] Key facts: Apollo Go; Kunlunxin Listing; Cloud Cash Flow 2.8B Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T11:22:52+00:00",
+      "published_utc": "2026-11-17T11:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
