@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T02:15:43.926946+00:00",
- "collected_at_utc": "2026-11-17T02:15:43.926946+00:00",
+ "generated_at_utc": "2026-11-17T02:25:02.972284+00:00",
+ "collected_at_utc": "2026-11-17T02:25:02.972284+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1037,
-  "china": 879,
+  "japan": 1035,
+  "china": 880,
   "taiwan": 304,
-  "korea": 780
+  "korea": 781
  },
- "elapsed_s": 200.9,
+ "elapsed_s": 170.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T23:27:28+00:00"
+   "newest": "2026-11-17T01:23:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
-   "newest": "2026-11-16T11:50:00+00:00"
+   "newest": "2026-11-17T02:15:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T01:48:49+00:00"
+   "newest": "2026-11-17T02:08:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T02:09:06+00:00"
+   "newest": "2026-11-17T02:20:17+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T10:49:00+09:00"
+   "newest": "2026-11-17T11:21:08+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T08:22:00+09:00"
+   "newest": "2026-11-17T11:21:08+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:35:25+00:00"
+   "newest": "2026-11-17T01:00:37+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T02:13:00+00:00"
+   "newest": "2026-11-17T02:23:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T22:47:34+00:00"
+   "newest": "2026-11-16T19:39:57+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T02:04:07+00:00"
+   "newest": "2026-11-16T00:29:32+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-16T23:36:47+00:00"
   }
@@ -345,11 +345,28 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Samsung, SK hynix spend W88tr on capex as cash holdings soar",
+   "url": "https://www.koreaherald.com/article/10939605",
+   "published_utc": "2026-11-17T02:16:42+00:00",
+   "title_original": "Samsung, SK hynix spend W88tr on capex as cash holdings soar",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "52ccc1f0d91dd954"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
    "title_en": "S. Korea regains top spot in global OLED shipments in H1",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVF9CYlhTb01RRVJVejQzaDlkX2FJX3VQbkI2SmlmdDhMdnRkb2t2ZWhZMUFaOXZKNTVvX2hzbnIzSWtsdFVzVjVvZDJPa3N5T01GWm5FUnlFR2xqY2RGMEtBMGZJNWJUVmdyMGNMNGFzZ09peTVLOEFpVm4ySmppV1YzeUY?oc=5",
-   "published_utc": "2026-11-17T02:04:07+00:00",
+   "url": "https://www.koreaherald.com/article/10939601",
+   "published_utc": "2026-11-17T02:16:21+00:00",
    "title_original": "S. Korea regains top spot in global OLED shipments in H1",
    "region": "korea",
    "topics": [
@@ -359,7 +376,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "767705bf99580570"
+   "id": "bb340cef4d7ac9f1"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -500,6 +517,23 @@
    "id": "84d15a4c874cb2bb"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWxUMDRsSC1YRjRGZTMtV2pZZlRfQ3YycDhJaGx0S05EWnNvbXpOdmU0cUJORmZ1NXd0d0Q1WXR1Y1l2MnJlWG4zcmxlRlFmRnV0Vzc3Q3NUYUxsMzlick80RG1uOUQ0MG95dkJrazFXdV84akNPWUxSN1FZcGxqdk1NclJ5WTRUeDBXLXRMM2lyVUp2SThGckluWUdiOV96Vm1zNVA1cDBJTHdSTUZ0N0NHWkk?oc=5",
+   "published_utc": "2026-11-17T01:23:00+00:00",
+   "title_original": "China’s $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d677348f5b887d90"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan policy management, comprehensive judgment and understanding of the economy and prices, including personal consumption - Minister of Economy, Finance and Finance Jouchi (Reuters)",
@@ -518,6 +552,23 @@
    "live_wire": false,
    "manual": false,
    "id": "37572d3af279a394"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机新浪网",
+   "title_en": "The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTFWZmkybW8zaGZEbWVJcnJUTGFhMzR0YTZGLWZQbWFjcnZVcW5xQThDLVV1MWFYTmpnVTV0VGVBTk5sMEFZTUlJTl90bTE4MjkzWlFEVDd3OU1Od3paaVdXZGt0MXdYV1J2RFRWczZlaWRpYmxmRkNLNnhFclZ2bjVPdTE?oc=5",
+   "published_utc": "2026-11-17T01:00:37+00:00",
+   "title_original": "央行上调外汇存款准备金率2个百分点",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d4af3ce05ad1c52c"
   },
   {
    "source_id": "tradingview_live",
@@ -1551,8 +1602,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -1567,7 +1618,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -3589,8 +3640,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -3604,7 +3655,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3952,7 +4003,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -3963,7 +4014,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ffe9b3352be4b6"
+   "id": "009e9cb2d134935b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -5044,6 +5095,24 @@
    "id": "d2134ade3049a4b6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -5318,8 +5387,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -5333,7 +5402,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -6782,24 +6851,6 @@
    "id": "1516b591619cc878"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -7114,7 +7165,7 @@
    "source_name": "21财经",
    "title_en": "The central bank announced: Today it will launch a 364 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmoyeGszNGs0WnprcExEZExwdzA1elZiTUdQdWQzMEJqbkFrUUQwLXVUOTEzcG55ZTNBVWdhQlJveDdMUlZUMGJ2M3JubEhjRDdoNXhXQ2kySnBMM2ZaeXRwNzFEb0dQVnVuOUtaQXF2S2RJRlJXd2NRUGlWTktZMi1UZGtxZzFPbnFEaWxvbw?oc=5",
-   "published_utc": "2026-11-13T02:04:00+00:00",
+   "published_utc": "2026-11-13T02:04:52+00:00",
    "title_original": "央行公告：今日开展3640亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -26993,23 +27044,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d5672df91874c802"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "北京商报",
-   "title_en": "The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fWUZtZ0dfaURyWWp5cVI2ekdEa3FnSWEyX3ZpcXI2eEFoNFo1TmhhUzJ1X2JVY2tUcHF5YWxsbVN2Tm90Q3pwT1lVOUk4MGVTNjVxNm5MYTNHbTFxeldF?oc=5",
-   "published_utc": "2026-11-03T16:47:11+00:00",
-   "title_original": "央行上调外汇存款准备金率2个百分点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e463d0b85451e92"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51863,40 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8000ad7fa9f2232b"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Proposing the establishment of a new common platform for Japanese manga, aiming for further overseas expansion... Fiscal Council (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pamJVTWtnZ0ttOEpnckJDNG1VN0MzQlBDNUdkQ19BVzZvWW8xSXhaRG1HdE9YT0lrMGlLbkpnZk5aT0w5blZsTy1NcF85dWhwd05temIyRlFDM3VaSkhpMkltOVJ3S0Z3OEV2QmwyMTlhTmdfTUFPcWxzVVJMTTA?oc=5",
-   "published_utc": "2026-10-22T07:21:17+00:00",
-   "title_original": "日本の漫画 共通プラットフォーム新設を提案 さらなる海外展開に向け…財政審（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9fdbb1c69f277137"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Developments in Real Exports and Real Imports",
-   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
-   "published_utc": "2026-10-22T07:00:00+00:00",
-   "title_original": "Developments in Real Exports and Real Imports",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "660ca9ffa7c57e97"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T02:15:43.926946+00:00
+Última coleta: 2026-11-17T02:25:02.972284+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
-  🇨🇳 China          879
+  🇯🇵 Japão          1035
+  🇨🇳 China          880
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  780
+  🇰🇷 Coreia do Sul  781
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK hynix spend W88tr on capex as cash holdings soar
   - [korea] S. Korea regains top spot in global OLED shipments in H1
   - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of Olympics canceled (2) (JoongAng Ilbo Japane
   - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of the Olympics has been canceled (1) (JoongAn
@@ -26,7 +27,9 @@ Total: 3000 manchetes
   - [china] On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7132 TUES VS 6.7141
   - [japan] Fed Policy, Weak Yen Hold Key for BOJ Rate Hikes — Market Talk
+  - [china] China’s $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit
   - [japan] Bank of Japan policy management, comprehensive judgment and understanding of the economy and prices, including
+  - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
   - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
   - [japan] Interest Rate (November 16 2026)
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Sink 7.89% Despite 80% Margin and 100 Trillion Won Payout
   - [taiwan] TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High
   - [japan] US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba
-  - [china] Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads
-  - [japan] Teradyne Stocks Drop 6.14% as Advantest's 11% Tokyo Plunge Hits Chip Testers
-  - [japan] Japan eyes two-pronged approach to cover tax cut, growth investments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T02:15:44+00:00",
+      "published_utc": "2026-11-17T02:25:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
