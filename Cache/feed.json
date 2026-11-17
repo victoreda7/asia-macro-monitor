@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-17T09:03:09.780710+00:00",
- "collected_at_utc": "2026-11-17T09:03:09.780710+00:00",
+ "generated_at_utc": "2026-11-17T09:12:46.883252+00:00",
+ "collected_at_utc": "2026-11-17T09:12:46.883252+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 303,
   "korea": 766
  },
- "elapsed_s": 55.9,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:34:00+00:00"
+   "newest": "2026-11-17T07:32:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T06:51:09+00:00"
+   "newest": "2026-11-17T08:27:15+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 45,
+   "count": 51,
    "error": "",
-   "newest": "2026-11-17T14:21:51+08:00"
+   "newest": "2026-11-17T15:38:06+08:00"
   },
   {
    "source_id": "investing_live",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T11:11:17+00:00"
+   "newest": "2026-11-17T06:22:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T09:02:00+00:00"
+   "newest": "2026-11-17T09:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:54:29+00:00"
+   "newest": "2026-11-17T04:43:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T05:47:31+00:00"
+   "newest": "2026-11-17T08:57:09+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-17T08:44:10+00:00"
+   "newest": "2026-11-17T09:01:49+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,11 +339,29 @@
    "ok": true,
    "count": 23,
    "error": "",
-   "newest": "2026-11-17T05:35:00+00:00"
+   "newest": "2026-11-17T09:06:03+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "네이버 프리미엄콘텐츠",
+   "title_en": "Who sets the base interest rate and how?: A summary of the Monetary Policy Committee",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3FLSEJmTlgyM20yQVNSNzRvLUhMOGFFTEE4dEl2enh1WUVXc1dNNWhSUU5zckZHRnFNWFNuQmZaRGtHYk5sZkNnY2lXQzhVcG5FcnJRakdBRmxtYUdrQ1F0Y0xzZVR6eGlQRjQwbzVqUURiNHhBWmJOdTRGTUlUYXBfZlVDTkF4Qi1jTTFqSDRjV3hwV0tjcElOSQ?oc=5",
+   "published_utc": "2026-11-17T09:06:03+00:00",
+   "title_original": "기준금리는 누가, 어떻게 정할까: 금융통화위원회 한 장 정리",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9a5d5a06639f2b0c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -394,6 +412,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3a3dcc46c636d640"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlk3eHJvSUNkVlN2YS1QNWZhcEhaYVZoWWdNeWtHTlc5eWFVWUhTNEJuZ0loeDdoa19QUlF4bjhzd0pEOXpHNGNoTm14X0NxZlRiNmVPbGRGUm84cnlpZDNZQTNzOXhrV1ExTC1kT203ZkZEUTJ5cTVqU01EOS1IS3kzV0JYcUc4NVQ4WDd5eHN1QlhqVjRwamVrN2ZuZGJ0RHhQeFFOSW55NHR1?oc=5",
+   "published_utc": "2026-11-17T08:27:15+00:00",
+   "title_original": "AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a65bf19b990e0d4d"
   },
   {
    "source_id": "tradingview_live",
@@ -51868,40 +51903,6 @@
    "live_wire": false,
    "manual": false,
    "id": "037aae0546679269"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022010151:0-bok-financial-price-target-cut-to-140-00-share-from-146-00-by-citigroup/",
-   "published_utc": "2026-10-22T19:27:00+00:00",
-   "title_original": "BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "44c5dc4910157c1a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "TSMC Looks Beyond China for Critical Chip Equipment Materials",
-   "url": "https://www.tradingview.com/news/gurufocus:21631489e094b:0-tsmc-looks-beyond-china-for-critical-chip-equipment-materials/",
-   "published_utc": "2026-10-22T19:11:02+00:00",
-   "title_original": "TSMC Looks Beyond China for Critical Chip Equipment Materials",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "effef059bf271013"
   },
   {
    "source_id": "manual_ia",

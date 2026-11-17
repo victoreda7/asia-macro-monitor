@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T09:03:09.780710+00:00
+Última coleta: 2026-11-17T09:12:46.883252+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
@@ -17,9 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Who sets the base interest rate and how?: A summary of the Monetary Policy Committee
   - [china] China stocks dip as US chip curbs weigh sentiment, internet majors slide
   - [korea] Although the local stock market is sluggish due to weak semiconductor stocks, Celltrion has risen ne..
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
+  - [taiwan] AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders
   - [china] New wave of insolvency in China's real estate sector causes credit risk to resurface
   - [korea] South Korea tightens university exam checks to screen for hidden cameras
   - [taiwan] The catering industry cannot withstand inflation. Five brands in Wacheng will increase their prices by about 3
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Daxin aims for semiconductor materials to exceed half of revenue by 2030
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi ``negotiates to gain understanding'' of co
   - [japan] Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes
-  - [japan] Government, Bank of Japan to grasp loan information of Shinkin Banks (Kyodo News)
-  - [china] AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T09:03:09+00:00",
+      "published_utc": "2026-11-17T09:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
