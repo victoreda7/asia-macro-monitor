@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T08:33:07.934591+00:00
+Última coleta: 2026-11-17T08:42:49.510223+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
   🇨🇳 China          894
-  🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  767
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] New wave of insolvency in China's real estate sector causes credit risk to resurface
   - [korea] South Korea tightens university exam checks to screen for hidden cameras
+  - [taiwan] The catering industry cannot withstand inflation. Five brands in Wacheng will increase their prices by about 3
   - [china] Before the Trump-Xi meeting, the US strictly controlled the export of advanced AI chips and Beijing approved e
   - [china] Key facts: Apollo Go; Kunlunxin Listing; Cloud Cash Flow 2.8B Yuan
   - [japan] Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of ma
@@ -41,7 +43,6 @@ Total: 3000 manchetes
   - [china] U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update
   - [korea] Even during rising interest rates, the four major banks take a step back in NIM... pressure on financing costs
   - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
-  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry
   - [china] China and Canada Expand Tariff Relief as Xi Meets Carney
   - [korea] IMF raises Korea's 2026 growth forecast to 3.9% on AI chip boom
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China
   - [china] China AI Highflier Crashes 85% as Chip Fears Hit Model Makers
   - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
-  - [china] China, Canada Expand Tariff Relief in Deepening Trade Thaw
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T08:33:08+00:00",
+      "published_utc": "2026-11-17T08:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

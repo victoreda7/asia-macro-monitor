@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-17T08:33:07.934591+00:00",
- "collected_at_utc": "2026-11-17T08:33:07.934591+00:00",
+ "generated_at_utc": "2026-11-17T08:42:49.510223+00:00",
+ "collected_at_utc": "2026-11-17T08:42:49.510223+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1037,
   "china": 894,
-  "taiwan": 302,
-  "korea": 767
+  "taiwan": 303,
+  "korea": 766
  },
- "elapsed_s": 50.4,
+ "elapsed_s": 29.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T06:44:00+00:00"
+   "newest": "2026-11-17T05:30:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T08:11:14+00:00"
+   "newest": "2026-11-17T08:34:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T07:36:20+00:00"
+   "newest": "2026-11-17T08:24:40+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:49:12+00:00"
+   "newest": "2026-11-17T07:39:11+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T17:28:16+09:00"
+   "newest": "2026-11-17T17:35:57+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T05:06:00+00:00"
+   "newest": "2026-11-17T05:25:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T06:52:00+00:00"
+   "newest": "2026-11-17T04:01:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T08:01:00+00:00"
+   "newest": "2026-11-17T08:12:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:41:08+00:00"
+   "newest": "2026-11-17T08:29:48+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
+   "published_utc": "2026-11-17T08:24:40+00:00",
+   "title_original": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a3dcc46c636d640"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Valor Economico",
@@ -377,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "9d2ebf6d0246c9ca"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The catering industry cannot withstand inflation. Five brands in Wacheng will increase their prices by about 3.6% starting from 11/24.",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5POVJVY0lDUHBUWGNxQWRyUGRKa3FmVnlJYXZjSnFuMUhLYktfTXUwbEcyRU44NXE4VWxld2t0c1lqOGE4YmJ5Zy1uVmRRSUVkQlhaUUUtMksyZnB1dWc?oc=5",
+   "published_utc": "2026-11-17T08:12:00+00:00",
+   "title_original": "餐飲業扛不住通膨 瓦城11/24起5品牌調漲約3.6%",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "38a5d5b8a8fe6a5a"
   },
   {
    "source_id": "gn_tw_cna",
@@ -755,23 +789,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d67bef7b03dad99e"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
-   "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
-   "published_utc": "2026-11-17T05:30:54+00:00",
-   "title_original": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a3dcc46c636d640"
   },
   {
    "source_id": "tradingview_live",
@@ -2433,8 +2450,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -2449,7 +2466,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -4523,8 +4540,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -4538,7 +4555,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6252,8 +6269,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -6267,7 +6284,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -9408,7 +9425,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -9422,7 +9439,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1398ae0aff03df27"
+   "id": "5ffbd3cd068ab02a"
   },
   {
    "source_id": "boj_whatsnew",
@@ -51885,23 +51902,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5bf00be78e57a128"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SN3duY2xxSERHUFhnYWpXbGg5QmlBRjd3Wmdib3ZKRldTRGJScllURER4emg4WGVCN2NhVXJ0c3dhQW5UWXlkRVlMSEhpTDMzTU9kQmptTU9pd3JGR2ZnOURPQWM?oc=5",
-   "published_utc": "2026-10-22T17:00:24+00:00",
-   "title_original": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "359ae2072afe4cc8"
   },
   {
    "source_id": "manual_ia",
