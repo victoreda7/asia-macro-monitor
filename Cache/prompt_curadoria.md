@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T05:24:05.784325+00:00
+Última coleta: 2026-11-17T05:36:03.506609+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1042
-  🇨🇳 China          888
+  🇯🇵 Japão          1041
+  🇨🇳 China          889
   🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
-  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
+  - [china] U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update
   - [china] U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry
+  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [korea] IMF raises Korea's 2026 growth forecast to 3.9% on AI chip boom
   - [china] China stocks flat as chip curbs lift local tech, hit internet giants
   - [china] U.S. tightens rules to restrict China’s access to advanced AI chips overseas
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit
   - [japan] Bank of Japan policy management, comprehensive judgment and understanding of the economy and prices, including
   - [china] The central bank raised the foreign exchange deposit reserve ratio by 2 percentage points
-  - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T05:24:05+00:00",
+      "published_utc": "2026-11-17T05:36:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

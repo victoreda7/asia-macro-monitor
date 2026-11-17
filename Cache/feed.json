@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T05:24:05.784325+00:00",
- "collected_at_utc": "2026-11-17T05:24:05.784325+00:00",
+ "generated_at_utc": "2026-11-17T05:36:03.506609+00:00",
+ "collected_at_utc": "2026-11-17T05:36:03.506609+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1042,
-  "china": 888,
+  "japan": 1041,
+  "china": 889,
   "taiwan": 302,
   "korea": 768
  },
- "elapsed_s": 106.1,
+ "elapsed_s": 230.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T11:07:54+00:00"
+   "newest": "2026-11-17T04:48:54+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
    "newest": "2026-11-17T02:15:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T05:12:33+00:00"
+   "newest": "2026-11-17T05:31:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T05:22:16+00:00"
+   "newest": "2026-11-17T05:34:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T22:47:34+00:00"
+   "newest": "2026-11-17T01:42:39+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,19 +331,55 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T04:14:00+00:00"
+   "newest": "2026-11-17T05:02:40+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-16T23:36:47+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117000079:0-u-s-chip-export-curbs-a-mixed-bag-for-chinese-ai-update/",
+   "published_utc": "2026-11-17T05:26:00+00:00",
+   "title_original": "U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e3096409092682e7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117000067:0-u-s-chip-export-curbs-have-mixed-implications-for-china-s-ai-industry/",
+   "published_utc": "2026-11-17T05:24:00+00:00",
+   "title_original": "U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "df4b6f598025ebdf"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -360,24 +396,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3a3dcc46c636d640"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry",
-   "url": "https://www.tradingview.com/news/DJN_DN20261117000018:0-u-s-chip-export-curbs-have-mixed-implications-for-china-s-ai-industry/",
-   "published_utc": "2026-11-17T05:09:00+00:00",
-   "title_original": "U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cb31a0a1d29d3e48"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11442,7 +11460,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSEVVbV9iRC14N0thNmdONzZnMll5NV9ZMHIzd1hCelkyZUM0Wjh1YjVLT0d5amZGNFNFWnVKM0hEZlFXSFl6eTNHNnZaSWZDUFJQV3c2OHRtZmNNaFA4M9IBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cNIBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
    "published_utc": "2026-11-11T07:54:00+00:00",
    "title_original": "SC제일은행 \"내년 한국 경제 성장세 둔화…통화정책이 주요 변수\"",
    "region": "korea",
@@ -11455,7 +11473,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8214e57caaa25fcf"
+   "id": "4d803028d7b814ba"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51888,23 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5bc474105b0ec959"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlRVZEFCZXdTTGs4QUZSR05mZEphcVJwZW14X1FVRTJDVmRMT1hLRVVlUjhlZm5uekl2WE1BZHBua2NLYXJ6OWxXY0JiN0xPMm93U29WRlhxWWN4d2wxV1RSTkRZb0xkQ056VGdGNlg5SDlYQ3lIanItaW0tWnlHVmo2d0h6cGhkOXNQSXFyWnUyRG04dUd6QUJWMVoxb29oVEh0Y01sTm03ellpV3FtYV9ralVLdDRxNTI1TmVMY1FLZWM?oc=5",
-   "published_utc": "2026-10-22T10:43:35+00:00",
-   "title_original": "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b0c78645e8617878"
   },
   {
    "source_id": "manual_ia",
