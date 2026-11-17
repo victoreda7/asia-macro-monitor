@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T14:32:43.685776+00:00
+Última coleta: 2026-11-17T14:42:43.316292+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
-  🇨🇳 China          901
-  🇹🇼 Taiwan         310
+  🇨🇳 China          900
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Hon Hai agrees to buy Sony Semiconductor's automotive camera unit for $45.5M
   - [japan] Yen Rises Amid Fx Intervention Risks
   - [china] China's Ministry of Foreign Affairs opposes new U.S. rules for exporting advanced semiconductors
   - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Counterattack of digital dollar hegemony] Strengthening dollar hegemony through financial innovation... Bank 
   - [japan] Local Finance Council “Take concrete steps through tax reform to correct uneven distribution of taxes”
   - [taiwan] New rules for US exports of AI chips to prevent transshipment Quanta and Wistron’s assessment will not be affe
-  - [korea] Who sets the base interest rate and how?: A summary of the Monetary Policy Committee
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T14:32:43+00:00",
+      "published_utc": "2026-11-17T14:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
