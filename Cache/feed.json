@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T10:52:45.624350+00:00",
- "collected_at_utc": "2026-11-17T10:52:45.624350+00:00",
+ "generated_at_utc": "2026-11-17T11:03:30.301729+00:00",
+ "collected_at_utc": "2026-11-17T11:03:30.301729+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
+  "japan": 1034,
   "china": 900,
-  "taiwan": 308,
+  "taiwan": 307,
   "korea": 759
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 143.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T09:01:17+00:00"
+   "newest": "2026-11-17T10:41:15+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T10:31:31+00:00"
+   "newest": "2026-11-17T10:54:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T10:06:56+00:00"
+   "newest": "2026-11-17T10:48:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T21:11:34+00:00"
+   "newest": "2026-11-17T03:10:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T10:52:14+00:00"
+   "newest": "2026-11-17T11:01:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,81 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Rises Against Majors",
+   "url": "https://www.tradingview.com/news/dpa_afx:b0d72d3c40161:0-yen-rises-against-majors/",
+   "published_utc": "2026-11-17T11:00:47+00:00",
+   "title_original": "Yen Rises Against Majors",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b24a3ee819190788"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Canada, China extend tariff relief measures through 2028",
+   "url": "https://www.tradingview.com/news/seekingalpha:18947d559094b:0-canada-china-extend-tariff-relief-measures-through-2028/",
+   "published_utc": "2026-11-17T11:00:45+00:00",
+   "title_original": "Canada, China extend tariff relief measures through 2028",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2100d2c6923686af"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Mapping the Market: Yen could weaken into danger zone for intervention",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46X125:0-mapping-the-market-yen-could-weaken-into-danger-zone-for-intervention/",
+   "published_utc": "2026-11-17T11:00:00+00:00",
+   "title_original": "Mapping the Market: Yen could weaken into danger zone for intervention",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "af4a4b88a77b5b8b"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "US to curb China’s access to AI chips as Trump heads to Asia",
+   "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988",
+   "published_utc": "2026-11-17T10:48:38+00:00",
+   "title_original": "US to curb China’s access to AI chips as Trump heads to Asia",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba6bee99bdad76c2"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -676,23 +744,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bb285d173c9be8fe"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "US to curb China’s access to AI chips as Trump heads to Asia",
-   "url": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988",
-   "published_utc": "2026-11-17T09:12:18+00:00",
-   "title_original": "US to curb China’s access to AI chips as Trump heads to Asia",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ba6bee99bdad76c2"
   },
   {
    "source_id": "tradingview_live",
@@ -1561,6 +1612,24 @@
   {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
+   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
+   "published_utc": "2026-11-17T03:10:34+00:00",
+   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d8b843a7710e9df"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
    "title_en": "BOJ board member calls for 'nimble' monetary policy",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
    "published_utc": "2026-11-17T03:10:34+00:00",
@@ -1782,41 +1851,6 @@
    "id": "f5f6015796db7a2d"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7132 TUES VS 6.7141",
-   "url": "https://www.tradingview.com/news/dpa_afx:66b93c51388be:0-china-sets-yuan-central-parity-at-6-7132-tues-vs-6-7141/",
-   "published_utc": "2026-11-17T01:31:01+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7132 TUES VS 6.7141",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "66ba8dc45797f1c3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Fed Policy, Weak Yen Hold Key for BOJ Rate Hikes — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261116011975:0-fed-policy-weak-yen-hold-key-for-boj-rate-hikes-market-talk/",
-   "published_utc": "2026-11-17T01:30:00+00:00",
-   "title_original": "Fed Policy, Weak Yen Hold Key for BOJ Rate Hikes — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "84d15a4c874cb2bb"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China’s $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit",
@@ -1869,23 +1903,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d4af3ce05ad1c52c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%",
-   "url": "https://www.tradingview.com/news/tradingview:ac967a7504de2:0-key-facts-tsmc-sales-59-7-500m-anthropic-stake-viking-23-2/",
-   "published_utc": "2026-11-17T01:00:00+00:00",
-   "title_original": "Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7117aa4072381922"
   },
   {
    "source_id": "mof_jp",
@@ -2110,24 +2127,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4d13bf0f74ae72c3"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
-   "published_utc": "2026-11-16T21:11:34+00:00",
-   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "toyo_keizai",
@@ -6449,24 +6448,6 @@
    "id": "d2134ade3049a4b6"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -8203,6 +8184,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",

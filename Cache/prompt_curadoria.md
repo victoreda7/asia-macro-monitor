@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T10:52:45.624350+00:00
+Última coleta: 2026-11-17T11:03:30.301729+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1034
   🇨🇳 China          900
-  🇹🇼 Taiwan         308
+  🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Rises Against Majors
+  - [china] Canada, China extend tariff relief measures through 2028
+  - [japan] Mapping the Market: Yen could weaken into danger zone for intervention
+  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [japan] Yomiuri: Effissimo Purchasing More Shares of Japanese Semiconductor-Related Stocks
   - [japan] Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160
   - [taiwan] Foreign capital remittances and exporters' foreign exchange sales clashed. The New Taiwan dollar depreciated b
@@ -36,7 +40,6 @@ Total: 3000 manchetes
   - [china] Chinese envoy says restrictions on exports of equipment for the chip industry threaten the unfreezing of trade
   - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
   - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
-  - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US confirms investigation into Megaspeed for alleged diversion of chips to China
   - [taiwan] AI Server Tracker: AI upgrades spark structural shift across Taiwan's PCB supply chain amid rising material co
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of ma
   - [china] U.S. Chip Curbs Pose Double-Edged Sword for China AI Industry — Market Talk
   - [china] Nvidia to halt chip sales to data centers renting over half to China - report
-  - [china] Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports
-  - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
-  - [china] Nvidia warns chip buyers about legal risks related to access to AI in China, according to CNBC report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T10:52:45+00:00",
+      "published_utc": "2026-11-17T11:03:30+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
