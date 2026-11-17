@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T07:17:23.097758+00:00
+Última coleta: 2026-11-17T07:25:40.467124+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
   - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
   - [china] Secondhand Home Prices Rise in Fewer Major Chinese Cities
   - [korea] Kospi Falls for Fourth Straight Session; Chip, Defense Stocks Retreat
@@ -47,7 +48,6 @@ Total: 3000 manchetes
   - [china] China, Canada Expand Tariff Relief in Deepening Trade Thaw
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
-  - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
   - [taiwan] Analysis: TSMC's venture capital strategy targets both ends of AI ecosystem to secure demand and strengthen su
   - [japan] BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News
   - [japan] BOJ board member calls for 'nimble' monetary policy
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T07:17:23+00:00",
+      "published_utc": "2026-11-17T07:25:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
