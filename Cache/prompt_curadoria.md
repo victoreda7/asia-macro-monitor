@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T18:22:49.365776+00:00
+Última coleta: 2026-11-17T18:32:58.221592+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          904
+  🇯🇵 Japão          1022
+  🇨🇳 China          905
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [china] Economists Call for More Stimulus to Bolster Domestic Demand
   - [japan] Japan to bolster defense ties with Chile, paving way for exports
   - [korea] Micron, SanDisk and SK Hynix Face New Warning From Wall Street
   - [china] US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Effissimo Purchasing More Shares of Japanese Semiconductor-Related Stocks
   - [japan] Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160
   - [taiwan] Foreign capital remittances and exporters' foreign exchange sales clashed. The New Taiwan dollar depreciated b
-  - [china] APEC summit tomorrow, focus on US-China-Russia summit and Japan-China contacts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T18:22:49+00:00",
+      "published_utc": "2026-11-17T18:32:58+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
