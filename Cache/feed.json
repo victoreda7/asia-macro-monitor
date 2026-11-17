@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T05:13:31.733449+00:00",
- "collected_at_utc": "2026-11-17T05:13:31.733449+00:00",
+ "generated_at_utc": "2026-11-17T05:24:05.784325+00:00",
+ "collected_at_utc": "2026-11-17T05:24:05.784325+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1042,
-  "china": 887,
+  "china": 888,
   "taiwan": 302,
-  "korea": 769
+  "korea": 768
  },
- "elapsed_s": 68.2,
+ "elapsed_s": 106.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 17,
+   "count": 16,
    "error": "",
    "newest": "2026-11-17T02:15:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T04:48:34+00:00"
+   "newest": "2026-11-17T05:12:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T04:48:22+00:00"
+   "newest": "2026-11-17T05:12:33+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T05:02:26+00:00"
+   "newest": "2026-11-17T05:18:26+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T22:06:04+00:00"
+   "newest": "2026-11-17T01:26:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T05:03:30+00:00"
+   "newest": "2026-11-17T05:22:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,48 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-16T23:36:47+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
+   "published_utc": "2026-11-17T05:12:33+00:00",
+   "title_original": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a3dcc46c636d640"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117000018:0-u-s-chip-export-curbs-have-mixed-implications-for-china-s-ai-industry/",
+   "published_utc": "2026-11-17T05:09:00+00:00",
+   "title_original": "U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cb31a0a1d29d3e48"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -415,23 +450,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6296fb4dd27bb27c"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
-   "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
-   "published_utc": "2026-11-17T04:36:19+00:00",
-   "title_original": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a3dcc46c636d640"
   },
   {
    "source_id": "tradingview_live",
@@ -4542,6 +4560,24 @@
    "id": "6f7e7d999a55e883"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-15T06:23:25+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
@@ -4939,24 +4975,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cc95e50fd4b363c7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-14T18:27:55+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -5529,24 +5547,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -7287,6 +7287,24 @@
    "id": "1516b591619cc878"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "It was found that the top 1% of stock investment returns sold SK Hynix and Samsung Electronics in la..",
@@ -8961,7 +8979,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -8975,7 +8993,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1398ae0aff03df27"
+   "id": "5ffbd3cd068ab02a"
   },
   {
    "source_id": "boj_whatsnew",
@@ -11424,7 +11442,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "SC First Bank “Korea’s economic growth will slow next year… monetary policy is the main variable”",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cNIBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xSEVVbV9iRC14N0thNmdONzZnMll5NV9ZMHIzd1hCelkyZUM0Wjh1YjVLT0d5amZGNFNFWnVKM0hEZlFXSFl6eTNHNnZaSWZDUFJQV3c2OHRtZmNNaFA4M9IBeEFVX3lxTE1LZHRhc2xjM1FJalJxZmlROFZicG42c1d0Z1FJdHZtQk1rcU9nS0d4V0pvX1U2bkNncm42MktVb3JhQW13UjFVa3dJN2phWFVIZFBaM2I4VHNHSFZDcDF6TERKNlJaZTM1NTRCMlhuQ0xpU0V5cFZ5cA?oc=5",
    "published_utc": "2026-11-11T07:54:00+00:00",
    "title_original": "SC제일은행 \"내년 한국 경제 성장세 둔화…통화정책이 주요 변수\"",
    "region": "korea",
@@ -11437,7 +11455,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4d803028d7b814ba"
+   "id": "8214e57caaa25fcf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51887,23 +51905,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b0c78645e8617878"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "국제신문",
-   "title_en": "The Bank of Korea freezes its base interest rate by 3%... Maintaining tightness, possibility of another hike next month amidst speed control (comprehensive)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjZNNnZ5Xy1icFB6MnE2QnVvNUd0U1g1N28zVXhfMVBqMlVKWVg4ZVdibUd5NmVfLWdvVTN2cW0yLWh1MWNWS3JzTXd3N0NjeXJkbXNybUlYcHpjWTRlTS1SMDV4cWl6RTNvTHlGZWg1Q1EzUDhKS1RhSUhpVm5HelB1X2NJQWdYMndyeFNR?oc=5",
-   "published_utc": "2026-10-22T10:34:00+00:00",
-   "title_original": "한은 기준금리 3% 동결…긴축 유지, 속도조절 속 내달 다시 인상 가능성(종합)",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "336353c1b4d4b8df"
   },
   {
    "source_id": "manual_ia",
