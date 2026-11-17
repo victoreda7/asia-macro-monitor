@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T03:35:23.857888+00:00
+Última coleta: 2026-11-17T03:45:48.039709+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1039
-  🇨🇳 China          881
+  🇨🇳 China          882
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  775
+  🇰🇷 Coreia do Sul  774
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
   - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
   - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
   - [japan] BOJ board member calls for 'nimble' monetary policy
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US issues new chip rule as China's AI companies fear Nvidia scandal fallout
   - [taiwan] Lone Pine Capital Reports Stake in Intel, Amazon; Raises Stakes in Alphabet, TSMC
   - [japan] The famous soba, which has been priced at 555 yen for 40 years, is suddenly priced at 1,110 yen...The reason w
-  - [japan] Will the "smart cash register special demand" return due to food tax cuts? Reasons why smart cash registers an
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T03:35:24+00:00",
+      "published_utc": "2026-11-17T03:45:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

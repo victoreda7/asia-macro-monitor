@@ -1,18 +1,34 @@
 {
- "generated_at_utc": "2026-11-17T03:35:23.857888+00:00",
- "collected_at_utc": "2026-11-17T03:35:23.857888+00:00",
+ "generated_at_utc": "2026-11-17T03:45:48.039709+00:00",
+ "collected_at_utc": "2026-11-17T03:45:48.039709+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1039,
-  "china": 881,
+  "china": 882,
   "taiwan": 305,
-  "korea": 775
+  "korea": 774
  },
- "elapsed_s": 179.3,
+ "elapsed_s": 205.6,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -27,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:23:00+00:00"
+   "newest": "2026-11-16T23:27:28+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,7 +73,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
    "newest": "2026-11-17T02:15:00+00:00"
   },
@@ -75,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T02:50:34+00:00"
+   "newest": "2026-11-17T03:19:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -174,22 +190,6 @@
    "newest": "2026-11-17T03:10:34+00:00"
   },
   {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-17T12:26:00+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-17T12:17:37+09:00"
-  },
-  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T03:33:04+00:00"
+   "newest": "2026-11-17T03:43:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T00:29:32+00:00"
+   "newest": "2026-11-16T06:27:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -342,8 +342,29 @@
    "newest": "2026-11-16T23:36:47+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "nhk_politics": 1,
+  "nhk_economy": 1
+ },
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Y07T:0-yuan-steady-despite-firm-dollar-as-pboc-strengthens-fixing-ahead-of-apec/",
+   "published_utc": "2026-11-17T03:42:31+00:00",
+   "title_original": "Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d8eab47b342db47e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -3333,7 +3354,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEpuRmtMVWlXcnVQbmY5dUo4MVhUaWFSaDVPY0xEZlNnUVBqTXI4OHVyRHdPakdFWHJPUDROVF9MVGFxMXduLWdOWkVxTHVuNXpyQm9TSnlqMW13X0JNYUN2RzRpSFZBUDhTZUk4dGp1eGhaRFc2ZzlRYWlsTFhoS2ZXdWhLN3pLbWtRZ1JrM2NXMXZ3bHJ4WWowNXhHRGc4OG9GZzRjS1NCb2tSZVpVejFjTTg?oc=5",
    "published_utc": "2026-11-16T00:18:00+00:00",
@@ -4244,6 +4265,24 @@
    "id": "6f7e7d999a55e883"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-15T06:23:25+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hindalco Says Novelis Enters Agreement To Sell China Aluminum Subsidiaries",
@@ -4641,24 +4680,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cc95e50fd4b363c7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-14T18:27:55+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -51881,23 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "da1d0a173e5bf694"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "더밸류뉴스",
-   "title_en": "Bank of Korea unanimously 'freezes' base interest rate at 3.00%... Possibility of additional hike in November despite taking a breather",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMMlp2Q05aSXRRcmFzQnlWMm9Xem4tYmh4NG9UQWJYLThQZG5DSWJOcnl5ajJyREVmU1dJU3dCR2dGOFZaanU2Q2tSaGhPQlg1LTlB?oc=5",
-   "published_utc": "2026-10-22T07:52:17+00:00",
-   "title_original": "한국은행, 기준금리 3.00% 만장일치 '동결'…숨 고르기에도 '11월 추가 인상' 가능성",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aa8455885bb2e227"
   },
   {
    "source_id": "manual_ia",
