@@ -7,26 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T09:52:50.080656+00:00
+Última coleta: 2026-11-17T10:02:55.061852+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
+  🇯🇵 Japão          1035
   🇨🇳 China          898
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  762
+  🇰🇷 Coreia do Sul  763
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung and Apple near long-term DRAM supply agreement
   - [china] Shanghai Runda Medical Technology Plans Bond Issuance
   - [japan] House of Councilors Special Committee Confirms Second Question Asked for Prime Minister Takaichi's Attendance 
   - [japan] Yomiuri: Asics Aims for 1.5 Trillion Yen in Net Sales for 2029
-  - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
   - [korea] [Counterattack of digital dollar hegemony] Strengthening dollar hegemony through financial innovation... Bank 
   - [japan] Local Finance Council “Take concrete steps through tax reform to correct uneven distribution of taxes”
   - [taiwan] New rules for US exports of AI chips to prevent transshipment Quanta and Wistron’s assessment will not be affe
   - [korea] Who sets the base interest rate and how?: A summary of the Monetary Policy Committee
   - [china] China will adopt "necessary measures" after new US restrictions on chip exports
   - [china] Chinese envoy says restrictions on exports of equipment for the chip industry threaten the unfreezing of trade
+  - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
   - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US confirms investigation into Megaspeed for alleged diversion of chips to China
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan to subsidize employers who let parents work fewer hours
   - [china] How far will nuclear weapons reduction go at the US-China-Russia summit meeting? The twists and turns of the "
   - [korea] Anthropic IPO tests next leg of rally in Samsung, SK hynix
-  - [taiwan] Candidates address Taoyuan's bus woes at TV policy presentation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T09:52:50+00:00",
+      "published_utc": "2026-11-17T10:02:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
