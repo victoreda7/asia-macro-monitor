@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T12:42:43.402798+00:00
+Última coleta: 2026-11-17T12:52:48.628019+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese copper import premium jumps 21% to record peak amid low stocks
   - [korea] Apple nears a rare long-term DRAM supply deal with Samsung Electronics: report
   - [korea] Micron, Sandisk, SK Hynix in focus as GF Securities cuts NAND price forecast, sees glut
   - [china] Nvidia sets up board committee to oversee national security, export control risks amid China scrutiny
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
   - [china] US confirms investigation into Megaspeed for alleged diversion of chips to China
   - [taiwan] AI Server Tracker: AI upgrades spark structural shift across Taiwan's PCB supply chain amid rising material co
-  - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T12:42:43+00:00",
+      "published_utc": "2026-11-17T12:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
