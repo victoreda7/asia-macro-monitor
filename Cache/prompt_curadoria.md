@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T02:34:44.866323+00:00
+Última coleta: 2026-11-17T02:56:59.142838+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
-  🇨🇳 China          881
+  🇯🇵 Japão          1037
+  🇨🇳 China          880
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  779
 
 ## O que já está no feed (não repita)
 
+  - [japan] [Today's Oha Biz Tuesday, November 17th] Develop semiconductor design talent
   - [china] US moves to curb China's remote access to AI chips after Nvidia scandal
   - [korea] P&T Link, a subsidiary of M83 and specializing in server and artificial intelligence (AI) infras..
   - [japan] Japan Data Preview: Forecasters See Another Month of Strong Gains for Exports, Imports in October
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China developer Huafa's debt woes show resurgence of credit risk
   - [china] Nvidia China Trouble Could Spill Over to These AI Chip Stocks
   - [taiwan] Tiger Global Management Cuts Share Stake In Meta, TSMC, GE Vernova
-  - [japan] Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T02:34:45+00:00",
+      "published_utc": "2026-11-17T02:56:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
