@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-17T20:32:44.850557+00:00",
- "collected_at_utc": "2026-11-17T20:32:44.850557+00:00",
+ "generated_at_utc": "2026-11-17T20:42:46.737271+00:00",
+ "collected_at_utc": "2026-11-17T20:42:46.737271+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 311,
   "korea": 762
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 33.6,
  "sources": [
+  {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T20:13:12+00:00"
+   "newest": "2026-11-17T20:30:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T20:12:20+00:00"
+   "newest": "2026-11-17T20:18:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -92,14 +100,6 @@
    "count": 10,
    "error": "",
    "newest": "2026-11-17T19:14:14+00:00"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-17T14:32:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:31:27+00:00"
+   "newest": "2026-11-17T08:54:43+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:35:25+00:00"
+   "newest": "2026-11-17T13:41:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T14:07:40+00:00"
+   "newest": "2026-11-17T19:43:09+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T08:00:10+00:00"
+   "newest": "2026-11-17T13:14:39+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T20:32:00+00:00"
+   "newest": "2026-11-17T20:40:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:49:31+00:00"
+   "newest": "2026-11-17T17:08:09+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T05:00:00+09:00"
+   "newest": "2026-11-18T05:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,12 +337,14 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_jp_investing": 1
+ },
  "items": [
   {
    "source_id": "nhk_politics",
@@ -653,6 +655,24 @@
    "id": "819da848ba232bb9"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "网易新闻客户端",
+   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03NjZXUnJoLVY1R1ljWG9fa3B0bnU0Y2E0UnhKWTlvQlFrellacFllWTZZUjVxVktSR21Zdjg3V2ZjM3ppbm4yVS1Ld1otZmlFWVJyTjJuUExLRVct?oc=5",
+   "published_utc": "2026-11-17T13:41:00+00:00",
+   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "707bf33530c71622"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
@@ -668,24 +688,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b9cd217b45d1f01b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalBpOG5leTJ0LTdnMjQ5YWJNSEVsMzQ0eGlwemZ2NjQ4azVrQjQyOVFOR3VUMTdUQ2FrdV9FWGh1b0hzaUoxWkpWSmFKTl9uYXhKZk5YS19Ednd4WEFFSW9tYUZCSklvYnJqY01qUllSbzVrUDM4UFdFTUxlbVhRamJwa0tIajRFeERKSUY0cw?oc=5",
-   "published_utc": "2026-11-17T13:32:00+00:00",
-   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "91da37975e8dd297"
   },
   {
    "source_id": "korea_herald_biz",
@@ -5638,7 +5640,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -5649,7 +5651,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",

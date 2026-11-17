@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T20:32:44.850557+00:00
+Última coleta: 2026-11-17T20:42:46.737271+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1022
@@ -35,8 +35,8 @@ Total: 3000 manchetes
   - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Yen Rises Amid Fx Intervention Risks
   - [china] China's Ministry of Foreign Affairs opposes new U.S. rules for exporting advanced semiconductors
-  - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
   - [china] Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17
+  - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
   - [korea] South Korean grape exports jump 85% as Taiwan leads sales
   - [japan] Will the US-North Korea summit happen? NW9 Hirouchi caster asks experts
   - [china] China resumes storing crude oil, giving it fuel export options: Russell
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T20:32:45+00:00",
+      "published_utc": "2026-11-17T20:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
