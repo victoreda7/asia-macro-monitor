@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T10:12:44.847568+00:00
+Última coleta: 2026-11-17T10:22:55.699243+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
   🇨🇳 China          899
-  🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  761
+  🇹🇼 Taiwan         306
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
   - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
+  - [taiwan] The United States strictly controls the export of advanced AI chips: some orders may be delayed | Sankei
   - [korea] Samsung and Apple near long-term DRAM supply agreement
   - [china] Shanghai Runda Medical Technology Plans Bond Issuance
   - [japan] House of Councilors Special Committee Confirms Second Question Asked for Prime Minister Takaichi's Attendance 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Secondhand Home Prices Rise in Fewer Major Chinese Cities
   - [korea] Kospi Falls for Fourth Straight Session; Chip, Defense Stocks Retreat
   - [korea] S. Korea set to achieve US$1 trillion export milestone for 1st time
-  - [taiwan] Taiwan to subsidize employers who let parents work fewer hours
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T10:12:45+00:00",
+      "published_utc": "2026-11-17T10:22:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
