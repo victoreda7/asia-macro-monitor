@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T06:45:42.199161+00:00
+Última coleta: 2026-11-17T07:07:49.330765+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
-  🇨🇳 China          890
+  🇨🇳 China          892
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  768
+  🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
+  - [china] Secondhand Home Prices Rise in Fewer Major Chinese Cities
   - [korea] Kospi Falls for Fourth Straight Session; Chip, Defense Stocks Retreat
   - [korea] S. Korea set to achieve US$1 trillion export milestone for 1st time
   - [taiwan] Taiwan to subsidize employers who let parents work fewer hours
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] P&T Link, a subsidiary of M83 and specializing in server and artificial intelligence (AI) infras..
   - [japan] Japan Data Preview: Forecasters See Another Month of Strong Gains for Exports, Imports in October
   - [korea] Samsung, SK hynix spend W88tr on capex as cash holdings soar
-  - [korea] S. Korea regains top spot in global OLED shipments in H1
-  - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of Olympics canceled (2) (JoongAng Ilbo Japane
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T06:45:42+00:00",
+      "published_utc": "2026-11-17T07:07:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
