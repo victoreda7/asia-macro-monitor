@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T04:23:56.317154+00:00",
- "collected_at_utc": "2026-11-17T04:23:56.317154+00:00",
+ "generated_at_utc": "2026-11-17T04:34:59.114346+00:00",
+ "collected_at_utc": "2026-11-17T04:34:59.114346+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1038,
-  "china": 884,
+  "japan": 1039,
+  "china": 885,
   "taiwan": 305,
-  "korea": 773
+  "korea": 771
  },
- "elapsed_s": 102.8,
+ "elapsed_s": 155.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T03:28:00+00:00"
+   "newest": "2026-11-17T03:37:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 40,
+   "count": 41,
    "error": "",
-   "newest": "2026-11-17T11:08:37+08:00"
+   "newest": "2026-11-17T11:55:40+08:00"
   },
   {
    "source_id": "investing_live",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T12:57:21+09:00"
+   "newest": "2026-11-17T13:25:14+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T04:12:42+00:00"
+   "newest": "2026-11-17T04:33:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,49 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-16T23:36:47+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Chinese firms turn to US AI models for training as export restrictions tighten: Reuters",
+   "url": "https://www.tradingview.com/news/seekingalpha:105678b6b094b:0-chinese-firms-turn-to-us-ai-models-for-training-as-export-restrictions-tighten-reuters/",
+   "published_utc": "2026-11-17T04:31:23+00:00",
+   "title_original": "Chinese firms turn to US AI models for training as export restrictions tighten: Reuters",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "de97059feb94f1c9"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi ``negotiates to gain understanding'' of consumption tax reduction bill",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261117de77068",
+   "published_utc": "2026-11-17T04:25:14+00:00",
+   "title_original": "自民 小林政調会長 消費税減税法案“理解得られるよう交渉”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f50a5bc4f4b77e9d"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -412,6 +448,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d8eab47b342db47e"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China, Canada Expand Tariff Relief in Deepening Trade Thaw",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
+   "published_utc": "2026-11-17T03:37:00+00:00",
+   "title_original": "China, Canada Expand Tariff Relief in Deepening Trade Thaw",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "293c08f69588127f"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -5320,24 +5373,6 @@
    "id": "d2134ade3049a4b6"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
-   "published_utc": "2026-11-13T17:57:32+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e347e38d57b9c"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar set for best week in two months, yen weakens toward 160",
@@ -7074,6 +7109,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
+   "published_utc": "2026-11-13T04:32:19+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51848,57 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e08d80a328df73a3"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFFuSjhoQ09zN2hxY2FjZUNEcGxwVTYzOXB3MmF3SlRuRHVXaUVRb2lEeDV6QkFERzlLV1REQWZhdk9sbUtDMkZDeF9vUTEtVENaUW1UcEVJRjBOX3Nnb1oxZTVEVkxoLTBHTzlwSlpEcmJVT2ZjZlp1NWVmUXE3UXJDTWczRHktVUlyaWtDY2l5bEhycU1EWDNJM0F4TmVzeFM1bFRqZHV0WGYzT2lFakhOVDZ2bzhvMW1yWHNGWUpHcTE4OEFxVWtjT0NOWURBTVc40gHTAUFVX3lxTFAwajQ2cy0wNTN5V0tPV1NSeF94X1N4UzJJQXAyTEtXVkhCLUNOSjQ1WmdxM0xTM3RBRnlrQlFLcFFnNkVRc3hBMHY3NkJVQWVyR1IzTWhYeHJpd3d6TmpUT0tMYlBnbVFIc25CeklObUdKbG4tR3R6RmZ5NHhuSmJFZ2NPbjAzZFMtQ0tiOHJ4NTlJSzF3OUxva1ZObVNhaWFaSlpQdkVtTGhhN2pMLXpfczlHQVU1b3VyMzkzSXEwYWNIMEZseHNzN082RC1GQmp2MmM?oc=5",
-   "published_utc": "2026-10-22T09:00:14+00:00",
-   "title_original": "China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9b0c129d0d38dbe"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won in losses”",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTDIxcWFGYVhDQUpVeS0yYkpiT0tsMmJ4YUhCNFk1RlJhUUE2TXNxQ2lmN3RvZ1lUWFFYY0hyVGRTcnlxUF9rY2k3dnVCZ1lvaHVn?oc=5",
-   "published_utc": "2026-10-22T08:43:48+00:00",
-   "title_original": "Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won in losses”",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce8ee7cfb21ef1fc"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "[Exclusive] Power generation company \"will lose 650 billion won\"...Furious at the push to cut local electricity prices",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTDIxcWFGYVhDQUpVeS0yYkpiT0tsMmJ4YUhCNFk1RlJhUUE2TXNxQ2lmN3RvZ1lUWFFYY0hyVGRTcnlxUF9rY2k3dnVCZ1lvaHVn?oc=5",
-   "published_utc": "2026-10-22T08:43:48+00:00",
-   "title_original": "[Exclusive] Power generation company \"will lose 650 billion won\"...Furious at the push to cut local electricity prices",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a68ed27b991b11d"
   },
   {
    "source_id": "manual_ia",

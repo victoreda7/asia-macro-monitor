@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T04:23:56.317154+00:00
+Última coleta: 2026-11-17T04:34:59.114346+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1038
-  🇨🇳 China          884
+  🇯🇵 Japão          1039
+  🇨🇳 China          885
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  773
+  🇰🇷 Coreia do Sul  771
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese firms turn to US AI models for training as export restrictions tighten: Reuters
+  - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi ``negotiates to gain understanding'' of co
   - [japan] Government, Bank of Japan to grasp loan information of Shinkin Banks (Kyodo News)
   - [china] AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
+  - [china] China, Canada Expand Tariff Relief in Deepening Trade Thaw
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
   - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] U.S. Department of Commerce launches new rules to prevent detouring of advanced semiconductors to China and ot
   - [korea] The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.
   - [korea] The possibility of the Bank of Korea's base interest rate increasing from 3.00 to 3.25% this month increases.
-  - [japan] SoftBank, Rakuten push Japan retail bond issuance to record high
-  - [taiwan] 3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves
-  - [china] US to curb China’s access to AI chips as Trump heads to Asia
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T04:23:56+00:00",
+      "published_utc": "2026-11-17T04:34:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
