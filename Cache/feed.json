@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T02:27:26.158114+00:00",
- "collected_at_utc": "2026-11-17T02:27:26.158114+00:00",
+ "generated_at_utc": "2026-11-17T02:34:44.866323+00:00",
+ "collected_at_utc": "2026-11-17T02:34:44.866323+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1035,
-  "china": 880,
+  "japan": 1036,
+  "china": 881,
   "taiwan": 304,
-  "korea": 781
+  "korea": 779
  },
- "elapsed_s": 132.4,
+ "elapsed_s": 143.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:43:59+00:00"
+   "newest": "2026-11-16T23:51:20+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T02:25:01+00:00"
+   "newest": "2026-11-17T02:31:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-17T01:47:32+00:00"
+   "newest": "2026-11-17T02:28:36+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-17T11:10:00+09:00"
+   "newest": "2026-11-17T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,19 +331,70 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:51:33+00:00"
+   "newest": "2026-11-17T02:26:16+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-16T23:36:47+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
+   "published_utc": "2026-11-17T02:34:44.212886+00:00",
+   "title_original": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "249557d0e66465ea"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "P&T Link, a subsidiary of M83 and specializing in server and artificial intelligence (AI) infras..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qMkh3OXlJN1lCcE9yUXRVTkRob1MyOEk0QTBrSWd2bU9YRzl6SUFKSFd1U0FsckttUHZ4Yi1qOTdZUHpNaDNZdTBpUjQ5TlU?oc=5",
+   "published_utc": "2026-11-17T02:26:16+00:00",
+   "title_original": "P&T Link, a subsidiary of M83 and specializing in server and artificial intelligence (AI) infras..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "51a1eeebaf41b69a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "Japan Data Preview: Forecasters See Another Month of Strong Gains for Exports, Imports in October",
+   "url": "https://www.tradingview.com/news/macenews:a2735dbf1094b:0-japan-data-preview-forecasters-see-another-month-of-strong-gains-for-exports-imports-in-october/",
+   "published_utc": "2026-11-17T02:25:00+00:00",
+   "title_original": "Japan Data Preview: Forecasters See Another Month of Strong Gains for Exports, Imports in October",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4bcfe5b52fd7de69"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -1602,8 +1653,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -1618,7 +1669,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -3640,8 +3691,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -3655,7 +3706,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5369,8 +5420,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -5384,7 +5435,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -9341,23 +9392,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "연합인포맥스",
-   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
-   "published_utc": "2026-11-12T02:25:40+00:00",
-   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5913d7dce403b065"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "뉴닉",
    "title_en": "US Federal Reserve's December interest rate hike forecast: Summary of the possibility of a 'big step' and the impact on the Korean economy 💸",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
@@ -9789,6 +9823,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b25e4ff8f4d49ed6"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
+   "published_utc": "2026-11-12T00:25:39+00:00",
+   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b3ecde5047aee35c"
   },
   {
    "source_id": "nhk_economy",
@@ -51845,58 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d33e90e166f265fa"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
-   "url": "https://www.investing.com/news/economy-news/samsung-electromechanics-gets-28-billion-chip-investment-from-tesla-nvidia-report-says-4964838",
-   "published_utc": "2026-10-22T07:31:50+00:00",
-   "title_original": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dbed6b67f81300ac"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경향신문",
-   "title_en": "The Bank of Korea is widely expected to raise the base interest rate again in November... “Maintaining the interest rate in October is the fruit of a hoe.”",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55aUFUUjZiWFlBakFDLVl1amR2WGhUQ1c5dmVWRE02SGZLbU1pVmt6WndUMUxYSnYxS2w0T2RiRmtmMTYtWXhRV1BJQXRnM0p2UV9BbGs2Sm1lQdIBX0FVX3lxTE5Vc0lsemVfLXdVaXAwUmVxQ0MzOTlzZFRieHlscTAxNkNkQ3ZhNmdHNEpUeTJ0cEZ3WWtRXzlyTTFzSU85NGw1MXA3VTRuWDM4aEh1d196Q2EwcnczZXVZ?oc=5",
-   "published_utc": "2026-10-22T07:28:00+00:00",
-   "title_original": "한은, 11월 기준금리 다시 인상 관측 지배적···“10월 금리 유지는 호미질 결실”",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "38c009200069ca26"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korean won strengthens against U.S. dollar after BOK holds key rate",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWUZaSHJtcVVnUkJJQ3MxSnJNS3YxTmJYRXJPaENCdEhzUEtsNlc3TDZNVk1ySkhha2hMZnF2RUlwMUktYmtBQ3RqdlFUX1pvX3BQNm9ieVpUdw?oc=5",
-   "published_utc": "2026-10-22T07:25:18+00:00",
-   "title_original": "S. Korean won strengthens against U.S. dollar after BOK holds key rate",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8000ad7fa9f2232b"
   },
   {
    "source_id": "manual_ia",

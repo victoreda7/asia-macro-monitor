@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T02:27:26.158114+00:00
+Última coleta: 2026-11-17T02:34:44.866323+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          880
+  🇯🇵 Japão          1036
+  🇨🇳 China          881
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  781
+  🇰🇷 Coreia do Sul  779
 
 ## O que já está no feed (não repita)
 
+  - [china] US moves to curb China's remote access to AI chips after Nvidia scandal
+  - [korea] P&T Link, a subsidiary of M83 and specializing in server and artificial intelligence (AI) infras..
+  - [japan] Japan Data Preview: Forecasters See Another Month of Strong Gains for Exports, Imports in October
   - [korea] Samsung, SK hynix spend W88tr on capex as cash holdings soar
   - [korea] S. Korea regains top spot in global OLED shipments in H1
   - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of Olympics canceled (2) (JoongAng Ilbo Japane
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia China Trouble Could Spill Over to These AI Chip Stocks
   - [taiwan] Tiger Global Management Cuts Share Stake In Meta, TSMC, GE Vernova
   - [japan] Advantest Stocks Tumble 11.12% as Tokyo Chip Selloff Drags Nikkei Below 60,00
-  - [korea] SK hynix Stocks Sink 7.89% Despite 80% Margin and 100 Trillion Won Payout
-  - [taiwan] TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High
-  - [japan] US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T02:27:26+00:00",
+      "published_utc": "2026-11-17T02:34:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
