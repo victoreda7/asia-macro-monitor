@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T18:04:14.625169+00:00
+Última coleta: 2026-11-17T18:12:43.568190+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
-  🇨🇳 China          902
+  🇯🇵 Japão          1023
+  🇨🇳 China          904
   🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  762
 
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [china] Nvidia forms export-control panel as Huang affair puts China ties in focus
   - [japan] Japan-Korea summit meeting Continues shuttle diplomacy President Lee’s intention to visit Japan in January nex
   - [china] Dutch restrictions on chips create friction between EU and China, diplomat says
+  - [china] Banks Pause $480 Million Chip Loan Tied to China’s ByteDance
   - [taiwan] Hon Hai agrees to buy Sony Semiconductor's automotive camera unit for $45.5M
   - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Yen Rises Amid Fx Intervention Risks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160
   - [taiwan] Foreign capital remittances and exporters' foreign exchange sales clashed. The New Taiwan dollar depreciated b
   - [china] APEC summit tomorrow, focus on US-China-Russia summit and Japan-China contacts
-  - [taiwan] Foxconn says it will acquire Sony Semiconductor Solutions' automotive camera module business
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T18:04:14+00:00",
+      "published_utc": "2026-11-17T18:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
