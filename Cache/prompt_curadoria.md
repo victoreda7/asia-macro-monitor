@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T10:42:41.994622+00:00
+Última coleta: 2026-11-17T10:52:45.624350+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
+  🇯🇵 Japão          1033
   🇨🇳 China          900
-  🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  760
+  🇹🇼 Taiwan         308
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yomiuri: Effissimo Purchasing More Shares of Japanese Semiconductor-Related Stocks
   - [japan] Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160
+  - [taiwan] Foreign capital remittances and exporters' foreign exchange sales clashed. The New Taiwan dollar depreciated b
   - [china] APEC summit tomorrow, focus on US-China-Russia summit and Japan-China contacts
+  - [taiwan] Foxconn says it will acquire Sony Semiconductor Solutions' automotive camera module business
   - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
   - [taiwan] The United States strictly controls the export of advanced AI chips: some orders may be delayed | Sankei
   - [korea] Samsung and Apple near long-term DRAM supply agreement
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports
   - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
   - [china] Nvidia warns chip buyers about legal risks related to access to AI in China, according to CNBC report
-  - [korea] “Key Players in Accelerating the $1 Trillion Export Milestone”... World Class Products Expand to 1,100 Compani
-  - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
-  - [china] Secondhand Home Prices Rise in Fewer Major Chinese Cities
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T10:42:42+00:00",
+      "published_utc": "2026-11-17T10:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
