@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T05:43:36.860345+00:00
+Última coleta: 2026-11-17T05:54:41.519483+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1041
+  🇯🇵 Japão          1039
   🇨🇳 China          889
-  🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  768
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [korea] Anthropic IPO tests next leg of rally in Samsung, SK hynix
   - [china] U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update
   - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
   - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
+  - [taiwan] Analysis: TSMC's venture capital strategy targets both ends of AI ecosystem to secure demand and strengthen su
   - [japan] BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News
   - [japan] BOJ board member calls for 'nimble' monetary policy
   - [japan] [Today's Oha Biz Tuesday, November 17th] Develop semiconductor design talent
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7132 TUES VS 6.7141
   - [japan] Fed Policy, Weak Yen Hold Key for BOJ Rate Hikes — Market Talk
-  - [china] China’s $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit
-  - [japan] Bank of Japan policy management, comprehensive judgment and understanding of the economy and prices, including
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T05:43:37+00:00",
+      "published_utc": "2026-11-17T05:54:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
