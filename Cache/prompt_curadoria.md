@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T15:12:51.100728+00:00
+Última coleta: 2026-11-17T15:22:49.554583+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          901
+  🇨🇳 China          902
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  762
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] Dutch restrictions on chips create friction between EU and China, diplomat says
   - [china] Nvidia forms export-control panel as Huang affair puts China ties in focus
   - [taiwan] Hon Hai agrees to buy Sony Semiconductor's automotive camera unit for $45.5M
   - [japan] Yen Rises Amid Fx Intervention Risks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] House of Councilors Special Committee Confirms Second Question Asked for Prime Minister Takaichi's Attendance 
   - [japan] Yomiuri: Asics Aims for 1.5 Trillion Yen in Net Sales for 2029
   - [korea] [Counterattack of digital dollar hegemony] Strengthening dollar hegemony through financial innovation... Bank 
-  - [japan] Local Finance Council “Take concrete steps through tax reform to correct uneven distribution of taxes”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T15:12:51+00:00",
+      "published_utc": "2026-11-17T15:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T15:12:51.100728+00:00",
- "collected_at_utc": "2026-11-17T15:12:51.100728+00:00",
+ "generated_at_utc": "2026-11-17T15:22:49.554583+00:00",
+ "collected_at_utc": "2026-11-17T15:22:49.554583+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1026,
-  "china": 901,
+  "china": 902,
   "taiwan": 311,
-  "korea": 762
+  "korea": 761
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T05:34:00+00:00"
+   "newest": "2026-11-17T07:56:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T09:02:01+00:00"
+   "newest": "2026-11-14T03:39:48+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T03:10:34+00:00"
+   "newest": "2026-11-16T16:11:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T15:02:17+00:00"
+   "newest": "2026-11-17T15:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Valor Economico",
+   "title_en": "Dutch restrictions on chips create friction between EU and China, diplomat says",
+   "url": "https://www.tradingview.com/news/moodys:bd1b52a976ef8:0/",
+   "published_utc": "2026-11-17T15:21:40+00:00",
+   "title_original": "Restrições da Holanda a chips criam atrito entre UE e China, diz diplomata",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c7ee6ec477890f2"
+  },
   {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
@@ -1310,23 +1327,6 @@
    "id": "d62d1e7c178e0871"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea tightens university exam checks to screen for hidden cameras",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Y0HU:0-south-korea-tightens-university-exam-checks-to-screen-for-hidden-cameras/",
-   "published_utc": "2026-11-17T08:13:10+00:00",
-   "title_original": "South Korea tightens university exam checks to screen for hidden cameras",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9d2ebf6d0246c9ca"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "The catering industry cannot withstand inflation. Five brands in Wacheng will increase their prices by about 3.6% starting from 11/24.",
@@ -1792,24 +1792,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b835872955a048c5"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
-   "published_utc": "2026-11-17T03:10:34+00:00",
-   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -2534,6 +2516,24 @@
    "live_wire": false,
    "manual": false,
    "id": "afe86a77493e1224"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
+   "published_utc": "2026-11-16T16:11:34+00:00",
+   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "tradingview_live",
