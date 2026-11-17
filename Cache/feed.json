@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T21:22:47.915709+00:00",
- "collected_at_utc": "2026-11-17T21:22:47.915709+00:00",
+ "generated_at_utc": "2026-11-17T21:32:51.391600+00:00",
+ "collected_at_utc": "2026-11-17T21:32:51.391600+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1024,
-  "china": 906,
+  "japan": 1023,
+  "china": 907,
   "taiwan": 310,
   "korea": 760
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-06T08:00:00+00:00"
+   "newest": "2026-11-17T03:10:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T21:22:19+00:00"
+   "newest": "2026-11-17T21:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T14:44:11+00:00"
+   "newest": "2026-11-17T13:28:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T06:15:00+09:00"
+   "newest": "2026-11-18T06:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Nvidia Corporation Shipments Of Data Center Hopper Products To China During The Quarter Were $2.4 Billion",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Y18T:0-nvidia-corporation-shipments-of-data-center-hopper-products-to-china-during-the-quarter-were-2-4-billion/",
+   "published_utc": "2026-11-17T21:26:12+00:00",
+   "title_original": "Nvidia Corporation Shipments Of Data Center Hopper Products To China During The Quarter Were $2.4 Billion",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8294bda52a4a7315"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1306,23 +1323,6 @@
    "id": "46cda6b56686ec86"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yomiuri: Asics Aims for 1.5 Trillion Yen in Net Sales for 2029",
-   "url": "https://www.tradingview.com/news/DJN_DN20261117001616:0-yomiuri-asics-aims-for-1-5-trillion-yen-in-net-sales-for-2029/",
-   "published_utc": "2026-11-17T09:38:00+00:00",
-   "title_original": "Yomiuri: Asics Aims for 1.5 Trillion Yen in Net Sales for 2029",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4d266bbb731a52d8"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "아주경제",
    "title_en": "[Counterattack of digital dollar hegemony] Strengthening dollar hegemony through financial innovation... Bank of Korea monetary policy also has influence",
@@ -1998,6 +1998,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b835872955a048c5"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
+   "published_utc": "2026-11-17T03:10:34+00:00",
+   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -2724,24 +2742,6 @@
    "id": "afe86a77493e1224"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
-   "published_utc": "2026-11-16T16:11:34+00:00",
-   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d8b843a7710e9df"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "AFP",
    "title_en": "US blocks China's indirect access to American AI chips",
@@ -3256,8 +3256,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3272,7 +3272,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -3627,7 +3627,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Additional interest rate hikes at fixed intervals and widths Bank of Japan member Takada (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXJuRGw2MGR0QWF5bXpmaHl6TWFpZVdoWF9Pdk9HZ1I4S3VQaFJ5RFhUNXR6U1BYc0J5X2daSVJ6UmRuUVdBcndqZlZIV2VsUVRJcUxESFVLZFdYdjNjNzlWX2E5U0V5WWZKcThHV3BfcV92NF9kcm5Zb3BkT3BnN0lIMExPdnJ4YTcxRjZQZUs2Zzg0Wi1TTlBfTTR1X3hEY2haY19hQ2RPbjRBRVJ1Z2hyaWtreF9pZDVVWkJMVE15MGRnMWpn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWmJ6RVRhRXQtMGFDa0dDYXpPUUhkUDV0eGxTODVPcklxLXdwYl9VNHpxQ3ZEUW5wQy1Fcld4RGd6Zzk0YlVIMVZnZ3VlYUhCZnVVQ1lYY0hmRFdzVFBjUTN2eGR3d3ZzRE1Ub3FkdHgxSkZWUjRMV0NvRkkyUTQ?oc=5",
    "published_utc": "2026-11-16T07:07:13+00:00",
    "title_original": "一定の間隔、幅にとらわれず 追加利上げ 高田日銀委員（時事通信）",
    "region": "japan",
@@ -3638,7 +3638,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e747072411af5af"
+   "id": "f21ff999fe120653"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -5346,8 +5346,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5361,7 +5361,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
