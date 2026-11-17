@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T06:36:24.162611+00:00
+Última coleta: 2026-11-17T06:45:42.199161+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
-  🇨🇳 China          889
+  🇨🇳 China          890
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  769
+  🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry
+  - [china] China and Canada Expand Tariff Relief as Xi Meets Carney
   - [korea] IMF raises Korea's 2026 growth forecast to 3.9% on AI chip boom
   - [china] China stocks flat as chip curbs lift local tech, hit internet giants
   - [china] U.S. tightens rules to restrict China’s access to advanced AI chips overseas
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung, SK hynix spend W88tr on capex as cash holdings soar
   - [korea] S. Korea regains top spot in global OLED shipments in H1
   - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of Olympics canceled (2) (JoongAng Ilbo Japane
-  - [japan] Difference over “financial burden”? Jeonbuk-Seoul joint hosting of the Olympics has been canceled (1) (JoongAn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T06:36:24+00:00",
+      "published_utc": "2026-11-17T06:45:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
