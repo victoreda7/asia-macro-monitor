@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T19:52:51.135056+00:00
+Última coleta: 2026-11-17T20:02:49.138593+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Canada and China Draw Closer with Expanded Trade Pact — WSJ
   - [japan] ASICS: Scale to JPY 1.5 trillion by 2029 while targeting 50% ROE
   - [china] Economists Call for More Stimulus to Bolster Domestic Demand
   - [japan] Japan to bolster defense ties with Chile, paving way for exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Citi expects South Korea rate hikes despite stock market decline
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [japan] Yomiuri: Effissimo Purchasing More Shares of Japanese Semiconductor-Related Stocks
-  - [japan] Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T19:52:51+00:00",
+      "published_utc": "2026-11-17T20:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
