@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T09:22:43.187188+00:00
+Última coleta: 2026-11-17T09:32:55.094932+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
-  🇨🇳 China          897
+  🇨🇳 China          898
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  765
+  🇰🇷 Coreia do Sul  764
 
 ## O que já está no feed (não repita)
 
+  - [japan] Local Finance Council “Take concrete steps through tax reform to correct uneven distribution of taxes”
+  - [china] China will adopt "necessary measures" after new US restrictions on chip exports
+  - [china] Chinese envoy says restrictions on exports of equipment for the chip industry threaten the unfreezing of trade
+  - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
   - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US confirms investigation into Megaspeed for alleged diversion of chips to China
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
   - [china] U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry
   - [china] China and Canada Expand Tariff Relief as Xi Meets Carney
-  - [korea] IMF raises Korea's 2026 growth forecast to 3.9% on AI chip boom
-  - [china] China stocks flat as chip curbs lift local tech, hit internet giants
-  - [china] U.S. tightens rules to restrict China’s access to advanced AI chips overseas
-  - [china] New rules for beauty festival before Sichuan-Xi meeting! Restricting the export of chips to overseas data cent
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T09:22:43+00:00",
+      "published_utc": "2026-11-17T09:32:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
