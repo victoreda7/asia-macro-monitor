@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T08:22:43.399100+00:00",
- "collected_at_utc": "2026-11-17T08:22:43.399100+00:00",
+ "generated_at_utc": "2026-11-17T08:33:07.934591+00:00",
+ "collected_at_utc": "2026-11-17T08:33:07.934591+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1037,
-  "china": 895,
+  "china": 894,
   "taiwan": 302,
-  "korea": 766
+  "korea": 767
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 50.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:01:51+00:00"
+   "newest": "2026-11-17T08:15:00+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T06:51:26+00:00"
+   "newest": "2026-11-17T08:30:27+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T16:23:00+09:00"
+   "newest": "2026-11-17T17:28:16+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-17T16:20:41+09:00"
+   "newest": "2026-11-17T17:30:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T05:25:00+00:00"
+   "newest": "2026-11-17T05:06:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T01:22:00+00:00"
+   "newest": "2026-11-17T06:52:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T23:00:11+00:00"
+   "newest": "2026-11-17T02:00:17+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T08:21:00+00:00"
+   "newest": "2026-11-17T08:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T07:25:06+00:00"
+   "newest": "2026-11-17T07:57:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,9 +337,9 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
-   "newest": "2026-11-17T05:35:00+00:00"
+   "newest": "2026-11-17T05:36:31+00:00"
   }
  ],
  "falhas_seguidas": {},
@@ -412,6 +412,23 @@
    "live_wire": true,
    "manual": false,
    "id": "5b6d17b7757b5543"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of management in preparation for a crisis (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VGtmR0VjWTNxaFpjd0NLVjNJSjRRdlJ6RWJsQjRkT1Nnb3VVQVJuZGlTT0hlSmtLeTJvZWVKZF9FYzIzWDZCcTJHYndZTEFkSi1EYTlYNUg0ZzZBdnQ0ZnpqaTRyWGhSd24ya2MzRUdZRFlTejJWdG1jOEctRGc?oc=5",
+   "published_utc": "2026-11-17T07:57:22+00:00",
+   "title_original": "政府・日銀、信金信組の融資把握 危機に備え、経営の健全性を分析（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aa1c935eeb20318e"
   },
   {
    "source_id": "tradingview_live",
@@ -706,6 +723,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "서울파이낸스",
+   "title_en": "Even during rising interest rates, the four major banks take a step back in NIM... pressure on financing costs is a 'variable'",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvYllmek9FWmlyMHdFR3N4b1V1c1B5cDM2eGZDdmpQQnNpMldIUzNHSjNsV2RqOGpWaU5UOHNZcXFLcDJ0a0Vid01ybV9WUFo4bVJUbDQySWYxcDNIbWVKT01hWTFVMDFJaFE?oc=5",
+   "published_utc": "2026-11-17T05:36:31+00:00",
+   "title_original": "금리 상승기에도 4대 은행 NIM 뒷걸음···조달비용 압박 '변수'",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1855ae1881227f15"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "이투데이",
    "title_en": "Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is private consumption.”",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rN2VmYkd5OGNaVzM5WkVKZzlwdEdHMnVXWDNQaWdxVThocWVqZkxIbTBVQ1IxdE9DcGVNSUJmQl9hdXlpOTFpZWx1YnA3VS14LXBuNw?oc=5",
@@ -880,23 +914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "864f97b5c61cbb47"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of management in preparation for a crisis (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VGtmR0VjWTNxaFpjd0NLVjNJSjRRdlJ6RWJsQjRkT1Nnb3VVQVJuZGlTT0hlSmtLeTJvZWVKZF9FYzIzWDZCcTJHYndZTEFkSi1EYTlYNUg0ZzZBdnQ0ZnpqaTRyWGhSd24ya2MzRUdZRFlTejJWdG1jOEctRGc?oc=5",
-   "published_utc": "2026-11-17T04:25:48+00:00",
-   "title_original": "政府・日銀、信金信組の融資把握 危機に備え、経営の健全性を分析（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aa1c935eeb20318e"
   },
   {
    "source_id": "nhk_politics",
@@ -4869,7 +4886,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will raise the foreign exchange deposit reserve ratio by 2 percentage points from November 15",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcXRxRG5qSUdtWGxiZTl3ak9sRDIxRkNyanhoLW1ONXloMU9QZ0V3YmhNQnJHTm1IenNRcmZaVTkyeTlhZTdsdjRMcDAwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2JGbHQzTVR0R2l4dGpfdVA1S0RmQzRxdmtBRXQzWXd5UkdhVnJVUWZoaE5DcXVzRHIxaVFfbXhSM0RmV3FBOWpfWkpURmdueWZSSUVzREw2dHhjc3RnUVBR?oc=5",
    "published_utc": "2026-11-15T08:21:43+00:00",
    "title_original": "央行11月15日起上调外汇存款准备金率2个百分点",
    "region": "china",
@@ -4880,7 +4897,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "009e9cb2d134935b"
+   "id": "91ffe9b3352be4b6"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -9391,7 +9408,7 @@
    "id": "a2775052b3efc5fe"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia faces deepening scrutiny over China chip ties, CEO affair",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
@@ -9405,7 +9422,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5ffbd3cd068ab02a"
+   "id": "1398ae0aff03df27"
   },
   {
    "source_id": "boj_whatsnew",
@@ -51885,23 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "359ae2072afe4cc8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China copper import premium hits highest since 2014",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680ZI:0-china-copper-import-premium-hits-highest-since-2014/",
-   "published_utc": "2026-10-22T16:30:55+00:00",
-   "title_original": "China copper import premium hits highest since 2014",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5a7a16b9369e95c3"
   },
   {
    "source_id": "manual_ia",

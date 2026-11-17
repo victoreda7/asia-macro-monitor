@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T08:22:43.399100+00:00
+Última coleta: 2026-11-17T08:33:07.934591+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
-  🇨🇳 China          895
+  🇨🇳 China          894
   🇹🇼 Taiwan         302
-  🇰🇷 Coreia do Sul  766
+  🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] South Korea tightens university exam checks to screen for hidden cameras
   - [china] Before the Trump-Xi meeting, the US strictly controlled the export of advanced AI chips and Beijing approved e
   - [china] Key facts: Apollo Go; Kunlunxin Listing; Cloud Cash Flow 2.8B Yuan
+  - [japan] Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of ma
   - [china] U.S. Chip Curbs Pose Double-Edged Sword for China AI Industry — Market Talk
   - [china] Nvidia to halt chip sales to data centers renting over half to China - report
   - [china] Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [taiwan] Candidates address Taoyuan's bus woes at TV policy presentation
   - [taiwan] The United States strictly controls the export supply chain of advanced AI chips: the manufacturing flow has a
   - [china] U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update
+  - [korea] Even during rising interest rates, the four major banks take a step back in NIM... pressure on financing costs
   - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry
@@ -48,7 +50,6 @@ Total: 3000 manchetes
   - [china] New rules for beauty festival before Sichuan-Xi meeting! Restricting the export of chips to overseas data cent
   - [china] Chinese firms turn to US AI models for training as export restrictions tighten: Reuters
   - [taiwan] Daxin aims for semiconductor materials to exceed half of revenue by 2030
-  - [japan] Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of ma
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi ``negotiates to gain understanding'' of co
   - [japan] Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes
   - [japan] Government, Bank of Japan to grasp loan information of Shinkin Banks (Kyodo News)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China AI Highflier Crashes 85% as Chip Fears Hit Model Makers
   - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
   - [china] China, Canada Expand Tariff Relief in Deepening Trade Thaw
-  - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T08:22:43+00:00",
+      "published_utc": "2026-11-17T08:33:08+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
