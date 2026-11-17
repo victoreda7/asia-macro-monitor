@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T07:57:36.598462+00:00
+Última coleta: 2026-11-17T08:15:31.651791+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
   🇨🇳 China          893
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  765
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea tightens university exam checks to screen for hidden cameras
+  - [china] Key facts: Apollo Go; Kunlunxin Listing; Cloud Cash Flow 2.8B Yuan
+  - [china] U.S. Chip Curbs Pose Double-Edged Sword for China AI Industry — Market Talk
+  - [china] Nvidia to halt chip sales to data centers renting over half to China - report
+  - [china] Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports
   - [korea] Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms
   - [china] Nvidia warns chip buyers about legal risks related to access to AI in China, according to CNBC report
-  - [china] Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports
   - [korea] “Key Players in Accelerating the $1 Trillion Export Milestone”... World Class Products Expand to 1,100 Compani
   - [japan] Stock prices fall Sell orders centered on AI and semiconductor related stocks
   - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
   - [taiwan] Analysis: TSMC's venture capital strategy targets both ends of AI ecosystem to secure demand and strengthen su
-  - [japan] BOJ board member calls for 'nimble' monetary policy
-  - [japan] [Today's Oha Biz Tuesday, November 17th] Develop semiconductor design talent
-  - [china] US moves to curb China's remote access to AI chips after Nvidia scandal
-  - [taiwan] TSMC 3nm enters HBM as NVHBM reshapes base-die competition
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T07:57:36+00:00",
+      "published_utc": "2026-11-17T08:15:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
