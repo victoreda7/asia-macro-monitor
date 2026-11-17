@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T00:34:56.778079+00:00
+Última coleta: 2026-11-17T00:44:46.905715+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
@@ -25,8 +25,8 @@ Total: 3000 manchetes
   - [japan] The trick of a subscription service that tricks your brain into thinking "If it's less than 10,000 yen per mon
   - [china] China resumes storing crude oil, giving it fuel export options: Russell
   - [china] U.S. Department of Commerce launches new rules to prevent detouring of advanced semiconductors to China and ot
-  - [korea] The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.
   - [korea] The possibility of the Bank of Korea's base interest rate increasing from 3.00 to 3.25% this month increases.
+  - [korea] The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.
   - [japan] SoftBank, Rakuten push Japan retail bond issuance to record high
   - [taiwan] 3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves
   - [japan] Japan's economy unexpectedly shrinks as inflation squeezes households
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T00:34:56+00:00",
+      "published_utc": "2026-11-17T00:44:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
