@@ -7,24 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T09:32:55.094932+00:00
+Última coleta: 2026-11-17T09:42:54.944891+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          898
-  🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  764
+  🇯🇵 Japão          1036
+  🇨🇳 China          897
+  🇹🇼 Taiwan         304
+  🇰🇷 Coreia do Sul  763
 
 ## O que já está no feed (não repita)
 
+  - [japan] House of Councilors Special Committee Confirms Second Question Asked for Prime Minister Takaichi's Attendance 
+  - [japan] Yomiuri: Asics Aims for 1.5 Trillion Yen in Net Sales for 2029
+  - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
+  - [korea] [Counterattack of digital dollar hegemony] Strengthening dollar hegemony through financial innovation... Bank 
   - [japan] Local Finance Council “Take concrete steps through tax reform to correct uneven distribution of taxes”
+  - [taiwan] New rules for US exports of AI chips to prevent transshipment Quanta and Wistron’s assessment will not be affe
+  - [korea] Who sets the base interest rate and how?: A summary of the Monetary Policy Committee
   - [china] China will adopt "necessary measures" after new US restrictions on chip exports
   - [china] Chinese envoy says restrictions on exports of equipment for the chip industry threaten the unfreezing of trade
-  - [china] Chinese envoy says chip equipment export curbs threaten EU-China trade thaw
   - [china] China's JD Logistics Q3 revenue rises on growth in external integrated supply chain customers
   - [china] US to curb China’s access to AI chips as Trump heads to Asia
   - [china] US confirms investigation into Megaspeed for alleged diversion of chips to China
-  - [korea] Who sets the base interest rate and how?: A summary of the Monetary Policy Committee
+  - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
   - [china] China stocks dip as US chip curbs weigh sentiment, internet majors slide
   - [korea] Although the local stock market is sluggish due to weak semiconductor stocks, Celltrion has risen ne..
   - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Anthropic IPO tests next leg of rally in Samsung, SK hynix
   - [taiwan] Candidates address Taoyuan's bus woes at TV policy presentation
   - [taiwan] The United States strictly controls the export supply chain of advanced AI chips: the manufacturing flow has a
-  - [china] U.S. Chip Export Curbs a Mixed Bag for Chinese AI — Update
-  - [korea] Even during rising interest rates, the four major banks take a step back in NIM... pressure on financing costs
-  - [korea] Citi: “The Bank of Korea will further increase the base interest rate this month... The downside risk is priva
-  - [china] U.S. Chip Export Curbs Have Mixed Implications for China's AI Industry
-  - [china] China and Canada Expand Tariff Relief as Xi Meets Carney
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T09:32:55+00:00",
+      "published_utc": "2026-11-17T09:42:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
