@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T04:54:22.941098+00:00",
- "collected_at_utc": "2026-11-17T04:54:22.941098+00:00",
+ "generated_at_utc": "2026-11-17T05:05:19.975274+00:00",
+ "collected_at_utc": "2026-11-17T05:05:19.975274+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1042,
-  "china": 887,
-  "taiwan": 303,
+  "china": 888,
+  "taiwan": 302,
   "korea": 768
  },
- "elapsed_s": 105.4,
+ "elapsed_s": 177.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 16,
+   "count": 17,
    "error": "",
    "newest": "2026-11-17T02:15:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T04:35:06+00:00"
+   "newest": "2026-11-17T04:48:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T04:18:22+00:00"
+   "newest": "2026-11-17T04:48:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T03:11:00+00:00"
+   "newest": "2026-11-17T04:55:14+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T03:10:34+00:00"
+   "newest": "2026-11-15T23:27:10+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T04:51:31+00:00"
+   "newest": "2026-11-17T05:03:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,41 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China stocks flat as chip curbs lift local tech, hit internet giants",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Y0BT:0-china-stocks-flat-as-chip-curbs-lift-local-tech-hit-internet-giants/",
+   "published_utc": "2026-11-17T05:02:08+00:00",
+   "title_original": "China stocks flat as chip curbs lift local tech, hit internet giants",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "82ae289c88b8b0f2"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "U.S. tightens rules to restrict China’s access to advanced AI chips overseas",
+   "url": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619",
+   "published_utc": "2026-11-17T04:44:24+00:00",
+   "title_original": "U.S. tightens rules to restrict China’s access to advanced AI chips overseas",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "280f087ed308bdfd"
+  },
+  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "New rules for beauty festival before Sichuan-Xi meeting! Restricting the export of chips to overseas data centers prevents Chinese companies from obtaining advanced AI chips｜Experts at the U.S., China and Russia leaders’ talks: The closer Trump and Russia and China are getting closer may worry allies｜2026/11/17 Central News Agency Global Lunchtime Express",
@@ -361,6 +396,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6296fb4dd27bb27c"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
+   "published_utc": "2026-11-17T04:36:19+00:00",
+   "title_original": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a3dcc46c636d640"
   },
   {
    "source_id": "tradingview_live",
@@ -419,7 +471,7 @@
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi ``negotiates to gain understanding'' of consumption tax reduction bill",
    "url": "https://news.web.nhk/newsweb/na/nd-20261117de77068",
-   "published_utc": "2026-11-17T04:25:14+00:00",
+   "published_utc": "2026-11-17T04:25:00+00:00",
    "title_original": "自民 小林政調会長 消費税減税法案“理解得られるよう交渉”",
    "region": "japan",
    "topics": [
@@ -431,23 +483,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f50a5bc4f4b77e9d"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
-   "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
-   "published_utc": "2026-11-17T04:18:22+00:00",
-   "title_original": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a3dcc46c636d640"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51868,41 +51903,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d2c616367a2b402c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 258 billion yuan overnight reverse repurchase operation on October 23",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16MHF0UTRSOC1tQVluaFJueEFqQV92VW1pV08za0FCc0xqR0lsNWs5SE5KNHctVUdWeDJITWsyZXVWaTFPckt5WXdqdm0xbUd2el9FS01QQ00?oc=5",
-   "published_utc": "2026-10-22T10:30:00+00:00",
-   "title_original": "央行10月23日开展了2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fec6b2a95d086038"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX25KRUp2V1RrTDQxQU5IMTB6a01sb09rQ2xWeVIzaExPdGpkMUNzS2EyOXZFYUQ2R2NfSE1CaXljSE9hNmpUMWs4OHhHX1oyMm5nOThCZkM0UkdBbER1MlF4SnRLY20tMF9YWTVBNnFYZk1pX1dfRjlkS2hRVk5fNEdvRUFOZ1Z4dnRGU3pHMHF4QQ?oc=5",
-   "published_utc": "2026-10-22T10:26:35+00:00",
-   "title_original": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "805a5e3e2f3a4eab"
   },
   {
    "source_id": "manual_ia",

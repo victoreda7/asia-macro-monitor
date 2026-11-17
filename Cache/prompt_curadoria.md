@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T04:54:22.941098+00:00
+Última coleta: 2026-11-17T05:05:19.975274+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1042
-  🇨🇳 China          887
-  🇹🇼 Taiwan         303
+  🇨🇳 China          888
+  🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [china] China stocks flat as chip curbs lift local tech, hit internet giants
+  - [china] U.S. tightens rules to restrict China’s access to advanced AI chips overseas
   - [china] New rules for beauty festival before Sichuan-Xi meeting! Restricting the export of chips to overseas data cent
+  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [china] Chinese firms turn to US AI models for training as export restrictions tighten: Reuters
   - [taiwan] Daxin aims for semiconductor materials to exceed half of revenue by 2030
   - [japan] Understanding the loans of the government, the Bank of Japan, and credit unions; analyzing the soundness of ma
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi ``negotiates to gain understanding'' of co
-  - [china] Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite
   - [japan] Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes
   - [japan] Government, Bank of Japan to grasp loan information of Shinkin Banks (Kyodo News)
   - [china] AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Key facts: TSMC sales +59.7%; $500M Anthropic stake; Viking +23.2%
   - [japan] Interest Rate (November 16 2026)
   - [korea] Bank of Korea Could Raise Inflation Forecasts at Coming Policy Meeting — Market Talk
-  - [taiwan] UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners
-  - [japan] A weak yen causes prices to rise and consumption to shrink...Japanese economy has negative growth for the firs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T04:54:23+00:00",
+      "published_utc": "2026-11-17T05:05:20+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
