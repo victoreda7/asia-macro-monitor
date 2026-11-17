@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T17:22:41.883234+00:00
+Última coleta: 2026-11-17T17:32:55.162627+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
@@ -17,6 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting
+  - [china] VGNT: China exports, engineering complexity and adjacent markets underpin growth opportunities
+  - [china] Nvidia AI Chip Restrictions Expand as US Closes Cloud Computing Loophole for China
   - [china] Como o ex-presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e es
   - [china] Nvidia forms export-control panel as Huang affair puts China ties in focus
   - [japan] Japan-Korea summit meeting Continues shuttle diplomacy President Lee’s intention to visit Japan in January nex
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foxconn says it will acquire Sony Semiconductor Solutions' automotive camera module business
   - [china] JSW Steel CEO flags Chinese exports, trade barriers as key challenges
   - [taiwan] The United States strictly controls the export of advanced AI chips: some orders may be delayed | Sankei
-  - [taiwan] Taiex plunges amid AI concerns, suspected gov't intervention
-  - [korea] Samsung and Apple near long-term DRAM supply agreement
-  - [china] Shanghai Runda Medical Technology Plans Bond Issuance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T17:22:42+00:00",
+      "published_utc": "2026-11-17T17:32:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
