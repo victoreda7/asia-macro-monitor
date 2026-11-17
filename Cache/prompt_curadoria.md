@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T12:22:43.023277+00:00
+Última coleta: 2026-11-17T12:32:56.924024+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia sets up board committee to oversee national security, export control risks amid China scrutiny
   - [china] Forvia Hella Wins Three Series-Production Radar Orders From Leading Chinese Car Manufacturers
   - [japan] Yen Expected to Outperform in 2027, BofA Survey Says — Market Talk
   - [china] Hella - Forvia Hella Wins Series Production Orders For Radar From Leading Chinese Automotive Manufacturer
@@ -26,7 +27,6 @@ Total: 3000 manchetes
   - [japan] Yen Rises Amid Fx Intervention Risks
   - [china] Nvidia Sends Stark Warning to Customers Over Chinese Access to Its AI Chips
   - [taiwan] Yushan Gold: Taiwan’s central bank has the conditions to raise interest rates by the end of the year and estim
-  - [china] Jensen Huang’s Views On China Chips Market Stretch Back Years
   - [japan] Yen Rises Against Majors
   - [china] Canada, China extend tariff relief measures through 2028
   - [japan] Mapping the Market: Yen could weaken into danger zone for intervention
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T12:22:43+00:00",
+      "published_utc": "2026-11-17T12:32:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
