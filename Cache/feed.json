@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-17T19:32:53.909409+00:00",
- "collected_at_utc": "2026-11-17T19:32:53.909409+00:00",
+ "generated_at_utc": "2026-11-17T19:42:56.708412+00:00",
+ "collected_at_utc": "2026-11-17T19:42:56.708412+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 311,
   "korea": 762
  },
- "elapsed_s": 33.4,
+ "elapsed_s": 28.3,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T18:21:00+00:00"
+   "newest": "2026-11-16T05:34:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -81,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 56,
+   "count": 43,
    "error": "",
-   "newest": "2026-11-17T19:37:21+08:00"
+   "newest": "2026-11-17T20:57:24+08:00"
   },
   {
    "source_id": "investing_live",
@@ -91,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T19:13:16+00:00"
+   "newest": "2026-11-17T19:32:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T18:55:19+00:00"
+   "newest": "2026-11-17T19:24:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -107,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T16:25:19+00:00"
+   "newest": "2026-11-17T19:14:14+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T14:32:00+00:00"
+   "newest": "2026-11-17T10:31:43+00:00"
   },
   {
    "source_id": "ked_global",
@@ -188,6 +172,22 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-16T16:11:34+00:00"
+  },
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-18T01:36:00+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-17T23:34:45+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-17T19:22:02+00:00"
+   "newest": "2026-11-17T19:41:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T08:00:01+00:00"
+   "newest": "2026-11-17T14:40:54+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -342,10 +342,7 @@
    "newest": "2026-11-17T09:30:00+00:00"
   }
  ],
- "falhas_seguidas": {
-  "nhk_politics": 1,
-  "nhk_economy": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "tradingview_live",
@@ -3154,8 +3151,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3170,7 +3167,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -5244,8 +5241,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5259,7 +5256,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7010,8 +7007,8 @@
    "id": "2cfa49aaca04650c"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Subsidy “Consideration for more than 50% of workers”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75691",
    "published_utc": "2026-11-13T13:03:24+00:00",
@@ -7025,7 +7022,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cedd4f2b06dd3c91"
+   "id": "a4f9cf2e60052985"
   },
   {
    "source_id": "gn_cn_scmp",
