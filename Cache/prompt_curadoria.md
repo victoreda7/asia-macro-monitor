@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T08:15:31.651791+00:00
+Última coleta: 2026-11-17T08:22:43.399100+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1038
-  🇨🇳 China          893
-  🇹🇼 Taiwan         303
+  🇯🇵 Japão          1037
+  🇨🇳 China          895
+  🇹🇼 Taiwan         302
   🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [china] New wave of insolvency in China's real estate sector causes credit risk to resurface
   - [korea] South Korea tightens university exam checks to screen for hidden cameras
+  - [china] Before the Trump-Xi meeting, the US strictly controlled the export of advanced AI chips and Beijing approved e
   - [china] Key facts: Apollo Go; Kunlunxin Listing; Cloud Cash Flow 2.8B Yuan
   - [china] U.S. Chip Curbs Pose Double-Edged Sword for China AI Industry — Market Talk
   - [china] Nvidia to halt chip sales to data centers renting over half to China - report
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC
   - [china] China, Canada Expand Tariff Relief in Deepening Trade Thaw
   - [china] Chip Stocks Slide as US Sets New Curbs on China’s Compute Access
-  - [china] Latest U.S. Chip Export Rules to Hurt Chinese AI Companies — Market Talk
-  - [taiwan] Analysis: TSMC's venture capital strategy targets both ends of AI ecosystem to secure demand and strengthen su
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T08:15:31+00:00",
+      "published_utc": "2026-11-17T08:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
