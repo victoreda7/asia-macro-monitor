@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-17T20:52:49.314430+00:00
+Última coleta: 2026-11-17T21:02:46.284784+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
-  🇨🇳 China          905
+  🇯🇵 Japão          1023
+  🇨🇳 China          906
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  762
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Data Pitfalls> The Bank of Japan shows that ``young people are more likely to consume'' and appeals for a ``v
+  - [japan] "Exciting and moving" "Beautiful culture" Why "Gen Z" who don't know about the Showa era are obsessed with "Hi
+  - [japan] Big headwind from food tax cuts, serious impact feared by restaurant group leaders... Why they are seeking nat
   - [japan] Consumption tax cut: Ruling party "accepts opposition party's insistence on passing through deliberations"
   - [china] Canada and China Draw Closer with Expanded Trade Pact — WSJ
   - [japan] ASICS: Scale to JPY 1.5 trillion by 2029 while targeting 50% ROE
@@ -31,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Japan-Korea summit meeting Continues shuttle diplomacy President Lee’s intention to visit Japan in January nex
   - [china] Dutch restrictions on chips create friction between EU and China, diplomat says
   - [china] Banks Pause $480 Million Chip Loan Tied to China’s ByteDance
+  - [china] China says it will take countermeasures if US imposes new chip curbs
   - [taiwan] Hon Hai agrees to buy Sony Semiconductor's automotive camera unit for $45.5M
   - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Yen Rises Amid Fx Intervention Risks
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia Sends Stark Warning to Customers Over Chinese Access to Its AI Chips
   - [taiwan] Yushan Gold: Taiwan’s central bank has the conditions to raise interest rates by the end of the year and estim
   - [japan] Yen Rises Against Majors
-  - [china] Canada, China extend tariff relief measures through 2028
-  - [japan] Mapping the Market: Yen could weaken into danger zone for intervention
-  - [korea] Citi expects South Korea rate hikes despite stock market decline
-  - [china] US to curb China’s access to AI chips as Trump heads to Asia
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-17T20:52:49+00:00",
+      "published_utc": "2026-11-17T21:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
