@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T00:22:50.248344+00:00",
- "collected_at_utc": "2026-11-18T00:22:50.248344+00:00",
+ "generated_at_utc": "2026-11-18T00:32:49.944790+00:00",
+ "collected_at_utc": "2026-11-18T00:32:49.944790+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1028,
+  "japan": 1030,
   "china": 903,
-  "taiwan": 311,
-  "korea": 758
+  "taiwan": 310,
+  "korea": 757
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 28.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T15:41:45+00:00"
+   "newest": "2026-11-17T19:00:23+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T14:32:00+00:00"
+   "newest": "2026-11-18T00:24:03+00:00"
   },
   {
    "source_id": "ked_global",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T08:50:00+09:00"
+   "newest": "2026-11-18T09:30:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T00:21:00+00:00"
+   "newest": "2026-11-18T00:27:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T09:00:00+09:00"
+   "newest": "2026-11-18T09:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T23:49:06+00:00"
+   "newest": "2026-11-17T23:16:38+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,59 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Interest Rate (November 17 2026)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/jgbcme.csv",
+   "published_utc": "2026-11-18T00:30:00+00:00",
+   "title_original": "Interest Rate (November 17 2026)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ddb110d2d42a2bd7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan exports set record in October on strong chip-related demand",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Y1CV:0-japan-exports-set-record-in-october-on-strong-chip-related-demand/",
+   "published_utc": "2026-11-18T00:24:39+00:00",
+   "title_original": "Japan exports set record in October on strong chip-related demand",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "72d0330bda37691c"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVAwaFZmMmdMMkxBVFlqR243UHZIRXVQOHA1SXB2ZXJYTXZNRTkzNy12TVVVdnBKSGtUamREU1lWSWtTOXUycUdlWjMzSlVUM3JRSS04bWtsbmV6dkFyNmNBMmVTNm43VXhubndwS0hqRlpVbzJCNmZndmVZYUl0Rm9YQ3p3WHRRak5Rd25PMUpibXNJQ0g2TUZoMlhBUDlOcGkyclZTYjliamdVZUk1SXFoMzAtLXdtY0ZJ?oc=5",
+   "published_utc": "2026-11-18T00:24:03+00:00",
+   "title_original": "Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "954570adfbf38aae"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -2652,23 +2705,6 @@
    "id": "d4af3ce05ad1c52c"
   },
   {
-   "source_id": "mof_jp",
-   "source_name": "MOF Japan",
-   "title_en": "Interest Rate (November 16 2026)",
-   "url": "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/jgbcme.csv",
-   "published_utc": "2026-11-17T00:30:00+00:00",
-   "title_original": "Interest Rate (November 16 2026)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8cedb7bbdb5f40e2"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners",
@@ -3630,8 +3666,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3646,7 +3682,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -4001,7 +4037,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Additional interest rate hikes at fixed intervals and widths Bank of Japan member Takada (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWmJ6RVRhRXQtMGFDa0dDYXpPUUhkUDV0eGxTODVPcklxLXdwYl9VNHpxQ3ZEUW5wQy1Fcld4RGd6Zzk0YlVIMVZnZ3VlYUhCZnVVQ1lYY0hmRFdzVFBjUTN2eGR3d3ZzRE1Ub3FkdHgxSkZWUjRMV0NvRkkyUTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXJuRGw2MGR0QWF5bXpmaHl6TWFpZVdoWF9Pdk9HZ1I4S3VQaFJ5RFhUNXR6U1BYc0J5X2daSVJ6UmRuUVdBcndqZlZIV2VsUVRJcUxESFVLZFdYdjNjNzlWX2E5U0V5WWZKcThHV3BfcV92NF9kcm5Zb3BkT3BnN0lIMExPdnJ4YTcxRjZQZUs2Zzg0Wi1TTlBfTTR1X3hEY2haY19hQ2RPbjRBRVJ1Z2hyaWtreF9pZDVVWkJMVE15MGRnMWpn?oc=5",
    "published_utc": "2026-11-16T07:07:13+00:00",
    "title_original": "一定の間隔、幅にとらわれず 追加利上げ 高田日銀委員（時事通信）",
    "region": "japan",
@@ -4012,7 +4048,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f21ff999fe120653"
+   "id": "2e747072411af5af"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -5720,8 +5756,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5735,7 +5771,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7227,6 +7263,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d2134ade3049a4b6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KOFFlVFhTU1dCLXBYcktGX29aRVVTbm9XMlR3SVBFNmJ1QlFfUWczNlQxWmVJb0pqRU9NN3A2c19ZTHZOMk1qLVBoMnZ0TmZNZE9UaTk0Tjlsa2hZUE9KUw?oc=5",
+   "published_utc": "2026-11-13T17:57:32+00:00",
+   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "772e347e38d57b9c"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -8965,24 +9019,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1516b591619cc878"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 300 billion yuan 7-day reverse repurchase operation in the open market today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hM25XQXQ2Z1h5Rlp4aDNXb1FJM3BIZ1Y0RjFKUmxWb21LUUlyMjlpT25BU2ZibmtEazl5THczeE5BR2VHSkNIY0VncmN2YzU1LThzckVkTUhpZkstOVk3czNkZXlrQQ?oc=5",
-   "published_utc": "2026-11-13T04:32:19+00:00",
-   "title_original": "央行今日公开市场开展3000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b35aa21fe9e1e949"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51874,42 +51910,6 @@
    "live_wire": false,
    "manual": false,
    "id": "84ecf2c544d5fb8d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "중기이코노미",
-   "title_en": "“The Bank of Korea will raise the base interest rate to 3.25% in November… Growth and inflation forecasts expected to be raised.”",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QNXRoMTQzcXI2WmRQTlpTbmpKRjh2OWRWQ21yQmZGTWNQWjZkdnoxX2JtVFlfVG5HdjhoRXpCQkw3bTVyMVB3Qk93MDA5MEZoXzQwUDdadHd6Nk9KYmVvbVExa2JtTVB0OUE?oc=5",
-   "published_utc": "2026-10-23T03:02:56+00:00",
-   "title_original": "\"한은, 11월 기준금리 3.25%로 올릴 것…성장·물가 전망 상향 예상\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ecb86afc9fe6956a"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "India becomes Taiwan's third-largest machine tool export market",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlhUNW10YTR1RHE3WGZ5TXFZQmZBbEJjMzFOc0QzbVVTaVlPSmRhd3VGNlJZVUZoWDVFX0JkVE9TZEt2X191NDJvbi1INkZXaDVSamJHODBuT3BWVjg1S3p5SmkydFZ6MEpiQ0F3VGhuSDhnV2NKTjZtRXpjSHoxUGtsNmpSa29aLW5Jcl9qdDFLcGVuNGU4?oc=5",
-   "published_utc": "2026-10-23T02:59:41+00:00",
-   "title_original": "India becomes Taiwan's third-largest machine tool export market",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2eac5256de2ddf3d"
   },
   {
    "source_id": "manual_ia",
