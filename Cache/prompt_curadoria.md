@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T02:42:50.767410+00:00
+Última coleta: 2026-11-18T02:52:49.454074+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -46,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
   - [japan] Interest Rate (November 17 2026)
+  - [japan] Japan’s Trade Gap Narrows Even With Steep Energy Import Gain
   - [japan] Japan exports set record in October on strong chip-related demand
   - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YE
   - [japan] MNI: JAPAN OCT EXPORTS +20.5% Y/Y; SEPT +16.5%
   - [japan] JAPAN OCT EXPORTS POST 14TH STRAIGHT Y/Y RISE
-  - [japan] Japan logs trade deficit for 6th straight month in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T02:42:50+00:00",
+      "published_utc": "2026-11-18T02:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
