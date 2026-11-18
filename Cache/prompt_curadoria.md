@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T13:42:57.417440+00:00
+Última coleta: 2026-11-18T13:52:50.497466+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
-  🇨🇳 China          907
+  🇯🇵 Japão          1025
+  🇨🇳 China          906
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  760
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
   - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
   - [china] Nvidia stops shipping US-approved AI chips to China
+  - [japan] Bank of Japan Governor Ueda attends the House of Councilors Finance Committee meeting on the 19th for the half
   - [china] Chinese steel exports could hit 130 million tonnes in 2026, threaten Indian industry: T V Narendran
   - [china] Nvidia to Stop Selling Advanced AI Chips to China
   - [china] Nvidia Makes Major China Decision After $2.4 Billion in AI Chip Sales
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026
   - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
   - [korea] Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound
-  - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T13:42:57+00:00",
+      "published_utc": "2026-11-18T13:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
