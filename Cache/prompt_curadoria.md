@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T16:12:44.805891+00:00
+Última coleta: 2026-11-18T16:22:43.126474+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          906
+  🇯🇵 Japão          1022
+  🇨🇳 China          907
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.48, Implies 40% Upside
+  - [china] Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China
   - [korea] Samvardhana Motherson Says Cheongju District Court Approves Liquidation Of Subsidiary MSSL Korea WH
   - [china] The central bank launches 714 billion yuan overnight reverse repurchase operation
   - [china] 'All Chinese players' will rely on domestic chips eventually: Tencent
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 127.63, Implies 43% Upside
   - [korea] Shinhan Bank performs well in the first half of the year despite the base interest rate cut and delayed domest
   - [korea] Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook fo
-  - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
-  - [china] In Depth: DeepSeek’s Computing Crunch Pushes China’s AI Developers Beyond Models
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T16:12:45+00:00",
+      "published_utc": "2026-11-18T16:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
