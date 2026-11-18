@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T06:12:43.484701+00:00",
- "collected_at_utc": "2026-11-18T06:12:43.484701+00:00",
+ "generated_at_utc": "2026-11-18T06:22:43.977955+00:00",
+ "collected_at_utc": "2026-11-18T06:22:43.977955+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1026,
-  "china": 912,
+  "japan": 1027,
+  "china": 911,
   "taiwan": 303,
   "korea": 759
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T05:50:58+00:00"
+   "newest": "2026-11-18T06:12:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T05:44:49+00:00"
+   "newest": "2026-11-18T06:12:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T12:35:00+09:00"
+   "newest": "2026-11-18T15:15:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T14:52:03+09:00"
+   "newest": "2026-11-18T15:15:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T03:27:00+00:00"
+   "newest": "2026-11-18T06:13:16+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T06:12:24+00:00"
+   "newest": "2026-11-18T06:22:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-18T05:18:31+00:00"
+   "newest": "2026-11-18T06:11:31+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -346,6 +346,57 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118000505:0-yen-likely-to-strengthen-next-year-as-fed-hike-bets-ease-market-talk/",
+   "published_utc": "2026-11-18T06:21:00+00:00",
+   "title_original": "Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c6ccbe1d3a0900ed"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261118a.htm",
+   "published_utc": "2026-11-18T06:15:00+00:00",
+   "title_original": "Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "24aaf18c2ad0714d"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "South Korea’s chip boom bypasses retail investors as stock rout hits spending",
+   "url": "https://www.investing.com/news/economy-news/south-koreas-chip-boom-bypasses-retail-investors-as-stock-rout-hits-spending-5034812",
+   "published_utc": "2026-11-18T06:12:21+00:00",
+   "title_original": "South Korea’s chip boom bypasses retail investors as stock rout hits spending",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9d46d3ee316e910"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs",
    "url": "https://www.tradingview.com/news/seekingalpha:2cac9f375094b:0-asian-markets-trade-mixed-as-nvidia-earnings-lift-kospi-and-nikkei-hong-kong-slips-on-us-chip-curbs/",
@@ -363,23 +414,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea's chip boom bypasses retail investors as stock rout hits spending",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Q0FI:0-south-korea-s-chip-boom-bypasses-retail-investors-as-stock-rout-hits-spending/",
-   "published_utc": "2026-11-18T06:00:00+00:00",
-   "title_original": "South Korea's chip boom bypasses retail investors as stock rout hits spending",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a10e8c41faebe293"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Yen Intervention Likely Still Some Way Off — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261118000094:0-yen-intervention-likely-still-some-way-off-market-talk/",
@@ -394,6 +428,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ba2e2c31ad4c6db8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's October youth jobless rate falls to 17.2%",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N4610AG:0-china-s-october-youth-jobless-rate-falls-to-17-2/",
+   "published_utc": "2026-11-18T05:57:15+00:00",
+   "title_original": "China's October youth jobless rate falls to 17.2%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "16e27efa8bfb7fbc"
   },
   {
    "source_id": "tradingview_live",
@@ -1238,23 +1289,6 @@
    "id": "79be5fbfec1e55b7"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "Nvidia no longer selling US-approved Hopper chips to China, Interim CEO Kress says",
-   "url": "https://www.tradingview.com/news/cnbctv:cd058c139094b:0/",
-   "published_utc": "2026-11-18T01:08:44+00:00",
-   "title_original": "Nvidia no longer selling US-approved Hopper chips to China, Interim CEO Kress says",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0444b3717d041cd1"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Governor Ueda will attend a special committee meeting of the House of Councilors from 10:00 a.m. (Source)",
@@ -1323,6 +1357,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ddb110d2d42a2bd7"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Japan’s Trade Gap Narrows Even With Steep Energy Import Gain",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXl1aUs2Z2pJanVXM2J0NDhFRGtGb2xKOG1JXzdBTXFFREx6T3VwcTRwdUZwdjZJOW9tYVNsTGpkcVFzaDV1RDh3NFZpTkhHQlF2R1pEYkdkRTU4cU05Qk5wNV9yQ0dJWnlmcWpabWExSVlnV1A3Q1BBT1FwZk1wREIwWEY4QWFuaEhpMndaaXJ0RFk0YWRzejlNUXZua2lCOXpXT0NOS0xnUzZIaDMxU2RCQQ?oc=5",
+   "published_utc": "2026-11-18T00:29:00+00:00",
+   "title_original": "Japan’s Trade Gap Narrows Even With Steep Energy Import Gain",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a306a8601d750ccb"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1411,23 +1462,6 @@
    "live_wire": true,
    "manual": false,
    "id": "283a38024cf7fdc6"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Japan’s Trade Gap Narrows Even With Steep Energy Import Gain",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXl1aUs2Z2pJanVXM2J0NDhFRGtGb2xKOG1JXzdBTXFFREx6T3VwcTRwdUZwdjZJOW9tYVNsTGpkcVFzaDV1RDh3NFZpTkhHQlF2R1pEYkdkRTU4cU05Qk5wNV9yQ0dJWnlmcWpabWExSVlnV1A3Q1BBT1FwZk1wREIwWEY4QWFuaEhpMndaaXJ0RFk0YWRzejlNUXZua2lCOXpXT0NOS0xnUzZIaDMxU2RCQQ?oc=5",
-   "published_utc": "2026-11-17T23:56:35+00:00",
-   "title_original": "Japan’s Trade Gap Narrows Even With Steep Energy Import Gain",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a306a8601d750ccb"
   },
   {
    "source_id": "tradingview_live",
@@ -12451,6 +12485,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "연합인포맥스",
+   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
+   "published_utc": "2026-11-12T02:25:40+00:00",
+   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5913d7dce403b065"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "뉴닉",
    "title_en": "US Federal Reserve's December interest rate hike forecast: Summary of the possibility of a 'big step' and the impact on the Korean economy 💸",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
@@ -12882,23 +12933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b25e4ff8f4d49ed6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
-   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
-   "published_utc": "2026-11-12T00:25:39+00:00",
-   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3ecde5047aee35c"
   },
   {
    "source_id": "nhk_economy",
@@ -13839,7 +13873,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "아주경제",
    "title_en": "Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZ0xDOGJOTkYxa3g5TnBna0hTTDkycUxVNHdOUlZRaE9HS0VUYmt1TjQwMU9XX0JNUDlwal9VLWR4Z0dpWXZZMk1RZEU3VXdlNXdOT0pFTmFfUdIBWEFVX3lxTE40RW9PWmMwNXdUSWRreEwzeXk1dEdBWThlVDlNSFBIZHQ5c2owdWFlZUpGcUdYRDBOVklQRjg1ZTRiQWJBU2N4ZzhCU0w4aTBab0VQV0s4Sjc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RW9PWmMwNXdUSWRreEwzeXk1dEdBWThlVDlNSFBIZHQ5c2owdWFlZUpGcUdYRDBOVklQRjg1ZTRiQWJBU2N4ZzhCU0w4aTBab0VQV0s4SjfSAVhBVV95cUxONEVvT1pjMDV3VElka3hMM3l5NXRHQVk4ZVQ5TUhQSGR0OXNqMHVhZWVKRnFHWEQwTlZJUEY4NWU0YkFiQVNjeGc4QlNMOGkwWm9FUFdLOEo3?oc=5",
    "published_utc": "2026-11-11T09:05:11+00:00",
    "title_original": "美 빅스텝 거론에 한은 금리 인상 압력 커지나",
    "region": "korea",
@@ -13850,7 +13884,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "342db7c25f5cf485"
+   "id": "aabb7861fb96b936"
   },
   {
    "source_id": "tradingview_live",
@@ -51874,41 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b383780a675cef3c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4690QU:0-china-sells-offshore-yuan-bonds-in-hong-kong-at-record-low-yields/",
-   "published_utc": "2026-10-23T09:43:28+00:00",
-   "title_original": "China sells offshore yuan bonds in Hong Kong at record-low yields",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "13635ffb988762a2"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkU3bjBYajBmanRSaC1HYTc3REZVbVd1ZUl3SHpOaUNpODdpdmg2V3dUaDdsUVN5a1lWd3NHTG1CT3BxcC1BQXVYcFc0VDZST3FaRTV2UUh4NXVXSTJzOWdZTFNTN0o3VkE4bmRGMER1X2xpSGttUktaRks0eTZiVzJlTlk4OGF5YWVkZC1fODN1blRsZFZMd3hCRDh1QndwdkJGbVF3VUd4NlEyNWRZUkpENy1rTzFvenVmTnBXN214U28?oc=5",
-   "published_utc": "2026-10-23T09:39:29+00:00",
-   "title_original": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b6d46e389e747c9"
   },
   {
    "source_id": "manual_ia",

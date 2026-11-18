@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T06:12:43.484701+00:00
+Última coleta: 2026-11-18T06:22:43.977955+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
-  🇨🇳 China          912
+  🇯🇵 Japão          1027
+  🇨🇳 China          911
   🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk
+  - [japan] Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)
+  - [korea] South Korea’s chip boom bypasses retail investors as stock rout hits spending
   - [korea] Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs
-  - [korea] South Korea's chip boom bypasses retail investors as stock rout hits spending
   - [japan] Yen Intervention Likely Still Some Way Off — Market Talk
+  - [china] China's October youth jobless rate falls to 17.2%
   - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
   - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
   - [japan] Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Carry out 700.2 billion yuan overnight reverse repurchase operation with an interest rate of 1.2
   - [china] Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest ra
   - [korea] The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong wo
-  - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
-  - [china] On November 18, the central bank launched a 700.2 billion yuan overnight reverse repurchase operation.
-  - [korea] Boston Dynamics to deploy robots at GlobalFoundries' chip plants
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T06:12:43+00:00",
+      "published_utc": "2026-11-18T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
