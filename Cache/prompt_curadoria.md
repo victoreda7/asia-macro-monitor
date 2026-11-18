@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T04:13:11.545849+00:00
+Última coleta: 2026-11-18T04:22:48.547098+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan governor says central bank should keep raising rates
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
   - [china] China's September grain, sugar and pork imports
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026
@@ -24,7 +25,6 @@ Total: 3000 manchetes
   - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
   - [korea] South Korean State Think Tank Raises Growth Forecasts
   - [japan] Stock prices fall, sell orders related to AI and semiconductors
-  - [japan] Bank of Japan governor says central bank should keep raising rates
   - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
   - [china] Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism
   - [japan] BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T04:13:11+00:00",
+      "published_utc": "2026-11-18T04:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
