@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T02:32:43.116099+00:00
+Última coleta: 2026-11-18T02:42:50.767410+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          910
+  🇯🇵 Japão          1033
+  🇨🇳 China          911
   🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  752
 
@@ -32,6 +32,7 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
   - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
   - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
+  - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
   - [korea] Citigroup predicts that the Bank of Korea will raise interest rates in both November and February, with rising
   - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI: JAPAN OCT EXPORTS +20.5% Y/Y; SEPT +16.5%
   - [japan] JAPAN OCT EXPORTS POST 14TH STRAIGHT Y/Y RISE
   - [japan] Japan logs trade deficit for 6th straight month in October
-  - [japan] JAPAN OCT IMPORT Y/Y RISE LED BY CRUDE OIL, COMPUTER CHIPS, COMPUTER ITEMS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T02:32:43+00:00",
+      "published_utc": "2026-11-18T02:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
