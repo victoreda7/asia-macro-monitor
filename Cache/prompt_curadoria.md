@@ -7,22 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T01:12:43.184295+00:00
+Última coleta: 2026-11-18T01:22:50.586616+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1031
-  🇨🇳 China          903
-  🇹🇼 Taiwan         309
+  🇯🇵 Japão          1030
+  🇨🇳 China          905
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [china] China warns US of retaliation over new AI chip restrictions
+  - [japan] The whole family is working together to endure the rise in prices...The reason why Japanese households cannot 
   - [korea] S. Korea moves to simplify rules of origin verification for used car exports
+  - [china] Nvidia no longer selling US-approved Hopper chips to China, Interim CEO Kress says
   - [japan] Japan's Export Growth Expected to Moderate Gradually — Market Talk
+  - [japan] Bank of Japan Governor Ueda will attend a special committee meeting of the House of Councilors from 10:00 a.m.
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
-  - [japan] Japan exports set record in October on strong chip-related demand
   - [japan] Interest Rate (November 17 2026)
+  - [japan] Japan exports set record in October on strong chip-related demand
   - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] The economic effect is supposed to be 1 billion yen, but the vendors are in the red...The Tottori Gourmet Fest
   - [china] Canada and China Draw Closer with Expanded Trade Pact — WSJ
   - [japan] <Data Pitfalls> The Bank of Japan shows that ``young people are more likely to consume'' and appeals for a ``v
-  - [japan] "Exciting and moving" "Beautiful culture" Why "Gen Z" who don't know about the Showa era are obsessed with "Hi
-  - [japan] Big headwind from food tax cuts, serious impact feared by restaurant group leaders... Why they are seeking nat
-  - [japan] Consumption tax cut: Ruling party "accepts opposition party's insistence on passing through deliberations"
-  - [china] China Is Getting Inflation in All the Wrong Places
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T01:12:43+00:00",
+      "published_utc": "2026-11-18T01:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
