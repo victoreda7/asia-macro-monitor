@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T20:52:42.534796+00:00
+Última coleta: 2026-11-18T21:03:02.982601+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1019
+  🇯🇵 Japão          1020
   🇨🇳 China          909
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  761
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan developer Hulic casts wide M&A net, from cram schools to bananas
   - [japan] Is there a way out for the food service industry, which is facing headwinds if the food tax is cut? The differ
   - [japan] Next year's tax reform: Issues such as correction of uneven distribution between Tokyo and regional areas Libe
   - [china] U.S.-China-Russia summit meeting: Ukraine's foreign minister ``It is impossible to make a decision without the
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.39, Implies 40% Upside
   - [taiwan] Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
+  - [china] Xi, Putin blast Western ’protectionism’ and sanctions as Trump lands in China By Reuters
   - [china] China increases sugar production and should reduce imports in the new harvest, predicts StoneX
   - [taiwan] Taiwan Semiconductor Manufacturing ADR
   - [japan] Toyota, Suzuki rely on weak yen to keep profits growing
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] NPS names investment strategy head to lead real estate portfolio
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
-  - [taiwan] Taiwan completes Asia's largest single offshore wind project off central coast, connecting 1 GW of capacity to
-  - [japan] Swiss Franc Expected to Weaken Against Yen on Policy Divergence — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T20:52:42+00:00",
+      "published_utc": "2026-11-18T21:03:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
