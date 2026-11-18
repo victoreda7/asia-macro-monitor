@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T06:52:46.297851+00:00
+Última coleta: 2026-11-18T07:02:50.590930+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          911
+  🇯🇵 Japão          1026
+  🇨🇳 China          910
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
+  - [korea] S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026
+  - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
   - [korea] Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound
   - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
   - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
@@ -27,7 +30,6 @@ Total: 3000 manchetes
   - [japan] Yen Intervention Likely Still Some Way Off — Market Talk
   - [china] China's October youth jobless rate falls to 17.2%
   - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
-  - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
   - [japan] Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk
   - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
   - [china] U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism
   - [japan] BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth
   - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
-  - [japan] BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain
-  - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T06:52:46+00:00",
+      "published_utc": "2026-11-18T07:02:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

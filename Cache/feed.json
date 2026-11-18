@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T06:52:46.297851+00:00",
- "collected_at_utc": "2026-11-18T06:52:46.297851+00:00",
+ "generated_at_utc": "2026-11-18T07:02:50.590930+00:00",
+ "collected_at_utc": "2026-11-18T07:02:50.590930+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1027,
-  "china": 911,
+  "japan": 1026,
+  "china": 910,
   "taiwan": 303,
-  "korea": 759
+  "korea": 761
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 50,
+   "count": 54,
    "error": "",
-   "newest": "2026-11-18T12:16:00+08:00"
+   "newest": "2026-11-18T14:24:11+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T06:31:03+00:00"
+   "newest": "2026-11-18T06:54:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:59:11+00:00"
+   "newest": "2026-11-18T03:16:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-11-18T04:55:15+00:00"
+   "error": "parada desde 31/08/2026",
+   "newest": "2026-08-31T07:00:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T10:36:00+00:00"
+   "newest": "2026-11-18T00:57:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T14:07:08+09:00"
+   "newest": "2026-11-18T15:53:15+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T06:50:27+00:00"
+   "newest": "2026-11-18T07:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:00:03+00:00"
+   "newest": "2026-11-18T04:59:18+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T18:09:15+00:00"
+   "newest": "2026-11-18T06:50:31+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,19 +331,71 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T06:36:03+00:00"
+   "newest": "2026-11-18T06:39:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-18T02:04:25+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Z0HO:0-chinese-steel-imports-remain-a-threat-to-indian-industry-tata-steel-ceo-says/",
+   "published_utc": "2026-11-18T06:53:55+00:00",
+   "title_original": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "310fe8ebb638ba72"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "published_utc": "2026-11-18T06:50:31+00:00",
+   "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92f2bb19692c09cf"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "\"Fill in all the gaps in the sky\"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xVkRMYkFlbmNjUUhNdjZOSUxIUjJBNHNvX0NXYUVka0JmN0pVVDA2STlvTkpVaC0tZDBNQkJwZlRoS1lBUG5hcEt0U0MyZVIxcVRv?oc=5",
+   "published_utc": "2026-11-18T06:36:33+00:00",
+   "title_original": "\"Fill in all the gaps in the sky\"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b2f7c25330d64d9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -515,23 +567,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c1a48d4269cf42a8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Z0F8:0-chinese-steel-imports-remain-a-threat-to-indian-industry-tata-steel-ceo-says/",
-   "published_utc": "2026-11-18T05:48:36+00:00",
-   "title_original": "Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ab64847065819073"
   },
   {
    "source_id": "tradingview_live",
@@ -13941,7 +13976,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "아주경제",
    "title_en": "Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RW9PWmMwNXdUSWRreEwzeXk1dEdBWThlVDlNSFBIZHQ5c2owdWFlZUpGcUdYRDBOVklQRjg1ZTRiQWJBU2N4ZzhCU0w4aTBab0VQV0s4SjfSAVhBVV95cUxONEVvT1pjMDV3VElka3hMM3l5NXRHQVk4ZVQ5TUhQSGR0OXNqMHVhZWVKRnFHWEQwTlZJUEY4NWU0YkFiQVNjeGc4QlNMOGkwWm9FUFdLOEo3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZ0xDOGJOTkYxa3g5TnBna0hTTDkycUxVNHdOUlZRaE9HS0VUYmt1TjQwMU9XX0JNUDlwal9VLWR4Z0dpWXZZMk1RZEU3VXdlNXdOT0pFTmFfUdIBWEFVX3lxTE40RW9PWmMwNXdUSWRreEwzeXk1dEdBWThlVDlNSFBIZHQ5c2owdWFlZUpGcUdYRDBOVklQRjg1ZTRiQWJBU2N4ZzhCU0w4aTBab0VQV0s4Sjc?oc=5",
    "published_utc": "2026-11-11T09:05:11+00:00",
    "title_original": "美 빅스텝 거론에 한은 금리 인상 압력 커지나",
    "region": "korea",
@@ -13952,7 +13987,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "aabb7861fb96b936"
+   "id": "342db7c25f5cf485"
   },
   {
    "source_id": "tradingview_live",
@@ -51873,40 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2a922b0ae1a17cb8"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUVhRG8tQzBzZWFibkpkZXFCaFZLNllvMXRVenlWbjVUUkI0cDVzUHYzS3VGTUpOUXI2Y1Utd24yajRPM2lXb3U1X3hmekY4SkkzNlVUbTJkS2MxcW9QNXMyNmM0aXE5YmFHTTh4UHk0UVN3eGFwVi0xOFZHWUtveUdnamtMemducUVJaUVWZ0diM2FzNzZYVFJaVktVMzJKR3VNMVRuakc1MERKdFgyam5ZTFpSWDNPNlE?oc=5",
-   "published_utc": "2026-10-23T10:09:35+00:00",
-   "title_original": "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ed3a8df73e4149a7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank takes action! 700 billion MLF operation is coming",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4el9jbDdSektnb1lHMU5idHpPZDV1Z28taWp6VkVwQ0ZiVEFycGo1NFhoS3llV3FLUHhZeGhBM2hCMHpBbExZdjVqcWZQZWlVSEhaSU85c0UtQ2otX3N2c0J2SkpRSjlUTWZHU3VldHlUMUlUNWc?oc=5",
-   "published_utc": "2026-10-23T10:06:03+00:00",
-   "title_original": "央行出手！7000亿MLF操作来了",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d9bf28169c068684"
   },
   {
    "source_id": "manual_ia",
