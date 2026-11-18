@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T03:12:57.336920+00:00
+Última coleta: 2026-11-18T03:22:41.850617+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
-  🇨🇳 China          909
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  755
+  🇯🇵 Japão          1033
+  🇨🇳 China          910
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
-  - [japan] Stock prices fall, sell orders related to AI and semiconductors
-  - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
+  - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
   - [korea] South Korean State Think Tank Raises Growth Forecasts
+  - [japan] Stock prices fall, sell orders related to AI and semiconductors
   - [japan] Bank of Japan governor says central bank should keep raising rates
+  - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
+  - [china] Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism
   - [japan] BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth
+  - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
   - [japan] BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
@@ -32,11 +35,11 @@ Total: 3000 manchetes
   - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
   - [china] On November 18, the central bank launched a 700.2 billion yuan overnight reverse repurchase operation.
   - [korea] Boston Dynamics to deploy robots at GlobalFoundries' chip plants
+  - [china] PBOC Raises Yuan Reference Rate to Strongest Since 2022
   - [china] CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
   - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
   - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
-  - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
   - [korea] Citigroup predicts that the Bank of Korea will raise interest rates in both November and February, with rising
   - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan exports set record in October on strong chip-related demand
   - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
-  - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
-  - [japan] JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT
-  - [japan] Japan Exports Continue to Rise Amid AI Boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T03:12:57+00:00",
+      "published_utc": "2026-11-18T03:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
