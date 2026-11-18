@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T00:13:02.050918+00:00",
- "collected_at_utc": "2026-11-18T00:13:02.050918+00:00",
+ "generated_at_utc": "2026-11-18T00:22:50.248344+00:00",
+ "collected_at_utc": "2026-11-18T00:22:50.248344+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1027,
+  "japan": 1028,
   "china": 903,
   "taiwan": 311,
-  "korea": 759
+  "korea": 758
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T19:00:23+00:00"
+   "newest": "2026-11-17T15:41:45+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T23:48:17+00:00"
+   "newest": "2026-11-18T00:12:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T20:30:00+00:00"
+   "newest": "2026-11-17T08:54:43+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T06:53:12+09:00"
+   "newest": "2026-11-18T09:13:39+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T00:11:56+00:00"
+   "newest": "2026-11-18T00:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:28:01+00:00"
+   "newest": "2026-11-17T21:45:49+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:05:53+00:00"
+   "newest": "2026-11-17T21:57:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T23:16:38+00:00"
+   "newest": "2026-11-17T23:49:06+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,61 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77503",
+   "published_utc": "2026-11-18T00:13:39+00:00",
+   "title_original": "10月の貿易収支4765億円の赤字 赤字は6か月連続",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b50d4a38d151d9b0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, ORGANIC COMPOUNDS, NON-FERROUS METALS",
+   "url": "https://www.tradingview.com/news/macenews:c1ecd9913094b:0-japan-oct-exports-to-china-13-3-y-y-8th-straight-rise-sept-revised-8-5-led-by-chip-making-equipment-organic-compounds-non-ferrous-metals/",
+   "published_utc": "2026-11-18T00:12:00+00:00",
+   "title_original": "JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, ORGANIC COMPOUNDS, NON-FERROUS METALS",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "013f8dbee49a4964"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT, SHIPS",
+   "url": "https://www.tradingview.com/news/macenews:13417add1094b:0-japan-oct-exports-to-eu-22-1-15th-straight-rise-sept-revised-10-4-led-by-autos-chip-making-equipment-ships/",
+   "published_utc": "2026-11-18T00:12:00+00:00",
+   "title_original": "JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT, SHIPS",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "703716b10809ce98"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -3575,8 +3630,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -3591,7 +3646,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -5665,8 +5720,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -5680,7 +5735,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51855,58 +51910,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2eac5256de2ddf3d"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Korea issues unprecedented warning against fiscal expansion: “If spending continues to increase, it will be difficult to restore the original state” (Chosun Ilbo Japanese version)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wcmpZdV9NNkpwYTFKOWVfUFh3QUwwZXlsVDBMUTl5djFlLWhzMndIMVQxQ1Q3X1lnYm1Eb29zYnlmbFp6ZnAtVm90ZGJIZmZ1a2Jqb1Q4R1lsa2ZYcDZGbGVXRmRncTBmUHNpdHd2ZFF1STlfeVhwWnc2OUFlSU0?oc=5",
-   "published_utc": "2026-10-23T02:35:00+00:00",
-   "title_original": "韓国銀行、拡張的財政に異例の警告「支出増が続けば元に戻すのは困難」（朝鮮日報日本語版）",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b90f9e0d1cf983a"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Yen shines as AI jitters spur safe-haven rush By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm16TFQ0eXhWUVpIcEV3VjJTME5NcmpnTnhvQWY1dlNaLVdIc1ZIQ0RsdS0wbGZTOWFqUFh3YVJ1TmRZNDBrWnUtX1BKVHdBMDBydGV0YlhLcFRYdGZoSkNtbDhQeVRJNUZhWUZmbmJxcG9SU0VPc3N1dHZsR1F2RnhObWphbXBTakdiRV83QUQzampzQUswbTVJOA?oc=5",
-   "published_utc": "2026-10-23T02:22:44+00:00",
-   "title_original": "Yen shines as AI jitters spur safe-haven rush By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5e3cdf91f7127bb7"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Euro set for weekly drop against dollar, yen as France concerns resurface By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHlOUlhldm15UUtobGhtYXloSVowemtZQVg0dElWSk91c2ZsX0tjYXhQN0RLc1RNZEhScHBmcVlLOHBuY3Y4NDlMQkJKYUpFcG01aUlQaVAxc0RYVFN2Umc2RzFjRzRmZERsWU1nWjliMG5nbURtTGxRNVVQYWVzaENqLVc3RTRmd2ZHMThuZWQ4TnRSb2R3TmMxZ0Q?oc=5",
-   "published_utc": "2026-10-23T02:18:57+00:00",
-   "title_original": "Euro set for weekly drop against dollar, yen as France concerns resurface By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e1a7601885139f9"
   },
   {
    "source_id": "manual_ia",

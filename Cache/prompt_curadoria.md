@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T00:13:02.050918+00:00
+Última coleta: 2026-11-18T00:22:50.248344+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
+  🇯🇵 Japão          1028
   🇨🇳 China          903
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
+  - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
+  - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
+  - [japan] JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT
   - [japan] Japan Exports Continue to Rise Amid AI Boom
   - [japan] JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YE
   - [japan] MNI: JAPAN OCT EXPORTS +20.5% Y/Y; SEPT +16.5%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] VGNT: China exports, engineering complexity and adjacent markets underpin growth opportunities
   - [china] Nvidia AI Chip Restrictions Expand as US Closes Cloud Computing Loophole for China
   - [china] Como o ex-presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e es
-  - [china] Nvidia forms export-control panel as Huang affair puts China ties in focus
-  - [japan] Japan-Korea summit meeting Continues shuttle diplomacy President Lee’s intention to visit Japan in January nex
-  - [china] Dutch restrictions on chips create friction between EU and China, diplomat says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T00:13:02+00:00",
+      "published_utc": "2026-11-18T00:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
