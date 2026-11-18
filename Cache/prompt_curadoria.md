@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T07:42:53.186251+00:00
+Última coleta: 2026-11-18T07:52:49.389589+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
@@ -47,6 +47,7 @@ Total: 3000 manchetes
   - [china] Yuan dips, holds bullish outlook on bigger role in regional trade
   - [japan] Bank of Japan governor says central bank should keep raising rates
   - [china] Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China
+  - [china] Nvidia Stops Selling AI Chips to China Despite US Approval
   - [china] UBS Group Sees Yuan Rising to 6.25 in Most Bullish Market Call
   - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says
   - [china] Xi and Putin blast sanctions before meeting Trump in China
   - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
-  - [korea] South Korean State Think Tank Raises Growth Forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T07:42:53+00:00",
+      "published_utc": "2026-11-18T07:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
