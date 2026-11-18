@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T22:02:56.299210+00:00",
- "collected_at_utc": "2026-11-18T22:02:56.299210+00:00",
+ "generated_at_utc": "2026-11-18T22:12:51.664518+00:00",
+ "collected_at_utc": "2026-11-18T22:12:51.664518+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1019,
-  "china": 909,
-  "taiwan": 312,
+  "china": 910,
+  "taiwan": 311,
   "korea": 760
  },
- "elapsed_s": 43.2,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-18T21:59:02+00:00"
+   "newest": "2026-11-18T22:04:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T21:30:59+00:00"
+   "newest": "2026-11-18T21:56:12+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T19:25:15+00:00"
+   "newest": "2026-11-18T17:41:25+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T22:02:05+00:00"
+   "newest": "2026-11-18T22:12:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T17:06:18+00:00"
+   "newest": "2026-11-18T20:04:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-19T06:45:00+09:00"
+   "newest": "2026-11-19T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China using Trump-Xi 'stability' to build strategic edge, US panel warns",
+   "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-using-trump-xi-stability-to-build-strategic-edge-us-panel-warns",
+   "published_utc": "2026-11-18T22:12:50.937673+00:00",
+   "title_original": "China using Trump-Xi 'stability' to build strategic edge, US panel warns",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "74e652d1718089b3"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -5441,8 +5458,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5457,7 +5474,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -51881,23 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f5ec6f3c975087dd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors",
-   "url": "https://www.tradingview.com/news/tradingview:d43c689cf403f:0-key-facts-tsmc-2330-q3-net-69-tests-rare-earth-free-motors/",
-   "published_utc": "2026-10-24T01:00:00+00:00",
-   "title_original": "Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fb66ce3fb7de1526"
   },
   {
    "source_id": "manual_ia",
