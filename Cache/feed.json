@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-18T01:32:50.904979+00:00",
- "collected_at_utc": "2026-11-18T01:32:50.904979+00:00",
+ "generated_at_utc": "2026-11-18T01:42:51.800422+00:00",
+ "collected_at_utc": "2026-11-18T01:42:51.800422+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 308,
   "korea": 752
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 28.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:22:00+00:00"
+   "newest": "2026-11-18T00:49:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 43,
+   "count": 44,
    "error": "",
-   "newest": "2026-11-17T20:57:24+08:00"
+   "newest": "2026-11-18T09:06:44+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T01:11:50+00:00"
+   "newest": "2026-11-18T01:32:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T01:14:23+00:00"
+   "newest": "2026-11-18T01:34:18+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T01:23:15+00:00"
+   "newest": "2026-11-18T01:39:07+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T03:10:34+00:00"
+   "newest": "2026-11-16T07:11:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T09:13:39+09:00"
+   "newest": "2026-11-18T09:13:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T01:31:20+00:00"
+   "newest": "2026-11-18T01:40:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,11 +339,28 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-17T22:59:14+00:00"
+   "newest": "2026-11-18T01:23:23+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS",
+   "url": "https://www.tradingview.com/news/dpa_afx:7042dc479d266:0-china-pboc-conducts-cny700-2-bln-via-o-n-reverse-repo-weds/",
+   "published_utc": "2026-11-18T01:37:17+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "79f7cbeb1902c97f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -412,6 +429,25 @@
    "live_wire": true,
    "manual": false,
    "id": "d4e044c3e9b82f92"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "비즈니스포스트",
+   "title_en": "Citigroup predicts that the Bank of Korea will raise interest rates in both November and February, with rising GDP and prices putting pressure on monetary tightening.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yQnFaZWRjZ3ZHWE1ncW9nLVdvTEJFZ3RIOThvRWR5cjczY1dfSEliQ0NzWHZ3c214YTBYTWFmQmJiYS1Gd2lOR2hwTjBVZVZ5eWdSNVNmMm9tYW9UMVJGTUxHNEcwVmZac1QyZ25fa05JRDg?oc=5",
+   "published_utc": "2026-11-18T01:23:23+00:00",
+   "title_original": "씨티그룹 \"한국은행 11월과 2월 모두 금리 인상\" 전망, GDP와 물가 상승해 통화 긴축에 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "33002c2a7ee4d76e"
   },
   {
    "source_id": "korea_herald_biz",
@@ -514,6 +550,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a74eced567c47856"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
+   "published_utc": "2026-11-18T00:49:00+00:00",
+   "title_original": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf4a8cc5b5304b14"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -645,7 +698,7 @@
    "source_name": "NHK 経済",
    "title_en": "Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit",
    "url": "https://news.web.nhk/newsweb/na/nd-20261118de77503",
-   "published_utc": "2026-11-18T00:13:39+00:00",
+   "published_utc": "2026-11-18T00:13:00+00:00",
    "title_original": "10月の貿易収支4765億円の赤字 赤字は6か月連続",
    "region": "japan",
    "topics": [
@@ -1424,23 +1477,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5c7ee6ec477890f2"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
-   "published_utc": "2026-11-17T14:49:23+00:00",
-   "title_original": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf4a8cc5b5304b14"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -2685,24 +2721,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b835872955a048c5"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
-   "published_utc": "2026-11-17T03:10:34+00:00",
-   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -4292,6 +4310,24 @@
    "live_wire": false,
    "manual": false,
    "id": "015acf42439fa4b3"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
+   "published_utc": "2026-11-16T07:11:34+00:00",
+   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51876,40 +51912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "84b2cc1f5d9acc01"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261023de64178",
-   "published_utc": "2026-10-23T06:34:22+00:00",
-   "title_original": "茂木外相 米中ロ首脳会談 アメリカと緊密に意思疎通し対応",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b090543147f3b254"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi",
-   "url": "https://www.koreaherald.com/article/10913025",
-   "published_utc": "2026-10-23T06:32:02+00:00",
-   "title_original": "Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bca300980840ca06"
   },
   {
    "source_id": "manual_ia",

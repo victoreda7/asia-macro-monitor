@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T01:32:50.904979+00:00
+Última coleta: 2026-11-18T01:42:51.800422+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -17,16 +17,19 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
   - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
   - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
   - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
+  - [korea] Citigroup predicts that the Bank of Korea will raise interest rates in both November and February, with rising
   - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
   - [china] China warns US of retaliation over new AI chip restrictions
   - [japan] The whole family is working together to endure the rise in prices...The reason why Japanese households cannot 
   - [korea] S. Korea moves to simplify rules of origin verification for used car exports
   - [china] Nvidia no longer selling US-approved Hopper chips to China, Interim CEO Kress says
   - [japan] Japan's Export Growth Expected to Moderate Gradually — Market Talk
+  - [china] Banks Pause $480 Million Chip Loan Tied to China’s ByteDance
   - [japan] Bank of Japan Governor Ueda will attend a special committee meeting of the House of Councilors from 10:00 a.m.
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT EXPORTS +20.5% Y/Y (SEPT REVISED +16.5%), 14TH STRAIGHT RISE; MEDIAN FORECAST +22.0%
   - [japan] Trade Statistics (October 2026[Provisional])
   - [japan] Government bonds for individuals Adjusted by forgoing tax benefits
-  - [korea] Samsung chip testing supplier Micronics Japan poised to ramp up capacity
-  - [korea] The economic indicators are improving, but why are we struggling to make ends meet? The paradox of 3.9% growth
-  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 139% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T01:32:51+00:00",
+      "published_utc": "2026-11-18T01:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
