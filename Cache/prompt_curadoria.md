@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T05:42:50.740462+00:00
+Última coleta: 2026-11-18T05:52:41.993349+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1029
-  🇨🇳 China          911
+  🇯🇵 Japão          1028
+  🇨🇳 China          912
   🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
+  - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
+  - [japan] Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk
   - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
   - [china] U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk
   - [china] Tata Steel CEO Says Chinese Imports Always A Threat; Steel Body In Ongoing Talks With Government
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] PBOC Raises Yuan Reference Rate to Strongest Since 2022
   - [china] CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
-  - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
-  - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
-  - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T05:42:50+00:00",
+      "published_utc": "2026-11-18T05:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
