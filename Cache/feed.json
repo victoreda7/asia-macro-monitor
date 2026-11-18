@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T17:52:41.319169+00:00",
- "collected_at_utc": "2026-11-18T17:52:41.319169+00:00",
+ "generated_at_utc": "2026-11-18T18:02:41.122570+00:00",
+ "collected_at_utc": "2026-11-18T18:02:41.122570+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1022,
+  "japan": 1021,
   "china": 907,
   "taiwan": 310,
-  "korea": 761
+  "korea": 762
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-18T17:42:38+00:00"
+   "newest": "2026-11-18T17:57:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-18T09:00:00+00:00"
   }
@@ -1579,6 +1579,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a4e58e78094e5053"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENW9CUl9hWU5UVzc2azhmSE1LN2xSV2sydUNpU29ncFREY1VJSjF3c1FZRlZVVUVFUU9oLXZRYVdlRHh1NzFYWWdXbFpMNHlhLXFLR1NQWQ?oc=5",
+   "published_utc": "2026-11-18T02:23:36+00:00",
+   "title_original": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e4d7e7c395c72ae7"
   },
   {
    "source_id": "nhk_economy",
@@ -5231,8 +5248,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5247,7 +5264,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -7373,8 +7390,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7388,7 +7405,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51879,23 +51896,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fe9f8d27f00b7efc"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan weighs rebranding energy, AI as defense spending under Trump pressure",
-   "url": "https://asia.nikkei.com/politics/defense/japan-weighs-rebranding-energy-ai-as-defense-spending-under-trump-pressure",
-   "published_utc": "2026-10-23T15:42:51.905647+00:00",
-   "title_original": "Japan weighs rebranding energy, AI as defense spending under Trump pressure",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6db83dc4fda6cc56"
   },
   {
    "source_id": "manual_ia",
