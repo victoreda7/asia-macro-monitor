@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T04:52:43.479752+00:00
+Última coleta: 2026-11-18T05:03:10.918203+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          909
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  753
+  🇯🇵 Japão          1033
+  🇨🇳 China          910
+  🇹🇼 Taiwan         303
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [china] On November 18, the central bank launched 700.2 billion yuan in overnight reverse repos, with a net withdrawal
   - [china] China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk
   - [japan] [Topical topics on Yahoo! Comments] ``Doubts about the effectiveness of active fiscal policy and consumption t
   - [china] Yuan dips, holds bullish outlook on bigger role in regional trade
@@ -32,6 +33,7 @@ Total: 3000 manchetes
   - [korea] South Korean State Think Tank Raises Growth Forecasts
   - [japan] Stock prices fall, sell orders related to AI and semiconductors
   - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
+  - [korea] Household debt in the third quarter surpassed KRW 2030 trillion, a new record. However, the increase..
   - [china] Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism
   - [japan] BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth
   - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
@@ -39,6 +41,7 @@ Total: 3000 manchetes
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
   - [china] China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award
   - [korea] South Korean won gains most among mixed Asian currencies
+  - [china] Central Bank: Carry out 700.2 billion yuan overnight reverse repurchase operation with an interest rate of 1.2
   - [china] Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest ra
   - [korea] The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong wo
   - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
   - [china] China warns US of retaliation over new AI chip restrictions
   - [japan] The whole family is working together to endure the rise in prices...The reason why Japanese households cannot 
-  - [korea] S. Korea moves to simplify rules of origin verification for used car exports
-  - [china] Nvidia no longer selling US-approved Hopper chips to China, Interim CEO Kress says
-  - [japan] Japan's Export Growth Expected to Moderate Gradually — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T04:52:43+00:00",
+      "published_utc": "2026-11-18T05:03:11+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

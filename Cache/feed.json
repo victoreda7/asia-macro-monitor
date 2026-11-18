@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T04:52:43.479752+00:00",
- "collected_at_utc": "2026-11-18T04:52:43.479752+00:00",
+ "generated_at_utc": "2026-11-18T05:03:10.918203+00:00",
+ "collected_at_utc": "2026-11-18T05:03:10.918203+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
-  "china": 909,
-  "taiwan": 304,
-  "korea": 753
+  "japan": 1033,
+  "china": 910,
+  "taiwan": 303,
+  "korea": 754
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 51.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T04:29:14+00:00"
+   "newest": "2026-11-18T04:52:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T04:12:18+00:00"
+   "newest": "2026-11-18T04:48:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T12:23:00+09:00"
+   "newest": "2026-11-18T13:52:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:07:21+00:00"
+   "newest": "2026-11-18T04:28:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T04:51:00+00:00"
+   "newest": "2026-11-18T05:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:21:45+00:00"
+   "newest": "2026-11-18T05:01:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:14:27+00:00"
+   "newest": "2026-11-18T04:43:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,19 +331,37 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:16:00+00:00"
+   "newest": "2026-11-18T03:00:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-18T02:04:25+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国基金报",
+   "title_en": "On November 18, the central bank launched 700.2 billion yuan in overnight reverse repos, with a net withdrawal of 13.8 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QYm15MXl3Z3VMYzRLWXYxTGduaU5FQXZqa1RfbmNSSUEyZVRwMnR1b0M1UC0yVm1xS2REQkpLaVBCdG1kR3BGeGFmU1dPaHRzVU4xanBlS293REE0VFBGZVg4MjljamVMaHN4QWRBVHU1bFN1bjJOa3Jn?oc=5",
+   "published_utc": "2026-11-18T04:28:00+00:00",
+   "title_original": "11月18日央行开展7002亿元隔夜逆回购，净回笼138亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "de308586550e584b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -607,6 +625,23 @@
    "id": "58f32e2ae26680c4"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Household debt in the third quarter surpassed KRW 2030 trillion, a new record. However, the increase..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HRUZ5Vnp5SXFiRFFsMG1WV2hfamNGaHZSLTdLMWJjV0dQNFlCQ3RDdGVuVF9VbEpGaVEyR084YWlvM0ZpbFBYUVpDaWZxMFNWUGc?oc=5",
+   "published_utc": "2026-11-18T03:00:00+00:00",
+   "title_original": "Household debt in the third quarter surpassed KRW 2030 trillion, a new record. However, the increase..",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6c56dc6cc105117"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism",
@@ -728,6 +763,24 @@
    "live_wire": true,
    "manual": false,
    "id": "53b6eb7e3fe29251"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "Central Bank: Carry out 700.2 billion yuan overnight reverse repurchase operation with an interest rate of 1.25%_Domestic Economy",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vYjU5Vk1GZXZNekNnb05SR1dlTzdqdzc4SEozZHpzaVZsZHdlazBCMGg3RXhMejlMSFdzT2hrTC1RWlZPRWFMT2dtQ01uSWtoVHZNR3dZUHR1MUpxdjJLZzN3d2U?oc=5",
+   "published_utc": "2026-11-18T02:07:21+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作操作利率1.25%_国内经济",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c424911380f2727f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1046,7 +1099,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
    "published_utc": "2026-11-18T00:49:00+00:00",
@@ -1187,7 +1240,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVh1bVJsakhEQV9mX0VBXzlxZW92aXRsSjdHaWlHeU0yZzBwczVlcmRnMXlyRkh5S3E2blFlNTJRWGtUQ0V4b2h0SmUtV0VHZXhzQlBDZzBmS0wxWC04bTV1MHJfckFURjNTRnZOTC1rM2tIQW5hUHdCaGFPTEd5LTZmZWMyZHdSMjN3cTV6dXd0V3cyQjFCVW5aTXBuTTB4Q0h3ZkdMTy1pT3BYR19NcQ?oc=5",
    "published_utc": "2026-11-18T00:22:00+00:00",
@@ -2731,7 +2784,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3llZ1ltdU5QNkdZX1JILW1Ud280T0YyZDdvZjZQdTV3eUFtUmlSM0JQcnRVNE9nSXpuLTlBQ0RjNlpvNUdTaWZWNDUyU1I4d0NFdFAxZHdBakFuaktZVDRQYmVWTHZBUnRfX2RPUFNFUTVnTDhQMUVRT3RxenRBMHJJYlNkaEVncEZMYXg4c1VodUZ3NVFkOFhmTVpRNGR5U2hYVWJCdEU4ZG1KVHE5aDgtNVo?oc=5",
    "published_utc": "2026-11-17T08:33:20+00:00",
@@ -3040,7 +3093,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China and Canada Expand Tariff Relief as Xi Meets Carney",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDF2Y3hmbXN1MWVDZGE5LVJDUE9NeEltNDdEU1hwckVTSmhHcmFNTWczVVhGSGtnaTVSM0hybGh5amRNOHl3a19RUHlHN0ttX1ZGeWNvdTFzTzRBUm84djJ3TG9FS29nQUd2dDlSS09JQWROaWRwZFJhS2ZRaTNCQ0xKbmtoYzgteHg0eGJ6bmlrX2FuWTFuNm1IaDl2cEdCWFhKOTBoU3cwOWc2?oc=5",
    "published_utc": "2026-11-17T05:19:00+00:00",
@@ -3487,6 +3540,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f5f6015796db7a2d"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
+   "published_utc": "2026-11-17T01:23:37+00:00",
+   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4487,8 +4558,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -4503,7 +4574,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -4853,24 +4924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "015acf42439fa4b3"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nb1Q4Q0NTZXg1MDlMdDNUX1Bpalp3aUVXMWRwVV80cTI0Q1N5YTZDV3JRUkFWaVZUMk95UUhuYmNfTHlGT1RPOWhfV2tXOHZMbjNSdmF1Z0Z1MkpleENCNHBaRQ?oc=5",
-   "published_utc": "2026-11-16T07:11:34+00:00",
-   "title_original": "BOJ board member calls for 'nimble' monetary policy | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d8b843a7710e9df"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6595,8 +6648,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -6610,7 +6663,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -13738,7 +13791,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "아주경제",
    "title_en": "Is pressure on the Bank of Korea to raise interest rates growing amid talk of the U.S. Big Step?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZ0xDOGJOTkYxa3g5TnBna0hTTDkycUxVNHdOUlZRaE9HS0VUYmt1TjQwMU9XX0JNUDlwal9VLWR4Z0dpWXZZMk1RZEU3VXdlNXdOT0pFTmFfUdIBWEFVX3lxTE40RW9PWmMwNXdUSWRreEwzeXk1dEdBWThlVDlNSFBIZHQ5c2owdWFlZUpGcUdYRDBOVklQRjg1ZTRiQWJBU2N4ZzhCU0w4aTBab0VQV0s4Sjc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RW9PWmMwNXdUSWRreEwzeXk1dEdBWThlVDlNSFBIZHQ5c2owdWFlZUpGcUdYRDBOVklQRjg1ZTRiQWJBU2N4ZzhCU0w4aTBab0VQV0s4SjfSAVhBVV95cUxONEVvT1pjMDV3VElka3hMM3l5NXRHQVk4ZVQ5TUhQSGR0OXNqMHVhZWVKRnFHWEQwTlZJUEY4NWU0YkFiQVNjeGc4QlNMOGkwWm9FUFdLOEo3?oc=5",
    "published_utc": "2026-11-11T09:05:11+00:00",
    "title_original": "美 빅스텝 거론에 한은 금리 인상 압력 커지나",
    "region": "korea",
@@ -13749,7 +13802,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "342db7c25f5cf485"
+   "id": "aabb7861fb96b936"
   },
   {
    "source_id": "tradingview_live",
@@ -51861,59 +51914,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6c46ed66e8d60ad2"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: Will carry out 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlJHVVJVdEFDTG4wcVY5M2JqVHhKd05tWThDT3J4Y1phenZHcDhwc2JTTWQxdnFuR3lZd2N2RkgyVDI4UjhjVERqSWFXakN0NUhFZWZQUVhMMVdoYmpKLTdnMFQwWmdzWGJoODlDYWZRaDBFRlZnQXJJTTdRalRTSVExcw?oc=5",
-   "published_utc": "2026-10-23T09:32:44+00:00",
-   "title_original": "央行：将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "95489abf79d55495"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan industrial production up for 31st straight month in September",
-   "url": "https://focustaiwan.tw/business/202610230013",
-   "published_utc": "2026-10-23T09:30:39+00:00",
-   "title_original": "Taiwan industrial production up for 31st straight month in September",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b815ec866c0547b4"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
-   "url": "https://www.investing.com/news/forex-news/citi-expects-usdjpy-to-remain-rangebound-amid-bojs-rate-decision-93CH-4968564",
-   "published_utc": "2026-10-23T09:30:35+00:00",
-   "title_original": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e736502ca4ce3d15"
   },
   {
    "source_id": "manual_ia",
