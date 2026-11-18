@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T21:12:41.608202+00:00
+Última coleta: 2026-11-18T21:22:43.702096+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1020
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 ye
   - [japan] Japan developer Hulic casts wide M&A net, from cram schools to bananas
   - [japan] Is there a way out for the food service industry, which is facing headwinds if the food tax is cut? The differ
   - [japan] Next year's tax reform: Issues such as correction of uneven distribution between Tokyo and regional areas Libe
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Commentary: Despite AI Boom, China’s Chipmakers Have Yet to Catch Up to Nvidia
   - [korea] NPS names investment strategy head to lead real estate portfolio
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
-  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T21:12:41+00:00",
+      "published_utc": "2026-11-18T21:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
