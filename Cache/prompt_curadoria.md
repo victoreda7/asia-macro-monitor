@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T08:52:52.748526+00:00
+Última coleta: 2026-11-18T09:03:02.295332+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
   - [korea] Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound
   - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
+  - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
   - [japan] Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)
   - [korea] South Korea’s chip boom bypasses retail investors as stock rout hits spending
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] UBS Group Sees Yuan Rising to 6.25 in Most Bullish Market Call
   - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
-  - [china] China's September grain, sugar and pork imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T08:52:52+00:00",
+      "published_utc": "2026-11-18T09:03:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
