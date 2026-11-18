@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T10:42:53.471455+00:00
+Última coleta: 2026-11-18T10:52:47.018793+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1022
   🇨🇳 China          908
-  🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  763
+  🇹🇼 Taiwan         308
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [korea] NPS names investment strategy head to lead real estate portfolio
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
+  - [taiwan] Taiwan completes Asia's largest single offshore wind project off central coast, connecting 1 GW of capacity to
   - [japan] Swiss Franc Expected to Weaken Against Yen on Policy Divergence — Market Talk
   - [korea] [Principal and interest bomb] ‘Base interest rate hike trend’ Interest rates on variable mortgage loans have r
   - [korea] More than half of the listed companies in Korea recorded a net profit deficit in the third quarter o..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's October youth jobless rate falls to 17.2%
   - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
   - [japan] Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk
-  - [china] U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T10:42:53+00:00",
+      "published_utc": "2026-11-18T10:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
