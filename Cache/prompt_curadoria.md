@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T23:02:46.263859+00:00
+Última coleta: 2026-11-18T23:12:44.790920+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1020
-  🇨🇳 China          910
+  🇯🇵 Japão          1023
+  🇨🇳 China          909
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
@@ -48,6 +48,7 @@ Total: 3000 manchetes
   - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
   - [china] Nvidia stops shipping US-approved AI chips to China
   - [japan] Bank of Japan Governor Ueda attends the House of Councilors Finance Committee meeting on the 19th for the half
+  - [japan] Bank of Japan Governor Ueda attends House of Councilors Finance Committee meeting on half-yearly report = Diet
   - [china] Chinese steel exports could hit 130 million tonnes in 2026, threaten Indian industry: T V Narendran
   - [china] Nvidia to Stop Selling Advanced AI Chips to China
   - [china] Nvidia Makes Major China Decision After $2.4 Billion in AI Chip Sales
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Xingyun Technology Signs AI Token Services Contract Worth Up To 2 Billion Yuan
   - [china] Zhongji Innolight's Chairperson Proposes A-Share Buyback With 2-4 Billion Yuan
   - [china] China Warns of Countermeasures Against New U.S. AI Chip Curbs
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Acquisition of equity interest by a subsidiary
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T23:02:46+00:00",
+      "published_utc": "2026-11-18T23:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
