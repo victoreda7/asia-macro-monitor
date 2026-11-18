@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T06:42:42.017267+00:00
+Última coleta: 2026-11-18T06:52:46.297851+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
+  🇯🇵 Japão          1027
   🇨🇳 China          911
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  758
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound
   - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
   - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
   - [japan] Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk
@@ -45,6 +46,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor (TSM) Stock Trending After Nvidia Posts Strong Q3 Results: What You Should Know
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026
   - [japan] Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says
+  - [china] Xi and Putin blast sanctions before meeting Trump in China
   - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
   - [korea] South Korean State Think Tank Raises Growth Forecasts
   - [japan] Stock prices fall, sell orders related to AI and semiconductors
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
   - [japan] BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
-  - [china] China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award
-  - [korea] South Korean won gains most among mixed Asian currencies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T06:42:42+00:00",
+      "published_utc": "2026-11-18T06:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
