@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T07:22:48.515818+00:00
+Última coleta: 2026-11-18T07:32:43.980257+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          910
+  🇨🇳 China          909
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  760
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Cut to CNY 204.35, Implies 40% Upside
+  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 127.63, Implies 43% Upside
+  - [korea] Shinhan Bank performs well in the first half of the year despite the base interest rate cut and delayed domest
   - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
   - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
@@ -25,7 +28,6 @@ Total: 3000 manchetes
   - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
   - [korea] Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound
   - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
-  - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
   - [japan] Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)
   - [korea] South Korea’s chip boom bypasses retail investors as stock rout hits spending
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
   - [korea] South Korean State Think Tank Raises Growth Forecasts
   - [japan] Stock prices fall, sell orders related to AI and semiconductors
-  - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
-  - [korea] Household debt in the third quarter surpassed KRW 2030 trillion, a new record. However, the increase..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T07:22:48+00:00",
+      "published_utc": "2026-11-18T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
