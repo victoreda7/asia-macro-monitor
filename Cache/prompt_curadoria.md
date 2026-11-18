@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T09:52:43.088492+00:00
+Última coleta: 2026-11-18T10:02:41.367624+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] China Warns of Countermeasures Against New U.S. AI Chip Curbs
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Acquisition of equity interest by a subsidiary
   - [china] Commentary: Despite AI Boom, China’s Chipmakers Have Yet to Catch Up to Nvidia
+  - [china] Nvidia stops shipping US-approved AI chips to China
   - [korea] NPS names investment strategy head to lead real estate portfolio
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Tata Steel CEO Says Chinese Imports Always A Threat; Steel Body In Ongoing Talks With Government
   - [korea] Samsung Electronics executive says more to consider on shareholder return
   - [china] On November 18, the central bank launched 700.2 billion yuan in overnight reverse repos, with a net withdrawal
-  - [china] China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T09:52:43+00:00",
+      "published_utc": "2026-11-18T10:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
