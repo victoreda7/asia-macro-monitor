@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-17T23:52:52.687811+00:00",
- "collected_at_utc": "2026-11-17T23:52:52.687811+00:00",
+ "generated_at_utc": "2026-11-18T00:02:43.361857+00:00",
+ "collected_at_utc": "2026-11-18T00:02:43.361857+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1021,
-  "china": 907,
-  "taiwan": 313,
+  "japan": 1023,
+  "china": 906,
+  "taiwan": 312,
   "korea": 759
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 28.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-17T23:33:11+00:00"
+   "newest": "2026-11-17T23:48:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T06:22:00+00:00"
+   "newest": "2026-11-17T23:51:43+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T08:30:00+09:00"
+   "newest": "2026-11-18T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T08:29:48+00:00"
+   "newest": "2026-11-17T23:49:06+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,43 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan logs trade deficit for 6th-straight month in October",
+   "url": "https://asia.nikkei.com/economy/trade/japan-logs-trade-deficit-for-6th-straight-month-in-october",
+   "published_utc": "2026-11-18T00:02:42.422279+00:00",
+   "title_original": "Japan logs trade deficit for 6th-straight month in October",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6e1b69d67b6f919d"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan logs 476.5 billion yen trade deficit in Oct.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVTV4RWVoNElHZXdDV0htYmZnMnpHUEhjVFJyNW9MR1QxTEtRWi1OVUFwTXU1cld0V2phbl9uVG5BaFRoc2h0MTBQVGF0b2JaMEFndy1RRFBVUQ?oc=5",
+   "published_utc": "2026-11-17T23:51:43+00:00",
+   "title_original": "BREAKING NEWS: Japan logs 476.5 billion yen trade deficit in Oct.",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3e83fe77db4fd913"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -51864,41 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6858e4aadc98b81d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI cuts chip R&D cycles to 9 months, says Etron chair",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXdUNmtQWnZ1M2NiYy1jZXRTUnF0ZmpfbVNTQ295MGRyQmpCZW1COS1LNHd3Q1ZUNV9tVEZCUHhucENlUEt1YWJNcHV3ZHBCT3d3ZU5wQlpZT1phRDhFWm9HMHRCU3oydWpUUUZzZjlzUS11RjB2Vk9CZXJzWWFaLVFRWXhXTlBDd3Z2aVUtYUFYQzVQNHc?oc=5",
-   "published_utc": "2026-10-23T01:55:00+00:00",
-   "title_original": "AI cuts chip R&D cycles to 9 months, says Etron chair",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab3208d7cfdf114d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
-   "published_utc": "2026-10-23T01:53:53+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b449075bd88b714"
   },
   {
    "source_id": "manual_ia",
