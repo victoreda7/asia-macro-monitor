@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T09:42:42.715768+00:00",
- "collected_at_utc": "2026-11-18T09:42:42.715768+00:00",
+ "generated_at_utc": "2026-11-18T09:52:43.088492+00:00",
+ "collected_at_utc": "2026-11-18T09:52:43.088492+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1025,
+  "japan": 1024,
   "china": 905,
-  "taiwan": 305,
+  "taiwan": 306,
   "korea": 765
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T18:30:26+09:00"
+   "newest": "2026-11-18T18:42:34+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T18:33:58+09:00"
+   "newest": "2026-11-18T18:41:47+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T09:28:58+00:00"
+   "newest": "2026-11-18T09:45:27+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T05:03:44+00:00"
+   "newest": "2026-11-18T06:45:12+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T09:31:20+00:00"
+   "newest": "2026-11-18T09:52:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:00:03+00:00"
+   "newest": "2026-11-18T04:59:18+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Warns of Countermeasures Against New U.S. AI Chip Curbs",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118001811:0-china-warns-of-countermeasures-against-new-u-s-ai-chip-curbs/",
+   "published_utc": "2026-11-18T09:47:00+00:00",
+   "title_original": "China Warns of Countermeasures Against New U.S. AI Chip Curbs",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bc59e33f2fc45e63"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "London Stock Exchange",
+   "title_en": "REG - Hon Hai Prec.Ind.Co - Acquisition of equity interest by a subsidiary",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-11-18:newsml_RSR6683Da:0-reg-hon-hai-prec-ind-co-acquisition-of-equity-interest-by-a-subsidiary/",
+   "published_utc": "2026-11-18T09:36:24+00:00",
+   "title_original": "REG - Hon Hai Prec.Ind.Co - Acquisition of equity interest by a subsidiary",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bc6ca309fc7e5b31"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -1343,41 +1377,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a4e58e78094e5053"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth",
-   "url": "https://www.tradingview.com/news/binance_news:6e92a0471094b:0-boj-s-ueda-says-planned-food-tax-cut-likely-to-aid-growth/",
-   "published_utc": "2026-11-18T02:41:56+00:00",
-   "title_original": "BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f81324e132e01376"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261117010247:0-u-s-chip-curbs-to-leave-u-s-china-relationship-more-fragile-market-talk/",
-   "published_utc": "2026-11-18T02:18:00+00:00",
-   "title_original": "U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5d85e0f74f0dafd7"
   },
   {
    "source_id": "nhk_economy",
@@ -4997,8 +4996,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5013,7 +5012,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -7104,8 +7103,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7119,7 +7118,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
