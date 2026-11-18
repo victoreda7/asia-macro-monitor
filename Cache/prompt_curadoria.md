@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T13:12:52.732410+00:00
+Última coleta: 2026-11-18T13:22:42.052887+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
+  🇯🇵 Japão          1024
   🇨🇳 China          907
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  761
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 126.21, Implies 41% Upside
+  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 149% Upside
   - [taiwan] First winter seafood shipment from Taiwan arrives in Beijing amid push for cross-Strait trade ties
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [japan] Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
   - [korea] Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound
   - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
-  - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
-  - [japan] Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T13:12:52+00:00",
+      "published_utc": "2026-11-18T13:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
