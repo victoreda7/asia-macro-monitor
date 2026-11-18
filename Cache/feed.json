@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T08:22:49.253838+00:00",
- "collected_at_utc": "2026-11-18T08:22:49.253838+00:00",
+ "generated_at_utc": "2026-11-18T08:32:54.089288+00:00",
+ "collected_at_utc": "2026-11-18T08:32:54.089288+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1026,
-  "china": 911,
+  "china": 910,
   "taiwan": 303,
-  "korea": 760
+  "korea": 761
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:57:00+00:00"
+   "newest": "2026-11-16T10:36:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:39:00+00:00"
+   "newest": "2026-11-18T04:47:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:30:13+00:00"
+   "newest": "2026-11-18T06:45:12+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T08:21:11+00:00"
+   "newest": "2026-11-18T08:32:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-18T07:40:00+00:00"
+   "newest": "2026-11-18T08:26:46+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T06:13:00+00:00"
+   "newest": "2026-11-18T08:15:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan October crude import volume down 0.7%",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Z0A6:0-japan-october-crude-import-volume-down-0-7/",
+   "published_utc": "2026-11-18T08:26:35+00:00",
+   "title_original": "Japan October crude import volume down 0.7%",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3256fa004742b5c5"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -411,6 +428,23 @@
    "live_wire": false,
    "manual": false,
    "id": "723249663f6f6a88"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "더퍼블릭",
+   "title_en": "Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook for a hike is also favorable.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MNIBb0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MA?oc=5",
+   "published_utc": "2026-11-18T07:11:33+00:00",
+   "title_original": "한은, 이달 기준금리 또 올리나…美 연준도 인상 전망 '우세'",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "db5a2c2bb9e1ae86"
   },
   {
    "source_id": "nhk_politics",
@@ -502,7 +536,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -514,7 +548,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1354,24 +1388,6 @@
    "id": "778a6cef6ffdc803"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "PBOC Raises Yuan Reference Rate to Strongest Since 2022",
-   "url": "https://www.tradingview.com/news/binance_news:b95321b86094b:0-pboc-raises-yuan-reference-rate-to-strongest-since-2022/",
-   "published_utc": "2026-11-18T01:43:51+00:00",
-   "title_original": "PBOC Raises Yuan Reference Rate to Strongest Since 2022",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e3ce8bca6e1d2f88"
-  },
-  {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
    "title_en": "Announcement of 40-year JGBs to Be Issued in November 2026",
@@ -1460,7 +1476,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
    "published_utc": "2026-11-18T00:49:00+00:00",
@@ -51891,23 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5b60b32940d45b6e"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "September consumer prices +2.1% compared to the same month last year, the first time in nine months that the increase exceeded 2%",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
-   "published_utc": "2026-10-23T10:48:10+00:00",
-   "title_original": "9月消費者物価 前年同月比＋2.1％ 上昇幅2％超えは9か月ぶり",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9036d477ab48e0d7"
   },
   {
    "source_id": "manual_ia",

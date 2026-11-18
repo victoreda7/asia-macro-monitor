@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T08:22:49.253838+00:00
+Última coleta: 2026-11-18T08:32:54.089288+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          911
+  🇨🇳 China          910
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  760
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan October crude import volume down 0.7%
   - [china] Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Cut to CNY 204.35, Implies 40% Upside
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 127.63, Implies 43% Upside
   - [korea] Shinhan Bank performs well in the first half of the year despite the base interest rate cut and delayed domest
+  - [korea] Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook fo
   - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
   - [china] In Depth: DeepSeek’s Computing Crunch Pushes China’s AI Developers Beyond Models
   - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's September grain, sugar and pork imports
   - [taiwan] Taiwan Semiconductor (TSM) Stock Trending After Nvidia Posts Strong Q3 Results: What You Should Know
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026
-  - [japan] Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says
-  - [china] Xi and Putin blast sanctions before meeting Trump in China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T08:22:49+00:00",
+      "published_utc": "2026-11-18T08:32:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
