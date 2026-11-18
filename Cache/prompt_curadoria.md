@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T01:22:50.586616+00:00
+Última coleta: 2026-11-18T01:32:50.904979+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
-  🇨🇳 China          905
+  🇯🇵 Japão          1033
+  🇨🇳 China          907
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  757
+  🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
+  - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
+  - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
+  - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
+  - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
   - [china] China warns US of retaliation over new AI chip restrictions
   - [japan] The whole family is working together to endure the rise in prices...The reason why Japanese households cannot 
   - [korea] S. Korea moves to simplify rules of origin verification for used car exports
@@ -33,6 +38,7 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
   - [japan] JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT
   - [japan] Japan Exports Continue to Rise Amid AI Boom
+  - [china] Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China
   - [japan] JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YE
   - [japan] MNI: JAPAN OCT EXPORTS +20.5% Y/Y; SEPT +16.5%
   - [japan] JAPAN OCT EXPORTS POST 14TH STRAIGHT Y/Y RISE
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung chip testing supplier Micronics Japan poised to ramp up capacity
   - [korea] The economic indicators are improving, but why are we struggling to make ends meet? The paradox of 3.9% growth
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 139% Upside
-  - [korea] 6% of main dam was breached... Bank of Korea’s ‘dilemma’ amid price and exchange rate pressures
-  - [japan] Taijyu Life Eliminates the negative spread; life insurance operations continue to improve in a world with inte
-  - [china] Nvidia Corporation Shipments Of Data Center Hopper Products To China During The Quarter Were $2.4 Billion
-  - [japan] The economic effect is supposed to be 1 billion yen, but the vendors are in the red...The Tottori Gourmet Fest
-  - [china] Canada and China Draw Closer with Expanded Trade Pact — WSJ
-  - [japan] <Data Pitfalls> The Bank of Japan shows that ``young people are more likely to consume'' and appeals for a ``v
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T01:22:50+00:00",
+      "published_utc": "2026-11-18T01:32:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
