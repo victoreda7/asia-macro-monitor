@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T01:42:51.800422+00:00
+Última coleta: 2026-11-18T01:52:42.370803+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Boston Dynamics to deploy robots at GlobalFoundries' chip plants
   - [china] CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
   - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Japan logs 476.5 billion yen trade deficit in Oct.
   - [japan] JAPAN OCT EXPORTS +20.5% Y/Y (SEPT REVISED +16.5%), 14TH STRAIGHT RISE; MEDIAN FORECAST +22.0%
   - [japan] Trade Statistics (October 2026[Provisional])
-  - [japan] Government bonds for individuals Adjusted by forgoing tax benefits
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T01:42:51+00:00",
+      "published_utc": "2026-11-18T01:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
