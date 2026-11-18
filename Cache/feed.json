@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T15:22:44.758623+00:00",
- "collected_at_utc": "2026-11-18T15:22:44.758623+00:00",
+ "generated_at_utc": "2026-11-18T15:32:49.728380+00:00",
+ "collected_at_utc": "2026-11-18T15:32:49.728380+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1024,
+  "japan": 1023,
   "china": 905,
   "taiwan": 309,
-  "korea": 762
+  "korea": 763
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 28.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T13:40:11+00:00"
+   "newest": "2026-11-18T09:06:51+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T11:16:00+00:00"
+   "newest": "2026-11-17T18:21:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T15:04:07+00:00"
+   "newest": "2026-11-18T15:25:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T14:54:26+00:00"
+   "newest": "2026-11-18T15:19:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:07:52+00:00"
+   "newest": "2026-11-18T06:34:39+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:28:00+00:00"
+   "newest": "2026-11-18T15:24:25+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T15:21:53+00:00"
+   "newest": "2026-11-18T15:32:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Samvardhana Motherson Says Cheongju District Court Approves Liquidation Of Subsidiary MSSL Korea WH",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Z0GE:0-samvardhana-motherson-says-cheongju-district-court-approves-liquidation-of-subsidiary-mssl-korea-wh/",
+   "published_utc": "2026-11-18T15:27:59+00:00",
+   "title_original": "Samvardhana Motherson Says Cheongju District Court Approves Liquidation Of Subsidiary MSSL Korea WH",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rZHd3WXNneEJDdk5xQ2FYVTZjb2UtNHpHMS1YUzdTdDVXXzNMUXhnTTc4MjRDLWRTMURkLWQybExCQmVuVnNfN3RXSWIzX3A2VFJOak9sLXN2VEJlaElhWWx5aw?oc=5",
+   "published_utc": "2026-11-18T15:24:25+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "40e42903f0897d05"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1217,24 +1252,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c1a48d4269cf42a8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261118000075:0-japan-likely-to-remain-in-trade-deficit-amid-mideast-uncertainty-market-talk/",
-   "published_utc": "2026-11-18T05:43:00+00:00",
-   "title_original": "Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2b34d16599dc553c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5165,8 +5182,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5181,7 +5198,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -7307,8 +7324,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7322,7 +7339,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51881,23 +51898,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China issues guidelines to promote employment amid AI advances",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uZXdPcTlKSEdYS1R0Vk9SZ2RCbVZpZkdYdS1VTzhsRUFEM0c3ejZ0a2txVGhhZWRxQnh2ZlZGOS1GdkVqdHpGeEtWbVl3cWNsQjA0M2xBcDJ4UFNMRHQyZVRPMHdmZEphaFBOU09ySWk1SkloNkwzZlZ5cDI?oc=5",
-   "published_utc": "2026-10-23T14:27:15+00:00",
-   "title_original": "China issues guidelines to promote employment amid AI advances",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "591b07cd0b8fc51a"
   },
   {
    "source_id": "manual_ia",
