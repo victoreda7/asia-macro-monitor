@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T12:43:09.980097+00:00
+Última coleta: 2026-11-18T12:53:40.311172+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk
   - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
   - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
+  - [china] Nvidia stops shipping US-approved AI chips to China
   - [china] Chinese steel exports could hit 130 million tonnes in 2026, threaten Indian industry: T V Narendran
   - [china] Nvidia to Stop Selling Advanced AI Chips to China
   - [china] Nvidia Makes Major China Decision After $2.4 Billion in AI Chip Sales
@@ -30,7 +31,6 @@ Total: 3000 manchetes
   - [china] China Warns of Countermeasures Against New U.S. AI Chip Curbs
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Acquisition of equity interest by a subsidiary
   - [china] Commentary: Despite AI Boom, China’s Chipmakers Have Yet to Catch Up to Nvidia
-  - [china] Nvidia stops shipping US-approved AI chips to China
   - [korea] NPS names investment strategy head to lead real estate portfolio
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T12:43:10+00:00",
+      "published_utc": "2026-11-18T12:53:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
