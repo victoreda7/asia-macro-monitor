@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T02:52:49.454074+00:00",
- "collected_at_utc": "2026-11-18T02:52:49.454074+00:00",
+ "generated_at_utc": "2026-11-18T03:03:04.896552+00:00",
+ "collected_at_utc": "2026-11-18T03:03:04.896552+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
-  "china": 911,
+  "japan": 1032,
+  "china": 910,
   "taiwan": 304,
-  "korea": 752
+  "korea": 754
  },
- "elapsed_s": 28.2,
+ "elapsed_s": 50.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T02:32:02+00:00"
+   "newest": "2026-11-18T02:48:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T02:12:21+00:00"
+   "newest": "2026-11-18T02:42:59+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T02:37:16+00:00"
+   "newest": "2026-11-18T02:51:45+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T01:48:46+00:00"
+   "newest": "2026-11-16T07:20:55+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T11:17:11+09:00"
+   "newest": "2026-11-18T12:01:11+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T02:41:30+00:00"
+   "newest": "2026-11-18T03:01:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:29:11+00:00"
+   "newest": "2026-11-18T02:55:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-18T01:04:04+00:00"
+   "newest": "2026-11-18T02:58:23+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T11:42:00+00:00"
+   "newest": "2026-11-18T02:33:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,57 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korean State Think-Tank KDI Raises GDP Forecasts",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117010311_20261117010311:0-south-korean-state-think-tank-kdi-raises-gdp-forecasts/",
+   "published_utc": "2026-11-18T03:00:00+00:00",
+   "title_original": "South Korean State Think-Tank KDI Raises GDP Forecasts",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "58f32e2ae26680c4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korean State Think Tank Raises Growth Forecasts",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117010311:0-south-korean-state-think-tank-raises-growth-forecasts/",
+   "published_utc": "2026-11-18T03:00:00+00:00",
+   "title_original": "South Korean State Think Tank Raises Growth Forecasts",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f8001732a766ab1a"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Bank of Japan governor says central bank should keep raising rates",
+   "url": "https://www.investing.com/news/economy-news/ueda-says-boj-will-weigh-if-underlying-inflation-becomes-anchored-5034497",
+   "published_utc": "2026-11-18T02:42:59+00:00",
+   "title_original": "Bank of Japan governor says central bank should keep raising rates",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d3cf9463eab2dfa4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -431,23 +482,6 @@
    "live_wire": true,
    "manual": false,
    "id": "53b6eb7e3fe29251"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Bank of Japan governor says central bank should keep raising rates",
-   "url": "https://www.investing.com/news/economy-news/ueda-says-boj-will-weigh-if-underlying-inflation-becomes-anchored-5034497",
-   "published_utc": "2026-11-18T02:12:21+00:00",
-   "title_original": "Bank of Japan governor says central bank should keep raising rates",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3cf9463eab2dfa4"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51876,40 +51910,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5816691b70adbf15"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261023002071:0-rising-wages-help-japanese-households-absorb-higher-rates-boj-says-market-talk/",
-   "published_utc": "2026-10-23T07:53:00+00:00",
-   "title_original": "Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e5bd5f9c75e3b49f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Likely Exception to Hawkish Asian Central Banks View — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261023002066:0-china-likely-exception-to-hawkish-asian-central-banks-view-market-talk/",
-   "published_utc": "2026-10-23T07:53:00+00:00",
-   "title_original": "China Likely Exception to Hawkish Asian Central Banks View — Market Talk",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "36bf18d2524c8e72"
   },
   {
    "source_id": "manual_ia",

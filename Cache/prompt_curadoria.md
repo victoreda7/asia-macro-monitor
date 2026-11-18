@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T02:52:49.454074+00:00
+Última coleta: 2026-11-18T03:03:04.896552+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
-  🇨🇳 China          911
+  🇯🇵 Japão          1032
+  🇨🇳 China          910
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  752
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
+  - [korea] South Korean State Think Tank Raises Growth Forecasts
+  - [japan] Bank of Japan governor says central bank should keep raising rates
   - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
   - [japan] BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
   - [china] China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award
   - [korea] South Korean won gains most among mixed Asian currencies
-  - [japan] Bank of Japan governor says central bank should keep raising rates
   - [china] Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest ra
   - [korea] The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong wo
   - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Exports Continue to Rise Amid AI Boom
   - [china] Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China
   - [japan] JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YE
-  - [japan] MNI: JAPAN OCT EXPORTS +20.5% Y/Y; SEPT +16.5%
-  - [japan] JAPAN OCT EXPORTS POST 14TH STRAIGHT Y/Y RISE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T02:52:49+00:00",
+      "published_utc": "2026-11-18T03:03:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
