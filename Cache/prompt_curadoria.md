@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T07:02:50.590930+00:00
+Última coleta: 2026-11-18T07:12:51.884906+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
+  🇯🇵 Japão          1025
   🇨🇳 China          910
-  🇹🇼 Taiwan         303
+  🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
+  - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
+  - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
   - [korea] S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026
   - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
@@ -27,11 +30,11 @@ Total: 3000 manchetes
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)
   - [korea] South Korea’s chip boom bypasses retail investors as stock rout hits spending
   - [korea] Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs
+  - [taiwan] Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck
   - [japan] Yen Intervention Likely Still Some Way Off — Market Talk
   - [china] China's October youth jobless rate falls to 17.2%
   - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
   - [japan] Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk
-  - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
   - [china] U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk
   - [china] Tata Steel CEO Says Chinese Imports Always A Threat; Steel Body In Ongoing Talks With Government
   - [korea] Samsung Electronics executive says more to consider on shareholder return
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock prices fall, sell orders related to AI and semiconductors
   - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
   - [korea] Household debt in the third quarter surpassed KRW 2030 trillion, a new record. However, the increase..
-  - [china] Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism
-  - [japan] BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth
-  - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T07:02:50+00:00",
+      "published_utc": "2026-11-18T07:12:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

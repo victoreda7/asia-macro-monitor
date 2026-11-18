@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T07:02:50.590930+00:00",
- "collected_at_utc": "2026-11-18T07:02:50.590930+00:00",
+ "generated_at_utc": "2026-11-18T07:12:51.884906+00:00",
+ "collected_at_utc": "2026-11-18T07:12:51.884906+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1026,
+  "japan": 1025,
   "china": 910,
-  "taiwan": 303,
+  "taiwan": 304,
   "korea": 761
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 28.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T03:47:35+00:00"
+   "newest": "2026-11-18T06:08:31+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 31/08/2026",
-   "newest": "2026-08-31T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-11-18T07:00:36+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-17T20:00:00+09:00"
+   "newest": "2026-11-18T10:52:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:57:00+00:00"
+   "newest": "2026-11-16T10:36:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T15:43:41+09:00"
+   "newest": "2026-11-18T16:06:02+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T07:02:00+00:00"
+   "newest": "2026-11-18T07:12:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T14:00:00+09:00"
+   "newest": "2026-11-18T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T06:39:59+00:00"
+   "newest": "2026-11-18T06:36:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,58 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77702",
+   "published_utc": "2026-11-18T07:06:02+00:00",
+   "title_original": "片山財務相“一律減税は社会保障に影響出かねず適切でない”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8d9d509bed84875b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118000713:0-table-king-yuan-electronics-3q-net-profit-nt-2-64b-vs-nt-2-30b/",
+   "published_utc": "2026-11-18T07:02:00+00:00",
+   "title_original": "Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "731055ed9a997301"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSWdId2tvZkd3UXJIWVluTGstYzA4dnlqM3dYcVBfSVBPQXdONFB1MTJqVGZ1WXRieEhhc3JidkRLSnBxYjhNOUlCMTRUS2Zhd0JzaTdpaUF0enI3alhlUHBTVjBESnBZY0dWTi1MSGVxZw?oc=5",
+   "published_utc": "2026-11-18T07:00:36+00:00",
+   "title_original": "S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "43883e0c284e1c4d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -516,6 +568,23 @@
    "id": "af99eb272ece8d1e"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVV6Zm9ZOEczbTE4a281cEV6RVNEV2JLNUctNXBkYk1oTWE3WG9ZUTlXa1Q2U01JYjJkaUV0V2FsWWY5ZmNlX05mRk9hUXpLUEZ2MEI2RnU3elljVkZZM0E2RVpTdzFsUXpCeFdSNnQ2S3Z2UlktNjl0cFU5amNCWnJmWVdLc3NNSGZBeEcxclhSd2EwSnV3RERFRUtzeWZtWEtxXzJQclFLWDExWnFIaUhYWC16UmxmZUEw?oc=5",
+   "published_utc": "2026-11-18T06:08:31+00:00",
+   "title_original": "Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "da9d75741636bb75"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Yen Intervention Likely Still Some Way Off — Market Talk",
@@ -585,24 +654,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2b34d16599dc553c"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77702",
-   "published_utc": "2026-11-18T05:40:00+00:00",
-   "title_original": "片山財務相“一律減税は社会保障に影響出かねず適切でない”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8d9d509bed84875b"
   },
   {
    "source_id": "tradingview_live",
@@ -1285,23 +1336,6 @@
    "live_wire": false,
    "manual": false,
    "id": "99c4640b479bcb42"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25",
-   "url": "https://www.tradingview.com/news/DJN_DN20261117010102:0-japan-mof-to-auction-y300-0b-of-40-year-govt-bonds-nov-25/",
-   "published_utc": "2026-11-18T01:30:00+00:00",
-   "title_original": "Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f4a88fb795d753a1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -19257,23 +19291,6 @@
    "live_wire": false,
    "manual": false,
    "id": "725de47a7ef344ec"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B",
-   "url": "https://www.tradingview.com/news/DJN_DN20261109002084:0-table-king-yuan-electronics-3q-net-profit-nt-2-64b-vs-nt-2-30b/",
-   "published_utc": "2026-11-09T09:27:00+00:00",
-   "title_original": "Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "77de7be678988325"
   },
   {
    "source_id": "tradingview_live",
@@ -51891,23 +51908,6 @@
    "live_wire": true,
    "manual": false,
    "id": "76e2f73596dd02d7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경인투데이뉴스",
-   "title_en": "(Breaking News) Bank of Korea freezes base interest rate at 3.0%: Gyeongin Today News",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kUjVrSFFTNS1BYVdGRU1fWk9rVVpkVk0tQUpURXlWOEhNSDNoM0dIY2JpVlhUT2FDdUlyeExxNG1rZ2tVY2l2bHNOLWszUlVhNzRMdG1zLW5tM0h2WVhz0gFfQVVfeXFMT2RSNWtIUVM1LUFhV0ZFTV9aT2tVWmRWTS1BSlRFeVY4SE1IM2gzR0hjYmlWWFRPYUN1SXJ4THE0bWtna1VjaXZsc04tazNSVWE3NEx0bXMtbm0zSHZZWHM?oc=5",
-   "published_utc": "2026-10-23T10:19:18+00:00",
-   "title_original": "(속보) 한국은행,기준금리 3.0% 동결:경인투데이뉴스",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2a922b0ae1a17cb8"
   },
   {
    "source_id": "manual_ia",
