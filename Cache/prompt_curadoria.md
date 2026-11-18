@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T01:03:10.170373+00:00
+Última coleta: 2026-11-18T01:12:43.184295+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
+  🇯🇵 Japão          1031
   🇨🇳 China          903
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  756
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea moves to simplify rules of origin verification for used car exports
   - [japan] Japan's Export Growth Expected to Moderate Gradually — Market Talk
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
   - [japan] Japan exports set record in October on strong chip-related demand
   - [japan] Interest Rate (November 17 2026)
+  - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
   - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
@@ -30,7 +32,7 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YE
   - [japan] MNI: JAPAN OCT EXPORTS +20.5% Y/Y; SEPT +16.5%
   - [japan] JAPAN OCT EXPORTS POST 14TH STRAIGHT Y/Y RISE
-  - [japan] Japan logs trade deficit for 6th-straight month in October
+  - [japan] Japan logs trade deficit for 6th straight month in October
   - [japan] JAPAN OCT IMPORT Y/Y RISE LED BY CRUDE OIL, COMPUTER CHIPS, COMPUTER ITEMS
   - [japan] JAPAN OCT EXPORT Y/Y RISE LED BY AUTO, COMPUTER CHIPS, CHIPMAKING EQUIPMENT
   - [japan] JAPAN OCT TRADE DEFICIT ¥476.5 BLN (SEPT REVISED ¥556.48 BLN DEFICIT); 6TH STRAIGHT DEFICIT; MEDIAN FORECAST ¥
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Big headwind from food tax cuts, serious impact feared by restaurant group leaders... Why they are seeking nat
   - [japan] Consumption tax cut: Ruling party "accepts opposition party's insistence on passing through deliberations"
   - [china] China Is Getting Inflation in All the Wrong Places
-  - [japan] ASICS: Scale to JPY 1.5 trillion by 2029 while targeting 50% ROE
-  - [china] Economists Call for More Stimulus to Bolster Domestic Demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T01:03:10+00:00",
+      "published_utc": "2026-11-18T01:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
