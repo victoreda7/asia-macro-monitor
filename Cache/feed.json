@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T02:22:43.489094+00:00",
- "collected_at_utc": "2026-11-18T02:22:43.489094+00:00",
+ "generated_at_utc": "2026-11-18T02:32:43.116099+00:00",
+ "collected_at_utc": "2026-11-18T02:32:43.116099+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1034,
-  "china": 908,
-  "taiwan": 305,
-  "korea": 753
+  "china": 910,
+  "taiwan": 304,
+  "korea": 752
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T01:52:25+00:00"
+   "newest": "2026-11-18T02:26:04+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T13:41:00+00:00"
+   "newest": "2026-11-18T02:07:21+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T02:16:20+00:00"
+   "newest": "2026-11-18T02:31:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T20:06:47+00:00"
+   "newest": "2026-11-17T23:00:34+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -345,6 +345,41 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117010247:0-u-s-chip-curbs-to-leave-u-s-china-relationship-more-fragile-market-talk/",
+   "published_utc": "2026-11-18T02:18:00+00:00",
+   "title_original": "U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5d85e0f74f0dafd7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117010035:0-boj-s-ueda-sees-sales-tax-cut-boosting-growth-but-impact-uncertain/",
+   "published_utc": "2026-11-18T02:18:00+00:00",
+   "title_original": "BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3accc3570eac4da6"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit",
@@ -362,6 +397,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b50d4a38d151d9b0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "EQS",
+   "title_en": "China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award",
+   "url": "https://www.tradingview.com/news/eqs:50eaf9465094b:0-china-s-recombinant-collagen-technology-wins-the-inpd-innovative-manufacturing-process-award/",
+   "published_utc": "2026-11-18T02:15:12+00:00",
+   "title_original": "China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a005b3a3de1624fb"
   },
   {
    "source_id": "tradingview_live",
@@ -396,6 +448,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d3cf9463eab2dfa4"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网财经",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
+   "published_utc": "2026-11-18T02:07:21+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -782,6 +852,23 @@
    "live_wire": true,
    "manual": false,
    "id": "72d0330bda37691c"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVh1bVJsakhEQV9mX0VBXzlxZW92aXRsSjdHaWlHeU0yZzBwczVlcmRnMXlyRkh5S3E2blFlNTJRWGtUQ0V4b2h0SmUtV0VHZXhzQlBDZzBmS0wxWC04bTV1MHJfckFURjNTRnZOTC1rM2tIQW5hUHdCaGFPTEd5LTZmZWMyZHdSMjN3cTV6dXd0V3cyQjFCVW5aTXBuTTB4Q0h3ZkdMTy1pT3BYR19NcQ?oc=5",
+   "published_utc": "2026-11-18T00:22:00+00:00",
+   "title_original": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9018feb321ac6f7"
   },
   {
    "source_id": "investing_live",
@@ -1634,23 +1721,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1612ca8b3d096d02"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVh1bVJsakhEQV9mX0VBXzlxZW92aXRsSjdHaWlHeU0yZzBwczVlcmRnMXlyRkh5S3E2blFlNTJRWGtUQ0V4b2h0SmUtV0VHZXhzQlBDZzBmS0wxWC04bTV1MHJfckFURjNTRnZOTC1rM2tIQW5hUHdCaGFPTEd5LTZmZWMyZHdSMjN3cTV6dXd0V3cyQjFCVW5aTXBuTTB4Q0h3ZkdMTy1pT3BYR19NcQ?oc=5",
-   "published_utc": "2026-11-17T13:58:37+00:00",
-   "title_original": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9018feb321ac6f7"
   },
   {
    "source_id": "tradingview_live",
@@ -51842,76 +51912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5846659f0665b97e"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Finance Committee",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261023de64171",
-   "published_utc": "2026-10-23T07:27:46+00:00",
-   "title_original": "消費税減税法案 衆院財務金融委員会で実質的な審議入り",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0c1261b944685189"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tOVRnOUd2cTR2UVp6Q3pMZGtCVjBCeEVXU1J2MEVCQmVmREpvNkpOS184RzhGdnJPbUpzbGtrMHhSemNnWlRTRHRpN2Rsa2d4UUM2b1ZQQ0dvVjcwdkZGTjdiQ3ZoWDliWVA0X1dJRmFUdjlPZDJRdlNB?oc=5",
-   "published_utc": "2026-10-23T07:03:57+00:00",
-   "title_original": "Kospi drops on AI funding worries, oil-driven inflation fears",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "24caeb1ad92da690"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Offshore Yuan Bonds Priced at Record Lows Amid Rally",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2I4ZUFVUWY3U2VjVXlyV1dTdUduT3JmRkN5THJiem5lSkVVTklUVXVoNjU0X2lCcmk5RW8zLW9fR21FazhINWR6SnBnMThFRThXTFZsajcxUUhYR0dWN3dveVFIVmUtR3VzMFpTOGh5N2ZtajBLNzQzeFpkNVFUZWJEWmcwMHhwSkgxM1Q4RjJwQmZPdV9KcHkzcGM1cWRsVmpoY1lReGs4U25fV1E?oc=5",
-   "published_utc": "2026-10-23T07:01:59+00:00",
-   "title_original": "China Offshore Yuan Bonds Priced at Record Lows Amid Rally",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ac990465bc04646"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNy1DMUMtTHNUMnJOY3cwczhpUlRuNTRyTWhYak9mNGY5bGtFb2ZVSUN6Vk82S1lvZEdWMVU3MGt3UVA1aHhqbkpLRGszOGJOcGUzekZ2Vm9SRDhabHFVMUxQT3V6eWFHemJ2aHZtTXRDLVljNmRvZmswSVpLRGEyc3ZjZzc0OW1fZlc1V0g2YTY?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
-   "region": "taiwan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "488d507f6c702bfd"
   },
   {
    "source_id": "manual_ia",

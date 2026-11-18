@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T02:22:43.489094+00:00
+Última coleta: 2026-11-18T02:32:43.116099+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
-  🇨🇳 China          908
-  🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  753
+  🇨🇳 China          910
+  🇹🇼 Taiwan         304
+  🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
+  - [japan] BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
+  - [china] China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award
   - [korea] South Korean won gains most among mixed Asian currencies
   - [japan] Bank of Japan governor says central bank should keep raising rates
+  - [china] Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest ra
   - [korea] The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong wo
   - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
   - [china] On November 18, the central bank launched a 700.2 billion yuan overnight reverse repurchase operation.
@@ -42,6 +46,7 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
   - [japan] Interest Rate (November 17 2026)
   - [japan] Japan exports set record in October on strong chip-related demand
+  - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
   - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
   - [japan] JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT EXPORTS POST 14TH STRAIGHT Y/Y RISE
   - [japan] Japan logs trade deficit for 6th straight month in October
   - [japan] JAPAN OCT IMPORT Y/Y RISE LED BY CRUDE OIL, COMPUTER CHIPS, COMPUTER ITEMS
-  - [japan] JAPAN OCT EXPORT Y/Y RISE LED BY AUTO, COMPUTER CHIPS, CHIPMAKING EQUIPMENT
-  - [japan] JAPAN OCT TRADE DEFICIT ¥476.5 BLN (SEPT REVISED ¥556.48 BLN DEFICIT); 6TH STRAIGHT DEFICIT; MEDIAN FORECAST ¥
-  - [japan] Japan exports rise 20.5% year/year in October
-  - [japan] JAPAN OCT IMPORT VALUE REACHES RECORD HIGH OF 12.25 TRLN YEN
-  - [japan] JAPAN OCT EXPORT VALUE HITS RECORD HIGH OF 11.77 TRLN YEN
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T02:22:43+00:00",
+      "published_utc": "2026-11-18T02:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
