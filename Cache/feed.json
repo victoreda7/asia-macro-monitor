@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-11-18T17:22:43.321115+00:00",
- "collected_at_utc": "2026-11-18T17:22:43.321115+00:00",
+ "generated_at_utc": "2026-11-18T17:32:58.221360+00:00",
+ "collected_at_utc": "2026-11-18T17:32:58.221360+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1023,
-  "china": 906,
+  "japan": 1022,
+  "china": 907,
   "taiwan": 310,
   "korea": 761
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 43.2,
  "sources": [
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -28,14 +36,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-18T16:04:22+00:00"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-18T17:03:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-18T17:14:23+00:00"
+   "newest": "2026-11-18T17:30:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T01:54:32+09:00"
+   "newest": "2026-11-19T01:54:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T15:22:48+00:00"
+   "newest": "2026-11-18T15:24:25+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T13:21:21+00:00"
+   "newest": "2026-11-18T13:37:03+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T17:12:31+00:00"
+   "newest": "2026-11-18T17:32:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,32 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-18T09:00:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_cn_caixin": 1
+ },
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China increases sugar production and should reduce imports in the new harvest, predicts StoneX",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Z1B7:0/",
+   "published_utc": "2026-11-18T17:26:27+00:00",
+   "title_original": "China eleva produção de açúcar e deve reduzir importações na nova safra, prevê StoneX",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "0367bfcc21123bc1"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -433,8 +452,8 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rZHd3WXNneEJDdk5xQ2FYVTZjb2UtNHpHMS1YUzdTdDVXXzNMUXhnTTc4MjRDLWRTMURkLWQybExCQmVuVnNfN3RXSWIzX3A2VFJOak9sLXN2VEJlaElhWWx5aw?oc=5",
+   "published_utc": "2026-11-18T15:24:25+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -445,7 +464,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fc9b8395a861c165"
+   "id": "40e42903f0897d05"
   },
   {
    "source_id": "nikkei_asia",
@@ -1301,23 +1320,6 @@
    "live_wire": false,
    "manual": false,
    "id": "da9d75741636bb75"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yen Intervention Likely Still Some Way Off — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261118000094:0-yen-intervention-likely-still-some-way-off-market-talk/",
-   "published_utc": "2026-11-18T05:59:00+00:00",
-   "title_original": "Yen Intervention Likely Still Some Way Off — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ba2e2c31ad4c6db8"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5231,8 +5233,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5247,7 +5249,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -7373,8 +7375,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7388,7 +7390,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
