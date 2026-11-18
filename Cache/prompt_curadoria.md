@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T19:00:25.093084+00:00
+Última coleta: 2026-11-18T19:03:03.701186+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1021
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [china] China increases sugar production and should reduce imports in the new harvest, predicts StoneX
   - [taiwan] Taiwan Semiconductor Manufacturing ADR
   - [japan] Toyota, Suzuki rely on weak yen to keep profits growing
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 149% Upside
   - [china] Tencent Says US Chip Curbs to Slow Chinese AI in the Short Run
   - [taiwan] First winter seafood shipment from Taiwan arrives in Beijing amid push for cross-Strait trade ties
-  - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [japan] Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk
   - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
   - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T19:00:25+00:00",
+      "published_utc": "2026-11-18T19:03:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
