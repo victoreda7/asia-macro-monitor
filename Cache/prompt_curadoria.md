@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T14:52:56.168424+00:00
+Última coleta: 2026-11-18T15:03:13.144304+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
-  🇨🇳 China          907
+  🇨🇳 China          905
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  760
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
@@ -47,6 +47,7 @@ Total: 3000 manchetes
   - [japan] Japan October crude import volume down 0.7%
   - [taiwan] Lawmakers unfreeze 50 MND budget items totaling US$38.2 million
   - [china] Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia
+  - [korea] Why did Samsung and SK Hynix shares rally on Wednesday?
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Cut to CNY 204.35, Implies 40% Upside
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 127.63, Implies 43% Upside
   - [korea] Shinhan Bank performs well in the first half of the year despite the base interest rate cut and delayed domest
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
   - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
   - [korea] S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026
-  - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T14:52:56+00:00",
+      "published_utc": "2026-11-18T15:03:13+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
