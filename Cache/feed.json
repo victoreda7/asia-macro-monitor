@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T16:22:43.126474+00:00",
- "collected_at_utc": "2026-11-18T16:22:43.126474+00:00",
+ "generated_at_utc": "2026-11-18T16:32:44.233779+00:00",
+ "collected_at_utc": "2026-11-18T16:32:44.233779+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1022,
-  "china": 907,
+  "japan": 1023,
+  "china": 906,
   "taiwan": 309,
   "korea": 762
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T16:03:45+00:00"
+   "newest": "2026-11-18T16:25:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T15:48:40+00:00"
+   "newest": "2026-11-18T16:25:08+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T16:08:24+00:00"
+   "newest": "2026-11-18T14:47:09+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T16:21:41+00:00"
+   "newest": "2026-11-18T16:31:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T11:05:00+00:00"
+   "newest": "2026-11-18T14:04:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -337,13 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-18T09:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Toyota, Suzuki rely on weak yen to keep profits growing",
+   "url": "https://asia.nikkei.com/business/automobiles/toyota-suzuki-rely-on-weak-yen-to-keep-profits-growing",
+   "published_utc": "2026-11-18T16:32:43.401319+00:00",
+   "title_original": "Toyota, Suzuki rely on weak yen to keep profits growing",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb49adc29d855977"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "LVGEM (China) Real Estate Investment Says Public Float Was Below Minimum From Dec 2024 To Nov 2026",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Z05J:0-lvgem-china-real-estate-investment-says-public-float-was-below-minimum-from-dec-2024-to-nov-2026/",
+   "published_utc": "2026-11-18T16:24:39+00:00",
+   "title_original": "LVGEM (China) Real Estate Investment Says Public Float Was Below Minimum From Dec 2024 To Nov 2026",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "da4f590bba62840c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -360,23 +394,6 @@
    "live_wire": true,
    "manual": false,
    "id": "eac8841a5b1428f7"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
-   "published_utc": "2026-11-18T16:08:24+00:00",
-   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "tradingview_live",
@@ -1286,23 +1303,6 @@
    "id": "ba2e2c31ad4c6db8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's October youth jobless rate falls to 17.2%",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N4610AG:0-china-s-october-youth-jobless-rate-falls-to-17-2/",
-   "published_utc": "2026-11-18T05:57:15+00:00",
-   "title_original": "China's October youth jobless rate falls to 17.2%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "16e27efa8bfb7fbc"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "中国基金报",
    "title_en": "On November 18, the central bank launched 700.2 billion yuan in overnight reverse repos, with a net withdrawal of 13.8 billion yuan.",
@@ -1443,6 +1443,23 @@
    "live_wire": false,
    "manual": false,
    "id": "225858d7380e8a37"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+   "published_utc": "2026-11-18T03:21:00+00:00",
+   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -5197,8 +5214,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5213,7 +5230,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -7339,8 +7356,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7354,7 +7371,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -13130,6 +13147,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "연합인포맥스",
+   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
+   "published_utc": "2026-11-12T02:25:40+00:00",
+   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5913d7dce403b065"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "뉴닉",
    "title_en": "US Federal Reserve's December interest rate hike forecast: Summary of the possibility of a 'big step' and the impact on the Korean economy 💸",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUEJmVVJsa0V4d1NoSkpvYzVZYXJzeTVpdmJ1VU9JZmVzNTg2RzRxTlYxNG1kZGtMdlozSW9jUHNvTEhVLVVoRGNmTXd6RkE4cEdB?oc=5",
@@ -13561,23 +13595,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b25e4ff8f4d49ed6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
-   "title_en": "Already austerity?... Will the Bank of Korea's base interest rate path change based on FCI's decision?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
-   "published_utc": "2026-11-12T00:25:39+00:00",
-   "title_original": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3ecde5047aee35c"
   },
   {
    "source_id": "nhk_economy",
@@ -51879,23 +51896,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f5ed7135d2d799b9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's MiniMax completes export registration for open-source, overseas AI model licensing",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4690YQ:0-china-s-minimax-completes-export-registration-for-open-source-overseas-ai-model-licensing/",
-   "published_utc": "2026-10-23T15:29:46+00:00",
-   "title_original": "China's MiniMax completes export registration for open-source, overseas AI model licensing",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e52b14fd69092591"
   },
   {
    "source_id": "manual_ia",
