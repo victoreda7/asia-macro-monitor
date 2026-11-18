@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T09:12:52.747418+00:00
+Última coleta: 2026-11-18T09:22:43.322762+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
@@ -17,9 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [korea] NPS names investment strategy head to lead real estate portfolio
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
-  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [japan] Swiss Franc Expected to Weaken Against Yen on Policy Divergence — Market Talk
   - [korea] [Principal and interest bomb] ‘Base interest rate hike trend’ Interest rates on variable mortgage loans have r
   - [korea] More than half of the listed companies in Korea recorded a net profit deficit in the third quarter o..
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T09:12:52+00:00",
+      "published_utc": "2026-11-18T09:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
