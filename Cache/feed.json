@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T22:12:51.664518+00:00",
- "collected_at_utc": "2026-11-18T22:12:51.664518+00:00",
+ "generated_at_utc": "2026-11-18T22:22:41.857288+00:00",
+ "collected_at_utc": "2026-11-18T22:22:41.857288+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1019,
-  "china": 910,
+  "china": 911,
   "taiwan": 311,
-  "korea": 760
+  "korea": 759
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-18T22:04:32+00:00"
+   "newest": "2026-11-18T22:14:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T22:12:17+00:00"
+   "newest": "2026-11-18T22:20:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T20:04:33+00:00"
+   "newest": "2026-11-18T14:04:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-19T07:00:00+09:00"
+   "newest": "2026-11-19T07:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:bb0a80b1389fd:0-jd-com-inc-class-a-stock-12-month-price-target-cut-to-cny-124-4-implies-39-upside/",
+   "published_utc": "2026-11-18T22:20:00+00:00",
+   "title_original": "JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ee3c395a5711925f"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1374,23 +1391,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5b2f7c25330d64d9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound",
-   "url": "https://www.tradingview.com/news/DJN_DN20261118000564_20261118000569:0-kospi-snaps-four-session-losing-streak-chip-stocks-rebound/",
-   "published_utc": "2026-11-18T06:35:00+00:00",
-   "title_original": "Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dae8b67975d14e53"
   },
   {
    "source_id": "gn_cn_scmp",
