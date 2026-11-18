@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T14:32:42.993899+00:00
+Última coleta: 2026-11-18T14:42:44.159786+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
-  🇨🇳 China          906
+  🇯🇵 Japão          1024
+  🇨🇳 China          907
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [china] 'All Chinese players' will rely on domestic chips eventually: Tencent
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 126.21, Implies 41% Upside
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 149% Upside
   - [taiwan] First winter seafood shipment from Taiwan arrives in Beijing amid push for cross-Strait trade ties
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
   - [korea] S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026
   - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
-  - [korea] Kospi Snaps Four-Session Losing Streak; Chip Stocks Rebound
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T14:32:43+00:00",
+      "published_utc": "2026-11-18T14:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
