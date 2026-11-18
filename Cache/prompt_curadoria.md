@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T19:52:43.388791+00:00
+Última coleta: 2026-11-18T20:02:43.062903+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1020
+  🇯🇵 Japão          1019
   🇨🇳 China          909
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  760
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
   - [china] U.S.-China-Russia summit meeting: Ukraine's foreign minister ``It is impossible to make a decision without the
+  - [korea] SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade
   - [china] High-profile US-China summit Trilateral summit between the US, China and Russia to be held today
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.39, Implies 40% Upside
   - [taiwan] Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Swiss Franc Expected to Weaken Against Yen on Policy Divergence — Market Talk
   - [korea] [Principal and interest bomb] ‘Base interest rate hike trend’ Interest rates on variable mortgage loans have r
   - [korea] More than half of the listed companies in Korea recorded a net profit deficit in the third quarter o..
-  - [japan] Japan October crude import volume down 0.7%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T19:52:43+00:00",
+      "published_utc": "2026-11-18T20:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
