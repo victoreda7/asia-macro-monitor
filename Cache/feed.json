@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T19:12:41.868139+00:00",
- "collected_at_utc": "2026-11-18T19:12:41.868139+00:00",
+ "generated_at_utc": "2026-11-18T19:22:42.348285+00:00",
+ "collected_at_utc": "2026-11-18T19:22:42.348285+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1021,
-  "china": 907,
+  "china": 908,
   "taiwan": 310,
-  "korea": 762
+  "korea": 761
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-18T19:08:31+00:00"
+   "newest": "2026-11-18T19:10:27+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T19:01:00+00:00"
+   "newest": "2026-11-18T19:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T14:04:52+00:00"
+   "newest": "2026-11-18T17:06:18+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.39, Implies 40% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:bb0a80b1389fd:0-jd-com-inc-class-a-stock-12-month-price-target-cut-to-cny-125-39-implies-40-upside/",
+   "published_utc": "2026-11-18T19:20:00+00:00",
+   "title_original": "JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.39, Implies 40% Upside",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0e945b49897ac64e"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -1286,23 +1303,6 @@
    "id": "d9d46d3ee316e910"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs",
-   "url": "https://www.tradingview.com/news/seekingalpha:2cac9f375094b:0-asian-markets-trade-mixed-as-nvidia-earnings-lift-kospi-and-nikkei-hong-kong-slips-on-us-chip-curbs/",
-   "published_utc": "2026-11-18T06:09:48+00:00",
-   "title_original": "Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "af99eb272ece8d1e"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck",
@@ -1377,6 +1377,23 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
+   "published_utc": "2026-11-18T04:10:46+00:00",
+   "title_original": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3ccc1d1ba3ffdf73"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg",
    "title_en": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
@@ -1391,23 +1408,6 @@
    "live_wire": false,
    "manual": false,
    "id": "83e1ab98035d45f9"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
-   "published_utc": "2026-11-18T04:10:00+00:00",
-   "title_original": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ccc1d1ba3ffdf73"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -5265,8 +5265,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5281,7 +5281,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -7407,8 +7407,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7422,7 +7422,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
