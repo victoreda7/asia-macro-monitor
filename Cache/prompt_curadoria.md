@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T00:42:50.639914+00:00
+Última coleta: 2026-11-18T00:52:42.820391+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1031
+  🇯🇵 Japão          1032
   🇨🇳 China          903
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  757
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Export Growth Expected to Moderate Gradually — Market Talk
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
   - [japan] Japan exports set record in October on strong chip-related demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Is Getting Inflation in All the Wrong Places
   - [japan] ASICS: Scale to JPY 1.5 trillion by 2029 while targeting 50% ROE
   - [china] Economists Call for More Stimulus to Bolster Domestic Demand
-  - [japan] Japan to bolster defense ties with Chile, paving way for exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T00:42:50+00:00",
+      "published_utc": "2026-11-18T00:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
