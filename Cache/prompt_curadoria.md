@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T05:12:43.544786+00:00
+Última coleta: 2026-11-18T05:22:46.628922+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1032
   🇨🇳 China          909
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics executive says more to consider on shareholder return
   - [china] On November 18, the central bank launched 700.2 billion yuan in overnight reverse repos, with a net withdrawal
   - [china] China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk
   - [japan] [Topical topics on Yahoo! Comments] ``Doubts about the effectiveness of active fiscal policy and consumption t
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Citigroup predicts that the Bank of Korea will raise interest rates in both November and February, with rising
   - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
   - [china] China warns US of retaliation over new AI chip restrictions
-  - [japan] The whole family is working together to endure the rise in prices...The reason why Japanese households cannot 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T05:12:43+00:00",
+      "published_utc": "2026-11-18T05:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
