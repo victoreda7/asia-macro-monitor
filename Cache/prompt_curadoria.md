@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T06:32:50.646517+00:00
+Última coleta: 2026-11-18T06:42:42.017267+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1028
-  🇨🇳 China          910
+  🇨🇳 China          911
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [china] Yuan dips, holds bullish outlook on bigger role in regional trade
   - [japan] Bank of Japan governor says central bank should keep raising rates
   - [china] Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China
+  - [china] UBS Group Sees Yuan Rising to 6.25 in Most Bullish Market Call
   - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
   - [china] China's September grain, sugar and pork imports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
   - [china] China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award
   - [korea] South Korean won gains most among mixed Asian currencies
-  - [china] Central Bank: Carry out 700.2 billion yuan overnight reverse repurchase operation with an interest rate of 1.2
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T06:32:50+00:00",
+      "published_utc": "2026-11-18T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
