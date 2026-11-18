@@ -7,23 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T02:12:45.385047+00:00
+Última coleta: 2026-11-18T02:17:26.091757+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
+  🇯🇵 Japão          1033
   🇨🇳 China          908
   🇹🇼 Taiwan         305
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean won gains most among mixed Asian currencies
   - [japan] Bank of Japan governor says central bank should keep raising rates
   - [korea] The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong wo
   - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
   - [china] On November 18, the central bank launched a 700.2 billion yuan overnight reverse repurchase operation.
   - [korea] Boston Dynamics to deploy robots at GlobalFoundries' chip plants
   - [china] CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS
-  - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
   - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
   - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
@@ -40,7 +40,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
   - [japan] Interest Rate (November 17 2026)
   - [japan] Japan exports set record in October on strong chip-related demand
-  - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
   - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] Japan exports rise 20.5% year/year in October
   - [japan] JAPAN OCT IMPORT VALUE REACHES RECORD HIGH OF 12.25 TRLN YEN
   - [japan] JAPAN OCT EXPORT VALUE HITS RECORD HIGH OF 11.77 TRLN YEN
+  - [japan] JAPAN OCT IMPORTS +21.6 Y/Y (SEPT +18.9%), 9TH STRAIGHT RISE; MEDIAN FORECAST +27.0%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T02:12:45+00:00",
+      "published_utc": "2026-11-18T02:17:26+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

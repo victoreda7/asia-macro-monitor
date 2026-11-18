@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T02:12:45.385047+00:00",
- "collected_at_utc": "2026-11-18T02:12:45.385047+00:00",
+ "generated_at_utc": "2026-11-18T02:17:26.091757+00:00",
+ "collected_at_utc": "2026-11-18T02:17:26.091757+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
+  "japan": 1033,
   "china": 908,
   "taiwan": 305,
-  "korea": 753
+  "korea": 754
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T01:49:34+00:00"
+   "newest": "2026-11-18T02:12:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T01:48:24+00:00"
+   "newest": "2026-11-18T02:12:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-17T13:41:00+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T21:24:00+00:00"
+   "newest": "2026-11-17T20:58:31+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-17T23:50:01+00:00"
+   "newest": "2026-11-18T02:16:30+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T02:11:39+00:00"
+   "newest": "2026-11-18T02:16:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -347,9 +347,26 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "South Korean won gains most among mixed Asian currencies",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Z02C:0-south-korean-won-gains-most-among-mixed-asian-currencies/",
+   "published_utc": "2026-11-18T02:12:25+00:00",
+   "title_original": "South Korean won gains most among mixed Asian currencies",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "53b6eb7e3fe29251"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Bank of Japan governor says central bank should keep raising rates",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Z01E:0-bank-of-japan-governor-says-central-bank-should-keep-raising-rates/",
-   "published_utc": "2026-11-18T02:04:53+00:00",
+   "url": "https://www.investing.com/news/economy-news/ueda-says-boj-will-weigh-if-underlying-inflation-becomes-anchored-5034497",
+   "published_utc": "2026-11-18T02:12:21+00:00",
    "title_original": "Bank of Japan governor says central bank should keep raising rates",
    "region": "japan",
    "topics": [
@@ -357,9 +374,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "64cabc6e4c6b7d0f"
+   "id": "d3cf9463eab2dfa4"
   },
   {
    "source_id": "gn_kr_bok",
@@ -449,24 +466,6 @@
    "live_wire": true,
    "manual": false,
    "id": "79f7cbeb1902c97f"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Ueda says BOJ will weigh if underlying inflation becomes anchored",
-   "url": "https://www.investing.com/news/economy-news/ueda-says-boj-will-weigh-if-underlying-inflation-becomes-anchored-5034497",
-   "published_utc": "2026-11-18T01:36:24+00:00",
-   "title_original": "Ueda says BOJ will weigh if underlying inflation becomes anchored",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "715eb9275c1175be"
   },
   {
    "source_id": "tradingview_live",
@@ -746,23 +745,6 @@
    "live_wire": true,
    "manual": false,
    "id": "72d0330bda37691c"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVh1bVJsakhEQV9mX0VBXzlxZW92aXRsSjdHaWlHeU0yZzBwczVlcmRnMXlyRkh5S3E2blFlNTJRWGtUQ0V4b2h0SmUtV0VHZXhzQlBDZzBmS0wxWC04bTV1MHJfckFURjNTRnZOTC1rM2tIQW5hUHdCaGFPTEd5LTZmZWMyZHdSMjN3cTV6dXd0V3cyQjFCVW5aTXBuTTB4Q0h3ZkdMTy1pT3BYR19NcQ?oc=5",
-   "published_utc": "2026-11-18T00:22:00+00:00",
-   "title_original": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9018feb321ac6f7"
   },
   {
    "source_id": "investing_live",
@@ -1634,6 +1616,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1612ca8b3d096d02"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVh1bVJsakhEQV9mX0VBXzlxZW92aXRsSjdHaWlHeU0yZzBwczVlcmRnMXlyRkh5S3E2blFlNTJRWGtUQ0V4b2h0SmUtV0VHZXhzQlBDZzBmS0wxWC04bTV1MHJfckFURjNTRnZOTC1rM2tIQW5hUHdCaGFPTEd5LTZmZWMyZHdSMjN3cTV6dXd0V3cyQjFCVW5aTXBuTTB4Q0h3ZkdMTy1pT3BYR19NcQ?oc=5",
+   "published_utc": "2026-11-17T13:58:37+00:00",
+   "title_original": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9018feb321ac6f7"
   },
   {
    "source_id": "tradingview_live",
