@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-18T04:32:52.987539+00:00",
- "collected_at_utc": "2026-11-18T04:32:52.987539+00:00",
+ "generated_at_utc": "2026-11-18T04:42:50.509393+00:00",
+ "collected_at_utc": "2026-11-18T04:42:50.509393+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 303,
   "korea": 753
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T03:17:00+00:00"
+   "newest": "2026-11-18T03:53:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T04:12:18+00:00"
+   "newest": "2026-11-18T04:29:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-11-18T03:32:32+00:00"
+   "error": "parada desde 31/08/2026",
+   "newest": "2026-08-31T07:00:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T04:32:26+00:00"
+   "newest": "2026-11-18T04:41:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -415,6 +415,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d3cf9463eab2dfa4"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWktWbDdabmdxdFFjUXFFZkFPRnlxY2tOVlk0a2U0ZUM5VENHVlRnNDZoemFGSWdCbGRjTWpSbHI5X09pSUg1dENHaFZQTUhqTnRMNjlJYmM1ZHVObllRYTkwQm1obDJONnEwWkZiSEZuV0dJbWpuVm5GMHZQbEJ6VVR1VUROYTdfbXJDSWRZQ3Npd3lDektpZkhnLVJyejh4eG5LalUyS01IWFRRM28wTmxINA?oc=5",
+   "published_utc": "2026-11-18T03:53:00+00:00",
+   "title_original": "PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d6fb89bd3bd78da"
   },
   {
    "source_id": "tradingview_live",
@@ -588,24 +606,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f81324e132e01376"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWktWbDdabmdxdFFjUXFFZkFPRnlxY2tOVlk0a2U0ZUM5VENHVlRnNDZoemFGSWdCbGRjTWpSbHI5X09pSUg1dENHaFZQTUhqTnRMNjlJYmM1ZHVObllRYTkwQm1obDJONnEwWkZiSEZuV0dJbWpuVm5GMHZQbEJ6VVR1VUROYTdfbXJDSWRZQ3Npd3lDektpZkhnLVJyejh4eG5LalUyS01IWFRRM28wTmxINA?oc=5",
-   "published_utc": "2026-11-18T02:19:00+00:00",
-   "title_original": "PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d6fb89bd3bd78da"
   },
   {
    "source_id": "tradingview_live",
@@ -4453,8 +4453,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -4469,7 +4469,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -6561,8 +6561,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -6576,7 +6576,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",

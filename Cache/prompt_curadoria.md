@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T04:32:52.987539+00:00
+Última coleta: 2026-11-18T04:42:50.509393+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] [Topical topics on Yahoo! Comments] ``Doubts about the effectiveness of active fiscal policy and consumption t
   - [china] Yuan dips, holds bullish outlook on bigger role in regional trade
   - [japan] Bank of Japan governor says central bank should keep raising rates
+  - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
   - [china] China's September grain, sugar and pork imports
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026
@@ -31,7 +32,6 @@ Total: 3000 manchetes
   - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
   - [china] Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism
   - [japan] BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth
-  - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
   - [japan] BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T04:32:53+00:00",
+      "published_utc": "2026-11-18T04:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
