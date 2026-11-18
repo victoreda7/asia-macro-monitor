@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T06:22:43.977955+00:00
+Última coleta: 2026-11-18T06:32:50.646517+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          911
+  🇯🇵 Japão          1028
+  🇨🇳 China          910
   🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
+  - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
   - [japan] Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)
   - [korea] South Korea’s chip boom bypasses retail investors as stock rout hits spending
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Recombinant Collagen Technology Wins the INPD Innovative Manufacturing Process Award
   - [korea] South Korean won gains most among mixed Asian currencies
   - [china] Central Bank: Carry out 700.2 billion yuan overnight reverse repurchase operation with an interest rate of 1.2
-  - [china] Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest ra
-  - [korea] The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong wo
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T06:22:44+00:00",
+      "published_utc": "2026-11-18T06:32:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

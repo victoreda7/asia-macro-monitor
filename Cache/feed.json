@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T06:22:43.977955+00:00",
- "collected_at_utc": "2026-11-18T06:22:43.977955+00:00",
+ "generated_at_utc": "2026-11-18T06:32:50.646517+00:00",
+ "collected_at_utc": "2026-11-18T06:32:50.646517+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1027,
-  "china": 911,
+  "japan": 1028,
+  "china": 910,
   "taiwan": 303,
   "korea": 759
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:10:00+00:00"
+   "newest": "2026-11-18T06:26:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T06:00:00+00:00"
+   "newest": "2026-11-18T06:26:13+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T10:36:00+00:00"
+   "newest": "2026-11-18T00:57:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T15:15:00+09:00"
+   "newest": "2026-11-18T15:31:08+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T06:13:16+00:00"
+   "newest": "2026-11-18T03:27:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:58:30+00:00"
+   "newest": "2026-11-18T03:46:13+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T06:22:10+00:00"
+   "newest": "2026-11-18T06:32:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:44:43+00:00"
+   "newest": "2026-11-16T23:44:18+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118000519:0-10-year-jgb-yield-projected-around-2-9-in-three-months-market-talk/",
+   "published_utc": "2026-11-18T06:28:00+00:00",
+   "title_original": "10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4c46c3cbffda5b54"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3llZ1ltdU5QNkdZX1JILW1Ud280T0YyZDdvZjZQdTV3eUFtUmlSM0JQcnRVNE9nSXpuLTlBQ0RjNlpvNUdTaWZWNDUyU1I4d0NFdFAxZHdBakFuaktZVDRQYmVWTHZBUnRfX2RPUFNFUTVnTDhQMUVRT3RxenRBMHJJYlNkaEVncEZMYXg4c1VodUZ3NVFkOFhmTVpRNGR5U2hYVWJCdEU4ZG1KVHE5aDgtNVo?oc=5",
+   "published_utc": "2026-11-18T06:26:00+00:00",
+   "title_original": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "58ca810fa3736c88"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1238,23 +1272,6 @@
    "id": "093ec95c2d65a49b"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "China warns US of retaliation over new AI chip restrictions",
-   "url": "https://www.tradingview.com/news/cnbctv:06f0df9c7094b:0/",
-   "published_utc": "2026-11-18T01:21:10+00:00",
-   "title_original": "China warns US of retaliation over new AI chip restrictions",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a0bee03d0fbf05f2"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The whole family is working together to endure the rise in prices...The reason why Japanese households cannot escape their \"frail constitution,\" which is easily shaken by illness and nursing care.",
@@ -1287,6 +1304,23 @@
    "live_wire": false,
    "manual": false,
    "id": "79be5fbfec1e55b7"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
+   "published_utc": "2026-11-18T00:49:00+00:00",
+   "title_original": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf4a8cc5b5304b14"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2139,23 +2173,6 @@
    "id": "5c7ee6ec477890f2"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUczSzdwaXdfYWhqSVcteGNJLUJoTk1CVUo4OHFOVU03MjVtM3Y1dC1CZF9MRlpwc2djYjV5ZDByWUExcnRVeUl6eDktaUszTTBoX25hSG44bzBZUzdUdHdKbVJUMkJWblJBX085V0dwR25UQS1sVks3WXdQSDBiSjliQnVOdnlwWU1pWms3WUN2dzlHek8wRnhwMF9MVEEyMDJHMWtvT2gxU08wZGFZ?oc=5",
-   "published_utc": "2026-11-17T14:49:23+00:00",
-   "title_original": "Banks Pause $480 Million Chip Loan Tied to China’s ByteDance",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf4a8cc5b5304b14"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China says it will take countermeasures if US imposes new chip curbs",
@@ -2863,23 +2880,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3a3dcc46c636d640"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3llZ1ltdU5QNkdZX1JILW1Ud280T0YyZDdvZjZQdTV3eUFtUmlSM0JQcnRVNE9nSXpuLTlBQ0RjNlpvNUdTaWZWNDUyU1I4d0NFdFAxZHdBakFuaktZVDRQYmVWTHZBUnRfX2RPUFNFUTVnTDhQMUVRT3RxenRBMHJJYlNkaEVncEZMYXg4c1VodUZ3NVFkOFhmTVpRNGR5U2hYVWJCdEU4ZG1KVHE5aDgtNVo?oc=5",
-   "published_utc": "2026-11-17T08:33:20+00:00",
-   "title_original": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "58ca810fa3736c88"
   },
   {
    "source_id": "gn_tw_digitimes",
