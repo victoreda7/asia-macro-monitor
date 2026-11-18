@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T08:42:50.418935+00:00
+Última coleta: 2026-11-18T08:52:52.748526+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          909
-  🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  761
+  🇨🇳 China          907
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [korea] More than half of the listed companies in Korea recorded a net profit deficit in the third quarter o..
   - [japan] Japan October crude import volume down 0.7%
   - [taiwan] Lawmakers unfreeze 50 MND budget items totaling US$38.2 million
   - [china] Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
   - [china] China's September grain, sugar and pork imports
-  - [taiwan] Taiwan Semiconductor (TSM) Stock Trending After Nvidia Posts Strong Q3 Results: What You Should Know
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T08:42:50+00:00",
+      "published_utc": "2026-11-18T08:52:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

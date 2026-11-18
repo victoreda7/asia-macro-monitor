@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T08:42:50.418935+00:00",
- "collected_at_utc": "2026-11-18T08:42:50.418935+00:00",
+ "generated_at_utc": "2026-11-18T08:52:52.748526+00:00",
+ "collected_at_utc": "2026-11-18T08:52:52.748526+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1026,
-  "china": 909,
-  "taiwan": 304,
-  "korea": 761
+  "china": 907,
+  "taiwan": 305,
+  "korea": 762
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 28.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T07:54:00+00:00"
+   "newest": "2026-11-16T05:34:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "newest": "2026-11-18T05:08:00+00:00"
+   "newest": "2026-11-18T08:46:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T08:39:43+00:00"
+   "newest": "2026-11-18T08:43:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T07:27:09+00:00"
+   "newest": "2026-11-18T08:46:27+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T17:35:15+09:00"
+   "newest": "2026-11-18T17:48:32+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T08:32:06+00:00"
+   "newest": "2026-11-18T08:52:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T07:59:40+00:00"
+   "newest": "2026-11-18T08:43:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "More than half of the listed companies in Korea recorded a net profit deficit in the third quarter o..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JVDAwenItT0dwekhJYnJ0al9PaHRiQzNWNUtjaGZSbU9UNjhmZ3ZYbjA3WHp4MWNwRFlwR2Y1aWF3RzczTXZocm05MTEwem8?oc=5",
+   "published_utc": "2026-11-18T08:43:45+00:00",
+   "title_original": "More than half of the listed companies in Korea recorded a net profit deficit in the third quarter o..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2bef396ac28cc749"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1420,6 +1437,23 @@
    "live_wire": false,
    "manual": false,
    "id": "99c4640b479bcb42"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Semiconductor expansion in Taiwan drives surge in tech job openings amid labor shortage",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWJTZjB2VXNHU296VVpBd3A1WnNES0VrRjMyVHZobURnZGJCdG93ck9lRTU3MlQ5UUkxNVZjRXFmbUV1cjlrY01hZTkzQWR0aVdPSXpnMFdmYlg1cnBvelU0VTF3bzFZVkQ4Sll6UExqMm5VeVREZl9IOUxlbkxKc2NwYzBrWUtwWHpRUW1R?oc=5",
+   "published_utc": "2026-11-18T01:27:32+00:00",
+   "title_original": "Semiconductor expansion in Taiwan drives surge in tech job openings amid labor shortage",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "25bcac193ec53da7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51872,40 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "faacacf63c38d904"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "In Depth: China’s Hybrid Export Boom Faces New EU Limits",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzNIZ0VsMDlxbjZSWXU3R1doLV9CQmZ5NDBkd0FQSjh2YlRFZE1aLVI4MElTV0hGSmQzenRiQVc2b28zaFVQZVVkc1NxMHBvMUpOWWlYaWF3X0hlekZtOXlkZFg5TEJNZjVhajFNVndtQnVESHdmWkpwdEpjcWxHSWg5UWpBZFlsbmlVeF9qTlBDaHFybzVwNDBCSWlJTnE0enNGcHFuSnI5NVZkU3c?oc=5",
-   "published_utc": "2026-10-23T11:03:00+00:00",
-   "title_original": "In Depth: China’s Hybrid Export Boom Faces New EU Limits",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "86eedd6eaa190a8e"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "Could Europe’s cost-of-living protests sharpen EU-China trade tensions?",
-   "url": "https://www.scmp.com/economy/global-economy/article/3371927/could-europes-cost-living-protests-sharpen-eu-china-trade-tensions",
-   "published_utc": "2026-10-23T11:00:10+00:00",
-   "title_original": "Could Europe’s cost-of-living protests sharpen EU-China trade tensions?",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff6513742872dfea"
   },
   {
    "source_id": "manual_ia",
