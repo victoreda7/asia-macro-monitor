@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T11:02:51.226097+00:00",
- "collected_at_utc": "2026-11-18T11:02:51.226097+00:00",
+ "generated_at_utc": "2026-11-18T11:12:45.513224+00:00",
+ "collected_at_utc": "2026-11-18T11:12:45.513224+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1022,
+  "japan": 1021,
   "china": 908,
-  "taiwan": 308,
+  "taiwan": 309,
   "korea": 762
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 28.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T23:01:15+00:00"
+   "newest": "2026-11-18T09:17:54+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T09:56:39+00:00"
+   "newest": "2026-11-18T04:47:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T11:02:36+00:00"
+   "newest": "2026-11-18T11:12:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Taiwan Semiconductor Director Purchased Shares Worth Over $500K",
+   "url": "https://www.tradingview.com/news/tradingview:bed4e60495b85:0-taiwan-semiconductor-director-purchased-shares-worth-over-500k/",
+   "published_utc": "2026-11-18T11:10:00+00:00",
+   "title_original": "Taiwan Semiconductor Director Purchased Shares Worth Over $500K",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1fec2c66ce761455"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "AFP",
@@ -1309,21 +1326,21 @@
    "id": "225858d7380e8a37"
   },
   {
-   "source_id": "tradingview_live",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
-   "title_en": "Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46600C:0-japan-s-orix-to-acquire-recruit-holdings-online-learning-business-for-about-60-billion-yen-nikkei-says/",
-   "published_utc": "2026-11-18T03:25:52+00:00",
-   "title_original": "Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says",
-   "region": "japan",
+   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+   "published_utc": "2026-11-18T03:21:00+00:00",
+   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "region": "china",
    "topics": [
-    "fx"
+    "trade"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "a0a28c0085d1b878"
+   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51880,24 +51897,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c0606821eacd5484"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
   },
   {
    "source_id": "manual_ia",

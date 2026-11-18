@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T11:02:51.226097+00:00
+Última coleta: 2026-11-18T11:12:45.513224+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
+  🇯🇵 Japão          1021
   🇨🇳 China          908
-  🇹🇼 Taiwan         308
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Director Purchased Shares Worth Over $500K
   - [china] Nvidia stops shipping "Hopper" AI chips to China
   - [china] Xingyun Technology Signs AI Token Services Contract Worth Up To 2 Billion Yuan
   - [china] Zhongji Innolight's Chairperson Proposes A-Share Buyback With 2-4 Billion Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Intervention Likely Still Some Way Off — Market Talk
   - [china] China's October youth jobless rate falls to 17.2%
   - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
-  - [japan] Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T11:02:51+00:00",
+      "published_utc": "2026-11-18T11:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
