@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T03:03:04.896552+00:00",
- "collected_at_utc": "2026-11-18T03:03:04.896552+00:00",
+ "generated_at_utc": "2026-11-18T03:12:57.336920+00:00",
+ "collected_at_utc": "2026-11-18T03:12:57.336920+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1032,
-  "china": 910,
+  "china": 909,
   "taiwan": 304,
-  "korea": 754
+  "korea": 755
  },
- "elapsed_s": 50.8,
+ "elapsed_s": 35.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:39:42+00:00"
+   "newest": "2026-11-18T03:09:20+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T02:51:45+00:00"
+   "newest": "2026-11-18T03:09:52+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:20:55+00:00"
+   "newest": "2026-11-18T01:48:46+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T08:50:59+09:00"
+   "newest": "2026-11-18T12:02:23+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T12:01:11+09:00"
+   "newest": "2026-11-18T12:04:17+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T16:51:00+00:00"
+   "newest": "2026-11-18T00:30:13+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T03:01:38+00:00"
+   "newest": "2026-11-18T03:10:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T21:57:07+00:00"
+   "newest": "2026-11-18T03:00:15+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T11:45:00+09:00"
+   "newest": "2026-11-18T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices fall, sell orders related to AI and semiconductors",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77610",
+   "published_utc": "2026-11-18T03:04:17+00:00",
+   "title_original": "株価 値下がり AIや半導体関連に売り注文",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3b799ac78e7c2f7b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -394,6 +411,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d3cf9463eab2dfa4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth",
+   "url": "https://www.tradingview.com/news/binance_news:6e92a0471094b:0-boj-s-ueda-says-planned-food-tax-cut-likely-to-aid-growth/",
+   "published_utc": "2026-11-18T02:41:56+00:00",
+   "title_original": "BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f81324e132e01376"
   },
   {
    "source_id": "tradingview_live",
@@ -1451,24 +1486,6 @@
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
-   "title_en": "<Data Pitfalls> The Bank of Japan shows that ``young people are more likely to consume'' and appeals for a ``virtuous cycle of wages and prices,'' but another factor emerges | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/964871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-11-17T21:00:00+00:00",
-   "title_original": "〈データの落とし穴〉日銀は｢若者ほど消費が強い｣と示して\"賃金と物価の好循環\"を訴えるが､浮かび上がるのは別要因 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "660f209f050a7c57"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
    "title_en": "\"Exciting and moving\" \"Beautiful culture\" Why \"Gen Z\" who don't know about the Showa era are obsessed with \"Hihokan\"...A 37-year-old woman opens a different space in an abandoned housing complex | Life | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/964849?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-11-17T21:00:00+00:00",
@@ -1487,6 +1504,24 @@
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
+   "title_en": "The Bank of Japan shows that ``young people are more likely to consume'' and appeals for a ``virtuous cycle of wages and prices,'' but another factor emerges | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-17T21:00:00+00:00",
+   "title_original": "〈データの落とし穴〉日銀は｢若者ほど消費が強い｣と示して\"賃金と物価の好循環\"を訴えるが､浮かび上がるのは別要因 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "660f209f050a7c57"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
    "title_en": "Big headwind from food tax cuts, serious impact feared by restaurant group leaders... Why they are seeking national support for unique discount coupons | Business | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/963366?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-11-17T21:00:00+00:00",
@@ -1500,6 +1535,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d9b1256ab89a4386"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "Will housing prices in Seoul be put on hold due to concerns about an interest rate hike? Selective adjustment weight rather than plunge",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xRWF3QS1LbEtBZHY0dlV5Y19fVzhxNjRBRkdIZnp2Zl9xaHJIcHc5U3ZxZjdQb0JhQ3pVNk45bmtka2h4c29WZ3NhdDUzTm9TZjFtdkZIRlQzY183?oc=5",
+   "published_utc": "2026-11-17T21:00:00+00:00",
+   "title_original": "기준금리 인상 우려에 서울 집값 제동 걸리나…급락보다 선별 조정 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "825c3b97e3c6bbd7"
   },
   {
    "source_id": "nhk_politics",
@@ -4223,8 +4276,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -4239,7 +4292,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -6331,8 +6384,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -6346,7 +6399,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51859,57 +51912,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bd7003e83c3a1d3f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan weighs phasing out gasoline subsidies from December as costs mount, officials say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4690LD:0-japan-weighs-phasing-out-gasoline-subsidies-from-december-as-costs-mount-officials-say/",
-   "published_utc": "2026-10-23T08:24:20+00:00",
-   "title_original": "Japan weighs phasing out gasoline subsidies from December as costs mount, officials say",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "01baf53738d35b17"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hong Kong Monetary Authority designates 12 banks as primary liquidity providers for offshore yuan market",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4690JF:0-hong-kong-monetary-authority-designates-12-banks-as-primary-liquidity-providers-for-offshore-yuan-market/",
-   "published_utc": "2026-10-23T08:23:18+00:00",
-   "title_original": "Hong Kong Monetary Authority designates 12 banks as primary liquidity providers for offshore yuan market",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "044f2f008f8cd0d2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N469033:0-japan-s-nippon-life-plans-cuts-to-jgb-holdings-for-2nd-straight-year-will-hang-on-to-oats/",
-   "published_utc": "2026-10-23T08:00:00+00:00",
-   "title_original": "Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5816691b70adbf15"
   },
   {
    "source_id": "manual_ia",

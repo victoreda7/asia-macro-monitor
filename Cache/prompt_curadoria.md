@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T03:03:04.896552+00:00
+Última coleta: 2026-11-18T03:12:57.336920+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
-  🇨🇳 China          910
+  🇨🇳 China          909
   🇹🇼 Taiwan         304
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock prices fall, sell orders related to AI and semiconductors
   - [korea] South Korean State Think-Tank KDI Raises GDP Forecasts
   - [korea] South Korean State Think Tank Raises Growth Forecasts
   - [japan] Bank of Japan governor says central bank should keep raising rates
+  - [japan] BOJ’s Ueda Says Planned Food Tax Cut Likely to Aid Growth
   - [china] U.S. Chip Curbs to Leave U.S.-China Relationship More Fragile — Market Talk
   - [japan] BOJ's Ueda Sees Sales Tax Cut Boosting Growth, But Impact Uncertain
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
   - [japan] JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT
   - [japan] Japan Exports Continue to Rise Amid AI Boom
-  - [china] Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China
-  - [japan] JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T03:03:05+00:00",
+      "published_utc": "2026-11-18T03:12:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
