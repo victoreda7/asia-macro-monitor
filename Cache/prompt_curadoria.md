@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T04:42:50.509393+00:00
+Última coleta: 2026-11-18T04:52:43.479752+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
+  🇯🇵 Japão          1034
   🇨🇳 China          909
-  🇹🇼 Taiwan         303
+  🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
@@ -21,9 +21,11 @@ Total: 3000 manchetes
   - [japan] [Topical topics on Yahoo! Comments] ``Doubts about the effectiveness of active fiscal policy and consumption t
   - [china] Yuan dips, holds bullish outlook on bigger role in regional trade
   - [japan] Bank of Japan governor says central bank should keep raising rates
+  - [china] Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China
   - [china] PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
   - [china] China's September grain, sugar and pork imports
+  - [taiwan] Taiwan Semiconductor (TSM) Stock Trending After Nvidia Posts Strong Q3 Results: What You Should Know
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026
   - [japan] Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says
   - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea moves to simplify rules of origin verification for used car exports
   - [china] Nvidia no longer selling US-approved Hopper chips to China, Interim CEO Kress says
   - [japan] Japan's Export Growth Expected to Moderate Gradually — Market Talk
-  - [china] Banks Pause $480 Million Chip Loan Tied to China’s ByteDance
-  - [japan] Bank of Japan Governor Ueda will attend a special committee meeting of the House of Councilors from 10:00 a.m.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T04:42:50+00:00",
+      "published_utc": "2026-11-18T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
