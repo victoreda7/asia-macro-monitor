@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T04:22:48.547098+00:00",
- "collected_at_utc": "2026-11-18T04:22:48.547098+00:00",
+ "generated_at_utc": "2026-11-18T04:32:52.987539+00:00",
+ "collected_at_utc": "2026-11-18T04:32:52.987539+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
-  "china": 910,
+  "japan": 1035,
+  "china": 909,
   "taiwan": 303,
   "korea": 753
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:37:16+00:00"
+   "newest": "2026-11-17T13:24:38+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T23:01:15+00:00"
+   "newest": "2026-11-18T03:21:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T04:12:21+00:00"
+   "newest": "2026-11-18T04:32:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:55:02+00:00"
+   "newest": "2026-11-18T04:21:45+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T01:47:08+00:00"
+   "newest": "2026-11-18T04:16:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,61 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261117010470:0-china-s-ai-chip-vendors-to-gain-from-u-s-chip-curbs-market-talk/",
+   "published_utc": "2026-11-18T04:25:00+00:00",
+   "title_original": "China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f27a911c58209ee7"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Topical topics on Yahoo! Comments] ``Doubts about the effectiveness of active fiscal policy and consumption tax cuts'' ``Calls for fundamental measures against the weak yen and high prices'' - Discussions over fiscal policy and responses to the weak yen",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSW1manJDYkpSZ2JEeWNlUjFLYUlyVHBpYk1Sdko5QUx4blhhU0d6X2tiSWZaY3RpdXdJZUNvbGVvTVVzYzhSRTd2UUw3a0ZXUzRoWmc4R2RfUzVtM2d5N25salZoMURFeXEyMTNVT21wSGE4RzZxVW9jVmlFdm8?oc=5",
+   "published_utc": "2026-11-18T04:21:45+00:00",
+   "title_original": "【ヤフコメで話題】「積極財政や消費税減税の効果に疑問」「円安・物価高への根本対策を求める声」 - 財政政策と円安対応を巡る議論",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "inflation",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94344ab97bbfe0d5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan dips, holds bullish outlook on bigger role in regional trade",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Z07U:0-yuan-dips-holds-bullish-outlook-on-bigger-role-in-regional-trade/",
+   "published_utc": "2026-11-18T04:21:10+00:00",
+   "title_original": "Yuan dips, holds bullish outlook on bigger role in regional trade",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9d289cb6856ca364"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -4398,8 +4453,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -4414,7 +4469,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -6506,8 +6561,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -6521,7 +6576,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51860,59 +51915,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a28d8404fa28eebc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Zmw5cXBXaHJuYURNaGlPR0kzSEszWlgzLUo3RlNmZFc1RDZiQ0E4UWRTVTVQRG9ya0psOVdnLWxOTGdRUkVJWmNqM1FfTF9FUnhZb1ZlRnVOVFBZbTNRTDZZVlY1bjQ?oc=5",
-   "published_utc": "2026-10-23T09:19:04+00:00",
-   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "77de976f71e72596"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
-   "published_utc": "2026-10-23T09:15:45+00:00",
-   "title_original": "央行：10月26将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37ab205c7f5915c5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's Hisense Home Appliances nine-month revenue falls on forex impact",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4690CF:0-china-s-hisense-home-appliances-nine-month-revenue-falls-on-forex-impact/",
-   "published_utc": "2026-10-23T08:56:31+00:00",
-   "title_original": "China's Hisense Home Appliances nine-month revenue falls on forex impact",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c2756417e97cd174"
   },
   {
    "source_id": "manual_ia",

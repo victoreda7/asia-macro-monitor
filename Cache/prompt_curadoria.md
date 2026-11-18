@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T04:22:48.547098+00:00
+Última coleta: 2026-11-18T04:32:52.987539+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          910
+  🇯🇵 Japão          1035
+  🇨🇳 China          909
   🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
+  - [china] China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk
+  - [japan] [Topical topics on Yahoo! Comments] ``Doubts about the effectiveness of active fiscal policy and consumption t
+  - [china] Yuan dips, holds bullish outlook on bigger role in regional trade
   - [japan] Bank of Japan governor says central bank should keep raising rates
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
   - [china] China's September grain, sugar and pork imports
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Export Growth Expected to Moderate Gradually — Market Talk
   - [china] Banks Pause $480 Million Chip Loan Tied to China’s ByteDance
   - [japan] Bank of Japan Governor Ueda will attend a special committee meeting of the House of Councilors from 10:00 a.m.
-  - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
-  - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
-  - [japan] Interest Rate (November 17 2026)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T04:22:48+00:00",
+      "published_utc": "2026-11-18T04:32:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
