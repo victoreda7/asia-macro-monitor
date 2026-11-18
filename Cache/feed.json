@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T08:32:54.089288+00:00",
- "collected_at_utc": "2026-11-18T08:32:54.089288+00:00",
+ "generated_at_utc": "2026-11-18T08:42:50.418935+00:00",
+ "collected_at_utc": "2026-11-18T08:42:50.418935+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1026,
-  "china": 910,
-  "taiwan": 303,
+  "china": 909,
+  "taiwan": 304,
   "korea": 761
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 28.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 54,
+   "count": 57,
    "error": "",
-   "newest": "2026-11-18T14:24:11+08:00"
+   "newest": "2026-11-18T15:59:19+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T08:12:40+00:00"
+   "newest": "2026-11-18T08:32:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T07:54:23+00:00"
+   "newest": "2026-11-18T08:25:10+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T07:55:00+00:00"
+   "newest": "2026-11-18T08:39:43+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T17:15:44+09:00"
+   "newest": "2026-11-18T17:35:15+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T17:09:01+09:00"
+   "newest": "2026-11-18T17:40:15+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:30:00+00:00"
+   "newest": "2026-11-18T07:40:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -337,7 +337,7 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-18T07:19:16+00:00"
   }
@@ -360,6 +360,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3256fa004742b5c5"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Lawmakers unfreeze 50 MND budget items totaling US$38.2 million",
+   "url": "https://focustaiwan.tw/politics/202611180015",
+   "published_utc": "2026-11-18T07:59:19+00:00",
+   "title_original": "Lawmakers unfreeze 50 MND budget items totaling US$38.2 million",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d4fff11ed9712d34"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51889,24 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ff6513742872dfea"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank takes action! The 700 billion yuan MLF operation is coming",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzBqbmc5MTFTTTdzSnZZa0ZJQ29zUXlQM2hSQ3l2VWVSYTAwTXhPSXdFQ213a3R2ZmRSNEtyRDVjRTM3QkV4djR0OUhWZkJzem95SHRhSFpyTjVaUUIzb0VqLXozRVRNakV0dXR5Z0Ffdk1tN3hXXy1DRHR5bmNYYWVKeU8?oc=5",
-   "published_utc": "2026-10-23T10:50:00+00:00",
-   "title_original": "央行出手！7000亿元MLF操作来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5b60b32940d45b6e"
   },
   {
    "source_id": "manual_ia",

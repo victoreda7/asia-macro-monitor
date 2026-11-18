@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T08:32:54.089288+00:00
+Última coleta: 2026-11-18T08:42:50.418935+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          910
-  🇹🇼 Taiwan         303
+  🇨🇳 China          909
+  🇹🇼 Taiwan         304
   🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan October crude import volume down 0.7%
+  - [taiwan] Lawmakers unfreeze 50 MND budget items totaling US$38.2 million
   - [china] Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Cut to CNY 204.35, Implies 40% Upside
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 127.63, Implies 43% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's October fuel exports slowed on month but still topped last year's monthly average
   - [china] China's September grain, sugar and pork imports
   - [taiwan] Taiwan Semiconductor (TSM) Stock Trending After Nvidia Posts Strong Q3 Results: What You Should Know
-  - [japan] Auction Result of 20-Year JGBs on November 18, 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T08:32:54+00:00",
+      "published_utc": "2026-11-18T08:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
