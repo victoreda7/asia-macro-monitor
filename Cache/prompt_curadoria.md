@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T06:02:41.026359+00:00
+Última coleta: 2026-11-18T06:12:43.484701+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
+  🇯🇵 Japão          1026
   🇨🇳 China          912
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  758
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [korea] Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs
   - [korea] South Korea's chip boom bypasses retail investors as stock rout hits spending
   - [japan] Yen Intervention Likely Still Some Way Off — Market Talk
   - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
   - [china] On November 18, the central bank launched a 700.2 billion yuan overnight reverse repurchase operation.
   - [korea] Boston Dynamics to deploy robots at GlobalFoundries' chip plants
-  - [china] PBOC Raises Yuan Reference Rate to Strongest Since 2022
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T06:02:41+00:00",
+      "published_utc": "2026-11-18T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
