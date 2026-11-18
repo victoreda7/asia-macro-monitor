@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T03:22:41.850617+00:00
+Última coleta: 2026-11-18T03:32:46.053508+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
-  🇨🇳 China          910
+  🇯🇵 Japão          1034
+  🇨🇳 China          909
   🇹🇼 Taiwan         303
   🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says
   - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
   - [korea] South Korean State Think Tank Raises Growth Forecasts
   - [japan] Stock prices fall, sell orders related to AI and semiconductors
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s Trade Gap Narrows Even With Steep Energy Import Gain
   - [japan] Japan exports set record in October on strong chip-related demand
   - [china] China Warns US of Retaliation Over Chip Curbs, Urges Dialogue
-  - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T03:22:42+00:00",
+      "published_utc": "2026-11-18T03:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

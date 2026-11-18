@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T03:22:41.850617+00:00",
- "collected_at_utc": "2026-11-18T03:22:41.850617+00:00",
+ "generated_at_utc": "2026-11-18T03:32:46.053508+00:00",
+ "collected_at_utc": "2026-11-18T03:32:46.053508+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
-  "china": 910,
+  "japan": 1034,
+  "china": 909,
   "taiwan": 303,
   "korea": 754
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 28.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T10:30:00+09:00"
+   "newest": "2026-11-18T12:30:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:57:00+00:00"
+   "newest": "2026-11-16T10:36:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T12:02:23+09:00"
+   "newest": "2026-11-18T12:23:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T03:21:23+00:00"
+   "newest": "2026-11-18T03:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,19 +331,36 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T01:17:14+00:00"
+   "newest": "2026-11-18T01:47:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-18T02:04:25+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46600C:0-japan-s-orix-to-acquire-recruit-holdings-online-learning-business-for-about-60-billion-yen-nikkei-says/",
+   "published_utc": "2026-11-18T03:25:52+00:00",
+   "title_original": "Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a0a28c0085d1b878"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -4330,8 +4347,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -4346,7 +4363,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -6438,8 +6455,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -6453,7 +6470,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -21228,6 +21245,23 @@
    "live_wire": false,
    "manual": false,
    "id": "779664463c25b897"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan's ruling party zeroes in on ex-PM, others over tax cut bill walkouts",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMcjF5dXdjSkc0WTBJMGQ4QTBMMHZObXM5WlQ0blVQSU4zQ2dCNlVzSEpKNkFHd2V6VVBuS2hqM1NkcXV4WUNGSElTOEJLTzFMUkZzNmFIS2JPdw?oc=5",
+   "published_utc": "2026-11-08T03:18:00+00:00",
+   "title_original": "Japan's ruling party zeroes in on ex-PM, others over tax cut bill walkouts",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92da7399ebb5ae8d"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51880,40 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "350c5be58bcb4199"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi held a summit meeting with President Wesley W. Simina of the Federated States of Micronesia.",
-   "url": "https://www.kantei.go.jp/jp/105/actions/202610/23micronesia.html",
-   "published_utc": "2026-10-23T08:40:00+00:00",
-   "title_original": "高市総理はミクロネシア連邦のウェズリー・Ｗ・シミナ大統領と首脳会談を行いました",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0ce5beaad355f8e2"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s January-September fiscal revenue up 5.1% y/y",
-   "url": "https://www.investing.com/news/economy-news/chinas-januaryseptember-fiscal-revenue-up-51-yy-4968399",
-   "published_utc": "2026-10-23T08:36:45+00:00",
-   "title_original": "China’s January-September fiscal revenue up 5.1% y/y",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ceef0d0319a982e"
   },
   {
    "source_id": "manual_ia",
