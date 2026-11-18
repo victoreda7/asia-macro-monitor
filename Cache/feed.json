@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-18T21:42:48.993945+00:00",
- "collected_at_utc": "2026-11-18T21:42:48.993945+00:00",
+ "generated_at_utc": "2026-11-18T21:52:43.472488+00:00",
+ "collected_at_utc": "2026-11-18T21:52:43.472488+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 311,
   "korea": 760
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T03:39:48+00:00"
+   "newest": "2026-11-18T09:07:26+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-18T21:37:09+00:00"
+   "newest": "2026-11-18T21:43:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T21:24:25+00:00"
+   "newest": "2026-11-18T21:30:59+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T19:23:10+00:00"
+   "newest": "2026-11-18T21:43:53+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T21:42:02+00:00"
+   "newest": "2026-11-18T21:52:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T17:06:18+00:00"
+   "newest": "2026-11-18T14:04:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-19T06:30:00+09:00"
+   "newest": "2026-11-19T06:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5424,8 +5424,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5440,7 +5440,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -50070,6 +50070,23 @@
    "id": "74d0cbe89a672609"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ may pause, but rate hike possible this year | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qTzdLaVlLbWNWTkF2djRZZjU3dTJRbU1OdGVfOU9xaUtXRWdFWC0wd3JaY1pReGd4M1g0Mm9XeEZ4X0VLVXhNN1FkMW5uUDdPOVRTYzJDNWNCbEVWRkpIanpyYTBzelVYOVZQbzV3?oc=5",
+   "published_utc": "2026-10-26T07:00:00+00:00",
+   "title_original": "BOJ may pause, but rate hike possible this year | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e1a73ce73154c7a"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "MLF net withdrawal of 200 billion yuan in October",
@@ -51881,25 +51898,6 @@
    "live_wire": true,
    "manual": false,
    "id": "81460964943e729c"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach 2% The policy interest rate is expected to remain unchanged",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNGhFOVFZVk9idG1uTWlmSXVhSUJlUl9ZOHBINjl3VEVGd3pydVhwb21RSTdHN3JHemxjWlpaNk1wbDB3NHFOZllxUm5hR1NzZDNBRjhvSXNCTVZmM3pXWDQ4VWQ3X0JGUmVRbEt3ektmOVFaT1pQWFJFbnhDbFE?oc=5",
-   "published_utc": "2026-10-23T20:53:44+00:00",
-   "title_original": "日銀 29日から金融政策決定会合 基調的な物価上昇率「2%到達」判断の公算大 政策金利は据え置きの見通し",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "863971c48d96f6e6"
   },
   {
    "source_id": "manual_ia",
