@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T13:02:54.261935+00:00
+Última coleta: 2026-11-18T13:12:52.732410+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
-  🇨🇳 China          908
-  🇹🇼 Taiwan         308
+  🇨🇳 China          907
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] First winter seafood shipment from Taiwan arrives in Beijing amid push for cross-Strait trade ties
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [japan] Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk
   - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] 10-Year JGB Yield Projected Around 2.9% in Three Months — Market Talk
   - [china] Clampdown on China Chip Loophole Puts Billions in Loans at Risk
   - [japan] Yen Likely to Strengthen Next Year as Fed Hike Bets Ease — Market Talk
-  - [japan] Auction Result of 20-Year JGBs on November 18, 2026 (For JGB Market Special Participants)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T13:02:54+00:00",
+      "published_utc": "2026-11-18T13:12:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
