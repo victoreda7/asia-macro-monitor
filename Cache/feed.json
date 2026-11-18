@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T05:32:49.230434+00:00",
- "collected_at_utc": "2026-11-18T05:32:49.230434+00:00",
+ "generated_at_utc": "2026-11-18T05:42:50.740462+00:00",
+ "collected_at_utc": "2026-11-18T05:42:50.740462+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1031,
-  "china": 910,
+  "japan": 1029,
+  "china": 911,
   "taiwan": 303,
-  "korea": 756
+  "korea": 757
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:01:04+00:00"
+   "newest": "2026-11-18T05:00:16+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T05:09:43+00:00"
+   "newest": "2026-11-18T05:34:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T04:48:19+00:00"
+   "newest": "2026-11-18T05:17:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T03:16:00+00:00"
+   "newest": "2026-11-18T04:38:57+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T05:19:19+00:00"
+   "newest": "2026-11-18T03:32:32+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T04:05:02+00:00"
+   "newest": "2026-11-18T05:34:57+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T14:30:38+09:00"
+   "newest": "2026-11-18T14:40:36+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:30:13+00:00"
+   "newest": "2026-11-18T02:58:30+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T05:30:53+00:00"
+   "newest": "2026-11-18T05:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,19 +331,54 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T05:18:59+00:00"
+   "newest": "2026-11-18T05:39:07+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-18T02:04:25+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261118de77702",
+   "published_utc": "2026-11-18T05:40:36+00:00",
+   "title_original": "片山財務相“一律減税は社会保障に影響出かねず適切でない”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8d9d509bed84875b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118000063:0-u-s-chip-curbs-could-accelerate-china-advanced-memory-investment-cycle-market-talk/",
+   "published_utc": "2026-11-18T05:34:00+00:00",
+   "title_original": "U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "081e300c56b81271"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1361,25 +1396,6 @@
    "id": "c8548d1bb1a002f4"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YEN LED BY AUTOS, CHIP EQUIPMENT, ENGINES",
-   "url": "https://www.tradingview.com/news/macenews:7937d0f84094b:0-japan-oct-exports-to-us-23-9-y-y-8th-straight-rise-sept-24-9-export-value-hit-record-high-2-17-trln-yen-led-by-autos-chip-equipment-engines/",
-   "published_utc": "2026-11-18T00:06:00+00:00",
-   "title_original": "JAPAN OCT EXPORTS TO US +23.9% Y/Y, 8TH STRAIGHT RISE (SEPT +24.9%); EXPORT VALUE HIT RECORD HIGH 2.17 TRLN YEN LED BY AUTOS, CHIP EQUIPMENT, ENGINES",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4728961cc986e339"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Japan logs trade deficit for 6th straight month in October",
@@ -1885,6 +1901,23 @@
    "live_wire": false,
    "manual": false,
    "id": "915bed1e616a8963"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korean investors park $13.8 bn in money market funds as chip rout deepens",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vek1jTnJjblp2b0pqZnVFbUxvQjBGbEdqRWxxeVFYN1VJd3VOdzlGWi1QV1ExYWR2bUF5VTIybnVORWhQN0ZfeGJiWnBSN1V5SndPM1dBRVNFSjRIcWRJQm5XRDQwTUk2cUZhVEtUcHItYXIzNUE?oc=5",
+   "published_utc": "2026-11-17T18:05:11+00:00",
+   "title_original": "S.Korean investors park $13.8 bn in money market funds as chip rout deepens",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6f52e2f39a9971d1"
   },
   {
    "source_id": "nikkei_asia",
@@ -4575,8 +4608,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -4591,7 +4624,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -6665,8 +6698,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -6680,7 +6713,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7514,7 +7547,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "The US Federal Reserve is even discussed as a ‘big step’… Will the Bank of Korea raise interest rates next week?",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSVdVVjJjczhwZllhWkxsMnB4a2ZzRnhQbVM2cDNGWjF5NG1iNmJMMGE1c0RwSVdkRktMUmhoVzZvVTFtQXV3clhBOHBSRm5Ca2FlcWdDVkt0T1RHSDlBbVhqdEUyUXJhTURoS2x2bmEwNEhQQ2F1UNIBeEFVX3lxTE5TSVdVVjJjczhwZllhWkxsMnB4a2ZzRnhQbVM2cDNGWjF5NG1iNmJMMGE1c0RwSVdkRktMUmhoVzZvVTFtQXV3clhBOHBSRm5Ca2FlcWdDVkt0T1RHSDlBbVhqdEUyUXJhTURoS2x2bmEwNEhQQ2F1UA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHWktSUC1rZkx0bFFRWC1pQTYyS0ZrUGN0U3dHT1BZTUhhYVp4RDBpWjFnSlV4c0RmZ1pYSlIzVWpLNVJoeW1aUzI1Vy02LTVjb1FzQURYcjh3ZzBaZk1na9IBeEFVX3lxTE5TSVdVVjJjczhwZllhWkxsMnB4a2ZzRnhQbVM2cDNGWjF5NG1iNmJMMGE1c0RwSVdkRktMUmhoVzZvVTFtQXV3clhBOHBSRm5Ca2FlcWdDVkt0T1RHSDlBbVhqdEUyUXJhTURoS2x2bmEwNEhQQ2F1UA?oc=5",
    "published_utc": "2026-11-14T21:00:00+00:00",
    "title_original": "'빅스텝'까지 거론되는 美 연준…한은, 내주 금리 올리나",
    "region": "korea",
@@ -7525,7 +7558,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ac0b33c217ab5e7"
+   "id": "14c79efa160ea0fa"
   },
   {
    "source_id": "toyo_keizai",
@@ -51878,42 +51911,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6b6d46e389e747c9"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Bank of Japan: Inflation likely to reach 2% inflation",
-   "url": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
-   "published_utc": "2026-10-23T09:37:44+00:00",
-   "title_original": "物価上昇2%到達判断の公算大 日銀",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9dff2c64167012de"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be postponed",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iYnVCUkZ6NFhNWW5aUlBvME5JNE9XcVNjS3NWNTJGdVdXM1dmd0hrU2ZmbFc0VmtJTmphQ1VrMzZ1bFhjaXY4V1lHeThTU285?oc=5",
-   "published_utc": "2026-10-23T09:37:44+00:00",
-   "title_original": "日銀、物価上昇率「2%到達」と判断の公算大 追加利上げは見送りも",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3b757d7123a85b7"
   },
   {
    "source_id": "manual_ia",

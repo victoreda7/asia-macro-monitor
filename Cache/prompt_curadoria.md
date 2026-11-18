@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T05:32:49.230434+00:00
+Última coleta: 2026-11-18T05:42:50.740462+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1031
-  🇨🇳 China          910
+  🇯🇵 Japão          1029
+  🇨🇳 China          911
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  756
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
+  - [china] U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk
   - [china] Tata Steel CEO Says Chinese Imports Always A Threat; Steel Body In Ongoing Talks With Government
   - [korea] Samsung Electronics executive says more to consider on shareholder return
   - [china] On November 18, the central bank launched 700.2 billion yuan in overnight reverse repos, with a net withdrawal
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
   - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
   - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
-  - [korea] Citigroup predicts that the Bank of Korea will raise interest rates in both November and February, with rising
-  - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T05:32:49+00:00",
+      "published_utc": "2026-11-18T05:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
