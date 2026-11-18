@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T11:32:43.543688+00:00
+Última coleta: 2026-11-18T11:42:50.436076+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1021
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] Chinese steel exports could hit 130 million tonnes in 2026, threaten Indian industry: T V Narendran
   - [china] Nvidia to Stop Selling Advanced AI Chips to China
+  - [china] Nvidia Makes Major China Decision After $2.4 Billion in AI Chip Sales
   - [taiwan] Taiwan Semiconductor Director Purchased Shares Worth Over $500K
   - [china] Nvidia stops shipping "Hopper" AI chips to China
   - [china] Xingyun Technology Signs AI Token Services Contract Worth Up To 2 Billion Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s chip boom bypasses retail investors as stock rout hits spending
   - [korea] Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs
   - [taiwan] Profet AI sees AI agents easing Taiwan manufacturers' talent bottleneck
-  - [japan] Yen Intervention Likely Still Some Way Off — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T11:32:43+00:00",
+      "published_utc": "2026-11-18T11:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
