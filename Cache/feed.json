@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T12:32:52.796641+00:00",
- "collected_at_utc": "2026-11-18T12:32:52.796641+00:00",
+ "generated_at_utc": "2026-11-18T12:43:09.980097+00:00",
+ "collected_at_utc": "2026-11-18T12:43:09.980097+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1021,
-  "china": 910,
+  "japan": 1023,
+  "china": 908,
   "taiwan": 308,
   "korea": 761
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 57.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T09:49:12+00:00"
+   "newest": "2026-11-18T06:26:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T18:10:34+08:00"
+   "newest": "2026-11-18T19:50:40+08:00"
   },
   {
    "source_id": "investing_live",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T00:57:00+00:00"
+   "newest": "2026-11-16T10:36:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T11:18:41+00:00"
+   "newest": "2026-11-18T11:34:46+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T02:58:30+00:00"
+   "newest": "2026-11-18T07:49:03+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T12:32:25+00:00"
+   "newest": "2026-11-18T12:42:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T08:02:27+00:00"
+   "newest": "2026-11-18T11:05:00+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T10:18:02+00:00"
+   "newest": "2026-11-18T11:51:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118003508:0-swiss-franc-japanese-yen-could-rise-if-major-central-bank-peers-cut-rates-in-2027-market-talk/",
+   "published_utc": "2026-11-18T12:39:00+00:00",
+   "title_original": "Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9706e5e6804d6be7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1200,23 +1218,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de308586550e584b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261117010470:0-china-s-ai-chip-vendors-to-gain-from-u-s-chip-curbs-market-talk/",
-   "published_utc": "2026-11-18T04:25:00+00:00",
-   "title_original": "China's AI Chip Vendors to Gain From U.S. Chip Curbs — Market Talk",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f27a911c58209ee7"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3091,6 +3092,23 @@
    "live_wire": false,
    "manual": false,
    "id": "67a4f71fbf039f4c"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "US Dollar’s Easy Money Has Been Made, and Yen’s Becoming the Anti-AI Trade",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzl4Q29UOHFkQW9YclQycktfODlTVWlZM3ZVNVFVMy02d3psUk9kRmc3VGl3bndtUGV3M1lmODlTbzFla3dReHdrVVJaTzlCVHFPUHVPeUpIWWJVbTF6ZzNISFhpUTFMcjZibE1uc2pVMWpUQmNoWWxOX3YtelVtT2xrX0s3VEhqVlF4X2JxT0ZxYUxOeHA1cU93UXBlRVppdi1RYzdoeUs5dkM2aFZWU2ZSNUE?oc=5",
+   "published_utc": "2026-11-17T09:55:56+00:00",
+   "title_original": "US Dollar’s Easy Money Has Been Made, and Yen’s Becoming the Anti-AI Trade",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "71cf4e28b48a895b"
   },
   {
    "source_id": "investing_live",
@@ -5061,8 +5079,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5077,7 +5095,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -7186,8 +7204,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7201,7 +7219,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e66ab798520e117f"
+   "id": "d9b9a199c44cc0fa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51879,24 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8c53dc47ce19b140"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Company News_Finance",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIVlNRSmo0MWNHWEhhOTE4S2dCWm9lcUNxeG9URHZmVFJ4UVJ3UTg5ckpDS09xcFJyMG5KeXJrTDROZG1qZG5oRTRpekd4Z3p0MXY2dkZ4T0Z4eGtJRHRTZg?oc=5",
-   "published_utc": "2026-10-23T13:00:00+00:00",
-   "title_original": "央行10月26日开展7000亿元中期借贷便利（MLF）操作_公司新闻_财经",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d6957e83d1d293f5"
   },
   {
    "source_id": "manual_ia",
