@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T09:32:51.497732+00:00",
- "collected_at_utc": "2026-11-18T09:32:51.497732+00:00",
+ "generated_at_utc": "2026-11-18T09:42:42.715768+00:00",
+ "collected_at_utc": "2026-11-18T09:42:42.715768+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1025,
-  "china": 906,
+  "china": 905,
   "taiwan": 305,
-  "korea": 764
+  "korea": 765
  },
- "elapsed_s": 28.2,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T07:54:00+00:00"
+   "newest": "2026-11-18T09:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T09:15:27+00:00"
+   "newest": "2026-11-18T09:35:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-18T09:07:39+00:00"
+   "newest": "2026-11-18T09:30:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T09:10:00+00:00"
+   "newest": "2026-11-18T09:32:33+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T18:26:03+09:00"
+   "newest": "2026-11-18T18:33:58+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T23:34:04+00:00"
+   "newest": "2026-11-18T03:11:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T06:45:12+00:00"
+   "newest": "2026-11-18T05:03:44+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T08:02:27+00:00"
+   "newest": "2026-11-18T02:00:03+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T08:15:00+00:00"
+   "newest": "2026-11-18T09:08:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -345,21 +345,21 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
-   "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble-5035189",
-   "published_utc": "2026-11-18T09:12:25+00:00",
-   "title_original": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
-   "region": "korea",
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Commentary: Despite AI Boom, China’s Chipmakers Have Yet to Catch Up to Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa3B5STFtcXhVQ3ZNc1RBYXBwR1J1cS10bWRvQWJ3b29NNU1lV0NzTGFjejU5U2FUcGVOZGQ4UmJUcTktMnZhTGFmUTBkSUZkdHpLY0k3WlJFU0s1RFVPMlZhby00REowc1hkQUtyQVROWGFtSzViVzgwRUdySGtmSHhaNFNEZDNRbjF5YTQ3UFNoWFNXWmpmc3ZYOEE5T2F3QTZMVnRRbF9xWG1PN0V4cVhzMDIxSGZMcUduaV90M2gzaXAxakdhclpB?oc=5",
+   "published_utc": "2026-11-18T09:28:00+00:00",
+   "title_original": "Commentary: Despite AI Boom, China’s Chipmakers Have Yet to Catch Up to Nvidia",
+   "region": "china",
    "topics": [
     "industrial"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "28300deed69b194e"
+   "id": "7a35a9009aef94c0"
   },
   {
    "source_id": "gn_kr_ked",
@@ -394,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "cfd31bd2ff2a488b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Z098:0-samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble/",
+   "published_utc": "2026-11-18T09:07:55+00:00",
+   "title_original": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a699af6ab20e4fd1"
   },
   {
    "source_id": "tradingview_live",
@@ -656,7 +673,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -668,7 +685,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4980,8 +4997,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -4996,7 +5013,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -5896,6 +5913,23 @@
    "live_wire": false,
    "manual": false,
    "id": "328408acb83c5d75"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "Wall Street: “The Fed made a mistake by not raising interest rates”… What about the Bank of Korea?",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSE1fU1hWQnhpN2NvcFZuTUNPY1Z1bEhCdDNhSGt3WEtUUVRMYWRvWHdUS3VnMFhXOFBPSGVqekVIV2RzV1RzZ0x1dHljNVlIMVhPekxvNmFjX1FTWlF5ZUJIM1FpVWp6ZW1NOWNaUVM0bG1ybXJUemVRbWF4S3BpQlJIS0YxSFJQN0Z3aTZ3?oc=5",
+   "published_utc": "2026-11-16T04:02:53+00:00",
+   "title_original": "월가 \"연준이 금리 안올린 건 실수\"…한은은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "29d5a4166ea2a5f6"
   },
   {
    "source_id": "nikkei_asia",
@@ -7070,8 +7104,8 @@
    "id": "aadde56ab0bbb6c7"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Consumption tax reduction bill continues to be debated in the House of Councilors, with focus on public and public cooperation",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "published_utc": "2026-11-15T20:38:00+00:00",
@@ -7085,7 +7119,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9b9a199c44cc0fa"
+   "id": "e66ab798520e117f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51870,41 +51904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "14906d18de3d1241"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4690ZQ:0-wuhan-tianyuan-group-s-consortium-wins-3-6-billion-yuan-bid-for-project/",
-   "published_utc": "2026-10-23T11:30:41+00:00",
-   "title_original": "Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9a4c219e4624d6fa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "The central bank announced that it will carry out 700 billion yuan MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU05SMjM4cldTNnhPRkpNT1M4bVpUSGhDTlY1RzBSTEk3VDk3MkZ2SW1XVzlkWHBTSG43OWo0LXMtTERTX00zeWlBRk9GQ093RjdyMndUdi15TWVQNWp2X0ZzZEJrRm1MbEdyLVd0cjh2ZHFnWUNHOGJjd1ZlTXFOU2FVZWNtY2pu?oc=5",
-   "published_utc": "2026-10-23T11:20:00+00:00",
-   "title_original": "央行公告，将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "83629596afa4571b"
   },
   {
    "source_id": "manual_ia",
