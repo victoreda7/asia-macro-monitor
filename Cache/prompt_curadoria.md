@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T19:22:42.348285+00:00
+Última coleta: 2026-11-18T19:32:43.322602+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1021
+  🇯🇵 Japão          1020
   🇨🇳 China          908
-  🇹🇼 Taiwan         310
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.39, Implies 40% Upside
+  - [taiwan] Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [china] China increases sugar production and should reduce imports in the new harvest, predicts StoneX
   - [taiwan] Taiwan Semiconductor Manufacturing ADR
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan October crude import volume down 0.7%
   - [taiwan] Lawmakers unfreeze 50 MND budget items totaling US$38.2 million
   - [china] Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia
-  - [korea] Why did Samsung and SK Hynix shares rally on Wednesday?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T19:22:42+00:00",
+      "published_utc": "2026-11-18T19:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
