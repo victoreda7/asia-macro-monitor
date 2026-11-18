@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T10:12:43.071791+00:00
+Última coleta: 2026-11-18T10:22:50.893065+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
-  🇨🇳 China          905
+  🇯🇵 Japão          1023
+  🇨🇳 China          908
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  765
+  🇰🇷 Coreia do Sul  763
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia stops shipping "Hopper" AI chips to China
+  - [china] Xingyun Technology Signs AI Token Services Contract Worth Up To 2 Billion Yuan
+  - [china] Zhongji Innolight's Chairperson Proposes A-Share Buyback With 2-4 Billion Yuan
   - [china] China Warns of Countermeasures Against New U.S. AI Chip Curbs
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Acquisition of equity interest by a subsidiary
   - [china] Commentary: Despite AI Boom, China’s Chipmakers Have Yet to Catch Up to Nvidia
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high
   - [japan] Japan Likely to Remain in Trade Deficit Amid Mideast Uncertainty — Market Talk
   - [china] U.S. Chip Curbs Could Accelerate China Advanced Memory Investment Cycle — Market Talk
-  - [china] Tata Steel CEO Says Chinese Imports Always A Threat; Steel Body In Ongoing Talks With Government
-  - [korea] Samsung Electronics executive says more to consider on shareholder return
-  - [china] On November 18, the central bank launched 700.2 billion yuan in overnight reverse repos, with a net withdrawal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T10:12:43+00:00",
+      "published_utc": "2026-11-18T10:22:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
