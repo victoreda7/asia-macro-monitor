@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T22:42:42.498854+00:00
+Última coleta: 2026-11-18T22:52:43.774869+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1020
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
   - [japan] Bank of Japan to raise interest rates in December and again by end-March, economists say
+  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
   - [china] China using Trump-Xi 'stability' to build strategic edge, US panel warns
   - [japan] Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 ye
   - [japan] Japan developer Hulic casts wide M&A net, from cram schools to bananas
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T22:42:42+00:00",
+      "published_utc": "2026-11-18T22:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
