@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T01:52:42.370803+00:00
+Última coleta: 2026-11-18T02:02:42.319485+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -17,12 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] On November 18, the central bank launched a 700.2 billion yuan overnight reverse repurchase operation.
   - [korea] Boston Dynamics to deploy robots at GlobalFoundries' chip plants
   - [china] CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS
+  - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7118 WEDS VS 6.7132
   - [japan] Announcement of 40-year JGBs to Be Issued in November 2026
   - [japan] Japan MOF To Auction Y300.0B Of 40-Year Govt Bonds Nov 25
-  - [japan] Ueda says BOJ will weigh if underlying inflation becomes anchored
   - [korea] Citigroup predicts that the Bank of Korea will raise interest rates in both November and February, with rising
   - [korea] Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
   - [china] China warns US of retaliation over new AI chip restrictions
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT IMPORTS +21.6 Y/Y (SEPT +18.9%), 9TH STRAIGHT RISE; MEDIAN FORECAST +27.0%
   - [japan] BREAKING NEWS: Japan logs 476.5 billion yen trade deficit in Oct.
   - [japan] JAPAN OCT EXPORTS +20.5% Y/Y (SEPT REVISED +16.5%), 14TH STRAIGHT RISE; MEDIAN FORECAST +22.0%
-  - [japan] Trade Statistics (October 2026[Provisional])
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T01:52:42+00:00",
+      "published_utc": "2026-11-18T02:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
