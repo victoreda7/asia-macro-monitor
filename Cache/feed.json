@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-18T02:02:42.319485+00:00",
- "collected_at_utc": "2026-11-18T02:02:42.319485+00:00",
+ "generated_at_utc": "2026-11-18T02:12:45.385047+00:00",
+ "collected_at_utc": "2026-11-18T02:12:45.385047+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
-  "china": 907,
-  "taiwan": 308,
-  "korea": 752
+  "japan": 1034,
+  "china": 908,
+  "taiwan": 305,
+  "korea": 753
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T09:38:19+00:00"
+   "newest": "2026-11-18T00:00:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T10:52:24+09:00"
+   "newest": "2026-11-18T10:52:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
-   "newest": "2026-11-18T01:55:05+00:00"
+   "newest": "2026-11-17T13:41:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T20:58:31+00:00"
+   "newest": "2026-11-17T21:24:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T02:01:00+00:00"
+   "newest": "2026-11-18T02:11:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T01:15:40+00:00"
+   "newest": "2026-11-18T02:00:47+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-18T10:00:00+09:00"
+   "newest": "2026-11-18T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,11 +339,65 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-18T01:23:23+00:00"
+   "newest": "2026-11-18T02:04:25+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Bank of Japan governor says central bank should keep raising rates",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Z01E:0-bank-of-japan-governor-says-central-bank-should-keep-raising-rates/",
+   "published_utc": "2026-11-18T02:04:53+00:00",
+   "title_original": "Bank of Japan governor says central bank should keep raising rates",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "64cabc6e4c6b7d0f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "데이터투자",
+   "title_en": "The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong won.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DdUZBTjZZSHdWRkl3bGk2dHF5Nmx0b3hDV3pkOFVlMUx1RGNmTDdCd3prZkV5MldCYWRMckZVSDFoZ2FWOWNhTGxxeFR1VGtjRnVpN1R2Wm8xeURhakhlYV8tVFdTbWRtTDBxSmdtRVUzX2s?oc=5",
+   "published_utc": "2026-11-18T02:04:25+00:00",
+   "title_original": "한국은행, 원화 강세 흐름 속 11월 기준금리 25bp 인상 가능성 우세",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8f50dbfff7296233"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price and financial conditions - Bank of Japan Governor (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YT1hrdWNTQXlsU1Rtamp2UWFDbWpxN3FldVJMcXhTT29LUmJmU2NHWUdjRXlBRXpmVE5XM29oZ2tEMUNUZ3pkUGRNTjdxYjVKR0JycFk0S0NLWXo5djlQS0FreDZhaVBhS2N4VnNaMjBYYzdVeVRuTFJnQVo5UU0?oc=5",
+   "published_utc": "2026-11-18T02:00:47+00:00",
+   "title_original": "経済・物価・金融情勢に応じ政策金利上げ、緩和度合い調整が適切＝日銀総裁（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c2d6be8124975c00"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
@@ -1478,6 +1532,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b385306ea4255164"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "US blocks China’s indirect access to latest chips",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sX2Q2QWlBUTBGdW5PRmR0V1g5UHhLVFNnV0g3bzdMRVktbEkxUFBnZi1ud21xT3U1ZGlSaHM0QVVNTWsxdDRlVWlNTmM4MWV5dUIwQ1BDc3p1WFpyb2ZfUGMxWTVMc2t5N0ZUcWlIV1kxTzBOMXEtSw?oc=5",
+   "published_utc": "2026-11-17T16:00:00+00:00",
+   "title_original": "US blocks China’s indirect access to latest chips",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6c784c254920dde6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51841,77 +51912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cf037e34bb52ee2a"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHFnYVNQV2pFNUFzTWEyaDNLZmVwcFNoQXJReU1wSXVXV0dFcS12OUt1RTNvcmR6QlUzamQybncxUEE5S0kwS3hWc2k0UUNqYVlBel9iQXktSlFhbmtraTM0OUZNeUFVdlBYVnFRNGVyZHFkQUFadUtmNGhRMU9uR1c3QVJzSnh1VmZGcTYyWm1Ya0JBUTlYZ0o1eTVXOVlaaVNTemxwOTdtU1AwaVR4cXMxNnR0Vks5aGVmWWhNSTRqWERNWnVV?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
-   "region": "taiwan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cd65b32798a8b40"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Why is TSMC suddenly looking at Texas?",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFczcE9fNjdzN0JWbHpGZVhPcS1HRHp3TVBrODcxOU1EU1JUVzk4Um5rOHVGbWQ3VGZwVDVPaW1MLXNXY0hYczVwVTVqUUhaMUFwNDFmRDEtOVZpY1gxMzRiQTVQcWdmZGdKRTdBVjBZOVRHSWdYTlQ5VUxiMU1TcEpYbkQxbkdSdmMzNnY2WUFBUWtrV2xiaVlSVWg?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "Why is TSMC suddenly looking at Texas?",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cd0b8b42ea877885"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan manufacturers' business sentiment hits 54-month high",
-   "url": "https://focustaiwan.tw/business/202610230009",
-   "published_utc": "2026-10-23T06:55:28+00:00",
-   "title_original": "Taiwan manufacturers' business sentiment hits 54-month high",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5427e2031e7546a5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate hikes (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnpxdEl6YWNCWmpTcTFwWS1jZVJMX3VFM1NEYmttcEt0dGxUX2Q0OGZBazdyUGpjMlYyRm9RbEFGTENaZjlGYWNuUS04MWNvZ1Y4ZEFZZWxmeHNranNySWVvTmV1Zkh0dzdLQXN1dkdPcUg1M1ktSjJWNFdGNFE?oc=5",
-   "published_utc": "2026-10-23T06:50:17+00:00",
-   "title_original": "日銀、物価上昇率「2%到達」と判断の公算大 追加利上げは見送りも（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5da8d178abbabd10"
   },
   {
    "source_id": "manual_ia",

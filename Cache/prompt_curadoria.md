@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T02:02:42.319485+00:00
+Última coleta: 2026-11-18T02:12:45.385047+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
-  🇨🇳 China          907
-  🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  752
+  🇯🇵 Japão          1034
+  🇨🇳 China          908
+  🇹🇼 Taiwan         305
+  🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan governor says central bank should keep raising rates
+  - [korea] The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong wo
+  - [japan] It is appropriate to raise policy interest rates and adjust the degree of easing according to economic, price 
   - [china] On November 18, the central bank launched a 700.2 billion yuan overnight reverse repurchase operation.
   - [korea] Boston Dynamics to deploy robots at GlobalFoundries' chip plants
   - [china] CHINA PBOC CONDUCTS CNY700.2 BLN VIA O/N REVERSE REPO WEDS
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan exports rise 20.5% year/year in October
   - [japan] JAPAN OCT IMPORT VALUE REACHES RECORD HIGH OF 12.25 TRLN YEN
   - [japan] JAPAN OCT EXPORT VALUE HITS RECORD HIGH OF 11.77 TRLN YEN
-  - [japan] JAPAN OCT IMPORTS +21.6 Y/Y (SEPT +18.9%), 9TH STRAIGHT RISE; MEDIAN FORECAST +27.0%
-  - [japan] BREAKING NEWS: Japan logs 476.5 billion yen trade deficit in Oct.
-  - [japan] JAPAN OCT EXPORTS +20.5% Y/Y (SEPT REVISED +16.5%), 14TH STRAIGHT RISE; MEDIAN FORECAST +22.0%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T02:02:42+00:00",
+      "published_utc": "2026-11-18T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
