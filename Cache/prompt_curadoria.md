@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T23:42:42.839054+00:00
+Última coleta: 2026-11-18T23:52:43.038518+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
   🇨🇳 China          909
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  757
+  🇹🇼 Taiwan         310
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
+  - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
   - [japan] Bank of Japan to raise interest rates in December and again by end-March, economists say
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
   - [china] China using Trump-Xi 'stability' to build strategic edge, US panel warns
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia stops shipping "Hopper" AI chips to China
   - [china] Xingyun Technology Signs AI Token Services Contract Worth Up To 2 Billion Yuan
   - [china] Zhongji Innolight's Chairperson Proposes A-Share Buyback With 2-4 Billion Yuan
-  - [china] China Warns of Countermeasures Against New U.S. AI Chip Curbs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T23:42:43+00:00",
+      "published_utc": "2026-11-18T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-18T23:42:42.839054+00:00",
- "collected_at_utc": "2026-11-18T23:42:42.839054+00:00",
+ "generated_at_utc": "2026-11-18T23:52:43.038518+00:00",
+ "collected_at_utc": "2026-11-18T23:52:43.038518+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1023,
   "china": 909,
-  "taiwan": 311,
-  "korea": 757
+  "taiwan": 310,
+  "korea": 758
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T17:37:00+00:00"
+   "newest": "2026-11-18T17:03:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T03:39:48+00:00"
+   "newest": "2026-11-18T00:00:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 165,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-18T23:30:47+00:00"
+   "newest": "2026-11-18T23:42:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-18T15:15:00+09:00"
+   "newest": "2026-11-19T08:50:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-18T23:31:25+00:00"
+   "newest": "2026-11-18T23:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
+   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+   "published_utc": "2026-11-18T23:50:00+00:00",
+   "title_original": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4dd1bb53a4b0f5b"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -8362,6 +8379,23 @@
    "id": "6ad38b1d80134e7c"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "비즈워치",
+   "title_en": "Household loans increase again... Will the base interest rate be raised this month?",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qYmpMSnhmYWUzY3lpVmhJWTlpRG8xT2h4Zm90dGVwTUREclJKMFo0M0JIcXZLU1R6LUhWNDUzaktkVVRPOWpJNlpPOTdGR2djSU5Ebk9mbDctTlJhc2ZneXdwQ1AyQThKZVM0?oc=5",
+   "published_utc": "2026-11-15T03:00:02+00:00",
+   "title_original": "가계대출 다시 증가…이달 기준금리 인상 힘 받나",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "af55b83609b24eb3"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "bne Intellinews",
    "title_en": "Japan faces currency hell as yen plunges and bond yields explode",
@@ -14069,23 +14103,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2f2f256936fc72e7"
-  },
-  {
-   "source_id": "mof_jp",
-   "source_name": "MOF Japan",
-   "title_en": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
-   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
-   "published_utc": "2026-11-11T23:50:00+00:00",
-   "title_original": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4dd1bb53a4b0f5b"
   },
   {
    "source_id": "boj_whatsnew",
@@ -51881,23 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6844af447258beb6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:449b311a6a7d2:0-taiwan-semiconductor-manufacturing-company-ltd-stock-12-month-price-target-cut-to-553-18-implies-32-upside/",
-   "published_utc": "2026-10-24T04:20:00+00:00",
-   "title_original": "Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "31809670d1de850d"
   },
   {
    "source_id": "manual_ia",
