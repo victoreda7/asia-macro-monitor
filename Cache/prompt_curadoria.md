@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T00:32:49.944790+00:00
+Última coleta: 2026-11-18T00:42:50.639914+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
+  🇯🇵 Japão          1031
   🇨🇳 China          903
-  🇹🇼 Taiwan         310
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
-  - [japan] Interest Rate (November 17 2026)
-  - [japan] Japan exports set record in October on strong chip-related demand
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
+  - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
+  - [japan] Japan exports set record in October on strong chip-related demand
+  - [japan] Interest Rate (November 17 2026)
+  - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts
   - [japan] Trade balance deficit of 476.5 billion yen in October, 6th consecutive month of deficit
   - [japan] JAPAN OCT EXPORTS TO CHINA +13.3% Y/Y, 8TH STRAIGHT RISE (SEPT REVISED +8.5%) LED BY CHIP-MAKING EQUIPMENT, OR
   - [japan] JAPAN OCT EXPORTS TO EU +22.1%, 15TH STRAIGHT RISE (SEPT REVISED +10.4%) , LED BY AUTOS, CHIP-MAKING EQUIPMENT
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] ASICS: Scale to JPY 1.5 trillion by 2029 while targeting 50% ROE
   - [china] Economists Call for More Stimulus to Bolster Domestic Demand
   - [japan] Japan to bolster defense ties with Chile, paving way for exports
-  - [korea] Micron, SanDisk and SK Hynix Face New Warning From Wall Street
-  - [china] US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T00:32:50+00:00",
+      "published_utc": "2026-11-18T00:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
