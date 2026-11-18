@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T03:42:41.707941+00:00
+Última coleta: 2026-11-18T03:52:48.922424+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          908
+  🇯🇵 Japão          1034
+  🇨🇳 China          910
   🇹🇼 Taiwan         303
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
+  - [china] China's October fuel exports slowed on month but still topped last year's monthly average
+  - [china] China's September grain, sugar and pork imports
   - [japan] Auction Result of 20-Year JGBs on November 18, 2026
   - [japan] Japan's Orix To Acquire Recruit Holdings' Online Learning Business For About 60 Billion Yen, Nikkei Says
   - [japan] Japan's Underlying Economic Growth Likely Resilient, Unlikely to Alter BOJ's Policy Outlook — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s trade deficit narrows in Oct as exports beat forecasts By Investing.com
   - [japan] JAPAN OCT IMPORT VALUE FROM CHINA HITS RECORD HIGH OF 2.84 TRLN YEN AS IMPORTS RISE IN CHIP-MAKING EQUIPMENT, 
   - [japan] Interest Rate (November 17 2026)
-  - [japan] Japan’s Trade Gap Narrows Even With Steep Energy Import Gain
-  - [japan] Japan exports set record in October on strong chip-related demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T03:42:41+00:00",
+      "published_utc": "2026-11-18T03:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
