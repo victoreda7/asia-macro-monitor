@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T12:53:40.311172+00:00
+Última coleta: 2026-11-18T13:02:54.261935+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [japan] Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk
   - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
   - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
@@ -48,7 +49,6 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama: “A flat tax cut is not appropriate as it could affect social security.”
   - [china] In Depth: DeepSeek’s Computing Crunch Pushes China’s AI Developers Beyond Models
   - [china] Table: King Yuan Electronics 3Q Net Profit NT$2.64B Vs NT$2.30B
-  - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [china] Chinese steel imports remain a threat to Indian industry, Tata Steel CEO says
   - [korea] S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026
   - [korea] "Fill in all the gaps in the sky"... Hanwha Systems Exports Short-Sleeve AESA Radar to U.S. for the First Time
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T12:53:40+00:00",
+      "published_utc": "2026-11-18T13:02:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
