@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T17:42:41.050739+00:00
+Última coleta: 2026-11-19T17:52:41.981642+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [china] DeepSeek Closes 100 Billion Yuan Funding Round
   - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
   - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
   - [taiwan] Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity
   - [korea] "Claude" developer Antropics broke through weak technology stocks to achieve the largest initial pub..
-  - [china] HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T17:42:41+00:00",
+      "published_utc": "2026-11-19T17:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
