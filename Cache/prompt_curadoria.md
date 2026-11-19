@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T05:03:00.399322+00:00
+Última coleta: 2026-11-19T05:12:41.146196+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
   🇨🇳 China          907
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  753
+  🇹🇼 Taiwan         312
+  🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan auto industry targets common standards to strengthen supply chain
   - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
   - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
   - [taiwan] UBright eyes semiconductor, passive components and smart acoustics growth
@@ -46,6 +47,7 @@ Total: 3000 manchetes
   - [japan] Financial environment is accommodative, interest rates will continue to rise depending on economic, price and 
   - [china] The central bank launched a 767.5 billion yuan overnight reverse repurchase operation today
   - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
+  - [taiwan] Microsoft’s chip packaging deal hands Intel credibility more than revenue
   - [japan] Japan Data Preview: Hotter Inflation Expected in October CPI Report
   - [china] China Oil Imports Rebound as Beijing Turns Back to Stockpiling
   - [japan] Interest Rate (November 18 2026)
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN CABINET OFFICE: OCT-DEC CORE MACHINE ORDERS PROJECTED AT +4.3% Q/Q, 5TH STRAIGHT RISE
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
   - [japan] Bank of Japan to raise interest rates in December and again by end-March, economists say
-  - [china] Citi CEO Fraser Stresses China Engagement Before Trump-Xi Talks
-  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T05:03:00+00:00",
+      "published_utc": "2026-11-19T05:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
