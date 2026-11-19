@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T04:12:42.419075+00:00
+Última coleta: 2026-11-19T04:22:41.453673+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1030
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update
   - [japan] Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities
   - [china] China's yuan steady as Trump-Xi meeting in focus
+  - [china] [Local footage scheduled to be distributed] High-profile US-China summit meeting to be held later
   - [korea] Apple seeks to lock in memory supply as Samsung, SK hynix gain leverage
   - [korea] A 10% increase in the value of the won will reduce the cost of living per household by more than 160..
   - [japan] BOJ's Ueda Reaffirms Readiness to Keep Raising Rates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China using Trump-Xi 'stability' to build strategic edge, US panel warns
   - [china] Sign of the times? How China is quietly shifting global trade onto yuan payments
   - [japan] Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 ye
-  - [japan] Japan developer Hulic casts wide M&A net, from cram schools to bananas
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T04:12:42+00:00",
+      "published_utc": "2026-11-19T04:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
