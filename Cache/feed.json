@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T01:42:43.821212+00:00",
- "collected_at_utc": "2026-11-19T01:42:43.821212+00:00",
+ "generated_at_utc": "2026-11-19T01:52:46.235076+00:00",
+ "collected_at_utc": "2026-11-19T01:52:46.235076+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1026,
-  "china": 911,
+  "japan": 1027,
+  "china": 910,
   "taiwan": 307,
   "korea": 756
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 28.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-19T01:30:48+00:00"
+   "newest": "2026-11-19T01:43:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T00:42:41+00:00"
+   "newest": "2026-11-19T01:42:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T06:34:39+00:00"
+   "newest": "2026-11-18T23:59:49+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-18T11:46:29+00:00"
+   "newest": "2026-11-19T01:43:32+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T01:41:47+00:00"
+   "newest": "2026-11-19T01:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-19T00:14:54+00:00"
+   "newest": "2026-11-19T01:41:55+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T07:18:18+00:00"
+   "newest": "2026-11-18T23:38:37+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,11 +339,28 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-18T09:00:00+00:00"
+   "newest": "2026-11-19T01:31:48+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
+   "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble-5035189",
+   "published_utc": "2026-11-19T01:42:40+00:00",
+   "title_original": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "28300deed69b194e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -360,6 +377,24 @@
    "live_wire": true,
    "manual": false,
    "id": "aa3e9e85a969ff3b"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ Governor Ueda says financial conditions loose despite rate hikes",
+   "url": "https://www.investing.com/news/economy-news/boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes-5037517",
+   "published_utc": "2026-11-19T01:36:22+00:00",
+   "title_original": "BOJ Governor Ueda says financial conditions loose despite rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "21dd1a5adf96580d"
   },
   {
    "source_id": "tradingview_live",
@@ -415,24 +450,6 @@
    "id": "9b3d65948a4add92"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ Governor Ueda says financial conditions loose despite rate hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N02X:0-boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes/",
-   "published_utc": "2026-11-19T01:26:25+00:00",
-   "title_original": "BOJ Governor Ueda says financial conditions loose despite rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c141eddc907e7c64"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The central bank launched a 767.5 billion yuan overnight reverse repurchase operation today",
@@ -449,23 +466,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3c3fc0a5361dcc7f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
-   "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-downplays-concerns-about-neocloud-firms-and-ai-bubble-5035189",
-   "published_utc": "2026-11-19T01:12:24+00:00",
-   "title_original": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "28300deed69b194e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3611,6 +3611,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ba6bee99bdad76c2"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160 By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW9DQjdnOG12Zml6MFNZT1M2bVBxVzd4R0tHU1h5VVFyeVpaNGJZdmZKVGlKN3hZazJnQUc2VGNTVDVBRWd6NjlkekNtNGtGRzYtMDNyaWhjOWVnUWtOVVdpWUtNR1JKaXBDbS1qQzVaWHRaS29Ebi01X2RVck9CVVQ5NUk3S3NLeVRqb3BDdU1icjZ1Zk03OVZ6NU16b1daMmh4ZXloZnVRMFFQUlhtOXpCOA?oc=5",
+   "published_utc": "2026-11-17T10:46:05+00:00",
+   "title_original": "Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160 By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf4b6f91ad965650"
   },
   {
    "source_id": "investing_fx",
@@ -51884,23 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dd27d5ad421d3a94"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Despite a large surplus in health insurance finances for foreign members, ``Chinese nationals are once again in the red'' = South Korea",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tVVozV0Z0REZXQW5adW1YcDhwcHBpTmVZemVweGh4OEZNSDhnamFmN2tQRWF6dWxYVzlURktDSjNPUF9vZkZzcjlXSFB5TE4wa0xRRlVNc2FxaHlITW9hRHRNdjQ3cUZia3RfRXd4N2tZMzA4Yjg3NnJRUjA5VUk?oc=5",
-   "published_utc": "2026-10-25T01:24:26+00:00",
-   "title_original": "外国人加入者の健康保険財政 大幅黒字も「中国籍は再び赤字」＝韓国",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee79c2c30498e5fb"
   },
   {
    "source_id": "manual_ia",

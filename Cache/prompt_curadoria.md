@@ -7,23 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T01:42:43.821212+00:00
+Última coleta: 2026-11-19T01:52:46.235076+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
-  🇨🇳 China          911
+  🇯🇵 Japão          1027
+  🇨🇳 China          910
   🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
+  - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118
   - [japan] Financial environment is accommodative, interest rates will continue to rise depending on economic, price and 
-  - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
   - [china] The central bank launched a 767.5 billion yuan overnight reverse repurchase operation today
-  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
   - [japan] Japan Data Preview: Hotter Inflation Expected in October CPI Report
   - [china] China Oil Imports Rebound as Beijing Turns Back to Stockpiling
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T01:42:44+00:00",
+      "published_utc": "2026-11-19T01:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
