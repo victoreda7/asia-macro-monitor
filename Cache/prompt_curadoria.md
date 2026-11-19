@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T03:03:02.071940+00:00
+Última coleta: 2026-11-19T03:12:42.382663+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1028
-  🇨🇳 China          912
-  🇹🇼 Taiwan         308
+  🇨🇳 China          911
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [korea] A 10% increase in the value of the won will reduce the cost of living per household by more than 160..
   - [japan] BOJ's Ueda Reaffirms Readiness to Keep Raising Rates
   - [korea] [Reporter Ki's Money Story⑪] Why is the loan interest rate rising even though the base interest rate remains t
+  - [taiwan] Lam Research's Taiwan R&D expansion targets faster chip development with TSMC
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row By Investing.com
   - [japan] BOJ chief offers upbeat view on consumption despite recent weakness
   - [taiwan] Taiwan dollar weakens as Asian currencies largely muted
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] U.S.-China-Russia summit meeting: Ukraine's foreign minister ``It is impossible to make a decision without the
   - [korea] SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade
   - [china] High-profile US-China summit Trilateral summit between the US, China and Russia to be held today
-  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.39, Implies 40% Upside
-  - [taiwan] Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T03:03:02+00:00",
+      "published_utc": "2026-11-19T03:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
