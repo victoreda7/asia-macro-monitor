@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T23:22:43.038855+00:00",
- "collected_at_utc": "2026-11-19T23:22:43.038855+00:00",
+ "generated_at_utc": "2026-11-19T23:32:44.076680+00:00",
+ "collected_at_utc": "2026-11-19T23:32:44.076680+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1017,
-  "china": 913,
-  "taiwan": 326,
-  "korea": 744
+  "japan": 1018,
+  "china": 914,
+  "taiwan": 325,
+  "korea": 743
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T21:35:01+00:00"
+   "newest": "2026-11-19T21:13:19+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T23:17:13+00:00"
+   "newest": "2026-11-19T23:31:00+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T22:14:02+00:00"
+   "newest": "2026-11-19T23:12:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T14:48:00+00:00"
+   "newest": "2026-11-19T14:50:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T04:36:31+00:00"
+   "newest": "2026-11-19T11:07:24+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T22:21:13+00:00"
+   "newest": "2026-11-19T23:05:56+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T23:21:00+00:00"
+   "newest": "2026-11-19T23:31:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T20:28:48+00:00"
+   "newest": "2026-11-19T17:30:55+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T08:00:00+09:00"
+   "newest": "2026-11-20T08:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan Oct core CPI rises 2.2% yr/yr",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-11-19:newsml_AZN4TW1N4:0-japan-oct-core-cpi-rises-2-2-yr-yr/",
+   "published_utc": "2026-11-19T23:30:09+00:00",
+   "title_original": "Japan Oct core CPI rises 2.2% yr/yr",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bd820e95448692bc"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "KB Think",
    "title_en": "‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'",
@@ -360,6 +377,41 @@
    "live_wire": false,
    "manual": false,
    "id": "728aaa1c55186e06"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "The true nature of the \"sure profits\" that Netflix invests in production costs of \"2.5 trillion yen a year\"... Subscriptions are making solid profits even with \"zero interest rates\" | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/963208?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-19T23:15:00+00:00",
+   "title_original": "Netflixが｢年2.5兆円｣の制作費を投じられる｢確実な収益｣の正体…サブスクは｢金利ゼロ｣でもしっかり儲けている | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1ceba0afcba51808"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published_utc": "2026-11-19T23:05:56+00:00",
+   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19bf7167e379c22a"
   },
   {
    "source_id": "tradingview_live",
@@ -448,6 +500,23 @@
    "live_wire": false,
    "manual": false,
    "id": "41f5eec240f590e4"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+   "published_utc": "2026-11-19T22:43:48+00:00",
+   "title_original": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "671bf232ee5687f4"
   },
   {
    "source_id": "investing_live",
@@ -981,8 +1050,8 @@
    "id": "555a351f9a7ae5dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -996,7 +1065,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -1343,8 +1412,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1358,7 +1427,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "tradingview_live",
@@ -1724,23 +1793,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a2bf6c8291011b3a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious ahead of APEC summit",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4700BQ:0/",
-   "published_utc": "2026-11-19T07:45:06+00:00",
-   "title_original": "Onda de vendas em Taiwan leva ações asiáticas à menor cotação em sete meses; mercado cambial permanece cauteloso antes da cúpula da APEC",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "4ece410900881ede"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2158,8 +2210,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2172,7 +2224,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2489,23 +2541,6 @@
    "live_wire": false,
    "manual": false,
    "id": "72865945ed44ba42"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "published_utc": "2026-11-19T00:18:57+00:00",
-   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "19bf7167e379c22a"
   },
   {
    "source_id": "tradingview_live",
@@ -3752,7 +3787,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s youth unemployment rate down as tide of graduates continues to ebb",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUktTMG9KLVBtemczOGViZ0s2TnNOM1pyS1hDVFZUZFN6MDZhZUszTGRDNkh3LTZIQlNyZE9mTm5TMkVwY25zQXRjSlRucVVXLXhOVUJpSEh3TzFjd0UtQkpIU3lrRXRkZlBFcDk5RjJiOU1YWEQ0T0psbWoxNlczY3g4MFktSlQ2OHhsUVloNHdSNTZHLTlKRVcyWUItaWdXNllRWWlNQzlQY1E2ZmNIc3o2S0kxYjNCb2tweEtBSFFfWWRPVFAyOFFNLWZ2R2w00gHQAUFVX3lxTE1rUHFqNUplZnBHSDloamkzaURfQTVMMU91Smw5X3RRNTdiajVJaUdienRLM01zNi16b0VpQjhIU0R4QTdEMU5fTHlINDlwaDVURkY0ZVZTMmRfekZxLWNFaVY3ejdaUlRFWkhRenYzQ2NNUWNLa1EzRWNRb2NMaUtLZHJ5cDhWdmtvVHMtSGRIbHgyR1pDc3BFM2ItX3FSMm1RcTVHMW00MldsdktFR3ptQVFBTkhEYkRLbC1icUR2aUFmanhkQy10WWdmQ1JpeEY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUktTMG9KLVBtemczOGViZ0s2TnNOM1pyS1hDVFZUZFN6MDZhZUszTGRDNkh3LTZIQlNyZE9mTm5TMkVwY25zQXRjSlRucVVXLXhOVUJpSEh3TzFjd0UtQkpIU3lrRXRkZlBFcDk5RjJiOU1YWEQ0T0psbWoxNlczY3g4MFktSlQ2OHhsUVloNHdSNTZHLTlKRVcyWUItaWdXNllRWWlNQzlQY1E2ZmNIc3o2S0kxYjNCb2tweEtBSFFfWWRPVFAyOFFNLWZ2R2w0?oc=5",
    "published_utc": "2026-11-18T06:27:16+00:00",
    "title_original": "China’s youth unemployment rate down as tide of graduates continues to ebb",
    "region": "china",
@@ -3763,7 +3798,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "408064b93fb82c8f"
+   "id": "f4707053a93f470d"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -4061,24 +4096,6 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
-   "published_utc": "2026-11-18T03:02:45+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c4fd48fae3d5e92"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -4182,6 +4199,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
+   "published_utc": "2026-11-18T02:07:21+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -11305,9 +11340,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "东方财富网",
    "title_en": "The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the downward trend of funding rates",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdlJzcVF0NUNzd1VucG1FLW9INm5uQVZtYjItSjY5U3Z1QjVvWjlXSzdTWWJ2ajVGYzVIQThhbzZhZVJaTndyQ29nV3dRNkhwUUZFdm94R3I0aTNJUnNXUUh6Z1VQdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMjJxRmQweTZWU0xTejRKLXZYQlBDNFNRV3lPeUlucHByeVFENWFFWDZ4dmhrYWw4dHBCUlVrbkdNRkFuVGFCVlRwcmJ3ZDhrNHRTR0NZaTljbEpIU29LZg?oc=5",
    "published_utc": "2026-11-14T03:06:40+00:00",
    "title_original": "央行缩量续作6个月期买断式逆回购 机构：遏制资金利率下行势头",
    "region": "china",
@@ -11318,7 +11353,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71cf3b72bd07dffa"
+   "id": "4fb5a23aa9509610"
   },
   {
    "source_id": "tradingview_live",
@@ -51864,42 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e8bbb531f78add81"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "세계일보",
-   "title_en": "Choi Chang-ho, Assistant Vice Governor for Monetary Policy, Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4YUpxdVFWSEVJNGpYd2lKV3dBNnE1Z0hyd2RuMUR1ajRZdU9qZE5wSDdmWW5UNVlYd05YUUs0MTBEamVKWmlTQ0paU2xmQ09nbGpaUDlpS0XSAVRBVV95cUxOdnJ3bGFVb3Z3N3ZuVEYzVWFic0RYRmhxbTJsREt6Q0JiOGY5SE1qTHQ0NVJQakVjbVEyZWF6djBXSGJkZlFFWkpkTG5UeVp5c252eVQ?oc=5",
-   "published_utc": "2026-10-26T12:19:40+00:00",
-   "title_original": "한국은행 통화정책 부총재보 최창호",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c0e612c4b5658a85"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Euro firms against yen, flat vs dollar ahead of central bank meetings",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46C0NR:0-euro-firms-against-yen-flat-vs-dollar-ahead-of-central-bank-meetings/",
-   "published_utc": "2026-10-26T11:54:45+00:00",
-   "title_original": "Euro firms against yen, flat vs dollar ahead of central bank meetings",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a0ccafa7e409a6ae"
   },
   {
    "source_id": "manual_ia",

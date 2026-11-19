@@ -7,22 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T23:22:43.038855+00:00
+Última coleta: 2026-11-19T23:32:44.076680+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1017
-  🇨🇳 China          913
-  🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  744
+  🇯🇵 Japão          1018
+  🇨🇳 China          914
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Oct core CPI rises 2.2% yr/yr
   - [korea] ‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'
+  - [japan] The true nature of the "sure profits" that Netflix invests in production costs of "2.5 trillion yen a year"...
+  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [china] US approved sale of almost 900,000 AI chips to China in six months
   - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
   - [china] Export of AI chips to China raises national security controversy. US House of Representatives releases approva
   - [japan] Japan Inflation Data Due On Friday
   - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
+  - [china] US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says
   - [china] California AG subpoenas Nvidia over alleged China chip leak and investor fraud
   - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
   - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] NetEase: CNY 27.9 billion in Q3 revenue, higher gross margin and expanding global game reach
   - [taiwan] TSMC and Samsung pause some chip shipments to China due to new US export rules: report
   - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
-  - [japan] JT to post 1.3 trillion yen loss on Russian business
-  - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
-  - [taiwan] TSMC acquires 0.03% stake in Anthropic for US$500 million
-  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T23:22:43+00:00",
+      "published_utc": "2026-11-19T23:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
