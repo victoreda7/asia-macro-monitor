@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T20:32:49.477579+00:00",
- "collected_at_utc": "2026-11-19T20:32:49.477579+00:00",
+ "generated_at_utc": "2026-11-19T20:42:44.011132+00:00",
+ "collected_at_utc": "2026-11-19T20:42:44.011132+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1013,
+  "japan": 1014,
   "china": 911,
   "taiwan": 325,
-  "korea": 751
+  "korea": 750
  },
- "elapsed_s": 35.5,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T20:24:45+00:00"
+   "newest": "2026-11-19T20:33:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:47:30+00:00"
+   "newest": "2026-11-19T14:50:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T23:48:26+09:00"
+   "newest": "2026-11-20T05:33:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T04:41:13+09:00"
+   "newest": "2026-11-20T05:31:35+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-19T01:53:08+00:00"
+   "newest": "2026-11-19T01:59:24+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T20:30:00+00:00"
+   "newest": "2026-11-19T20:41:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T05:15:00+09:00"
+   "newest": "2026-11-20T05:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T08:43:34+00:00"
+   "newest": "2026-11-19T20:32:17+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,42 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78748",
+   "published_utc": "2026-11-19T20:33:19+00:00",
+   "title_original": "消費税減税法案 支援金 所得下限56万円検討で公明の賛同期待も",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "41f5eec240f590e4"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3TEFzLWttSXd1RjV6dzBRMFc0eWJ2SVo3NFlQaDFCSHFnR0JSUDNEVmVOMkhQVHhBOWtXWHQxN0JqeGRqenVFbDhWaENpZmZBOGc?oc=5",
+   "published_utc": "2026-11-19T20:32:17+00:00",
+   "title_original": "At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dd042bea34535ca"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -2399,24 +2435,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -2708,6 +2726,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -3366,8 +3402,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더퍼블릭",
    "title_en": "Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook for a hike is also favorable.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MNIBb0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MA?oc=5",
-   "published_utc": "2026-11-18T07:11:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QV9hc2o2eElHWUFHbGhLdi03emNNYVl3OVhwRmdYQmsyMk1PcEtzaS1pOFFMaUplRTVLOTlJRkx5Q2tseG9ZQXpfTUdiQjM1ekNUcWJ5ZUJMY3ZrSldDcDRPSjVXSU5mVGRN0gFvQVVfeXFMT1Bha1BtMDRGS2VGdDFuUHlXdjVSZlZwYUdhZW1zTURyMEZNZHdPcUl4Qk5oOXlkWkJNbVhEcVpaeERYSk85cjdiam1HSmZ1UXlUaFhFc1dVTUYxNVV1N09nYlJSXzd1UUMxOTlkQTUw?oc=5",
+   "published_utc": "2026-11-18T07:07:05+00:00",
    "title_original": "한은, 이달 기준금리 또 올리나…美 연준도 인상 전망 '우세'",
    "region": "korea",
    "topics": [
@@ -3377,7 +3413,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "db5a2c2bb9e1ae86"
+   "id": "9883c1e475e793e0"
   },
   {
    "source_id": "nhk_politics",
@@ -5190,6 +5226,24 @@
    "id": "819da848ba232bb9"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "网易新闻客户端",
+   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03NjZXUnJoLVY1R1ljWG9fa3B0bnU0Y2E0UnhKWTlvQlFrellacFllWTZZUjVxVktSR21Zdjg3V2ZjM3ppbm4yVS1Ld1otZmlFWVJyTjJuUExLRVct?oc=5",
+   "published_utc": "2026-11-17T13:41:00+00:00",
+   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "707bf33530c71622"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
@@ -5205,24 +5259,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b9cd217b45d1f01b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalBpOG5leTJ0LTdnMjQ5YWJNSEVsMzQ0eGlwemZ2NjQ4azVrQjQyOVFOR3VUMTdUQ2FrdV9FWGh1b0hzaUoxWkpWSmFKTl9uYXhKZk5YS19Ednd4WEFFSW9tYUZCSklvYnJqY01qUllSbzVrUDM4UFdFTUxlbVhRamJwa0tIajRFeERKSUY0cw?oc=5",
-   "published_utc": "2026-11-17T13:32:00+00:00",
-   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "91da37975e8dd297"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11026,9 +11062,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "东方财富",
    "title_en": "The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the downward trend of funding rates",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMjJxRmQweTZWU0xTejRKLXZYQlBDNFNRV3lPeUlucHByeVFENWFFWDZ4dmhrYWw4dHBCUlVrbkdNRkFuVGFCVlRwcmJ3ZDhrNHRTR0NZaTljbEpIU29LZg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdlJzcVF0NUNzd1VucG1FLW9INm5uQVZtYjItSjY5U3Z1QjVvWjlXSzdTWWJ2ajVGYzVIQThhbzZhZVJaTndyQ29nV3dRNkhwUUZFdm94R3I0aTNJUnNXUUh6Z1VQdw?oc=5",
    "published_utc": "2026-11-14T03:06:40+00:00",
    "title_original": "央行缩量续作6个月期买断式逆回购 机构：遏制资金利率下行势头",
    "region": "china",
@@ -11039,7 +11075,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4fb5a23aa9509610"
+   "id": "71cf3b72bd07dffa"
   },
   {
    "source_id": "tradingview_live",
@@ -12324,7 +12360,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "东方财富网",
    "title_en": "Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzktVzBNV0NuZ0V2ZHZZSW5yVmhXaWlBRzMzWnB4OUIxVXlVcVNhU09hU2R1SmZzWmJYRW9uWWRGQzZsQ0djTDMxdXNxM2EtbVNiWXJhalljdkc5QlZBYnA4WVJfQ3M?oc=5",
    "published_utc": "2026-11-13T09:04:17+00:00",
@@ -51862,42 +51898,6 @@
    "live_wire": true,
    "manual": false,
    "id": "53a9ba04ed06df16"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스토마토",
-   "title_en": "Bank of Korea, Director of Monetary Policy Choi Chang-ho appointed as 'Assistant Vice Governor for Monetary Policy and Markets'",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tSGlzLTZpVVM2MkxCcmtxeWFVTVdWdjFkSE1XalN2U09mdjN3Y1hhTTc4UWRRVm1fb3RnLWotTGhCZWhPdVBTaTFFZERmS01WTjl1MVBtaVEtNUY5bWNpZA?oc=5",
-   "published_utc": "2026-10-26T09:17:32+00:00",
-   "title_original": "한은, '통화정책·시장 담당 부총재보'에 최창호 통화정책국장",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d40d5c6fffddf9d9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
-   "title_en": "Bank of Korea appoints Director of Monetary Policy Choi Chang-ho as new Deputy Governor",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mUXJ5VUEwaU1xbmhMdmlUZ2w0OHphbV9LcmtWSG1qcm1jZkIzZ1VScURuY1d1WHVITzVqUkVueFJoMC1mUFlqUFhscGNlYTA0WXRRTlNKM0ZEbXlC?oc=5",
-   "published_utc": "2026-10-26T09:16:00+00:00",
-   "title_original": "한은, 신임 부총재보에 최창호 통화정책국장 임명",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "159043772875d9cf"
   },
   {
    "source_id": "manual_ia",

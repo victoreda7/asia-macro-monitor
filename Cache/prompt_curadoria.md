@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T20:32:49.477579+00:00
+Última coleta: 2026-11-19T20:42:44.011132+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1013
+  🇯🇵 Japão          1014
   🇨🇳 China          911
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  751
+  🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
+  - [korea] At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..
   - [china] License information for AI chips sent to China released by US House committee
   - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [china] US approved sale of almost 900,000 AI chips to China in six months – commission
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan hopes to sign trade deal with Canada soon after Carney's remarks
   - [japan] In France, Le Pen's National Union unexpectedly emphasizes fiscal discipline...What will happen between the fa
   - [taiwan] Taiwan unlikely to be Trump-Xi-Putin topic 'from what we know': MAC
-  - [korea] Another Big Step Loan in the US? The Bank of Korea’s dilemma of having to decide on interest rates first
-  - [china] Trump begins historic trilateral talks with Xi, Putin in China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T20:32:49+00:00",
+      "published_utc": "2026-11-19T20:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
