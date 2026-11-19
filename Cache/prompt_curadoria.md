@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T09:32:56.107565+00:00
+Última coleta: 2026-11-19T09:42:44.742359+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
-  🇨🇳 China          894
+  🇨🇳 China          892
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  768
+  🇰🇷 Coreia do Sul  770
 
 ## O que já está no feed (não repita)
 
+  - [korea] Inktec To Divest Real Estate Worth 63 Billion Won
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
   - [korea] Prices and growth rise together... Will the Bank of Korea further increase the base interest rate on the 26th?
@@ -33,6 +34,7 @@ Total: 3000 manchetes
   - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
   - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
   - [korea] AI boom boosts semiconductors, South Korea's exports exceed US$1 trillion for the first time, and is expected 
+  - [korea] The last Bank of Korea Monetary Policy Committee D-7 of the year... Interest rate hike weighs on inflation and
   - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
   - [korea] South Korean shares end higher as country joins $1 trillion export club
   - [taiwan] Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Tobacco: Russian deconsolidation leaves growth and JPY 204 DPS plans intact
   - [japan] Sompo Holdings, Inc. - To Buy Back Up To 1.7% Of Shares Worth 68 Billion Yen
   - [korea] South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom
-  - [japan] Prime Minister Takaichi's press conference after the APEC Summit [currently being streamed live]
-  - [korea] South Korea's exports top $1 trillion for first time on chip boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T09:32:56+00:00",
+      "published_utc": "2026-11-19T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
