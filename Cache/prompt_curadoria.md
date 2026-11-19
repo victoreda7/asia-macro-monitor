@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T00:22:40.636663+00:00
+Última coleta: 2026-11-19T00:33:16.905440+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
-  🇨🇳 China          907
+  🇨🇳 China          908
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  757
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [japan] Interest Rate (November 18 2026)
   - [japan] JAPAN SEPT MACHINERY ORDERS: CABINET OFFICE NOTES 3-MONTH MOVING AVERAGE +0.3% FOR 2ND STRAIGHT M/M RISE AFTER
   - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS NON-MANUFACTURING SECTOR -0.8% Q/Q, 2ND STRAIGHT QUARTER FALL VS. -2.3% IN
   - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS MANUFACTURING SECTOR +8.0% Q/Q, 1ST RISE IN 2 QUARTERS VS. -1.3% IN APR-JU
   - [japan] JAPAN CABINET OFFICE: OCT-DEC CORE MACHINE ORDERS PROJECTED AT +4.3% Q/Q, 5TH STRAIGHT RISE
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
   - [japan] Bank of Japan to raise interest rates in December and again by end-March, economists say
+  - [china] Citi CEO Fraser Stresses China Engagement Before Trump-Xi Talks
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
   - [china] China using Trump-Xi 'stability' to build strategic edge, US panel warns
   - [japan] Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 ye
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia stops shipping US-approved AI chips to China
   - [japan] Bank of Japan Governor Ueda attends the House of Councilors Finance Committee meeting on the 19th for the half
   - [japan] Bank of Japan Governor Ueda attends House of Councilors Finance Committee meeting on half-yearly report = Diet
-  - [china] Chinese steel exports could hit 130 million tonnes in 2026, threaten Indian industry: T V Narendran
-  - [china] Nvidia to Stop Selling Advanced AI Chips to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T00:22:40+00:00",
+      "published_utc": "2026-11-19T00:33:17+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
