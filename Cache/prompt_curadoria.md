@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T20:52:43.703299+00:00
+Última coleta: 2026-11-19T21:04:31.950969+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1013
-  🇨🇳 China          912
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  750
+  🇯🇵 Japão          1014
+  🇨🇳 China          911
+  🇹🇼 Taiwan         326
+  🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [japan] 〈Buy it! 〉Who is right about the doubling of sales of government bonds to individuals: individuals who think i
+  - [taiwan] "Full tuition fee exemption, 50,000 yen monthly scholarship" Reasons why Taiwanese universities treat Japanese
   - [korea] [Defense Industry] Interceptor missiles are classified as "weapons" like rifles, and they are told to "repay t
   - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
   - [korea] At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China, Rússia e EUA planejam ampliar oferta de petróleo refinado e reafirmam importância de fluxos energéticos
   - [taiwan] Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux
   - [china] Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling
-  - [taiwan] TSMC And Samsung Suspend Some Chip Shipments To Chinese Customers - FT
-  - [taiwan] Taiwan hopes to sign trade deal with Canada soon after Carney's remarks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T20:52:43+00:00",
+      "published_utc": "2026-11-19T21:04:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
