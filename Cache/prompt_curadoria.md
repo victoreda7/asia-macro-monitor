@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T22:52:43.181845+00:00
+Última coleta: 2026-11-19T23:04:07.409326+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
@@ -50,13 +50,13 @@ Total: 3000 manchetes
   - [china] NetEase: CNY 27.9 billion in Q3 revenue, higher gross margin and expanding global game reach
   - [taiwan] TSMC and Samsung pause some chip shipments to China due to new US export rules: report
   - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
+  - [japan] JT to post 1.3 trillion yen loss on Russian business
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [taiwan] TSMC acquires 0.03% stake in Anthropic for US$500 million
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
   - [taiwan] Taiwan's APEC envoy urges 'wise' AI development, chip resilience
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
-  - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T22:52:43+00:00",
+      "published_utc": "2026-11-19T23:04:07+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
