@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T15:33:49.383907+00:00",
- "collected_at_utc": "2026-11-19T15:33:49.383907+00:00",
+ "generated_at_utc": "2026-11-19T15:42:42.515567+00:00",
+ "collected_at_utc": "2026-11-19T15:42:42.515567+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1017,
-  "china": 898,
+  "china": 899,
   "taiwan": 325,
-  "korea": 760
+  "korea": 759
  },
- "elapsed_s": 89.4,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 165,
    "error": "",
-   "newest": "2026-11-19T15:14:17+00:00"
+   "newest": "2026-11-19T15:36:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T14:55:02+00:00"
+   "newest": "2026-11-19T15:18:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T14:48:00+00:00"
+   "newest": "2026-11-19T05:32:47+00:00"
   },
   {
    "source_id": "ked_global",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Short seller Hunterbrook shorts AMD citing concerns over China exports",
+   "url": "https://www.investing.com/news/stock-market-news/short-seller-hunterbrook-shorts-amd-citing-concerns-over-china-exports-5039475",
+   "published_utc": "2026-11-19T15:33:04+00:00",
+   "title_original": "Short seller Hunterbrook shorts AMD citing concerns over China exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "190013ccc56caf5e"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -51885,23 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b2cf8c5f3fcc678"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04T0FVN1dZNkVqQU9fVkZZekphS3M1ZkhjRW5rYzNNcVg4eDNmLVRUeVpOWnppSVhUQ2NGM2JXYXRubm0zaFlJY0Nvbzc2NkVuR0E?oc=5",
-   "published_utc": "2026-10-26T08:42:26+00:00",
-   "title_original": "The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8b553ec077aa9e91"
   },
   {
    "source_id": "manual_ia",

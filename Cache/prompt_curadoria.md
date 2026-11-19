@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T15:33:49.383907+00:00
+Última coleta: 2026-11-19T15:42:42.515567+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
-  🇨🇳 China          898
+  🇨🇳 China          899
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  760
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
   - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
   - [japan] Prime Minister Takaichi held a press conference regarding his telephone conversation with US President Trump
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] "Claude" developer Antropics broke through weak technology stocks to achieve the largest initial pub..
   - [china] HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve
   - [korea] One 10-Kilogram Box Worth 1 Billion Won ... Semiconductors Pack a 5,000-Pyeong Warehouse
-  - [china] NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reac
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T15:33:49+00:00",
+      "published_utc": "2026-11-19T15:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
