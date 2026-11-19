@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T01:52:46.235076+00:00
+Última coleta: 2026-11-19T02:02:42.691786+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          910
+  🇯🇵 Japão          1028
+  🇨🇳 China          911
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  756
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
+  - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
   - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
   - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.48, Implies 40% Upside
   - [korea] Samvardhana Motherson Says Cheongju District Court Approves Liquidation Of Subsidiary MSSL Korea WH
   - [china] The central bank launches 714 billion yuan overnight reverse repurchase operation
-  - [china] 'All Chinese players' will rely on domestic chips eventually: Tencent
-  - [china] China’s first lady Peng Liyuan lets her English do the talking in Trump welcome
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T01:52:46+00:00",
+      "published_utc": "2026-11-19T02:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

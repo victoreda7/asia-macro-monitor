@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T01:52:46.235076+00:00",
- "collected_at_utc": "2026-11-19T01:52:46.235076+00:00",
+ "generated_at_utc": "2026-11-19T02:02:42.691786+00:00",
+ "collected_at_utc": "2026-11-19T02:02:42.691786+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1027,
-  "china": 910,
+  "japan": 1028,
+  "china": 911,
   "taiwan": 307,
-  "korea": 756
+  "korea": 754
  },
- "elapsed_s": 28.1,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T00:36:00+00:00"
+   "newest": "2026-11-19T01:42:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-19T01:43:05+00:00"
+   "newest": "2026-11-19T01:53:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-19T01:43:32+00:00"
+   "newest": "2026-11-19T01:56:42+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:24:40+00:00"
+   "newest": "2026-11-19T01:59:24+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-19T10:00:00+09:00"
+   "newest": "2026-11-19T10:50:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,48 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-19T01:31:48+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row",
+   "url": "https://www.investing.com/news/stock-market-news/japans-datasection-slumps-on-big-guidance-cut-amid-uschina-chip-access-row-5037539",
+   "published_utc": "2026-11-19T01:53:20+00:00",
+   "title_original": "Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cf0c4f950be1497f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95UnJudktMd0I4MXZLeVBzcXZ2a0pRRVgwTEcwek92eWZwQlh2YnhPZWVLOVJWaDhWd3Q0dUhKTGNKRVFuSW1MR0h4ZklqclYtZXZpVmpwNXZkcWowcERWYkxmNUsyeFBS?oc=5",
+   "published_utc": "2026-11-19T01:53:08+00:00",
+   "title_original": "11月19日央行开展7675亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "919c4b1b2dd0e957"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -5772,8 +5807,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5788,7 +5823,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -51866,41 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b81ca690a5ab57bc"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "S. Korea's Q2 current account surplus ranks 2nd on robust chip exports",
-   "url": "https://www.koreaherald.com/article/10913796",
-   "published_utc": "2026-10-25T01:53:35+00:00",
-   "title_original": "S. Korea's Q2 current account surplus ranks 2nd on robust chip exports",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a2d9ef809c0e922c"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%",
-   "url": "https://www.koreaherald.com/article/10913791",
-   "published_utc": "2026-10-25T01:40:13+00:00",
-   "title_original": "Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dd27d5ad421d3a94"
   },
   {
    "source_id": "manual_ia",
