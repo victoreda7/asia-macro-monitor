@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T19:56:57.868185+00:00
+Última coleta: 2026-11-19T20:03:28.767905+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1014
@@ -17,9 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
   - [china] US House of Representatives Committee releases information on licenses for AI chips sent to China
   - [china] License information for AI chips sent to China released by US House committee
+  - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
   - [china] Offshore yuan dip looks like a liquidity blip, not a trend shift
   - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [taiwan] TSMC and Samsung's China Chip Pause Has Stakes Beyond AI
@@ -53,10 +53,10 @@ Total: 3000 manchetes
   - [taiwan] Taiwan hopes to sign trade deal with Canada soon after Carney's remarks
   - [japan] In France, Le Pen's National Union unexpectedly emphasizes fiscal discipline...What will happen between the fa
   - [taiwan] Taiwan unlikely to be Trump-Xi-Putin topic 'from what we know': MAC
+  - [korea] Another Big Step Loan in the US? The Bank of Korea’s dilemma of having to decide on interest rates first
   - [china] Trump begins historic trilateral talks with Xi, Putin in China
   - [china] China's Moonshot AI Scraps $150 Million Deal To Access Nvidia Chips In Indonesia - The Information
   - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
-  - [japan] Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T19:56:58+00:00",
+      "published_utc": "2026-11-19T20:03:29+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

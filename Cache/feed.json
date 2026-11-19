@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-19T19:56:57.868185+00:00",
- "collected_at_utc": "2026-11-19T19:56:57.868185+00:00",
+ "generated_at_utc": "2026-11-19T20:03:28.767905+00:00",
+ "collected_at_utc": "2026-11-19T20:03:28.767905+00:00",
  "degraded": false,
- "sources_ok": 16,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,208 +11,8 @@
   "taiwan": 326,
   "korea": 752
  },
- "elapsed_s": 271.9,
+ "elapsed_s": 75.3,
  "sources": [
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "name": "DIGITIMES",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "name": "UDN / 經濟日報",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -220,6 +20,46 @@
    "count": 46,
    "error": "",
    "newest": "2026-11-19T16:00:00+09:00"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T17:59:37+00:00"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T19:42:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "name": "DIGITIMES",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T08:45:00+00:00"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T12:00:03+00:00"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": true,
+   "count": 14,
+   "error": "",
+   "newest": "2026-11-19T03:03:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -235,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T19:53:01+00:00"
+   "newest": "2026-11-19T20:00:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -254,12 +94,28 @@
    "newest": "2026-11-19T19:24:25+00:00"
   },
   {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T14:50:00+00:00"
+  },
+  {
    "source_id": "ked_global",
    "name": "KED Global",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T18:05:37+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -270,6 +126,14 @@
    "newest": "2026-11-19T23:30:00+09:00"
   },
   {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T06:34:18+00:00"
+  },
+  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
@@ -278,12 +142,36 @@
    "newest": "2026-11-19T09:06:32+00:00"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T11:12:01+00:00"
+  },
+  {
    "source_id": "mof_jp",
    "name": "MOF Japan",
    "ok": true,
    "count": 60,
    "error": "",
    "newest": "2026-11-19T09:30:00+09:00"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T03:25:59+00:00"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T13:34:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -310,6 +198,46 @@
    "newest": ""
   },
   {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 28,
+   "error": "",
+   "newest": "2026-11-19T01:59:24+00:00"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T19:15:59+00:00"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T18:37:42+00:00"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T18:10:37+00:00"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T18:39:46+00:00"
+  },
+  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
@@ -318,12 +246,52 @@
    "newest": "2026-11-19T18:57:18+00:00"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T10:35:04+00:00"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-18T16:00:00+00:00"
+  },
+  {
    "source_id": "tradingview_live",
    "name": "TradingView (ao vivo)",
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T19:54:10+00:00"
+   "newest": "2026-11-19T20:02:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_udn",
+   "name": "UDN / 經濟日報",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T17:30:55+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T12:56:30+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T11:44:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -334,42 +302,82 @@
    "newest": "2026-11-19T12:21:11+00:00"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T06:39:06+00:00"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T16:06:22+00:00"
+  },
+  {
    "source_id": "toyo_keizai",
    "name": "東洋経済オンライン",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": "2026-11-20T04:30:00+09:00"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T08:43:34+00:00"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T10:05:30+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_asia_bloomberg": 1,
-  "gn_cn_caixin": 1,
-  "gn_tw_digitimes": 1,
-  "gn_asia_ft": 1,
-  "gn_tw_focus": 1,
-  "gn_jp_investing": 1,
-  "gn_kr_ked": 1,
-  "gn_kr_herald": 1,
-  "gn_jp_kyodo": 1,
-  "gn_cn_nbs": 1,
-  "gn_jp_nhkworld": 1,
-  "gn_cn_pboc": 1,
-  "gn_cn_reuters": 1,
-  "gn_jp_reuters": 1,
-  "gn_kr_reuters": 1,
-  "gn_tw_reuters": 1,
-  "gn_cn_scmp": 1,
-  "gn_tw_taipeitimes": 1,
-  "gn_tw_udn": 1,
-  "gn_cn_xinhua": 1,
-  "gn_jp_yahoo": 1,
-  "gn_kr_yonhap": 1,
-  "gn_tw_cna": 1,
-  "gn_kr_mk": 1,
-  "gn_kr_bok": 1
- },
+ "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US House of Representatives Committee releases information on licenses for AI chips sent to China",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N470173:0/",
+   "published_utc": "2026-11-19T19:59:55+00:00",
+   "title_original": "Comissão da Câmara dos Deputados dos EUA divulga informações sobre licenças de chips de IA enviados à China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "2d20529e4d8a7c71"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "License information for AI chips sent to China released by US House committee",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N470162:0-license-information-for-ai-chips-sent-to-china-released-by-us-house-committee/",
+   "published_utc": "2026-11-19T19:59:39+00:00",
+   "title_original": "License information for AI chips sent to China released by US House committee",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a534bd224850f2a1"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -386,40 +394,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e974672d80e9b589"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "US House of Representatives Committee releases information on licenses for AI chips sent to China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47015W:0/",
-   "published_utc": "2026-11-19T19:43:14+00:00",
-   "title_original": "Comissão da Câmara dos Deputados dos EUA divulga informações sobre licenças de chips de IA enviados à China",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "5ad078728862d4ad"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "License information for AI chips sent to China released by US House committee",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4700WT:0-license-information-for-ai-chips-sent-to-china-released-by-us-house-committee/",
-   "published_utc": "2026-11-19T19:36:28+00:00",
-   "title_original": "License information for AI chips sent to China released by US House committee",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0789f31f3929cb67"
   },
   {
    "source_id": "investing_fx",
@@ -695,8 +669,8 @@
    "id": "555a351f9a7ae5dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -710,7 +684,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -989,6 +963,23 @@
    "id": "c1b367302b135e63"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "더스쿠프",
+   "title_en": "Another Big Step Loan in the US? The Bank of Korea’s dilemma of having to decide on interest rates first",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtSWJ4OWhPR0hjRkljdnVSaGo5YUJONHJXSGZ4R3RLRWJlNlo1Z1R2VE5rTDdpTzFsRzRFZVQwUWpJaXo5aFZvRUYzVW1qYzFfYzkxQWRwWGYtcUh6RzdfNUYzam90a3BZMmhHQ2ln?oc=5",
+   "published_utc": "2026-11-19T10:05:30+00:00",
+   "title_original": "미국선 또 빅스텝론? 금리 먼저 결정해야 하는 한은의 딜레마",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2028d14eefa95bbe"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Trump begins historic trilateral talks with Xi, Putin in China",
@@ -1040,8 +1031,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1055,7 +1046,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "tradingview_live",
@@ -1923,8 +1914,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1937,7 +1928,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1972,6 +1963,25 @@
    "live_wire": false,
    "manual": false,
    "id": "f3db9badf43aecaf"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda (Jiji Press) maintains interest rate hike policy as personal consumption declines ``within expectations''",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xV194MWoxMHpjRV9QSmxPcmh3T2pWMlNJUnBhUWhDM2hSeDE0by16anhqRkJkY0QzMUtwQTA1QXNfM09peGQydUh3SmNsSjJLWENtb2Z1YUE3NlFCeTNsWE4xTjhDbEw1NE1yS2lPWUVrcHZzaDdHQWFLV0JWQzg?oc=5",
+   "published_utc": "2026-11-19T02:57:38+00:00",
+   "title_original": "利上げ路線を維持 個人消費減「予想の範囲内」 植田日銀総裁（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2c5fa6f99ad2af68"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6875,6 +6885,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4d13bf0f74ae72c3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "마켓인",
+   "title_en": "The paradox of the semiconductor boom... Even if it goes up or down, the credit ‘detonator’ remains.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hZTBaMlg5aW5uQjVneTdFSXVNcE5BVndHSlZxNDlNYXkwR3JyT2hKbTVYQXZYeXlpR1h1TW9ZUlRSV2QzU1lFTDZmLWZnTzItWXdqbWZSczBha2xPaUVYX19jSUZadFlBb3lMWFpsM2F6VGs?oc=5",
+   "published_utc": "2026-11-16T21:00:08+00:00",
+   "title_original": "반도체 호황의 역설…올라도 꺾여도 크레딧 ‘뇌관’은 남는다",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9693eef3ae345625"
   },
   {
    "source_id": "toyo_keizai",
@@ -51871,58 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3f20e5bcf5f19e10"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "중앙일보",
-   "title_en": "Choi Chang-ho, Director of Monetary Policy Bureau, appointed Assistant Vice Governor for Monetary Policy and Markets at the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pbVAzazJqVDNWMFVNR0N5WXZaTWxNbmJKZU5mYWtWbUI1VUZWak1wMmpkS0JMZVpaRU5jWC1lYV9uYVl3c2Qyd1hfYjBDaGMyc19NMkRB?oc=5",
-   "published_utc": "2026-10-26T09:03:07+00:00",
-   "title_original": "한은 통화정책·시장 부총재보에 최창호 통화정책국장",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b52d4330b199d825"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
-   "url": "https://www.investing.com/news/economy-news/japan-auto-union-group-looks-beyond-inflationlinked-pay-hikes-for-2027-talks-4971661",
-   "published_utc": "2026-10-26T09:00:25+00:00",
-   "title_original": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "845fb5482b1c9c7b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "금강일보",
-   "title_en": "Bank of Korea freezes base interest rate at 3%... Take a breath after 2 consecutive raises",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TaTRnRnN5aUtaWFNLQ2tnU1o5UklEaVNyRXljS2NlQlpNWk5JLVN4THY1SnJYMDZIYm9aQnhTLUNuSmJzRm81YVhUamZyTXJlallGeVUxQ0JlM3lGVS1BNmRZOVZaeUswNEE?oc=5",
-   "published_utc": "2026-10-26T09:00:00+00:00",
-   "title_original": "한국은행, 기준금리 3%로 동결…2연속 인상 후 숨고르기",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2d9702d94174b69e"
   },
   {
    "source_id": "manual_ia",
