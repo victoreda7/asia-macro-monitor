@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T05:22:55.436508+00:00
+Última coleta: 2026-11-19T05:32:43.067309+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1028
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [korea] South Korean entertainment stocks surge up to 30% on China trade deal
   - [japan] Japan auto industry targets common standards to strengthen supply chain
+  - [japan] Japan AI selloff: These chips and electronics stocks were the worst hit
   - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
   - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
   - [taiwan] UBright eyes semiconductor, passive components and smart acoustics growth
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS NON-MANUFACTURING SECTOR -0.8% Q/Q, 2ND STRAIGHT QUARTER FALL VS. -2.3% IN
   - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS MANUFACTURING SECTOR +8.0% Q/Q, 1ST RISE IN 2 QUARTERS VS. -1.3% IN APR-JU
   - [japan] JAPAN CABINET OFFICE: OCT-DEC CORE MACHINE ORDERS PROJECTED AT +4.3% Q/Q, 5TH STRAIGHT RISE
-  - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T05:22:55+00:00",
+      "published_utc": "2026-11-19T05:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
