@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T06:32:41.740202+00:00
+Última coleta: 2026-11-19T06:42:42.301690+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          905
-  🇹🇼 Taiwan         312
+  🇨🇳 China          904
+  🇹🇼 Taiwan         313
   🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down
+  - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
+  - [japan] Japan Tobacco: Four Russian manufacturing entities placed under temporary administration
+  - [japan] Japan Tobacco: Russian deconsolidation leaves growth and JPY 204 DPS plans intact
   - [japan] Sompo Holdings, Inc. - To Buy Back Up To 1.7% Of Shares Worth 68 Billion Yen
   - [korea] South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom
-  - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
   - [japan] Prime Minister Takaichi's press conference after the APEC Summit [currently being streamed live]
   - [korea] South Korea's exports top $1 trillion for first time on chip boom
   - [china] Bernstein names top China semiconductor equipment stocks
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
   - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
-  - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118
-  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T06:32:41+00:00",
+      "published_utc": "2026-11-19T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
