@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T01:12:42.314491+00:00
+Última coleta: 2026-11-19T01:22:53.835517+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
-  🇨🇳 China          908
-  🇹🇼 Taiwan         309
+  🇨🇳 China          909
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
   - [japan] Japan Data Preview: Hotter Inflation Expected in October CPI Report
   - [japan] Interest Rate (November 18 2026)
   - [japan] JAPAN SEPT MACHINERY ORDERS: CABINET OFFICE NOTES 3-MONTH MOVING AVERAGE +0.3% FOR 2ND STRAIGHT M/M RISE AFTER
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
   - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
   - [china] Nvidia stops shipping US-approved AI chips to China
-  - [japan] Bank of Japan Governor Ueda attends the House of Councilors Finance Committee meeting on the 19th for the half
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T01:12:42+00:00",
+      "published_utc": "2026-11-19T01:22:54+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

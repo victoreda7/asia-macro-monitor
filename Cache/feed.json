@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-19T01:12:42.314491+00:00",
- "collected_at_utc": "2026-11-19T01:12:42.314491+00:00",
+ "generated_at_utc": "2026-11-19T01:22:53.835517+00:00",
+ "collected_at_utc": "2026-11-19T01:22:53.835517+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1027,
-  "china": 908,
-  "taiwan": 309,
+  "china": 909,
+  "taiwan": 308,
   "korea": 756
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 45,
+   "count": 46,
    "error": "",
-   "newest": "2026-11-17T08:50:00+09:00"
+   "newest": "2026-11-19T10:13:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T22:26:25+00:00"
+   "newest": "2026-11-18T23:50:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T15:22:48+00:00"
+   "newest": "2026-11-19T01:12:09+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T17:41:25+00:00"
+   "newest": "2026-11-18T13:38:52+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T01:11:00+00:00"
+   "newest": "2026-11-19T01:22:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,31 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-18T09:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中华网财经",
+   "title_en": "To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yQXhjUlNLYjZMNnhxVVQtSzFLbVAzQmwtbWczdUVyZlFadlg5RlItRjUxV3VHcnhJZDlmamNKV1NwSlFFekZRcFREY2ZITHhqRGpidzZGYks5alNEZ3lmR3dDZG12ZzBxQkotUEM5QU8tSmc?oc=5",
+   "published_utc": "2026-11-19T01:12:09+00:00",
+   "title_original": "呵护税期走款 央行开展7002亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7fe093c4c1a49372"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -5631,8 +5649,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5647,7 +5665,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c27eb3ed04bc406a"
+   "id": "20169badcd5e081d"
   },
   {
    "source_id": "tradingview_live",
@@ -51879,23 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ca7c58bf8a9059b9"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Lin urges Taiwan-Europe cooperation on trusted AI, drone supply chains",
-   "url": "https://focustaiwan.tw/politics/202610240015",
-   "published_utc": "2026-10-24T10:29:51+00:00",
-   "title_original": "Lin urges Taiwan-Europe cooperation on trusted AI, drone supply chains",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b6a9f2473518447f"
   },
   {
    "source_id": "manual_ia",
