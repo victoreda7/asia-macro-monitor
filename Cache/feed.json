@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T13:52:42.327242+00:00",
- "collected_at_utc": "2026-11-19T13:52:42.327242+00:00",
+ "generated_at_utc": "2026-11-19T14:03:00.068741+00:00",
+ "collected_at_utc": "2026-11-19T14:03:00.068741+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1016,
+  "japan": 1015,
   "china": 895,
-  "taiwan": 325,
+  "taiwan": 326,
   "korea": 764
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 47.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T07:51:34+00:00"
+   "newest": "2026-11-19T12:00:03+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T13:34:52+00:00"
+   "newest": "2026-11-19T13:55:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T13:18:22+00:00"
+   "newest": "2026-11-19T13:54:33+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T22:46:31+09:00"
+   "newest": "2026-11-19T22:46:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:11:17+00:00"
+   "newest": "2026-11-19T12:48:08+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:46:18+00:00"
+   "newest": "2026-11-19T12:48:08+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T13:51:45+00:00"
+   "newest": "2026-11-19T14:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:09:00+00:00"
+   "newest": "2026-11-19T10:23:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -345,21 +345,39 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "published_utc": "2026-11-19T13:11:17+00:00",
-   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "region": "china",
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "TSMC and Samsung pause some chip shipments to China due to new US export rules: report",
+   "url": "https://www.tradingview.com/news/seekingalpha:b33471b8f094b:0-tsmc-and-samsung-pause-some-chip-shipments-to-china-due-to-new-us-export-rules-report/",
+   "published_utc": "2026-11-19T13:57:03+00:00",
+   "title_original": "TSMC and Samsung pause some chip shipments to China due to new US export rules: report",
+   "region": "taiwan",
    "topics": [
-    "trade"
+    "trade",
+    "industrial"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": false,
+   "live_wire": true,
    "manual": false,
-   "id": "19bf7167e379c22a"
+   "id": "d469edda8c8b8119"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4700OQ:0/",
+   "published_utc": "2026-11-19T13:55:06+00:00",
+   "title_original": "Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "26dafa541d940f2b"
   },
   {
    "source_id": "nhk_politics",
@@ -1573,23 +1591,6 @@
    "id": "298d44b08ab84d1e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N470078:0/",
-   "published_utc": "2026-11-19T05:31:21+00:00",
-   "title_original": "Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "08cc982af06d6caa"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "South Korea is the fourth country in the world to join the $1 trillion export club. It is the first",
@@ -1707,23 +1708,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3b33b0ad4d30ffc6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261118010321:0-boj-s-ueda-vows-to-keep-careful-eye-on-fed-moves-update/",
-   "published_utc": "2026-11-19T04:21:00+00:00",
-   "title_original": "BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c223c6f0f033b605"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1987,6 +1971,23 @@
    "id": "c66122963e137d60"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published_utc": "2026-11-19T00:49:40+00:00",
+   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19bf7167e379c22a"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Oil Imports Rebound as Beijing Turns Back to Stockpiling",
@@ -2172,6 +2173,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6f9d1f1e8c938658"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "nhk_politics",
@@ -2465,24 +2484,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",

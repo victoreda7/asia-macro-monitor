@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T13:52:42.327242+00:00
+Última coleta: 2026-11-19T14:03:00.068741+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1016
+  🇯🇵 Japão          1015
   🇨🇳 China          895
-  🇹🇼 Taiwan         325
+  🇹🇼 Taiwan         326
   🇰🇷 Coreia do Sul  764
 
 ## O que já está no feed (não repita)
 
-  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
+  - [taiwan] TSMC and Samsung pause some chip shipments to China due to new US export rules: report
+  - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [taiwan] TSMC acquires 0.03% stake in Anthropic for US$500 million
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s Exports Top $1 Trillion for First Time on AI Boom
   - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
   - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
-  - [korea] AI boom boosts semiconductors, South Korea's exports exceed US$1 trillion for the first time, and is expected 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T13:52:42+00:00",
+      "published_utc": "2026-11-19T14:03:00+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
