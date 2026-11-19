@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T05:52:45.506518+00:00
+Última coleta: 2026-11-19T06:02:43.922719+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
-  🇨🇳 China          909
+  🇯🇵 Japão          1025
+  🇨🇳 China          908
   🇹🇼 Taiwan         312
   🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's exports top $1 trillion for first time on chip boom
+  - [japan] Prime Minister Takaichi attends the APEC Summit and holds a press conference after the meeting
   - [china] Bernstein names top China semiconductor equipment stocks
   - [korea] S. Korea's exports top US$1 tln for 1st time on strong chip demand
   - [korea] South Korea is the fourth country in the world to join the $1 trillion export club.According to the
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 767.5 billion yuan overnight reverse repurchase operation today
   - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
   - [taiwan] Microsoft’s chip packaging deal hands Intel credibility more than revenue
-  - [japan] Japan Data Preview: Hotter Inflation Expected in October CPI Report
-  - [china] China Oil Imports Rebound as Beijing Turns Back to Stockpiling
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T05:52:45+00:00",
+      "published_utc": "2026-11-19T06:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
