@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T16:52:42.685402+00:00
+Última coleta: 2026-11-19T17:03:27.985803+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
-  🇨🇳 China          899
+  🇨🇳 China          900
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
-  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
+  - [china] Alibaba accelerates pivot to in-house chips after reporting jump in sales
   - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
   - [japan] Prime Minister Takaichi held a press conference regarding his telephone conversation with US President Trump
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T16:52:42+00:00",
+      "published_utc": "2026-11-19T17:03:28+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
