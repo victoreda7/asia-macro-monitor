@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T14:32:56.225222+00:00
+Última coleta: 2026-11-19T14:42:42.509428+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1015
-  🇨🇳 China          897
+  🇨🇳 China          898
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  763
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
+  - [china] Nvidia Faces a New China Reality After Trump's Latest AI Chip Comments
   - [china] The first U.S.-China-Russia summit in history, what are the major powers' intentions, and what will be the imp
   - [china] NetEase: CNY 27.9 billion in Q3 revenue, higher gross margin and expanding global game reach
   - [taiwan] TSMC and Samsung pause some chip shipments to China due to new US export rules: report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reac
   - [japan] Defense spending "isn't just about the amount" Funding sources "consider fiscal sustainability" Prime Minister
   - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
-  - [korea] South Korea’s Exports Top $1 Trillion for First Time on AI Boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T14:32:56+00:00",
+      "published_utc": "2026-11-19T14:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
