@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T12:52:41.946045+00:00",
- "collected_at_utc": "2026-11-19T12:52:41.946045+00:00",
+ "generated_at_utc": "2026-11-19T13:02:40.913231+00:00",
+ "collected_at_utc": "2026-11-19T13:02:40.913231+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1016,
-  "china": 896,
-  "taiwan": 320,
-  "korea": 768
+  "china": 895,
+  "taiwan": 322,
+  "korea": 767
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:23:14+00:00"
+   "newest": "2026-11-19T12:24:29+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T08:45:00+00:00"
+   "newest": "2026-11-19T03:05:53+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 165,
    "error": "",
-   "newest": "2026-11-19T12:31:35+00:00"
+   "newest": "2026-11-19T12:56:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-19T11:01:56+00:00"
+   "newest": "2026-11-19T12:56:09+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T08:30:15+00:00"
+   "newest": "2026-11-18T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T12:41:52+00:00"
+   "newest": "2026-11-19T13:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T10:54:30+00:00"
+   "newest": "2026-11-19T12:56:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+   "url": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806",
+   "published_utc": "2026-11-19T12:48:46+00:00",
+   "title_original": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "53bcd98e0a2d3991"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -637,8 +655,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -652,7 +670,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "tradingview_live",
@@ -672,11 +690,11 @@
    "id": "40099a0e6697d5cb"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
-   "published_utc": "2026-11-19T09:03:01+00:00",
+   "published_utc": "2026-11-19T09:03:00+00:00",
    "title_original": "来年度の税制改正 自民税調が議論開始 税収格差是正など論点に",
    "region": "japan",
    "topics": [
@@ -687,7 +705,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "tradingview_live",
@@ -1691,8 +1709,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1705,7 +1723,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -7801,7 +7819,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Benchmark rate for banks' mortgage loans continues to rise",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmloZDlVZl8xaERON005QVozRHV2Z3Y4QVpUZ1N3QWZVSS1Ta3lPYkIycDZ6WVNDNW1yaE1DXy1Gcmd3YlB5R0xKaWE2WXZsS1BrUUVoQ3B0QVhIVDVPeFoxTUQ2UXlYUzRPSHVQeG9aZlIySldsN2FpaWdrelVWa2t3SzU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMU1XN0RBZjczU0c5aEJTOGpRMnJBQ2lldmJhcGE3R0p2T1FzcEFYTUJTX1A5WjI2alkxRFJ3Z3VVSVNtcVdSYWZMZFlPbElhZ0duNkwzOTlHQQ?oc=5",
    "published_utc": "2026-11-16T06:27:48+00:00",
    "title_original": "Benchmark rate for banks' mortgage loans continues to rise",
    "region": "korea",
@@ -7813,7 +7831,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9d2ad122cf7be1df"
+   "id": "aaf04f01b05f3af8"
   },
   {
    "source_id": "investing_live",
@@ -8226,6 +8244,23 @@
    "live_wire": false,
    "manual": false,
    "id": "328408acb83c5d75"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan's Nanya, Winbond adopt EUV, challenging South Korean DRAM dominance",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1owMjdkNHp0QURiWHM3aERyWjNremYybEJWUGFqUnVsZ0E5emdMVlVOSWlrUlJlSkM1emxZRVQxRVRjN2dJN1lyQ3R2dTlqcXZBUU1mdGlWNEhnYXZRSkxvYkhNY3Vwd2tSUVpGN25nM28xanAxZGxaVmZvNlVrMUUtX2hlbGFuemVNWQ?oc=5",
+   "published_utc": "2026-11-16T04:05:21+00:00",
+   "title_original": "Taiwan's Nanya, Winbond adopt EUV, challenging South Korean DRAM dominance",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c71cf3c3b4dd74c1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -9266,7 +9301,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -9277,7 +9312,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "350419b2852113c9"
+   "id": "5eecd2256cf4eacd"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -22495,6 +22530,23 @@
    "id": "3739150292063d06"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "UKSC highlights three UK semiconductor strengths for Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmVPdHV2bF9RaVNxXy1aWS1HUjJCNHZGS1B0TEpsRGJNczBOVWNNa3RPRlExVVpIenpMenhEUnB3RWxLSTlBZlh3SjN3R0RrRkJRODlRZnFMc1FCV0I3ZDF6bDZJOEV1YnhrU0VqV1hrbHprMkxzWTQ5eWZTRjN0dWVzZjQ4Tk5QM0ZOaF9HcTl3cTQ?oc=5",
+   "published_utc": "2026-11-09T08:00:00+00:00",
+   "title_original": "UKSC highlights three UK semiconductor strengths for Taiwan",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "799bb9b5e260d7a1"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "China inflation rate stays below 1% in October",
@@ -23049,23 +23101,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c1a779322595275c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "UKSC highlights three UK semiconductor strengths for Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmVPdHV2bF9RaVNxXy1aWS1HUjJCNHZGS1B0TEpsRGJNczBOVWNNa3RPRlExVVpIenpMenhEUnB3RWxLSTlBZlh3SjN3R0RrRkJRODlRZnFMc1FCV0I3ZDF6bDZJOEV1YnhrU0VqV1hrbHprMkxzWTQ5eWZTRjN0dWVzZjQ4Tk5QM0ZOaF9HcTl3cTQ?oc=5",
-   "published_utc": "2026-11-09T03:51:20+00:00",
-   "title_original": "UKSC highlights three UK semiconductor strengths for Taiwan",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "799bb9b5e260d7a1"
   },
   {
    "source_id": "nhk_economy",
@@ -51869,40 +51904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2032719bbc79b151"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EbDNRb2dMT1BJSy1QcU92Skw2TG84V0FkZGZWZlBhQ0tvdEtWT3NpUk56WlpoZ0FZY2xSWWo5Znk3UFpJSExFVzRZSC1rM2Zidkpv?oc=5",
-   "published_utc": "2026-10-26T08:03:23+00:00",
-   "title_original": "Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92ffa578cd7fddbd"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlTcEswcWctMHdHZEx2NThLdFlkcDR2N0ZXRVlJWVF4djFmMjBocnV1OEFYb2wyRXZ5NDB6Z2VVdFFIMkVVUl8yYUl3QWFhR0luUnlVdDlGLXl3MUZZaWhUSjgyLUNIY3FiUmtnbTA2TVNaakxyLU1zSGZRQnRVbmFXRHBDajNoTEdia0duRmZ3VFUza0hod1BLQXhJQVQ4MWkzdEpONGh2VmNpdjhjY21EbUoyek1tTGtjdF9QaXpYWVdiSWZOTA?oc=5",
-   "published_utc": "2026-10-26T07:43:08+00:00",
-   "title_original": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "266223d270130fa2"
   },
   {
    "source_id": "manual_ia",

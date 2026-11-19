@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T12:52:41.946045+00:00
+Última coleta: 2026-11-19T13:02:40.913231+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
-  🇨🇳 China          896
-  🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  768
+  🇨🇳 China          895
+  🇹🇼 Taiwan         322
+  🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
   - [japan] JT to post 1.3 trillion yen loss on Russian business
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The last Bank of Korea Monetary Policy Committee D-7 of the year... Interest rate hike weighs on inflation and
   - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
   - [korea] South Korean shares end higher as country joins $1 trillion export club
-  - [taiwan] Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T12:52:42+00:00",
+      "published_utc": "2026-11-19T13:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
