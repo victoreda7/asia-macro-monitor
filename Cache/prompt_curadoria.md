@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T20:22:43.457561+00:00
+Última coleta: 2026-11-19T20:32:49.477579+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1014
-  🇨🇳 China          909
-  🇹🇼 Taiwan         326
+  🇯🇵 Japão          1013
+  🇨🇳 China          911
+  🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  751
 
 ## O que já está no feed (não repita)
 
+  - [china] License information for AI chips sent to China released by US House committee
+  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
+  - [china] US approved sale of almost 900,000 AI chips to China in six months – commission
   - [china] US signed off on sales of nearly 900,000 AI chips to China in six months-committee
   - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
   - [china] US House of Representatives Committee releases information on licenses for AI chips sent to China
-  - [china] License information for AI chips sent to China released by US House committee
   - [china] Offshore yuan dip looks like a liquidity blip, not a trend shift
-  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [taiwan] TSMC and Samsung's China Chip Pause Has Stakes Beyond AI
   - [china] Canada's National Bank plans regular panda bond issuance as Ottawa-Beijing ties improve
   - [korea] Kinetiq: Bithumb Lists KNTQ for Spot Trading Against Korean Won - 19 Nov 2026
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan unlikely to be Trump-Xi-Putin topic 'from what we know': MAC
   - [korea] Another Big Step Loan in the US? The Bank of Korea’s dilemma of having to decide on interest rates first
   - [china] Trump begins historic trilateral talks with Xi, Putin in China
-  - [china] China's Moonshot AI Scraps $150 Million Deal To Access Nvidia Chips In Indonesia - The Information
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T20:22:43+00:00",
+      "published_utc": "2026-11-19T20:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

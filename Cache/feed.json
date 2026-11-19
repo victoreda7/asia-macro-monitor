@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T20:22:43.457561+00:00",
- "collected_at_utc": "2026-11-19T20:22:43.457561+00:00",
+ "generated_at_utc": "2026-11-19T20:32:49.477579+00:00",
+ "collected_at_utc": "2026-11-19T20:32:49.477579+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1014,
-  "china": 909,
-  "taiwan": 326,
+  "japan": 1013,
+  "china": 911,
+  "taiwan": 325,
   "korea": 751
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 35.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T20:07:10+00:00"
+   "newest": "2026-11-19T20:24:45+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T14:50:00+00:00"
+   "newest": "2026-11-19T13:47:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:59:24+00:00"
+   "newest": "2026-11-19T01:53:08+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T19:15:59+00:00"
+   "newest": "2026-11-19T20:07:57+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-19T20:05:44+00:00"
+   "newest": "2026-11-19T20:31:24+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T20:21:00+00:00"
+   "newest": "2026-11-19T20:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T05:00:00+09:00"
+   "newest": "2026-11-20T05:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,57 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "License information for AI chips sent to China released by US House committee",
+   "url": "https://www.investing.com/news/stock-market-news/license-information-for-ai-chips-sent-to-china-released-by-us-house-committee-5039850",
+   "published_utc": "2026-11-19T20:12:28+00:00",
+   "title_original": "License information for AI chips sent to China released by US House committee",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3e8e67999bed3574"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published_utc": "2026-11-19T20:07:57+00:00",
+   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19bf7167e379c22a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US approved sale of almost 900,000 AI chips to China in six months – commission",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N470173:0/",
+   "published_utc": "2026-11-19T19:59:55+00:00",
+   "title_original": "EUA aprovaram venda de quase 900 mil chips de IA para a China em seis meses — comissão",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "dd36565604715220"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -396,23 +447,6 @@
    "id": "5ad078728862d4ad"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "License information for AI chips sent to China released by US House committee",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4700WT:0-license-information-for-ai-chips-sent-to-china-released-by-us-house-committee/",
-   "published_utc": "2026-11-19T19:36:28+00:00",
-   "title_original": "License information for AI chips sent to China released by US House committee",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0789f31f3929cb67"
-  },
-  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Offshore yuan dip looks like a liquidity blip, not a trend shift",
@@ -428,23 +462,6 @@
    "live_wire": false,
    "manual": false,
    "id": "29b62838600bb533"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "published_utc": "2026-11-19T19:15:59+00:00",
-   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "19bf7167e379c22a"
   },
   {
    "source_id": "tradingview_live",
@@ -686,8 +703,8 @@
    "id": "555a351f9a7ae5dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -701,7 +718,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -1048,8 +1065,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1063,7 +1080,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "tradingview_live",
@@ -1914,8 +1931,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1928,7 +1945,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3782,6 +3799,24 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
+   "published_utc": "2026-11-18T03:02:45+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c4fd48fae3d5e92"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -3885,24 +3920,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
-   "published_utc": "2026-11-18T02:07:21+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -5173,24 +5190,6 @@
    "id": "819da848ba232bb9"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "网易新闻客户端",
-   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03NjZXUnJoLVY1R1ljWG9fa3B0bnU0Y2E0UnhKWTlvQlFrellacFllWTZZUjVxVktSR21Zdjg3V2ZjM3ppbm4yVS1Ld1otZmlFWVJyTjJuUExLRVct?oc=5",
-   "published_utc": "2026-11-17T13:41:00+00:00",
-   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "707bf33530c71622"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
@@ -5206,6 +5205,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b9cd217b45d1f01b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalBpOG5leTJ0LTdnMjQ5YWJNSEVsMzQ0eGlwemZ2NjQ4azVrQjQyOVFOR3VUMTdUQ2FrdV9FWGh1b0hzaUoxWkpWSmFKTl9uYXhKZk5YS19Ednd4WEFFSW9tYUZCSklvYnJqY01qUllSbzVrUDM4UFdFTUxlbVhRamJwa0tIajRFeERKSUY0cw?oc=5",
+   "published_utc": "2026-11-17T13:32:00+00:00",
+   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "91da37975e8dd297"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10488,23 +10505,6 @@
    "id": "bb076d70525a6a8e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqbjhUd2JIRUhkM0pQRGkzYWlPNlhDNUo3ZU1Talk3TUtZTXdmeV9vcWFiZUxET0x2RVpkVU5NRW5kVDc4R1lycy0xNUpQQ2lHR3BsRm50WXo?oc=5",
-   "published_utc": "2026-11-15T03:00:07+00:00",
-   "title_original": "今起生效！金融机构外汇存款准备金率提高至6%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ad38b1d80134e7c"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "비즈워치",
    "title_en": "Household loans increase again... Will the base interest rate be raised this month?",
@@ -10556,23 +10556,6 @@
    "id": "14991c770d3d07d2"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Increase to 6%! The central bank’s major adjustments officially take effect today",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNnU4WDBUT1lROU8xazRCdWMtelYxLUlBREN0V3hpSGotQjlYT19GRmxQUmxrWVRGeUxRMXBQcERXbTVrbXRibDllcVR6ckF4T1ljbWZPYkhScTI0LU5GOTJacw?oc=5",
-   "published_utc": "2026-11-15T02:00:15+00:00",
-   "title_original": "提高至6%！央行重大调整，今日正式生效",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a33bd841a9a17044"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "20% say they have seen or heard slander against the Ainu people, Cabinet Office poll",
@@ -10588,6 +10571,23 @@
    "live_wire": false,
    "manual": false,
    "id": "04e228190243999e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "Increase to 6%! The central bank’s major adjustments officially take effect today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnJkMWlWYlNCMndvNE82NGxGcmNIZWZwNHQ4VWluUDVzVFZEamxZN1JjODlUWlJWTVlQUW9fcFR1eTl4UUplYUloa3dEVm81Q0JZeFhKUWdWekltdm1NZi03c2k3MVFMdUVvMFhuN0Q1dTQzdGhIODlkWnQ4bDlqNDVudy00aElaRkVzeHF1WQ?oc=5",
+   "published_utc": "2026-11-15T01:52:37+00:00",
+   "title_original": "提高至6%！央行重大调整，今日正式生效",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ea0834f48c4002c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -10801,6 +10801,23 @@
    "id": "f201929d33fedf03"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiYmotMjYyeVR4UktvaHZpY0hGTVJBMC1TLXR5ck85NncxbkFVVkhjVTJLWnRGR1JIcXVPUllta3ZQYUVreWZiZGNQWVN5eWV0dUx1dkVn?oc=5",
+   "published_utc": "2026-11-14T10:51:00+00:00",
+   "title_original": "今起生效！金融机构外汇存款准备金率提高至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "104191c4bbd80857"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "National Secretary-General Shinba Consumption tax reduction bill Request acceptance of resident tax reduction",
@@ -11009,9 +11026,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "东方财富网",
    "title_en": "The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the downward trend of funding rates",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdlJzcVF0NUNzd1VucG1FLW9INm5uQVZtYjItSjY5U3Z1QjVvWjlXSzdTWWJ2ajVGYzVIQThhbzZhZVJaTndyQ29nV3dRNkhwUUZFdm94R3I0aTNJUnNXUUh6Z1VQdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMjJxRmQweTZWU0xTejRKLXZYQlBDNFNRV3lPeUlucHByeVFENWFFWDZ4dmhrYWw4dHBCUlVrbkdNRkFuVGFCVlRwcmJ3ZDhrNHRTR0NZaTljbEpIU29LZg?oc=5",
    "published_utc": "2026-11-14T03:06:40+00:00",
    "title_original": "央行缩量续作6个月期买断式逆回购 机构：遏制资金利率下行势头",
    "region": "china",
@@ -11022,7 +11039,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71cf3b72bd07dffa"
+   "id": "4fb5a23aa9509610"
   },
   {
    "source_id": "tradingview_live",
@@ -11737,6 +11754,23 @@
    "id": "bad7d9e96feed833"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国金融信息网",
+   "title_en": "664 billion! After the anchor change, the central bank conducted its first \"overnight + 7 days\" matching operation, what signal did it release - China Financial Information Network",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94LTNMdWhrU3JEZ1RxUXhUOWY1TkNLa25zb0FPU2xRRDEzY2hxd0YwTU40Rno4bFhWbjRLSm1hazZhcWlpWmxiWm1Fb1FsVXB5UGFFRk94UmphM2lLV1VIUzlHbWxLNGZSVGc?oc=5",
+   "published_utc": "2026-11-13T12:28:00+00:00",
+   "title_original": "6640亿！换锚后央行首次“隔夜+7天”搭配操作，释放何信号- 中国金融信息网",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f7cc360deb612a9a"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Interim results for three megabanks record high profits due to rising interest rates",
@@ -12257,7 +12291,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The increase in social financing exceeded 28 trillion! The latest release from the central bank shows that the proportion of bond and stock financing has increased",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EYVg2aDRuTmJWNmdpc0I2NlBwNTFWelhuUmVXdk90Zjl6RHF3ejI1Y2w5cUNaLURYWkJOdHZkcDVVcEs2NE96bl90LWFnbDdOcG93UlE0RXFMQUFocENERA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00NGlUX3ZWdlYzZU40WHFCdWlnNVN6MVZROWlEWU5HLTJnZHg4czB4M1JabUNZY1NJdHpRcktuR0IxR3dXUVhXbElrZWh6VnBqM09aR2VfNFVnTmxaQ0RQa29R?oc=5",
    "published_utc": "2026-11-13T09:21:16+00:00",
    "title_original": "社融增量超28万亿！央行最新发布，债券和股票融资占比提升",
    "region": "china",
@@ -12268,7 +12302,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9edd47e1230dad44"
+   "id": "e6a8bc30acde4fa4"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -12290,7 +12324,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "东方财富",
    "title_en": "Central Bank: Will launch 200 billion yuan buyout reverse repurchase operation on November 16",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzktVzBNV0NuZ0V2ZHZZSW5yVmhXaWlBRzMzWnB4OUIxVXlVcVNhU09hU2R1SmZzWmJYRW9uWWRGQzZsQ0djTDMxdXNxM2EtbVNiWXJhalljdkc5QlZBYnA4WVJfQ3M?oc=5",
    "published_utc": "2026-11-13T09:04:17+00:00",
@@ -51864,40 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "159043772875d9cf"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVVYanhFdEFGelExdHVxMlk2M2ZVd1BCUlRxLWhCSDR0ZXgtVTJ6aVppa3I2WUIxdHRFbmJweGNvMnVZc2N0RTNjcGF3WDlGYTBmUm92SHZEZ3Zta2VPemxGd3VmNGhpWTRCRVR5NHpDdXlrT3Y4NDZJbmdGNFU4Qi1YM0dHZnFMcjlPWDZ1OWloSmdycTJ6N3RZR2tQN0xYYnFKbUZvX3o3ZEU5X3F1RkV3RHVISTRyU09ZSTVuNW54aEQ2cF9B?oc=5",
-   "published_utc": "2026-10-26T09:11:36+00:00",
-   "title_original": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks By Reuters",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "288d93641279b630"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Asian stocks closed with mixed trends as the market awaits technology industry earnings reports and central bank decisions | Securities",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xejl2bTB4ZngwN3ZnRWxlb0g3UmhiQVlneXVzd2t5X3VWSlFfeGRwTS1WLXRUcjFCWFNoSmQ1U3BMZGZUTk5LY2JPX2J6SkQ5bEcwazdfZHlqUlFLeHc?oc=5",
-   "published_utc": "2026-10-26T09:04:00+00:00",
-   "title_original": "市場等待科技業財報與央行決策出爐亞股收盤走勢不一| 證券",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f20e5bcf5f19e10"
   },
   {
    "source_id": "manual_ia",
