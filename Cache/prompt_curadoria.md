@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T07:32:45.575734+00:00
+Última coleta: 2026-11-19T07:42:43.776638+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1030
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea Is Fourth Country to Hit $1 Trillion in Annual Exports, Trade Ministry Says
   - [korea] South Korea rides AI boom to new height as exports hit $1 trillion
   - [japan] Tokio Marine Holdings, Inc. - To Buy Back Up To 9.6% Of Shares Worth 280 Billion Yen
   - [korea] South Korea's 2026 Exports Have Topped $1 Trillion as of Thursday, Trade Ministry Says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] A 10% increase in the value of the won will reduce the cost of living per household by more than 160..
   - [japan] BOJ's Ueda Reaffirms Readiness to Keep Raising Rates
   - [korea] [Reporter Ki's Money Story⑪] Why is the loan interest rate rising even though the base interest rate remains t
-  - [taiwan] Lam Research's Taiwan R&D expansion targets faster chip development with TSMC
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T07:32:45+00:00",
+      "published_utc": "2026-11-19T07:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
