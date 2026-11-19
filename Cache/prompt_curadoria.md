@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T20:12:41.491593+00:00
+Última coleta: 2026-11-19T20:22:43.457561+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1014
-  🇨🇳 China          908
+  🇨🇳 China          909
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  752
+  🇰🇷 Coreia do Sul  751
 
 ## O que já está no feed (não repita)
 
+  - [china] US signed off on sales of nearly 900,000 AI chips to China in six months-committee
+  - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
   - [china] US House of Representatives Committee releases information on licenses for AI chips sent to China
   - [china] License information for AI chips sent to China released by US House committee
-  - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
   - [china] Offshore yuan dip looks like a liquidity blip, not a trend shift
   - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [taiwan] TSMC and Samsung's China Chip Pause Has Stakes Beyond AI
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Another Big Step Loan in the US? The Bank of Korea’s dilemma of having to decide on interest rates first
   - [china] Trump begins historic trilateral talks with Xi, Putin in China
   - [china] China's Moonshot AI Scraps $150 Million Deal To Access Nvidia Chips In Indonesia - The Information
-  - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T20:12:41+00:00",
+      "published_utc": "2026-11-19T20:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
