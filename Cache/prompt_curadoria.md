@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T12:22:42.991014+00:00
+Última coleta: 2026-11-19T12:33:56.691469+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1017
-  🇨🇳 China          897
-  🇹🇼 Taiwan         318
+  🇯🇵 Japão          1016
+  🇨🇳 China          896
+  🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
   - [japan] JT to post 1.3 trillion yen loss on Russian business
+  - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
   - [china] Trump suggests Nvidia's Blackwell chips could go to China later
   - [china] Indonesia defends a sinking rupiah as China reins in a rising yuan - IntelliNews Lambda
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
   - [korea] South Korean shares end higher as country joins $1 trillion export club
   - [taiwan] Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious 
-  - [korea] [Kim Yong-hoon’s Column] The mismatch between Korea-US monetary policies
-  - [korea] South Korea Is Fourth Country to Hit $1 Trillion in Annual Exports, Trade Ministry Says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T12:22:43+00:00",
+      "published_utc": "2026-11-19T12:33:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
