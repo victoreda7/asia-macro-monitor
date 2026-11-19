@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T07:52:43.073401+00:00
+Última coleta: 2026-11-19T08:03:47.051180+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
   - [korea] South Korean shares end higher as country joins $1 trillion export club
   - [taiwan] Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious 
   - [korea] [Kim Yong-hoon’s Column] The mismatch between Korea-US monetary policies
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Trump Suggests US Can Sell Blackwell Chips to China in Future
   - [japan] Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities
   - [china] China's yuan steady as Trump-Xi meeting in focus
-  - [korea] Apple seeks to lock in memory supply as Samsung, SK hynix gain leverage
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T07:52:43+00:00",
+      "published_utc": "2026-11-19T08:03:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
