@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T11:22:42.468543+00:00",
- "collected_at_utc": "2026-11-19T11:22:42.468543+00:00",
+ "generated_at_utc": "2026-11-19T11:33:11.150408+00:00",
+ "collected_at_utc": "2026-11-19T11:33:11.150408+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1019,
-  "china": 895,
+  "japan": 1018,
+  "china": 896,
   "taiwan": 318,
   "korea": 768
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 56.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T04:00:00+00:00"
+   "newest": "2026-11-19T10:13:14+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
    "newest": "2026-11-19T03:03:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T11:16:07+00:00"
+   "newest": "2026-11-19T11:21:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 31/08/2026",
-   "newest": "2026-08-31T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-11-19T09:52:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:53:08+00:00"
+   "newest": "2026-11-19T01:59:24+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T21:53:07+00:00"
+   "newest": "2026-11-19T09:17:18+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T11:22:15+00:00"
+   "newest": "2026-11-19T11:32:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-19T10:35:41+00:00"
+   "newest": "2026-11-19T11:29:30+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T05:38:26+00:00"
+   "newest": "2026-11-19T06:39:06+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T09:10:00+00:00"
+   "newest": "2026-11-19T10:23:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Trump suggests Nvidia's Blackwell chips could go to China later",
+   "url": "https://www.tradingview.com/news/seekingalpha:7dd2b7635094b:0-trump-suggests-nvidia-s-blackwell-chips-could-go-to-china-later/",
+   "published_utc": "2026-11-19T11:30:14+00:00",
+   "title_original": "Trump suggests Nvidia's Blackwell chips could go to China later",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f74f339931ac4833"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "bne Intellinews",
@@ -1639,23 +1656,6 @@
    "id": "f3db9badf43aecaf"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ's Ueda Reaffirms Readiness to Keep Raising Rates",
-   "url": "https://www.tradingview.com/news/DJN_DN20261118010162:0-boj-s-ueda-reaffirms-readiness-to-keep-raising-rates/",
-   "published_utc": "2026-11-19T02:58:00+00:00",
-   "title_original": "BOJ's Ueda Reaffirms Readiness to Keep Raising Rates",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2fd71d6d6a63d184"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "독립신문",
    "title_en": "[Reporter Ki's Money Story⑪] Why is the loan interest rate rising even though the base interest rate remains the same?",
@@ -2690,7 +2690,7 @@
    "id": "a88b6b7bd14fc612"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "South Korea says China trade agreement to boost tourism, entertainment sectors",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
@@ -2704,7 +2704,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "de660828d61b8ec3"
+   "id": "13020b769f45c3b1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3057,7 +3057,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -3069,7 +3069,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
