@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T07:42:43.776638+00:00",
- "collected_at_utc": "2026-11-19T07:42:43.776638+00:00",
+ "generated_at_utc": "2026-11-19T07:52:43.073401+00:00",
+ "collected_at_utc": "2026-11-19T07:52:43.073401+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1030,
-  "china": 899,
-  "taiwan": 313,
-  "korea": 758
+  "japan": 1029,
+  "china": 898,
+  "taiwan": 314,
+  "korea": 759
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T06:00:00+00:00"
+   "newest": "2026-11-19T05:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T07:23:13+00:00"
+   "newest": "2026-11-19T07:43:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T07:24:21+00:00"
+   "newest": "2026-11-19T07:42:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T05:00:03+00:00"
+   "newest": "2026-11-19T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T16:37:15+09:00"
+   "newest": "2026-11-19T16:41:53+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T16:39:53+09:00"
+   "newest": "2026-11-19T16:44:32+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T07:41:46+00:00"
+   "newest": "2026-11-19T07:51:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T05:07:11+00:00"
+   "newest": "2026-11-19T02:05:28+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,11 +339,63 @@
    "ok": true,
    "count": 27,
    "error": "",
-   "newest": "2026-11-19T02:48:40+00:00"
+   "newest": "2026-11-19T07:37:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares end higher as country joins $1 trillion export club",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4700BF:0-south-korean-shares-end-higher-as-country-joins-1-trillion-export-club/",
+   "published_utc": "2026-11-19T07:45:20+00:00",
+   "title_original": "South Korean shares end higher as country joins $1 trillion export club",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a2bf6c8291011b3a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious ahead of APEC summit",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4700BQ:0/",
+   "published_utc": "2026-11-19T07:45:06+00:00",
+   "title_original": "Onda de vendas em Taiwan leva ações asiáticas à menor cotação em sete meses; mercado cambial permanece cauteloso antes da cúpula da APEC",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "4ece410900881ede"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "아시아타임즈",
+   "title_en": "[Kim Yong-hoon’s Column] The mismatch between Korea-US monetary policies",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kcF96U21Xc1ZKZmx2azlhTzkzV0lPM3luTGxTMVJQZE0tLW12Tms5MFJ1Zk14aVoxQm9admRQY3Z6Qm5idGlsM3NwcG1UR2c3d01FeXEyY1cxQmVTa2c?oc=5",
+   "published_utc": "2026-11-19T07:37:00+00:00",
+   "title_original": "[김용훈 칼럼] 한·미 통화정책의 엇박자",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7de5433699655210"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -51843,58 +51895,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Major banks have increased their information protection budgets for next year significantly since th..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05ZWg2TmRVVnFLd2Z6VXcxRlFSbktrTXlIbDRvNENhZWxlTTRUdkRkWEhCQXgyN29WZ3dKTk0ydTZOSDRHMmk4QmNRNkZSLTBjSWc?oc=5",
-   "published_utc": "2026-10-26T02:02:13+00:00",
-   "title_original": "Major banks have increased their information protection budgets for next year significantly since th..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d4a3aa3b3df6303c"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
-   "published_utc": "2026-10-26T01:39:15+00:00",
-   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "909577cb78ba9d43"
   },
   {
    "source_id": "manual_ia",

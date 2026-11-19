@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T07:42:43.776638+00:00
+Última coleta: 2026-11-19T07:52:43.073401+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
-  🇨🇳 China          899
-  🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  758
+  🇯🇵 Japão          1029
+  🇨🇳 China          898
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean shares end higher as country joins $1 trillion export club
+  - [taiwan] Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious 
+  - [korea] [Kim Yong-hoon’s Column] The mismatch between Korea-US monetary policies
   - [korea] South Korea Is Fourth Country to Hit $1 Trillion in Annual Exports, Trade Ministry Says
   - [korea] South Korea rides AI boom to new height as exports hit $1 trillion
   - [japan] Tokio Marine Holdings, Inc. - To Buy Back Up To 9.6% Of Shares Worth 280 Billion Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities
   - [china] China's yuan steady as Trump-Xi meeting in focus
   - [korea] Apple seeks to lock in memory supply as Samsung, SK hynix gain leverage
-  - [korea] A 10% increase in the value of the won will reduce the cost of living per household by more than 160..
-  - [japan] BOJ's Ueda Reaffirms Readiness to Keep Raising Rates
-  - [korea] [Reporter Ki's Money Story⑪] Why is the loan interest rate rising even though the base interest rate remains t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T07:42:43+00:00",
+      "published_utc": "2026-11-19T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
