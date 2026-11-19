@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T14:42:42.509428+00:00",
- "collected_at_utc": "2026-11-19T14:42:42.509428+00:00",
+ "generated_at_utc": "2026-11-19T14:52:42.479393+00:00",
+ "collected_at_utc": "2026-11-19T14:52:42.479393+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1015,
+  "japan": 1016,
   "china": 898,
   "taiwan": 325,
-  "korea": 762
+  "korea": 761
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T23:12:37+09:00"
+   "newest": "2026-11-19T23:48:26+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:31:28+00:00"
+   "newest": "2026-11-19T14:47:04+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T14:41:34+00:00"
+   "newest": "2026-11-19T14:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T05:38:26+00:00"
+   "newest": "2026-11-19T06:39:06+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T10:23:00+00:00"
+   "newest": "2026-11-19T12:09:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meeting",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78721",
+   "published_utc": "2026-11-19T14:48:26+00:00",
+   "title_original": "高市首相 トランプ大統領から米中ロ首脳会談の説明受ける",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "98f39c7b2b76ddcc"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -377,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7a09b9324edee4c2"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published_utc": "2026-11-19T14:14:48+00:00",
+   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19bf7167e379c22a"
   },
   {
    "source_id": "nhk_politics",
@@ -448,8 +482,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -463,7 +497,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -810,8 +844,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -825,7 +859,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "tradingview_live",
@@ -1744,8 +1778,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1758,7 +1792,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2006,23 +2040,6 @@
    "id": "c66122963e137d60"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "published_utc": "2026-11-19T00:49:40+00:00",
-   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "19bf7167e379c22a"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Oil Imports Rebound as Beijing Turns Back to Stockpiling",
@@ -2208,6 +2225,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6f9d1f1e8c938658"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "nhk_politics",
@@ -2501,24 +2536,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -3558,24 +3575,6 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
-   "published_utc": "2026-11-18T03:02:45+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c4fd48fae3d5e92"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -3679,6 +3678,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
+   "published_utc": "2026-11-18T02:07:21+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51886,23 +51903,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2b1171d4adc753c5"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "AI chip surge lifts South Korea to record surplus, behind only China",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHcwaG1RQ0RTNzdYc0d6LVpQamYwRzh3ZDRVWC1EcG52cXBhRnZwRGhDSGVXeWVzVDkxbEhLRWRBV3plMUt3R0xFWGtCdkdSelI2MDRhSkU1WXhyamVGSTU2cEJlNTRJajNadmlsZ3htSTFhbjNJcVpPelBaUmpvLTZNY205aWR4SXBCaS12cTNhUTh2ckRLZHdRYjJJZm1OOGhPVTRySk1hRHplUjZwcGFkMGlUSnFkbElieW9B0gG-AUFVX3lxTFA4T2FCM0JIeVFnZlZBd3lKV0JUY1A3SERUajdTeTZvZGJ4cEVVSzJIVzBHNEptWEtRcF9LU21oOWJieTJqSG91TkctTXo1MG5mUHg5UTFycG40dWVkS1ZPcER3WURxQlZTQk4wY3ZzcDhsOW9EMVE4Zy0wZ1F5bEZ2dmZaU1dNQVlaaTY1YnhCTGsxanJnV0oyMUlsVVhiaFJxRkFvQUVhTHpTbzZwVUpmSlFRbWJFV3hlei1RblE?oc=5",
-   "published_utc": "2026-10-26T08:39:38+00:00",
-   "title_original": "AI chip surge lifts South Korea to record surplus, behind only China",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b2ff2daa99b47c6"
   },
   {
    "source_id": "manual_ia",

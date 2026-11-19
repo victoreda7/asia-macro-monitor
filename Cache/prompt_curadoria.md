@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T14:42:42.509428+00:00
+Última coleta: 2026-11-19T14:52:42.479393+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1015
+  🇯🇵 Japão          1016
   🇨🇳 China          898
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  762
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
   - [china] Nvidia Faces a New China Reality After Trump's Latest AI Chip Comments
+  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [china] The first U.S.-China-Russia summit in history, what are the major powers' intentions, and what will be the imp
   - [china] NetEase: CNY 27.9 billion in Q3 revenue, higher gross margin and expanding global game reach
   - [taiwan] TSMC and Samsung pause some chip shipments to China due to new US export rules: report
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve
   - [korea] One 10-Kilogram Box Worth 1 Billion Won ... Semiconductors Pack a 5,000-Pyeong Warehouse
   - [china] NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reac
-  - [japan] Defense spending "isn't just about the amount" Funding sources "consider fiscal sustainability" Prime Minister
-  - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T14:42:42+00:00",
+      "published_utc": "2026-11-19T14:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
