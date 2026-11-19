@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T02:42:41.431905+00:00",
- "collected_at_utc": "2026-11-19T02:42:41.431905+00:00",
+ "generated_at_utc": "2026-11-19T02:52:41.210349+00:00",
+ "collected_at_utc": "2026-11-19T02:52:41.210349+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1027,
-  "china": 913,
+  "japan": 1028,
+  "china": 912,
   "taiwan": 308,
   "korea": 752
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:42:00+00:00"
+   "newest": "2026-11-19T02:16:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T17:03:00+00:00"
+   "newest": "2026-11-17T18:21:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T04:21:21+00:00"
+   "newest": "2026-11-18T09:07:26+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 163,
+   "count": 164,
    "error": "",
    "newest": "2026-11-19T02:36:51+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T02:41:17+00:00"
+   "newest": "2026-11-19T02:51:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T07:18:18+00:00"
+   "newest": "2026-11-18T23:38:37+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T02:13:00+00:00"
+   "newest": "2026-11-18T08:15:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-19T11:00:00+09:00"
+   "newest": "2026-11-19T11:50:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ's Ueda Reaffirms Readiness to Keep Raising Rates",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118009853:0-boj-s-ueda-reaffirms-readiness-to-keep-raising-rates/",
+   "published_utc": "2026-11-19T02:43:00+00:00",
+   "title_original": "BOJ's Ueda Reaffirms Readiness to Keep Raising Rates",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8e06eabcd8e541ae"
+  },
   {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
@@ -1985,7 +2002,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "UBS Group Sees Yuan Rising to 6.25 in Most Bullish Market Call",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2hSQ1JJUG5PS1Q0VGZvOTd5Tmw0RWxqODZQWjNncktmU1ctTkdheGxEX0kyc0pBUGJMZ1JXUllQQmI1LU9vcVNRTEFRVG5YQWZNUHFQSUpVRXlOMUw0T1FsYXA2N0VzbXVLUFphQkp5RElaVTdkWl9BT21ON0lKMjd5Nkt4U1JPamVJX2ptYmp5QnNKMVRDNlR0bW1HLW1MUW1veFM3OGliV2pYdmFaTkJ5TQ?oc=5",
    "published_utc": "2026-11-18T04:01:00+00:00",
@@ -5927,8 +5944,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -5943,7 +5960,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -9177,10 +9194,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "新浪财经_金融信息服务商",
    "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Z0stdDkxUnBRek9LNmZXaktGTld6ek12UEZTRmVfeXRrUXBKMVcxcGdTY3NlV2hDRnV0clU4Sy1WcUFXRmttaG5BQUY2cWYwbHpWVmhOZnBPUFdwX1YzRXN1eHJQSHRGcE9Jc0ZSeHMyeXlXZ3VONw?oc=5",
-   "published_utc": "2026-11-14T05:03:45+00:00",
+   "published_utc": "2026-11-14T05:11:21+00:00",
    "title_original": "央行出手！2000亿元买断式逆回购来了",
    "region": "china",
    "topics": [
@@ -51884,23 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "389663777adc1955"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China’s tech giants are paying 1 million yuan for a new kind of AI engineer",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenFjdkc1ODFiS2NKVWdqbERCdzllX2R1R3ZVU1FLTHRZbUtsanJCZFR2YzFaOUVHamZjRnhOVHZQRU44T29kZDJwUkZVX09lSG5KMGR1Tnl5aGtmdG9YUFRzbTN2QXE0aWM1UUlQb0RLWW1abzM4TGRjb29WT04wYjRqb2h6bGVsTHVKaHZ3SWxOUXlZMEZSNVNKdmhKYU5IYlI1WFB1bWtMZl9OMGNSNndma0lNZG9IQW1N0gG7AUFVX3lxTFAxazkyRjhZS2tTNFFvUVRlRGxfUC1JeTY2bEVZanRydDFybjd4ZVd1RUFiU0YtcXU3N0dpWGJCa1hYb3dnYWgzdTR2cFVJbWhTYkVvZkVBSTIycWZJZ2hEc1hWS1VoaHg2aGxHb0dCSEFxVTVQQWZUbFVxZjRzbGNxNk1BM1RJU256eVp3VDV1TTVwWXNHWWxtVG5STGo0cDJEMmtqLVdCLTc4N196R2VyVkYxalVHLXRUTUk?oc=5",
-   "published_utc": "2026-10-25T06:00:20+00:00",
-   "title_original": "China’s tech giants are paying 1 million yuan for a new kind of AI engineer",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d915107833d2141"
   },
   {
    "source_id": "manual_ia",

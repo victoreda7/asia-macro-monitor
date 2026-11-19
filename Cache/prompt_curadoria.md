@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T02:42:41.431905+00:00
+Última coleta: 2026-11-19T02:52:41.210349+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          913
+  🇯🇵 Japão          1028
+  🇨🇳 China          912
   🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ's Ueda Reaffirms Readiness to Keep Raising Rates
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row By Investing.com
   - [japan] BOJ chief offers upbeat view on consumption despite recent weakness
   - [taiwan] Taiwan dollar weakens as Asian currencies largely muted
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.39, Implies 40% Upside
   - [taiwan] Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
-  - [china] Xi, Putin blast Western ’protectionism’ and sanctions as Trump lands in China By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T02:42:41+00:00",
+      "published_utc": "2026-11-19T02:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
