@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T03:32:41.448614+00:00
+Última coleta: 2026-11-19T03:42:41.168303+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
-  🇨🇳 China          911
+  🇯🇵 Japão          1029
+  🇨🇳 China          910
   🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  752
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] [Reporter Ki's Money Story⑪] Why is the loan interest rate rising even though the base interest rate remains t
   - [taiwan] Lam Research's Taiwan R&D expansion targets faster chip development with TSMC
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row By Investing.com
+  - [japan] BOJ chief plays down soft consumption data, signals near-term rate hike
   - [japan] BOJ chief offers upbeat view on consumption despite recent weakness
   - [taiwan] Taiwan dollar weakens as Asian currencies largely muted
   - [korea] Household debt of 2,030 trillion, home loan interest rate highest in 14 years... Vulnerable borrowers face dif
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Next year's tax reform: Issues such as correction of uneven distribution between Tokyo and regional areas Libe
   - [china] U.S.-China-Russia summit meeting: Ukraine's foreign minister ``It is impossible to make a decision without the
   - [korea] SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade
-  - [china] High-profile US-China summit Trilateral summit between the US, China and Russia to be held today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T03:32:41+00:00",
+      "published_utc": "2026-11-19T03:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
