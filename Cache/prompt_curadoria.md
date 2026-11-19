@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T16:12:41.648187+00:00
+Última coleta: 2026-11-19T16:22:43.123971+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
   - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
   - [japan] Prime Minister Takaichi held a press conference regarding his telephone conversation with US President Trump
@@ -40,7 +41,6 @@ Total: 3000 manchetes
   - [taiwan] Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux
   - [china] Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling
   - [taiwan] TSMC And Samsung Suspend Some Chip Shipments To Chinese Customers - FT
-  - [japan] Japan Tobacco to book 1.38 tril. yen loss over Russia asset seizure
   - [taiwan] Taiwan hopes to sign trade deal with Canada soon after Carney's remarks
   - [japan] In France, Le Pen's National Union unexpectedly emphasizes fiscal discipline...What will happen between the fa
   - [taiwan] Taiwan unlikely to be Trump-Xi-Putin topic 'from what we know': MAC
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T16:12:41+00:00",
+      "published_utc": "2026-11-19T16:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
