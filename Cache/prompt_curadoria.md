@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T08:32:52.405738+00:00
+Última coleta: 2026-11-19T08:35:04.843326+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
-  🇨🇳 China          898
+  🇨🇳 China          899
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  762
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reac
   - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
   - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan AI selloff: These chips and electronics stocks were the worst hit
   - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
   - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
-  - [taiwan] UBright eyes semiconductor, passive components and smart acoustics growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T08:32:52+00:00",
+      "published_utc": "2026-11-19T08:35:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
