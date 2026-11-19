@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T00:03:52.109143+00:00
+Última coleta: 2026-11-19T00:12:42.374666+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
-  🇨🇳 China          906
-  🇹🇼 Taiwan         310
+  🇨🇳 China          907
+  🇹🇼 Taiwan         309
   🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [korea] Samvardhana Motherson Says Cheongju District Court Approves Liquidation Of Subsidiary MSSL Korea WH
   - [china] The central bank launches 714 billion yuan overnight reverse repurchase operation
   - [china] 'All Chinese players' will rely on domestic chips eventually: Tencent
+  - [china] China’s first lady Peng Liyuan lets her English do the talking in Trump welcome
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 126.21, Implies 41% Upside
   - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 149% Upside
   - [china] Tencent Says US Chip Curbs to Slow Chinese AI in the Short Run
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda attends House of Councilors Finance Committee meeting on half-yearly report = Diet
   - [china] Chinese steel exports could hit 130 million tonnes in 2026, threaten Indian industry: T V Narendran
   - [china] Nvidia to Stop Selling Advanced AI Chips to China
-  - [china] Nvidia Makes Major China Decision After $2.4 Billion in AI Chip Sales
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T00:03:52+00:00",
+      "published_utc": "2026-11-19T00:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
