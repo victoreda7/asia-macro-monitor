@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T21:22:41.998579+00:00
+Última coleta: 2026-11-19T21:32:45.737540+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1014
-  🇨🇳 China          912
+  🇨🇳 China          911
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  748
+  🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
@@ -28,7 +28,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
   - [korea] At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..
   - [china] License information for AI chips sent to China released by US House committee
-  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [china] The US approved the sale of almost 900,000 AI chips to China in six months, the commission says
   - [china] US signed off on sales of nearly 900,000 AI chips to China in six months, committee says
   - [china] US signed off on sales of nearly 900,000 AI chips to China in six months-committee
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
   - [china] Trump suggests Nvidia's Blackwell chips could go to China later
+  - [china] Indonesia defends a sinking rupiah as China reins in a rising yuan - IntelliNews Lambda
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T21:22:42+00:00",
+      "published_utc": "2026-11-19T21:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
