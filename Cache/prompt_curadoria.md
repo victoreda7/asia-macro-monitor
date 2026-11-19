@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T08:22:47.877433+00:00
+Última coleta: 2026-11-19T08:32:52.405738+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1029
+  🇯🇵 Japão          1025
   🇨🇳 China          898
-  🇹🇼 Taiwan         314
-  🇰🇷 Coreia do Sul  759
+  🇹🇼 Taiwan         315
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
+  - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
+  - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
   - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
   - [korea] South Korean shares end higher as country joins $1 trillion export club
   - [taiwan] Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious 
@@ -29,6 +32,7 @@ Total: 3000 manchetes
   - [korea] South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says
   - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
   - [japan] Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations
+  - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
   - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
   - [japan] Developments in Real Exports and Real Imports
   - [china] [Updated from time to time] Trilateral summit meeting between the US, China and Russia to be held
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
   - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
   - [taiwan] UBright eyes semiconductor, passive components and smart acoustics growth
-  - [japan] BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update
-  - [china] Trump Suggests US Can Sell Blackwell Chips to China in Future
-  - [japan] Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities
-  - [china] China's yuan steady as Trump-Xi meeting in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T08:22:48+00:00",
+      "published_utc": "2026-11-19T08:32:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
