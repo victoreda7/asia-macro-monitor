@@ -7,18 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T17:03:27.985803+00:00
+Última coleta: 2026-11-19T17:12:44.115072+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
-  🇨🇳 China          900
+  🇨🇳 China          901
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  758
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
   - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
-  - [china] Alibaba accelerates pivot to in-house chips after reporting jump in sales
   - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
   - [japan] Prime Minister Takaichi held a press conference regarding his telephone conversation with US President Trump
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
@@ -37,6 +36,7 @@ Total: 3000 manchetes
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
   - [china] Trump suggests Nvidia's Blackwell chips could go to China later
   - [china] Indonesia defends a sinking rupiah as China reins in a rising yuan - IntelliNews Lambda
+  - [china] Alibaba accelerates pivot to in-house chips after reporting jump in sales
   - [china] China, Rússia e EUA planejam ampliar oferta de petróleo refinado e reafirmam importância de fluxos energéticos
   - [taiwan] Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux
   - [china] Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T17:03:28+00:00",
+      "published_utc": "2026-11-19T17:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
