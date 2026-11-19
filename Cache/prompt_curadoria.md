@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T06:12:43.432429+00:00
+Última coleta: 2026-11-19T06:23:06.091152+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi's press conference after the APEC Summit [currently being streamed live]
   - [korea] South Korea's exports top $1 trillion for first time on chip boom
-  - [japan] Prime Minister Takaichi attends the APEC Summit and holds a press conference after the meeting
   - [china] Bernstein names top China semiconductor equipment stocks
   - [korea] S. Korea's exports top US$1 tln for 1st time on strong chip demand
   - [korea] South Korea is the fourth country in the world to join the $1 trillion export club.According to the
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T06:12:43+00:00",
+      "published_utc": "2026-11-19T06:23:06+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
