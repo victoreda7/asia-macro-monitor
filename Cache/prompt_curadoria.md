@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T19:12:42.718869+00:00
+Última coleta: 2026-11-19T19:22:42.922534+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [taiwan] TSMC and Samsung's China Chip Pause Has Stakes Beyond AI
   - [china] Canada's National Bank plans regular panda bond issuance as Ottawa-Beijing ties improve
   - [korea] Kinetiq: Bithumb Lists KNTQ for Spot Trading Against Korean Won - 19 Nov 2026
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
   - [korea] Prices and growth rise together... Will the Bank of Korea further increase the base interest rate on the 26th?
   - [korea] How semiconductors powered South Korea’s $1tr export milestone
-  - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T19:12:42+00:00",
+      "published_utc": "2026-11-19T19:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
