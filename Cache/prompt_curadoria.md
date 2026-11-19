@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T23:12:42.053158+00:00
+Última coleta: 2026-11-19T23:22:43.038855+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
-  🇨🇳 China          914
+  🇨🇳 China          913
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [korea] ‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'
   - [china] US approved sale of almost 900,000 AI chips to China in six months
   - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
   - [china] Export of AI chips to China raises national security controversy. US House of Representatives releases approva
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [taiwan] TSMC acquires 0.03% stake in Anthropic for US$500 million
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
-  - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T23:12:42+00:00",
+      "published_utc": "2026-11-19T23:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
