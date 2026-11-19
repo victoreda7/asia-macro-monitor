@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T04:52:41.920838+00:00
+Última coleta: 2026-11-19T05:03:00.399322+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
-  🇨🇳 China          908
+  🇨🇳 China          907
   🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  752
+  🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
+  - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
   - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
   - [taiwan] UBright eyes semiconductor, passive components and smart acoustics growth
   - [china] [Local footage scheduled to be distributed] High-profile US-China summit meeting to be held later
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan to raise interest rates in December and again by end-March, economists say
   - [china] Citi CEO Fraser Stresses China Engagement Before Trump-Xi Talks
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
-  - [china] China using Trump-Xi 'stability' to build strategic edge, US panel warns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T04:52:42+00:00",
+      "published_utc": "2026-11-19T05:03:00+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
