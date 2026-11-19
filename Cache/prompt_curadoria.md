@@ -7,16 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T23:46:43.461369+00:00
+Última coleta: 2026-11-19T23:52:43.714423+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
-  🇨🇳 China          912
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  739
+  🇯🇵 Japão          1032
+  🇨🇳 China          907
+  🇹🇼 Taiwan         323
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN OCT CPI: SERVICES PRICES CATCHING UP WITH GOODS INFLATION AMID CONTINUED WAGE HIKES IN FISCAL 2026 BUT R
+  - [japan] JAPAN OCT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +1.9% VS. +2.0% IN SEPT; GOODS (EX-FRESH FOOD) +3.0% VS. +
+  - [japan] JAPAN OCT CORE-CORE CPI +2.2% Y/Y; SEPT +2.4%
+  - [japan] MNI JAPAN OCT CORE CPI +2.2% Y/Y; SEPT +2.1%
+  - [japan] JAPAN OCT CPI: ENERGY PRICES +2.2% Y/Y (+0.16 POINT) VS. -0.6% (-0.04 PT) IN SEPT
+  - [japan] Japan CPI inflation rises in Oct, core print slightly misses estimates
+  - [japan] JAPAN OCT CPI: PROCESSED FOOD +2.2% (+0.53 POINT CONTRIBUTION) VS. +2.9% (+0.69 PT) IN SEPT
+  - [japan] JAPAN OCT CPI ANNUAL RATE ACCELERATES SLIGHTLY ALSO ON HIGHER MOBILE PHONE PRICES AMID WEAK YEN, RISE IN HOTEL
   - [japan] Japan Consumer Inflation Accelerates Amid Rate-Hike Views
   - [japan] Japan Oct core CPI rises 2.2% yr/yr
   - [japan] JAPAN OCT INFLATION EDGES UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS, LEADING OVERALL ENERGY COS
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [china] US signed off on sales of nearly 900,000 AI chips to China in six months-committee
   - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
   - [china] US House of Representatives Committee releases information on licenses for AI chips sent to China
-  - [china] Offshore yuan dip looks like a liquidity blip, not a trend shift
-  - [taiwan] TSMC and Samsung's China Chip Pause Has Stakes Beyond AI
-  - [china] Canada's National Bank plans regular panda bond issuance as Ottawa-Beijing ties improve
-  - [korea] Kinetiq: Bithumb Lists KNTQ for Spot Trading Against Korean Won - 19 Nov 2026
-  - [china] DeepSeek Closes 100 Billion Yuan Funding Round
-  - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
-  - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
-  - [japan] Prime Minister Takaichi held a press conference regarding his telephone conversation with US President Trump
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T23:46:43+00:00",
+      "published_utc": "2026-11-19T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
