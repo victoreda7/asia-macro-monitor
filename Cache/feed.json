@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T17:52:41.981642+00:00",
- "collected_at_utc": "2026-11-19T17:52:41.981642+00:00",
+ "generated_at_utc": "2026-11-19T18:03:51.208679+00:00",
+ "collected_at_utc": "2026-11-19T18:03:51.208679+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1017,
-  "china": 902,
+  "china": 903,
   "taiwan": 325,
-  "korea": 756
+  "korea": 755
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 97.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T17:43:56+00:00"
+   "newest": "2026-11-19T17:55:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T17:30:35+00:00"
+   "newest": "2026-11-19T17:55:14+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-11-19T17:35:12+00:00"
+   "error": "parada desde 31/08/2026",
+   "newest": "2026-08-31T07:00:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:11:34+00:00"
+   "newest": "2026-11-19T12:12:11+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T17:01:59+00:00"
+   "newest": "2026-11-19T14:47:04+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:00:22+00:00"
+   "newest": "2026-11-19T10:35:04+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T17:51:29+00:00"
+   "newest": "2026-11-19T18:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:13:48+00:00"
+   "newest": "2026-11-19T14:25:18+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -345,21 +345,21 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "published_utc": "2026-11-19T17:01:59+00:00",
-   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "region": "china",
+   "source_id": "tradingview_live",
+   "source_name": "CoinMarketCal",
+   "title_en": "Kinetiq: Bithumb Lists KNTQ for Spot Trading Against Korean Won - 19 Nov 2026",
+   "url": "https://www.tradingview.com/news/coinmarketcal:778afe59f094b:0-kinetiq-bithumb-lists-kntq-for-spot-trading-against-korean-won-19-nov-2026/",
+   "published_utc": "2026-11-19T18:00:09+00:00",
+   "title_original": "Kinetiq: Bithumb Lists KNTQ for Spot Trading Against Korean Won - 19 Nov 2026",
+   "region": "korea",
    "topics": [
-    "trade"
+    "fx"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": false,
+   "live_wire": true,
    "manual": false,
-   "id": "19bf7167e379c22a"
+   "id": "e12273cf9a3e06e1"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -1727,23 +1727,6 @@
    "id": "1900659deb5c2d3f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46106C:0-south-korea-2026-exports-hit-1-trillion-milestone-yonhap-citing-trade-ministry/",
-   "published_utc": "2026-11-19T05:32:52+00:00",
-   "title_original": "South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "298d44b08ab84d1e"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "South Korea is the fourth country in the world to join the $1 trillion export club. It is the first",
@@ -2106,6 +2089,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c66122963e137d60"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published_utc": "2026-11-19T00:48:59+00:00",
+   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19bf7167e379c22a"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2881,6 +2881,24 @@
    "id": "1fec2c66ce761455"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机网易网",
+   "title_en": "The central bank takes action! Launched 700.2 billion yuan overnight reverse repurchase",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSllEYktXYy1iUzRnX0s4WXVUVWx4NV9TN2V0WXlqOFRyaW1EQnB0R0MzR3c3aTZwc3JaTzRiQ0V1TEhJandwbXgwcjdBWDRVT0t3N3N6cUF6S1k5VmpkTW9R?oc=5",
+   "published_utc": "2026-11-18T11:08:02+00:00",
+   "title_original": "央行出手！开展7002亿元隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8193c4d584312776"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "AFP",
    "title_en": "Nvidia stops shipping \"Hopper\" AI chips to China",
@@ -3227,8 +3245,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더퍼블릭",
    "title_en": "Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook for a hike is also favorable.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MNIBb0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MA?oc=5",
-   "published_utc": "2026-11-18T07:11:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QV9hc2o2eElHWUFHbGhLdi03emNNYVl3OVhwRmdYQmsyMk1PcEtzaS1pOFFMaUplRTVLOTlJRkx5Q2tseG9ZQXpfTUdiQjM1ekNUcWJ5ZUJMY3ZrSldDcDRPSjVXSU5mVGRN0gFvQVVfeXFMT1Bha1BtMDRGS2VGdDFuUHlXdjVSZlZwYUdhZW1zTURyMEZNZHdPcUl4Qk5oOXlkWkJNbVhEcVpaeERYSk85cjdiam1HSmZ1UXlUaFhFc1dVTUYxNVV1N09nYlJSXzd1UUMxOTlkQTUw?oc=5",
+   "published_utc": "2026-11-18T07:07:05+00:00",
    "title_original": "한은, 이달 기준금리 또 올리나…美 연준도 인상 전망 '우세'",
    "region": "korea",
    "topics": [
@@ -3238,7 +3256,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "db5a2c2bb9e1ae86"
+   "id": "9883c1e475e793e0"
   },
   {
    "source_id": "nhk_politics",
@@ -51883,24 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b3115025e6465e7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합인포맥스",
-   "title_en": "Bang Hong-ki appointed as Director of Monetary Policy at the Bank of Korea... International Cooperation Director Kang Nam-i |",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GcHlHMFFPNEhrbld5ZGpibUxReVliM0xMa2ZWTm5HNjNmaURWX3IydW1vdEhMYTJ5cTZtaVpXd000N1NadXpKZERkbG4zdkh1NURsWnJOb3F6WVZCQ0dsdVdwOGVMalRBRFQ4c3RlNFFGdUtG?oc=5",
-   "published_utc": "2026-10-26T08:48:33+00:00",
-   "title_original": "한은 통화정책국장에 방홍기…국제협력국장 강남이 |",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "80f4497e2835c14c"
   },
   {
    "source_id": "manual_ia",
