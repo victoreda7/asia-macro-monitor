@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T02:32:59.797383+00:00
+Última coleta: 2026-11-19T02:42:41.431905+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
-  🇨🇳 China          912
+  🇨🇳 China          913
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
@@ -45,6 +45,7 @@ Total: 3000 manchetes
   - [china] Citi CEO Fraser Stresses China Engagement Before Trump-Xi Talks
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
   - [china] China using Trump-Xi 'stability' to build strategic edge, US panel warns
+  - [china] Sign of the times? How China is quietly shifting global trade onto yuan payments
   - [japan] Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 ye
   - [japan] Japan developer Hulic casts wide M&A net, from cram schools to bananas
   - [japan] Is there a way out for the food service industry, which is facing headwinds if the food tax is cut? The differ
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Nvidia, Micron and TSMC Face a Massive Wave of Bearish Bets
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [china] Xi, Putin blast Western ’protectionism’ and sanctions as Trump lands in China By Reuters
-  - [china] China increases sugar production and should reduce imports in the new harvest, predicts StoneX
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T02:32:59+00:00",
+      "published_utc": "2026-11-19T02:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
