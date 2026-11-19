@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T02:02:42.691786+00:00
+Última coleta: 2026-11-19T02:12:41.040538+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1028
@@ -19,11 +19,11 @@ Total: 3000 manchetes
 
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
   - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
-  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
   - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118
+  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [japan] Financial environment is accommodative, interest rates will continue to rise depending on economic, price and 
   - [china] The central bank launched a 767.5 billion yuan overnight reverse repurchase operation today
   - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T02:02:42+00:00",
+      "published_utc": "2026-11-19T02:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
