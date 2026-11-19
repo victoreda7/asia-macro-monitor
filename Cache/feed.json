@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T06:52:44.565489+00:00",
- "collected_at_utc": "2026-11-19T06:52:44.565489+00:00",
+ "generated_at_utc": "2026-11-19T07:02:50.275987+00:00",
+ "collected_at_utc": "2026-11-19T07:02:50.275987+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1026,
+  "japan": 1027,
   "china": 904,
   "taiwan": 313,
-  "korea": 757
+  "korea": 756
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 46,
    "error": "",
-   "newest": "2026-11-19T10:13:00+09:00"
+   "newest": "2026-11-19T16:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-17T18:21:00+00:00"
+   "newest": "2026-11-19T06:55:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T06:42:21+00:00"
+   "newest": "2026-11-19T06:55:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T15:47:27+09:00"
+   "newest": "2026-11-19T15:59:37+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T15:48:48+09:00"
+   "newest": "2026-11-19T15:48:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T21:09:00+00:00"
+   "newest": "2026-11-18T14:31:53+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T06:51:47+00:00"
+   "newest": "2026-11-19T07:02:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,12 +345,29 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Developments in Real Exports and Real Imports",
+   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "published_utc": "2026-11-19T07:00:00+00:00",
+   "title_original": "Developments in Real Exports and Real Imports",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "660ca9ffa7c57e97"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
-   "title_en": "US-China summit meeting ends",
+   "title_en": "[Breaking news] US-China summit ends; did they exchange opinions on trade, AI, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78419",
-   "published_utc": "2026-11-19T06:42:14+00:00",
-   "title_original": "米中首脳会談 終わる",
+   "published_utc": "2026-11-19T06:59:37+00:00",
+   "title_original": "【速報中】米中首脳会談終わる 貿易やAIなど意見を交わしたか",
    "region": "china",
    "topics": [
     "trade",
@@ -360,7 +377,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ea5133aba038439a"
+   "id": "7ac9a0e7fe93e2c3"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -776,8 +793,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -790,7 +807,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "tradingview_live",
@@ -2328,7 +2345,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -2340,7 +2357,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51884,23 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba688462b170c6ab"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Korean won's nominal effective rate rises to 2-yr high",
-   "url": "https://www.koreaherald.com/article/10914244",
-   "published_utc": "2026-10-25T23:55:37+00:00",
-   "title_original": "Korean won's nominal effective rate rises to 2-yr high",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "96a230cb93836ef0"
   },
   {
    "source_id": "manual_ia",

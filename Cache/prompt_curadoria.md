@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T06:52:44.565489+00:00
+Última coleta: 2026-11-19T07:02:50.275987+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
+  🇯🇵 Japão          1027
   🇨🇳 China          904
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  757
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
-  - [china] US-China summit meeting ends
+  - [japan] Developments in Real Exports and Real Imports
+  - [china] [Breaking news] US-China summit ends; did they exchange opinions on trade, AI, etc.
   - [korea] (LEAD) S. Korea's exports top US$1 tln for 1st time on strong chip demand
   - [taiwan] Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down
   - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Household debt of 2,030 trillion, home loan interest rate highest in 14 years... Vulnerable borrowers face dif
   - [japan] BOJ chief rules out further tweaks to pace of ETF sales
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
-  - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T06:52:44+00:00",
+      "published_utc": "2026-11-19T07:02:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
