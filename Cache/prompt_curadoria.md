@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T10:42:45.943644+00:00
+Última coleta: 2026-11-19T10:52:57.229923+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
+  🇯🇵 Japão          1021
   🇨🇳 China          893
-  🇹🇼 Taiwan         317
+  🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux
+  - [china] Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling
   - [taiwan] TSMC And Samsung Suspend Some Chip Shipments To Chinese Customers - FT
   - [japan] Japan Tobacco to book 1.38 tril. yen loss over Russia asset seizure
   - [taiwan] Taiwan hopes to sign trade deal with Canada soon after Carney's remarks
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's 2026 Exports Have Topped $1 Trillion as of Thursday, Trade Ministry Says
   - [korea] ② In the era of 1,200 trillion won in debt, the interest rate on mortgage loans rises... both borrowers and ba
   - [korea] Mh Materials Announces Disposal Of Real Estate Worth 10.7 Billion Won
-  - [korea] South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says
-  - [japan] Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T10:42:46+00:00",
+      "published_utc": "2026-11-19T10:52:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T10:42:45.943644+00:00",
- "collected_at_utc": "2026-11-19T10:42:45.943644+00:00",
+ "generated_at_utc": "2026-11-19T10:52:57.229923+00:00",
+ "collected_at_utc": "2026-11-19T10:52:57.229923+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1022,
+  "japan": 1021,
   "china": 893,
-  "taiwan": 317,
+  "taiwan": 318,
   "korea": 768
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 43.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T09:43:00+00:00"
+   "newest": "2026-11-19T10:39:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T19:07:46+09:00"
+   "newest": "2026-11-19T19:41:57+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T19:05:21+09:00"
+   "newest": "2026-11-19T19:49:37+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T10:40:53+00:00"
+   "newest": "2026-11-19T10:52:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-19T09:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux",
+   "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-tells-trump-to-do-right-thing-on-taiwan-as-trade-truce-remains-in-flux",
+   "published_utc": "2026-11-19T10:52:56.238925+00:00",
+   "title_original": "Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0790deafc665eae8"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ21HUjN1QmE2U2ZZZWplYWRjYlhlLS1aWm04MGJ5NFdvZGlja3dldTQzb1NBRjJHdmpadW9XTUtDdWtBRGE4bW4ydzBpMmk0azNWV192YnQyN1hZS2FFcFpicXF0MWxOYk9IcXpjdkJYbk9tTGg5Umk5SEU5R3RudUVjVzYyaHJKNUNrNm0tV3FoejR3bXdaOFZ3bXVUSkxUdWlOeUZaZTNZcU5YUWRxSXZlRTF4ekZEdUZFelFnQzRVV2o0LUE?oc=5",
+   "published_utc": "2026-11-19T10:39:00+00:00",
+   "title_original": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "25f457c638af75e5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -482,8 +516,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -497,7 +531,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "tradingview_live",
@@ -517,8 +551,8 @@
    "id": "40099a0e6697d5cb"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T09:03:01+00:00",
@@ -532,7 +566,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "tradingview_live",
@@ -1502,8 +1536,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1516,7 +1550,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "tradingview_live",
@@ -51870,41 +51904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "74d0cbe89a672609"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ may pause, but rate hike possible this year | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qTzdLaVlLbWNWTkF2djRZZjU3dTJRbU1OdGVfOU9xaUtXRWdFWC0wd3JaY1pReGd4M1g0Mm9XeEZ4X0VLVXhNN1FkMW5uUDdPOVRTYzJDNWNCbEVWRkpIanpyYTBzelVYOVZQbzV3?oc=5",
-   "published_utc": "2026-10-26T07:00:00+00:00",
-   "title_original": "BOJ may pause, but rate hike possible this year | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e1a73ce73154c7a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "MLF net withdrawal of 200 billion yuan in October",
-   "url": "https://news.google.com/rss/articles/CBMioAhBVV95cUxNYV81MFhCU1c3Q1pLeVpRZF9mUzRKSnBMRFJRcTNBSmsyUXVBemZiU252M0VKVTM5RnhoWFlhNVJGM1QtejJjZ3VRUldQakVqbGxyUVd6a3kxWHU5UEJYMU5pcTk1SGl3cm5ZNUJBSFlPWUUzeXA5Z0JrMlF0TzJYcGEyVHBfOUU5VzJBLXZOTi1EbzdJams5R1lJTEJYRFlqd1dicEF3OEJZSEpBaGYxVGczaVVhdHROUkRhLWJ5VS1YRFdrcmlFZlItMHNBUm8wR2JIV3RmUFdXVzZWLTVOSEU0SlRTTnBKakQ1UnpzRWpTU2lLWmxjbHZlbWU1Z1ZkYVNHUU1NVGxJazI1ejRHMDczQ1FuaFI3VFp1UlN2YXNFWjRDVy1VTUtUNVdZRTBHY3hNc19YdTMwVU16NHNVY2hud05WaFZPcXJXN3dMQUdhX1BlbkxuVndjc293blRXQTVaZmdPTWhnTm9XMmlfcFhpRTU3eHdNbjVONXhWaEQ2RTY0dk1VMzZYcnFXeXlacFZaWFJGSGQ2WEIyRXoyQTJ5MEFVOHJWeTlCakVseHVPVUJxQmU1b0lnNlVKeDZNTUxPMDhfUHdmTU1MTFN3TlMxWXNTbk9UNnd6aTltWW9mZEdvaWlydnNUcmdYR3BnVXRDMVA2QkF1OWNHWDhRUm1wcDFnY3V2RFM0NHZMTVlTaVlSMXB3V05FQVhiU1BselpSMkExS1F5bzFXci13eWlTcTdOS05WRTRpX0tmb3ZDOEpmaVpUUV9VVVZRbUkzb3ZCM0pwZS05b0Z5X0NCSF9CbVV0bkJ5bkVrUXFjcHZTV2ZmY01Lc0ZWdU93aGFXWnlnVm14Sm1rOEpET25jMU1xVzFKRG1DV2VQNXZJU0Zua2NReDFjdkdJTjU3b1N1NU1Hc1hHdGg3bVRLaWNBLVFPWDRFa0lreWRFYnhIUHV0RENqTlZiZURWZlR2RzRmY1lSME5YUmVUWWpSc0haSGJ4akZjeG5DUjN0SkJFQndvbVZSUXV4Y2RKY2NzRWJYSDYwclZhSUFvXy01bnI2Q0Qza0h2NWFhQTRxdjN4WWs0TE5DbjdBRU85SmpSNjh2QzV5aWtlc2l0LWNqZ1RSOHZQWnRSbHNza2tHRTVUZzlVSDB5MEJJYkp0cTRGV1dWQzg1N1lHeGVmU3BrTEl3N0w2SGVnXzZhVVYzeTRpYU5RR0o4Y3B4MnNlUEdJd0t4SjRBWEJZQkhhYV9CRFNWRW1GU193T01QNy1PRWF5VFVocHQ5OXQ3Z3djQm5yUmo4S2hoRnVUSHhJUFp5Tkd3RkptSW5XbTBWTDU0MUJCYmFSanpVeDdxV0xfLWlqWjdndHRnUllubVBQZmViUUFWOEc1R0NRc051dk5TZmp4M1Y?oc=5",
-   "published_utc": "2026-10-26T07:00:00+00:00",
-   "title_original": "10月MLF净回笼2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e81e0fdbd45e2ea"
   },
   {
    "source_id": "manual_ia",
