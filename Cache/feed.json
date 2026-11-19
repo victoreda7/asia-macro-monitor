@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T10:52:57.229923+00:00",
- "collected_at_utc": "2026-11-19T10:52:57.229923+00:00",
+ "generated_at_utc": "2026-11-19T11:04:55.178204+00:00",
+ "collected_at_utc": "2026-11-19T11:04:55.178204+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1021,
-  "china": 893,
+  "japan": 1020,
+  "china": 894,
   "taiwan": 318,
   "korea": 768
  },
- "elapsed_s": 43.1,
+ "elapsed_s": 163.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T05:01:23+00:00"
+   "newest": "2026-11-19T07:53:51+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
    "newest": "2026-11-19T03:03:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T10:33:39+00:00"
+   "newest": "2026-11-19T10:54:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T10:31:42+00:00"
+   "newest": "2026-11-19T10:50:36+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T19:41:57+09:00"
+   "newest": "2026-11-19T19:55:36+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T19:49:37+09:00"
+   "newest": "2026-11-19T19:51:47+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:59:24+00:00"
+   "newest": "2026-11-19T01:53:08+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T10:52:24+00:00"
+   "newest": "2026-11-19T11:03:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T18:35:30+00:00"
+   "newest": "2026-11-19T10:54:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China, Rússia e EUA planejam ampliar oferta de petróleo refinado e reafirmam importância de fluxos energéticos estáveis",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4700GF:0/",
+   "published_utc": "2026-11-19T10:53:41+00:00",
+   "title_original": "China, Rússia e EUA planejam ampliar oferta de petróleo refinado e reafirmam importância de fluxos energéticos estáveis",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7fa0e09c59371a0a"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -516,8 +533,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -531,7 +548,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "tradingview_live",
@@ -551,8 +568,8 @@
    "id": "40099a0e6697d5cb"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T09:03:01+00:00",
@@ -566,7 +583,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "tradingview_live",
@@ -1536,8 +1553,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1550,7 +1567,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "tradingview_live",
@@ -1689,24 +1706,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1bbad3ba65c62254"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ chief offers upbeat view on consumption despite recent weakness",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47002I:0-boj-chief-offers-upbeat-view-on-consumption-despite-recent-weakness/",
-   "published_utc": "2026-11-19T02:18:19+00:00",
-   "title_original": "BOJ chief offers upbeat view on consumption despite recent weakness",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "267fa08d85e6b74c"
   },
   {
    "source_id": "gn_kr_bok",
