@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-19T14:03:00.068741+00:00",
- "collected_at_utc": "2026-11-19T14:03:00.068741+00:00",
+ "generated_at_utc": "2026-11-19T14:12:48.551110+00:00",
+ "collected_at_utc": "2026-11-19T14:12:48.551110+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 326,
   "korea": 764
  },
- "elapsed_s": 47.5,
+ "elapsed_s": 28.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:24:29+00:00"
+   "newest": "2026-11-19T13:05:49+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 165,
    "error": "",
-   "newest": "2026-11-19T13:55:38+00:00"
+   "newest": "2026-11-19T14:06:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -3523,6 +3523,24 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
+   "published_utc": "2026-11-18T03:02:45+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c4fd48fae3d5e92"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -3626,24 +3644,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
-   "published_utc": "2026-11-18T02:07:21+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -38777,6 +38777,23 @@
    "id": "a2c8ae0e3f78a6ba"
   },
   {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Q3 GDP growth hits 14.36%, highest in 48 years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaWURtWXNEVmlYM1JhZmNHQ2h1WGJ3empuMmZCRkZ1cnRvVDRkMkkxNHItUGphMldGZFhpcGxLTWF0bEVkYWpsREFSZnAtSFJ6WDdzRXdNSlJ0dUs2SVdxUmFyN3h0aXVGSEF3SGpiaGhzMk9MeWc?oc=5",
+   "published_utc": "2026-10-31T07:00:00+00:00",
+   "title_original": "Q3 GDP growth hits 14.36%, highest in 48 years",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2ba3b39b86f6cf62"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
@@ -39621,23 +39638,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4798e5a925cfa31e"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Q3 GDP growth hits 14.36%, highest in 48 years",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaWURtWXNEVmlYM1JhZmNHQ2h1WGJ3empuMmZCRkZ1cnRvVDRkMkkxNHItUGphMldGZFhpcGxLTWF0bEVkYWpsREFSZnAtSFJ6WDdzRXdNSlJ0dUs2SVdxUmFyN3h0aXVGSEF3SGpiaGhzMk9MeWc?oc=5",
-   "published_utc": "2026-10-30T16:00:00+00:00",
-   "title_original": "Q3 GDP growth hits 14.36%, highest in 48 years",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ba3b39b86f6cf62"
   },
   {
    "source_id": "gn_cn_pboc",
