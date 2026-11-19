@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-19T18:33:02.057190+00:00",
- "collected_at_utc": "2026-11-19T18:33:02.057190+00:00",
+ "generated_at_utc": "2026-11-19T18:42:48.542408+00:00",
+ "collected_at_utc": "2026-11-19T18:42:48.542408+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 325,
   "korea": 754
  },
- "elapsed_s": 46.7,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T18:19:01+00:00"
+   "newest": "2026-11-19T18:30:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T18:12:28+00:00"
+   "newest": "2026-11-19T18:36:56+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T09:35:41+00:00"
+   "newest": "2026-11-19T13:34:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T02:33:24+09:00"
+   "newest": "2026-11-20T03:39:48+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T18:24:37+00:00"
+   "newest": "2026-11-19T18:32:39+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T18:24:37+00:00"
+   "newest": "2026-11-19T18:32:39+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T18:32:23+00:00"
+   "newest": "2026-11-19T18:41:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:13:48+00:00"
+   "newest": "2026-11-19T14:25:18+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T16:33:45+00:00"
+   "newest": "2026-11-19T12:56:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -550,8 +550,25 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "JT to post 1.3 trillion yen loss on Russian business",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0MVFUZi05V2E3RlJXVTdwTGZSQ2h0eHI0V3c5SUU0SzZ1Z2k3Vy1wV001elIxektlTnF6eHM4U3JWVzRCZERKeFlSVUlUYnhYajhVeEw0VmhvT3BMZm9jVm9jcw?oc=5",
+   "published_utc": "2026-11-19T13:34:41+00:00",
+   "title_original": "JT to post 1.3 trillion yen loss on Russian business",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "555a351f9a7ae5dc"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -565,7 +582,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -895,8 +912,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -910,24 +927,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "JT to post 1.3 trillion yen loss on Russian business",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0MVFUZi05V2E3RlJXVTdwTGZSQ2h0eHI0V3c5SUU0SzZ1Z2k3Vy1wV001elIxektlTnF6eHM4U3JWVzRCZERKeFlSVUlUYnhYajhVeEw0VmhvT3BMZm9jVm9jcw?oc=5",
-   "published_utc": "2026-11-19T09:35:41+00:00",
-   "title_original": "JT to post 1.3 trillion yen loss on Russian business",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "555a351f9a7ae5dc"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "tradingview_live",
@@ -1604,6 +1604,24 @@
    "id": "0613c54adfde03da"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
+   "published_utc": "2026-11-19T06:29:00+00:00",
+   "title_original": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "01a35b1f23931372"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's press conference after the APEC Summit [currently being streamed live]",
@@ -1828,8 +1846,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1842,7 +1860,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3333,7 +3351,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -3345,7 +3363,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -10887,9 +10905,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "东方财富网",
    "title_en": "The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the downward trend of funding rates",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdlJzcVF0NUNzd1VucG1FLW9INm5uQVZtYjItSjY5U3Z1QjVvWjlXSzdTWWJ2ajVGYzVIQThhbzZhZVJaTndyQ29nV3dRNkhwUUZFdm94R3I0aTNJUnNXUUh6Z1VQdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMjJxRmQweTZWU0xTejRKLXZYQlBDNFNRV3lPeUlucHByeVFENWFFWDZ4dmhrYWw4dHBCUlVrbkdNRkFuVGFCVlRwcmJ3ZDhrNHRTR0NZaTljbEpIU29LZg?oc=5",
    "published_utc": "2026-11-14T03:06:40+00:00",
    "title_original": "央行缩量续作6个月期买断式逆回购 机构：遏制资金利率下行势头",
    "region": "china",
@@ -10900,7 +10918,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71cf3b72bd07dffa"
+   "id": "4fb5a23aa9509610"
   },
   {
    "source_id": "tradingview_live",
@@ -51882,24 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ccdc92ded670533d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "Chosunbiz",
-   "title_en": "Choi Chang-ho, Director of Monetary Policy, appointed as New Assistant Vice President for Monetary Policy and Markets at the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV1pFRTB6RWwwWkY2TEtjZnltUEY5NnhIbGprRTZoUll0SHQwSnR5SGc4SDNPcEhMdlpHYm84QjZmWTZ1N0ZzaF8xTmtxdFp2Z0RXTURfcm91d1pYMXFMV1VmOHFJbHB3dS00V3hIOUxoakZZUkJaLTNKRmNXTWJxTmFyZndRQdIBmgFBVV95cUxQX1JMaTZ5SXZySjBpNks4QkVib0lQZ3FuWmxHQ2I5SXpKUThqaldjak83djRNdVNoMEpSZW03Wnh1WmVwRjJwZnhBTGM2MHV4LTRuSHUwYi1CV3N6ck9PT094M0lWUTg0LWhYdVpWTFQzcExXaElha3lNeDR5M3IzaXljYXN0UjU5U3pQOFBPUWd0VWxYR29WcUFR?oc=5",
-   "published_utc": "2026-10-26T08:49:00+00:00",
-   "title_original": "한은 통화정책·시장 신임 부총재보에 최창호 통화정책국장",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b3115025e6465e7"
   },
   {
    "source_id": "manual_ia",
