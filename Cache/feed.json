@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T23:04:07.409326+00:00",
- "collected_at_utc": "2026-11-19T23:04:07.409326+00:00",
+ "generated_at_utc": "2026-11-19T23:12:42.053158+00:00",
+ "collected_at_utc": "2026-11-19T23:12:42.053158+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1016,
-  "china": 912,
+  "japan": 1017,
+  "china": 914,
   "taiwan": 326,
-  "korea": 746
+  "korea": 743
  },
- "elapsed_s": 113.9,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T19:27:00+00:00"
+   "newest": "2026-11-19T19:42:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T22:48:03+00:00"
+   "newest": "2026-11-19T23:02:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T07:44:01+09:00"
+   "newest": "2026-11-20T08:11:09+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T23:02:14+00:00"
+   "newest": "2026-11-19T23:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T21:00:07+00:00"
+   "newest": "2026-11-19T05:38:26+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T16:06:22+00:00"
+   "newest": "2026-11-19T22:56:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T07:45:00+09:00"
+   "newest": "2026-11-20T08:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,58 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US approved sale of almost 900,000 AI chips to China in six months",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4701FW:0/",
+   "published_utc": "2026-11-19T23:05:27+00:00",
+   "title_original": "EUA aprovaram venda de quase 900 mil chips de IA para China em seis meses",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "497d92587c70f6cc"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with allies and like-minded countries Japanese government",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78749",
+   "published_utc": "2026-11-19T23:04:33+00:00",
+   "title_original": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "198efdec081edcb0"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Export of AI chips to China raises national security controversy. US House of Representatives releases approval data of nearly 880,000 units | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nMV9uckFBd3czNXoxWVR4aFFLYmtHZ2tnOF8wN24yVHhFd1ZWZjBmQklZT25RbVlyOG5QN25VN1NfQ0hIRDZzUWpsYXgyZGgwQmc3Q0RLT1JRdnppVkRF?oc=5",
+   "published_utc": "2026-11-19T22:56:00+00:00",
+   "title_original": "AI晶片出口中國引國安爭議美眾院揭近88萬顆核准數據| 國際",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b61c9c6b362a93ca"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -430,23 +482,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e86219e3398dc4e0"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with allies and like-minded countries Japanese government",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78749",
-   "published_utc": "2026-11-19T21:09:33+00:00",
-   "title_original": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "198efdec081edcb0"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -1709,23 +1744,6 @@
    "id": "7de5433699655210"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea Is Fourth Country to Hit $1 Trillion in Annual Exports, Trade Ministry Says",
-   "url": "https://www.tradingview.com/news/DJN_DN20261119001108_20261119001257:0-south-korea-is-fourth-country-to-hit-1-trillion-in-annual-exports-trade-ministry-says/",
-   "published_utc": "2026-11-19T07:33:00+00:00",
-   "title_original": "South Korea Is Fourth Country to Hit $1 Trillion in Annual Exports, Trade Ministry Says",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "37c8cbc3450f49d6"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "South Korea rides AI boom to new height as exports hit $1 trillion",
@@ -2626,24 +2644,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -2935,6 +2935,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -4026,6 +4044,24 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
+   "published_utc": "2026-11-18T03:02:45+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c4fd48fae3d5e92"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -4129,24 +4165,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
-   "published_utc": "2026-11-18T02:07:21+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4253,6 +4271,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bf4ff381735e0763"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan eyes dropping nonnuclear principle reference from arms export rules",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aXzhaYkEwQ0p6QUtmLUdRSVZZa2NGZ1RJYlFWMWxDUVdBdXBQbDlPX05jdjQ0WmhMejZtYlpnNExSWHNQalJlVExTRzdsM3B3VHh5NGtubXhLZw?oc=5",
+   "published_utc": "2026-11-18T01:32:00+00:00",
+   "title_original": "Japan eyes dropping nonnuclear principle reference from arms export rules",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c2a29af89df1ce6a"
   },
   {
    "source_id": "mof_jp",
@@ -11253,9 +11288,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "东方财富",
    "title_en": "The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the downward trend of funding rates",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMjJxRmQweTZWU0xTejRKLXZYQlBDNFNRV3lPeUlucHByeVFENWFFWDZ4dmhrYWw4dHBCUlVrbkdNRkFuVGFCVlRwcmJ3ZDhrNHRTR0NZaTljbEpIU29LZg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdlJzcVF0NUNzd1VucG1FLW9INm5uQVZtYjItSjY5U3Z1QjVvWjlXSzdTWWJ2ajVGYzVIQThhbzZhZVJaTndyQ29nV3dRNkhwUUZFdm94R3I0aTNJUnNXUUh6Z1VQdw?oc=5",
    "published_utc": "2026-11-14T03:06:40+00:00",
    "title_original": "央行缩量续作6个月期买断式逆回购 机构：遏制资金利率下行势头",
    "region": "china",
@@ -11266,7 +11301,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4fb5a23aa9509610"
+   "id": "71cf3b72bd07dffa"
   },
   {
    "source_id": "tradingview_live",
@@ -51865,41 +51900,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c29875094ad036d7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "BBS불교방송",
-   "title_en": "[Personnel] Choi Chang-ho, Assistant Vice President, Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40akdzcnRITVVOdDVRcmNzSmNLZE53RnZiVkpKbDAzSTV0T2V5UHZkdjI4X2poSUt1ZFBXWWllZVUxSWl1N0pmZWpqa21tRkZVUWVDb2dNekxkdUlKc0VCbWVrbV94V25UQW5V?oc=5",
-   "published_utc": "2026-10-26T11:41:22+00:00",
-   "title_original": "[인사]한국은행 부총재보 최창호",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e55888792399fe6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "금융신문",
-   "title_en": "[Profile] Choi Chang-ho, Assistant Vice President for Monetary Policy and Markets at the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNWxvWW9vNDM1UE5SYWFwb19tcjcxYVdhanI4UnRpT2JLMHdfb0RlajhkRm5PcFhhZ2Z2N05QTWx0c3VMb3RaOF83UXRneHNKZjR6RVZ3a1p0VVoxbVVJSHEycmh3RllQN0R4blRuU0ZNY3FZX2Z0Yzc2Y1Q?oc=5",
-   "published_utc": "2026-10-26T11:33:55+00:00",
-   "title_original": "[프로필] 최창호 한국은행 통화정책·시장 담당 부총재보",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ff3462725755a32"
   },
   {
    "source_id": "manual_ia",

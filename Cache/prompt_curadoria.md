@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T23:04:07.409326+00:00
+Última coleta: 2026-11-19T23:12:42.053158+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1016
-  🇨🇳 China          912
+  🇯🇵 Japão          1017
+  🇨🇳 China          914
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  746
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [china] US approved sale of almost 900,000 AI chips to China in six months
+  - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
+  - [china] Export of AI chips to China raises national security controversy. US House of Representatives releases approva
   - [japan] Japan Inflation Data Due On Friday
   - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
   - [china] California AG subpoenas Nvidia over alleged China chip leak and investor fraud
   - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
   - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
-  - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
   - [korea] Producer prices drop in Oct. on lower food prices
   - [japan] Is there a sharp rise in ``eat-in tax evasion'' due to the food tax cut?The National Tax Agency's opinion on c
   - [china] The large influx of Chinese cars has led to excessive competition in the Australian car market...Sellers are i
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC acquires 0.03% stake in Anthropic for US$500 million
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
-  - [taiwan] Taiwan's APEC envoy urges 'wise' AI development, chip resilience
-  - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T23:04:07+00:00",
+      "published_utc": "2026-11-19T23:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
