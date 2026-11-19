@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T04:02:51.778025+00:00",
- "collected_at_utc": "2026-11-19T04:02:51.778025+00:00",
+ "generated_at_utc": "2026-11-19T04:12:42.419075+00:00",
+ "collected_at_utc": "2026-11-19T04:12:42.419075+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1029,
-  "china": 910,
+  "japan": 1030,
+  "china": 909,
   "taiwan": 309,
   "korea": 752
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-14T03:39:48+00:00"
+   "newest": "2026-11-19T02:39:31+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T12:00:04+00:00"
+   "newest": "2026-11-19T00:01:06+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T03:42:24+00:00"
+   "newest": "2026-11-19T04:01:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T03:42:24+00:00"
+   "newest": "2026-11-19T04:01:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T09:29:42+00:00"
+   "newest": "2026-11-19T02:19:35+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T04:01:17+00:00"
+   "newest": "2026-11-19T04:11:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-19T03:05:48+00:00"
+   "newest": "2026-11-19T04:05:33+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-19T12:00:00+09:00"
+   "newest": "2026-11-19T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -345,8 +345,25 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261118010283:0-boj-s-ueda-vows-to-keep-careful-eye-on-fed-moves-update/",
+   "published_utc": "2026-11-19T04:06:00+00:00",
+   "title_original": "BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "20c0cb20384b340c"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -359,7 +376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "tradingview_live",
@@ -6065,8 +6082,8 @@
    "id": "143a3250538f89ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama Consumption tax reduction bill Targets of support funds “to be determined after data review”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261116de76659",
    "published_utc": "2026-11-16T09:55:40+00:00",
@@ -6081,7 +6098,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "20169badcd5e081d"
+   "id": "c27eb3ed04bc406a"
   },
   {
    "source_id": "tradingview_live",
@@ -6400,7 +6417,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China’s Economy Disappoints With New Stimulus Yet to Kick In",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFiTE1FdTd4TV93WnROMERVZXMtQzdSZDRTOTh3cVhocV9Sb1NSRVVGelJYamtpWkwyLWc5WTc2MGRWVUJWckNkVVJTOVBUZTNuN3Jxdl92R1E3dWRySnk3RTAyZ3BlVVI2bGZKbjJKb0U4WkNSS1VJU3dQZ1B2eUJXaUF3TVZaWk4zS0N5RlVVSWRlcXZ4UkZQYl9nQkxrRkFxNF93dm94c0NLWEdCa1d3X2Z2UQ?oc=5",
    "published_utc": "2026-11-16T07:31:00+00:00",
@@ -51885,23 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2507e264397863ae"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Daan Gene Q3 Net Loss At 19.7 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46B00S:0-daan-gene-q3-net-loss-at-19-7-million-yuan/",
-   "published_utc": "2026-10-25T07:56:34+00:00",
-   "title_original": "Daan Gene Q3 Net Loss At 19.7 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d6f82f8cb7641523"
   },
   {
    "source_id": "manual_ia",
