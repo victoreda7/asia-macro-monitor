@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T13:22:43.599178+00:00",
- "collected_at_utc": "2026-11-19T13:22:43.599178+00:00",
+ "generated_at_utc": "2026-11-19T13:32:45.381081+00:00",
+ "collected_at_utc": "2026-11-19T13:32:45.381081+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1016,
-  "china": 894,
-  "taiwan": 323,
-  "korea": 767
+  "china": 895,
+  "taiwan": 325,
+  "korea": 764
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T08:45:00+00:00"
+   "newest": "2026-11-19T03:05:53+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T18:14:50+08:00"
+   "newest": "2026-11-19T20:52:04+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T13:15:20+00:00"
+   "newest": "2026-11-19T13:32:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T13:21:47+00:00"
+   "newest": "2026-11-19T13:32:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:13:48+00:00"
+   "newest": "2026-11-19T08:08:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -380,6 +380,23 @@
    "id": "61b246b3e1b6dcd5"
   },
   {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "TSMC acquires 0.03% stake in Anthropic for US$500 million",
+   "url": "https://focustaiwan.tw/business/202611190023",
+   "published_utc": "2026-11-19T12:49:02+00:00",
+   "title_original": "TSMC acquires 0.03% stake in Anthropic for US$500 million",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "317bdb5a8c18968b"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
@@ -414,6 +431,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0e0581c60533e180"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan's APEC envoy urges 'wise' AI development, chip resilience",
+   "url": "https://focustaiwan.tw/business/202611190021",
+   "published_utc": "2026-11-19T12:14:57+00:00",
+   "title_original": "Taiwan's APEC envoy urges 'wise' AI development, chip resilience",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d301b89fd89795d0"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -2140,24 +2174,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -2449,6 +2465,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -3488,6 +3522,24 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
+   "published_utc": "2026-11-18T03:02:45+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c4fd48fae3d5e92"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -3593,24 +3645,6 @@
    "id": "c424911380f2727f"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
-   "published_utc": "2026-11-18T02:07:21+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da739166c8991e88"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "데이터투자",
    "title_en": "The Bank of Korea is highly likely to raise its benchmark interest rate by 25bp in November amid the strong won.",
@@ -3698,6 +3732,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2f72af92b26390b6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机新浪网",
+   "title_en": "The central bank's 700.2 billion reverse repurchase, with an interest rate of 1.25%, fully meets the needs of traders | People's Bank of China | Overnight reverse repurchase_Sina News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SY29fNUZOWjhWemlWcF9xRmxkRnQ2V1Z5Rkg4Y0x6eDQ5TWUzNmRVTEt6MDZ3V1lhWVF1R1l6dTNOQnVia3NaOHpvYTV2VzBjMzV4c2lqa3Y3NXBkQVdtOC1NQQ?oc=5",
+   "published_utc": "2026-11-18T01:34:00+00:00",
+   "title_original": "央行 7002 亿逆回购，利率 1.25% 全额满足交易商需求|中国人民银行|隔夜逆回购_新浪新闻",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf4ff381735e0763"
   },
   {
    "source_id": "mof_jp",
@@ -51851,58 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f9093726480c6054"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLT2FBYnVaRE9PeWFZMEF0X1d6NjZ5b1ZGcmZMRWswS1pwVnFDemdPaGJVbTZtTkZHRTJyVTRUYmtIOEpjS0FlSy0tSVJPRWNP?oc=5",
-   "published_utc": "2026-10-26T08:33:45+00:00",
-   "title_original": "Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0da31c0c99aa5cbf"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국경제",
-   "title_en": "“We must implement preemptive monetary policy beyond data”... ‘Monetary policy expert’ Park Jong-woo retires as Deputy Governor of the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yS3pvWXZLQXEyRjBVbENxb2FqSVlIS0hZSnN0Q3lnc3VzWUxIc3Q4WWlFX19URWVrT0JvN1RvRGsxa3JyeGpzdjZ6Yzl0Q05qMy1WY1IzTTNhZw?oc=5",
-   "published_utc": "2026-10-26T08:31:35+00:00",
-   "title_original": "\"데이터 넘어 선제적 통화정책 펼쳐야\"…'통화정책통' 박종우 한은 부총재보 퇴임",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d86a5666e298eec8"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80M0FqWkVfbDFUck8zSTRsOUdoVXQ4aVNvRHp3UGxHMml4Ql85bnRqTlNIM0RrVVVmTjdnSTRfZ2xzUDJaYWxLb2hRaDhXUDJVSHQw?oc=5",
-   "published_utc": "2026-10-26T08:21:36+00:00",
-   "title_original": "Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "151bf8728dda2526"
   },
   {
    "source_id": "manual_ia",

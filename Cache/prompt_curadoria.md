@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T13:22:43.599178+00:00
+Última coleta: 2026-11-19T13:32:45.381081+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
-  🇨🇳 China          894
-  🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  767
+  🇨🇳 China          895
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  764
 
 ## O que já está no feed (não repita)
 
   - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
+  - [taiwan] TSMC acquires 0.03% stake in Anthropic for US$500 million
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
+  - [taiwan] Taiwan's APEC envoy urges 'wise' AI development, chip resilience
   - [japan] JT to post 1.3 trillion yen loss on Russian business
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
   - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
   - [korea] AI boom boosts semiconductors, South Korea's exports exceed US$1 trillion for the first time, and is expected 
-  - [korea] The last Bank of Korea Monetary Policy Committee D-7 of the year... Interest rate hike weighs on inflation and
-  - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T13:22:43+00:00",
+      "published_utc": "2026-11-19T13:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
