@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T09:02:44.638390+00:00
+Última coleta: 2026-11-19T09:12:42.698016+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
-  🇨🇳 China          896
-  🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  766
+  🇯🇵 Japão          1024
+  🇨🇳 China          895
+  🇹🇼 Taiwan         314
+  🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
+  - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
+  - [korea] Prices and growth rise together... Will the Bank of Korea further increase the base interest rate on the 26th?
   - [korea] How semiconductors powered South Korea’s $1tr export milestone
   - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
+  - [taiwan] Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity
   - [korea] "Claude" developer Antropics broke through weak technology stocks to achieve the largest initial pub..
   - [china] HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve
   - [korea] One 10-Kilogram Box Worth 1 Billion Won ... Semiconductors Pack a 5,000-Pyeong Warehouse
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom
   - [japan] Prime Minister Takaichi's press conference after the APEC Summit [currently being streamed live]
   - [korea] South Korea's exports top $1 trillion for first time on chip boom
-  - [china] Bernstein names top China semiconductor equipment stocks
-  - [korea] S. Korea's exports top US$1 tln for 1st time on strong chip demand
-  - [korea] South Korea is the fourth country in the world to join the $1 trillion export club.According to the
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T09:02:44+00:00",
+      "published_utc": "2026-11-19T09:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
