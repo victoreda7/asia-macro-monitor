@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T08:42:44.148626+00:00",
- "collected_at_utc": "2026-11-19T08:42:44.148626+00:00",
+ "generated_at_utc": "2026-11-19T08:52:45.171737+00:00",
+ "collected_at_utc": "2026-11-19T08:52:45.171737+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1025,
-  "china": 898,
-  "taiwan": 315,
-  "korea": 762
+  "china": 896,
+  "taiwan": 313,
+  "korea": 766
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 31.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T00:53:54+00:00"
+   "newest": "2026-11-19T04:29:32+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T08:38:23+00:00"
+   "newest": "2026-11-19T08:42:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T17:30:00+09:00"
+   "newest": "2026-11-19T17:47:55+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T06:29:00+00:00"
+   "newest": "2026-11-19T07:28:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T08:32:01+00:00"
+   "newest": "2026-11-19T08:50:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T07:13:36+00:00"
+   "newest": "2026-11-19T08:32:56+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,19 +331,72 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T08:36:04+00:00"
+   "newest": "2026-11-19T08:43:34+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-11-19T07:37:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "[Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78419",
+   "published_utc": "2026-11-19T08:47:55+00:00",
+   "title_original": "【速報中】米中首脳会談 貿易やAIなど意見を交わしたか",
+   "region": "china",
+   "topics": [
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "223379e7f198c7e4"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "\"Claude\" developer Antropics broke through weak technology stocks to achieve the largest initial pub..",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oMjdxX0NTdVZpZGtxS21lakc3RlhmQnk5SlR5QU5tMlpUVktNZXRuZXJCaDV6ZVUyMG1iakRNTkk0QndyLUxKTUR5bw?oc=5",
+   "published_utc": "2026-11-19T08:41:27+00:00",
+   "title_original": "\"Claude\" developer Antropics broke through weak technology stocks to achieve the largest initial pub..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1e431cdb59ccca4a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve",
+   "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4699979:0-hauto-strong-chinese-exports-offset-disruption-as-capacity-tightened-and-q4-ebitda-was-expected-to-improve/",
+   "published_utc": "2026-11-19T08:40:02+00:00",
+   "title_original": "HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f2f364c9fa19690b"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -377,6 +430,24 @@
    "live_wire": true,
    "manual": false,
    "id": "c18e0dc155f28f92"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Defense spending \"isn't just about the amount\" Funding sources \"consider fiscal sustainability\" Prime Minister Takaichi holds a press conference in China (Sankei Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TWGxUWDFkZ0lLZEJJY1Q4a0x2a2ZLem5IcDcwaXpuV243RDA0RGl3VlFUWmdpQTllSzY5UW9MZ0NNTjFaUHd5ekwzT1RtZE9rTEpVVVFsTjVNVXU5UjhjYWNDZVhFUXpBN19CTlRidE9BZ0dzdnVfWHJFN21zOUU?oc=5",
+   "published_utc": "2026-11-19T08:32:56+00:00",
+   "title_original": "防衛費「金額ありきでない」 財源は「財政の持続可能性配慮」 高市首相が中国で記者会見（産経新聞）",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0caf296bf9dce903"
   },
   {
    "source_id": "tradingview_live",
@@ -431,7 +502,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Taiwan Tightens Short Selling Curbs to Support Stock Market",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR25OelBZMklEc09hLWxCNG1VQ1dFVFNiLUlGVFBmcGRIN3NxTjNhYnA4TG9ISlkwTkMyOGRMb1c0VUNlZ2hMaHcwcHlaVzNIWXRESVVUV0o3cGUyT2cxb21RWFA3dWRJNUhzaTFGLWRSNUdwb3IxSVlpYV9IekFXcC1kenlOWmpabUNNcjB0Qm1IVjJuVmVzMXJtdnNXOE82U3pMRC1ndXlwN2FucjRSUmVPMGRIdw?oc=5",
    "published_utc": "2026-11-19T08:23:57+00:00",
@@ -602,6 +673,24 @@
    "id": "dca6b55219668179"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "에너지경제신문",
+   "title_en": "② In the era of 1,200 trillion won in debt, the interest rate on mortgage loans rises... both borrowers and banks ‘sigh’ [Money+]",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xS1otb0NwVFVVdHZmX000SFRkVDZ4ZU9HYkdVa0dKel9VMEs4dUdHSXNkTDVuU2xILWZXSEliZTV0Q0NFN1dhb0xIb3FXanhKM1NJT2ZtSV81RWtyUGc?oc=5",
+   "published_utc": "2026-11-19T07:29:49+00:00",
+   "title_original": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2a1b349e18c73580"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Mh Materials Announces Disposal Of Real Estate Worth 10.7 Billion Won",
@@ -634,24 +723,6 @@
    "live_wire": true,
    "manual": false,
    "id": "44830c06b1ec102a"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "[Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78419",
-   "published_utc": "2026-11-19T07:24:00+00:00",
-   "title_original": "【速報中】米中首脳会談 貿易やAIなど意見を交わしたか",
-   "region": "china",
-   "topics": [
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "223379e7f198c7e4"
   },
   {
    "source_id": "nhk_economy",
@@ -1101,7 +1172,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Trump Suggests US Can Sell Blackwell Chips to China in Future",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2RmcllMcDNES1UzSmxVelRjcV9LUHZzVVQzaVA3Z0tKczJqMHBuaXh0X2NMVXFUSGR6V28tMkh6VWNJUmxuMXdiQTFuMzJsUExCa0Y4V3NXV2xtSzVIN2hvcS1zY3FFbGlJMlRZVExYVDVMMXlFWjRObUZKWGc1bHB3QkVEQkIzSVlaN3VpNFVrNXJScG9oV2Q0Yzc5ams2ME1VWTRrZWNfdkxHbFZnV1dn?oc=5",
    "published_utc": "2026-11-19T04:00:00+00:00",
@@ -1428,23 +1499,6 @@
    "id": "b9fca3e8ccaf107b"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118",
-   "url": "https://www.tradingview.com/news/dpa_afx:2bb8ae468a774:0-china-sets-yuan-central-parity-at-6-7128-thurs-vs-6-7118/",
-   "published_utc": "2026-11-19T01:32:38+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "89ba7d96ec5de879"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Financial environment is accommodative, interest rates will continue to rise depending on economic, price and financial conditions - Bank of Japan Governor (Reuters)",
@@ -1738,6 +1792,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e62ec5284eab1a03"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "영남일보",
+   "title_en": "[Freedom] Neutral interest rate",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sTk10UWVDQnhiejY3dzJ4cVZYMzRPb0VPaURlcTFYS3NpZG5kTjA4NGxXWHdXU0l3eGxqUmtha2RPVWpCaE9zclpkUVd3dWhweW9sRG84cWh1WXB3QXk1aUtyLS1UNjJHaHZv?oc=5",
+   "published_utc": "2026-11-18T21:00:00+00:00",
+   "title_original": "[자유성] 중립금리",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba0970742445f278"
   },
   {
    "source_id": "toyo_keizai",
@@ -2341,6 +2412,25 @@
    "id": "a88b6b7bd14fc612"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Citi raises its growth forecast for next year to 4.1%... “Semiconductor boom continues”",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iUnZBRlJQYWdqQVZCU1RkXzBIVzhMdjhYV3dfNElpMHpwRG1QT0FrcnRpYnlFOXdobVhiamJSZmE5SmFOMFVDN0ZQLWl4MC1XcFlIZ0h0TjdiUUhTRGRlbtIBYEFVX3lxTE5iUnZBRlJQYWdqQVZCU1RkXzBIVzhMdjhYV3dfNElpMHpwRG1QT0FrcnRpYnlFOXdobVhiamJSZmE5SmFOMFVDN0ZQLWl4MC1XcFlIZ0h0TjdiUUhTRGRlbg?oc=5",
+   "published_utc": "2026-11-18T09:40:44+00:00",
+   "title_original": "씨티, 내년 성장률 전망치 4.1%로 상향…\"반도체 호황 지속\"",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d41a4193ea77f33"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "London Stock Exchange",
    "title_en": "REG - Hon Hai Prec.Ind.Co - Acquisition of equity interest by a subsidiary",
@@ -2843,6 +2933,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3ccc1d1ba3ffdf73"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조세일보",
+   "title_en": "Will the Bank of Korea raise interest rates in November and suggest further hikes? Bond market ‘tension’",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZGcxbmpBdDduc1REYUhQc2VPaWlaVTJLWUxnMVZzTVh3RGk2THV1MlhTb0NGaldyellsZUNyWFVlM2FuM29KZW9qSWFGRFBxTVlGbFRuYkEzMlVxcmM0?oc=5",
+   "published_utc": "2026-11-18T04:02:41+00:00",
+   "title_original": "한은, 11월 금리 올리고 추가 인상 시사할까…채권시장 ‘긴장’",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dba0c97545a8155b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51790,110 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "98a453cca82b30f4"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Bank of Japan’s hawkish pause to leave scope for December hike By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2Y2TW5nSkRfeEpwclhyYXRnMEJoXzBUaW8wem1PUU0xYXVQZkdUM0p2aGxzOVF6QWlEQkwzZm4tRU1YeHZpVkNTazdTN1RCbEZpVWstUGE1SXQ2dnpacTZDVGx2aC12Yl93ZU9kQ3NHUGtxZlJ1MFRlaDF1YW9JTEpnbGUzZ3IyU0tVU2JFQkF4QkpMbFNmZTBkdXZUdnFZTlZ2Y3pwOGhKa1ZSWE5yQ1MtUQ?oc=5",
-   "published_utc": "2026-10-26T03:40:51+00:00",
-   "title_original": "Bank of Japan’s hawkish pause to leave scope for December hike By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e12668b3e0b0dbdc"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84TnhDdzRmM2wyY2NnNWhibkVoUDJLOEIyQmd0aV9pNmRKbFgzVk9yV1UtSzhpTUpEUmNwLTl4RGxEbHJ5Ykpwc2ZNUkV2X1BOeXRHQmJNWTNWQQ?oc=5",
-   "published_utc": "2026-10-26T03:00:30+00:00",
-   "title_original": "Banks expected to maintain tight lending standards in Q4: BOK survey",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8399afe95a73a2a4"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXhXN1dYUWQ0ZnlfR3Azb0dDMEEyTnhiWTZRRHZsV09DdklRQWRWYWFFSk52Rk5CQ3hPcGRvVXNad1FhbzdCTmtSeEhjM0M3VnlIVnVXM2NfVEs2eVpTSEZEaFdLWjlaT2MxTXZmcVdCZUticFpyNUFScGpGZzZtQ3BBRVV1SEUxVG9ULUZ0bnl6ZjQxR3E5aw?oc=5",
-   "published_utc": "2026-10-26T02:58:19+00:00",
-   "title_original": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aaa72da40a4cc8ae"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day_Company News_Finance",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTVRxbExmVHZiemhmTTVxQ1BrOEpYQ1dZM3pzRzFvVVl2a1EySndLZXo1eGdYSEsyWElxcFh2eHgzQzNVUzg4MGVhTmwwdW5NdTZYZzZQUVNuX0RpVS1XZQ?oc=5",
-   "published_utc": "2026-10-26T02:58:00+00:00",
-   "title_original": "央行开展560亿元7天期逆回购操作当日净投放1160亿元_公司新闻_财经",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "99d930fcac0d27b2"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGZ1aU42bDhxd0swUkZZWk1jMURwS1FxdERtRVZvQ2xKZlFCQ2ZBdWlqRFpMMDVzcUp2UXB4M1VDM2piX3hjT2V2YkRZcW9YQlhEcjR5d0gwdmpyNnBKVGRPczFhc3VSYlg1ekZBNnVHemlfWmtWT3ZEUU5SelpNUmVMazA?oc=5",
-   "published_utc": "2026-10-26T02:57:50+00:00",
-   "title_original": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c8ff070eba51b15"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires_Company News_Finance",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4OWJKYUY2V0pkR0JmUW9TekhPRmIwWEJSUlZ2VGVITlVDV3VOLVliTk0tbUFNakFTS18yOGRyTFVqMVFxUHc0eVJjLWE0Ni1WRkZaM0lBaG9zaVNQZlhLRQ?oc=5",
-   "published_utc": "2026-10-26T02:57:00+00:00",
-   "title_original": "本周央行公开市场逆回购到期3380亿元周二9000亿元MLF到期_公司新闻_财经",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ad0e6381b5427fd"
   },
   {
    "source_id": "manual_ia",

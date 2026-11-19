@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T08:42:44.148626+00:00
+Última coleta: 2026-11-19T08:52:45.171737+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
-  🇨🇳 China          898
-  🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  762
+  🇨🇳 China          896
+  🇹🇼 Taiwan         313
+  🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
+  - [korea] "Claude" developer Antropics broke through weak technology stocks to achieve the largest initial pub..
+  - [china] HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve
   - [korea] One 10-Kilogram Box Worth 1 Billion Won ... Semiconductors Pack a 5,000-Pyeong Warehouse
   - [china] NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reac
+  - [japan] Defense spending "isn't just about the amount" Funding sources "consider fiscal sustainability" Prime Minister
   - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
   - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
@@ -32,9 +36,9 @@ Total: 3000 manchetes
   - [korea] South Korea rides AI boom to new height as exports hit $1 trillion
   - [japan] Tokio Marine Holdings, Inc. - To Buy Back Up To 9.6% Of Shares Worth 280 Billion Yen
   - [korea] South Korea's 2026 Exports Have Topped $1 Trillion as of Thursday, Trade Ministry Says
+  - [korea] ② In the era of 1,200 trillion won in debt, the interest rate on mortgage loans rises... both borrowers and ba
   - [korea] Mh Materials Announces Disposal Of Real Estate Worth 10.7 Billion Won
   - [korea] South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says
-  - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
   - [japan] Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations
   - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
   - [japan] Developments in Real Exports and Real Imports
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea is the fourth country in the world to join the $1 trillion export club.According to the
   - [korea] South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry
   - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
-  - [korea] South Korea is the fourth country in the world to join the $1 trillion export club. It is the first
-  - [korea] South Korean entertainment stocks surge up to 30% on China trade deal
-  - [japan] Japan auto industry targets common standards to strengthen supply chain
-  - [japan] Japan AI selloff: These chips and electronics stocks were the worst hit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T08:42:44+00:00",
+      "published_utc": "2026-11-19T08:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
