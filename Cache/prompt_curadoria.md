@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T04:42:41.463267+00:00
+Última coleta: 2026-11-19T04:52:41.920838+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
-  🇨🇳 China          909
-  🇹🇼 Taiwan         309
+  🇯🇵 Japão          1029
+  🇨🇳 China          908
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
+  - [taiwan] UBright eyes semiconductor, passive components and smart acoustics growth
   - [china] [Local footage scheduled to be distributed] High-profile US-China summit meeting to be held later
   - [japan] BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update
+  - [china] Trump Suggests US Can Sell Blackwell Chips to China in Future
   - [japan] Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities
   - [china] China's yuan steady as Trump-Xi meeting in focus
   - [korea] Apple seeks to lock in memory supply as Samsung, SK hynix gain leverage
@@ -35,7 +38,6 @@ Total: 3000 manchetes
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
   - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
-  - [china] Trump Suggests US Can Sell Blackwell Chips to China in Future
   - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Citi CEO Fraser Stresses China Engagement Before Trump-Xi Talks
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
   - [china] China using Trump-Xi 'stability' to build strategic edge, US panel warns
-  - [china] Sign of the times? How China is quietly shifting global trade onto yuan payments
-  - [japan] Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 ye
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T04:42:41+00:00",
+      "published_utc": "2026-11-19T04:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
