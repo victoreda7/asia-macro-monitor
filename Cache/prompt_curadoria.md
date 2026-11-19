@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T21:04:31.950969+00:00
+Última coleta: 2026-11-19T21:12:46.859863+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1014
-  🇨🇳 China          911
+  🇨🇳 China          912
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  749
+  🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
+  - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
+  - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
+  - [korea] Producer prices drop in Oct. on lower food prices
+  - [japan] Is there a sharp rise in ``eat-in tax evasion'' due to the food tax cut?The National Tax Agency's opinion on c
+  - [china] The large influx of Chinese cars has led to excessive competition in the Australian car market...Sellers are i
   - [japan] 〈Buy it! 〉Who is right about the doubling of sales of government bonds to individuals: individuals who think i
   - [taiwan] "Full tuition fee exemption, 50,000 yen monthly scholarship" Reasons why Taiwanese universities treat Japanese
   - [korea] [Defense Industry] Interceptor missiles are classified as "weapons" like rifles, and they are told to "repay t
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
   - [china] Trump suggests Nvidia's Blackwell chips could go to China later
-  - [china] Indonesia defends a sinking rupiah as China reins in a rising yuan - IntelliNews Lambda
-  - [china] Alibaba accelerates pivot to in-house chips after reporting jump in sales
-  - [china] China, Rússia e EUA planejam ampliar oferta de petróleo refinado e reafirmam importância de fluxos energéticos
-  - [taiwan] Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux
-  - [china] Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T21:04:32+00:00",
+      "published_utc": "2026-11-19T21:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

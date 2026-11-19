@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-11-19T21:04:31.950969+00:00",
- "collected_at_utc": "2026-11-19T21:04:31.950969+00:00",
+ "generated_at_utc": "2026-11-19T21:12:46.859863+00:00",
+ "collected_at_utc": "2026-11-19T21:12:46.859863+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1014,
-  "china": 911,
+  "china": 912,
   "taiwan": 326,
-  "korea": 749
+  "korea": 748
  },
- "elapsed_s": 138.3,
+ "elapsed_s": 34.6,
  "sources": [
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T21:02:52+00:00"
+   "newest": "2026-11-19T21:12:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T19:24:25+00:00"
+   "newest": "2026-11-19T20:49:01+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T05:33:19+09:00"
+   "newest": "2026-11-20T06:09:33+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T21:02:42+00:00"
+   "newest": "2026-11-19T21:12:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,15 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T06:39:06+00:00"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-19T16:06:22+00:00"
+   "newest": "2026-11-19T21:00:07+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T05:50:00+09:00"
+   "newest": "2026-11-20T06:05:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -342,8 +342,96 @@
    "newest": "2026-11-19T09:00:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_tw_cna": 1
+ },
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Bipartisan panel says China 'doubling down' on control of pharma supply chain",
+   "url": "https://www.tradingview.com/news/seekingalpha:ed964b11b094b:0-bipartisan-panel-says-china-doubling-down-on-control-of-pharma-supply-chain/",
+   "published_utc": "2026-11-19T21:09:45+00:00",
+   "title_original": "Bipartisan panel says China 'doubling down' on control of pharma supply chain",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e86219e3398dc4e0"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with allies and like-minded countries Japanese government",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78749",
+   "published_utc": "2026-11-19T21:09:33+00:00",
+   "title_original": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "198efdec081edcb0"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Producer prices drop in Oct. on lower food prices",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSjJLcjBMdTB1WmFGN1c3R0V3cTV2b3RSb2kzOHA3TGZxOTl4UjVqaGRzeFdjMWZrOGpOWTBSRkNtSFYwOVNIUGNzTERuZHNBdllfVDhweUtkdw?oc=5",
+   "published_utc": "2026-11-19T21:00:07+00:00",
+   "title_original": "Producer prices drop in Oct. on lower food prices",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22f2eb8f994e5ff1"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Is there a sharp rise in ``eat-in tax evasion'' due to the food tax cut?The National Tax Agency's opinion on concerns that ``honest people will look foolish'' due to the widening consumption tax difference between take-out and take-out orders | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/965210?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-19T21:00:00+00:00",
+   "title_original": "食料品減税で\"イートイン脱税\"急増か…持ち帰りとの消費税率差拡大で｢正直者がばかをみる｣懸念､国税庁の見解は | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e278ef66552e99bb"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "The large influx of Chinese cars has led to excessive competition in the Australian car market...Sellers are in the red, industry group requests government regulation | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964783?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-19T21:00:00+00:00",
+   "title_original": "中国車の大量流入でオーストラリア自動車市場が過当競争に…販売業者は赤字転落､業界団体が政府に規制要請 | ビジネス | 東洋経済オンライン",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b03676018679347b"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -809,8 +897,8 @@
    "id": "555a351f9a7ae5dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -824,7 +912,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -1171,8 +1259,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1186,7 +1274,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "tradingview_live",
@@ -1658,23 +1746,6 @@
    "id": "2a1b349e18c73580"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Mh Materials Announces Disposal Of Real Estate Worth 10.7 Billion Won",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Z14I:0-mh-materials-announces-disposal-of-real-estate-worth-10-7-billion-won/",
-   "published_utc": "2026-11-19T07:26:15+00:00",
-   "title_original": "Mh Materials Announces Disposal Of Real Estate Worth 10.7 Billion Won",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aa665de55b0bab88"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations",
@@ -2020,8 +2091,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2034,7 +2105,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3455,8 +3526,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더퍼블릭",
    "title_en": "Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook for a hike is also favorable.",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QV9hc2o2eElHWUFHbGhLdi03emNNYVl3OVhwRmdYQmsyMk1PcEtzaS1pOFFMaUplRTVLOTlJRkx5Q2tseG9ZQXpfTUdiQjM1ekNUcWJ5ZUJMY3ZrSldDcDRPSjVXSU5mVGRN0gFvQVVfeXFMT1Bha1BtMDRGS2VGdDFuUHlXdjVSZlZwYUdhZW1zTURyMEZNZHdPcUl4Qk5oOXlkWkJNbVhEcVpaeERYSk85cjdiam1HSmZ1UXlUaFhFc1dVTUYxNVV1N09nYlJSXzd1UUMxOTlkQTUw?oc=5",
-   "published_utc": "2026-11-18T07:07:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MNIBb0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MA?oc=5",
+   "published_utc": "2026-11-18T07:11:33+00:00",
    "title_original": "한은, 이달 기준금리 또 올리나…美 연준도 인상 전망 '우세'",
    "region": "korea",
    "topics": [
@@ -3466,7 +3537,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9883c1e475e793e0"
+   "id": "db5a2c2bb9e1ae86"
   },
   {
    "source_id": "nhk_politics",
@@ -51830,75 +51901,6 @@
    "live_wire": true,
    "manual": false,
    "id": "26dc779d0e03413a"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局天津调查总队",
-   "title_en": "Data: Tianjin’s urban surveyed unemployment rate was 5.2% in September",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeTJoT1R4aDFxRUVIbGllQTRERUFic0oyVl9sM3pHU0g2OXdSWm1Dd185S2RUcHNueXNlRVM3UDV0R3ZwaFhjUDdQbkRaMUFsVUEyQlRfSXk2a2lZdG9SNVo4d0JEYlVSRUE?oc=5",
-   "published_utc": "2026-10-26T10:37:51+00:00",
-   "title_original": "数据：9月份天津市城镇调查失业率为5.2%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd65e9711e929603"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "TradingView",
-   "title_en": "Bank of Korea appoints Director of Monetary Policy Choi Chang-ho as Deputy Governor for Monetary Policy",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xYy1tQmpWbEswbEpTekNQbmxObWNHMzRHTzQ3cHAyZ09jTXNDbnZ0TUlQZFF5TmpuNUVWd3QzTjBxUU42dWYtNEtxVk5kbFlRMnZHS0lNdTRJLW5nbzBPRnAtTGJWamJo?oc=5",
-   "published_utc": "2026-10-26T10:36:00+00:00",
-   "title_original": "한은, 통화정책 부총재보에 최창호 통화정책국장 임명",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "001727d7af23a640"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46C0PX:0-spic-industry-finance-q3-net-profit-at-903-3-million-yuan/",
-   "published_utc": "2026-10-26T10:33:28+00:00",
-   "title_original": "SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "85dfda3021e00ea7"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Japan's largest machine tool trade show Introducing technologies using AI",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261026de65946",
-   "published_utc": "2026-10-26T10:04:59+00:00",
-   "title_original": "日本最大級の工作機械見本市 AI活用した技術など紹介",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "88e1f0d791851884"
   },
   {
    "source_id": "manual_ia",
