@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T08:35:04.843326+00:00
+Última coleta: 2026-11-19T08:42:44.148626+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
-  🇨🇳 China          899
+  🇨🇳 China          898
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  761
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [korea] One 10-Kilogram Box Worth 1 Billion Won ... Semiconductors Pack a 5,000-Pyeong Warehouse
   - [china] NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reac
   - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
   - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
+  - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
+  - [korea] AI boom boosts semiconductors, South Korea's exports exceed US$1 trillion for the first time, and is expected 
   - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
   - [korea] South Korean shares end higher as country joins $1 trillion export club
   - [taiwan] Wave of sales in Taiwan leads Asian shares to the lowest price in seven months; forex market remains cautious 
@@ -33,7 +36,6 @@ Total: 3000 manchetes
   - [korea] South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says
   - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
   - [japan] Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations
-  - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
   - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
   - [japan] Developments in Real Exports and Real Imports
   - [china] [Updated from time to time] Trilateral summit meeting between the US, China and Russia to be held
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean entertainment stocks surge up to 30% on China trade deal
   - [japan] Japan auto industry targets common standards to strengthen supply chain
   - [japan] Japan AI selloff: These chips and electronics stocks were the worst hit
-  - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
-  - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T08:35:05+00:00",
+      "published_utc": "2026-11-19T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
