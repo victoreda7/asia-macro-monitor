@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T05:12:41.146196+00:00
+Última coleta: 2026-11-19T05:22:55.436508+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1029
+  🇯🇵 Japão          1028
   🇨🇳 China          907
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  752
+  🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean entertainment stocks surge up to 30% on China trade deal
   - [japan] Japan auto industry targets common standards to strengthen supply chain
   - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
   - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS MANUFACTURING SECTOR +8.0% Q/Q, 1ST RISE IN 2 QUARTERS VS. -1.3% IN APR-JU
   - [japan] JAPAN CABINET OFFICE: OCT-DEC CORE MACHINE ORDERS PROJECTED AT +4.3% Q/Q, 5TH STRAIGHT RISE
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
-  - [japan] Bank of Japan to raise interest rates in December and again by end-March, economists say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T05:12:41+00:00",
+      "published_utc": "2026-11-19T05:22:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
