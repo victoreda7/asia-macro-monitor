@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T07:02:50.275987+00:00
+Última coleta: 2026-11-19T07:12:42.334812+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
+  🇯🇵 Japão          1028
   🇨🇳 China          904
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  756
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
   - [japan] Developments in Real Exports and Real Imports
   - [china] [Breaking news] US-China summit ends; did they exchange opinions on trade, AI, etc.
+  - [china] [Updated from time to time] Trilateral summit meeting between the US, China and Russia to be held
   - [korea] (LEAD) S. Korea's exports top US$1 tln for 1st time on strong chip demand
   - [taiwan] Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down
   - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
@@ -40,7 +42,6 @@ Total: 3000 manchetes
   - [korea] Although the amount of foreign real estate alternative investment by domestic financial companies ha..
   - [taiwan] Taiwan Stocks Plunge, Asian Currencies Stay Cautious as APEC Summit Highlights
   - [taiwan] UBright eyes semiconductor, passive components and smart acoustics growth
-  - [china] [Local footage scheduled to be distributed] High-profile US-China summit meeting to be held later
   - [japan] BOJ's Ueda Vows to Keep Careful Eye on Fed Moves — Update
   - [china] Trump Suggests US Can Sell Blackwell Chips to China in Future
   - [japan] Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan dollar weakens as Asian currencies largely muted
   - [korea] Household debt of 2,030 trillion, home loan interest rate highest in 14 years... Vulnerable borrowers face dif
   - [japan] BOJ chief rules out further tweaks to pace of ETF sales
-  - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T07:02:50+00:00",
+      "published_utc": "2026-11-19T07:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
