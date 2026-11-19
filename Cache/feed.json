@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T15:12:41.900539+00:00",
- "collected_at_utc": "2026-11-19T15:12:41.900539+00:00",
+ "generated_at_utc": "2026-11-19T15:22:43.439865+00:00",
+ "collected_at_utc": "2026-11-19T15:22:43.439865+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1016,
+  "japan": 1017,
   "china": 898,
   "taiwan": 325,
-  "korea": 761
+  "korea": 760
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 165,
    "error": "",
-   "newest": "2026-11-19T14:54:47+00:00"
+   "newest": "2026-11-19T15:14:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T07:00:00+00:00"
+   "newest": "2026-11-19T14:48:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-19T18:00:00+09:00"
+   "newest": "2026-11-19T23:30:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-19T12:56:09+00:00"
+   "newest": "2026-11-19T15:13:57+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T10:35:04+00:00"
+   "newest": "2026-11-19T04:57:30+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T15:11:32+00:00"
+   "newest": "2026-11-19T15:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:09:00+00:00"
+   "newest": "2026-11-19T09:10:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -360,6 +360,23 @@
    "live_wire": false,
    "manual": false,
    "id": "98f39c7b2b76ddcc"
+  },
+  {
+   "source_id": "kantei_jnews",
+   "source_name": "Kantei 首相官邸",
+   "title_en": "Prime Minister Takaichi held a press conference regarding his telephone conversation with US President Trump",
+   "url": "https://www.kantei.go.jp/jp/105/statement/2026/1119kaiken.html",
+   "published_utc": "2026-11-19T14:30:00+00:00",
+   "title_original": "高市総理はトランプ米国大統領との電話会談についての会見を行いました",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "907f4f0f3fdd55c5"
   },
   {
    "source_id": "gn_kr_ked",
@@ -465,8 +482,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -480,7 +497,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -827,8 +844,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -842,7 +859,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "tradingview_live",
@@ -1761,8 +1778,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1775,7 +1792,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51885,24 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8b553ec077aa9e91"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
-   "title_en": "Bang Hong-ki appointed as Director of Monetary Policy at the Bank of Korea... Gangnam, Director of International Cooperation Department",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aZTlHN1hGZUpWSFh3dmpVMksxUDlPbVN1a0VTc1dIQ0V2YkMwdW9FM1pBQUcwYWNfcUV1Z0xsc3ZmcjlBYzZHQ0tEM1Q1NFRDT1hzWERjYkVhbVRya0ZhQzl6c3VsRU55RlNnejRSNmdlQQ?oc=5",
-   "published_utc": "2026-10-26T08:40:50+00:00",
-   "title_original": "한은 통화정책국장에 방홍기…국제협력국장 강남이",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2b1171d4adc753c5"
   },
   {
    "source_id": "manual_ia",
