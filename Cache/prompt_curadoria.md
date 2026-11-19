@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T06:42:42.301690+00:00
+Última coleta: 2026-11-19T06:52:44.565489+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] US-China summit meeting ends
+  - [korea] (LEAD) S. Korea's exports top US$1 tln for 1st time on strong chip demand
   - [taiwan] Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down
   - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
   - [japan] Japan Tobacco: Four Russian manufacturing entities placed under temporary administration
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ chief rules out further tweaks to pace of ETF sales
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
   - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
-  - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
-  - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T06:42:42+00:00",
+      "published_utc": "2026-11-19T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
