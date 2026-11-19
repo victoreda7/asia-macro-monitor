@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T09:42:44.742359+00:00
+Última coleta: 2026-11-19T09:52:43.147169+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
+  🇯🇵 Japão          1022
   🇨🇳 China          892
   🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  770
+  🇰🇷 Coreia do Sul  771
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
   - [korea] Inktec To Divest Real Estate Worth 63 Billion Won
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
@@ -47,8 +48,8 @@ Total: 3000 manchetes
   - [korea] Mh Materials Announces Disposal Of Real Estate Worth 10.7 Billion Won
   - [korea] South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says
   - [japan] Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations
-  - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
   - [japan] Developments in Real Exports and Real Imports
+  - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
   - [china] [Updated from time to time] Trilateral summit meeting between the US, China and Russia to be held
   - [korea] (LEAD) S. Korea's exports top US$1 tln for 1st time on strong chip demand
   - [taiwan] Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Tobacco: Four Russian manufacturing entities placed under temporary administration
   - [japan] Japan Tobacco: Russian deconsolidation leaves growth and JPY 204 DPS plans intact
   - [japan] Sompo Holdings, Inc. - To Buy Back Up To 1.7% Of Shares Worth 68 Billion Yen
-  - [korea] South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T09:42:44+00:00",
+      "published_utc": "2026-11-19T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

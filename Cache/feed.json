@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T09:42:44.742359+00:00",
- "collected_at_utc": "2026-11-19T09:42:44.742359+00:00",
+ "generated_at_utc": "2026-11-19T09:52:43.147169+00:00",
+ "collected_at_utc": "2026-11-19T09:52:43.147169+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1023,
+  "japan": 1022,
   "china": 892,
   "taiwan": 315,
-  "korea": 770
+  "korea": 771
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T09:01:45+00:00"
+   "newest": "2026-11-19T09:17:03+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T08:19:00+00:00"
+   "newest": "2026-11-19T09:43:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T09:36:08+00:00"
+   "newest": "2026-11-19T09:42:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T08:17:52+00:00"
+   "newest": "2026-11-19T09:22:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T07:00:45+00:00"
+   "newest": "2026-11-19T07:00:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T18:38:37+09:00"
+   "newest": "2026-11-19T18:47:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T09:41:56+00:00"
+   "newest": "2026-11-19T09:51:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T05:07:11+00:00"
+   "newest": "2026-11-19T08:08:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T02:43:40+00:00"
+   "newest": "2026-11-19T06:39:06+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -337,13 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-19T09:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit",
+   "url": "https://asia.nikkei.com/politics/international-relations/apec/japan-s-takaichi-criticizes-arbitrary-export-curbs-in-brief-china-visit",
+   "published_utc": "2026-11-19T09:52:42.138025+00:00",
+   "title_original": "Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a521c3abc82b439"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -362,8 +379,8 @@
    "id": "40099a0e6697d5cb"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T09:03:01+00:00",
@@ -377,7 +394,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "tradingview_live",
@@ -866,23 +883,6 @@
    "id": "57793796dc89a24c"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qc09MbGlKRDV3aW9IUW4xODZmcDNXWm1kRERiYjhwRDIwNzVuWXRzaUs3U3hCeEVUd0NvUzlaTjR3QjdpUUx6Y1dzUXRkSmhyUl9BNkE4MjMzUQ?oc=5",
-   "published_utc": "2026-11-19T07:00:45+00:00",
-   "title_original": "BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9bb4ca84eb390f78"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Developments in Real Exports and Real Imports",
@@ -898,6 +898,23 @@
    "live_wire": false,
    "manual": false,
    "id": "660ca9ffa7c57e97"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qc09MbGlKRDV3aW9IUW4xODZmcDNXWm1kRERiYjhwRDIwNzVuWXRzaUs3U3hCeEVUd0NvUzlaTjR3QjdpUUx6Y1dzUXRkSmhyUl9BNkE4MjMzUQ?oc=5",
+   "published_utc": "2026-11-19T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9bb4ca84eb390f78"
   },
   {
    "source_id": "nhk_politics",
@@ -1071,6 +1088,24 @@
    "live_wire": false,
    "manual": false,
    "id": "950759f867b96db7"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(News Focus) S. Korea breaks US$1 tln export barrier on AI chip boom, but risks loom",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUDZDSHJFa0FtUlpkX0JLX0RrcHNxbHpkbmVqMlVwTzJSbjFrTEVudWZMVmhtZnBudUxYZXZWcnhXSzBsWGVpQmVoRmtfSWVfcVlNUUpuT1lNQQ?oc=5",
+   "published_utc": "2026-11-19T05:38:26+00:00",
+   "title_original": "(News Focus) S. Korea breaks US$1 tln export barrier on AI chip boom, but risks loom",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cee6d68d16e7a1a3"
   },
   {
    "source_id": "investing_live",
@@ -1312,8 +1347,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1326,7 +1361,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "tradingview_live",
@@ -1761,23 +1796,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f4dd1bb53a4b0f5b"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
-   "published_utc": "2026-11-18T23:19:56+00:00",
-   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "investing_econ",
@@ -2519,6 +2537,23 @@
    "id": "a88b6b7bd14fc612"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "South Korea says China trade agreement to boost tourism, entertainment sectors",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2cyUmpJMG9YanZfOGk4eUVBT0NfTEVSYjloblMwcUxYdGNsN3hrMFozbHdzdU0yMVdnVnFxeE5NVGJuTDdCeGtjdDFsaHhyWm5DQUMxVm1RWnRuOFBqRHloYk0zNW5BbHJDZC0wbkNIb0wzUUJlczk5ZDE5VlpsdFVhRzBNSWZqUkhrbW1aWkU1TFVpa1RGS01YUk13NUdGVS1peWJuY09RSmJFOEFSRVhMSmNBazQ?oc=5",
+   "published_utc": "2026-11-18T09:43:34+00:00",
+   "title_original": "South Korea says China trade agreement to boost tourism, entertainment sectors",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "13020b769f45c3b1"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Citi raises its growth forecast for next year to 4.1%... “Semiconductor boom continues”",
@@ -3126,6 +3161,23 @@
    "live_wire": false,
    "manual": false,
    "id": "225858d7380e8a37"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+   "published_utc": "2026-11-18T03:21:00+00:00",
+   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -8318,23 +8370,6 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
-   "title_en": "Basic situation of the national real estate market from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyUjkwelNKSmNnVHFMSzMxaXQ4Nm9xczViSWtONFlRVk9HZkpVc09VUXhXcGRLeEYxeGxJbTRaTVVSNE5kTEEtVVhJVnBSLUxHN3FkLTZVaFJVUDVsZEJUYnFTY2ZoSk5RaE16aU9XTQ?oc=5",
-   "published_utc": "2026-11-16T02:00:00+00:00",
-   "title_original": "2026年1—10月份全国房地产市场基本情况",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7219691bc88f8788"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
    "title_en": "Basic situation of national fixed asset investment from January to October 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVkVXekQ1SmUwLThvRFlnRmpOdnY0WXFVTmY3SGZzZTVuc0hEUTNDUEx0OHh3TTVwV2NIRGQyMVZEcEVrLWEwMU4yZE5QX0lTc2huTlNyWlhnRlMxel9JUGplZmwwZEd5OVJoTFZEVQ?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
@@ -8348,6 +8383,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7a25ecddad9ea2ed"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Basic situation of the national real estate market from January to October 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyUjkwelNKSmNnVHFMSzMxaXQ4Nm9xczViSWtONFlRVk9HZkpVc09VUXhXcGRLeEYxeGxJbTRaTVVSNE5kTEEtVVhJVnBSLUxHN3FkLTZVaFJVUDVsZEJUYnFTY2ZoSk5RaE16aU9XTQ?oc=5",
+   "published_utc": "2026-11-16T02:00:00+00:00",
+   "title_original": "2026年1—10月份全国房地产市场基本情况",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7219691bc88f8788"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51849,58 +51901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "120e5136c1c8eb81"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Korea Investment Management enters Hong Kong ETF market with chip fund",
-   "url": "https://www.koreaherald.com/article/10914975",
-   "published_utc": "2026-10-26T05:38:02+00:00",
-   "title_original": "Korea Investment Management enters Hong Kong ETF market with chip fund",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e3d0dea28876474"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bill, etc.",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261026de65662",
-   "published_utc": "2026-10-26T05:21:07+00:00",
-   "title_original": "高市首相 消費税減税法案など早期成立に向け与党に協力求める",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "487f289eade68c4d"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Why is Japan tightening its immigration rules?",
-   "url": "https://asia.nikkei.com/video/why-is-japan-tightening-its-immigration-rules",
-   "published_utc": "2026-10-26T05:12:43.007178+00:00",
-   "title_original": "Why is Japan tightening its immigration rules?",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "72625907d7afb066"
   },
   {
    "source_id": "manual_ia",
