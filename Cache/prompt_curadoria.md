@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T06:23:06.091152+00:00
+Última coleta: 2026-11-19T06:32:41.740202+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
-  🇨🇳 China          908
+  🇯🇵 Japão          1026
+  🇨🇳 China          905
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sompo Holdings, Inc. - To Buy Back Up To 1.7% Of Shares Worth 68 Billion Yen
+  - [korea] South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom
+  - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
   - [japan] Prime Minister Takaichi's press conference after the APEC Summit [currently being streamed live]
   - [korea] South Korea's exports top $1 trillion for first time on chip boom
   - [china] Bernstein names top China semiconductor equipment stocks
@@ -24,6 +27,7 @@ Total: 3000 manchetes
   - [korea] South Korea is the fourth country in the world to join the $1 trillion export club.According to the
   - [korea] South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry
   - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
+  - [korea] South Korea is the fourth country in the world to join the $1 trillion export club. It is the first
   - [korea] South Korean entertainment stocks surge up to 30% on China trade deal
   - [japan] Japan auto industry targets common standards to strengthen supply chain
   - [japan] Japan AI selloff: These chips and electronics stocks were the worst hit
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118
   - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
-  - [japan] Financial environment is accommodative, interest rates will continue to rise depending on economic, price and 
-  - [china] The central bank launched a 767.5 billion yuan overnight reverse repurchase operation today
-  - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
-  - [taiwan] Microsoft’s chip packaging deal hands Intel credibility more than revenue
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T06:23:06+00:00",
+      "published_utc": "2026-11-19T06:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

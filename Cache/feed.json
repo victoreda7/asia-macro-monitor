@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T06:23:06.091152+00:00",
- "collected_at_utc": "2026-11-19T06:23:06.091152+00:00",
+ "generated_at_utc": "2026-11-19T06:32:41.740202+00:00",
+ "collected_at_utc": "2026-11-19T06:32:41.740202+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1025,
-  "china": 908,
+  "japan": 1026,
+  "china": 905,
   "taiwan": 312,
-  "korea": 755
+  "korea": 757
  },
- "elapsed_s": 52.3,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T06:18:00+00:00"
+   "newest": "2026-11-19T06:26:40+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T06:05:35+00:00"
+   "newest": "2026-11-18T13:14:26+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T15:16:02+09:00"
+   "newest": "2026-11-19T15:16:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T21:53:07+00:00"
+   "newest": "2026-11-19T03:25:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T06:22:00+00:00"
+   "newest": "2026-11-19T06:32:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T05:15:00+00:00"
+   "newest": "2026-11-19T06:17:23+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,11 +345,63 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sompo Holdings, Inc. - To Buy Back Up To 1.7% Of Shares Worth 68 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Z0ZL:0-sompo-holdings-inc-to-buy-back-up-to-1-7-of-shares-worth-68-billion-yen/",
+   "published_utc": "2026-11-19T06:31:50+00:00",
+   "title_original": "Sompo Holdings, Inc. - To Buy Back Up To 1.7% Of Shares Worth 68 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0613c54adfde03da"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47007H:0-south-korea-becomes-fourth-country-globally-to-hit-1-trillion-exports-on-ai-chip-boom/",
+   "published_utc": "2026-11-19T06:27:36+00:00",
+   "title_original": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0a8bfd97a6451762"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119000567:0-south-korean-tourism-stocks-rally-on-hopes-for-expanded-china-trade-pact/",
+   "published_utc": "2026-11-19T06:23:00+00:00",
+   "title_original": "South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "07ba76b586ed52d3"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's press conference after the APEC Summit [currently being streamed live]",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
-   "published_utc": "2026-11-19T06:16:02+00:00",
+   "published_utc": "2026-11-19T06:16:00+00:00",
    "title_original": "高市首相 APEC首脳会議 終了後の記者会見【ライブ配信中】",
    "region": "japan",
    "topics": [
@@ -464,6 +516,23 @@
    "live_wire": true,
    "manual": false,
    "id": "08cc982af06d6caa"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "South Korea is the fourth country in the world to join the $1 trillion export club. It is the first",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNmVUaGpqRUd0aTFXWVZBRVFLdmpkc01pRmpyRjJQUF9RUXJrdDFwYW9JMkdXazFrY0tocjJXNHNZUTlfbDVyZkozZC1PR2RKY0E?oc=5",
+   "published_utc": "2026-11-19T05:30:59+00:00",
+   "title_original": "South Korea is the fourth country in the world to join the $1 trillion export club. It is the first",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35b669ab2afac467"
   },
   {
    "source_id": "investing_live",
@@ -51831,75 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ed054c02a0450be8"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "COMMENTARY: Why China’s stimulus keeps missing the mark",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazJDSjk5eWVKMWY5eFVycmx2U3ZWUDRxRUhuVDVaNUlkcGNQN18tREhKOU1DWDE2d3puS0kwZHBGRU40NGk5YVZTZFBqVER2R2NhdEtYOGZNY19xVE02QVk1bXYtUDVWOWNmTVFzTG0yZmcxZVQyXzJNTndaOU1rTDc4NkllWmlkMldBUEdLNjJBTVN1T3RSVXJjSkE5RVlaUGlxSldVWWl3OWVYZkJvVV82MHY4bTJSZHZjWk8yQXFJeEdDam1n?oc=5",
-   "published_utc": "2026-10-25T23:08:48+00:00",
-   "title_original": "COMMENTARY: Why China’s stimulus keeps missing the mark",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bcd9f863030b2354"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스토마토",
-   "title_en": "Mortgage interest rates rise even though base interest rates are frozen",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TM1Z4a0xoVlJIcVlLNTdMczU1YnktNk5wVE1zdDhramMtQjhvUW1oVVdNVE9JSUVHdElrNDNza1drdVRNRjF6bm4xZ0NEYXJTbGdYV3BxNTlwMXdiODhzTw?oc=5",
-   "published_utc": "2026-10-25T23:04:35+00:00",
-   "title_original": "기준금리 동결에도 주담대 금리 더 오른다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26f37b9e2f183669"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep",
-   "url": "https://www.tradingview.com/news/te_news:594777:0-china-s-fiscal-expenditure-growth-slows-to-1-in-jan-sep/",
-   "published_utc": "2026-10-25T23:04:07+00:00",
-   "title_original": "China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c7d8b779f2844097"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding",
-   "url": "https://www.tradingview.com/news/tradingview:6e1da64a06fbf:0-weekly-recap-deepskill-370k-tools-and-deepseek-100bn-yuan-funding/",
-   "published_utc": "2026-10-25T23:00:00+00:00",
-   "title_original": "Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b0115819f10c99e0"
   },
   {
    "source_id": "manual_ia",
