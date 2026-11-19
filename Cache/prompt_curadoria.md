@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T18:22:43.372534+00:00
+Última coleta: 2026-11-19T18:33:02.057190+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
-  🇨🇳 China          903
+  🇨🇳 China          904
   🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [china] Canada's National Bank plans regular panda bond issuance as Ottawa-Beijing ties improve
   - [korea] Kinetiq: Bithumb Lists KNTQ for Spot Trading Against Korean Won - 19 Nov 2026
   - [china] DeepSeek Closes 100 Billion Yuan Funding Round
   - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] How semiconductors powered South Korea’s $1tr export milestone
   - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
   - [taiwan] Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity
-  - [korea] "Claude" developer Antropics broke through weak technology stocks to achieve the largest initial pub..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T18:22:43+00:00",
+      "published_utc": "2026-11-19T18:33:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
