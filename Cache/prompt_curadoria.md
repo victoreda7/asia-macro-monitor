@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T02:22:42.514248+00:00
+Última coleta: 2026-11-19T02:32:59.797383+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
-  🇨🇳 China          911
+  🇨🇳 China          912
   🇹🇼 Taiwan         308
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
@@ -21,9 +21,11 @@ Total: 3000 manchetes
   - [japan] BOJ chief offers upbeat view on consumption despite recent weakness
   - [taiwan] Taiwan dollar weakens as Asian currencies largely muted
   - [korea] Household debt of 2,030 trillion, home loan interest rate highest in 14 years... Vulnerable borrowers face dif
+  - [japan] BOJ chief rules out further tweaks to pace of ETF sales
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
   - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
+  - [china] Trump Suggests US Can Sell Blackwell Chips to China in Future
   - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
   - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays
   - [china] Xi, Putin blast Western ’protectionism’ and sanctions as Trump lands in China By Reuters
   - [china] China increases sugar production and should reduce imports in the new harvest, predicts StoneX
-  - [taiwan] Taiwan Semiconductor Manufacturing ADR
-  - [japan] Toyota, Suzuki rely on weak yen to keep profits growing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T02:22:42+00:00",
+      "published_utc": "2026-11-19T02:32:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
