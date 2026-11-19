@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T20:42:44.011132+00:00",
- "collected_at_utc": "2026-11-19T20:42:44.011132+00:00",
+ "generated_at_utc": "2026-11-19T20:52:43.703299+00:00",
+ "collected_at_utc": "2026-11-19T20:52:43.703299+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1014,
-  "china": 911,
+  "japan": 1013,
+  "china": 912,
   "taiwan": 325,
   "korea": 750
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T19:42:00+00:00"
+   "newest": "2026-11-19T19:27:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T20:33:02+00:00"
+   "newest": "2026-11-19T20:49:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T19:57:07+00:00"
+   "newest": "2026-11-19T20:42:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T20:41:30+00:00"
+   "newest": "2026-11-19T20:51:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T05:30:00+09:00"
+   "newest": "2026-11-20T05:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[Defense Industry] Interceptor missiles are classified as \"weapons\" like rifles, and they are told to \"repay the cost\" by exporting them... Former Director General of the Armed Services Agency talks about the difference with South Korea | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/964007?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-19T20:45:00+00:00",
+   "title_original": "〈防衛産業〉迎撃ミサイルも小銃と同じ｢武器｣区分､輸出で｢費用を返せ｣と言われる…元装備庁長官が語る韓国との差 | ビジネス | 東洋経済オンライン",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bda4aaece42c7b10"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -417,10 +434,10 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "US approved sale of almost 900,000 AI chips to China in six months – commission",
+   "title_en": "The US approved the sale of almost 900,000 AI chips to China in six months, the commission says",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N470173:0/",
    "published_utc": "2026-11-19T19:59:55+00:00",
-   "title_original": "EUA aprovaram venda de quase 900 mil chips de IA para a China em seis meses — comissão",
+   "title_original": "Os EUA aprovaram a venda de quase 900 mil chips de IA para a China em seis meses, afirma comissão",
    "region": "china",
    "topics": [
     "industrial"
@@ -429,7 +446,24 @@
    "translated": true,
    "live_wire": true,
    "manual": false,
-   "id": "dd36565604715220"
+   "id": "57022dadde2d8391"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N470162:0-us-signed-off-on-sales-of-nearly-900-000-ai-chips-to-china-in-six-months-committee-says/",
+   "published_utc": "2026-11-19T19:59:39+00:00",
+   "title_original": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8ccc215939820d05"
   },
   {
    "source_id": "tradingview_live",
@@ -739,8 +773,8 @@
    "id": "555a351f9a7ae5dc"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -754,7 +788,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -1101,8 +1135,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1116,7 +1150,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "tradingview_live",
@@ -1605,23 +1639,6 @@
    "id": "aa665de55b0bab88"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says",
-   "url": "https://www.tradingview.com/news/DJN_DN20261119001108_20261119001108:0-south-korea-s-annual-exports-top-1-trillion-for-first-time-trade-ministry-says/",
-   "published_utc": "2026-11-19T07:26:00+00:00",
-   "title_original": "South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "44830c06b1ec102a"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations",
@@ -1967,8 +1984,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1981,7 +1998,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2435,6 +2452,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -2726,24 +2761,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -3402,8 +3419,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더퍼블릭",
    "title_en": "Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook for a hike is also favorable.",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QV9hc2o2eElHWUFHbGhLdi03emNNYVl3OVhwRmdYQmsyMk1PcEtzaS1pOFFMaUplRTVLOTlJRkx5Q2tseG9ZQXpfTUdiQjM1ekNUcWJ5ZUJMY3ZrSldDcDRPSjVXSU5mVGRN0gFvQVVfeXFMT1Bha1BtMDRGS2VGdDFuUHlXdjVSZlZwYUdhZW1zTURyMEZNZHdPcUl4Qk5oOXlkWkJNbVhEcVpaeERYSk85cjdiam1HSmZ1UXlUaFhFc1dVTUYxNVV1N09nYlJSXzd1UUMxOTlkQTUw?oc=5",
-   "published_utc": "2026-11-18T07:07:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MNIBb0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MA?oc=5",
+   "published_utc": "2026-11-18T07:11:33+00:00",
    "title_original": "한은, 이달 기준금리 또 올리나…美 연준도 인상 전망 '우세'",
    "region": "korea",
    "topics": [
@@ -3413,7 +3430,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9883c1e475e793e0"
+   "id": "db5a2c2bb9e1ae86"
   },
   {
    "source_id": "nhk_politics",
@@ -3835,24 +3852,6 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
-   "published_utc": "2026-11-18T03:02:45+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c4fd48fae3d5e92"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -3956,6 +3955,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
+   "published_utc": "2026-11-18T02:07:21+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51880,24 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e14e49b13835c8c5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Euro firms against dollar, yen ahead of central bank meetings",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46C0ER:0-euro-firms-against-dollar-yen-ahead-of-central-bank-meetings/",
-   "published_utc": "2026-10-26T09:21:01+00:00",
-   "title_original": "Euro firms against dollar, yen ahead of central bank meetings",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "53a9ba04ed06df16"
   },
   {
    "source_id": "manual_ia",
