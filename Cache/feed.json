@@ -1,14 +1,14 @@
 {
- "generated_at_utc": "2026-11-19T13:02:40.913231+00:00",
- "collected_at_utc": "2026-11-19T13:02:40.913231+00:00",
+ "generated_at_utc": "2026-11-19T13:12:42.472458+00:00",
+ "collected_at_utc": "2026-11-19T13:12:42.472458+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1016,
-  "china": 895,
-  "taiwan": 322,
+  "china": 894,
+  "taiwan": 323,
   "korea": 767
  },
  "elapsed_s": 28.7,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T12:56:01+00:00"
+   "newest": "2026-11-19T13:11:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T21:39:16+09:00"
+   "newest": "2026-11-19T22:02:32+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T20:12:55+09:00"
+   "newest": "2026-11-19T22:02:32+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T13:02:00+00:00"
+   "newest": "2026-11-19T13:11:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T06:39:06+00:00"
+   "newest": "2026-11-19T05:38:26+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
+   "published_utc": "2026-11-19T13:02:32+00:00",
+   "title_original": "来年度の税制改正 自民税調が議論開始 税収格差是正など論点に",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d0db77cd82ac908f"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -690,24 +708,6 @@
    "id": "40099a0e6697d5cb"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
-   "published_utc": "2026-11-19T09:03:00+00:00",
-   "title_original": "来年度の税制改正 自民税調が議論開始 税収格差是正など論点に",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0db77cd82ac908f"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Businessworld",
    "title_en": "Chinese Steel Imports Put Pressure On India’s Capacity Expansion",
@@ -952,7 +952,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Taiwan Tightens Short Selling Curbs to Support Stock Market",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR25OelBZMklEc09hLWxCNG1VQ1dFVFNiLUlGVFBmcGRIN3NxTjNhYnA4TG9ISlkwTkMyOGRMb1c0VUNlZ2hMaHcwcHlaVzNIWXRESVVUV0o3cGUyT2cxb21RWFA3dWRJNUhzaTFGLWRSNUdwb3IxSVlpYV9IekFXcC1kenlOWmpabUNNcjB0Qm1IVjJuVmVzMXJtdnNXOE82U3pMRC1ndXlwN2FucjRSUmVPMGRIdw?oc=5",
    "published_utc": "2026-11-19T08:23:57+00:00",
@@ -2140,6 +2140,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -2431,24 +2449,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -4689,6 +4689,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b385306ea4255164"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Proposal to raise receipt lottery prizes prompts budget concerns",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpQnRXZEQ4TEd4TUlPQko3LWxvYVoyTVlYSGhNZTRCUTJzbC1jOUF1c18zMHI5RFI0YnU0UXk0dTZ1d3RlcS1oM01TTHVYSnlyOFpzbU1ValByVHlyUzlEWVo1OU5OM3l3NEcxeGRrRE9za3IwLTZObl9n?oc=5",
+   "published_utc": "2026-11-17T16:00:00+00:00",
+   "title_original": "Proposal to raise receipt lottery prizes prompts budget concerns",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c8f73af98ff21105"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -51886,24 +51903,6 @@
    "live_wire": false,
    "manual": false,
    "id": "151bf8728dda2526"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launched 56 billion yuan of 7-day and 398 billion yuan of overnight reverse repurchase operations.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0duSk5rNHRtVG9TS0R2amdORTVUd3VmTEJMR2pvSWpROWZsVlEtbF9HWVBrdUlBUm1vYV9vMF9WWE5FTkw3b2FqTmFWYkpJS1dfdHhQV3pCZ0Fib1Zra3h6TU16ODU3VEFYaGRpT0FrSGc5amFlUm83UnkxVnVUeGh5Ri1rVHNEOEw0?oc=5",
-   "published_utc": "2026-10-26T08:20:49+00:00",
-   "title_original": "央行开展560亿元7天期和3980亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2032719bbc79b151"
   },
   {
    "source_id": "manual_ia",

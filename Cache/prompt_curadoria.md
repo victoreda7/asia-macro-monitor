@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T13:02:40.913231+00:00
+Última coleta: 2026-11-19T13:12:42.472458+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
-  🇨🇳 China          895
-  🇹🇼 Taiwan         322
+  🇨🇳 China          894
+  🇹🇼 Taiwan         323
   🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
+  - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
   - [japan] JT to post 1.3 trillion yen loss on Russian business
@@ -37,7 +38,6 @@ Total: 3000 manchetes
   - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
   - [japan] Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen
   - [korea] Inktec To Divest Real Estate Worth 63 Billion Won
-  - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
   - [korea] Prices and growth rise together... Will the Bank of Korea further increase the base interest rate on the 26th?
   - [korea] How semiconductors powered South Korea’s $1tr export milestone
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T13:02:41+00:00",
+      "published_utc": "2026-11-19T13:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
