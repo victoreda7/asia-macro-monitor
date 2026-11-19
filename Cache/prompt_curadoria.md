@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T14:12:48.551110+00:00
+Última coleta: 2026-11-19T14:23:06.037802+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1015
-  🇨🇳 China          895
-  🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  764
+  🇨🇳 China          897
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  763
 
 ## O que já está no feed (não repita)
 
+  - [china] The first U.S.-China-Russia summit in history, what are the major powers' intentions, and what will be the imp
+  - [china] NetEase: CNY 27.9 billion in Q3 revenue, higher gross margin and expanding global game reach
   - [taiwan] TSMC and Samsung pause some chip shipments to China due to new US export rules: report
   - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
   - [korea] South Korea’s Exports Top $1 Trillion for First Time on AI Boom
-  - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
-  - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T14:12:48+00:00",
+      "published_utc": "2026-11-19T14:23:06+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
