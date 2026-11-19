@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T08:52:45.171737+00:00
+Última coleta: 2026-11-19T09:02:44.638390+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
+  - [korea] How semiconductors powered South Korea’s $1tr export milestone
   - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
   - [korea] "Claude" developer Antropics broke through weak technology stocks to achieve the largest initial pub..
   - [china] HAUTO: Strong Chinese exports offset disruption as capacity tightened and Q4 EBITDA was expected to improve
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Bernstein names top China semiconductor equipment stocks
   - [korea] S. Korea's exports top US$1 tln for 1st time on strong chip demand
   - [korea] South Korea is the fourth country in the world to join the $1 trillion export club.According to the
-  - [korea] South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry
-  - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T08:52:45+00:00",
+      "published_utc": "2026-11-19T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
