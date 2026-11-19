@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T10:22:41.122429+00:00
+Última coleta: 2026-11-19T10:32:41.455935+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
-  🇨🇳 China          892
-  🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  769
+  🇯🇵 Japão          1022
+  🇨🇳 China          893
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC And Samsung Suspend Some Chip Shipments To Chinese Customers - FT
   - [japan] Japan Tobacco to book 1.38 tril. yen loss over Russia asset seizure
+  - [taiwan] Taiwan hopes to sign trade deal with Canada soon after Carney's remarks
+  - [taiwan] Taiwan unlikely to be Trump-Xi-Putin topic 'from what we know': MAC
   - [china] Trump begins historic trilateral talks with Xi, Putin in China
+  - [china] China's Moonshot AI Scraps $150 Million Deal To Access Nvidia Chips In Indonesia - The Information
   - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
   - [japan] Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen
   - [korea] Inktec To Divest Real Estate Worth 63 Billion Won
@@ -35,6 +39,7 @@ Total: 3000 manchetes
   - [japan] Defense spending "isn't just about the amount" Funding sources "consider fiscal sustainability" Prime Minister
   - [korea] LG Display cancels 3 trillion won investment plan on OLED production facility
   - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
+  - [korea] South Korea’s Exports Top $1 Trillion for First Time on AI Boom
   - [korea] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t E
   - [taiwan] Taiwan Tightens Short Selling Curbs to Support Stock Market
   - [korea] AI boom boosts semiconductors, South Korea's exports exceed US$1 trillion for the first time, and is expected 
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says
   - [japan] Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations
   - [japan] Developments in Real Exports and Real Imports
-  - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
-  - [china] [Updated from time to time] Trilateral summit meeting between the US, China and Russia to be held
-  - [korea] (LEAD) S. Korea's exports top US$1 tln for 1st time on strong chip demand
-  - [taiwan] Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down
-  - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T10:22:41+00:00",
+      "published_utc": "2026-11-19T10:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
