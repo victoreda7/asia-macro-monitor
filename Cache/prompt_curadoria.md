@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T05:32:43.067309+00:00
+Última coleta: 2026-11-19T05:42:41.294127+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
-  🇨🇳 China          907
+  🇯🇵 Japão          1025
+  🇨🇳 China          909
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [china] Bernstein names top China semiconductor equipment stocks
+  - [korea] South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry
+  - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
   - [korea] South Korean entertainment stocks surge up to 30% on China trade deal
   - [japan] Japan auto industry targets common standards to strengthen supply chain
   - [japan] Japan AI selloff: These chips and electronics stocks were the worst hit
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Oil Imports Rebound as Beijing Turns Back to Stockpiling
   - [japan] Interest Rate (November 18 2026)
   - [japan] JAPAN SEPT MACHINERY ORDERS: CABINET OFFICE NOTES 3-MONTH MOVING AVERAGE +0.3% FOR 2ND STRAIGHT M/M RISE AFTER
-  - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS NON-MANUFACTURING SECTOR -0.8% Q/Q, 2ND STRAIGHT QUARTER FALL VS. -2.3% IN
-  - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS MANUFACTURING SECTOR +8.0% Q/Q, 1ST RISE IN 2 QUARTERS VS. -1.3% IN APR-JU
-  - [japan] JAPAN CABINET OFFICE: OCT-DEC CORE MACHINE ORDERS PROJECTED AT +4.3% Q/Q, 5TH STRAIGHT RISE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T05:32:43+00:00",
+      "published_utc": "2026-11-19T05:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

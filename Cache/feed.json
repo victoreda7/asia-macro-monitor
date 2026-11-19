@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T05:32:43.067309+00:00",
- "collected_at_utc": "2026-11-19T05:32:43.067309+00:00",
+ "generated_at_utc": "2026-11-19T05:42:41.294127+00:00",
+ "collected_at_utc": "2026-11-19T05:42:41.294127+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1028,
-  "china": 907,
+  "japan": 1025,
+  "china": 909,
   "taiwan": 312,
-  "korea": 753
+  "korea": 754
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T05:15:06+00:00"
+   "newest": "2026-11-19T05:34:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T19:00:39+00:00"
+   "newest": "2026-11-19T05:35:10+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-19T05:29:34+00:00"
+   "newest": "2026-11-19T05:36:29+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-08T08:00:00+00:00"
+   "newest": "2026-11-16T07:11:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:53:08+00:00"
+   "newest": "2026-11-19T01:59:24+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T04:37:55+00:00"
+   "newest": "2026-11-19T03:05:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T13:38:52+00:00"
+   "newest": "2026-11-18T23:34:09+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T05:17:34+00:00"
+   "newest": "2026-11-18T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T05:20:00+00:00"
+   "newest": "2026-11-19T05:40:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T03:00:08+00:00"
+   "newest": "2026-11-18T07:18:18+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,57 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Bernstein names top China semiconductor equipment stocks",
+   "url": "https://www.investing.com/news/stock-market-news/bernstein-names-top-china-semiconductor-equipment-stocks-5037769",
+   "published_utc": "2026-11-19T05:34:44+00:00",
+   "title_original": "Bernstein names top China semiconductor equipment stocks",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f2e75aad23800438"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46106C:0-south-korea-2026-exports-hit-1-trillion-milestone-yonhap-citing-trade-ministry/",
+   "published_utc": "2026-11-19T05:32:52+00:00",
+   "title_original": "South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "298d44b08ab84d1e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N470078:0/",
+   "published_utc": "2026-11-19T05:31:21+00:00",
+   "title_original": "Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "08cc982af06d6caa"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -483,7 +534,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Trump Suggests US Can Sell Blackwell Chips to China in Future",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2RmcllMcDNES1UzSmxVelRjcV9LUHZzVVQzaVA3Z0tKczJqMHBuaXh0X2NMVXFUSGR6V28tMkh6VWNJUmxuMXdiQTFuMzJsUExCa0Y4V3NXV2xtSzVIN2hvcS1zY3FFbGlJMlRZVExYVDVMMXlFWjRObUZKWGc1bHB3QkVEQkIzSVlaN3VpNFVrNXJScG9oV2Q0Yzc5ams2ME1VWTRrZWNfdkxHbFZnV1dn?oc=5",
    "published_utc": "2026-11-19T04:00:00+00:00",
@@ -499,8 +550,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -513,7 +564,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "tradingview_live",
@@ -2225,7 +2276,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Nvidia Stops Selling AI Chips to China Despite US Approval",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
    "published_utc": "2026-11-18T04:10:46+00:00",
@@ -2276,7 +2327,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "PBOC Sets Strongest Yuan Fix Since 2022 to Allow Further Gains",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWktWbDdabmdxdFFjUXFFZkFPRnlxY2tOVlk0a2U0ZUM5VENHVlRnNDZoemFGSWdCbGRjTWpSbHI5X09pSUg1dENHaFZQTUhqTnRMNjlJYmM1ZHVObllRYTkwQm1obDJONnEwWkZiSEZuV0dJbWpuVm5GMHZQbEJ6VVR1VUROYTdfbXJDSWRZQ3Npd3lDektpZkhnLVJyejh4eG5LalUyS01IWFRRM28wTmxINA?oc=5",
    "published_utc": "2026-11-18T03:53:00+00:00",
@@ -46202,6 +46253,23 @@
    "id": "991d49763d85a707"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "SK hynix’s $45bn shareholder return plan lifts chip stocks",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfRmZ0NlE1RG9jdDY1eTctTDhFUldLUE1aWS1vX0dpQzhvYU9XSnV4NGo3czZEQ2NENlB2ZG1RazZQcTRKSV9XYXNVTElVY2JiblRYU0FWWQ?oc=5",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "title_original": "SK hynix’s $45bn shareholder return plan lifts chip stocks",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e31dfd13d08372"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Yen strengthens against dollar following Warsh's remarks",
@@ -46618,23 +46686,6 @@
    "live_wire": false,
    "manual": false,
    "id": "821fa5cfcc8369cb"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "SK hynix’s $45bn shareholder return plan lifts chip stocks",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfRmZ0NlE1RG9jdDY1eTctTDhFUldLUE1aWS1vX0dpQzhvYU9XSnV4NGo3czZEQ2NENlB2ZG1RazZQcTRKSV9XYXNVTElVY2JiblRYU0FWWQ?oc=5",
-   "published_utc": "2026-10-28T02:11:13+00:00",
-   "title_original": "SK hynix’s $45bn shareholder return plan lifts chip stocks",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e31dfd13d08372"
   },
   {
    "source_id": "investing_live",
@@ -51848,59 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "709caf2a7da60510"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261025de65328",
-   "published_utc": "2026-10-25T21:03:35+00:00",
-   "title_original": "日銀10月会合 政策を維持する見通し 2%物価到達が焦点",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "df4664cd630972a7"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan decision meeting & changes in payment methods etc. = Some points to consider in FSR (Hirotoshi Kubozono) - Expert",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0UxSy10ck01ZVYxTm45c3JqVXpyTEdZNHRxUnkwTDY2ek4tS1JtRU0xXzhUZnhxbDBtQUcxeWxxdUp6SjlVaTQ5aGVmSzhGUjNuTU8xbkF0ZmczcEpXRVFZMkRCQnkwZzdCdVJUeVNzVVhNbE1QT2R6SldHMk9fYUoxRjRFdTgy?oc=5",
-   "published_utc": "2026-10-25T21:01:31+00:00",
-   "title_original": "日銀決定会合＆決済方式の変遷etc＝ＦＳＲでいくつかの考察点（窪園博俊） - エキスパート",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aafc130e8f85ee1b"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of support funds",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261025de65353",
-   "published_utc": "2026-10-25T20:46:00+00:00",
-   "title_original": "消費税減税法案 与党 通過時期探る 野党 支援金対象明示を",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef0f735e6a304067"
   },
   {
    "source_id": "manual_ia",
