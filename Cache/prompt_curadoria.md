@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T02:12:41.040538+00:00
+Última coleta: 2026-11-19T02:22:42.514248+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
+  🇯🇵 Japão          1027
   🇨🇳 China          911
-  🇹🇼 Taiwan         307
+  🇹🇼 Taiwan         308
   🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row By Investing.com
+  - [japan] BOJ chief offers upbeat view on consumption despite recent weakness
+  - [taiwan] Taiwan dollar weakens as Asian currencies largely muted
+  - [korea] Household debt of 2,030 trillion, home loan interest rate highest in 14 years... Vulnerable borrowers face dif
   - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row
   - [china] On November 19, the central bank launched a 767.5 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China increases sugar production and should reduce imports in the new harvest, predicts StoneX
   - [taiwan] Taiwan Semiconductor Manufacturing ADR
   - [japan] Toyota, Suzuki rely on weak yen to keep profits growing
-  - [china] LVGEM (China) Real Estate Investment Says Public Float Was Below Minimum From Dec 2024 To Nov 2026
-  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 125.48, Implies 40% Upside
-  - [korea] Samvardhana Motherson Says Cheongju District Court Approves Liquidation Of Subsidiary MSSL Korea WH
-  - [china] The central bank launches 714 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T02:12:41+00:00",
+      "published_utc": "2026-11-19T02:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
