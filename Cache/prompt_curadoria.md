@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T01:22:53.835517+00:00
+Última coleta: 2026-11-19T01:32:43.665289+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
   - [japan] Japan Data Preview: Hotter Inflation Expected in October CPI Report
   - [japan] Interest Rate (November 18 2026)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk
   - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
   - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
-  - [china] Nvidia stops shipping US-approved AI chips to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T01:22:54+00:00",
+      "published_utc": "2026-11-19T01:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
