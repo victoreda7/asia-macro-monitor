@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T07:22:44.164999+00:00
+Última coleta: 2026-11-19T07:32:45.575734+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1029
-  🇨🇳 China          903
+  🇯🇵 Japão          1030
+  🇨🇳 China          899
   🇹🇼 Taiwan         313
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea rides AI boom to new height as exports hit $1 trillion
+  - [japan] Tokio Marine Holdings, Inc. - To Buy Back Up To 9.6% Of Shares Worth 280 Billion Yen
+  - [korea] South Korea's 2026 Exports Have Topped $1 Trillion as of Thursday, Trade Ministry Says
+  - [korea] Mh Materials Announces Disposal Of Real Estate Worth 10.7 Billion Won
+  - [korea] South Korea's Annual Exports Top $1 Trillion for First Time, Trade Ministry Says
+  - [china] [Breaking News] Did they exchange opinions on trade, AI, etc. at the US-China summit meeting?
   - [japan] Nikkei average stock price rises AI/semiconductor related stocks Buying based on expectations
-  - [china] [Breaking news] US-China summit ends; did they exchange opinions on trade, AI, etc.
   - [japan] BREAKING NEWS: Japan Tobacco to log 1.38 tril. yen loss over loss of Russian business
   - [japan] Developments in Real Exports and Real Imports
   - [china] [Updated from time to time] Trilateral summit meeting between the US, China and Russia to be held
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ's Ueda Reaffirms Readiness to Keep Raising Rates
   - [korea] [Reporter Ki's Money Story⑪] Why is the loan interest rate rising even though the base interest rate remains t
   - [taiwan] Lam Research's Taiwan R&D expansion targets faster chip development with TSMC
-  - [japan] Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row By Investing.com
-  - [japan] BOJ chief plays down soft consumption data, signals near-term rate hike
-  - [japan] BOJ chief offers upbeat view on consumption despite recent weakness
-  - [taiwan] Taiwan dollar weakens as Asian currencies largely muted
-  - [korea] Household debt of 2,030 trillion, home loan interest rate highest in 14 years... Vulnerable borrowers face dif
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T07:22:44+00:00",
+      "published_utc": "2026-11-19T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
