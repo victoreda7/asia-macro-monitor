@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-18T23:52:43.038518+00:00
+Última coleta: 2026-11-19T00:03:52.109143+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          909
+  🇯🇵 Japão          1027
+  🇨🇳 China          906
   🇹🇼 Taiwan         310
-  🇰🇷 Coreia do Sul  758
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN SEPT MACHINERY ORDERS: CABINET OFFICE NOTES 3-MONTH MOVING AVERAGE +0.3% FOR 2ND STRAIGHT M/M RISE AFTER
+  - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS NON-MANUFACTURING SECTOR -0.8% Q/Q, 2ND STRAIGHT QUARTER FALL VS. -2.3% IN
+  - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS MANUFACTURING SECTOR +8.0% Q/Q, 1ST RISE IN 2 QUARTERS VS. -1.3% IN APR-JU
+  - [japan] JAPAN CABINET OFFICE: OCT-DEC CORE MACHINE ORDERS PROJECTED AT +4.3% Q/Q, 5TH STRAIGHT RISE
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
   - [japan] Bank of Japan to raise interest rates in December and again by end-March, economists say
   - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 124.4, Implies 39% Upside
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese steel exports could hit 130 million tonnes in 2026, threaten Indian industry: T V Narendran
   - [china] Nvidia to Stop Selling Advanced AI Chips to China
   - [china] Nvidia Makes Major China Decision After $2.4 Billion in AI Chip Sales
-  - [taiwan] Taiwan Semiconductor Director Purchased Shares Worth Over $500K
-  - [china] Nvidia stops shipping "Hopper" AI chips to China
-  - [china] Xingyun Technology Signs AI Token Services Contract Worth Up To 2 Billion Yuan
-  - [china] Zhongji Innolight's Chairperson Proposes A-Share Buyback With 2-4 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-18T23:52:43+00:00",
+      "published_utc": "2026-11-19T00:03:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
