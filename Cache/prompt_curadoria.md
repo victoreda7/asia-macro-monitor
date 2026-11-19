@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T10:03:10.610662+00:00
+Última coleta: 2026-11-19T10:12:41.429944+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Trump begins historic trilateral talks with Xi, Putin in China
   - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
   - [japan] Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen
   - [korea] Inktec To Divest Real Estate Worth 63 Billion Won
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down
   - [korea] South Korean Tourism Stocks Rally on Hopes for Expanded China Trade Pact
   - [japan] Japan Tobacco: Four Russian manufacturing entities placed under temporary administration
-  - [japan] Japan Tobacco: Russian deconsolidation leaves growth and JPY 204 DPS plans intact
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T10:03:10+00:00",
+      "published_utc": "2026-11-19T10:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

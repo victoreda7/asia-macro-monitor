@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-19T10:03:10.610662+00:00",
- "collected_at_utc": "2026-11-19T10:03:10.610662+00:00",
+ "generated_at_utc": "2026-11-19T10:12:41.429944+00:00",
+ "collected_at_utc": "2026-11-19T10:12:41.429944+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 315,
   "korea": 770
  },
- "elapsed_s": 57.5,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-19T09:57:26+00:00"
+   "newest": "2026-11-19T10:04:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T18:54:14+09:00"
+   "newest": "2026-11-19T19:07:46+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-19T18:52:37+09:00"
+   "newest": "2026-11-19T19:05:21+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T16:00:00+00:00"
+   "newest": "2026-11-19T08:30:15+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T10:01:44+00:00"
+   "newest": "2026-11-19T10:12:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T06:39:06+00:00"
+   "newest": "2026-11-19T05:38:26+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -337,13 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-19T09:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Trump begins historic trilateral talks with Xi, Putin in China",
+   "url": "https://www.investing.com/news/economy-news/trump-begins-historic-trilateral-talks-with-xi-putin-in-china-5038233",
+   "published_utc": "2026-11-19T10:04:44+00:00",
+   "title_original": "Trump begins historic trilateral talks with Xi, Putin in China",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d585e10194a0d685"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -362,11 +379,11 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
-   "published_utc": "2026-11-19T09:52:37+00:00",
+   "published_utc": "2026-11-19T09:52:00+00:00",
    "title_original": "片山財務相 支援金対象の所得下限“年収56万円程度で検討”",
    "region": "japan",
    "topics": [
@@ -377,7 +394,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "tradingview_live",
@@ -397,8 +414,8 @@
    "id": "40099a0e6697d5cb"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T09:03:01+00:00",
@@ -412,7 +429,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "tradingview_live",
@@ -1365,8 +1382,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -1379,7 +1396,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "tradingview_live",
@@ -5472,7 +5489,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korea set to achieve US$1 trillion export milestone for 1st time",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tcVhsWVFncGlMSGJaR2pUT2xyc1JsbGlRRG15WDlRUl9SaFR2aUx5clVBQkJrWXlibjIxRFFxdzA3dzFLN1dwR1JRRXVoYXk3VG9nVk9FdUxsdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWp0TVp6MU5ybzJTM0VLU3p5QXZWOC00M3c1eEpYNl9FZG5ESFJPUVNNTGpCS0tzREp6ZWVsMlBOX3ZNRDBIb1JQanlmUFdUR1UzeWZJV1ByVDJoUFQxeGlTVTQzYUd5Q0h3ZElUNmFkTWFqVzhQb2dwbEdyX0tmbkNjN0s?oc=5",
    "published_utc": "2026-11-17T06:30:02+00:00",
    "title_original": "S. Korea set to achieve US$1 trillion export milestone for 1st time",
    "region": "korea",
@@ -5483,7 +5500,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f3760c7b6dc9a9b5"
+   "id": "9fe075d366a5f4a4"
   },
   {
    "source_id": "focus_taiwan",
@@ -5641,6 +5658,25 @@
    "live_wire": false,
    "manual": false,
    "id": "ef48af856930c221"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "IMF raises S. Korea's 2026 growth forecast to 3.9 pct on chip boom",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdWhTM2lzY2RGRERzZTU5WDNJZnItUTM5R3FGZVZNakxDZmx2aUo1dkswc1VlbjZWS0ItZFNCZEJ4Q1RkRDlwZDdyRU5fWVdzN3dsQm1iczlnZw?oc=5",
+   "published_utc": "2026-11-17T05:00:05+00:00",
+   "title_original": "IMF raises S. Korea's 2026 growth forecast to 3.9 pct on chip boom",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc03887715dae6bc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7561,7 +7597,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Benchmark rate for banks' mortgage loans continues to rise",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMU1XN0RBZjczU0c5aEJTOGpRMnJBQ2lldmJhcGE3R0p2T1FzcEFYTUJTX1A5WjI2alkxRFJ3Z3VVSVNtcVdSYWZMZFlPbElhZ0duNkwzOTlHQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmloZDlVZl8xaERON005QVozRHV2Z3Y4QVpUZ1N3QWZVSS1Ta3lPYkIycDZ6WVNDNW1yaE1DXy1Gcmd3YlB5R0xKaWE2WXZsS1BrUUVoQ3B0QVhIVDVPeFoxTUQ2UXlYUzRPSHVQeG9aZlIySldsN2FpaWdrelVWa2t3SzU?oc=5",
    "published_utc": "2026-11-16T06:27:48+00:00",
    "title_original": "Benchmark rate for banks' mortgage loans continues to rise",
    "region": "korea",
@@ -7573,7 +7609,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "aaf04f01b05f3af8"
+   "id": "9d2ad122cf7be1df"
   },
   {
    "source_id": "investing_live",
@@ -25790,6 +25826,23 @@
    "id": "04cb28092718bf41"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Finance minister vows timely actions to ease stock market volatility",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2cXJYNFBWRXdXYmJzSGpyODhRX3FaOHZfbHYtNE51ZzJOVDVENDVnRFExaUh3VUJwYWpaREhNeTR4S2JwT3U4aFVxZ0lYT1dFZGNKV0g4VGU2UQ?oc=5",
+   "published_utc": "2026-11-06T08:00:00+00:00",
+   "title_original": "Finance minister vows timely actions to ease stock market volatility",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3864ca2b227f6607"
+  },
+  {
    "source_id": "gn_asia_ft",
    "source_name": "Financial Times",
    "title_en": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
@@ -26994,23 +27047,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b7357a37ad354388"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Finance minister vows timely actions to ease stock market volatility",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2cXJYNFBWRXdXYmJzSGpyODhRX3FaOHZfbHYtNE51ZzJOVDVENDVnRFExaUh3VUJwYWpaREhNeTR4S2JwT3U4aFVxZ0lYT1dFZGNKV0g4VGU2UQ?oc=5",
-   "published_utc": "2026-11-06T00:18:24+00:00",
-   "title_original": "Finance minister vows timely actions to ease stock market volatility",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3864ca2b227f6607"
   },
   {
    "source_id": "tradingview_live",
@@ -28634,6 +28670,23 @@
    "id": "d006de6af1fe60ac"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbcc5b21551bd2ee"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
@@ -29047,23 +29100,6 @@
    "live_wire": false,
    "manual": false,
    "id": "93af20b2efee6a80"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
-   "published_utc": "2026-11-05T06:30:34+00:00",
-   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bbcc5b21551bd2ee"
   },
   {
    "source_id": "korea_herald_biz",
@@ -44456,6 +44492,23 @@
    "id": "252d591a4e32dd9f"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZZUtMMFgzM1FlWkI1d21LRVl2MEM4SUw3UkhOLWgxU2FmWHVNMFRKQjFqa1VkZnJUVzdpMk15bHd6NTlFSFRMLUhwdzVYOENWZWNZNUJWQU1vZw?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "title_original": "Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "af9bd504721d3555"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "파이낸셜뉴스",
    "title_en": "The Bank of Korea's first base interest rate decision for next year will be on January 14th.",
@@ -45883,23 +45936,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8d18baa5f6e73b64"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZZUtMMFgzM1FlWkI1d21LRVl2MEM4SUw3UkhOLWgxU2FmWHVNMFRKQjFqa1VkZnJUVzdpMk15bHd6NTlFSFRMLUhwdzVYOENWZWNZNUJWQU1vZw?oc=5",
-   "published_utc": "2026-10-28T21:00:03+00:00",
-   "title_original": "Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "af9bd504721d3555"
   },
   {
    "source_id": "toyo_keizai",
@@ -51868,40 +51904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7f6b0fe3f4902bfe"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Beyond exports: China's automakers dig deeper into Europe",
-   "url": "https://www.koreaherald.com/article/10915036",
-   "published_utc": "2026-10-26T05:57:01+00:00",
-   "title_original": "Beyond exports: China's automakers dig deeper into Europe",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ecaa6ce4016d9ee4"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea's Lee says unlikely to join Pacific trade pact within his term",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUlocHg0Wi1HZlV3d1NxZTgzNnI4VnpNaXl2OWNfaWVPT0dUQTZZdUVuMWx4QVQ1YTk2QTF5aEltWF9FdExLRnUwZ2d1RTh2alVlMWxVLUxQVUhLdGQ0V29uaFBxeWFSUEdhNFBZOEJYM2EwbEhkZFJ1WGl5WUwyd1NQMk9qM1hfWkY0Wjg2Z1lQTldRQmQweUV5VTFQQjhUaEx3a1V6OTNaZm5pWUc4VnFyNXdHY1lSSjVZTHdiZ0lhaEU?oc=5",
-   "published_utc": "2026-10-26T05:52:00+00:00",
-   "title_original": "South Korea's Lee says unlikely to join Pacific trade pact within his term",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bea9455ecd2c980a"
   },
   {
    "source_id": "manual_ia",
