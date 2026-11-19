@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T22:42:42.979990+00:00
+Última coleta: 2026-11-19T22:52:43.181845+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
-  🇨🇳 China          911
+  🇨🇳 China          912
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  747
+  🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Inflation Data Due On Friday
+  - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
+  - [china] California AG subpoenas Nvidia over alleged China chip leak and investor fraud
   - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
   - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
   - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
@@ -26,7 +29,6 @@ Total: 3000 manchetes
   - [japan] 〈Buy it! 〉Who is right about the doubling of sales of government bonds to individuals: individuals who think i
   - [taiwan] "Full tuition fee exemption, 50,000 yen monthly scholarship" Reasons why Taiwanese universities treat Japanese
   - [korea] [Defense Industry] Interceptor missiles are classified as "weapons" like rifles, and they are told to "repay t
-  - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
   - [korea] At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..
   - [china] License information for AI chips sent to China released by US House committee
   - [china] The US approved the sale of almost 900,000 AI chips to China in six months, the commission says
@@ -48,7 +50,6 @@ Total: 3000 manchetes
   - [china] NetEase: CNY 27.9 billion in Q3 revenue, higher gross margin and expanding global game reach
   - [taiwan] TSMC and Samsung pause some chip shipments to China due to new US export rules: report
   - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
-  - [japan] JT to post 1.3 trillion yen loss on Russian business
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [taiwan] TSMC acquires 0.03% stake in Anthropic for US$500 million
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's APEC envoy urges 'wise' AI development, chip resilience
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
-  - [china] Trump suggests Nvidia's Blackwell chips could go to China later
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T22:42:43+00:00",
+      "published_utc": "2026-11-19T22:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
