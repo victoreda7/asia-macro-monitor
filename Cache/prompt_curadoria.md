@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T13:12:42.472458+00:00
+Última coleta: 2026-11-19T13:22:43.599178+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [japan] Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disp
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] AI boom boosts semiconductors, South Korea's exports exceed US$1 trillion for the first time, and is expected 
   - [korea] The last Bank of Korea Monetary Policy Committee D-7 of the year... Interest rate hike weighs on inflation and
   - [korea] Korean Drama Producers Likely to Benefit From China Trade Talks — Market Talk
-  - [korea] South Korean shares end higher as country joins $1 trillion export club
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T13:12:42+00:00",
+      "published_utc": "2026-11-19T13:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
