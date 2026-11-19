@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T19:42:42.956790+00:00
+Última coleta: 2026-11-19T19:56:57.868185+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1016
-  🇨🇳 China          904
+  🇯🇵 Japão          1014
+  🇨🇳 China          908
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
+  - [china] US House of Representatives Committee releases information on licenses for AI chips sent to China
+  - [china] License information for AI chips sent to China released by US House committee
+  - [china] Offshore yuan dip looks like a liquidity blip, not a trend shift
   - [china] Why China's EVs could throw a wrench into EU, UK trade talks
   - [taiwan] TSMC and Samsung's China Chip Pause Has Stakes Beyond AI
   - [china] Canada's National Bank plans regular panda bond issuance as Ottawa-Beijing ties improve
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China's Moonshot AI Scraps $150 Million Deal To Access Nvidia Chips In Indonesia - The Information
   - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
   - [japan] Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen
-  - [korea] Inktec To Divest Real Estate Worth 63 Billion Won
-  - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
-  - [korea] Prices and growth rise together... Will the Bank of Korea further increase the base interest rate on the 26th?
-  - [korea] How semiconductors powered South Korea’s $1tr export milestone
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T19:42:43+00:00",
+      "published_utc": "2026-11-19T19:56:58+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
