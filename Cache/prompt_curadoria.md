@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T03:42:41.168303+00:00
+Última coleta: 2026-11-19T03:52:42.734925+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1029
+  🇯🇵 Japão          1028
   🇨🇳 China          910
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  752
+  🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
+  - [korea] Apple seeks to lock in memory supply as Samsung, SK hynix gain leverage
   - [korea] A 10% increase in the value of the won will reduce the cost of living per household by more than 160..
   - [japan] BOJ's Ueda Reaffirms Readiness to Keep Raising Rates
   - [korea] [Reporter Ki's Money Story⑪] Why is the loan interest rate rising even though the base interest rate remains t
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Is there a way out for the food service industry, which is facing headwinds if the food tax is cut? The differ
   - [japan] Next year's tax reform: Issues such as correction of uneven distribution between Tokyo and regional areas Libe
   - [china] U.S.-China-Russia summit meeting: Ukraine's foreign minister ``It is impossible to make a decision without the
-  - [korea] SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T03:42:41+00:00",
+      "published_utc": "2026-11-19T03:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
