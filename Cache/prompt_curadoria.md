@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T18:12:41.555664+00:00
+Última coleta: 2026-11-19T18:22:43.372534+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1017
@@ -33,7 +33,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [taiwan] TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules
   - [taiwan] Taiwan's APEC envoy urges 'wise' AI development, chip resilience
-  - [japan] JT to post 1.3 trillion yen loss on Russian business
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
   - [china] Trump suggests Nvidia's Blackwell chips could go to China later
@@ -50,6 +49,7 @@ Total: 3000 manchetes
   - [china] China's Moonshot AI Scraps $150 Million Deal To Access Nvidia Chips In Indonesia - The Information
   - [japan] Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit
   - [japan] Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen
+  - [japan] JT to post 1.3 trillion yen loss on Russian business
   - [korea] Inktec To Divest Real Estate Worth 63 Billion Won
   - [china] Chinese Steel Imports Put Pressure On India’s Capacity Expansion
   - [korea] Prices and growth rise together... Will the Bank of Korea further increase the base interest rate on the 26th?
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T18:12:41+00:00",
+      "published_utc": "2026-11-19T18:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
