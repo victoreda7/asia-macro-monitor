@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T21:52:44.445639+00:00
+Última coleta: 2026-11-19T22:03:06.796048+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1014
+  🇯🇵 Japão          1015
   🇨🇳 China          911
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  749
+  🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
   - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
   - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
   - [korea] Producer prices drop in Oct. on lower food prices
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] It is rumored that the new US export control regulations have impacted TSMC and Samsung to suspend some chip s
   - [japan] [Toyo Keizai "Market Commentary" Live Stream] What will happen to Japanese stocks in 2027? / Commentary by Tak
   - [china] Trump suggests Nvidia's Blackwell chips could go to China later
-  - [china] Indonesia defends a sinking rupiah as China reins in a rising yuan - IntelliNews Lambda
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T21:52:44+00:00",
+      "published_utc": "2026-11-19T22:03:07+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
