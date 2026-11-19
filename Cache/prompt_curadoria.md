@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T23:42:42.459872+00:00
+Última coleta: 2026-11-19T23:46:43.461369+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
-  🇨🇳 China          914
+  🇯🇵 Japão          1024
+  🇨🇳 China          912
   🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Consumer Inflation Accelerates Amid Rate-Hike Views
+  - [japan] Japan Oct core CPI rises 2.2% yr/yr
   - [japan] JAPAN OCT INFLATION EDGES UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS, LEADING OVERALL ENERGY COS
+  - [japan] Japan's core inflation accelerates in October, cementing rate hike expectations
   - [japan] JAPAN OCT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.2% Y/Y, 55TH STRAIGHT RISE (SEPT +2.4%); MEDIAN FORECAST +2
   - [japan] JAPAN OCT TOTAL CPI +2.3% Y/Y, 62ND STRAIGHT RISE (SEPT +2.1%); MEDIAN FORECAST +2.6%
   - [japan] JAPAN OCT CORE CPI (EXCLUDING FRESH FOOD) +2.2% Y/Y, 62ND STRAIGHT RISE (SEPT +2.1%); MEDIAN FORECAST +2.4%
-  - [japan] Japan Oct core CPI rises 2.2% yr/yr
   - [korea] ‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'
   - [japan] The true nature of the "sure profits" that Netflix invests in production costs of "2.5 trillion yen a year"...
   - [china] Why China's EVs could throw a wrench into EU, UK trade talks
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Short seller Hunterbrook shorts AMD citing concerns over China exports
   - [japan] Prime Minister Takaichi receives an explanation from President Trump about the U.S.-China-Russia summit meetin
   - [japan] Prime Minister Takaichi held a press conference regarding his telephone conversation with US President Trump
-  - [korea] Boston Dynamics to test Atlas humanoid robots at GlobalFoundries chip plants
-  - [china] Nvidia Faces a New China Reality After Trump's Latest AI Chip Comments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T23:42:42+00:00",
+      "published_utc": "2026-11-19T23:46:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

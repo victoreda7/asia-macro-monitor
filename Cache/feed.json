@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-19T23:42:42.459872+00:00",
- "collected_at_utc": "2026-11-19T23:42:42.459872+00:00",
+ "generated_at_utc": "2026-11-19T23:46:43.461369+00:00",
+ "collected_at_utc": "2026-11-19T23:46:43.461369+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1022,
-  "china": 914,
+  "japan": 1024,
+  "china": 912,
   "taiwan": 325,
   "korea": 739
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 45.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T23:36:24+00:00"
+   "newest": "2026-11-19T23:43:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:11:34+00:00"
+   "newest": "2026-11-19T13:34:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:59:24+00:00"
+   "newest": "2026-11-19T01:53:08+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-19T23:41:00+00:00"
+   "newest": "2026-11-19T23:44:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 30,
    "error": "",
    "newest": "2026-11-19T23:16:47+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Consumer Inflation Accelerates Amid Rate-Hike Views",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011041:0-japan-consumer-inflation-accelerates-amid-rate-hike-views/",
+   "published_utc": "2026-11-19T23:44:00+00:00",
+   "title_original": "Japan Consumer Inflation Accelerates Amid Rate-Hike Views",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "97f50a20abec70f9"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan Oct core CPI rises 2.2% yr/yr",
+   "url": "https://www.investing.com/news/economic-indicators/japan-oct-core-cpi-rises-22-yryr-5040343",
+   "published_utc": "2026-11-19T23:43:01+00:00",
+   "title_original": "Japan Oct core CPI rises 2.2% yr/yr",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a41b2d0bb8844db1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -360,6 +394,24 @@
    "live_wire": true,
    "manual": false,
    "id": "7c6b2a16766c8496"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's core inflation accelerates in October, cementing rate hike expectations",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4700FV:0-japan-s-core-inflation-accelerates-in-october-cementing-rate-hike-expectations/",
+   "published_utc": "2026-11-19T23:40:47+00:00",
+   "title_original": "Japan's core inflation accelerates in October, cementing rate hike expectations",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b59f6936d9034200"
   },
   {
    "source_id": "tradingview_live",
@@ -411,23 +463,6 @@
    "live_wire": true,
    "manual": false,
    "id": "28456b0e509708c6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan Oct core CPI rises 2.2% yr/yr",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-11-19:newsml_AZN4TW1N4:0-japan-oct-core-cpi-rises-2-2-yr-yr/",
-   "published_utc": "2026-11-19T23:30:09+00:00",
-   "title_original": "Japan Oct core CPI rises 2.2% yr/yr",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bd820e95448692bc"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1118,8 +1153,8 @@
    "id": "555a351f9a7ae5dc"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -1133,7 +1168,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -1480,8 +1515,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1495,7 +1530,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "tradingview_live",
@@ -1670,23 +1705,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6179bfe143b19042"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years",
-   "url": "https://www.tradingview.com/news/stocktwits:6243efa9f094b:0-nvda-intc-stocks-ease-post-5-day-rout-after-meeting-xi-jinping-trump-says-nvidia-blackwell-chips-could-reach-china-within-2-3-years/",
-   "published_utc": "2026-11-19T08:33:56+00:00",
-   "title_original": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c18e0dc155f28f92"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2210,8 +2228,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2224,7 +2242,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -5504,24 +5522,6 @@
    "id": "819da848ba232bb9"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "网易新闻客户端",
-   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03NjZXUnJoLVY1R1ljWG9fa3B0bnU0Y2E0UnhKWTlvQlFrellacFllWTZZUjVxVktSR21Zdjg3V2ZjM3ppbm4yVS1Ld1otZmlFWVJyTjJuUExLRVct?oc=5",
-   "published_utc": "2026-11-17T13:41:00+00:00",
-   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "707bf33530c71622"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
@@ -5537,6 +5537,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b9cd217b45d1f01b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalBpOG5leTJ0LTdnMjQ5YWJNSEVsMzQ0eGlwemZ2NjQ4azVrQjQyOVFOR3VUMTdUQ2FrdV9FWGh1b0hzaUoxWkpWSmFKTl9uYXhKZk5YS19Ednd4WEFFSW9tYUZCSklvYnJqY01qUllSbzVrUDM4UFdFTUxlbVhRamJwa0tIajRFeERKSUY0cw?oc=5",
+   "published_utc": "2026-11-17T13:32:00+00:00",
+   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "91da37975e8dd297"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10819,23 +10837,6 @@
    "id": "bb076d70525a6a8e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqbjhUd2JIRUhkM0pQRGkzYWlPNlhDNUo3ZU1Talk3TUtZTXdmeV9vcWFiZUxET0x2RVpkVU5NRW5kVDc4R1lycy0xNUpQQ2lHR3BsRm50WXo?oc=5",
-   "published_utc": "2026-11-15T03:00:07+00:00",
-   "title_original": "今起生效！金融机构外汇存款准备金率提高至6%",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ad38b1d80134e7c"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "비즈워치",
    "title_en": "Household loans increase again... Will the base interest rate be raised this month?",
@@ -10887,23 +10888,6 @@
    "id": "14991c770d3d07d2"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Increase to 6%! The central bank’s major adjustments officially take effect today",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNnU4WDBUT1lROU8xazRCdWMtelYxLUlBREN0V3hpSGotQjlYT19GRmxQUmxrWVRGeUxRMXBQcERXbTVrbXRibDllcVR6ckF4T1ljbWZPYkhScTI0LU5GOTJacw?oc=5",
-   "published_utc": "2026-11-15T02:00:15+00:00",
-   "title_original": "提高至6%！央行重大调整，今日正式生效",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a33bd841a9a17044"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "20% say they have seen or heard slander against the Ainu people, Cabinet Office poll",
@@ -10919,6 +10903,23 @@
    "live_wire": false,
    "manual": false,
    "id": "04e228190243999e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "Increase to 6%! The central bank’s major adjustments officially take effect today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnJkMWlWYlNCMndvNE82NGxGcmNIZWZwNHQ4VWluUDVzVFZEamxZN1JjODlUWlJWTVlQUW9fcFR1eTl4UUplYUloa3dEVm81Q0JZeFhKUWdWekltdm1NZi03c2k3MVFMdUVvMFhuN0Q1dTQzdGhIODlkWnQ4bDlqNDVudy00aElaRkVzeHF1WQ?oc=5",
+   "published_utc": "2026-11-15T01:52:37+00:00",
+   "title_original": "提高至6%！央行重大调整，今日正式生效",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ea0834f48c4002c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -11130,6 +11131,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f201929d33fedf03"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "Effective from today! The foreign exchange deposit reserve ratio of financial institutions increased to 6%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiYmotMjYyeVR4UktvaHZpY0hGTVJBMC1TLXR5ck85NncxbkFVVkhjVTJLWnRGR1JIcXVPUllta3ZQYUVreWZiZGNQWVN5eWV0dUx1dkVn?oc=5",
+   "published_utc": "2026-11-14T10:51:00+00:00",
+   "title_original": "今起生效！金融机构外汇存款准备金率提高至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "104191c4bbd80857"
   },
   {
    "source_id": "nhk_politics",
@@ -51882,23 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d79f84dd0e43e2d4"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "China plans to strengthen the protection of trade secrets and ban foreign investment in the import and export of technology | Cross-Strait",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90ZDhILWZSbTFrWnNpeWlDMnpJR0VMOVlzdHdsZUZnVmhHanBTbEV0WUVHMnFmVzg5eW1tRFp2WnpsNU15cUJFZ3BRRE9oUFhyemtwQ1d4VElIcFNtTFE?oc=5",
-   "published_utc": "2026-10-26T12:46:00+00:00",
-   "title_original": "中國擬加強保護商業秘密可禁外資進出口技術| 兩岸",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e8bbb531f78add81"
   },
   {
    "source_id": "manual_ia",
