@@ -7,19 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T01:32:43.665289+00:00
+Última coleta: 2026-11-19T01:42:43.821212+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          909
-  🇹🇼 Taiwan         308
+  🇯🇵 Japão          1026
+  🇨🇳 China          911
+  🇹🇼 Taiwan         307
   🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY767.5 BLN VIA O/N REVERSE REPO THURS
+  - [korea] Samsung Electronics plays down concerns about neocloud companies and AI bubble
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7128 THURS VS 6.7118
+  - [japan] Financial environment is accommodative, interest rates will continue to rise depending on economic, price and 
+  - [japan] BOJ Governor Ueda says financial conditions loose despite rate hikes
+  - [china] The central bank launched a 767.5 billion yuan overnight reverse repurchase operation today
   - [korea] Samsung Electronics downplays concerns about neocloud firms and AI bubble
   - [china] To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse
   - [japan] Japan Data Preview: Hotter Inflation Expected in October CPI Report
+  - [china] China Oil Imports Rebound as Beijing Turns Back to Stockpiling
   - [japan] Interest Rate (November 18 2026)
   - [japan] JAPAN SEPT MACHINERY ORDERS: CABINET OFFICE NOTES 3-MONTH MOVING AVERAGE +0.3% FOR 2ND STRAIGHT M/M RISE AFTER
   - [japan] JAPAN JULY-SEPT CORE MACHINE ORDERS NON-MANUFACTURING SECTOR -0.8% Q/Q, 2ND STRAIGHT QUARTER FALL VS. -2.3% IN
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launches 714 billion yuan overnight reverse repurchase operation
   - [china] 'All Chinese players' will rely on domestic chips eventually: Tencent
   - [china] China’s first lady Peng Liyuan lets her English do the talking in Trump welcome
-  - [china] JD.com, Inc. Class A Stock 12‑Month Price Target Cut to CNY 126.21, Implies 41% Upside
-  - [japan] SoftBank Group Corp. Stock 12‑Month Price Target Cut to JPY 8,156, Implies 149% Upside
-  - [china] Tencent Says US Chip Curbs to Slow Chinese AI in the Short Run
-  - [taiwan] First winter seafood shipment from Taiwan arrives in Beijing amid push for cross-Strait trade ties
-  - [japan] Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027 — Market Talk
-  - [china] China seeks advanced Nvidia chips for AI weapons despite US restrictions: report
-  - [china] China seeks advanced Nvidia chips for AI weapons despite US curbs, report says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T01:32:43+00:00",
+      "published_utc": "2026-11-19T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
