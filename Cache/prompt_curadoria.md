@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T05:42:41.294127+00:00
+Última coleta: 2026-11-19T05:52:45.506518+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
+  🇯🇵 Japão          1024
   🇨🇳 China          909
   🇹🇼 Taiwan         312
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
   - [china] Bernstein names top China semiconductor equipment stocks
+  - [korea] S. Korea's exports top US$1 tln for 1st time on strong chip demand
+  - [korea] South Korea is the fourth country in the world to join the $1 trillion export club.According to the
   - [korea] South Korea 2026 exports hit $1 trillion milestone, Yonhap citing trade ministry
   - [china] Musk promete aumentar a produção da Tesla na fábrica da China, segundo a mídia estatal chinesa
   - [korea] South Korean entertainment stocks surge up to 30% on China trade deal
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Microsoft’s chip packaging deal hands Intel credibility more than revenue
   - [japan] Japan Data Preview: Hotter Inflation Expected in October CPI Report
   - [china] China Oil Imports Rebound as Beijing Turns Back to Stockpiling
-  - [japan] Interest Rate (November 18 2026)
-  - [japan] JAPAN SEPT MACHINERY ORDERS: CABINET OFFICE NOTES 3-MONTH MOVING AVERAGE +0.3% FOR 2ND STRAIGHT M/M RISE AFTER
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T05:42:41+00:00",
+      "published_utc": "2026-11-19T05:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
