@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T10:52:42.624646+00:00
+Última coleta: 2026-11-20T11:02:43.700226+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1039
+  🇯🇵 Japão          1040
   🇨🇳 China          910
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s rare earth magnet exports to US and EU fall after September rebound
+  - [japan] Japan-Peru summit meeting agrees on cooperation for stable supply of important minerals
   - [china] China's Central Bank Governor Meets With Mastercard CEO
   - [china] Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say
   - [japan] Japanese Yen a Key Beneficiary of AI-Related Risk Aversion — Market Talk
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [taiwan] Taiwan stocks suffered a bloodbath, and the New Taiwan dollar rose in late trading despite the decline. The ce
+  - [taiwan] Legislature passes US$18.41 billion supplementary budget for 2026
   - [china] Trump administration signed off nearly 900,000 Nvidia, AMD AI chips for China in six months
   - [japan] ​​[Industry reorganization] What does it mean for ANA to make Air Do & Solaseed a wholly owned subsidiary? Is 
   - [china] Tongwei Plans Share Buyback With 1-2 Billion Yuan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix: to exercise convertible bond option for stake in Kioxia
   - [china] China's yttrium exports to US hit seven-month high
   - [china] Chinese Carmakers Tighten Grip on Overseas Sales Channels
-  - [china] China's central bank to sell $7.5 billion worth of yuan bills in Hong Kong
-  - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Should we raise the base inte
-  - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T10:52:42+00:00",
+      "published_utc": "2026-11-20T11:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

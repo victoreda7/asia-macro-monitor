@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T10:52:42.624646+00:00",
- "collected_at_utc": "2026-11-20T10:52:42.624646+00:00",
+ "generated_at_utc": "2026-11-20T11:02:43.700226+00:00",
+ "collected_at_utc": "2026-11-20T11:02:43.700226+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1039,
+  "japan": 1040,
   "china": 910,
   "taiwan": 318,
-  "korea": 733
+  "korea": 732
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T17:40:00+08:00"
+   "newest": "2026-11-20T18:10:05+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T10:43:29+00:00"
+   "newest": "2026-11-20T10:53:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T19:50:58+09:00"
+   "newest": "2026-11-20T19:53:53+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T19:34:29+09:00"
+   "newest": "2026-11-20T20:00:35+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T08:30:05+00:00"
+   "newest": "2026-11-20T11:00:06+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T10:52:00+00:00"
+   "newest": "2026-11-20T11:01:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T08:20:52+00:00"
+   "newest": "2026-11-20T05:19:04+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T21:00:07+00:00"
+   "newest": "2026-11-19T10:42:04+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T08:44:53+00:00"
+   "newest": "2026-11-20T08:39:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "China’s rare earth magnet exports to US and EU fall after September rebound",
+   "url": "https://www.scmp.com/economy/china-economy/article/3375248/chinas-rare-earth-magnet-exports-us-and-eu-fall-after-september-rebound",
+   "published_utc": "2026-11-20T11:00:06+00:00",
+   "title_original": "China’s rare earth magnet exports to US and EU fall after September rebound",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fd1fcb77557ffbc"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Japan-Peru summit meeting agrees on cooperation for stable supply of important minerals",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de79377",
+   "published_utc": "2026-11-20T10:53:53+00:00",
+   "title_original": "日本 ペルー首脳会談 重要鉱物の安定供給に向けた連携で一致",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7630619b19cf3254"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -430,6 +465,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6800db4059903e32"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Legislature passes US$18.41 billion supplementary budget for 2026",
+   "url": "https://focustaiwan.tw/politics/202611200016",
+   "published_utc": "2026-11-20T10:09:03+00:00",
+   "title_original": "Legislature passes US$18.41 billion supplementary budget for 2026",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "82972832f41ab999"
   },
   {
    "source_id": "tradingview_live",
@@ -1344,8 +1396,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -1359,7 +1411,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "tradingview_live",
@@ -1585,8 +1637,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -1599,7 +1651,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2001,24 +2053,6 @@
    "live_wire": false,
    "manual": false,
    "id": "06a3fde81d55aab2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
-   "published_utc": "2026-11-20T00:16:58+00:00",
-   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3105,8 +3139,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -3120,7 +3154,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -3397,8 +3431,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -3412,7 +3446,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4109,8 +4143,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -4123,7 +4157,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -12593,6 +12627,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6f7e7d999a55e883"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "85% chance of interest rate hike in September... The burden on the Bank of Korea increased due to rising oil prices and exchange rates.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PeWlTX0RHTmdtdlc2Y3RhRlZKdkIwT3dmN1A5alQ2a3NkaXNQaVNmY0N6RUhOMnVQUjJ2SHRDNmkyMTR3LXFxZnFZTDFkMWhiQlZOa2FTV09KS3MzUzYySkYtYw?oc=5",
+   "published_utc": "2026-11-15T06:23:25+00:00",
+   "title_original": "美 9월 금리인상 확률 85%…고유가·환율 상승에 한은 부담 커졌다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec7baa9a70361068"
   },
   {
    "source_id": "tradingview_live",
@@ -51837,57 +51889,6 @@
    "live_wire": false,
    "manual": false,
    "id": "218c631dc8932755"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "BofA: China core semiconductor sales rise 24% in June-August",
-   "url": "https://www.investing.com/news/stock-market-news/bofa-china-core-semiconductor-sales-rise-24-in-juneaugust-93CH-4974383",
-   "published_utc": "2026-10-27T08:13:20+00:00",
-   "title_original": "BofA: China core semiconductor sales rise 24% in June-August",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c8a193be2d594e10"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Kospi hits one-week high as Samsung, SK Hynix rally on Anthropic, payout hopes",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScWRxc1dmTnNUNnlZRU1RZXp1YWZGNVc1cW1TeXVaTUJZTEtieTk0MUJ5Z0NhdTJTQ3VfZm1OQ3JQYmEwQVdsa3JsdkJNT04xN0lNbHVCZHZtUFFNZVBDUXR3RTNPQV9RR1dBeFBpWFZBQktsX2ZKUVVR?oc=5",
-   "published_utc": "2026-10-27T08:05:00+00:00",
-   "title_original": "Kospi hits one-week high as Samsung, SK Hynix rally on Anthropic, payout hopes",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d861c18021a79643"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "JIMTOF 2026 draws 94 Taiwan machine tool exhibitors",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFVBNnF2Q0pNRFhza0ZIOVloaHoxWC1mX1VVNnpFYlE2YW1BemxxazZXMmYwd0ExQjM0d1BMX1JRcnJ0clJzR2FVTHhXbzA1RmZEQVBHNXZVMGdhc1o2WVBwM3J0WFhJSGJLUk9ZSDUyYVJEOEVWR3dzZzhEN0g1WHpaUWFmbkhEVXlBNmpEc2tOQUhXNS1DdkpWNlc5bWM?oc=5",
-   "published_utc": "2026-10-27T07:56:00+00:00",
-   "title_original": "JIMTOF 2026 draws 94 Taiwan machine tool exhibitors",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "054095e32004d48c"
   },
   {
    "source_id": "manual_ia",
