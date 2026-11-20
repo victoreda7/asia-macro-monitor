@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T12:22:50.069692+00:00
+Última coleta: 2026-11-20T12:33:10.792701+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1041
+  🇯🇵 Japão          1042
   🇨🇳 China          910
-  🇹🇼 Taiwan         319
+  🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yomiuri: Japan Tobacco Projects 724 Billion Yen Net Loss After Losing Control of Russian Units
   - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
   - [taiwan] New mortgage loans in October hit a new high in more than a year and a half. The effects of the central bank's
   - [china] U.S. Fuel Prices Likely to Keep Falling on Rising Gulf, Chinese Exports, Energy Chief Says — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Japan's MS&AD to Merge Life Insurance Subsidiaries
   - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
   - [china] Factbox-Global investment banks see Chinese yuan’s gradual appreciation extending into 2027
-  - [japan] House of Councilors Special Committee Local Hearing: Consumption tax reduction “Support for local governments,
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T12:22:50+00:00",
+      "published_utc": "2026-11-20T12:33:11+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
