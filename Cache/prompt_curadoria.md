@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T10:42:43.981037+00:00
+Última coleta: 2026-11-20T10:52:42.624646+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1039
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Central Bank Governor Meets With Mastercard CEO
+  - [china] Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say
   - [japan] Japanese Yen a Key Beneficiary of AI-Related Risk Aversion — Market Talk
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [taiwan] Taiwan stocks suffered a bloodbath, and the New Taiwan dollar rose in late trading despite the decline. The ce
@@ -32,7 +34,6 @@ Total: 3000 manchetes
   - [korea] From robot pets to virtual livers: Apple Developer Academy showcases projects at Postech
   - [china] China's January-October fiscal revenues up 4.9% y/y
   - [taiwan] TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption
-  - [china] Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say
   - [china] China's January-October government land sales revenue down 25.8% Y/Y
   - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
   - [korea] The Korean won is expected to strengthen as demand to convert the dollar earned during the semicondu..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's central bank to sell $7.5 billion worth of yuan bills in Hong Kong
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Should we raise the base inte
   - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
-  - [korea] The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T10:42:44+00:00",
+      "published_utc": "2026-11-20T10:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
