@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T03:32:42.978405+00:00
+Última coleta: 2026-11-20T03:42:47.861968+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1051
+  🇯🇵 Japão          1050
   🇨🇳 China          901
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  728
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] China's fuel oil exports for bunkering ease in October while imports rebound
+  - [japan] Result of Liquidity Enhancement Auction on November 20, 2026(For JGB Market Special Participants)
   - [japan] Japan Core CPI Likely to Accelerate to 2.7% in November — Market Talk
   - [japan] Finance Minister Katayama: JT’s huge loss “will not affect growth investment”
   - [japan] The consumer price index rose 2.2% in October, exceeding the Bank of Japan's 2% target for the second consecut
@@ -35,6 +37,7 @@ Total: 3000 manchetes
   - [japan] Japan core inflation picks up, makes case for BoJ rate hike stronger
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [japan] Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk
+  - [korea] [Next week's economic schedule] Possibility of Bank of Korea interest rate hike... ‘Thanksgiving’ begins the U
   - [korea] Samsung Electronics, SK hynix slide on Wall Street tech selloff
   - [korea] SK Hynix was the largest net buyer of the top 1% return on stock investment in early trading on the
   - [china] The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Protec Co Wins 23.4 Billion Won Order From Samsung Electronics
   - [japan] Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears
   - [japan] Japan CPI Rises to Fastest This Year, Backing BOJ Hike Case
-  - [korea] Samsung Electronics appoints new head for its memory chip business
-  - [japan] Interest Rate (November 19 2026)
-  - [japan] Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T03:32:43+00:00",
+      "published_utc": "2026-11-20T03:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T03:32:42.978405+00:00",
- "collected_at_utc": "2026-11-20T03:32:42.978405+00:00",
+ "generated_at_utc": "2026-11-20T03:42:47.861968+00:00",
+ "collected_at_utc": "2026-11-20T03:42:47.861968+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1051,
+  "japan": 1050,
   "china": 901,
   "taiwan": 320,
-  "korea": 728
+  "korea": 729
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-20T03:24:35+00:00"
+   "newest": "2026-11-20T03:20:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T12:30:00+09:00"
+   "newest": "2026-11-20T12:35:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T12:24:31+09:00"
+   "newest": "2026-11-20T12:24:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T12:24:31+09:00"
+   "newest": "2026-11-20T12:24:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "newest": "2026-11-20T02:51:39+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T03:31:10+00:00"
+   "newest": "2026-11-20T03:41:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,11 +339,45 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "newest": "2026-11-20T00:04:00+00:00"
+   "newest": "2026-11-20T01:47:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's fuel oil exports for bunkering ease in October while imports rebound",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47109K:0-china-s-fuel-oil-exports-for-bunkering-ease-in-october-while-imports-rebound/",
+   "published_utc": "2026-11-20T03:36:36+00:00",
+   "title_original": "China's fuel oil exports for bunkering ease in October while imports rebound",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6bf80902dad68b09"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Result of Liquidity Enhancement Auction on November 20, 2026(For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261120.htm",
+   "published_utc": "2026-11-20T03:35:00+00:00",
+   "title_original": "Result of Liquidity Enhancement Auction on November 20, 2026(For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9ba1c9cb93e2e75b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -366,7 +400,7 @@
    "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
-   "published_utc": "2026-11-20T03:24:31+00:00",
+   "published_utc": "2026-11-20T03:24:00+00:00",
    "title_original": "片山財務相 JTの巨額損失計上“成長投資に影響及ぼさない”",
    "region": "japan",
    "topics": [
@@ -523,7 +557,7 @@
    "source_name": "NHK 経済",
    "title_en": "October consumer price index +2.2% compared to the same month last year Index excluding fresh food",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
-   "published_utc": "2026-11-20T02:25:06+00:00",
+   "published_utc": "2026-11-20T02:25:00+00:00",
    "title_original": "10月消費者物価 前年同月比＋2.2％ 生鮮食品除く指数",
    "region": "japan",
    "topics": [
@@ -655,6 +689,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e592428b38fd20d4"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "SBS Biz",
+   "title_en": "[Next week's economic schedule] Possibility of Bank of Korea interest rate hike... ‘Thanksgiving’ begins the US year-end shopping season",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVlNnNjM2RFNETGVBcVJsS0J0MnEzWFVXY0VBWWVfZWxYWk9vY1J4NXJfVEIwZ2hWdHEwVjlFdHBRclJYZGdCYVp4SVF3X3F1WEZUSUVSSFXSAVhBVV95cUxNV1ZTZzYzNkRTRExlQXFSbEtCdDJxM1hVV2NFQVllX2VsWFpPb2NSeDVyX1RCMGdoVnRxMFY5RXRwUXJSWGRnQmFaeElRd19xdVhGVElFUkhV?oc=5",
+   "published_utc": "2026-11-20T01:47:00+00:00",
+   "title_original": "[다음 주 경제일정] 한국은행 기준금리 인상 가능성…'추수감사절' 美 연말 쇼핑시즌 시작",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aaf97daa6b8e64cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51841,59 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5842588dee41f8d3"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Japanese Yen’s Role in Latin American Carry Trade Withstands Brazil Rout",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTQ2N29zeVVLU0YwR3ZIcVhXaGxVNjQwY3hja2ZseUctWGxkV2k4anc2TkcwaS1RbnhwUkRMYXNDZy16TFVNbFhpNVppYzNzYVB4aFlQRjJ4VDdzdWlOczJzbWtVZFNwdmg0dkdDTG1UZ2F2VmVlTWljanNhSWtmQ1JMLUtoTGs1bjNMNXJ5cDRDeEZFU1M0ejNMNVZfb2RrQ1Y0VkNTMFJvZUNLbXQ3SVo5LXA?oc=5",
-   "published_utc": "2026-10-27T01:53:00+00:00",
-   "title_original": "Japanese Yen’s Role in Latin American Carry Trade Withstands Brazil Rout",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "112926ec9a708de7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ESll3R3BoUHFoTnNJUzYxQWFSZUVMSzlHY1pCNkYxeHo0cElkRl9HdTJCb1VHT0dVR1c3aHN3aFluYV9SUDBEa05lM2JyTDN4TzZyWDBWTGZSb2tWRUxjVThWXzNTejZn?oc=5",
-   "published_utc": "2026-10-27T01:51:41+00:00",
-   "title_original": "10月27日央行开展4120亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d883e0ce4b65f4e4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Business Service Prices Accelerate Ahead of BOJ Meeting",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2Zha1YzUkZSOW40ZDdNOWRzTkxMcGlPM3hpRVNXbjR6Nk1fUDRXRmQwbFZUb21uRTdNbVl5eWpzWUcydEs2S3VMWl9aMDVtRDVqODZjMFloZ2RJMkY2N1ZjUDdDZ0psSEdpMU10NnVwT0dXVHRGUEtkVTNzbVFIVGlQUzFNTndCb1loWEpfV3NiRzBPWV9iLW5JYU1ueVBhM3NEQ2szcURHWHlGdEprTTVHcTU?oc=5",
-   "published_utc": "2026-10-27T01:44:13+00:00",
-   "title_original": "Japan’s Business Service Prices Accelerate Ahead of BOJ Meeting",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "992e13bc7fc603f5"
   },
   {
    "source_id": "manual_ia",
