@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T17:42:42.581795+00:00
+Última coleta: 2026-11-20T17:52:43.370487+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
-  🇨🇳 China          918
-  🇹🇼 Taiwan         319
+  🇨🇳 China          919
+  🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [china] Republican Senator Tom Cotton says Lutnick ignored his China chip warnings, WSJ reports
   - [china] Commerce Secretary, Top Officials Ignored Communications About Nvidia Chips Being Diverted to China, Cotton Sa
   - [china] Sen. Tom Cotton: Commerce Department Ignored His Warnings About Megaspeed, China Chip Diversion — WSJ
   - [china] Top Republican Senator Says Lutnick Ignored His China Chip Warnings — WSJ
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen a Key Beneficiary of AI-Related Risk Aversion — Market Talk
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [taiwan] Taiwan stocks suffered a bloodbath, and the New Taiwan dollar rose in late trading despite the decline. The ce
-  - [taiwan] Legislature passes US$18.41 billion supplementary budget for 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T17:42:42+00:00",
+      "published_utc": "2026-11-20T17:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
