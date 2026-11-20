@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T15:22:42.611067+00:00
+Última coleta: 2026-11-20T15:32:44.244309+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1040
-  🇨🇳 China          913
-  🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  731
+  🇨🇳 China          914
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Google shifts 2027 AI chip orders from Broadcom to MediaTek, Ming-Chi Kuo says
+  - [china] US TSY'S BESSENT Q&A/CNBC: TAKEN 'COMMON SENSE' APPROACH TO CHINA REMOTE USE OF TOP CHIPS; RE LUTNICK, 'ALL CO
   - [china] US TSY'S BESSENT Q&A/CNBC: NVIDIA DID NOT COME UP IN DISCUSSIONS W/CHINA; SEEN 'PAUCITY OF ORDERS FOR H200 CHI
   - [korea] JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145
   - [china] Spacex’s Subsidiary Cursor Tells Lawmakers It’s Considering Phasing Out Chinese AI Models- CNBC
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix to become top shareholder in rival Kioxia after bond conversion
   - [japan] Yen market price rise, US dollar selling movement due to fall in long-term interest rates
   - [korea] S.Korea to offer $1,870 tax credit per locally made EV to counter Chinese imports
-  - [japan] High prices, ice cream prices going up, pizza shops selling low-priced products, farmers screaming
-  - [korea] From robot pets to virtual livers: Apple Developer Academy showcases projects at Postech
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T15:22:42+00:00",
+      "published_utc": "2026-11-20T15:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
