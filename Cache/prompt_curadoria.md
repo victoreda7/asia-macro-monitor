@@ -7,17 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T01:32:47.596671+00:00
+Última coleta: 2026-11-20T01:42:57.560805+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1040
   🇨🇳 China          902
-  🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  737
+  🇹🇼 Taiwan         320
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY379.5 BLN VIA O/N REVERSE REPO FRI
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7131 FRI VS 6.7128
+  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
+  - [korea] Samsung names new memory, mobile chiefs as chips sweep promotions
+  - [china] The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today
   - [japan] Announcement of 2-year JGBs to Be Issued in December 2026
+  - [japan] Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Nov 30
+  - [korea] South Korean shares hit 10-month low as chipmakers track US tech selloff
   - [japan] Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semicondu
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 27
   - [japan] Japan's Inflation Likely to Rise Much More Next Year — Market Talk
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT CORE CPI (EXCLUDING FRESH FOOD) +2.2% Y/Y, 62ND STRAIGHT RISE (SEPT +2.1%); MEDIAN FORECAST +2.4%
   - [japan] Japan Oct core CPI rises 2.2% yr/yr
   - [korea] ‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'
-  - [japan] The true nature of the "sure profits" that Netflix invests in production costs of "2.5 trillion yen a year"...
-  - [china] Why China's EVs could throw a wrench into EU, UK trade talks
-  - [china] US approved sale of almost 900,000 AI chips to China in six months
-  - [china] Paying close attention to the impact of the US-China-Russia summit meeting Strengthening cooperation with alli
-  - [china] Export of AI chips to China raises national security controversy. US House of Representatives releases approva
-  - [japan] Japan Inflation Data Due On Friday
-  - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T01:32:47+00:00",
+      "published_utc": "2026-11-20T01:42:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
