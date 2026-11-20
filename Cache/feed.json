@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T21:02:44.701740+00:00",
- "collected_at_utc": "2026-11-20T21:02:44.701740+00:00",
+ "generated_at_utc": "2026-11-20T21:12:49.515267+00:00",
+ "collected_at_utc": "2026-11-20T21:12:49.515267+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1039,
+  "japan": 1038,
   "china": 919,
   "taiwan": 317,
-  "korea": 725
+  "korea": 726
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T15:23:38+00:00"
+   "newest": "2026-11-20T16:34:12+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-20T20:55:11+00:00"
+   "newest": "2026-11-20T21:09:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:34:50+00:00"
+   "newest": "2026-11-20T13:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T17:22:51+00:00"
+   "newest": "2026-11-20T18:42:59+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-21T05:33:28+09:00"
+   "newest": "2026-11-21T06:05:29+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T05:06:00+00:00"
+   "newest": "2026-11-20T12:08:06+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T21:02:00+00:00"
+   "newest": "2026-11-20T21:11:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T14:58:48+00:00"
+   "newest": "2026-11-20T21:08:54+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-21T05:45:00+09:00"
+   "newest": "2026-11-21T06:05:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,31 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-20T07:10:48+00:00"
+   "newest": "2026-11-20T21:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "이투데이",
+   "title_en": "[Money Briefing] The last Monetary Policy Committee of the year weighs on a 3.25% increase in the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JMGxhaHc5ZWhYaU1IaWwzWnNsb2EzLWJGUldaS3RXanNSa1dlMGFwcEZxbl9NQm5xbWZ5WVB6VkN2Q1UzdmNONEhiaUdHZzc4TzNNQw?oc=5",
+   "published_utc": "2026-11-20T21:00:00+00:00",
+   "title_original": "[머니브리핑] 올해 마지막 금통위⋯기준금리 3.25% 인상에 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7dedd887ba5caa50"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1257,6 +1275,25 @@
    "live_wire": false,
    "manual": false,
    "id": "82972832f41ab999"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "네이버 프리미엄콘텐츠",
+   "title_en": "“If you raise interest rates, prices will immediately go down?” Monetary policy lag",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOU5tTDdMcUlsN3NWSEg4UnVnQTFjcmJLTzhsSWExM2RFUXNVZE9yQ0ZsbmFBdWUzc3ZnQVJuTmlYcEVvQmxmMm8xS2xfa19xMktLU2Y4cktvdUNQNDhGRVFKM1JuY2xHdWg2RnBwWnk3bXp5VGhkMWdHZFhVakRiV0FkRGZpa01CbnBmeGlJOGNBeFN6SnQ0YVBhWQ?oc=5",
+   "published_utc": "2026-11-20T10:07:22+00:00",
+   "title_original": "「금리를 올리면 물가가 바로 내려간다?」 통화정책의 시차",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef62540b13be4c9c"
   },
   {
    "source_id": "tradingview_live",
@@ -3591,23 +3628,6 @@
    "live_wire": false,
    "manual": false,
    "id": "317bdb5a8c18968b"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
-   "published_utc": "2026-11-19T12:42:22+00:00",
-   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "tradingview_live",
@@ -6446,6 +6466,23 @@
    "live_wire": false,
    "manual": false,
    "id": "225858d7380e8a37"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+   "published_utc": "2026-11-18T03:21:00+00:00",
+   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51856,40 +51893,6 @@
    "live_wire": true,
    "manual": false,
    "id": "aa2a2a5fb6c01f5e"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan's EV subsidies face uncertain future as country's 'DOGE' takes aim",
-   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/japan-s-ev-subsidies-face-uncertain-future-as-country-s-doge-takes-aim",
-   "published_utc": "2026-10-27T15:48:59.256845+00:00",
-   "title_original": "Japan's EV subsidies face uncertain future as country's 'DOGE' takes aim",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8701ff0137361c1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny",
-   "url": "https://www.tradingview.com/news/gurufocus:52e9e974e094b:0-sk-hynix-stocks-gain-5-18-before-its-payout-plan-faces-board-scrutiny/",
-   "published_utc": "2026-10-27T15:20:00+00:00",
-   "title_original": "SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9a104830a7e5efbd"
   },
   {
    "source_id": "manual_ia",
