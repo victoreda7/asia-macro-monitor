@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T00:52:42.869552+00:00
+Última coleta: 2026-11-20T01:03:43.969775+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
+  🇯🇵 Japão          1038
   🇨🇳 China          903
   🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
   - [japan] Stock price temporarily fell by more than 2,700 yen due to concerns about the future of the AI ​​and semicondu
   - [japan] Consumer price index rose 2.2% in October
+  - [korea] Protec Co Wins 23.4 Billion Won Order From Samsung Electronics
+  - [japan] BOJ's ambiguity on rate hike path could tempt yen bears
   - [japan] Interest Rate (November 19 2026)
   - [japan] Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)
   - [japan] Japan's finance minister says JT dividend cut will not affect state budget plan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] California AG subpoenas Nvidia over alleged China chip leak and investor fraud
   - [china] US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show
   - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
-  - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
-  - [japan] Is there a sharp rise in ``eat-in tax evasion'' due to the food tax cut?The National Tax Agency's opinion on c
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T00:52:43+00:00",
+      "published_utc": "2026-11-20T01:03:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

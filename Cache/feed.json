@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T00:52:42.869552+00:00",
- "collected_at_utc": "2026-11-20T00:52:42.869552+00:00",
+ "generated_at_utc": "2026-11-20T01:03:43.969775+00:00",
+ "collected_at_utc": "2026-11-20T01:03:43.969775+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1037,
+  "japan": 1038,
   "china": 903,
   "taiwan": 321,
-  "korea": 739
+  "korea": 738
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 91.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T00:27:40+00:00"
+   "newest": "2026-11-20T00:58:47+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-19T01:59:24+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T00:41:00+00:00"
+   "newest": "2026-11-20T01:02:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:45:00+00:00"
+   "newest": "2026-11-20T00:49:54+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,13 +331,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:25:45+00:00"
+   "newest": "2026-11-19T20:32:17+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-20T00:04:00+00:00"
   }
@@ -378,6 +378,41 @@
    "live_wire": false,
    "manual": false,
    "id": "8aceeed101dd993c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Protec Co Wins 23.4 Billion Won Order From Samsung Electronics",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4701K2:0-protec-co-wins-23-4-billion-won-order-from-samsung-electronics/",
+   "published_utc": "2026-11-20T00:49:25+00:00",
+   "title_original": "Protec Co Wins 23.4 Billion Won Order From Samsung Electronics",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f0a84e80757f3d88"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ's ambiguity on rate hike path could tempt yen bears",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Z0C1:0-boj-s-ambiguity-on-rate-hike-path-could-tempt-yen-bears/",
+   "published_utc": "2026-11-20T00:43:43+00:00",
+   "title_original": "BOJ's ambiguity on rate hike path could tempt yen bears",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b4355bb8bd7d0286"
   },
   {
    "source_id": "mof_jp",
@@ -51861,40 +51896,6 @@
    "live_wire": true,
    "manual": false,
    "id": "01678a63898268e6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Samsung Life lança emissão de títulos de US$ 1,5 bilhão, segundo mostra a ficha de termos",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46C0RK:0/",
-   "published_utc": "2026-10-26T17:13:50+00:00",
-   "title_original": "Samsung Life lança emissão de títulos de US$ 1,5 bilhão, segundo mostra a ficha de termos",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e25317a0d4ce1af7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "SK Hynix Q3 earnings on deck: What to expect",
-   "url": "https://www.tradingview.com/news/seekingalpha:271a6defb094b:0-sk-hynix-q3-earnings-on-deck-what-to-expect/",
-   "published_utc": "2026-10-26T16:50:41+00:00",
-   "title_original": "SK Hynix Q3 earnings on deck: What to expect",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dbe0bdb91bc20e66"
   },
   {
    "source_id": "manual_ia",
