@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T05:22:43.993018+00:00
+Última coleta: 2026-11-20T05:33:05.358446+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1049
-  🇨🇳 China          905
+  🇨🇳 China          906
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  728
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [japan] Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” t
+  - [china] Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen
   - [korea] The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hik
   - [japan] Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high
   - [china] China's October soybean imports fall 23% as Brazil shipments decline
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan core inflation picks up, makes case for BoJ rate hike stronger
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [japan] Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk
-  - [korea] [Next week's economic schedule] Possibility of Bank of Korea interest rate hike... ‘Thanksgiving’ begins the U
-  - [korea] Samsung Electronics, SK hynix slide on Wall Street tech selloff
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T05:22:44+00:00",
+      "published_utc": "2026-11-20T05:33:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
