@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T15:32:44.244309+00:00
+Última coleta: 2026-11-20T15:42:47.289224+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1040
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix to become Kioxia's top shareholder with bond conversion
+  - [japan] Dollar falls as Fed-fueled rally stalls; lower US yields help yen
   - [taiwan] Google shifts 2027 AI chip orders from Broadcom to MediaTek, Ming-Chi Kuo says
   - [china] US TSY'S BESSENT Q&A/CNBC: TAKEN 'COMMON SENSE' APPROACH TO CHINA REMOTE USE OF TOP CHIPS; RE LUTNICK, 'ALL CO
   - [china] US TSY'S BESSENT Q&A/CNBC: NVIDIA DID NOT COME UP IN DISCUSSIONS W/CHINA; SEEN 'PAUCITY OF ORDERS FOR H200 CHI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar takes a breather near 19-month peak; Yen jumps on hot CPI
   - [taiwan] Taiwan Chip Demand Likely to Be Hurt if U.S. AI Capex Slows Down — Market Talk
   - [korea] SK Hynix to become top shareholder in rival Kioxia after bond conversion
-  - [japan] Yen market price rise, US dollar selling movement due to fall in long-term interest rates
-  - [korea] S.Korea to offer $1,870 tax credit per locally made EV to counter Chinese imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T15:32:44+00:00",
+      "published_utc": "2026-11-20T15:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
