@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T23:42:41.355305+00:00
+Última coleta: 2026-11-20T23:52:41.527805+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1039
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Next week's economy] Let's take a breather. Will the base interest rate be raised? The Bank of Korea’s growth
   - [korea] Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Kor
   - [china] Tongda International Group Operating Subsidiaries Provides E-Commerce Services in China
   - [japan] Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] USTR GREER Q&A/BBG: PRESIDENT TRUMP RESOLVES INTERNAL ADMINISTRATION DISPUTES OVER CHIP EXPORT RESTRICTIONS VS
   - [china] USTR GREER Q&A/BBG: CHINA ALWAYS LIKES TO TAKE SOME RETALIATORY ACTION VS NEW SEMICONDUCTOR EXPORT RESTRICTION
   - [china] US-China-Russia summit “symbolizes changes in the international order” World Impact on Japan
-  - [japan] Yomiuri: Japan Tobacco Projects 724 Billion Yen Net Loss After Losing Control of Russian Units
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T23:42:41+00:00",
+      "published_utc": "2026-11-20T23:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
