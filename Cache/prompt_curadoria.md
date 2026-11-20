@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T07:04:34.715973+00:00
+Última coleta: 2026-11-20T07:12:47.615635+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1043
@@ -17,12 +17,15 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
+  - [japan] M3 Inc - To Expand Buy Back Up Scheme To Up To 5.06% Of Own Shares From Previous Up To 3% Worth 5.5 Billion Ye
   - [china] China's October coal imports from Australia hit six-year high
   - [korea] South Korean shares hit 10-month low as chipmakers slump on US tech selloff
   - [taiwan] Foxconn Technology: Global manufacturing capabilities support gaming, casing and thermal products, alongside E
   - [japan] Nikkei average closing price drops by 3007 yen Confusion over AI
   - [korea] SK Hynix weighs converting Kioxia bonds to shares, report says
   - [korea] The top 1% return on stock investment, which sold the largest amount of Samsung Electronics' common
+  - [japan] Talking about the first year of the Takaichi administration (Part 1): Aggressive fiscal policy and low-tempera
   - [korea] JPMorgan initiates BOK Financial stock coverage with neutral rating
   - [taiwan] Selling wave in chip stocks leads Taiwan to worst week since 1990; Asian stock markets fall
   - [china] Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin su
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's fuel oil exports for bunkering ease in October while imports rebound
   - [japan] Result of Liquidity Enhancement Auction on November 20, 2026(For JGB Market Special Participants)
   - [japan] Japan Core CPI Likely to Accelerate to 2.7% in November — Market Talk
-  - [japan] Finance Minister Katayama: JT’s huge loss “will not affect growth investment”
-  - [japan] The consumer price index rose 2.2% in October, exceeding the Bank of Japan's 2% target for the second consecut
-  - [china] The unexpired balance of the central bank's MLF remains unchanged at 7.4 trillion yuan, with 1 trillion yuan d
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T07:04:34+00:00",
+      "published_utc": "2026-11-20T07:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
