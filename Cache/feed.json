@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T04:32:42.691954+00:00",
- "collected_at_utc": "2026-11-20T04:32:42.691954+00:00",
+ "generated_at_utc": "2026-11-20T04:42:42.303417+00:00",
+ "collected_at_utc": "2026-11-20T04:42:42.303417+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1050,
+  "japan": 1051,
   "china": 902,
   "taiwan": 319,
-  "korea": 729
+  "korea": 728
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:46:59+00:00"
+   "newest": "2026-11-20T03:19:54+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:00:03+00:00"
+   "newest": "2026-11-20T04:07:30+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -73,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
    "newest": "2026-11-20T04:18:25+00:00"
   },
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:57:40+00:00"
+   "newest": "2026-11-19T23:50:45+00:00"
   },
   {
    "source_id": "ked_global",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T20:07:44+00:00"
+   "newest": "2026-11-20T01:46:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T04:30:00+00:00"
+   "newest": "2026-11-20T04:41:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-20T03:29:11+00:00"
+   "newest": "2026-11-20T04:35:08+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T03:56:57+00:00"
+   "newest": "2026-11-20T04:22:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,9 +337,9 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 26,
    "error": "",
-   "newest": "2026-11-20T02:21:10+00:00"
+   "newest": "2026-11-20T02:29:00+00:00"
   }
  ],
  "falhas_seguidas": {},
@@ -742,9 +742,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
+   "source_name": "연합뉴스",
    "title_en": "China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domestic demand",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90NnZIZjZrVzJ1dGZFemRCN3l5WlFOdFo4Z2RrRHdEbWhMOUpUV3VFdHZuUF9ZRkZDeHJqOGRzMkJOcGgzaFZWY0N4dlllSjFwdEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVtIBYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVg?oc=5",
    "published_utc": "2026-11-20T02:21:10+00:00",
    "title_original": "中, '사실상 기준금리' 18개월째 동결…내수부진에도 금리 유지",
    "region": "korea",
@@ -755,7 +755,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "95ad1a83484c8fa6"
+   "id": "91fb485f8368fe6d"
   },
   {
    "source_id": "tradingview_live",
@@ -1397,6 +1397,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c9b1a8d34bd67f8e"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan CPI inflation rises in Oct, core print slightly misses estimates",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2djdTRsd3hFb2wxMk44djJFdGZOTzFoUHg1amxwMWtOWDRUSzVvZllfUldhOVBfLUVXRVNBcmJHUFYxNnUyS2RkMWtORGhKS1RicjZXYUJBd3haSVVWZlpZTGtETXVJbThscW1NQlF3TFBKWHVoQ0tublhrdU1ESnBoNGhLM1BGcm5oRVFYV2VvX3k1TFFPeXlnZ0VJUlJBRXNjdHNJb280WmlfREMtNmpmZXd3bmh6Q3lEendOWWwtajNFaEE?oc=5",
+   "published_utc": "2026-11-19T23:50:45+00:00",
+   "title_original": "Japan CPI inflation rises in Oct, core print slightly misses estimates",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fabe8aeae0e4647e"
   },
   {
    "source_id": "tradingview_live",
@@ -11133,7 +11150,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -11144,7 +11161,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5eecd2256cf4eacd"
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51874,23 +51891,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c7e3385aba1955aa"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHducWdtMnhaRmNVNzFXTFR6ZXlWcV9HM2lNRWRvbmFNZG5oV3VQMEloNE9SRTNZYjlEb3RWbHFHM1JkLXNJS1Q4RC13ZDNZWFpiNWVUVmNzTTVDWWNNUmNlMW1oLWR2YUhCd2EzTzY0SnRYT0t0S2Y2cU54OUgwbVFOMUJqNm1OX3Vieg?oc=5",
-   "published_utc": "2026-10-27T02:47:00+00:00",
-   "title_original": "S. Korea's real GDP grows 1.0 pct on quarter in Q3",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c613810e986642f1"
   },
   {
    "source_id": "manual_ia",
