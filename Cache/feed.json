@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T16:43:47.409808+00:00",
- "collected_at_utc": "2026-11-20T16:43:47.409808+00:00",
+ "generated_at_utc": "2026-11-20T16:52:51.655378+00:00",
+ "collected_at_utc": "2026-11-20T16:52:51.655378+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1039,
-  "china": 914,
-  "taiwan": 317,
-  "korea": 730
+  "japan": 1038,
+  "china": 915,
+  "taiwan": 318,
+  "korea": 729
  },
- "elapsed_s": 85.6,
+ "elapsed_s": 36.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-20T16:33:39+00:00"
+   "newest": "2026-11-20T16:43:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:34:50+00:00"
+   "newest": "2026-11-20T13:40:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T11:51:31+00:00"
+   "newest": "2026-11-20T12:29:18+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:26:38+00:00"
+   "newest": "2026-11-20T04:26:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T20:11:00+00:00"
+   "newest": "2026-11-20T15:00:50+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T16:42:58+00:00"
+   "newest": "2026-11-20T16:50:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T12:01:24+00:00"
+   "newest": "2026-11-20T08:39:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "ASML Tumbles on U.S.-China Export Fears — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261120005684:0-asml-tumbles-on-u-s-china-export-fears-market-talk/",
+   "published_utc": "2026-11-20T16:49:00+00:00",
+   "title_original": "ASML Tumbles on U.S.-China Export Fears — Market Talk",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3c9330150c675214"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+   "url": "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-5042253",
+   "published_utc": "2026-11-20T16:25:18+00:00",
+   "title_original": "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8afe9d89c1dc26d9"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1415,23 +1449,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ec8c5b428c171b3f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK Hynix: Hold Kioxia Stake Through Special Purpose Company",
-   "url": "https://www.tradingview.com/news/DJN_DN20261120001062_20261120001067:0-sk-hynix-hold-kioxia-stake-through-special-purpose-company/",
-   "published_utc": "2026-11-20T07:45:00+00:00",
-   "title_original": "SK Hynix: Hold Kioxia Stake Through Special Purpose Company",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "407ebf78319b455e"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51873,25 +51890,6 @@
    "live_wire": false,
    "manual": false,
    "id": "09e5d0cababe18c3"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal policy and 80 points in monetary policy'' (Newsweek Japan version)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDBmRmM5X0o2M1JhZ095QjZiTkhOcWRjWlk3NWQyNEltUWs0UEJQRk9yWFpTemFKVzFXcWtLSndhWldZbFAwb1BUVzZyblZKSlI4YmhWTlR6ekY5b3I5ZFVnbE5hR2pybEo1WHh0aGJ5UGNyZW8yVFZuMEhnd2tNdm0zc000cVJF?oc=5",
-   "published_utc": "2026-10-27T11:50:06+00:00",
-   "title_original": "高市政権発足1年の成績表「財政政策はぎりぎり合格、金融政策は80点」と言える理由（ニューズウィーク日本版）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d24175a3b178b53"
   },
   {
    "source_id": "manual_ia",

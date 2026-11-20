@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T16:43:47.409808+00:00
+Última coleta: 2026-11-20T16:52:51.655378+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1039
-  🇨🇳 China          914
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  730
+  🇯🇵 Japão          1038
+  🇨🇳 China          915
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] ASML Tumbles on U.S.-China Export Fears — Market Talk
+  - [taiwan] Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips
   - [korea] SK Hynix to become Kioxia's top shareholder with bond conversion
   - [japan] Dollar falls as Fed-fueled rally stalls; lower US yields help yen
   - [taiwan] Google shifts 2027 AI chip orders from Broadcom to MediaTek, Ming-Chi Kuo says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] ​​[Industry reorganization] What does it mean for ANA to make Air Do & Solaseed a wholly owned subsidiary? Is 
   - [china] Tongwei Plans Share Buyback With 1-2 Billion Yuan
   - [japan] Dollar takes a breather near 19-month peak; Yen jumps on hot CPI
-  - [taiwan] Taiwan Chip Demand Likely to Be Hurt if U.S. AI Capex Slows Down — Market Talk
-  - [korea] SK Hynix to become top shareholder in rival Kioxia after bond conversion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T16:43:47+00:00",
+      "published_utc": "2026-11-20T16:52:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
