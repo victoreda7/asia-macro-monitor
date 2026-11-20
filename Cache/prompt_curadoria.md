@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T12:12:43.081360+00:00
+Última coleta: 2026-11-20T12:22:50.069692+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1041
   🇨🇳 China          910
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  731
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
+  - [taiwan] New mortgage loans in October hit a new high in more than a year and a half. The effects of the central bank's
   - [china] U.S. Fuel Prices Likely to Keep Falling on Rising Gulf, Chinese Exports, Energy Chief Says — Market Talk
   - [japan] Yomiuri: Japan Shelves Retail JGB Tax Break as Rising Rates Fuel Demand
   - [china] Alibaba puts quixotic faith in made-in-China chips
@@ -24,7 +26,6 @@ Total: 3000 manchetes
   - [korea] REG - Leverage Shares PLC Leverage - 3x HNX3 $ Leverage - 3x HNX3 £ - Notice of Original Meeting - 3x SK Hynix
   - [japan] Japan-Chile Summit: Cooperation to maintain and strengthen international order based on the rule of law
   - [korea] SK Hynix to become Kioxia's largest shareholder after bond conversion
-  - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
   - [taiwan] Central Bank: Major export manufacturers did not hesitate to sell, and the net foreign exchange sales of the t
   - [china] China’s rare earth magnet exports to US and EU fall after September rebound
   - [japan] Japan-Peru summit meeting agrees on cooperation for stable supply of important minerals
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
   - [china] Factbox-Global investment banks see Chinese yuan’s gradual appreciation extending into 2027
   - [japan] House of Councilors Special Committee Local Hearing: Consumption tax reduction “Support for local governments,
-  - [china] The first U.S.-China-Russia summit meeting is not the "New Yalta Conference" but a modern version of "Entente.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T12:12:43+00:00",
+      "published_utc": "2026-11-20T12:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

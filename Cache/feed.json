@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-20T12:12:43.081360+00:00",
- "collected_at_utc": "2026-11-20T12:12:43.081360+00:00",
+ "generated_at_utc": "2026-11-20T12:22:50.069692+00:00",
+ "collected_at_utc": "2026-11-20T12:22:50.069692+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1041,
   "china": 910,
-  "taiwan": 318,
-  "korea": 731
+  "taiwan": 319,
+  "korea": 730
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 36.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T09:18:25+00:00"
+   "newest": "2026-11-19T08:20:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "newest": "2026-11-20T09:40:00+00:00"
+   "newest": "2026-11-20T12:12:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:26:38+00:00"
+   "newest": "2026-11-20T04:26:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T21:06:49+09:00"
+   "newest": "2026-11-20T21:20:59+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T20:16:13+09:00"
+   "newest": "2026-11-20T21:14:32+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T01:46:00+00:00"
+   "newest": "2026-11-20T05:06:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T12:11:19+00:00"
+   "newest": "2026-11-20T12:21:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T11:06:00+00:00"
+   "newest": "2026-11-20T12:04:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T12:01:24+00:00"
+   "newest": "2026-11-20T08:31:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,43 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate rises”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de79395",
+   "published_utc": "2026-11-20T12:14:32+00:00",
+   "title_original": "財政審“物価高騰や金利上昇リスク意識して市場の信認確保を”",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf37f2d493d5ce99"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "New mortgage loans in October hit a new high in more than a year and a half. The effects of the central bank's loosening of controls remain to be seen | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YX2pwRVRQNzN3dUlwSkEzUkNGSUZ5Tms1V0hGZmFGSXh6Mk9xUDU5bmtIVkM4WVoteE0tN013UHl6d0ZIQW1zUFhyRHlBRDV5T1FHUmE3MllObFhYYUE?oc=5",
+   "published_utc": "2026-11-20T12:04:00+00:00",
+   "title_original": "10月新增房貸創逾1年半新高央行鬆綁管制效應待觀察| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b918356e4aa02b09"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -462,25 +499,6 @@
    "live_wire": true,
    "manual": false,
    "id": "44bd5905d8d91e49"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate rises”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261120de79395",
-   "published_utc": "2026-11-20T11:16:13+00:00",
-   "title_original": "財政審“物価高騰や金利上昇リスク意識して市場の信認確保を”",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf37f2d493d5ce99"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1225,9 +1243,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국IT산업뉴스",
+   "source_name": "패트론타임스",
    "title_en": "Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Should we raise the base interest rate to 3.25%?",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzQjd0SHVTejk2dnBqellBbWRHbGt0NENMOGkwNWVHcVdsWDYwc0V3ZUlMcmxxdUxlbXkwYWFweTRjWW1UXy01VG5PeTI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iSm9MUElPdHpkSVhZbTc3ZmIyV0h3ZmFVWWJsNjlwZE11V2Z4RlQyU1RKaUlxcGd3Q3lGWERXWUZBTmNhRXYtTkF6R1VsbDF2ODZn?oc=5",
    "published_utc": "2026-11-20T07:10:48+00:00",
    "title_original": "한은, 26일 올해 마지막 금통위…기준금리 3.25%로 올릴까",
    "region": "korea",
@@ -1239,7 +1257,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "948453e01252e921"
+   "id": "2bb873153f6b8374"
   },
   {
    "source_id": "nhk_economy",
@@ -1518,8 +1536,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -1533,7 +1551,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1725,8 +1743,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -1739,7 +1757,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2129,7 +2147,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81c2tQaWVmbjRPWlZNcFkzckVaVE9zYVppS3k5alFKQ0cwWElNR2I1ZUFmb0FjQktnSUNETFJrRklONi14WkxqUUpCYmlFaEpIWWxjR0tBeE0yd3ItRWo5Tk9Nd1VINkdnTlY5ODQ5cHREMk50YjdBOW1KQUJ3N2M?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjQ5UlhnQnhRLXFQT2l4RlhuaGctQlVIUGlqcUJhbE5aYzlDWnBOcVdZaFAxaG56UkItQXdrc2RUbDZ4X0JzbDBjeEZqVEVCaktDU3lNVzhDMU9sNVlJYm10bE9kcWRwaWtBUndWNmdNVkdxampNU2JvQWgwR19aU1JtaktCTk1rMjFncHpR?oc=5",
    "published_utc": "2026-11-20T00:21:29+00:00",
    "title_original": "日銀・利上げのロジック再考（NRI研究員の時事解説）",
    "region": "japan",
@@ -2140,7 +2158,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "06a3fde81d55aab2"
+   "id": "def3a250ec8782a6"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3245,8 +3263,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -3260,7 +3278,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -3537,8 +3555,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -3552,7 +3570,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4249,8 +4267,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -4263,7 +4281,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4769,24 +4787,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -5078,6 +5078,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -13396,7 +13414,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
+   "source_name": "新浪财经",
    "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Z0stdDkxUnBRek9LNmZXaktGTld6ek12UEZTRmVfeXRrUXBKMVcxcGdTY3NlV2hDRnV0clU4Sy1WcUFXRmttaG5BQUY2cWYwbHpWVmhOZnBPUFdwX1YzRXN1eHJQSHRGcE9Jc0ZSeHMyeXlXZ3VONw?oc=5",
    "published_utc": "2026-11-14T05:11:21+00:00",
@@ -25349,6 +25367,23 @@
    "id": "d2733c51a3bc8466"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWpKNER6aVI2QnZvRDRmT2ctVF9PdVhrZFZWOE1yVkY3SXVCMFkteEd3czZYdUJJdkR6b3dkekQ0RW9yWXB6cmx3b1AwaTdqMFQyUl9NY1FhSmpCZkxuckJ3LXM5NDFJQ2lqcjRFelQwdEItSEF6c1Q2aFQtVEZydHg0VQ?oc=5",
+   "published_utc": "2026-11-09T08:00:00+00:00",
+   "title_original": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8533d9c7ff648527"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
@@ -26479,23 +26514,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9675d4123abbc100"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWpKNER6aVI2QnZvRDRmT2ctVF9PdVhrZFZWOE1yVkY3SXVCMFkteEd3czZYdUJJdkR6b3dkekQ0RW9yWXB6cmx3b1AwaTdqMFQyUl9NY1FhSmpCZkxuckJ3LXM5NDFJQ2lqcjRFelQwdEItSEF6c1Q2aFQtVEZydHg0VQ?oc=5",
-   "published_utc": "2026-11-09T01:06:10+00:00",
-   "title_original": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8533d9c7ff648527"
   },
   {
    "source_id": "yahoo_business",
@@ -47550,6 +47568,23 @@
    "id": "252d591a4e32dd9f"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "[Breaking] Samsung Electronics’ Q3 operating profit hits 107.4 trillion won, up 783% year on year",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzZkdJTGxad2EySnJGeWpORGF6blhwN1QtWDJpdXpobmFoazUwbVRtWVFBUXh1STNtcDRWMnotYjZmbnl6aUhXS1oxODFydkM0SEdz?oc=5",
+   "published_utc": "2026-10-29T07:00:00+00:00",
+   "title_original": "[Breaking] Samsung Electronics’ Q3 operating profit hits 107.4 trillion won, up 783% year on year",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "72b3e26be92e6f35"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK",
@@ -48531,23 +48566,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0d6a6cb52ea35c4e"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "[Breaking] Samsung Electronics’ Q3 operating profit hits 107.4 trillion won, up 783% year on year",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzZkdJTGxad2EySnJGeWpORGF6blhwN1QtWDJpdXpobmFoazUwbVRtWVFBUXh1STNtcDRWMnotYjZmbnl6aUhXS1oxODFydkM0SEdz?oc=5",
-   "published_utc": "2026-10-29T01:09:26+00:00",
-   "title_original": "[Breaking] Samsung Electronics’ Q3 operating profit hits 107.4 trillion won, up 783% year on year",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "72b3e26be92e6f35"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51870,25 +51888,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1820a5257c322625"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYbEphRmNvczZ6VjlVdEdwRk5RazlmSFdpaHBOLXpGVnFqM21iTVVBeUlLc09lTVNmS1FHTHlkaW11SWdOb2JvRGJJT19sWXp2ekE?oc=5",
-   "published_utc": "2026-10-27T08:43:45+00:00",
-   "title_original": "South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5a1d1923e5e7ed53"
   },
   {
    "source_id": "manual_ia",
