@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T12:02:47.760043+00:00
+Última coleta: 2026-11-20T12:12:43.081360+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1040
+  🇯🇵 Japão          1041
   🇨🇳 China          910
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [china] U.S. Fuel Prices Likely to Keep Falling on Rising Gulf, Chinese Exports, Energy Chief Says — Market Talk
+  - [japan] Yomiuri: Japan Shelves Retail JGB Tax Break as Rising Rates Fuel Demand
   - [china] Alibaba puts quixotic faith in made-in-China chips
   - [korea] Samsung, SK Hynix investors search for answers, but relief remains elusive
   - [korea] REG - Leverage Shares PLC Leverage - 3x HNX3 $ Leverage - 3x HNX3 £ - Notice of Original Meeting - 3x SK Hynix
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Factbox-Global investment banks see Chinese yuan’s gradual appreciation extending into 2027
   - [japan] House of Councilors Special Committee Local Hearing: Consumption tax reduction “Support for local governments,
   - [china] The first U.S.-China-Russia summit meeting is not the "New Yalta Conference" but a modern version of "Entente.
-  - [japan] Prime Minister Takaichi's "diplomatic defeat" was exposed at the US-China-Russia summit meeting, and how will 
-  - [china] Key facts: NVIDIA Q3 Revenue $115.8B; CEO Resigns; China Chip Probe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T12:02:47+00:00",
+      "published_utc": "2026-11-20T12:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

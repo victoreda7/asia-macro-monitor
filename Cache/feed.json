@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T12:02:47.760043+00:00",
- "collected_at_utc": "2026-11-20T12:02:47.760043+00:00",
+ "generated_at_utc": "2026-11-20T12:12:43.081360+00:00",
+ "collected_at_utc": "2026-11-20T12:12:43.081360+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1040,
+  "japan": 1041,
   "china": 910,
   "taiwan": 318,
-  "korea": 732
+  "korea": 731
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-20T12:00:02+00:00"
+   "newest": "2026-11-20T12:06:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T04:26:00+00:00"
+   "newest": "2026-11-19T13:26:38+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T20:34:33+09:00"
+   "newest": "2026-11-20T21:06:49+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:38:58+00:00"
+   "newest": "2026-11-20T12:08:06+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:11:00+00:00"
+   "newest": "2026-11-20T12:08:06+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T12:01:00+00:00"
+   "newest": "2026-11-20T12:11:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,19 +331,53 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T08:39:00+00:00"
+   "newest": "2026-11-20T12:01:24+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-20T07:10:48+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "U.S. Fuel Prices Likely to Keep Falling on Rising Gulf, Chinese Exports, Energy Chief Says — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261120003405:0-u-s-fuel-prices-likely-to-keep-falling-on-rising-gulf-chinese-exports-energy-chief-says-market-talk/",
+   "published_utc": "2026-11-20T12:03:00+00:00",
+   "title_original": "U.S. Fuel Prices Likely to Keep Falling on Rising Gulf, Chinese Exports, Energy Chief Says — Market Talk",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "69c37dfddb248834"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yomiuri: Japan Shelves Retail JGB Tax Break as Rising Rates Fuel Demand",
+   "url": "https://www.tradingview.com/news/DJN_DN20261120003393:0-yomiuri-japan-shelves-retail-jgb-tax-break-as-rising-rates-fuel-demand/",
+   "published_utc": "2026-11-20T12:02:00+00:00",
+   "title_original": "Yomiuri: Japan Shelves Retail JGB Tax Break as Rising Rates Fuel Demand",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9afc9420faf837f3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1412,41 +1446,6 @@
    "live_wire": true,
    "manual": false,
    "id": "84a3d2d16bbb1ccd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin summit",
-   "url": "https://www.tradingview.com/news/seekingalpha:f3e44f4c1094b:0-asian-stocks-slump-on-wall-street-decline-pboc-rate-hold-hotter-japan-inflation-and-muted-xi-trump-putin-summit/",
-   "published_utc": "2026-11-20T05:56:45+00:00",
-   "title_original": "Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin summit",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d7a568be94438a9a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Samsung Electronics Appoints New Memory-Chip Business Head",
-   "url": "https://www.tradingview.com/news/DJN_DN20261120000092:0-samsung-electronics-appoints-new-memory-chip-business-head/",
-   "published_utc": "2026-11-20T05:56:00+00:00",
-   "title_original": "Samsung Electronics Appoints New Memory-Chip Business Head",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "911cffae7795531e"
   },
   {
    "source_id": "investing_live",
@@ -13397,7 +13396,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "新浪财经_金融信息服务商",
    "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Z0stdDkxUnBRek9LNmZXaktGTld6ek12UEZTRmVfeXRrUXBKMVcxcGdTY3NlV2hDRnV0clU4Sy1WcUFXRmttaG5BQUY2cWYwbHpWVmhOZnBPUFdwX1YzRXN1eHJQSHRGcE9Jc0ZSeHMyeXlXZ3VONw?oc=5",
    "published_utc": "2026-11-14T05:11:21+00:00",
