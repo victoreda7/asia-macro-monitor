@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T09:02:51.920332+00:00
+Última coleta: 2026-11-20T09:12:43.252545+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
   🇨🇳 China          911
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  736
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [china] China's January-October fiscal revenues up 4.9% y/y
+  - [taiwan] TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption
+  - [china] Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say
   - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
-  - [china] Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
   - [japan] Yomiuri: Japan's MS&AD to Merge Life Insurance Subsidiaries
   - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
@@ -37,6 +39,7 @@ Total: 3000 manchetes
   - [china] China's yttrium exports to US hit seven-month high
   - [china] Chinese Carmakers Tighten Grip on Overseas Sales Channels
   - [china] China's central bank to sell $7.5 billion worth of yuan bills in Hong Kong
+  - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Should we raise the base inte
   - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
   - [korea] The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion
   - [japan] M3 Inc - To Expand Buy Back Up Scheme To Up To 5.06% Of Own Shares From Previous Up To 3% Worth 5.5 Billion Ye
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB yields track US peers lower; data signals foreign investors lead yield moves
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [japan] Why is the Japanese yen rising today?
-  - [japan] Why is the Japanese yen rising today? By Investing.com
-  - [japan] Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” t
-  - [china] Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T09:02:52+00:00",
+      "published_utc": "2026-11-20T09:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
