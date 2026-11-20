@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T05:12:49.267066+00:00
+Última coleta: 2026-11-20T05:22:43.993018+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1051
-  🇨🇳 China          904
+  🇯🇵 Japão          1049
+  🇨🇳 China          905
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  727
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [korea] The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hik
+  - [japan] Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high
   - [china] China's October soybean imports fall 23% as Brazil shipments decline
   - [korea] SK Hynix's single-stock leverage product, which had raised expectations that it could double profits..
   - [japan] Balance of the Fiscal Loan Fund (End of October 2026)
@@ -30,6 +32,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Appoints New Memory Business Chief
   - [china] China yuan recovers from one-month low on exporter demand, strong dollar caps gain
   - [china] Alibaba puts quixotic faith in made-in-China chips
+  - [china] China Solar Cell Exports Rise for Second Month on Tariff Rush
   - [china] China's fuel oil exports for bunkering ease in October while imports rebound
   - [japan] Result of Liquidity Enhancement Auction on November 20, 2026(For JGB Market Special Participants)
   - [japan] Japan Core CPI Likely to Accelerate to 2.7% in November — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk
   - [korea] [Next week's economic schedule] Possibility of Bank of Korea interest rate hike... ‘Thanksgiving’ begins the U
   - [korea] Samsung Electronics, SK hynix slide on Wall Street tech selloff
-  - [korea] SK Hynix was the largest net buyer of the top 1% return on stock investment in early trading on the
-  - [china] The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion 
-  - [japan] BOJ December Rate Hike Looks Likely After CPI Results — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T05:12:49+00:00",
+      "published_utc": "2026-11-20T05:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

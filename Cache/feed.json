@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T05:12:49.267066+00:00",
- "collected_at_utc": "2026-11-20T05:12:49.267066+00:00",
+ "generated_at_utc": "2026-11-20T05:22:43.993018+00:00",
+ "collected_at_utc": "2026-11-20T05:22:43.993018+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1051,
-  "china": 904,
+  "japan": 1049,
+  "china": 905,
   "taiwan": 318,
-  "korea": 727
+  "korea": 728
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T03:13:00+00:00"
+   "newest": "2026-11-20T03:40:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T04:07:30+00:00"
+   "newest": "2026-11-20T03:51:30+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-20T05:03:24+00:00"
+   "newest": "2026-11-20T05:16:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T13:23:50+09:00"
+   "newest": "2026-11-20T14:20:51+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T13:24:50+09:00"
+   "newest": "2026-11-20T14:20:51+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-20T02:51:39+00:00"
+   "newest": "2026-11-20T03:16:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T05:12:00+00:00"
+   "newest": "2026-11-20T05:21:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -337,13 +337,48 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
-   "newest": "2026-11-20T02:29:00+00:00"
+   "newest": "2026-11-20T05:16:35+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스드림",
+   "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "published_utc": "2026-11-20T05:16:35+00:00",
+   "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1dadeea9b01c3e4a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high",
+   "url": "https://www.tradingview.com/news/seekingalpha:5e0a69e09094b:0-japan-s-october-core-cpi-rises-to-2-2-misses-estimates-and-headline-inflation-hits-11-month-high/",
+   "published_utc": "2026-11-20T05:11:51+00:00",
+   "title_original": "Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0118517a86c629d9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -565,6 +600,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7fa9b89395e21855"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Solar Cell Exports Rise for Second Month on Tariff Rush",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnhWU0tYZnFGOXIzVmpsZ3o0LVI2M0FZVXJfZU4xUllGMkZZUnlxT3dXZEc3MjlSTXI5RUE3bkI4RF9FdHNRRVlJdE8wS0VYdlJtTzVMUHlvSmZldjI3LS0ySHBfaV9KU1NrWVVKbUtOTlducjdZTFROWGZGMjFTUzIxcmRrRW9Xc1VRZ1d5MU1yNl9WNkk3dDZQOElueFY1QTI1QUZ0bUJiWkgxN2M4Tkpn?oc=5",
+   "published_utc": "2026-11-20T03:40:00+00:00",
+   "title_original": "China Solar Cell Exports Rise for Second Month on Tariff Rush",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ccfb11a797f3378e"
   },
   {
    "source_id": "tradingview_live",
@@ -1361,24 +1413,6 @@
    "live_wire": false,
    "manual": false,
    "id": "06a3fde81d55aab2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's finance minister says JT dividend cut will not affect state budget plan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45N02O:0-japan-s-finance-minister-says-jt-dividend-cut-will-not-affect-state-budget-plan/",
-   "published_utc": "2026-11-20T00:17:45+00:00",
-   "title_original": "Japan's finance minister says JT dividend cut will not affect state budget plan",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "63021e86eec7a25a"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51858,40 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "97594a2b7f0417c7"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution",
-   "url": "https://www.investing.com/news/economy-news/exboj-chief-kuroda-backs-more-rate-hikes-his-former-deputy-urges-caution-4974114",
-   "published_utc": "2026-10-27T03:24:39+00:00",
-   "title_original": "Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "259658ab28ad1d8d"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "“Moderate recovery” for 40 consecutive months Bank of Japan Nagasaki Branch announces business conditions in Nagasaki Prefecture for October (Nagasaki Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54VFlHODhYcHZpaFFVOC1DakExZHhrR1E4RWtVVEMxczJCcmxON1hUTTNmRkFDdWdSMWRycThoUmNXeXJ0MnNUUkZ4UlNwem51MGJFbFdJbG9TaGdYczBPVU9ZekJqODVmVEtsNVE4Ynp5WURaMkRYUW1EbGotS0E?oc=5",
-   "published_utc": "2026-10-27T03:16:31+00:00",
-   "title_original": "「緩やかに回復」４０カ月連続 日銀長崎支店、１０月の長崎県内景況を発表（長崎新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dbe5b607785320ac"
   },
   {
    "source_id": "manual_ia",
