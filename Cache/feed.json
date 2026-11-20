@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T03:02:41.750350+00:00",
- "collected_at_utc": "2026-11-20T03:02:41.750350+00:00",
+ "generated_at_utc": "2026-11-20T03:12:43.243020+00:00",
+ "collected_at_utc": "2026-11-20T03:12:43.243020+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1047,
-  "china": 904,
+  "japan": 1048,
+  "china": 903,
   "taiwan": 320,
   "korea": 729
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T02:56:41+00:00"
+   "newest": "2026-11-20T03:06:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T11:48:19+09:00"
+   "newest": "2026-11-20T12:02:41+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T02:33:41+00:00"
+   "newest": "2026-11-20T03:04:01+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T03:01:36+00:00"
+   "newest": "2026-11-20T03:12:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T11:30:00+09:00"
+   "newest": "2026-11-20T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Strengthens as Risk Aversion Takes Hold — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011544:0-yen-strengthens-as-risk-aversion-takes-hold-market-talk/",
+   "published_utc": "2026-11-20T03:06:00+00:00",
+   "title_original": "Yen Strengthens as Risk Aversion Takes Hold — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ca57a2a36efe1802"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -51880,24 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4731e84578a9b26c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "汇通网",
-   "title_en": "Central Bank of China: Launching 412 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BX3NUVDNJNGFpVG5SUXNTYUdqajRoeEQ2RjEzYVlJX3h1WnpfWVJ3cFNFZjRSTHQxcEhzTm16Vld4YXJzU3d5RGZwOE1zMXpnbjhqdGd5S2pYdDBBaHZCLThmRGd5Wms?oc=5",
-   "published_utc": "2026-10-27T01:22:15+00:00",
-   "title_original": "中国央行：今日开展4120亿元7天逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "101d88d091a358a6"
   },
   {
    "source_id": "manual_ia",

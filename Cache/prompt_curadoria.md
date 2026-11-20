@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T03:02:41.750350+00:00
+Última coleta: 2026-11-20T03:12:43.243020+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1047
-  🇨🇳 China          904
+  🇯🇵 Japão          1048
+  🇨🇳 China          903
   🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Strengthens as Risk Aversion Takes Hold — Market Talk
   - [china] China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ
   - [taiwan] TSMC Stock Falls 5.0%, MediaTek Drops 9.1%
   - [china] On November 20, the central bank launched a 379.5 billion yuan overnight reverse repurchase operation.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Producer prices drop in Oct. on lower food prices
   - [korea] “The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”
   - [japan] Japan Consumer Prices Jump 0.8% In October
-  - [korea] Key facts: SK hynix Raises $26.5B; Reaffirms 100 Trillion Won Returns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T03:02:41+00:00",
+      "published_utc": "2026-11-20T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
