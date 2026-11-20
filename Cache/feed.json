@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-20T21:52:42.022326+00:00",
- "collected_at_utc": "2026-11-20T21:52:42.022326+00:00",
+ "generated_at_utc": "2026-11-20T22:05:08.842515+00:00",
+ "collected_at_utc": "2026-11-20T22:05:08.842515+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 317,
   "korea": 726
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 174.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T12:44:00+00:00"
+   "newest": "2026-11-20T13:08:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-20T21:44:47+00:00"
+   "newest": "2026-11-20T22:02:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T21:07:23+00:00"
+   "newest": "2026-11-20T21:42:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T10:35:22+00:00"
+   "newest": "2026-11-20T21:44:47+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:34:50+00:00"
+   "newest": "2026-11-20T13:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T18:33:21+00:00"
+   "newest": "2026-11-20T21:17:27+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T21:30:06+00:00"
+   "newest": "2026-11-20T21:52:28+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T21:52:28+00:00"
+   "newest": "2026-11-20T22:03:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-21T06:30:00+09:00"
+   "newest": "2026-11-21T06:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
+   "published_utc": "2026-11-20T21:44:47+00:00",
+   "title_original": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f130ae3a11ecc9f0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1348,24 +1366,6 @@
    "id": "09d3ceb533a753ed"
   },
   {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Dollar takes a breather near 19-month peak; Yen jumps on hot CPI",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
-   "published_utc": "2026-11-20T09:49:42+00:00",
-   "title_original": "Dollar takes a breather near 19-month peak; Yen jumps on hot CPI",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ec878dd942708c9"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Yen market price rise, US dollar selling movement due to fall in long-term interest rates",
@@ -1885,8 +1885,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -1900,7 +1900,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2092,8 +2092,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -2106,7 +2106,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3612,8 +3612,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -3627,7 +3627,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -3921,8 +3921,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -3936,7 +3936,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4633,8 +4633,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -4647,7 +4647,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",

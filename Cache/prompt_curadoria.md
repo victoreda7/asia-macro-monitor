@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T21:52:42.022326+00:00
+Última coleta: 2026-11-20T22:05:08.842515+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data
   - [china] Verlinvest: China Resources Indirect Subsidiary Blossom Key Holds 50% Indirect Interest in Oatly Shares
   - [korea] [Money Briefing] The last Monetary Policy Committee of the year weighs on a 3.25% increase in the base interes
   - [japan] Japan weighs early funding to ICC before US sanctions cutoff
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
   - [taiwan] New mortgage loans in October hit a new high in more than a year and a half. The effects of the central bank's
   - [china] U.S. Fuel Prices Likely to Keep Falling on Rising Gulf, Chinese Exports, Energy Chief Says — Market Talk
-  - [japan] Yomiuri: Japan Shelves Retail JGB Tax Break as Rising Rates Fuel Demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T21:52:42+00:00",
+      "published_utc": "2026-11-20T22:05:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
