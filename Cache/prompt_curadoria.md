@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T13:22:45.454204+00:00
+Última coleta: 2026-11-20T13:32:56.758074+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1042
-  🇨🇳 China          910
-  🇹🇼 Taiwan         319
+  🇨🇳 China          911
+  🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [china] Alibaba puts quixotic faith in made-in-China chips
   - [korea] Samsung, SK Hynix investors search for answers, but relief remains elusive
   - [korea] REG - Leverage Shares PLC Leverage - 3x HNX3 $ Leverage - 3x HNX3 £ - Notice of Original Meeting - 3x SK Hynix
+  - [china] China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus
   - [japan] Japan-Chile Summit: Cooperation to maintain and strengthen international order based on the rule of law
   - [korea] SK Hynix to become Kioxia's largest shareholder after bond conversion
   - [taiwan] Central Bank: Major export manufacturers did not hesitate to sell, and the net foreign exchange sales of the t
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Korean won is expected to strengthen as demand to convert the dollar earned during the semicondu..
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
   - [korea] Shim Jae-bok passed away, Sung Won-won's husband, Shim Won-bo (team leader of Geumho Construction'..
-  - [japan] Yomiuri: Japan's MS&AD to Merge Life Insurance Subsidiaries
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T13:22:45+00:00",
+      "published_utc": "2026-11-20T13:32:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
