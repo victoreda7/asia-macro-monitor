@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T03:42:47.861968+00:00",
- "collected_at_utc": "2026-11-20T03:42:47.861968+00:00",
+ "generated_at_utc": "2026-11-20T03:52:42.324676+00:00",
+ "collected_at_utc": "2026-11-20T03:52:42.324676+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1050,
-  "china": 901,
+  "china": 902,
   "taiwan": 320,
-  "korea": 729
+  "korea": 728
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-20T03:20:05+00:00"
+   "newest": "2026-11-20T03:37:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T03:18:39+00:00"
+   "newest": "2026-11-20T03:24:35+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T03:25:59+00:00"
+   "newest": "2026-11-20T00:45:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:37:59+00:00"
+   "newest": "2026-11-20T00:11:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T03:41:54+00:00"
+   "newest": "2026-11-20T03:52:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T03:25:15+00:00"
+   "newest": "2026-11-19T12:56:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -337,13 +337,48 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
-   "newest": "2026-11-20T01:47:00+00:00"
+   "newest": "2026-11-20T02:29:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China yuan recovers from one-month low on exporter demand, strong dollar caps gain",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N471084:0-china-yuan-recovers-from-one-month-low-on-exporter-demand-strong-dollar-caps-gain/",
+   "published_utc": "2026-11-20T03:52:25+00:00",
+   "title_original": "China yuan recovers from one-month low on exporter demand, strong dollar caps gain",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "603e7d638387173e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Alibaba puts quixotic faith in made-in-China chips",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47105P:0-alibaba-puts-quixotic-faith-in-made-in-china-chips/",
+   "published_utc": "2026-11-20T03:51:49+00:00",
+   "title_original": "Alibaba puts quixotic faith in made-in-China chips",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7fa9b89395e21855"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -534,6 +569,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c770c8a81f93939c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "SBS Biz",
+   "title_en": "[Breaking News] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domestic demand",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fWE5lQkwybjc2MUFJYkVqX2xlQ0VhMmNVUW5xQzgxSmZ6X2NhTXlKUFFRamV2WHR1aUV1VldtYUszczU3OWJWd0FENENMOG9rM2hmMERjeDLSAVhBVV95cUxNX1hOZUJMMm43NjFBSWJFal9sZUNFYTJjVVFucUM4MUpmel9jYU15SlBRUWpldlh0dWlFdVZXbWFLM3M1NzliVndBRDRDTDhvazNoZjBEY3gy?oc=5",
+   "published_utc": "2026-11-20T02:29:00+00:00",
+   "title_original": "[속보] 中, '사실상 기준금리' 18개월째 동결…내수부진에도 금리 유지",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "351a72b59d9eb0ab"
   },
   {
    "source_id": "tradingview_live",
@@ -10943,7 +10995,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -10954,7 +11006,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "350419b2852113c9"
+   "id": "5eecd2256cf4eacd"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -30568,6 +30620,23 @@
    "id": "d006de6af1fe60ac"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbcc5b21551bd2ee"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
@@ -30584,23 +30653,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
-   "published_utc": "2026-11-05T08:00:00+00:00",
-   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bbcc5b21551bd2ee"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51840,58 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5232481bfc22f7b0"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EZjRLTXVIa2ZmbkUxVksxZjljZVB6Y0Y3VGhVd1NPdGkyWmJtQ3lVbEtORmE2MGhvZ1YyRWhVaDFUTkoyaE83eHY2QlBmdjg?oc=5",
-   "published_utc": "2026-10-27T02:01:25+00:00",
-   "title_original": "The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33a2ec2d250852ae"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank launched a 412 billion yuan reverse repurchase today",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2NSRjBQa09SOGVVZE05LUxtdXZPZ0ZPTUZQeWdjdFR1dzJuV0ZvV203UE5MQVBYU1ZHWjFfWWszS3FRWEpaVTkwc0VUVElMTFlaYU01U2lhbDhfT2ZxVmZtYXo2cDZjcGpGN0VGY1ZZOGdsN0pVY3NEY3BpNDlncms2MHhwZWs2Qi11Ug?oc=5",
-   "published_utc": "2026-10-27T01:58:30+00:00",
-   "title_original": "央行今日开展4120亿元逆回购",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "706a1a573e4c4706"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ba3p4dVNyWDZWSFY5SUE4a19ZOE9XR0N2UzZRZlVZSm9VeHRVOE9GXzI5bzFINzNQMDVDczJLZDJMbkxwRmNHRWN3RWlqbzA?oc=5",
-   "published_utc": "2026-10-27T01:53:40+00:00",
-   "title_original": "With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5842588dee41f8d3"
   },
   {
    "source_id": "manual_ia",

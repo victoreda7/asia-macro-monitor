@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T03:42:47.861968+00:00
+Última coleta: 2026-11-20T03:52:42.324676+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1050
-  🇨🇳 China          901
+  🇨🇳 China          902
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  729
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [china] China yuan recovers from one-month low on exporter demand, strong dollar caps gain
+  - [china] Alibaba puts quixotic faith in made-in-China chips
   - [china] China's fuel oil exports for bunkering ease in October while imports rebound
   - [japan] Result of Liquidity Enhancement Auction on November 20, 2026(For JGB Market Special Participants)
   - [japan] Japan Core CPI Likely to Accelerate to 2.7% in November — Market Talk
@@ -28,6 +30,7 @@ Total: 3000 manchetes
   - [china] On November 20, the central bank launched a 379.5 billion yuan overnight reverse repurchase operation.
   - [japan] [Today's Oha Biz Friday, November 20th] Full-scale discussion on tax reform begins
   - [japan] BOJ Likely to Raise Rate in December or January Amid Persistent Inflation — Market Talk
+  - [korea] [Breaking News] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite
   - [japan] Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk
   - [japan] October consumer price index +2.2% compared to the same month last year Index excluding fresh food
   - [korea] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domest
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 27
   - [japan] Japan's Inflation Likely to Rise Much More Next Year — Market Talk
   - [japan] Consumer price index rose 2.2% in October
-  - [korea] Protec Co Wins 23.4 Billion Won Order From Samsung Electronics
-  - [japan] Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears
-  - [japan] Japan CPI Rises to Fastest This Year, Backing BOJ Hike Case
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T03:42:48+00:00",
+      "published_utc": "2026-11-20T03:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
