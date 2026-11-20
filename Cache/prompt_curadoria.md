@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T00:03:37.253541+00:00
+Última coleta: 2026-11-20T00:12:44.593460+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          906
+  🇯🇵 Japão          1035
+  🇨🇳 China          905
   🇹🇼 Taiwan         322
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [korea] “The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”
+  - [japan] October consumer price index excluding fresh food +2.2% compared to the same month last year
   - [japan] Japan Consumer Prices Jump 0.8% In October
   - [japan] Japan CPI inflation rises in Oct, core print slightly misses estimates By Investing.com
   - [japan] JAPAN OCT CPI: SERVICES PRICES CATCHING UP WITH GOODS INFLATION AMID CONTINUED WAGE HIKES IN FISCAL 2026 BUT R
+  - [japan] Japan’s core inflation accelerates in October, cementing rate hike expectations
   - [korea] [Morning Report] “The Bank of Korea is expected to raise interest rates in November...Market attention to futu
   - [japan] JAPAN OCT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +1.9% VS. +2.0% IN SEPT; GOODS (EX-FRESH FOOD) +3.0% VS. +
   - [japan] JAPAN OCT CORE-CORE CPI +2.2% Y/Y; SEPT +2.4%
@@ -29,12 +32,11 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT CPI: PROCESSED FOOD +2.2% (+0.53 POINT CONTRIBUTION) VS. +2.9% (+0.69 PT) IN SEPT
   - [japan] JAPAN OCT CPI ANNUAL RATE ACCELERATES SLIGHTLY ALSO ON HIGHER MOBILE PHONE PRICES AMID WEAK YEN, RISE IN HOTEL
   - [japan] Japan Consumer Inflation Accelerates Amid Rate-Hike Views
-  - [japan] Japan Oct core CPI rises 2.2% yr/yr
   - [japan] JAPAN OCT INFLATION EDGES UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS, LEADING OVERALL ENERGY COS
-  - [japan] Japan's core inflation accelerates in October, cementing rate hike expectations
   - [japan] JAPAN OCT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.2% Y/Y, 55TH STRAIGHT RISE (SEPT +2.4%); MEDIAN FORECAST +2
   - [japan] JAPAN OCT TOTAL CPI +2.3% Y/Y, 62ND STRAIGHT RISE (SEPT +2.1%); MEDIAN FORECAST +2.6%
   - [japan] JAPAN OCT CORE CPI (EXCLUDING FRESH FOOD) +2.2% Y/Y, 62ND STRAIGHT RISE (SEPT +2.1%); MEDIAN FORECAST +2.4%
+  - [japan] Japan Oct core CPI rises 2.2% yr/yr
   - [korea] ‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'
   - [japan] The true nature of the "sure profits" that Netflix invests in production costs of "2.5 trillion yen a year"...
   - [china] Why China's EVs could throw a wrench into EU, UK trade talks
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] "Full tuition fee exemption, 50,000 yen monthly scholarship" Reasons why Taiwanese universities treat Japanese
   - [korea] [Defense Industry] Interceptor missiles are classified as "weapons" like rifles, and they are told to "repay t
   - [korea] At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..
-  - [china] License information for AI chips sent to China released by US House committee
-  - [china] The US approved the sale of almost 900,000 AI chips to China in six months, the commission says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T00:03:37+00:00",
+      "published_utc": "2026-11-20T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

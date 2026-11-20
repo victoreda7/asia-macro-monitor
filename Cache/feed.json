@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T00:03:37.253541+00:00",
- "collected_at_utc": "2026-11-20T00:03:37.253541+00:00",
+ "generated_at_utc": "2026-11-20T00:12:44.593460+00:00",
+ "collected_at_utc": "2026-11-20T00:12:44.593460+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
-  "china": 906,
+  "japan": 1035,
+  "china": 905,
   "taiwan": 322,
   "korea": 738
  },
- "elapsed_s": 83.7,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T04:01:06+00:00"
+   "newest": "2026-11-19T23:39:03+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-19T23:52:01+00:00"
+   "newest": "2026-11-20T00:02:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T23:43:35+00:00"
+   "newest": "2026-11-19T23:49:06+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T07:49:33+09:00"
+   "newest": "2026-11-20T09:03:53+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T01:53:08+00:00"
+   "newest": "2026-11-19T01:59:24+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T18:37:42+00:00"
+   "newest": "2026-11-19T20:07:44+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T08:45:00+09:00"
+   "newest": "2026-11-20T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:49:00+00:00"
+   "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스투데이",
+   "title_en": "“The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
+   "published_utc": "2026-11-20T00:04:00+00:00",
+   "title_original": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4534aba4a6affe9"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "October consumer price index excluding fresh food +2.2% compared to the same month last year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
+   "published_utc": "2026-11-20T00:03:53+00:00",
+   "title_original": "10月消費者物価 生鮮食品除く指数 前年同月比＋2.2％",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "238494e1205296ed"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -395,6 +429,24 @@
    "live_wire": true,
    "manual": false,
    "id": "0ea814a57cca8e4b"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s core inflation accelerates in October, cementing rate hike expectations",
+   "url": "https://www.investing.com/news/economy-news/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations-5040357",
+   "published_utc": "2026-11-19T23:49:06+00:00",
+   "title_original": "Japan’s core inflation accelerates in October, cementing rate hike expectations",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35f032ff750ecee7"
   },
   {
    "source_id": "gn_kr_bok",
@@ -551,23 +603,6 @@
    "id": "97f50a20abec70f9"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Japan Oct core CPI rises 2.2% yr/yr",
-   "url": "https://www.investing.com/news/economic-indicators/japan-oct-core-cpi-rises-22-yryr-5040343",
-   "published_utc": "2026-11-19T23:43:01+00:00",
-   "title_original": "Japan Oct core CPI rises 2.2% yr/yr",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a41b2d0bb8844db1"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "JAPAN OCT INFLATION EDGES UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS, LEADING OVERALL ENERGY COSTS TO RISE VS. DROP IN SEPT",
@@ -583,24 +618,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7c6b2a16766c8496"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's core inflation accelerates in October, cementing rate hike expectations",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4700FV:0-japan-s-core-inflation-accelerates-in-october-cementing-rate-hike-expectations/",
-   "published_utc": "2026-11-19T23:40:47+00:00",
-   "title_original": "Japan's core inflation accelerates in October, cementing rate hike expectations",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b59f6936d9034200"
   },
   {
    "source_id": "tradingview_live",
@@ -652,6 +669,23 @@
    "live_wire": true,
    "manual": false,
    "id": "28456b0e509708c6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan Oct core CPI rises 2.2% yr/yr",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-11-19:newsml_AZN4TW1N4:0-japan-oct-core-cpi-rises-2-2-yr-yr/",
+   "published_utc": "2026-11-19T23:30:09+00:00",
+   "title_original": "Japan Oct core CPI rises 2.2% yr/yr",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bd820e95448692bc"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1359,8 +1393,8 @@
    "id": "555a351f9a7ae5dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -1374,7 +1408,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -1652,8 +1686,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1667,7 +1701,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2330,8 +2364,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2344,7 +2378,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -5624,6 +5658,24 @@
    "id": "819da848ba232bb9"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "网易新闻客户端",
+   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03NjZXUnJoLVY1R1ljWG9fa3B0bnU0Y2E0UnhKWTlvQlFrellacFllWTZZUjVxVktSR21Zdjg3V2ZjM3ppbm4yVS1Ld1otZmlFWVJyTjJuUExLRVct?oc=5",
+   "published_utc": "2026-11-17T13:41:00+00:00",
+   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "707bf33530c71622"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Higher interest rates, sluggish consumer spending take toll on Korea’s credit card firms",
@@ -5639,24 +5691,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b9cd217b45d1f01b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "Central Bank Announcement: Launching 714 billion yuan overnight reverse repurchase operation on November 17",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQalBpOG5leTJ0LTdnMjQ5YWJNSEVsMzQ0eGlwemZ2NjQ4azVrQjQyOVFOR3VUMTdUQ2FrdV9FWGh1b0hzaUoxWkpWSmFKTl9uYXhKZk5YS19Ednd4WEFFSW9tYUZCSklvYnJqY01qUllSbzVrUDM4UFdFTUxlbVhRamJwa0tIajRFeERKSUY0cw?oc=5",
-   "published_utc": "2026-11-17T13:32:00+00:00",
-   "title_original": "央行公告：11月17日开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "91da37975e8dd297"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10080,7 +10114,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -10091,7 +10125,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5eecd2256cf4eacd"
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -10990,6 +11024,23 @@
    "id": "14991c770d3d07d2"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Increase to 6%! The central bank’s major adjustments officially take effect today",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNnU4WDBUT1lROU8xazRCdWMtelYxLUlBREN0V3hpSGotQjlYT19GRmxQUmxrWVRGeUxRMXBQcERXbTVrbXRibDllcVR6ckF4T1ljbWZPYkhScTI0LU5GOTJacw?oc=5",
+   "published_utc": "2026-11-15T02:00:15+00:00",
+   "title_original": "提高至6%！央行重大调整，今日正式生效",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a33bd841a9a17044"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "20% say they have seen or heard slander against the Ainu people, Cabinet Office poll",
@@ -11005,23 +11056,6 @@
    "live_wire": false,
    "manual": false,
    "id": "04e228190243999e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "Increase to 6%! The central bank’s major adjustments officially take effect today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnJkMWlWYlNCMndvNE82NGxGcmNIZWZwNHQ4VWluUDVzVFZEamxZN1JjODlUWlJWTVlQUW9fcFR1eTl4UUplYUloa3dEVm81Q0JZeFhKUWdWekltdm1NZi03c2k3MVFMdUVvMFhuN0Q1dTQzdGhIODlkWnQ4bDlqNDVudy00aElaRkVzeHF1WQ?oc=5",
-   "published_utc": "2026-11-15T01:52:37+00:00",
-   "title_original": "提高至6%！央行重大调整，今日正式生效",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5ea0834f48c4002c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51860,40 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "540a654ac57d2010"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "https://technovalue.com/",
-   "title_en": "The Bank of Korea freezes the base interest rate at 3.0% per annum... Take a breath while examining the effects of interest rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lTE9acE1lYmtzMlBBSHN2bGx3QlRsd2EtemNaTFJ1YUdnRU5sYjg3ZEJZT19Vdm5DTXpEU3JiYzJpd0NQSG1INTFHZ2JlWlpESWJYWFBCRQ?oc=5",
-   "published_utc": "2026-10-26T15:10:13+00:00",
-   "title_original": "한은, 기준금리 연 3.0% 동결…금리 인상 효과 점검하며 숨 고르기",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c3f281594775eb3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46C0Y6:0-shanghai-iluvatar-corex-semiconductor-granted-aggregate-banking-facilities-of-over-rmb12-billion-as-at-oct-26/",
-   "published_utc": "2026-10-26T14:56:00+00:00",
-   "title_original": "Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7b4dc5dcb078c33c"
   },
   {
    "source_id": "manual_ia",
