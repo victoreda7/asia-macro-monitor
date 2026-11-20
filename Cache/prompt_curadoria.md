@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T09:42:42.032891+00:00
+Última coleta: 2026-11-20T09:52:42.158647+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
   🇨🇳 China          912
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  735
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [china] Tongwei Plans Share Buyback With 1-2 Billion Yuan
+  - [taiwan] Taiwan Chip Demand Likely to Be Hurt if U.S. AI Capex Slows Down — Market Talk
   - [korea] SK Hynix to become top shareholder in rival Kioxia after bond conversion
   - [japan] Yen market price rise, US dollar selling movement due to fall in long-term interest rates
   - [korea] S.Korea to offer $1,870 tax credit per locally made EV to counter Chinese imports
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares hit 10-month low as chipmakers slump on US tech selloff
   - [taiwan] Foxconn Technology: Global manufacturing capabilities support gaming, casing and thermal products, alongside E
   - [japan] Nikkei average closing price drops by 3007 yen Confusion over AI
-  - [korea] SK Hynix weighs converting Kioxia bonds to shares, report says
-  - [korea] The top 1% return on stock investment, which sold the largest amount of Samsung Electronics' common
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T09:42:42+00:00",
+      "published_utc": "2026-11-20T09:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
