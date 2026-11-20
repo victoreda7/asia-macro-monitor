@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T14:12:53.608865+00:00
+Última coleta: 2026-11-20T14:23:00.328455+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1041
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] Spacex’s Subsidiary Cursor Tells Lawmakers It’s Considering Phasing Out Chinese AI Models- CNBC
+  - [japan] Prime Minister Takaichi held a summit meeting with Jose Antonio Casto Listo, President of the Republic of Chil
   - [japan] Komeito: "Amend the Consumption Tax Reduction Bill to Mitigate the Impact of Drastic Changes" – Position State
   - [china] USTR GREER Q&A/BBG: NO EXTENTION YET OF JAN 10 DEADLINE FOR TRADE TRUCE W/CHINA; DEPENDS ON RARE EARTHS TRADE;
   - [china] USTR GREER Q&A/BBG: PRESIDENT TRUMP RESOLVES INTERNAL ADMINISTRATION DISPUTES OVER CHIP EXPORT RESTRICTIONS VS
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] From robot pets to virtual livers: Apple Developer Academy showcases projects at Postech
   - [china] China's January-October fiscal revenues up 4.9% y/y
   - [taiwan] TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption
-  - [china] China's January-October government land sales revenue down 25.8% Y/Y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T14:12:53+00:00",
+      "published_utc": "2026-11-20T14:23:00+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
