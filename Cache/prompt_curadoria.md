@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T00:42:50.301598+00:00
+Última coleta: 2026-11-20T00:52:42.869552+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
@@ -17,7 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] Stock price temporarily fell by more than 2,000 yen due to concerns about the future of the AI ​​and semicondu
+  - [japan] Stock price temporarily fell by more than 2,700 yen due to concerns about the future of the AI ​​and semicondu
+  - [japan] Consumer price index rose 2.2% in October
   - [japan] Interest Rate (November 19 2026)
   - [japan] Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)
   - [japan] Japan's finance minister says JT dividend cut will not affect state budget plan
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [china] Export of AI chips to China raises national security controversy. US House of Representatives releases approva
   - [japan] Japan Inflation Data Due On Friday
   - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
-  - [china] US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says
   - [china] California AG subpoenas Nvidia over alleged China chip leak and investor fraud
   - [china] US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show
   - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T00:42:50+00:00",
+      "published_utc": "2026-11-20T00:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
