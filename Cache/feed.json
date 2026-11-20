@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T00:32:41.099234+00:00",
- "collected_at_utc": "2026-11-20T00:32:41.099234+00:00",
+ "generated_at_utc": "2026-11-20T00:42:50.301598+00:00",
+ "collected_at_utc": "2026-11-20T00:42:50.301598+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
-  "china": 905,
-  "taiwan": 322,
+  "japan": 1037,
+  "china": 903,
+  "taiwan": 321,
   "korea": 739
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 38.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T10:39:00+00:00"
+   "newest": "2026-11-19T19:42:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T09:03:53+09:00"
+   "newest": "2026-11-20T09:38:59+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T00:31:23+00:00"
+   "newest": "2026-11-20T00:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T20:28:48+00:00"
+   "newest": "2026-11-19T23:28:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:04:12+00:00"
+   "newest": "2026-11-20T00:27:21+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-19T22:36:03+00:00"
+   "newest": "2026-11-20T00:39:14+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:21:53+00:00"
+   "newest": "2026-11-20T00:25:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock price temporarily fell by more than 2,000 yen due to concerns about the future of the AI ​​and semiconductor industry",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
+   "published_utc": "2026-11-20T00:38:59+00:00",
+   "title_original": "株価 一時2000円超の下落 AI・半導体業界の先行き懸念で",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "84d7171f667772b5"
+  },
   {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
@@ -360,6 +378,41 @@
    "live_wire": false,
    "manual": false,
    "id": "3c8a87e11c6cd000"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjQ5UlhnQnhRLXFQT2l4RlhuaGctQlVIUGlqcUJhbE5aYzlDWnBOcVdZaFAxaG56UkItQXdrc2RUbDZ4X0JzbDBjeEZqVEVCaktDU3lNVzhDMU9sNVlJYm10bE9kcWRwaWtBUndWNmdNVkdxampNU2JvQWgwR19aU1JtaktCTk1rMjFncHpR?oc=5",
+   "published_utc": "2026-11-20T00:21:29+00:00",
+   "title_original": "日銀・利上げのロジック再考（NRI研究員の時事解説）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "def3a250ec8782a6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's finance minister says JT dividend cut will not affect state budget plan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45N02O:0-japan-s-finance-minister-says-jt-dividend-cut-will-not-affect-state-budget-plan/",
+   "published_utc": "2026-11-20T00:17:45+00:00",
+   "title_original": "Japan's finance minister says JT dividend cut will not affect state budget plan",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "63021e86eec7a25a"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1910,6 +1963,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5ff0e418423ab83e"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Tighter US chip rules set to favor Qualcomm and MediaTek",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3FHc0k3VngzWkNsZTdjcDhmVllGcmtWSXFfeDF2RVJOSG10aXhXellJYVdlbnZqTWZ0QlRBa3JyZ0RUbmY0MDlvSVQwaGJxM1ZpNUZlbV9LWk1tei1hNWItWS1DbDFycWNRWWgzaDhMbTdtczUwQVJnS0FLeGtqNVV5am1BandYUVU4ZmpvS1N5Y19PMzQ5cGFFXzM?oc=5",
+   "published_utc": "2026-11-19T08:20:00+00:00",
+   "title_original": "Tighter US chip rules set to favor Qualcomm and MediaTek",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "571620ef02a5fa26"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3958,7 +4028,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s youth unemployment rate down as tide of graduates continues to ebb",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUktTMG9KLVBtemczOGViZ0s2TnNOM1pyS1hDVFZUZFN6MDZhZUszTGRDNkh3LTZIQlNyZE9mTm5TMkVwY25zQXRjSlRucVVXLXhOVUJpSEh3TzFjd0UtQkpIU3lrRXRkZlBFcDk5RjJiOU1YWEQ0T0psbWoxNlczY3g4MFktSlQ2OHhsUVloNHdSNTZHLTlKRVcyWUItaWdXNllRWWlNQzlQY1E2ZmNIc3o2S0kxYjNCb2tweEtBSFFfWWRPVFAyOFFNLWZ2R2w0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUktTMG9KLVBtemczOGViZ0s2TnNOM1pyS1hDVFZUZFN6MDZhZUszTGRDNkh3LTZIQlNyZE9mTm5TMkVwY25zQXRjSlRucVVXLXhOVUJpSEh3TzFjd0UtQkpIU3lrRXRkZlBFcDk5RjJiOU1YWEQ0T0psbWoxNlczY3g4MFktSlQ2OHhsUVloNHdSNTZHLTlKRVcyWUItaWdXNllRWWlNQzlQY1E2ZmNIc3o2S0kxYjNCb2tweEtBSFFfWWRPVFAyOFFNLWZ2R2w00gHQAUFVX3lxTE1rUHFqNUplZnBHSDloamkzaURfQTVMMU91Smw5X3RRNTdiajVJaUdienRLM01zNi16b0VpQjhIU0R4QTdEMU5fTHlINDlwaDVURkY0ZVZTMmRfekZxLWNFaVY3ejdaUlRFWkhRenYzQ2NNUWNLa1EzRWNRb2NMaUtLZHJ5cDhWdmtvVHMtSGRIbHgyR1pDc3BFM2ItX3FSMm1RcTVHMW00MldsdktFR3ptQVFBTkhEYkRLbC1icUR2aUFmanhkQy10WWdmQ1JpeEY?oc=5",
    "published_utc": "2026-11-18T06:27:16+00:00",
    "title_original": "China’s youth unemployment rate down as tide of graduates continues to ebb",
    "region": "china",
@@ -3969,7 +4039,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f4707053a93f470d"
+   "id": "408064b93fb82c8f"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -11511,9 +11581,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "东方财富网",
    "title_en": "The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the downward trend of funding rates",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdlJzcVF0NUNzd1VucG1FLW9INm5uQVZtYjItSjY5U3Z1QjVvWjlXSzdTWWJ2ajVGYzVIQThhbzZhZVJaTndyQ29nV3dRNkhwUUZFdm94R3I0aTNJUnNXUUh6Z1VQdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMjJxRmQweTZWU0xTejRKLXZYQlBDNFNRV3lPeUlucHByeVFENWFFWDZ4dmhrYWw4dHBCUlVrbkdNRkFuVGFCVlRwcmJ3ZDhrNHRTR0NZaTljbEpIU29LZg?oc=5",
    "published_utc": "2026-11-14T03:06:40+00:00",
    "title_original": "央行缩量续作6个月期买断式逆回购 机构：遏制资金利率下行势头",
    "region": "china",
@@ -11524,7 +11594,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "71cf3b72bd07dffa"
+   "id": "4fb5a23aa9509610"
   },
   {
    "source_id": "tradingview_live",
@@ -51826,74 +51896,6 @@
    "live_wire": true,
    "manual": false,
    "id": "db701f0152f92a4f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 195.93, Implies 35% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:b970bc3c0dd80:0-wuxi-apptec-co-ltd-class-a-stock-12-month-price-target-raised-to-cny-195-93-implies-35-upside/",
-   "published_utc": "2026-10-26T16:20:00+00:00",
-   "title_original": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 195.93, Implies 35% Upside",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ca809acd0cdf0c18"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Reverse mortgage growth defies lull",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWLWJ0LURzWG03OExiRkpjVmM3UlRXRUtCUnZKSTBoWTQydUVGbk9HRzNicUx0emJGb0U3bk9nSHIwWmxBU1pKYXZnZ3JwT1FhRnByRnNpTjJqaUZ2Xy1TQjZBZ0thZUUzR0NDaXN0VEh6Ri01cGc?oc=5",
-   "published_utc": "2026-10-26T16:00:00+00:00",
-   "title_original": "Reverse mortgage growth defies lull",
-   "region": "taiwan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fd0a50b2c23efadf"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Properties Pass Down China’s Construction Supply Chain in a ‘Debt Relay’",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUNMbG1EQi1vZW93c3VWY3B1Yl9qNVUwejJZUG9rLTZYUnlHY2Vad3BxZ0xXTS1BVC1PNERQNW9ablN5aUlJTFczaTIyd1o4ZHhsM2hYeW9qQnZjbm9BYjhUNGZ1Qzg5ejJJTU5JVDhOZFI1MHRUaGxDY1hkS3pTZy1US2oxN19qRHBTRml1NEdoaG9hMzBfRzAtYnNtS3dFSDA4MnRJalNWeURBTF9IYU1hcEJya2JjRldtRnRYWWtldw?oc=5",
-   "published_utc": "2026-10-26T15:31:00+00:00",
-   "title_original": "Properties Pass Down China’s Construction Supply Chain in a ‘Debt Relay’",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bca220a884b9ff3d"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Anthropic Highlights Disruptions to TSMC Operations as a Risk",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHlyOHJuRjlUbFJuWVVISkpvR0lBZEVkR3lacVgzQjROMHhsVExJTHJzVXNua09xT0hVT2lVelgzN29QWk5sUkNDakMtVjZIbjZJSTZtYnVJaHpTbHVrblNDa1hYSWVFbmJfVTZULTBOcXBKT3NvMkNiTTNIcnowdmlOdHpLV3JjMlEyam9HaXN2N2NTRGFpREFaM1dPQUtiSWxaSEF5aFR4eGZrV0xkeEtR?oc=5",
-   "published_utc": "2026-10-26T15:28:56+00:00",
-   "title_original": "Anthropic Highlights Disruptions to TSMC Operations as a Risk",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dfc6bbf49a922dda"
   },
   {
    "source_id": "manual_ia",
