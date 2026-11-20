@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T10:13:02.476296+00:00
+Última coleta: 2026-11-20T10:23:02.987318+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
+  🇯🇵 Japão          1038
   🇨🇳 China          911
-  🇹🇼 Taiwan         318
+  🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
   - [china] Trump administration signed off nearly 900,000 Nvidia, AMD AI chips for China in six months
+  - [japan] ​​[Industry reorganization] What does it mean for ANA to make Air Do & Solaseed a wholly owned subsidiary? Is 
   - [china] Tongwei Plans Share Buyback With 1-2 Billion Yuan
   - [japan] Dollar takes a breather near 19-month peak; Yen jumps on hot CPI
   - [taiwan] Taiwan Chip Demand Likely to Be Hurt if U.S. AI Capex Slows Down — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion
   - [japan] M3 Inc - To Expand Buy Back Up Scheme To Up To 5.06% Of Own Shares From Previous Up To 3% Worth 5.5 Billion Ye
   - [china] China's October coal imports from Australia hit six-year high
-  - [korea] South Korean shares hit 10-month low as chipmakers slump on US tech selloff
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T10:13:02+00:00",
+      "published_utc": "2026-11-20T10:23:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
