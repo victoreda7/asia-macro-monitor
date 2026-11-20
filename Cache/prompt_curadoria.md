@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T06:03:32.781342+00:00
+Última coleta: 2026-11-20T06:12:46.871113+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1049
-  🇨🇳 China          907
+  🇯🇵 Japão          1048
+  🇨🇳 China          908
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [korea] JPMorgan initiates BOK Financial stock coverage with neutral rating
   - [taiwan] Selling wave in chip stocks leads Taiwan to worst week since 1990; Asian stock markets fall
   - [china] Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin su
   - [korea] Samsung Electronics Appoints New Memory-Chip Business Head
@@ -32,6 +33,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix's single-stock leverage product, which had raised expectations that it could double profits..
   - [japan] Balance of the Fiscal Loan Fund (End of October 2026)
   - [china] China's refined copper imports set to jump in 2027, traders and analysts say
+  - [china] PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC
   - [korea] Samsung Management Shuffle Aimed at Strengthening Competitiveness of Semiconductor Business
   - [china] China home prices seen falling again in 2027, Reuters poll shows
   - [taiwan] Why is TSMC stock sliding today?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] [Today's Oha Biz Friday, November 20th] Full-scale discussion on tax reform begins
   - [japan] BOJ Likely to Raise Rate in December or January Amid Persistent Inflation — Market Talk
   - [korea] [Breaking News] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite
-  - [japan] Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk
-  - [japan] October consumer price index +2.2% compared to the same month last year Index excluding fresh food
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T06:03:32+00:00",
+      "published_utc": "2026-11-20T06:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
