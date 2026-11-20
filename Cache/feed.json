@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T06:22:41.046993+00:00",
- "collected_at_utc": "2026-11-20T06:22:41.046993+00:00",
+ "generated_at_utc": "2026-11-20T06:34:50.669335+00:00",
+ "collected_at_utc": "2026-11-20T06:34:50.669335+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1048,
-  "china": 908,
+  "japan": 1044,
+  "china": 910,
   "taiwan": 318,
-  "korea": 726
+  "korea": 728
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 158.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:46:59+00:00"
+   "newest": "2026-11-20T03:19:54+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T05:01:49+00:00"
+   "newest": "2026-11-20T05:45:32+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-20T06:15:41+00:00"
+   "newest": "2026-11-20T06:21:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T05:03:24+00:00"
+   "newest": "2026-11-20T06:15:41+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T02:08:26+00:00"
+   "newest": "2026-11-20T05:42:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T05:51:30+00:00"
+   "newest": "2026-11-20T06:29:17+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T04:26:00+00:00"
+   "newest": "2026-11-19T11:12:01+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:45:00+00:00"
+   "newest": "2026-11-20T01:47:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T06:22:09+00:00"
+   "newest": "2026-11-20T06:32:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T15:00:00+09:00"
+   "newest": "2026-11-20T15:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,19 +331,53 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T06:11:30+00:00"
+   "newest": "2026-11-20T06:17:35+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-20T05:16:35+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix weighs converting Kioxia bonds to shares, report says",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-weighs-converting-kioxia-bonds-to-shares-report-says-5040745",
+   "published_utc": "2026-11-20T06:21:03+00:00",
+   "title_original": "SK Hynix weighs converting Kioxia bonds to shares, report says",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a981bd6f30eca090"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The top 1% return on stock investment, which sold the largest amount of Samsung Electronics' common",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBydC1oTjhvV0Jmb1JsOHlBdW8tbHpGTlBBYmphNGxyQlc0X0NEUzJ1WTYwRkxHalhUWlFENFVBczdNQ3kxcm9hWlJlSGFXOUk?oc=5",
+   "published_utc": "2026-11-20T06:17:35+00:00",
+   "title_original": "The top 1% return on stock investment, which sold the largest amount of Samsung Electronics' common",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ebe01074e01f940a"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -483,8 +517,8 @@
    "id": "4fc9a02b1faa9b8b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -498,7 +532,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "tradingview_live",
@@ -619,6 +653,23 @@
    "live_wire": true,
    "manual": false,
    "id": "535133e3c47417ce"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Has Capacity, But Maybe Not the Will to Boost Fuel Exports",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVd3RHBoUnBnWURMT0YwSkhGSEZ0UXVINVE1MnRFdFhYdktSbDhKc2RXSURMQkFyeUVXVy1zM3o1bk42cENOVzVvUmxLeWNpMmg1YVN4cWZlTXlUVWxKOXhiMUs0MWFzWHVpeUtlWjBDZ18yZG5FLWZ2UzBYVzdXWHdmeFBKVVVsR195VlNIMFJmSGhZOWZScFJIT0JVSkRrUVNMVmJscHFGeXRQZ2NBN1JtMno?oc=5",
+   "published_utc": "2026-11-20T04:50:00+00:00",
+   "title_original": "China Has Capacity, But Maybe Not the Will to Boost Fuel Exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8db83fc5cd83fe0"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -861,8 +912,8 @@
    "id": "752219fb2b0f8832"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -875,7 +926,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2553,8 +2604,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -2568,7 +2619,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -2845,8 +2896,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2860,7 +2911,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3557,8 +3608,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -3571,7 +3622,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11358,7 +11409,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -11369,7 +11420,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5eecd2256cf4eacd"
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -12111,6 +12162,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5dbbecc69c06d83e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "央视网",
+   "title_en": "[Tianxia Finance] Central Bank: The foreign exchange deposit reserve ratio of financial institutions will be increased to 6% starting today",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuanZjcTl4OUU4NlVxc0VVWlZvTmdLOS1XZmJwZFBYUWNrT0dkR29MbTI0XzlNd1ZkR25hR1lLbzJjT0FjUElrSFppNDNlYmRfVzk5Q3FQcnNmMWNjcWhScU1TVGRvbzdoczk5Uy1mb0paeHpMSlE?oc=5",
+   "published_utc": "2026-11-15T04:36:00+00:00",
+   "title_original": "[天下财经]央行：金融机构外汇存款准备金率今起提高至6%",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16566d8388f154cb"
   },
   {
    "source_id": "tradingview_live",
@@ -51823,76 +51891,6 @@
    "live_wire": false,
    "manual": false,
    "id": "549870a4319d8a4a"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen eases on risk-on mood ahead of central bank bonanza By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTYweHpQTkw0d0ZBOTF0SkhBejRRb2NlMjFvbjEybjNfUHRwOE9ObEJuTks5V0Z2aUthTDdveEJlUklncUNxRFlXaVpNcW9ROWJqY0tMeVNQQWh1aXNELVNkSGE5SHRiSXdoUWh2VEhMaFQ2YUpDSC1LMmM3MFhuLXptWjBHWEI1bWVTRlpWYVlIaVE0bTNELURVOGp1dmV3eVcwZHd3TGtyZw?oc=5",
-   "published_utc": "2026-10-27T04:57:58+00:00",
-   "title_original": "Yen eases on risk-on mood ahead of central bank bonanza By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4d19d8a1a32909ef"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Rising cybersecurity risks, ``a threat to the financial system'' - Bank of Japan board member (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EOWlTVzRJVXU2ZXZBWnVOUVpHa0doMVc5aHdVZ1VaLVlvQmwzeERsNmRIMjEzSG5ncmMzSkNndkdWM3RmWDdRZGRoQU5TM3hsaEJpT3ZSeWtMVFUxTGdkcmJmeXlRaHVrTzdVTFFnelhtU19GQkI3S013Wm1jVGc?oc=5",
-   "published_utc": "2026-10-27T04:50:22+00:00",
-   "title_original": "サイバーセキュリティーリスクの高まり、「金融システムへの脅威」＝日銀理事（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "51e429824f629fde"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Cybersecurity - Rising risks, ``threat to the financial system'' - Bank of Japan board member (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EOWlTVzRJVXU2ZXZBWnVOUVpHa0doMVc5aHdVZ1VaLVlvQmwzeERsNmRIMjEzSG5ncmMzSkNndkdWM3RmWDdRZGRoQU5TM3hsaEJpT3ZSeWtMVFUxTGdkcmJmeXlRaHVrTzdVTFFnelhtU19GQkI3S013Wm1jVGc?oc=5",
-   "published_utc": "2026-10-27T04:50:22+00:00",
-   "title_original": "サイバーセキュリティ－リスクの高まり、「金融システムへの脅威」＝日銀理事（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dae0032ed806708"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan stands ready to take decisive action in currency market, finance minister says",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjlBR2hBaGozLWxqa0twWU1yUThGLWNhSkUxWmJ1ZHZoVDc4YjJXVS1WSlhzZ3lpcXNlaHJVeFBzY19UUG12Qi1JM2puRlJsblhGbTlJdjl2YXVmREtBdFY2dUtubDIxMjBiZW1DTlA0M3lJcTE0U29uMXVDVjhIRTh6Skg0eUhVcG9udDdEaUZNa2JWeW43VGM1MlhfRnJqeFA2S1gwNUtfeC1weU1LZWtuTjdwVGhFajl6QVdzQV96cmY0Zi1ZR2xTNGE?oc=5",
-   "published_utc": "2026-10-27T04:48:00+00:00",
-   "title_original": "Japan stands ready to take decisive action in currency market, finance minister says",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "344b485f37d572db"
   },
   {
    "source_id": "manual_ia",
