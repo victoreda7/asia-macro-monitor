@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T10:23:02.987318+00:00
+Última coleta: 2026-11-20T10:33:08.835713+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1038
+  🇯🇵 Japão          1037
   🇨🇳 China          911
-  🇹🇼 Taiwan         317
+  🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
+  - [taiwan] Taiwan stocks suffered a bloodbath, and the New Taiwan dollar rose in late trading despite the decline. The ce
   - [china] Trump administration signed off nearly 900,000 Nvidia, AMD AI chips for China in six months
   - [japan] ​​[Industry reorganization] What does it mean for ANA to make Air Do & Solaseed a wholly owned subsidiary? Is 
   - [china] Tongwei Plans Share Buyback With 1-2 Billion Yuan
@@ -32,7 +34,6 @@ Total: 3000 manchetes
   - [china] Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say
   - [china] China's January-October government land sales revenue down 25.8% Y/Y
   - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
-  - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [korea] The Korean won is expected to strengthen as demand to convert the dollar earned during the semicondu..
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
   - [korea] Shim Jae-bok passed away, Sung Won-won's husband, Shim Won-bo (team leader of Geumho Construction'..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
   - [korea] The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion
   - [japan] M3 Inc - To Expand Buy Back Up Scheme To Up To 5.06% Of Own Shares From Previous Up To 3% Worth 5.5 Billion Ye
-  - [china] China's October coal imports from Australia hit six-year high
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T10:23:03+00:00",
+      "published_utc": "2026-11-20T10:33:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

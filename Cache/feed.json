@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T10:23:02.987318+00:00",
- "collected_at_utc": "2026-11-20T10:23:02.987318+00:00",
+ "generated_at_utc": "2026-11-20T10:33:08.835713+00:00",
+ "collected_at_utc": "2026-11-20T10:33:08.835713+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1038,
+  "japan": 1037,
   "china": 911,
-  "taiwan": 317,
+  "taiwan": 318,
   "korea": 734
  },
- "elapsed_s": 50.1,
+ "elapsed_s": 55.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T07:19:00+00:00"
+   "newest": "2026-11-20T08:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T10:18:20+00:00"
+   "newest": "2026-11-20T10:30:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T09:36:19+00:00"
+   "newest": "2026-11-20T10:24:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:15:47+00:00"
+   "newest": "2026-11-20T05:43:03+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:26:38+00:00"
+   "newest": "2026-11-20T04:26:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T10:22:00+00:00"
+   "newest": "2026-11-20T10:32:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T02:18:10+00:00"
+   "newest": "2026-11-20T05:19:04+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:06:39+00:00"
+   "newest": "2026-11-20T10:22:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,13 +337,48 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-20T07:10:48+00:00"
+   "newest": "2026-11-20T05:16:35+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4710C1:0/",
+   "published_utc": "2026-11-20T10:22:26+00:00",
+   "title_original": "Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a62a20ffdffd9d0b"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Taiwan stocks suffered a bloodbath, and the New Taiwan dollar rose in late trading despite the decline. The central bank: the market will recover after the turbulence | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qTTlscHFoZDFXRnlUdjVxLVdlMGpBWEJmZnJsRmZaYmNmbG9jbnV0ZlQtdUVjemtwTWtIanlPa2ZRZFF4bURfa2hUdVM1dkxsTnVXYUFIeUFJWE1FU3c?oc=5",
+   "published_utc": "2026-11-20T10:22:00+00:00",
+   "title_original": "台股遭血洗新台幣抗跌尾盤翻揚央行：亂流後市場會恢復| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6800db4059903e32"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -601,23 +636,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e8a01b402b62d4c3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4710AI:0/",
-   "published_utc": "2026-11-20T08:42:39+00:00",
-   "title_original": "Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a65e836cdcb8fc7e"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1655,10 +1673,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
+   "source_name": "中国青年网",
    "title_en": "On November 20, the central bank launched a 379.5 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MNkFid2xoeVlqYzhIeVBfeFUxdzBJMXhER0s5end0R1dBeXpiU2p3TTRzSEljT1FhRFJRWHltMTgzTTRPOXJleVQ3RVRqeFBHVGFTMHpLbzZ6c2tDUUtMVG9IbWx0YkZr?oc=5",
-   "published_utc": "2026-11-20T02:51:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qZ25zVVQwNjQ4amFzckRnQXpDVnY4dDBwaGZwZ1RQa2RIT0tVbm9PZEtHUmFRZFBmc2g4NkxSMHk5MUstRzFLRVlpWUlORTFfYUtlMWQwOUFOTUdWUE4xbmllQ1lhMG8?oc=5",
+   "published_utc": "2026-11-20T03:00:00+00:00",
    "title_original": "11月20日央行开展3795亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -1669,7 +1687,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7eeed4fcfe23a6ba"
+   "id": "b5dfd7bf8836ebcd"
   },
   {
    "source_id": "nhk_economy",
@@ -1708,9 +1726,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스",
+   "source_name": "매일경제 마켓",
    "title_en": "China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domestic demand",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVtIBYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90NnZIZjZrVzJ1dGZFemRCN3l5WlFOdFo4Z2RrRHdEbWhMOUpUV3VFdHZuUF9ZRkZDeHJqOGRzMkJOcGgzaFZWY0N4dlllSjFwdEE?oc=5",
    "published_utc": "2026-11-20T02:21:10+00:00",
    "title_original": "中, '사실상 기준금리' 18개월째 동결…내수부진에도 금리 유지",
    "region": "korea",
@@ -1721,7 +1739,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91fb485f8368fe6d"
+   "id": "95ad1a83484c8fa6"
   },
   {
    "source_id": "toyo_keizai",
@@ -51869,23 +51887,6 @@
    "live_wire": false,
    "manual": false,
    "id": "894363eabea7e046"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein",
-   "url": "https://www.investing.com/news/stock-market-news/top-japanese-chip-stocks-to-watch-going-into-q3-earnings-according-to-bernstein-4974305",
-   "published_utc": "2026-10-27T07:30:39+00:00",
-   "title_original": "Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3a835925a8ec03b6"
   },
   {
    "source_id": "manual_ia",
