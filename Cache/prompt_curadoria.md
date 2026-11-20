@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T05:52:49.897879+00:00
+Última coleta: 2026-11-20T06:03:32.781342+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1050
-  🇨🇳 China          906
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  727
+  🇯🇵 Japão          1049
+  🇨🇳 China          907
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Selling wave in chip stocks leads Taiwan to worst week since 1990; Asian stock markets fall
+  - [china] Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin su
+  - [korea] Samsung Electronics Appoints New Memory-Chip Business Head
+  - [japan] JGB yields track US peers lower; data signals foreign investors lead yield moves
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [japan] Why is the Japanese yen rising today?
   - [japan] Why is the Japanese yen rising today? By Investing.com
-  - [korea] Samsung Electronics Appoints New Memory-Chip Business Head
   - [japan] Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” t
   - [china] Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen
   - [korea] The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hik
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] [Breaking News] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite
   - [japan] Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk
   - [japan] October consumer price index +2.2% compared to the same month last year Index excluding fresh food
-  - [korea] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domest
-  - [japan] Japan Consumer Inflation Reinforces Rate-Hike Expectations — Update
-  - [korea] Samsung Electronics appoints new director for its memory chip division
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T05:52:50+00:00",
+      "published_utc": "2026-11-20T06:03:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
