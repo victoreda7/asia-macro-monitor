@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T00:12:44.593460+00:00",
- "collected_at_utc": "2026-11-20T00:12:44.593460+00:00",
+ "generated_at_utc": "2026-11-20T00:22:52.054294+00:00",
+ "collected_at_utc": "2026-11-20T00:22:52.054294+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1035,
+  "japan": 1034,
   "china": 905,
   "taiwan": 322,
-  "korea": 738
+  "korea": 739
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 28.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T22:21:54+00:00"
+   "newest": "2026-11-19T23:01:07+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T19:42:00+00:00"
+   "newest": "2026-11-19T19:27:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T00:02:02+00:00"
+   "newest": "2026-11-20T00:21:00+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-19T21:00:00+00:00"
+   "newest": "2026-11-20T00:13:44+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:34:41+00:00"
+   "newest": "2026-11-19T03:35:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T00:01:53+00:00"
+   "newest": "2026-11-20T00:21:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:56:30+00:00"
+   "newest": "2026-11-19T16:33:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:59:12+00:00"
+   "newest": "2026-11-20T00:04:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -337,13 +337,30 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 25,
    "error": "",
    "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Producer prices drop in Oct. on lower food prices",
+   "url": "https://www.koreaherald.com/article/10943521",
+   "published_utc": "2026-11-20T00:13:44+00:00",
+   "title_original": "Producer prices drop in Oct. on lower food prices",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "26f0cd0cac6229a4"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스투데이",
@@ -394,6 +411,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a6c4e8b898487fbb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: SK hynix Raises $26.5B; Reaffirms 100 Trillion Won Returns",
+   "url": "https://www.tradingview.com/news/tradingview:ac2029afbb36b:0-key-facts-sk-hynix-raises-26-5b-reaffirms-100-trillion-won-returns/",
+   "published_utc": "2026-11-20T00:00:00+00:00",
+   "title_original": "Key facts: SK hynix Raises $26.5B; Reaffirms 100 Trillion Won Returns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "63e658a550ae8a2d"
   },
   {
    "source_id": "gn_jp_investing",
@@ -536,10 +570,10 @@
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
-   "title_en": "Japan CPI inflation rises in Oct, core print slightly misses estimates",
+   "title_en": "Japan CPI inflation hits 11-mth high in Oct, core print slightly misses estimates",
    "url": "https://www.investing.com/news/economic-indicators/japan-cpi-inflation-rises-in-oct-core-print-slightly-ducks-estimates-5040353",
    "published_utc": "2026-11-19T23:45:31+00:00",
-   "title_original": "Japan CPI inflation rises in Oct, core print slightly misses estimates",
+   "title_original": "Japan CPI inflation hits 11-mth high in Oct, core print slightly misses estimates",
    "region": "japan",
    "topics": [
     "inflation"
@@ -548,7 +582,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "90e1973339b3b33d"
+   "id": "aa9ce3399293b16c"
   },
   {
    "source_id": "tradingview_live",
@@ -911,23 +945,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e86219e3398dc4e0"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Producer prices drop in Oct. on lower food prices",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSjJLcjBMdTB1WmFGN1c3R0V3cTV2b3RSb2kzOHA3TGZxOTl4UjVqaGRzeFdjMWZrOGpOWTBSRkNtSFYwOVNIUGNzTERuZHNBdllfVDhweUtkdw?oc=5",
-   "published_utc": "2026-11-19T21:00:07+00:00",
-   "title_original": "Producer prices drop in Oct. on lower food prices",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22f2eb8f994e5ff1"
   },
   {
    "source_id": "toyo_keizai",
@@ -1374,23 +1391,6 @@
    "live_wire": true,
    "manual": false,
    "id": "26dafa541d940f2b"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "JT to post 1.3 trillion yen loss on Russian business",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0MVFUZi05V2E3RlJXVTdwTGZSQ2h0eHI0V3c5SUU0SzZ1Z2k3Vy1wV001elIxektlTnF6eHM4U3JWVzRCZERKeFlSVUlUYnhYajhVeEw0VmhvT3BMZm9jVm9jcw?oc=5",
-   "published_utc": "2026-11-19T13:34:41+00:00",
-   "title_original": "JT to post 1.3 trillion yen loss on Russian business",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "555a351f9a7ae5dc"
   },
   {
    "source_id": "nhk_economy",
@@ -2144,7 +2144,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "China Holds Soybean Imports at Ports as Domestic Supplies Swell",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0pFX0xvSTRiOWNkRzZVRXgyUzNiMFJLZ2pzWWtwT1RUakcyU3JFdm92V1ZpLVVhWUF4aXpuRktqQmVLdjVTOHNWeHhhUWswdDJkc0JzbVJONlhaRHFIOEpxQVZfVnZZSWJ1RXRHd1lCTDYyOWw3ajRGMmNZNEJDbXBaS1YzS2tYWFhxUXkzOHVtOVJpN1R2MUwtWGdmYllRcFlZT0ZOYldyNDFibklNeTFKTHI?oc=5",
-   "published_utc": "2026-11-19T06:09:03+00:00",
+   "published_utc": "2026-11-19T06:09:00+00:00",
    "title_original": "China Holds Soybean Imports at Ports as Domestic Supplies Swell",
    "region": "china",
    "topics": [
@@ -2396,6 +2396,23 @@
    "live_wire": false,
    "manual": false,
    "id": "48503b5c24a8359e"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "JT to post 1.3 trillion yen loss on Russian business",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0MVFUZi05V2E3RlJXVTdwTGZSQ2h0eHI0V3c5SUU0SzZ1Z2k3Vy1wV001elIxektlTnF6eHM4U3JWVzRCZERKeFlSVUlUYnhYajhVeEw0VmhvT3BMZm9jVm9jcw?oc=5",
+   "published_utc": "2026-11-19T03:35:41+00:00",
+   "title_original": "JT to post 1.3 trillion yen loss on Russian business",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "555a351f9a7ae5dc"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3906,7 +3923,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -3918,7 +3935,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51877,23 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dfc6bbf49a922dda"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan to back perovskite solar cell mass production with $640m in subsidies",
-   "url": "https://asia.nikkei.com/business/energy/japan-to-back-perovskite-solar-cell-mass-production-with-640m-in-subsidies",
-   "published_utc": "2026-10-26T15:22:44.816177+00:00",
-   "title_original": "Japan to back perovskite solar cell mass production with $640m in subsidies",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "540a654ac57d2010"
   },
   {
    "source_id": "manual_ia",

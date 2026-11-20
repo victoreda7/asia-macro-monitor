@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T00:12:44.593460+00:00
+Última coleta: 2026-11-20T00:22:52.054294+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
+  🇯🇵 Japão          1034
   🇨🇳 China          905
   🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  738
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] Producer prices drop in Oct. on lower food prices
   - [korea] “The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”
   - [japan] October consumer price index excluding fresh food +2.2% compared to the same month last year
   - [japan] Japan Consumer Prices Jump 0.8% In October
+  - [korea] Key facts: SK hynix Raises $26.5B; Reaffirms 100 Trillion Won Returns
   - [japan] Japan CPI inflation rises in Oct, core print slightly misses estimates By Investing.com
   - [japan] JAPAN OCT CPI: SERVICES PRICES CATCHING UP WITH GOODS INFLATION AMID CONTINUED WAGE HIKES IN FISCAL 2026 BUT R
   - [japan] Japan’s core inflation accelerates in October, cementing rate hike expectations
@@ -28,7 +30,7 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT CORE-CORE CPI +2.2% Y/Y; SEPT +2.4%
   - [japan] MNI JAPAN OCT CORE CPI +2.2% Y/Y; SEPT +2.1%
   - [japan] JAPAN OCT CPI: ENERGY PRICES +2.2% Y/Y (+0.16 POINT) VS. -0.6% (-0.04 PT) IN SEPT
-  - [japan] Japan CPI inflation rises in Oct, core print slightly misses estimates
+  - [japan] Japan CPI inflation hits 11-mth high in Oct, core print slightly misses estimates
   - [japan] JAPAN OCT CPI: PROCESSED FOOD +2.2% (+0.53 POINT CONTRIBUTION) VS. +2.9% (+0.69 PT) IN SEPT
   - [japan] JAPAN OCT CPI ANNUAL RATE ACCELERATES SLIGHTLY ALSO ON HIGHER MOBILE PHONE PRICES AMID WEAK YEN, RISE IN HOTEL
   - [japan] Japan Consumer Inflation Accelerates Amid Rate-Hike Views
@@ -50,13 +52,11 @@ Total: 3000 manchetes
   - [china] US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show
   - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
   - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
-  - [korea] Producer prices drop in Oct. on lower food prices
   - [japan] Is there a sharp rise in ``eat-in tax evasion'' due to the food tax cut?The National Tax Agency's opinion on c
   - [china] The large influx of Chinese cars has led to excessive competition in the Australian car market...Sellers are i
   - [japan] 〈Buy it! 〉Who is right about the doubling of sales of government bonds to individuals: individuals who think i
   - [taiwan] "Full tuition fee exemption, 50,000 yen monthly scholarship" Reasons why Taiwanese universities treat Japanese
   - [korea] [Defense Industry] Interceptor missiles are classified as "weapons" like rifles, and they are told to "repay t
-  - [korea] At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T00:12:44+00:00",
+      "published_utc": "2026-11-20T00:22:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
