@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T02:22:41.408509+00:00",
- "collected_at_utc": "2026-11-20T02:22:41.408509+00:00",
+ "generated_at_utc": "2026-11-20T02:32:42.312704+00:00",
+ "collected_at_utc": "2026-11-20T02:32:42.312704+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1044,
+  "japan": 1045,
   "china": 902,
   "taiwan": 320,
-  "korea": 734
+  "korea": 733
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T02:06:22+00:00"
+   "newest": "2026-11-20T02:20:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T01:47:59+00:00"
+   "newest": "2026-11-20T02:28:57+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T11:16:21+09:00"
+   "newest": "2026-11-20T11:25:28+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T02:21:54+00:00"
+   "newest": "2026-11-20T02:31:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T16:33:45+00:00"
+   "newest": "2026-11-19T12:56:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:49:54+00:00"
+   "newest": "2026-11-20T02:04:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-20T02:04:19+00:00"
+   "newest": "2026-11-20T02:29:20+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T01:42:00+00:00"
+   "newest": "2026-11-20T02:08:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -337,13 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011470:0-japan-inflation-accelerates-on-surging-cost-of-daily-necessities-market-talk/",
+   "published_utc": "2026-11-20T02:26:00+00:00",
+   "title_original": "Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "89560da5f67cc631"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "October consumer price index +2.2% compared to the same month last year Index excluding fresh food",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
+   "published_utc": "2026-11-20T02:25:06+00:00",
+   "title_original": "10月消費者物価 前年同月比＋2.2％ 生鮮食品除く指数",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad24fd72cb872fcc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -882,23 +916,6 @@
    "id": "f4534aba4a6affe9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "October consumer price index excluding fresh food +2.2% compared to the same month last year",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
-   "published_utc": "2026-11-20T00:03:53+00:00",
-   "title_original": "10月消費者物価 生鮮食品除く指数 前年同月比＋2.2％",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "238494e1205296ed"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Japan Consumer Prices Jump 0.8% In October",
@@ -1258,6 +1275,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1ceba0afcba51808"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published_utc": "2026-11-19T23:05:56+00:00",
+   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19bf7167e379c22a"
   },
   {
    "source_id": "tradingview_live",
@@ -1913,8 +1947,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -1928,7 +1962,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -2188,8 +2222,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2203,7 +2237,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2883,8 +2917,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2897,7 +2931,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3214,23 +3248,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1d7f508cc40d43ae"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "published_utc": "2026-11-19T00:14:56+00:00",
-   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "19bf7167e379c22a"
   },
   {
    "source_id": "tradingview_live",
@@ -4442,7 +4459,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -4454,7 +4471,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4786,24 +4803,6 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
-   "published_utc": "2026-11-18T03:02:45+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c4fd48fae3d5e92"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -4907,6 +4906,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
+   "published_utc": "2026-11-18T02:07:21+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -11493,23 +11510,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank’s major adjustment is happening today",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaSmlfQ0hneTNsanV6TTFQQjJfZDI4Y3hlY1BLTzNsWndQSzRPNWFTdlhUTTFmdXJna1Z6ZEs1RDVCQUpBVk5WQlBNa0FUS0JmQzJlaFREV2Y5M0R3cUt6OGRFYXRIWi1GSkNOd083QmdIUQ?oc=5",
-   "published_utc": "2026-11-15T03:22:05+00:00",
-   "title_original": "央行重大调整，就在今日",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f4ca89c7dd6d19e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "Increased from 4% to 6%! Major adjustments made by the central bank today",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1RJazVPZGdMaU1tdEZFaEVQVENMS05RYm9CN21kSmNxS0MySXhxaUZvckptSGplLTBYbk5CUDdYbU4wemlTME5rVFBMYURGR0JCOFZXMEFIdnpNbVNVdUFDUWVYUTVUOGhlOVd0T2pPTVdYWWxfRTR3cmNSbTVEcG9CcDJCaHVyeC1FSA?oc=5",
@@ -11558,6 +11558,23 @@
    "live_wire": true,
    "manual": false,
    "id": "653f81f5a6729cd8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank’s major adjustment is happening today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0xDTTl6XzBhNnVsTHdkamQteUFROFRINkttMjFoMVlzWmJ4N1RnZ3BSVUlEMWJWcjJrSlpoM040a0pvdHdQdVFjTzlnRmNVRFVVZGU4aUVDMFFMZS1kdUZaSVJPa1g4bmh3REVfZlhVdGEtYlduNGp4dGJ2TWptWDVnRGRIV0dYWF9rclZscw?oc=5",
+   "published_utc": "2026-11-15T02:39:00+00:00",
+   "title_original": "央行重大调整，就在今日",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "787950e734980f05"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51882,23 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cec1a53489053418"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "South Korea’s Economy Beats Forecasts on AI-Driven Chip Boom",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnpJb2RySjVxUVBCay04SEJpbmlWMmNYaXU3Wk1Pc0lNRzJnQzA2d1pmTjM5Vm05QUx4OVhzUGZpZEJiWUhRVHFRVENFcFFoVC0xalpFM21LWTVBNEkzdHVQQ0NzcTFTdnMxdnVoYUQxWGNwSlZ0Z1dQdlZCTU1LX1dMVVhmeWthUkNNTHlWeFhnR1RjRWhLWWx1ZTNmaldzcWU5V3ZEaUlwSVI0SWJ6Wg?oc=5",
-   "published_utc": "2026-10-27T00:07:00+00:00",
-   "title_original": "South Korea’s Economy Beats Forecasts on AI-Driven Chip Boom",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3fd65467f2aa40c1"
   },
   {
    "source_id": "manual_ia",
