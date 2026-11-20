@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T11:42:53.771901+00:00
+Última coleta: 2026-11-20T11:52:42.866253+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1041
@@ -43,6 +43,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption
   - [china] China's January-October government land sales revenue down 25.8% Y/Y
   - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
+  - [korea] As the U.S. government strengthens export controls on consignment production of high-tech semiconduc..
   - [korea] The Korean won is expected to strengthen as demand to convert the dollar earned during the semicondu..
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
   - [korea] Shim Jae-bok passed away, Sung Won-won's husband, Shim Won-bo (team leader of Geumho Construction'..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix: To Hold 14.1% Stake in Kioxia Through SPC After CB Conversion
   - [korea] SK Hynix: SPC-Invested CBs to Convert Into 129,000 Kioxia Shares
   - [korea] SK Hynix: Hold Kioxia Stake Through Special Purpose Company
-  - [korea] SK Hynix to Convert Convertible Bonds Into Kioxia Holdings Shares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T11:42:54+00:00",
+      "published_utc": "2026-11-20T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
