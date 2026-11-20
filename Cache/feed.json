@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T14:23:00.328455+00:00",
- "collected_at_utc": "2026-11-20T14:23:00.328455+00:00",
+ "generated_at_utc": "2026-11-20T14:33:07.150688+00:00",
+ "collected_at_utc": "2026-11-20T14:33:07.150688+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1041,
-  "china": 914,
+  "china": 913,
   "taiwan": 317,
-  "korea": 728
+  "korea": 729
  },
- "elapsed_s": 47.5,
+ "elapsed_s": 51.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T11:33:21+00:00"
+   "newest": "2026-11-20T13:52:06+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T07:22:00+00:00"
+   "newest": "2026-11-19T10:39:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T14:22:00+00:00"
+   "newest": "2026-11-20T14:32:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T21:00:07+00:00"
+   "newest": "2026-11-20T05:39:37+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145",
+   "url": "https://www.tradingview.com/news/tradingview:8c4c6ce683077:0-jp-morgan-initiates-coverage-of-bok-financial-at-neutral-sets-price-target-at-145/",
+   "published_utc": "2026-11-20T14:30:19+00:00",
+   "title_original": "JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2cbd840b5064acfd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1398,24 +1415,6 @@
    "id": "b434db2cddb08de1"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank to sell $7.5 billion worth of yuan bills in Hong Kong",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45A060:0-china-s-central-bank-to-sell-7-5-billion-worth-of-yuan-bills-in-hong-kong/",
-   "published_utc": "2026-11-20T07:18:44+00:00",
-   "title_original": "China's central bank to sell $7.5 billion worth of yuan bills in Hong Kong",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d3ff5fdfaa4c3e95"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "얼리어답터뉴스",
    "title_en": "Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Should we raise the base interest rate to 3.25%?",
@@ -2061,7 +2060,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion yuan in a single day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fNEp5a3BlM25Hd2I0V0pPbTdjNkhfbS00RGF1Rlo1ejZ4TzFKRTI3TnB4WHg0QTAxalQzYVlLbjlEMFFETkZIdE4wTlNxeGVqbDJTdzZ0SmdkdE5ta2ttZWJ3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JSkgzZ2hzdTY3U2FYOHBuYlZWU0ZlWmZ3SGJhN293TkJtNVI5WW9Jb0pONmlTOUN3M2dncXhRTlN1bmpndkQ2em52Rm5nZw?oc=5",
    "published_utc": "2026-11-20T01:43:35+00:00",
    "title_original": "央行开展3795亿元隔夜逆回购 单日净回笼6880亿元",
    "region": "china",
@@ -2073,7 +2072,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f12b12108dabe43a"
+   "id": "bd346119a6da7416"
   },
   {
    "source_id": "gn_tw_cna",
@@ -4876,24 +4875,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -5185,6 +5166,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -5949,7 +5948,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -5961,7 +5960,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -12174,7 +12173,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -12185,7 +12184,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "350419b2852113c9"
+   "id": "5eecd2256cf4eacd"
   },
   {
    "source_id": "gn_tw_digitimes",

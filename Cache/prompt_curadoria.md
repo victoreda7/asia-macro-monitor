@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T14:23:00.328455+00:00
+Última coleta: 2026-11-20T14:33:07.150688+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1041
-  🇨🇳 China          914
+  🇨🇳 China          913
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  728
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [korea] JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145
   - [china] Spacex’s Subsidiary Cursor Tells Lawmakers It’s Considering Phasing Out Chinese AI Models- CNBC
   - [japan] Prime Minister Takaichi held a summit meeting with Jose Antonio Casto Listo, President of the Republic of Chil
   - [japan] Komeito: "Amend the Consumption Tax Reduction Bill to Mitigate the Impact of Drastic Changes" – Position State
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] High prices, ice cream prices going up, pizza shops selling low-priced products, farmers screaming
   - [korea] From robot pets to virtual livers: Apple Developer Academy showcases projects at Postech
   - [china] China's January-October fiscal revenues up 4.9% y/y
-  - [taiwan] TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T14:23:00+00:00",
+      "published_utc": "2026-11-20T14:33:07+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
