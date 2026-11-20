@@ -7,18 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T07:42:41.696382+00:00
+Última coleta: 2026-11-20T07:52:41.964422+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1041
-  🇨🇳 China          909
-  🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  731
+  🇯🇵 Japão          1036
+  🇨🇳 China          910
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  736
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix: To Hold 14.1% Stake in Kioxia Through SPC After CB Conversion
+  - [korea] SK Hynix: SPC-Invested CBs to Convert Into 129,000 Kioxia Shares
+  - [korea] SK Hynix: Hold Kioxia Stake Through Special Purpose Company
+  - [korea] SK Hynix to Convert Convertible Bonds Into Kioxia Holdings Shares
   - [korea] Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide
+  - [korea] SK Hynix: to exercise convertible bond option for stake in Kioxia
   - [china] China's yttrium exports to US hit seven-month high
+  - [china] Chinese Carmakers Tighten Grip on Overseas Sales Channels
   - [china] China's central bank to sell $7.5 billion worth of yuan bills in Hong Kong
   - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
   - [korea] The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Management Shuffle Aimed at Strengthening Competitiveness of Semiconductor Business
   - [china] China home prices seen falling again in 2027, Reuters poll shows
   - [taiwan] Why is TSMC stock sliding today?
-  - [korea] Samsung Electronics: Hwang Previously Led Development of Memory Products Including DRAM, HBM
-  - [china] Preços dos imóveis na China devem cair novamente em 2027, aponta pesquisa da Reuters
-  - [korea] Samsung Electronics Names Sang Joon Hwang as Head of Memory Business
-  - [korea] Samsung Electronics Appoints New Memory Business Chief
-  - [china] China yuan recovers from one-month low on exporter demand, strong dollar caps gain
-  - [china] Alibaba puts quixotic faith in made-in-China chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T07:42:41+00:00",
+      "published_utc": "2026-11-20T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
