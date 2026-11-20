@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-20T05:33:05.358446+00:00",
- "collected_at_utc": "2026-11-20T05:33:05.358446+00:00",
+ "generated_at_utc": "2026-11-20T05:42:41.204195+00:00",
+ "collected_at_utc": "2026-11-20T05:42:41.204195+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 318,
   "korea": 727
  },
- "elapsed_s": 51.2,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T14:24:49+09:00"
+   "newest": "2026-11-20T14:24:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T14:24:49+09:00"
+   "newest": "2026-11-20T14:24:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T01:46:00+00:00"
+   "newest": "2026-11-20T00:45:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T05:32:06+00:00"
+   "newest": "2026-11-20T05:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T02:18:10+00:00"
+   "newest": "2026-11-19T23:28:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -345,11 +345,28 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electronics Appoints New Memory-Chip Business Head",
+   "url": "https://www.tradingview.com/news/DJN_DN20261120000074:0-samsung-electronics-appoints-new-memory-chip-business-head/",
+   "published_utc": "2026-11-20T05:41:00+00:00",
+   "title_original": "Samsung Electronics Appoints New Memory-Chip Business Head",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cad25a028762678b"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
-   "published_utc": "2026-11-20T05:24:49+00:00",
+   "published_utc": "2026-11-20T05:24:00+00:00",
    "title_original": "維新“中小企業の賃上げ促進税制など廃止を”来年度税制改正",
    "region": "japan",
    "topics": [
@@ -360,7 +377,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "tradingview_live",
@@ -705,8 +722,8 @@
    "id": "752219fb2b0f8832"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -719,7 +736,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1346,23 +1363,6 @@
    "id": "8aceeed101dd993c"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Protec Co Wins 23.4 Billion Won Order From Samsung Electronics",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4701K2:0-protec-co-wins-23-4-billion-won-order-from-samsung-electronics/",
-   "published_utc": "2026-11-20T00:49:25+00:00",
-   "title_original": "Protec Co Wins 23.4 Billion Won Order From Samsung Electronics",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f0a84e80757f3d88"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears",
@@ -1448,6 +1448,23 @@
    "live_wire": false,
    "manual": false,
    "id": "26f0cd0cac6229a4"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "Samsung Electronics appoints new head for its memory chip business",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1VSN1FCcWtKdGI4bkxWTHJNMWRscnlRM2ZRV3hNYjdSWmJ4eU5xU2VYZTBmdDc4R3VGOEgwTkdkWERXSW90QVpPSzFpUjEzQWUzSXJuNS1CcDB5YTRHb2libUlIcm8xRFlVeXJNckZPa2JTSl9FTmxOdXFiUnNiZV9reEljeS1BcE9HeWRmeElDdEpTd0FzMEs4TllseGNkRWdmaWc3bzg?oc=5",
+   "published_utc": "2026-11-20T00:11:00+00:00",
+   "title_original": "Samsung Electronics appoints new head for its memory chip business",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2ebedb6bcab83880"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2466,8 +2483,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -2481,7 +2498,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -2758,8 +2775,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2773,7 +2790,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3470,8 +3487,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -3484,7 +3501,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51875,24 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bd2af418e260f658"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "자본시장뉴스",
-   "title_en": "Choi Chang-ho appointed as Assistant Vice Governor for Monetary Policy at the Bank of Korea... Term until 2029",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiU0lHYU1pck5MYnUxb3VCNFVacEJ1NHRVUDd6aXEwNlNDdlkxSzR2bG16MUw4ZVNJdVpwUmU0bmRuUVZfWmVfRFA0YnNKUTN6cFE4ZWZ5YmtQU1duNEpCdW5jX2ltME0?oc=5",
-   "published_utc": "2026-10-27T03:30:00+00:00",
-   "title_original": "한국은행 통화정책 부총재보에 최창호…임기 2029년까지",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3fd65d43f1e581ff"
   },
   {
    "source_id": "manual_ia",

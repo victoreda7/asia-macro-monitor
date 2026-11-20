@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T05:33:05.358446+00:00
+Última coleta: 2026-11-20T05:42:41.204195+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1049
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics Appoints New Memory-Chip Business Head
   - [japan] Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” t
   - [china] Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen
   - [korea] The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hik
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Is the ``Mongol Empire that shocked the world'' an unexpected measure against unemployment? ...The unexpected 
   - [japan] Japan core inflation picks up, makes case for BoJ rate hike stronger
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
-  - [japan] Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T05:33:05+00:00",
+      "published_utc": "2026-11-20T05:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
