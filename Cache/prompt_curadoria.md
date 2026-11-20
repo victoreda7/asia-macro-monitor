@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T20:42:42.822501+00:00
+Última coleta: 2026-11-20T20:52:42.279150+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
-  🇨🇳 China          921
+  🇯🇵 Japão          1039
+  🇨🇳 China          919
   🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan weighs early funding to ICC before US sanctions cutoff
+  - [japan] Nvidia Server Suppliers Halt Southeast Asia Shipments - Nikkei
   - [china] FCC approves 71 firms to import tech gear despite China ban
   - [korea] SK hynix, IPG Photonics, and Diodes shares plummet, what you need to know
   - [china] U.S. Approves 879,000 AI Chips To China
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Japan Shelves Retail JGB Tax Break as Rising Rates Fuel Demand
   - [china] Alibaba puts quixotic faith in made-in-China chips
   - [korea] Samsung, SK Hynix investors search for answers, but relief remains elusive
-  - [korea] REG - Leverage Shares PLC Leverage - 3x HNX3 $ Leverage - 3x HNX3 £ - Notice of Original Meeting - 3x SK Hynix
-  - [china] China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T20:42:43+00:00",
+      "published_utc": "2026-11-20T20:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
