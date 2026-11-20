@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T20:22:40.543683+00:00",
- "collected_at_utc": "2026-11-20T20:22:40.543683+00:00",
+ "generated_at_utc": "2026-11-20T20:32:43.586062+00:00",
+ "collected_at_utc": "2026-11-20T20:32:43.586062+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1037,
-  "china": 922,
+  "china": 921,
   "taiwan": 317,
-  "korea": 724
+  "korea": 725
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-20T20:16:01+00:00"
+   "newest": "2026-11-20T20:25:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T19:48:24+00:00"
+   "newest": "2026-11-20T20:24:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T17:22:51+00:00"
+   "newest": "2026-11-20T18:42:59+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T22:52:34+09:00"
+   "newest": "2026-11-21T05:30:23+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 24,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T20:20:27+00:00"
+   "newest": "2026-11-20T20:31:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stock Story",
+   "title_en": "SK hynix, IPG Photonics, and Diodes shares plummet, what you need to know",
+   "url": "https://www.tradingview.com/news/stockstory:0fb2750c4094b:0-sk-hynix-ipg-photonics-and-diodes-shares-plummet-what-you-need-to-know/",
+   "published_utc": "2026-11-20T20:20:48+00:00",
+   "title_original": "SK hynix, IPG Photonics, and Diodes shares plummet, what you need to know",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "acedee48cc94ac8f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -1224,23 +1241,6 @@
    "live_wire": false,
    "manual": false,
    "id": "09d3ceb533a753ed"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tongwei Plans Share Buyback With 1-2 Billion Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4710P5:0-tongwei-plans-share-buyback-with-1-2-billion-yuan/",
-   "published_utc": "2026-11-20T09:50:34+00:00",
-   "title_original": "Tongwei Plans Share Buyback With 1-2 Billion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a97cef7ec9000701"
   },
   {
    "source_id": "investing_fx",
@@ -5031,6 +5031,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -5322,24 +5340,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
