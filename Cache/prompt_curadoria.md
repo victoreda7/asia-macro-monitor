@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T03:12:43.243020+00:00
+Última coleta: 2026-11-20T03:22:42.767591+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1048
-  🇨🇳 China          903
+  🇨🇳 China          902
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  729
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [japan] BOJ Likely to Raise Rate in December or January Amid Persistent Inflation — Market Talk
   - [japan] Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk
   - [japan] October consumer price index +2.2% compared to the same month last year Index excluding fresh food
+  - [korea] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domest
   - [japan] Japan Consumer Inflation Reinforces Rate-Hike Expectations — Update
   - [korea] Samsung Electronics appoints new director for its memory chip division
   - [japan] Is the ``Mongol Empire that shocked the world'' an unexpected measure against unemployment? ...The unexpected 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's finance minister says JT dividend cut will not affect state budget plan
   - [korea] Producer prices drop in Oct. on lower food prices
   - [korea] “The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”
-  - [japan] Japan Consumer Prices Jump 0.8% In October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T03:12:43+00:00",
+      "published_utc": "2026-11-20T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
