@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T02:32:42.312704+00:00",
- "collected_at_utc": "2026-11-20T02:32:42.312704+00:00",
+ "generated_at_utc": "2026-11-20T02:42:40.774480+00:00",
+ "collected_at_utc": "2026-11-20T02:42:40.774480+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1045,
+  "japan": 1046,
   "china": 902,
   "taiwan": 320,
-  "korea": 733
+  "korea": 732
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-19T23:49:34+00:00"
+   "newest": "2026-11-20T02:33:41+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T02:31:16+00:00"
+   "newest": "2026-11-20T02:42:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T11:00:00+09:00"
+   "newest": "2026-11-20T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Likely to Raise Rate in December or January Amid Persistent Inflation — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011482:0-boj-likely-to-raise-rate-in-december-or-january-amid-persistent-inflation-market-talk/",
+   "published_utc": "2026-11-20T02:37:00+00:00",
+   "title_original": "BOJ Likely to Raise Rate in December or January Amid Persistent Inflation — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c770c8a81f93939c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -4803,6 +4821,24 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
+   "published_utc": "2026-11-18T03:02:45+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c4fd48fae3d5e92"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -4906,24 +4942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
-   "published_utc": "2026-11-18T02:07:21+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51880,25 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "af9f934eb206b3ca"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK",
-   "url": "https://www.koreaherald.com/article/10915627",
-   "published_utc": "2026-10-27T00:09:40+00:00",
-   "title_original": "S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cec1a53489053418"
   },
   {
    "source_id": "manual_ia",

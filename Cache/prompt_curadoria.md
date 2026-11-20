@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T02:32:42.312704+00:00
+Última coleta: 2026-11-20T02:42:40.774480+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1045
+  🇯🇵 Japão          1046
   🇨🇳 China          902
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Likely to Raise Rate in December or January Amid Persistent Inflation — Market Talk
   - [japan] Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk
   - [japan] October consumer price index +2.2% compared to the same month last year Index excluding fresh food
   - [japan] Japan Consumer Inflation Reinforces Rate-Hike Expectations — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT CPI: SERVICES PRICES CATCHING UP WITH GOODS INFLATION AMID CONTINUED WAGE HIKES IN FISCAL 2026 BUT R
   - [japan] Japan’s core inflation accelerates in October, cementing rate hike expectations
   - [korea] [Morning Report] “The Bank of Korea is expected to raise interest rates in November...Market attention to futu
-  - [japan] JAPAN OCT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +1.9% VS. +2.0% IN SEPT; GOODS (EX-FRESH FOOD) +3.0% VS. +
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T02:32:42+00:00",
+      "published_utc": "2026-11-20T02:42:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
