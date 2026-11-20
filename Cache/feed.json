@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T02:02:56.404934+00:00",
- "collected_at_utc": "2026-11-20T02:02:56.404934+00:00",
+ "generated_at_utc": "2026-11-20T02:12:48.842978+00:00",
+ "collected_at_utc": "2026-11-20T02:12:48.842978+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1043,
+  "japan": 1044,
   "china": 903,
   "taiwan": 320,
-  "korea": 734
+  "korea": 733
  },
- "elapsed_s": 43.7,
+ "elapsed_s": 36.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T01:55:49+00:00"
+   "newest": "2026-11-20T02:01:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T00:48:23+00:00"
+   "newest": "2026-11-20T02:01:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-11-20T01:43:35+00:00"
   },
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T16:00:00+00:00"
+   "newest": "2026-11-20T00:16:57+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:28:21+00:00"
+   "newest": "2026-11-19T20:28:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-20T01:41:41+00:00"
+   "newest": "2026-11-20T02:04:19+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T10:00:00+09:00"
+   "newest": "2026-11-20T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T01:45:56+00:00"
+   "newest": "2026-11-20T02:05:20+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Is the ``Mongol Empire that shocked the world'' an unexpected measure against unemployment? ...The unexpected aim of the equestrian emperor hidden in the Mongol invasion that attacked Japan | Career/Education | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961380?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-20T02:00:00+00:00",
+   "title_original": "｢世界を震撼させたモンゴル帝国｣がまさかの失業対策？…《日本を襲った元寇》に隠された騎馬民族の皇帝の意外な狙い | キャリア・教育 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb6726d48b242381"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "CNBC TV18",
@@ -363,6 +380,24 @@
    "id": "72fa23459856c788"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+   "url": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806",
+   "published_utc": "2026-11-20T01:55:29+00:00",
+   "title_original": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "53bcd98e0a2d3991"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk",
@@ -378,6 +413,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e592428b38fd20d4"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix slide on Wall Street tech selloff",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0dEpTcnZ0amJQLV9pcnROZ01fQ0h0WDVmVllmNFBfQ092LXM2TzR0MFctRkVvczE3MFRiTXVtZEl5RERyWlB5VHYxSVhLSnRKc0E?oc=5",
+   "published_utc": "2026-11-20T01:46:41+00:00",
+   "title_original": "Samsung Electronics, SK hynix slide on Wall Street tech selloff",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "78ea809caff28b1b"
   },
   {
    "source_id": "gn_kr_mk",
@@ -483,24 +535,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b1319f27e2c3b3a2"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
-   "url": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806",
-   "published_utc": "2026-11-20T01:36:37+00:00",
-   "title_original": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "53bcd98e0a2d3991"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1828,11 +1862,11 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
-   "published_utc": "2026-11-19T13:02:32+00:00",
+   "published_utc": "2026-11-19T13:02:00+00:00",
    "title_original": "来年度の税制改正 自民税調が議論開始 税収格差是正など論点に",
    "region": "japan",
    "topics": [
@@ -1843,7 +1877,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -2103,8 +2137,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2118,7 +2152,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2798,8 +2832,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2812,7 +2846,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51865,42 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba849d5af773718a"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "South Korea GDP grows more than expected in Q3 on AI boost",
-   "url": "https://www.investing.com/news/economic-indicators/south-korea-gdp-grows-more-than-expected-in-q3-on-ai-boost-4973952",
-   "published_utc": "2026-10-26T23:33:06+00:00",
-   "title_original": "South Korea GDP grows more than expected in Q3 on AI boost",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "936195605368260b"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea Q3 GDP beats forecasts as AI chip boom boosts exports, investments",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclJITG5OM3lQUHFQQXI0Z0QxNTEzU2RjOXNHakE5aXZiWkJNUjVpYUtiNE1OcVNIY3dNMkxsTHQ3TlpfbnFXM2M0N3VSdDdXbEktX29CaFhLWnZMYS1fWGFpSmo4aERwRkpKTTJPNmRqMVcxTVFONFBnN04yM2FoRlBoaGRkb0YxNmJmU3JTSEJIR3I5N2I0ZndDREZsU01vOEhIa1RqRzlJQ1lhODJubEllc3d4MzQ?oc=5",
-   "published_utc": "2026-10-26T23:17:00+00:00",
-   "title_original": "South Korea Q3 GDP beats forecasts as AI chip boom boosts exports, investments",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb270fd90ef7d5bb"
   },
   {
    "source_id": "manual_ia",

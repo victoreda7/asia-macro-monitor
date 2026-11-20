@@ -7,25 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T02:02:56.404934+00:00
+Última coleta: 2026-11-20T02:12:48.842978+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1043
+  🇯🇵 Japão          1044
   🇨🇳 China          903
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  734
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [japan] Is the ``Mongol Empire that shocked the world'' an unexpected measure against unemployment? ...The unexpected 
   - [japan] Japan core inflation picks up, makes case for BoJ rate hike stronger
+  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [japan] Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk
+  - [korea] Samsung Electronics, SK hynix slide on Wall Street tech selloff
   - [korea] SK Hynix was the largest net buyer of the top 1% return on stock investment in early trading on the
   - [china] The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion 
   - [japan] BOJ December Rate Hike Looks Likely After CPI Results — Market Talk
   - [japan] Japan's core inflation rose to 2.2% in October, strengthening the Bank of Japan's expectations for a rate hike
   - [china] CHINA PBOC CONDUCTS CNY379.5 BLN VIA O/N REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7131 FRI VS 6.7128
-  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
   - [korea] Samsung names new memory, mobile chiefs as chips sweep promotions
   - [china] The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today
   - [japan] Announcement of 2-year JGBs to Be Issued in December 2026
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN OCT CORE CPI +2.2% Y/Y; SEPT +2.1%
   - [japan] JAPAN OCT CPI: ENERGY PRICES +2.2% Y/Y (+0.16 POINT) VS. -0.6% (-0.04 PT) IN SEPT
   - [japan] Japan CPI inflation hits 11-mth high in Oct, core print slightly misses estimates
-  - [japan] JAPAN OCT CPI: PROCESSED FOOD +2.2% (+0.53 POINT CONTRIBUTION) VS. +2.9% (+0.69 PT) IN SEPT
-  - [japan] JAPAN OCT CPI ANNUAL RATE ACCELERATES SLIGHTLY ALSO ON HIGHER MOBILE PHONE PRICES AMID WEAK YEN, RISE IN HOTEL
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T02:02:56+00:00",
+      "published_utc": "2026-11-20T02:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
