@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T02:12:48.842978+00:00",
- "collected_at_utc": "2026-11-20T02:12:48.842978+00:00",
+ "generated_at_utc": "2026-11-20T02:22:41.408509+00:00",
+ "collected_at_utc": "2026-11-20T02:22:41.408509+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1044,
-  "china": 903,
+  "china": 902,
   "taiwan": 320,
-  "korea": 733
+  "korea": 734
  },
- "elapsed_s": 36.8,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T02:01:35+00:00"
+   "newest": "2026-11-20T02:06:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:07:24+00:00"
+   "newest": "2026-11-20T00:15:47+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T10:22:30+09:00"
+   "newest": "2026-11-20T11:16:21+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:16:57+00:00"
+   "newest": "2026-11-19T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T02:01:41+00:00"
+   "newest": "2026-11-20T02:21:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T20:28:48+00:00"
+   "newest": "2026-11-19T23:28:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:56:30+00:00"
+   "newest": "2026-11-19T16:33:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -337,13 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Consumer Inflation Reinforces Rate-Hike Expectations — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011403:0-japan-consumer-inflation-reinforces-rate-hike-expectations-update/",
+   "published_utc": "2026-11-20T02:06:00+00:00",
+   "title_original": "Japan Consumer Inflation Reinforces Rate-Hike Expectations — Update",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "74e4aef61cd42f36"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Samsung Electronics appoints new director for its memory chip division",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47102C:0/",
+   "published_utc": "2026-11-20T02:05:30+00:00",
+   "title_original": "Samsung Electronics nomeia novo diretor para sua divisão de chips de memória",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "2ee8761bfd8cd250"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -743,6 +777,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cd6d3b0204af4083"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Samsung Electronics appoints new head for its memory chip business",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N471006:0-samsung-electronics-appoints-new-head-for-its-memory-chip-business/",
+   "published_utc": "2026-11-20T00:31:15+00:00",
+   "title_original": "Samsung Electronics appoints new head for its memory chip business",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c1c6a15da58c3d2c"
   },
   {
    "source_id": "mof_jp",
@@ -4391,7 +4442,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -4403,7 +4454,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51848,57 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3fd65467f2aa40c1"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Southeast Asia’s housing paradox: too many homes, too few buyers",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclVVbi1ocG5ZSlBJN0FRZDZqSno2U1dWN3F5Szg4d0lCOF9XNDNFUnRRZVBMZUFtUERlQldpYTZLWXg2MXliakZKY2lxVjBxWjlCOE11c1picWswVER0ZHlYdi1vNmdPMUNxSlc4VlIwSVVjbk4ySFlDYVV1ek80eGRUcklMa2Z0SGV4NEZCdmpRRDBqMGhUVzBES3hxbnFIOGNrM01xdzRySm03MDFDU1oxclJMdWxCY3fSAboBQVVfeXFMUDBfcTJ6M2FaOExFV2dUTkVsWjloZnp1a1JrQ2dYZGlpOV9LMWhrUk1WX1hCQW9fWml4V3RqcnFSS1dlYUZBRGpxWWRwdXg3S1lwR2JPSHNnNEVyRzJzMm1QV1AzZ0tQRjB5Qi15MTVHMW5NVlNBWVM1Vk5SV19WdUxlSVpjRTZSU25tQXR2bThtSWw2dUh4M2NJbDV1TU1ETFRMQ21xSzltOFR4bFBBZU5kNjIzRk1SY2R3?oc=5",
-   "published_utc": "2026-10-27T00:00:24+00:00",
-   "title_original": "Southeast Asia’s housing paradox: too many homes, too few buyers",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33ae3c2387941428"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTViQmFtUVJ2QkdFNTJQZThwNzMtM3hwbGxjbmtrY3dReDNqQk5jN2NzRk9hWlJCTGtTRV9hNzNQal9pU2xicTFIZHM3MVBOclFMeS10UF9WN3RrWXVPdHR0Z29QMmxta1d3a0RyaXQ2TFVxajlrdEdRd2RwMmFGRGJpVHB4d1N0T3B0M3F4T1U4dzI3UnRKaTdoc1RaTWJ4YzVmV2hQZnRrY2I4SWdBeUtn?oc=5",
-   "published_utc": "2026-10-27T00:00:00+00:00",
-   "title_original": "South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5829b201bd4293dc"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Services Producer Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
-   "published_utc": "2026-10-26T23:50:00+00:00",
-   "title_original": "Services Producer Price Index (Sept.)",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ba849d5af773718a"
   },
   {
    "source_id": "manual_ia",

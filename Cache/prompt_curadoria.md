@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T02:12:48.842978+00:00
+Última coleta: 2026-11-20T02:22:41.408509+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1044
-  🇨🇳 China          903
+  🇨🇳 China          902
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Consumer Inflation Reinforces Rate-Hike Expectations — Update
+  - [korea] Samsung Electronics appoints new director for its memory chip division
   - [japan] Is the ``Mongol Empire that shocked the world'' an unexpected measure against unemployment? ...The unexpected 
   - [japan] Japan core inflation picks up, makes case for BoJ rate hike stronger
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
@@ -40,6 +42,7 @@ Total: 3000 manchetes
   - [korea] Protec Co Wins 23.4 Billion Won Order From Samsung Electronics
   - [japan] Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears
   - [japan] Japan CPI Rises to Fastest This Year, Backing BOJ Hike Case
+  - [korea] Samsung Electronics appoints new head for its memory chip business
   - [japan] Interest Rate (November 19 2026)
   - [japan] Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)
   - [japan] Japan's finance minister says JT dividend cut will not affect state budget plan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] [Morning Report] “The Bank of Korea is expected to raise interest rates in November...Market attention to futu
   - [japan] JAPAN OCT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +1.9% VS. +2.0% IN SEPT; GOODS (EX-FRESH FOOD) +3.0% VS. +
   - [japan] JAPAN OCT CORE-CORE CPI +2.2% Y/Y; SEPT +2.4%
-  - [japan] MNI JAPAN OCT CORE CPI +2.2% Y/Y; SEPT +2.1%
-  - [japan] JAPAN OCT CPI: ENERGY PRICES +2.2% Y/Y (+0.16 POINT) VS. -0.6% (-0.04 PT) IN SEPT
-  - [japan] Japan CPI inflation hits 11-mth high in Oct, core print slightly misses estimates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T02:12:49+00:00",
+      "published_utc": "2026-11-20T02:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
