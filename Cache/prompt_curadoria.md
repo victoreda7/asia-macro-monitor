@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T23:22:50.698584+00:00
+Última coleta: 2026-11-20T23:32:44.355599+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1039
-  🇨🇳 China          919
+  🇯🇵 Japão          1040
+  🇨🇳 China          918
   🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  725
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] Tongda International Group Operating Subsidiaries Provides E-Commerce Services in China
   - [japan] Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data
+  - [japan] AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips
   - [china] Verlinvest: China Resources Indirect Subsidiary Blossom Key Holds 50% Indirect Interest in Oatly Shares
   - [korea] [Money Briefing] The last Monetary Policy Committee of the year weighs on a 3.25% increase in the base interes
   - [japan] Japan weighs early funding to ICC before US sanctions cutoff
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Japan Tobacco Projects 724 Billion Yen Net Loss After Losing Control of Russian Units
   - [taiwan] October export orders hit record US$123.82 billion on AI demand
   - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
-  - [taiwan] New mortgage loans in October hit a new high in more than a year and a half. The effects of the central bank's
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T23:22:50+00:00",
+      "published_utc": "2026-11-20T23:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
