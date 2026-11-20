@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T08:03:35.049837+00:00
+Última coleta: 2026-11-20T08:12:47.234216+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          911
+  🇨🇳 China          912
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  736
+  🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
-  - [japan] House of Councilors Special Committee Local Hearing: Consumption tax reduction “Support for local governments,
   - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
-  - [china] Global investment banks see Chinese yuan's gradual appreciation extending into 2027
+  - [china] Factbox-Global investment banks see Chinese yuan’s gradual appreciation extending into 2027
+  - [japan] House of Councilors Special Committee Local Hearing: Consumption tax reduction “Support for local governments,
+  - [china] The first U.S.-China-Russia summit meeting is not the "New Yalta Conference" but a modern version of "Entente.
+  - [japan] Prime Minister Takaichi's "diplomatic defeat" was exposed at the US-China-Russia summit meeting, and how will 
+  - [china] Key facts: NVIDIA Q3 Revenue $115.8B; CEO Resigns; China Chip Probe
   - [korea] SK Hynix: To Hold 14.1% Stake in Kioxia Through SPC After CB Conversion
   - [korea] SK Hynix: SPC-Invested CBs to Convert Into 129,000 Kioxia Shares
   - [korea] SK Hynix: Hold Kioxia Stake Through Special Purpose Company
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's October soybean imports fall 23% as Brazil shipments decline
   - [korea] SK Hynix's single-stock leverage product, which had raised expectations that it could double profits..
   - [japan] Balance of the Fiscal Loan Fund (End of October 2026)
-  - [china] China's refined copper imports set to jump in 2027, traders and analysts say
-  - [china] China Has Capacity, But Maybe Not the Will to Boost Fuel Exports
-  - [china] PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T08:03:35+00:00",
+      "published_utc": "2026-11-20T08:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
