@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T10:33:08.835713+00:00
+Última coleta: 2026-11-20T10:42:43.981037+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
-  🇨🇳 China          911
+  🇯🇵 Japão          1039
+  🇨🇳 China          910
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  734
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Yen a Key Beneficiary of AI-Related Risk Aversion — Market Talk
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [taiwan] Taiwan stocks suffered a bloodbath, and the New Taiwan dollar rose in late trading despite the decline. The ce
   - [china] Trump administration signed off nearly 900,000 Nvidia, AMD AI chips for China in six months
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Should we raise the base inte
   - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
   - [korea] The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion
-  - [japan] M3 Inc - To Expand Buy Back Up Scheme To Up To 5.06% Of Own Shares From Previous Up To 3% Worth 5.5 Billion Ye
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T10:33:09+00:00",
+      "published_utc": "2026-11-20T10:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
