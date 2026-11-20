@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T04:52:40.816448+00:00
+Última coleta: 2026-11-20T05:02:58.732259+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1051
-  🇨🇳 China          902
-  🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  728
+  🇯🇵 Japão          1052
+  🇨🇳 China          904
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [japan] Balance of the Fiscal Loan Fund (End of October 2026)
+  - [china] China's refined copper imports set to jump in 2027, traders and analysts say
   - [korea] Samsung Management Shuffle Aimed at Strengthening Competitiveness of Semiconductor Business
   - [china] China home prices seen falling again in 2027, Reuters poll shows
   - [taiwan] Why is TSMC stock sliding today?
@@ -31,6 +33,7 @@ Total: 3000 manchetes
   - [japan] Japan Core CPI Likely to Accelerate to 2.7% in November — Market Talk
   - [japan] Finance Minister Katayama: JT’s huge loss “will not affect growth investment”
   - [japan] The consumer price index rose 2.2% in October, exceeding the Bank of Japan's 2% target for the second consecut
+  - [china] The unexpired balance of the central bank's MLF remains unchanged at 7.4 trillion yuan, with 1 trillion yuan d
   - [japan] Yen Strengthens as Risk Aversion Takes Hold — Market Talk
   - [china] China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ
   - [taiwan] TSMC Stock Falls 5.0%, MediaTek Drops 9.1%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ December Rate Hike Looks Likely After CPI Results — Market Talk
   - [japan] Japan's core inflation rose to 2.2% in October, strengthening the Bank of Japan's expectations for a rate hike
   - [china] CHINA PBOC CONDUCTS CNY379.5 BLN VIA O/N REVERSE REPO FRI
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7131 FRI VS 6.7128
-  - [korea] Samsung names new memory, mobile chiefs as chips sweep promotions
-  - [china] The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T04:52:40+00:00",
+      "published_utc": "2026-11-20T05:02:58+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
