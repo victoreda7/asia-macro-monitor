@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T03:52:42.324676+00:00",
- "collected_at_utc": "2026-11-20T03:52:42.324676+00:00",
+ "generated_at_utc": "2026-11-20T04:04:44.079641+00:00",
+ "collected_at_utc": "2026-11-20T04:04:44.079641+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1050,
+  "japan": 1051,
   "china": 902,
-  "taiwan": 320,
+  "taiwan": 319,
   "korea": 728
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 151.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:57:40+00:00"
+   "newest": "2026-11-19T13:47:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:45:00+00:00"
+   "newest": "2026-11-19T03:25:59+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T03:52:25+00:00"
+   "newest": "2026-11-20T04:02:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:56:30+00:00"
+   "newest": "2026-11-20T03:25:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T12:00:00+09:00"
+   "newest": "2026-11-20T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,47 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
-   "newest": "2026-11-20T02:29:00+00:00"
+   "newest": "2026-11-20T02:21:10+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electronics Names Sang Joon Hwang as Head of Memory Business",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011636_20261119011648:0-samsung-electronics-names-sang-joon-hwang-as-head-of-memory-business/",
+   "published_utc": "2026-11-20T04:02:00+00:00",
+   "title_original": "Samsung Electronics Names Sang Joon Hwang as Head of Memory Business",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "924fab0596ee3267"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electronics Appoints New Memory Business Chief",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011636_20261119011636:0-samsung-electronics-appoints-new-memory-business-chief/",
+   "published_utc": "2026-11-20T04:00:00+00:00",
+   "title_original": "Samsung Electronics Appoints New Memory Business Chief",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "17a15cea3c67bdee"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -431,8 +465,8 @@
    "id": "752219fb2b0f8832"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -445,7 +479,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -623,9 +657,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
+   "source_name": "연합뉴스",
    "title_en": "China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domestic demand",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90NnZIZjZrVzJ1dGZFemRCN3l5WlFOdFo4Z2RrRHdEbWhMOUpUV3VFdHZuUF9ZRkZDeHJqOGRzMkJOcGgzaFZWY0N4dlllSjFwdEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVtIBYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVg?oc=5",
    "published_utc": "2026-11-20T02:21:10+00:00",
    "title_original": "中, '사실상 기준금리' 18개월째 동결…내수부진에도 금리 유지",
    "region": "korea",
@@ -636,7 +670,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "95ad1a83484c8fa6"
+   "id": "91fb485f8368fe6d"
   },
   {
    "source_id": "tradingview_live",
@@ -1174,6 +1208,25 @@
    "live_wire": false,
    "manual": false,
    "id": "26f0cd0cac6229a4"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "National prices rose 2.2% in October; growth rate expanded, exceeding Bank of Japan target (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mRWs5enZSQ1h4NzM0VTkyQ3N6ek5ZUmRrNDBMTUtaOEc2S1QtSjdhbi1sdTNFZWJQVjdwcF9mdDBtLUFSaDg0WUh5UG1QYW0xQzU5RkJzbW1oX2tSdkt1eTVnVS1HbVpDYml0VVdmQnZKTFBBdV9FeUNqSzBmVjA?oc=5",
+   "published_utc": "2026-11-20T00:04:12+00:00",
+   "title_original": "10月の全国物価、2.2％上昇 伸び率拡大、日銀目標超える（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba35befeabd62519"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2224,8 +2277,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -2239,7 +2292,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -2516,8 +2569,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2531,7 +2584,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3211,8 +3264,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -3225,7 +3278,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10995,7 +11048,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -11006,7 +11059,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5eecd2256cf4eacd"
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51840,58 +51893,6 @@
    "live_wire": false,
    "manual": false,
    "id": "45fde8ecc3b4f1a5"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Korean chip stocks rally on Wall Street gains, Anthropic IPO filing",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbHE1VVdzR1AybkZ5SWxoZlo3OVQ2ajVSdEgxLVUtTHN5NWJmTDN2cnNveWhkZ0ZmV2k2LUVCUEtORU9YVjRiSUpfdElpdVlhTXY3dXhBQQ?oc=5",
-   "published_utc": "2026-10-27T02:14:51+00:00",
-   "title_original": "Korean chip stocks rally on Wall Street gains, Anthropic IPO filing",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2d72910e73532067"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Korea’s Q3 GDP jumps 1% on chip boom",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mS2EwNG9jSFNSa3ZXZ00ybk9uN242d3lDZXlSTjJuYUMzQ0E5cG8zMlA4SlRqT3RGbW9qd3d0bWQzcEVaMGNidzJmU3Noam0tUEN1ZERvZw?oc=5",
-   "published_utc": "2026-10-27T02:11:37+00:00",
-   "title_original": "Korea’s Q3 GDP jumps 1% on chip boom",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2fe0944e59a6c9da"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWE80SHNfSHh2Y1BKakdEUlZGeHVKdlo5WklQZG9XQ1N3NWR4Y1RxNEs5UzVLSndXd21SeW5kMDltZ01zWUpWS2pnMEc5TkNWek1ESTU5NThPZzhBbWZ5SUR2QXNJXzNBWFJSYjVXblN1eW1wdW5oa0VVcFQ0UjBodHJwTUp6VW1aclhDNlJjOA?oc=5",
-   "published_utc": "2026-10-27T02:03:36+00:00",
-   "title_original": "Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5232481bfc22f7b0"
   },
   {
    "source_id": "manual_ia",

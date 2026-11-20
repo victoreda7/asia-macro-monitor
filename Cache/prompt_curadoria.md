@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T03:52:42.324676+00:00
+Última coleta: 2026-11-20T04:04:44.079641+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1050
+  🇯🇵 Japão          1051
   🇨🇳 China          902
-  🇹🇼 Taiwan         320
+  🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics Names Sang Joon Hwang as Head of Memory Business
+  - [korea] Samsung Electronics Appoints New Memory Business Chief
   - [china] China yuan recovers from one-month low on exporter demand, strong dollar caps gain
   - [china] Alibaba puts quixotic faith in made-in-China chips
   - [china] China's fuel oil exports for bunkering ease in October while imports rebound
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares hit 10-month low as chipmakers track US tech selloff
   - [japan] Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semicondu
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 27
-  - [japan] Japan's Inflation Likely to Rise Much More Next Year — Market Talk
-  - [japan] Consumer price index rose 2.2% in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T03:52:42+00:00",
+      "published_utc": "2026-11-20T04:04:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
