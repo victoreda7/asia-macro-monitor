@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T01:12:42.586889+00:00",
- "collected_at_utc": "2026-11-20T01:12:42.586889+00:00",
+ "generated_at_utc": "2026-11-20T01:23:03.459048+00:00",
+ "collected_at_utc": "2026-11-20T01:23:03.459048+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1038,
-  "china": 903,
+  "japan": 1040,
+  "china": 901,
   "taiwan": 321,
   "korea": 738
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 51.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T19:42:00+00:00"
+   "newest": "2026-11-20T01:10:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T01:06:05+00:00"
+   "newest": "2026-11-20T01:19:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 12/08/2026",
-   "newest": "2026-08-12T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-11-19T18:05:37+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T00:58:47+00:00"
+   "newest": "2026-11-20T01:17:49+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T09:30:00+09:00"
+   "newest": "2026-11-20T10:20:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T03:35:41+00:00"
+   "newest": "2026-11-16T07:11:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-19T01:59:24+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T01:02:04+00:00"
+   "newest": "2026-11-20T01:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:56:30+00:00"
+   "newest": "2026-11-19T16:33:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-20T00:51:15+00:00"
+   "newest": "2026-11-20T01:12:04+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y3.1T Of TD-Bills Nov 27",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011289:0-japan-mof-to-auction-y3-1t-of-td-bills-nov-27/",
+   "published_utc": "2026-11-20T01:20:00+00:00",
+   "title_original": "Japan MOF To Auction Y3.1T Of TD-Bills Nov 27",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4a7d777ebc35d52a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan's Inflation Likely to Rise Much More Next Year — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011281:0-japan-s-inflation-likely-to-rise-much-more-next-year-market-talk/",
+   "published_utc": "2026-11-20T01:18:00+00:00",
+   "title_original": "Japan's Inflation Likely to Rise Much More Next Year — Market Talk",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9dc868f406182aee"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -4045,7 +4079,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -4057,7 +4091,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -7411,6 +7445,23 @@
   {
    "source_id": "gn_kr_bok",
    "source_name": "한겨레",
+   "title_en": "The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRGR2dWo0VlNOSFlZcTk3ZXN3MmJXZ1MxczRibTFKRWc5WXptQnJBM1NoRmZnYm9Wa1ZkaGRwZFd2Q29YSVVhSVRZM25MelpiWGFIalo1SWxFMEJBY1hOTDZSenJMQV9aenZfNkVldTNUZw?oc=5",
+   "published_utc": "2026-11-16T23:05:00+00:00",
+   "title_original": "한은, 이달 기준금리 0.25%p 인상 가능성 커져",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1bf5e85fae4425a"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한겨레",
    "title_en": "The possibility of the Bank of Korea's base interest rate increasing from 3.00 to 3.25% this month increases.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRGR2dWo0VlNOSFlZcTk3ZXN3MmJXZ1MxczRibTFKRWc5WXptQnJBM1NoRmZnYm9Wa1ZkaGRwZFd2Q29YSVVhSVRZM25MelpiWGFIalo1SWxFMEJBY1hOTDZSenJMQV9aenZfNkVldTNUZw?oc=5",
    "published_utc": "2026-11-16T23:00:00+00:00",
@@ -7424,23 +7475,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ee849262b7539882"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
-   "title_en": "The Bank of Korea is likely to raise its benchmark interest rate by 0.25%p this month.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRGR2dWo0VlNOSFlZcTk3ZXN3MmJXZ1MxczRibTFKRWc5WXptQnJBM1NoRmZnYm9Wa1ZkaGRwZFd2Q29YSVVhSVRZM25MelpiWGFIalo1SWxFMEJBY1hOTDZSenJMQV9aenZfNkVldTNUZw?oc=5",
-   "published_utc": "2026-11-16T23:00:00+00:00",
-   "title_original": "한은, 이달 기준금리 0.25%p 인상 가능성 커져",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f1bf5e85fae4425a"
   },
   {
    "source_id": "nikkei_asia",
@@ -10253,7 +10287,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -10264,7 +10298,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5eecd2256cf4eacd"
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51862,40 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "22b73bbdce557dcc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "MBRF meatpacking plant in Promissão has exports suspended by China, says CNN",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46C0U5:0/",
-   "published_utc": "2026-10-26T18:34:48+00:00",
-   "title_original": "Frigorífico da MBRF em Promissão tem exportações suspensas pela China, diz CNN",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "e54cc4b3be28031b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China halts beef imports from MBRF plant in Brazil, CNN reports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N45U06F:0-china-halts-beef-imports-from-mbrf-plant-in-brazil-cnn-reports/",
-   "published_utc": "2026-10-26T18:32:49+00:00",
-   "title_original": "China halts beef imports from MBRF plant in Brazil, CNN reports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "01678a63898268e6"
   },
   {
    "source_id": "manual_ia",
