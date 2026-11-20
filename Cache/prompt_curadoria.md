@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T01:23:03.459048+00:00
+Última coleta: 2026-11-20T01:32:47.596671+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1040
-  🇨🇳 China          901
+  🇨🇳 China          902
   🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  738
+  🇰🇷 Coreia do Sul  737
 
 ## O que já está no feed (não repita)
 
+  - [japan] Announcement of 2-year JGBs to Be Issued in December 2026
+  - [japan] Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semicondu
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Nov 27
   - [japan] Japan's Inflation Likely to Rise Much More Next Year — Market Talk
-  - [japan] Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semicondu
   - [japan] Consumer price index rose 2.2% in October
   - [korea] Protec Co Wins 23.4 Billion Won Order From Samsung Electronics
   - [japan] Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Export of AI chips to China raises national security controversy. US House of Representatives releases approva
   - [japan] Japan Inflation Data Due On Friday
   - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
-  - [china] California AG subpoenas Nvidia over alleged China chip leak and investor fraud
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T01:23:03+00:00",
+      "published_utc": "2026-11-20T01:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

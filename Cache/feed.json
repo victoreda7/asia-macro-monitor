@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T01:23:03.459048+00:00",
- "collected_at_utc": "2026-11-20T01:23:03.459048+00:00",
+ "generated_at_utc": "2026-11-20T01:32:47.596671+00:00",
+ "collected_at_utc": "2026-11-20T01:32:47.596671+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1040,
-  "china": 901,
+  "china": 902,
   "taiwan": 321,
-  "korea": 738
+  "korea": 737
  },
- "elapsed_s": 51.1,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T10:20:00+09:00"
+   "newest": "2026-11-20T10:30:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-16T07:11:34+00:00"
+   "newest": "2026-11-19T03:35:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T10:03:02+09:00"
+   "newest": "2026-11-20T10:22:30+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:05:56+00:00"
+   "newest": "2026-11-19T23:31:26+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T18:55:27+00:00"
+   "newest": "2026-11-19T23:37:59+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T16:33:45+00:00"
+   "newest": "2026-11-19T12:56:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -345,6 +345,41 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 2-year JGBs to Be Issued in December 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261120eb.htm",
+   "published_utc": "2026-11-20T01:30:00+00:00",
+   "title_original": "Announcement of 2-year JGBs to Be Issued in December 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "81433811906660f8"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semiconductor industry",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
+   "published_utc": "2026-11-20T01:22:30+00:00",
+   "title_original": "株価 一時2800円超の下落 AI・半導体業界の先行き懸念で",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1434bc412f53786d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan MOF To Auction Y3.1T Of TD-Bills Nov 27",
@@ -377,24 +412,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9dc868f406182aee"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semiconductor industry",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
-   "published_utc": "2026-11-20T01:03:02+00:00",
-   "title_original": "株価 一時2800円超の下落 AI・半導体業界の先行き懸念で",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1434bc412f53786d"
   },
   {
    "source_id": "yahoo_business",
@@ -1050,6 +1067,23 @@
    "live_wire": false,
    "manual": false,
    "id": "be20be7bd315b087"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Why China’s Export Machine Seems Unstoppable",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpueWc0R1FSdjNSYVF1c3pmRzlQTWc2RFJQV0p5TnZNdlJqZEExQ0xaczB0ZWNLcHhpWjlDWlBMSmo2SnFFUGlfVTI2OVotcGo5WENRdFc2WlJLZXNzb2RzWTFoMWZHOVYzWkNmbVFSSG5QZ3lCbUJNNXJFbjI4bUhvUEltV1JnV0RSVHQxQ2xrUFMzX1FSRWFNQQ?oc=5",
+   "published_utc": "2026-11-19T22:13:35+00:00",
+   "title_original": "Why China’s Export Machine Seems Unstoppable",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d700ec0b36590422"
   },
   {
    "source_id": "tradingview_live",
@@ -2317,7 +2351,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "China Holds Soybean Imports at Ports as Domestic Supplies Swell",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0pFX0xvSTRiOWNkRzZVRXgyUzNiMFJLZ2pzWWtwT1RUakcyU3JFdm92V1ZpLVVhWUF4aXpuRktqQmVLdjVTOHNWeHhhUWswdDJkc0JzbVJONlhaRHFIOEpxQVZfVnZZSWJ1RXRHd1lCTDYyOWw3ajRGMmNZNEJDbXBaS1YzS2tYWFhxUXkzOHVtOVJpN1R2MUwtWGdmYllRcFlZT0ZOYldyNDFibklNeTFKTHI?oc=5",
-   "published_utc": "2026-11-19T06:09:00+00:00",
+   "published_utc": "2026-11-19T06:09:03+00:00",
    "title_original": "China Holds Soybean Imports at Ports as Domestic Supplies Swell",
    "region": "china",
    "topics": [
@@ -3023,24 +3057,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -3332,6 +3348,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -4079,7 +4113,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -4091,7 +4125,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4423,6 +4457,24 @@
    "id": "3b799ac78e7c2f7b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa1JBVlQzTG10NElNdzhqTnRyc0xoZGhLV3pHVDgycmUxdUk0ZnZBbURoNnVIVXdMR1M2NmliU0E0WTNyZjNCU0lDZURmRVFQeDU5Ty1FV1A?oc=5",
+   "published_utc": "2026-11-18T03:02:45+00:00",
+   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c4fd48fae3d5e92"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Listed firms' profits jump in Q3 on semiconductor boom",
@@ -4526,24 +4578,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c424911380f2727f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
-   "published_utc": "2026-11-18T02:07:21+00:00",
-   "title_original": "央行：开展7002亿元隔夜逆回购操作 操作利率1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da739166c8991e88"
   },
   {
    "source_id": "gn_kr_bok",
@@ -9059,6 +9093,23 @@
    "live_wire": false,
    "manual": false,
    "id": "813b0f7e1fde0bfd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank \"locks in the long and releases the short\" to stabilize funding expectations",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1lOTjktblp3aG9lc0NTek9faFdLSDRZaGo3R19uQ1pGRGVub0Mtd1p6VjIzeFJYcS1MeFYyQTNXZ0YwS2hSQ1dVS0VUeUM2RmRIYXg4R3BlcEt4UVJYb2VJcmNaNDQ3WGQyYk43endFay1vZjVHeUtrZm96ZXBLbm1lVkgyelhNWHZhTTZWdw?oc=5",
+   "published_utc": "2026-11-16T04:59:36+00:00",
+   "title_original": "央行“锁长放短”稳定资金预期",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1ecc715d7f959328"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51845,57 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "23b3050b5a43a2bc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Samsung Electronics Stocks Decline Before 107.4 Trillion Won Profit Test",
-   "url": "https://www.tradingview.com/news/gurufocus:9429d21ce094b:0-samsung-electronics-stocks-decline-before-107-4-trillion-won-profit-test/",
-   "published_utc": "2026-10-26T19:47:41+00:00",
-   "title_original": "Samsung Electronics Stocks Decline Before 107.4 Trillion Won Profit Test",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "08d0f40be7d6215d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 196.86, Implies 36% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:b970bc3c0dd80:0-wuxi-apptec-co-ltd-class-a-stock-12-month-price-target-raised-to-cny-196-86-implies-36-upside/",
-   "published_utc": "2026-10-26T19:20:00+00:00",
-   "title_original": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 196.86, Implies 36% Upside",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "57990c995ca71c0a"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan life insurers eye purchases of higher-yielding JGBs",
-   "url": "https://asia.nikkei.com/business/insurance/japan-life-insurers-eye-purchases-of-higher-yielding-jgbs",
-   "published_utc": "2026-10-26T19:02:54.432738+00:00",
-   "title_original": "Japan life insurers eye purchases of higher-yielding JGBs",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22b73bbdce557dcc"
   },
   {
    "source_id": "manual_ia",
