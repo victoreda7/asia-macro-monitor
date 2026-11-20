@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T18:12:42.559036+00:00
+Última coleta: 2026-11-20T18:26:54.851687+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
-  🇨🇳 China          919
-  🇹🇼 Taiwan         318
+  🇨🇳 China          920
+  🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [china] Trump: we want only older chips to China
   - [japan] Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen
   - [china] Senador republicano Tom Cotton diz que Lutnick ignorou alertas sobre chips para a China, reporta WSJ
   - [china] Republican Senator Tom Cotton says Lutnick ignored his China chip warnings, WSJ reports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan-Peru summit meeting agrees on cooperation for stable supply of important minerals
   - [china] China's Central Bank Governor Meets With Mastercard CEO
   - [china] Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say
-  - [japan] Japanese Yen a Key Beneficiary of AI-Related Risk Aversion — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T18:12:42+00:00",
+      "published_utc": "2026-11-20T18:26:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
