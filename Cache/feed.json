@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T02:52:40.545435+00:00",
- "collected_at_utc": "2026-11-20T02:52:40.545435+00:00",
+ "generated_at_utc": "2026-11-20T03:02:41.750350+00:00",
+ "collected_at_utc": "2026-11-20T03:02:41.750350+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1048,
-  "china": 902,
+  "japan": 1047,
+  "china": 904,
   "taiwan": 320,
-  "korea": 730
+  "korea": 729
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 29.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T02:48:30+00:00"
+   "newest": "2026-11-20T02:56:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-19T23:30:00+09:00"
+   "newest": "2026-11-20T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T08:11:09+09:00"
+   "newest": "2026-11-20T12:00:35+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-20T01:43:35+00:00"
+   "newest": "2026-11-20T02:51:39+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T02:43:34+00:00"
+   "newest": "2026-11-20T03:01:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T20:28:48+00:00"
+   "newest": "2026-11-19T23:28:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T02:04:01+00:00"
+   "newest": "2026-11-20T02:52:34+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,19 +331,71 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T01:45:56+00:00"
+   "newest": "2026-11-20T02:33:40+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011530:0-china-s-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-wsj/",
+   "published_utc": "2026-11-20T03:00:00+00:00",
+   "title_original": "China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "38014855d232cbd1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Stock Falls 5.0%, MediaTek Drops 9.1%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011528_20261119011528:0-tsmc-stock-falls-5-0-mediatek-drops-9-1/",
+   "published_utc": "2026-11-20T02:59:00+00:00",
+   "title_original": "TSMC Stock Falls 5.0%, MediaTek Drops 9.1%",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6d1d69de40f7b6aa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 20, the central bank launched a 379.5 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MNkFid2xoeVlqYzhIeVBfeFUxdzBJMXhER0s5end0R1dBeXpiU2p3TTRzSEljT1FhRFJRWHltMTgzTTRPOXJleVQ3RVRqeFBHVGFTMHpLbzZ6c2tDUUtMVG9IbWx0YkZr?oc=5",
+   "published_utc": "2026-11-20T02:51:39+00:00",
+   "title_original": "11月20日央行开展3795亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7eeed4fcfe23a6ba"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1983,8 +2035,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -1998,7 +2050,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -2275,8 +2327,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2290,7 +2342,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2970,8 +3022,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2984,7 +3036,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51846,58 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "101d88d091a358a6"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Cadence says chip design demand is broadening beyond AI as analysts test margins, rival targets",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3VseWdldkp5RVZOWGRyU3pnckp4c1I0U0o4S0hTNl8xVzJGM2s1MmZjZ2M4SnlLdnViclpRUy1kNlRNYnRQdFVEOFNuZnVTckhFNF9YeHZWd1VrWVE3YjBvQWVWZUN4RkI0di1QeG1pcWF3b3pYZmxlNGJleUxXNmc5cTA5cnVLcFBWbHRSNU45RUNi?oc=5",
-   "published_utc": "2026-10-27T01:07:13+00:00",
-   "title_original": "Cadence says chip design demand is broadening beyond AI as analysts test margins, rival targets",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d578a038897aa5f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
-   "published_utc": "2026-10-27T01:06:40+00:00",
-   "title_original": "SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9169e480f65f285f"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Major life insurance companies accelerate replacement of government bonds",
-   "url": "https://news.yahoo.co.jp/pickup/6600265?source=rss",
-   "published_utc": "2026-10-27T00:38:54+00:00",
-   "title_original": "大手生保 国債の入れ替え加速",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "405335ae84add8a2"
   },
   {
    "source_id": "manual_ia",

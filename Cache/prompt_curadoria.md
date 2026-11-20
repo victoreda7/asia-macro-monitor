@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T02:52:40.545435+00:00
+Última coleta: 2026-11-20T03:02:41.750350+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1048
-  🇨🇳 China          902
+  🇯🇵 Japão          1047
+  🇨🇳 China          904
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ
+  - [taiwan] TSMC Stock Falls 5.0%, MediaTek Drops 9.1%
+  - [china] On November 20, the central bank launched a 379.5 billion yuan overnight reverse repurchase operation.
   - [japan] [Today's Oha Biz Friday, November 20th] Full-scale discussion on tax reform begins
   - [japan] BOJ Likely to Raise Rate in December or January Amid Persistent Inflation — Market Talk
   - [japan] Japan Inflation Accelerates on Surging Cost of Daily Necessities — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] “The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”
   - [japan] Japan Consumer Prices Jump 0.8% In October
   - [korea] Key facts: SK hynix Raises $26.5B; Reaffirms 100 Trillion Won Returns
-  - [japan] Japan CPI inflation rises in Oct, core print slightly misses estimates By Investing.com
-  - [japan] JAPAN OCT CPI: SERVICES PRICES CATCHING UP WITH GOODS INFLATION AMID CONTINUED WAGE HIKES IN FISCAL 2026 BUT R
-  - [japan] Japan’s core inflation accelerates in October, cementing rate hike expectations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T02:52:40+00:00",
+      "published_utc": "2026-11-20T03:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
