@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T09:52:42.158647+00:00
+Última coleta: 2026-11-20T10:02:41.697437+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
-  🇨🇳 China          912
+  🇯🇵 Japão          1037
+  🇨🇳 China          911
   🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
   - [china] Tongwei Plans Share Buyback With 1-2 Billion Yuan
+  - [japan] Dollar takes a breather near 19-month peak; Yen jumps on hot CPI
   - [taiwan] Taiwan Chip Demand Likely to Be Hurt if U.S. AI Capex Slows Down — Market Talk
   - [korea] SK Hynix to become top shareholder in rival Kioxia after bond conversion
   - [japan] Yen market price rise, US dollar selling movement due to fall in long-term interest rates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's October coal imports from Australia hit six-year high
   - [korea] South Korean shares hit 10-month low as chipmakers slump on US tech selloff
   - [taiwan] Foxconn Technology: Global manufacturing capabilities support gaming, casing and thermal products, alongside E
-  - [japan] Nikkei average closing price drops by 3007 yen Confusion over AI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T09:52:42+00:00",
+      "published_utc": "2026-11-20T10:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
