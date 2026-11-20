@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T09:32:57.537839+00:00
+Última coleta: 2026-11-20T09:42:42.032891+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
   🇨🇳 China          912
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  734
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix to become top shareholder in rival Kioxia after bond conversion
+  - [japan] Yen market price rise, US dollar selling movement due to fall in long-term interest rates
+  - [korea] S.Korea to offer $1,870 tax credit per locally made EV to counter Chinese imports
   - [japan] High prices, ice cream prices going up, pizza shops selling low-priced products, farmers screaming
   - [korea] From robot pets to virtual livers: Apple Developer Academy showcases projects at Postech
   - [china] China's January-October fiscal revenues up 4.9% y/y
@@ -25,7 +28,9 @@ Total: 3000 manchetes
   - [china] China's January-October government land sales revenue down 25.8% Y/Y
   - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
+  - [korea] The Korean won is expected to strengthen as demand to convert the dollar earned during the semicondu..
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
+  - [korea] Shim Jae-bok passed away, Sung Won-won's husband, Shim Won-bo (team leader of Geumho Construction'..
   - [japan] Yomiuri: Japan's MS&AD to Merge Life Insurance Subsidiaries
   - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
   - [china] Factbox-Global investment banks see Chinese yuan’s gradual appreciation extending into 2027
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei average closing price drops by 3007 yen Confusion over AI
   - [korea] SK Hynix weighs converting Kioxia bonds to shares, report says
   - [korea] The top 1% return on stock investment, which sold the largest amount of Samsung Electronics' common
-  - [japan] Talking about the first year of the Takaichi administration (Part 1): Aggressive fiscal policy and low-tempera
-  - [korea] JPMorgan initiates BOK Financial stock coverage with neutral rating
-  - [taiwan] Selling wave in chip stocks leads Taiwan to worst week since 1990; Asian stock markets fall
-  - [china] Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin su
-  - [korea] Samsung Electronics Appoints New Memory-Chip Business Head
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T09:32:57+00:00",
+      "published_utc": "2026-11-20T09:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
