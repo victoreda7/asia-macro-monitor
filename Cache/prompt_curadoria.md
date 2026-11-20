@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-19T23:52:43.714423+00:00
+Última coleta: 2026-11-20T00:03:37.253541+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
-  🇨🇳 China          907
-  🇹🇼 Taiwan         323
+  🇯🇵 Japão          1034
+  🇨🇳 China          906
+  🇹🇼 Taiwan         322
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Consumer Prices Jump 0.8% In October
+  - [japan] Japan CPI inflation rises in Oct, core print slightly misses estimates By Investing.com
   - [japan] JAPAN OCT CPI: SERVICES PRICES CATCHING UP WITH GOODS INFLATION AMID CONTINUED WAGE HIKES IN FISCAL 2026 BUT R
+  - [korea] [Morning Report] “The Bank of Korea is expected to raise interest rates in November...Market attention to futu
   - [japan] JAPAN OCT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +1.9% VS. +2.0% IN SEPT; GOODS (EX-FRESH FOOD) +3.0% VS. +
   - [japan] JAPAN OCT CORE-CORE CPI +2.2% Y/Y; SEPT +2.4%
   - [japan] MNI JAPAN OCT CORE CPI +2.2% Y/Y; SEPT +2.1%
@@ -42,6 +45,7 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill: support from Komeito expected to support lower income limit of 560,000 yen
   - [china] US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says
   - [china] California AG subpoenas Nvidia over alleged China chip leak and investor fraud
+  - [china] US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show
   - [japan] Japan Tobacco takes $8.6bn loss after Russia grabs seven subsidiaries
   - [china] Bipartisan panel says China 'doubling down' on control of pharma supply chain
   - [korea] Producer prices drop in Oct. on lower food prices
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] At 4 p.m. on the 17th, Incheon Arenas Yeongjong Logistics Center, one of the forward export bases of..
   - [china] License information for AI chips sent to China released by US House committee
   - [china] The US approved the sale of almost 900,000 AI chips to China in six months, the commission says
-  - [china] US signed off on sales of nearly 900,000 AI chips to China in six months, committee says
-  - [china] US signed off on sales of nearly 900,000 AI chips to China in six months-committee
-  - [china] U.S. House Foreign Affairs Committee releases information on licenses for NVIDIA and AMD AI chips sent to Chin
-  - [china] US House of Representatives Committee releases information on licenses for AI chips sent to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-19T23:52:43+00:00",
+      "published_utc": "2026-11-20T00:03:37+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
