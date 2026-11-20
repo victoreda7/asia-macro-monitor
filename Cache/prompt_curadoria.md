@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T04:22:41.028637+00:00
+Última coleta: 2026-11-20T04:32:42.691954+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1051
+  🇯🇵 Japão          1050
   🇨🇳 China          902
-  🇹🇼 Taiwan         318
+  🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung Management Shuffle Aimed at Strengthening Competitiveness of Semiconductor Business
+  - [china] China home prices seen falling again in 2027, Reuters poll shows
+  - [taiwan] Why is TSMC stock sliding today?
   - [korea] Samsung Electronics: Hwang Previously Led Development of Memory Products Including DRAM, HBM
   - [china] Preços dos imóveis na China devem cair novamente em 2027, aponta pesquisa da Reuters
   - [korea] Samsung Electronics Names Sang Joon Hwang as Head of Memory Business
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7131 FRI VS 6.7128
   - [korea] Samsung names new memory, mobile chiefs as chips sweep promotions
   - [china] The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today
-  - [japan] Announcement of 2-year JGBs to Be Issued in December 2026
-  - [japan] Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Nov 30
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T04:22:41+00:00",
+      "published_utc": "2026-11-20T04:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

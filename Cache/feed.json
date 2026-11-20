@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T04:22:41.028637+00:00",
- "collected_at_utc": "2026-11-20T04:22:41.028637+00:00",
+ "generated_at_utc": "2026-11-20T04:32:42.691954+00:00",
+ "collected_at_utc": "2026-11-20T04:32:42.691954+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1051,
+  "japan": 1050,
   "china": 902,
-  "taiwan": 318,
+  "taiwan": 319,
   "korea": 729
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T03:19:54+00:00"
+   "newest": "2026-11-19T23:46:59+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-20T04:01:03+00:00"
+   "newest": "2026-11-20T04:18:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T03:24:35+00:00"
+   "newest": "2026-11-20T04:12:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T03:25:59+00:00"
+   "newest": "2026-11-20T00:45:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T13:14:45+09:00"
+   "newest": "2026-11-20T13:23:50+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T12:24:00+09:00"
+   "newest": "2026-11-20T13:24:50+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T04:20:51+00:00"
+   "newest": "2026-11-20T04:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T13:00:00+09:00"
+   "newest": "2026-11-20T13:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,9 +337,9 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-20T02:29:00+00:00"
+   "newest": "2026-11-20T02:21:10+00:00"
   }
  ],
  "falhas_seguidas": {},
@@ -360,6 +360,40 @@
    "live_wire": true,
    "manual": false,
    "id": "44ea7001bc19bdef"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China home prices seen falling again in 2027, Reuters poll shows",
+   "url": "https://www.investing.com/news/economy-news/china-home-prices-seen-falling-again-in-2027-reuters-poll-shows-5040631",
+   "published_utc": "2026-11-20T04:12:20+00:00",
+   "title_original": "China home prices seen falling again in 2027, Reuters poll shows",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0308ae4580d8f1a0"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is TSMC stock sliding today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-sliding-today-93CH-5040629",
+   "published_utc": "2026-11-20T04:06:20+00:00",
+   "title_original": "Why is TSMC stock sliding today?",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1bf6d857c3c5d4ca"
   },
   {
    "source_id": "tradingview_live",
@@ -516,8 +550,8 @@
    "id": "752219fb2b0f8832"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -530,7 +564,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -603,9 +637,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "中国新闻网",
    "title_en": "On November 20, the central bank launched a 379.5 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUERxLTlwVjI3TXVUblpjemxKQVZHaWdoZktHZ1c5bEllQklIcVA1X2dyX0ZCSzRUc2pMd3ZRdkczVFZqOUU1VjlWVE1VZUdGSHFxRGIzN250NWNaSERtaGJMLVBlc3MxdHNLU0ozeUdkbDREZUREbXNUTzduc0UtZ1NTOGlFbFhN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MNkFid2xoeVlqYzhIeVBfeFUxdzBJMXhER0s5end0R1dBeXpiU2p3TTRzSEljT1FhRFJRWHltMTgzTTRPOXJleVQ3RVRqeFBHVGFTMHpLbzZ6c2tDUUtMVG9IbWx0YkZr?oc=5",
    "published_utc": "2026-11-20T02:51:39+00:00",
    "title_original": "11月20日央行开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -617,7 +651,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7fb6a7df70d4d673"
+   "id": "7eeed4fcfe23a6ba"
   },
   {
    "source_id": "nhk_economy",
@@ -708,9 +742,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스",
+   "source_name": "매일경제 마켓",
    "title_en": "China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domestic demand",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVtIBYEFVX3lxTFBuSzFIWjdLX0t1VG1FVHBiSHJ5RmlYazR1cW1SWkJnVERIQ3ppSDdoS1FXTU1jWjRzTUdPdEdkVHZ6SEtRbGlKTnB1c05ZdGlIa2dBVUYycDhiV2ZYNXFaVg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90NnZIZjZrVzJ1dGZFemRCN3l5WlFOdFo4Z2RrRHdEbWhMOUpUV3VFdHZuUF9ZRkZDeHJqOGRzMkJOcGgzaFZWY0N4dlllSjFwdEE?oc=5",
    "published_utc": "2026-11-20T02:21:10+00:00",
    "title_original": "中, '사실상 기준금리' 18개월째 동결…내수부진에도 금리 유지",
    "region": "korea",
@@ -721,7 +755,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91fb485f8368fe6d"
+   "id": "95ad1a83484c8fa6"
   },
   {
    "source_id": "tradingview_live",
@@ -1051,6 +1085,23 @@
    "live_wire": true,
    "manual": false,
    "id": "969534efc8089e86"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합인포맥스",
+   "title_en": "‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1' |",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOG9zWk1WVEtLbF9XTUlqRjR2cGowYkpDUnFSWXJMcDFXVXh4VlBITDZwOGVPckhqS1NGUUVGSFNXdVYwNDhBUGNxOTdwb1NwOHF5b2hvdmhEQXFHQ1VGR3Z1dmExcTFiVjIxNjlmZ1hQTGZK?oc=5",
+   "published_utc": "2026-11-20T01:23:11+00:00",
+   "title_original": "수능에 나온 '强달러'…환율은 오르고 정답은 '1번' |",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8f8e9f5516c9cb2d"
   },
   {
    "source_id": "nhk_economy",
@@ -1621,23 +1672,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bd820e95448692bc"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
-   "title_en": "‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zTlBwQnB0RnhMbXpBbHkzTUNiZ01mUVhWNXZZcDZEdFdMczF2T1FmWVlQOWNSQlpHcTRWNk1QbXpYYmwyQjdlNWh5UEtZNUJNVXF5MmRuRkJsT0pJZ2Rlajh3OHlIckl1VWRUZXBza1hwUQ?oc=5",
-   "published_utc": "2026-11-19T23:16:47+00:00",
-   "title_original": "수능에 나온 '强달러'…환율은 오르고 정답은 '1번'",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "728aaa1c55186e06"
   },
   {
    "source_id": "toyo_keizai",
@@ -2328,8 +2362,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -2343,7 +2377,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -2620,8 +2654,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2635,7 +2669,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3315,8 +3349,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -3329,7 +3363,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11099,7 +11133,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -11110,7 +11144,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "350419b2852113c9"
+   "id": "5eecd2256cf4eacd"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51857,40 +51891,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c613810e986642f1"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi held a summit meeting with Prime Minister Tarek Rahman of the People's Republic of Bangladesh",
-   "url": "https://www.kantei.go.jp/jp/105/actions/202610/27bangladesh.html",
-   "published_utc": "2026-10-27T02:30:00+00:00",
-   "title_original": "高市総理はバングラデシュ人民共和国のタレク・ラーマン首相と首脳会談を行いました",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "653d9f28777ba299"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China’s Industrial Profits Jump Most in Three Months on Oil, AI",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHpqMDdYZGVGYi1vVUE0a09KX19OVENITVZwenhadGJ2Wl9EeS1OMzZEZ3lzZXB0VjR6aWhROUxvd0Jtd2k1Mjd0NElfM0F5eGtqWkVsUUlQV083bjl0SzJfbXQ2bktwZnJiSU9zbF9yVlF5QTBad3NsYWhFX0tzd2hVZkV5SXEzOG0yVEZISUdlOVhGQnhJc2lWdkoyZ0V0eXZHZE1WdS1SV0JGVzlZZ2Y4RQ?oc=5",
-   "published_utc": "2026-10-27T02:30:00+00:00",
-   "title_original": "China’s Industrial Profits Jump Most in Three Months on Oil, AI",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a735ffbb8b84286"
   },
   {
    "source_id": "manual_ia",
