@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T07:22:42.068488+00:00
+Última coleta: 2026-11-20T07:32:40.736623+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1043
-  🇨🇳 China          907
-  🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  730
+  🇯🇵 Japão          1042
+  🇨🇳 China          908
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yttrium exports to US hit seven-month high
   - [japan] Stock price fell by more than 3,000 yen, almost completely down due to concerns about the future of the AI ​​a
+  - [korea] The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion
   - [japan] M3 Inc - To Expand Buy Back Up Scheme To Up To 5.06% Of Own Shares From Previous Up To 3% Worth 5.5 Billion Ye
   - [china] China's October coal imports from Australia hit six-year high
   - [korea] South Korean shares hit 10-month low as chipmakers slump on US tech selloff
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Alibaba puts quixotic faith in made-in-China chips
   - [china] China Solar Cell Exports Rise for Second Month on Tariff Rush
   - [china] China's fuel oil exports for bunkering ease in October while imports rebound
-  - [japan] Result of Liquidity Enhancement Auction on November 20, 2026(For JGB Market Special Participants)
-  - [japan] Japan Core CPI Likely to Accelerate to 2.7% in November — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T07:22:42+00:00",
+      "published_utc": "2026-11-20T07:32:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

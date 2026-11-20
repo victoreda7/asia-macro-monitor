@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T07:22:42.068488+00:00",
- "collected_at_utc": "2026-11-20T07:22:42.068488+00:00",
+ "generated_at_utc": "2026-11-20T07:32:40.736623+00:00",
+ "collected_at_utc": "2026-11-20T07:32:40.736623+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1043,
-  "china": 907,
-  "taiwan": 320,
-  "korea": 730
+  "japan": 1042,
+  "china": 908,
+  "taiwan": 319,
+  "korea": 731
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T06:35:16+00:00"
+   "newest": "2026-11-20T07:18:45+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T07:12:32+00:00"
+   "newest": "2026-11-20T07:31:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T07:00:18+00:00"
+   "newest": "2026-11-20T07:24:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T05:42:00+00:00"
+   "newest": "2026-11-20T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T06:29:17+00:00"
+   "newest": "2026-11-20T07:25:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T16:02:55+09:00"
+   "newest": "2026-11-20T16:31:04+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T07:21:43+00:00"
+   "newest": "2026-11-20T07:31:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T12:56:30+00:00"
+   "newest": "2026-11-20T03:25:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,19 +331,36 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T06:33:54+00:00"
+   "newest": "2026-11-20T07:16:32+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 25,
    "error": "",
    "newest": "2026-11-20T05:16:35+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's yttrium exports to US hit seven-month high",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4710IR:0-china-s-yttrium-exports-to-us-hit-seven-month-high/",
+   "published_utc": "2026-11-20T07:25:57+00:00",
+   "title_original": "China's yttrium exports to US hit seven-month high",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9fb96a212e8df154"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -361,6 +378,23 @@
    "live_wire": false,
    "manual": false,
    "id": "21f888104a5a101b"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvWTV6VHh5MkJJYUZJV1V5c3BUV0drRVhiUXpkbjVKVEEtaEtaOFo1X19ORFpBbG9Ub2lkeHNkRl8weE1oNXUxaWxyZU1uUnM?oc=5",
+   "published_utc": "2026-11-20T07:06:11+00:00",
+   "title_original": "The KOSPI and KOSDAQ plunged by 5%. While foreigners and institutions sold more than KRW 2 trillion",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "614638e5eb0bd957"
   },
   {
    "source_id": "tradingview_live",
@@ -1326,23 +1360,6 @@
    "live_wire": true,
    "manual": false,
    "id": "72fa23459856c788"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261119011370:0-rising-goods-prices-likely-to-keep-driving-japan-inflation-market-talk/",
-   "published_utc": "2026-11-20T01:55:00+00:00",
-   "title_original": "Rising Goods Prices Likely to Keep Driving Japan Inflation — Market Talk",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e592428b38fd20d4"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51875,24 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "60b9efe70468c7cc"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Taiwan central bank sees strong tech demand driving exports into 2027",
-   "url": "https://www.investing.com/news/economy-news/taiwan-central-bank-sees-strong-tech-demand-driving-exports-into-2027-4974186",
-   "published_utc": "2026-10-27T05:01:00+00:00",
-   "title_original": "Taiwan central bank sees strong tech demand driving exports into 2027",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ba0f7fff3abcbef"
   },
   {
    "source_id": "manual_ia",
