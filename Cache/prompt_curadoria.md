@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T06:52:41.162497+00:00
+Última coleta: 2026-11-20T07:04:34.715973+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1044
-  🇨🇳 China          909
-  🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  728
+  🇯🇵 Japão          1043
+  🇨🇳 China          908
+  🇹🇼 Taiwan         320
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] China's October coal imports from Australia hit six-year high
+  - [korea] South Korean shares hit 10-month low as chipmakers slump on US tech selloff
+  - [taiwan] Foxconn Technology: Global manufacturing capabilities support gaming, casing and thermal products, alongside E
   - [japan] Nikkei average closing price drops by 3007 yen Confusion over AI
   - [korea] SK Hynix weighs converting Kioxia bonds to shares, report says
   - [korea] The top 1% return on stock investment, which sold the largest amount of Samsung Electronics' common
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama: JT’s huge loss “will not affect growth investment”
   - [japan] The consumer price index rose 2.2% in October, exceeding the Bank of Japan's 2% target for the second consecut
   - [china] The unexpired balance of the central bank's MLF remains unchanged at 7.4 trillion yuan, with 1 trillion yuan d
-  - [japan] Yen Strengthens as Risk Aversion Takes Hold — Market Talk
-  - [china] China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ
-  - [taiwan] TSMC Stock Falls 5.0%, MediaTek Drops 9.1%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T06:52:41+00:00",
+      "published_utc": "2026-11-20T07:04:34+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
