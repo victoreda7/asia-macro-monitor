@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T06:48:17.496769+00:00
+Última coleta: 2026-11-20T06:52:41.162497+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1043
-  🇨🇳 China          910
+  🇯🇵 Japão          1044
+  🇨🇳 China          909
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei average closing price drops by 3007 yen Confusion over AI
   - [korea] SK Hynix weighs converting Kioxia bonds to shares, report says
   - [korea] The top 1% return on stock investment, which sold the largest amount of Samsung Electronics' common
   - [korea] JPMorgan initiates BOK Financial stock coverage with neutral rating
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Strengthens as Risk Aversion Takes Hold — Market Talk
   - [china] China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ
   - [taiwan] TSMC Stock Falls 5.0%, MediaTek Drops 9.1%
-  - [china] On November 20, the central bank launched a 379.5 billion yuan overnight reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T06:48:17+00:00",
+      "published_utc": "2026-11-20T06:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
