@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T13:02:43.674160+00:00
+Última coleta: 2026-11-20T13:13:04.088512+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1042
-  🇨🇳 China          909
+  🇨🇳 China          910
   🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] US-China-Russia summit “symbolizes changes in the international order” World Impact on Japan
   - [japan] Yomiuri: Japan Tobacco Projects 724 Billion Yen Net Loss After Losing Control of Russian Units
   - [taiwan] October export orders hit record US$123.82 billion on AI demand
   - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
   - [korea] Shim Jae-bok passed away, Sung Won-won's husband, Shim Won-bo (team leader of Geumho Construction'..
   - [japan] Yomiuri: Japan's MS&AD to Merge Life Insurance Subsidiaries
-  - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T13:02:43+00:00",
+      "published_utc": "2026-11-20T13:13:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
