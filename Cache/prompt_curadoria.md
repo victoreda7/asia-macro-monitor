@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T15:12:42.916874+00:00
+Última coleta: 2026-11-20T15:22:42.611067+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1040
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] US TSY'S BESSENT Q&A/CNBC: NVIDIA DID NOT COME UP IN DISCUSSIONS W/CHINA; SEEN 'PAUCITY OF ORDERS FOR H200 CHI
   - [korea] JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145
   - [china] Spacex’s Subsidiary Cursor Tells Lawmakers It’s Considering Phasing Out Chinese AI Models- CNBC
   - [japan] Prime Minister Takaichi held a summit meeting with Jose Antonio Casto Listo, President of the Republic of Chil
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S.Korea to offer $1,870 tax credit per locally made EV to counter Chinese imports
   - [japan] High prices, ice cream prices going up, pizza shops selling low-priced products, farmers screaming
   - [korea] From robot pets to virtual livers: Apple Developer Academy showcases projects at Postech
-  - [china] China's January-October fiscal revenues up 4.9% y/y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T15:12:43+00:00",
+      "published_utc": "2026-11-20T15:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
