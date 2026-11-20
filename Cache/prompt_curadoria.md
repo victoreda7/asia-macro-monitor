@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T23:32:44.355599+00:00
+Última coleta: 2026-11-20T23:42:41.355305+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1040
-  🇨🇳 China          918
+  🇯🇵 Japão          1039
+  🇨🇳 China          919
   🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [korea] Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Kor
   - [china] Tongda International Group Operating Subsidiaries Provides E-Commerce Services in China
   - [japan] Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data
   - [japan] AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips
@@ -29,6 +30,7 @@ Total: 3000 manchetes
   - [china] U.S. Approves 879,000 AI Chips To China
   - [japan] Dollar weaker as Fed-fueled rally stalls; lower US yields help yen
   - [china] Trump Says Jensen Huang Made 'Bad Decisions,' Vows China to Get Old Chips Only
+  - [china] Trump says only older chips should be sold to China
   - [china] Trump says US wants only older chips sold to China
   - [china] U.S. Cleared Nearly 880,000 AI Chips for Chinese Buyers
   - [china] Trump: we want only older chips to China
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] USTR GREER Q&A/BBG: CHINA ALWAYS LIKES TO TAKE SOME RETALIATORY ACTION VS NEW SEMICONDUCTOR EXPORT RESTRICTION
   - [china] US-China-Russia summit “symbolizes changes in the international order” World Impact on Japan
   - [japan] Yomiuri: Japan Tobacco Projects 724 Billion Yen Net Loss After Losing Control of Russian Units
-  - [taiwan] October export orders hit record US$123.82 billion on AI demand
-  - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T23:32:44+00:00",
+      "published_utc": "2026-11-20T23:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

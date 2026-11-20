@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T23:32:44.355599+00:00",
- "collected_at_utc": "2026-11-20T23:32:44.355599+00:00",
+ "generated_at_utc": "2026-11-20T23:42:41.355305+00:00",
+ "collected_at_utc": "2026-11-20T23:42:41.355305+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1040,
-  "china": 918,
+  "japan": 1039,
+  "china": 919,
   "taiwan": 317,
   "korea": 725
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-20T23:17:58+00:00"
+   "newest": "2026-11-20T23:33:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T13:38:00+00:00"
+   "newest": "2026-11-20T10:34:50+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T20:54:40+00:00"
+   "newest": "2026-11-20T18:42:59+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T23:30:50+00:00"
+   "newest": "2026-11-20T23:40:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-21T08:00:00+09:00"
+   "newest": "2026-11-21T08:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,13 +337,33 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-20T21:00:00+00:00"
+   "newest": "2026-11-20T23:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스웍스",
+   "title_en": "Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Korea is certain",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NS1pjNXZucHdxWE1wMnlJcnVjbVBpWnlIeGFCMXhuSjhwRE9jeExBY2JndXMxOGtweFRjMmgzRUtoOWN3YjZRZVpva0dYLWJPUjhrZkxDa19pZ2tod2M3aWFHSExRbzNyUVl5cl9MUdIBc0FVX3lxTE5MNldnWVNNQVpVMjNTajN2QXVZSWJxT3otMUxwUlVLWUtFaEcxZjVWV3EySGJSMm9BbjBZNEJQRllXOFplZW5Xb3NDcWMwcDBNeTgxNHNJcHRCd3NFaGdUbm1La3RrcDF4cGhzbmFfNDZzb00?oc=5",
+   "published_utc": "2026-11-20T23:00:00+00:00",
+   "title_original": "수출 1조달러에 성장률 전망 '쑥'…한은 기준금리 추가 인상 확실시",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7307e7a4f1c2ccbd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -549,6 +569,23 @@
    "live_wire": true,
    "manual": false,
    "id": "faf4ea34eac79600"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Trump says only older chips should be sold to China",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFEtNXdjeFdVNFdzb2gyY0R6cENORm5IRHNyNWY0RWVYcEY0SHRpQ2RTZEEzT0RnTnhWUVNHNV9qaVl0N1RjaExzcUtCdmFybmwzSUFKUG42T1ZLT19UTm1YbFdESzVtQWxQeHhaZWVBSXA3aGdSVDB4NTd6ZzdRS1NKbl80YVV4RlpiYXE3VVRFMXVvVktaQ2pwcDk?oc=5",
+   "published_utc": "2026-11-20T18:40:12+00:00",
+   "title_original": "Trump says only older chips should be sold to China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff16d3fd9bd380a6"
   },
   {
    "source_id": "investing_live",
@@ -3682,6 +3719,23 @@
    "id": "317bdb5a8c18968b"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+   "published_utc": "2026-11-19T12:42:22+00:00",
+   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f57c7af880cefe96"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
@@ -5171,6 +5225,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -5462,24 +5534,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -6518,23 +6572,6 @@
    "live_wire": false,
    "manual": false,
    "id": "225858d7380e8a37"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
-   "published_utc": "2026-11-18T03:21:00+00:00",
-   "title_original": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51860,40 +51897,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ffe64e5fd8c55d34"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan banks, fintech step up digital currency push for trade settlements",
-   "url": "https://asia.nikkei.com/business/finance/japan-banks-fintech-step-up-digital-currency-push-for-trade-settlements",
-   "published_utc": "2026-10-27T18:42:46.211846+00:00",
-   "title_original": "Japan banks, fintech step up digital currency push for trade settlements",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "592b7244489d1b5f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching",
-   "url": "https://www.tradingview.com/news/gurufocus:ca5e658b3094b:0-samsung-electronics-stocks-gain-4-23-with-cash-return-decisions-approaching/",
-   "published_utc": "2026-10-27T17:10:23+00:00",
-   "title_original": "Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2f8fb7f7be56b9ea"
   },
   {
    "source_id": "manual_ia",
