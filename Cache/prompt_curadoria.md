@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T11:12:42.175154+00:00
+Última coleta: 2026-11-20T11:22:43.989436+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1040
+  🇯🇵 Japão          1041
   🇨🇳 China          910
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [japan] Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate ri
+  - [taiwan] Central Bank: Major export manufacturers did not hesitate to sell, and the net foreign exchange sales of the t
   - [china] China’s rare earth magnet exports to US and EU fall after September rebound
   - [japan] Japan-Peru summit meeting agrees on cooperation for stable supply of important minerals
   - [china] China's Central Bank Governor Meets With Mastercard CEO
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix to Convert Convertible Bonds Into Kioxia Holdings Shares
   - [korea] Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide
   - [korea] SK Hynix: to exercise convertible bond option for stake in Kioxia
-  - [china] China's yttrium exports to US hit seven-month high
-  - [china] Chinese Carmakers Tighten Grip on Overseas Sales Channels
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T11:12:42+00:00",
+      "published_utc": "2026-11-20T11:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

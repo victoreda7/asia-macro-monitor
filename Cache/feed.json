@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T11:12:42.175154+00:00",
- "collected_at_utc": "2026-11-20T11:12:42.175154+00:00",
+ "generated_at_utc": "2026-11-20T11:22:43.989436+00:00",
+ "collected_at_utc": "2026-11-20T11:22:43.989436+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1040,
+  "japan": 1041,
   "china": 910,
   "taiwan": 318,
-  "korea": 732
+  "korea": 731
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-20T11:07:42+00:00"
+   "newest": "2026-11-20T11:17:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T19:53:53+09:00"
+   "newest": "2026-11-20T20:13:49+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T20:03:54+09:00"
+   "newest": "2026-11-20T20:16:13+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T11:12:08+00:00"
+   "newest": "2026-11-20T11:22:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:34:38+00:00"
+   "newest": "2026-11-20T11:00:51+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:22:00+00:00"
+   "newest": "2026-11-20T11:06:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,44 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Fiscal Council: “Securing market confidence while being aware of the risks of price hikes and interest rate rises”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de79395",
+   "published_utc": "2026-11-20T11:16:13+00:00",
+   "title_original": "財政審“物価高騰や金利上昇リスク意識して市場の信認確保を”",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf37f2d493d5ce99"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Central Bank: Major export manufacturers did not hesitate to sell, and the net foreign exchange sales of the top 30 manufacturers increased by nearly 50%",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4taDdPYjFjX0lBNk4xd3BBTEhrTjgwX1B6WThfcEdrVlBBNEduLTU5TDYtc1lIN2EzZ3hlVWpZbG5yVWFlcENONUU4UFdRNzdSNDV6MW9FdDNHUnBWZGc?oc=5",
+   "published_utc": "2026-11-20T11:06:00+00:00",
+   "title_original": "央行：出口大廠沒惜售 前30大廠商淨賣匯金額成長近5成",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aef4d709a325c12a"
+  },
   {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
@@ -4681,24 +4719,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -4990,6 +5010,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -5754,7 +5792,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -5766,7 +5804,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51853,42 +51891,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d34708138858d4a1"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan shares edge up as TSMC bounces back",
-   "url": "https://focustaiwan.tw/business/202610270015",
-   "published_utc": "2026-10-27T08:29:40+00:00",
-   "title_original": "Taiwan shares edge up as TSMC bounces back",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3636bbf4ed259faa"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "If AI spending slows down, South Korea's central bank warns chip exports could drop by US$100 billion | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94d25qbFZPY1hweTZEYkFzSjFnV3poNGExdVVOUDlubDY1dTNoNVZJWDh5TkFWeUFST0txY0ZJUFZ1ZE93N1AtTHRYbk9KZ2plOXhRV3VZZmszekJCMVVF?oc=5",
-   "published_utc": "2026-10-27T08:26:00+00:00",
-   "title_original": "AI支出若放緩韓央行示警晶片出口恐減千億美元| 國際",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "218c631dc8932755"
   },
   {
    "source_id": "manual_ia",
