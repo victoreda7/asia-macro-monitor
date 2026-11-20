@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T05:42:41.204195+00:00
+Última coleta: 2026-11-20T05:52:49.897879+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1049
+  🇯🇵 Japão          1050
   🇨🇳 China          906
-  🇹🇼 Taiwan         318
+  🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
+  - [japan] Why is the Japanese yen rising today?
+  - [japan] Why is the Japanese yen rising today? By Investing.com
   - [korea] Samsung Electronics Appoints New Memory-Chip Business Head
   - [japan] Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” t
   - [china] Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] China, 'de facto base interest rate' frozen for 18 months... Interest rates maintained despite sluggish domest
   - [japan] Japan Consumer Inflation Reinforces Rate-Hike Expectations — Update
   - [korea] Samsung Electronics appoints new director for its memory chip division
-  - [japan] Is the ``Mongol Empire that shocked the world'' an unexpected measure against unemployment? ...The unexpected 
-  - [japan] Japan core inflation picks up, makes case for BoJ rate hike stronger
-  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T05:42:41+00:00",
+      "published_utc": "2026-11-20T05:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
