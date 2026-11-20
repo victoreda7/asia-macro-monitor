@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T05:02:58.732259+00:00",
- "collected_at_utc": "2026-11-20T05:02:58.732259+00:00",
+ "generated_at_utc": "2026-11-20T05:12:49.267066+00:00",
+ "collected_at_utc": "2026-11-20T05:12:49.267066+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1052,
+  "japan": 1051,
   "china": 904,
   "taiwan": 318,
-  "korea": 726
+  "korea": 727
  },
- "elapsed_s": 47.5,
+ "elapsed_s": 28.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 165,
    "error": "",
-   "newest": "2026-11-20T04:50:49+00:00"
+   "newest": "2026-11-20T05:03:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-19T20:49:01+00:00"
+   "newest": "2026-11-20T05:03:24+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:50:45+00:00"
+   "newest": "2026-11-20T02:08:26+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T02:50:30+00:00"
+   "newest": "2026-11-20T05:05:36+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T11:12:01+00:00"
+   "newest": "2026-11-20T04:26:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
-   "newest": "2026-11-20T03:16:00+00:00"
+   "newest": "2026-11-20T02:51:39+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T18:37:42+00:00"
+   "newest": "2026-11-19T12:48:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T05:00:00+00:00"
+   "newest": "2026-11-20T05:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T04:36:16+00:00"
+   "newest": "2026-11-20T05:03:57+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's October soybean imports fall 23% as Brazil shipments decline",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4710BW:0-china-s-october-soybean-imports-fall-23-as-brazil-shipments-decline/",
+   "published_utc": "2026-11-20T05:11:27+00:00",
+   "title_original": "China's October soybean imports fall 23% as Brazil shipments decline",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e46222c070887b2a"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "SK Hynix's single-stock leverage product, which had raised expectations that it could double profits..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94OHNJc21nNEdpaklqYmpaLXNjUUp5YktCX1dkQTg0MjZ6LXVIZ0RnS0RhV25jNFNOWS1MekU3OXJrenZ6RWdObTZ0aG1NRnpzbFE?oc=5",
+   "published_utc": "2026-11-20T05:03:57+00:00",
+   "title_original": "SK Hynix's single-stock leverage product, which had raised expectations that it could double profits..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19a694d479916a9e"
+  },
   {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
@@ -584,8 +618,8 @@
    "id": "752219fb2b0f8832"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -598,7 +632,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1398,23 +1432,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f4534aba4a6affe9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Japan Consumer Prices Jump 0.8% In October",
-   "url": "https://www.tradingview.com/news/dpa_afx:0c284017b189c:0-japan-consumer-prices-jump-0-8-in-october/",
-   "published_utc": "2026-11-20T00:01:53+00:00",
-   "title_original": "Japan Consumer Prices Jump 0.8% In October",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a6c4e8b898487fbb"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2414,8 +2431,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -2429,7 +2446,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -2706,8 +2723,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -2721,7 +2738,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3401,8 +3418,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -3415,7 +3432,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4871,8 +4888,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더퍼블릭",
    "title_en": "Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook for a hike is also favorable.",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QV9hc2o2eElHWUFHbGhLdi03emNNYVl3OVhwRmdYQmsyMk1PcEtzaS1pOFFMaUplRTVLOTlJRkx5Q2tseG9ZQXpfTUdiQjM1ekNUcWJ5ZUJMY3ZrSldDcDRPSjVXSU5mVGRN0gFvQVVfeXFMT1Bha1BtMDRGS2VGdDFuUHlXdjVSZlZwYUdhZW1zTURyMEZNZHdPcUl4Qk5oOXlkWkJNbVhEcVpaeERYSk85cjdiam1HSmZ1UXlUaFhFc1dVTUYxNVV1N09nYlJSXzd1UUMxOTlkQTUw?oc=5",
-   "published_utc": "2026-11-18T07:07:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MNIBb0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MA?oc=5",
+   "published_utc": "2026-11-18T07:11:33+00:00",
    "title_original": "한은, 이달 기준금리 또 올리나…美 연준도 인상 전망 '우세'",
    "region": "korea",
    "topics": [
@@ -4882,7 +4899,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9883c1e475e793e0"
+   "id": "db5a2c2bb9e1ae86"
   },
   {
    "source_id": "nhk_politics",
@@ -30810,6 +30827,23 @@
    "id": "d006de6af1fe60ac"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbcc5b21551bd2ee"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
@@ -30826,23 +30860,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
-   "published_utc": "2026-11-05T08:00:00+00:00",
-   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bbcc5b21551bd2ee"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51875,23 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbe5b607785320ac"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China industrial profits rise 14.4% in September on AI demand",
-   "url": "https://www.investing.com/news/economic-indicators/china-industrial-profits-rise-144-in-september-on-ai-demand-4974109",
-   "published_utc": "2026-10-27T03:01:52+00:00",
-   "title_original": "China industrial profits rise 14.4% in September on AI demand",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eb7e969a9c6b84b9"
   },
   {
    "source_id": "manual_ia",

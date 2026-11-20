@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T05:02:58.732259+00:00
+Última coleta: 2026-11-20T05:12:49.267066+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1052
+  🇯🇵 Japão          1051
   🇨🇳 China          904
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  726
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [china] China's October soybean imports fall 23% as Brazil shipments decline
+  - [korea] SK Hynix's single-stock leverage product, which had raised expectations that it could double profits..
   - [japan] Balance of the Fiscal Loan Fund (End of October 2026)
   - [china] China's refined copper imports set to jump in 2027, traders and analysts say
   - [korea] Samsung Management Shuffle Aimed at Strengthening Competitiveness of Semiconductor Business
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix was the largest net buyer of the top 1% return on stock investment in early trading on the
   - [china] The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion 
   - [japan] BOJ December Rate Hike Looks Likely After CPI Results — Market Talk
-  - [japan] Japan's core inflation rose to 2.2% in October, strengthening the Bank of Japan's expectations for a rate hike
-  - [china] CHINA PBOC CONDUCTS CNY379.5 BLN VIA O/N REVERSE REPO FRI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T05:02:58+00:00",
+      "published_utc": "2026-11-20T05:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
