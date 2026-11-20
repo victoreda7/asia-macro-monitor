@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T20:02:43.536131+00:00
+Última coleta: 2026-11-20T20:16:40.688456+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
+  🇯🇵 Japão          1037
   🇨🇳 China          921
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  725
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar weaker as Fed-fueled rally stalls; lower US yields help yen
+  - [china] Trump Says Jensen Huang Made 'Bad Decisions,' Vows China to Get Old Chips Only
   - [china] Trump says US wants only older chips sold to China
   - [china] U.S. Cleared Nearly 880,000 AI Chips for Chinese Buyers
   - [china] Trump: we want only older chips to China
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan-Chile Summit: Cooperation to maintain and strengthen international order based on the rule of law
   - [korea] SK Hynix to become Kioxia's largest shareholder after bond conversion
   - [taiwan] Central Bank: Major export manufacturers did not hesitate to sell, and the net foreign exchange sales of the t
-  - [china] China’s rare earth magnet exports to US and EU fall after September rebound
-  - [japan] Japan-Peru summit meeting agrees on cooperation for stable supply of important minerals
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T20:02:43+00:00",
+      "published_utc": "2026-11-20T20:16:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
