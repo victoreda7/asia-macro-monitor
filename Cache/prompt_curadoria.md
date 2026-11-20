@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T01:42:57.560805+00:00
+Última coleta: 2026-11-20T01:52:50.635357+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1040
-  🇨🇳 China          902
+  🇯🇵 Japão          1039
+  🇨🇳 China          903
   🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix was the largest net buyer of the top 1% return on stock investment in early trading on the
+  - [china] The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion 
+  - [japan] BOJ December Rate Hike Looks Likely After CPI Results — Market Talk
   - [china] CHINA PBOC CONDUCTS CNY379.5 BLN VIA O/N REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7131 FRI VS 6.7128
   - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT INFLATION EDGES UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS, LEADING OVERALL ENERGY COS
   - [japan] JAPAN OCT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.2% Y/Y, 55TH STRAIGHT RISE (SEPT +2.4%); MEDIAN FORECAST +2
   - [japan] JAPAN OCT TOTAL CPI +2.3% Y/Y, 62ND STRAIGHT RISE (SEPT +2.1%); MEDIAN FORECAST +2.6%
-  - [japan] JAPAN OCT CORE CPI (EXCLUDING FRESH FOOD) +2.2% Y/Y, 62ND STRAIGHT RISE (SEPT +2.1%); MEDIAN FORECAST +2.4%
-  - [japan] Japan Oct core CPI rises 2.2% yr/yr
-  - [korea] ‘Strong dollar’ appeared on the CSAT… The exchange rate rises and the correct answer is 'number 1'
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T01:42:57+00:00",
+      "published_utc": "2026-11-20T01:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

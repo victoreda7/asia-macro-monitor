@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T01:42:57.560805+00:00",
- "collected_at_utc": "2026-11-20T01:42:57.560805+00:00",
+ "generated_at_utc": "2026-11-20T01:52:50.635357+00:00",
+ "collected_at_utc": "2026-11-20T01:52:50.635357+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1040,
-  "china": 902,
+  "japan": 1039,
+  "china": 903,
   "taiwan": 320,
   "korea": 738
  },
- "elapsed_s": 45.2,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T01:35:35+00:00"
+   "newest": "2026-11-20T01:47:59+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
-   "newest": "2026-11-20T01:34:08+00:00"
+   "newest": "2026-11-20T01:43:35+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:32:09+00:00"
+   "newest": "2026-11-19T23:31:26+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T01:42:12+00:00"
+   "newest": "2026-11-20T01:52:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T17:30:55+00:00"
+   "newest": "2026-11-19T20:28:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-20T01:12:04+00:00"
+   "newest": "2026-11-20T01:41:41+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,19 +331,72 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T00:25:45+00:00"
+   "newest": "2026-11-20T01:45:56+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 30,
+   "count": 25,
    "error": "",
-   "newest": "2026-11-20T00:13:51+00:00"
+   "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "SK Hynix was the largest net buyer of the top 1% return on stock investment in early trading on the",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gd2FRUWZlR0pocjZTeW0zd29pM1NmQmI1UFFyNkZmMHl0UHBmQ3FFUk5NQk5XMGFzbThVWlFLejY2aTZNamE5dGtCaGM0TXc?oc=5",
+   "published_utc": "2026-11-20T01:43:37+00:00",
+   "title_original": "SK Hynix was the largest net buyer of the top 1% return on stock investment in early trading on the",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6546a867e71d3d5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion yuan in a single day",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fNEp5a3BlM25Hd2I0V0pPbTdjNkhfbS00RGF1Rlo1ejZ4TzFKRTI3TnB4WHg0QTAxalQzYVlLbjlEMFFETkZIdE4wTlNxeGVqbDJTdzZ0SmdkdE5ta2ttZWJ3?oc=5",
+   "published_utc": "2026-11-20T01:43:35+00:00",
+   "title_original": "央行开展3795亿元隔夜逆回购 单日净回笼6880亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f12b12108dabe43a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ December Rate Hike Looks Likely After CPI Results — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261119011350:0-boj-december-rate-hike-looks-likely-after-cpi-results-market-talk/",
+   "published_utc": "2026-11-20T01:43:00+00:00",
+   "title_original": "BOJ December Rate Hike Looks Likely After CPI Results — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1a9e74266f1854e7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -1051,23 +1104,6 @@
    "id": "1ceba0afcba51808"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "published_utc": "2026-11-19T23:05:56+00:00",
-   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "19bf7167e379c22a"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "US approved sale of almost 900,000 AI chips to China in six months",
@@ -1704,8 +1740,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -1719,7 +1755,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -1979,8 +2015,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1994,7 +2030,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2674,8 +2710,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2688,7 +2724,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3007,6 +3043,23 @@
    "id": "1d7f508cc40d43ae"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published_utc": "2026-11-19T00:14:56+00:00",
+   "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "19bf7167e379c22a"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "JAPAN JULY-SEPT CORE MACHINE ORDERS NON-MANUFACTURING SECTOR -0.8% Q/Q, 2ND STRAIGHT QUARTER FALL VS. -2.3% IN APR-JUNE",
@@ -3158,24 +3211,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f9d1f1e8c938658"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "nhk_politics",
@@ -3469,6 +3504,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -4127,8 +4180,8 @@
    "source_id": "gn_kr_bok",
    "source_name": "더퍼블릭",
    "title_en": "Will the Bank of Korea raise the benchmark interest rate again this month? The US Federal Reserve's outlook for a hike is also favorable.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MNIBb0FVX3lxTE9QYWtQbTA0RktlRnQxblB5V3Y1UmZWcGFHYWVtc01EcjBGTWR3T3FJeEJOaDl5ZFpCTW1YRHFaWnhEWEpPOXI3YmptR0pmdVF5VGhYRXNXVU1GMTVVdTdPZ2JSUl83dVFDMTk5ZEE1MA?oc=5",
-   "published_utc": "2026-11-18T07:11:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43QV9hc2o2eElHWUFHbGhLdi03emNNYVl3OVhwRmdYQmsyMk1PcEtzaS1pOFFMaUplRTVLOTlJRkx5Q2tseG9ZQXpfTUdiQjM1ekNUcWJ5ZUJMY3ZrSldDcDRPSjVXSU5mVGRN0gFvQVVfeXFMT1Bha1BtMDRGS2VGdDFuUHlXdjVSZlZwYUdhZW1zTURyMEZNZHdPcUl4Qk5oOXlkWkJNbVhEcVpaeERYSk85cjdiam1HSmZ1UXlUaFhFc1dVTUYxNVV1N09nYlJSXzd1UUMxOTlkQTUw?oc=5",
+   "published_utc": "2026-11-18T07:07:05+00:00",
    "title_original": "한은, 이달 기준금리 또 올리나…美 연준도 인상 전망 '우세'",
    "region": "korea",
    "topics": [
@@ -4138,7 +4191,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "db5a2c2bb9e1ae86"
+   "id": "9883c1e475e793e0"
   },
   {
    "source_id": "nhk_politics",
@@ -11821,9 +11874,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "东方财富",
    "title_en": "The central bank reduced its supply and continued the 6-month buyout reverse repurchase agency: curbing the downward trend of funding rates",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMjJxRmQweTZWU0xTejRKLXZYQlBDNFNRV3lPeUlucHByeVFENWFFWDZ4dmhrYWw4dHBCUlVrbkdNRkFuVGFCVlRwcmJ3ZDhrNHRTR0NZaTljbEpIU29LZg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rdlJzcVF0NUNzd1VucG1FLW9INm5uQVZtYjItSjY5U3Z1QjVvWjlXSzdTWWJ2ajVGYzVIQThhbzZhZVJaTndyQ29nV3dRNkhwUUZFdm94R3I0aTNJUnNXUUh6Z1VQdw?oc=5",
    "published_utc": "2026-11-14T03:06:40+00:00",
    "title_original": "央行缩量续作6个月期买断式逆回购 机构：遏制资金利率下行势头",
    "region": "china",
@@ -11834,7 +11887,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4fb5a23aa9509610"
+   "id": "71cf3b72bd07dffa"
   },
   {
    "source_id": "tradingview_live",
@@ -30066,6 +30119,23 @@
    "id": "d006de6af1fe60ac"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbcc5b21551bd2ee"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
@@ -30082,23 +30152,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
-   "published_utc": "2026-11-05T08:00:00+00:00",
-   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bbcc5b21551bd2ee"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51845,57 +51898,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3bcde079de40ac48"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics and SK Hynix, which are set to announce their earnings this week, are expected t..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmbE8yTnoydTgzeVpRRER3Wk5nU3RFZ05iVHlGSEozUUdRb3lJZnpkU3phYlgwb2hwNzU1UE42OW5fa2F1UzJHUWRVaEstbW8?oc=5",
-   "published_utc": "2026-10-26T21:54:09+00:00",
-   "title_original": "Samsung Electronics and SK Hynix, which are set to announce their earnings this week, are expected t..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "137a31a244c6ce80"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "Preview: Forecasters See Japanese Retail Sales Up Again in September with Boost from Autos, Department Store Sales",
-   "url": "https://www.tradingview.com/news/macenews:48e6bdeb8094b:0-preview-forecasters-see-japanese-retail-sales-up-again-in-september-with-boost-from-autos-department-store-sales/",
-   "published_utc": "2026-10-26T21:50:00+00:00",
-   "title_original": "Preview: Forecasters See Japanese Retail Sales Up Again in September with Boost from Autos, Department Store Sales",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "49c07b6a88ae7eb0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "Preview: Forecasters See Japan Industrial Production Lifted Again By AI Buildout in September",
-   "url": "https://www.tradingview.com/news/macenews:c0cf3ee3b094b:0-preview-forecasters-see-japan-industrial-production-lifted-again-by-ai-buildout-in-september/",
-   "published_utc": "2026-10-26T21:40:00+00:00",
-   "title_original": "Preview: Forecasters See Japan Industrial Production Lifted Again By AI Buildout in September",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7022ec3e43dd78b6"
   },
   {
    "source_id": "manual_ia",
