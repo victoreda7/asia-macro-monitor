@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T13:42:42.376863+00:00
+Última coleta: 2026-11-20T13:52:51.230885+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1042
-  🇨🇳 China          911
-  🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  729
+  🇨🇳 China          913
+  🇹🇼 Taiwan         317
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [china] USTR GREER Q&A/BBG: NO EXTENTION YET OF JAN 10 DEADLINE FOR TRADE TRUCE W/CHINA; DEPENDS ON RARE EARTHS TRADE;
+  - [china] USTR GREER Q&A/BBG: PRESIDENT TRUMP RESOLVES INTERNAL ADMINISTRATION DISPUTES OVER CHIP EXPORT RESTRICTIONS VS
+  - [china] USTR GREER Q&A/BBG: CHINA ALWAYS LIKES TO TAKE SOME RETALIATORY ACTION VS NEW SEMICONDUCTOR EXPORT RESTRICTION
   - [china] US-China-Russia summit “symbolizes changes in the international order” World Impact on Japan
   - [japan] Yomiuri: Japan Tobacco Projects 724 Billion Yen Net Loss After Losing Control of Russian Units
   - [taiwan] October export orders hit record US$123.82 billion on AI demand
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's January-October government land sales revenue down 25.8% Y/Y
   - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
   - [korea] As the U.S. government strengthens export controls on consignment production of high-tech semiconduc..
-  - [korea] The Korean won is expected to strengthen as demand to convert the dollar earned during the semicondu..
-  - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
-  - [korea] Shim Jae-bok passed away, Sung Won-won's husband, Shim Won-bo (team leader of Geumho Construction'..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T13:42:42+00:00",
+      "published_utc": "2026-11-20T13:52:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
