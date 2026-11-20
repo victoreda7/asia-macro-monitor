@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T08:12:47.234216+00:00
+Última coleta: 2026-11-20T08:22:41.955046+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          912
+  🇨🇳 China          911
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  735
+  🇰🇷 Coreia do Sul  736
 
 ## O que já está no feed (não repita)
 
+  - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
+  - [japan] Yomiuri: Japan's MS&AD to Merge Life Insurance Subsidiaries
   - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
   - [china] Factbox-Global investment banks see Chinese yuan’s gradual appreciation extending into 2027
   - [japan] House of Councilors Special Committee Local Hearing: Consumption tax reduction “Support for local governments,
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hik
   - [japan] Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high
   - [china] China's October soybean imports fall 23% as Brazil shipments decline
-  - [korea] SK Hynix's single-stock leverage product, which had raised expectations that it could double profits..
-  - [japan] Balance of the Fiscal Loan Fund (End of October 2026)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T08:12:47+00:00",
+      "published_utc": "2026-11-20T08:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
