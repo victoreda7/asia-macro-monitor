@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T08:42:41.429174+00:00
+Última coleta: 2026-11-20T08:52:42.337487+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
@@ -17,6 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
+  - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
+  - [china] Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
   - [japan] Yomiuri: Japan's MS&AD to Merge Life Insurance Subsidiaries
   - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Why is the Japanese yen rising today? By Investing.com
   - [japan] Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” t
   - [china] Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen
-  - [korea] The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hik
-  - [japan] Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high
-  - [china] China's October soybean imports fall 23% as Brazil shipments decline
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T08:42:41+00:00",
+      "published_utc": "2026-11-20T08:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
