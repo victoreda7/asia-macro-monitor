@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T07:52:41.964422+00:00
+Última coleta: 2026-11-20T08:03:35.049837+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          910
-  🇹🇼 Taiwan         318
+  🇨🇳 China          911
+  🇹🇼 Taiwan         317
   🇰🇷 Coreia do Sul  736
 
 ## O que já está no feed (não repita)
 
+  - [japan] House of Councilors Special Committee Local Hearing: Consumption tax reduction “Support for local governments,
+  - [korea] Kospi tanks to 10-month low on China chip fears; Investors hunt for bottom
+  - [china] Global investment banks see Chinese yuan's gradual appreciation extending into 2027
   - [korea] SK Hynix: To Hold 14.1% Stake in Kioxia Through SPC After CB Conversion
   - [korea] SK Hynix: SPC-Invested CBs to Convert Into 129,000 Kioxia Shares
   - [korea] SK Hynix: Hold Kioxia Stake Through Special Purpose Company
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's refined copper imports set to jump in 2027, traders and analysts say
   - [china] China Has Capacity, But Maybe Not the Will to Boost Fuel Exports
   - [china] PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC
-  - [korea] Samsung Management Shuffle Aimed at Strengthening Competitiveness of Semiconductor Business
-  - [china] China home prices seen falling again in 2027, Reuters poll shows
-  - [taiwan] Why is TSMC stock sliding today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T07:52:42+00:00",
+      "published_utc": "2026-11-20T08:03:35+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
