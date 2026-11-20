@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-20T02:42:40.774480+00:00",
- "collected_at_utc": "2026-11-20T02:42:40.774480+00:00",
+ "generated_at_utc": "2026-11-20T02:52:40.545435+00:00",
+ "collected_at_utc": "2026-11-20T02:52:40.545435+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1046,
+  "japan": 1048,
   "china": 902,
   "taiwan": 320,
-  "korea": 732
+  "korea": 730
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T02:20:31+00:00"
+   "newest": "2026-11-20T02:48:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-20T02:28:57+00:00"
+   "newest": "2026-11-20T02:50:30+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T11:25:28+09:00"
+   "newest": "2026-11-20T11:48:19+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-20T01:43:35+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-20T02:42:10+00:00"
+   "newest": "2026-11-20T02:43:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T23:28:21+00:00"
+   "newest": "2026-11-19T20:28:48+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,19 +331,37 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T02:05:20+00:00"
+   "newest": "2026-11-20T01:45:56+00:00"
   },
   {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-11-20T00:04:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "[Today's Oha Biz Friday, November 20th] Full-scale discussion on tax reform begins",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78814",
+   "published_utc": "2026-11-20T02:41:41+00:00",
+   "title_original": "【きょうのおはBiz 11月20日(金)】税制改正 本格議論スタート",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc6de3a90b54bb77"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -2121,6 +2139,23 @@
    "id": "0790deafc665eae8"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) 98 test-takers caught cheating on college entrance exam under tightened measures following AI cheating scandal",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IdnFSSVBGTTBUQTkwcURiRTZzMms4cjlNWXR2bngzWEg4VFpMU3hFNWRoV0RldjNYaFh2TDRPeDlfbHVYTjhhakZuWWh3UzFRS2FLSUVNWWYxdw?oc=5",
+   "published_utc": "2026-11-19T10:42:04+00:00",
+   "title_original": "(LEAD) 98 test-takers caught cheating on college entrance exam under tightened measures following AI cheating scandal",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b660f2a14f71547a"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
@@ -2971,6 +3006,23 @@
   {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
+   "title_en": "JT to post 1.3 trillion yen loss on Russian business | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0MVFUZi05V2E3RlJXVTdwTGZSQ2h0eHI0V3c5SUU0SzZ1Z2k3Vy1wV001elIxektlTnF6eHM4U3JWVzRCZERKeFlSVUlUYnhYajhVeEw0VmhvT3BMZm9jVm9jcw?oc=5",
+   "published_utc": "2026-11-19T03:35:41+00:00",
+   "title_original": "JT to post 1.3 trillion yen loss on Russian business | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "890522d88018cea8"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
    "title_en": "JT to post 1.3 trillion yen loss on Russian business",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0MVFUZi05V2E3RlJXVTdwTGZSQ2h0eHI0V3c5SUU0SzZ1Z2k3Vy1wV001elIxektlTnF6eHM4U3JWVzRCZERKeFlSVUlUYnhYajhVeEw0VmhvT3BMZm9jVm9jcw?oc=5",
    "published_utc": "2026-11-19T03:35:41+00:00",
@@ -3421,6 +3473,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -3712,24 +3782,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -51846,58 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "405335ae84add8a2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "월요신문",
-   "title_en": "Bank of Korea appoints Director of Monetary Policy Bureau Choi Chang-ho as Assistant Vice Governor for Monetary Policy and Markets",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVlNwR1ppcWc2VDEwa1lNWTRvcUxrSkVsMmp1T1RiYm54dzRvNmxrUW1ZWHZVNXZpUkU5NTdfSnMyZVlRVXp2THdDaG4xMkpuRDZValZnOVNna2x5ZkdJVVNTYWt6X3hTa2c?oc=5",
-   "published_utc": "2026-10-27T00:38:22+00:00",
-   "title_original": "한은, 통화정책·시장 담당 부총재보에 최창호 통화정책국장 임명",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "950b8a7116cc93bf"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea’s economy grows 1% in Q3, beating BOK forecast",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iTGgwWHlxWl9yblZJblNYSmllMmlXLTRaZXA2TDhuV0dwbk1pRlNiQW10NkdQRk4xUzZuYThRSk92WEtXN0NweC1RaHVfZDQ3NEFxVDN4Qk1nVzZXTkZfZE1WbVl1ci1UN2c?oc=5",
-   "published_utc": "2026-10-27T00:34:49+00:00",
-   "title_original": "South Korea’s economy grows 1% in Q3, beating BOK forecast",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8df68311dc346dfe"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRNlJpc2hSOFotSVRMNnM4VlVZQUxmN0ZERjdYT0JMOWtFNC1rQngyN05Rbzg0ZFRCdlBVU0htYjdhWGRYa0VScmJXV3ZUWDZDeFE?oc=5",
-   "published_utc": "2026-10-27T00:20:57+00:00",
-   "title_original": "Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "af9f934eb206b3ca"
   },
   {
    "source_id": "manual_ia",
