@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T01:03:43.969775+00:00
+Última coleta: 2026-11-20T01:12:42.586889+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
@@ -17,10 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] Stock price temporarily fell by more than 2,700 yen due to concerns about the future of the AI ​​and semicondu
+  - [japan] Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semicondu
   - [japan] Consumer price index rose 2.2% in October
   - [korea] Protec Co Wins 23.4 Billion Won Order From Samsung Electronics
-  - [japan] BOJ's ambiguity on rate hike path could tempt yen bears
+  - [japan] Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears
   - [japan] Interest Rate (November 19 2026)
   - [japan] Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)
   - [japan] Japan's finance minister says JT dividend cut will not affect state budget plan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T01:03:44+00:00",
+      "published_utc": "2026-11-20T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

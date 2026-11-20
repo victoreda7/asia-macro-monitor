@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-20T01:03:43.969775+00:00",
- "collected_at_utc": "2026-11-20T01:03:43.969775+00:00",
+ "generated_at_utc": "2026-11-20T01:12:42.586889+00:00",
+ "collected_at_utc": "2026-11-20T01:12:42.586889+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 321,
   "korea": 738
  },
- "elapsed_s": 91.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-20T00:42:25+00:00"
+   "newest": "2026-11-20T01:06:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-20T00:19:18+00:00"
+   "newest": "2026-11-20T00:48:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-11-19T18:05:37+00:00"
+   "error": "parada desde 12/08/2026",
+   "newest": "2026-08-12T07:00:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-20T09:49:54+09:00"
+   "newest": "2026-11-20T10:03:02+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-20T09:00:00+09:00"
+   "newest": "2026-11-20T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T20:32:17+00:00"
+   "newest": "2026-11-20T00:25:45+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -347,10 +347,10 @@
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
-   "title_en": "Stock price temporarily fell by more than 2,700 yen due to concerns about the future of the AI ​​and semiconductor industry",
+   "title_en": "Stock price temporarily fell by more than 2,800 yen due to concerns about the future of the AI ​​and semiconductor industry",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
-   "published_utc": "2026-11-20T00:49:54+00:00",
-   "title_original": "株価 一時2700円超の下落 AI・半導体業界の先行き懸念で",
+   "published_utc": "2026-11-20T01:03:02+00:00",
+   "title_original": "株価 一時2800円超の下落 AI・半導体業界の先行き懸念で",
    "region": "japan",
    "topics": [
     "fx",
@@ -360,7 +360,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8441ac8f4f80c4ed"
+   "id": "1434bc412f53786d"
   },
   {
    "source_id": "yahoo_business",
@@ -397,12 +397,12 @@
    "id": "f0a84e80757f3d88"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ's ambiguity on rate hike path could tempt yen bears",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46Z0C1:0-boj-s-ambiguity-on-rate-hike-path-could-tempt-yen-bears/",
-   "published_utc": "2026-11-20T00:43:43+00:00",
-   "title_original": "BOJ's ambiguity on rate hike path could tempt yen bears",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears",
+   "url": "https://www.investing.com/news/economy-news/analysisbojs-ambiguity-on-rate-hike-path-could-tempt-yen-bears-5040426",
+   "published_utc": "2026-11-20T00:48:23+00:00",
+   "title_original": "Analysis-BOJ’s ambiguity on rate hike path could tempt yen bears",
    "region": "japan",
    "topics": [
     "monetary",
@@ -410,9 +410,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "b4355bb8bd7d0286"
+   "id": "5c5587892a6fbf72"
   },
   {
    "source_id": "mof_jp",
@@ -1515,8 +1515,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:32+00:00",
@@ -1530,7 +1530,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -1808,8 +1808,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -1823,7 +1823,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2503,8 +2503,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:58+00:00",
@@ -2517,7 +2517,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10253,7 +10253,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -10264,7 +10264,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "350419b2852113c9"
+   "id": "5eecd2256cf4eacd"
   },
   {
    "source_id": "gn_tw_digitimes",
