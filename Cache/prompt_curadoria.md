@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T09:22:41.130089+00:00
+Última coleta: 2026-11-20T09:32:57.537839+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          911
+  🇨🇳 China          912
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  735
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [japan] High prices, ice cream prices going up, pizza shops selling low-priced products, farmers screaming
   - [korea] From robot pets to virtual livers: Apple Developer Academy showcases projects at Postech
   - [china] China's January-October fiscal revenues up 4.9% y/y
   - [taiwan] TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption
   - [china] Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say
+  - [china] China's January-October government land sales revenue down 25.8% Y/Y
   - [taiwan] Taiwan October export orders surge by fastest clip on record thanks to AI demand
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [china] US AI chip curbs hit China tech stocks, spur self-sufficiency push
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Selling wave in chip stocks leads Taiwan to worst week since 1990; Asian stock markets fall
   - [china] Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin su
   - [korea] Samsung Electronics Appoints New Memory-Chip Business Head
-  - [japan] JGB yields track US peers lower; data signals foreign investors lead yield moves
-  - [taiwan] TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T09:22:41+00:00",
+      "published_utc": "2026-11-20T09:32:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
