@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T03:22:42.767591+00:00
+Última coleta: 2026-11-20T03:32:42.978405+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1048
-  🇨🇳 China          902
+  🇯🇵 Japão          1051
+  🇨🇳 China          901
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Core CPI Likely to Accelerate to 2.7% in November — Market Talk
+  - [japan] Finance Minister Katayama: JT’s huge loss “will not affect growth investment”
+  - [japan] The consumer price index rose 2.2% in October, exceeding the Bank of Japan's 2% target for the second consecut
   - [japan] Yen Strengthens as Risk Aversion Takes Hold — Market Talk
   - [china] China's AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. — WSJ
   - [taiwan] TSMC Stock Falls 5.0%, MediaTek Drops 9.1%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics appoints new head for its memory chip business
   - [japan] Interest Rate (November 19 2026)
   - [japan] Bank of Japan: Reconsidering the logic of interest rate hikes (current events commentary by NRI researchers)
-  - [japan] Japan's finance minister says JT dividend cut will not affect state budget plan
-  - [korea] Producer prices drop in Oct. on lower food prices
-  - [korea] “The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T03:22:43+00:00",
+      "published_utc": "2026-11-20T03:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
