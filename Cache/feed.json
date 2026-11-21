@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-21T00:32:42.557762+00:00",
- "collected_at_utc": "2026-11-21T00:32:42.557762+00:00",
+ "generated_at_utc": "2026-11-21T00:42:41.667142+00:00",
+ "collected_at_utc": "2026-11-21T00:42:41.667142+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 317,
   "korea": 725
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T09:18:25+00:00"
+   "newest": "2026-11-20T09:00:04+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-21T00:24:35+00:00"
+   "newest": "2026-11-21T00:36:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:34:50+00:00"
+   "newest": "2026-11-20T13:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-11-20T18:42:59+00:00"
+   "error": "parada desde 10/08/2026",
+   "newest": "2026-08-10T07:00:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T16:00:00+00:00"
+   "newest": "2026-11-19T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-21T00:30:00+00:00"
+   "newest": "2026-11-21T00:40:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-20T22:53:33+00:00"
+   "newest": "2026-11-21T00:37:31+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T23:52:00+00:00"
+   "newest": "2026-11-20T23:36:08+00:00"
   }
  ],
  "falhas_seguidas": {},
@@ -9317,6 +9317,24 @@
    "id": "f50a5bc4f4b77e9d"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "센머니",
+   "title_en": "Bank of Korea weighs additional interest rate hike in November… U.S. tightening and increasing price pressures",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01U1hqMlhma3NXQWVSLUFKcUJpQ25CVFZvYTZyMjNsTl9wc1pjWnVOb2JaWC1QLW9paXdNX1NNM2YyVk80bk9xb01fRWtWYkpfYzhXN2ZmT0YzUWQzbmdWNVZSRVJXU1Q0ekoyUQ?oc=5",
+   "published_utc": "2026-11-17T04:16:00+00:00",
+   "title_original": "한은, 11월 추가 금리인상 무게…美 긴축·물가 압박 가중",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64b7e449495d5e7a"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes",
@@ -11677,24 +11695,6 @@
    "id": "a56940549e597549"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "센머니",
-   "title_en": "Bank of Korea weighs additional interest rate hike in November… U.S. tightening and increasing price pressures",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01U1hqMlhma3NXQWVSLUFKcUJpQ25CVFZvYTZyMjNsTl9wc1pjWnVOb2JaWC1QLW9paXdNX1NNM2YyVk80bk9xb01fRWtWYkpfYzhXN2ZmT0YzUWQzbmdWNVZSRVJXU1Q0ekoyUQ?oc=5",
-   "published_utc": "2026-11-16T03:40:00+00:00",
-   "title_original": "한은, 11월 추가 금리인상 무게…美 긴축·물가 압박 가중",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "64b7e449495d5e7a"
-  },
-  {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
    "title_en": "Auction Result of 10-Year Inflation-Indexed JGBs on November 16, 2026",
@@ -13974,7 +13974,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "新浪财经_金融信息服务商",
    "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Z0stdDkxUnBRek9LNmZXaktGTld6ek12UEZTRmVfeXRrUXBKMVcxcGdTY3NlV2hDRnV0clU4Sy1WcUFXRmttaG5BQUY2cWYwbHpWVmhOZnBPUFdwX1YzRXN1eHJQSHRGcE9Jc0ZSeHMyeXlXZ3VONw?oc=5",
    "published_utc": "2026-11-14T05:11:21+00:00",
@@ -37243,24 +37243,6 @@
    "id": "dce39f27668e226e"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWY4SEtjZTFsSVZGZWJIc1gtTlZ5bXNPd0cwVXNEUnRLVDg1Ym91VGpsRk9TRE02ZlJERG81ZnZLSnFKcUFmbTgwQ1IwQlRBN3NHdEJfY1JhQzBDMzl3cU1qNlQyVXExSDF3M2tNNWhkbVN4T0lJMlljeWt0S25jdTg5WmRocGowZzA5OGlPSll5TXc3cVQyMW9pX3gxQVJQaGZxVzVFbU83eS1KNnQ2NVlkMlFGaU11eXNKR3lXb3k?oc=5",
-   "published_utc": "2026-11-03T08:04:00+00:00",
-   "title_original": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b551c5442e851f52"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "Key facts: NVIDIA China Rule; Melius Cuts Target; U.S. Chip Curbs",
@@ -37276,6 +37258,24 @@
    "live_wire": true,
    "manual": false,
    "id": "774bd0b6711100a0"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWY4SEtjZTFsSVZGZWJIc1gtTlZ5bXNPd0cwVXNEUnRLVDg1Ym91VGpsRk9TRE02ZlJERG81ZnZLSnFKcUFmbTgwQ1IwQlRBN3NHdEJfY1JhQzBDMzl3cU1qNlQyVXExSDF3M2tNNWhkbVN4T0lJMlljeWt0S25jdTg5WmRocGowZzA5OGlPSll5TXc3cVQyMW9pX3gxQVJQaGZxVzVFbU83eS1KNnQ2NVlkMlFGaU11eXNKR3lXb3k?oc=5",
+   "published_utc": "2026-11-03T08:00:00+00:00",
+   "title_original": "China to Raise Forex Deposit Reserve Requirement to Curb Yuan’s Rally",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b551c5442e851f52"
   },
   {
    "source_id": "gn_kr_mk",
@@ -39393,6 +39393,23 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
+   "title_en": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbllyZFBJUG1iem81UlUzenBjdmd4NVpwMlRXT0UzUENaTHhWdTg4RHd1OFduZGhnRTJCd1VNby1lWTJUSGMydXFRYS1qYUpIZDBkck1PZW1mUUpEYVY1cXZsQlhUYzBVQzhrY1FhNGN3M0FzZ1lNNUNDMnhHWVMwMFlzd0J3U1NTOHNVRjZNQWpyOEVZWC1iaThwQmlWcmM?oc=5",
+   "published_utc": "2026-11-02T08:00:00+00:00",
+   "title_original": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d26f9da1ae6f1354"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
    "title_en": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
    "published_utc": "2026-11-02T08:00:00+00:00",
@@ -40296,23 +40313,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cdea8672f307ea0e"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbllyZFBJUG1iem81UlUzenBjdmd4NVpwMlRXT0UzUENaTHhWdTg4RHd1OFduZGhnRTJCd1VNby1lWTJUSGMydXFRYS1qYUpIZDBkck1PZW1mUUpEYVY1cXZsQlhUYzBVQzhrY1FhNGN3M0FzZ1lNNUNDMnhHWVMwMFlzd0J3U1NTOHNVRjZNQWpyOEVZWC1iaThwQmlWcmM?oc=5",
-   "published_utc": "2026-11-02T02:20:24+00:00",
-   "title_original": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d26f9da1ae6f1354"
   },
   {
    "source_id": "korea_herald_biz",
