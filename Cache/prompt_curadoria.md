@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T06:32:40.699033+00:00
+Última coleta: 2026-11-21T06:42:41.094282+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
   🇨🇳 China          919
-  🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  725
+  🇹🇼 Taiwan         323
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's Q3 current account surplus hits 2nd highest due to global AI demand
   - [korea] SoftBank's Son studied the possibility of a $1 trillion acquisition of SK Hynix, according to The Information
   - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
   - [korea] “Masayoshi Son Mulls Acquiring SK hynix for 1,346 Trillion Won...Asks Wall Street About Financing Plan”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Commerce Secretary, Top Officials Ignored Communications About Nvidia Chips Being Diverted to China, Cotton Sa
   - [china] Sen. Tom Cotton: Commerce Department Ignored His Warnings About Megaspeed, China Chip Diversion — WSJ
   - [china] Top Republican Senator Says Lutnick Ignored His China Chip Warnings — WSJ
-  - [taiwan] Seven funds trim positions in Taiwan Semiconductor in Q3
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T06:32:40+00:00",
+      "published_utc": "2026-11-21T06:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
