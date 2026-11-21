@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-21T17:22:41.341738+00:00",
- "collected_at_utc": "2026-11-21T17:22:41.341738+00:00",
+ "generated_at_utc": "2026-11-21T17:32:44.453209+00:00",
+ "collected_at_utc": "2026-11-21T17:32:44.453209+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1035,
-  "china": 924,
-  "taiwan": 326,
+  "china": 925,
+  "taiwan": 325,
   "korea": 715
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-21T17:01:05+00:00"
+   "newest": "2026-11-21T17:12:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-21T15:30:20+00:00"
+   "newest": "2026-11-21T17:12:18+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T13:40:00+00:00"
+   "newest": "2026-11-20T13:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T11:40:18+00:00"
+   "newest": "2026-11-20T15:13:44+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-21T17:12:15+00:00"
+   "newest": "2026-11-21T17:27:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -360,6 +360,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b0e3e54a2b00e8ea"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Treasury secretary rules out further curbs on Nvidia chip sales to China",
+   "url": "https://www.tradingview.com/news/seekingalpha:773ff779f094b:0-treasury-secretary-rules-out-further-curbs-on-nvidia-chip-sales-to-china/",
+   "published_utc": "2026-11-21T16:21:08+00:00",
+   "title_original": "Treasury secretary rules out further curbs on Nvidia chip sales to China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "44ccf56ef78d7da8"
   },
   {
    "source_id": "investing_econ",
@@ -5794,24 +5811,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -6103,6 +6102,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -12492,7 +12509,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93LUd5YmFzQlNjYlJ1dUNhX0FzLVBTakZYWnh1elR0ck1lUmdlMm1oM0stOGNEajBvcEFzRWpGS3FrOVo1Z3R0bWtmWE82c1hXT1d5YjRxQ2ZVQXR4WHBBclVMM05YZTl1NkFGb3RxSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXV0YUxiVHlvczU4VURSVnNWcERfdzhPUFdqT0NFdG9sRERhYjRySUJqOE9UNWFmRkZ4S0ItWnhnNmtXLVJWN0hyc2lIc0xJVWMtMEVBaU9JbEpnTmp5Zy14a0V0ZE5TaE5wSXRleElsNGkz?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
    "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
    "region": "china",
@@ -12503,7 +12520,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b2fc405e546d1775"
+   "id": "f1e42f8f1abef9e3"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -22058,6 +22075,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b5ef8782a8058002"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Seoul shares open lower on inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wVGlrRHVJZWNMYUNWblZtbW9LeXJWOWV6MGxSZVFBYW01ZkI4dmtBczkyV01YdnMtRlJuRmpyalc1aEJFSE1iVTB6TXdhSXYyY3JWT2xRS2NlUQ?oc=5",
+   "published_utc": "2026-11-11T00:01:22+00:00",
+   "title_original": "(URGENT) Seoul shares open lower on inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9df1b8776bf69883"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -32823,6 +32857,23 @@
    "id": "d006de6af1fe60ac"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbcc5b21551bd2ee"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
@@ -32839,23 +32890,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
-   "published_utc": "2026-11-05T08:00:00+00:00",
-   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bbcc5b21551bd2ee"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51866,40 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cd1b70bf6c97053a"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFhXYUNBajNVeEJtWGE1SDE3QnhsLTBLdjBXZlBudFRhbWFucWlCRnlMd1NxeS1ScjQ1M3JfV3VPT1N1aTlOZlhpWWFjb2FVWHhNUlpIVzFHZU84eXpaSHN2c2EzREtKWEhPRUVTcEdCeG5WNmhkLVZvRWNmSU5fMmtnSEFEWk5CMWxBNTdKT3hpVk1BdGR0RWZnVmdhWEJZemUwMw?oc=5",
-   "published_utc": "2026-10-28T00:38:20+00:00",
-   "title_original": "MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ddc9a0f499493870"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
-   "published_utc": "2026-10-28T00:22:42.375584+00:00",
-   "title_original": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c1b8f5a4ad1f015"
   },
   {
    "source_id": "manual_ia",
