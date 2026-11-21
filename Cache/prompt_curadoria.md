@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T09:02:41.132198+00:00
+Última coleta: 2026-11-21T09:12:51.197191+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
   🇨🇳 China          920
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  722
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
 
+  - [korea] [N Week] Last base interest rate increase of this year?... Digital Asset Act and Financial Reform Plan Reveale
+  - [taiwan] Ministry of Economic Affairs: The electronics industry is still confident about its prospects and exports are 
   - [taiwan] Taiwan further tightens short-selling rules after market rout
   - [korea] Samsung, SK hynix tumble as analysts split on chip outlook
   - [china] Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Ge
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] U.S. Cleared Nearly 880,000 AI Chips for Chinese Buyers
   - [china] Trump: we want only older chips to China
   - [japan] Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen
-  - [china] Senador republicano Tom Cotton diz que Lutnick ignorou alertas sobre chips para a China, reporta WSJ
-  - [china] Republican Senator Tom Cotton says Lutnick ignored his China chip warnings, WSJ reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T09:02:41+00:00",
+      "published_utc": "2026-11-21T09:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
