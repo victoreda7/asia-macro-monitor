@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-21T00:03:05.107327+00:00",
- "collected_at_utc": "2026-11-21T00:03:05.107327+00:00",
+ "generated_at_utc": "2026-11-21T00:12:42.231261+00:00",
+ "collected_at_utc": "2026-11-21T00:12:42.231261+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1039,
+  "japan": 1038,
   "china": 919,
   "taiwan": 317,
-  "korea": 725
+  "korea": 726
  },
- "elapsed_s": 44.9,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 30,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T16:00:00+00:00"
+   "newest": "2026-11-19T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-21T00:00:36+00:00"
+   "newest": "2026-11-21T00:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-21T08:30:00+09:00"
+   "newest": "2026-11-21T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -337,9 +337,9 @@
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-20T23:36:08+00:00"
+   "newest": "2026-11-20T23:52:00+00:00"
   }
  ],
  "falhas_seguidas": {},
@@ -360,6 +360,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a8624870ad7c0875"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "재경일보",
+   "title_en": "The Bank of Korea decides on the base interest rate on the 26th... Will the increase resume after two months?: Finance",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhOVVoLUl6UFV5UzNvOENjcGFEQXlET21RN1ltcVRfRV9kMXJRNGVVVVp6aURZZ0NFWVZsN2w5VUpaeEZHdW90TzZkZw?oc=5",
+   "published_utc": "2026-11-20T23:52:00+00:00",
+   "title_original": "한은 26일 기준금리 결정…두 달 만에 인상 재개할까 : 금융",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "85960c678af07d51"
   },
   {
    "source_id": "gn_kr_bok",
@@ -11940,7 +11957,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXV0YUxiVHlvczU4VURSVnNWcERfdzhPUFdqT0NFdG9sRERhYjRySUJqOE9UNWFmRkZ4S0ItWnhnNmtXLVJWN0hyc2lIc0xJVWMtMEVBaU9JbEpnTmp5Zy14a0V0ZE5TaE5wSXRleElsNGkz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93LUd5YmFzQlNjYlJ1dUNhX0FzLVBTakZYWnh1elR0ck1lUmdlMm1oM0stOGNEajBvcEFzRWpGS3FrOVo1Z3R0bWtmWE82c1hXT1d5YjRxQ2ZVQXR4WHBBclVMM05YZTl1NkFGb3RxSQ?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
    "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
    "region": "china",
@@ -11951,7 +11968,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e42f8f1abef9e3"
+   "id": "b2fc405e546d1775"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -13940,7 +13957,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
+   "source_name": "新浪财经",
    "title_en": "The central bank takes action! 200 billion yuan buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Z0stdDkxUnBRek9LNmZXaktGTld6ek12UEZTRmVfeXRrUXBKMVcxcGdTY3NlV2hDRnV0clU4Sy1WcUFXRmttaG5BQUY2cWYwbHpWVmhOZnBPUFdwX1YzRXN1eHJQSHRGcE9Jc0ZSeHMyeXlXZ3VONw?oc=5",
    "published_utc": "2026-11-14T05:11:21+00:00",
@@ -51880,24 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ff1654da14430f0"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Today's Japan-German summit meeting to confirm supply chain strengthening, etc.",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66709",
-   "published_utc": "2026-10-27T20:08:00+00:00",
-   "title_original": "きょう日独首脳会談 サプライチェーン強じん化など確認へ",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0da0aed217b949c"
   },
   {
    "source_id": "manual_ia",
