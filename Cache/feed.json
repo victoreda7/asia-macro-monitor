@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-21T14:42:41.789767+00:00",
- "collected_at_utc": "2026-11-21T14:42:41.789767+00:00",
+ "generated_at_utc": "2026-11-21T14:52:50.862593+00:00",
+ "collected_at_utc": "2026-11-21T14:52:50.862593+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,24 @@
   "taiwan": 326,
   "korea": 718
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 33.5,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -73,9 +89,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-21T14:01:00+00:00"
+   "newest": "2026-11-21T14:31:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:26:38+00:00"
+   "newest": "2026-11-20T04:26:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -172,22 +188,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-20T11:29:09+00:00"
-  },
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-21T15:08:00+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-21T17:28:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T11:35:56+00:00"
+   "newest": "2026-11-21T08:30:47+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T10:02:34+00:00"
+   "newest": "2026-11-21T14:37:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,7 +342,10 @@
    "newest": "2026-11-21T09:19:50+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "nhk_politics": 1,
+  "nhk_economy": 1
+ },
  "items": [
   {
    "source_id": "investing_econ",
@@ -12440,7 +12443,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93LUd5YmFzQlNjYlJ1dUNhX0FzLVBTakZYWnh1elR0ck1lUmdlMm1oM0stOGNEajBvcEFzRWpGS3FrOVo1Z3R0bWtmWE82c1hXT1d5YjRxQ2ZVQXR4WHBBclVMM05YZTl1NkFGb3RxSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXV0YUxiVHlvczU4VURSVnNWcERfdzhPUFdqT0NFdG9sRERhYjRySUJqOE9UNWFmRkZ4S0ItWnhnNmtXLVJWN0hyc2lIc0xJVWMtMEVBaU9JbEpnTmp5Zy14a0V0ZE5TaE5wSXRleElsNGkz?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
    "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
    "region": "china",
@@ -12451,7 +12454,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b2fc405e546d1775"
+   "id": "f1e42f8f1abef9e3"
   },
   {
    "source_id": "gn_cn_nbs",
