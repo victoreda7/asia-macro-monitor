@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T05:02:58.144550+00:00
+Última coleta: 2026-11-21T05:12:41.859429+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
   🇨🇳 China          918
-  🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  729
+  🇹🇼 Taiwan         320
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] SolidWizard sees AI, semiconductor orders through 2027
   - [china] China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus
   - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
   - [korea] SoftBank’S Masayoshi Son Explored $1 Trillion Moonshot Buyout Of SK Hynix - The Information
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips
   - [taiwan] Additional budget passes with no cuts
   - [korea] SK Hynix to become Kioxia's top shareholder with bond conversion
-  - [japan] Dollar falls as Fed-fueled rally stalls; lower US yields help yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T05:02:58+00:00",
+      "published_utc": "2026-11-21T05:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
