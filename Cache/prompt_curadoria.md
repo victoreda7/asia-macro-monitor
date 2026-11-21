@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T01:02:52.983406+00:00
+Última coleta: 2026-11-21T01:12:42.521557+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
-  🇨🇳 China          919
-  🇹🇼 Taiwan         317
+  🇨🇳 China          917
+  🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Pay attention to whether the 
   - [korea] Key facts: SK hynix results surge; Kioxia stake rises; HYAICO formed
   - [korea] The Bank of Korea decides on the base interest rate on the 26th... Will the increase resume after two months?:
@@ -48,6 +49,7 @@ Total: 3000 manchetes
   - [taiwan] Seven funds trim positions in Taiwan Semiconductor in Q3
   - [china] ASML Tumbles on U.S.-China Export Fears — Market Talk
   - [taiwan] Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips
+  - [taiwan] Additional budget passes with no cuts
   - [korea] SK Hynix to become Kioxia's top shareholder with bond conversion
   - [japan] Dollar falls as Fed-fueled rally stalls; lower US yields help yen
   - [taiwan] Google shifts 2027 AI chip orders from Broadcom to MediaTek, Ming-Chi Kuo says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] US TSY'S BESSENT Q&A/CNBC: NVIDIA DID NOT COME UP IN DISCUSSIONS W/CHINA; SEEN 'PAUCITY OF ORDERS FOR H200 CHI
   - [china] How China’s Export Machine Shocked the World
   - [korea] JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145
-  - [china] Spacex’s Subsidiary Cursor Tells Lawmakers It’s Considering Phasing Out Chinese AI Models- CNBC
-  - [japan] Prime Minister Takaichi held a summit meeting with Jose Antonio Casto Listo, President of the Republic of Chil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T01:02:53+00:00",
+      "published_utc": "2026-11-21T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

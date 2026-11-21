@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-21T01:02:52.983406+00:00",
- "collected_at_utc": "2026-11-21T01:02:52.983406+00:00",
+ "generated_at_utc": "2026-11-21T01:12:42.521557+00:00",
+ "collected_at_utc": "2026-11-21T01:12:42.521557+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1038,
-  "china": 919,
-  "taiwan": 317,
+  "china": 917,
+  "taiwan": 319,
   "korea": 726
  },
- "elapsed_s": 28.2,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-21T00:36:47+00:00"
+   "newest": "2026-11-21T01:05:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-21T06:30:58+09:00"
+   "newest": "2026-11-21T10:05:48+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 30,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-21T09:00:00+09:00"
+   "newest": "2026-11-21T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Considering curbing speculative transactions for newly built condominiums Tax reform next year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261121de79532",
+   "published_utc": "2026-11-21T01:05:48+00:00",
+   "title_original": "新築マンション 投機的な取り引き抑制を検討 来年度税制改正",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b6a643ed3e3850c3"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "아시아투데이",
@@ -878,6 +896,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8afe9d89c1dc26d9"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Additional budget passes with no cuts",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sbEdLX3R2UzcyRUROUXZjZWhNVTkzUWE1X01mVjVKRDJtcmw5N19nQ3pJdVJHVElqZlVBRWZ1UGcyYzJxT2NnSFR0Q2p4ckVhY21CZzZqdTdodmFYN1FFZGRRS0VQUWhVYnZFUU5zdk8zNFc3ekhFRg?oc=5",
+   "published_utc": "2026-11-20T16:00:00+00:00",
+   "title_original": "Additional budget passes with no cuts",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ed442a35d13ab60d"
   },
   {
    "source_id": "nikkei_asia",
@@ -5346,6 +5381,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -5637,24 +5690,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -8878,6 +8913,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a65bf19b990e0d4d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI server tracker: TSMC, Alchip post big October gains powered by 2nm, ASIC orders",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlk3eHJvSUNkVlN2YS1QNWZhcEhaYVZoWWdNeWtHTlc5eWFVWUhTNEJuZ0loeDdoa19QUlF4bjhzd0pEOXpHNGNoTm14X0NxZlRiNmVPbGRGUm84cnlpZDNZQTNzOXhrV1ExTC1kT203ZkZEUTJ5cTVqU01EOS1IS3kzV0JYcUc4NVQ4WDd5eHN1QlhqVjRwamVrN2ZuZGJ0RHhQeFFOSW55NHR1?oc=5",
+   "published_utc": "2026-11-17T08:27:15+00:00",
+   "title_original": "AI server tracker: TSMC, Alchip post big October gains powered by 2nm, ASIC orders",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3ddd272997cfdb54"
   },
   {
    "source_id": "gn_kr_mk",
@@ -12663,7 +12715,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdUg0NUNFSllyeEJVMXZvQmpXclZQSUVxclRJX0N2QmhHeEV2M3ZpeW1KTkhzTW5zOWJOUU5PbFBsVU84MXhXNnVtMHFtU2FLZkFIbWVZOXp6dERzYUo4SQ?oc=5",
    "published_utc": "2026-11-15T23:20:51+00:00",
    "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
    "region": "taiwan",
@@ -12674,7 +12726,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "350419b2852113c9"
+   "id": "5eecd2256cf4eacd"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -13505,7 +13557,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "新浪财经_金融信息服务商",
    "title_en": "The central bank’s major adjustment is happening today",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qWmN5MVJGTTNCa1FJaDRISldfYWNwNkhheDJCY1lJS0pLQ3JZZ3pIRGhJUHg1bm9NNGczVDBHQkpBZ0k4bkItQzVqR180UVBCamVMWjdSbWxoQzFyTGdzRWIxWUJTSmZLLTE2ZU9sQjJIcU1tRjZ2VA?oc=5",
    "published_utc": "2026-11-15T03:22:05+00:00",
@@ -51843,58 +51895,6 @@
    "live_wire": true,
    "manual": false,
    "id": "89c12f853590b816"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual incomes for people in their 50s are no more than 7 million yen...Sigh of the ``unrewarded generation'' who endure preferential treatment for young people and high prices | Politics, Economics, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/961912?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-27T22:15:00+00:00",
-   "title_original": "｢昔なら若手の倍もらえたのに｣ポスト減で50代も年収700万止まり…若手優遇と物価高に耐える\"報われない世代\"の嘆息 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "99bb90f416ce4325"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "In Focus | How Hong Kong went from a yuan gateway to a complete currency ecosystem",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamItbGduV2NPRnRqR0ZtWXlTOVZXVy1ycGNnRlAzZG9NOUVvaWFyYTNXXzdWcnRWd2hzajdtUGt0SUpJcm8zYmxkLWZhRnY5OUN5ZGh2UFFGRlVaQ0xpYVdEWUtETmhnaVd6d1FsWFpON1hoVHUyZldHX29RNmZPaHZJUVNGUTluaV81YTJUMkItRzU2a2t5cmVtWjBtd1hWdmN2Y1JrenFJQnNKU3M5dmNiZlMxUGJCU0ZZam9R?oc=5",
-   "published_utc": "2026-10-27T22:00:15+00:00",
-   "title_original": "In Focus | How Hong Kong went from a yuan gateway to a complete currency ecosystem",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fbbaa60fd952faa8"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "How Hong Kong went from a yuan gateway to a complete currency ecosystem",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamItbGduV2NPRnRqR0ZtWXlTOVZXVy1ycGNnRlAzZG9NOUVvaWFyYTNXXzdWcnRWd2hzajdtUGt0SUpJcm8zYmxkLWZhRnY5OUN5ZGh2UFFGRlVaQ0xpYVdEWUtETmhnaVd6d1FsWFpON1hoVHUyZldHX29RNmZPaHZJUVNGUTluaV81YTJUMkItRzU2a2t5cmVtWjBtd1hWdmN2Y1JrenFJQnNKU3M5dmNiZlMxUGJCU0ZZam9R0gG-AUFVX3lxTE5tUVM0QUxDR1VPdlpMeHN1YkdHcW5vUEp0bGMxMnVwQVJXWUtCRWd0S3dtWDFRMGJ3M09jTm9JS29KZ01LWEpkcGNQZEJ5NFlkZDZ0TEJHdkJLaXdwYU1YMTJzMWRLTDBTeWJ0NUdFQzVoT01ucGE5eDJVM3BtUkFaX2pjX2N0bTR4WWZFSEF4NmpDb2x2ZGxveng4MHFlSDQwaWhtR1NBRHpWNGdoVVl3bFVRSjNSdkJ1Q0E3Qmc?oc=5",
-   "published_utc": "2026-10-27T22:00:15+00:00",
-   "title_original": "How Hong Kong went from a yuan gateway to a complete currency ecosystem",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "05d07c476e139bf0"
   },
   {
    "source_id": "manual_ia",
