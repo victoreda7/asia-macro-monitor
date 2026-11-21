@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-21T13:22:41.661266+00:00",
- "collected_at_utc": "2026-11-21T13:22:41.661266+00:00",
+ "generated_at_utc": "2026-11-21T13:32:42.459128+00:00",
+ "collected_at_utc": "2026-11-21T13:32:42.459128+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 326,
   "korea": 719
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-21T13:01:04+00:00"
+   "newest": "2026-11-21T13:16:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T10:34:50+00:00"
+   "newest": "2026-11-20T13:40:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T04:26:00+00:00"
+   "newest": "2026-11-19T13:26:38+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-21T13:00:07+00:00"
+   "newest": "2026-11-21T13:31:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T05:31:08+00:00"
+   "newest": "2026-11-21T08:30:47+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T13:34:30+00:00"
+   "newest": "2026-11-20T15:44:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5760,24 +5760,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -6069,6 +6051,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -20715,6 +20715,23 @@
    "id": "e59c76a054ddef93"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJRHdNeXhZUFN1blVScDd1TElWRnhCWGNiRzhyTEpuMUowYmtaYjloa0J6SUJzUlNxMDV5enVYLVdFalNMdTNkOTBqaHBibDhlOGJVOVJZakNBZw?oc=5",
+   "published_utc": "2026-11-11T08:00:00+00:00",
+   "title_original": "BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c552a88f9155933"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares turn higher after weak start amid inflation woes",
@@ -21055,23 +21072,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d93da2a2e64ec7e7"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJRHdNeXhZUFN1blVScDd1TElWRnhCWGNiRzhyTEpuMUowYmtaYjloa0J6SUJzUlNxMDV5enVYLVdFalNMdTNkOTBqaHBibDhlOGJVOVJZakNBZw?oc=5",
-   "published_utc": "2026-11-11T07:01:00+00:00",
-   "title_original": "BREAKING NEWS: Nissan posts 43.5 billion yen net loss in July-Sept. quarter",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c552a88f9155933"
   },
   {
    "source_id": "toyo_keizai",
@@ -32754,23 +32754,6 @@
    "id": "d006de6af1fe60ac"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
-   "published_utc": "2026-11-05T08:00:00+00:00",
-   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bbcc5b21551bd2ee"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ has entered phase to discuss rate hike size: policymaker in minutes",
@@ -32787,6 +32770,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acW9YUHhzZUNXZUpsaHpDLXp6WnUtbnZQQklvWGxrWnBzaXlrVm9VeXEzY3JoaVJkM3dVX1NvWlNlZkRIU3JzZEdjOWo3QkY1ejBkZElSUEVRZw?oc=5",
+   "published_utc": "2026-11-05T08:00:00+00:00",
+   "title_original": "Lee calls for virtuous cycle to translate exports growth into domestic demand recovery",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bbcc5b21551bd2ee"
   },
   {
    "source_id": "gn_cn_reuters",
