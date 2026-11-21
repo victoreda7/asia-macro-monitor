@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T11:42:41.597002+00:00
+Última coleta: 2026-11-21T11:52:43.067254+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -18,7 +18,6 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan further tightens short-selling amid stock market volatility
-  - [korea] Is the Bank of Korea inclined to raise interest rates? Next week's economic hot issues, including the stock ma
   - [china] Trump boasts of unprecedented achievements in U.S.-China-Russia talks and exceeded full marks | Trump: The rel
   - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [taiwan] Ministry of Economic Affairs: The electronics industry is still confident about its prospects and exports are 
@@ -30,6 +29,7 @@ Total: 3000 manchetes
   - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
   - [korea] “Masayoshi Son Mulls Acquiring SK hynix for 1,346 Trillion Won...Asks Wall Street About Financing Plan”
   - [taiwan] Retail investors snatch up odd lot shares amid TSMC's plunge
+  - [korea] Is the Bank of Korea inclined to raise interest rates? Next week's economic hot issues, including the stock ma
   - [korea] Is the Bank of Korea inclined to raise interest rates? Hot economic issues next week, including whether KOSPI 
   - [taiwan] SolidWizard sees AI, semiconductor orders through 2027
   - [china] China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T11:42:41+00:00",
+      "published_utc": "2026-11-21T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
