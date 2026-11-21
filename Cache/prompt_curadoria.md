@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T21:22:43.196972+00:00
+Última coleta: 2026-11-21T21:32:42.153069+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
+  🇯🇵 Japão          1035
   🇨🇳 China          923
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  719
+  🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's Q3 current account surplus hits 2nd highest due to global AI demand
   - [korea] SoftBank's Son studied the possibility of a $1 trillion acquisition of SK Hynix, according to The Information
   - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
+  - [japan] Bank deposits ``100 million yen or more'' 3.6 times more likely to accumulate assets among the wealthy Bank of
   - [korea] “Masayoshi Son Mulls Acquiring SK hynix for 1,346 Trillion Won...Asks Wall Street About Financing Plan”
   - [taiwan] Retail investors snatch up odd lot shares amid TSMC's plunge
   - [korea] Is the Bank of Korea inclined to raise interest rates? Next week's economic hot issues, including the stock ma
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] AI Selloff Boosts Haven Demand for Yen, Franc as Dollar Slips
   - [japan] AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips
   - [china] Verlinvest: China Resources Indirect Subsidiary Blossom Key Holds 50% Indirect Interest in Oatly Shares
-  - [korea] [Money Briefing] The last Monetary Policy Committee of the year weighs on a 3.25% increase in the base interes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T21:22:43+00:00",
+      "published_utc": "2026-11-21T21:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

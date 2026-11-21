@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-21T21:22:43.196972+00:00",
- "collected_at_utc": "2026-11-21T21:22:43.196972+00:00",
+ "generated_at_utc": "2026-11-21T21:32:42.153069+00:00",
+ "collected_at_utc": "2026-11-21T21:32:42.153069+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
+  "japan": 1035,
   "china": 923,
   "taiwan": 324,
-  "korea": 719
+  "korea": 718
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T13:40:00+00:00"
+   "newest": "2026-11-20T10:34:50+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-19T13:26:38+00:00"
+   "newest": "2026-11-20T04:26:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T11:45:27+00:00"
+   "newest": "2026-11-21T10:06:16+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-21T21:17:36+00:00"
+   "newest": "2026-11-21T21:30:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -657,6 +657,24 @@
    "live_wire": true,
    "manual": false,
    "id": "f35071d5fb86f1fc"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank deposits ``100 million yen or more'' 3.6 times more likely to accumulate assets among the wealthy Bank of Japan Statistics (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yV2xuMlRmNWFfLUtYTVM2YlFhS2l4aGhnTUE5TzFaZXZXcmpXRlBmNDE4eDFsT0QxeHBTTjFWWWFlcURjVDdINTEwTWJ3d2tIUTZDRTdocW5xU25mZzh0a05lbUIzVjBBU3hNRUR0d3hPYUVZMHg2SUo1LTBRbjA?oc=5",
+   "published_utc": "2026-11-21T05:33:00+00:00",
+   "title_original": "銀行預金、「1億円以上」3．6倍 富裕層に資産集まる構図に 日銀統計（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b02731b8deb2cf10"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2599,8 +2617,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -2614,7 +2632,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2823,8 +2841,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -2837,7 +2855,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4343,8 +4361,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -4358,7 +4376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -4670,8 +4688,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -4685,7 +4703,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5364,8 +5382,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -5378,7 +5396,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10787,7 +10805,7 @@
    "id": "3b5c1f5ba2ec6f1a"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYUhnNWUzQW81cGFtV1o2REEwM1V0Qm1yU05FSk9lRVZNVkw3OGs1dGdJS3JEaXZhUVd3N0tPWUFaX3RqenZpQ1RqMnYyUkFQQmI4TFJ1Q1pCLXNQMDFjWXc?oc=5",
@@ -10801,7 +10819,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "afe86a77493e1224"
+   "id": "37eff10d71ef8057"
   },
   {
    "source_id": "tradingview_live",
@@ -12600,7 +12618,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93LUd5YmFzQlNjYlJ1dUNhX0FzLVBTakZYWnh1elR0ck1lUmdlMm1oM0stOGNEajBvcEFzRWpGS3FrOVo1Z3R0bWtmWE82c1hXT1d5YjRxQ2ZVQXR4WHBBclVMM05YZTl1NkFGb3RxSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXV0YUxiVHlvczU4VURSVnNWcERfdzhPUFdqT0NFdG9sRERhYjRySUJqOE9UNWFmRkZ4S0ItWnhnNmtXLVJWN0hyc2lIc0xJVWMtMEVBaU9JbEpnTmp5Zy14a0V0ZE5TaE5wSXRleElsNGkz?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
    "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
    "region": "china",
@@ -12611,13 +12629,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b2fc405e546d1775"
+   "id": "f1e42f8f1abef9e3"
   },
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Basic situation of national fixed asset investment from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSlB4UVFVSUVOcEVRSEIyQ3NueTg3VmNMSERLdG9nNXhpYzBBSmRocE54YmZMNHNJMjFGYlhTOTZPb0toWTFxVXVSLS1MVWtMWmhkYWpDUjhyTGlHY2kyTmVJYkJ6RUxLU1JINmFmWkd0YjQ0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVkVXekQ1SmUwLThvRFlnRmpOdnY0WXFVTmY3SGZzZTVuc0hEUTNDUEx0OHh3TTVwV2NIRGQyMVZEcEVrLWEwMU4yZE5QX0lTc2huTlNyWlhnRlMxel9JUGplZmwwZEd5OVJoTFZEVQ?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
    "title_original": "2026年1—10月份全国固定资产投资基本情况",
    "region": "china",
@@ -12628,7 +12646,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c9a23b3e98833995"
+   "id": "7a25ecddad9ea2ed"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -51886,23 +51904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3253d9f6318599ee"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Pek1RUzdReGFnS3VJY20xZ2VSQkpLWVplTW1PcUJsdGhmS2F5QkhnUmQ4T203M2dwczhnSjlZLUdyd1lRaUgzcGNFcndjTF8tNXBEYzFsR1ZaTTdxX3pma044YnhFbzlpb1B5NWZDakZocXRlcjIybjNB?oc=5",
-   "published_utc": "2026-10-28T01:37:33+00:00",
-   "title_original": "Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a589a65edad275bd"
   },
   {
    "source_id": "manual_ia",
