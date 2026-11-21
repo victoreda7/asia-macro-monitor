@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-21T10:12:41.315172+00:00",
- "collected_at_utc": "2026-11-21T10:12:41.315172+00:00",
+ "generated_at_utc": "2026-11-21T10:22:53.119296+00:00",
+ "collected_at_utc": "2026-11-21T10:22:53.119296+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1034,
-  "china": 921,
+  "china": 920,
   "taiwan": 326,
-  "korea": 719
+  "korea": 720
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 34.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 21,
+   "count": 30,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-21T10:10:54+00:00"
+   "newest": "2026-11-21T10:13:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T02:45:00+00:00"
+   "newest": "2026-11-21T09:44:17+00:00"
   }
  ],
  "falhas_seguidas": {},
@@ -360,6 +360,23 @@
    "live_wire": false,
    "manual": false,
    "id": "721321c027914ce1"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "파이낸셜뉴스",
+   "title_en": "Is the Bank of Korea inclined to raise interest rates? Next week's economic hot issues, including the stock market's collapse of the 5,000 mark",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
+   "published_utc": "2026-11-21T09:44:17+00:00",
+   "title_original": "한은, 금리 인상으로 기울었나...'5천선 붕괴' 증시 향배 등 내주 경제 핫이슈",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8127875fa4f4bdd5"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2422,8 +2439,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -2437,7 +2454,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2629,8 +2646,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -2643,7 +2660,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4149,8 +4166,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -4164,7 +4181,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -4476,8 +4493,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -4491,7 +4508,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5170,8 +5187,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -5184,7 +5201,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10557,7 +10574,7 @@
    "id": "3b5c1f5ba2ec6f1a"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYUhnNWUzQW81cGFtV1o2REEwM1V0Qm1yU05FSk9lRVZNVkw3OGs1dGdJS3JEaXZhUVd3N0tPWUFaX3RqenZpQ1RqMnYyUkFQQmI4TFJ1Q1pCLXNQMDFjWXc?oc=5",
@@ -10571,7 +10588,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "afe86a77493e1224"
+   "id": "37eff10d71ef8057"
   },
   {
    "source_id": "tradingview_live",
@@ -12506,9 +12523,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
+   "source_name": "Sohu",
    "title_en": "On November 16, the central bank conducted an overnight reverse repurchase operation of RMB 460 billion.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4dzU1QW96QmtaSWNSVDVabEhpeEt4Q1lWN2ZxUldkenFsejc2TXZ4UW8zRl8yc2w4RmdoVmNtVUlnYkRkbXNGOUpoSGZqUENoT2k4aURRVmROTUdISnVCZExWM19UNkhP?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIRGhjcHRfX3lUMXRlM2xfUkdkTF9DNVV5S2pNY0FhQ21ZeGVGbEd1cTBhZFd4YVV5Zm52SEVxem9UVFpiOGxfT1pVVG1BUllTbVE?oc=5",
    "published_utc": "2026-11-16T01:35:35+00:00",
    "title_original": "11月16日央行开展4600亿元隔夜逆回购操作",
    "region": "china",
@@ -12519,7 +12536,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "10a4842ef2d21274"
+   "id": "ab5b488f695224c6"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -13885,7 +13902,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "Today, the central bank's major adjustments have been implemented.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGs3TGNLNnRWRVMtSEdtRlI1eGlnZ2FqTWtjS0VHWktsVDdYYmV6cFg1Y1lUWEFEcEhkY3Zia1FJQWltSWJuQ3ZVZXlGRFJXc2ZXQ0xZR3R6cXQ5NzRhMUFhSXNmbmFvMUp5UWtGa3NqdlY0STlfTmpWWC11STQ5b1JlTC1WTzJM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UnpReVRHQV9DZ242X2ViaWhBNWFWUkpqRVVMSWFFWGx0WlhqWVBIelYyYnpXSVVXWUVPX1VtMHo0MmI3c3FGRU1qOXJRdzRBb3c?oc=5",
    "published_utc": "2026-11-15T03:23:44+00:00",
    "title_original": "今日，央行重大调整落地",
    "region": "china",
@@ -13896,7 +13913,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d59d3ce69a4ec746"
+   "id": "2f4764e804c379d5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51881,23 +51898,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3a82312455adedaa"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "China Stock Premium Over Hong Kong Widens on State Intervention",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWVHTHAtQTIzZXp2ZWV6UjZmb0VMQi00NnpZRWRPWXpsTkhkc1A1blVpM2NaM1F3c1NFQUZzemtHbXM0NHR2dU1ocUNWZmFiRHNNNnBvTTEtUnFJOXFlX3dXUFVacDBjTXNtd0g3eTZFazVDczdpQk9Bd1dTR1NfSWhTaDF6VndBTFZqZ0txUEUyUEd3UDZhMnkwM3RyZk9saFQ3QUxveTFTUm0ybDlKQ3pZMi0?oc=5",
-   "published_utc": "2026-10-27T23:49:37+00:00",
-   "title_original": "China Stock Premium Over Hong Kong Widens on State Intervention",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7f39bd894bdc784b"
   },
   {
    "source_id": "manual_ia",
