@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T19:32:41.986443+00:00
+Última coleta: 2026-11-21T19:42:44.053047+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Canada deepens trade relations with China, Chen Mingqi warns of risks of economic coercion from Beijing | Poli
   - [china] Treasury secretary rules out further restrictions on Nvidia chip sales to China
   - [china] Treasury secretary rules out further curbs on Nvidia chip sales to China
   - [china] Goldman upgrades China H-shares on faster earnings growth outlook
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan weighs early funding to ICC before US sanctions cutoff
   - [japan] Nvidia Server Suppliers Halt Southeast Asia Shipments - Nikkei
   - [china] FCC approves 71 firms to import tech gear despite China ban
-  - [korea] SK hynix, IPG Photonics, and Diodes shares plummet, what you need to know
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T19:32:42+00:00",
+      "published_utc": "2026-11-21T19:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
