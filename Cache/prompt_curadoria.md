@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T09:42:40.994274+00:00
+Última coleta: 2026-11-21T09:52:48.468600+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -17,7 +17,6 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [korea] [N Week] Last base interest rate increase of this year?... Digital Asset Act and Financial Reform Plan Reveale
   - [taiwan] Ministry of Economic Affairs: The electronics industry is still confident about its prospects and exports are 
   - [taiwan] Taiwan further tightens short-selling rules after market rout
   - [korea] Samsung, SK hynix tumble as analysts split on chip outlook
@@ -35,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Pay attention to whether the 
   - [korea] From determining the base interest rate to coin regulation… Financial market watershed next week
+  - [korea] [N Week] Last base interest rate increase of this year?... Digital Asset Act and Financial Reform Plan Reveale
   - [korea] Key facts: SK hynix results surge; Kioxia stake rises; HYAICO formed
   - [korea] The Bank of Korea decides on the base interest rate on the 26th... Will the increase resume after two months?:
   - [korea] [Next week's economy] Let's take a breather. Will the base interest rate be raised? The Bank of Korea’s growth
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T09:42:41+00:00",
+      "published_utc": "2026-11-21T09:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
