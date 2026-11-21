@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T05:42:42.501470+00:00
+Última coleta: 2026-11-21T05:52:41.590195+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
   🇨🇳 China          919
-  🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  726
+  🇹🇼 Taiwan         322
+  🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [korea] SoftBank's Son studied the possibility of a $1 trillion acquisition of SK Hynix, according to The Information
+  - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
   - [korea] “Masayoshi Son Mulls Acquiring SK hynix for 1,346 Trillion Won...Asks Wall Street About Financing Plan”
   - [taiwan] Retail investors snatch up odd lot shares amid TSMC's plunge
+  - [korea] Is the Bank of Korea inclined to raise interest rates? Hot economic issues next week, including whether KOSPI 
   - [taiwan] SolidWizard sees AI, semiconductor orders through 2027
   - [china] China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus
-  - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
   - [korea] SoftBank’S Masayoshi Son Explored $1 Trillion Moonshot Buyout Of SK Hynix - The Information
   - [korea] [Next week's economy] Waiting to see whether the Bank of Korea will raise interest rates... Growth forecast an
   - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Sen. Tom Cotton: Commerce Department Ignored His Warnings About Megaspeed, China Chip Diversion — WSJ
   - [china] Top Republican Senator Says Lutnick Ignored His China Chip Warnings — WSJ
   - [taiwan] Seven funds trim positions in Taiwan Semiconductor in Q3
-  - [china] ASML Tumbles on U.S.-China Export Fears — Market Talk
-  - [taiwan] Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T05:42:42+00:00",
+      "published_utc": "2026-11-21T05:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
