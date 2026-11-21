@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T12:52:41.709938+00:00
+Última coleta: 2026-11-21T13:02:43.546010+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
-  🇨🇳 China          920
+  🇨🇳 China          921
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  720
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
+  - [china] Goldman upgrades China H-shares on faster earnings growth outlook
   - [taiwan] Taiwan further tightens short-selling amid stock market volatility
   - [china] Trump boasts of unprecedented achievements in U.S.-China-Russia talks and exceeded full marks | Trump: The rel
   - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] U.S. Approves 879,000 AI Chips To China
   - [japan] Dollar weaker as Fed-fueled rally stalls; lower US yields help yen
   - [china] Trump Says Jensen Huang Made 'Bad Decisions,' Vows China to Get Old Chips Only
-  - [china] Trump says only older chips should be sold to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T12:52:41+00:00",
+      "published_utc": "2026-11-21T13:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
