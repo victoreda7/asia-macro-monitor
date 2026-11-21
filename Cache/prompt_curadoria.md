@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T10:22:53.119296+00:00
+Última coleta: 2026-11-21T10:32:41.379071+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan further tightens short-selling amid stock market volatility
   - [korea] Is the Bank of Korea inclined to raise interest rates? Next week's economic hot issues, including the stock ma
   - [china] Trump boasts of unprecedented achievements in U.S.-China-Russia talks and exceeded full marks | Trump: The rel
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [taiwan] Ministry of Economic Affairs: The electronics industry is still confident about its prospects and exports are 
   - [taiwan] Taiwan further tightens short-selling rules after market rout
   - [korea] Samsung, SK hynix tumble as analysts split on chip outlook
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar weaker as Fed-fueled rally stalls; lower US yields help yen
   - [china] Trump Says Jensen Huang Made 'Bad Decisions,' Vows China to Get Old Chips Only
   - [china] Trump says only older chips should be sold to China
-  - [china] Trump says US wants only older chips sold to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T10:22:53+00:00",
+      "published_utc": "2026-11-21T10:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
