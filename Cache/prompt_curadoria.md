@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T19:56:41.734127+00:00
+Última coleta: 2026-11-21T20:02:56.101375+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
-  🇨🇳 China          926
+  🇨🇳 China          925
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [korea] [This week's Monetary Policy Committee] Bank of Korea tightens again due to high inflation and high growth... 
   - [china] Canada deepens trade relations with China, Chen Mingqi warns of risks of economic coercion from Beijing | Poli
   - [china] Treasury secretary rules out further restrictions on Nvidia chip sales to China
   - [china] Treasury secretary rules out further curbs on Nvidia chip sales to China
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Money Briefing] The last Monetary Policy Committee of the year weighs on a 3.25% increase in the base interes
   - [japan] Japan weighs early funding to ICC before US sanctions cutoff
   - [japan] Nvidia Server Suppliers Halt Southeast Asia Shipments - Nikkei
-  - [china] FCC approves 71 firms to import tech gear despite China ban
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T19:56:41+00:00",
+      "published_utc": "2026-11-21T20:02:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
