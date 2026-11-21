@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T03:52:41.761893+00:00
+Última coleta: 2026-11-21T04:02:42.418939+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] [Next week's economy] Waiting to see whether the Bank of Korea will raise interest rates... Growth forecast an
   - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Pay attention to whether the 
+  - [korea] From determining the base interest rate to coin regulation… Financial market watershed next week
   - [korea] Key facts: SK hynix results surge; Kioxia stake rises; HYAICO formed
   - [korea] The Bank of Korea decides on the base interest rate on the 26th... Will the increase resume after two months?:
   - [korea] [Next week's economy] Let's take a breather. Will the base interest rate be raised? The Bank of Korea’s growth
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix to become Kioxia's top shareholder with bond conversion
   - [japan] Dollar falls as Fed-fueled rally stalls; lower US yields help yen
   - [taiwan] Google shifts 2027 AI chip orders from Broadcom to MediaTek, Ming-Chi Kuo says
-  - [china] US TSY'S BESSENT Q&A/CNBC: TAKEN 'COMMON SENSE' APPROACH TO CHINA REMOTE USE OF TOP CHIPS; RE LUTNICK, 'ALL CO
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T03:52:42+00:00",
+      "published_utc": "2026-11-21T04:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
