@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-20T23:52:41.527805+00:00
+Última coleta: 2026-11-21T00:03:05.107327+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1039
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Key facts: SK hynix results surge; Kioxia stake rises; HYAICO formed
   - [korea] [Next week's economy] Let's take a breather. Will the base interest rate be raised? The Bank of Korea’s growth
   - [korea] Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Kor
   - [china] Tongda International Group Operating Subsidiaries Provides E-Commerce Services in China
@@ -49,14 +50,13 @@ Total: 3000 manchetes
   - [taiwan] Google shifts 2027 AI chip orders from Broadcom to MediaTek, Ming-Chi Kuo says
   - [china] US TSY'S BESSENT Q&A/CNBC: TAKEN 'COMMON SENSE' APPROACH TO CHINA REMOTE USE OF TOP CHIPS; RE LUTNICK, 'ALL CO
   - [china] US TSY'S BESSENT Q&A/CNBC: NVIDIA DID NOT COME UP IN DISCUSSIONS W/CHINA; SEEN 'PAUCITY OF ORDERS FOR H200 CHI
+  - [china] How China’s Export Machine Shocked the World
   - [korea] JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145
   - [china] Spacex’s Subsidiary Cursor Tells Lawmakers It’s Considering Phasing Out Chinese AI Models- CNBC
   - [japan] Prime Minister Takaichi held a summit meeting with Jose Antonio Casto Listo, President of the Republic of Chil
   - [japan] Komeito: "Amend the Consumption Tax Reduction Bill to Mitigate the Impact of Drastic Changes" – Position State
   - [china] USTR GREER Q&A/BBG: NO EXTENTION YET OF JAN 10 DEADLINE FOR TRADE TRUCE W/CHINA; DEPENDS ON RARE EARTHS TRADE;
   - [china] USTR GREER Q&A/BBG: PRESIDENT TRUMP RESOLVES INTERNAL ADMINISTRATION DISPUTES OVER CHIP EXPORT RESTRICTIONS VS
-  - [china] USTR GREER Q&A/BBG: CHINA ALWAYS LIKES TO TAKE SOME RETALIATORY ACTION VS NEW SEMICONDUCTOR EXPORT RESTRICTION
-  - [china] US-China-Russia summit “symbolizes changes in the international order” World Impact on Japan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-20T23:52:41+00:00",
+      "published_utc": "2026-11-21T00:03:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
