@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T00:22:48.025549+00:00
+Última coleta: 2026-11-21T00:32:42.557762+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1038
+  🇯🇵 Japão          1039
   🇨🇳 China          919
   🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  726
+  🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [korea] Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Kor
   - [china] Tongda International Group Operating Subsidiaries Provides E-Commerce Services in China
   - [japan] Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data
+  - [japan] AI Selloff Boosts Haven Demand for Yen, Franc as Dollar Slips
   - [japan] AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips
   - [china] Verlinvest: China Resources Indirect Subsidiary Blossom Key Holds 50% Indirect Interest in Oatly Shares
   - [korea] [Money Briefing] The last Monetary Policy Committee of the year weighs on a 3.25% increase in the base interes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Spacex’s Subsidiary Cursor Tells Lawmakers It’s Considering Phasing Out Chinese AI Models- CNBC
   - [japan] Prime Minister Takaichi held a summit meeting with Jose Antonio Casto Listo, President of the Republic of Chil
   - [japan] Komeito: "Amend the Consumption Tax Reduction Bill to Mitigate the Impact of Drastic Changes" – Position State
-  - [china] USTR GREER Q&A/BBG: NO EXTENTION YET OF JAN 10 DEADLINE FOR TRADE TRUCE W/CHINA; DEPENDS ON RARE EARTHS TRADE;
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T00:22:48+00:00",
+      "published_utc": "2026-11-21T00:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
