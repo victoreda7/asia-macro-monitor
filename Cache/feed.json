@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-21T22:32:45.671301+00:00",
- "collected_at_utc": "2026-11-21T22:32:45.671301+00:00",
+ "generated_at_utc": "2026-11-21T22:42:42.312925+00:00",
+ "collected_at_utc": "2026-11-21T22:42:42.312925+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1035,
-  "china": 923,
-  "taiwan": 324,
-  "korea": 718
+  "japan": 1036,
+  "china": 922,
+  "taiwan": 325,
+  "korea": 717
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-21T21:20:04+00:00"
+   "newest": "2026-11-21T22:32:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-21T20:34:46+00:00"
+   "newest": "2026-11-21T22:32:53+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 10/08/2026",
-   "newest": "2026-08-10T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-11-20T23:46:07+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T06:24:32+00:00"
+   "newest": "2026-11-21T22:33:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-22T07:00:00+09:00"
+   "newest": "2026-11-22T07:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "What will happen to Japan's \"salaries\" and \"prices\" if Trump loses... Experts warn of double punch to household finances (Weekly Women's PRIME)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUVpqa3R2c0lvU1NLdUlHQXZjV0NsRWtIUkRrU3p3dl9yLW4wbURzbkk3eGxCVV9kd1psTzEtQ1NyQ0NtaE93Y0lLTHZtbDdfd096NzVwbWJzckR3QkszMWJXMU9BcVlQZElwVE5zbW5ZNG43VW0xR3VnY0kwVWM?oc=5",
+   "published_utc": "2026-11-21T22:33:14+00:00",
+   "title_original": "トランプ敗北で日本の「給料」と「物価」はどうなる…専門家が警告する家計へのダブルパンチ（週刊女性PRIME）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "12e7699978525c9f"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스1",
@@ -2652,8 +2669,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -2667,7 +2684,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2754,6 +2771,23 @@
    "live_wire": false,
    "manual": false,
    "id": "345f5b77543008e1"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "TSMC suspends orders below 16nm from China! The U.S. House of Representatives reveals that the Trump administration allowed \"880,000 AI chips\" to be sold to China | Historic ruling! International Court of Justice finds Myanmar guilty of \"genocide\" against Rohingya｜2026/11/20 CNA Global Midday Express",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Yk5vN3lZSFJEcnJTNjR4QTA4ejcweExDWW13aFZldWlFbnpCTEUxTkJMX3M4TF84YmFILUo1aWdQZ25CRzlLWHVpclRUVXV3ZWpLRUlwanpCSFk?oc=5",
+   "published_utc": "2026-11-20T04:50:00+00:00",
+   "title_original": "台積電暫停中國16奈米以下訂單！美眾院揭川普政府放行「88萬顆AI晶片」銷往中國｜歷史性裁決！國際法院認定緬甸對洛興雅犯「種族滅絕」｜2026/11/20 中央社全球午間快報",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5496b735769a88b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2876,8 +2910,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -2890,7 +2924,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4396,8 +4430,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -4411,7 +4445,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -4723,8 +4757,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -4738,7 +4772,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5417,8 +5451,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -5431,7 +5465,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -5954,6 +5988,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -6245,24 +6297,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -30191,6 +30225,24 @@
    "id": "03ec96c991dcde18"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
+   "published_utc": "2026-11-06T08:00:00+00:00",
+   "title_original": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1004357beeca4b1"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Finance minister vows timely actions to ease stock market volatility",
@@ -33051,24 +33103,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7edebaeb54855ad0"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5",
-   "published_utc": "2026-11-05T08:00:00+00:00",
-   "title_original": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f1004357beeca4b1"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51870,41 +51904,6 @@
    "live_wire": true,
    "manual": false,
    "id": "193c314b45bc40aa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财中社",
-   "title_en": "The central bank launched a 151 billion yuan 7-day reverse repurchase operation with an interest rate of 1.40% and a net investment of 151 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jTUdJSUJUUXBUeWJla1lGSzZsNTRPS0tkVWdvMjR3ZjZaOVF1bnZ3cUM4VmEzM3hYcVNPZzgzTng0TE9qWlVMbTVXQ2p6SnZ4YXdnM1JhWFRmLTVLLWR5dEx0TW0?oc=5",
-   "published_utc": "2026-10-28T02:21:00+00:00",
-   "title_original": "央行开展1510亿元7天期逆回购操作 利率1.40% 净投放1510亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "51683ee584f05496"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Micron recruits in South Korea for Taiwan roles as Taoyuan strike dispute persists",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUlIZkx1bjVuNExqR0RfLWRuNEJFTFRMeWxMMFp5UzNoSTB6c0hoNlQ3YlFoZ0NWQjNTbE5aMlJDMi1yLVZPVGUxY2d5NFMyNG9RSm1GTWw2RExkbmplc1h5VGFiaEZERHpfWEZHaTg5Z3J2emloVmd4MmJjcU1yT29sczlxXzdCMWFpR2NPbFo5MVE?oc=5",
-   "published_utc": "2026-10-28T02:14:47+00:00",
-   "title_original": "Micron recruits in South Korea for Taiwan roles as Taoyuan strike dispute persists",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "821fa5cfcc8369cb"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T22:32:45.671301+00:00
+Última coleta: 2026-11-21T22:42:42.312925+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          923
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  718
+  🇯🇵 Japão          1036
+  🇨🇳 China          922
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [japan] What will happen to Japan's "salaries" and "prices" if Trump loses... Experts warn of double punch to househol
   - [korea] “The Bank of Korea will raise the base interest rate on the 26th” in one voice… 9 out of 10 “3.50% next year” 
   - [korea] Will the Bank of Korea resume raising interest rates? Interest in US PCE and growth rate [Han Dong-hoon's Week
   - [korea] Rapid growth rate, unpredictable prices... Bank of Korea expected to raise interest rates this week
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Kor
   - [china] Tongda International Group Operating Subsidiaries Provides E-Commerce Services in China
   - [japan] Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data
-  - [japan] AI Selloff Boosts Haven Demand for Yen, Franc as Dollar Slips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T22:32:45+00:00",
+      "published_utc": "2026-11-21T22:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
