@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-21T01:22:47.958098+00:00
+Última coleta: 2026-11-21T01:32:42.392797+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1038
+  🇯🇵 Japão          1037
   🇨🇳 China          917
   🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  726
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Next week's economy] Waiting to see whether the Bank of Korea will raise interest rates... Growth forecast an
   - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Pay attention to whether the 
   - [korea] Key facts: SK hynix results surge; Kioxia stake rises; HYAICO formed
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US TSY'S BESSENT Q&A/CNBC: TAKEN 'COMMON SENSE' APPROACH TO CHINA REMOTE USE OF TOP CHIPS; RE LUTNICK, 'ALL CO
   - [china] US TSY'S BESSENT Q&A/CNBC: NVIDIA DID NOT COME UP IN DISCUSSIONS W/CHINA; SEEN 'PAUCITY OF ORDERS FOR H200 CHI
   - [china] How China’s Export Machine Shocked the World
-  - [korea] JP Morgan initiates coverage of BOK Financial at Neutral, sets price target at $145
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-21T01:22:48+00:00",
+      "published_utc": "2026-11-21T01:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
