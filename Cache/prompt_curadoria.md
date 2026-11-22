@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T22:32:43.071067+00:00
+Última coleta: 2026-11-22T22:42:41.722597+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Data Preview: Tokyo CPI Expected Up to 16-Month High in November
   - [japan] Japan Week Ahead: Rising Costs, Weak Yen Hurting Households but BOJ Board Seen Leaning Toward Another Rate Hik
   - [china] US seeks answers on Nvidia’s sale of chips to China, Bessent says
   - [china] US seeks answers on sale of Nvidia chips to China, says Treasury secretary
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Canada deepens trade relations with China, Chen Mingqi warns of risks of economic coercion from Beijing | Poli
   - [china] Trump boasts of unprecedented achievements in U.S.-China-Russia talks and exceeded full marks | Trump: The rel
   - [china] Treasury secretary rules out further restrictions on Nvidia chip sales to China
-  - [china] Treasury secretary rules out further curbs on Nvidia chip sales to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T22:32:43+00:00",
+      "published_utc": "2026-11-22T22:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
