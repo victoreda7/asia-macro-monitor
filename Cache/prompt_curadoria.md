@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T12:03:08.859907+00:00
+Última coleta: 2026-11-22T12:12:42.511626+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          927
-  🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  716
+  🇯🇵 Japão          1034
+  🇨🇳 China          928
+  🇹🇼 Taiwan         321
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [china] The associate of Alice Huang who funneled Nvidia chips to China - WSJ
   - [japan] Corporate Japan races to revive rare-earth supply chain amid China curbs
   - [china] Chinese-made cars take 34% of S.Korea's EV market, driving record auto trade deficit
   - [korea] All Hankyung economists said, “The base interest rate will be increased by 0.25% this month.”
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
   - [korea] Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?
   - [korea] BOK likely to hike interest rate on resilient growth, inflation
+  - [korea] BOK likely to lift rate on resilient growth, inflation
   - [korea] Although Korea recorded the world's highest export growth this year, surpassing $1 trillion in annua..
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
   - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Ge
   - [taiwan] Taiwan's Q3 current account surplus hits 2nd highest due to global AI demand
   - [korea] SoftBank's Son studied the possibility of a $1 trillion acquisition of SK Hynix, according to The Information
-  - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
-  - [japan] Bank deposits ``100 million yen or more'' 3.6 times more likely to accumulate assets among the wealthy Bank of
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T12:03:09+00:00",
+      "published_utc": "2026-11-22T12:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
