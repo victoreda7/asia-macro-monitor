@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-22T02:52:41.430506+00:00",
- "collected_at_utc": "2026-11-22T02:52:41.430506+00:00",
+ "generated_at_utc": "2026-11-22T03:02:41.745834+00:00",
+ "collected_at_utc": "2026-11-22T03:02:41.745834+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 324,
   "korea": 716
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T00:00:00+00:00"
+   "newest": "2026-11-21T10:31:38+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 10/08/2026",
-   "newest": "2026-08-10T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-11-20T23:46:07+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T09:12:54+00:00"
+   "newest": "2026-11-20T11:40:18+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T23:40:09+00:00"
+   "newest": "2026-11-21T20:39:16+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T11:43:12+00:00"
+   "newest": "2026-11-22T02:39:21+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "S. Korea expected to become world's 4th-largest exporter this year",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5VVR4TUtwX0NnMFo4WEpFSi1tX19ESnZFMTFoTjlmQzdhRzVCNlRwUllpQWl1S0NwcTdRcDJzUkliN2JsSFZ2cXpiZi1PNS1ZSXFNeWZ6d044Zw?oc=5",
+   "published_utc": "2026-11-22T02:39:21+00:00",
+   "title_original": "S. Korea expected to become world's 4th-largest exporter this year",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f90682b2733c8bdb"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -6056,24 +6073,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -6365,6 +6364,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -51886,23 +51903,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7d55c12d205d9e09"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead",
-   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rally-as-sk-hynix-earnings-boost-ai-trade-fed-decision-ahead-4977421",
-   "published_utc": "2026-10-28T03:18:43+00:00",
-   "title_original": "Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "454c9c78a2242651"
   },
   {
    "source_id": "manual_ia",
