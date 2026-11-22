@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T23:32:43.189024+00:00",
- "collected_at_utc": "2026-11-22T23:32:43.189024+00:00",
+ "generated_at_utc": "2026-11-22T23:42:48.678197+00:00",
+ "collected_at_utc": "2026-11-22T23:42:48.678197+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
+  "japan": 1034,
   "china": 932,
   "taiwan": 322,
-  "korea": 713
+  "korea": 712
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 28.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T05:57:00+00:00"
+   "newest": "2026-11-22T23:33:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-22T23:00:45+00:00"
+   "newest": "2026-11-22T23:12:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T23:30:00+00:00"
+   "newest": "2026-11-22T23:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T12:53:20+00:00"
+   "newest": "2026-11-22T12:00:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-23T08:00:00+09:00"
+   "newest": "2026-11-23T08:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar edges off 19-month high after market rout; yen softens",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47308W:0-dollar-edges-off-19-month-high-after-market-rout-yen-softens/",
+   "published_utc": "2026-11-22T23:40:24+00:00",
+   "title_original": "Dollar edges off 19-month high after market rout; yen softens",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f9c65a6837946dae"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -906,7 +923,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and Sato and the future of the December interest rate hike (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSRGE3WlJyQmpSb0dadWc3N1g3NGJ2VkR0c1VIM2VSUTBfSngyTDExbkt2ZFNob1ZIU0tRRGRmZ25CZ21wY1A2cWpiS0R4RWladUtQRTdKX3o4T3B4UXQyNmFuYldCOXVfNF84b1lPLW1JS1h6NzI4YXRMUzRXMHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWEdoUGZSVDBXVkxLcV9NRmtPZWcwQlVzYmlVaUJKVkR6RzFXS1ZaYXBZdDBnM2FCUDlkNkNsWDFJbDdnUmk1enVsaW0zVXVEeGd1eVEzTzNxVjBIVDhpRlVMenNiX2tGQXNKRmpFSnRoaG5zdFNnak9ERWlfdFlVei0tYjZSZEVf?oc=5",
    "published_utc": "2026-11-22T00:00:34+00:00",
    "title_original": "日銀の『主な意見』に「主な異見」なし 浅田・佐藤両委員らの慎重論と12月利上げの行方（TBS CROSS DIG with Bloomberg）",
    "region": "japan",
@@ -917,7 +934,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "11f5c7c56b553784"
+   "id": "2914758797576810"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51892,23 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ddc8ae67ed070347"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attention",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0NT:0/",
-   "published_utc": "2026-10-28T12:46:28+00:00",
-   "title_original": "S&P 500 e Nasdaq devem abrir em alta, com a SK Hynix impulsionando o setor de chips; o Fed é o centro das atenções",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "fd3da971219b1217"
   },
   {
    "source_id": "manual_ia",

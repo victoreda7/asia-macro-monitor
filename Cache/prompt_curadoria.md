@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T23:32:43.189024+00:00
+Última coleta: 2026-11-22T23:42:48.678197+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1034
   🇨🇳 China          932
   🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar edges off 19-month high after market rout; yen softens
   - [korea] Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [china] Weekly Recap: AI computing at 68% of revenue and China shipments suspended
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Pay attention to PCE in October in the US... Korean bank reveals revised growth rate for this year [Han Dong-h
   - [korea] Will the Bank of Korea resume raising interest rates? Interest in US PCE and growth rate [Han Dong-hoon's Week
   - [korea] Rapid growth rate, unpredictable prices... Bank of Korea expected to raise interest rates this week
-  - [korea] The Bank of Korea expects to resume raising interest rates for the first time in three months... “Austerity un
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T23:32:43+00:00",
+      "published_utc": "2026-11-22T23:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
