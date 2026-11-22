@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T22:22:42.362791+00:00
+Última coleta: 2026-11-22T22:32:43.071067+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea expects to resume raising interest rates for the first time in three months... “Austerity un
   - [korea] [This week's Monetary Policy Committee] Bank of Korea tightens again due to high inflation and high growth... 
   - [china] Canada deepens trade relations with China, Chen Mingqi warns of risks of economic coercion from Beijing | Poli
+  - [china] Trump boasts of unprecedented achievements in U.S.-China-Russia talks and exceeded full marks | Trump: The rel
   - [china] Treasury secretary rules out further restrictions on Nvidia chip sales to China
   - [china] Treasury secretary rules out further curbs on Nvidia chip sales to China
-  - [china] Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T22:22:42+00:00",
+      "published_utc": "2026-11-22T22:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
