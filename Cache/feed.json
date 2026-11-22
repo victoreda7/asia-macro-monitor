@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T23:22:42.282126+00:00",
- "collected_at_utc": "2026-11-22T23:22:42.282126+00:00",
+ "generated_at_utc": "2026-11-22T23:32:43.189024+00:00",
+ "collected_at_utc": "2026-11-22T23:32:43.189024+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1033,
-  "china": 931,
+  "china": 932,
   "taiwan": 322,
-  "korea": 714
+  "korea": 713
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-22T23:12:22+00:00"
+   "newest": "2026-11-22T23:00:45+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T21:57:17+00:00"
+   "newest": "2026-11-22T10:05:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T10:20:54+00:00"
+   "newest": "2026-11-21T20:21:54+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T05:57:00+00:00"
+   "newest": "2026-11-22T21:10:18+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T23:21:15+00:00"
+   "newest": "2026-11-22T23:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T12:00:00+00:00"
+   "newest": "2026-11-22T12:53:20+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T22:34:30+00:00"
+   "newest": "2026-11-22T23:27:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMVdUUFJQQi1RTGlKc0UwR0FRdnFZS1E0QmxTeUEzY0tIT2N1TWRmQThXdDZMaGlFN3lFUGk0VkhTd3ZNOWZJR21kZ2thdVgybWc?oc=5",
+   "published_utc": "2026-11-22T23:27:03+00:00",
+   "title_original": "Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "51c7fe52605e2aa7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -360,6 +377,23 @@
    "live_wire": true,
    "manual": false,
    "id": "078f79ec6dccdde6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Weekly Recap: AI computing at 68% of revenue and China shipments suspended",
+   "url": "https://www.tradingview.com/news/tradingview:c18242f1a6237:0-weekly-recap-ai-computing-at-68-of-revenue-and-china-shipments-suspended/",
+   "published_utc": "2026-11-22T23:00:00+00:00",
+   "title_original": "Weekly Recap: AI computing at 68% of revenue and China shipments suspended",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0093a6d144c3a51d"
   },
   {
    "source_id": "gn_kr_mk",
@@ -872,7 +906,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and Sato and the future of the December interest rate hike (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWEdoUGZSVDBXVkxLcV9NRmtPZWcwQlVzYmlVaUJKVkR6RzFXS1ZaYXBZdDBnM2FCUDlkNkNsWDFJbDdnUmk1enVsaW0zVXVEeGd1eVEzTzNxVjBIVDhpRlVMenNiX2tGQXNKRmpFSnRoaG5zdFNnak9ERWlfdFlVei0tYjZSZEVf?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSRGE3WlJyQmpSb0dadWc3N1g3NGJ2VkR0c1VIM2VSUTBfSngyTDExbkt2ZFNob1ZIU0tRRGRmZ25CZ21wY1A2cWpiS0R4RWladUtQRTdKX3o4T3B4UXQyNmFuYldCOXVfNF84b1lPLW1JS1h6NzI4YXRMUzRXMHc?oc=5",
    "published_utc": "2026-11-22T00:00:34+00:00",
    "title_original": "日銀の『主な意見』に「主な異見」なし 浅田・佐藤両委員らの慎重論と12月利上げの行方（TBS CROSS DIG with Bloomberg）",
    "region": "japan",
@@ -883,7 +917,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2914758797576810"
+   "id": "11f5c7c56b553784"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51875,41 +51909,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fd3da971219b1217"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E1AX:0-s-p-500-nasdaq-set-for-higher-open-as-sk-hynix-lifts-chips-fed-in-focus/",
-   "published_utc": "2026-10-28T12:45:44+00:00",
-   "title_original": "S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "68213c04e5904609"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Reborn Coffee Secures Manufacturing Infrastructure For $30 Million Supply Volume And Expands Global Supply Chain Via Tri-Party Agreement With Korean Vietnamese Oem Leaders",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA7CK37Q:0-reborn-coffee-secures-manufacturing-infrastructure-for-30-million-supply-volume-and-expands-global-supply-chain-via-tri-party-agreement-with-korean-vietnamese-oem-leaders/",
-   "published_utc": "2026-10-28T12:45:10+00:00",
-   "title_original": "Reborn Coffee Secures Manufacturing Infrastructure For $30 Million Supply Volume And Expands Global Supply Chain Via Tri-Party Agreement With Korean Vietnamese Oem Leaders",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "65ea86c6e803050c"
   },
   {
    "source_id": "manual_ia",
