@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-22T15:52:52.174362+00:00",
- "collected_at_utc": "2026-11-22T15:52:52.174362+00:00",
+ "generated_at_utc": "2026-11-22T16:03:44.412710+00:00",
+ "collected_at_utc": "2026-11-22T16:03:44.412710+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 321,
   "korea": 717
  },
- "elapsed_s": 33.4,
+ "elapsed_s": 83.4,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -59,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T14:14:02+00:00"
+   "newest": "2026-11-21T04:03:39+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -89,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
    "newest": "2026-11-22T15:36:16+00:00"
   },
@@ -115,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T10:30:00+00:00"
+   "newest": "2026-11-22T15:17:07+00:00"
   },
   {
    "source_id": "ked_global",
@@ -188,6 +172,22 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-22T10:20:54+00:00"
+  },
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-22T19:09:11+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-22T05:51:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T15:41:00+00:00"
+   "newest": "2026-11-22T16:01:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T11:52:49+00:00"
+   "newest": "2026-11-22T09:37:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,10 +342,7 @@
    "newest": "2026-11-22T15:31:00+00:00"
   }
  ],
- "falhas_seguidas": {
-  "nhk_politics": 1,
-  "nhk_economy": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "gn_kr_bok",
@@ -7535,7 +7532,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -7547,7 +7544,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -21696,23 +21693,6 @@
    "id": "7c552a88f9155933"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul shares turn higher after weak start amid inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oMXZPejdXQ213a2N4UDNHeHVWcWJqcmZRTnZKMmNIbXQzaEhJc0MwaFFQMERmeFhIZmdmUWZnclM2cTJkLUNYM3hqZ3JteExxYWVCMlFvc2hOdw?oc=5",
-   "published_utc": "2026-11-11T08:00:00+00:00",
-   "title_original": "(LEAD) Seoul shares turn higher after weak start amid inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "04f0f42f9fff71ee"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Nvidia security probe puts Taiwan supply chain orders under scrutiny",
@@ -21728,6 +21708,23 @@
    "live_wire": false,
    "manual": false,
    "id": "af0a2a2ada331a7f"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Seoul shares turn higher after weak start amid inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oMXZPejdXQ213a2N4UDNHeHVWcWJqcmZRTnZKMmNIbXQzaEhJc0MwaFFQMERmeFhIZmdmUWZnclM2cTJkLUNYM3hqZ3JteExxYWVCMlFvc2hOdw?oc=5",
+   "published_utc": "2026-11-11T08:00:00+00:00",
+   "title_original": "(LEAD) Seoul shares turn higher after weak start amid inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "04f0f42f9fff71ee"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -27411,7 +27408,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWDV2cXVOVHhaRFdrUzcxSEZXdU00WUgycl9QOEZuMjFRZHFUSjJBU3FRTDdQSGdZYllMeHdHMU05V1E2UXhxRGg5R2oxVVNDZUJtUXZpOE8yQkR0ZndvRXVSclRfSlhELWpDbnVmRXB1aEYw?oc=5",
    "published_utc": "2026-11-09T08:00:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -27422,7 +27419,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3739150292063d06"
+   "id": "f6ebef108a44170b"
   },
   {
    "source_id": "gn_tw_digitimes",
