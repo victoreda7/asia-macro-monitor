@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-22T00:06:41.214835+00:00",
- "collected_at_utc": "2026-11-22T00:06:41.214835+00:00",
+ "generated_at_utc": "2026-11-22T00:12:40.775918+00:00",
+ "collected_at_utc": "2026-11-22T00:12:40.775918+00:00",
  "degraded": false,
- "sources_ok": 16,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,208 +11,8 @@
   "taiwan": 325,
   "korea": 717
  },
- "elapsed_s": 260.7,
+ "elapsed_s": 28.8,
  "sources": [
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "name": "DIGITIMES",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "name": "UDN / 經濟日報",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -220,6 +20,46 @@
    "count": 47,
    "error": "",
    "newest": "2026-11-20T11:00:00+09:00"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T17:11:23+00:00"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-20T19:36:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "name": "DIGITIMES",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T04:04:46+00:00"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T05:00:36+00:00"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T09:48:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -235,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-21T23:46:07+00:00"
+   "newest": "2026-11-21T23:57:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -254,12 +94,28 @@
    "newest": "2026-11-21T17:12:18+00:00"
   },
   {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-20T13:40:00+00:00"
+  },
+  {
    "source_id": "ked_global",
    "name": "KED Global",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-20T23:46:07+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -270,6 +126,14 @@
    "newest": "2026-11-20T23:00:00+09:00"
   },
   {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-20T08:45:15+00:00"
+  },
+  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
@@ -278,12 +142,36 @@
    "newest": "2026-11-21T07:48:43+00:00"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-19T13:26:38+00:00"
+  },
+  {
    "source_id": "mof_jp",
    "name": "MOF Japan",
    "ok": true,
    "count": 60,
    "error": "",
    "newest": "2026-11-20T17:00:00+09:00"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T10:06:16+00:00"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-20T11:29:32+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -310,12 +198,68 @@
    "newest": ""
   },
   {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 23,
+   "error": "",
+   "newest": "2026-11-20T03:16:00+00:00"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T09:12:54+00:00"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T05:57:00+00:00"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T14:23:43+00:00"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-20T11:40:18+00:00"
+  },
+  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
    "count": 50,
    "error": "",
    "newest": "2026-11-21T22:05:10+00:00"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T08:30:06+00:00"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-20T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -326,6 +270,30 @@
    "newest": "2026-11-22T00:00:28+00:00"
   },
   {
+   "source_id": "gn_tw_udn",
+   "name": "UDN / 經濟日報",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T20:39:16+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T13:49:15+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T23:12:37+00:00"
+  },
+  {
    "source_id": "yahoo_business",
    "name": "Yahoo! ニュース 経済",
    "ok": true,
@@ -334,41 +302,47 @@
    "newest": "2026-11-21T23:49:12+00:00"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T11:43:12+00:00"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T19:30:00+00:00"
+  },
+  {
    "source_id": "toyo_keizai",
    "name": "東洋経済オンライン",
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-22T08:30:00+09:00"
+   "newest": "2026-11-22T09:00:00+09:00"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T14:53:16+00:00"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T21:29:18+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_asia_bloomberg": 1,
-  "gn_cn_caixin": 1,
-  "gn_tw_digitimes": 1,
-  "gn_asia_ft": 1,
-  "gn_tw_focus": 1,
-  "gn_jp_investing": 1,
-  "gn_kr_ked": 1,
-  "gn_kr_herald": 1,
-  "gn_jp_kyodo": 1,
-  "gn_cn_nbs": 1,
-  "gn_jp_nhkworld": 1,
-  "gn_cn_pboc": 1,
-  "gn_cn_reuters": 1,
-  "gn_jp_reuters": 1,
-  "gn_kr_reuters": 1,
-  "gn_tw_reuters": 1,
-  "gn_cn_scmp": 1,
-  "gn_tw_taipeitimes": 1,
-  "gn_tw_udn": 1,
-  "gn_cn_xinhua": 1,
-  "gn_jp_yahoo": 1,
-  "gn_kr_yonhap": 1,
-  "gn_tw_cna": 1,
-  "gn_kr_mk": 1,
-  "gn_kr_bok": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "gn_jp_yahoo",
@@ -6014,24 +5988,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -6323,6 +6279,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
+   "published_utc": "2026-11-18T15:22:48+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -12730,7 +12704,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Basic situation of national fixed asset investment from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVkVXekQ1SmUwLThvRFlnRmpOdnY0WXFVTmY3SGZzZTVuc0hEUTNDUEx0OHh3TTVwV2NIRGQyMVZEcEVrLWEwMU4yZE5QX0lTc2huTlNyWlhnRlMxel9JUGplZmwwZEd5OVJoTFZEVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSlB4UVFVSUVOcEVRSEIyQ3NueTg3VmNMSERLdG9nNXhpYzBBSmRocE54YmZMNHNJMjFGYlhTOTZPb0toWTFxVXVSLS1MVWtMWmhkYWpDUjhyTGlHY2kyTmVJYkJ6RUxLU1JINmFmWkd0YjQ0?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
    "title_original": "2026年1—10月份全国固定资产投资基本情况",
    "region": "china",
@@ -12741,7 +12715,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7a25ecddad9ea2ed"
+   "id": "c9a23b3e98833995"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -15578,24 +15552,6 @@
    "id": "b9731e2e48b1261f"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82bGhqV1lJSGJ3WVFmdUo4SXJydnVTYnlSOVNoamZNa0ZMcjI3TkRrOGctNmNEVUNwNDNwMGtVVUg4MzdBOHpDZ2hQZ21RTjJHTER6VzNERi1FZw?oc=5",
-   "published_utc": "2026-11-13T11:57:00+00:00",
-   "title_original": "BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7f879e68cffd5bc"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Bitcoin slides below $70,000 as inflation concerns hurt crypto",
@@ -16319,6 +16275,23 @@
    "id": "4c2078d4781d628d"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVHlZemZuX2NPV1lOUFBDUGVIMkZDd2FWcWVwMkVYMVJzckx6Y3JUMU1kTmVMbkFMTzVrZTRBUHlWcS0yREo5OUtpN2JoUUZMcWYzanZFUjFOZw?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2967c72e55a4eac7"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "The institutions behind South Wales' semiconductor strength face a changing industrial reality",
@@ -16338,19 +16311,20 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVHlZemZuX2NPV1lOUFBDUGVIMkZDd2FWcWVwMkVYMVJzckx6Y3JUMU1kTmVMbkFMTzVrZTRBUHlWcS0yREo5OUtpN2JoUUZMcWYzanZFUjFOZw?oc=5",
+   "title_en": "BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82bGhqV1lJSGJ3WVFmdUo4SXJydnVTYnlSOVNoamZNa0ZMcjI3TkRrOGctNmNEVUNwNDNwMGtVVUg4MzdBOHpDZ2hQZ21RTjJHTER6VzNERi1FZw?oc=5",
    "published_utc": "2026-11-13T08:00:00+00:00",
-   "title_original": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
+   "title_original": "BREAKING NEWS: Japan eyes 60 tril. yen for 5-yr defense buildup without major tax hike",
    "region": "japan",
    "topics": [
-    "fiscal"
+    "fiscal",
+    "fx"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2967c72e55a4eac7"
+   "id": "a7f879e68cffd5bc"
   },
   {
    "source_id": "gn_tw_digitimes",
