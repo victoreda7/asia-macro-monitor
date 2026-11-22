@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T01:42:41.300811+00:00
+Última coleta: 2026-11-22T01:52:41.389401+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
   🇨🇳 China          922
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  716
+  🇹🇼 Taiwan         324
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
@@ -47,6 +47,7 @@ Total: 3000 manchetes
   - [taiwan] SolidWizard sees AI, semiconductor orders through 2027
   - [china] China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus
   - [korea] SoftBank’S Masayoshi Son Explored $1 Trillion Moonshot Buyout Of SK Hynix - The Information
+  - [korea] Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin
   - [korea] [Next week's economy] Waiting to see whether the Bank of Korea will raise interest rates... Growth forecast an
   - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Pay attention to whether the 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea decides on the base interest rate on the 26th... Will the increase resume after two months?:
   - [korea] [Next week's economy] Let's take a breather. Will the base interest rate be raised? The Bank of Korea’s growth
   - [korea] Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Kor
-  - [china] Tongda International Group Operating Subsidiaries Provides E-Commerce Services in China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T01:42:41+00:00",
+      "published_utc": "2026-11-22T01:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
