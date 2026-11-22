@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T15:03:04.377435+00:00
+Última coleta: 2026-11-22T15:12:41.834353+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          928
+  🇯🇵 Japão          1033
+  🇨🇳 China          929
   🇹🇼 Taiwan         321
   🇰🇷 Coreia do Sul  717
 
@@ -48,6 +48,7 @@ Total: 3000 manchetes
   - [china] Canada deepens trade relations with China, Chen Mingqi warns of risks of economic coercion from Beijing | Poli
   - [china] Treasury secretary rules out further restrictions on Nvidia chip sales to China
   - [china] Treasury secretary rules out further curbs on Nvidia chip sales to China
+  - [china] Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing
   - [china] Goldman upgrades China H-shares on faster earnings growth outlook
   - [japan] Charting the Global Economy: GDP Slips in Japan on Weak Consumer
   - [taiwan] Taiwan further tightens short-selling amid stock market volatility
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Ministry of Economic Affairs: The electronics industry is still confident about its prospects and exports are 
   - [taiwan] Taiwan further tightens short-selling rules after market rout
   - [korea] Samsung, SK hynix tumble as analysts split on chip outlook
-  - [china] Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Ge
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T15:03:04+00:00",
+      "published_utc": "2026-11-22T15:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
