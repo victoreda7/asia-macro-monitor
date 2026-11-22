@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T02:32:48.400550+00:00
+Última coleta: 2026-11-22T02:42:46.921645+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean ramen exports surpassed last year's annual performance for the first time in 10 months this y..
   - [china] The Alice Huang Associate Accused of Funneling Nvidia Chips to China — WSJ
   - [japan] There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and 
   - [japan] What will happen to Japan's "salaries" and "prices" if Trump loses... Experts warn of double punch to househol
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [N Week] Last base interest rate increase of this year?... Digital Asset Act and Financial Reform Plan Reveale
   - [korea] Key facts: SK hynix results surge; Kioxia stake rises; HYAICO formed
   - [korea] The Bank of Korea decides on the base interest rate on the 26th... Will the increase resume after two months?:
-  - [korea] [Next week's economy] Let's take a breather. Will the base interest rate be raised? The Bank of Korea’s growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T02:32:48+00:00",
+      "published_utc": "2026-11-22T02:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
