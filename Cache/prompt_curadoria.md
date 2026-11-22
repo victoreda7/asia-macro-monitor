@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T09:02:43.668081+00:00
+Última coleta: 2026-11-22T09:12:42.753544+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
+  🇯🇵 Japão          1035
   🇨🇳 China          928
   🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [china] The founder of China's CATL, the world's largest battery company, donated more than 2.5 billion yuan..
   - [korea] “Further tightening is likely due to high inflation… base interest rate 0.25%P ↑ on the 26th”
+  - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
   - [korea] Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?
   - [korea] BOK likely to hike interest rate on resilient growth, inflation
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Retail investors snatch up odd lot shares amid TSMC's plunge
   - [korea] Is the Bank of Korea inclined to raise interest rates? Next week's economic hot issues, including the stock ma
   - [korea] Is the Bank of Korea inclined to raise interest rates? Hot economic issues next week, including whether KOSPI 
-  - [taiwan] SolidWizard sees AI, semiconductor orders through 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T09:02:43+00:00",
+      "published_utc": "2026-11-22T09:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
