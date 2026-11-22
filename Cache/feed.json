@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T01:52:41.389401+00:00",
- "collected_at_utc": "2026-11-22T01:52:41.389401+00:00",
+ "generated_at_utc": "2026-11-22T02:02:42.205859+00:00",
+ "collected_at_utc": "2026-11-22T02:02:42.205859+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1037,
-  "china": 922,
+  "china": 923,
   "taiwan": 324,
-  "korea": 717
+  "korea": 716
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-22T01:31:09+00:00"
+   "newest": "2026-11-22T01:48:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -112,10 +112,10 @@
   {
    "source_id": "gn_kr_ked",
    "name": "KED Global",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 10/08/2026",
-   "newest": "2026-08-10T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-11-20T23:46:07+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T01:13:27+00:00"
+   "newest": "2026-11-22T02:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China — WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20261121001775:0-the-alice-huang-associate-accused-of-funneling-nvidia-chips-to-china-wsj/",
+   "published_utc": "2026-11-22T02:00:00+00:00",
+   "title_original": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China — WSJ",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "87311407828e2835"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and Sato and the future of the December interest rate hike (TBS CROSS DIG with Bloomberg)",
@@ -366,7 +383,7 @@
    "source_name": "Yahoo!ニュース",
    "title_en": "What will happen to Japan's \"salaries\" and \"prices\" if Trump loses... Experts warn of double punch to household finances (Weekly Women's PRIME)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUVpqa3R2c0lvU1NLdUlHQXZjV0NsRWtIUkRrU3p3dl9yLW4wbURzbkk3eGxCVV9kd1psTzEtQ1NyQ0NtaE93Y0lLTHZtbDdfd096NzVwbWJzckR3QkszMWJXMU9BcVlQZElwVE5zbW5ZNG43VW0xR3VnY0kwVWM?oc=5",
-   "published_utc": "2026-11-21T22:33:14+00:00",
+   "published_utc": "2026-11-21T22:30:36+00:00",
    "title_original": "トランプ敗北で日本の「給料」と「物価」はどうなる…専門家が警告する家計へのダブルパンチ（週刊女性PRIME）",
    "region": "japan",
    "topics": [
@@ -2703,8 +2720,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -2718,7 +2735,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2944,8 +2961,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -2958,7 +2975,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4464,8 +4481,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -4479,7 +4496,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -4791,8 +4808,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -4806,7 +4823,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5485,8 +5502,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -5499,7 +5516,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -14216,23 +14233,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank’s major adjustment is happening today",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qWmN5MVJGTTNCa1FJaDRISldfYWNwNkhheDJCY1lJS0pLQ3JZZ3pIRGhJUHg1bm9NNGczVDBHQkpBZ0k4bkItQzVqR180UVBCamVMWjdSbWxoQzFyTGdzRWIxWUJTSmZLLTE2ZU9sQjJIcU1tRjZ2VA?oc=5",
-   "published_utc": "2026-11-15T03:22:05+00:00",
-   "title_original": "央行重大调整，就在今日",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b90297bccefed8b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "Increased from 4% to 6%! Major adjustments made by the central bank today",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1RJazVPZGdMaU1tdEZFaEVQVENMS05RYm9CN21kSmNxS0MySXhxaUZvckptSGplLTBYbk5CUDdYbU4wemlTME5rVFBMYURGR0JCOFZXMEFIdnpNbVNVdUFDUWVYUTVUOGhlOVd0T2pPTVdYWWxfRTR3cmNSbTVEcG9CcDJCaHVyeC1FSA?oc=5",
@@ -14281,6 +14281,23 @@
    "live_wire": false,
    "manual": false,
    "id": "beae86cad19afdcf"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank’s major adjustment is happening today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0xDTTl6XzBhNnVsTHdkamQteUFROFRINkttMjFoMVlzWmJ4N1RnZ3BSVUlEMWJWcjJrSlpoM040a0pvdHdQdVFjTzlnRmNVRFVVZGU4aUVDMFFMZS1kdUZaSVJPa1g4bmh3REVfZlhVdGEtYlduNGp4dGJ2TWptWDVnRGRIV0dYWF9rclZscw?oc=5",
+   "published_utc": "2026-11-15T02:39:14+00:00",
+   "title_original": "央行重大调整，就在今日",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "787950e734980f05"
   },
   {
    "source_id": "tradingview_live",
@@ -51886,23 +51903,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5cabf4b8c2fcdf99"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Foreign currency deposits rise to fresh record high in Sept.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRDNKdVVLY0ZlQVNHOGZSNzNiTzJ1WmNWVDVOdmVKaEdlZExtZ25uVjNUWVFTdFBxb1k0QWl1ZU1HYU5OdmpBV2w3bFl6VEhEbk55MERuN290dw?oc=5",
-   "published_utc": "2026-10-28T03:00:10+00:00",
-   "title_original": "Foreign currency deposits rise to fresh record high in Sept.",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8b208898763ccd0f"
   },
   {
    "source_id": "manual_ia",

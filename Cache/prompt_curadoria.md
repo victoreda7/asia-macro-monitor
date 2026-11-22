@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T01:52:41.389401+00:00
+Última coleta: 2026-11-22T02:02:42.205859+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
-  🇨🇳 China          922
+  🇨🇳 China          923
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  717
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [china] The Alice Huang Associate Accused of Funneling Nvidia Chips to China — WSJ
   - [japan] There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and 
   - [japan] What will happen to Japan's "salaries" and "prices" if Trump loses... Experts warn of double punch to househol
   - [korea] “The Bank of Korea will raise the base interest rate on the 26th” in one voice… 9 out of 10 “3.50% next year” 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Key facts: SK hynix results surge; Kioxia stake rises; HYAICO formed
   - [korea] The Bank of Korea decides on the base interest rate on the 26th... Will the increase resume after two months?:
   - [korea] [Next week's economy] Let's take a breather. Will the base interest rate be raised? The Bank of Korea’s growth
-  - [korea] Exports reach $1 trillion and growth forecast is ‘worsening’… Additional interest rate hike by the Bank of Kor
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T01:52:41+00:00",
+      "published_utc": "2026-11-22T02:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
