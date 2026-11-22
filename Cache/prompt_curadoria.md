@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T12:32:50.727063+00:00
+Última coleta: 2026-11-22T12:42:41.092587+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
   🇨🇳 China          927
-  🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  717
+  🇹🇼 Taiwan         320
+  🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] All Hankyung economists say, “Interest rate will be increased by 0.25% this month”
   - [china] The founder of China's CATL, the world's largest battery company, donated more than 2.5 billion yuan..
   - [korea] “Further tightening is likely due to high inflation… base interest rate 0.25%P ↑ on the 26th”
+  - [korea] [Weekly Economic, Crypto Calendar] FSC to Unveil Government Draft of Digital Asset Law; BOK Rate Decision Due
   - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
   - [korea] Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?
   - [korea] BOK likely to hike interest rate on resilient growth, inflation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan further tightens short-selling rules after market rout
   - [korea] Samsung, SK hynix tumble as analysts split on chip outlook
   - [china] Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Ge
-  - [taiwan] Taiwan's Q3 current account surplus hits 2nd highest due to global AI demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T12:32:50+00:00",
+      "published_utc": "2026-11-22T12:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
