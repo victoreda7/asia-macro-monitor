@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T10:02:43.954899+00:00
+Última coleta: 2026-11-22T10:12:42.346486+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
   🇨🇳 China          928
-  🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  715
+  🇹🇼 Taiwan         321
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [japan] Corporate Japan races to revive rare-earth supply chain amid China curbs
+  - [china] Chinese-made cars take 34% of S.Korea's EV market, driving record auto trade deficit
+  - [korea] All Hankyung economists said, “The base interest rate will be increased by 0.25% this month.”
   - [china] The founder of China's CATL, the world's largest battery company, donated more than 2.5 billion yuan..
   - [korea] “Further tightening is likely due to high inflation… base interest rate 0.25%P ↑ on the 26th”
   - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
   - [japan] Bank deposits ``100 million yen or more'' 3.6 times more likely to accumulate assets among the wealthy Bank of
   - [korea] “Masayoshi Son Mulls Acquiring SK hynix for 1,346 Trillion Won...Asks Wall Street About Financing Plan”
-  - [taiwan] Retail investors snatch up odd lot shares amid TSMC's plunge
-  - [korea] Is the Bank of Korea inclined to raise interest rates? Next week's economic hot issues, including the stock ma
-  - [korea] Is the Bank of Korea inclined to raise interest rates? Hot economic issues next week, including whether KOSPI 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T10:02:44+00:00",
+      "published_utc": "2026-11-22T10:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-22T10:02:43.954899+00:00",
- "collected_at_utc": "2026-11-22T10:02:43.954899+00:00",
+ "generated_at_utc": "2026-11-22T10:12:42.346486+00:00",
+ "collected_at_utc": "2026-11-22T10:12:42.346486+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1035,
   "china": 928,
-  "taiwan": 322,
-  "korea": 715
+  "taiwan": 321,
+  "korea": 716
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T09:40:28+00:00"
+   "newest": "2026-11-22T10:05:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-22T18:36:58+09:00"
+   "newest": "2026-11-22T19:09:11+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T00:00:15+00:00"
+   "newest": "2026-11-22T07:02:02+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T09:37:12+00:00"
+   "newest": "2026-11-22T05:42:14+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,11 +339,63 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T08:36:00+00:00"
+   "newest": "2026-11-22T08:44:37+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+   "url": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs",
+   "published_utc": "2026-11-22T10:12:40.808198+00:00",
+   "title_original": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c6690801445117f"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Chinese-made cars take 34% of S.Korea's EV market, driving record auto trade deficit",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10OXA2Z1o3eTlFZVRkLTNWdF9TcUp4UHZLVjdtd2JGdkRwdGxyZlVUNEp5UzRjOTRwbzFJc1lDVkJlVTMzeTdXbzlBYVBsd3drSTdaTUVseG1feDJ0NjBEdHRJWGZBWEJuSjBEUzlYcWM1RWZ5T2Jr?oc=5",
+   "published_utc": "2026-11-22T10:05:00+00:00",
+   "title_original": "Chinese-made cars take 34% of S.Korea's EV market, driving record auto trade deficit",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "724d506e617f52fe"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "All Hankyung economists said, “The base interest rate will be increased by 0.25% this month.”",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDQ3BuNFZldENQRTVkNkQyZHZaY2lFOEFfRDVGRlNjdVZBMUlOMWF6VmRtWUIwck9jQ0t1dm9nNFQ2dVgzQy1CTll3REFrYklhY1dWc0tCOUxxdw?oc=5",
+   "published_utc": "2026-11-22T08:44:37+00:00",
+   "title_original": "한경 이코노미스트 전원 \"이달 기준금리 0.25%P 인상\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d003e63c043f6e52"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -2933,8 +2985,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -2948,7 +3000,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3174,8 +3226,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -3188,7 +3240,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4711,8 +4763,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -4726,7 +4778,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -5055,8 +5107,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -5070,7 +5122,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5749,8 +5801,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -5763,7 +5815,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -27097,7 +27149,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWDV2cXVOVHhaRFdrUzcxSEZXdU00WUgycl9QOEZuMjFRZHFUSjJBU3FRTDdQSGdZYllMeHdHMU05V1E2UXhxRGg5R2oxVVNDZUJtUXZpOE8yQkR0ZndvRXVSclRfSlhELWpDbnVmRXB1aEYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
    "published_utc": "2026-11-09T08:00:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -27108,7 +27160,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f6ebef108a44170b"
+   "id": "3739150292063d06"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51857,57 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8066835089222bdf"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi received proposals from the Liberal Democratic Party regarding the stable supply of energy and countermeasures against rising prices in light of the prolonged tense situation in the Middle East.",
-   "url": "https://www.kantei.go.jp/jp/105/actions/202610/28teigen.html",
-   "published_utc": "2026-10-28T07:00:00+00:00",
-   "title_original": "高市総理は自由民主党・中東情勢緊迫の長期化を踏まえたエネルギー安定供給・物価高対策に関する提言申入れを受けました",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "405780e24d1dc7a8"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjZHRkdvcWpDSFVYNFhHTlM1X2R6VFF2MThsbTY0S2owTmtEUnhqYTJrdzhVOEMxOVdQZE11X3RBQzdfY0NpRGc0TWduZ3l6RGo4RVE0aFhIT0xOOE5iREZMc2pwd3JuTVFNdVFkbk1qZVd1bDc3bXBYS0c1SHk3ZzF1NGpoNGp1WHRPYi1FNE4tNlJCRkpCTWFTY3hrUQ?oc=5",
-   "published_utc": "2026-10-28T07:00:00+00:00",
-   "title_original": "Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "991d49763d85a707"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Policy Banks Complete 800 Billion Yuan Financing Push",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanpaMWVzNU9VWEN6XzBTem1NQkZDV0ZPajRqekoyUjF1aWFCMENYZHlFSWFuY00zVzB4aklSaDd4d0pDT1pWNWc4cmtTTnZDVWZjTEt2d2oza0JudXZTMXZlYU10QVNRbS1iUlhzSU5JMHJPTDZ6N2h0enhrMF8wQlFjbXdLWGtHSXR6eUljRlU4MXVDMDB3eHpFblM2QllZbk8wZkpsbjZNZzYybDg0NTBJY3ZMZw?oc=5",
-   "published_utc": "2026-10-28T07:00:00+00:00",
-   "title_original": "China’s Policy Banks Complete 800 Billion Yuan Financing Push",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "93fb30ca78bd022d"
   },
   {
    "source_id": "manual_ia",
