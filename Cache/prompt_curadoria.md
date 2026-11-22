@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T18:52:42.267813+00:00
+Última coleta: 2026-11-22T19:02:42.768942+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] US seeks answers on Nvidia’s sale of chips to China, Bessent says
   - [china] US seeks answers on sale of Nvidia chips to China, says Treasury secretary
+  - [china] US seeks answers on Nvidia’s sale of chips to China, Bessent says
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Interest rate expected to rise to 3.25%
   - [china] One Stanley developer reports alleged extortion bid involving ‘tens of millions’
   - [china] The associate of Alice Huang who funneled Nvidia chips to China - WSJ
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T18:52:42+00:00",
+      "published_utc": "2026-11-22T19:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
