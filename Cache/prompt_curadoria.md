@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T04:22:43.131461+00:00
+Última coleta: 2026-11-22T04:36:53.597117+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
+  🇯🇵 Japão          1036
   🇨🇳 China          925
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  714
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
   - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
   - [korea] S. Korea expected to become world's 4th-largest exporter this year
   - [korea] Korean ramen exports surpassed last year's annual performance for the first time in 10 months this y..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Next week's economy] Waiting to see whether the Bank of Korea will raise interest rates... Growth forecast an
   - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Pay attention to whether the 
-  - [korea] From determining the base interest rate to coin regulation… Financial market watershed next week
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T04:22:43+00:00",
+      "published_utc": "2026-11-22T04:36:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
