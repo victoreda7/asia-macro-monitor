@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T16:12:50.779453+00:00",
- "collected_at_utc": "2026-11-22T16:12:50.779453+00:00",
+ "generated_at_utc": "2026-11-22T16:22:43.722800+00:00",
+ "collected_at_utc": "2026-11-22T16:22:43.722800+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
-  "china": 930,
+  "japan": 1032,
+  "china": 931,
   "taiwan": 321,
   "korea": 716
  },
- "elapsed_s": 28.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
    "newest": "2026-11-22T15:56:18+00:00"
   },
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T01:28:00+00:00"
+   "newest": "2026-11-22T08:13:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T16:08:40+00:00"
+   "newest": "2026-11-22T16:18:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T11:43:12+00:00"
+   "newest": "2026-11-22T02:39:21+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US seeks answers on sale of Nvidia chips to China, says Treasury secretary",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47304Z:0/",
+   "published_utc": "2026-11-22T16:18:41+00:00",
+   "title_original": "EUA buscam respostas sobre venda de chips da Nvidia para China, diz secretário do Tesouro",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "80d6ab52a9d0c6a7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -840,7 +857,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "The Bank of Korea expects to resume raising interest rates for the first time in three months... “Austerity until next year”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2a2w0dkxyOERFRTZnSW0zUEJsUGtWUDZmQ0hkWnJERFlpeElnN2lwcHEzSWhFZmhILU5LYVdzZzFJaGE1RU4tSFF5bWdVczhkZDd6RjJVZmNrRVnSAWBBVV95cUxPOEFtQTczV1JEYUFMb2ZFVlk1LS1VeEFOVEhBT2RHRVhIRGx6dUxMSmVTeDBwNE5MYVVLaEN6ZkNBRVM2T0V6eXhlQ012clA5RVJVMi1MR3lJMXA2bmd4enY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84QW1BNzNXUkRhQUxvZkVWWTUtLVV4QU5USEFPZEdFWEhEbHp1TExKZVN4MHA0TkxhVUtoQ3pmQ0FFUzZPRXp5eGVDTXZyUDlFUlUyLUxHeUkxcDZuZ3h6dtIBYEFVX3lxTE84QW1BNzNXUkRhQUxvZkVWWTUtLVV4QU5USEFPZEdFWEhEbHp1TExKZVN4MHA0TkxhVUtoQ3pmQ0FFUzZPRXp5eGVDTXZyUDlFUlUyLUxHeUkxcDZuZ3h6dg?oc=5",
    "published_utc": "2026-11-21T20:45:01+00:00",
    "title_original": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
    "region": "korea",
@@ -851,7 +868,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ea62f36cb055cd5c"
+   "id": "db3ab50382bf0c0c"
   },
   {
    "source_id": "gn_kr_bok",
@@ -16972,23 +16989,6 @@
    "id": "4c2078d4781d628d"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVHlZemZuX2NPV1lOUFBDUGVIMkZDd2FWcWVwMkVYMVJzckx6Y3JUMU1kTmVMbkFMTzVrZTRBUHlWcS0yREo5OUtpN2JoUUZMcWYzanZFUjFOZw?oc=5",
-   "published_utc": "2026-11-13T08:00:00+00:00",
-   "title_original": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2967c72e55a4eac7"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "The institutions behind South Wales' semiconductor strength face a changing industrial reality",
@@ -17004,6 +17004,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2a2c32d08f954adf"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVHlZemZuX2NPV1lOUFBDUGVIMkZDd2FWcWVwMkVYMVJzckx6Y3JUMU1kTmVMbkFMTzVrZTRBUHlWcS0yREo5OUtpN2JoUUZMcWYzanZFUjFOZw?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup: sources",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2967c72e55a4eac7"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -27425,7 +27442,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWDV2cXVOVHhaRFdrUzcxSEZXdU00WUgycl9QOEZuMjFRZHFUSjJBU3FRTDdQSGdZYllMeHdHMU05V1E2UXhxRGg5R2oxVVNDZUJtUXZpOE8yQkR0ZndvRXVSclRfSlhELWpDbnVmRXB1aEYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
    "published_utc": "2026-11-09T08:00:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -27436,7 +27453,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f6ebef108a44170b"
+   "id": "3739150292063d06"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51891,23 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "68c4c0d75c45e3e1"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi held a summit meeting with Friedrich Merz, Chancellor of the Federal Republic of Germany.",
-   "url": "https://www.kantei.go.jp/jp/105/actions/202610/28germany.html",
-   "published_utc": "2026-10-28T09:00:00+00:00",
-   "title_original": "高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と首脳会談を行いました",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9806885c30836af7"
   },
   {
    "source_id": "manual_ia",
