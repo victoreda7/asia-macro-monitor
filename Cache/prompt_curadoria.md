@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T11:32:42.363669+00:00
+Última coleta: 2026-11-22T11:42:43.130447+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
-  🇨🇳 China          928
+  🇨🇳 China          927
   🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  715
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
   - [korea] Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?
   - [korea] BOK likely to hike interest rate on resilient growth, inflation
+  - [korea] Although Korea recorded the world's highest export growth this year, surpassing $1 trillion in annua..
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
   - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
   - [korea] S. Korea expected to become world's 4th-largest exporter this year
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SoftBank's Son studied the possibility of a $1 trillion acquisition of SK Hynix, according to The Information
   - [korea] SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports
   - [japan] Bank deposits ``100 million yen or more'' 3.6 times more likely to accumulate assets among the wealthy Bank of
-  - [korea] “Masayoshi Son Mulls Acquiring SK hynix for 1,346 Trillion Won...Asks Wall Street About Financing Plan”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T11:32:42+00:00",
+      "published_utc": "2026-11-22T11:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
