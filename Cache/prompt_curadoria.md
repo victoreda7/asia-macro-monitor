@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T16:42:42.112946+00:00
+Última coleta: 2026-11-22T16:52:43.023780+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
-  🇨🇳 China          931
+  🇨🇳 China          930
   🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [japan] There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and 
   - [japan] What will happen to Japan's "salaries" and "prices" if Trump loses... Experts warn of double punch to househol
   - [korea] “The Bank of Korea will raise the base interest rate on the 26th” in one voice… 9 out of 10 “3.50% next year” 
+  - [korea] Pay attention to PCE in October in the US... Korean bank reveals revised growth rate for this year [Han Dong-h
   - [korea] Will the Bank of Korea resume raising interest rates? Interest in US PCE and growth rate [Han Dong-hoon's Week
   - [korea] Rapid growth rate, unpredictable prices... Bank of Korea expected to raise interest rates this week
   - [korea] The Bank of Korea expects to resume raising interest rates for the first time in three months... “Austerity un
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Charting the Global Economy: GDP Slips in Japan on Weak Consumer
   - [taiwan] Taiwan further tightens short-selling amid stock market volatility
   - [china] Trump boasts of unprecedented achievements in U.S.-China-Russia talks and exceeded full marks | Trump: The rel
-  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T16:42:42+00:00",
+      "published_utc": "2026-11-22T16:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
