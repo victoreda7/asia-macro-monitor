@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T01:22:41.201078+00:00",
- "collected_at_utc": "2026-11-22T01:22:41.201078+00:00",
+ "generated_at_utc": "2026-11-22T01:32:45.116350+00:00",
+ "collected_at_utc": "2026-11-22T01:32:45.116350+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1036,
+  "japan": 1037,
   "china": 922,
   "taiwan": 325,
-  "korea": 717
+  "korea": 716
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T11:29:32+00:00"
+   "newest": "2026-11-20T09:55:18+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-11-20T03:16:00+00:00"
   },
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T23:12:37+00:00"
+   "newest": "2026-11-22T00:00:34+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and Sato and the future of the December interest rate hike (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSRGE3WlJyQmpSb0dadWc3N1g3NGJ2VkR0c1VIM2VSUTBfSngyTDExbkt2ZFNob1ZIU0tRRGRmZ25CZ21wY1A2cWpiS0R4RWladUtQRTdKX3o4T3B4UXQyNmFuYldCOXVfNF84b1lPLW1JS1h6NzI4YXRMUzRXMHc?oc=5",
+   "published_utc": "2026-11-22T00:00:34+00:00",
+   "title_original": "日銀の『主な意見』に「主な異見」なし 浅田・佐藤両委員らの慎重論と12月利上げの行方（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "11f5c7c56b553784"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -5988,6 +6005,24 @@
    "id": "6f9d1f1e8c938658"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -6279,24 +6314,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6a235093c4560460"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWnEtVXdYWVo2TGFpQnBYdzRtbWJqamllalRVal9hZWc3MXdoX3FMOUxpMUVUUGNDYzEtWW5UbERwaHZBclJ6MzlYVXNVNWdhaFpuVlE3MjYzNDl0WXhiRQ?oc=5",
-   "published_utc": "2026-11-18T15:22:48+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9b8395a861c165"
   },
   {
    "source_id": "nikkei_asia",
@@ -51887,23 +51904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dd62e7179951e2d5"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is SK Hynix stock surging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4977400",
-   "published_utc": "2026-10-28T02:48:33+00:00",
-   "title_original": "Why is SK Hynix stock surging today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "193c314b45bc40aa"
   },
   {
    "source_id": "manual_ia",
