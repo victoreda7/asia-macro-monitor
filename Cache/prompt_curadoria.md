@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T06:32:42.178419+00:00
+Última coleta: 2026-11-22T06:42:42.231842+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
@@ -17,7 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [korea] BOK likely to lift rate on resilient growth, inflation
+  - [korea] BOK likely to hike interest rate on resilient growth, inflation
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
   - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
   - [korea] S. Korea expected to become world's 4th-largest exporter this year
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T06:32:42+00:00",
+      "published_utc": "2026-11-22T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
