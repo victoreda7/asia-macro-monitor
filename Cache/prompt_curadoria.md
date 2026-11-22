@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T07:32:41.179328+00:00
+Última coleta: 2026-11-22T07:42:43.070398+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
-  🇨🇳 China          926
+  🇨🇳 China          925
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  715
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [korea] Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?
   - [korea] BOK likely to hike interest rate on resilient growth, inflation
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
   - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Offshore Tax Clampdown Pushes Budget Into Rare Surplus
   - [korea] SoftBank’S Masayoshi Son Explored $1 Trillion Moonshot Buyout Of SK Hynix - The Information
   - [korea] Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin
-  - [korea] [Next week's economy] Waiting to see whether the Bank of Korea will raise interest rates... Growth forecast an
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T07:32:41+00:00",
+      "published_utc": "2026-11-22T07:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
