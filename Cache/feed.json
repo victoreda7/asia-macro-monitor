@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T05:42:48.714921+00:00",
- "collected_at_utc": "2026-11-22T05:42:48.714921+00:00",
+ "generated_at_utc": "2026-11-22T05:52:43.802957+00:00",
+ "collected_at_utc": "2026-11-22T05:52:43.802957+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1036,
+  "japan": 1035,
   "china": 925,
   "taiwan": 324,
-  "korea": 715
+  "korea": 716
  },
- "elapsed_s": 28.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T22:03:00+00:00"
+   "newest": "2026-11-20T19:36:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -73,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
    "newest": "2026-11-22T05:31:07+00:00"
   },
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-22T05:27:57+00:00"
+   "newest": "2026-11-22T05:46:28+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T05:41:00+00:00"
+   "newest": "2026-11-22T05:51:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T02:40:27+00:00"
+   "newest": "2026-11-21T23:40:09+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T02:28:42+00:00"
+   "newest": "2026-11-22T05:19:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,11 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T21:29:18+00:00"
+   "newest": "2026-11-22T01:53:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "BOK likely to lift rate on resilient growth, inflation",
+   "url": "https://www.koreaherald.com/article/10945119",
+   "published_utc": "2026-11-22T05:46:28+00:00",
+   "title_original": "BOK likely to lift rate on resilient growth, inflation",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cac8f6e360e66983"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -448,6 +466,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f9ba008697f92f43"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "Both prices and growth rise… Even though the market is difficult, “the Bank of Korea’s interest rate rises”",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWZGaHVHRTRqSnNobWNmeXYwS2p0YUMxaVladDh4eXFLNFBMRURKcU1xeWxMODZrdnhxeHlzVGJIa1BrVkdNTUNkYkU2cTlWMXBVb3dTN3BQVURrbFRBTGZsd1dhQ3ppVUhvYnBJQnA1Szc4M2djOUZaaUJPRVF0c0Z5RWdHZmZheWRyQ0tn?oc=5",
+   "published_utc": "2026-11-22T01:53:00+00:00",
+   "title_original": "물가·성장 모두 ↑…시장은 힘겨워도 \"한은 금리는 올라간다\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2c601106a45152b9"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2808,8 +2844,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -2823,7 +2859,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3049,8 +3085,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -3063,7 +3099,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4569,8 +4605,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -4584,7 +4620,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -4913,8 +4949,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -4928,7 +4964,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5607,8 +5643,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -5621,7 +5657,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -12860,7 +12896,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Basic situation of national fixed asset investment from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVkVXekQ1SmUwLThvRFlnRmpOdnY0WXFVTmY3SGZzZTVuc0hEUTNDUEx0OHh3TTVwV2NIRGQyMVZEcEVrLWEwMU4yZE5QX0lTc2huTlNyWlhnRlMxel9JUGplZmwwZEd5OVJoTFZEVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSlB4UVFVSUVOcEVRSEIyQ3NueTg3VmNMSERLdG9nNXhpYzBBSmRocE54YmZMNHNJMjFGYlhTOTZPb0toWTFxVXVSLS1MVWtMWmhkYWpDUjhyTGlHY2kyTmVJYkJ6RUxLU1JINmFmWkd0YjQ0?oc=5",
    "published_utc": "2026-11-16T02:00:00+00:00",
    "title_original": "2026年1—10月份全国固定资产投资基本情况",
    "region": "china",
@@ -12871,7 +12907,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7a25ecddad9ea2ed"
+   "id": "c9a23b3e98833995"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -51866,42 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "077f2c83db05702a"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "이코리아",
-   "title_en": "The cause of inflation that will determine the base interest rate: ‘Bonk vs. National Assembly’, who is right?",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TOTBORmREeE95YTZOWmliTlptX1EwN2h1UkloUUZZQi16d3JPckJWLUpQQTVpOWhvZFVjOGNLUnNQbGE3ZnV5eW1sRzBLZ0d4cURPTEVNTEUzTEFTSF95TXdBTzZYVVZxdmVsY3Z1cw?oc=5",
-   "published_utc": "2026-10-28T04:39:42+00:00",
-   "title_original": "기준금리 좌우할 물가상승 원인, '한은 vs 국회' 누가 맞을까",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4c9482951c39107"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Presentation of materials on the government's consumption tax reduction bill support funding concept",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66946",
-   "published_utc": "2026-10-28T04:33:00+00:00",
-   "title_original": "政府 消費税減税法案 支援金考え方の資料提示",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "07761fada4834918"
   },
   {
    "source_id": "manual_ia",

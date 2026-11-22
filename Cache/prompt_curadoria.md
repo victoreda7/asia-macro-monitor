@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T05:42:48.714921+00:00
+Última coleta: 2026-11-22T05:52:43.802957+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
+  🇯🇵 Japão          1035
   🇨🇳 China          925
   🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  715
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK likely to lift rate on resilient growth, inflation
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
   - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
   - [korea] S. Korea expected to become world's 4th-largest exporter this year
   - [korea] Korean ramen exports surpassed last year's annual performance for the first time in 10 months this y..
   - [china] The Alice Huang Associate Accused of Funneling Nvidia Chips to China — WSJ
   - [korea] With the burden of growth and prices increasing, will the Bank of Korea raise interest rates at the last Monet
+  - [korea] Both prices and growth rise… Even though the market is difficult, “the Bank of Korea’s interest rate rises”
   - [japan] There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and 
   - [japan] What will happen to Japan's "salaries" and "prices" if Trump loses... Experts warn of double punch to househol
   - [korea] “The Bank of Korea will raise the base interest rate on the 26th” in one voice… 9 out of 10 “3.50% next year” 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SoftBank’S Masayoshi Son Explored $1 Trillion Moonshot Buyout Of SK Hynix - The Information
   - [korea] Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin
   - [korea] [Next week's economy] Waiting to see whether the Bank of Korea will raise interest rates... Growth forecast an
-  - [japan] Considering curbing speculative transactions for newly built condominiums Tax reform next year
-  - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Pay attention to whether the 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T05:42:48+00:00",
+      "published_utc": "2026-11-22T05:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
