@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T17:02:47.327328+00:00
+Última coleta: 2026-11-22T17:12:49.437347+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] US seeks answers on Nvidia's sale of chips to China, Bessent says
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Interest rate expected to rise to 3.25%
   - [china] The associate of Alice Huang who funneled Nvidia chips to China - WSJ
+  - [korea] The Bank of Korea is likely to raise interest rates this week... tighten the reins
   - [japan] Corporate Japan races to revive rare-earth supply chain amid China curbs
   - [china] Chinese-made cars take 34% of S.Korea's EV market, driving record auto trade deficit
   - [korea] All Hankyung economists said, “The base interest rate will be increased by 0.25% this month.”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Goldman upgrades China H-shares on faster earnings growth outlook
   - [japan] Charting the Global Economy: GDP Slips in Japan on Weak Consumer
   - [taiwan] Taiwan further tightens short-selling amid stock market volatility
-  - [china] Trump boasts of unprecedented achievements in U.S.-China-Russia talks and exceeded full marks | Trump: The rel
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T17:02:47+00:00",
+      "published_utc": "2026-11-22T17:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
