@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T20:03:42.359078+00:00",
- "collected_at_utc": "2026-11-22T20:03:42.359078+00:00",
+ "generated_at_utc": "2026-11-22T20:12:43.285624+00:00",
+ "collected_at_utc": "2026-11-22T20:12:43.285624+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
+  "japan": 1032,
   "china": 930,
   "taiwan": 322,
-  "korea": 715
+  "korea": 716
  },
- "elapsed_s": 84.4,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-22T19:18:20+00:00"
+   "newest": "2026-11-22T20:01:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-22T19:42:04+00:00"
+   "newest": "2026-11-22T20:03:17+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T20:00:00+00:00"
+   "newest": "2026-11-22T20:10:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-23T04:30:00+09:00"
+   "newest": "2026-11-23T05:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says",
+   "published_utc": "2026-11-22T20:03:17+00:00",
+   "title_original": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c4e8b33b8512efbb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "US seeks answers on sale of Nvidia chips to China, says Treasury secretary",
@@ -360,23 +377,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a7010c9299e2c745"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
-   "url": "https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083",
-   "published_utc": "2026-11-22T17:54:25+00:00",
-   "title_original": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5a8b86d82a3e873c"
   },
   {
    "source_id": "gn_kr_bok",
@@ -831,6 +831,23 @@
    "live_wire": false,
    "manual": false,
    "id": "12e7699978525c9f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "SBS Biz",
+   "title_en": "[Global economic indicators] New York stock market likely to be quiet on ‘Thanksgiving’… Pay attention to the possibility of a Bank of Korea interest rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4S2RfNW5leTNLcmVRTThLSEJCMnNsdURpMzN5S3dXSGl3REtlenkzbTBOZk81MG1Md25pUUlVVUQzRDM4T05DUTEtelRjaWxlbk400gFYQVVfeXFMT2wzWmo1dHo5eXZwYV9BX0tEQk15R19yZFVNTHA3U0hmYlAtX3RwUjl1MDlDaTIxWVZPcW93M21JaVdZd2tTVEFfM1R1azhKaVl3cTJWMHJTSA?oc=5",
+   "published_utc": "2026-11-21T22:00:00+00:00",
+   "title_original": "[글로벌 경제지표] '추수감사절' 뉴욕증시 한산할 듯…한국은행 기준금리 인상 가능성 주목",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6b4a719f109211a"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2567,7 +2584,7 @@
    "id": "6800db4059903e32"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMF9XNURnbHdjSWcxc0RoWnRJcE5nYkg1T1FtN0xGVE55N3FDVDgzc3lxS2ViT3BMdkF5ZnFpdTNIam1WT19KelpIV0tPeVBoWW5UdkpJVlM3VFVnWlVKUTVCWDBFZFNCaFh6ODVtODA4THZtYWlmS0x1Zlg1VHhMQUZpQjNtTkRDcEZwSEQ4ZWtqOTEzZm9aanVTMEFjbHkzblZOT1BHS1FHMklkcTZNM3ZlZVludWx3Znk5UlpB?oc=5",
@@ -2581,7 +2598,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "511ae57ff43bf4e1"
+   "id": "9f0d0716c2bdf129"
   },
   {
    "source_id": "focus_taiwan",
@@ -51892,25 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a49f7291604a490e"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Finance Minister: Consumption tax cut “Support measures for farmers will be materialized during the budget formulation process”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67297",
-   "published_utc": "2026-10-28T11:48:48+00:00",
-   "title_original": "財務相 消費税減税“農家への支援策は予算編成過程で具体化”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "68a2f837df48a5df"
   },
   {
    "source_id": "manual_ia",

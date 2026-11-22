@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-22T20:03:42.359078+00:00
+Última coleta: 2026-11-22T20:12:43.285624+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1032
   🇨🇳 China          930
   🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  715
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
-  - [china] US seeks answers on sale of Nvidia chips to China, says Treasury secretary
   - [china] US seeks answers on Nvidia’s sale of chips to China, Bessent says
+  - [china] US seeks answers on sale of Nvidia chips to China, says Treasury secretary
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Interest rate expected to rise to 3.25%
   - [china] One Stanley developer reports alleged extortion bid involving ‘tens of millions’
   - [china] The associate of Alice Huang who funneled Nvidia chips to China - WSJ
@@ -45,6 +45,7 @@ Total: 3000 manchetes
   - [korea] With the burden of growth and prices increasing, will the Bank of Korea raise interest rates at the last Monet
   - [japan] There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and 
   - [japan] What will happen to Japan's "salaries" and "prices" if Trump loses... Experts warn of double punch to househol
+  - [korea] [Global economic indicators] New York stock market likely to be quiet on ‘Thanksgiving’… Pay attention to the 
   - [korea] “The Bank of Korea will raise the base interest rate on the 26th” in one voice… 9 out of 10 “3.50% next year” 
   - [korea] Pay attention to PCE in October in the US... Korean bank reveals revised growth rate for this year [Han Dong-h
   - [korea] Will the Bank of Korea resume raising interest rates? Interest in US PCE and growth rate [Han Dong-hoon's Week
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Treasury secretary rules out further curbs on Nvidia chip sales to China
   - [china] Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing
   - [china] Goldman upgrades China H-shares on faster earnings growth outlook
-  - [japan] Charting the Global Economy: GDP Slips in Japan on Weak Consumer
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-22T20:03:42+00:00",
+      "published_utc": "2026-11-22T20:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
