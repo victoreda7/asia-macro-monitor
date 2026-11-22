@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-11-22T12:23:31.553133+00:00",
- "collected_at_utc": "2026-11-22T12:23:31.553133+00:00",
+ "generated_at_utc": "2026-11-22T12:32:50.727063+00:00",
+ "collected_at_utc": "2026-11-22T12:32:50.727063+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
-  "china": 928,
+  "japan": 1035,
+  "china": 927,
   "taiwan": 321,
   "korea": 717
  },
- "elapsed_s": 77.8,
+ "elapsed_s": 33.7,
  "sources": [
+  {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -65,17 +73,17 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 46,
+   "count": 49,
    "error": "",
-   "newest": "2026-11-22T18:01:07+08:00"
+   "newest": "2026-11-22T19:49:15+08:00"
   },
   {
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-22T12:01:33+00:00"
+   "newest": "2026-11-22T12:06:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -198,20 +206,12 @@
    "newest": ""
   },
   {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 17,
-   "error": "",
-   "newest": "2026-11-20T03:16:00+00:00"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "name": "Reuters China",
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T01:57:00+00:00"
+   "newest": "2026-11-21T09:12:54+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T12:16:08+00:00"
+   "newest": "2026-11-22T12:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -342,7 +342,9 @@
    "newest": "2026-11-22T08:44:37+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_cn_pboc": 1
+ },
  "items": [
   {
    "source_id": "tradingview_live",
@@ -486,7 +488,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "세계일보",
    "title_en": "Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdV9FTUpHNzA1dDhfQ2ZXNnJrWW5SY3dhV1I1QUtPdkJMX3VSLWJjdjFCYkVjb1lvRWgtOUFkWm9QaUNNZ3NYZ3dwTnVzcjlQRWIwNC02UTHSAVRBVV95cUxPcXRqajZtdlJpanBRY3V3M1ZDTmlfQjV2M1h3UW5TeGtFeVU4LVEwUFppVkFKMXFNand3YVB0WEM3ZDdzRVRlSDVxV1lOZ0ZNUDFCcGM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xeGtjRHVUcG12VXpScWZIMkJ2QkpuZHF4RUVZWjZ1N1pWLXVmemd2NXlDM1dOYTQtRHdZelZTNW1aTVdLQUtfWnlXM2duQWRu0gFUQVVfeXFMT3F0amo2bXZSaWpwUWN1dzNWQ05pX0I1djNYd1FuU3hrRXlVOC1RMFBaaVZBSjFxTWp3d2FQdFhDN2Q3c0VUZUg1cVdZTmdGTVAxQnBj?oc=5",
    "published_utc": "2026-11-22T06:27:37+00:00",
    "title_original": "물가 상승·성장률 상향 조정… 한은, 기준금리 3.25%로 올리나",
    "region": "korea",
@@ -499,7 +501,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0e60213e5c62dff3"
+   "id": "e708d1fe066e0b75"
   },
   {
    "source_id": "korea_herald_biz",
@@ -8418,6 +8420,23 @@
    "live_wire": false,
    "manual": false,
    "id": "34c11bb5559de99e"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Bulls Rely on Fed Hike Odds to Retest 160.20",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE9OT293TzRSLWZCODZmY0t3WC1RaW5pT1F0Zl9kc04wbDNxd2U2Y0lWaGFNZmNMbUZlQ3ZwaGJOTHZfRHBfZE5JQnlEZDJyMTNtSzJPSWRLNl9YRTRqUmZxV19Yb0dOc3RRT21ZRmpoSlpYNTZRS1VBUU9PalBXVS1LZ29YUW85ODJkUzFVVGE0ZENnVmtTMnZn?oc=5",
+   "published_utc": "2026-11-18T00:18:26+00:00",
+   "title_original": "USD/JPY Bulls Rely on Fed Hike Odds to Retest 160.20",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "73525379e303e7a8"
   },
   {
    "source_id": "investing_live",
@@ -27288,7 +27307,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in October 2026 increased by 0.7% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeGxtMzlRTkVwLTN6N2tzX0hqX0E5ZDJDcFhqRTFGMmNKVTJxc3N6MWlURlc1eTRJSlg4Rjh4Z2wxNTJuaG8tOXdKX2R6VW5EQWtSWF9tai02bG94LUpHUV9YWnJ1dUFjSFF1ZTFxWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWDV2cXVOVHhaRFdrUzcxSEZXdU00WUgycl9QOEZuMjFRZHFUSjJBU3FRTDdQSGdZYllMeHdHMU05V1E2UXhxRGg5R2oxVVNDZUJtUXZpOE8yQkR0ZndvRXVSclRfSlhELWpDbnVmRXB1aEYw?oc=5",
    "published_utc": "2026-11-09T08:00:00+00:00",
    "title_original": "2026年10月份居民消费价格同比上涨0.7%",
    "region": "china",
@@ -27299,7 +27318,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3739150292063d06"
+   "id": "f6ebef108a44170b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51895,23 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b851702c5d76a1c"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Commentary: What China’s Record Trade Surplus Does — and Doesn’t — Tell Us",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFZsX19ZYk9TR0U1OFlGc3RwYkJTcWtXUnpKOHZJOFE5WnB5YV9HZk1ROEltNHhiY1lHY213bEFmYkp2a01raFA2UU9wNW1JZkxYMmF3Z01SNTF1UXZZaHQtTmpPeVdNNWI3NHVMaVJ0S1BfSmJXaW44dFVtbjFPczVkLTVOblI1Z0FtR3JkeDRTRXpkUWJ2NnV4a3BpRGZ2UXA0MndkMlZVQVhuY0ZiOHRwSXZBbFV4SkRlbWNsVQ?oc=5",
-   "published_utc": "2026-10-28T08:06:00+00:00",
-   "title_original": "Commentary: What China’s Record Trade Surplus Does — and Doesn’t — Tell Us",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ede64e0bd169f24"
   },
   {
    "source_id": "manual_ia",
