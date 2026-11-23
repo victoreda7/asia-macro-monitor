@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T01:32:43.186161+00:00
+Última coleta: 2026-11-23T01:42:41.575503+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          930
+  🇨🇳 China          931
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY499.5 BLN VIA O/N REVERSE REPO MON
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7120 MON VS 6.7131
   - [china] China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange
   - [korea] After the government drastically reduced the limit on mortgage loans for high-priced houses in Octob..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
   - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
   - [korea] S. Korea expected to become world's 4th-largest exporter this year
-  - [korea] Korean ramen exports surpassed last year's annual performance for the first time in 10 months this y..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T01:32:43+00:00",
+      "published_utc": "2026-11-23T01:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
