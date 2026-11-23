@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T08:02:41.753168+00:00",
- "collected_at_utc": "2026-11-23T08:02:41.753168+00:00",
+ "generated_at_utc": "2026-11-23T08:12:44.140580+00:00",
+ "collected_at_utc": "2026-11-23T08:12:44.140580+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1026,
-  "china": 938,
+  "japan": 1027,
+  "china": 939,
   "taiwan": 329,
-  "korea": 707
+  "korea": 705
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-23T07:42:47+00:00"
+   "newest": "2026-11-23T08:07:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 15,
+   "count": 30,
    "error": "",
    "newest": "2026-11-23T03:14:16+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T07:08:19+00:00"
+   "newest": "2026-11-23T06:58:36+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-23T04:15:05+00:00"
+   "newest": "2026-11-23T08:06:50+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T08:01:28+00:00"
+   "newest": "2026-11-23T08:11:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T12:05:00+00:00"
+   "newest": "2026-11-23T04:34:56+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance",
+   "url": "https://www.scmp.com/economy/china-economy/article/3375459/chinese-state-media-hits-out-deflation-trap-warnings-defends-economic-performance",
+   "published_utc": "2026-11-23T08:06:50+00:00",
+   "title_original": "Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "659cf7bcf5f2b52e"
+  },
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
@@ -514,6 +531,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e50be657f23dd679"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan Power Prices Extend Rise to Four-Year High on Cold Outlook",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnVTRHFHMi00WEN5UVFnZ3B0cDVTOFREQnBSMjlsTHBiMVVVUmw0QjZJX3QzSUZhcWZNRlBpazVGTDN3bGlBRmpDVVhTMUxlSFF5OXB0WDFkTnhIY3NZMTRKN0UwVDFmMjQ5V2NvdVdFd0p5VS1HWjFNM01Cc0h0elVRR3FsOTBWTVJuWWo2REc2RE44eE5fdzJFVGhsclhSXzY1Vm5keW9nTlR4dWJybGo1YlY0QUowMHBJSUVzbDNYdVU?oc=5",
+   "published_utc": "2026-11-23T05:23:00+00:00",
+   "title_original": "Japan Power Prices Extend Rise to Four-Year High on Cold Outlook",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6bfb377e8fe0a51e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4242,8 +4276,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -4257,13 +4291,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -4275,7 +4309,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4483,8 +4517,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -4497,7 +4531,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4710,9 +4744,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "凤凰网",
    "title_en": "The central bank launched 379.5 billion yuan in overnight reverse repos, with a net withdrawal of 688 billion yuan in a single day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JSkgzZ2hzdTY3U2FYOHBuYlZWU0ZlWmZ3SGJhN293TkJtNVI5WW9Jb0pONmlTOUN3M2dncXhRTlN1bmpndkQ2em52Rm5nZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zb0wzVEhocWVCdEZCUGtMVVBsZzBCaVo3b1VyNVBOXzlFNkFlWXdza0FZWG5iT3VKblZvdU1lVFF1NHE1ZV9UR1g1TnA?oc=5",
    "published_utc": "2026-11-20T01:43:35+00:00",
    "title_original": "央行开展3795亿元隔夜逆回购 单日净回笼6880亿元",
    "region": "china",
@@ -4724,7 +4758,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bd346119a6da7416"
+   "id": "be2efa74290e32b3"
   },
   {
    "source_id": "gn_tw_cna",
@@ -4765,7 +4799,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXdQTmZKMFpLNzdUTFJaYlRuVlVPaDRTMEJmTm04N0ExMjBCX2IwSV9rQmNMZVhHNzF3Z1FkTkc1Z29jZl81NXJFdms0bFpNM05JVC1aRGRtMW03MFlXTkZEZXZ6ZmdfYklaajBvSU5yNlFtQmY0UEJza0M5aUZOdHlSSmstWVNPU3dGRDByZzNqQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRxSzZfQ25RNy1OVGFKWkJxSU9GMkpabHFqLVBmaHJyZHhpQVhhbXd1T3NRM0lEam9XZDJrUVRLaVNELXR4d2F0TWVuUnpBcXZBYjQtRUE1TjFMRW5vd1BIdkhwVDJ2MDNEd1U3RjVLdGZCWld6X3hEWUk5STc5Q1VUSUJPSUE1dHNERnE5VzcwZw?oc=5",
    "published_utc": "2026-11-20T01:34:08+00:00",
    "title_original": "央行今日开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -4777,7 +4811,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ae0f2f94a425ee29"
+   "id": "d34fd15a040debf5"
   },
   {
    "source_id": "mof_jp",
@@ -6038,8 +6072,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -6053,7 +6087,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -6382,8 +6416,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -6397,7 +6431,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7095,8 +7129,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -7109,7 +7143,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11447,24 +11481,6 @@
    "id": "96aba4ebe10e1130"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "人民政协网",
-   "title_en": "On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY3hReTlZY0lpVzBPQmZjOGdYS1l1X1NpQnM3dHc1LWFvdU1xU2tFQ2JVRHppenJIYTlhR2lJR3kxU0I5dDdjeFFUeXBPUnBmZGNUMG9UZnVDS21XNURZ?oc=5",
-   "published_utc": "2026-11-17T06:57:41+00:00",
-   "title_original": "11月17日央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "28378f245f927380"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Secondhand Home Prices Rise in Fewer Major Chinese Cities",
@@ -11887,23 +11903,6 @@
    "id": "f3d092d9dc06fc94"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
-   "title_en": "China’s money market: The central bank’s overnight reverse repurchases were launched during the tax period and continued to increase funds, and funding rates remained stable overall.",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jUEx4OEVJSk1jQlZmc1NrVGphRWhrT3ZLaDVFVFd5R2M0b0RFZ0UzTWNJcG1WODRrTXEwRVBKMFM5dkQ3MEJPMktpWnRNa19tN2l0MElraWpHaEdwZEJ3enRIR201TFlhNXgtRHNYNmdmcXRQbVdj?oc=5",
-   "published_utc": "2026-11-17T03:57:00+00:00",
-   "title_original": "中国货币市场：税期走款启动央行隔夜逆回购继续加码，资金利率整体持稳",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "48adc9982555104a"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China AI Highflier Crashes 85% as Chip Fears Hit Model Makers",
@@ -12229,6 +12228,24 @@
    "id": "4c0c50a7e12c2176"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Mb19tc2otQVFCTUxFbXQ1SU9yVGpUbzdCeW5Sc1F1Q1ktc29tT0F5ZHhOYjNwVHlrZHdWN1Y2YWUyRzRPdmRvMktHQVFpMWc1Unc?oc=5",
+   "published_utc": "2026-11-17T01:35:25+00:00",
+   "title_original": "11月17日央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "76e62e5d5b87229f"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan policy management, comprehensive judgment and understanding of the economy and prices, including personal consumption - Minister of Economy, Finance and Finance Jouchi (Reuters)",
@@ -12542,6 +12559,23 @@
    "live_wire": false,
    "manual": false,
    "id": "786a6dd89d383b73"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "TradingView",
+   "title_en": "China’s money market: The central bank’s overnight reverse repurchases were launched during the tax period and continued to increase funds, and funding rates remained stable overall.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFME81RExNS19lMjZzbTJqejZMUHlmUFNGNUUwbWVKejRVUV9UNUZTWVlROXE2YmpmVzdqMWdNZ2lJQ0RsYzVxc25NRUprTUVGTlBXUTFRRVlRUGF3a2dTYThHR3dwRVdkaVN0YldIZEdwV0FJeGt3?oc=5",
+   "published_utc": "2026-11-16T19:57:00+00:00",
+   "title_original": "中国货币市场：税期走款启动央行隔夜逆回购继续加码，资金利率整体持稳",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8b4e2806302c17de"
   },
   {
    "source_id": "tradingview_live",
@@ -51884,40 +51918,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4eb32cd8e863ac4f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "머니투데이",
-   "title_en": "Bank of Korea: “External risk factors remain despite the U.S. base interest rate freeze” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IQ2FyYTdTVFNBZmFGRXJPWFZfT0JBblNFWktqRXNMM0JMM2RGZGJnX3pNN0J5T1JFN0IzaFhrNHlZakFkNG5na21OVXFjaTN3SVBIT0podkxQRXVFcjdnNnZaaUp4THFFMkMw0gFwQVVfeXFMT3RjTXVRYUJVbkdxZFEtWGtNU2N0c2tpeGE4Z0htMEt4Yzk3Z2tNSzJHVHdZNFRBN3M2YmRoa0tVN0NzbVBESGtGbHZBYlNickU2OUxScG9qc0ZMRnE5dUozWWR2dkx0dVIyamxEc05ObA?oc=5",
-   "published_utc": "2026-10-29T01:00:09+00:00",
-   "title_original": "한은 \"美 기준금리 동결에도 대외 리스크 요인 상존\" - 머니투데이",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "163389ce20198b06"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
-   "published_utc": "2026-10-29T00:56:00+00:00",
-   "title_original": "Samsung sees AI chip shortage worsening, keeps investors in suspense on returns",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5a9cde50507567d"
   },
   {
    "source_id": "manual_ia",

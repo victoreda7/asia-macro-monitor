@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T08:02:41.753168+00:00
+Última coleta: 2026-11-23T08:12:44.140580+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
-  🇨🇳 China          938
+  🇯🇵 Japão          1027
+  🇨🇳 China          939
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  707
+  🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance
   - [korea] S. Korea's exports forecast to exceed US$1 tln for 2nd straight year in 2027
   - [korea] Samsung, SK hynix, LG redraw playbooks for AI boom
   - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [japan] Japan Spot Power Price Reaches More Than Four-Year High on Cold-Weather Outlook
   - [china] China's gold imports said to have surged to record $209B through Oct.
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
+  - [japan] Japan Power Prices Extend Rise to Four-Year High on Cold Outlook
   - [korea] “We will raise it this time” ⋯ 14 experts speak with one voice on raising the base interest rate in November [
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange
   - [korea] After the government drastically reduced the limit on mortgage loans for high-priced houses in Octob..
   - [korea] South Korea finance minister to brief plan for stock market stabilisation fund
-  - [korea] Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high
-  - [korea] Manufacturing economy deteriorates despite semiconductor boom ahead of Bank of Korea interest rate decision
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T08:02:41+00:00",
+      "published_utc": "2026-11-23T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
