@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T02:02:41.029176+00:00
+Última coleta: 2026-11-23T02:12:42.185912+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1035
   🇨🇳 China          932
-  🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  710
+  🇹🇼 Taiwan         324
+  🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
 
   - [china] CHINA PBOC CONDUCTS CNY499.5 BLN VIA O/N REVERSE REPO MON
+  - [taiwan] Taiwan electronics, ICT export orders surge in October as US remains top buyer
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7120 MON VS 6.7131
   - [china] On November 23, the central bank launched a 499.5 billion yuan overnight reverse repurchase operation.
   - [china] China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK likely to lift rate on resilient growth, inflation
   - [korea] Although Korea recorded the world's highest export growth this year, surpassing $1 trillion in annua..
   - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
-  - [japan] Consumer price index in Sendai City increased by 1.9% compared to the same period last year (KHB East Japan Br
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T02:02:41+00:00",
+      "published_utc": "2026-11-23T02:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
