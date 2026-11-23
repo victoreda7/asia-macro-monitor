@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T03:42:43.690429+00:00
+Última coleta: 2026-11-23T03:52:42.447808+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
-  🇨🇳 China          933
-  🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  709
+  🇯🇵 Japão          1031
+  🇨🇳 China          932
+  🇹🇼 Taiwan         327
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off
   - [korea] Report: Masayoshi Son Seels Wall Street Financing for USD1T Acquisition of SK hynix
   - [china] The central bank launches 499.5 billion yuan overnight reverse repurchase operation
   - [japan] Bank of Japan Councilor Asada attends Nagasaki Prefecture Financial and Economic Conference, “The prefecture's
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [korea] South Korea’s finance minister sees solid growth next year, flags chip volatility risks
   - [korea] S. Korea’s exports more than double in first 20 days of Nov on chip boom
   - [china] The "big mistake" Trump made - The farce of the US-China-Russia summit that disrespected allies and gave China
+  - [taiwan] Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
   - [taiwan] Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
   - [taiwan] US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?
   - [china] CHINA PBOC CONDUCTS CNY499.5 BLN VIA O/N REVERSE REPO MON
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] US seeks answers on sale of Nvidia chips to China, says Treasury secretary
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Interest rate expected to rise to 3.25%
   - [china] One Stanley developer reports alleged extortion bid involving ‘tens of millions’
-  - [china] The associate of Alice Huang who funneled Nvidia chips to China - WSJ
-  - [korea] The Bank of Korea is likely to raise interest rates this week... tighten the reins
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T03:42:43+00:00",
+      "published_utc": "2026-11-23T03:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

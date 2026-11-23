@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T03:42:43.690429+00:00",
- "collected_at_utc": "2026-11-23T03:42:43.690429+00:00",
+ "generated_at_utc": "2026-11-23T03:52:42.447808+00:00",
+ "collected_at_utc": "2026-11-23T03:52:42.447808+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1032,
-  "china": 933,
-  "taiwan": 326,
-  "korea": 709
+  "japan": 1031,
+  "china": 932,
+  "taiwan": 327,
+  "korea": 710
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 28.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T02:02:55+00:00"
+   "newest": "2026-11-23T02:17:01+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-23T03:33:47+00:00"
+   "newest": "2026-11-23T03:40:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T08:13:00+00:00"
+   "newest": "2026-11-21T01:28:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T03:41:09+00:00"
+   "newest": "2026-11-23T03:50:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T23:50:07+00:00"
+   "newest": "2026-11-23T02:50:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off",
+   "url": "https://www.tradingview.com/news/seekingalpha:fc9eeb36a094b:0-south-korea-s-kospi-drops-5-as-ai-fears-trigger-broader-stock-sell-off/",
+   "published_utc": "2026-11-23T03:45:50+00:00",
+   "title_original": "South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "013ea99331c324b7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "AASTOCKS",
@@ -482,6 +499,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b54e13e193bfb7b7"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmc2c2JjWl9YZkUxT04tcjNyYUZiUDNfc1BveFA3VlhqTkVlSU82TzJ0RjBUT3BtZ3RqY3FndkJkc045M1h5OGQ0QlEwMTFZRkdlVXJBaTBJN3Z6OURrMW9nQ2M5TXcxWVd4LTR1cHhKSUpnV0FsTmdkVHB2WjNkTDdiLUpxWTQ5SUM5U0tMSk9uUWpBd3RJM2c3bHJTRVhjdGRSZExTeG5GQ0lsTEI3Wg?oc=5",
+   "published_utc": "2026-11-23T02:17:01+00:00",
+   "title_original": "Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "38d60714df30bdfa"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51883,40 +51917,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fff84f4bf6b95c37"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekZqMWlvRG8wZTIwaVNkRWgydlQ0NFdJRDJsWmRFeU5kV0pZalVnS2VkWmVfc3dmTTlJYTgwLXNCWnByOTdiWENZZHBMZTlQbTB1WkJ3U1lZLVJsZUVXTVhGb3NsZFhtcnJ0WFBVaXkwajVhb1R6Z0txUm95SV9leWtHQklYT0R1VlNjY1lsQTRiMFQ0VXdhZlA1OTAtNi1JcThnSmtOT1BQbGRVcE9EN210MTBHSXB6NVZBa2QwOVZmYmZzMlBFVHIxUXhuT3Yz?oc=5",
-   "published_utc": "2026-10-28T19:35:00+00:00",
-   "title_original": "IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "85f33f3dbfe22fb4"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Behind the Odakyu \"base\" in a quiet residential area of ​​Setagaya, 5 minutes walk from Kitami Station, \"train and platform\" indoors | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962621?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-28T19:30:00+00:00",
-   "title_original": "世田谷の閑静な住宅地にある小田急｢拠点｣の裏側 喜多見駅から徒歩5分､屋内に｢電車とホーム｣ | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e826e46bf40705c2"
   },
   {
    "source_id": "manual_ia",
