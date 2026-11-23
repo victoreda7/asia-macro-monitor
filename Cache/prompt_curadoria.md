@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T02:52:42.996446+00:00
+Última coleta: 2026-11-23T03:02:41.181961+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
+  🇯🇵 Japão          1032
   🇨🇳 China          932
   🇹🇼 Taiwan         326
-  🇰🇷 Coreia do Sul  708
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
-  - [korea] South Korea's finance minister sees solid growth next year, flags chip volatility risks
+  - [korea] Samsung Electronics, SK hynix fall as U.S. tech sell-off rattles market
+  - [korea] South Korea’s finance minister sees solid growth next year, flags chip volatility risks
+  - [korea] S. Korea’s exports more than double in first 20 days of Nov on chip boom
   - [china] The "big mistake" Trump made - The farce of the US-China-Russia summit that disrespected allies and gave China
   - [taiwan] Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
   - [taiwan] US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese-made cars take 34% of S.Korea's EV market, driving record auto trade deficit
   - [korea] All Hankyung economists said, “The base interest rate will be increased by 0.25% this month.”
   - [korea] All Hankyung economists say, “Interest rate will be increased by 0.25% this month”
-  - [china] The founder of China's CATL, the world's largest battery company, donated more than 2.5 billion yuan..
-  - [korea] “Further tightening is likely due to high inflation… base interest rate 0.25%P ↑ on the 26th”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T02:52:43+00:00",
+      "published_utc": "2026-11-23T03:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

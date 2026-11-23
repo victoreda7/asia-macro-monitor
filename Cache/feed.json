@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T02:52:42.996446+00:00",
- "collected_at_utc": "2026-11-23T02:52:42.996446+00:00",
+ "generated_at_utc": "2026-11-23T03:02:41.181961+00:00",
+ "collected_at_utc": "2026-11-23T03:02:41.181961+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
+  "japan": 1032,
   "china": 932,
   "taiwan": 326,
-  "korea": 708
+  "korea": 710
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-23T02:30:22+00:00"
+   "newest": "2026-11-23T02:48:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-23T02:06:18+00:00"
+   "newest": "2026-11-23T02:48:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T22:04:25+00:00"
+   "newest": "2026-11-22T23:44:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T02:50:37+00:00"
+   "newest": "2026-11-23T03:01:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T02:44:39+00:00"
+   "newest": "2026-11-23T02:49:11+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -345,12 +345,29 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea's finance minister sees solid growth next year, flags chip volatility risks",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47400U:0-south-korea-s-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-risks/",
-   "published_utc": "2026-11-23T02:40:00+00:00",
-   "title_original": "South Korea's finance minister sees solid growth next year, flags chip volatility risks",
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix fall as U.S. tech sell-off rattles market",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44ZW9RZ3p6XzloQUpCc3FMZy1JaGJ1dzVEUk9UdXFTTnBiU0NuMlJRWFdnRGxOYVRXamFNQXZ1UUhFR2hRY1VOUnkxcUFRNk1wNEE?oc=5",
+   "published_utc": "2026-11-23T02:49:11+00:00",
+   "title_original": "Samsung Electronics, SK hynix fall as U.S. tech sell-off rattles market",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "89a597fcc4d590dd"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "South Korea’s finance minister sees solid growth next year, flags chip volatility risks",
+   "url": "https://www.investing.com/news/economy-news/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-risks-5044245",
+   "published_utc": "2026-11-23T02:48:19+00:00",
+   "title_original": "South Korea’s finance minister sees solid growth next year, flags chip volatility risks",
    "region": "korea",
    "topics": [
     "industrial",
@@ -358,9 +375,27 @@
    ],
    "lang_original": "en",
    "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "27e0daa64787f843"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "S. Korea’s exports more than double in first 20 days of Nov on chip boom",
+   "url": "https://www.investing.com/news/economic-indicators/s-koreas-exports-more-than-double-in-first-20-days-of-nov-on-chip-boom-5044244",
+   "published_utc": "2026-11-23T02:45:19+00:00",
+   "title_original": "S. Korea’s exports more than double in first 20 days of Nov on chip boom",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "38c5458c323d2ee4"
+   "id": "ca4147ce4d413fe2"
   },
   {
    "source_id": "toyo_keizai",
@@ -51881,40 +51916,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3c85ac9a875bd6b1"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan weighs corporate tax hike to fund defense buildup",
-   "url": "https://asia.nikkei.com/politics/defense/japan-weighs-corporate-tax-hike-to-fund-defense-buildup",
-   "published_utc": "2026-10-28T18:32:45.694092+00:00",
-   "title_original": "Japan weighs corporate tax hike to fund defense buildup",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35f9f54c9c6bafba"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies",
-   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/takaichi-presses-merz-not-to-leave-japan-out-of-made-in-europe-ev-subsidies",
-   "published_utc": "2026-10-28T17:42:43.468654+00:00",
-   "title_original": "Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "40d12c44e7f4de39"
   },
   {
    "source_id": "manual_ia",
