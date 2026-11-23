@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T17:22:42.299445+00:00
+Última coleta: 2026-11-23T17:32:51.359503+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1019
+  🇯🇵 Japão          1018
   🇨🇳 China          950
-  🇹🇼 Taiwan         336
+  🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Stocks Jump 13.84% as Nvidia CEO Return Revives AI Foundry Bets
   - [taiwan] TSMC Stock Faces China Fallout, but Wall Street Sees a Bigger Story
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock surging today?
   - [taiwan] PRES TRUMP Q&A/CNBC: LAST NIGHT TOLD JENSEN HUANG 'TO WORK HARD;' TAIWAN'S TSMC TO EVENTUALLY PRODUCE NVIDIA C
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea's exports forecast to exceed US$1 tln for 2nd straight year in 2027
   - [korea] Samsung, SK hynix, LG redraw playbooks for AI boom
   - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
-  - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... The outlook for a 0.25% point
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T17:22:42+00:00",
+      "published_utc": "2026-11-23T17:32:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
