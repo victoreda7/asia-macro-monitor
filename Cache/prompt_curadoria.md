@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T01:12:44.438416+00:00
+Última coleta: 2026-11-23T01:22:43.215214+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          930
+  🇨🇳 China          929
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [china] China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange
+  - [korea] After the government drastically reduced the limit on mortgage loans for high-priced houses in Octob..
+  - [korea] South Korea finance minister to brief plan for stock market stabilisation fund
   - [korea] Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high
   - [korea] Manufacturing economy deteriorates despite semiconductor boom ahead of Bank of Korea interest rate decision
   - [korea] South Korea November 1-20 exports surge on chip sales
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea expected to become world's 4th-largest exporter this year
   - [korea] Korean ramen exports surpassed last year's annual performance for the first time in 10 months this y..
   - [china] The Alice Huang Associate Accused of Funneling Nvidia Chips to China — WSJ
-  - [korea] At the last Monetary Policy Committee meeting of the year, the Bank of Korea is likely to raise interest rates
-  - [korea] Both prices and growth rise… Even though the market is difficult, “the Bank of Korea’s interest rate rises”
-  - [korea] With the burden of growth and prices increasing, will the Bank of Korea raise interest rates at the last Monet
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T01:12:44+00:00",
+      "published_utc": "2026-11-23T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

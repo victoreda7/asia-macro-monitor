@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T01:12:44.438416+00:00",
- "collected_at_utc": "2026-11-23T01:12:44.438416+00:00",
+ "generated_at_utc": "2026-11-23T01:22:43.215214+00:00",
+ "collected_at_utc": "2026-11-23T01:22:43.215214+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1036,
-  "china": 930,
+  "china": 929,
   "taiwan": 323,
-  "korea": 711
+  "korea": 712
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-23T01:07:12+00:00"
+   "newest": "2026-11-23T01:12:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T10:05:00+00:00"
+   "newest": "2026-11-23T01:15:31+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T21:10:18+00:00"
+   "newest": "2026-11-22T23:44:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T13:09:43+00:00"
+   "newest": "2026-11-22T23:44:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T01:11:54+00:00"
+   "newest": "2026-11-23T01:21:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T23:45:27+00:00"
+   "newest": "2026-11-23T01:13:30+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,57 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720H7:0-china-tian-yuan-healthcare-says-co-received-a-letter-from-stock-exchange/",
+   "published_utc": "2026-11-23T01:20:09+00:00",
+   "title_original": "China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "110d96eeffabcb1c"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "After the government drastically reduced the limit on mortgage loans for high-priced houses in Octob..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xOWRoNUpwQ1cwRUNXMnZicDViREFQZk9RYjYxZW5mUC1fRGJiQzhCWjFCTl9UZXc5ZUI4dnh3c3FrdjRtSHgyN2xJWlk5N1dVT2c?oc=5",
+   "published_utc": "2026-11-23T01:13:30+00:00",
+   "title_original": "After the government drastically reduced the limit on mortgage loans for high-priced houses in Octob..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "de0536f4e9915856"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea finance minister to brief plan for stock market stabilisation fund",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45T04G:0-south-korea-finance-minister-to-brief-plan-for-stock-market-stabilisation-fund/",
+   "published_utc": "2026-11-23T01:09:59+00:00",
+   "title_original": "South Korea finance minister to brief plan for stock market stabilisation fund",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7eb5bba37c9f1ccd"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -3485,8 +3536,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -3500,7 +3551,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3726,8 +3777,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -3740,7 +3791,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5263,8 +5314,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -5278,7 +5329,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -5607,8 +5658,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -5622,7 +5673,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6320,8 +6371,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -6334,7 +6385,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51864,57 +51915,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7af50778e05b145a"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "‘Highly respected’: Chinese vice-minister of finance lands senior role at IMF",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTkwakx4NzJNMVRpV0NabkFQR3VQc09mOFJ5ay1qUnVTMGFEQkMzY2RtdUR5alFBUU1Qd1BRMXNKWFp5UUpPYTZnVklCWm1jdWd6U0x1eWo5YVdIcGR3eVNaeFU0QkE3UkJZVnZQemk5S2lxT3pxWTY3M3M0ODRQOFMwdlVnYUpJWWlVZXJTUlQxOU40SXkzQkF5NHI2azRxdDJGTzhxUUN4Rkk5dndfakxwLTlQWjVTeHNGZ3FRUm5qbHdXYWxXanlXNXc3bGVvS3pnendsdDLSAdgBQVVfeXFMUGlSZTJITTVWZjEtM2hvay1YNlN2SFhWTjJJZDVtWC1JSUpkZHZmRHRSOTdJUW1rTTJlSVFCS0pBUkdnMkx2Z2hHc2hUZ21WR294WGhqR2JVVDZZMVJBcXlGVklZSzBVc3BMdVZod0ZybVFxLWhIMktwM0UyeGJiUzdpM3pSdlhLT3lBa3dKcFJscjRiekx1UGMtYzdDMzItUFZpc0FLNV93MTVtMHRTSkxZQzBlZTV2UGhSX2ZUdXFoNGhmRWt4Yk5BY2d6S1c1eXlxamc4LVR0?oc=5",
-   "published_utc": "2026-10-28T14:55:30+00:00",
-   "title_original": "‘Highly respected’: Chinese vice-minister of finance lands senior role at IMF",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1a6a499a39a84d66"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "‘Highly respected’: China’s vice-minister of finance lands senior role at IMF",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTkwakx4NzJNMVRpV0NabkFQR3VQc09mOFJ5ay1qUnVTMGFEQkMzY2RtdUR5alFBUU1Qd1BRMXNKWFp5UUpPYTZnVklCWm1jdWd6U0x1eWo5YVdIcGR3eVNaeFU0QkE3UkJZVnZQemk5S2lxT3pxWTY3M3M0ODRQOFMwdlVnYUpJWWlVZXJTUlQxOU40SXkzQkF5NHI2azRxdDJGTzhxUUN4Rkk5dndfakxwLTlQWjVTeHNGZ3FRUm5qbHdXYWxXanlXNXc3bGVvS3pnendsdDLSAdgBQVVfeXFMUGlSZTJITTVWZjEtM2hvay1YNlN2SFhWTjJJZDVtWC1JSUpkZHZmRHRSOTdJUW1rTTJlSVFCS0pBUkdnMkx2Z2hHc2hUZ21WR294WGhqR2JVVDZZMVJBcXlGVklZSzBVc3BMdVZod0ZybVFxLWhIMktwM0UyeGJiUzdpM3pSdlhLT3lBa3dKcFJscjRiekx1UGMtYzdDMzItUFZpc0FLNV93MTVtMHRTSkxZQzBlZTV2UGhSX2ZUdXFoNGhmRWt4Yk5BY2d6S1c1eXlxamc4LVR0?oc=5",
-   "published_utc": "2026-10-28T14:55:30+00:00",
-   "title_original": "‘Highly respected’: China’s vice-minister of finance lands senior role at IMF",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ddc60146e1ce5785"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Micron, SK Hynix, GE Vernova, Alphabet, Vertiv, Boston Scientific, and More Stocks That Explain Today's Market — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028003027:0-micron-sk-hynix-ge-vernova-alphabet-vertiv-boston-scientific-and-more-stocks-that-explain-today-s-market-barrons-com/",
-   "published_utc": "2026-10-28T14:34:00+00:00",
-   "title_original": "Micron, SK Hynix, GE Vernova, Alphabet, Vertiv, Boston Scientific, and More Stocks That Explain Today's Market — Barrons.com",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b3cdc3c58a0bf73e"
   },
   {
    "source_id": "manual_ia",
