@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T18:03:51.400862+00:00
+Última coleta: 2026-11-23T18:09:04.647153+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1018
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why SK hynix stock is trading up today
   - [taiwan] Taiwan Semiconductor Stocks Jump 13.84% as Nvidia CEO Return Revives AI Foundry Bets
   - [taiwan] TSMC Stock Faces China Fallout, but Wall Street Sees a Bigger Story
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock surging today?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economy
   - [korea] S. Korea's exports forecast to exceed US$1 tln for 2nd straight year in 2027
   - [korea] Samsung, SK hynix, LG redraw playbooks for AI boom
-  - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T18:03:51+00:00",
+      "published_utc": "2026-11-23T18:09:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
