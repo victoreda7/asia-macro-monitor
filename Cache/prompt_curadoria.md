@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T02:42:42.005983+00:00
+Última coleta: 2026-11-23T02:52:42.996446+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -30,9 +30,9 @@ Total: 3000 manchetes
   - [korea] South Korea finance minister to brief plan for stock market stabilisation fund
   - [korea] Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high
   - [korea] Manufacturing economy deteriorates despite semiconductor boom ahead of Bank of Korea interest rate decision
+  - [japan] Dollar edges off 19-month high after market rout; yen softens By Reuters
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
-  - [japan] Dollar edges off 19-month high after market rout; yen softens By Reuters
   - [korea] South Korea’s Early Exports Gain After $1 Trillion Milestone
   - [japan] Dollar edges off 19-month high after market rout; yen softens
   - [japan] Yen May Strengthen Vs. Dollar on Diminished Risk Appetite — Market Talk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T02:42:42+00:00",
+      "published_utc": "2026-11-23T02:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
