@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T03:32:49.905700+00:00
+Última coleta: 2026-11-23T03:42:43.690429+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
@@ -19,6 +19,8 @@ Total: 3000 manchetes
 
   - [korea] Report: Masayoshi Son Seels Wall Street Financing for USD1T Acquisition of SK hynix
   - [china] The central bank launches 499.5 billion yuan overnight reverse repurchase operation
+  - [japan] Bank of Japan Councilor Asada attends Nagasaki Prefecture Financial and Economic Conference, “The prefecture's
+  - [korea] South Korea to Tighten Oversight of Crypto Transfers Abroad and Personal Wallets
   - [korea] Samsung Electronics, SK hynix fall as U.S. tech sell-off rattles market
   - [korea] South Korea’s finance minister sees solid growth next year, flags chip volatility risks
   - [korea] S. Korea’s exports more than double in first 20 days of Nov on chip boom
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] One Stanley developer reports alleged extortion bid involving ‘tens of millions’
   - [china] The associate of Alice Huang who funneled Nvidia chips to China - WSJ
   - [korea] The Bank of Korea is likely to raise interest rates this week... tighten the reins
-  - [japan] Corporate Japan races to revive rare-earth supply chain amid China curbs
-  - [china] Chinese-made cars take 34% of S.Korea's EV market, driving record auto trade deficit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T03:32:50+00:00",
+      "published_utc": "2026-11-23T03:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

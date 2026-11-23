@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-23T03:32:49.905700+00:00",
- "collected_at_utc": "2026-11-23T03:32:49.905700+00:00",
+ "generated_at_utc": "2026-11-23T03:42:43.690429+00:00",
+ "collected_at_utc": "2026-11-23T03:42:43.690429+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 326,
   "korea": 709
  },
- "elapsed_s": 28.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T05:57:00+00:00"
+   "newest": "2026-11-23T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-23T03:15:54+00:00"
+   "newest": "2026-11-23T03:33:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T00:20:00+00:00"
+   "newest": "2026-11-23T02:37:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T03:31:29+00:00"
+   "newest": "2026-11-23T03:41:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T02:36:48+00:00"
+   "newest": "2026-11-23T03:08:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-23T00:20:14+00:00"
+   "newest": "2026-11-23T03:34:51+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -378,6 +378,40 @@
    "live_wire": false,
    "manual": false,
    "id": "12a75acfca25700d"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Councilor Asada attends Nagasaki Prefecture Financial and Economic Conference, “The prefecture's economy is growing moderately” (KTN TV Nagasaki)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSmtheEtnUlpuejA0UmVqdWJjUHNLQy1WQ0gyWDltM09ucW5BWjdCQWx1RkZ6YVJPMXpwdHBqZjFuZGcyTTlpWHNib2xMM04zSWlhc1JiQkMxa1NhMEFVUmVOQWM5S1NKazcxRzVzNzdzc25IcWxCelA4aTBoc28?oc=5",
+   "published_utc": "2026-11-23T03:08:02+00:00",
+   "title_original": "日銀・浅田審議委員が出席 長崎県金融経済懇談会開催「県内経済は緩やかに成長」（KTNテレビ長崎）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da3bc71230d082f1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "South Korea to Tighten Oversight of Crypto Transfers Abroad and Personal Wallets",
+   "url": "https://www.tradingview.com/news/binance_news:890b66d07094b:0-south-korea-to-tighten-oversight-of-crypto-transfers-abroad-and-personal-wallets/",
+   "published_utc": "2026-11-23T02:53:07+00:00",
+   "title_original": "South Korea to Tighten Oversight of Crypto Transfers Abroad and Personal Wallets",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1ed7b3ff56cc5070"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1243,6 +1277,25 @@
    "live_wire": false,
    "manual": false,
    "id": "5e7d53b9a2f0831d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "중소기업투데이",
+   "title_en": "On the 26th, the Monetary Policy Committee is likely to raise interest rates... The problem is ‘price’",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtLUQwRjhhN3RXLVZSd19tbVhFLUFLd29US3d5NU5hYVhVTGZVcjZEamFScnBId19iejZnNEhuOE1fNjJtcEN4aV9IdHVMcWQtNXotT1RWOUJ1bFlEMTFybklHaC1VRkY40gFsQVVfeXFMTUdrSEFQTlFDVFVMQzVGQmFMbmo2dk5sTTRGUWJRWHVXeUVBTkpCUGJXZkM4cEtmTkxlYS0zNG1qS1ZNZk5maXpPYS03Y0FEWVdvR2J3OGQ1U1BCS19PbVFUQ3ZWTzdYUGtjTURO?oc=5",
+   "published_utc": "2026-11-22T03:09:06+00:00",
+   "title_original": "26일 금통위, 금리 인상 유력…문제는 '물가'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9724086e33e5bfba"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3795,8 +3848,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -3810,7 +3863,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4036,8 +4089,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -4050,7 +4103,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5573,8 +5626,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -5588,7 +5641,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -5917,8 +5970,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -5932,7 +5985,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6630,8 +6683,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -6644,7 +6697,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -38569,24 +38622,6 @@
    "id": "6f339246780900a3"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
-   "published_utc": "2026-11-03T19:02:00+00:00",
-   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b9142ae6b360635"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "SK Hynix’s US expansion plans hit snag over China license delays - report",
@@ -39499,6 +39534,24 @@
    "live_wire": true,
    "manual": false,
    "id": "774bd0b6711100a0"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEQteU5wWUhza19BalkzOF9WLWZjVDFnQ0trcURLZnBHOWhuN3Y1bFFuVVRFZUdJS2pDTGFoNlRwNEs4YlhmSWdMYzQyeXNoU1cxQUJTaHFXa1V3MW1NRnp3T3NyXzd4WWZRREhUVzg1MDN3WmNOdXpTTk5uTFFWWFR6WUlIM3dXWWs5UlNlYnFBQ1diejVjaVhjVU55S2hENzhZQ21hVTVIZ2VJQTJMT29tb1FUc19qRUln?oc=5",
+   "published_utc": "2026-11-03T08:00:00+00:00",
+   "title_original": "USD/JPY Faces a 160 Ceiling as December Rate Hikes Threaten Yen Carry Trades",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b9142ae6b360635"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51864,58 +51917,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e826e46bf40705c2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028002795:0-micron-stock-advances-as-rival-sk-hynix-fuels-ai-frenzy-with-two-bombshells-barrons-com/",
-   "published_utc": "2026-10-28T19:26:00+00:00",
-   "title_original": "Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5b651c7d035afac4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:f1f6aaae47781:0-sk-hynix-inc-stock-12-month-price-target-raised-to-krw-3234972-13-implies-141-upside/",
-   "published_utc": "2026-10-28T19:20:00+00:00",
-   "title_original": "SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3aee29c23a7f7289"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45831.82, Implies 35% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:73aa75900ac5a:0-advantest-corp-stock-12-month-price-target-raised-to-jpy-45831-82-implies-35-upside/",
-   "published_utc": "2026-10-28T19:20:00+00:00",
-   "title_original": "Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45831.82, Implies 35% Upside",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5c07aa81f59a4acc"
   },
   {
    "source_id": "manual_ia",
