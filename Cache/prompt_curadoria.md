@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T06:32:55.309050+00:00
+Última coleta: 2026-11-23T06:42:42.293245+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK hynix, LG redraw playbooks for AI boom
   - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
   - [korea] (LEAD) Finance minister says gov't has contingency plan beyond stock market fund
   - [taiwan] AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] All 10 experts said, “Interest rate hike in November… Raise it to 3.5% next year” - Money Today
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
-  - [korea] South Korea’s Early Exports Gain After $1 Trillion Milestone
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T06:32:55+00:00",
+      "published_utc": "2026-11-23T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
