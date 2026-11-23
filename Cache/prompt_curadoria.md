@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T02:32:57.822782+00:00
+Última coleta: 2026-11-23T02:42:42.005983+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's finance minister sees solid growth next year, flags chip volatility risks
+  - [china] The "big mistake" Trump made - The farce of the US-China-Russia summit that disrespected allies and gave China
   - [taiwan] Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
   - [taiwan] US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?
   - [china] CHINA PBOC CONDUCTS CNY499.5 BLN VIA O/N REVERSE REPO MON
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] All Hankyung economists say, “Interest rate will be increased by 0.25% this month”
   - [china] The founder of China's CATL, the world's largest battery company, donated more than 2.5 billion yuan..
   - [korea] “Further tightening is likely due to high inflation… base interest rate 0.25%P ↑ on the 26th”
-  - [korea] [Weekly Economic, Crypto Calendar] FSC to Unveil Government Draft of Digital Asset Law; BOK Rate Decision Due
-  - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T02:32:58+00:00",
+      "published_utc": "2026-11-23T02:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-23T02:32:57.822782+00:00",
- "collected_at_utc": "2026-11-23T02:32:57.822782+00:00",
+ "generated_at_utc": "2026-11-23T02:42:42.005983+00:00",
+ "collected_at_utc": "2026-11-23T02:42:42.005983+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 326,
   "korea": 708
  },
- "elapsed_s": 43.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-23T02:07:05+00:00"
+   "newest": "2026-11-23T02:30:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T19:45:32+00:00"
+   "newest": "2026-11-22T17:53:07+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T02:30:16+00:00"
+   "newest": "2026-11-23T02:40:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T20:49:15+00:00"
+   "newest": "2026-11-22T23:50:07+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-23T10:30:00+09:00"
+   "newest": "2026-11-23T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea's finance minister sees solid growth next year, flags chip volatility risks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47400U:0-south-korea-s-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-risks/",
+   "published_utc": "2026-11-23T02:40:00+00:00",
+   "title_original": "South Korea's finance minister sees solid growth next year, flags chip volatility risks",
+   "region": "korea",
+   "topics": [
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "38c5458c323d2ee4"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "The \"big mistake\" Trump made - The farce of the US-China-Russia summit that disrespected allies and gave China an opportunity to promote itself as the leader of the world order | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/965578?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-23T02:30:00+00:00",
+   "title_original": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b54e13e193bfb7b7"
+  },
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
@@ -3690,8 +3725,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -3705,7 +3740,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3931,8 +3966,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -3945,7 +3980,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5468,8 +5503,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -5483,7 +5518,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -5812,8 +5847,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -5827,7 +5862,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6525,8 +6560,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -6539,7 +6574,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -17682,6 +17717,23 @@
    "id": "a7f879e68cffd5bc"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "US bought 79 billion yen in July intervention with Japan | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "US bought 79 billion yen in July intervention with Japan | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "482be99e33ffa444"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japanese yen tests 160 again, drawing intervention threats By Investing.com",
@@ -19164,23 +19216,6 @@
    "live_wire": true,
    "manual": false,
    "id": "233751f7604cd82e"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "US bought 79 billion yen in July intervention with Japan | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOeFE3UDV4ZERvVDBubHUzc3pkeGhrajdHazItcmxrYXVPZWRoWjFPMTczT0gxYkp1RFVJYTU3elE1cm1kVWxPS3NhZVJNelNSblhIMmZ0bFJCNzJ4Q2NiSl9tcw?oc=5",
-   "published_utc": "2026-11-12T18:20:00+00:00",
-   "title_original": "US bought 79 billion yen in July intervention with Japan | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "482be99e33ffa444"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51880,40 +51915,6 @@
    "live_wire": false,
    "manual": false,
    "id": "40d12c44e7f4de39"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Civil Service Exam Approvals Fall as Screening Tightens",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVRYQ0dBSzVqY1p3X195UXVDcGFrLTE2bV84ZzNMWjNJTVBkRmR5QjZhQXR5X2RweDVfVldVc3hPamhUd2NMd3JNdUdGajFQeFlBWkJfdllhb3NNQ2RFLXNQRHM2UC1uUDJFQVdYNTN1UjZfZ1I4WnJVWUZ1bmRtNjQyMWJZdGFHX2RZWTZDSEhNQ1A0TGhzeHNPcHdjUHYwQmNUM1dfTlRWRFA0cFlkc2IzOGVxWExx?oc=5",
-   "published_utc": "2026-10-28T17:40:00+00:00",
-   "title_original": "China’s Civil Service Exam Approvals Fall as Screening Tightens",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb2682f43d7e8bcb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "SK hynix Stocks Rally 10.89% With Buyback Cancellation Split in Focus",
-   "url": "https://www.tradingview.com/news/gurufocus:f5a4e0868094b:0-sk-hynix-stocks-rally-10-89-with-buyback-cancellation-split-in-focus/",
-   "published_utc": "2026-10-28T17:33:27+00:00",
-   "title_original": "SK hynix Stocks Rally 10.89% With Buyback Cancellation Split in Focus",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7cf15a93536b42b4"
   },
   {
    "source_id": "manual_ia",
