@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T11:32:49.467979+00:00
+Última coleta: 2026-11-23T11:42:43.123997+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          941
+  🇯🇵 Japão          1025
+  🇨🇳 China          942
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  702
+  🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [taiwan] AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows
   - [china] China's yuan steadies after wild swings, more volatility seen ahead
   - [japan] Japan Spot Power Price Reaches More Than Four-Year High on Cold-Weather Outlook
+  - [korea] “Strong growth next year”... 한은 기준금리 3.5% 바라보나
   - [china] China's gold imports said to have surged to record $209B through Oct.
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
   - [japan] Japan Power Prices Extend Rise to Four-Year High on Cold Outlook
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Report: Masayoshi Son Seels Wall Street Financing for USD1T Acquisition of SK hynix
   - [china] The central bank launches 499.5 billion yuan overnight reverse repurchase operation
   - [japan] Bank of Japan Councilor Asada attends Nagasaki Prefecture Financial and Economic Conference, “The prefecture's
-  - [korea] Finance minister says gov't has contingency plan beyond stock market fund
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T11:32:49+00:00",
+      "published_utc": "2026-11-23T11:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
