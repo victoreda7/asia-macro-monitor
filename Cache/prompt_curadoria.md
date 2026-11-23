@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T14:02:57.713454+00:00
+Última coleta: 2026-11-23T14:17:51.674794+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1020
-  🇨🇳 China          948
+  🇨🇳 China          949
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  701
+  🇰🇷 Coreia do Sul  700
 
 ## O que já está no feed (não repita)
 
+  - [china] CBAK Energy Rises to Fourth in China for Large Cylindrical Battery Shipments Through September 2026
   - [japan] USD/JPY to return to the 140s in 2027: Deutsche Bank
   - [taiwan] Taiwan's unemployment rate lowest in 26 years for October
   - [china] China, EU officials discuss exchange rates as central bank chief Pan urges cooperation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] “Strong growth next year”... 한은 기준금리 3.5% 바라보나
   - [china] China's gold imports said to have surged to record $209B through Oct.
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
-  - [japan] Japan Power Prices Extend Rise to Four-Year High on Cold Outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T14:02:57+00:00",
+      "published_utc": "2026-11-23T14:17:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
