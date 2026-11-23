@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-23T09:17:19.803192+00:00",
- "collected_at_utc": "2026-11-23T09:17:19.803192+00:00",
+ "generated_at_utc": "2026-11-23T09:22:43.560529+00:00",
+ "collected_at_utc": "2026-11-23T09:22:43.560529+00:00",
  "degraded": false,
- "sources_ok": 16,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,208 +11,8 @@
   "taiwan": 331,
   "korea": 703
  },
- "elapsed_s": 299.2,
+ "elapsed_s": 30.1,
  "sources": [
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "name": "DIGITIMES",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "name": "UDN / 經濟日報",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -220,6 +20,46 @@
    "count": 43,
    "error": "",
    "newest": "2026-11-20T11:00:00+09:00"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:24:36+00:00"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T07:23:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "name": "DIGITIMES",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:59:00+00:00"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T07:55:58+00:00"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T12:26:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -254,12 +94,28 @@
    "newest": "2026-11-23T08:07:28+00:00"
   },
   {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:52:20+00:00"
+  },
+  {
    "source_id": "ked_global",
    "name": "KED Global",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:53:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -270,6 +126,14 @@
    "newest": "2026-11-20T23:00:00+09:00"
   },
   {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-22T07:40:29+00:00"
+  },
+  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
@@ -278,12 +142,36 @@
    "newest": "2026-11-23T08:51:48+00:00"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-22T08:13:00+00:00"
+  },
+  {
    "source_id": "mof_jp",
    "name": "MOF Japan",
    "ok": true,
    "count": 60,
    "error": "",
    "newest": "2026-11-20T17:00:00+09:00"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:06:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-21T19:21:54+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -310,12 +198,68 @@
    "newest": ""
   },
   {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 15,
+   "error": "",
+   "newest": "2026-11-23T03:14:16+00:00"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T07:45:48+00:00"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-22T23:44:00+00:00"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T05:36:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T05:36:00+00:00"
+  },
+  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-23T08:53:18+00:00"
+   "newest": "2026-11-23T09:19:15+00:00"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T05:56:33+00:00"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-22T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -326,6 +270,30 @@
    "newest": "2026-11-23T09:14:00+00:00"
   },
   {
+   "source_id": "gn_tw_udn",
+   "name": "UDN / 經濟日報",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T02:50:46+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:24:30+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:13:06+00:00"
+  },
+  {
    "source_id": "yahoo_business",
    "name": "Yahoo! ニュース 経済",
    "ok": true,
@@ -334,41 +302,47 @@
    "newest": "2026-11-23T07:11:29+00:00"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T07:32:45+00:00"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:39:03+00:00"
+  },
+  {
    "source_id": "toyo_keizai",
    "name": "東洋経済オンライン",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": "2026-11-23T12:00:00+09:00"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:51:33+00:00"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:52:22+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_asia_bloomberg": 1,
-  "gn_cn_caixin": 1,
-  "gn_tw_digitimes": 1,
-  "gn_asia_ft": 1,
-  "gn_tw_focus": 1,
-  "gn_jp_investing": 1,
-  "gn_kr_ked": 1,
-  "gn_kr_herald": 1,
-  "gn_jp_kyodo": 1,
-  "gn_cn_nbs": 1,
-  "gn_jp_nhkworld": 1,
-  "gn_cn_pboc": 1,
-  "gn_cn_reuters": 1,
-  "gn_jp_reuters": 1,
-  "gn_kr_reuters": 1,
-  "gn_tw_reuters": 1,
-  "gn_cn_scmp": 1,
-  "gn_tw_taipeitimes": 1,
-  "gn_tw_udn": 1,
-  "gn_cn_xinhua": 1,
-  "gn_jp_yahoo": 1,
-  "gn_kr_yonhap": 1,
-  "gn_tw_cna": 1,
-  "gn_kr_mk": 1,
-  "gn_kr_bok": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "gn_tw_digitimes",
@@ -454,6 +428,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2b0dd4f294db97d3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "반론보도닷컴",
+   "title_en": "How long will the interest rate rise... Asset markets 'stumble' due to additional hikes in Korea and the US?",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZHdHRHZ0MjlTUFVqb25aaVN4bG56bVhWNlA5djhEX2pJTUFFZmQtZzJFZkEwVWJvSTNaRjdwSGY0U2hEZkdTdUhnRXlILU5NTnpIS2REb1k3TGhsa0lEa3h4ZFQtZU10LUFhc9IBcEFVX3lxTE1sc3FJcVVGdzAyUkhsUUlMaTMyalNzME5CR21la0VNazdOM0ZuX1BMaVV2OGFvTzUyUzJ4ZTBuS1FLU3FMX3pSZ0dnUVVEa05uN2s4bXlyVW1iQ2wyaldkemNUN3Jwdlc1TG1acU9SWnk?oc=5",
+   "published_utc": "2026-11-23T08:25:00+00:00",
+   "title_original": "금리 상승 언제까지 가나...한·미 추가 인상 예고에 자산시장 '휘청'",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7ba5e17371f645b9"
   },
   {
    "source_id": "investing_econ",
@@ -3728,7 +3719,7 @@
    "id": "6800db4059903e32"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMF9XNURnbHdjSWcxc0RoWnRJcE5nYkg1T1FtN0xGVE55N3FDVDgzc3lxS2ViT3BMdkF5ZnFpdTNIam1WT19KelpIV0tPeVBoWW5UdkpJVlM3VFVnWlVKUTVCWDBFZFNCaFh6ODVtODA4THZtYWlmS0x1Zlg1VHhMQUZpQjNtTkRDcEZwSEQ4ZWtqOTEzZm9aanVTMEFjbHkzblZOT1BHS1FHMklkcTZNM3ZlZVludWx3Znk5UlpB?oc=5",
@@ -3742,7 +3733,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9f0d0716c2bdf129"
+   "id": "511ae57ff43bf4e1"
   },
   {
    "source_id": "focus_taiwan",
@@ -4421,8 +4412,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -4436,13 +4427,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -4454,7 +4445,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4662,8 +4653,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -4676,7 +4667,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6235,8 +6226,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -6250,7 +6241,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -6579,8 +6570,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -6594,7 +6585,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7292,8 +7283,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -7306,7 +7297,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51924,24 +51915,6 @@
    "live_wire": false,
    "manual": false,
    "id": "76ca6a2f84e6f177"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "IT조선",
-   "title_en": "Bank of Korea: “US interest rate freeze, European and Japanese monetary policies also need to be confirmed”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdTRUTnRRbEJZMkl4bHh1clNodDVTNDJqQmJoQVlQZ1RTS1h6SXpxT1UyTzBPdTU0NHFFblhYMDktWjFtU0lQMW9kZnljLWJJRjUyZnZlSkpoeUM5bEJsRTAxbFBwdmVVSlpBS1FmN3XSAXRBVV95cUxPam91SUwxdUp1T3ZUajFnOUNuWWVTdFBLMGZwdG1teE9oYTVRZFZpOEpObzhMVmFqQkQ2eTBSblJQRS1uaXAxa1I3ckVYYWpyUXYwLVQ1c0hMekl0WGgwaFIzUXdIRHRRMXU3cVI3Y2lBREU4Qg?oc=5",
-   "published_utc": "2026-10-29T02:01:59+00:00",
-   "title_original": "한은 “美 금리 동결, 유럽·日 통화정책도 확인 필요”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5d81fd12a7ce7d0"
   },
   {
    "source_id": "manual_ia",

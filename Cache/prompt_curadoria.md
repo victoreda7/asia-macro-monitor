@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T09:17:19.803192+00:00
+Última coleta: 2026-11-23T09:22:43.560529+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea is likely to raise the base interest rate to 3.25% in November... All 14 experts predict ‘ra
   - [korea] AI chip boom lifts Samsung Electro-Mechanics ahead of LG Innotek in substrate profits
   - [taiwan] SinoPac predicts that the central bank will rise by half a yard each by the end of this year and the beginning
+  - [korea] How long will the interest rate rise... Asset markets 'stumble' due to additional hikes in Korea and the US?
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens
   - [china] Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain
   - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
   - [taiwan] US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?
   - [china] CHINA PBOC CONDUCTS CNY499.5 BLN VIA O/N REVERSE REPO MON
-  - [taiwan] Taiwan electronics, ICT export orders surge in October as US remains top buyer
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T09:17:19+00:00",
+      "published_utc": "2026-11-23T09:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
