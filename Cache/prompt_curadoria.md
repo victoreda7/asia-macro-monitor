@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T02:22:46.826874+00:00
+Última coleta: 2026-11-23T02:32:57.822782+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -31,9 +31,11 @@ Total: 3000 manchetes
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
   - [japan] Dollar edges off 19-month high after market rout; yen softens By Reuters
+  - [korea] South Korea’s Early Exports Gain After $1 Trillion Milestone
   - [japan] Dollar edges off 19-month high after market rout; yen softens
   - [japan] Yen May Strengthen Vs. Dollar on Diminished Risk Appetite — Market Talk
   - [korea] Park Jong-bok, former president of SC First Bank, has been selected as a final candidate for the 16t..
+  - [korea] Bank of Korea counts down interest rate hike on the 26th... 3.25% likely
   - [korea] Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [china] Weekly Recap: AI computing at 68% of revenue and China shipments suspended
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] “Further tightening is likely due to high inflation… base interest rate 0.25%P ↑ on the 26th”
   - [korea] [Weekly Economic, Crypto Calendar] FSC to Unveil Government Draft of Digital Asset Law; BOK Rate Decision Due
   - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
-  - [korea] Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?
-  - [korea] BOK likely to hike interest rate on resilient growth, inflation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T02:22:47+00:00",
+      "published_utc": "2026-11-23T02:32:58+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
