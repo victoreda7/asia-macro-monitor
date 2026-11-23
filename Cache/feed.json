@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-23T12:02:55.259685+00:00",
- "collected_at_utc": "2026-11-23T12:02:55.259685+00:00",
+ "generated_at_utc": "2026-11-23T12:12:43.878147+00:00",
+ "collected_at_utc": "2026-11-23T12:12:43.878147+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 330,
   "korea": 703
  },
- "elapsed_s": 42.5,
+ "elapsed_s": 28.7,
  "sources": [
-  {
-   "source_id": "gn_tw_digitimes",
-   "name": "DIGITIMES",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -44,6 +36,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-23T10:25:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "name": "DIGITIMES",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T08:59:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 163,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-23T11:57:02+00:00"
+   "newest": "2026-11-23T12:02:50+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-23T11:07:29+00:00"
+   "newest": "2026-11-23T11:49:16+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 14,
    "error": "",
    "newest": "2026-11-23T03:14:16+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T09:53:43+00:00"
+   "newest": "2026-11-23T05:36:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T12:01:48+00:00"
+   "newest": "2026-11-23T12:11:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:23:23+00:00"
+   "newest": "2026-11-23T07:32:45+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -342,9 +342,7 @@
    "newest": "2026-11-23T08:52:22+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_tw_digitimes": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "tradingview_live",
@@ -1050,7 +1048,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launches 499.5 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rbmJlcWIta2Rmbm5TRmo0VHdrZkxqSVp5c0xJVXR3Y3cwRXpGNUE2YlZ1ZmpPSmExdU1TRmJhVjhwYU5yUGVmZ2hnNGs0RkR1d3FlcGJhZEhjcXlxX1FmMVR3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ZTVEVWt6NXZKUW0tQW1CY3BucWlMZHdTdVp4dXZBYVlPeXd3STlXZGhwemkzSFlGUGc3SjE1NlFEME5Qb09zZ1R2dkM0QQ?oc=5",
    "published_utc": "2026-11-23T03:14:16+00:00",
    "title_original": "央行开展4995亿元隔夜逆回购操作",
    "region": "china",
@@ -1062,7 +1060,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "12a75acfca25700d"
+   "id": "1834e3da166896aa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1532,6 +1530,23 @@
    "id": "c179f817a689ce79"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan startup investment contracts as AI, semiconductors attract capital",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORThuU2RFcjQ3bGlTamNGajFOLVZtaEV1YWkxZ2dDeFV6OVN2ckNfNHN4Z284MG9jV2k2WGdMaU1meDFjZzhWMzFlOUxZaHV3MHlFQjJ5VTdNbTVqQUNucXdlV0dMQ3Vub2NhNjJHdFF3THlCUVE4bUZDZ1d1Nmh0VFBybGNidHd2eGZQNWNiUi0wUFZZNDl4Y2kteDhBNjlPSGc1UnNDbUJhTDg?oc=5",
+   "published_utc": "2026-11-22T23:50:02+00:00",
+   "title_original": "Taiwan startup investment contracts as AI, semiconductors attract capital",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fa62aa3883e01696"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Yen May Strengthen Vs. Dollar on Diminished Risk Appetite — Market Talk",
@@ -1547,6 +1562,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6ff85758680cfd8d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Hiwin deepens South Korea localization to capture semiconductor expansion",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEhVTDF5dGN6MDE5NmZPVTVNVXdsXzlqUml6TFMtZ2YyRzRIaGUxX202dVZMcVBXUDZ1S0JsSGRvUVFvYlctTXoyZjNSQzU3dlRCUzBHLTE5ZkxtYmFNN2Q2d3FmaFV1MmRFbVZ0TVBfdXgzclg2ZXNxcm1MVkI1SncxTVFtaDVlWFMxdE9WZnVORTRpT3ZxMnBoODcwbGdJN0VwZlB2MFBKdUVKaThsQS1B?oc=5",
+   "published_utc": "2026-11-22T23:47:29+00:00",
+   "title_original": "Hiwin deepens South Korea localization to capture semiconductor expansion",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b59de4e7da1ca85a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1700,6 +1732,24 @@
    "live_wire": true,
    "manual": false,
    "id": "d74529f22fe59d26"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank deposits ``100 million yen or more'' 3.6 times more likely to accumulate assets among the wealthy Bank of Japan Statistics (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yV2xuMlRmNWFfLUtYTVM2YlFhS2l4aGhnTUE5TzFaZXZXcmpXRlBmNDE4eDFsT0QxeHBTTjFWWWFlcURjVDdINTEwTWJ3d2tIUTZDRTdocW5xU25mZzh0a05lbUIzVjBBU3hNRUR0d3hPYUVZMHg2SUo1LTBRbjA?oc=5",
+   "published_utc": "2026-11-22T22:31:00+00:00",
+   "title_original": "銀行預金、「1億円以上」3．6倍 富裕層に資産集まる構図に 日銀統計（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b02731b8deb2cf10"
   },
   {
    "source_id": "tradingview_live",
@@ -2625,24 +2675,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f35071d5fb86f1fc"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank deposits ``100 million yen or more'' 3.6 times more likely to accumulate assets among the wealthy Bank of Japan Statistics (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yV2xuMlRmNWFfLUtYTVM2YlFhS2l4aGhnTUE5TzFaZXZXcmpXRlBmNDE4eDFsT0QxeHBTTjFWWWFlcURjVDdINTEwTWJ3d2tIUTZDRTdocW5xU25mZzh0a05lbUIzVjBBU3hNRUR0d3hPYUVZMHg2SUo1LTBRbjA?oc=5",
-   "published_utc": "2026-11-21T05:33:00+00:00",
-   "title_original": "銀行預金、「1億円以上」3．6倍 富裕層に資産集まる構図に 日銀統計（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b02731b8deb2cf10"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3978,7 +4010,7 @@
    "id": "6800db4059903e32"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMF9XNURnbHdjSWcxc0RoWnRJcE5nYkg1T1FtN0xGVE55N3FDVDgzc3lxS2ViT3BMdkF5ZnFpdTNIam1WT19KelpIV0tPeVBoWW5UdkpJVlM3VFVnWlVKUTVCWDBFZFNCaFh6ODVtODA4THZtYWlmS0x1Zlg1VHhMQUZpQjNtTkRDcEZwSEQ4ZWtqOTEzZm9aanVTMEFjbHkzblZOT1BHS1FHMklkcTZNM3ZlZVludWx3Znk5UlpB?oc=5",
@@ -3992,7 +4024,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "511ae57ff43bf4e1"
+   "id": "9f0d0716c2bdf129"
   },
   {
    "source_id": "focus_taiwan",
@@ -4375,40 +4407,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c61c2b57e8322c96"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan startup investment contracts as AI, semiconductors attract capital",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORThuU2RFcjQ3bGlTamNGajFOLVZtaEV1YWkxZ2dDeFV6OVN2ckNfNHN4Z284MG9jV2k2WGdMaU1meDFjZzhWMzFlOUxZaHV3MHlFQjJ5VTdNbTVqQUNucXdlV0dMQ3Vub2NhNjJHdFF3THlCUVE4bUZDZ1d1Nmh0VFBybGNidHd2eGZQNWNiUi0wUFZZNDl4Y2kteDhBNjlPSGc1UnNDbUJhTDg?oc=5",
-   "published_utc": "2026-11-20T08:00:00+00:00",
-   "title_original": "Taiwan startup investment contracts as AI, semiconductors attract capital",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fa62aa3883e01696"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Hiwin deepens South Korea localization to capture semiconductor expansion",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEhVTDF5dGN6MDE5NmZPVTVNVXdsXzlqUml6TFMtZ2YyRzRIaGUxX202dVZMcVBXUDZ1S0JsSGRvUVFvYlctTXoyZjNSQzU3dlRCUzBHLTE5ZkxtYmFNN2Q2d3FmaFV1MmRFbVZ0TVBfdXgzclg2ZXNxcm1MVkI1SncxTVFtaDVlWFMxdE9WZnVORTRpT3ZxMnBoODcwbGdJN0VwZlB2MFBKdUVKaThsQS1B?oc=5",
-   "published_utc": "2026-11-20T08:00:00+00:00",
-   "title_original": "Hiwin deepens South Korea localization to capture semiconductor expansion",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b59de4e7da1ca85a"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5194,7 +5192,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRxSzZfQ25RNy1OVGFKWkJxSU9GMkpabHFqLVBmaHJyZHhpQVhhbXd1T3NRM0lEam9XZDJrUVRLaVNELXR4d2F0TWVuUnpBcXZBYjQtRUE1TjFMRW5vd1BIdkhwVDJ2MDNEd1U3RjVLdGZCWld6X3hEWUk5STc5Q1VUSUJPSUE1dHNERnE5VzcwZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXdQTmZKMFpLNzdUTFJaYlRuVlVPaDRTMEJmTm04N0ExMjBCX2IwSV9rQmNMZVhHNzF3Z1FkTkc1Z29jZl81NXJFdms0bFpNM05JVC1aRGRtMW03MFlXTkZEZXZ6ZmdfYklaajBvSU5yNlFtQmY0UEJza0M5aUZOdHlSSmstWVNPU3dGRDByZzNqQQ?oc=5",
    "published_utc": "2026-11-20T01:34:08+00:00",
    "title_original": "央行今日开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -5206,7 +5204,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d34fd15a040debf5"
+   "id": "ae0f2f94a425ee29"
   },
   {
    "source_id": "mof_jp",
@@ -7996,6 +7994,24 @@
    "id": "49bc7f28924483ee"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "published_utc": "2026-11-18T22:55:40+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "55af98a494c201f9"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Bank of Japan to raise interest rates in December and again by end-March, economists say",
@@ -8096,24 +8112,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f9d1f1e8c938658"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "nhk_politics",
