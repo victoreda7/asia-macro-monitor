@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T08:32:43.734026+00:00
+Última coleta: 2026-11-23T08:43:05.187103+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
+  🇯🇵 Japão          1028
   🇨🇳 China          940
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  705
+  🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
@@ -32,6 +32,7 @@ Total: 3000 manchetes
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
   - [japan] Japan Power Prices Extend Rise to Four-Year High on Cold Outlook
   - [korea] “We will raise it this time” ⋯ 14 experts speak with one voice on raising the base interest rate in November [
+  - [japan] Asia FX mixed as dollar retreats from 19-month high; yen, won weaken
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
   - [korea] Bank of Korea Expected to Hike This Week in Unanimous Decision — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 499.5 billion yuan overnight reverse repurchase operation today
   - [china] China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange
   - [korea] After the government drastically reduced the limit on mortgage loans for high-priced houses in Octob..
-  - [korea] South Korea finance minister to brief plan for stock market stabilisation fund
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T08:32:43+00:00",
+      "published_utc": "2026-11-23T08:43:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
