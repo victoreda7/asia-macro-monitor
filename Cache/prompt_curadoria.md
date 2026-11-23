@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T20:42:41.475866+00:00
+Última coleta: 2026-11-23T20:52:49.711665+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1019
+  🇯🇵 Japão          1020
   🇨🇳 China          949
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  695
+  🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's defense spending pitted against sales tax cut in budget tug-of-war
   - [korea] [Shang-Jin Wei] Export restraints over tariffs
   - [japan] Is it true that “as interest rates rise, land prices fall”? Accelerating in Musashino and Mitaka, slowing down
   - [korea] Why SK hynix stock is trading up today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens
   - [china] Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain
   - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance
-  - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economy
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T20:42:41+00:00",
+      "published_utc": "2026-11-23T20:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
