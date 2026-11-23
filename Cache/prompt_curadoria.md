@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T06:17:26.945321+00:00
+Última coleta: 2026-11-23T06:22:42.610485+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
+  🇯🇵 Japão          1027
   🇨🇳 China          936
-  🇹🇼 Taiwan         328
+  🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows
   - [china] China's yuan steadies after wild swings, more volatility seen ahead
+  - [japan] Japan Spot Power Price Reaches More Than Four-Year High on Cold-Weather Outlook
   - [china] China's gold imports said to have surged to record $209B through Oct.
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Park Jong-bok, former president of SC First Bank, has been selected as a final candidate for the 16t..
   - [korea] Bank of Korea counts down interest rate hike on the 26th... 3.25% likely
   - [korea] Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..
-  - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
-  - [china] Weekly Recap: AI computing at 68% of revenue and China shipments suspended
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T06:17:27+00:00",
+      "published_utc": "2026-11-23T06:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
