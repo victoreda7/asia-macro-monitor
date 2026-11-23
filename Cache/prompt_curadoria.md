@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T00:52:43.249934+00:00
+Última coleta: 2026-11-23T01:02:47.403760+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          929
+  🇨🇳 China          930
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
   - [japan] Dollar edges off 19-month high after market rout; yen softens
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [korea] Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [china] Weekly Recap: AI computing at 68% of revenue and China shipments suspended
+  - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
   - [korea] Yuanta Securities lowered its target stock price by 19.2% from 120,000 won to 97,000 won on the 23rd..
   - [japan] Japan Data Preview: Tokyo CPI Expected Up to 16-Month High in November
   - [japan] Japan Week Ahead: Rising Costs, Weak Yen Hurting Households but BOJ Board Seen Leaning Toward Another Rate Hik
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Both prices and growth rise… Even though the market is difficult, “the Bank of Korea’s interest rate rises”
   - [korea] With the burden of growth and prices increasing, will the Bank of Korea raise interest rates at the last Monet
   - [japan] There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and 
-  - [japan] What will happen to Japan's "salaries" and "prices" if Trump loses... Experts warn of double punch to househol
-  - [korea] [Global economic indicators] New York stock market likely to be quiet on ‘Thanksgiving’… Pay attention to the 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T00:52:43+00:00",
+      "published_utc": "2026-11-23T01:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

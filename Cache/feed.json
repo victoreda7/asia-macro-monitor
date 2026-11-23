@@ -1,23 +1,23 @@
 {
- "generated_at_utc": "2026-11-23T00:52:43.249934+00:00",
- "collected_at_utc": "2026-11-23T00:52:43.249934+00:00",
+ "generated_at_utc": "2026-11-23T01:02:47.403760+00:00",
+ "collected_at_utc": "2026-11-23T01:02:47.403760+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1036,
-  "china": 929,
+  "china": 930,
   "taiwan": 323,
-  "korea": 712
+  "korea": 711
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 28.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
    "newest": "2026-11-20T11:00:00+09:00"
   },
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T22:00:13+00:00"
+   "newest": "2026-11-22T23:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-23T00:20:36+00:00"
+   "newest": "2026-11-23T00:38:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-23T00:30:04+00:00"
+   "newest": "2026-11-23T00:58:25+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T00:49:00+00:00"
+   "newest": "2026-11-23T01:00:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T23:45:27+00:00"
+   "newest": "2026-11-22T05:28:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high",
+   "url": "https://www.koreaherald.com/article/10945683",
+   "published_utc": "2026-11-23T00:58:25+00:00",
+   "title_original": "Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4cc26d7b761056cc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -480,6 +498,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0093a6d144c3a51d"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
+   "published_utc": "2026-11-22T23:00:00+00:00",
+   "title_original": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ac7b8ebf0dda8fd"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51879,40 +51914,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ccb8731296290a6a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028002795:0-micron-stock-pops-as-rival-sk-hynix-fuels-ai-frenzy-with-two-bombshells-barrons-com/",
-   "published_utc": "2026-10-28T14:14:00+00:00",
-   "title_original": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4a164cd26e200e32"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "S&P 500 and Nasdaq open higher with SK Hynix boosting semiconductor sector; Fed Spotlight",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46E0WF:0/",
-   "published_utc": "2026-10-28T13:42:59+00:00",
-   "title_original": "S&P 500 e Nasdaq abrem em alta com SK Hynix impulsionando setor de semicondutores; Fed em destaque",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "6a5f084b09c70fc7"
   },
   {
    "source_id": "manual_ia",
