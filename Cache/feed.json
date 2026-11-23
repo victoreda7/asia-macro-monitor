@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-23T11:52:45.154570+00:00",
- "collected_at_utc": "2026-11-23T11:52:45.154570+00:00",
+ "generated_at_utc": "2026-11-23T12:02:55.259685+00:00",
+ "collected_at_utc": "2026-11-23T12:02:55.259685+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 330,
   "korea": 703
  },
- "elapsed_s": 32.4,
+ "elapsed_s": 42.5,
  "sources": [
+  {
+   "source_id": "gn_tw_digitimes",
+   "name": "DIGITIMES",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -38,20 +46,12 @@
    "newest": "2026-11-23T10:25:00+00:00"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "name": "DIGITIMES",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-23T08:59:00+00:00"
-  },
-  {
    "source_id": "gn_asia_ft",
    "name": "FT Asia",
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T07:10:04+00:00"
+   "newest": "2026-11-23T09:56:02+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-23T11:51:02+00:00"
+   "newest": "2026-11-23T11:57:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T11:49:55+00:00"
+   "newest": "2026-11-23T12:00:55+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T11:52:03+00:00"
+   "newest": "2026-11-23T12:01:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T08:45:18+00:00"
+   "newest": "2026-11-23T08:51:33+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,7 +342,9 @@
    "newest": "2026-11-23T08:52:22+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_tw_digitimes": 1
+ },
  "items": [
   {
    "source_id": "tradingview_live",
@@ -1048,7 +1050,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launches 499.5 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ZTVEVWt6NXZKUW0tQW1CY3BucWlMZHdTdVp4dXZBYVlPeXd3STlXZGhwemkzSFlGUGc3SjE1NlFEME5Qb09zZ1R2dkM0QQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rbmJlcWIta2Rmbm5TRmo0VHdrZkxqSVp5c0xJVXR3Y3cwRXpGNUE2YlZ1ZmpPSmExdU1TRmJhVjhwYU5yUGVmZ2hnNGs0RkR1d3FlcGJhZEhjcXlxX1FmMVR3?oc=5",
    "published_utc": "2026-11-23T03:14:16+00:00",
    "title_original": "央行开展4995亿元隔夜逆回购操作",
    "region": "china",
@@ -1060,7 +1062,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1834e3da166896aa"
+   "id": "12a75acfca25700d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3976,7 +3978,7 @@
    "id": "6800db4059903e32"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMF9XNURnbHdjSWcxc0RoWnRJcE5nYkg1T1FtN0xGVE55N3FDVDgzc3lxS2ViT3BMdkF5ZnFpdTNIam1WT19KelpIV0tPeVBoWW5UdkpJVlM3VFVnWlVKUTVCWDBFZFNCaFh6ODVtODA4THZtYWlmS0x1Zlg1VHhMQUZpQjNtTkRDcEZwSEQ4ZWtqOTEzZm9aanVTMEFjbHkzblZOT1BHS1FHMklkcTZNM3ZlZVludWx3Znk5UlpB?oc=5",
@@ -3990,7 +3992,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9f0d0716c2bdf129"
+   "id": "511ae57ff43bf4e1"
   },
   {
    "source_id": "focus_taiwan",
