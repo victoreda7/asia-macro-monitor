@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T22:42:46.527104+00:00",
- "collected_at_utc": "2026-11-23T22:42:46.527104+00:00",
+ "generated_at_utc": "2026-11-23T22:52:43.775605+00:00",
+ "collected_at_utc": "2026-11-23T22:52:43.775605+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1020,
+  "japan": 1022,
   "china": 949,
   "taiwan": 337,
-  "korea": 694
+  "korea": 692
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-23T22:32:38+00:00"
+   "newest": "2026-11-23T22:48:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T08:13:00+00:00"
+   "newest": "2026-11-21T01:28:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T04:53:00+09:00"
+   "newest": "2026-11-24T07:50:32+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
    "newest": "2026-11-23T03:14:16+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T20:31:08+00:00"
+   "newest": "2026-11-23T21:46:18+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T22:42:00+00:00"
+   "newest": "2026-11-23T22:50:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-23T22:21:34+00:00"
+   "newest": "2026-11-23T22:45:42+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan PMI Data Due On Tuesday",
+   "url": "https://www.tradingview.com/news/dpa_afx:7ccaddcef429a:0-japan-pmi-data-due-on-tuesday/",
+   "published_utc": "2026-11-23T22:46:26+00:00",
+   "title_original": "Japan PMI Data Due On Tuesday",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2de24699eab504d0"
+  },
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Scholarship interest rates soar, calls for burden reduction",
+   "url": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
+   "published_utc": "2026-11-23T22:45:42+00:00",
+   "title_original": "奨学金利率が急上昇 負担減求める",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cb4e038060796714"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -1784,23 +1818,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de0536f4e9915856"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea finance minister to brief plan for stock market stabilisation fund",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45T04G:0-south-korea-finance-minister-to-brief-plan-for-stock-market-stabilisation-fund/",
-   "published_utc": "2026-11-23T01:09:59+00:00",
-   "title_original": "South Korea finance minister to brief plan for stock market stabilisation fund",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7eb5bba37c9f1ccd"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5101,7 +5118,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5113,7 +5130,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -7256,6 +7273,24 @@
    "id": "7539474e2ed96ad2"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "published_utc": "2026-11-19T09:41:26+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "55af98a494c201f9"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "LG Display scraps 3 tln-won OLED investment plan",
@@ -8524,24 +8559,6 @@
    "id": "6f9d1f1e8c938658"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Support funds in line with the consumption tax reduction Plan for annual incomes starting at around 560,000 yen",
@@ -9614,7 +9631,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -9626,7 +9643,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "92f2bb19692c09cf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51743,10 +51760,10 @@
    "id": "72b3e26be92e6f35"
   },
   {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
    "title_en": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TUjNpUWdFRjBfcm5JdHdNYWhoS3JQQUs5cDVqaFA1TnNra25BZWgxdW1QNlBUTzV5QlNvT0JqTGJPZ0tmc2g0TUFuTHV2VWQtbWlteGktQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOVNFZVZyR2FfNl9ISnViLUhBTUdKcElfU1J3RTBVU002UjlRb3RKdGJJbmI4ZHZpaTN0NGIwTkJ1Y2c0OXVsT24zRWRPQ2VoUFIwVHFfQU9wZw?oc=5",
    "published_utc": "2026-10-29T07:00:00+00:00",
    "title_original": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
    "region": "korea",
@@ -51757,7 +51774,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8e4540680668cfce"
+   "id": "9836bb0937828c29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51881,23 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "acf5088e843a4936"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "S. Korea eyes virtuous cycle via green economic growth",
-   "url": "https://www.koreaherald.com/article/10919376",
-   "published_utc": "2026-10-29T06:26:25+00:00",
-   "title_original": "S. Korea eyes virtuous cycle via green economic growth",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee1a17b75d84351a"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T22:42:46.527104+00:00
+Última coleta: 2026-11-23T22:52:43.775605+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1020
+  🇯🇵 Japão          1022
   🇨🇳 China          949
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  694
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan PMI Data Due On Tuesday
+  - [japan] Scholarship interest rates soar, calls for burden reduction
   - [japan] Mitsubishi UFJ, with the highest profits, is strong...It's not just the Bank of Japan interest rate hike, it's
   - [japan] Japan's defense spending pitted against sales tax cut in budget tug-of-war
   - [korea] [Shang-Jin Wei] Export restraints over tariffs
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Park Jong-bok, former president of SC First Bank, has been selected as the next chairman of the Nati..
   - [taiwan] SinoPac predicts that the central bank will rise by half a yard each by the end of this year and the beginning
   - [korea] How long will the interest rate rise... Asset markets 'stumble' due to additional hikes in Korea and the US?
-  - [japan] Dollar edges off 19-month high after stocks rout; yen softens
-  - [china] Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T22:42:46+00:00",
+      "published_utc": "2026-11-23T22:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
