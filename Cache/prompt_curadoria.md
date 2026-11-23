@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T08:43:05.187103+00:00
+Última coleta: 2026-11-23T08:52:42.427510+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1028
   🇨🇳 China          940
-  🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  703
+  🇹🇼 Taiwan         330
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] SinoPac predicts that the central bank will rise by half a yard each by the end of this year and the beginning
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens
   - [china] Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain
   - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] On November 23, the central bank launched a 499.5 billion yuan overnight reverse repurchase operation.
   - [china] The central bank launched a 499.5 billion yuan overnight reverse repurchase operation today
   - [china] China Tian Yuan Healthcare Says Co Received A Letter From Stock Exchange
-  - [korea] After the government drastically reduced the limit on mortgage loans for high-priced houses in Octob..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T08:43:05+00:00",
+      "published_utc": "2026-11-23T08:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
