@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T04:43:42.106876+00:00
+Última coleta: 2026-11-23T04:52:44.736608+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
-  🇨🇳 China          933
+  🇯🇵 Japão          1029
+  🇨🇳 China          934
   🇹🇼 Taiwan         328
   🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
 
+  - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
   - [japan] Asia FX mixed as dollar retreats from 19-month high; yen, won weaken
   - [japan] Dollar edges off 19-month high after market rout; yen softens
@@ -43,6 +44,7 @@ Total: 3000 manchetes
   - [korea] South Korea finance minister to brief plan for stock market stabilisation fund
   - [korea] Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high
   - [korea] Manufacturing economy deteriorates despite semiconductor boom ahead of Bank of Korea interest rate decision
+  - [korea] All 10 experts said, “Interest rate hike in November… Raise it to 3.5% next year” - Money Today
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
   - [korea] South Korea’s Early Exports Gain After $1 Trillion Milestone
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
   - [korea] Yuanta Securities lowered its target stock price by 19.2% from 120,000 won to 97,000 won on the 23rd..
   - [japan] Japan Data Preview: Tokyo CPI Expected Up to 16-Month High in November
-  - [japan] Japan Week Ahead: Rising Costs, Weak Yen Hurting Households but BOJ Board Seen Leaning Toward Another Rate Hik
-  - [china] US seeks answers on Nvidia’s sale of chips to China, Bessent says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T04:43:42+00:00",
+      "published_utc": "2026-11-23T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
