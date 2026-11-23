@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T11:42:43.123997+00:00
+Última coleta: 2026-11-23T11:52:45.154570+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
-  🇨🇳 China          942
+  🇯🇵 Japão          1023
+  🇨🇳 China          944
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
+  - [china] LCY’s China chip chemicals business draws $600M takeover interest from HSG-led consortium - report
+  - [china] The Taiwan Affairs Office of the State Council and the Export-Import Bank of China signed a contract to increa
   - [korea] Samsung, SK Hynix’s long-term supply deals with Big Tech hold firm despite market peak fears
   - [china] Consortium in talks to buy LCY's $600 million China chip chemicals business, people say
   - [china] Yuan Heng Gas Expects Unaudited Consolidated Net Loss Of RMB60 Million For Half-Year
@@ -25,17 +27,18 @@ Total: 3000 manchetes
   - [china] CapitaLand China Trust: Retail sales grew as leasing and capital actions targeted portfolio resilience
   - [korea] Bank of Korea Expected to Tighten Policy Twice More in Cycle — Market Talk
   - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
-  - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economy
   - [taiwan] Chip prices set to rise through 2027, driving semiconductor growth
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens By Reuters
   - [korea] Posco Future M targets next-generation battery anodes with China-free supply chain
   - [korea] The Bank of Korea is likely to raise the base interest rate to 3.25% in November... All 14 experts predict ‘ra
   - [korea] AI chip boom lifts Samsung Electro-Mechanics ahead of LG Innotek in substrate profits
+  - [korea] Park Jong-bok, former president of SC First Bank, has been selected as the next chairman of the Nati..
   - [taiwan] SinoPac predicts that the central bank will rise by half a yard each by the end of this year and the beginning
   - [korea] How long will the interest rate rise... Asset markets 'stumble' due to additional hikes in Korea and the US?
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens
   - [china] Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain
   - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance
+  - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economy
   - [korea] S. Korea's exports forecast to exceed US$1 tln for 2nd straight year in 2027
   - [korea] Samsung, SK hynix, LG redraw playbooks for AI boom
   - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
   - [korea] Bank of Korea Expected to Hike This Week in Unanimous Decision — Market Talk
   - [korea] South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off
-  - [korea] Report: Masayoshi Son Seels Wall Street Financing for USD1T Acquisition of SK hynix
-  - [china] The central bank launches 499.5 billion yuan overnight reverse repurchase operation
-  - [japan] Bank of Japan Councilor Asada attends Nagasaki Prefecture Financial and Economic Conference, “The prefecture's
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T11:42:43+00:00",
+      "published_utc": "2026-11-23T11:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
