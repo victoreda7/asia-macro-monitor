@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T13:22:41.714894+00:00
+Última coleta: 2026-11-23T13:33:03.327592+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1021
-  🇨🇳 China          947
-  🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  702
+  🇯🇵 Japão          1020
+  🇨🇳 China          948
+  🇹🇼 Taiwan         331
+  🇰🇷 Coreia do Sul  701
 
 ## O que já está no feed (não repita)
 
+  - [japan] USD/JPY to return to the 140s in 2027: Deutsche Bank
+  - [taiwan] Taiwan's unemployment rate lowest in 26 years for October
   - [china] China, EU officials discuss exchange rates as central bank chief Pan urges cooperation
+  - [china] China's claim on Trump's Taiwan stance signals no U.S. policy shift: Scholars
   - [japan] Regional banks and others significantly raise interest rates on fixed deposits
   - [china] Zhongji Innolight Plans A-Share Buyback With 2-4 Billion Yuan
   - [china] LCY’s China chip chemicals business draws $600M takeover interest from HSG-led consortium - report
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's gold imports said to have surged to record $209B through Oct.
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
   - [japan] Japan Power Prices Extend Rise to Four-Year High on Cold Outlook
-  - [korea] “We will raise it this time” ⋯ 14 experts speak with one voice on raising the base interest rate in November [
-  - [japan] Asia FX mixed as dollar retreats from 19-month high; yen, won weaken
-  - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T13:22:41+00:00",
+      "published_utc": "2026-11-23T13:33:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
