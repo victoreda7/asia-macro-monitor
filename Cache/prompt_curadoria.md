@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T05:12:47.356645+00:00
+Última coleta: 2026-11-23T05:22:41.259565+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
-  🇨🇳 China          934
+  🇨🇳 China          935
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  709
+  🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
@@ -55,8 +55,8 @@ Total: 3000 manchetes
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [china] Weekly Recap: AI computing at 68% of revenue and China shipments suspended
   - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
+  - [china] COMMENTARY: AI bust hurts Chinese stocks far more than GDP
   - [korea] Yuanta Securities lowered its target stock price by 19.2% from 120,000 won to 97,000 won on the 23rd..
-  - [japan] Japan Data Preview: Tokyo CPI Expected Up to 16-Month High in November
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T05:12:47+00:00",
+      "published_utc": "2026-11-23T05:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
