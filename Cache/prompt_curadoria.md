@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T21:42:52.504025+00:00
+Última coleta: 2026-11-23T21:52:43.238503+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1020
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mitsubishi UFJ, with the highest profits, is strong...It's not just the Bank of Japan interest rate hike, it's
   - [japan] Japan's defense spending pitted against sales tax cut in budget tug-of-war
   - [korea] [Shang-Jin Wei] Export restraints over tariffs
   - [japan] Is it true that “as interest rates rise, land prices fall”? Accelerating in Musashino and Mitaka, slowing down
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] How long will the interest rate rise... Asset markets 'stumble' due to additional hikes in Korea and the US?
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens
   - [china] Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain
-  - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T21:42:52+00:00",
+      "published_utc": "2026-11-23T21:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
