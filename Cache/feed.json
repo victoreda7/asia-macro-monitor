@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-22T23:52:42.537687+00:00",
- "collected_at_utc": "2026-11-22T23:52:42.537687+00:00",
+ "generated_at_utc": "2026-11-23T00:03:05.407886+00:00",
+ "collected_at_utc": "2026-11-23T00:03:05.407886+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1035,
-  "china": 931,
-  "taiwan": 322,
-  "korea": 712
+  "china": 929,
+  "taiwan": 323,
+  "korea": 713
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 46.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T20:01:13+00:00"
+   "newest": "2026-11-22T22:00:13+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-20T09:00:04+00:00"
+   "newest": "2026-11-22T23:51:12+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-22T23:12:49+00:00"
+   "newest": "2026-11-22T23:48:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-22T09:43:25+00:00"
+   "newest": "2026-11-22T23:48:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T10:05:00+00:00"
+   "newest": "2026-11-22T12:08:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-22T23:51:00+00:00"
+   "newest": "2026-11-23T00:02:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T22:17:00+00:00"
+   "newest": "2026-11-22T12:05:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T23:27:03+00:00"
+   "newest": "2026-11-22T23:45:27+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Dollar edges off 19-month high after market rout; yen softens",
+   "url": "https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
+   "published_utc": "2026-11-22T23:48:38+00:00",
+   "title_original": "Dollar edges off 19-month high after market rout; yen softens",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c9ed9e074568aa51"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -362,21 +379,21 @@
    "id": "6ff85758680cfd8d"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Dollar edges off 19-month high after market rout; yen softens",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47308W:0-dollar-edges-off-19-month-high-after-market-rout-yen-softens/",
-   "published_utc": "2026-11-22T23:40:24+00:00",
-   "title_original": "Dollar edges off 19-month high after market rout; yen softens",
-   "region": "japan",
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Park Jong-bok, former president of SC First Bank, has been selected as a final candidate for the 16t..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VYW93cl9yV2dBVjlEWlJuWmYyYTJaTzBoQ0lfVEp1WUZYXzB5bnlNUnVpajBfLWFJSDdJZzBQeEthOGd1RDFZeTBnMFd5VVJzTFE?oc=5",
+   "published_utc": "2026-11-22T23:45:27+00:00",
+   "title_original": "Park Jong-bok, former president of SC First Bank, has been selected as a final candidate for the 16t..",
+   "region": "korea",
    "topics": [
-    "fx"
+    "monetary"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "f9c65a6837946dae"
+   "id": "f989fd77d5b5e693"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3086,6 +3103,40 @@
    "id": "c61c2b57e8322c96"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan startup investment contracts as AI, semiconductors attract capital",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORThuU2RFcjQ3bGlTamNGajFOLVZtaEV1YWkxZ2dDeFV6OVN2ckNfNHN4Z284MG9jV2k2WGdMaU1meDFjZzhWMzFlOUxZaHV3MHlFQjJ5VTdNbTVqQUNucXdlV0dMQ3Vub2NhNjJHdFF3THlCUVE4bUZDZ1d1Nmh0VFBybGNidHd2eGZQNWNiUi0wUFZZNDl4Y2kteDhBNjlPSGc1UnNDbUJhTDg?oc=5",
+   "published_utc": "2026-11-20T08:00:00+00:00",
+   "title_original": "Taiwan startup investment contracts as AI, semiconductors attract capital",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fa62aa3883e01696"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Hiwin deepens South Korea localization to capture semiconductor expansion",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEhVTDF5dGN6MDE5NmZPVTVNVXdsXzlqUml6TFMtZ2YyRzRIaGUxX202dVZMcVBXUDZ1S0JsSGRvUVFvYlctTXoyZjNSQzU3dlRCUzBHLTE5ZkxtYmFNN2Q2d3FmaFV1MmRFbVZ0TVBfdXgzclg2ZXNxcm1MVkI1SncxTVFtaDVlWFMxdE9WZnVORTRpT3ZxMnBoODcwbGdJN0VwZlB2MFBKdUVKaThsQS1B?oc=5",
+   "published_utc": "2026-11-20T08:00:00+00:00",
+   "title_original": "Hiwin deepens South Korea localization to capture semiconductor expansion",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b59de4e7da1ca85a"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스N연합",
    "title_en": "Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... Should we raise the base interest rate to 3.25%?",
@@ -3346,8 +3397,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -3361,7 +3412,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3587,8 +3638,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -3601,7 +3652,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5124,8 +5175,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -5139,7 +5190,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -5468,8 +5519,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -5483,7 +5534,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6181,8 +6232,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -6195,7 +6246,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51858,57 +51909,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bf1f746a444b3190"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Axt, Inc. Announces Up To RMB 3.67 Billion (Approximately Us$545 Million) In Private Equity Financing For Subsidiary Tongmei",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUABZRKRZ:0-axt-inc-announces-up-to-rmb-3-67-billion-approximately-us-545-million-in-private-equity-financing-for-subsidiary-tongmei/",
-   "published_utc": "2026-10-28T13:23:30+00:00",
-   "title_original": "Axt, Inc. Announces Up To RMB 3.67 Billion (Approximately Us$545 Million) In Private Equity Financing For Subsidiary Tongmei",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "be1b1bbdb8b27f19"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Intco Medical Technology Q3 Net Loss At 625.2 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E1KY:0-intco-medical-technology-q3-net-loss-at-625-2-million-yuan/",
-   "published_utc": "2026-10-28T13:16:27+00:00",
-   "title_original": "Intco Medical Technology Q3 Net Loss At 625.2 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3195e8d39057ae3e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "SK Hynix target bumped at Wedbush after blockbuster earnings",
-   "url": "https://www.tradingview.com/news/seekingalpha:1da2f8017094b:0-sk-hynix-target-bumped-at-wedbush-after-blockbuster-earnings/",
-   "published_utc": "2026-10-28T13:07:55+00:00",
-   "title_original": "SK Hynix target bumped at Wedbush after blockbuster earnings",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5f336a43a1ef0a07"
   },
   {
    "source_id": "manual_ia",
