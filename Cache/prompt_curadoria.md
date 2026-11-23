@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T15:53:00.769880+00:00
+Última coleta: 2026-11-23T16:03:45.758325+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1020
+  🇯🇵 Japão          1019
   🇨🇳 China          950
-  🇹🇼 Taiwan         333
+  🇹🇼 Taiwan         334
   🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Why is Taiwan Semiconductor Manufacturing stock surging today?
   - [taiwan] PRES TRUMP Q&A/CNBC: LAST NIGHT TOLD JENSEN HUANG 'TO WORK HARD;' TAIWAN'S TSMC TO EVENTUALLY PRODUCE NVIDIA C
   - [china] Como o presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e espio
   - [korea] SoftBank's Masayoshi explored $1T buyout of SK Hynix - The Information
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... The outlook for a 0.25% point
   - [korea] (LEAD) Finance minister says gov't has contingency plan beyond stock market fund
-  - [taiwan] AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T15:53:00+00:00",
+      "published_utc": "2026-11-23T16:03:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
