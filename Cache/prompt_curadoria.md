@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T09:52:43.398363+00:00
+Última coleta: 2026-11-23T10:04:28.760749+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          939
-  🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  703
+  🇯🇵 Japão          1028
+  🇨🇳 China          940
+  🇹🇼 Taiwan         330
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [japan] Rising prices: Even universities and condominiums that emphasize safety are reconsidering their asset manageme
+  - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economy
   - [taiwan] Chip prices set to rise through 2027, driving semiconductor growth
   - [korea] Posco Future M targets next-generation battery anodes with China-free supply chain
   - [korea] The Bank of Korea is likely to raise the base interest rate to 3.25% in November... All 14 experts predict ‘ra
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The "big mistake" Trump made - The farce of the US-China-Russia summit that disrespected allies and gave China
   - [taiwan] Weekly news roundup: TSMC to comply with new US rules; Musk approaches Korean firms for equipment
   - [taiwan] Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
-  - [taiwan] US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?
-  - [china] CHINA PBOC CONDUCTS CNY499.5 BLN VIA O/N REVERSE REPO MON
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T09:52:43+00:00",
+      "published_utc": "2026-11-23T10:04:29+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
