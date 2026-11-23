@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T06:22:42.610485+00:00
+Última coleta: 2026-11-23T06:32:55.309050+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
-  🇨🇳 China          936
+  🇨🇳 China          935
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  708
+  🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
+  - [korea] (LEAD) Finance minister says gov't has contingency plan beyond stock market fund
   - [taiwan] AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows
   - [china] China's yuan steadies after wild swings, more volatility seen ahead
   - [japan] Japan Spot Power Price Reaches More Than Four-Year High on Cold-Weather Outlook
   - [china] China's gold imports said to have surged to record $209B through Oct.
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
+  - [korea] “We will raise it this time” ⋯ 14 experts speak with one voice on raising the base interest rate in November [
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
   - [japan] Asia FX mixed as dollar retreats from 19-month high; yen, won weaken
@@ -32,6 +35,7 @@ Total: 3000 manchetes
   - [korea] Report: Masayoshi Son Seels Wall Street Financing for USD1T Acquisition of SK hynix
   - [china] The central bank launches 499.5 billion yuan overnight reverse repurchase operation
   - [japan] Bank of Japan Councilor Asada attends Nagasaki Prefecture Financial and Economic Conference, “The prefecture's
+  - [korea] Finance minister says gov't has contingency plan beyond stock market fund
   - [korea] South Korea to Tighten Oversight of Crypto Transfers Abroad and Personal Wallets
   - [korea] Samsung Electronics, SK hynix fall as U.S. tech sell-off rattles market
   - [korea] South Korea’s finance minister sees solid growth next year, flags chip volatility risks
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
   - [korea] South Korea’s Early Exports Gain After $1 Trillion Milestone
-  - [japan] Yen May Strengthen Vs. Dollar on Diminished Risk Appetite — Market Talk
-  - [korea] Park Jong-bok, former president of SC First Bank, has been selected as a final candidate for the 16t..
-  - [korea] Bank of Korea counts down interest rate hike on the 26th... 3.25% likely
-  - [korea] Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T06:22:42+00:00",
+      "published_utc": "2026-11-23T06:32:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
