@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T14:52:42.721526+00:00
+Última coleta: 2026-11-23T15:03:03.405021+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1020
@@ -35,9 +35,9 @@ Total: 3000 manchetes
   - [china] CapitaLand China Trust: Retail sales grew as leasing and capital actions targeted portfolio resilience
   - [korea] Bank of Korea Expected to Tighten Policy Twice More in Cycle — Market Talk
   - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
+  - [korea] POSCO Future M targets next-generation battery anodes with China-free supply chain
   - [taiwan] Chip prices set to rise through 2027, driving semiconductor growth
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens By Reuters
-  - [korea] Posco Future M targets next-generation battery anodes with China-free supply chain
   - [korea] The Bank of Korea is likely to raise the base interest rate to 3.25% in November... All 14 experts predict ‘ra
   - [korea] AI chip boom lifts Samsung Electro-Mechanics ahead of LG Innotek in substrate profits
   - [korea] Park Jong-bok, former president of SC First Bank, has been selected as the next chairman of the Nati..
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T14:52:42+00:00",
+      "published_utc": "2026-11-23T15:03:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
