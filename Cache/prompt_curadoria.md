@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T11:12:42.589635+00:00
+Última coleta: 2026-11-23T11:22:42.163970+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
+  🇯🇵 Japão          1027
   🇨🇳 China          941
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  701
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK Hynix’s long-term supply deals with Big Tech hold firm despite market peak fears
   - [china] Consortium in talks to buy LCY's $600 million China chip chemicals business, people say
   - [china] Yuan Heng Gas Expects Unaudited Consolidated Net Loss Of RMB60 Million For Half-Year
   - [japan] Rising prices: Even universities and condominiums that emphasize safety are reconsidering their asset manageme
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launches 499.5 billion yuan overnight reverse repurchase operation
   - [japan] Bank of Japan Councilor Asada attends Nagasaki Prefecture Financial and Economic Conference, “The prefecture's
   - [korea] Finance minister says gov't has contingency plan beyond stock market fund
-  - [korea] South Korea to Tighten Oversight of Crypto Transfers Abroad and Personal Wallets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T11:12:42+00:00",
+      "published_utc": "2026-11-23T11:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
