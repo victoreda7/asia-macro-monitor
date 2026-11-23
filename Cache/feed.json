@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T04:32:42.506885+00:00",
- "collected_at_utc": "2026-11-23T04:32:42.506885+00:00",
+ "generated_at_utc": "2026-11-23T04:43:42.106876+00:00",
+ "collected_at_utc": "2026-11-23T04:43:42.106876+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1029,
+  "japan": 1030,
   "china": 933,
   "taiwan": 328,
-  "korea": 710
+  "korea": 709
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 88.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T01:50:47+00:00"
+   "newest": "2026-11-23T03:08:16+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T02:17:09+00:00"
+   "newest": "2026-11-23T04:30:00+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-23T04:07:44+00:00"
+   "newest": "2026-11-23T04:35:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-23T02:48:19+00:00"
+   "newest": "2026-11-23T04:18:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T02:00:36+00:00"
+   "newest": "2026-11-23T04:34:37+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T04:32:02+00:00"
+   "newest": "2026-11-23T04:40:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T06:05:31+00:00"
+   "newest": "2026-11-23T04:30:00+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T12:05:00+00:00"
+   "newest": "2026-11-23T04:34:56+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,57 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Beijing steps up market rescue with record 90B yuan ETF purchases",
+   "url": "https://www.tradingview.com/news/seekingalpha:f7e77cec3094b:0-beijing-steps-up-market-rescue-with-record-90b-yuan-etf-purchases/",
+   "published_utc": "2026-11-23T04:37:10+00:00",
+   "title_original": "Beijing steps up market rescue with record 90B yuan ETF purchases",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2bfec31031c4282b"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Asia FX mixed as dollar retreats from 19-month high; yen, won weaken",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
+   "published_utc": "2026-11-23T04:35:28+00:00",
+   "title_original": "Asia FX mixed as dollar retreats from 19-month high; yen, won weaken",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d52d3a0af3f12e7a"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Dollar edges off 19-month high after market rout; yen softens",
+   "url": "https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
+   "published_utc": "2026-11-23T04:18:20+00:00",
+   "title_original": "Dollar edges off 19-month high after market rout; yen softens",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c9ed9e074568aa51"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -792,23 +843,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c179f817a689ce79"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Dollar edges off 19-month high after market rout; yen softens",
-   "url": "https://www.investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182",
-   "published_utc": "2026-11-22T23:48:38+00:00",
-   "title_original": "Dollar edges off 19-month high after market rout; yen softens",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c9ed9e074568aa51"
   },
   {
    "source_id": "tradingview_live",
@@ -3916,8 +3950,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -3931,13 +3965,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -3949,7 +3983,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4157,8 +4191,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -4171,7 +4205,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5712,8 +5746,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -5727,7 +5761,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -6056,8 +6090,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -6071,7 +6105,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6769,8 +6803,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -6783,7 +6817,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51884,40 +51918,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5a3c9cb4fe2c8b97"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNG1sVkZyNW9pc1pzY0h3RVdfMjFNa3NUTWFzaVN2TFFRbndqVGwyTEZad2JzYnZ0Q3FKNmRYY05GQy1vcnJ0bDBzMV9ZbG1SVzlnWUdabGdqZ3JndU1waGFwZzRKdUxXYTJfNjRkQWpfaEZUN3cwWVNlVFRwZVBabHhPQWdjV1RhOE5xanBiZlloU1dEaE01NzdOeTFmVURxMnhSMWR1ZWpDSXVNZUxUeF9kejVyR2JVSHpRbDBaVUdqWmR1bmRmYzgwU0NVaXfSAc8BQVVfeXFMT2NZYy1saWR1ejE4NU5mR0NqOXNnWDB1TEFUejVjYW9GSF9hQ2VsQTMxT3ExTG8zMkdhck02a0ZYZEhZaW5WdVk0N2ZqWnpQb0dyUEg4el9mbkZjeHJGSXd0NDlNTlF0dWFBb0NhU3Y1aEx0YkpPTmRLbHRLck9BWmw1SHc3R0hMaWw0NUpaTjdVV0wzM21RekxWS1VXWTU1MlJYZTFoLW1uR0I1d19TSURjSVdhdjJLZ004cm9BeExEWlZZMmFkQS0tWExndHZN?oc=5",
-   "published_utc": "2026-10-28T22:00:10+00:00",
-   "title_original": "Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1cddb7d8c3a5e2d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea’s Manufacturing Sentiment Weakens Slightly",
-   "url": "https://www.tradingview.com/news/te_news:595983:0-south-korea-s-manufacturing-sentiment-weakens-slightly/",
-   "published_utc": "2026-10-28T21:30:45+00:00",
-   "title_original": "South Korea’s Manufacturing Sentiment Weakens Slightly",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "07a9b53e63bc60eb"
   },
   {
    "source_id": "manual_ia",
