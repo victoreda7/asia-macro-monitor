@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T05:52:41.065456+00:00
+Última coleta: 2026-11-23T06:03:08.965265+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1028
-  🇨🇳 China          935
+  🇨🇳 China          936
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  709
+  🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan steadies after wild swings, more volatility seen ahead
   - [china] China's gold imports said to have surged to record $209B through Oct.
   - [korea] Korea's finance minister upbeat on growth despite AI jitters
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Park Jong-bok, former president of SC First Bank, has been appointed as the next chairman of the Kor..
   - [china] Pequim deve proibir que jovens empresas “red-chip” sejam listadas fora da China continental, segundo fontes
   - [china] Weekly Recap: AI computing at 68% of revenue and China shipments suspended
-  - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T05:52:41+00:00",
+      "published_utc": "2026-11-23T06:03:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
