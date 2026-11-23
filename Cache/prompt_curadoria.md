@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T08:22:45.684231+00:00
+Última coleta: 2026-11-23T08:32:43.734026+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1027
-  🇨🇳 China          939
+  🇯🇵 Japão          1026
+  🇨🇳 China          940
   🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar edges off 19-month high after stocks rout; yen softens
+  - [china] Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain
   - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economic performance
   - [korea] S. Korea's exports forecast to exceed US$1 tln for 2nd straight year in 2027
   - [korea] Samsung, SK hynix, LG redraw playbooks for AI boom
@@ -32,8 +34,6 @@ Total: 3000 manchetes
   - [korea] “We will raise it this time” ⋯ 14 experts speak with one voice on raising the base interest rate in November [
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
-  - [japan] Asia FX mixed as dollar retreats from 19-month high; yen, won weaken
-  - [japan] Dollar edges off 19-month high after market rout; yen softens
   - [korea] Bank of Korea Expected to Hike This Week in Unanimous Decision — Market Talk
   - [japan] Dollar edges off 19-month high after market rout; yen softens By Reuters
   - [korea] South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T08:22:45+00:00",
+      "published_utc": "2026-11-23T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
