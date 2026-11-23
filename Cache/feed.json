@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T10:32:41.974031+00:00",
- "collected_at_utc": "2026-11-23T10:32:41.974031+00:00",
+ "generated_at_utc": "2026-11-23T10:42:42.200178+00:00",
+ "collected_at_utc": "2026-11-23T10:42:42.200178+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1029,
+  "japan": 1028,
   "china": 940,
   "taiwan": 331,
-  "korea": 700
+  "korea": 701
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 44,
+   "count": 45,
    "error": "",
-   "newest": "2026-11-23T16:25:15+08:00"
+   "newest": "2026-11-23T17:48:19+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-23T10:23:02+00:00"
+   "newest": "2026-11-23T10:36:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T08:53:00+00:00"
+   "newest": "2026-11-23T10:34:38+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-23T18:52:15+09:00"
+   "newest": "2026-11-23T19:34:08+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T10:32:12+00:00"
+   "newest": "2026-11-23T10:40:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T02:50:46+00:00"
+   "newest": "2026-11-23T08:51:15+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-23T07:11:29+00:00"
+   "newest": "2026-11-23T10:31:55+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -346,6 +346,57 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan Heng Gas Expects Unaudited Consolidated Net Loss Of RMB60 Million For Half-Year",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720CY:0-yuan-heng-gas-expects-unaudited-consolidated-net-loss-of-rmb60-million-for-half-year/",
+   "published_utc": "2026-11-23T10:37:11+00:00",
+   "title_original": "Yuan Heng Gas Expects Unaudited Consolidated Net Loss Of RMB60 Million For Half-Year",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7768cb4be06e1e58"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Rising prices: Even universities and condominiums that emphasize safety are reconsidering their asset management",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80214",
+   "published_utc": "2026-11-23T10:34:08+00:00",
+   "title_original": "物価上昇 安全重視の大学やマンションでも資産運用見直す動き",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8f563f26d12749ec"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "Jupiter Wagons to manufacture metro coaches, propulsion systems with Korea's Woojin in JV",
+   "url": "https://www.tradingview.com/news/cnbctv:0ebc904e2094b:0/",
+   "published_utc": "2026-11-23T10:24:57+00:00",
+   "title_original": "Jupiter Wagons to manufacture metro coaches, propulsion systems with Korea's Woojin in JV",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a4a6ff7cac4c1acc"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Bank of Korea Expected to Tighten Policy Twice More in Cycle — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261123002433:0-bank-of-korea-expected-to-tighten-policy-twice-more-in-cycle-market-talk/",
@@ -377,23 +428,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8ac7b8ebf0dda8fd"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Rising prices: Even universities and condominiums that emphasize safety are reconsidering their asset management",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261123de80214",
-   "published_utc": "2026-11-23T09:52:15+00:00",
-   "title_original": "物価上昇 安全重視の大学やマンションでも資産運用見直す動き",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8f563f26d12749ec"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -4497,8 +4531,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -4512,13 +4546,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -4530,7 +4564,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4738,8 +4772,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -4752,7 +4786,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6311,8 +6345,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -6326,7 +6360,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -6655,8 +6689,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -6670,7 +6704,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7368,8 +7402,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -7382,7 +7416,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51880,41 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8896a80ca9d4b94b"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan outlook for keeping policy interest rate unchanged Monetary policy meeting from today (NTV NEWS NNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mS2RPMEtJZ1NXLTVzeWtGLXA0ajZMWWRUVDZnLVNPVjJYSWNRTXNISExvQV9qNmhpcjNOMk1VdWVUQVhrOHU1WTE5U053YWxEd1NIc3ZsMUdYLXdSZXlCbmNtRFl4OHIzcDlXcWFPa2NuSVBNN1BfTUFoRHFxN1U?oc=5",
-   "published_utc": "2026-10-29T02:50:00+00:00",
-   "title_original": "日銀 政策金利据え置きの見通し きょうから金融政策決定会合（日テレNEWS NNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "30453b2ce3f333d2"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China clean tech exports to cut global emissions by Brazil-sized amount in 2026",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXA0bFVjNWZGa3ZPcGxZdVJSUm5vYzk5MTd3ejFwRGFVczNUS09sVkJkRWZJQmVPeVMyRm9FcWZDS0JRaUpWOGtzbXFENjktdkl2S3dpQXA4YlN2ZklFTUg1TDJuOTN6dFhDQ1pyNHR2aUw3TDlFNnR1UGZmYlJzVVBOZ21MaDd2ZHBmdHQ2V2tvU0k4VFNwLXFQX3NEUmEzOHNkVGNHQkszeFB3dnQxdFVJbTBKbXFFTmlyMTBTN05EUU1DMzBj?oc=5",
-   "published_utc": "2026-10-29T02:38:00+00:00",
-   "title_original": "China clean tech exports to cut global emissions by Brazil-sized amount in 2026",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77ab40625517c744"
   },
   {
    "source_id": "manual_ia",
