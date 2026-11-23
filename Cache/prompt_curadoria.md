@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T07:42:48.185072+00:00
+Última coleta: 2026-11-23T07:52:42.527854+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea's exports forecast to exceed US$1 tln for 2nd straight year in 2027
   - [korea] Samsung, SK hynix, LG redraw playbooks for AI boom
   - [korea] Kmpharmaceutical To Divest Real Estate Worth 11.3 Billion Won
   - [korea] Bank of Korea, last Monetary Policy Committee meeting of the year on the 26th... The outlook for a 0.25% point
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea finance minister to brief plan for stock market stabilisation fund
   - [korea] Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high
   - [korea] Manufacturing economy deteriorates despite semiconductor boom ahead of Bank of Korea interest rate decision
-  - [korea] All 10 experts said, “Interest rate hike in November… Raise it to 3.5% next year” - Money Today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T07:42:48+00:00",
+      "published_utc": "2026-11-23T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
