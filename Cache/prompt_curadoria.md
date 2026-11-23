@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T10:04:28.760749+00:00
+Última coleta: 2026-11-23T10:12:43.420005+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
+  🇯🇵 Japão          1029
   🇨🇳 China          940
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  702
+  🇰🇷 Coreia do Sul  701
 
 ## O que já está no feed (não repita)
 
   - [japan] Rising prices: Even universities and condominiums that emphasize safety are reconsidering their asset manageme
   - [china] Chinese state media hits out at ‘deflation trap’ warnings, defends economy
   - [taiwan] Chip prices set to rise through 2027, driving semiconductor growth
+  - [japan] Dollar edges off 19-month high after stocks rout; yen softens By Reuters
   - [korea] Posco Future M targets next-generation battery anodes with China-free supply chain
   - [korea] The Bank of Korea is likely to raise the base interest rate to 3.25% in November... All 14 experts predict ‘ra
   - [korea] AI chip boom lifts Samsung Electro-Mechanics ahead of LG Innotek in substrate profits
@@ -44,7 +45,6 @@ Total: 3000 manchetes
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
   - [korea] Bank of Korea Expected to Hike This Week in Unanimous Decision — Market Talk
-  - [japan] Dollar edges off 19-month high after market rout; yen softens By Reuters
   - [korea] South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off
   - [korea] Report: Masayoshi Son Seels Wall Street Financing for USD1T Acquisition of SK hynix
   - [china] The central bank launches 499.5 billion yuan overnight reverse repurchase operation
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T10:04:29+00:00",
+      "published_utc": "2026-11-23T10:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

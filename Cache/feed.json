@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T10:04:28.760749+00:00",
- "collected_at_utc": "2026-11-23T10:04:28.760749+00:00",
+ "generated_at_utc": "2026-11-23T10:12:43.420005+00:00",
+ "collected_at_utc": "2026-11-23T10:12:43.420005+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1028,
+  "japan": 1029,
   "china": 940,
   "taiwan": 330,
-  "korea": 702
+  "korea": 701
  },
- "elapsed_s": 134.4,
+ "elapsed_s": 28.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-23T09:44:09+00:00"
+   "newest": "2026-11-23T10:03:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-23T09:36:20+00:00"
+   "newest": "2026-11-23T10:06:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T08:52:20+00:00"
+   "newest": "2026-11-23T08:57:20+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T10:03:21+00:00"
+   "newest": "2026-11-23T10:11:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:23:23+00:00"
+   "newest": "2026-11-23T07:32:45+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T08:51:33+00:00"
+   "newest": "2026-11-23T08:45:18+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -394,6 +394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e475419817e40926"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar edges off 19-month high after stocks rout; yen softens By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVNwUWJUeE45RmpjR1htV2p0X044NEFmbmlyT1poVmx6SEc1OXQyRXhUaWlGU1hMUVFSUEp6WFJJSlBpZ1lIMVFhUV8wZ29zVG1qQnk0M3RVQXJSM2VQWlJ2WFNLUGdNTFVkY0pocFcwcGtkeDF3dzh2ZFp6bjV5RG1uMzFVbnpzanFGTkctcmtoZXlraWJXenNsMWJscEFaUWZjRVhXRTNLdWRrRzJIdw?oc=5",
+   "published_utc": "2026-11-23T08:57:20+00:00",
+   "title_original": "Dollar edges off 19-month high after stocks rout; yen softens By Reuters",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8eb6746585f0f220"
   },
   {
    "source_id": "gn_kr_ked",
@@ -806,23 +823,6 @@
    "id": "e53f76587c2155fe"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar edges off 19-month high after market rout; yen softens By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVNwUWJUeE45RmpjR1htV2p0X044NEFmbmlyT1poVmx6SEc1OXQyRXhUaWlGU1hMUVFSUEp6WFJJSlBpZ1lIMVFhUV8wZ29zVG1qQnk0M3RVQXJSM2VQWlJ2WFNLUGdNTFVkY0pocFcwcGtkeDF3dzh2ZFp6bjV5RG1uMzFVbnpzanFGTkctcmtoZXlraWJXenNsMWJscEFaUWZjRVhXRTNLdWRrRzJIdw?oc=5",
-   "published_utc": "2026-11-23T03:52:17+00:00",
-   "title_original": "Dollar edges off 19-month high after market rout; yen softens By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2b9ecfed630bbe3"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off",
@@ -1183,6 +1183,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7eb5bba37c9f1ccd"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Dollar edges off 19-month high after market rout; yen softens By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRTMyRF90VlJXOTBmMEJvRURiay1XWHJ3WGVaMkwzajcydThZUHBwS3pQM29vby12cmd4dm0ycE9IYXNtejZmS3Y5ZjNoWnNsRFdkZTVmc3FMYkg3cEV0MUVqWDlVTksxTFNZMExNR0RtMm8waTg5dWlEMS02X3E4OFdwTzZDRTVxeXZGV0hQbDRMSlBZWllfQzJhR0tsajVSRDVyZW1CX3pfVUxEWFFr?oc=5",
+   "published_utc": "2026-11-23T00:58:41+00:00",
+   "title_original": "Dollar edges off 19-month high after market rout; yen softens By Reuters",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6865f7026f29036f"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4446,8 +4463,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -4461,7 +4478,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4687,8 +4704,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -4701,7 +4718,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6260,8 +6277,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -6275,7 +6292,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -6604,8 +6621,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -6619,7 +6636,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7317,8 +7334,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -7331,7 +7348,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a9be2a95b71a2a2"
+   "id": "f8a791b718e538dc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51898,23 +51915,6 @@
    "live_wire": false,
    "manual": false,
    "id": "74d72589c28bc5cd"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Earnings call transcript: Samsung Electronics posts record Q3 2026 profit",
-   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-samsung-electronics-posts-record-q3-2026-profit-93CH-4981365",
-   "published_utc": "2026-10-29T02:21:13+00:00",
-   "title_original": "Earnings call transcript: Samsung Electronics posts record Q3 2026 profit",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "905e61def0777713"
   },
   {
    "source_id": "manual_ia",
