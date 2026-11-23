@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T12:42:42.812829+00:00
+Última coleta: 2026-11-23T12:52:42.320696+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
+  🇯🇵 Japão          1023
   🇨🇳 China          945
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  703
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [japan] Regional banks and others significantly raise interest rates on fixed deposits
   - [china] Zhongji Innolight Plans A-Share Buyback With 2-4 Billion Yuan
   - [china] LCY’s China chip chemicals business draws $600M takeover interest from HSG-led consortium - report
   - [china] The Taiwan Affairs Office of the State Council and the Export-Import Bank of China signed a contract to increa
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia FX mixed as dollar retreats from 19-month high; yen, won weaken
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
-  - [korea] Bank of Korea Expected to Hike This Week in Unanimous Decision — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T12:42:43+00:00",
+      "published_utc": "2026-11-23T12:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
