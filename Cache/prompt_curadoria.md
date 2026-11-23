@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T01:02:47.403760+00:00
+Última coleta: 2026-11-23T01:12:44.438416+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Exports more than double in 1st 20 days of Nov., with chip shipments surging to new high
+  - [korea] Manufacturing economy deteriorates despite semiconductor boom ahead of Bank of Korea interest rate decision
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
   - [japan] Dollar edges off 19-month high after market rout; yen softens
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] At the last Monetary Policy Committee meeting of the year, the Bank of Korea is likely to raise interest rates
   - [korea] Both prices and growth rise… Even though the market is difficult, “the Bank of Korea’s interest rate rises”
   - [korea] With the burden of growth and prices increasing, will the Bank of Korea raise interest rates at the last Monet
-  - [japan] There are no ``main disagreements'' with the BOJ's ``main opinions''; cautious arguments by members Asada and 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T01:02:47+00:00",
+      "published_utc": "2026-11-23T01:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
