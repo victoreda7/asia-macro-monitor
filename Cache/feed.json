@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T11:02:49.704196+00:00",
- "collected_at_utc": "2026-11-23T11:02:49.704196+00:00",
+ "generated_at_utc": "2026-11-23T11:12:42.589635+00:00",
+ "collected_at_utc": "2026-11-23T11:12:42.589635+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1028,
-  "china": 940,
-  "taiwan": 331,
+  "china": 941,
+  "taiwan": 330,
   "korea": 701
  },
- "elapsed_s": 36.4,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T09:48:00+00:00"
+   "newest": "2026-11-23T10:59:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-23T10:48:19+00:00"
+   "newest": "2026-11-23T11:09:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
    "newest": "2026-11-23T03:14:16+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T07:31:00+00:00"
+   "newest": "2026-11-23T10:06:59+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T11:01:50+00:00"
+   "newest": "2026-11-23T11:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T09:30:42+00:00"
+   "newest": "2026-11-23T09:50:38+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Consortium in talks to buy LCY's $600 million China chip chemicals business, people say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4740DG:0-consortium-in-talks-to-buy-lcy-s-600-million-china-chip-chemicals-business-people-say/",
+   "published_utc": "2026-11-23T11:10:00+00:00",
+   "title_original": "Consortium in talks to buy LCY's $600 million China chip chemicals business, people say",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "336db199fb547225"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -3855,7 +3872,7 @@
    "id": "6800db4059903e32"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMF9XNURnbHdjSWcxc0RoWnRJcE5nYkg1T1FtN0xGVE55N3FDVDgzc3lxS2ViT3BMdkF5ZnFpdTNIam1WT19KelpIV0tPeVBoWW5UdkpJVlM3VFVnWlVKUTVCWDBFZFNCaFh6ODVtODA4THZtYWlmS0x1Zlg1VHhMQUZpQjNtTkRDcEZwSEQ4ZWtqOTEzZm9aanVTMEFjbHkzblZOT1BHS1FHMklkcTZNM3ZlZVludWx3Znk5UlpB?oc=5",
@@ -3869,7 +3886,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9f0d0716c2bdf129"
+   "id": "511ae57ff43bf4e1"
   },
   {
    "source_id": "focus_taiwan",
@@ -7855,24 +7872,6 @@
    "id": "49bc7f28924483ee"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
-   "published_utc": "2026-11-18T22:55:40+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "55af98a494c201f9"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Bank of Japan to raise interest rates in December and again by end-March, economists say",
@@ -7973,6 +7972,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6f9d1f1e8c938658"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "published_utc": "2026-11-18T21:25:39+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "nhk_politics",
@@ -51895,24 +51912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eafc63381a9c49f6"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI, semiconductors drive foreign investor gains, weakening Taiwan dollar",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXdMdnQ3RnotTzlCbUYtcmE2ZTNKb0g0LVZ4V2JhTTB4NTBHZjZDdjJRRzUzYUpIVTBnNDBGSWtDQzRGOHA3MkFweHlJZVlpYU02cmx1LWJKYXFlWjhRR3VnOU9tWi1JWlpFeGVERVYtUWNqWEdPWW9TaWRueDB4ag?oc=5",
-   "published_utc": "2026-10-29T02:51:16+00:00",
-   "title_original": "AI, semiconductors drive foreign investor gains, weakening Taiwan dollar",
-   "region": "taiwan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a03ec96df59481ec"
   },
   {
    "source_id": "manual_ia",
