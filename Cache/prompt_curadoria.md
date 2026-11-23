@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T12:23:01.137634+00:00
+Última coleta: 2026-11-23T12:32:44.289511+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          944
+  🇯🇵 Japão          1022
+  🇨🇳 China          945
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
+  - [china] Zhongji Innolight Plans A-Share Buyback With 2-4 Billion Yuan
   - [china] LCY’s China chip chemicals business draws $600M takeover interest from HSG-led consortium - report
   - [china] The Taiwan Affairs Office of the State Council and the Export-Import Bank of China signed a contract to increa
   - [korea] Samsung, SK Hynix’s long-term supply deals with Big Tech hold firm despite market peak fears
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks hit 16-month low as US chip curbs, rout in AI shares sour mood
   - [china] Beijing steps up market rescue with record 90B yuan ETF purchases
   - [korea] Bank of Korea Expected to Hike This Week in Unanimous Decision — Market Talk
-  - [korea] South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T12:23:01+00:00",
+      "published_utc": "2026-11-23T12:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
