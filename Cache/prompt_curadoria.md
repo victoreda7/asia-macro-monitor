@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T02:12:42.185912+00:00
+Última coleta: 2026-11-23T02:22:46.826874+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
+  🇯🇵 Japão          1034
   🇨🇳 China          932
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  709
+  🇹🇼 Taiwan         326
+  🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS
+  - [taiwan] US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?
   - [china] CHINA PBOC CONDUCTS CNY499.5 BLN VIA O/N REVERSE REPO MON
   - [taiwan] Taiwan electronics, ICT export orders surge in October as US remains top buyer
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7120 MON VS 6.7131
@@ -28,6 +30,7 @@ Total: 3000 manchetes
   - [korea] Manufacturing economy deteriorates despite semiconductor boom ahead of Bank of Korea interest rate decision
   - [korea] South Korea November 1-20 exports surge on chip sales
   - [japan] [SAPIX and Genius reveal] Past questions do not reach the passing score! → Common traits of children who make 
+  - [japan] Dollar edges off 19-month high after market rout; yen softens By Reuters
   - [japan] Dollar edges off 19-month high after market rout; yen softens
   - [japan] Yen May Strengthen Vs. Dollar on Diminished Risk Appetite — Market Talk
   - [korea] Park Jong-bok, former president of SC First Bank, has been selected as a final candidate for the 16t..
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] FOCUS: AI boom fuels corporate investment as Japan consumers tighten purse strings
   - [korea] Inflation and growth rate upward adjustment... Will the Bank of Korea raise the base interest rate to 3.25%?
   - [korea] BOK likely to hike interest rate on resilient growth, inflation
-  - [korea] BOK likely to lift rate on resilient growth, inflation
-  - [korea] Although Korea recorded the world's highest export growth this year, surpassing $1 trillion in annua..
-  - [korea] Samsung, LG face risk of higher costs as EU appliance makers seek carbon levies on imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T02:12:42+00:00",
+      "published_utc": "2026-11-23T02:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
