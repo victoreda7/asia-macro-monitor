@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-23T15:22:43.265461+00:00
+Última coleta: 2026-11-23T15:32:46.191206+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1020
-  🇨🇳 China          949
+  🇨🇳 China          950
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  699
+  🇰🇷 Coreia do Sul  698
 
 ## O que já está no feed (não repita)
 
+  - [korea] SoftBank's Masayoshi explored $1T buyout of SK Hynix - The Information
+  - [china] Nvidia Faces November 25 Deadline -- Treasury Says Chipmaker Has Yet to Answer China Probe
   - [taiwan] TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand
   - [china] CBAK Energy Rises to Fourth in China for Large Cylindrical Battery Shipments Through September 2026
   - [japan] USD/JPY to return to the 140s in 2027: Deutsche Bank
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows
   - [china] China's yuan steadies after wild swings, more volatility seen ahead
   - [japan] Japan Spot Power Price Reaches More Than Four-Year High on Cold-Weather Outlook
-  - [korea] “Strong growth next year”... 한은 기준금리 3.5% 바라보나
-  - [china] China's gold imports said to have surged to record $209B through Oct.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-23T15:22:43+00:00",
+      "published_utc": "2026-11-23T15:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
