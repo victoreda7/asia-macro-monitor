@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-23T20:12:44.085314+00:00",
- "collected_at_utc": "2026-11-23T20:12:44.085314+00:00",
+ "generated_at_utc": "2026-11-23T20:22:43.765271+00:00",
+ "collected_at_utc": "2026-11-23T20:22:43.765271+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1018,
+  "japan": 1019,
   "china": 950,
   "taiwan": 337,
-  "korea": 695
+  "korea": 694
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 163,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-23T19:54:22+00:00"
+   "newest": "2026-11-23T20:10:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-21T01:28:00+00:00"
+   "newest": "2026-11-22T08:13:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T17:52:34+00:00"
+   "newest": "2026-11-23T06:42:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-23T20:12:11+00:00"
+   "newest": "2026-11-23T20:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T17:21:44+00:00"
+   "newest": "2026-11-23T16:22:52+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-24T05:00:00+09:00"
+   "newest": "2026-11-24T05:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T12:37:21+00:00"
+   "newest": "2026-11-23T08:45:18+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Is it true that “as interest rates rise, land prices fall”? Accelerating in Musashino and Mitaka, slowing down in Chofu and Fuchu... \"Quiet tectonic changes\" seen in the latest standard land prices | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/965356?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-23T20:15:00+00:00",
+   "title_original": "｢金利が上がれば地価は下がる｣は本当か？ 武蔵野･三鷹は加速､調布･府中は鈍化… 最新基準地価に見た｢静かな地殻変動｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "88193c29bfa13afa"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stock Story",
@@ -5013,7 +5031,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5025,7 +5043,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51638,10 +51656,10 @@
    "id": "72b3e26be92e6f35"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
    "title_en": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOVNFZVZyR2FfNl9ISnViLUhBTUdKcElfU1J3RTBVU002UjlRb3RKdGJJbmI4ZHZpaTN0NGIwTkJ1Y2c0OXVsT24zRWRPQ2VoUFIwVHFfQU9wZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TUjNpUWdFRjBfcm5JdHdNYWhoS3JQQUs5cDVqaFA1TnNra25BZWgxdW1QNlBUTzV5QlNvT0JqTGJPZ0tmc2g0TUFuTHV2VWQtbWlteGktQQ?oc=5",
    "published_utc": "2026-10-29T07:00:00+00:00",
    "title_original": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
    "region": "korea",
@@ -51652,7 +51670,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9836bb0937828c29"
+   "id": "8e4540680668cfce"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51879,24 +51897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "29890947a5530d17"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "파이낸셜포스트",
-   "title_en": "Bank of Korea to hold 24 Monetary Policy Committee meetings next year... 8 base interest rate decision meetings",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9USFBZT0loYUxvaFF4QXZfUlhNcEdwWlBGZHNVMFRrX0Rpd1ZERFl2RklXT1pxS0FlVlFCUVlzSjZ0UW5xand6d2VPS0RWYkM3Z3dsejY0b2JoU09xVU0ydWhYZDJLTmNrWHVmSVlQTUpBQXda?oc=5",
-   "published_utc": "2026-10-29T05:47:00+00:00",
-   "title_original": "한국은행, 내년 금통위 24차례 개최…기준금리 결정회의 8회",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7d1c9c7e64c9109"
   },
   {
    "source_id": "manual_ia",
