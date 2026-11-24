@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T09:32:42.853694+00:00
+Última coleta: 2026-11-24T09:42:44.256874+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1008
-  🇨🇳 China          960
+  🇯🇵 Japão          1005
+  🇨🇳 China          962
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
+  - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
+  - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
   - [china] EU sets limits on hybrid vehicle imports from China and other countries
   - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials
@@ -24,9 +27,9 @@ Total: 3000 manchetes
   - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
   - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
-  - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
   - [china] China's central bank to carry out 500 billion yuan of 7-day reverse repos
   - [china] The central bank will launch a 500 billion yuan reverse repurchase operation
+  - [korea] Kospi roars back above 5,000 as Huang’s return ignites chip, robotics rally
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [japan] Bank of Japan governor's remuneration: 39.06 million yen in FY2016 (Jiji Press)
   - [taiwan] M Stanley: Greater CN Tech Hardware Fundamentals in 2027 Better Than Expected; Top AI Supply Chain Picks Inclu
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Micron recruits Korean chip engineers for Asian operations
   - [korea] Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix
   - [korea] Goldman Sachs “The Bank of Korea’s base interest rate of 3.5% next year is the upper end… The won price per do
-  - [korea] Korea Zinc’s $7.4b smelter gains importance amid US-China rivalry
-  - [japan] Japan's manufacturing PMI rises to 53.7 in November; services growth slows
-  - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T09:32:43+00:00",
+      "published_utc": "2026-11-24T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
