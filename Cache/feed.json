@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T20:52:43.095222+00:00",
- "collected_at_utc": "2026-11-24T20:52:43.095222+00:00",
+ "generated_at_utc": "2026-11-24T21:02:45.231922+00:00",
+ "collected_at_utc": "2026-11-24T21:02:45.231922+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 978,
-  "china": 993,
+  "japan": 976,
+  "china": 995,
   "taiwan": 340,
   "korea": 689
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:31:50+00:00"
+   "newest": "2026-11-23T08:59:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T20:42:35+00:00"
+   "newest": "2026-11-24T20:50:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:39:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T20:50:00+00:00"
+   "newest": "2026-11-24T21:02:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-25T05:50:00+09:00"
+   "newest": "2026-11-25T06:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,59 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty'', and the ``fortress'' China is building in preparation for the difficult situation in 2028 | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/965622?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-24T21:00:00+00:00",
+   "title_original": "2027年､世界のルールが大きく変わる…｢中身なし｣ではなかった米中ロ首脳会談､2028年の難所に備えて中国が築く｢要塞｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a35e29a227182b59"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Why do companies choose the \"employment support business\" despite constant criticism of \"separation of people with disabilities\" and \"buying the legal employment rate with money\" | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/965117?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-24T21:00:00+00:00",
+   "title_original": "｢障害者の隔離だ｣｢法定雇用率を金で買う行為｣絶えぬ批判と逆行して拡大､なぜ企業は｢雇用支援ビジネス｣を選ぶのか | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2fabf54975ecc4c7"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "US government restricts AI semiconductor exports to Southeast Asia and Brazil due to suspicions of Nvidia Huang Tightening restrictions on China | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/965571?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-11-24T21:00:00+00:00",
+   "title_original": "エヌビディア･ファン氏の疑惑でアメリカ政府が東南アジアやブラジル向けAI半導体輸出を規制 中国への締め付け強化 | ビジネス | 東洋経済オンライン",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5551e238e51fc286"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -572,9 +625,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "https://www.mrjjxw.com/",
    "title_en": "U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF operation; 86 mobile applications that illegally collect and use personal information have been exposed; the Shenzhou 24 manned spacecraft will be launched tomorrow | Every evening participation",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3dUOXp3X1BoM0dZaU1kcGRjejZ0MVd1UHlPVVVjMTNyZFVyT2VZYkc5bGtVWlIxX2tzdThwUEpDRHNvUXdlMklER1FRQk50Y2hGa0xtYU9aVTFZVE5yR3Q3NlNLVVc5LTF2Vjl0dXNxeFZNQmhtMmxQZzlGZDZuZ1MyMjhkb3do?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkQm5HamhudkdLaWNqZVBvUTFxVEk5anl0TTdHRnIzWHJibWJVaVN4cHF6UXo0RXAtejZVRVFKZFVOSjJBUnF5WXo4clBKT0kyU1VMdm9iQnZtY2NOeFpBc1V4anlEQQ?oc=5",
    "published_utc": "2026-11-24T14:38:32+00:00",
    "title_original": "美股科技股集体回调；央行将开展8000亿元MLF操作；86款违规收集使用个人信息的移动应用被曝光；神舟二十四号载人飞船明日发射丨每经晚参",
    "region": "china",
@@ -586,7 +639,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0478a24da628e3c1"
+   "id": "7470c9e212563365"
   },
   {
    "source_id": "tradingview_live",
@@ -7500,7 +7553,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -7512,7 +7565,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51849,60 +51902,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ecb55027c38b8a9e"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill Q&A on the 4th of next month, Democratic Party of Japan's counterproposal also confirmed to be deliberated",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68222",
-   "published_utc": "2026-10-30T03:28:00+00:00",
-   "title_original": "消費税減税法案 来月4日質疑 国民民主党の対案も審議入り確認",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4c12c9dc37b76e0"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Bank of Japan says 2% inflation goal reached after decades of deflation",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi1KTThMaldwbS1RUlphdUZuVE9lU0N1M0ZvNll2eXJGczlyVy1NN0VvajJ0Q1RfVnh2THVreHdMdVdmQlpXSzRneVgyTU55cmVQMl9oa2piLWFjNmJuM0V6Qk5lSWhkWC1LUWtBSldNdGFycU1aa25hNnpHT1BTcGZLNGU?oc=5",
-   "published_utc": "2026-10-30T03:24:23+00:00",
-   "title_original": "Bank of Japan says 2% inflation goal reached after decades of deflation",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "da3375096a5e8736"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: 1 of 9 BOJ policymakers voted against holding key rate steady",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ekdzNGtfWVR0bUpiWkJQYUtITFI1VTJNa2x3MjhsWHlLcnlaQklPLXA2dm82N2FvdEMtdlRWSmNuVFM4N1VtMzUwT0xhSGcySnlQTkxCSmVtZw?oc=5",
-   "published_utc": "2026-10-30T03:24:00+00:00",
-   "title_original": "BREAKING NEWS: 1 of 9 BOJ policymakers voted against holding key rate steady",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5e7cea04e4805d57"
   },
   {
    "source_id": "manual_ia",

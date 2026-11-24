@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T20:52:43.095222+00:00
+Última coleta: 2026-11-24T21:02:45.231922+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
-  🇨🇳 China          993
+  🇯🇵 Japão          976
+  🇨🇳 China          995
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
+  - [japan] Why do companies choose the "employment support business" despite constant criticism of "separation of people 
+  - [china] US government restricts AI semiconductor exports to Southeast Asia and Brazil due to suspicions of Nvidia Huan
   - [japan] Corporate Japan logs record first-half profit on AI demand, soft yen
   - [japan] Prime Minister Takaichi intends to support Japan's future finances with the huge proceeds from the sale of Ban
   - [japan] Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [japan] Yen Falls Against Majors
   - [china] The central bank will carry out 800 billion yuan of MLF operations, and the total amount of liquidity operatio
-  - [taiwan] Industrial production up 32nd straight month on strong AI demand
-  - [japan] Proposal to tighten identity verification to combat gold smuggling approved by LDP executive committee
-  - [china] China's Huawei says it has homegrown answer to US chip design tool curbs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T20:52:43+00:00",
+      "published_utc": "2026-11-24T21:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
