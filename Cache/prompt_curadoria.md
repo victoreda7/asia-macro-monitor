@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T20:42:42.619065+00:00
+Última coleta: 2026-11-24T20:52:43.095222+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          978
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Corporate Japan logs record first-half profit on AI demand, soft yen
+  - [japan] Prime Minister Takaichi intends to support Japan's future finances with the huge proceeds from the sale of Ban
   - [japan] Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.
   - [korea] Credo Technology Group Holding, Navitas Semiconductor, SiTime, Rambus, and SK hynix stocks trade down, what yo
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Industrial production up 32nd straight month on strong AI demand
   - [japan] Proposal to tighten identity verification to combat gold smuggling approved by LDP executive committee
   - [china] China's Huawei says it has homegrown answer to US chip design tool curbs
-  - [taiwan] Why Taiwan’s chip industry welcomes Jensen Huang’s Nvidia comeback
-  - [china] After the three meetings between Sichuan and Xi, Beijing extended the suspension of the ban on exports of gall
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T20:42:42+00:00",
+      "published_utc": "2026-11-24T20:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
