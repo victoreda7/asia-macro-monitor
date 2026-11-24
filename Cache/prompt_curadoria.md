@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T04:52:45.862732+00:00
+Última coleta: 2026-11-24T05:03:03.800755+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
-  🇨🇳 China          955
+  🇨🇳 China          956
   🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  682
+  🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan hits three-week high as firm fixing offsets dollar strength
+  - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
   - [taiwan] TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO
+  - [korea] Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje
   - [japan] Dependency deduction for relatives living overseas: Requirements to be tightened in next year's tax reform
   - [china] China cobalt prices surge to three-month high as Congo bans exports
   - [taiwan] Why is TSMC stock surging today?
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Scholarship interest rates soar, calls for burden reduction
   - [japan] Mitsubishi UFJ, with the highest profits, is strong...It's not just the Bank of Japan interest rate hike, it's
   - [japan] Japan's defense spending pitted against sales tax cut in budget tug-of-war
-  - [korea] [Shang-Jin Wei] Export restraints over tariffs
-  - [japan] Is it true that “as interest rates rise, land prices fall”? Accelerating in Musashino and Mitaka, slowing down
-  - [korea] Why SK hynix stock is trading up today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T04:52:46+00:00",
+      "published_utc": "2026-11-24T05:03:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

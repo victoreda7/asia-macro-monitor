@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T04:52:45.862732+00:00",
- "collected_at_utc": "2026-11-24T04:52:45.862732+00:00",
+ "generated_at_utc": "2026-11-24T05:03:03.800755+00:00",
+ "collected_at_utc": "2026-11-24T05:03:03.800755+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1024,
-  "china": 955,
+  "china": 956,
   "taiwan": 339,
-  "korea": 682
+  "korea": 681
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 50.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 38,
+   "count": 39,
    "error": "",
-   "newest": "2026-11-24T11:26:04+08:00"
+   "newest": "2026-11-24T12:06:06+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T04:42:46+00:00"
+   "newest": "2026-11-24T04:54:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-24T03:18:46+00:00"
+   "newest": "2026-11-24T04:42:46+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:06:40+00:00"
+   "newest": "2026-11-23T13:15:33+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T13:39:50+09:00"
+   "newest": "2026-11-24T13:52:37+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:29:00+00:00"
+   "newest": "2026-11-24T03:57:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T04:50:00+00:00"
+   "newest": "2026-11-24T05:02:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T03:06:27+00:00"
+   "newest": "2026-11-24T00:11:37+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T17:56:00+00:00"
+   "newest": "2026-11-24T04:49:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -346,6 +346,40 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's yuan hits three-week high as firm fixing offsets dollar strength",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N475049:0-china-s-yuan-hits-three-week-high-as-firm-fixing-offsets-dollar-strength/",
+   "published_utc": "2026-11-24T05:00:37+00:00",
+   "title_original": "China's yuan hits three-week high as firm fixing offsets dollar strength",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9efebb85ba697993"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
+   "url": "https://www.tradingview.com/news/DJN_DN20261123010570:0-chinese-automakers-book-strong-european-growth-ahead-of-import-cap/",
+   "published_utc": "2026-11-24T05:00:00+00:00",
+   "title_original": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "caf429ad0e773931"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO",
    "url": "https://www.tradingview.com/news/seekingalpha:e252973f6094b:0-tsmc-sk-hynix-and-asian-tech-surge-after-jensen-huang-s-return-as-nvidia-ceo/",
@@ -360,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2ff946962578d24d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje",
+   "url": "https://www.tradingview.com/news/invezz:0c6a66b3bbc81:0/",
+   "published_utc": "2026-11-24T04:08:24+00:00",
+   "title_original": "Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1ae33d17ad50ed1e"
   },
   {
    "source_id": "nhk_economy",
@@ -5686,8 +5737,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -5701,13 +5752,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5719,7 +5770,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5927,8 +5978,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -5941,7 +5992,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6438,7 +6489,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스투데이",
    "title_en": "“The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HM0doZ0xBTFM4SzBwNkZCTFlMTGNTMUtpVDNhWER5ZHBFa3YzdldlOVdzbFZfQmpKTHlOZDJqU3oySllCYkhST3U0b0VGVXdTcHFHNXl6eElqUDA?oc=5",
    "published_utc": "2026-11-20T00:04:00+00:00",
    "title_original": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
    "region": "korea",
@@ -6449,7 +6500,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f4534aba4a6affe9"
+   "id": "cc7ec752cb2a6486"
   },
   {
    "source_id": "gn_jp_investing",
@@ -7483,8 +7534,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -7498,7 +7549,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d0db77cd82ac908f"
+   "id": "61b246b3e1b6dcd5"
   },
   {
    "source_id": "focus_taiwan",
@@ -7827,8 +7878,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -7842,7 +7893,25 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7539474e2ed96ad2"
+   "id": "a92d4c47b0e56b21"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "published_utc": "2026-11-19T09:41:26+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -9009,24 +9078,6 @@
    "live_wire": false,
    "manual": false,
    "id": "49bc7f28924483ee"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
-   "published_utc": "2026-11-18T22:55:40+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "55af98a494c201f9"
   },
   {
    "source_id": "investing_econ",
@@ -10654,7 +10705,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
+   "source_name": "凤凰网财经",
    "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
    "published_utc": "2026-11-18T02:07:21+00:00",
@@ -51845,57 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "408939512d92e911"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Alphabet spells out more AI capex, China+1 doesn't add up",
-   "url": "https://asia.nikkei.com/techasia/alphabet-spells-out-more-ai-capex-china-1-doesn-t-add-up",
-   "published_utc": "2026-10-29T09:02:43.459154+00:00",
-   "title_original": "Alphabet spells out more AI capex, China+1 doesn't add up",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "78be7a3d77d4745c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics' Investment in Facility Investment at Article 85...Responding to semiconductor boom with largest investment ever",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWU40NVlZVDJZc2RqWlVXMk53N0xlRVkyUWZBeFdKSk5oWUJpS1RfODhqMUI3Y0JUTmpIU21rYmJ3NHctUWl2ZWlGVmI3ckdDZ0tB?oc=5",
-   "published_utc": "2026-10-29T08:52:31+00:00",
-   "title_original": "Samsung Electronics' Investment in Facility Investment at Article 85...Responding to semiconductor boom with largest investment ever",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e80f1efa90d78449"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics Co. Investments in Facilities Investment at Article 85",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZW5aTHc5VHB5eGpTcWRTWXMycWVQeTZUZ2FtTXVNQkJfYXhoWk9rN0x5RVRQcFNWdlFydC00NnA5Z3FCMUlpRGFCcWUxd2gwM2c4?oc=5",
-   "published_utc": "2026-10-29T08:51:25+00:00",
-   "title_original": "Samsung Electronics Co. Investments in Facilities Investment at Article 85",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "518e4f26b455530b"
   },
   {
    "source_id": "manual_ia",
