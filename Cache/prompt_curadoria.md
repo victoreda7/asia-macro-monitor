@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T00:32:42.143304+00:00
+Última coleta: 2026-11-24T00:42:42.810078+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
   🇨🇳 China          949
-  🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  690
+  🇹🇼 Taiwan         336
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
   - [japan] Japan's factory activity expands in November, PMI shows
   - [japan] Interest Rate (November 20 2026)
   - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
   - [korea] Korean AI chipmakers Rebellions, DEEPX eye global push with new NPUs
   - [korea] POSCO Future M targets next-generation battery anodes with China-free supply chain
-  - [taiwan] Chip prices set to rise through 2027, driving semiconductor growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T00:32:42+00:00",
+      "published_utc": "2026-11-24T00:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
