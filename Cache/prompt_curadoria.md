@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T11:23:02.435287+00:00
+Última coleta: 2026-11-24T11:33:00.920430+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
@@ -38,7 +38,6 @@ Total: 3000 manchetes
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
   - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
-  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
   - [taiwan] TSMC eyes US$22.6 billion Texas campus for 2nm chips
   - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
@@ -47,6 +46,7 @@ Total: 3000 manchetes
   - [china] EU sets limits on hybrid vehicle imports from China and other countries
   - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
   - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T11:23:02+00:00",
+      "published_utc": "2026-11-24T11:33:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
