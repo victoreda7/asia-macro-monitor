@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T06:22:43.250546+00:00
+Última coleta: 2026-11-24T06:33:50.307066+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          953
+  🇯🇵 Japão          1021
+  🇨🇳 China          954
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  688
+  🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [korea] Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix
   - [korea] Goldman Sachs “The Bank of Korea’s base interest rate of 3.5% next year is the upper end… The won price per do
   - [korea] Korea Zinc’s $7.4b smelter gains importance amid US-China rivalry
   - [japan] Japan's manufacturing PMI rises to 53.7 in November; services growth slows
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [korea] Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?
   - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
+  - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
   - [korea] KB, Hana and Woori banks step up for smaller defense suppliers as exports rise
   - [china] China's yuan hits three-week high as firm fixing offsets dollar strength
   - [korea] [Issue] The four major banks ‘take a step back’ in NIM even if the base interest rate rises… All decline in th
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Will the base interest rate rise? Interested in whether bank term deposits will be available at 4% per annum
   - [japan] Number of people in Japan making 100 mil. yen or more doubles over decade
   - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
-  - [korea] South Korea’s central bank seen raising rates on Thursday, once more next quarter - Reuters poll
-  - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T06:22:43+00:00",
+      "published_utc": "2026-11-24T06:33:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
