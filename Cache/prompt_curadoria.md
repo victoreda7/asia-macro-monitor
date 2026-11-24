@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T15:04:19.720016+00:00
+Última coleta: 2026-11-24T15:12:42.197653+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [china] U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF ope
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
@@ -37,7 +38,6 @@ Total: 3000 manchetes
   - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk
   - [china] Chinese cobalt firms race to beat DR Congo’s export ban on key battery material
-  - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [china] The central bank recently announced that it will carry out 800 billion yuan of MLF operations
   - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [japan] Yen Falls Against Majors
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T15:04:19+00:00",
+      "published_utc": "2026-11-24T15:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
