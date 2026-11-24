@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T03:52:42.701524+00:00
+Última coleta: 2026-11-24T04:02:43.993417+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
+  🇯🇵 Japão          1024
   🇨🇳 China          955
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  684
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dependency deduction for relatives living overseas: Requirements to be tightened in next year's tax reform
   - [china] China cobalt prices surge to three-month high as Congo bans exports
   - [taiwan] Why is TSMC stock surging today?
   - [china] US chip curbs won’t impact Malaysia’s China ties, PM says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Stocks Jump 13.84% as Nvidia CEO Return Revives AI Foundry Bets
   - [taiwan] TSMC Stock Faces China Fallout, but Wall Street Sees a Bigger Story
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock surging today?
-  - [taiwan] PRES TRUMP Q&A/CNBC: LAST NIGHT TOLD JENSEN HUANG 'TO WORK HARD;' TAIWAN'S TSMC TO EVENTUALLY PRODUCE NVIDIA C
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T03:52:42+00:00",
+      "published_utc": "2026-11-24T04:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
