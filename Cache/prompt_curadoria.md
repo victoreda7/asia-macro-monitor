@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T01:42:52.805223+00:00
+Última coleta: 2026-11-24T01:52:50.350725+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          949
+  🇯🇵 Japão          1022
+  🇨🇳 China          951
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
   - [china] CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES
+  - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation with an interest rate of 1
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7111 TUES VS 6.7120
   - [korea] [Economy Focus] Will the Bank of Korea Monetary Policy Committee raise the base interest rate on the 26th?
   - [taiwan] TSMC Rises 9.85%; Foxconn Technology Gains 9.95%
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Zhongji Innolight Plans A-Share Buyback With 2-4 Billion Yuan
   - [china] LCY’s China chip chemicals business draws $600M takeover interest from HSG-led consortium - report
   - [china] The Taiwan Affairs Office of the State Council and the Export-Import Bank of China signed a contract to increa
-  - [korea] Samsung, SK Hynix’s long-term supply deals with Big Tech hold firm despite market peak fears
-  - [china] Consortium in talks to buy LCY's $600 million China chip chemicals business, people say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T01:42:52+00:00",
+      "published_utc": "2026-11-24T01:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
