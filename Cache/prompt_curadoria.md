@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T04:42:42.448962+00:00
+Última coleta: 2026-11-24T04:52:45.862732+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [korea] 54 pct of bond experts eye rate hike this week: poll
   - [korea] 54% of bond market participants “expect an interest rate hike at the Monetary Policy Committee in November”
   - [japan] Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maxi
+  - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
   - [korea] Economists agree on Bank of Korea interest rate hike in November, Reuters: “One hike next year is likely”
   - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
   - [japan] Japanese bond yields fall as lower oil prices ease inflation concerns
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Shang-Jin Wei] Export restraints over tariffs
   - [japan] Is it true that “as interest rates rise, land prices fall”? Accelerating in Musashino and Mitaka, slowing down
   - [korea] Why SK hynix stock is trading up today
-  - [taiwan] Taiwan Semiconductor Stocks Jump 13.84% as Nvidia CEO Return Revives AI Foundry Bets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T04:42:42+00:00",
+      "published_utc": "2026-11-24T04:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
