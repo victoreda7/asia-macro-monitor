@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T09:12:49.302861+00:00",
- "collected_at_utc": "2026-11-24T09:12:49.302861+00:00",
+ "generated_at_utc": "2026-11-24T09:22:44.503438+00:00",
+ "collected_at_utc": "2026-11-24T09:22:44.503438+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1015,
-  "china": 953,
+  "japan": 1011,
+  "china": 957,
   "taiwan": 340,
   "korea": 692
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T08:07:00+00:00"
+   "newest": "2026-11-24T09:14:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:40:35+00:00"
+   "newest": "2026-11-24T08:37:14+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-11-24T07:03:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T09:05:41+00:00"
+   "newest": "2026-11-24T09:12:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-24T08:24:21+00:00"
+   "newest": "2026-11-24T09:12:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-24T06:20:11+00:00"
+   "newest": "2026-11-24T09:02:25+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T18:06:03+09:00"
+   "newest": "2026-11-24T18:14:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T18:08:20+09:00"
+   "newest": "2026-11-24T18:20:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:03:50+00:00"
+   "newest": "2026-11-24T04:57:19+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T09:12:07+00:00"
+   "newest": "2026-11-24T09:20:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -346,10 +346,63 @@
  "items": [
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials",
+   "url": "https://www.tradingview.com/news/DJN_DN20261124001297_20261124001318:0-extended-chinese-suspension-of-export-curbs-covers-items-including-critical-minerals-superhard-materials/",
+   "published_utc": "2026-11-24T09:17:00+00:00",
+   "title_original": "Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "00a31c8fa34a7cc7"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80761",
+   "published_utc": "2026-11-24T09:14:00+00:00",
+   "title_original": "高市首相 今年度の第2次補正予算案編成を指示",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "138f87422e6083fe"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFFQNFFVRUd1ekdOd3VQZ1htbzhMbExteGhmOVVFSFZDX3pXZlhXZ3FqLVVBY1VpNlJFQWRkOHdCcTlQdzVmVXFhRTduejhVLUVGREFraWdiZTA0MFNTeTZIMnZLQjMtVGJiWDA4cTlDS0RsRXlXbnRWczFTTUE5ZW04ZkxWaEpKSjA4OTJzc01UVENwcGVQQzFBVVhodHNjaExqdXFWNFRQTk9vcXJJ?oc=5",
+   "published_utc": "2026-11-24T09:14:00+00:00",
+   "title_original": "Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c782e2415c5f4b36"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Japan vows sustainable finances and BOJ independence in budget guideline",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N475014:0-japan-vows-sustainable-finances-and-boj-independence-in-budget-guideline/",
-   "published_utc": "2026-11-24T09:04:55+00:00",
+   "url": "https://www.investing.com/news/economy-news/japan-vows-sustainable-finances-and-boj-independence-in-budget-guideline-5047399",
+   "published_utc": "2026-11-24T09:12:22+00:00",
    "title_original": "Japan vows sustainable finances and BOJ independence in budget guideline",
    "region": "japan",
    "topics": [
@@ -358,9 +411,26 @@
    ],
    "lang_original": "en",
    "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "124f6c042fd21ed6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.",
+   "url": "https://www.tradingview.com/news/DJN_DN20261124001297_20261124001297:0-china-extends-suspension-of-export-restrictions-on-some-dual-use-materials-to-u-s/",
+   "published_utc": "2026-11-24T09:12:00+00:00",
+   "title_original": "China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "04aa41ee903e1283"
+   "id": "4f4c18709e22fcdb"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -397,6 +467,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0c0bba494eb0df75"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China extends suspension of ban on US-bound gallium, germanium, antimony exports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45902Q:0-china-extends-suspension-of-ban-on-us-bound-gallium-germanium-antimony-exports/",
+   "published_utc": "2026-11-24T08:45:29+00:00",
+   "title_original": "China extends suspension of ban on US-bound gallium, germanium, antimony exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a1196f42e998e219"
   },
   {
    "source_id": "tradingview_live",
@@ -51808,91 +51895,6 @@
    "live_wire": true,
    "manual": false,
    "id": "931fb7227f9bfc79"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN OCT TOKYO CPI: ENERGY +2.2% Y/Y (+0.09 POINT CONTRIBUTION), VS. -1.9% (-0.08 POINT) IN SEPT",
-   "url": "https://www.tradingview.com/news/macenews:6cc3d611f094b:0-japan-oct-tokyo-cpi-energy-2-2-y-y-0-09-point-contribution-vs-1-9-0-08-point-in-sept/",
-   "published_utc": "2026-10-29T23:38:00+00:00",
-   "title_original": "JAPAN OCT TOKYO CPI: ENERGY +2.2% Y/Y (+0.09 POINT CONTRIBUTION), VS. -1.9% (-0.08 POINT) IN SEPT",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "af79ac3b9018c068"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN OCT TOKYO INFLATION RATE STAYS HIGH AFTER SURGING IN SEPT WHEN PRICE-CUTTING EFFECTS OF FREE BASE WATER CHARGES WANED AT END OF PROGRAM",
-   "url": "https://www.tradingview.com/news/macenews:e3f2faa80094b:0-japan-oct-tokyo-inflation-rate-stays-high-after-surging-in-sept-when-price-cutting-effects-of-free-base-water-charges-waned-at-end-of-program/",
-   "published_utc": "2026-10-29T23:36:00+00:00",
-   "title_original": "JAPAN OCT TOKYO INFLATION RATE STAYS HIGH AFTER SURGING IN SEPT WHEN PRICE-CUTTING EFFECTS OF FREE BASE WATER CHARGES WANED AT END OF PROGRAM",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c1c696ef64d26ed4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT S/A UNEMPLOYMENT RATE 2.4% (AUG 2.5%); MEDIAN FORECAST 2.5% (RANGE: 2.4% TO 2.5%)",
-   "url": "https://www.tradingview.com/news/macenews:7482518de094b:0-japan-sept-s-a-unemployment-rate-2-4-aug-2-5-median-forecast-2-5-range-2-4-to-2-5/",
-   "published_utc": "2026-10-29T23:36:00+00:00",
-   "title_original": "JAPAN SEPT S/A UNEMPLOYMENT RATE 2.4% (AUG 2.5%); MEDIAN FORECAST 2.5% (RANGE: 2.4% TO 2.5%)",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ccc68754f5e862bf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT +3.0%); MEDIAN FORECAST +2.8% (RANGE: +2.5% TO +3.0%)",
-   "url": "https://www.tradingview.com/news/macenews:ac2c9403a094b:0-japan-oct-tokyo-core-core-cpi-ex-fresh-food-energy-2-6-y-y-sept-3-0-median-forecast-2-8-range-2-5-to-3-0/",
-   "published_utc": "2026-10-29T23:33:00+00:00",
-   "title_original": "JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT +3.0%); MEDIAN FORECAST +2.8% (RANGE: +2.5% TO +3.0%)",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0e67a99ec2b9bce8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tokyo Oct core CPI rises 2.6% yr/yr",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-10-29:newsml_AZN4TRW16:0-tokyo-oct-core-cpi-rises-2-6-yr-yr/",
-   "published_utc": "2026-10-29T23:32:02+00:00",
-   "title_original": "Tokyo Oct core CPI rises 2.6% yr/yr",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7a15d543df0588b2"
   },
   {
    "source_id": "manual_ia",
