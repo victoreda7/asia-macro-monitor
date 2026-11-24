@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T12:12:44.774935+00:00
+Última coleta: 2026-11-24T12:22:49.370000+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
-  🇨🇳 China          976
+  🇨🇳 China          977
   🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [china] China's Alibaba Health interim profit falls on supply chain investments
   - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
   - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
-  - [china] EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T12:12:45+00:00",
+      "published_utc": "2026-11-24T12:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
