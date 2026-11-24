@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T06:03:08.525260+00:00",
- "collected_at_utc": "2026-11-24T06:03:08.525260+00:00",
+ "generated_at_utc": "2026-11-24T06:12:42.860314+00:00",
+ "collected_at_utc": "2026-11-24T06:12:42.860314+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1023,
-  "china": 954,
+  "china": 953,
   "taiwan": 336,
-  "korea": 687
+  "korea": 688
  },
- "elapsed_s": 55.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-24T05:48:38+00:00"
+   "newest": "2026-11-24T06:05:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:32:17+00:00"
+   "newest": "2026-11-24T00:22:48+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-24T05:57:07+00:00"
+   "newest": "2026-11-24T06:08:06+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T14:33:33+09:00"
+   "newest": "2026-11-24T15:08:46+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:33:00+00:00"
+   "newest": "2026-11-24T04:12:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T22:06:52+00:00"
+   "newest": "2026-11-24T02:03:50+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T06:02:29+00:00"
+   "newest": "2026-11-24T06:12:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:45:50+00:00"
+   "newest": "2026-11-23T21:00:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T04:30:18+00:00"
+   "newest": "2026-11-24T06:03:14+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,11 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T05:31:58+00:00"
+   "newest": "2026-11-24T05:57:29+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "Goldman Sachs “The Bank of Korea’s base interest rate of 3.5% next year is the upper end… The won price per dollar is 1,280 won.”",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZlRldXdZeG5zSmhCWUNKaWtoeHloUjFIbllpYUUzMDZab3p2bjRFbmpGVWtuVlR0dzhvNUhETGVzVlVIMFlIcFpiZGlPUEl1ZEE?oc=5",
+   "published_utc": "2026-11-24T05:57:29+00:00",
+   "title_original": "골드만삭스 “내년 한은 기준금리 3.5%가 상단…달러당 원화값은 1280원”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e726e2da11635dad"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -5896,7 +5914,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5908,7 +5926,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6627,7 +6645,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스투데이",
    "title_en": "“The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HM0doZ0xBTFM4SzBwNkZCTFlMTGNTMUtpVDNhWER5ZHBFa3YzdldlOVdzbFZfQmpKTHlOZDJqU3oySllCYkhST3U0b0VGVXdTcHFHNXl6eElqUDA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
    "published_utc": "2026-11-20T00:04:00+00:00",
    "title_original": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
    "region": "korea",
@@ -6638,7 +6656,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cc7ec752cb2a6486"
+   "id": "f4534aba4a6affe9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51878,23 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4e17ce2c32361de6"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Names New Politburo Member, Plans Party Congress in 2027",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTFEUkJPS1RkTnVsMk9zLVFGcUhpRkc2Y0F5QVktSFp1MUp3ZFRZcU1iWmU1eGR5RDllN3RTMHI2aTZPbk5Ic25UajdrZjktTWlwdmFSMXc3YVgzZnZvUGl2d1Z2ME5wNlFhSUVaWDBweTA2ZXRIcXEyTjgtVHpTMkVTT2dvNVEtRzdQeWUtLU5EbjNGNkFHbUdhaEhTNXRwdW90VkdzSDlWQQ?oc=5",
-   "published_utc": "2026-10-29T10:35:28+00:00",
-   "title_original": "China Names New Politburo Member, Plans Party Congress in 2027",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3af3e8311380522f"
   },
   {
    "source_id": "manual_ia",
