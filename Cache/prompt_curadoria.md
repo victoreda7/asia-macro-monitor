@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T00:42:42.810078+00:00
+Última coleta: 2026-11-24T00:52:51.681677+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
-  🇨🇳 China          949
+  🇨🇳 China          948
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
   - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
   - [japan] Japan's factory activity expands in November, PMI shows
   - [japan] Interest Rate (November 20 2026)
   - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
   - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
+  - [korea] Media: Samsung Plans to Expand Advanced NAND Capacity at Xi’an Plant to Supply AI Data Centers
   - [japan] Due to the French financial crisis...President Macron proposes the introduction of the ``Golden Rule'' fiscal 
   - [japan] Japan PMI Data Due On Tuesday
   - [japan] Scholarship interest rates soar, calls for burden reduction
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] CapitaLand China Trust: Retail sales grew as leasing and capital actions targeted portfolio resilience
   - [korea] Bank of Korea Expected to Tighten Policy Twice More in Cycle — Market Talk
   - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
-  - [korea] Korean AI chipmakers Rebellions, DEEPX eye global push with new NPUs
-  - [korea] POSCO Future M targets next-generation battery anodes with China-free supply chain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T00:42:43+00:00",
+      "published_utc": "2026-11-24T00:52:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
