@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T00:52:51.681677+00:00
+Última coleta: 2026-11-24T01:02:51.269332+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
@@ -18,8 +18,9 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
+  - [korea] South Korea’s central bank seen raising rates on Thursday, once more next quarter - Reuters poll
   - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
-  - [japan] Japan's factory activity expands in November, PMI shows
+  - [japan] Japan’s factory activity expands in November, PMI shows
   - [japan] Interest Rate (November 20 2026)
   - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
   - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Jupiter Wagons to manufacture metro coaches, propulsion systems with Korea's Woojin in JV
   - [china] CapitaLand China Trust: Retail sales grew as leasing and capital actions targeted portfolio resilience
   - [korea] Bank of Korea Expected to Tighten Policy Twice More in Cycle — Market Talk
-  - [china] Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T00:52:51+00:00",
+      "published_utc": "2026-11-24T01:02:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
