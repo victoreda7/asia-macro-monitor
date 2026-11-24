@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T16:52:42.811153+00:00
+Última coleta: 2026-11-24T17:04:09.105362+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          982
-  🇨🇳 China          990
+  🇯🇵 Japão          981
+  🇨🇳 China          991
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] Nvidia Faces Fresh China Chip Restrictions Despite Huang's Return
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [china] China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
@@ -40,6 +41,7 @@ Total: 3000 manchetes
   - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk
   - [china] Chinese cobalt firms race to beat DR Congo’s export ban on key battery material
+  - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
   - [china] The central bank recently announced that it will carry out 800 billion yuan of MLF operations
   - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [japan] Yen Falls Against Majors
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] China extends pause in controls on critical mineral exports to US
   - [china] China to Suspend Some Critical-Material Export Curbs to U.S. Until January
-  - [japan] Japanese prime minister orders extra budget, economy minister says
-  - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T16:52:43+00:00",
+      "published_utc": "2026-11-24T17:04:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
