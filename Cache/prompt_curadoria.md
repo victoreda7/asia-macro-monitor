@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T11:42:49.310337+00:00
+Última coleta: 2026-11-24T11:52:42.992202+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          972
+  🇯🇵 Japão          992
+  🇨🇳 China          973
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Yen Falls Against Majors
   - [china] The central bank will carry out 800 billion yuan of MLF operations, and the total amount of liquidity operatio
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank will launch a 500 billion yuan reverse repurchase operation
   - [korea] Kospi roars back above 5,000 as Huang’s return ignites chip, robotics rally
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
-  - [japan] Bank of Japan governor's remuneration: 39.06 million yen in FY2016 (Jiji Press)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T11:42:49+00:00",
+      "published_utc": "2026-11-24T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
