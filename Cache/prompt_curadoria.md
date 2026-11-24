@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T06:12:42.860314+00:00
+Última coleta: 2026-11-24T06:22:43.250546+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [china] China's yuan hits three-week high as firm fixing offsets dollar strength
   - [korea] [Issue] The four major banks ‘take a step back’ in NIM even if the base interest rate rises… All decline in th
   - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
+  - [china] Singapore, China to Deepen Yuan Ties With Focus on Corporates
   - [taiwan] Micron steps up HBM investment in Taiwan, Singapore
   - [taiwan] TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO
   - [korea] Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
   - [korea] South Korea’s central bank seen raising rates on Thursday, once more next quarter - Reuters poll
   - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
-  - [japan] Japan's factory activity expands in November, PMI shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T06:12:43+00:00",
+      "published_utc": "2026-11-24T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
