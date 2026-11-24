@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T12:52:42.714341+00:00
+Última coleta: 2026-11-24T13:02:59.612595+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
-  🇨🇳 China          979
+  🇯🇵 Japão          988
+  🇨🇳 China          978
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls Amid Global AI Sector Revival
   - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [china] China's Alibaba Health interim profit falls on supply chain investments
@@ -43,6 +44,7 @@ Total: 3000 manchetes
   - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
   - [china] China, India set for record Russian oil imports in 2026, but demand seen peaking
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
+  - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [japan] Prime Minister Takaichi instructs Finance Minister Katayama to formulate the second supplementary budget for F
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
@@ -50,13 +52,11 @@ Total: 3000 manchetes
   - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
   - [taiwan] TSMC eyes US$22.6 billion Texas campus for 2nm chips
   - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
-  - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [japan] Interview: Whether the Bank of Japan will raise interest rates to 2% next year, difficult to judge due to econ
   - [china] EU sets limits on hybrid vehicle imports from China and other countries
   - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials
   - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
-  - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T12:52:42+00:00",
+      "published_utc": "2026-11-24T13:02:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
