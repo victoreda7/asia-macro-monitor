@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T03:33:09.251885+00:00",
- "collected_at_utc": "2026-11-24T03:33:09.251885+00:00",
+ "generated_at_utc": "2026-11-24T03:42:40.613051+00:00",
+ "collected_at_utc": "2026-11-24T03:42:40.613051+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1023,
-  "china": 953,
-  "taiwan": 338,
-  "korea": 686
+  "china": 954,
+  "taiwan": 339,
+  "korea": 684
  },
- "elapsed_s": 57.2,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T00:30:51+00:00"
+   "newest": "2026-11-24T03:27:17+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T03:16:18+00:00"
+   "newest": "2026-11-24T03:31:06+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-24T01:30:21+00:00"
+   "newest": "2026-11-24T03:18:46+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 15,
+   "count": 27,
    "error": "",
    "newest": "2026-11-24T01:50:37+00:00"
   },
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T00:15:14+00:00"
+   "newest": "2026-11-24T02:16:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is TSMC stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-surging-today-93CH-5046933",
+   "published_utc": "2026-11-24T03:24:10+00:00",
+   "title_original": "Why is TSMC stock surging today?",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8849cc256ed7831d"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "US chip curbs won’t impact Malaysia’s China ties, PM says",
+   "url": "https://www.investing.com/news/economy-news/us-chip-curbs-wont-impact-malaysias-china-ties-pm-says-5046931",
+   "published_utc": "2026-11-24T03:18:46+00:00",
+   "title_original": "US chip curbs won’t impact Malaysia’s China ties, PM says",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "31c1cea437b018c1"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -6070,7 +6104,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXdQTmZKMFpLNzdUTFJaYlRuVlVPaDRTMEJmTm04N0ExMjBCX2IwSV9rQmNMZVhHNzF3Z1FkTkc1Z29jZl81NXJFdms0bFpNM05JVC1aRGRtMW03MFlXTkZEZXZ6ZmdfYklaajBvSU5yNlFtQmY0UEJza0M5aUZOdHlSSmstWVNPU3dGRDByZzNqQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRxSzZfQ25RNy1OVGFKWkJxSU9GMkpabHFqLVBmaHJyZHhpQVhhbXd1T3NRM0lEam9XZDJrUVRLaVNELXR4d2F0TWVuUnpBcXZBYjQtRUE1TjFMRW5vd1BIdkhwVDJ2MDNEd1U3RjVLdGZCWld6X3hEWUk5STc5Q1VUSUJPSUE1dHNERnE5VzcwZw?oc=5",
    "published_utc": "2026-11-20T01:34:08+00:00",
    "title_original": "央行今日开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -6082,7 +6116,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ae0f2f94a425ee29"
+   "id": "d34fd15a040debf5"
   },
   {
    "source_id": "mof_jp",
@@ -6299,7 +6333,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스투데이",
    "title_en": "“The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HM0doZ0xBTFM4SzBwNkZCTFlMTGNTMUtpVDNhWER5ZHBFa3YzdldlOVdzbFZfQmpKTHlOZDJqU3oySllCYkhST3U0b0VGVXdTcHFHNXl6eElqUDA?oc=5",
    "published_utc": "2026-11-20T00:04:00+00:00",
    "title_original": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
    "region": "korea",
@@ -6310,7 +6344,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f4534aba4a6affe9"
+   "id": "cc7ec752cb2a6486"
   },
   {
    "source_id": "gn_jp_investing",
@@ -12791,7 +12825,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "人民政协网",
    "title_en": "On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY3hReTlZY0lpVzBPQmZjOGdYS1l1X1NpQnM3dHc1LWFvdU1xU2tFQ2JVRHppenJIYTlhR2lJR3kxU0I5dDdjeFFUeXBPUnBmZGNUMG9UZnVDS21XNURZ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14ZFpiN0ZOYmMzcmU5Tm41Z3pYdlJJcjdiYXZZSzB6Q0dkWi1OVm90NHlxbU12Z29mblJSY29MVG9JeUZqb21uazRyby1MM2FhUHRzQ3ctUmhmY2I1?oc=5",
    "published_utc": "2026-11-17T06:57:41+00:00",
    "title_original": "11月17日央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -12803,7 +12837,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "28378f245f927380"
+   "id": "7f1cb8ded58a6cc3"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51860,40 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0f1b0bdfa04cb67d"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "\"If you're holding Samsung Electronics and SK Hynix, please raise your hand.\"Yoo Dong-won, head of Y..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nUURVNDQ5cHBuMHJjQzFjREhlWEFtbXlNUnZmMjdjR1pJemxXeXFLTWxYRFFudEJVRG15VEdFbkZKbzExNjl2cnl4alVnelk?oc=5",
-   "published_utc": "2026-10-29T08:23:02+00:00",
-   "title_original": "\"If you're holding Samsung Electronics and SK Hynix, please raise your hand.\"Yoo Dong-won, head of Y..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9d8d229dae2b7163"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Ministry of Finance and Economy ◇ Director-level transfer △ Planning and Finance Officer Oh Jung-y..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ScGkxZ2dra2xXS2lrS21KYnR3MDItUTFUMmo5aHY1Qk9Kd2N4aXI3b3VMMlQzTFg4bmpTaEx5cXJEN0lhZ2JwMnhYN3pCbUhIX2c?oc=5",
-   "published_utc": "2026-10-29T08:15:55+00:00",
-   "title_original": "Ministry of Finance and Economy ◇ Director-level transfer △ Planning and Finance Officer Oh Jung-y..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c357eebd05ece6c"
   },
   {
    "source_id": "manual_ia",

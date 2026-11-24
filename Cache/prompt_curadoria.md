@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T03:33:09.251885+00:00
+Última coleta: 2026-11-24T03:42:40.613051+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
-  🇨🇳 China          953
-  🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  686
+  🇨🇳 China          954
+  🇹🇼 Taiwan         339
+  🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Why is TSMC stock surging today?
+  - [china] US chip curbs won’t impact Malaysia’s China ties, PM says
   - [japan] Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is "moderately recovering"
   - [korea] 54 pct of bond experts eye rate hike this week: poll
   - [japan] Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maxi
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] PRES TRUMP Q&A/CNBC: LAST NIGHT TOLD JENSEN HUANG 'TO WORK HARD;' TAIWAN'S TSMC TO EVENTUALLY PRODUCE NVIDIA C
   - [china] Como o presidente-executivo da Nvidia, Jensen Huang, se viu envolvido em um escândalo envolvendo chips e espio
   - [korea] SoftBank's Masayoshi explored $1T buyout of SK Hynix - The Information
-  - [china] Nvidia Faces November 25 Deadline -- Treasury Says Chipmaker Has Yet to Answer China Probe
-  - [taiwan] TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T03:33:09+00:00",
+      "published_utc": "2026-11-24T03:42:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
