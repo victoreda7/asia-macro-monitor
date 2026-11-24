@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T05:52:47.131175+00:00
+Última coleta: 2026-11-24T06:03:08.525260+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
-  🇨🇳 China          956
+  🇯🇵 Japão          1023
+  🇨🇳 China          954
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  686
+  🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea Zinc’s $7.4b smelter gains importance amid US-China rivalry
+  - [japan] Japan's manufacturing PMI rises to 53.7 in November; services growth slows
   - [japan] Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maxi
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [korea] Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
   - [japan] Japan's factory activity expands in November, PMI shows
   - [japan] Interest Rate (November 20 2026)
-  - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
-  - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T05:52:47+00:00",
+      "published_utc": "2026-11-24T06:03:08+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
