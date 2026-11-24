@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T13:12:43.882862+00:00
+Última coleta: 2026-11-24T13:22:41.791296+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
-  🇨🇳 China          979
+  🇯🇵 Japão          984
+  🇨🇳 China          983
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
+  - [china] U.S. prepares to raise tariffs on China, EU other nations – WSJ
+  - [china] EU Restricts Import Quotas On Hybrid Cars To Curb Chinese Imports
+  - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
   - [china] The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations
   - [japan] Yen Falls Amid Global AI Sector Revival
@@ -26,6 +30,7 @@ Total: 3000 manchetes
   - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk
   - [china] Chinese cobalt firms race to beat DR Congo’s export ban on key battery material
+  - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [china] The central bank recently announced that it will carry out 800 billion yuan of MLF operations
   - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [japan] Yen Falls Against Majors
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
   - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
   - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
-  - [taiwan] TSMC eyes US$22.6 billion Texas campus for 2nm chips
-  - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
-  - [japan] Interview: Whether the Bank of Japan will raise interest rates to 2% next year, difficult to judge due to econ
-  - [china] EU sets limits on hybrid vehicle imports from China and other countries
-  - [china] The central bank will carry out 800 billion yuan MLF operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T13:12:44+00:00",
+      "published_utc": "2026-11-24T13:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
