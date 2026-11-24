@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T05:12:41.769876+00:00",
- "collected_at_utc": "2026-11-24T05:12:41.769876+00:00",
+ "generated_at_utc": "2026-11-24T05:23:04.459732+00:00",
+ "collected_at_utc": "2026-11-24T05:23:04.459732+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1023,
+  "japan": 1022,
   "china": 956,
-  "taiwan": 338,
-  "korea": 683
+  "taiwan": 337,
+  "korea": 685
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 50.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T04:06:00+00:00"
+   "newest": "2026-11-24T01:22:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T05:00:37+00:00"
+   "newest": "2026-11-24T05:17:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:38:00+00:00"
+   "newest": "2026-11-24T02:06:40+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T20:30:00+00:00"
+   "newest": "2026-11-23T06:32:17+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T13:52:37+09:00"
+   "newest": "2026-11-24T14:19:50+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 14,
+   "count": 23,
    "error": "",
-   "newest": "2026-11-24T01:50:37+00:00"
+   "newest": "2026-11-24T02:00:20+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:49:00+00:00"
+   "newest": "2026-11-24T03:57:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T05:11:31+00:00"
+   "newest": "2026-11-24T05:21:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,40 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?",
+   "url": "https://www.tradingview.com/news/invezz:c8865f9fbbc81:0/",
+   "published_utc": "2026-11-24T05:14:49+00:00",
+   "title_original": "Por que as ações da Samsung e da SK Hynix disparam após a reviravolta da Nvidia?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "7d1b5de6cdcb7d44"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
+   "url": "https://www.tradingview.com/news/DJN_DN20261124000036:0-chinese-automakers-book-strong-european-growth-ahead-of-import-cap/",
+   "published_utc": "2026-11-24T05:14:00+00:00",
+   "title_original": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "45f569d4024d288d"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "KB, Hana and Woori banks step up for smaller defense suppliers as exports rise",
@@ -379,23 +413,6 @@
    "id": "9efebb85ba697993"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
-   "url": "https://www.tradingview.com/news/DJN_DN20261123010570:0-chinese-automakers-book-strong-european-growth-ahead-of-import-cap/",
-   "published_utc": "2026-11-24T05:00:00+00:00",
-   "title_original": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "caf429ad0e773931"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "자본시장뉴스",
    "title_en": "[Issue] The four major banks ‘take a step back’ in NIM even if the base interest rate rises… All decline in the third quarter",
@@ -411,6 +428,23 @@
    "live_wire": false,
    "manual": false,
    "id": "adb0b3dcb316e09f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "Investing.com 한국어",
+   "title_en": "Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41aUU1NVItRTNmVUlPazJScjQ3TzY4V3hmWko5X3pYZUg2QWZTdXBhdTNSLUlRaWNvWEMtZThoTTNSM1JRZ2JxbEtoaXJlX0NNV3FZbTJ3R2ExT29XWkVVVW9fYk5XZFUtTDN4bkQ0eDQ?oc=5",
+   "published_utc": "2026-11-24T04:56:00+00:00",
+   "title_original": "한은 다시 긴축 나서나…채권시장 전문가 54% \"11월 기준금리 인상\" By EBN",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "30bc1e8f69757367"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -709,10 +743,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
+   "source_name": "Sohu",
    "title_en": "The central bank launched a 516 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMW9pc2hCZWVfQ2ZGQ1p5aFBVOHVfbnNZZzZQX1hyUGUxMmh3RlRoa1g1MmNVcGp0b0ZtWXZOQzlPcUJUa2xPWHoycy10aUxscU1HaFBvMjNwY0pZMmZOT1k0RTNFYTJOSE9JaVgxaF9nN3lvc3JyQlk4YkhJUklWSVlzbGlTRlB6RHlLRExiczZOZw?oc=5",
-   "published_utc": "2026-11-24T01:50:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWp4SU5xZzF6R3pid25vVTJkazhrY19WY1Y2ck02dkRObV9KWENZR183bkVaazBFZVk5MkNNb3JyZVFGa3pzWnc5UVk1QnpuZHh2YTA5VXFOa2ZGVHhaU3pCeUVISGUyQ2ZZc0UxUk1FQTV5RW1Yc0pVNHFqNmR6TEdXOUhIb0x2QVlBYw?oc=5",
+   "published_utc": "2026-11-24T02:00:20+00:00",
    "title_original": "央行今日开展5160亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -723,7 +757,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ad4a924554f69eed"
+   "id": "10dafac6ae39d1a1"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5788,8 +5822,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -5803,7 +5837,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6029,8 +6063,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -6043,7 +6077,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6311,7 +6345,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXdQTmZKMFpLNzdUTFJaYlRuVlVPaDRTMEJmTm04N0ExMjBCX2IwSV9rQmNMZVhHNzF3Z1FkTkc1Z29jZl81NXJFdms0bFpNM05JVC1aRGRtMW03MFlXTkZEZXZ6ZmdfYklaajBvSU5yNlFtQmY0UEJza0M5aUZOdHlSSmstWVNPU3dGRDByZzNqQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRxSzZfQ25RNy1OVGFKWkJxSU9GMkpabHFqLVBmaHJyZHhpQVhhbXd1T3NRM0lEam9XZDJrUVRLaVNELXR4d2F0TWVuUnpBcXZBYjQtRUE1TjFMRW5vd1BIdkhwVDJ2MDNEd1U3RjVLdGZCWld6X3hEWUk5STc5Q1VUSUJPSUE1dHNERnE5VzcwZw?oc=5",
    "published_utc": "2026-11-20T01:34:08+00:00",
    "title_original": "央行今日开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -6323,7 +6357,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ae0f2f94a425ee29"
+   "id": "d34fd15a040debf5"
   },
   {
    "source_id": "mof_jp",
@@ -7585,8 +7619,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -7600,7 +7634,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -7929,8 +7963,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -7944,7 +7978,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -10756,7 +10790,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网财经",
+   "source_name": "凤凰网",
    "title_en": "Central Bank: Launches 700.2 billion yuan overnight reverse repurchase operation with an operating interest rate of 1.25%",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wUkdyUmQxNUZMcndaQmdJR01UemN0MEpYTDdSVU5hRFNTSjJRTlloX1ZERWliYk51Y1cycHplNjViOGptcVlFRW1wZWlmY0to?oc=5",
    "published_utc": "2026-11-18T02:07:21+00:00",
@@ -51860,41 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c787bdd7e1edf568"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Electricity charges for November hit record highs for seven major companies",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261029de67703",
-   "published_utc": "2026-10-29T09:30:00+00:00",
-   "title_original": "電気料金 11月使用分が大手7社で過去最高を更新",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e01b5a92a46bcef2"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze on inflation risks and advocated raising interest rates and guiding interest rates | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NNXJMWkZSNHl6M1hFOVkwOWw2TVp5UGZ3ZWNPMWozTVJIZGE3R1ZiLUlaazJHNzlWaFFJNjJPRlladGhGRkludFJwTnhsTVBGdjByUkV0M09rY1g1Mmc?oc=5",
-   "published_utc": "2026-10-29T09:21:00+00:00",
-   "title_original": "央行議事錄揭2理事反對連10凍憂通膨風險主張升息導正利率| 產經",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0df57a7e354f606e"
   },
   {
    "source_id": "manual_ia",

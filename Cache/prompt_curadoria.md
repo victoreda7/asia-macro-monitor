@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T05:12:41.769876+00:00
+Última coleta: 2026-11-24T05:23:04.459732+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
+  🇯🇵 Japão          1022
   🇨🇳 China          956
-  🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  683
+  🇹🇼 Taiwan         337
+  🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?
+  - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
   - [korea] KB, Hana and Woori banks step up for smaller defense suppliers as exports rise
   - [china] China's yuan hits three-week high as firm fixing offsets dollar strength
-  - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
   - [korea] [Issue] The four major banks ‘take a step back’ in NIM even if the base interest rate rises… All decline in th
+  - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
   - [taiwan] Micron steps up HBM investment in Taiwan, Singapore
   - [taiwan] TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO
   - [korea] Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
   - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
   - [korea] Media: Samsung Plans to Expand Advanced NAND Capacity at Xi’an Plant to Supply AI Data Centers
-  - [japan] Due to the French financial crisis...President Macron proposes the introduction of the ``Golden Rule'' fiscal 
-  - [japan] Japan PMI Data Due On Tuesday
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T05:12:41+00:00",
+      "published_utc": "2026-11-24T05:23:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
