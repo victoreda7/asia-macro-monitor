@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-11-24T14:22:48.157290+00:00",
- "collected_at_utc": "2026-11-24T14:22:48.157290+00:00",
+ "generated_at_utc": "2026-11-24T14:32:44.016841+00:00",
+ "collected_at_utc": "2026-11-24T14:32:44.016841+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 984,
-  "china": 984,
-  "taiwan": 341,
-  "korea": 691
+  "japan": 985,
+  "china": 985,
+  "taiwan": 340,
+  "korea": 690
  },
- "elapsed_s": 34.3,
+ "elapsed_s": 29.9,
  "sources": [
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -139,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T05:50:58+00:00"
+   "newest": "2026-11-24T05:20:22+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -148,6 +140,14 @@
    "count": 50,
    "error": "",
    "newest": "2026-11-24T08:53:44+00:00"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T12:34:18+00:00"
+   "newest": "2026-11-24T13:05:43+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T11:37:39+00:00"
+   "newest": "2026-11-24T04:57:19+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T14:21:28+00:00"
+   "newest": "2026-11-24T14:32:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T13:13:01+00:00"
+   "newest": "2026-11-24T13:21:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T08:33:28+00:00"
+   "newest": "2026-11-24T10:00:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,9 +342,7 @@
    "newest": "2026-11-24T10:37:16+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_jp_kyodo": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "tradingview_live",
@@ -379,6 +377,24 @@
    "live_wire": true,
    "manual": false,
    "id": "41e7d8a8c8d5e03c"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year (NTV NEWS NNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ONUV6OXFOOTFYdTc4UzlIYngwLUJOV3Y2NWJac0NKLW9ScEJFSzh4UDJnQmg2ekNfNGl2S0piRklaTmxrUTBxSnlJbDZ5V2Z1UlhLQkpCTlNRd1hVUlhCMFgzWXpmQTVyYVowTV9UQ1E0S0JwNFNNZ0REVXFDT1U?oc=5",
+   "published_utc": "2026-11-24T13:21:00+00:00",
+   "title_original": "高市首相 今年度の第2次補正予算案の編成を指示（日テレNEWS NNN）",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb41417d61811613"
   },
   {
    "source_id": "tradingview_live",
@@ -464,6 +480,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e94449c636f9572c"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China probes Shanghai party boss, Politburo's Chen Jining",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWENXdFJEUVN5WUF1ODgwSWdpRUZiSWk0UVFoX3QzbVF4N19LRDJmaUdpTm1ZVlU2Rmx2Zm5hX1RleFg2aDRjWlN6QTBCM1JNc0VOZ2FRbEFvVUYyNF96REhoU0RsUTVyVkYzUXVfdmFHaTQxMnk2WVZQWU1XR25NaGV0TERXS2RtVmR6bVBCZ1loZHRzZzlQajlZdjkySHhpdDJV?oc=5",
+   "published_utc": "2026-11-24T13:05:43+00:00",
+   "title_original": "China probes Shanghai party boss, Politburo's Chen Jining",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "de92cd28e2ed089b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4508,6 +4541,23 @@
    "id": "6873f8dd0311ea79"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
+   "published_utc": "2026-11-22T08:00:00+00:00",
+   "title_original": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dccfe61c0fe2e6a6"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "手机网易网",
    "title_en": "As the RMB exchange rate strengthens, how many more U.S. dollars can be exchanged for the central bank's increase in the foreign exchange deposit requirement rate by 300,000 yuan?",
@@ -6714,23 +6764,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bc75bf76c876e4e7"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
-   "published_utc": "2026-11-20T08:44:00+00:00",
-   "title_original": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dccfe61c0fe2e6a6"
   },
   {
    "source_id": "gn_kr_mk",
@@ -11717,7 +11750,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5RDlQSXEyU0ViRm1BWFg1bEw5RWw3cVIzOURzWWdNdk50LXlqRU9fMEVNTW5vMS1QY2dIZENuaDVDdGRnWF92UVRmVkNEZkRTOE5fZlNvVjJYazhZRVVDRE51aE4tRE9nUGtZVm0zT1htRDZ1RHRuV0ZLWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -11729,7 +11762,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4315a4524b51e517"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51872,40 +51905,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5fa1ca17f4ea1358"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "The Bank of Korea, which followed the United States in reducing the number of interest rate decisions, is doing this again... They say it’s different now than then [what about money]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91Nm9EZnpVdVNoa2xCWkJhNlhFREJyNmhOeDJ3dERsZm5GcTlpSzdjM3ZmS21lRFMtT2tZa3ZHQUtxWTg0TS1pRENVT056OC1kQXVuWWl3?oc=5",
-   "published_utc": "2026-10-30T02:19:39+00:00",
-   "title_original": "미국 따라 금리결정 횟수 줄였던 한은 이번에도?…그 때와 지금은 다르다는데 [머니뭐니]",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e15c2f2a6c24167"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan manufacturing demand rises as bank property loans decline",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0E1R3QzMk41ZGxLb3p1bUJCWmFoX0NKdnpvWnF5a2o1WW9Tb3VyckJUVXdCelpVbUEtNkVlWTN1OXpnM1NWNFc0ekdidXlyUHhPY3ZLOUJUd01EREd3YVNCVU52SDZxZU01N1VNQTlJVHpQbEowVkpENm1ENm9OT1RaNGlVakpNRWtHdFIzMmptVktfNHJDNkhVZHF5WTU3c3hlWXQ2LWE?oc=5",
-   "published_utc": "2026-10-30T02:17:26+00:00",
-   "title_original": "Taiwan manufacturing demand rises as bank property loans decline",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a23490f7dbcd08dc"
   },
   {
    "source_id": "manual_ia",

@@ -7,23 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T14:22:48.157290+00:00
+Última coleta: 2026-11-24T14:32:44.016841+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
-  🇨🇳 China          984
-  🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  691
+  🇯🇵 Japão          985
+  🇨🇳 China          985
+  🇹🇼 Taiwan         340
+  🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
+  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
   - [china] U.S. prepares to raise tariffs on China, EU, other nations - WSJ
   - [china] EU Restricts Import Quotas On Hybrid Cars To Curb Chinese Imports
   - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
+  - [china] China probes Shanghai party boss, Politburo's Chen Jining
   - [china] The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations
   - [japan] Yen Falls Amid Global AI Sector Revival
   - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [japan] Prime Minister Takaichi instructs Finance Minister Katayama to formulate the second supplementary budget for F
-  - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
-  - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T14:22:48+00:00",
+      "published_utc": "2026-11-24T14:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
