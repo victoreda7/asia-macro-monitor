@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T07:52:44.751115+00:00
+Última coleta: 2026-11-24T08:03:03.364220+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1019
-  🇨🇳 China          953
-  🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  692
+  🇯🇵 Japão          1018
+  🇨🇳 China          954
+  🇹🇼 Taiwan         337
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says
+  - [china] EU sets limits on hybrid car imports from China and other countries
   - [china] China National Chemical Engineering's January-October Contracts Totalled 313.3 Billion Yuan
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [korea] Worldex Industry & Trading To Acquire Real Estate Worth 44 Billion Won
+  - [taiwan] Taoyuan airport's Terminal 3 set to open Dec. 25, 2027: Minister
+  - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Market weighs on ‘interest rate hike’
   - [japan] Rakuten Group Inc - Decided To Cancel Issuance Of 200 Billion Yen Corporate Bond
   - [china] Economic Watch: China's emerging sectors unleash fresh employment opportunities
@@ -34,7 +38,6 @@ Total: 3000 manchetes
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [korea] Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?
   - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
-  - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
   - [korea] KB, Hana and Woori banks step up for smaller defense suppliers as exports rise
   - [korea] Goldman Sachs “Korea expected to grow by 3.2% next year… base interest rate top 3.5%”
   - [china] China's yuan hits three-week high as firm fixing offsets dollar strength
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] 54% of bond market participants “expect an interest rate hike at the Monetary Policy Committee in November”
   - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
   - [korea] Economists agree on Bank of Korea interest rate hike in November, Reuters: “One hike next year is likely”
-  - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
-  - [japan] Japanese bond yields fall as lower oil prices ease inflation concerns
-  - [japan] Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T07:52:45+00:00",
+      "published_utc": "2026-11-24T08:03:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
