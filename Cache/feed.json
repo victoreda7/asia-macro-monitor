@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T12:04:04.046955+00:00",
- "collected_at_utc": "2026-11-24T12:04:04.046955+00:00",
+ "generated_at_utc": "2026-11-24T12:12:44.774935+00:00",
+ "collected_at_utc": "2026-11-24T12:12:44.774935+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 991,
-  "china": 974,
-  "taiwan": 342,
-  "korea": 693
+  "china": 976,
+  "taiwan": 341,
+  "korea": 692
  },
- "elapsed_s": 102.7,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T11:59:11+00:00"
+   "newest": "2026-11-24T12:08:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-24T17:00:00+09:00"
+   "newest": "2026-11-24T17:30:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T00:22:48+00:00"
+   "newest": "2026-11-24T05:20:22+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 21,
+   "count": 30,
    "error": "",
-   "newest": "2026-11-24T11:47:00+00:00"
+   "newest": "2026-11-24T11:57:56+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T12:03:00+00:00"
+   "newest": "2026-11-24T12:12:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,57 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's Alibaba Health interim profit falls on supply chain investments",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4750I6:0-china-s-alibaba-health-interim-profit-falls-on-supply-chain-investments/",
+   "published_utc": "2026-11-24T12:12:02+00:00",
+   "title_original": "China's Alibaba Health interim profit falls on supply chain investments",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6fe6ac33d6cafead"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China investigates Politburo member Chen Jining, Xinhua says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4750FR:0-china-investigates-politburo-member-chen-jining-xinhua-says/",
+   "published_utc": "2026-11-24T12:09:14+00:00",
+   "title_original": "China investigates Politburo member Chen Jining, Xinhua says",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "32c80aba79ec1c5f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261124002826:0-japanese-yen-could-stay-weak-through-most-of-2027-market-talk/",
+   "published_utc": "2026-11-24T12:06:00+00:00",
+   "title_original": "Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8247b20dc6aa107f"
+  },
+  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Chinese cobalt firms race to beat DR Congo’s export ban on key battery material",
@@ -364,6 +415,24 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
+   "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "published_utc": "2026-11-24T11:57:56+00:00",
+   "title_original": "央行最新宣布，将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "85389ed73c9fb172"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
    "title_en": "The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2NXRHhBTUFhRHhac1hEa01yZFctUUx4ZVZCcnNndjFKZ05KN3VZVWxseW50eGVvUW5UcjRIMEZjejl3THNNZGNvUzQxOGMtUUQtZWlqQko2S0J4N2l2SUU5bmlBRVBkSUlZbmdVc1NWUFNrR0lVWktfZUltVWlGbENHUURYMGF1anlrNw?oc=5",
    "published_utc": "2026-11-24T11:47:00+00:00",
@@ -377,23 +446,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fc04037528285028"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China investigates Politburo member Chen Jining, Xinhua says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45L03Q:0-china-investigates-politburo-member-chen-jining-xinhua-says/",
-   "published_utc": "2026-11-24T11:30:42+00:00",
-   "title_original": "China investigates Politburo member Chen Jining, Xinhua says",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d41b6966c6591dda"
   },
   {
    "source_id": "tradingview_live",
@@ -1182,6 +1234,24 @@
    "id": "b1584702d91f4f1b"
   },
   {
+   "source_id": "kantei_jnews",
+   "source_name": "Kantei 首相官邸",
+   "title_en": "Prime Minister Takaichi held the 17th Economic and Fiscal Council Meeting in 2026",
+   "url": "https://www.kantei.go.jp/jp/105/actions/202611/24keizai.html",
+   "published_utc": "2026-11-24T08:30:00+00:00",
+   "title_original": "高市総理は令和８年第１７回経済財政諮問会議を開催しました",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "74359e2fecc7edf7"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says",
@@ -1701,23 +1771,6 @@
    "id": "d9de4c00f27db96e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO",
-   "url": "https://www.tradingview.com/news/seekingalpha:e252973f6094b:0-tsmc-sk-hynix-and-asian-tech-surge-after-jensen-huang-s-return-as-nvidia-ceo/",
-   "published_utc": "2026-11-24T04:15:11+00:00",
-   "title_original": "TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2ff946962578d24d"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
    "title_en": "The central bank launched a 516 billion overnight reverse repurchase operation! Dividend low-volatility ETF Huatai-PineBridge (512890) led the category with half-day turnover of 604 million yuan",
@@ -1734,23 +1787,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b10658c86f8820d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje",
-   "url": "https://www.tradingview.com/news/invezz:0c6a66b3bbc81:0/",
-   "published_utc": "2026-11-24T04:08:24+00:00",
-   "title_original": "Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1ae33d17ad50ed1e"
   },
   {
    "source_id": "nhk_economy",
@@ -51873,41 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5a7cb3f6327c9a66"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1F2aks3ZExOMU0zMnAyeWM4b3Y3eFpJVVYtNjJDOVRNQmJia05QQXFvaHNuMm05a3BLVmxxM3hYcnJ5dlVkb2J3YTluMnNveHFjbjRMb21lX2RzcS05MVR3NXJlMFhMeWVqU2NTZzZBdHpMUjVVZEt6Z0ZzV1dRSnNYUXdsRWhXamk3QnRLcWNuZ0o4RDJ2M0VqNXBRY2lkR3hQQldlWkdSUWdwM2lQYVFjQVJ3OWFXSFVTdEZwdkJ5OGVpUzViT2RtNA?oc=5",
-   "published_utc": "2026-10-30T00:31:57+00:00",
-   "title_original": "Tokyo core inflation holds above BOJ target in Oct as rate decision looms By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e114e920e93bf981"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Industrial production index for September was 2.2% higher than the previous month",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68191",
-   "published_utc": "2026-10-30T00:25:00+00:00",
-   "title_original": "9月の鉱工業生産指数 前月を2.2％上回る",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7fd06fd7a9ebc31b"
   },
   {
    "source_id": "manual_ia",
