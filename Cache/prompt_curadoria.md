@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T07:32:43.933613+00:00
+Última coleta: 2026-11-24T07:42:43.289714+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1019
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [korea] Worldex Industry & Trading To Acquire Real Estate Worth 44 Billion Won
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Market weighs on ‘interest rate hike’
   - [japan] Rakuten Group Inc - Decided To Cancel Issuance Of 200 Billion Yen Corporate Bond
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [korea] Goldman Sachs “The Bank of Korea’s base interest rate of 3.5% next year is the upper end… The won price per do
   - [korea] Korea Zinc’s $7.4b smelter gains importance amid US-China rivalry
   - [japan] Japan's manufacturing PMI rises to 53.7 in November; services growth slows
-  - [japan] Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maxi
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [korea] Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?
   - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T07:32:44+00:00",
+      "published_utc": "2026-11-24T07:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
