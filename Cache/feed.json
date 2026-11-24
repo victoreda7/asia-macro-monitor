@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T10:22:44.904585+00:00",
- "collected_at_utc": "2026-11-24T10:22:44.904585+00:00",
+ "generated_at_utc": "2026-11-24T10:32:42.048193+00:00",
+ "collected_at_utc": "2026-11-24T10:32:42.048193+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1001,
+  "japan": 1000,
   "china": 967,
   "taiwan": 340,
-  "korea": 692
+  "korea": 693
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:14:00+00:00"
+   "newest": "2026-11-24T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T04:22:45+00:00"
+   "newest": "2026-11-24T09:31:50+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-24T07:03:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T10:13:08+00:00"
+   "newest": "2026-11-24T10:28:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T07:32:20+00:00"
+   "newest": "2026-11-24T09:50:56+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T08:59:00+00:00"
+   "newest": "2026-11-24T08:50:32+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T19:06:03+09:00"
+   "newest": "2026-11-24T19:29:23+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T19:08:00+09:00"
+   "newest": "2026-11-24T19:21:31+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 18,
    "error": "",
    "newest": "2026-11-24T09:52:27+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T10:22:01+00:00"
+   "newest": "2026-11-24T10:31:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:08:11+00:00"
+   "newest": "2026-11-24T06:07:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-24T16:00:00+09:00"
+   "newest": "2026-11-24T19:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD",
+   "url": "https://www.tradingview.com/news/seekingalpha:1d152f6fb094b:0-chinese-automakers-gain-ground-in-europe-as-eu-car-sales-rise-5-4-ytd/",
+   "published_utc": "2026-11-24T10:30:36+00:00",
+   "title_original": "Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bf0eb487cf5cb424"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Budget formulation basic policy proposal “Aiming for both a strong economy and fiscal sustainability”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80770",
+   "published_utc": "2026-11-24T10:29:23+00:00",
+   "title_original": "予算編成基本方針案“強い経済と財政持続可能性を両立目指す”",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "226311cf2535775c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -590,6 +624,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0c9cbd82953e7626"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Interview: Whether the Bank of Japan will raise interest rates to 2% next year, difficult to judge due to economic and stock price factors - Former member Adachi (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vWDRLOWhyRmY4RTZtRHgyWUR0UGllQk1NOVc1eFNkNW5FX2RGVFFZdlNUeDRGUk9MemRyN0dOZkY5c3lUa01zNU4wWEhBV0x6OENQM1RScGZIN3VCTk9FVVUyRDZaVHBWZkFnbzF2ZldCaV80ZFNFUWNjODlkR0E?oc=5",
+   "published_utc": "2026-11-24T09:28:09+00:00",
+   "title_original": "インタビュー：日銀は来年2％まで利上げか、経済・株価絡み判断難しく＝安達元委員（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "af3bea7e448bcf7a"
   },
   {
    "source_id": "tradingview_live",
@@ -1735,23 +1786,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4375a857de18c5c8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES",
-   "url": "https://www.tradingview.com/news/dpa_afx:21e825b630331:0-china-pboc-conducts-cny516-bln-via-o-n-reverse-repo-tues/",
-   "published_utc": "2026-11-24T01:41:31+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5c8fba299922ae69"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2951,6 +2985,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7a09246b34c67cda"
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "Kim Jong-un's luxury fleet appears to grow despite sanctions",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zaXU1b1JxRjhHSUVmaDhFZnU3dHFXXzE3dkwtYVlzZW9jVU5lS0dXdng0S1VPZ1hOQ0RXS2doUWQ1OEYyTUFvYXZ4bHpna2VkWEt5ZjNuQQ?oc=5",
+   "published_utc": "2026-11-23T05:10:39+00:00",
+   "title_original": "Kim Jong-un's luxury fleet appears to grow despite sanctions",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7df3998db775865"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6713,8 +6764,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -6728,13 +6779,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -6746,7 +6797,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6954,8 +7005,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -6968,7 +7019,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51854,57 +51905,6 @@
    "live_wire": false,
    "manual": false,
    "id": "abbb84ac16cd9ef8"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Tokyo prices rise 2.6% in October; growth and contraction continue at 2% level (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZlhlY0pmaGdlYnNJUmxZVVRvQ2xsMzlQQnpmUEFVNFZ5UGNjY2w2QXNQQjZCZThEdkJmdXNVcElTRkwzU1l4X3k5eXFlaWNwRDh3aWg3b3JCNGYxUWNtRVFRMWRSZHpBZDRxV2FVS0Vpa1NQLV9NaGQ1bXc3T3M?oc=5",
-   "published_utc": "2026-10-29T23:54:19+00:00",
-   "title_original": "10月東京物価2.6％上昇 伸び縮小、2％台続く（共同通信）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5ef329021b05c12"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT INDUSTRIAL OUTPUT +1.9% Y/Y (AUG REVISED TO +2.7% FROM +3.4%), 4TH STRAIGHT RISE; MEDIAN FORECAST +0.9% (RANGE: -0.2% TO +1.5%)",
-   "url": "https://www.tradingview.com/news/macenews:d79d1cc9e094b:0-japan-sept-industrial-output-1-9-y-y-aug-revised-to-2-7-from-3-4-4th-straight-rise-median-forecast-0-9-range-0-2-to-1-5/",
-   "published_utc": "2026-10-29T23:54:00+00:00",
-   "title_original": "JAPAN SEPT INDUSTRIAL OUTPUT +1.9% Y/Y (AUG REVISED TO +2.7% FROM +3.4%), 4TH STRAIGHT RISE; MEDIAN FORECAST +0.9% (RANGE: -0.2% TO +1.5%)",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a05d4d173a6ba6ba"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Jul-Sep Industrial Output +0.3% on Quarter",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029020278_20261029020298:0-japan-jul-sep-industrial-output-0-3-on-quarter/",
-   "published_utc": "2026-10-29T23:54:00+00:00",
-   "title_original": "Japan Jul-Sep Industrial Output +0.3% on Quarter",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5dafe9719068bc65"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T10:22:44.904585+00:00
+Última coleta: 2026-11-24T10:32:42.048193+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1001
+  🇯🇵 Japão          1000
   🇨🇳 China          967
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD
+  - [japan] Budget formulation basic policy proposal “Aiming for both a strong economy and fiscal sustainability”
   - [china] China to Suspend Some Critical-Material Export Curbs to U.S. Until January
   - [japan] Japanese prime minister orders extra budget, economy minister says
   - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
@@ -31,6 +33,7 @@ Total: 3000 manchetes
   - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
   - [taiwan] TSMC eyes US$22.6 billion Texas campus for 2nm chips
   - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
+  - [japan] Interview: Whether the Bank of Japan will raise interest rates to 2% next year, difficult to judge due to econ
   - [china] EU sets limits on hybrid vehicle imports from China and other countries
   - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Key facts: Cranswick profit up; Hull store approved for China exports
   - [china] EU sets limits on hybrid car imports from China and other countries
   - [china] China National Chemical Engineering's January-October Contracts Totalled 313.3 Billion Yuan
-  - [korea] Worldex Industry & Trading To Acquire Real Estate Worth 44 Billion Won
-  - [taiwan] Taoyuan airport's Terminal 3 set to open Dec. 25, 2027: Minister
-  - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T10:22:45+00:00",
+      "published_utc": "2026-11-24T10:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
