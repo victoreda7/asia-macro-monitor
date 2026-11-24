@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T11:52:42.992202+00:00
+Última coleta: 2026-11-24T12:04:04.046955+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          992
-  🇨🇳 China          973
+  🇯🇵 Japão          991
+  🇨🇳 China          974
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese cobalt firms race to beat DR Congo’s export ban on key battery material
   - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Yen Falls Against Majors
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's central bank to carry out 500 billion yuan of 7-day reverse repos
   - [china] The central bank will launch a 500 billion yuan reverse repurchase operation
   - [korea] Kospi roars back above 5,000 as Huang’s return ignites chip, robotics rally
-  - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T11:52:43+00:00",
+      "published_utc": "2026-11-24T12:04:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
