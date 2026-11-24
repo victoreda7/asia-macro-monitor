@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T08:42:47.690130+00:00
+Última coleta: 2026-11-24T08:52:46.637184+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1016
-  🇨🇳 China          954
+  🇨🇳 China          953
   🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [korea] North Korea threatens to shut Swiss office over Russian youth camp sanctions
   - [japan] Japan's Rakuten cancels $1.26 bond issuance, filing shows
   - [taiwan] TSMC Unit Seeks Texas Property Tax Cap for Proposed $22.6 Billion Chip Factory
   - [taiwan] TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje
   - [japan] Dependency deduction for relatives living overseas: Requirements to be tightened in next year's tax reform
   - [china] China cobalt prices surge to three-month high as Congo bans exports
-  - [taiwan] Why is TSMC stock surging today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T08:42:47+00:00",
+      "published_utc": "2026-11-24T08:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
