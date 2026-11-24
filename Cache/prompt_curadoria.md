@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T15:32:59.736025+00:00
+Última coleta: 2026-11-24T15:43:20.637766+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          987
+  🇯🇵 Japão          983
+  🇨🇳 China          989
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [china] U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF ope
-  - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
   - [china] US Readies Tariff Hike on China, EU Goods as Soon as Tuesday
+  - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
@@ -30,7 +31,6 @@ Total: 3000 manchetes
   - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
   - [china] China probes Shanghai party boss, Politburo's Chen Jining
-  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations
   - [japan] Yen Falls Amid Global AI Sector Revival
   - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T15:32:59+00:00",
+      "published_utc": "2026-11-24T15:43:20+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
