@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T01:12:41.902776+00:00
+Última coleta: 2026-11-24T01:22:51.420110+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -22,7 +22,7 @@ Total: 3000 manchetes
   - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
   - [korea] South Korea’s central bank seen raising rates on Thursday, once more next quarter - Reuters poll
   - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
-  - [japan] Japan’s factory activity expands in November, PMI shows
+  - [japan] Japan's factory activity expands in November, PMI shows
   - [japan] Interest Rate (November 20 2026)
   - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
   - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T01:12:42+00:00",
+      "published_utc": "2026-11-24T01:22:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
