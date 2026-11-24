@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T02:32:42.090371+00:00",
- "collected_at_utc": "2026-11-24T02:32:42.090371+00:00",
+ "generated_at_utc": "2026-11-24T02:42:41.663146+00:00",
+ "collected_at_utc": "2026-11-24T02:42:41.663146+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1023,
+  "japan": 1024,
   "china": 952,
   "taiwan": 337,
-  "korea": 688
+  "korea": 687
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,17 +65,17 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 35,
+   "count": 36,
    "error": "",
-   "newest": "2026-11-24T09:39:56+08:00"
+   "newest": "2026-11-24T09:59:58+08:00"
   },
   {
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
-   "newest": "2026-11-24T02:01:17+00:00"
+   "newest": "2026-11-24T02:35:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:06:40+00:00"
+   "newest": "2026-11-24T02:38:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-24T00:59:45+00:00"
+   "newest": "2026-11-24T02:33:11+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T11:25:05+09:00"
+   "newest": "2026-11-24T11:39:03+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T11:11:37+09:00"
+   "newest": "2026-11-24T11:39:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T20:51:00+00:00"
+   "newest": "2026-11-24T00:40:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T21:20:24+00:00"
+   "newest": "2026-11-24T00:11:37+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T20:48:15+00:00"
+   "newest": "2026-11-24T02:37:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:35:33+00:00"
+   "newest": "2026-11-24T02:30:45+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-24T01:38:24+00:00"
+   "newest": "2026-11-24T02:39:20+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,25 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maximum 50,000 yen benefit",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80414",
+   "published_utc": "2026-11-24T02:39:03+00:00",
+   "title_original": "消費税減税法案めぐり 立民が最大5万円給付など対案を国会提出",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8523df857e38e2f6"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "경인방송 뉴스",
@@ -5479,7 +5498,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5491,7 +5510,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -7617,6 +7636,24 @@
    "id": "7539474e2ed96ad2"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "published_utc": "2026-11-19T09:41:26+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "55af98a494c201f9"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "LG Display scraps 3 tln-won OLED investment plan",
@@ -8781,24 +8818,6 @@
    "live_wire": false,
    "manual": false,
    "id": "49bc7f28924483ee"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
-   "published_utc": "2026-11-18T22:55:40+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "55af98a494c201f9"
   },
   {
    "source_id": "investing_econ",
@@ -12702,7 +12721,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "人民政协网",
    "title_en": "On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14ZFpiN0ZOYmMzcmU5Tm41Z3pYdlJJcjdiYXZZSzB6Q0dkWi1OVm90NHlxbU12Z29mblJSY29MVG9JeUZqb21uazRyby1MM2FhUHRzQ3ctUmhmY2I1?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY3hReTlZY0lpVzBPQmZjOGdYS1l1X1NpQnM3dHc1LWFvdU1xU2tFQ2JVRHppenJIYTlhR2lJR3kxU0I5dDdjeFFUeXBPUnBmZGNUMG9UZnVDS21XNURZ?oc=5",
    "published_utc": "2026-11-17T06:57:41+00:00",
    "title_original": "11月17日央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -12714,7 +12733,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7f1cb8ded58a6cc3"
+   "id": "28378f245f927380"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51877,23 +51896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b584fb43e2cd0cad"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcy1XMnJsZEJsNUwxOVB1LWhGV2dXellEM1dVVmYxc0ZKYk9oMEs2WEJGcmZsLWFiUUQxREdWOFFvUXYwV2VUWHF6M2NBbURtWVJqWHd2clVISmdKVGEzQzdJRngwcUFPYUlBZFJndG5WRTBUcENrUG9Hci1NMGxpSFV5X3hRWXdmZ05ISkpwZUpaRmdTemFrYXk5Qk1BbWN2dEZXY05hTS1lWHc2QTQtZ1NB?oc=5",
-   "published_utc": "2026-10-29T07:44:38+00:00",
-   "title_original": "Chipmaker SK Hynix to return $75 billion to shareholders after record profit",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2dd137aef65bc7fa"
   },
   {
    "source_id": "manual_ia",
