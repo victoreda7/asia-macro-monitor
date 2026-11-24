@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T09:42:44.256874+00:00
+Última coleta: 2026-11-24T09:52:49.594008+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1005
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
+  - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
   - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
   - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
   - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
@@ -43,7 +45,6 @@ Total: 3000 manchetes
   - [china] Key facts: Cranswick profit up; Hull store approved for China exports
   - [china] EU sets limits on hybrid car imports from China and other countries
   - [china] China National Chemical Engineering's January-October Contracts Totalled 313.3 Billion Yuan
-  - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [korea] Worldex Industry & Trading To Acquire Real Estate Worth 44 Billion Won
   - [taiwan] Taoyuan airport's Terminal 3 set to open Dec. 25, 2027: Minister
   - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s central bank seen extending rate hikes as inflation and chip exports remain strong
   - [korea] Micron recruits Korean chip engineers for Asian operations
   - [korea] Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix
-  - [korea] Goldman Sachs “The Bank of Korea’s base interest rate of 3.5% next year is the upper end… The won price per do
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T09:42:44+00:00",
+      "published_utc": "2026-11-24T09:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

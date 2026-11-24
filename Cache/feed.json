@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-24T09:42:44.256874+00:00",
- "collected_at_utc": "2026-11-24T09:42:44.256874+00:00",
+ "generated_at_utc": "2026-11-24T09:52:49.594008+00:00",
+ "collected_at_utc": "2026-11-24T09:52:49.594008+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 340,
   "korea": 693
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 28.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:07:00+00:00"
+   "newest": "2026-11-24T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T09:38:01+00:00"
+   "newest": "2026-11-24T09:48:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T07:22:20+00:00"
+   "newest": "2026-11-24T09:50:56+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T08:59:00+00:00"
+   "newest": "2026-11-24T08:50:32+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T18:37:07+09:00"
+   "newest": "2026-11-24T18:47:24+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 16,
    "error": "",
    "newest": "2026-11-24T09:36:35+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T09:41:40+00:00"
+   "newest": "2026-11-24T09:52:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-24T08:51:58+00:00"
+   "newest": "2026-11-24T09:50:22+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T08:32:24+00:00"
+   "newest": "2026-11-24T08:30:06+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -345,6 +345,41 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Councilors special committee",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80414",
+   "published_utc": "2026-11-24T09:47:24+00:00",
+   "title_original": "消費税減税の効果などめぐり意見 参院特別委の中央公聴会",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "41051ff6631c0d5f"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "UBS sees USD/JPY at 158 through 2027 on rate differentials",
+   "url": "https://www.investing.com/news/forex-news/ubs-sees-usdjpy-at-158-through-2027-on-rate-differentials-93CH-5047434",
+   "published_utc": "2026-11-24T09:44:12+00:00",
+   "title_original": "UBS sees USD/JPY at 158 through 2027 on rate differentials",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "61b29c154d340932"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "ThePaper.cn",
    "title_en": "Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year",
@@ -364,10 +399,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
+   "source_name": "Sohu",
    "title_en": "Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorrow, and the yields on government bonds will rise and fall.",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kam9sRjNIOG5FcWhMSngxbGVPSUJBbEtPZ05qT1d1LWxxUUtSdVdKdzdsR1YwYUN6R09qWnEtM2xYR19PSE1KNw?oc=5",
-   "published_utc": "2026-11-24T09:34:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWE5dEJ6aXo5ZVViSm1jblV4cmVWbm93SVhndjZ5aHlMVFowZ2s4d05fTjZRbm5iQUZTZzlrUjdYc1JMbTB0V1hmQVRpME10SlZHRzU3aHJoRGZpSmdOeVd5a1F3R2VfZXVmQ2pJUTlNYktTU2RoX2pKWEdzZk1GRDk2TWN3RFdP?oc=5",
+   "published_utc": "2026-11-24T09:32:00+00:00",
    "title_original": "债市收盘|央行明日开展5000亿7天逆回购操作，国债收益率表现涨跌不一",
    "region": "china",
    "topics": [
@@ -378,14 +413,14 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "132043bda4f0adb4"
+   "id": "dd8a8e3f6677ca02"
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "京报网",
    "title_en": "The central bank will launch a 500 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmVQNzVUYnlkeEpRT0hPd3l4MlBoVzI0YXpheXMtWU9lemtDS1UtZ3VjcHp5clNhSHIxdEVBcl9Xa1NxaWRPeDFYME04djFhbjkzTU9XSGxFZ0RHNV8tRlRqQUFaazhxdmI1MGlxRGFTY3VTbVg4d2Z3cmV2ZUxETE9SNVZhdmljQk02ZQ?oc=5",
-   "published_utc": "2026-11-24T09:34:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qd2ZpNVdBVnJ2TE9iUGQ2SThGc2hpTlJtRHVfWjlSN2NzdVFnZWdlcDNHeFBibXM0Ynd4Ulp2MkMwa2Z0V2FWRm9DSERzQUFPblM0ajliUFBwdGNjTXc?oc=5",
+   "published_utc": "2026-11-24T09:31:38+00:00",
    "title_original": "央行将开展5000亿元7天期逆回购操作",
    "region": "china",
    "topics": [
@@ -396,7 +431,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2a7c3d7fdbe11d03"
+   "id": "0c9cbd82953e7626"
   },
   {
    "source_id": "tradingview_live",
@@ -798,24 +833,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d1bdab91fa25ef03"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Councilors special committee",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80414",
-   "published_utc": "2026-11-24T07:39:55+00:00",
-   "title_original": "消費税減税の効果などめぐり意見 参院特別委の中央公聴会",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "41051ff6631c0d5f"
   },
   {
    "source_id": "tradingview_live",
@@ -1528,10 +1545,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "资鲸",
    "title_en": "The central bank launched a 516 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWp4SU5xZzF6R3pid25vVTJkazhrY19WY1Y2ck02dkRObV9KWENZR183bkVaazBFZVk5MkNNb3JyZVFGa3pzWnc5UVk1QnpuZHh2YTA5VXFOa2ZGVHhaU3pCeUVISGUyQ2ZZc0UxUk1FQTV5RW1Yc0pVNHFqNmR6TEdXOUhIb0x2QVlBYw?oc=5",
-   "published_utc": "2026-11-24T02:00:20+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMW9pc2hCZWVfQ2ZGQ1p5aFBVOHVfbnNZZzZQX1hyUGUxMmh3RlRoa1g1MmNVcGp0b0ZtWXZOQzlPcUJUa2xPWHoycy10aUxscU1HaFBvMjNwY0pZMmZOT1k0RTNFYTJOSE9JaVgxaF9nN3lvc3JyQlk4YkhJUklWSVlzbGlTRlB6RHlLRExiczZOZw?oc=5",
+   "published_utc": "2026-11-24T01:50:17+00:00",
    "title_original": "央行今日开展5160亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -1542,7 +1559,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "10dafac6ae39d1a1"
+   "id": "ad4a924554f69eed"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -11107,7 +11124,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -11119,7 +11136,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51884,23 +51901,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9c552b6fb3f75e11"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029020249:0-nikkei-may-decline-ahead-of-boj-rate-decision-market-talk/",
-   "published_utc": "2026-10-29T23:45:00+00:00",
-   "title_original": "Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c03cc0c8b28b0393"
   },
   {
    "source_id": "manual_ia",
