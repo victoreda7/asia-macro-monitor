@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T11:33:00.920430+00:00
+Última coleta: 2026-11-24T11:42:49.310337+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Yen Falls Against Majors
   - [china] The central bank will carry out 800 billion yuan of MLF operations, and the total amount of liquidity operatio
   - [taiwan] Industrial production up 32nd straight month on strong AI demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi roars back above 5,000 as Huang’s return ignites chip, robotics rally
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [japan] Bank of Japan governor's remuneration: 39.06 million yen in FY2016 (Jiji Press)
-  - [taiwan] M Stanley: Greater CN Tech Hardware Fundamentals in 2027 Better Than Expected; Top AI Supply Chain Picks Inclu
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T11:33:01+00:00",
+      "published_utc": "2026-11-24T11:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
