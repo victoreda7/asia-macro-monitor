@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T02:03:01.379822+00:00",
- "collected_at_utc": "2026-11-24T02:03:01.379822+00:00",
+ "generated_at_utc": "2026-11-24T02:12:42.354582+00:00",
+ "collected_at_utc": "2026-11-24T02:12:42.354582+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1023,
-  "china": 951,
+  "china": 952,
   "taiwan": 337,
-  "korea": 689
+  "korea": 688
  },
- "elapsed_s": 48.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T19:01:40+00:00"
+   "newest": "2026-11-24T02:06:40+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-20T23:00:00+09:00"
+   "newest": "2026-11-24T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 15,
    "error": "",
    "newest": "2026-11-24T01:50:37+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T02:01:33+00:00"
+   "newest": "2026-11-24T02:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T00:50:02+00:00"
+   "newest": "2026-11-24T01:35:33+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japanese bond yields fall as lower oil prices ease inflation concerns",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4710PL:0-japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/",
+   "published_utc": "2026-11-24T02:09:24+00:00",
+   "title_original": "Japanese bond yields fall as lower oil prices ease inflation concerns",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "57ac2ca22b7d8e35"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'",
@@ -378,6 +395,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ad4a924554f69eed"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "On November 24, the central bank launched a 516 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW1MSENQVnRvYmM2UTdMZl94b0YtczA0Q1VPMWdlWnNncGEtc0dpd2tqT0xMYkxHTmVOdWg2X1VMdjMtX2EwUnpLX2U1TVhDeEFFRFlYZk42VHozOXRXN3ZFdXQzRFFaU3N6Zzl1a0I2VHV5ZFc2dW1TaVhZa2owdnhuZ09kemc2?oc=5",
+   "published_utc": "2026-11-24T01:47:54+00:00",
+   "title_original": "11月24日央行开展5160亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4375a857de18c5c8"
   },
   {
    "source_id": "tradingview_live",
@@ -5406,8 +5441,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -5421,13 +5456,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5439,7 +5474,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5647,8 +5682,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -5661,7 +5696,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5929,7 +5964,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRxSzZfQ25RNy1OVGFKWkJxSU9GMkpabHFqLVBmaHJyZHhpQVhhbXd1T3NRM0lEam9XZDJrUVRLaVNELXR4d2F0TWVuUnpBcXZBYjQtRUE1TjFMRW5vd1BIdkhwVDJ2MDNEd1U3RjVLdGZCWld6X3hEWUk5STc5Q1VUSUJPSUE1dHNERnE5VzcwZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXdQTmZKMFpLNzdUTFJaYlRuVlVPaDRTMEJmTm04N0ExMjBCX2IwSV9rQmNMZVhHNzF3Z1FkTkc1Z29jZl81NXJFdms0bFpNM05JVC1aRGRtMW03MFlXTkZEZXZ6ZmdfYklaajBvSU5yNlFtQmY0UEJza0M5aUZOdHlSSmstWVNPU3dGRDByZzNqQQ?oc=5",
    "published_utc": "2026-11-20T01:34:08+00:00",
    "title_original": "央行今日开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -5941,7 +5976,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d34fd15a040debf5"
+   "id": "ae0f2f94a425ee29"
   },
   {
    "source_id": "mof_jp",
@@ -7203,8 +7238,8 @@
    "id": "26dafa541d940f2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Next fiscal year's tax reform: LDP tax review begins discussion; issues include correction of tax revenue disparity",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78555",
    "published_utc": "2026-11-19T13:02:00+00:00",
@@ -7218,7 +7253,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "61b246b3e1b6dcd5"
+   "id": "d0db77cd82ac908f"
   },
   {
    "source_id": "focus_taiwan",
@@ -7547,8 +7582,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -7562,7 +7597,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -8277,8 +8312,8 @@
    "id": "0ed7dafe1c0ec51f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama plans to leave stock valuation of unlisted companies to tax authorities",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78296",
    "published_utc": "2026-11-19T03:59:00+00:00",
@@ -8291,7 +8326,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f8a791b718e538dc"
+   "id": "1a9be2a95b71a2a2"
   },
   {
    "source_id": "korea_herald_biz",
@@ -8731,6 +8766,24 @@
    "id": "49bc7f28924483ee"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "published_utc": "2026-11-18T22:55:40+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "55af98a494c201f9"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Bank of Japan to raise interest rates in December and again by end-March, economists say",
@@ -8831,24 +8884,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f9d1f1e8c938658"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "nhk_politics",
@@ -9923,7 +9958,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -9935,7 +9970,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51859,41 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e43140f28cfbbaeb"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is established, the Liberal Democratic Party will chair it”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261029de67850",
-   "published_utc": "2026-10-29T07:28:00+00:00",
-   "title_original": "参院自民 消費税減税法案“特別委設置なら自民が委員長を”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c938698122404dc6"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "About 8 out of 10 adults approve the plan to raise the individual consumption tax on cigarettes by 3..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XUTJkS1didXMxSmtybjJUbWktTXZZVF95T1liNnRvT0stcFhxTXFjSER4UUpIZ0djSmxiZENKWG9KRHJmNURYN19LczE4cm5WOWc?oc=5",
-   "published_utc": "2026-10-29T07:26:27+00:00",
-   "title_original": "About 8 out of 10 adults approve the plan to raise the individual consumption tax on cigarettes by 3..",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5b40b84bd70f3845"
   },
   {
    "source_id": "manual_ia",

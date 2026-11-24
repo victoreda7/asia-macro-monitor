@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T02:03:01.379822+00:00
+Última coleta: 2026-11-24T02:12:42.354582+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
-  🇨🇳 China          951
+  🇨🇳 China          952
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  689
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese bond yields fall as lower oil prices ease inflation concerns
   - [japan] Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
+  - [china] On November 24, the central bank launched a 516 billion yuan overnight reverse repurchase operation.
   - [china] CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation with an interest rate of 1
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7111 TUES VS 6.7120
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's unemployment rate lowest in 26 years for October
   - [china] China, EU officials discuss exchange rates as central bank chief Pan urges cooperation
   - [china] China's claim on Trump's Taiwan stance signals no U.S. policy shift: Scholars
-  - [japan] Regional banks and others significantly raise interest rates on fixed deposits
-  - [china] Zhongji Innolight Plans A-Share Buyback With 2-4 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T02:03:01+00:00",
+      "published_utc": "2026-11-24T02:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
