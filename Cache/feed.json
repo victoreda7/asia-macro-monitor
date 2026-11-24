@@ -1,23 +1,23 @@
 {
- "generated_at_utc": "2026-11-24T01:22:51.420110+00:00",
- "collected_at_utc": "2026-11-24T01:22:51.420110+00:00",
+ "generated_at_utc": "2026-11-24T01:32:42.083583+00:00",
+ "collected_at_utc": "2026-11-24T01:32:42.083583+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1023,
-  "china": 948,
+  "china": 947,
   "taiwan": 337,
-  "korea": 692
+  "korea": 693
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
    "newest": "2026-11-24T08:50:00+09:00"
   },
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T10:25:00+00:00"
+   "newest": "2026-11-19T10:39:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T00:11:14+00:00"
+   "newest": "2026-11-24T00:30:51+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-24T01:12:19+00:00"
+   "newest": "2026-11-24T01:20:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T08:13:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T10:19:14+09:00"
+   "newest": "2026-11-24T10:19:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T09:24:00+09:00"
+   "newest": "2026-11-24T10:28:31+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 14,
+   "count": 26,
    "error": "",
    "newest": "2026-11-23T03:14:16+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T21:46:18+00:00"
+   "newest": "2026-11-23T20:51:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T01:21:01+00:00"
+   "newest": "2026-11-24T01:31:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T00:11:37+00:00"
+   "newest": "2026-11-23T21:20:24+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,11 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:02:32+00:00"
+   "newest": "2026-11-24T01:24:34+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "시사캐스트",
+   "title_en": "[Economy Focus] Will the Bank of Korea Monetary Policy Committee raise the base interest rate on the 26th?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yZ3N4bTEwSk1MVV83bGZqX1FDTmtPX0E4bkF0RHFVODQxM29vUFUxcXB2aU1rRE5QTHVPaFo4anF0VTZ1Q0tWTGNablB0bHU4eFJhazU1YzFka2I2UUowSzV1alVlXzVp?oc=5",
+   "published_utc": "2026-11-24T01:24:34+00:00",
+   "title_original": "[경제포커스] 한은 금통위, 26일 기준금리 인상할까?",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7484ef295b1f1b37"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -5305,7 +5323,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5317,7 +5335,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5807,7 +5825,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXdQTmZKMFpLNzdUTFJaYlRuVlVPaDRTMEJmTm04N0ExMjBCX2IwSV9rQmNMZVhHNzF3Z1FkTkc1Z29jZl81NXJFdms0bFpNM05JVC1aRGRtMW03MFlXTkZEZXZ6ZmdfYklaajBvSU5yNlFtQmY0UEJza0M5aUZOdHlSSmstWVNPU3dGRDByZzNqQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRxSzZfQ25RNy1OVGFKWkJxSU9GMkpabHFqLVBmaHJyZHhpQVhhbXd1T3NRM0lEam9XZDJrUVRLaVNELXR4d2F0TWVuUnpBcXZBYjQtRUE1TjFMRW5vd1BIdkhwVDJ2MDNEd1U3RjVLdGZCWld6X3hEWUk5STc5Q1VUSUJPSUE1dHNERnE5VzcwZw?oc=5",
    "published_utc": "2026-11-20T01:34:08+00:00",
    "title_original": "央行今日开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -5819,7 +5837,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ae0f2f94a425ee29"
+   "id": "d34fd15a040debf5"
   },
   {
    "source_id": "mof_jp",
@@ -8609,6 +8627,24 @@
    "id": "49bc7f28924483ee"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "published_utc": "2026-11-18T22:55:40+00:00",
+   "title_original": "央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "55af98a494c201f9"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Bank of Japan to raise interest rates in December and again by end-March, economists say",
@@ -8709,24 +8745,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f9d1f1e8c938658"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
-   "published_utc": "2026-11-18T21:25:39+00:00",
-   "title_original": "央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "nhk_politics",
@@ -12525,24 +12543,6 @@
    "id": "96aba4ebe10e1130"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "人民政协网",
-   "title_en": "On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY3hReTlZY0lpVzBPQmZjOGdYS1l1X1NpQnM3dHc1LWFvdU1xU2tFQ2JVRHppenJIYTlhR2lJR3kxU0I5dDdjeFFUeXBPUnBmZGNUMG9UZnVDS21XNURZ?oc=5",
-   "published_utc": "2026-11-17T06:57:41+00:00",
-   "title_original": "11月17日央行开展7140亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "28378f245f927380"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Secondhand Home Prices Rise in Fewer Major Chinese Cities",
@@ -13305,6 +13305,24 @@
    "live_wire": false,
    "manual": false,
    "id": "4c0c50a7e12c2176"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00aFNMQU1KQXFqOUFCTUZxRFJKcW13N2NLQ3Z3UVhKc25zRW5MNjFVcWtHbFA5cVZlcVVURmZveG5NNE9Ka0Vkdk04Y2xFZUFiVHhHaWsxbVRMb3A5OWp1MXY5SkV2cHRL?oc=5",
+   "published_utc": "2026-11-17T01:35:25+00:00",
+   "title_original": "11月17日央行开展7140亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5f6015796db7a2d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -48862,6 +48880,23 @@
    "id": "ec0383c36a0d6120"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China Elevates Military Leader to Politburo, Ratifies Party Expulsions",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkMtSGdTZ0Nwby1nVFJ1R0NBOHJRQ0ZWSnF4bmNFM0FiWFpJUDVHUHJLREIwTnRNaHdZWDRsaG52T3FMTWdkcHBpWWRGeklva29Ddkt3Z1l1bXl5UzNwS21CWUxoOVZ3MFZyQVdYdkhZRFl5bWVkdllKVTdUY0t3UnR6Y0Nhd3BYN19kb0RZUWJxSlVQejdZMWxzbUJmVnotbERTb0NXdVpVOGVfWE1lR0lYX2gtcHAxaVEwazJfNjlCNnM?oc=5",
+   "published_utc": "2026-10-30T07:00:00+00:00",
+   "title_original": "China Elevates Military Leader to Politburo, Ratifies Party Expulsions",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2d3b6fabe945950"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BOJ sees 2% inflation target generally hit, holds policy rate steady",
@@ -49055,23 +49090,6 @@
    "live_wire": false,
    "manual": false,
    "id": "317a9720fc780cc9"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Elevates Military Leader to Politburo, Ratifies Party Expulsions",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkMtSGdTZ0Nwby1nVFJ1R0NBOHJRQ0ZWSnF4bmNFM0FiWFpJUDVHUHJLREIwTnRNaHdZWDRsaG52T3FMTWdkcHBpWWRGeklva29Ddkt3Z1l1bXl5UzNwS21CWUxoOVZ3MFZyQVdYdkhZRFl5bWVkdllKVTdUY0t3UnR6Y0Nhd3BYN19kb0RZUWJxSlVQejdZMWxzbUJmVnotbERTb0NXdVpVOGVfWE1lR0lYX2gtcHAxaVEwazJfNjlCNnM?oc=5",
-   "published_utc": "2026-10-30T06:28:00+00:00",
-   "title_original": "China Elevates Military Leader to Politburo, Ratifies Party Expulsions",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2d3b6fabe945950"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51877,23 +51895,6 @@
    "live_wire": false,
    "manual": false,
    "id": "18214341837eeb5e"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Ahead of European talks, Beijing wary of forced yuan appreciation: analysts",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1QxMzdGbVR3RnNuSVByekVIUXNIdlltNnZRTndETDNQMUYwcnBoY0JkSGQ4Y01uNjVNX0l3RXBSdkxOcWhTTjA1QVBiMVJUTGcxNF9VYUdqSWdFT2VLSkZBM2F2Q0FFM1BXUkpJZWpQaHFLUUVXS2JMeEdZZDd0NVM3RWN5UmJUX0JESE9iS0ZNbUYxbXZnQm81TE9teWcyUGhhdlNxdk8yQ25SU19Mdk01TzJhWHNDcFpFdmM3VUM2TzdLd0NaRWxR0gHKAUFVX3lxTE5VcThtb0xCcGJJWWJ6VjZfUE9adDBjUUg5eG1zSU5ITEktWC1GNTJJcFo1b3VBcjJhWW9LNmxzcndIRlc2U1lxUEVEbjdTLUZvNjZ2aEdkZmNoa1FtRDJIamRKT1JjWC1PWUtLSEFVdG9GbS16SmI1dnRELVd5dWYta3ZLNUZuV1FPUUxaTDhYXzExa2FvZW9FSE5fUGlodmE5TnZmb3JlV243Qkl3eVF2T1h2ZzZkcmtZU0RHNVk4aUE4NDF4cUdsalE?oc=5",
-   "published_utc": "2026-10-29T07:00:06+00:00",
-   "title_original": "Ahead of European talks, Beijing wary of forced yuan appreciation: analysts",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "289148739c49855e"
   },
   {
    "source_id": "manual_ia",
