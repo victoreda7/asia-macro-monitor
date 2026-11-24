@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T11:02:43.883399+00:00
+Última coleta: 2026-11-24T11:12:55.260291+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          998
-  🇨🇳 China          968
+  🇯🇵 Japão          995
+  🇨🇳 China          971
   🇹🇼 Taiwan         341
   🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Huawei says it has homegrown answer to US chip design tool curbs
   - [taiwan] Why Taiwan’s chip industry welcomes Jensen Huang’s Nvidia comeback
+  - [china] After the three meetings between Sichuan and Xi, Beijing extended the suspension of the ban on exports of gall
   - [china] The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year
   - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
   - [china] Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD
@@ -28,7 +30,6 @@ Total: 3000 manchetes
   - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
   - [china] China, India set for record Russian oil imports in 2026, but demand seen peaking
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
-  - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [japan] Prime Minister Takaichi instructs Finance Minister Katayama to formulate the second supplementary budget for F
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
@@ -36,6 +37,8 @@ Total: 3000 manchetes
   - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
   - [taiwan] TSMC eyes US$22.6 billion Texas campus for 2nm chips
+  - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
+  - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [japan] Interview: Whether the Bank of Japan will raise interest rates to 2% next year, difficult to judge due to econ
   - [china] EU sets limits on hybrid vehicle imports from China and other countries
   - [china] The central bank will carry out 800 billion yuan MLF operation
@@ -44,7 +47,6 @@ Total: 3000 manchetes
   - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
   - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
   - [china] EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports
-  - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
   - [china] China's central bank to carry out 500 billion yuan of 7-day reverse repos
   - [china] The central bank will launch a 500 billion yuan reverse repurchase operation
   - [korea] Kospi roars back above 5,000 as Huang’s return ignites chip, robotics rally
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] a trillion dollars in exports. I wrote another miracle. It has increased 10,000 times in 62 years si..
   - [japan] Japan's Rakuten cancels $1.26 bond issuance, filing shows
   - [taiwan] TSMC Unit Seeks Texas Property Tax Cap for Proposed $22.6 Billion Chip Factory
-  - [taiwan] TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility
-  - [japan] BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T11:02:44+00:00",
+      "published_utc": "2026-11-24T11:12:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
