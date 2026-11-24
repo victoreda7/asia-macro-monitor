@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T09:52:49.594008+00:00
+Última coleta: 2026-11-24T10:02:49.258501+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1005
-  🇨🇳 China          962
+  🇯🇵 Japão          1004
+  🇨🇳 China          963
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
   - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
@@ -25,7 +26,6 @@ Total: 3000 manchetes
   - [china] EU sets limits on hybrid vehicle imports from China and other countries
   - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials
-  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
   - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Japan's Rakuten cancels $1.26 bond issuance, filing shows
   - [taiwan] TSMC Unit Seeks Texas Property Tax Cap for Proposed $22.6 Billion Chip Factory
   - [taiwan] TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility
+  - [china] EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports
   - [japan] BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says
   - [japan] Japan accelerates ICC funding as US sanctions threaten court
   - [china] Key facts: Cranswick profit up; Hull store approved for China exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The KOSPI jumped more than 6% on the 24th, recovering to the 5,000-point level. Samsung Electronics
   - [korea] South Korea’s central bank seen extending rate hikes as inflation and chip exports remain strong
   - [korea] Micron recruits Korean chip engineers for Asian operations
-  - [korea] Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T09:52:49+00:00",
+      "published_utc": "2026-11-24T10:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
