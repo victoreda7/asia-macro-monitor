@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T04:22:41.658659+00:00
+Última coleta: 2026-11-24T04:32:47.666452+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
   🇨🇳 China          955
-  🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  683
+  🇹🇼 Taiwan         339
+  🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO
   - [japan] Dependency deduction for relatives living overseas: Requirements to be tightened in next year's tax reform
   - [china] China cobalt prices surge to three-month high as Congo bans exports
   - [taiwan] Why is TSMC stock surging today?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Why SK hynix stock is trading up today
   - [taiwan] Taiwan Semiconductor Stocks Jump 13.84% as Nvidia CEO Return Revives AI Foundry Bets
   - [taiwan] TSMC Stock Faces China Fallout, but Wall Street Sees a Bigger Story
-  - [taiwan] Why is Taiwan Semiconductor Manufacturing stock surging today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T04:22:41+00:00",
+      "published_utc": "2026-11-24T04:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
