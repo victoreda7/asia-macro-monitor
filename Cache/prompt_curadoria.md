@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T23:03:30.590103+00:00
+Última coleta: 2026-11-24T23:12:44.678818+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
-  🇨🇳 China          995
+  🇯🇵 Japão          974
+  🇨🇳 China          996
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
+  - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
   - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
   - [japan] Why do companies choose the "employment support business" despite constant criticism of "separation of people 
@@ -46,7 +47,6 @@ Total: 3000 manchetes
   - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
   - [china] China probes Shanghai party boss, Politburo's Chen Jining
-  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations
   - [japan] Yen Falls Amid Global AI Sector Revival
   - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T23:03:30+00:00",
+      "published_utc": "2026-11-24T23:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
