@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T00:04:46.742886+00:00
+Última coleta: 2026-11-24T00:12:41.335915+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1021
+  🇯🇵 Japão          1022
   🇨🇳 China          949
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  693
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
   - [japan] Due to the French financial crisis...President Macron proposes the introduction of the ``Golden Rule'' fiscal 
   - [japan] Japan PMI Data Due On Tuesday
   - [japan] Scholarship interest rates soar, calls for burden reduction
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar edges off 19-month high after stocks rout; yen softens By Reuters
   - [korea] The Bank of Korea is likely to raise the base interest rate to 3.25% in November... All 14 experts predict ‘ra
   - [korea] AI chip boom lifts Samsung Electro-Mechanics ahead of LG Innotek in substrate profits
-  - [korea] Park Jong-bok, former president of SC First Bank, has been selected as the next chairman of the Nati..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T00:04:46+00:00",
+      "published_utc": "2026-11-24T00:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

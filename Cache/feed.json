@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T00:04:46.742886+00:00",
- "collected_at_utc": "2026-11-24T00:04:46.742886+00:00",
+ "generated_at_utc": "2026-11-24T00:12:41.335915+00:00",
+ "collected_at_utc": "2026-11-24T00:12:41.335915+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1021,
+  "japan": 1022,
   "china": 949,
   "taiwan": 337,
-  "korea": 693
+  "korea": 692
  },
- "elapsed_s": 153.5,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:32:17+00:00"
+   "newest": "2026-11-23T20:30:00+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-23T14:19:42+00:00"
+   "newest": "2026-11-24T00:10:57+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-11-23T03:14:16+00:00"
   },
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-22T16:00:00+00:00"
+   "newest": "2026-11-23T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T00:03:34+00:00"
+   "newest": "2026-11-24T00:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-24T08:35:00+09:00"
+   "newest": "2026-11-24T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T12:37:21+00:00"
+   "newest": "2026-11-24T00:03:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'",
+   "url": "https://asia.nikkei.com/business/technology/nikkei-asia-webinar-the-global-chip-game-our-predictions-for-2027",
+   "published_utc": "2026-11-24T00:12:40.787891+00:00",
+   "title_original": "Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "261d1fdf239d9a76"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -51878,24 +51895,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fffe022a4ea0fd55"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "파이낸셜뉴스",
-   "title_en": "Amid ‘excessive demand and high prices’, will the Bank of Korea bring out the ‘hoe’ in November?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EeEtYejZOcUx6eE1mY0tiMGZxZWE3b25iTEJoUWgzeGc0czNVSzhxVlFtVVhob09qUmpsaUVUMnNJVlItbG4yT2lwWFVFYVlzaE9weVYtTlU2dw?oc=5",
-   "published_utc": "2026-10-29T06:45:05+00:00",
-   "title_original": "'과수요·고물가' 속 한은, 11월에 '호미' 꺼내나",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cbb1686322d49fd3"
   },
   {
    "source_id": "manual_ia",
