@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T15:52:41.990280+00:00
+Última coleta: 2026-11-24T16:03:57.677197+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          983
-  🇨🇳 China          989
+  🇯🇵 Japão          982
+  🇨🇳 China          990
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [china] China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China to Suspend Some Critical-Material Export Curbs to U.S. Until January
   - [japan] Japanese prime minister orders extra budget, economy minister says
   - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
-  - [china] China, India set for record Russian oil imports in 2026, but demand seen peaking
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T15:52:42+00:00",
+      "published_utc": "2026-11-24T16:03:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
