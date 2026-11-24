@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T17:32:42.411938+00:00
+Última coleta: 2026-11-24T17:42:43.342280+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
-  🇨🇳 China          991
+  🇯🇵 Japão          980
+  🇨🇳 China          992
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  688
 
@@ -41,7 +41,6 @@ Total: 3000 manchetes
   - [china] China investigates Politburo member Chen Jining, Xinhua says
   - [japan] Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk
   - [china] Chinese cobalt firms race to beat DR Congo’s export ban on key battery material
-  - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
   - [china] The central bank recently announced that it will carry out 800 billion yuan of MLF operations
   - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [japan] Yen Falls Against Majors
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] China extends pause in controls on critical mineral exports to US
   - [china] China to Suspend Some Critical-Material Export Curbs to U.S. Until January
+  - [japan] Japanese prime minister orders extra budget, economy minister says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T17:32:42+00:00",
+      "published_utc": "2026-11-24T17:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
