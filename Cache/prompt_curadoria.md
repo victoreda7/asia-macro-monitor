@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T17:04:09.105362+00:00
+Última coleta: 2026-11-24T17:12:42.257274+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          981
@@ -18,12 +18,12 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] Nvidia Faces Fresh China Chip Restrictions Despite Huang's Return
+  - [china] US Readies Tariff Hike on China, EU Goods as Soon as Tuesday
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [china] China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [china] U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF ope
-  - [china] US Readies Tariff Hike on China, EU Goods as Soon as Tuesday
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T17:04:09+00:00",
+      "published_utc": "2026-11-24T17:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
