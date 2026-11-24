@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T06:33:50.307066+00:00
+Última coleta: 2026-11-24T06:42:43.150574+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1021
   🇨🇳 China          954
-  🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  689
+  🇹🇼 Taiwan         335
+  🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
   - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
   - [korea] KB, Hana and Woori banks step up for smaller defense suppliers as exports rise
+  - [korea] Goldman Sachs “Korea expected to grow by 3.2% next year… base interest rate top 3.5%”
   - [china] China's yuan hits three-week high as firm fixing offsets dollar strength
   - [korea] [Issue] The four major banks ‘take a step back’ in NIM even if the base interest rate rises… All decline in th
   - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Rises 9.85%; Foxconn Technology Gains 9.95%
   - [korea] Will the base interest rate rise? Interested in whether bank term deposits will be available at 4% per annum
   - [japan] Number of people in Japan making 100 mil. yen or more doubles over decade
-  - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T06:33:50+00:00",
+      "published_utc": "2026-11-24T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

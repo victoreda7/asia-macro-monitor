@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-24T06:33:50.307066+00:00",
- "collected_at_utc": "2026-11-24T06:33:50.307066+00:00",
+ "generated_at_utc": "2026-11-24T06:42:43.150574+00:00",
+ "collected_at_utc": "2026-11-24T06:42:43.150574+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1021,
   "china": 954,
-  "taiwan": 336,
-  "korea": 689
+  "taiwan": 335,
+  "korea": 690
  },
- "elapsed_s": 98.1,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T06:20:33+00:00"
+   "newest": "2026-11-24T06:35:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-24T06:00:29+00:00"
+   "newest": "2026-11-24T06:20:11+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:33:00+00:00"
+   "newest": "2026-11-24T03:36:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T03:57:00+00:00"
+   "newest": "2026-11-24T05:32:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-24T03:50:26+00:00"
+   "newest": "2026-11-24T06:33:01+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T06:32:44+00:00"
+   "newest": "2026-11-24T06:42:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T04:29:36+00:00"
+   "newest": "2026-11-24T03:38:27+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -518,6 +518,23 @@
    "live_wire": false,
    "manual": false,
    "id": "632225e813ce025b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Goldman Sachs “Korea expected to grow by 3.2% next year… base interest rate top 3.5%”",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZbWZSY0tUOUJERExLaXNDT2lpcjhhSnUyVjRmWmV4T0dTUC1pY3lSbW1xWGJYQVFDUVl6R080OFhiM0ZZLVd3YVd2eklHRlpWdFdiYWV1TVVZR0d6RzhpZtIBYEFVX3lxTFBZbWZSY0tUOUJERExLaXNDT2lpcjhhSnUyVjRmWmV4T0dTUC1pY3lSbW1xWGJYQVFDUVl6R080OFhiM0ZZLVd3YVd2eklHRlpWdFdiYWV1TVVZR0d6RzhpZg?oc=5",
+   "published_utc": "2026-11-24T05:04:27+00:00",
+   "title_original": "골드만삭스 \"한국, 내년 3.2% 성장 전망…기준금리 상단 3.5%\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b771d0e9d8e785c8"
   },
   {
    "source_id": "tradingview_live",
@@ -5944,8 +5961,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -5959,13 +5976,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5977,7 +5994,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6185,8 +6202,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -6199,7 +6216,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -10461,7 +10478,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1dvVTJrTkx0ajJxclFDZnNlRGJ5VUJscGU0NDlEM0gxUDdoLW95YThzRkpYbjdITFA3U0VjS1o5UGp0T0F5cjRNOHFqLUdfa2MteUVsN19vNXZUWnd6ZVh4c0gyNTRTVURYU0ZZLUFXYW9pV2hZY1RDSWVzNXBpbXVmVWtoTzhCQVlSRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -10473,7 +10490,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92f2bb19692c09cf"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51878,24 +51895,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c87dd739fbf99448"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Former President Peng Huainan was also impostored by the central bank: people should not be deceived | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xVWJaRmRaYUh4TEE4T3Y1enU2WFZidkxRNk1yX1hVdmRrcDFoZkFTNnFiNnE1dU1wTzNuQ3NVelFNYVRfVG5kU1FoaGxEcTlrRGNRLVNGNU9qOGtMbXc?oc=5",
-   "published_utc": "2026-10-29T11:58:00+00:00",
-   "title_original": "前總裁彭淮南也遭冒名央行：民眾勿受騙| 產經",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "052ae6de3c3d9c0f"
   },
   {
    "source_id": "manual_ia",
