@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T05:03:03.800755+00:00",
- "collected_at_utc": "2026-11-24T05:03:03.800755+00:00",
+ "generated_at_utc": "2026-11-24T05:12:41.769876+00:00",
+ "collected_at_utc": "2026-11-24T05:12:41.769876+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1024,
+  "japan": 1023,
   "china": 956,
-  "taiwan": 339,
-  "korea": 681
+  "taiwan": 338,
+  "korea": 683
  },
- "elapsed_s": 50.8,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:56:02+00:00"
+   "newest": "2026-11-24T04:22:45+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T04:54:20+00:00"
+   "newest": "2026-11-24T05:00:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T13:15:33+00:00"
+   "newest": "2026-11-24T02:38:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-24T04:26:20+00:00"
+   "newest": "2026-11-24T05:07:08+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T13:48:07+09:00"
+   "newest": "2026-11-24T14:06:49+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 14,
    "error": "",
-   "newest": "2026-11-24T02:00:20+00:00"
+   "newest": "2026-11-24T01:50:37+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T03:18:40+00:00"
+   "newest": "2026-11-23T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T05:02:02+00:00"
+   "newest": "2026-11-24T05:11:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T21:00:07+00:00"
+   "newest": "2026-11-24T02:45:50+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,11 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:39:50+00:00"
+   "newest": "2026-11-24T05:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "KB, Hana and Woori banks step up for smaller defense suppliers as exports rise",
+   "url": "https://www.koreaherald.com/article/10947526",
+   "published_utc": "2026-11-24T05:07:08+00:00",
+   "title_original": "KB, Hana and Woori banks step up for smaller defense suppliers as exports rise",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "632225e813ce025b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -377,6 +394,40 @@
    "live_wire": true,
    "manual": false,
    "id": "caf429ad0e773931"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "자본시장뉴스",
+   "title_en": "[Issue] The four major banks ‘take a step back’ in NIM even if the base interest rate rises… All decline in the third quarter",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fZ0RPbWl3dGVmNmdXUVlBS3RBUDVyQ1F6eDF5d0hwY3FuV2xRN3RHUzNQQi1zUDlQakg0SzFxb0RfUE5SOVNTNG5QSTdTdjZwUVk3SEotN1RzVmNBNkdfOFdfSllZc1U?oc=5",
+   "published_utc": "2026-11-24T05:00:00+00:00",
+   "title_original": "[이슈] 4대 은행, 기준금리 올라도 NIM '뒷걸음'…3분기 일제히 하락",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "adb0b3dcb316e09f"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Micron steps up HBM investment in Taiwan, Singapore",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVJMZWJISVRRUktleHZUdm40VzNBS2t3XzFkQXdlTTlkWkxKUktYMzY2enJEWXI4WkpCcVlKUmVJNXhpaUNOSnVEUTVyY3oxaUQ0QUZSbmE2aTZHanE3R0h5WkJEUTJkeXNHaEk5YVQzclU1NTdsemxqX2xBN2c1UUxsU0pUa0hVSlJfMnJ3bGVQVGNO?oc=5",
+   "published_utc": "2026-11-24T04:22:45+00:00",
+   "title_original": "Micron steps up HBM investment in Taiwan, Singapore",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9de4c00f27db96e"
   },
   {
    "source_id": "tradingview_live",
@@ -658,10 +709,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "资鲸",
    "title_en": "The central bank launched a 516 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWp4SU5xZzF6R3pid25vVTJkazhrY19WY1Y2ck02dkRObV9KWENZR183bkVaazBFZVk5MkNNb3JyZVFGa3pzWnc5UVk1QnpuZHh2YTA5VXFOa2ZGVHhaU3pCeUVISGUyQ2ZZc0UxUk1FQTV5RW1Yc0pVNHFqNmR6TEdXOUhIb0x2QVlBYw?oc=5",
-   "published_utc": "2026-11-24T02:00:20+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMW9pc2hCZWVfQ2ZGQ1p5aFBVOHVfbnNZZzZQX1hyUGUxMmh3RlRoa1g1MmNVcGp0b0ZtWXZOQzlPcUJUa2xPWHoycy10aUxscU1HaFBvMjNwY0pZMmZOT1k0RTNFYTJOSE9JaVgxaF9nN3lvc3JyQlk4YkhJUklWSVlzbGlTRlB6RHlLRExiczZOZw?oc=5",
+   "published_utc": "2026-11-24T01:50:37+00:00",
    "title_original": "央行今日开展5160亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -672,7 +723,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "10dafac6ae39d1a1"
+   "id": "ad4a924554f69eed"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5758,7 +5809,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -5770,7 +5821,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6260,7 +6311,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 379.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRxSzZfQ25RNy1OVGFKWkJxSU9GMkpabHFqLVBmaHJyZHhpQVhhbXd1T3NRM0lEam9XZDJrUVRLaVNELXR4d2F0TWVuUnpBcXZBYjQtRUE1TjFMRW5vd1BIdkhwVDJ2MDNEd1U3RjVLdGZCWld6X3hEWUk5STc5Q1VUSUJPSUE1dHNERnE5VzcwZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXdQTmZKMFpLNzdUTFJaYlRuVlVPaDRTMEJmTm04N0ExMjBCX2IwSV9rQmNMZVhHNzF3Z1FkTkc1Z29jZl81NXJFdms0bFpNM05JVC1aRGRtMW03MFlXTkZEZXZ6ZmdfYklaajBvSU5yNlFtQmY0UEJza0M5aUZOdHlSSmstWVNPU3dGRDByZzNqQQ?oc=5",
    "published_utc": "2026-11-20T01:34:08+00:00",
    "title_original": "央行今日开展3795亿元隔夜逆回购操作",
    "region": "china",
@@ -6272,7 +6323,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d34fd15a040debf5"
+   "id": "ae0f2f94a425ee29"
   },
   {
    "source_id": "mof_jp",
@@ -51844,58 +51895,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0df57a7e354f606e"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi held the 15th Economic and Fiscal Council Meeting in 2026",
-   "url": "https://www.kantei.go.jp/jp/105/actions/202610/29keizai.html",
-   "published_utc": "2026-10-29T09:10:00+00:00",
-   "title_original": "高市総理は令和８年第１５回経済財政諮問会議を開催しました",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "203f98c879c0a817"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AUO sells Taichung plant to TSMC for NT$38.8B, scraps Quanta deal",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHFKQnhmdk55bzlGZW8yZmgxczlYeW1wX3duS21DVzBFU0pHQXdFblUwUDY2dW9VMElpQ2lEdXRGWDlwRl9TM0E3RDNJX21VZDJHWmxDUXpDaURqOUdOdC1kcjZIQnFrZWtxeW8wWFQ5RXpKRlZ6M1BBX25pSUViNndKNzdKdXhsMXBNQ3BfT2h0MkhDTy1Z?oc=5",
-   "published_utc": "2026-10-29T09:06:35+00:00",
-   "title_original": "AUO sells Taichung plant to TSMC for NT$38.8B, scraps Quanta deal",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8f4bea5195144333"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC buys AUO Taichung plant for NT$38.8B; Quanta deal scrapped",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHFKQnhmdk55bzlGZW8yZmgxczlYeW1wX3duS21DVzBFU0pHQXdFblUwUDY2dW9VMElpQ2lEdXRGWDlwRl9TM0E3RDNJX21VZDJHWmxDUXpDaURqOUdOdC1kcjZIQnFrZWtxeW8wWFQ5RXpKRlZ6M1BBX25pSUViNndKNzdKdXhsMXBNQ3BfT2h0MkhDTy1Z?oc=5",
-   "published_utc": "2026-10-29T09:06:35+00:00",
-   "title_original": "TSMC buys AUO Taichung plant for NT$38.8B; Quanta deal scrapped",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "408939512d92e911"
   },
   {
    "source_id": "manual_ia",
