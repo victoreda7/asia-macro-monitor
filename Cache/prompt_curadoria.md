@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T08:12:51.459392+00:00
+Última coleta: 2026-11-24T08:22:41.777007+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1018
@@ -17,9 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says
   - [japan] Japan accelerates ICC funding as US sanctions threaten court
   - [china] Key facts: Cranswick profit up; Hull store approved for China exports
-  - [japan] BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says
   - [china] EU sets limits on hybrid car imports from China and other countries
   - [china] China National Chemical Engineering's January-October Contracts Totalled 313.3 Billion Yuan
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T08:12:51+00:00",
+      "published_utc": "2026-11-24T08:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
