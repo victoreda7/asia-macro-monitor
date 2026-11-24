@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T21:36:38.371449+00:00
+Última coleta: 2026-11-24T21:42:42.796601+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          976
-  🇨🇳 China          995
+  🇯🇵 Japão          975
+  🇨🇳 China          996
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
   - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
   - [japan] Why do companies choose the "employment support business" despite constant criticism of "separation of people 
   - [china] US government restricts AI semiconductor exports to Southeast Asia and Brazil due to suspicions of Nvidia Huan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank recently announced that it will carry out 800 billion yuan of MLF operations
   - [china] The People's Bank of China will launch MLF and 7-day reverse repurchase operations on the same day
   - [japan] Yen Falls Against Majors
-  - [china] The central bank will carry out 800 billion yuan of MLF operations, and the total amount of liquidity operatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T21:36:38+00:00",
+      "published_utc": "2026-11-24T21:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
