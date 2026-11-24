@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T19:22:45.249221+00:00
+Última coleta: 2026-11-24T19:32:59.537157+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [japan] Ibiden Stocks Soar 14.98% as AI Substrate Maker Leads Tokyo's Chip Rebound
   - [japan] Advantest Stocks Jump 12.45% as Tokyo Chip Testers Lead Huang Rebound
   - [china] Nvidia Faces Fresh China Chip Restrictions Despite Huang's Return
@@ -55,7 +56,6 @@ Total: 3000 manchetes
   - [china] The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year
   - [china] Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD
   - [japan] Budget formulation basic policy proposal “Aiming for both a strong economy and fiscal sustainability”
-  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] China extends pause in controls on critical mineral exports to US
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T19:22:45+00:00",
+      "published_utc": "2026-11-24T19:32:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
