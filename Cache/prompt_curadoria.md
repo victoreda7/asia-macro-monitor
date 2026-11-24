@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T01:32:42.083583+00:00
+Última coleta: 2026-11-24T01:42:52.805223+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
-  🇨🇳 China          947
+  🇨🇳 China          949
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  693
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7111 TUES VS 6.7120
   - [korea] [Economy Focus] Will the Bank of Korea Monetary Policy Committee raise the base interest rate on the 26th?
   - [taiwan] TSMC Rises 9.85%; Foxconn Technology Gains 9.95%
   - [korea] Will the base interest rate rise? Interested in whether bank term deposits will be available at 4% per annum
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The Taiwan Affairs Office of the State Council and the Export-Import Bank of China signed a contract to increa
   - [korea] Samsung, SK Hynix’s long-term supply deals with Big Tech hold firm despite market peak fears
   - [china] Consortium in talks to buy LCY's $600 million China chip chemicals business, people say
-  - [china] Yuan Heng Gas Expects Unaudited Consolidated Net Loss Of RMB60 Million For Half-Year
-  - [japan] Rising prices: Even universities and condominiums that emphasize safety are reconsidering their asset manageme
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T01:32:42+00:00",
+      "published_utc": "2026-11-24T01:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
