@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T08:03:03.364220+00:00
+Última coleta: 2026-11-24T08:12:51.459392+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1018
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan accelerates ICC funding as US sanctions threaten court
+  - [china] Key facts: Cranswick profit up; Hull store approved for China exports
   - [japan] BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says
   - [china] EU sets limits on hybrid car imports from China and other countries
   - [china] China National Chemical Engineering's January-October Contracts Totalled 313.3 Billion Yuan
@@ -26,6 +28,7 @@ Total: 3000 manchetes
   - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Market weighs on ‘interest rate hike’
   - [japan] Rakuten Group Inc - Decided To Cancel Issuance Of 200 Billion Yen Corporate Bond
+  - [japan] Japan’s Fujitsu Woos Demand for Alternatives to US, China Chips
   - [china] Economic Watch: China's emerging sectors unleash fresh employment opportunities
   - [taiwan] TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery
   - [korea] The KOSPI jumped more than 6% on the 24th, recovering to the 5,000-point level. Samsung Electronics
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] US chip curbs won’t impact Malaysia’s China ties, PM says
   - [japan] Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is "moderately recovering"
   - [korea] 54 pct of bond experts eye rate hike this week: poll
-  - [korea] 54% of bond market participants “expect an interest rate hike at the Monetary Policy Committee in November”
-  - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
-  - [korea] Economists agree on Bank of Korea interest rate hike in November, Reuters: “One hike next year is likely”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T08:03:03+00:00",
+      "published_utc": "2026-11-24T08:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
