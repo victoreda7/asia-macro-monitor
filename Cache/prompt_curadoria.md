@@ -7,24 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T09:22:44.503438+00:00
+Última coleta: 2026-11-24T09:32:42.853694+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
-  🇨🇳 China          957
+  🇯🇵 Japão          1008
+  🇨🇳 China          960
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [china] EU sets limits on hybrid vehicle imports from China and other countries
+  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
   - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
   - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
+  - [china] China's central bank to carry out 500 billion yuan of 7-day reverse repos
   - [china] The central bank will launch a 500 billion yuan reverse repurchase operation
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
+  - [japan] Bank of Japan governor's remuneration: 39.06 million yen in FY2016 (Jiji Press)
   - [taiwan] M Stanley: Greater CN Tech Hardware Fundamentals in 2027 Better Than Expected; Top AI Supply Chain Picks Inclu
   - [korea] North Korea threatens to shut Swiss office over Russian youth camp sanctions
   - [korea] a trillion dollars in exports. I wrote another miracle. It has increased 10,000 times in 62 years si..
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea Zinc’s $7.4b smelter gains importance amid US-China rivalry
   - [japan] Japan's manufacturing PMI rises to 53.7 in November; services growth slows
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
-  - [korea] Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?
-  - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
-  - [korea] KB, Hana and Woori banks step up for smaller defense suppliers as exports rise
-  - [korea] Goldman Sachs “Korea expected to grow by 3.2% next year… base interest rate top 3.5%”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T09:22:44+00:00",
+      "published_utc": "2026-11-24T09:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
