@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T07:42:43.289714+00:00",
- "collected_at_utc": "2026-11-24T07:42:43.289714+00:00",
+ "generated_at_utc": "2026-11-24T07:52:44.751115+00:00",
+ "collected_at_utc": "2026-11-24T07:52:44.751115+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1019,
-  "china": 952,
+  "china": 953,
   "taiwan": 336,
-  "korea": 693
+  "korea": 692
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T07:39:33+00:00"
+   "newest": "2026-11-24T07:51:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:25:28+00:00"
+   "newest": "2026-11-24T07:22:20+00:00"
   },
   {
    "source_id": "ked_global",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
-   "newest": "2026-11-24T02:00:20+00:00"
+   "newest": "2026-11-24T04:14:31+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T07:42:10+00:00"
+   "newest": "2026-11-24T07:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:07:19+00:00"
+   "newest": "2026-11-24T03:06:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:53:12+00:00"
+   "newest": "2026-11-23T08:05:52+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China National Chemical Engineering's January-October Contracts Totalled 313.3 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4750LD:0-china-national-chemical-engineering-s-january-october-contracts-totalled-313-3-billion-yuan/",
+   "published_utc": "2026-11-24T07:46:49+00:00",
+   "title_original": "China National Chemical Engineering's January-October Contracts Totalled 313.3 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d1bdab91fa25ef03"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -776,6 +793,24 @@
    "live_wire": true,
    "manual": false,
    "id": "2ff946962578d24d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launched a 516 billion overnight reverse repurchase operation! Dividend low-volatility ETF Huatai-PineBridge (512890) led the category with half-day turnover of 604 million yuan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY1Z1ZWk2RENhY2F0RHZ5VzljbnRrdEdvSThfSmtBQmdLS1JYM3pkMUg2TEJyVjVWWC1mU3pFTFFfb19QYjhzYkNPaG05OXJzUzhaN3NpOWdhajRZS0xkWnVlNDVCdldfcHNfVk9XUXJJdVl1cXlKeXZVLW83bUMxWFF1UEhCUQ?oc=5",
+   "published_utc": "2026-11-24T04:14:31+00:00",
+   "title_original": "央行开展5160亿隔夜逆回购操作！ 红利低波ETF华泰柏瑞（512890）半日成交6.04亿元领跑同类",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b10658c86f8820d"
   },
   {
    "source_id": "tradingview_live",
@@ -6100,8 +6135,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -6115,7 +6150,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6341,8 +6376,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -6355,7 +6390,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6852,7 +6887,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스투데이",
    "title_en": "“The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HM0doZ0xBTFM4SzBwNkZCTFlMTGNTMUtpVDNhWER5ZHBFa3YzdldlOVdzbFZfQmpKTHlOZDJqU3oySllCYkhST3U0b0VGVXdTcHFHNXl6eElqUDA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
    "published_utc": "2026-11-20T00:04:00+00:00",
    "title_original": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
    "region": "korea",
@@ -6863,7 +6898,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cc7ec752cb2a6486"
+   "id": "f4534aba4a6affe9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51859,41 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "991dd7e99b3ebe7f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Why are Micron, SK Hynix and SanDisk shares falling on Thursday?",
-   "url": "https://www.tradingview.com/news/invezz:3cd86df21bc81:0/",
-   "published_utc": "2026-10-29T16:04:54+00:00",
-   "title_original": "Por que as ações da Micron, SK Hynix e SanDisk caem na quinta-feira?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "cbdfdc7ba596cbb4"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "国际金融报",
-   "title_en": "Central Bank Shanghai Headquarters: Shanghai social financing increased by 969.3 billion yuan in the first three quarters, and the proportion of direct financing rose to 37.2%",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BaG9aTUZKSElRZzAxd014ejRfZ2VvT2NjOGJSekp2M21HQmE3RWFiajNqWl9abV9GMXlCMmhFMEhFTmg4RU1ET2NxS3U2dFdVdUI4aVlCc3VuY0haemdr?oc=5",
-   "published_utc": "2026-10-29T16:00:58+00:00",
-   "title_original": "央行上海总部：前三季度上海社融增9693亿元，直接融资占比升至37.2%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11c33182ecb0fe1a"
   },
   {
    "source_id": "manual_ia",
