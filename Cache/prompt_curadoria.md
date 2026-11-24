@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T23:42:43.299978+00:00
+Última coleta: 2026-11-24T23:52:43.402660+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          973
-  🇨🇳 China          997
-  🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  690
+  🇯🇵 Japão          974
+  🇨🇳 China          996
+  🇹🇼 Taiwan         339
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
+  - [japan] Services Producer Price Index (Oct.)
+  - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [china] China's Alibaba Health interim profit falls on supply chain investments
-  - [china] China investigates Politburo member Chen Jining, Xinhua says
-  - [japan] Japanese Yen Could Stay Weak Through Most of 2027 — Market Talk
-  - [china] Chinese cobalt firms race to beat DR Congo’s export ban on key battery material
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T23:42:43+00:00",
+      "published_utc": "2026-11-24T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
