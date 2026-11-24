@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T02:52:43.578072+00:00
+Última coleta: 2026-11-24T03:02:42.651984+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
-  🇨🇳 China          952
+  🇯🇵 Japão          1023
+  🇨🇳 China          953
   🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [korea] 54 pct of bond experts eye rate hike this week: poll
   - [japan] Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maxi
   - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
   - [japan] Japanese bond yields fall as lower oil prices ease inflation concerns
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand
   - [china] CBAK Energy Rises to Fourth in China for Large Cylindrical Battery Shipments Through September 2026
   - [japan] USD/JPY to return to the 140s in 2027: Deutsche Bank
-  - [taiwan] Taiwan's unemployment rate lowest in 26 years for October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T02:52:43+00:00",
+      "published_utc": "2026-11-24T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
