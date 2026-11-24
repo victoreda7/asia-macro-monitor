@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T07:22:41.536836+00:00
+Última coleta: 2026-11-24T07:32:43.933613+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1019
-  🇨🇳 China          954
+  🇨🇳 China          952
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [korea] Worldex Industry & Trading To Acquire Real Estate Worth 44 Billion Won
+  - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Market weighs on ‘interest rate hike’
   - [japan] Rakuten Group Inc - Decided To Cancel Issuance Of 200 Billion Yen Corporate Bond
   - [china] Economic Watch: China's emerging sectors unleash fresh employment opportunities
   - [taiwan] TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'
   - [taiwan] Analysis: Taiwan's automakers break into overseas markets, but can exports sustain their momentum?
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
-  - [china] On November 24, the central bank launched a 516 billion yuan overnight reverse repurchase operation.
-  - [china] CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T07:22:41+00:00",
+      "published_utc": "2026-11-24T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
