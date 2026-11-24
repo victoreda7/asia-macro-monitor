@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T01:52:50.350725+00:00
+Última coleta: 2026-11-24T02:03:01.379822+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
+  🇯🇵 Japão          1023
   🇨🇳 China          951
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  690
+  🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
   - [china] CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation with an interest rate of 1
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [korea] [Economy Focus] Will the Bank of Korea Monetary Policy Committee raise the base interest rate on the 26th?
   - [taiwan] TSMC Rises 9.85%; Foxconn Technology Gains 9.95%
   - [korea] Will the base interest rate rise? Interested in whether bank term deposits will be available at 4% per annum
+  - [japan] Number of people in Japan making 100 mil. yen or more doubles over decade
   - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
   - [korea] South Korea’s central bank seen raising rates on Thursday, once more next quarter - Reuters poll
   - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's claim on Trump's Taiwan stance signals no U.S. policy shift: Scholars
   - [japan] Regional banks and others significantly raise interest rates on fixed deposits
   - [china] Zhongji Innolight Plans A-Share Buyback With 2-4 Billion Yuan
-  - [china] LCY’s China chip chemicals business draws $600M takeover interest from HSG-led consortium - report
-  - [china] The Taiwan Affairs Office of the State Council and the Export-Import Bank of China signed a contract to increa
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T01:52:50+00:00",
+      "published_utc": "2026-11-24T02:03:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
