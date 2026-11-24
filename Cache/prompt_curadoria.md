@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T15:12:42.197653+00:00
+Última coleta: 2026-11-24T15:22:42.210624+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          986
-  🇨🇳 China          986
+  🇯🇵 Japão          985
+  🇨🇳 China          987
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  688
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [china] U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF ope
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
+  - [china] US Readies Tariff Hike on China, EU Goods as Soon as Tuesday
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese prime minister orders extra budget, economy minister says
   - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
   - [china] China, India set for record Russian oil imports in 2026, but demand seen peaking
-  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T15:12:42+00:00",
+      "published_utc": "2026-11-24T15:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
