@@ -1,23 +1,23 @@
 {
- "generated_at_utc": "2026-11-24T06:52:50.054432+00:00",
- "collected_at_utc": "2026-11-24T06:52:50.054432+00:00",
+ "generated_at_utc": "2026-11-24T07:03:08.548185+00:00",
+ "collected_at_utc": "2026-11-24T07:03:08.548185+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1020,
+  "japan": 1019,
   "china": 954,
-  "taiwan": 335,
+  "taiwan": 336,
   "korea": 691
  },
- "elapsed_s": 28.1,
+ "elapsed_s": 55.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
    "newest": "2026-11-24T08:50:00+09:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T06:49:44+00:00"
+   "newest": "2026-11-24T06:51:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T05:34:11+00:00"
+   "newest": "2026-11-24T06:53:53+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T15:50:48+09:00"
+   "newest": "2026-11-24T15:55:06+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T03:57:00+00:00"
+   "newest": "2026-11-23T12:32:08+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T03:16:00+00:00"
+   "newest": "2026-11-24T03:36:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T06:51:03+00:00"
+   "newest": "2026-11-24T07:02:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-24T05:52:46+00:00"
+   "newest": "2026-11-24T06:54:39+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T04:30:18+00:00"
+   "newest": "2026-11-24T06:53:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery",
+   "url": "https://www.tradingview.com/news/stocktwits:eb580fafb094b:0-tsmc-samsung-sk-hynix-rally-as-jensen-huang-returns-as-nvidia-ceo-top-analyst-flags-risks-to-ai-recovery/",
+   "published_utc": "2026-11-24T07:00:06+00:00",
+   "title_original": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f37f09ec793af2b8"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The KOSPI jumped more than 6% on the 24th, recovering to the 5,000-point level. Samsung Electronics",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NEEyRGNIVjZHLVFuVlZnZTdOS0RVQ0FhbzA3M0ZuaENxR2Y5T0U1MkFTeGtHNmc0TWlsQTJTaXA5QVRINF9rVUFGeUl1OXM?oc=5",
+   "published_utc": "2026-11-24T06:53:12+00:00",
+   "title_original": "The KOSPI jumped more than 6% on the 24th, recovering to the 5,000-point level. Samsung Electronics",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4c074cd5e0f7a734"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -6019,7 +6053,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -6031,7 +6065,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6750,7 +6784,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스투데이",
    "title_en": "“The Bank of Korea’s base interest rate is expected to reach 3.5% in February next year.”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HM0doZ0xBTFM4SzBwNkZCTFlMTGNTMUtpVDNhWER5ZHBFa3YzdldlOVdzbFZfQmpKTHlOZDJqU3oySllCYkhST3U0b0VGVXdTcHFHNXl6eElqUDA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
    "published_utc": "2026-11-20T00:04:00+00:00",
    "title_original": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
    "region": "korea",
@@ -6761,7 +6795,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cc7ec752cb2a6486"
+   "id": "f4534aba4a6affe9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51861,40 +51895,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d6b6543f5b5b7767"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "The Bank of Korea raised interest rates, and the government raised its lending target... Shin Hyun-song's first National Inspection report, the issue of mismatched beats",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05Z09qYVB6Y3RhdC10Zlp3RG1KeWZDaXJiREFKTDhDV1RrMnJhaVBDc0xvTVNWT3VuTDJ4YmdYT2Y2NnlXTFZSUHc4cFJpclZ4b1FaTGYxR3p3eUVoZkpHOFZ2UQ?oc=5",
-   "published_utc": "2026-10-29T15:11:30+00:00",
-   "title_original": "금리 올린 한은, 대출 목표 높인 정부…신현송 첫 국감서 엇박자 쟁점",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8736aedf1c2e9269"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan plans to start reducing gasoline subsidies from December",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTE5NQnU4Nk1rcEVKRUVyZXdQQTYzbm1LLWFaOENNTzRRRkNfMmxLVl9tMkp0aGFrel9nMUUxdW1qZzJ1NDM3QlFiYkNFOGNRSUl0UFgtMHduc0lwMHlBOXFsb1hqa3RQc2xTWEpyWG01RjdPaEhEbDdPdW5VVlRaWU1BNV9pVzNCOVNlM0JXRHVsV01MSTdOTE5vUDA0aEFPUHFmUC1QXzk2OHlacThtSEhrZF9SaWhXejZrOElsckJ6T08za3lHYVFn?oc=5",
-   "published_utc": "2026-10-29T12:32:09+00:00",
-   "title_original": "Japan plans to start reducing gasoline subsidies from December",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6ed07f2ac2447d0"
   },
   {
    "source_id": "manual_ia",

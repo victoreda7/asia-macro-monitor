@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T06:52:50.054432+00:00
+Última coleta: 2026-11-24T07:03:08.548185+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1020
+  🇯🇵 Japão          1019
   🇨🇳 China          954
-  🇹🇼 Taiwan         335
+  🇹🇼 Taiwan         336
   🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery
+  - [korea] The KOSPI jumped more than 6% on the 24th, recovering to the 5,000-point level. Samsung Electronics
   - [korea] South Korea’s central bank seen extending rate hikes as inflation and chip exports remain strong
   - [korea] Micron recruits Korean chip engineers for Asian operations
   - [korea] Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY516 BLN VIA O/N REVERSE REPO TUES
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation with an interest rate of 1
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7111 TUES VS 6.7120
-  - [korea] [Economy Focus] Will the Bank of Korea Monetary Policy Committee raise the base interest rate on the 26th?
-  - [taiwan] TSMC Rises 9.85%; Foxconn Technology Gains 9.95%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T06:52:50+00:00",
+      "published_utc": "2026-11-24T07:03:08+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
