@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T00:22:41.599458+00:00
+Última coleta: 2026-11-24T00:32:42.143304+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
+  🇯🇵 Japão          1024
   🇨🇳 China          949
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's factory activity expands in November, PMI shows
+  - [japan] Interest Rate (November 20 2026)
+  - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
   - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
   - [japan] Due to the French financial crisis...President Macron proposes the introduction of the ``Golden Rule'' fiscal 
   - [japan] Japan PMI Data Due On Tuesday
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Korean AI chipmakers Rebellions, DEEPX eye global push with new NPUs
   - [korea] POSCO Future M targets next-generation battery anodes with China-free supply chain
   - [taiwan] Chip prices set to rise through 2027, driving semiconductor growth
-  - [japan] Dollar edges off 19-month high after stocks rout; yen softens By Reuters
-  - [korea] The Bank of Korea is likely to raise the base interest rate to 3.25% in November... All 14 experts predict ‘ra
-  - [korea] AI chip boom lifts Samsung Electro-Mechanics ahead of LG Innotek in substrate profits
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T00:22:41+00:00",
+      "published_utc": "2026-11-24T00:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
