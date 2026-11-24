@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T14:32:44.016841+00:00
+Última coleta: 2026-11-24T14:42:44.622858+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          985
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
@@ -45,7 +46,6 @@ Total: 3000 manchetes
   - [taiwan] Why Taiwan’s chip industry welcomes Jensen Huang’s Nvidia comeback
   - [china] After the three meetings between Sichuan and Xi, Beijing extended the suspension of the ban on exports of gall
   - [china] The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year
-  - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
   - [china] Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD
   - [japan] Budget formulation basic policy proposal “Aiming for both a strong economy and fiscal sustainability”
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T14:32:44+00:00",
+      "published_utc": "2026-11-24T14:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
