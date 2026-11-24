@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T20:02:44.624796+00:00
+Última coleta: 2026-11-24T20:12:42.839929+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          978
-  🇨🇳 China          994
+  🇨🇳 China          993
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  688
+  🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [korea] Credo Technology Group Holding, Navitas Semiconductor, SiTime, Rambus, and SK hynix stocks trade down, what yo
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [japan] Ibiden Stocks Soar 14.98% as AI Substrate Maker Leads Tokyo's Chip Rebound
   - [japan] Advantest Stocks Jump 12.45% as Tokyo Chip Testers Lead Huang Rebound
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Why Taiwan’s chip industry welcomes Jensen Huang’s Nvidia comeback
   - [china] After the three meetings between Sichuan and Xi, Beijing extended the suspension of the ban on exports of gall
   - [china] The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year
-  - [china] Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T20:02:44+00:00",
+      "published_utc": "2026-11-24T20:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
