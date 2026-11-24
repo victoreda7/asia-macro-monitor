@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T01:02:51.269332+00:00
+Última coleta: 2026-11-24T01:12:41.902776+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
+  🇯🇵 Japão          1023
   🇨🇳 China          948
-  🇹🇼 Taiwan         336
+  🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Rises 9.85%; Foxconn Technology Gains 9.95%
+  - [korea] Will the base interest rate rise? Interested in whether bank term deposits will be available at 4% per annum
   - [korea] SK hynix's US-traded shares surge 20% after Huang's reinstatement as Nvidia CEO
   - [korea] South Korea’s central bank seen raising rates on Thursday, once more next quarter - Reuters poll
   - [korea] Bank of Korea Set to Raise Rate This Week, Poll Says — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Yuan Heng Gas Expects Unaudited Consolidated Net Loss Of RMB60 Million For Half-Year
   - [japan] Rising prices: Even universities and condominiums that emphasize safety are reconsidering their asset manageme
   - [korea] Jupiter Wagons to manufacture metro coaches, propulsion systems with Korea's Woojin in JV
-  - [china] CapitaLand China Trust: Retail sales grew as leasing and capital actions targeted portfolio resilience
-  - [korea] Bank of Korea Expected to Tighten Policy Twice More in Cycle — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T01:02:51+00:00",
+      "published_utc": "2026-11-24T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
