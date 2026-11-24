@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T09:02:50.119483+00:00
+Última coleta: 2026-11-24T09:12:49.302861+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1016
-  🇨🇳 China          952
+  🇯🇵 Japão          1015
+  🇨🇳 China          953
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
+  - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
+  - [china] The central bank will launch a 500 billion yuan reverse repurchase operation
   - [taiwan] M Stanley: Greater CN Tech Hardware Fundamentals in 2027 Better Than Expected; Top AI Supply Chain Picks Inclu
   - [korea] North Korea threatens to shut Swiss office over Russian youth camp sanctions
   - [korea] a trillion dollars in exports. I wrote another miracle. It has increased 10,000 times in 62 years si..
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN
   - [china] Singapore, China to Deepen Yuan Ties With Focus on Corporates
   - [taiwan] Micron steps up HBM investment in Taiwan, Singapore
-  - [taiwan] TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO
-  - [china] The central bank launched a 516 billion overnight reverse repurchase operation! Dividend low-volatility ETF Hu
-  - [korea] Índice Kospi: Por que Samsung, SK Hynix e SK Square lideram as altas hoje
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T09:02:50+00:00",
+      "published_utc": "2026-11-24T09:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
