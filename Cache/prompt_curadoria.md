@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T14:42:44.622858+00:00
+Última coleta: 2026-11-24T14:52:45.196864+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          985
+  🇯🇵 Japão          986
+  🇨🇳 China          986
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  690
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
+  - [china] U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF ope
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
   - [china] China probes Shanghai party boss, Politburo's Chen Jining
+  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [china] The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations
   - [japan] Yen Falls Amid Global AI Sector Revival
   - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
   - [china] China, India set for record Russian oil imports in 2026, but demand seen peaking
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
-  - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
-  - [japan] Prime Minister Takaichi instructs Finance Minister Katayama to formulate the second supplementary budget for F
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T14:42:44+00:00",
+      "published_utc": "2026-11-24T14:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
