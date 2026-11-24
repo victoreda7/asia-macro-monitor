@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T13:02:59.612595+00:00",
- "collected_at_utc": "2026-11-24T13:02:59.612595+00:00",
+ "generated_at_utc": "2026-11-24T13:12:43.882862+00:00",
+ "collected_at_utc": "2026-11-24T13:12:43.882862+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 988,
-  "china": 978,
+  "japan": 987,
+  "china": 979,
   "taiwan": 342,
   "korea": 692
  },
- "elapsed_s": 39.9,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-24T12:53:21+00:00"
+   "newest": "2026-11-24T13:10:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:50:56+00:00"
+   "newest": "2026-11-24T10:29:40+00:00"
   },
   {
    "source_id": "ked_global",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:44:14+00:00"
+   "newest": "2026-11-24T01:03:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 24,
    "error": "",
-   "newest": "2026-11-24T12:16:18+00:00"
+   "newest": "2026-11-24T13:00:19+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T13:02:00+00:00"
+   "newest": "2026-11-24T13:12:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:07:19+00:00"
+   "newest": "2026-11-24T09:08:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T10:54:43+00:00"
+   "newest": "2026-11-24T12:50:24+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20261124003540:0-u-s-prepares-to-raise-tariffs-on-china-and-other-countries-wsj/",
+   "published_utc": "2026-11-24T13:08:00+00:00",
+   "title_original": "U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e94449c636f9572c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmNVLVphVS1wNVdONjl1c3RSNk5DdVR4UktIei1EVlludllTYlNfdEFXcmZDSElzb2pmRDFXcVdpdDBJVERtTDRLM25CX3ZxWktpUnVTRG9sOElNSVBtUUhYellNdUtpdXdBalNuYzlKY05Edk5oX0pBc2RHLUdscVRLcVVDTTRL?oc=5",
+   "published_utc": "2026-11-24T12:58:00+00:00",
+   "title_original": "央行最新宣布：将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6e347ee681617273"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -1737,23 +1772,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7d1b5de6cdcb7d44"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
-   "url": "https://www.tradingview.com/news/DJN_DN20261124000036:0-chinese-automakers-book-strong-european-growth-ahead-of-import-cap/",
-   "published_utc": "2026-11-24T05:14:00+00:00",
-   "title_original": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "45f569d4024d288d"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3441,7 +3459,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launches 499.5 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ZTVEVWt6NXZKUW0tQW1CY3BucWlMZHdTdVp4dXZBYVlPeXd3STlXZGhwemkzSFlGUGc3SjE1NlFEME5Qb09zZ1R2dkM0QQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rbmJlcWIta2Rmbm5TRmo0VHdrZkxqSVp5c0xJVXR3Y3cwRXpGNUE2YlZ1ZmpPSmExdU1TRmJhVjhwYU5yUGVmZ2hnNGs0RkR1d3FlcGJhZEhjcXlxX1FmMVR3?oc=5",
    "published_utc": "2026-11-23T03:14:16+00:00",
    "title_original": "央行开展4995亿元隔夜逆回购操作",
    "region": "china",
@@ -3453,7 +3471,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1834e3da166896aa"
+   "id": "12a75acfca25700d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7097,8 +7115,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -7112,7 +7130,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7338,8 +7356,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -7352,7 +7370,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -11614,7 +11632,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5RDlQSXEyU0ViRm1BWFg1bEw5RWw3cVIzOURzWWdNdk50LXlqRU9fMEVNTW5vMS1QY2dIZENuaDVDdGRnWF92UVRmVkNEZkRTOE5fZlNvVjJYazhZRVVDRE51aE4tRE9nUGtZVm0zT1htRDZ1RHRuV0ZLWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -11626,7 +11644,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4315a4524b51e517"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51891,23 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "977671d185b74589"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Unemployment rate was 2.4% in September, an improvement of 0.1 points from the previous month Ministry of Internal Affairs and Communications",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68199",
-   "published_utc": "2026-10-30T01:48:00+00:00",
-   "title_original": "完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b01d777277a49078"
   },
   {
    "source_id": "manual_ia",
