@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T13:22:41.791296+00:00
+Última coleta: 2026-11-24T13:32:43.935793+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
+  🇯🇵 Japão          983
   🇨🇳 China          983
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
-  - [china] U.S. prepares to raise tariffs on China, EU other nations – WSJ
+  - [china] U.S. prepares to raise tariffs on China, EU, other nations - WSJ
   - [china] EU Restricts Import Quotas On Hybrid Cars To Curb Chinese Imports
   - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T13:22:42+00:00",
+      "published_utc": "2026-11-24T13:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
