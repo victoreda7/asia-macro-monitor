@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T10:12:43.009751+00:00
+Última coleta: 2026-11-24T10:22:44.904585+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1002
-  🇨🇳 China          966
+  🇯🇵 Japão          1001
+  🇨🇳 China          967
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
-  - [japan] Japanese prime minister orders extra budget, economy minister says
   - [china] China to Suspend Some Critical-Material Export Curbs to U.S. Until January
+  - [japan] Japanese prime minister orders extra budget, economy minister says
+  - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
   - [china] China, India set for record Russian oil imports in 2026, but demand seen peaking
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
+  - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
+  - [japan] Prime Minister Takaichi instructs Finance Minister Katayama to formulate the second supplementary budget for F
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
   - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Worldex Industry & Trading To Acquire Real Estate Worth 44 Billion Won
   - [taiwan] Taoyuan airport's Terminal 3 set to open Dec. 25, 2027: Minister
   - [china] Singapore, China Deepen Yuan Ties With Focus on Corporates
-  - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Market weighs on ‘interest rate hike’
-  - [japan] Rakuten Group Inc - Decided To Cancel Issuance Of 200 Billion Yen Corporate Bond
-  - [japan] Japan’s Fujitsu Woos Demand for Alternatives to US, China Chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T10:12:43+00:00",
+      "published_utc": "2026-11-24T10:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
