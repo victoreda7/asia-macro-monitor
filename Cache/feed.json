@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T12:22:49.370000+00:00",
- "collected_at_utc": "2026-11-24T12:22:49.370000+00:00",
+ "generated_at_utc": "2026-11-24T12:33:15.719139+00:00",
+ "collected_at_utc": "2026-11-24T12:33:15.719139+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 991,
-  "china": 977,
-  "taiwan": 341,
+  "japan": 988,
+  "china": 979,
+  "taiwan": 342,
   "korea": 691
  },
- "elapsed_s": 35.0,
+ "elapsed_s": 58.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T07:07:44+00:00"
+   "newest": "2026-11-24T04:22:45+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 164,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-24T12:19:02+00:00"
+   "newest": "2026-11-24T12:15:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T12:21:47+00:00"
+   "newest": "2026-11-24T12:32:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:07:19+00:00"
+   "newest": "2026-11-24T09:08:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T11:37:45+00:00"
+   "newest": "2026-11-24T10:54:43+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T10:57:00+00:00"
+   "newest": "2026-11-24T12:21:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and ratios | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mODU4RUk4RDZXU2JyNUtCLWkwTGwtWWFpQXVqVFQ0OWNEWkJTekRpZXluMnljOEd6RVlvQWJlU3JoYVl2YnhTMnVsZEZ0c2dmeDc3eDNydWhQaGhBSVE?oc=5",
+   "published_utc": "2026-11-24T12:21:00+00:00",
+   "title_original": "央行預告穩定幣準備金新規明定繳存門檻及比率| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a7e390be7a732600"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "Jiemian.com",
@@ -671,6 +689,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d81fa05ce94cd6b7"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "China extends pause in controls on critical mineral exports to US",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXh2WUNSYmVSZkJLcmJoenphclhBTmJiMGZfOHBXQmhkRXE4UklsLXNoS254QU96QWdDTHFBSkZCQUc2M1JRWF96N3p3a29ka2E5SzlpcDFEb0lLM3ZwVF9PTzJLcm9SOXRaQUhFTzZCR2xNQU9pNDNKSjBVVHoySHoxOG0?oc=5",
+   "published_utc": "2026-11-24T10:21:16+00:00",
+   "title_original": "China extends pause in controls on critical mineral exports to US",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8852634697777158"
   },
   {
    "source_id": "tradingview_live",
@@ -2033,10 +2068,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "新浪财经",
    "title_en": "On November 24, the central bank launched a 516 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW1MSENQVnRvYmM2UTdMZl94b0YtczA0Q1VPMWdlWnNncGEtc0dpd2tqT0xMYkxHTmVOdWg2X1VMdjMtX2EwUnpLX2U1TVhDeEFFRFlYZk42VHozOXRXN3ZFdXQzRFFaU3N6Zzl1a0I2VHV5ZFc2dW1TaVhZa2owdnhuZ09kemc2?oc=5",
-   "published_utc": "2026-11-24T01:47:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yLVJuc3lpWWh4elJBZGtRbHZyS2R5SFB3VVZuM2ZGRVVsVno0OHZ1aEpTUC16SnNzcG8tVlF6MlNxb00yZVNQaVZkeE10LUZSanp0cWYtLVpGYXpRR2N2MkNkMEpJaGdhMHhkNzFwaV8telZIaEpFSw?oc=5",
+   "published_utc": "2026-11-24T01:53:25+00:00",
    "title_original": "11月24日央行开展5160亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -2047,7 +2082,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4375a857de18c5c8"
+   "id": "932ddaea8e1e7d59"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -12274,6 +12309,24 @@
    "live_wire": false,
    "manual": false,
    "id": "093ec95c2d65a49b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launches 700.2 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtaGFPYUNDbXNiVHVlUTktajN4enYyOXBoNUQtdEswcTY4MHdmd2ZvWUZ4ZG5zT2N6ekVpSnhKX09sbC10VGxlZnY4WGp0TkJXQzVYOGh0aTRSUHQ2LXVxZDh0ZUI?oc=5",
+   "published_utc": "2026-11-18T01:23:00+00:00",
+   "title_original": "央行开展7002亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "20c3fc0065e89e59"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51855,60 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "919a0093b26a6b2a"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen gains after BOJ; AI selloff weighs on dollar",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5",
-   "published_utc": "2026-10-30T01:48:00+00:00",
-   "title_original": "Yen gains after BOJ; AI selloff weighs on dollar",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d9c66f42083943dd"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen gains after BOJ holds rates, dollar slips",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5",
-   "published_utc": "2026-10-30T01:48:00+00:00",
-   "title_original": "Yen gains after BOJ holds rates, dollar slips",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "218ffd33538fde03"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen gains after BOJ; AI jitters dent dollar",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5",
-   "published_utc": "2026-10-30T01:48:00+00:00",
-   "title_original": "Yen gains after BOJ; AI jitters dent dollar",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8f431ad8bf580fbd"
   },
   {
    "source_id": "manual_ia",

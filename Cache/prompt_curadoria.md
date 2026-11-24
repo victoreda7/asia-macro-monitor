@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T12:22:49.370000+00:00
+Última coleta: 2026-11-24T12:33:15.719139+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          977
-  🇹🇼 Taiwan         341
+  🇯🇵 Japão          988
+  🇨🇳 China          979
+  🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [china] China's Alibaba Health interim profit falls on supply chain investments
   - [china] China investigates Politburo member Chen Jining, Xinhua says
@@ -36,6 +37,7 @@ Total: 3000 manchetes
   - [china] Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD
   - [japan] Budget formulation basic policy proposal “Aiming for both a strong economy and fiscal sustainability”
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
+  - [china] China extends pause in controls on critical mineral exports to US
   - [china] China to Suspend Some Critical-Material Export Curbs to U.S. Until January
   - [japan] Japanese prime minister orders extra budget, economy minister says
   - [china] China Vanke To Hold Bondholder Meeting On December 8 For Yuan Notes Due December 15
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials
   - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
-  - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
-  - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T12:22:49+00:00",
+      "published_utc": "2026-11-24T12:33:15+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
