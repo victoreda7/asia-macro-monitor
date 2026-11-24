@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T19:52:42.385899+00:00
+Última coleta: 2026-11-24T20:02:44.624796+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          980
-  🇨🇳 China          993
+  🇯🇵 Japão          978
+  🇨🇳 China          994
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  687
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
@@ -28,11 +28,13 @@ Total: 3000 manchetes
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
   - [china] U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF ope
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
+  - [china] To prevent fluctuations and guarantee the monthly extension, the central bank will carry out a 7-day reverse r
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
   - [china] U.S. prepares to raise tariffs on China, EU, other nations - WSJ
   - [china] EU Restricts Import Quotas On Hybrid Cars To Curb Chinese Imports
+  - [korea] Bank of Korea interest rate hike forecast, possibility and impact of base rate of 3.25% on November 26
   - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
   - [china] China probes Shanghai party boss, Politburo's Chen Jining
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] After the three meetings between Sichuan and Xi, Beijing extended the suspension of the ban on exports of gall
   - [china] The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year
   - [china] Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD
-  - [japan] Budget formulation basic policy proposal “Aiming for both a strong economy and fiscal sustainability”
-  - [china] China extends pause in controls on critical mineral exports to US
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T19:52:42+00:00",
+      "published_utc": "2026-11-24T20:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
