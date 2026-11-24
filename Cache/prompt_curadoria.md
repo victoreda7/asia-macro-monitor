@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T13:42:59.107256+00:00
+Última coleta: 2026-11-24T13:53:34.220666+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
-  🇨🇳 China          983
+  🇨🇳 China          984
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
   - [china] U.S. prepares to raise tariffs on China, EU, other nations - WSJ
   - [china] EU Restricts Import Quotas On Hybrid Cars To Curb Chinese Imports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
   - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
-  - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T13:42:59+00:00",
+      "published_utc": "2026-11-24T13:53:34+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
