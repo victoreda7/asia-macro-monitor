@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-24T16:42:49.173277+00:00",
- "collected_at_utc": "2026-11-24T16:42:49.173277+00:00",
+ "generated_at_utc": "2026-11-24T16:52:42.811153+00:00",
+ "collected_at_utc": "2026-11-24T16:52:42.811153+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 340,
   "korea": 688
  },
- "elapsed_s": 33.6,
+ "elapsed_s": 28.7,
  "sources": [
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -65,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-24T13:02:00+00:00"
   },
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-24T16:30:21+00:00"
+   "newest": "2026-11-24T16:34:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -100,6 +92,14 @@
    "count": 10,
    "error": "",
    "newest": "2026-11-24T15:18:36+00:00"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-24T14:54:48+00:00"
   },
   {
    "source_id": "ked_global",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-24T15:35:18+00:00"
+   "newest": "2026-11-24T16:42:33+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T16:41:32+00:00"
+   "newest": "2026-11-24T16:52:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T10:00:00+00:00"
+   "newest": "2026-11-24T08:33:28+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,9 +342,7 @@
    "newest": "2026-11-24T07:10:10+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_jp_investing": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
    "source_id": "gn_cn_pboc",
@@ -1896,7 +1894,7 @@
    "source_name": "Bloomberg",
    "title_en": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTk9NV0NUWVpIdGVwOUNQcERHN0J6TC1pVXFfc2pCZ3pseFRGU1N1TDlTeFE1UHNibl9lSlBLSHV3aThsN1VBTDY3ZnF3M2poMDRVcEYwblFlUWFiSklsRURvU3ZFUG95TEhTS0w0OFZJalpUMHZISlVoZnphbWtKMHJqLXNSaUpqV3llQThNWV81dlhZemdUeUFiVlBnSm9IZEhvbi1HVTk1QkNETzRwMklGTlVQdw?oc=5",
-   "published_utc": "2026-11-24T06:05:06+00:00",
+   "published_utc": "2026-11-24T06:05:00+00:00",
    "title_original": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
    "region": "korea",
    "topics": [
@@ -7357,8 +7355,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -7372,7 +7370,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7598,8 +7596,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -7612,7 +7610,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -11874,7 +11872,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5RDlQSXEyU0ViRm1BWFg1bEw5RWw3cVIzOURzWWdNdk50LXlqRU9fMEVNTW5vMS1QY2dIZENuaDVDdGRnWF92UVRmVkNEZkRTOE5fZlNvVjJYazhZRVVDRE51aE4tRE9nUGtZVm0zT1htRDZ1RHRuV0ZLWQ?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -11886,7 +11884,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "da938c0df372aaaa"
+   "id": "4315a4524b51e517"
   },
   {
    "source_id": "gn_kr_mk",
@@ -16710,6 +16708,23 @@
    "id": "7ddd02cc4a182e90"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXV0YUxiVHlvczU4VURSVnNWcERfdzhPUFdqT0NFdG9sRERhYjRySUJqOE9UNWFmRkZ4S0ItWnhnNmtXLVJWN0hyc2lIc0xJVWMtMEVBaU9JbEpnTmp5Zy14a0V0ZE5TaE5wSXRleElsNGkz?oc=5",
+   "published_utc": "2026-11-16T08:00:00+00:00",
+   "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1e42f8f1abef9e3"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Nissan Turns China Into Export Hub as Sales There Slump",
@@ -17726,23 +17741,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a2714504ce5ba8ac"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Total retail sales of consumer goods increased by 1.0% from January to October 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkQXV0YUxiVHlvczU4VURSVnNWcERfdzhPUFdqT0NFdG9sRERhYjRySUJqOE9UNWFmRkZ4S0ItWnhnNmtXLVJWN0hyc2lIc0xJVWMtMEVBaU9JbEpnTmp5Zy14a0V0ZE5TaE5wSXRleElsNGkz?oc=5",
-   "published_utc": "2026-11-16T02:00:00+00:00",
-   "title_original": "2026年1—10月份社会消费品零售总额增长1.0%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f1e42f8f1abef9e3"
   },
   {
    "source_id": "gn_cn_nbs",
