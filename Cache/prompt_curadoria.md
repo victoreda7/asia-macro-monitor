@@ -7,21 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T10:02:49.258501+00:00
+Última coleta: 2026-11-24T10:12:43.009751+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1004
-  🇨🇳 China          963
+  🇯🇵 Japão          1002
+  🇨🇳 China          966
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  693
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese prime minister orders extra budget, economy minister says
+  - [china] China to Suspend Some Critical-Material Export Curbs to U.S. Until January
+  - [china] China, India set for record Russian oil imports in 2026, but demand seen peaking
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [japan] Opinions regarding the effects of consumption tax reduction, etc. Central public hearing of the House of Counc
   - [japan] UBS sees USD/JPY at 158 through 2027 on rate differentials
   - [china] Central Bank: Launch 800 billion yuan MLF operation on November 25, with a term of 1 year
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorro
+  - [taiwan] TSMC eyes US$22.6 billion Texas campus for 2nm chips
   - [china] The central bank will launch a 500 billion yuan 7-day reverse repurchase operation
   - [china] EU sets limits on hybrid vehicle imports from China and other countries
   - [china] The central bank will carry out 800 billion yuan MLF operation
@@ -29,6 +34,7 @@ Total: 3000 manchetes
   - [china] Analysis: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [japan] Japan vows sustainable finances and BOJ independence in budget guideline
   - [china] China Extends Suspension of Export Restrictions on Some Dual-Use Materials to U.S.
+  - [china] EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports
   - [china] China's central bank to carry out 500 billion yuan of 7-day reverse repos
   - [china] The central bank will launch a 500 billion yuan reverse repurchase operation
   - [korea] Kospi roars back above 5,000 as Huang’s return ignites chip, robotics rally
@@ -40,7 +46,6 @@ Total: 3000 manchetes
   - [japan] Japan's Rakuten cancels $1.26 bond issuance, filing shows
   - [taiwan] TSMC Unit Seeks Texas Property Tax Cap for Proposed $22.6 Billion Chip Factory
   - [taiwan] TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility
-  - [china] EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports
   - [japan] BOJ to keep hiking rates but soft spending muddies path, ex-central bank policymaker says
   - [japan] Japan accelerates ICC funding as US sanctions threaten court
   - [china] Key facts: Cranswick profit up; Hull store approved for China exports
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] The last Monetary Policy Committee meeting of the year on the 26th... Market weighs on ‘interest rate hike’
   - [japan] Rakuten Group Inc - Decided To Cancel Issuance Of 200 Billion Yen Corporate Bond
   - [japan] Japan’s Fujitsu Woos Demand for Alternatives to US, China Chips
-  - [china] Economic Watch: China's emerging sectors unleash fresh employment opportunities
-  - [taiwan] TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery
-  - [korea] The KOSPI jumped more than 6% on the 24th, recovering to the 5,000-point level. Samsung Electronics
-  - [korea] South Korea’s central bank seen extending rate hikes as inflation and chip exports remain strong
-  - [korea] Micron recruits Korean chip engineers for Asian operations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T10:02:49+00:00",
+      "published_utc": "2026-11-24T10:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
