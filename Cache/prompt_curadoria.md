@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T05:33:08.434618+00:00
+Última coleta: 2026-11-24T05:42:51.662046+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1022
   🇨🇳 China          956
-  🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  685
+  🇹🇼 Taiwan         336
+  🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [japan] Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maxi
+  - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [korea] Why are Samsung and SK Hynix shares soaring after Nvidia's turnaround?
   - [china] Chinese Automakers Book Strong European Growth Ahead of Import Cap
   - [korea] KB, Hana and Woori banks step up for smaller defense suppliers as exports rise
@@ -33,7 +35,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is "moderately recovering"
   - [korea] 54 pct of bond experts eye rate hike this week: poll
   - [korea] 54% of bond market participants “expect an interest rate hike at the Monetary Policy Committee in November”
-  - [japan] Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maxi
   - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
   - [korea] Economists agree on Bank of Korea interest rate hike in November, Reuters: “One hike next year is likely”
   - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Interest Rate (November 20 2026)
   - [japan] JGB Futures Rise, Buoyed by Decline in Crude Oil Prices — Market Talk
   - [japan] Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'
-  - [korea] Media: Samsung Plans to Expand Advanced NAND Capacity at Xi’an Plant to Supply AI Data Centers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T05:33:08+00:00",
+      "published_utc": "2026-11-24T05:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

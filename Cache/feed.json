@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-24T05:33:08.434618+00:00",
- "collected_at_utc": "2026-11-24T05:33:08.434618+00:00",
+ "generated_at_utc": "2026-11-24T05:42:51.662046+00:00",
+ "collected_at_utc": "2026-11-24T05:42:51.662046+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1022,
   "china": 956,
-  "taiwan": 337,
-  "korea": 685
+  "taiwan": 336,
+  "korea": 686
  },
- "elapsed_s": 55.2,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:07:00+00:00"
+   "newest": "2026-11-24T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-24T05:23:50+00:00"
+   "newest": "2026-11-24T05:32:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T05:24:51+00:00"
+   "newest": "2026-11-24T05:34:11+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-24T05:07:08+00:00"
+   "newest": "2026-11-24T05:38:27+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T14:19:50+09:00"
+   "newest": "2026-11-24T14:39:41+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-24T14:06:49+09:00"
+   "newest": "2026-11-24T14:33:33+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
    "newest": "2026-11-24T01:50:37+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T05:31:10+00:00"
+   "newest": "2026-11-24T05:42:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T00:11:37+00:00"
+   "newest": "2026-11-24T03:06:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,11 +339,48 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T05:00:00+00:00"
+   "newest": "2026-11-24T05:31:58+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maximum 50,000 yen benefit",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80414",
+   "published_utc": "2026-11-24T05:39:41+00:00",
+   "title_original": "消費税減税法案めぐり 立民が最大5万円給付など対案を国会提出",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8523df857e38e2f6"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "머니투데이",
+   "title_en": "54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate in November” - Money Today",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paEplMkJjLVlBSmFRUjhCRlBJY2JaczlOWjY3MU5JcWcyaWhrdzBpSS1PQ0lHcjVHRl9DbllncGZPcEV1SGVReExyakNoR0VoWkE0UGRfWXRDYlM2WXlxZm1DUG9XWWlT0gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
+   "published_utc": "2026-11-24T05:31:58+00:00",
+   "title_original": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d51b36582e0cb38"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Invezz",
@@ -619,25 +656,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ef89bd3ef4e8f992"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Concerning the consumption tax reduction bill, citizens submit a counterproposal to the Diet, including a maximum 50,000 yen benefit",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80414",
-   "published_utc": "2026-11-24T02:39:03+00:00",
-   "title_original": "消費税減税法案めぐり 立民が最大5万円給付など対案を国会提出",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8523df857e38e2f6"
   },
   {
    "source_id": "gn_kr_bok",
@@ -5822,8 +5840,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -5837,7 +5855,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6063,8 +6081,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -6077,7 +6095,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7963,8 +7981,8 @@
    "id": "0a521c3abc82b439"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama lower income limit for support grants: “Consider annual income of around 560,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261119de78640",
    "published_utc": "2026-11-19T09:52:00+00:00",
@@ -7978,7 +7996,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a92d4c47b0e56b21"
+   "id": "7539474e2ed96ad2"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -13066,7 +13084,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "人民政协网",
    "title_en": "On November 17, the central bank launched a 714 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14ZFpiN0ZOYmMzcmU5Tm41Z3pYdlJJcjdiYXZZSzB6Q0dkWi1OVm90NHlxbU12Z29mblJSY29MVG9JeUZqb21uazRyby1MM2FhUHRzQ3ctUmhmY2I1?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY3hReTlZY0lpVzBPQmZjOGdYS1l1X1NpQnM3dHc1LWFvdU1xU2tFQ2JVRHppenJIYTlhR2lJR3kxU0I5dDdjeFFUeXBPUnBmZGNUMG9UZnVDS21XNURZ?oc=5",
    "published_utc": "2026-11-17T06:57:41+00:00",
    "title_original": "11月17日央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -13078,7 +13096,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7f1cb8ded58a6cc3"
+   "id": "28378f245f927380"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51876,24 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b45756bfcb33706a"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Governor of the Central Bank: Tightening again if necessary will maintain the housing market in a situation of volume reduction and price consolidation | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fN1JKclM2NWp2QWE2QXh4eC10RE1WdXd1V0JVZVJMZG0tSmRUOGJvaHo1MGtzZ1ZqZ3BvNUJvbmU0M3Vsanl5UkJSVnMzNDlVVF9GbkNMODlaaElKYlE?oc=5",
-   "published_utc": "2026-10-29T09:34:00+00:00",
-   "title_original": "央行理事：必要時再次緊縮將房市維持量縮價盤整局面| 產經",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c787bdd7e1edf568"
   },
   {
    "source_id": "manual_ia",
