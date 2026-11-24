@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-24T02:12:42.354582+00:00
+Última coleta: 2026-11-24T02:22:43.478851+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] 54% of bond market experts say, “The Bank of Korea will raise the base interest rate”… Investor sentiment cool
   - [japan] Japanese bond yields fall as lower oil prices ease inflation concerns
   - [japan] Nikkei Asia Forum 'The Global Chip Game: Our predictions for 2027'
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] USD/JPY to return to the 140s in 2027: Deutsche Bank
   - [taiwan] Taiwan's unemployment rate lowest in 26 years for October
   - [china] China, EU officials discuss exchange rates as central bank chief Pan urges cooperation
-  - [china] China's claim on Trump's Taiwan stance signals no U.S. policy shift: Scholars
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-24T02:12:42+00:00",
+      "published_utc": "2026-11-24T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
