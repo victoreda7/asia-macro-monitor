@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T00:33:20.852270+00:00
+Última coleta: 2026-11-25T00:42:42.552158+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          977
+  🇯🇵 Japão          976
   🇨🇳 China          993
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
@@ -32,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
+  - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
   - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
   - [china] U.S. prepares to raise tariffs on China, EU, other nations - WSJ
-  - [china] EU Restricts Import Quotas On Hybrid Cars To Curb Chinese Imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T00:33:21+00:00",
+      "published_utc": "2026-11-25T00:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
