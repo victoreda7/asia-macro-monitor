@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T03:52:42.772865+00:00",
- "collected_at_utc": "2026-11-25T03:52:42.772865+00:00",
+ "generated_at_utc": "2026-11-25T04:03:56.838600+00:00",
+ "collected_at_utc": "2026-11-25T04:03:56.838600+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
-  "china": 1002,
+  "japan": 964,
+  "china": 1003,
   "taiwan": 338,
   "korea": 695
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 96.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:44:00+00:00"
+   "newest": "2026-11-25T03:08:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T03:44:02+00:00"
+   "newest": "2026-11-25T03:52:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T17:13:57+00:00"
+   "newest": "2026-11-25T03:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:39:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:30:00+00:00"
+   "newest": "2026-11-25T00:34:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:06:19+00:00"
+   "newest": "2026-11-25T04:00:05+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:50:00+00:00"
+   "newest": "2026-11-25T02:17:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T14:30:05+00:00"
+   "newest": "2026-11-25T00:00:39+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T03:50:49+00:00"
+   "newest": "2026-11-25T04:01:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,42 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's yuan touches 3-week high but trade tension worries cap gains",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47606Q:0-china-s-yuan-touches-3-week-high-but-trade-tension-worries-cap-gains/",
+   "published_utc": "2026-11-25T04:01:43+00:00",
+   "title_original": "China's yuan touches 3-week high but trade tension worries cap gains",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "42524f3b5ff54143"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "The central bank launched a 516 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtWWdma0ttWnQ4dVNnaGtac2FSbVNWQTlyeGVKZXpfTXJiXzZVLTlvV3RzTk1aS2NmSDM0Zi1iRDNVb0VNaUtDMnVRME92WXJIQ3BRc1VfSUdJZGRCVm9vY2xRaEg0dw?oc=5",
+   "published_utc": "2026-11-25T04:00:05+00:00",
+   "title_original": "央行今日开展5160亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b91a567c16499ee1"
+  },
   {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
@@ -1230,6 +1266,23 @@
    "live_wire": false,
    "manual": false,
    "id": "87038f08758aee6a"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "Investing.com 한국어",
+   "title_en": "Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41aUU1NVItRTNmVUlPazJScjQ3TzY4V3hmWko5X3pYZUg2QWZTdXBhdTNSLUlRaWNvWEMtZThoTTNSM1JRZ2JxbEtoaXJlX0NNV3FZbTJ3R2ExT29XWkVVVW9fYk5XZFUtTDN4bkQ0eDQ?oc=5",
+   "published_utc": "2026-11-24T20:42:20+00:00",
+   "title_original": "한은 다시 긴축 나서나…채권시장 전문가 54% \"11월 기준금리 인상\" By EBN",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "30bc1e8f69757367"
   },
   {
    "source_id": "nhk_politics",
@@ -2988,23 +3041,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "Investing.com 한국어",
-   "title_en": "Will Korea tighten its belt again? 54% of bond market experts say “base rate hike in November” By EBN",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41aUU1NVItRTNmVUlPazJScjQ3TzY4V3hmWko5X3pYZUg2QWZTdXBhdTNSLUlRaWNvWEMtZThoTTNSM1JRZ2JxbEtoaXJlX0NNV3FZbTJ3R2ExT29XWkVVVW9fYk5XZFUtTDN4bkQ0eDQ?oc=5",
-   "published_utc": "2026-11-24T05:03:00+00:00",
-   "title_original": "한은 다시 긴축 나서나…채권시장 전문가 54% \"11월 기준금리 인상\" By EBN",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "30bc1e8f69757367"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "자본시장뉴스",
    "title_en": "[Issue] The four major banks ‘take a step back’ in NIM even if the base interest rate rises… All decline in the third quarter",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fZ0RPbWl3dGVmNmdXUVlBS3RBUDVyQ1F6eDF5d0hwY3FuV2xRN3RHUzNQQi1zUDlQakg0SzFxb0RfUE5SOVNTNG5QSTdTdjZwUVk3SEotN1RzVmNBNkdfOFdfSllZc1U?oc=5",
@@ -3315,24 +3351,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2a2b249475069c7f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "https://m.capwhale.com/",
-   "title_en": "The central bank launched a 516 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMW9pc2hCZWVfQ2ZGQ1p5aFBVOHVfbnNZZzZQX1hyUGUxMmh3RlRoa1g1MmNVcGp0b0ZtWXZOQzlPcUJUa2xPWHoycy10aUxscU1HaFBvMjNwY0pZMmZOT1k0RTNFYTJOSE9JaVgxaF9nN3lvc3JyQlk4YkhJUklWSVlzbGlTRlB6RHlLRExiczZOZw?oc=5",
-   "published_utc": "2026-11-24T01:50:17+00:00",
-   "title_original": "央行今日开展5160亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ad4a924554f69eed"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8368,7 +8386,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -8380,7 +8398,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51871,24 +51889,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d8695eca309e6c66"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vNWhTRlF5aVZfT01VYTU5R3d3RGdFU0FTS3h2SVpDVVVMTFQwREJJNmZGSVZyVWFXWDJKY0RzQkZ6WE1RZ0pkVV9BY2NPREpFU0FHdXhtblhCZw?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ chief Ueda stresses need to stabilize inflation at around 2%",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "317a9720fc780cc9"
   },
   {
    "source_id": "manual_ia",
