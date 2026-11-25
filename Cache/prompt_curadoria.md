@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T15:53:15.339937+00:00
+Última coleta: 2026-11-25T16:02:52.724073+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
-  🇨🇳 China          1012
+  🇨🇳 China          1011
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock plunging today?
+  - [taiwan] TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List
+  - [korea] Samsung Electronics Stocks Plunge 9.87%, Market Value Drops Below 1,000 Trillion Won
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
   - [china] US Targets China, EU With New Tariffs Citing Overcapacity
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Surprise Soyoil Export Boom Cools as India Turns to Palm
   - [korea] Clash over end to AI memory boom heats up, roiling Korean chip stocks
   - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
-  - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
-  - [korea] Clash over end of AI memory boom heats up, roiling Korean chip stocks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T15:53:15+00:00",
+      "published_utc": "2026-11-25T16:02:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
