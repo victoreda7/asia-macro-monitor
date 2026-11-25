@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T00:12:42.232535+00:00",
- "collected_at_utc": "2026-11-25T00:12:42.232535+00:00",
+ "generated_at_utc": "2026-11-25T00:22:43.070190+00:00",
+ "collected_at_utc": "2026-11-25T00:22:43.070190+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 975,
-  "china": 996,
+  "japan": 976,
+  "china": 995,
   "taiwan": 338,
   "korea": 691
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T07:07:44+00:00"
+   "newest": "2026-11-24T09:31:50+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:03:00+00:00"
+   "newest": "2026-11-24T02:44:14+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:07:55+00:00"
+   "newest": "2026-11-25T00:10:21+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T00:01:43+00:00"
+   "newest": "2026-11-25T00:21:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T18:25:23+00:00"
+   "newest": "2026-11-24T21:29:40+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-24T23:35:31+00:00"
+   "newest": "2026-11-25T00:16:25+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:23:23+00:00"
+   "newest": "2026-11-24T07:59:17+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,11 +339,81 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:48:08+00:00"
+   "newest": "2026-11-25T00:02:01+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Bull Market Morning News｜The central bank launched an 800 billion yuan MLF operation and a 500 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1OHkyR0JyT0lyYU9TOG5LU2dJMFV3Qk00TDluQ3JyWGpoSnQ2QUhZaFFqTy1teGMzNnZkWjU5VzRwVk0tZ29JV0N4d2lsa3Fud1VjME9uRFlJZlZyQ3l2VA?oc=5",
+   "published_utc": "2026-11-25T00:10:21+00:00",
+   "title_original": "牛市早报｜央行今日开展8000亿元MLF操作，5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fb2d446240e94f6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "JAPAN OCT SERVICES PPI +1.1% M/M: SEPT +0.3%",
+   "url": "https://www.tradingview.com/news/dpa_afx:cda2d6bbf3f95:0-japan-oct-services-ppi-1-1-m-m-sept-0-3/",
+   "published_utc": "2026-11-25T00:05:57+00:00",
+   "title_original": "JAPAN OCT SERVICES PPI +1.1% M/M: SEPT +0.3%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "01178c5935fd331a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "MNI: JAPAN OCT SERVICES PPI +4.2% Y/Y; SEPT +3.8%",
+   "url": "https://www.tradingview.com/news/dpa_afx:aeb2c0de3c450:0-mni-japan-oct-services-ppi-4-2-y-y-sept-3-8/",
+   "published_utc": "2026-11-25T00:05:48+00:00",
+   "title_original": "MNI: JAPAN OCT SERVICES PPI +4.2% Y/Y; SEPT +3.8%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "83b5582cd6845d77"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "비즈니스포스트",
+   "title_en": "SK Securities \"The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, and 3.50% in February next year.\"",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpTS1GY2VyTlItd2p5bVI0djVrRmFPX0hCVWVFeklVTFJLU0hXa2wxUWlqS2E5czYwMEFiR21KU3ZNbmtOSVlDdWhvZjdmVDdPNlhVY1R3b1VLSGxJZGRnY21ORHRfQ2ZEQVV3RUZiSmM5Sms?oc=5",
+   "published_utc": "2026-11-25T00:02:01+00:00",
+   "title_original": "SK증권 \"11월 금통위 기준금리 3.25%로 인상 예상, 내년 2월 3.50% 전망\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc1a34143d2d1a1c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -413,6 +483,23 @@
    "id": "b431448f5ad18350"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals",
+   "url": "https://www.tradingview.com/news/binance_news:4d3140e14094b:0-jpmorgan-yen-depreciation-pressure-to-persist-in-2027-despite-improved-fundamentals/",
+   "published_utc": "2026-11-24T23:47:18+00:00",
+   "title_original": "JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a9c16164e7fa9d27"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, \"Limited to cases where it is truly necessary, such as disaster response\" (TBS NEWS DIG Powered by JNN)",
@@ -447,6 +534,24 @@
    "live_wire": false,
    "manual": false,
    "id": "615a1888bcb8aabe"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027",
+   "url": "https://www.tradingview.com/news/binance_news:d63fdcfe6094b:0-ex-boj-board-member-sees-rate-reaching-2-by-mid-2027/",
+   "published_utc": "2026-11-24T23:05:03+00:00",
+   "title_original": "Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "60b8d9fd6d372789"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -572,8 +677,8 @@
    "id": "87038f08758aee6a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -587,7 +692,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -1980,23 +2085,6 @@
    "id": "03496b016e471dae"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan accelerates ICC funding as US sanctions threaten court",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47509Z:0-japan-accelerates-icc-funding-as-us-sanctions-threaten-court/",
-   "published_utc": "2026-11-24T08:11:02+00:00",
-   "title_original": "Japan accelerates ICC funding as US sanctions threaten court",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "327f2d6dc3b5d67d"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China races to develop home-grown chip photoresists to break Japan’s grip",
@@ -2012,23 +2100,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: Cranswick profit up; Hull store approved for China exports",
-   "url": "https://www.tradingview.com/news/tradingview:0e4c411f84e70:0-key-facts-cranswick-profit-up-hull-store-approved-for-china-exports/",
-   "published_utc": "2026-11-24T08:00:00+00:00",
-   "title_original": "Key facts: Cranswick profit up; Hull store approved for China exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2811a8cd02d1ca5f"
   },
   {
    "source_id": "focus_taiwan",
@@ -2469,7 +2540,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is \"moderately recovering\"",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOE1jOEtmeTdncTNzSVFzQkMzR2ZsMFBldVhfS1N2ME5PNWNsYWxwQmp6bkl3TUJLSmV0QUNVUERXaWExYVh5ZW5pdTI2eU9DWlVpYUpPQjJNN2xNbTRVQi1VMGpCUEh3bGJHdmhWNHdFNEJscWp6RFFrYmx2MHVCTW5DTUxaT1RXbHRUcUpB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90R3JUQ2Nuay1xTUZIZVdJWUFuVHNuRXBqb3pSX3FMMElsZjhlOFA0M0xxRmRKaHRpSklvTGJEZG1rXzJsXzFrdml0bFh4QVZnYmJMV1ZLdVhFN3Z4WU5UeHV5a3ZoZnU4X0J4akVqZDJjTV9ndEd1T1o5bGplQWc?oc=5",
    "published_utc": "2026-11-24T02:56:01+00:00",
    "title_original": "日銀鹿児島支店が会見 県内の景気「緩やかに回復」",
    "region": "japan",
@@ -2481,7 +2552,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d519d76434a7f11f"
+   "id": "930f8245f519d422"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7669,8 +7740,8 @@
    "id": "4f335cb2b0ab1037"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -7684,13 +7755,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -7702,7 +7773,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -7910,8 +7981,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -7924,7 +7995,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51829,75 +51900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0116cf8f3bf1b5ee"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched a 15 billion yuan 7-day reverse repo on October 30, with a net investment of 15 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oekZnSXJGOGFRYVVlVUFONlNiQm83bkJrc2ppY0ltaVJMT2RQYWR0eWZaS2ZiM3BiejRramNvbTQ3b1FRSkpHNm8xR1IwUQ?oc=5",
-   "published_utc": "2026-10-30T04:00:00+00:00",
-   "title_original": "央行10月30日开展150亿元7天逆回购 净投放150亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a6acbb66c5e322c9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "자본시장뉴스",
-   "title_en": "Will the Bank of Korea raise it again in November? Final interest rate observed at 3.5%",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRy1mWE80SzF1T2tydndIbGFjbHV2NmZlWFVXT3dXZmhJbWNycUJpU1ZqQ0IwNkJWRHpJVTU3VDcxX0ROakltbjFDUnZQTzZpeF9XNDVyZ3o3enhvTGtoMWJxYWp1cmM?oc=5",
-   "published_utc": "2026-10-30T04:00:00+00:00",
-   "title_original": "한국은행 11월 또 올리나…최종금리 3.5% 관측",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "626cc15707a18695"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVHdSZVRkTldtMFN6bWZ2alNvY2UzQWlqMGpoaDZKeDJHcHhicG1aOVo4T3BldHZOY3FSVldtSnUyLVNnaE91WTRhcDZaR1JYV2tyMzVQRXFCdw?oc=5",
-   "published_utc": "2026-10-30T03:56:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ pledges to continue adjusting monetary accommodation",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a38e1c5de19eda1"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ keeps interest rates steady, signals further rate hikes",
-   "url": "https://www.investing.com/news/economy-news/boj-keeps-interest-rates-steady-signals-further-rate-hikes-4985752",
-   "published_utc": "2026-10-30T03:54:44+00:00",
-   "title_original": "BOJ keeps interest rates steady, signals further rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a941ed56b16ef68e"
   },
   {
    "source_id": "manual_ia",

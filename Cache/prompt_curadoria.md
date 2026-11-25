@@ -7,22 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T00:12:42.232535+00:00
+Última coleta: 2026-11-25T00:22:43.070190+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
-  🇨🇳 China          996
+  🇯🇵 Japão          976
+  🇨🇳 China          995
   🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [china] Bull Market Morning News｜The central bank launched an 800 billion yuan MLF operation and a 500 billion yuan 7-
+  - [japan] JAPAN OCT SERVICES PPI +1.1% M/M: SEPT +0.3%
+  - [japan] MNI: JAPAN OCT SERVICES PPI +4.2% Y/Y; SEPT +3.8%
+  - [korea] SK Securities "The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, an
   - [japan] Japan's corporate services inflation spikes in October
   - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
   - [japan] Services Producer Price Index (Oct.)
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
+  - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
+  - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
   - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea interest rate hike forecast, possibility and impact of base rate of 3.25% on November 26
   - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
   - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
-  - [china] China probes Shanghai party boss, Politburo's Chen Jining
-  - [china] The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations
-  - [japan] Yen Falls Amid Global AI Sector Revival
-  - [taiwan] The central bank announced new regulations on stable currency reserves, specifying deposit thresholds and rati
-  - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
-  - [china] China's Alibaba Health interim profit falls on supply chain investments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T00:12:42+00:00",
+      "published_utc": "2026-11-25T00:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
