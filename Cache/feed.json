@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T15:42:45.364941+00:00",
- "collected_at_utc": "2026-11-25T15:42:45.364941+00:00",
+ "generated_at_utc": "2026-11-25T15:53:15.339937+00:00",
+ "collected_at_utc": "2026-11-25T15:53:15.339937+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
+  "japan": 933,
   "china": 1012,
-  "taiwan": 342,
+  "taiwan": 343,
   "korea": 712
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 56.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T15:37:49+00:00"
+   "newest": "2026-11-25T15:48:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T14:24:45+00:00"
+   "newest": "2026-11-25T15:43:13+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:20:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T23:16:00+09:00"
+   "newest": "2026-11-26T00:45:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T13:39:44+00:00"
+   "newest": "2026-11-25T15:48:57+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T15:40:40+00:00"
+   "newest": "2026-11-25T15:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Taiwan Semiconductor Manufacturing stock plunging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-plunging-today-93CH-5051157",
+   "published_utc": "2026-11-25T15:39:56+00:00",
+   "title_original": "Why is Taiwan Semiconductor Manufacturing stock plunging today?",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0ad6d565fee02327"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -3352,6 +3369,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "published_utc": "2026-11-24T10:45:38+00:00",
+   "title_original": "央行：11月25日将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "185164eda1a75342"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14dnA5OG9lenpTcnlsS1B1d2NEbUc0N2x3RTJFZENRTHlWVzZrcnB6OXNOeWN2aWN3Qy04RUtObmFJSThLY0llX3cwdlZtQQ?oc=5",
@@ -3681,24 +3716,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0c9cbd82953e7626"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
-   "published_utc": "2026-11-24T09:29:29+00:00",
-   "title_original": "央行：11月25日将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "50a6ca31e9d4299a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51835,23 +51852,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cf90970ea1b26b31"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variable",
-   "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4391341:0-nxera-pharma-9m-profitability-advances-the-jpy-50bn-2030-revenue-ambition-with-milestone-timing-a-key-variable/",
-   "published_utc": "2026-10-30T11:01:34+00:00",
-   "title_original": "Nxera Pharma: 9M profitability advances the JPY 50bn 2030 revenue ambition, with milestone timing a key variable",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6fcec488bdcc3369"
   },
   {
    "source_id": "manual_ia",

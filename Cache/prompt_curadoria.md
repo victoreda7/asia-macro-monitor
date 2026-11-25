@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T15:42:45.364941+00:00
+Última coleta: 2026-11-25T15:53:15.339937+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
+  🇯🇵 Japão          933
   🇨🇳 China          1012
-  🇹🇼 Taiwan         342
+  🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Why is Taiwan Semiconductor Manufacturing stock plunging today?
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
   - [china] US Targets China, EU With New Tariffs Citing Overcapacity
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
   - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
   - [korea] Clash over end of AI memory boom heats up, roiling Korean chip stocks
-  - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T15:42:45+00:00",
+      "published_utc": "2026-11-25T15:53:15+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
