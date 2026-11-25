@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T23:42:42.998513+00:00",
- "collected_at_utc": "2026-11-25T23:42:42.998513+00:00",
+ "generated_at_utc": "2026-11-25T23:52:44.017582+00:00",
+ "collected_at_utc": "2026-11-25T23:52:44.017582+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 931,
-  "china": 1007,
+  "china": 1006,
   "taiwan": 344,
-  "korea": 718
+  "korea": 719
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T19:29:00+00:00"
+   "newest": "2026-11-25T18:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-11-25T12:30:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T23:23:49+00:00"
+   "newest": "2026-11-25T23:46:06+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T23:18:22+00:00"
+   "newest": "2026-11-25T23:37:08+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:14:25+00:00"
+   "newest": "2026-11-25T01:44:52+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T23:40:44+00:00"
+   "newest": "2026-11-25T23:52:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T21:31:51+00:00"
+   "newest": "2026-11-25T18:30:38+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -345,11 +345,11 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Taiwan says it is confident of keeping previously agreed tariffs with US",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47617P:0-taiwan-says-it-is-confident-of-keeping-previously-agreed-tariffs-with-us/",
-   "published_utc": "2026-11-25T23:27:36+00:00",
+   "url": "https://www.investing.com/news/economy-news/taiwan-says-it-is-confident-of-keeping-previously-agreed-tariffs-with-us-5051750",
+   "published_utc": "2026-11-25T23:37:08+00:00",
    "title_original": "Taiwan says it is confident of keeping previously agreed tariffs with US",
    "region": "taiwan",
    "topics": [
@@ -357,9 +357,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "ed2b7669ab8b4570"
+   "id": "d5acf86df457943f"
   },
   {
    "source_id": "gn_kr_bok",
@@ -431,6 +431,23 @@
    "live_wire": false,
    "manual": false,
    "id": "901f1d4051bb5781"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "MBC 뉴스",
+   "title_en": "[News Pick] Bank of Korea decides base interest rate today, likely to ‘raise’",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LdVBoSlQ3ZWYyanhVZTU3V0Q0QlFLMkxuWEUwVGQzUmd4MlpKb2wydmtWWko3dHpHWDZlcFkwSHlWaDU0SWQ1bHZRUXFsMlMwVVMybU16bDZyQ1pJVnU4Z2JQV09VbGZ2S3dXNGpaVGJaeUtiNEU5Wk130gF6QVVfeXFMT0t1UGhKVDdlZjJqeFVlNTdXRDRCUUsyTG5YRTBUZDNSZ3gyWkpvbDJ2a1ZaSjd0ekdYNmVwWTBIeVZoNTRJZDVsdlFRcWwyUzBVUzJtTXpsNnJDWklWdThnYlBXT1VsZnZLd1c0alpUYlp5S2I0RTlaTXc?oc=5",
+   "published_utc": "2026-11-25T21:56:41+00:00",
+   "title_original": "[뉴스픽] 한국은행, 오늘 기준금리 결정‥'인상'할 듯",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ea54182f8eb91703"
   },
   {
    "source_id": "tradingview_live",
@@ -3078,8 +3095,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -3093,7 +3110,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3197,24 +3214,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0492a8f453cf6759"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
-   "published_utc": "2026-11-24T15:58:05+00:00",
-   "title_original": "央行：11月25日将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "185164eda1a75342"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -4100,6 +4099,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0c9cbd82953e7626"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "published_utc": "2026-11-24T09:29:29+00:00",
+   "title_original": "央行：11月25日将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "185164eda1a75342"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -19567,6 +19584,23 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
+   "title_en": "Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Rb01zQzBERW9sSDZIQW5MRlJjZXV6SktYajlXRll3MHZwM2hVMFRMdV9NM29kM1RPLXg0TEJ2TUxna1RZVmpSdzBfU3o3bnp0T0UzNmU1dE1xaVlTSkUxa2tuUWtnaG1SZm5qMFNNSGg5VWt1?oc=5",
+   "published_utc": "2026-11-16T08:00:00+00:00",
+   "title_original": "2026年10月份70个大中城市商品住宅销售价格变动情况",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7bb7a4ae79ca9ea6"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
    "title_en": "The added value of industries above designated size increased by 4.8% in October 2026",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41VEpNWThyaVRldFZlNUdpOXlUVGFPYjRXWjRfWDIzZHVJR0h6TmU5NU83T2cwZVB5UTFkYnhlM1JVdVpJWkwyOEk4QkhVNWttTGpqVDQwUWlJcE9odVR6UG5jSDc3dFNCUjNzZ2E0UWNNLVk?oc=5",
    "published_utc": "2026-11-16T08:00:00+00:00",
@@ -20772,23 +20806,6 @@
    "id": "443e45a795f32343"
   },
   {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Changes in Residential Property Sales Prices in 70 Major and Medium-Sized Cities in October 2026",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Rb01zQzBERW9sSDZIQW5MRlJjZXV6SktYajlXRll3MHZwM2hVMFRMdV9NM29kM1RPLXg0TEJ2TUxna1RZVmpSdzBfU3o3bnp0T0UzNmU1dE1xaVlTSkUxa2tuUWtnaG1SZm5qMFNNSGg5VWt1?oc=5",
-   "published_utc": "2026-11-16T01:30:00+00:00",
-   "title_original": "2026年10月份70个大中城市商品住宅销售价格变动情况",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7bb7a4ae79ca9ea6"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "中新经纬",
    "title_en": "The central bank launches 460 billion yuan overnight reverse repurchase operation",
@@ -21251,6 +21268,23 @@
    "live_wire": true,
    "manual": false,
    "id": "fb78b8bf95785be2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "published_utc": "2026-11-15T23:20:51+00:00",
+   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -24223,23 +24257,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4c2078d4781d628d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
-   "published_utc": "2026-11-13T08:00:00+00:00",
-   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51833,23 +51850,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e43a085c8b755f9a"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "News Analysis: What China's new consumption trends say about its economy",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QYWwzYWNiVkhOWlB4c1hfamdDRUcxZXNiYlRDRFN6TjJsOEEteGxXTDF1eTIydnBrLUYxSVpsMWJCYlptZWRCQWNaT0oyMUtoanNPNnhHOGhlbkdSTm03TXJsX0ozYm9HMHZvTDhSRDBvODhzeHQwVndDZHY?oc=5",
-   "published_utc": "2026-10-30T12:58:15+00:00",
-   "title_original": "News Analysis: What China's new consumption trends say about its economy",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43d709540a839413"
   },
   {
    "source_id": "manual_ia",

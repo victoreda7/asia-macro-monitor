@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T23:42:42.998513+00:00
+Última coleta: 2026-11-25T23:52:44.017582+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          1007
+  🇨🇳 China          1006
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  718
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] [Issue Check] The Bank of Korea's last Monetary Policy Committee of the year... Interest rate likely to rise t
   - [korea] South Korea Rate Decision On Tap For Thursday
   - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Increasing interest burden in th
+  - [korea] [News Pick] Bank of Korea decides base interest rate today, likely to ‘raise’
   - [china] CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK
   - [japan] Loan balance decreases for the first time in 24 years, Hiroshima City Credit Union's ``strongest management'' 
   - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017, advance opening,
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List
   - [korea] Samsung Electronics Stocks Plunge 9.87%, Market Value Drops Below 1,000 Trillion Won
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
-  - [china] Trump propõe novas tarifas contra China, UE e outros 12 parceiros
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T23:42:43+00:00",
+      "published_utc": "2026-11-25T23:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
