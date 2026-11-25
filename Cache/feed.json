@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T05:52:40.542557+00:00",
- "collected_at_utc": "2026-11-25T05:52:40.542557+00:00",
+ "generated_at_utc": "2026-11-25T06:03:08.732830+00:00",
+ "collected_at_utc": "2026-11-25T06:03:08.732830+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 960,
+  "japan": 959,
   "china": 1001,
   "taiwan": 337,
-  "korea": 702
+  "korea": 703
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 56.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,13 +51,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:41:03+00:00"
+   "newest": "2026-11-25T05:00:32+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-11-25T04:15:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T05:38:49+00:00"
+   "newest": "2026-11-25T06:00:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:38:00+00:00"
+   "newest": "2026-11-25T03:56:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T05:48:51+00:00"
+   "newest": "2026-11-25T06:01:20+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:39:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T05:51:42+00:00"
+   "newest": "2026-11-25T06:02:47+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T04:54:15+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,11 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:59:19+00:00"
+   "newest": "2026-11-25T05:36:31+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kRHo5RG9KSDBRbGloOS1fclFfZDFOWFh4TU85WG80NkhKR0JNenpaSklkOG5kVl9zT0huY2xfWHNkQ2dwYUV6cmpxdGRzcTlRWlBGR0xVVnZpZw?oc=5",
+   "published_utc": "2026-11-25T05:45:35+00:00",
+   "title_original": "(LEAD) Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "73868550c3f0329f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -378,6 +395,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f1beea2d31478288"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "머니투데이",
+   "title_en": "54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate in November” - Money Today",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paEplMkJjLVlBSmFRUjhCRlBJY2JaczlOWjY3MU5JcWcyaWhrdzBpSS1PQ0lHcjVHRl9DbllncGZPcEV1SGVReExyakNoR0VoWkE0UGRfWXRDYlM2WXlxZm1DUG9XWWlT0gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
+   "published_utc": "2026-11-25T05:36:31+00:00",
+   "title_original": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d51b36582e0cb38"
   },
   {
    "source_id": "focus_taiwan",
@@ -1975,6 +2010,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmNVLVphVS1wNVdONjl1c3RSNk5DdVR4UktIei1EVlludllTYlNfdEFXcmZDSElzb2pmRDFXcVdpdDBJVERtTDRLM25CX3ZxWktpUnVTRG9sOElNSVBtUUhYellNdUtpdXdBalNuYzlKY05Edk5oX0pBc2RHLUdscVRLcVVDTTRL?oc=5",
@@ -2722,24 +2775,6 @@
    "id": "8361c2d8d19ff598"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Extended Chinese Suspension of Export Curbs Covers Items Including Critical Minerals, Superhard Materials",
@@ -3312,24 +3347,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aba9a25c5ca9f2fd"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "머니투데이",
-   "title_en": "54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate in November” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZQ2RBZV9lVTN4bnpudUNvRXo0LU4wT3JEWUNySUZnWTdWUHQ4aUVFNThHNDJ6SGxqYm9QYmJHZEdSX1pvZ0p4cTg4T0Q4ZWJEdzkydzd5Y0lUSlBtdWhZWHJjZnRDVzVDX1RkdzV30gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
-   "published_utc": "2026-11-24T05:31:58+00:00",
-   "title_original": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "77b5d1ee7effea75"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10871,7 +10888,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -10883,7 +10900,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "55af98a494c201f9"
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -18080,6 +18097,24 @@
    "id": "7ddd02cc4a182e90"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnI5bWdXbF9qNEI1emRKaXJ6MXozdFE5THZKbUJyNVg5QmRHekN2SnZXZXRrbG55NVlNSmpfQ0NTWF92Y0N3cTY2Unc3cC12RW83d1o0c0hHbTJLaFM0T08wR1h3RTNxSUNMeDM5VzJ2enhRMEtwblRCdzlyVjhBUVJQeDdoNVFaWHpONTg1OVQ3ekN2QUxMRDlOUDdzaTRvTHJfZENVbF9hc2Y0aHoxbUQ2dUFqcEZzeVh3eDk0MFJKblppdlE1MnFR?oc=5",
+   "published_utc": "2026-11-16T08:00:00+00:00",
+   "title_original": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cdca3f09fe1b64f2"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "The added value of industries above designated size increased by 4.8% in October 2026",
@@ -18906,24 +18941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0df00d1b30cd6d31"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnI5bWdXbF9qNEI1emRKaXJ6MXozdFE5THZKbUJyNVg5QmRHekN2SnZXZXRrbG55NVlNSmpfQ0NTWF92Y0N3cTY2Unc3cC12RW83d1o0c0hHbTJLaFM0T08wR1h3RTNxSUNMeDM5VzJ2enhRMEtwblRCdzlyVjhBUVJQeDdoNVFaWHpONTg1OVQ3ekN2QUxMRDlOUDdzaTRvTHJfZENVbF9hc2Y0aHoxbUQ2dUFqcEZzeVh3eDk0MFJKblppdlE1MnFR?oc=5",
-   "published_utc": "2026-11-16T03:20:55+00:00",
-   "title_original": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cdca3f09fe1b64f2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51862,24 +51879,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e1f244f9ed325518"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "``Underlying price increase rate'' reached 2% target; Bank of Japan Governor Ueda says ``The outlook will remain at the same level'' for the first time since the introduction of the price stability target in 2013",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeG91SDNrc2JIZi1SVE9OZVBNYXRUN0ZBTW9FUnNfVkUzbXBoZjdjMXJtWEZ5WmFlOTJjR2xQQmdUNjRrVmxWcEhUNE9QUUFjdzJ0OFNPdU1IMXhyNjE5V1pOWU41WlpzZUtsdTNsSjVwb0MtNE42VFRienh3LXM?oc=5",
-   "published_utc": "2026-10-30T08:04:01+00:00",
-   "title_original": "『基調的な物価上昇率』目標の2%に到達 日銀植田総裁「先行きも同程度で推移」2013年の物価安定目標の導入以来初",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0de14dd207f5f201"
   },
   {
    "source_id": "manual_ia",

@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T05:52:40.542557+00:00
+Última coleta: 2026-11-25T06:03:08.732830+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          960
+  🇯🇵 Japão          959
   🇨🇳 China          1001
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  702
+  🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
+  - [korea] (LEAD) Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle
   - [japan] JGB yield curve steepens as market reassesses BOJ's rate hike path
   - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
+  - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Indicators for Core CPI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
   - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
-  - [korea] The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..
-  - [china] The Philadelphia Semiconductor Index fell nearly 8%; the central bank will launch an 800 billion yuan MLF oper
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T05:52:40+00:00",
+      "published_utc": "2026-11-25T06:03:08+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
