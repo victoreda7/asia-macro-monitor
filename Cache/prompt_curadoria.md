@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T22:12:42.562237+00:00
+Última coleta: 2026-11-25T22:22:43.167801+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Increasing interest burden in th
   - [china] CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK
   - [japan] Loan balance decreases for the first time in 24 years, Hiroshima City Credit Union's ``strongest management'' 
   - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017, advance opening,
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] LG Electronics Inc to divest 2% stake in Indian subsidiary
   - [korea] Korea to retain 15% tariff cap under new US tariff proposal
   - [china] Chinese AI firms face growing pressure from US chip rules - Information
-  - [korea] Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T22:12:42+00:00",
+      "published_utc": "2026-11-25T22:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
