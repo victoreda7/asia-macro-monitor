@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T00:22:43.070190+00:00
+Última coleta: 2026-11-25T00:33:20.852270+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          976
-  🇨🇳 China          995
+  🇯🇵 Japão          977
+  🇨🇳 China          993
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's key services inflation gauge hits 36-year high
+  - [japan] Interest Rate (November 24 2026)
+  - [korea] Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle
   - [china] Bull Market Morning News｜The central bank launched an 800 billion yuan MLF operation and a 500 billion yuan 7-
+  - [japan] Japan’s corporate services inflation spikes in October
   - [japan] JAPAN OCT SERVICES PPI +1.1% M/M: SEPT +0.3%
   - [japan] MNI: JAPAN OCT SERVICES PPI +4.2% Y/Y; SEPT +3.8%
   - [korea] SK Securities "The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, an
-  - [japan] Japan's corporate services inflation spikes in October
   - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
   - [japan] Services Producer Price Index (Oct.)
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
   - [china] U.S. prepares to raise tariffs on China, EU, other nations - WSJ
   - [china] EU Restricts Import Quotas On Hybrid Cars To Curb Chinese Imports
-  - [korea] Bank of Korea interest rate hike forecast, possibility and impact of base rate of 3.25% on November 26
-  - [china] US Prepares To Raise Tariffs On China And Other Countries - WSJ
-  - [china] U.S. Prepares to Raise Tariffs on China and Other Countries — WSJ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T00:22:43+00:00",
+      "published_utc": "2026-11-25T00:33:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
