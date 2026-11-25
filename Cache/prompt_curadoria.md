@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T05:02:51.764224+00:00
+Última coleta: 2026-11-25T05:12:49.027276+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          964
-  🇨🇳 China          1003
-  🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  698
+  🇨🇳 China          1001
+  🇹🇼 Taiwan         336
+  🇰🇷 Coreia do Sul  699
 
 ## O que já está no feed (não repita)
 
   - [japan] Indicators for Core CPI
   - [china] China's plastics export boom fades as stockpiles run down, feedstock costs climb
   - [korea] Bank of Korea May Opt for Hawkish Hold — Market Talk
+  - [korea] Why is SK Hynix stock tumbling today?
+  - [korea] Why is Samsung Electronics stock plunging today?
+  - [taiwan] Deputy Minister of Agriculture Hu Zhongyi: Taiwan’s rice is very competitive and is estimated to export nearly
   - [china] MLF reverse repurchase portfolio operation, the central bank accurately regulates liquidity
   - [japan] Japan not considering issuing new deficit-financing bonds for extra budget, TBS says
   - [china] China Focus: China's manufacturing powerhouse deepens regional integration
@@ -30,6 +33,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
+  - [japan] Judgment on the prefecture's economy remains unchanged Bank of Japan Kochi Branch [Kochi] (RKC Kochi Broadcast
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [japan] Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related sto
   - [japan] Which prefecture has the highest food prices? 1st place in 2025 is Okinawa prefecture with 106.6, Tokyo is 3rd
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Accounts (November 20)
   - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
-  - [china] The latest release from the central bank! 500 billion + 800 billion
-  - [japan] Interest Rate (November 24 2026)
-  - [korea] Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle
-  - [china] Bull Market Morning News｜The central bank launched an 800 billion yuan MLF operation and a 500 billion yuan 7-
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T05:02:51+00:00",
+      "published_utc": "2026-11-25T05:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

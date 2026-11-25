@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-11-25T05:02:51.764224+00:00",
- "collected_at_utc": "2026-11-25T05:02:51.764224+00:00",
+ "generated_at_utc": "2026-11-25T05:12:49.027276+00:00",
+ "collected_at_utc": "2026-11-25T05:12:49.027276+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 964,
-  "china": 1003,
-  "taiwan": 335,
-  "korea": 698
+  "china": 1001,
+  "taiwan": 336,
+  "korea": 699
  },
- "elapsed_s": 28.1,
+ "elapsed_s": 34.8,
  "sources": [
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -27,15 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:08:00+00:00"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-11-24T21:30:00+00:00"
+   "newest": "2026-11-25T04:02:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-25T04:15:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T04:47:33+00:00"
+   "newest": "2026-11-25T05:01:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T04:42:51+00:00"
+   "newest": "2026-11-25T04:48:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:51:27+00:00"
+   "newest": "2026-11-25T05:06:43+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:44:52+00:00"
+   "newest": "2026-11-24T06:06:34+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T13:52:00+09:00"
+   "newest": "2026-11-25T14:09:53+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:23:23+00:00"
+   "newest": "2026-11-25T03:00:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:53:00+00:00"
+   "newest": "2026-11-25T04:47:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -342,7 +342,9 @@
    "newest": "2026-11-25T00:59:19+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "gn_cn_caixin": 1
+ },
  "items": [
   {
    "source_id": "boj_whatsnew",
@@ -394,6 +396,57 @@
    "live_wire": true,
    "manual": false,
    "id": "52f036b900e805be"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock tumbling today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-5049708",
+   "published_utc": "2026-11-25T04:48:14+00:00",
+   "title_original": "Why is SK Hynix stock tumbling today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0f2a92b3d545b04a"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock plunging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5049707",
+   "published_utc": "2026-11-25T04:47:51+00:00",
+   "title_original": "Why is Samsung Electronics stock plunging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d5ebbff11fcbb1ed"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Deputy Minister of Agriculture Hu Zhongyi: Taiwan’s rice is very competitive and is estimated to export nearly 7,000 tons to Japan in 2015 | Life",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03NF94M0hqd3BDN3E4U3VzbVZFLU5SSjB5bi1wbEIwSEVXZl9UeEJaLUdpQWZwWjREMXRSOHFwMHduRmhTaXpJald5a0k3MVpMckdSbzhtX0p1U05UVlB3?oc=5",
+   "published_utc": "2026-11-25T04:47:00+00:00",
+   "title_original": "農業部次長胡忠一：台灣米具競爭力估115年出口日本近7千噸| 生活",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a13e8cd91459e8d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -566,6 +619,24 @@
    "live_wire": false,
    "manual": false,
    "id": "59b5836f500e55de"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Judgment on the prefecture's economy remains unchanged Bank of Japan Kochi Branch [Kochi] (RKC Kochi Broadcasting)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odjI0bjcwMUNnemN1T3ozelV6c1U2M2gyM2pPN1BRcTVGLTBkSDh4dlNfNzNBYzA1OGNMUHRaYW1tclFtUVFIaGZsMkZGbzM4LUdId2VxQXdabTY2bjNPMGNaY1ZRckNuamtNbjZicEw2SFdCUFJQamZTS1NTSEE?oc=5",
+   "published_utc": "2026-11-25T02:57:00+00:00",
+   "title_original": "県内景気判断を据え置き 日銀高知支店【高知】（RKC高知放送）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "513b3e843ad57136"
   },
   {
    "source_id": "gn_kr_ked",
@@ -37548,23 +37619,6 @@
    "id": "713910c969086a89"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is Samsung Electronics stock plunging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5006286",
-   "published_utc": "2026-11-06T01:59:43+00:00",
-   "title_original": "Why is Samsung Electronics stock plunging today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4343f6afa5078ec3"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Hua Hong Grace eyes silicon photonics expansion as AI chip shortages lift pricing power",
@@ -51832,57 +51886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d6a4383fb56c1704"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "UNIQLO Shanghai Flagship Store Renovation Japanese Retailer in China Moves to Review Stores",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68469",
-   "published_utc": "2026-10-30T07:26:00+00:00",
-   "title_original": "ユニクロ上海旗艦店刷新 日系小売中国で店舗見直しの動き",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d69301bc87f69f4a"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ to accelerate ETF sales, more than doubling pace from January",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-to-accelerate-etf-sales-more-than-doubling-pace-from-january",
-   "published_utc": "2026-10-30T07:12:43.559132+00:00",
-   "title_original": "BOJ to accelerate ETF sales, more than doubling pace from January",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61f1a282615231d9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "上观新闻",
-   "title_en": "The central bank officially announced that the policy interest rate will \"change the anchor\", experts' latest interpretation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSk9LZFYtTHBaN3Y1ZzZXSnJDVDNHQUMzeWlXeHRXYm1Ba2QtY3J6QWFxMFI2Rno4U1oxVUROOG1raTZzZV9WeDNtck9yV2o2NDE3bUZUZXVlSWU1UjY2MVdIdEw2c3pCbmxSaUVEMk1rck9xdjFLQUtwVWptb3pGWlRxSkV5eUFnbGc?oc=5",
-   "published_utc": "2026-10-30T07:12:00+00:00",
-   "title_original": "央行官宣政策利率“换锚”，专家最新解读",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66d9f90952c688f7"
   },
   {
    "source_id": "manual_ia",
