@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T14:23:36.470103+00:00
+Última coleta: 2026-11-25T14:34:48.504556+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          935
-  🇨🇳 China          1010
-  🇹🇼 Taiwan         343
+  🇨🇳 China          1011
+  🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
@@ -30,12 +30,14 @@ Total: 3000 manchetes
   - [china] U.S. Set to Raise Tariffs on China, EU and Others — WSJ
   - [china] China Southern Airlines Subsidiary Orders 50 Boeing Aircraft For $7.4 Bln
   - [china] Trump admin proposes new tariffs on 14 trading partners, 20% on China - report
+  - [china] US Targets China, EU With New Tariffs After Overcapacity Probe
   - [taiwan] TSMC asking for tax incentives at Texas fab suggests no AI slowdown: Wedbush
   - [japan] Japan to draft 2nd supplementary budget for urgent needs
   - [china] Taxman can be China's next GDP growth engine
   - [china] The Logistics Report: China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies — WSJ Newsl
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [japan] $1.6bn real estate development in Tokyo's Shibuya wins key approval
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [taiwan] TIER expects U.S. tariffs on Taiwan goods not to top 15%
   - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Clash over end of AI memory boom heats up, roiling Korean chip stocks
   - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
   - [china] China's PVC exports face anti-dumping investigations in many places. China's utilization rate is expected to r
-  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
-  - [japan] Japanese Government Bonds Held by the Bank of Japan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T14:23:36+00:00",
+      "published_utc": "2026-11-25T14:34:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
