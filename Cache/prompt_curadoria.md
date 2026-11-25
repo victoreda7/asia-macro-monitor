@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T03:22:43.264201+00:00
+Última coleta: 2026-11-25T03:32:42.559422+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          965
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
+  - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [japan] Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related sto
@@ -33,7 +34,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
   - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
   - [korea] The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..
-  - [japan] Japan’s key services inflation gauge hits 36-year high
   - [china] The Philadelphia Semiconductor Index fell nearly 8%; the central bank will launch an 800 billion yuan MLF oper
   - [korea] S. Korea's consumer goods exports hit record high amid Korean culture boom
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T03:22:43+00:00",
+      "published_utc": "2026-11-25T03:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
