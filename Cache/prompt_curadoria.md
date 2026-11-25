@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T06:22:42.210602+00:00
+Última coleta: 2026-11-25T06:32:41.864694+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          956
-  🇨🇳 China          1001
+  🇨🇳 China          1000
   🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  704
+  🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [korea] The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026(For JGB Market Special Participants)
   - [china] China's YMTC boosted by Samsung and SK Hynix adopting its memory technology
   - [taiwan] Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Rakuten Credit Risk Surges After Yen Bond Offering Scrapped
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
   - [china] On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.
-  - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T06:22:42+00:00",
+      "published_utc": "2026-11-25T06:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

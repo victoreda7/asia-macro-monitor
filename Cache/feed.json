@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T06:22:42.210602+00:00",
- "collected_at_utc": "2026-11-25T06:22:42.210602+00:00",
+ "generated_at_utc": "2026-11-25T06:32:41.864694+00:00",
+ "collected_at_utc": "2026-11-25T06:32:41.864694+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 956,
-  "china": 1001,
+  "china": 1000,
   "taiwan": 339,
-  "korea": 704
+  "korea": 705
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T06:19:34+00:00"
+   "newest": "2026-11-25T06:25:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T06:00:38+00:00"
+   "newest": "2026-11-25T06:09:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T06:18:18+00:00"
+   "newest": "2026-11-25T06:22:09+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-13T08:00:00+00:00"
+   "newest": "2026-11-18T20:35:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:34:37+00:00"
+   "newest": "2026-11-25T04:34:55+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T04:47:00+00:00"
+   "newest": "2026-11-25T02:53:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-25T13:35:00+09:00"
+   "newest": "2026-11-25T15:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:40:38+00:00"
+   "newest": "2026-11-25T05:45:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,11 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:36:31+00:00"
+   "newest": "2026-11-25T06:22:55+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스웍스",
+   "title_en": "The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '3.0 → 3.25%'",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CZlZnT1Z0RDZVSThDZjE2QkdpeV9fWXRaUFpwRlRkQV9heGNSZ0hHRDdpVEh5MmstSFZYQW5WU0VqdzUzMk1JMjJieGxQUVYyZ2VENHEyLVFpclhNR0t4TDJ1NXU2RG9tRjltcFU3Y9IBc0FVX3lxTFAtWEtiVE43a0QzdzVBTlBsdmR1WEFJZFRpamdPTElndVQ4QTh6aHhocVFVOER5TVBLSF9RMHZybHNhRlhXTlZOdDNvMFh5dFlSMmotTTQyVEJLdnNJYWNLQzdlREFCdmdETjBjVEM2eXhBc3c?oc=5",
+   "published_utc": "2026-11-25T06:22:55+00:00",
+   "title_original": "올해 마지막 금통위 D-1…한은 기준금리 '3.0→3.25%' 유력",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2bf27baa709dd6f"
+  },
   {
    "source_id": "mof_jp",
    "source_name": "MOF Japan",
@@ -1610,6 +1628,24 @@
    "id": "836fabe35e60e976"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZU3VWb0lMbG5tTHdiQmE0MGt0TE5Ya3Y2UXRPUTJXTUUtMnh3dVB1RE9xZHg5Yy04dEFIdnhiOTVPci1nbkxWdFl3RDNfVDBDQnExcFZpVkhoX3lBQzk5Qw?oc=5",
+   "published_utc": "2026-11-24T21:42:49+00:00",
+   "title_original": "8000亿元MLF+5000亿元逆回购 央行长短“组合拳”11月25日落地",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a56a42a9d1ff0ee0"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars",
@@ -1750,8 +1786,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -1765,7 +1801,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -1855,10 +1891,10 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
-   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZU3VWb0lMbG5tTHdiQmE0MGt0TE5Ya3Y2UXRPUTJXTUUtMnh3dVB1RE9xZHg5Yy04dEFIdnhiOTVPci1nbkxWdFl3RDNfVDBDQnExcFZpVkhoX3lBQzk5Qw?oc=5",
-   "published_utc": "2026-11-24T16:05:51+00:00",
-   "title_original": "8000亿元MLF+5000亿元逆回购 央行长短“组合拳”11月25日落地",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
+   "published_utc": "2026-11-24T15:17:10+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
    "region": "china",
    "topics": [
     "monetary",
@@ -1868,7 +1904,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a56a42a9d1ff0ee0"
+   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -1956,6 +1992,24 @@
    "live_wire": false,
    "manual": false,
    "id": "54d1920ac867b7fb"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "\"There's too much construction so I can't take a break...\" Is there a change in the screams at the site? Impact on the seawall construction with a total cost of 9 billion yen... How will the Takaichi administration's financial reform change the situation at the site? Shizuoka (Shizuoka Asahi TV)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQnNxMWN5eTlxQ21WRjZkcFBwbWNjNW1QU1ViNG1adW12bUNCbzB2ckcxR1FoV01JY0p0YlNqTkpOWFVvOGJPal94aEl1cHk5aTE4bk9UbjdlSE9FOVFGZmZKb05QY21VWjZXUGJZaWNqQVFOUTNtcHloTjhkR0U?oc=5",
+   "published_utc": "2026-11-24T13:37:54+00:00",
+   "title_original": "「工事が多すぎて休めない…」現場の悲鳴に変化？ 総工費90億円の防潮堤工事にも影響…高市政権の財政改革で現場はどう変わる? 静岡（静岡朝日テレビ）",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1069e7af39bf67d3"
   },
   {
    "source_id": "investing_live",
@@ -2110,6 +2164,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2703,24 +2775,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorrow, and the yields on government bonds will rise and fall.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWY5TUJiWFJDR0FDYnZCUVFhRG5hN2FFZnRyYUZfVEZCYjhseWtrSTNmLWYwNHhQSzNEU2YwT21wM1d0T1FqaWdKcVlzQTBieWFMb2Q4QWRvSGxWZDM1SVdabjFBYTJzMnUwRWpHd0M3NjNTNS01aUFvTEY0cGRoeVE2dThvUTQ0N0h3?oc=5",
@@ -2858,24 +2912,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -10991,7 +11027,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -11003,7 +11039,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "55af98a494c201f9"
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51841,41 +51877,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a66fe9997c758ea1"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Omron Targets India for Manufacturing, Exports Push",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2xtWGh3QUxLcERjQlBzNXpkazI2MlZjeE5meFpWdUE3SFA2dE5kSzJ6Qk9Bb2h3Vmd5NXU3RGhnLTZHTkFPRkI3OWdUc29uamx0RDRUQTl3d2cxdVVjU19KbWFIdjVZVmlodS1aNUFITWx1MU5UbV8taEkzcFNibno4OXc1T0ZkR2pWUXp3MWkwLVJ2M095Q2E2SXJJOTFFdW0zNUlOZ3NERUVXN1E?oc=5",
-   "published_utc": "2026-10-30T08:30:00+00:00",
-   "title_original": "Japan’s Omron Targets India for Manufacturing, Exports Push",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "040d11ec93455672"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "China set to lose LNG import crown to Japan on weak demand",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMXhVX2U5aVA2TlgxMEFvNHcteFptcUp4clBaTm43SUpZZ1hwRHZWeHItcmRfdXJ0SzRoSGJXWnYtNnFtSEJYNjJWWkFnc0RfSjFSRE95bE9ZbnhPNVczQW5LalNHZFZrTHNfT0l0TXJKWWNHMlcyOWVtMlFEQ2lwbkdzZVNScE1OM21tazFXTjZpbDktUDh1SUEtSmlSc1JrUEZJ?oc=5",
-   "published_utc": "2026-10-30T08:29:23+00:00",
-   "title_original": "China set to lose LNG import crown to Japan on weak demand",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9a2cd62ec8c2660"
   },
   {
    "source_id": "manual_ia",
