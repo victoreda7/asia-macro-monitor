@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T01:04:18.427322+00:00
+Última coleta: 2026-11-25T01:13:09.060161+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
-  🇨🇳 China          993
+  🇯🇵 Japão          973
+  🇨🇳 China          994
   🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  693
+  🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
+  - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
+  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [china] The latest release from the central bank! 500 billion + 800 billion
@@ -32,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Services Producer Price Index (Oct.)
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
   - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
+  - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
@@ -41,6 +45,7 @@ Total: 3000 manchetes
   - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
   - [japan] Why do companies choose the "employment support business" despite constant criticism of "separation of people 
   - [china] US government restricts AI semiconductor exports to Southeast Asia and Brazil due to suspicions of Nvidia Huan
+  - [korea] Bank of Korea Seen Resuming Rate Hikes as AI Boom Stokes Growth
   - [japan] Corporate Japan logs record first-half profit on AI demand, soft yen
   - [japan] Prime Minister Takaichi intends to support Japan's future finances with the huge proceeds from the sale of Ban
   - [japan] Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.
@@ -51,12 +56,7 @@ Total: 3000 manchetes
   - [china] US Readies Tariff Hike on China, EU Goods as Soon as Tuesday
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [china] China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025
-  - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
   - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
-  - [china] U.S. technology stocks have collectively pulled back; the central bank will launch an 800 billion yuan MLF ope
-  - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
-  - [china] To prevent fluctuations and guarantee the monthly extension, the central bank will carry out a 7-day reverse r
-  - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T01:04:18+00:00",
+      "published_utc": "2026-11-25T01:13:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

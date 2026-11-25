@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T01:04:18.427322+00:00",
- "collected_at_utc": "2026-11-25T01:04:18.427322+00:00",
+ "generated_at_utc": "2026-11-25T01:13:09.060161+00:00",
+ "collected_at_utc": "2026-11-25T01:13:09.060161+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 975,
-  "china": 993,
+  "japan": 973,
+  "china": 994,
   "taiwan": 339,
-  "korea": 693
+  "korea": 694
  },
- "elapsed_s": 124.8,
+ "elapsed_s": 55.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T22:33:57+00:00"
+   "newest": "2026-11-24T23:43:19+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T17:39:00+00:00"
+   "newest": "2026-11-25T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-24T13:02:00+00:00"
   },
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:39:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:44:14+00:00"
+   "newest": "2026-11-24T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T17:57:26+00:00"
+   "newest": "2026-11-24T20:16:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T01:03:09+00:00"
+   "newest": "2026-11-25T01:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T18:25:23+00:00"
+   "newest": "2026-11-24T21:29:40+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:26:25+00:00"
+   "newest": "2026-11-23T06:23:23+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Falls 6.05%; Foxconn Technology Falls 7.3%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261124009286_20261124009288:0-tsmc-falls-6-05-foxconn-technology-falls-7-3/",
+   "published_utc": "2026-11-25T01:08:00+00:00",
+   "title_original": "TSMC Falls 6.05%; Foxconn Technology Falls 7.3%",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3d846ce31ff5e955"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (November 20)",
@@ -360,6 +377,42 @@
    "live_wire": false,
    "manual": false,
    "id": "be444052708be6fb"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTY0X2JsX2lGeFhQdGg4UEk5c3ktYmlHYV9CZ05ydEg0elk2WVJOa29VdEg0RDRuMjhad1cyYUU1Zk5HVHRaTVZ1Y0F0Nkw1OUdaTU1vRXpUU1RJV3gwcmtqVHdQekEwLW1USzdTQTk0RHRmYUtOM3JrR2pPZGZWdnpHU3ZYZThSREdtVThPRHdDVGY0ZFphc0RSYkd4YzR0Mk95aU9RNEhzbXpqWlM0?oc=5",
+   "published_utc": "2026-11-25T01:00:00+00:00",
+   "title_original": "CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f35b3e3db4cdc367"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlMxWjV0blVDRzdsSjFMVVREU1F3SnVSN29ETEZpU3ZzWWVMV1E4cU1SV0w3eHNJMmhTTUx0N2hMUjh4V3N3NzBvXy1wbmIwdnFXZGt6U2RHNlFOcmw5MklfV25lOURocUpjb21qaUhDTEtWbG81Z0lMS21nYVN2ajlud1g3VU8xdW1J?oc=5",
+   "published_utc": "2026-11-25T00:44:51+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "102ec5a376cb7634"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -602,6 +655,23 @@
    "id": "a9c16164e7fa9d27"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2xoU1dSSzBEeGVMMi1fVTdHRUticVJQR2Rod2F4aTNfYldpVkQ0XzA1SkNja0d2V1VENGlDM3h2Wnl1UnJzU3JKczMxY0xtNVdYR3VETDV3Z1FyQWpLMnhlVnExa0t0SWpTWkNXZnMyX19nV0hUUjNEWlEyc2hPY3NmXzZuMzVfenM5RWtNeUZSYjBsS2JUZWpaSV9GSFAtWTN1Z0dDaHhqUGkyQ01YdQ?oc=5",
+   "published_utc": "2026-11-24T23:43:19+00:00",
+   "title_original": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d345812d89fb25fa"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, \"Limited to cases where it is truly necessary, such as disaster response\" (TBS NEWS DIG Powered by JNN)",
@@ -762,6 +832,23 @@
    "id": "0c6f889beff52697"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Bank of Korea Seen Resuming Rate Hikes as AI Boom Stokes Growth",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckhjMEI0ZTFqMlludWdDOUltWFhuM3U3SDJSeVZ0TGxTenc3VzRNTm9DNVp1ald2LU1fbmJJaUpmSE1mRzVaR2YzVkRaalZqU2RucjdTalhkeFNqYlJRbm9fX1cwYTBUWEFHOWR5c2VaMUhUWU9xV0h5dkhMSlJ5ZVRQNTJYMkRXOTNIakZCUm81RGJiVDhWSC1qLWRQX2hubXB0Ym5WY25FQ01NZk1JWlRzWFQ?oc=5",
+   "published_utc": "2026-11-24T21:00:00+00:00",
+   "title_original": "Bank of Korea Seen Resuming Rate Hikes as AI Boom Stokes Growth",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33c01074db9f7351"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Corporate Japan logs record first-half profit on AI demand, soft yen",
@@ -798,8 +885,8 @@
    "id": "87038f08758aee6a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -813,7 +900,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "tradingview_live",
@@ -934,23 +1021,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ab9b3e8d2edbe14"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2xoU1dSSzBEeGVMMi1fVTdHRUticVJQR2Rod2F4aTNfYldpVkQ0XzA1SkNja0d2V1VENGlDM3h2Wnl1UnJzU3JKczMxY0xtNVdYR3VETDV3Z1FyQWpLMnhlVnExa0t0SWpTWkNXZnMyX19nV0hUUjNEWlEyc2hPY3NmXzZuMzVfenM5RWtNeUZSYjBsS2JUZWpaSV9GSFAtWTN1Z0dDaHhqUGkyQ01YdQ?oc=5",
-   "published_utc": "2026-11-24T14:51:17+00:00",
-   "title_original": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d345812d89fb25fa"
   },
   {
    "source_id": "tradingview_live",
@@ -1871,24 +1941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -7878,8 +7930,8 @@
    "id": "3837affcb00cf3b4"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -7893,13 +7945,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -7911,7 +7963,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8119,8 +8171,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -8133,7 +8185,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51842,59 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a8c529826cc2bc14"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Foxconn unveils three new EV models as it expands contract manufacturing push",
-   "url": "https://www.investing.com/news/stock-market-news/foxconn-unveils-three-new-ev-models-as-it-expands-contract-manufacturing-push-4985791",
-   "published_utc": "2026-10-30T04:40:10+00:00",
-   "title_original": "Foxconn unveils three new EV models as it expands contract manufacturing push",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a417de60112464c6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "시사매거진",
-   "title_en": "Bank of Japan freezes base interest rate at 1.25%... Growing anxiety in global financial markets amid strong yen",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50SEdaYWdKX0tUVF9wMlUxZXFPZGhqMVk5TnJFMGlCU1dhNEMyb09GQ191enFNLTQ3REx5UEpHOW1jMm1hb29yOV9fZS1PTm9JbGNBNnZ0NWZDekx6VmxoWDFB?oc=5",
-   "published_utc": "2026-10-30T04:38:55+00:00",
-   "title_original": "일본은행 기준금리 1.25% 동결…엔화 강세 속 세계 금융시장 불안 확대",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d10c59295720f24c"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The Bank of Japan announced that the inflation rate has reached the 2% target and kept interest rates unchanged at 1.25% | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kZ1JjMnRPTjRxekxEaGhQblpLb0dpY3JFLUxTZW1GYzlJSFAyZ2didGxxMkNNZFdEZDJuZWd3RTJIRjFVcU5CTFF6YUNEQTZVRmFNc3hMOHVaRnJxV1Fn?oc=5",
-   "published_utc": "2026-10-30T04:27:00+00:00",
-   "title_original": "日本央行宣布通膨率達成2%目標維持利率1.25%不變| 國際",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe8a59badc8351e2"
   },
   {
    "source_id": "manual_ia",
