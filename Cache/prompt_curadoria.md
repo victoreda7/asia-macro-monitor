@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T21:42:42.392979+00:00
+Última coleta: 2026-11-25T21:52:44.329813+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK
   - [japan] Loan balance decreases for the first time in 24 years, Hiroshima City Credit Union's ``strongest management'' 
+  - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017, advance opening,
   - [japan] <Legal employment rate raised to 2.7%> Is it true that a reporter infiltrates the site of an ``employment supp
   - [japan] The collapse of the illusion that "the Republican Party is Japan's ally on the trade front"...The sad reality 
   - [china] LEARN MORE-How China gained access to Nvidia's AI chips despite rules to prevent it
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese AI firms face growing pressure from US chip rules - Information
   - [korea] Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD
   - [korea] Seoul Semiconductor Begins WICOP Pixel Mass Production
-  - [china] Trump's China tariff math: 20%, times two if talks go sour
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T21:42:42+00:00",
+      "published_utc": "2026-11-25T21:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
