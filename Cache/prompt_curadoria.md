@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T20:42:42.976308+00:00
+Última coleta: 2026-11-25T20:52:42.292243+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Yen, Swiss franc gain as dollar slips in volatile AI-driven session
   - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017 Pre-opening, May 
   - [china] Huang back at Nvidia as China builds own chip production system
+  - [china] US Targets China, EU With New Tariffs Citing Overcapacity
   - [china] Explainer-How China got access to Nvidia’s AI chips despite rules to stop them
   - [korea] How a Bain-led deal made SK Hynix Kioxia's top shareholder
   - [china] Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes
@@ -37,7 +38,6 @@ Total: 3000 manchetes
   - [taiwan] Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal
   - [japan] Additional tariffs imposed on Japan and other countries due to rice overproduction, up to 15% in Japan includi
   - [korea] SK hynix stock trades down, here is why
-  - [china] US Targets China, EU With New Tariffs Citing Overcapacity
   - [japan] Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens
   - [korea] The Bank of Korea decides the base interest rate today (26th)... Should I raise it to 3.25% per year?
   - [taiwan] Business sentiment cautious: TIER
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T20:42:43+00:00",
+      "published_utc": "2026-11-25T20:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
