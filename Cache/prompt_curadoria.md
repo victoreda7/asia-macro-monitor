@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T23:04:11.690619+00:00
+Última coleta: 2026-11-25T23:12:49.851080+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
-  🇨🇳 China          1009
+  🇨🇳 China          1008
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Issue Check] The Bank of Korea's last Monetary Policy Committee of the year... Interest rate likely to rise t
   - [korea] South Korea Rate Decision On Tap For Thursday
   - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Increasing interest burden in th
   - [china] CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Trump propõe novas tarifas contra China, UE e outros 12 parceiros
   - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
   - [korea] LG Electronics Inc to divest 2% stake in Indian subsidiary
-  - [korea] Korea to retain 15% tariff cap under new US tariff proposal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T23:04:11+00:00",
+      "published_utc": "2026-11-25T23:12:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
