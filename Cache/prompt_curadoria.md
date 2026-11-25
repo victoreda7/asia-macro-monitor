@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T09:52:43.349318+00:00
+Última coleta: 2026-11-25T10:02:43.151202+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          946
-  🇨🇳 China          1004
+  🇯🇵 Japão          947
+  🇨🇳 China          1003
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
   - [china] USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes
   - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
   - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
@@ -35,6 +36,7 @@ Total: 3000 manchetes
   - [taiwan] Manufacturers' business sentiment weakens amid AI concerns
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
   - [taiwan] Maintenance and component demand lift profits across Taiwan's aerospace supply chain
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] China's Politburo shrinks as graft crackdown spreads
   - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows
   - [japan] Indicators for Core CPI
-  - [china] China's plastics export boom fades as stockpiles run down, feedstock costs climb
-  - [korea] (LEAD) Banks' household mortgage lending rates hit over 14-yr high in Oct.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T09:52:43+00:00",
+      "published_utc": "2026-11-25T10:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
