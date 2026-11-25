@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-25T09:03:24.220482+00:00",
- "collected_at_utc": "2026-11-25T09:03:24.220482+00:00",
+ "generated_at_utc": "2026-11-25T09:12:45.856702+00:00",
+ "collected_at_utc": "2026-11-25T09:12:45.856702+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 342,
   "korea": 707
  },
- "elapsed_s": 71.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-11-25T07:32:00+00:00"
   },
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 56,
+   "count": 57,
    "error": "",
-   "newest": "2026-11-25T16:10:49+08:00"
+   "newest": "2026-11-25T16:22:51+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T09:02:32+00:00"
+   "newest": "2026-11-25T09:08:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T08:36:00+00:00"
+   "newest": "2026-11-25T07:30:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:20:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T17:57:45+09:00"
+   "newest": "2026-11-25T18:10:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T09:02:00+00:00"
+   "newest": "2026-11-25T09:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:23:27+00:00"
+   "newest": "2026-11-25T03:22:20+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T08:22:25+00:00"
+   "newest": "2026-11-25T08:56:13+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:45:35+00:00"
+   "newest": "2026-11-25T06:58:04+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection exhibition at the 21st Century Museum of Contemporary Art, Kanazawa (MRO Hokuriku Broadcasting)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SFhrQ09LaFhHNFZOX3pJQUZVRDktaENmTHdFcjluR090RnRNWE05UnlSeU5CQlBKaXJwRUhzZG1OTkpRT1FELWZCbVRuR2pDOGItS2t2UTNKMWgxSkVUVzVjYjVtMFdlMVZma09STm5RanRSUHltRVVxR0lnUlU?oc=5",
+   "published_utc": "2026-11-25T08:56:13+00:00",
+   "title_original": "旧日銀金沢支店跡地が2027年5月22日から一般開放へ 金沢21世紀美術館の収蔵品展示（MRO北陸放送）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "abe8289dfa745da5"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -429,6 +446,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3d094e665fc3acad"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
+   "url": "https://focustaiwan.tw/business/202611250016",
+   "published_utc": "2026-11-25T08:22:51+00:00",
+   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc12628824a9e718"
   },
   {
    "source_id": "boj_whatsnew",
@@ -842,24 +876,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1d51b36582e0cb38"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb3RzQUlpU3QySk1GR1o3TG1LUGJKZVNtTUdtaTFBb1R6enA4c0Uyb2pLVHBSRmswMWNRT2RRLTQ5YkdsUmJfSHpzY2J3UnpkdmlPNm4xZzMyZ01qMUUzWjI1a3ROQQ?oc=5",
-   "published_utc": "2026-11-25T05:34:37+00:00",
-   "title_original": "8000亿元MLF+5000亿元逆回购，央行长短“组合拳”11月25日落地",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "baf54932e196ff72"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2218,8 +2234,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -2233,7 +2249,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -2302,6 +2318,24 @@
    "live_wire": true,
    "manual": false,
    "id": "804089c1dfe1a892"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb3RzQUlpU3QySk1GR1o3TG1LUGJKZVNtTUdtaTFBb1R6enA4c0Uyb2pLVHBSRmswMWNRT2RRLTQ5YkdsUmJfSHpzY2J3UnpkdmlPNm4xZzMyZ01qMUUzWjI1a3ROQQ?oc=5",
+   "published_utc": "2026-11-24T16:19:17+00:00",
+   "title_original": "8000亿元MLF+5000亿元逆回购，央行长短“组合拳”11月25日落地",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "baf54932e196ff72"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2596,24 +2630,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b7a825b334904b45"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmNVLVphVS1wNVdONjl1c3RSNk5DdVR4UktIei1EVlludllTYlNfdEFXcmZDSElzb2pmRDFXcVdpdDBJVERtTDRLM25CX3ZxWktpUnVTRG9sOElNSVBtUUhYellNdUtpdXdBalNuYzlKY05Edk5oX0pBc2RHLUdscVRLcVVDTTRL?oc=5",
-   "published_utc": "2026-11-24T12:58:00+00:00",
-   "title_original": "央行最新宣布：将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e347ee681617273"
   },
   {
    "source_id": "tradingview_live",
@@ -6396,6 +6412,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d8b54692bc589779"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15dTFlVk1TLVE1OFZfeEFqMUFPZGJqWDYyMTcwalRXMFFpeGtCSDhOZTRUblI5Q293VmhlWDdnNzdIdnJYZzg2QklvQ1ZQblFCbURiSG1vRkg2eHEzSHcwazl4U0JieXRwMzdFVXBKcE1xdw?oc=5",
+   "published_utc": "2026-11-22T12:57:31+00:00",
+   "title_original": "央行最新宣布：将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "49b614cb69863bfc"
   },
   {
    "source_id": "tradingview_live",
@@ -33554,23 +33588,6 @@
    "id": "74efd84888faf74c"
   },
   {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
-   "url": "https://focustaiwan.tw/business/202611090014",
-   "published_utc": "2026-11-09T08:19:36+00:00",
-   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7bbaa005765892c"
-  },
-  {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Xinhua News | China extends suspension of 24 pct additional tariff on U.S. goods for two months",
@@ -51847,24 +51864,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ceac06bdbf1dbc05"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen gains after BOJ; AI jitters dent dollar By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVRyRFhFR3libTVxYVFfVXVvdTIweTNQYm1pQkVYalNUaUZLc0pfSVlLZFlfeXVONUctRkIwREEwcjFLc2VQRU12OWVOaER6UTc4eUNxZnZpT204cVRISUhxS0FQMjNSRzhGbzhxcjR6eEZzYmdQMVRBbjlJc09Da09kTUZ4RHJVcklMa2drRVNGb3I1U2NPamN2VXZkZVJUeGw5UGRhZEZUOUdkRTg1T3ZQUHV4bzhFZEZGeGpR?oc=5",
-   "published_utc": "2026-10-30T09:49:36+00:00",
-   "title_original": "Yen gains after BOJ; AI jitters dent dollar By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef13cc1f17512144"
   },
   {
    "source_id": "manual_ia",

@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T09:03:24.220482+00:00
+Última coleta: 2026-11-25T09:12:45.856702+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          946
@@ -17,11 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
   - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
   - [korea] Clash over end of AI memory boom heats up, roiling Korean chip stocks
   - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
+  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [china] China Dismisses US Tariff Prospect as ‘Political Maneuvering’
   - [taiwan] NTU team develops energy-efficient chips for on-device generative AI
@@ -47,7 +49,6 @@ Total: 3000 manchetes
   - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
-  - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] (LEAD) Banks' household mortgage lending rates hit over 14-yr high in Oct.
   - [korea] Bank of Korea May Opt for Hawkish Hold — Market Talk
   - [korea] Why is SK Hynix stock tumbling today?
-  - [korea] Why is Samsung Electronics stock plunging today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T09:03:24+00:00",
+      "published_utc": "2026-11-25T09:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
