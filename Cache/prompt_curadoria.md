@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T13:22:43.873881+00:00
+Última coleta: 2026-11-25T13:32:57.632051+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          942
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [china] The Logistics Report: China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies — WSJ Newsl
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [japan] $1.6bn real estate development in Tokyo's Shibuya wins key approval
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [taiwan] TIER expects U.S. tariffs on Taiwan goods not to top 15%
   - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Politburo shrinks as graft crackdown spreads
   - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
-  - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T13:22:44+00:00",
+      "published_utc": "2026-11-25T13:32:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
