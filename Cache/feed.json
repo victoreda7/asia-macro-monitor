@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T16:42:42.488449+00:00",
- "collected_at_utc": "2026-11-25T16:42:42.488449+00:00",
+ "generated_at_utc": "2026-11-25T16:52:44.084680+00:00",
+ "collected_at_utc": "2026-11-25T16:52:44.084680+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 935,
-  "china": 1007,
+  "japan": 934,
+  "china": 1008,
   "taiwan": 344,
   "korea": 714
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:00:00+00:00"
+   "newest": "2026-11-23T06:07:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,7 +65,7 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 60,
+   "count": 46,
    "error": "",
    "newest": "2026-11-25T20:54:12+08:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T16:36:48+00:00"
+   "newest": "2026-11-25T16:46:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T16:41:10+00:00"
+   "newest": "2026-11-25T16:51:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Wan Tong Yuan (Holdings) Says No Progress On Construction Approvals For Cemetery JV Project",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761Q2:0-china-wan-tong-yuan-holdings-says-no-progress-on-construction-approvals-for-cemetery-jv-project/",
+   "published_utc": "2026-11-25T16:48:02+00:00",
+   "title_original": "China Wan Tong Yuan (Holdings) Says No Progress On Construction Approvals For Cemetery JV Project",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b0ced46ea15a3614"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1700,23 +1717,6 @@
    "id": "a5f206dcf85fa5e4"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990",
-   "url": "https://www.tradingview.com/news/seekingalpha:fac3c836a094b:0-japan-s-services-ppi-jumps-4-2-in-october-hitting-highest-level-since-1990/",
-   "published_utc": "2026-11-25T05:29:41+00:00",
-   "title_original": "Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "75a003b8f3158eb5"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg",
    "title_en": "Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows",
@@ -2783,8 +2783,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -2798,7 +2798,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",

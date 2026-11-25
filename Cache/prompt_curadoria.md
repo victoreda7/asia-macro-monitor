@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T16:42:42.488449+00:00
+Última coleta: 2026-11-25T16:52:44.084680+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
-  🇨🇳 China          1007
+  🇯🇵 Japão          934
+  🇨🇳 China          1008
   🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [china] China Wan Tong Yuan (Holdings) Says No Progress On Construction Approvals For Cemetery JV Project
   - [japan] Japan Seeks Supply Chain Mandate For Chips, Other Critical Goods, Nikkei Reports
   - [japan] Japan seeks supply chain mandate for chips, other critical goods
   - [taiwan] Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [china] China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuan
   - [japan] My home loan interest rate is a concern due to the Bank of Japan's interest rate hike. ``My repayments haven't
-  - [japan] [There are also benefits that NISA does not have! iDeCo Complete Guide] Who will benefit from the revision? / 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T16:42:42+00:00",
+      "published_utc": "2026-11-25T16:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
