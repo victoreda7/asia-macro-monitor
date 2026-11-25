@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T04:03:56.838600+00:00
+Última coleta: 2026-11-25T04:12:58.970762+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
-  🇨🇳 China          1003
+  🇯🇵 Japão          963
+  🇨🇳 China          1004
   🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [china] China Focus: China's manufacturing powerhouse deepens regional integration
   - [china] China's yuan touches 3-week high but trade tension worries cap gains
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Services Producer Price Index (Oct.)
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
   - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
-  - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T04:03:57+00:00",
+      "published_utc": "2026-11-25T04:12:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
