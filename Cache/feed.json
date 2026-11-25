@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T04:52:43.349552+00:00",
- "collected_at_utc": "2026-11-25T04:52:43.349552+00:00",
+ "generated_at_utc": "2026-11-25T05:02:51.764224+00:00",
+ "collected_at_utc": "2026-11-25T05:02:51.764224+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 964,
-  "china": 1004,
+  "china": 1003,
   "taiwan": 335,
-  "korea": 697
+  "korea": 698
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 28.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 44,
    "error": "",
-   "newest": "2026-11-25T10:00:00+09:00"
+   "newest": "2026-11-25T14:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T04:03:00+00:00"
+   "newest": "2026-11-25T03:08:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:31:50+00:00"
+   "newest": "2026-11-25T00:44:46+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T04:42:51+00:00"
+   "newest": "2026-11-25T04:47:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T22:32:25+00:00"
+   "newest": "2026-11-25T03:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:06:34+00:00"
+   "newest": "2026-11-25T01:44:52+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T04:39:05+00:00"
+   "newest": "2026-11-25T04:57:16+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T12:32:00+09:00"
+   "newest": "2026-11-25T13:52:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T13:23:48+09:00"
+   "newest": "2026-11-25T13:52:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:50:00+00:00"
+   "newest": "2026-11-25T03:32:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T08:39:27+00:00"
+   "newest": "2026-11-25T01:50:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T04:52:00+00:00"
+   "newest": "2026-11-25T05:01:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:00:11+00:00"
+   "newest": "2026-11-23T06:23:23+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T04:44:00+00:00"
+   "newest": "2026-11-25T02:53:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -345,10 +345,61 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Indicators for Core CPI",
+   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+   "published_utc": "2026-11-25T05:00:00+00:00",
+   "title_original": "Indicators for Core CPI",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "549870a4319d8a4a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's plastics export boom fades as stockpiles run down, feedstock costs climb",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4700VZ:0-china-s-plastics-export-boom-fades-as-stockpiles-run-down-feedstock-costs-climb/",
+   "published_utc": "2026-11-25T04:55:57+00:00",
+   "title_original": "China's plastics export boom fades as stockpiles run down, feedstock costs climb",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1cf2e49cafbbf6fe"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea May Opt for Hawkish Hold — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261124009664:0-bank-of-korea-may-opt-for-hawkish-hold-market-talk/",
+   "published_utc": "2026-11-25T04:53:00+00:00",
+   "title_original": "Bank of Korea May Opt for Hawkish Hold — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "52f036b900e805be"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "MLF reverse repurchase portfolio operation, the central bank accurately regulates liquidity",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTR1Y250c1RKNUtPY0lmQjhzSkM2SU5RZ29YbUR3T19nclZacERGTUZhLW9qYzZLUmhJaFk2NWxNQ3pWOWdZOVZ6dzZwXzZJS1ludzRHMGUyUkh3TDNKdzg1dmczSUZrQWdpd2x6RFNOXzZnT1dUcUF6enlaRmZaUUJrOGZnQ0ZN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVpLRFBRV1RESG9IRnJUS2NNbHplczYwQS1PT2tBaVc3MUFhMGhQTmhuUVdLaE81QjBSYlM2X3duOGNBM3ZMVFZYdnRwa2EtOGJIYU91SEtZRlRld3ZxSVRvVzV4SndqZjZiNnVOVnl0c0VCRzdsMFZuVVNZQkpLa1JsalVMSGhrY0dB?oc=5",
    "published_utc": "2026-11-25T04:34:55+00:00",
    "title_original": "MLF逆回购组合操作 央行精准调控流动性",
    "region": "china",
@@ -359,7 +410,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6465884d6ac3d6a2"
+   "id": "70cbf3ea35991881"
   },
   {
    "source_id": "tradingview_live",
@@ -1387,8 +1438,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -1402,7 +1453,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "tradingview_live",
@@ -1747,24 +1798,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2513,6 +2546,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -8484,8 +8535,8 @@
    "id": "3837affcb00cf3b4"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -8499,7 +8550,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10646,7 +10697,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -10658,7 +10709,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "894e406afb4c4cea"
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51832,59 +51883,6 @@
    "live_wire": false,
    "manual": false,
    "id": "66d9f90952c688f7"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ chief declines to comment on reviewing accord with gov't on deflation",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95QVhTb3UzWW1mRV8wWXk0R1V1cVc3NVUzSGRIR0dPSXUxd0k0aV9hcENXUHN3SlltcmlXSzFNTk4tVGJ5Um1ZSTA3bjNlanRsdTlUdXJvVjI4QQ?oc=5",
-   "published_utc": "2026-10-30T07:07:10+00:00",
-   "title_original": "BREAKING NEWS: BOJ chief declines to comment on reviewing accord with gov't on deflation",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "569bc64d4a3ac53c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "The \"anchor change\" of policy interest rates was implemented, and the central bank launched a 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MVHVjT0ExeG9Fal9WNGNWZk1IMHg3XzdQUTlPSmNxWjhZV25yUks2a3AtV2VJcjJOZHNkUVVSZ1JicXFlZmtNdktYQUJCZVp6RThPR3c5SWQ?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "政策利率“换锚”落地，央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fa5d8f6a93d68c7a"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Explanation on the disclosure of the reply to the National Bureau of Statistics’ recommendations and proposals for the National Two Sessions in 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFRiQTNUbEp5d0lUOF9tRjNGSkl5b3JXbTR2WW12SFdVa0ZpUTdMQm1tSXBweEtSUUtmazlIcUVXZGgtMmczYlpzUm9TdndWczJrV2lxXzBTNC1qbXVpeE40WEUxWTBtRVFkQ05KWG92ak1vRlY2bVVZOXgxRXp0V296NTVQWkhK?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "国家统计局2026年全国两会建议提案复文公开情况说明",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4e7fdd2da6e8ac5f"
   },
   {
    "source_id": "manual_ia",
