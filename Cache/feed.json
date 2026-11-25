@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T17:32:41.543921+00:00",
- "collected_at_utc": "2026-11-25T17:32:41.543921+00:00",
+ "generated_at_utc": "2026-11-25T17:42:49.265142+00:00",
+ "collected_at_utc": "2026-11-25T17:42:49.265142+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 1008,
-  "taiwan": 344,
+  "japan": 933,
+  "china": 1010,
+  "taiwan": 343,
   "korea": 714
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 35.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T08:27:12+00:00"
+   "newest": "2026-11-25T14:00:55+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T17:24:17+00:00"
+   "newest": "2026-11-25T17:33:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T17:06:45+00:00"
+   "newest": "2026-11-25T17:37:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T17:22:00+00:00"
+   "newest": "2026-11-25T17:40:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:45:35+00:00"
+   "newest": "2026-11-25T06:58:04+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,74 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Trump rebuilds tariff wall with new duties on China, Japan and others",
+   "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-duties-on-china-japan-and-others",
+   "published_utc": "2026-11-25T17:42:48.256642+00:00",
+   "title_original": "Trump rebuilds tariff wall with new duties on China, Japan and others",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "57484d328090b165"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Nvidia Sellers Seek New Buyers As US Curbs China AI Chip Access - CNBC",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44H0HG:0-nvidia-sellers-seek-new-buyers-as-us-curbs-china-ai-chip-access-cnbc/",
+   "published_utc": "2026-11-25T17:36:39+00:00",
+   "title_original": "Nvidia Sellers Seek New Buyers As US Curbs China AI Chip Access - CNBC",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b900929a158907a0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Trump administration proposes new tariffs on 14 economies, including EU and China",
+   "url": "https://www.tradingview.com/news/seekingalpha:54b08a4c9094b:0-trump-administration-proposes-new-tariffs-on-14-economies-including-eu-and-china/",
+   "published_utc": "2026-11-25T17:34:36+00:00",
+   "title_original": "Trump administration proposes new tariffs on 14 economies, including EU and China",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fe3945ad17c892f9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "SK hynix Stocks Sink 11.05% Despite 80% Operating Margin",
+   "url": "https://www.tradingview.com/news/gurufocus:ec50f4d28094b:0-sk-hynix-stocks-sink-11-05-despite-80-operating-margin/",
+   "published_utc": "2026-11-25T17:16:06+00:00",
+   "title_original": "SK hynix Stocks Sink 11.05% Despite 80% Operating Margin",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c0c352fe8f5751c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1561,40 +1629,6 @@
    "id": "1c1fcf0e47d1dcef"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Business Line",
-   "title_en": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
-   "url": "https://www.tradingview.com/news/moodys:fdca5e1e76622:0-huang-boost-fades-quickly-as-ai-fears-sink-tsmc-sk-hynix-shares/",
-   "published_utc": "2026-11-25T06:09:12+00:00",
-   "title_original": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "907c2e41015506a9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Amazon Autos expanding to UK in 2027 with Hyundai",
-   "url": "https://www.tradingview.com/news/seekingalpha:1826addfb094b:0-amazon-autos-expanding-to-uk-in-2027-with-hyundai/",
-   "published_utc": "2026-11-25T06:04:51+00:00",
-   "title_original": "Amazon Autos expanding to UK in 2027 with Hyundai",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "def6236fd14998d8"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC sees AI inference fueling chip demand for years",
@@ -1627,24 +1661,6 @@
    "live_wire": false,
    "manual": false,
    "id": "73868550c3f0329f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "JGB yield curve steepens as market reassesses BOJ's rate hike path",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4750M5:0-jgb-yield-curve-steepens-as-market-reassesses-boj-s-rate-hike-path/",
-   "published_utc": "2026-11-25T05:44:39+00:00",
-   "title_original": "JGB yield curve steepens as market reassesses BOJ's rate hike path",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8739f1a0fc1c0857"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2783,8 +2799,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -2798,7 +2814,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -51835,23 +51851,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e05dc74f659ae68f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Central Asia’s Top Growing Economy Plans Yuan Bond in 2027",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtHNmtTTlFhejZ5b0h1V3JYNG52aGxkMDVxZVluMkduXzNfb1NzQXhXLXV6NmRDNXZfNFdUV2daay1oYlZid2pCSXJCZ0RXcFNrSllKYjRJWTFPUTJpWWRoZUFia3FxTWp6cU0wbGFpd3V4RkNKekgwYS13Y3hNTmZCalA5QnY0M2xxNXJBU09QcVVwQ25pMXhjZm5QY05IZXhRdzlDZGpHM1BPNXBJazZiWQ?oc=5",
-   "published_utc": "2026-10-30T11:17:02+00:00",
-   "title_original": "Central Asia’s Top Growing Economy Plans Yuan Bond in 2027",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "532a459d1da74785"
   },
   {
    "source_id": "manual_ia",

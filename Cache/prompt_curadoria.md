@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T17:32:41.543921+00:00
+Última coleta: 2026-11-25T17:42:49.265142+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          1008
-  🇹🇼 Taiwan         344
+  🇯🇵 Japão          933
+  🇨🇳 China          1010
+  🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [china] Trump rebuilds tariff wall with new duties on China, Japan and others
+  - [china] Nvidia Sellers Seek New Buyers As US Curbs China AI Chip Access - CNBC
+  - [china] Trump administration proposes new tariffs on 14 economies, including EU and China
+  - [korea] SK hynix Stocks Sink 11.05% Despite 80% Operating Margin
   - [china] China Wan Tong Yuan (Holdings) Says No Progress On Construction Approvals For Cemetery JV Project
   - [japan] Japan Seeks Supply Chain Mandate For Chips, Other Critical Goods, Nikkei Reports
   - [japan] Japan seeks supply chain mandate for chips, other critical goods
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [japan] $1.6bn real estate development in Tokyo's Shibuya wins key approval
   - [taiwan] TIER expects U.S. tariffs on Taiwan goods not to top 15%
-  - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
-  - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
-  - [china] China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuan
-  - [japan] My home loan interest rate is a concern due to the Bank of Japan's interest rate hike. ``My repayments haven't
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T17:32:41+00:00",
+      "published_utc": "2026-11-25T17:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
