@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T10:02:43.151202+00:00
+Última coleta: 2026-11-25T10:12:41.906645+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          947
+  🇯🇵 Japão          946
   🇨🇳 China          1003
-  🇹🇼 Taiwan         342
+  🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
   - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
   - [china] USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes
+  - [taiwan] Texas comptroller backs US$354 million tax break for TSMC
   - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
   - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows
-  - [japan] Indicators for Core CPI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T10:02:43+00:00",
+      "published_utc": "2026-11-25T10:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
