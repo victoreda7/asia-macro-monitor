@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T13:42:43.888242+00:00
+Última coleta: 2026-11-25T13:52:42.678959+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          941
-  🇨🇳 China          1007
+  🇯🇵 Japão          939
+  🇨🇳 China          1009
   🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [china] USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING N
+  - [china] USTR GREER Q&A/CNBC: PROPOSED SECTION 301 TARIFF RATE FOR CHINA SOMEWHAT ADDITIVE BUT PAIRED WITH PROPOSED EXE
   - [china] Could potential US tariffs put the US-China trade truce at risk?
   - [china] U.S. Set to Raise Tariffs on China, EU and Others — WSJ
   - [china] China Southern Airlines Subsidiary Orders 50 Boeing Aircraft For $7.4 Bln
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk
   - [taiwan] Manufacturers' business sentiment weakens amid AI concerns
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
-  - [taiwan] Maintenance and component demand lift profits across Taiwan's aerospace supply chain
-  - [china] China's Politburo shrinks as graft crackdown spreads
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T13:42:44+00:00",
+      "published_utc": "2026-11-25T13:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
