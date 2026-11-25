@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T14:02:41.921856+00:00",
- "collected_at_utc": "2026-11-25T14:02:41.921856+00:00",
+ "generated_at_utc": "2026-11-25T14:12:51.864777+00:00",
+ "collected_at_utc": "2026-11-25T14:12:51.864777+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 937,
-  "china": 1010,
+  "japan": 935,
+  "china": 1011,
   "taiwan": 343,
-  "korea": 710
+  "korea": 711
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T12:15:00+00:00"
+   "newest": "2026-11-25T09:57:21+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:07:00+00:00"
+   "newest": "2026-11-25T10:23:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T13:55:16+00:00"
+   "newest": "2026-11-25T14:08:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T13:42:24+00:00"
+   "newest": "2026-11-25T14:00:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T12:24:00+00:00"
+   "newest": "2026-11-25T14:08:57+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T22:53:14+09:00"
+   "newest": "2026-11-25T23:06:22+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T14:02:00+00:00"
+   "newest": "2026-11-25T14:12:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:58:04+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,40 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Korea to retain 15% tariff cap under new US tariff proposal",
+   "url": "https://www.koreaherald.com/article/10949511",
+   "published_utc": "2026-11-25T14:08:57+00:00",
+   "title_original": "Korea to retain 15% tariff cap under new US tariff proposal",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "022bb9d387e99ff3"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Chinese AI firms face growing pressure from US chip rules - Information",
+   "url": "https://www.investing.com/news/pro/chinese-ai-firms-face-growing-pressure-from-us-chip-rules--information-432SI-5050908",
+   "published_utc": "2026-11-25T14:08:02+00:00",
+   "title_original": "Chinese AI firms face growing pressure from US chip rules - Information",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "221dcae24e36b166"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "BusinessWire",
@@ -2646,8 +2680,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -2661,7 +2695,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -4106,7 +4140,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Singapore, China Deepen Yuan Ties With Focus on Corporates",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVUxTklJQ3pjYVBIcmh6SVdMU1M1NkVOSnA5OFU4Z3FxRTNpRkVuMVlCNWZmbDgxSVc4M1pVLVBTNzByTU1pREFKVFUzT1NWblZQTi1uNmdFNHBHeUhiLUVIUzNyRHdVUnJaUTVwdnQtczdMY3Zqal9RTTNaSU0wazBRSUVpdXplbVhWXzVSVGFxbm41VVpkajhIRllGbEMzeExqSzJaci0tNG1YdHk2cw?oc=5",
    "published_utc": "2026-11-24T07:16:00+00:00",
@@ -5400,7 +5434,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFZzdnVBMkZsMW5oa0gzM2NSakFMYWVkQ2U3bVdKQU9rdUh2eG1QTENaWTQ1RlhJTFUxNl9CR1VkM1JzRU5Vd1N4Qzg0ajNKZTEwdVctTG0wQ3IwNkdETTlsLUlCcl80YzZGc3lmTlVMNHlEZEJITXpfclNZb2lWTmxjR0VpZWVzMW9DcXBhLVZpZG1kZEQxUUN4VjFXOHByN1NHUFd5X3pPcWVSVV9r?oc=5",
    "published_utc": "2026-11-23T10:00:20+00:00",
@@ -51819,42 +51853,6 @@
    "live_wire": false,
    "manual": false,
    "id": "05d386e86216baea"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan judges that the underlying inflation rate has reached 2%, and postpones raising interest rates as it marks a turning point in policy change after 14 years (Sankei Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTDF5ZjJJU0FRYzRGeHU4aGgxLVJ0dEl5VmU2MkotWENZYmFabFRyM3ZZNEg3SW9MUEJ4NDVhai1FdE5ETDRmWDVvZ19YaXhpSjN6NHFmS19zTGlYNEpkdFhhWHQtek1DRDVXS2pYdENsblI3OW1JQ0puVTNlZDg?oc=5",
-   "published_utc": "2026-10-30T10:44:57+00:00",
-   "title_original": "日銀、基調物価2％到達と判断 14年越しで政策転換の節目に、利上げは見送り（産経新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "55623505035843a3"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan judges that underlying inflation has reached 2%, postponing interest rate hike as it marks a turning point in policy change after 14 years (Sankei Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzVQaDVDX1dhNXR5S0k3Q2UwTDUybXViUzNGdklkaUpsSmhXLXBzMjdFNFJFNGtmbnR0OHBmWTdad2pLR3lZSzM2WWtxNl8yYWpxRFpya0F6ZUtZcnhFTDBTSy1MQmFBckZFdWxqOFJhd3RpTVEyM0FlVWt4aEphcl94Mk9EZDlwY21CbURR?oc=5",
-   "published_utc": "2026-10-30T10:44:57+00:00",
-   "title_original": "日銀、基調物価2％到達と判断 14年越しで政策転換の節目に、利上げは見送り (産経新聞)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "984c449d0492d32d"
   },
   {
    "source_id": "manual_ia",

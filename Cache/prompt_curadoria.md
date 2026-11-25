@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T14:02:41.921856+00:00
+Última coleta: 2026-11-25T14:12:51.864777+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          937
-  🇨🇳 China          1010
+  🇯🇵 Japão          935
+  🇨🇳 China          1011
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  710
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea to retain 15% tariff cap under new US tariff proposal
+  - [china] Chinese AI firms face growing pressure from US chip rules - Information
   - [korea] Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD
   - [korea] Seoul Semiconductor Begins WICOP Pixel Mass Production
   - [china] Trump's China tariff math: 20%, times two if talks go sour
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's PVC exports face anti-dumping investigations in many places. China's utilization rate is expected to r
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [japan] Japanese Government Bonds Held by the Bank of Japan
-  - [china] China Dismisses US Tariff Prospect as ‘Political Maneuvering’
-  - [taiwan] NTU team develops energy-efficient chips for on-device generative AI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T14:02:42+00:00",
+      "published_utc": "2026-11-25T14:12:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
