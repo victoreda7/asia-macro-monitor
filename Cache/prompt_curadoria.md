@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T04:22:40.956062+00:00
+Última coleta: 2026-11-25T04:33:14.838990+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          963
-  🇨🇳 China          1004
+  🇯🇵 Japão          962
+  🇨🇳 China          1003
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  695
+  🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] China's yuan touches 3-week high but trade tension worries cap gains
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026
+  - [korea] North Korea expels Swiss representative over sanctions related to children's camp
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
@@ -34,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
   - [china] Important signal! 500 billion + 800 billion, the central bank takes action today
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
+  - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
   - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
   - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's corporate services inflation spikes in October
   - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
   - [japan] Services Producer Price Index (Oct.)
-  - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
-  - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T04:22:41+00:00",
+      "published_utc": "2026-11-25T04:33:15+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
