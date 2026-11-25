@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T04:33:14.838990+00:00
+Última coleta: 2026-11-25T04:42:43.989604+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          962
-  🇨🇳 China          1003
-  🇹🇼 Taiwan         338
+  🇨🇳 China          1004
+  🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [china] MLF reverse repurchase portfolio operation, the central bank accurately regulates liquidity
   - [china] China Focus: China's manufacturing powerhouse deepens regional integration
   - [china] China's yuan touches 3-week high but trade tension worries cap gains
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Securities "The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, an
   - [japan] Japan's corporate services inflation spikes in October
   - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
-  - [japan] Services Producer Price Index (Oct.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T04:33:15+00:00",
+      "published_utc": "2026-11-25T04:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
