@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T10:22:42.576343+00:00
+Última coleta: 2026-11-25T10:32:59.188330+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          946
@@ -17,6 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuan
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
+  - [japan] [There are also benefits that NISA does not have! iDeCo Complete Guide] Who will benefit from the revision? / 
   - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
   - [china] USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes
   - [taiwan] Texas comptroller backs US$354 million tax break for TSMC
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
-  - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
-  - [japan] Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows
-  - [japan] Indicators for Core CPI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T10:22:42+00:00",
+      "published_utc": "2026-11-25T10:32:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
