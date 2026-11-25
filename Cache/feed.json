@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-24T23:52:43.402660+00:00",
- "collected_at_utc": "2026-11-24T23:52:43.402660+00:00",
+ "generated_at_utc": "2026-11-25T00:03:04.558250+00:00",
+ "collected_at_utc": "2026-11-25T00:03:04.558250+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 974,
+  "japan": 975,
   "china": 996,
-  "taiwan": 339,
+  "taiwan": 338,
   "korea": 691
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 49.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T17:39:00+00:00"
+   "newest": "2026-11-24T15:08:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-24T23:42:03+00:00"
+   "newest": "2026-11-25T00:00:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T00:24:00+00:00"
+   "newest": "2026-11-24T09:39:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:44:14+00:00"
+   "newest": "2026-11-24T01:03:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T20:35:00+00:00"
+   "newest": "2026-11-16T07:11:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-24T23:50:49+00:00"
+   "newest": "2026-11-25T00:01:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-25T08:00:00+09:00"
+   "newest": "2026-11-25T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's corporate services inflation spikes in October",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47520C:0-japan-s-corporate-services-inflation-spikes-in-october/",
+   "published_utc": "2026-11-25T00:00:24+00:00",
+   "title_original": "Japan's corporate services inflation spikes in October",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f82b92317b593cda"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -932,24 +949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1646,6 +1645,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -2641,10 +2658,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "中国新闻网",
    "title_en": "On November 24, the central bank launched a 516 billion yuan overnight reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yLVJuc3lpWWh4elJBZGtRbHZyS2R5SFB3VVZuM2ZGRVVsVno0OHZ1aEpTUC16SnNzcG8tVlF6MlNxb00yZVNQaVZkeE10LUZSanp0cWYtLVpGYXpRR2N2MkNkMEpJaGdhMHhkNzFwaV8telZIaEpFSw?oc=5",
-   "published_utc": "2026-11-24T01:53:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94bkdpb0twTjBwUEpHZ3o4OThsSm1hVlRlT29WMV9sQUIyaTBLeURjNW5CYnJsUmhHcE9DNEJKRkgxUlo5MVdXYkRLbWJ5RzV5NTd3WGNvemFnajVuWnE2ZXdMSV9ENDBw?oc=5",
+   "published_utc": "2026-11-24T01:47:54+00:00",
    "title_original": "11月24日央行开展5160亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -2655,7 +2672,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "932ddaea8e1e7d59"
+   "id": "83aae0d46bd9e7d7"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7673,7 +7690,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -7685,7 +7702,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51881,23 +51898,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a941ed56b16ef68e"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Sandisk sees 60–90GB of NAND per CPU in AI agent workloads",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVVadzc2ektmWDB3d29oTTBNYWZHeGItVVQ3bE9Bd3BTZ2dsdmdVd2RQWlZ4SXNDczFWTnRSNEpVUFpwazZjU2Z2eVFfNTlpUm5GVzcwZ3pzdkNLRWxyN0Z4OFMydVNGUHgyTmtmNXFKSFpkY05TT0pseG9xWmJ6WUZxQW1IbGNZ?oc=5",
-   "published_utc": "2026-10-30T03:49:44+00:00",
-   "title_original": "Sandisk sees 60–90GB of NAND per CPU in AI agent workloads",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b569e17fae122ee0"
   },
   {
    "source_id": "manual_ia",
