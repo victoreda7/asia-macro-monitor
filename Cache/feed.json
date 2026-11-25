@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T11:12:41.153573+00:00",
- "collected_at_utc": "2026-11-25T11:12:41.153573+00:00",
+ "generated_at_utc": "2026-11-25T11:22:41.565776+00:00",
+ "collected_at_utc": "2026-11-25T11:22:41.565776+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 946,
-  "china": 1003,
+  "japan": 945,
+  "china": 1004,
   "taiwan": 343,
   "korea": 708
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 28.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T10:16:38+00:00"
+   "newest": "2026-11-25T11:00:59+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T11:07:02+00:00"
+   "newest": "2026-11-25T11:15:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T10:52:26+00:00"
+   "newest": "2026-11-25T10:52:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T11:26:00+00:00"
+   "newest": "2026-11-25T11:06:44+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T10:12:57+00:00"
+   "newest": "2026-11-25T06:54:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T11:12:21+00:00"
+   "newest": "2026-11-25T11:21:53+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:23:23+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access",
+   "url": "https://www.investing.com/news/stock-market-news/analysisjensen-huangs-return-to-nvidia-fuels-washington-fight-over-chinas-chip-access-5050326",
+   "published_utc": "2026-11-25T11:06:34+00:00",
+   "title_original": "Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f838b90d155af9f4"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuanshi Technology",
@@ -360,24 +377,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0a337e36309fb66e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
-   "published_utc": "2026-11-25T10:12:57+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "toyo_keizai",
@@ -3321,6 +3320,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7c8dca0001fef26c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
+   "published_utc": "2026-11-24T09:34:34+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e76ede17ef3679"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51842,23 +51859,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c6103199b107876e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Katayama signals hope of bigger surplus from central bank's ETF sales",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46G0CK:0-japan-s-katayama-signals-hope-of-bigger-surplus-from-central-bank-s-etf-sales/",
-   "published_utc": "2026-10-30T09:58:50+00:00",
-   "title_original": "Japan's Katayama signals hope of bigger surplus from central bank's ETF sales",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3968273758abb068"
   },
   {
    "source_id": "manual_ia",

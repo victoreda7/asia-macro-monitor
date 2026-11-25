@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T11:12:41.153573+00:00
+Última coleta: 2026-11-25T11:22:41.565776+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          946
-  🇨🇳 China          1003
+  🇯🇵 Japão          945
+  🇨🇳 China          1004
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
   - [china] China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuan
-  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [japan] [There are also benefits that NISA does not have! iDeCo Complete Guide] Who will benefit from the revision? / 
   - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
   - [china] USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T11:12:41+00:00",
+      "published_utc": "2026-11-25T11:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
