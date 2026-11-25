@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T16:32:52.652561+00:00
+Última coleta: 2026-11-25T16:42:42.488449+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
+  🇯🇵 Japão          935
   🇨🇳 China          1007
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  715
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Seeks Supply Chain Mandate For Chips, Other Critical Goods, Nikkei Reports
   - [japan] Japan seeks supply chain mandate for chips, other critical goods
   - [taiwan] Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal
   - [japan] Additional tariffs imposed on Japan and other countries due to rice overproduction, up to 15% in Japan includi
@@ -29,6 +30,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List
   - [korea] Samsung Electronics Stocks Plunge 9.87%, Market Value Drops Below 1,000 Trillion Won
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
+  - [china] Trump propõe novas tarifas contra China, UE e outros 12 parceiros
   - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
   - [korea] LG Electronics Inc to divest 2% stake in Indian subsidiary
   - [korea] Korea to retain 15% tariff cap under new US tariff proposal
@@ -45,7 +47,6 @@ Total: 3000 manchetes
   - [china] Trump admin proposes new tariffs on 14 trading partners, 20% on China - report
   - [china] US Targets China, EU With New Tariffs After Overcapacity Probe
   - [taiwan] TSMC asking for tax incentives at Texas fab suggests no AI slowdown: Wedbush
-  - [japan] Japan to draft 2nd supplementary budget for urgent needs
   - [china] Taxman can be China's next GDP growth engine
   - [china] The Logistics Report: China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies — WSJ Newsl
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuan
   - [japan] My home loan interest rate is a concern due to the Bank of Japan's interest rate hike. ``My repayments haven't
   - [japan] [There are also benefits that NISA does not have! iDeCo Complete Guide] Who will benefit from the revision? / 
-  - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T16:32:52+00:00",
+      "published_utc": "2026-11-25T16:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
