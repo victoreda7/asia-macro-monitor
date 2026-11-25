@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T04:42:43.989604+00:00",
- "collected_at_utc": "2026-11-25T04:42:43.989604+00:00",
+ "generated_at_utc": "2026-11-25T04:52:43.349552+00:00",
+ "collected_at_utc": "2026-11-25T04:52:43.349552+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 962,
+  "japan": 964,
   "china": 1004,
-  "taiwan": 337,
+  "taiwan": 335,
   "korea": 697
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:08:00+00:00"
+   "newest": "2026-11-25T04:03:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:44:46+00:00"
+   "newest": "2026-11-24T09:31:50+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "error": "",
-   "newest": "2026-11-25T11:35:23+08:00"
+   "newest": "2026-11-25T12:15:25+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T04:28:51+00:00"
+   "newest": "2026-11-25T04:42:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T03:12:53+00:00"
+   "newest": "2026-11-25T04:42:51+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:38:00+00:00"
+   "newest": "2026-11-24T22:32:25+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T04:31:45+00:00"
+   "newest": "2026-11-25T04:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:53:00+00:00"
+   "newest": "2026-11-25T04:44:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -360,6 +360,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6465884d6ac3d6a2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan not considering issuing new deficit-financing bonds for extra budget, TBS says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N03U:0-japan-not-considering-issuing-new-deficit-financing-bonds-for-extra-budget-tbs-says/",
+   "published_utc": "2026-11-25T04:22:50+00:00",
+   "title_original": "Japan not considering issuing new deficit-financing bonds for extra budget, TBS says",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "03d07aca21fe4510"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -584,6 +601,23 @@
    "live_wire": true,
    "manual": false,
    "id": "13970609a54fef3c"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVhSM281QzBIUHI0bVU2X2N0dmdKc0dRTldOZV8wU2NNSTZfWTR5NnNzdmhwRG1UX0VkdjVzNDlTYlNDYm1yZEJ1N1R0cjZyckZUZ0pvVWhld3NZczVwbFlsNEJmUy05RzdKangybjFLWHV6TXRpN0I3Z29ncjRubEpveUlIVWtYOWQ2VEt1bmtneEhlWHVCZDJrSEg5VVhDT3pNNExKM25xdWYzOWhR?oc=5",
+   "published_utc": "2026-11-25T02:23:00+00:00",
+   "title_original": "Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba8efc830b81e1df"
   },
   {
    "source_id": "tradingview_live",
@@ -1353,8 +1387,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -1368,7 +1402,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -1713,6 +1747,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2461,24 +2513,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -8450,8 +8484,8 @@
    "id": "3837affcb00cf3b4"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -8465,7 +8499,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10612,7 +10646,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -10624,7 +10658,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "55af98a494c201f9"
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51851,40 +51885,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4e7fdd2da6e8ac5f"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Amazon 3Q26 earnings call: TSMC capacity behind AWS's choice to start selling its own AI chips",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjFFS2s5NEhEWHl3TnFMQjhtWlFDU0RqRFdSX3FUUWd4WlNDU1JYU2lIejlWLUNqZzVJdm10dWVINzdkLWpvQWpvMGdWT0t5NDV3TXlsN0VHR2l6cmNqRjFMdHdZcEh6cDlTWVZwNS0ySkdhcmhaVVdjb0hwQ3p2Umx3dFlua2k5?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "Amazon 3Q26 earnings call: TSMC capacity behind AWS's choice to start selling its own AI chips",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c9fc3d46c8c24094"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92dVZpaS1sLWh0Q185MDVMZllXbFJfZlM0Y0FDcWdJMlF2UTJGaHBKRzB3NjJSMmJhcDRuQ25uMXNtbUE2MTA2SWZ0UFVUazB6cm1STGFOZ196MHlTOXZkeQ?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b6ca491c84e47624"
   },
   {
    "source_id": "manual_ia",

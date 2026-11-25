@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T04:42:43.989604+00:00
+Última coleta: 2026-11-25T04:52:43.349552+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
+  🇯🇵 Japão          964
   🇨🇳 China          1004
-  🇹🇼 Taiwan         337
+  🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
   - [china] MLF reverse repurchase portfolio operation, the central bank accurately regulates liquidity
+  - [japan] Japan not considering issuing new deficit-financing bonds for extra budget, TBS says
   - [china] China Focus: China's manufacturing powerhouse deepens regional integration
   - [china] China's yuan touches 3-week high but trade tension worries cap gains
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
@@ -31,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Which prefecture has the highest food prices? 1st place in 2025 is Okinawa prefecture with 106.6, Tokyo is 3rd
   - [china] Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News
   - [china] Taxman can be China's next GDP growth engine
+  - [japan] Rakuten Credit Risk Surges After Yen Bond Offering Scrapped
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
   - [china] On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT SERVICES PPI +1.1% M/M: SEPT +0.3%
   - [japan] MNI: JAPAN OCT SERVICES PPI +4.2% Y/Y; SEPT +3.8%
   - [korea] SK Securities "The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, an
-  - [japan] Japan's corporate services inflation spikes in October
-  - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T04:42:44+00:00",
+      "published_utc": "2026-11-25T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
