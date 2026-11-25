@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T01:42:41.357670+00:00
+Última coleta: 2026-11-25T01:53:04.270976+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          971
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
+  - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
   - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
   - [korea] The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Ibiden Stocks Soar 14.98% as AI Substrate Maker Leads Tokyo's Chip Rebound
   - [japan] Advantest Stocks Jump 12.45% as Tokyo Chip Testers Lead Huang Rebound
   - [china] Nvidia Faces Fresh China Chip Restrictions Despite Huang's Return
-  - [china] US Readies Tariff Hike on China, EU Goods as Soon as Tuesday
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T01:42:41+00:00",
+      "published_utc": "2026-11-25T01:53:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
