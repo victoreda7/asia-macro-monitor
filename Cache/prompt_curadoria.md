@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T00:42:42.552158+00:00
+Última coleta: 2026-11-25T00:53:13.916357+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          976
+  🇯🇵 Japão          975
   🇨🇳 China          993
-  🇹🇼 Taiwan         338
+  🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
-  - [japan] Japan's key services inflation gauge hits 36-year high
+  - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
+  - [japan] Japan’s key services inflation gauge hits 36-year high
+  - [china] The latest release from the central bank! 500 billion + 800 billion
   - [japan] Interest Rate (November 24 2026)
   - [korea] Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle
   - [china] Bull Market Morning News｜The central bank launched an 800 billion yuan MLF operation and a 500 billion yuan 7-
-  - [japan] Japan’s corporate services inflation spikes in October
   - [japan] JAPAN OCT SERVICES PPI +1.1% M/M: SEPT +0.3%
   - [japan] MNI: JAPAN OCT SERVICES PPI +4.2% Y/Y; SEPT +3.8%
   - [korea] SK Securities "The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, an
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
   - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
   - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
-  - [china] U.S. prepares to raise tariffs on China, EU, other nations - WSJ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T00:42:42+00:00",
+      "published_utc": "2026-11-25T00:53:14+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

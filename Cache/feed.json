@@ -1,18 +1,34 @@
 {
- "generated_at_utc": "2026-11-25T00:42:42.552158+00:00",
- "collected_at_utc": "2026-11-25T00:42:42.552158+00:00",
+ "generated_at_utc": "2026-11-25T00:53:13.916357+00:00",
+ "collected_at_utc": "2026-11-25T00:53:13.916357+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 976,
+  "japan": 975,
   "china": 993,
-  "taiwan": 338,
+  "taiwan": 339,
   "korea": 693
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 52.2,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T17:39:00+00:00"
+   "newest": "2026-11-24T15:08:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:31:50+00:00"
+   "newest": "2026-11-25T00:44:46+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +91,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T00:20:14+00:00"
+   "newest": "2026-11-25T00:49:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T00:07:02+00:00"
+   "newest": "2026-11-25T00:36:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T05:20:22+00:00"
+   "newest": "2026-11-24T06:06:34+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -163,7 +179,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:03:00+00:00"
+   "newest": "2026-11-24T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -172,22 +188,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-18T20:35:00+00:00"
-  },
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-25T08:39:27+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-25T07:09:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:10:21+00:00"
+   "newest": "2026-11-25T00:33:30+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T00:40:26+00:00"
+   "newest": "2026-11-25T00:47:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T21:29:40+00:00"
+   "newest": "2026-11-24T18:25:23+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:05:59+00:00"
+   "newest": "2026-11-25T00:31:34+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,24 +342,61 @@
    "newest": "2026-11-25T00:02:01+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "nhk_politics": 1,
+  "nhk_economy": 1
+ },
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's key services inflation gauge hits 36-year high",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47600G:0-japan-s-key-services-inflation-gauge-hits-36-year-high/",
-   "published_utc": "2026-11-25T00:32:09+00:00",
-   "title_original": "Japan's key services inflation gauge hits 36-year high",
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan accelerates domestic drone procurement with unlocked defense budgets",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2xHTjkxTEt0WG5NRlR0WVdXeHNnOXNxaWc0dGNnWmdhaVBvSEhITllwTUdPYk4tZVlPZXU0RER0dWRoZFhvalZJMnNWV0pTZkxKa0dyYmF5SG42MUQ4M0ZTWkJJTTd2VC15X2UtQVJtV3hvaUp2clJLNmo2MjVVNjdkZ1p5dnF0NmJ5RlUtSVVEWDVFTmhNZVBRaW1ENnRp?oc=5",
+   "published_utc": "2026-11-25T00:44:46+00:00",
+   "title_original": "Taiwan accelerates domestic drone procurement with unlocked defense budgets",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3daca669669ec06b"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s key services inflation gauge hits 36-year high",
+   "url": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-spikes-in-october-5049407",
+   "published_utc": "2026-11-25T00:36:39+00:00",
+   "title_original": "Japan’s key services inflation gauge hits 36-year high",
    "region": "japan",
    "topics": [
     "inflation"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "120685232a0d57ba"
+   "id": "3c281d5cc81c4ad8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中金在线",
+   "title_en": "The latest release from the central bank! 500 billion + 800 billion",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vMERvRklYQS1WaXlqcTFHY1Nua2NTS19pMHg5RTdOQzZHeUV1WmN5RGJOb25jSXNqa1hGMnR1cUh3UjZqUGQxRE9ucU5kc2VsSndjLTVhYWNVbUptdHRHYXd2S29Rekl1aFlF?oc=5",
+   "published_utc": "2026-11-25T00:33:30+00:00",
+   "title_original": "央行最新发布！5000亿+8000亿",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1b9e5d6c72db291"
   },
   {
    "source_id": "mof_jp",
@@ -412,23 +449,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6fb2d446240e94f6"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan’s corporate services inflation spikes in October",
-   "url": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-spikes-in-october-5049407",
-   "published_utc": "2026-11-25T00:06:28+00:00",
-   "title_original": "Japan’s corporate services inflation spikes in October",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d0955d074d5dd9d"
   },
   {
    "source_id": "tradingview_live",
@@ -51879,24 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f662116b5b16f1fa"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "African Export-Import Bank Mulls First Offshore Yuan Loan",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFZ2WnhPdDJyVjJIRFpUNG4wUzRjTjJDeS1SNzBQRFpmcGdaMVNXNVBHdlh1RHB5b0NfOTJSNnVUcFBMRWVOLUltWWdocXNKTjB6NWJ6S0xrOEFBY2JwT3NYNzdFY2FJamEwZkw1WmsyaFJQaDVCN205T1haSG5UbTJ5Yk0wUHZfdG1VdlpyTEE2Y3JDeVNpVS03ektHTkhFYjQ3QUlrbnpHN28x?oc=5",
-   "published_utc": "2026-10-30T04:09:00+00:00",
-   "title_original": "African Export-Import Bank Mulls First Offshore Yuan Loan",
-   "region": "china",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff289f7142e2dc61"
   },
   {
    "source_id": "manual_ia",
