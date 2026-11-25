@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T11:22:41.565776+00:00
+Última coleta: 2026-11-25T11:32:51.722409+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          945
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
   - [china] China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuan
+  - [japan] My home loan interest rate is a concern due to the Bank of Japan's interest rate hike. ``My repayments haven't
   - [japan] [There are also benefits that NISA does not have! iDeCo Complete Guide] Who will benefit from the revision? / 
   - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
   - [china] USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB yield curve steepens as market reassesses BOJ's rate hike path
   - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
-  - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T11:22:41+00:00",
+      "published_utc": "2026-11-25T11:32:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
