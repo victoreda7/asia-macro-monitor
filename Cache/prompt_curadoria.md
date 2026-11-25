@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T03:12:42.890941+00:00
+Última coleta: 2026-11-25T03:22:43.264201+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          965
-  🇨🇳 China          1002
-  🇹🇼 Taiwan         338
+  🇨🇳 China          1001
+  🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [japan] Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related sto
+  - [japan] Which prefecture has the highest food prices? 1st place in 2025 is Okinawa prefecture with 106.6, Tokyo is 3rd
   - [china] Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News
   - [china] Taxman can be China's next GDP growth engine
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
   - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
-  - [korea] [Today’s economic news] Bank of Korea interest rate hike imminent… … Banking sector, non-performing loan manag
-  - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T03:12:43+00:00",
+      "published_utc": "2026-11-25T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
