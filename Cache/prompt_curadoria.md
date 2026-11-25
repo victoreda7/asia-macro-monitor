@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T02:12:48.594222+00:00
+Última coleta: 2026-11-25T02:22:50.361819+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          972
+  🇯🇵 Japão          971
   🇨🇳 China          996
-  🇹🇼 Taiwan         338
+  🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
   - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
   - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
+  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
   - [china] The latest release from the central bank! 500 billion + 800 billion
   - [japan] Interest Rate (November 24 2026)
@@ -46,6 +48,7 @@ Total: 3000 manchetes
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
   - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
+  - [korea] [Today’s economic news] Bank of Korea interest rate hike imminent… … Banking sector, non-performing loan manag
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
   - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
   - [japan] Why do companies choose the "employment support business" despite constant criticism of "separation of people 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Corporate Japan logs record first-half profit on AI demand, soft yen
   - [japan] Prime Minister Takaichi intends to support Japan's future finances with the huge proceeds from the sale of Ban
   - [japan] Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.
-  - [korea] Credo Technology Group Holding, Navitas Semiconductor, SiTime, Rambus, and SK hynix stocks trade down, what yo
-  - [japan] Ibiden Stocks Soar 14.98% as AI Substrate Maker Leads Tokyo's Chip Rebound
-  - [japan] Advantest Stocks Jump 12.45% as Tokyo Chip Testers Lead Huang Rebound
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T02:12:48+00:00",
+      "published_utc": "2026-11-25T02:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

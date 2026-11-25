@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T02:12:48.594222+00:00",
- "collected_at_utc": "2026-11-25T02:12:48.594222+00:00",
+ "generated_at_utc": "2026-11-25T02:22:50.361819+00:00",
+ "collected_at_utc": "2026-11-25T02:22:50.361819+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 972,
+  "japan": 971,
   "china": 996,
-  "taiwan": 338,
+  "taiwan": 339,
   "korea": 694
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:25:13+00:00"
+   "newest": "2026-11-25T00:44:51+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T02:12:00+00:00"
+   "newest": "2026-11-25T02:21:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T18:25:23+00:00"
+   "newest": "2026-11-25T00:23:04+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:41:33+00:00"
+   "newest": "2026-11-23T06:23:23+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:18:24+00:00"
+   "newest": "2026-11-25T02:13:01+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan dollar and South Korean won lead decline in Asian FX",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N476040:0-taiwan-dollar-and-south-korean-won-lead-decline-in-asian-fx/",
+   "published_utc": "2026-11-25T02:19:44+00:00",
+   "title_original": "Taiwan dollar and South Korean won lead decline in Asian FX",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a65d6a12a8eece35"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -534,6 +551,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f35b3e3db4cdc367"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlMxWjV0blVDRzdsSjFMVVREU1F3SnVSN29ETEZpU3ZzWWVMV1E4cU1SV0w3eHNJMmhTTUx0N2hMUjh4V3N3NzBvXy1wbmIwdnFXZGt6U2RHNlFOcmw5MklfV25lOURocUpjb21qaUhDTEtWbG81Z0lMS21nYVN2ajlud1g3VU8xdW1J?oc=5",
+   "published_utc": "2026-11-25T00:44:51+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "102ec5a376cb7634"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -848,6 +883,23 @@
    "id": "1bb93539d9db8c7d"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스버스",
+   "title_en": "[Today’s economic news] Bank of Korea interest rate hike imminent… … Banking sector, non-performing loan management emergency",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHclZ6SnBLM3N6SnhFNnVWbC1Zc0xwMWtnMEtyMXNkWS1qYzlCay1FTUxTRmRDbW1jVy1hRFNoNDRXOGs4QW42X3VfTGw2cEROOG90WFZhRDBVQkpDdEFpR1VDd0JZWG1IQmc?oc=5",
+   "published_utc": "2026-11-24T21:48:42+00:00",
+   "title_original": "[오늘의 경제뉴스] 한은 금리 인상 임박……은행권, 부실채권 관리 비상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "836fabe35e60e976"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars",
@@ -971,8 +1023,8 @@
    "id": "87038f08758aee6a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -986,7 +1038,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -1331,24 +1383,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8069,8 +8103,8 @@
    "id": "3837affcb00cf3b4"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -8084,13 +8118,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -8102,7 +8136,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8310,8 +8344,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -8324,7 +8358,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9710,24 +9744,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d194caf33b549423"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "北京商报",
-   "title_en": "To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85ZUx5eEhPZTdWWkozcERtVXY3ZnRWa1hsWHh4dEVqbHhKdTRYUjZEcVBLd0ZBVGRIbVc5NnBjd3BJUGJ1bTRZbWlOVjN2d3g5Ykl2VDhPVkRDMUVTMlE?oc=5",
-   "published_utc": "2026-11-19T16:04:21+00:00",
-   "title_original": "呵护税期走款 央行开展7002亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "be68da4a5802680c"
   },
   {
    "source_id": "investing_live",
@@ -11275,6 +11291,24 @@
    "id": "3c3fc0a5361dcc7f"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中华网财经",
+   "title_en": "To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yQXhjUlNLYjZMNnhxVVQtSzFLbVAzQmwtbWczdUVyZlFadlg5RlItRjUxV3VHcnhJZDlmamNKV1NwSlFFekZRcFREY2ZITHhqRGpidzZGYks5alNEZ3lmR3dDZG12ZzBxQkotUEM5QU8tSmc?oc=5",
+   "published_utc": "2026-11-19T01:12:09+00:00",
+   "title_original": "呵护税期走款 央行开展7002亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7fe093c4c1a49372"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Microsoft’s chip packaging deal hands Intel credibility more than revenue",
@@ -12604,7 +12638,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5RDlQSXEyU0ViRm1BWFg1bEw5RWw3cVIzOURzWWdNdk50LXlqRU9fMEVNTW5vMS1QY2dIZENuaDVDdGRnWF92UVRmVkNEZkRTOE5fZlNvVjJYazhZRVVDRE51aE4tRE9nUGtZVm0zT1htRDZ1RHRuV0ZLWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeElsbzdYRFppVXFFY3VKeFVSUmxRVU9yRnM4UDhKSjZRdlNDT250RVM1TjNRNVlGcEhJejhTOUl4Z3Atdl8zZUZ0eGM4RkdVVWVuZWw2clA0Y3BJd1cwaFZWUktSTER4dEhLY05MdHpjWlFIbUd4UVZ1bGg?oc=5",
    "published_utc": "2026-11-18T06:50:31+00:00",
    "title_original": "S. Korea's state-run think tank raises growth outlook to 3.8 pct for 2026",
    "region": "korea",
@@ -12616,7 +12650,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4315a4524b51e517"
+   "id": "da938c0df372aaaa"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51858,41 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "833c398777678bab"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to continue raising rates looking at inflation, other factors: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xQjFrWUxMUUsyc0JfR0daTDZ4ZVRoNVhXMmNneXI0T2ZTaXhSVEFRc1o5OW51d0h0VlVDMmM1VnNMN1otZVZpUVZqbE1QYW1LNEcwcXFTTkhhQQ?oc=5",
-   "published_utc": "2026-10-30T06:53:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to continue raising rates looking at inflation, other factors: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e54fa863638c4e2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "엠에스투데이",
-   "title_en": "“The United States is also on the verge of an interest rate hike”… The Bank of Korea's selection for November is",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDRV9xVUQ3YThPbFFMN3RQRmVRMGhSX3VBYmJGcmNncXY2cnpZeC1Va2N1TExtVjlRYm43aFJvcjhaMFphZVNGRVZWcTByc0xhN0hPempGR1BQZkdJcUZ5QUtfT19EempIaTAwbtIBcEFVX3lxTE1NWUdLRXlGLWN5SHRBSUlhVjJjcFZnQnMzaE05V2lQekF2TTJ5WHNnOGhyX3RmbFppamlaVDZLcmJfcmU5WW5HT1QwSk9GQk9URTVrdjUzelppRENQSGtSNDFfbXllVXVBd3lRS3lRNEY?oc=5",
-   "published_utc": "2026-10-30T06:46:01+00:00",
-   "title_original": "\"미국도 금리인상 불씨\"…한은 11월 선택은",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "74c5f492ce1f43a2"
   },
   {
    "source_id": "manual_ia",
