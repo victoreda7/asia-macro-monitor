@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T14:52:46.667009+00:00
+Última coleta: 2026-11-25T15:03:59.198614+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
   - [china] US Targets China, EU With New Tariffs Citing Overcapacity
   - [korea] LG Electronics Inc to divest 2% stake in Indian subsidiary
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
   - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
   - [china] China’s Surprise Soyoil Export Boom Cools as India Turns to Palm
-  - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [korea] Clash over end to AI memory boom heats up, roiling Korean chip stocks
   - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
   - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T14:52:46+00:00",
+      "published_utc": "2026-11-25T15:03:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
