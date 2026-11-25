@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T02:22:50.361819+00:00
+Última coleta: 2026-11-25T02:32:42.477521+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          971
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Taxman can be China's next GDP growth engine
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
   - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
-  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
   - [china] The latest release from the central bank! 500 billion + 800 billion
   - [japan] Interest Rate (November 24 2026)
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T02:22:50+00:00",
+      "published_utc": "2026-11-25T02:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
