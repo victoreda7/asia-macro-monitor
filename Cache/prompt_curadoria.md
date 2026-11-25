@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T07:52:43.270105+00:00
+Última coleta: 2026-11-25T08:05:23.839088+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          953
@@ -17,10 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [china] Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
   - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [china] China's Politburo shrinks as graft crackdown spreads
+  - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
   - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
   - [japan] Japan’s key services inflation gauge hits 36-year high
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026
   - [korea] North Korea expels Swiss representative over sanctions related to children's camp
   - [korea] North Korea expels Swiss diplomat over sanctions weeks after office reopening
-  - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
-  - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T07:52:43+00:00",
+      "published_utc": "2026-11-25T08:05:24+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
