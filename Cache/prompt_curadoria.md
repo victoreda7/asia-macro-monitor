@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T02:44:14.302704+00:00
+Última coleta: 2026-11-25T02:52:42.066324+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          970
-  🇨🇳 China          997
+  🇯🇵 Japão          968
+  🇨🇳 China          999
   🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [china] Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News
   - [china] Taxman can be China's next GDP growth engine
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
   - [china] On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.
@@ -45,9 +46,9 @@ Total: 3000 manchetes
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
   - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
-  - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
   - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
+  - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
   - [korea] [Today’s economic news] Bank of Korea interest rate hike imminent… … Banking sector, non-performing loan manag
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US government restricts AI semiconductor exports to Southeast Asia and Brazil due to suspicions of Nvidia Huan
   - [korea] Bank of Korea Seen Resuming Rate Hikes as AI Boom Stokes Growth
   - [japan] Corporate Japan logs record first-half profit on AI demand, soft yen
-  - [japan] Prime Minister Takaichi intends to support Japan's future finances with the huge proceeds from the sale of Ban
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T02:44:14+00:00",
+      "published_utc": "2026-11-25T02:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
