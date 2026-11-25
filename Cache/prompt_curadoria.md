@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T00:53:13.916357+00:00
+Última coleta: 2026-11-25T01:04:18.427322+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          975
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Accounts (November 20)
   - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [china] The latest release from the central bank! 500 billion + 800 billion
@@ -26,6 +27,7 @@ Total: 3000 manchetes
   - [japan] JAPAN OCT SERVICES PPI +1.1% M/M: SEPT +0.3%
   - [japan] MNI: JAPAN OCT SERVICES PPI +4.2% Y/Y; SEPT +3.8%
   - [korea] SK Securities "The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, an
+  - [japan] Japan's corporate services inflation spikes in October
   - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
   - [japan] Services Producer Price Index (Oct.)
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, W
   - [china] To prevent fluctuations and guarantee the monthly extension, the central bank will carry out a 7-day reverse r
   - [china] White House prepares sweeping new tariffs on China, EU, and dozens of nations
-  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill for this fiscal year
-  - [china] Country Garden Reports 136 Million Yuan in New Litigation and 1.686 Billion Yuan in Overdue Debt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T00:53:14+00:00",
+      "published_utc": "2026-11-25T01:04:18+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

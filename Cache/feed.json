@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-25T00:53:13.916357+00:00",
- "collected_at_utc": "2026-11-25T00:53:13.916357+00:00",
+ "generated_at_utc": "2026-11-25T01:04:18.427322+00:00",
+ "collected_at_utc": "2026-11-25T01:04:18.427322+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,31 +11,15 @@
   "taiwan": 339,
   "korea": 693
  },
- "elapsed_s": 52.2,
+ "elapsed_s": 124.8,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 43,
+   "count": 44,
    "error": "",
-   "newest": "2026-11-25T08:50:00+09:00"
+   "newest": "2026-11-25T10:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T15:08:00+00:00"
+   "newest": "2026-11-24T17:39:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -91,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T00:49:17+00:00"
+   "newest": "2026-11-25T01:01:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -155,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T00:24:06+00:00"
+   "newest": "2026-11-25T00:59:34+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:30:00+00:00"
+   "newest": "2026-11-24T02:44:14+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -188,6 +172,22 @@
    "count": 30,
    "error": "",
    "newest": "2026-11-18T20:35:00+00:00"
+  },
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-25T08:39:27+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-25T09:41:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:33:30+00:00"
+   "newest": "2026-11-25T00:44:51+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:06:36+00:00"
+   "newest": "2026-11-24T17:57:26+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T00:47:00+00:00"
+   "newest": "2026-11-25T01:03:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:27:00+00:00"
+   "newest": "2026-11-25T00:45:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:31:34+00:00"
+   "newest": "2026-11-25T00:39:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -342,16 +342,30 @@
    "newest": "2026-11-25T00:02:01+00:00"
   }
  ],
- "falhas_seguidas": {
-  "nhk_politics": 1,
-  "nhk_economy": 1
- },
+ "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan Accounts (November 20)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261120.htm",
+   "published_utc": "2026-11-25T01:00:00+00:00",
+   "title_original": "Bank of Japan Accounts (November 20)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "be444052708be6fb"
+  },
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan accelerates domestic drone procurement with unlocked defense budgets",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2xHTjkxTEt0WG5NRlR0WVdXeHNnOXNxaWc0dGNnWmdhaVBvSEhITllwTUdPYk4tZVlPZXU0RER0dWRoZFhvalZJMnNWV0pTZkxKa0dyYmF5SG42MUQ4M0ZTWkJJTTd2VC15X2UtQVJtV3hvaUp2clJLNmo2MjVVNjdkZ1p5dnF0NmJ5RlUtSVVEWDVFTmhNZVBRaW1ENnRp?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWh2TFlhdFBjUGRId3RvcGVUUDlSV0VfWS1GM2QyQllublZuQzNJM0M5WjA2UlBSOHZDNlphUUtsWmlxMVVxWGJFZ0VPaVlQNU9qODFnYXN5R29naE5ZMi1zNXVMSi1XQ3JiZlBOY3JBZmY1NjNFQzgxMjNrS0dpY1RtcUh4S010dlhxVUt4bm8zempwRFE?oc=5",
    "published_utc": "2026-11-25T00:44:46+00:00",
    "title_original": "Taiwan accelerates domestic drone procurement with unlocked defense budgets",
    "region": "taiwan",
@@ -362,7 +376,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3daca669669ec06b"
+   "id": "fba721fbf74e55ab"
   },
   {
    "source_id": "investing_econ",
@@ -501,6 +515,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bc1a34143d2d1a1c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's corporate services inflation spikes in October",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47520C:0-japan-s-corporate-services-inflation-spikes-in-october/",
+   "published_utc": "2026-11-25T00:00:24+00:00",
+   "title_original": "Japan's corporate services inflation spikes in October",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f82b92317b593cda"
   },
   {
    "source_id": "boj_whatsnew",
@@ -717,7 +748,7 @@
    "title_en": "US government restricts AI semiconductor exports to Southeast Asia and Brazil due to suspicions of Nvidia Huang Tightening restrictions on China | Business | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/965571?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-11-24T21:00:00+00:00",
-   "title_original": "エヌビディア･ファン氏の疑惑でアメリカ政府が東南アジアやブラジル向けAI半導体輸出を規制 中国への締め付け強化 | ビジネス | 東洋経済オンライン",
+   "title_original": "エヌビディア･フアン氏の疑惑でアメリカ政府が東南アジアやブラジル向けAI半導体輸出を規制 中国への締め付け強化 | ビジネス | 東洋経済オンライン",
    "region": "china",
    "topics": [
     "monetary",
@@ -728,7 +759,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5551e238e51fc286"
+   "id": "0c6f889beff52697"
   },
   {
    "source_id": "nikkei_asia",
@@ -2647,7 +2678,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is \"moderately recovering\"",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOE1jOEtmeTdncTNzSVFzQkMzR2ZsMFBldVhfS1N2ME5PNWNsYWxwQmp6bkl3TUJLSmV0QUNVUERXaWExYVh5ZW5pdTI2eU9DWlVpYUpPQjJNN2xNbTRVQi1VMGpCUEh3bGJHdmhWNHdFNEJscWp6RFFrYmx2MHVCTW5DTUxaT1RXbHRUcUpB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90R3JUQ2Nuay1xTUZIZVdJWUFuVHNuRXBqb3pSX3FMMElsZjhlOFA0M0xxRmRKaHRpSklvTGJEZG1rXzJsXzFrdml0bFh4QVZnYmJMV1ZLdVhFN3Z4WU5UeHV5a3ZoZnU4X0J4akVqZDJjTV9ndEd1T1o5bGplQWc?oc=5",
    "published_utc": "2026-11-24T02:56:01+00:00",
    "title_original": "日銀鹿児島支店が会見 県内の景気「緩やかに回復」",
    "region": "japan",
@@ -2659,7 +2690,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d519d76434a7f11f"
+   "id": "930f8245f519d422"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -9679,7 +9710,7 @@
    "id": "317bdb5a8c18968b"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
@@ -9693,7 +9724,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ae20b02125a0c925"
+   "id": "f57c7af880cefe96"
   },
   {
    "source_id": "tradingview_live",
@@ -51864,41 +51895,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe8a59badc8351e2"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjUxT2ttOGhQdWw2a1lVMlI0Y3BNVkt4RTlNclpDOTk5U0FxMWY4WXVpb1NJUTNuQjY0a0wyZ2JlTU5leTJqMzZKUzQxWjBiRWhSWjRmcnVFTUtFN0NQR2wyRTFpY1h1VFR3X3Z5N2RSODJNUTJZLUs1SmZjM0VBTDJPWXMycnZIT3VPdlhlNWduejJGZlVaSVR3Wm1ycHVMeURzSHluUWFZa0VzMVhBcUNtV0VCUjlWOWc?oc=5",
-   "published_utc": "2026-10-30T04:22:27+00:00",
-   "title_original": "Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d91391a50467c116"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Analysts react to BOJ decision to keep rates steady",
-   "url": "https://www.investing.com/news/economy-news/analysts-react-to-boj-decision-to-keep-rates-steady-4985754",
-   "published_utc": "2026-10-30T04:18:18+00:00",
-   "title_original": "Analysts react to BOJ decision to keep rates steady",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f662116b5b16f1fa"
   },
   {
    "source_id": "manual_ia",
