@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T02:52:42.066324+00:00",
- "collected_at_utc": "2026-11-25T02:52:42.066324+00:00",
+ "generated_at_utc": "2026-11-25T03:02:42.592341+00:00",
+ "collected_at_utc": "2026-11-25T03:02:42.592341+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 968,
-  "china": 999,
+  "japan": 966,
+  "china": 1001,
   "taiwan": 339,
   "korea": 694
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T22:33:57+00:00"
+   "newest": "2026-11-25T02:44:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:24:41+00:00"
+   "newest": "2026-11-25T02:51:27+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:39:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-18T20:35:00+00:00"
+   "newest": "2026-11-16T07:11:34+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T11:30:55+09:00"
+   "newest": "2026-11-25T11:51:17+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:06:19+00:00"
+   "newest": "2026-11-25T01:25:13+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:30:00+00:00"
+   "newest": "2026-11-25T02:53:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EYXlnVjBJUFZXZFRaY0t2amkzVmF1QWItRmxtaGNNOHl5SXNzSktVN3Y0WnhKWFBYbzBMck9kZXlkSEE0ZHBlVzl3emhLRFJQbDJKZ2NORTNCUGYtSGE1czRDS0pCQ3JpblM2V1AzeVBHeUUta3lN?oc=5",
+   "published_utc": "2026-11-25T02:51:27+00:00",
+   "title_original": "EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c80382001ed7488b"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related stocks",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261125de80958",
+   "published_utc": "2026-11-25T02:51:17+00:00",
+   "title_original": "日経平均株価 一時2100円超の値下がり 半導体関連中心に売り",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f3581fe8b1d09547"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -534,6 +569,25 @@
    "live_wire": false,
    "manual": false,
    "id": "3c281d5cc81c4ad8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The Philadelphia Semiconductor Index fell nearly 8%; the central bank will launch an 800 billion yuan MLF operation丨Pre-market information-Securities Star",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yX1phSkdQeVdqc2FuRHBySm51RmtwYXVnTURqYzFibjQ0djZ0Z0VEbFJVQVRQSk50eVdQUjFheHNiYXdoWl8xSnhGNnV6UEZMYzZ3RkNRMl9CbGdXaUE?oc=5",
+   "published_utc": "2026-11-25T01:17:36+00:00",
+   "title_original": "费城半导体指数跌近8%；央行将开展8000亿元MLF操作丨盘前情报-证券之星",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "78c5825593c4d831"
   },
   {
    "source_id": "korea_herald_biz",
@@ -845,6 +899,24 @@
    "id": "d345812d89fb25fa"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse repurchase and an 800 billion yuan MLF operation; the Ministry of Innovation and Development of 6G launched a provincial coordinated pilot, and 8 provinces and cities were approved",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oR0VJOFNROEpZV1VtWGg4aENvZ3hnbGxuQzJEX0FMQWk5Q0JGNkZ3MDR2V2x2dFdROTZabjRrNzhNbEFXOGYzU3NsLVJBakJUZjNYZFhBaXA0eUF4YjhOS2lXbWdKZw?oc=5",
+   "published_utc": "2026-11-24T23:07:55+00:00",
+   "title_original": "央广财经早报（11月25日）|央行开展5000亿元7天期逆回购和8000亿元MLF操作；6G创新发展部省协同试点启动，8省市获批",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "615a1888bcb8aabe"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Binance News",
    "title_en": "Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027",
@@ -880,24 +952,6 @@
    "live_wire": false,
    "manual": false,
    "id": "76f74537055189ad"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "央广财经",
-   "title_en": "Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse repurchase and an 800 billion yuan MLF operation; the Ministry of Innovation and Development of 6G launched a provincial coordinated pilot, and 8 provinces and cities were approved",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtUzMyalNETm5NQkh2WXJheW1yTlhHSWdHRmV4WU95aW8wc2NEVHQ0RjVfSmlpbURMME1VcUNnSUZXWkNfbDBTVkZ2SFl1cUVGUTVOdTJQbUUzU0kxTGNlQ0tMa0ZvVDBsVjZuVnZucw?oc=5",
-   "published_utc": "2026-11-24T23:00:00+00:00",
-   "title_original": "央广财经早报（11月25日）|央行开展5000亿元7天期逆回购和8000亿元MLF操作；6G创新发展部省协同试点启动，8省市获批",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ddf84e31c58c0e0c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2972,7 +3026,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is \"moderately recovering\"",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90R3JUQ2Nuay1xTUZIZVdJWUFuVHNuRXBqb3pSX3FMMElsZjhlOFA0M0xxRmRKaHRpSklvTGJEZG1rXzJsXzFrdml0bFh4QVZnYmJMV1ZLdVhFN3Z4WU5UeHV5a3ZoZnU4X0J4akVqZDJjTV9ndEd1T1o5bGplQWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOE1jOEtmeTdncTNzSVFzQkMzR2ZsMFBldVhfS1N2ME5PNWNsYWxwQmp6bkl3TUJLSmV0QUNVUERXaWExYVh5ZW5pdTI2eU9DWlVpYUpPQjJNN2xNbTRVQi1VMGpCUEh3bGJHdmhWNHdFNEJscWp6RFFrYmx2MHVCTW5DTUxaT1RXbHRUcUpB?oc=5",
    "published_utc": "2026-11-24T02:56:01+00:00",
    "title_original": "日銀鹿児島支店が会見 県内の景気「緩やかに回復」",
    "region": "japan",
@@ -2984,7 +3038,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "930f8245f519d422"
+   "id": "d519d76434a7f11f"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -10334,7 +10388,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -10346,7 +10400,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "55af98a494c201f9"
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51838,57 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ef4a9e7ebb63a98"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan govt. to spend another $7.3 bil. on fuel subsidy",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Tc1NvMjcyUG5TWGRxUTc1WU9kSG1fSm5rTWNiSnZEcWZERkpXaHM5NkFpdkxuNHBaLXlKU2J2M0poRVh6a05qelNpclEyd1phTnFsZDFTZW5NUHdxTDFjTFpIOA?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "Japan govt. to spend another $7.3 bil. on fuel subsidy",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2b53270de15c6dbe"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan's anime market tops 4 tril. yen for 1st time",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjTUV0d1QyeV92bWRVRWdQZlFGQlVLTG5saWlYN19KQ1dKMmpHTG93LTNsdVhJMDJuYy00MklJb3lNRVVvdk1LVkNBcThqOHFmdkZvUGFaNTBRUQ?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "Japan's anime market tops 4 tril. yen for 1st time",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c616e2c69ed1658"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bank of Japan Hits 2% Price Target",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVhLeXl6RjI0amZfU3NTR3g4Z0VhYzdvX29UendaWVpyNjF3S3haM3dyUHhRWHF0ZTdsNWF5MG1ZY0w0cDdWTDE2c29DOGxtaGdVYmhYdWVGeldVS3BsRHFGVDdIcVMtelA2djBtN25CdFJSS0tjZ1A1dklzclZHbGMtNA?oc=5",
-   "published_utc": "2026-10-30T07:00:00+00:00",
-   "title_original": "Bank of Japan Hits 2% Price Target",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22a85c78360a036a"
   },
   {
    "source_id": "manual_ia",

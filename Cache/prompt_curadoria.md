@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T02:52:42.066324+00:00
+Última coleta: 2026-11-25T03:02:42.592341+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          968
-  🇨🇳 China          999
+  🇯🇵 Japão          966
+  🇨🇳 China          1001
   🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
+  - [japan] Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related sto
   - [china] Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News
   - [china] Taxman can be China's next GDP growth engine
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
@@ -28,6 +30,7 @@ Total: 3000 manchetes
   - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
   - [korea] The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..
   - [japan] Japan’s key services inflation gauge hits 36-year high
+  - [china] The Philadelphia Semiconductor Index fell nearly 8%; the central bank will launch an 800 billion yuan MLF oper
   - [korea] S. Korea's consumer goods exports hit record high amid Korean culture boom
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
@@ -46,17 +49,14 @@ Total: 3000 manchetes
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
   - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
+  - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
   - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
-  - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
   - [korea] [Today’s economic news] Bank of Korea interest rate hike imminent… … Banking sector, non-performing loan manag
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
   - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
   - [japan] Why do companies choose the "employment support business" despite constant criticism of "separation of people 
-  - [china] US government restricts AI semiconductor exports to Southeast Asia and Brazil due to suspicions of Nvidia Huan
-  - [korea] Bank of Korea Seen Resuming Rate Hikes as AI Boom Stokes Growth
-  - [japan] Corporate Japan logs record first-half profit on AI demand, soft yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T02:52:42+00:00",
+      "published_utc": "2026-11-25T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
