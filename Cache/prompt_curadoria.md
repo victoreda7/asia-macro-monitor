@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T03:42:51.041663+00:00
+Última coleta: 2026-11-25T03:52:42.772865+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          965
-  🇨🇳 China          1001
-  🇹🇼 Taiwan         339
+  🇨🇳 China          1002
+  🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
   - [china] On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
+  - [china] Important signal! 500 billion + 800 billion, the central bank takes action today
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
   - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
   - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
@@ -54,9 +55,8 @@ Total: 3000 manchetes
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
   - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
+  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget bill (ABEMA TIMES)
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
-  - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
-  - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T03:42:51+00:00",
+      "published_utc": "2026-11-25T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
