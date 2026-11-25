@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T20:52:42.292243+00:00
+Última coleta: 2026-11-25T21:02:43.010374+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          1010
+  🇯🇵 Japão          934
+  🇨🇳 China          1009
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Legal employment rate raised to 2.7%> Is it true that a reporter infiltrates the site of an ``employment supp
+  - [japan] The collapse of the illusion that "the Republican Party is Japan's ally on the trade front"...The sad reality 
   - [china] LEARN MORE-How China gained access to Nvidia's AI chips despite rules to prevent it
   - [japan] Japan's Preferred Networks sows seeds of physical AI with robots, software and chips
   - [japan] Yen, Swiss franc gain as dollar slips in volatile AI-driven session
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Trump's China tariff math: 20%, times two if talks go sour
   - [china] USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING N
   - [china] USTR says latest US tariffs mostly align with trade deals with China, others
-  - [china] USTR GREER Q&A/CNBC: PROPOSED SECTION 301 TARIFF RATE FOR CHINA SOMEWHAT ADDITIVE BUT PAIRED WITH PROPOSED EXE
-  - [china] Could potential US tariffs put the US-China trade truce at risk?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T20:52:42+00:00",
+      "published_utc": "2026-11-25T21:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
