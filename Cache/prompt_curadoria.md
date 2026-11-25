@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T03:32:42.559422+00:00
+Última coleta: 2026-11-25T03:42:51.041663+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          965
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Auction Result of 40-Year JGBs on November 25, 2026
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
   - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
-  - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T03:32:42+00:00",
+      "published_utc": "2026-11-25T03:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
