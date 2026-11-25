@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T06:42:45.352596+00:00
+Última coleta: 2026-11-25T06:56:31.082026+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          956
+  🇯🇵 Japão          957
   🇨🇳 China          1000
-  🇹🇼 Taiwan         339
+  🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
   - [korea] The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026(For JGB Market Special Participants)
   - [china] China's YMTC boosted by Samsung and SK Hynix adopting its memory technology
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Blue Observation丨500 billion + 800 billion The central bank plays a "combination of long and short" meas
   - [china] Taxman can be China's next GDP growth engine
   - [japan] Rakuten Credit Risk Surges After Yen Bond Offering Scrapped
-  - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T06:42:45+00:00",
+      "published_utc": "2026-11-25T06:56:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
