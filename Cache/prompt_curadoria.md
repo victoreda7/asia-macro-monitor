@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T05:22:41.768137+00:00
+Última coleta: 2026-11-25T05:32:42.865793+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          963
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Indicators for Core CPI
   - [china] China's plastics export boom fades as stockpiles run down, feedstock costs climb
   - [korea] (LEAD) Banks' household mortgage lending rates hit over 14-yr high in Oct.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea's consumer goods exports hit record high amid Korean culture boom
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
-  - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T05:22:41+00:00",
+      "published_utc": "2026-11-25T05:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
