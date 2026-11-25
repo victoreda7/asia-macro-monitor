@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T12:22:42.507228+00:00
+Última coleta: 2026-11-25T12:33:02.458177+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          944
+  🇯🇵 Japão          943
   🇨🇳 China          1005
-  🇹🇼 Taiwan         343
+  🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC asking for tax incentives at Texas fab suggests no AI slowdown: Wedbush
   - [japan] Japan to draft 2nd supplementary budget for urgent needs
   - [china] Taxman can be China's next GDP growth engine
   - [china] The Logistics Report: China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies — WSJ Newsl
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '
-  - [japan] Auction Result of 40-Year JGBs on November 25, 2026(For JGB Market Special Participants)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T12:22:42+00:00",
+      "published_utc": "2026-11-25T12:33:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
