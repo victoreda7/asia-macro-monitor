@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T07:22:58.574077+00:00",
- "collected_at_utc": "2026-11-25T07:22:58.574077+00:00",
+ "generated_at_utc": "2026-11-25T07:32:43.736829+00:00",
+ "collected_at_utc": "2026-11-25T07:32:43.736829+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 956,
-  "china": 1002,
+  "japan": 954,
+  "china": 1003,
   "taiwan": 338,
-  "korea": 704
+  "korea": 705
  },
- "elapsed_s": 45.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T06:43:07+00:00"
+   "newest": "2026-11-25T07:18:28+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T06:41:03+00:00"
+   "newest": "2026-11-25T07:26:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T07:22:00+00:00"
+   "newest": "2026-11-25T07:32:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:22:20+00:00"
+   "newest": "2026-11-25T06:23:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:23:23+00:00"
+   "newest": "2026-11-25T06:58:04+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T04:47:00+00:00"
+   "newest": "2026-11-25T02:53:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261125001106:0-kospi-falls-to-10-month-low-as-chip-stock-selloff-resumes-market-talk/",
+   "published_utc": "2026-11-25T07:31:00+00:00",
+   "title_original": "Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a4864cbcc2bb3658"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1239,6 +1256,24 @@
    "live_wire": true,
    "manual": false,
    "id": "7f0db49074cd528c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "http://www.jingjiribao.cn/",
+   "title_en": "The central bank launches 500 billion yuan reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IektVajJfZzZSMEVsTDd2Y0t0M2JTMHE2TTgyc3pHdDIzM0xka1oxREhsVlpXclNVTS1FUFpiNjdnel9EbkFqN3JBZUdyUXoyN2pWOWpIcjhORXYxR3pKSVBlQQ?oc=5",
+   "published_utc": "2026-11-25T01:30:22+00:00",
+   "title_original": "央行开展5000亿元逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cdb2d8175210760d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51835,44 +51870,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7d14bacc316dcd41"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Is achieving the 2% target with good price increases that was initially aimed at a dream that cannot be fulfilled? (Bank of Japan Governor Press Conference) (NRI researcher's commentary on current events)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uTC1VdGRBOV9PN0JaaXVIZVNTcHBuRkV6alk4WndlTGJYRkRtOVdLYldST0loVWVUQXZ2U0RQZXN5eUhkNFFzeS1JcWx1Um5UUTd1T1IzQXlzN0VmVl83T1JpYzBfdGJ1UTFtT0I4VW9sNm1qVnZMM2ZrMXF6OUk?oc=5",
-   "published_utc": "2026-10-30T09:04:26+00:00",
-   "title_original": "当初目指した良い物価上昇での2％目標達成は見果てぬ夢か（日銀総裁記者会見）（NRI研究員の時事解説）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "53f5a1b9a132922f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Why did the Bank of Japan aim for 2% inflation? Adjust interest rates to adjust the economy and prices",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dk5jYTFJQWdtNllNRE9FRElNRE5hQ0lib1pVX3NkTm1wcm1US05TMlRDTnp6WktwSnZyNGtCUmFqa1NvSGJsSlF1bUpyOGN6UEdrdlYzbDdTbTJ2Y0Z6ZmZURl9ELTNHYWhKaGlvNXpLbDB0OGVnaE9UY2w5SzQ?oc=5",
-   "published_utc": "2026-10-30T09:00:29+00:00",
-   "title_original": "日銀はなぜ「物価2％」を目指したの？ 金利を動かして、景気と物価を調整する",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "49f9693891e79eb2"
   },
   {
    "source_id": "manual_ia",

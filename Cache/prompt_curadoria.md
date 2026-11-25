@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T07:22:58.574077+00:00
+Última coleta: 2026-11-25T07:32:43.736829+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          956
-  🇨🇳 China          1002
+  🇯🇵 Japão          954
+  🇨🇳 China          1003
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  704
+  🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
   - [china] China's Politburo shrinks as graft crackdown spreads
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
   - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Judgment on the prefecture's economy remains unchanged Bank of Japan Kochi Branch [Kochi] (RKC Kochi Broadcast
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [japan] Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related sto
-  - [japan] Which prefecture has the highest food prices? 1st place in 2025 is Okinawa prefecture with 106.6, Tokyo is 3rd
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T07:22:58+00:00",
+      "published_utc": "2026-11-25T07:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
