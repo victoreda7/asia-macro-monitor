@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T01:32:42.997092+00:00",
- "collected_at_utc": "2026-11-25T01:32:42.997092+00:00",
+ "generated_at_utc": "2026-11-25T01:42:41.357670+00:00",
+ "collected_at_utc": "2026-11-25T01:42:41.357670+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 973,
-  "china": 995,
+  "japan": 971,
+  "china": 996,
   "taiwan": 338,
-  "korea": 694
+  "korea": 695
  },
- "elapsed_s": 28.1,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T17:39:00+00:00"
+   "newest": "2026-11-24T15:08:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T01:29:48+00:00"
+   "newest": "2026-11-25T01:30:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:39:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T02:44:14+00:00"
+   "newest": "2026-11-24T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:44:51+00:00"
+   "newest": "2026-11-25T01:25:13+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T01:31:37+00:00"
+   "newest": "2026-11-25T01:41:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:23:04+00:00"
+   "newest": "2026-11-24T21:29:40+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:14:13+00:00"
+   "newest": "2026-11-25T01:34:07+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:17:53+00:00"
+   "newest": "2026-11-25T01:18:24+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,75 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS",
+   "url": "https://www.tradingview.com/news/dpa_afx:e989cfd1a8839:0-china-pboc-conducts-cny617-bln-via-o-n-reverse-repo-weds/",
+   "published_utc": "2026-11-25T01:41:07+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5b0ff0216351eec3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111",
+   "url": "https://www.tradingview.com/news/dpa_afx:0b797b8a0bf1e:0-china-sets-yuan-central-parity-at-6-7088-weds-vs-6-7111/",
+   "published_utc": "2026-11-25T01:32:33+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7f0db49074cd528c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 617 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GX3NydzE2ZkdIVnRNTmZjSDFQRldUbmk1ZUMxcklvc09xMDJ3YkpkbGlOTXVxT0NXc1hBaV84Q0MwNDZmNTNzLUhydXJzUFQ5cUtjcUtCcHR0QmtiUE52WA?oc=5",
+   "published_utc": "2026-11-25T01:25:13+00:00",
+   "title_original": "央行今日开展6170亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c0c1fa5140251bc1"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ucjBmbF94ZG9qbXZYdmpkYTMxdEo2Z3VlMkZ5bWNkekpVRWFzOXIzbHlud045SkFQSy00MGtnNHNBYms0MjJIS29KbEd1YUk?oc=5",
+   "published_utc": "2026-11-25T01:18:24+00:00",
+   "title_original": "The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba9fcba2ab05ea68"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -429,24 +498,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f35b3e3db4cdc367"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlMxWjV0blVDRzdsSjFMVVREU1F3SnVSN29ETEZpU3ZzWWVMV1E4cU1SV0w3eHNJMmhTTUx0N2hMUjh4V3N3NzBvXy1wbmIwdnFXZGt6U2RHNlFOcmw5MklfV25lOURocUpjb21qaUhDTEtWbG81Z0lMS21nYVN2ajlud1g3VU8xdW1J?oc=5",
-   "published_utc": "2026-11-25T00:44:51+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "102ec5a376cb7634"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -988,10 +1039,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "新浪财经",
    "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb3RzQUlpU3QySk1GR1o3TG1LUGJKZVNtTUdtaTFBb1R6enA4c0Uyb2pLVHBSRmswMWNRT2RRLTQ5YkdsUmJfSHpzY2J3UnpkdmlPNm4xZzMyZ01qMUUzWjI1a3ROQQ?oc=5",
-   "published_utc": "2026-11-24T16:01:12+00:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tRlpEWWdVcWhxTm5tdmJlTk1JaHdYVmUxMDZNMFl4bjlJX0hXcjA0SGxXRGctQ0VRRUREZmJYQWUtcFotYmxqSndCaGNpTlByUExEeWRURXlMdHhVWWM5UDMxbWU1ak53cy13cjMtanVYRjRmenBzQw?oc=5",
+   "published_utc": "2026-11-24T15:59:48+00:00",
    "title_original": "8000亿元MLF+5000亿元逆回购，央行长短“组合拳”11月25日落地",
    "region": "china",
    "topics": [
@@ -1002,7 +1053,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "baf54932e196ff72"
+   "id": "389a67f730613382"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -1055,24 +1106,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7470c9e212563365"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WSElKWFVRUFlUNDdYdGtKQzM5NmlqRDFOWEZmTEg1VFJ5TktxemdqbER3aFdBaWt1eTlFR1dSbmtuZ0dmaXFiRGVxQXlUd1N1Wk5wY2kwd2F1dlg0bElSYlFDdw?oc=5",
-   "published_utc": "2026-11-24T14:26:15+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "debf9457c22fd086"
   },
   {
    "source_id": "tradingview_live",
@@ -1262,6 +1295,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1852,6 +1903,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7c8dca0001fef26c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
+   "published_utc": "2026-11-24T09:34:34+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e76ede17ef3679"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2764,7 +2833,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is \"moderately recovering\"",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOE1jOEtmeTdncTNzSVFzQkMzR2ZsMFBldVhfS1N2ME5PNWNsYWxwQmp6bkl3TUJLSmV0QUNVUERXaWExYVh5ZW5pdTI2eU9DWlVpYUpPQjJNN2xNbTRVQi1VMGpCUEh3bGJHdmhWNHdFNEJscWp6RFFrYmx2MHVCTW5DTUxaT1RXbHRUcUpB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90R3JUQ2Nuay1xTUZIZVdJWUFuVHNuRXBqb3pSX3FMMElsZjhlOFA0M0xxRmRKaHRpSklvTGJEZG1rXzJsXzFrdml0bFh4QVZnYmJMV1ZLdVhFN3Z4WU5UeHV5a3ZoZnU4X0J4akVqZDJjTV9ndEd1T1o5bGplQWc?oc=5",
    "published_utc": "2026-11-24T02:56:01+00:00",
    "title_original": "日銀鹿児島支店が会見 県内の景気「緩やかに回復」",
    "region": "japan",
@@ -2776,7 +2845,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d519d76434a7f11f"
+   "id": "930f8245f519d422"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7985,7 +8054,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -7997,7 +8066,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1dadeea9b01c3e4a"
+   "id": "8866970f950f8cce"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51822,76 +51891,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4c71ad75a0c45780"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "In Depth: Chinese Manufacturers Flock to Africa as Trade Gives Way to Local Production",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWXYwU3JKQjd4WnctckpIbGRwYWRBa3E2cTI2U2pTVWtLdzJFQ1V5enV6NnV6Z0VZOTJtQnB3emhpb3dBQXMwSGs0eXI0Y1g4N2YzNGRIV2tmNHVWNENiTFlvUHFLXzA0ZUpIdUlXUnhPSi0tX1d2SVpVYXpXcEo0dl9yOEN2V3NvYVJXd1EzT19jSlE2Vy1pNW4tMzBVMmk2WjU2VHRXcFl0b2g3ZGh4S210TkJiUk9VRUdld19uMzRUMktEVmhsRjJjWnpHVlBlWkNwaDhrTQ?oc=5",
-   "published_utc": "2026-10-30T06:08:00+00:00",
-   "title_original": "In Depth: Chinese Manufacturers Flock to Africa as Trade Gives Way to Local Production",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9daa3860f14c6745"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "China's green energy exports hit record high, one year's carbon reduction can equal Brazil's entire year's carbon emissions",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LYXJpNDJGY2lTM0s1RWtkQ2JGTTVaaHp3UW1YTzJram5WSGVoU0tralh5dDVZallPWXA4OTZ1UlBLRjVJSHFUUlRNcUZULUNiRWtseVA1WGQ?oc=5",
-   "published_utc": "2026-10-30T05:41:57+00:00",
-   "title_original": "中國綠能出口創新高 一年減碳可抵巴西整年碳排",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c51cde44c28fa79d"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan to Scale Back Fuel Subsidies as Iran War Costs Mount",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVcxVzJoTldMUkwwSjFiQU11LXo4OFhQekM1SFpRTXBMdElnRlZGWmhibWduRFhLLUc5d1hqX0Z5X2FPV0hjUEVIVXdDdzdKX1V0VmQ5RHNfTEdha1M3V1VSbThWclFMcWxxazJ2UDgwY0hncmZOSDJCMjd5QjF0Q2FUX28xOS1yZ2E2elFKUXlETkZQUlRpSk0zRTl6OWxNQ3BSN0p1OHhBa0xZR3c?oc=5",
-   "published_utc": "2026-10-30T05:19:00+00:00",
-   "title_original": "Japan to Scale Back Fuel Subsidies as Iran War Costs Mount",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a91e15d2df61504"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ says 2% inflation target achieved, holds rates steady",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-says-2-inflation-target-achieved-holds-rates-steady",
-   "published_utc": "2026-10-30T05:02:44.335172+00:00",
-   "title_original": "BOJ says 2% inflation target achieved, holds rates steady",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "27c1ee9a8cb947d0"
   },
   {
    "source_id": "manual_ia",

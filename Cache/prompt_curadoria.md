@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T01:32:42.997092+00:00
+Última coleta: 2026-11-25T01:42:41.357670+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          973
-  🇨🇳 China          995
+  🇯🇵 Japão          971
+  🇨🇳 China          996
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  694
+  🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
+  - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
+  - [korea] The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] S. Korea's consumer goods exports hit record high amid Korean culture boom
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
   - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
-  - [china] The central bank will carry out 800 billion yuan MLF operation
   - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
   - [china] The latest release from the central bank! 500 billion + 800 billion
   - [japan] Interest Rate (November 24 2026)
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Advantest Stocks Jump 12.45% as Tokyo Chip Testers Lead Huang Rebound
   - [china] Nvidia Faces Fresh China Chip Restrictions Despite Huang's Return
   - [china] US Readies Tariff Hike on China, EU Goods as Soon as Tuesday
-  - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
-  - [china] China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025
-  - [china] China extends suspension of ban on US-bound gallium, germanium, antimony exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T01:32:43+00:00",
+      "published_utc": "2026-11-25T01:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
