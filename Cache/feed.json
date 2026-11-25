@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T17:42:49.265142+00:00",
- "collected_at_utc": "2026-11-25T17:42:49.265142+00:00",
+ "generated_at_utc": "2026-11-25T17:52:43.405923+00:00",
+ "collected_at_utc": "2026-11-25T17:52:43.405923+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
-  "china": 1010,
+  "japan": 932,
+  "china": 1011,
   "taiwan": 343,
   "korea": 714
  },
- "elapsed_s": 35.4,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T17:33:16+00:00"
+   "newest": "2026-11-25T17:42:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T17:01:28+00:00"
+   "newest": "2026-11-25T17:42:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T12:23:28+00:00"
+   "newest": "2026-11-24T01:05:31+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T11:54:44+00:00"
+   "newest": "2026-11-25T06:54:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T17:40:04+00:00"
+   "newest": "2026-11-25T17:51:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:58:04+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "BIO: Local manufacturing, China expansion and H2 FY27 innovation lead the update",
+   "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4823696:0-bio-local-manufacturing-china-expansion-and-h2-fy27-innovation-lead-the-update/",
+   "published_utc": "2026-11-25T17:51:34+00:00",
+   "title_original": "BIO: Local manufacturing, China expansion and H2 FY27 innovation lead the update",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6843f56fe69a6686"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1524,23 +1541,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fd71ff1694c280ff"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752B0:0-jtekt-corporation-to-launch-tender-offer-for-own-shares-prices-at-1-733-yen-per-share/",
-   "published_utc": "2026-11-25T06:51:53+00:00",
-   "title_original": "Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e09b20d72a0123a7"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3179,24 +3179,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -3320,7 +3302,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -3332,7 +3314,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3471,24 +3453,6 @@
    "live_wire": false,
    "manual": false,
    "id": "613bdcaad620b2a9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
-   "published_utc": "2026-11-24T10:45:38+00:00",
-   "title_original": "央行：11月25日将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "185164eda1a75342"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3770,24 +3734,6 @@
    "id": "7c8dca0001fef26c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -3821,6 +3767,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0c9cbd82953e7626"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "published_utc": "2026-11-24T09:29:29+00:00",
+   "title_original": "央行：11月25日将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "185164eda1a75342"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3890,6 +3854,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -4257,6 +4239,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
+   "published_utc": "2026-11-24T08:00:00+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -6188,7 +6188,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launches 499.5 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rbmJlcWIta2Rmbm5TRmo0VHdrZkxqSVp5c0xJVXR3Y3cwRXpGNUE2YlZ1ZmpPSmExdU1TRmJhVjhwYU5yUGVmZ2hnNGs0RkR1d3FlcGJhZEhjcXlxX1FmMVR3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ZTVEVWt6NXZKUW0tQW1CY3BucWlMZHdTdVp4dXZBYVlPeXd3STlXZGhwemkzSFlGUGc3SjE1NlFEME5Qb09zZ1R2dkM0QQ?oc=5",
    "published_utc": "2026-11-23T03:14:16+00:00",
    "title_original": "央行开展4995亿元隔夜逆回购操作",
    "region": "china",
@@ -6200,7 +6200,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "12a75acfca25700d"
+   "id": "1834e3da166896aa"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -12041,7 +12041,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -12053,7 +12053,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "894e406afb4c4cea"
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
