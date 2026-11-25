@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T09:23:12.256709+00:00
+Última coleta: 2026-11-25T09:32:41.848644+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          946
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
+  - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
   - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's plastics export boom fades as stockpiles run down, feedstock costs climb
   - [korea] (LEAD) Banks' household mortgage lending rates hit over 14-yr high in Oct.
   - [korea] Bank of Korea May Opt for Hawkish Hold — Market Talk
-  - [korea] Why is SK Hynix stock tumbling today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T09:23:12+00:00",
+      "published_utc": "2026-11-25T09:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
