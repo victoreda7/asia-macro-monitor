@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T08:05:23.839088+00:00
+Última coleta: 2026-11-25T08:12:42.420924+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          953
-  🇨🇳 China          1005
-  🇹🇼 Taiwan         338
+  🇯🇵 Japão          952
+  🇨🇳 China          1004
+  🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
   - [japan] Japanese Government Bonds Held by the Bank of Japan
+  - [taiwan] Analysis: Nvidia leadership settled, but US export rules still cloud outlook for Taiwan server makers
   - [china] Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
+  - [taiwan] Maintenance and component demand lift profits across Taiwan's aerospace supply chain
   - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [china] China's Politburo shrinks as graft crackdown spreads
   - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
   - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026
-  - [korea] North Korea expels Swiss representative over sanctions related to children's camp
-  - [korea] North Korea expels Swiss diplomat over sanctions weeks after office reopening
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T08:05:24+00:00",
+      "published_utc": "2026-11-25T08:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
