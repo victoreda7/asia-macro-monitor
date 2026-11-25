@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-25T01:22:42.157293+00:00",
- "collected_at_utc": "2026-11-25T01:22:42.157293+00:00",
+ "generated_at_utc": "2026-11-25T01:32:05.583837+00:00",
+ "collected_at_utc": "2026-11-25T01:32:05.583837+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 338,
   "korea": 694
  },
- "elapsed_s": 28.8,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T15:08:00+00:00"
+   "newest": "2026-11-24T17:39:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "newest": "2026-11-24T13:02:00+00:00"
   },
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "newest": "2026-11-24T21:25:55+08:00"
+   "newest": "2026-11-25T09:11:12+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T01:12:27+00:00"
+   "newest": "2026-11-25T01:26:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T00:36:39+00:00"
+   "newest": "2026-11-25T01:24:59+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T01:11:00+00:00"
+   "newest": "2026-11-25T01:31:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:16:27+00:00"
+   "newest": "2026-11-25T00:26:25+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:45:00+00:00"
+   "newest": "2026-11-25T01:18:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s key services inflation gauge hits 36-year high",
+   "url": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-spikes-in-october-5049407",
+   "published_utc": "2026-11-25T01:18:23+00:00",
+   "title_original": "Japan’s key services inflation gauge hits 36-year high",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c281d5cc81c4ad8"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -447,23 +464,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fba721fbf74e55ab"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan’s key services inflation gauge hits 36-year high",
-   "url": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-spikes-in-october-5049407",
-   "published_utc": "2026-11-25T00:36:39+00:00",
-   "title_original": "Japan’s key services inflation gauge hits 36-year high",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c281d5cc81c4ad8"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -884,8 +884,8 @@
    "id": "87038f08758aee6a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -899,7 +899,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "tradingview_live",
@@ -7964,8 +7964,8 @@
    "id": "3837affcb00cf3b4"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -7979,13 +7979,13 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "34280918d56c89eb"
+   "id": "13946413cb6bb187"
   },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -7997,7 +7997,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8205,8 +8205,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -8219,7 +8219,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c4e921bfb5438683"
+   "id": "bfe83cd56025ffc8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9605,6 +9605,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d194caf33b549423"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京商报",
+   "title_en": "To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85ZUx5eEhPZTdWWkozcERtVXY3ZnRWa1hsWHh4dEVqbHhKdTRYUjZEcVBLd0ZBVGRIbVc5NnBjd3BJUGJ1bTRZbWlOVjN2d3g5Ykl2VDhPVkRDMUVTMlE?oc=5",
+   "published_utc": "2026-11-19T16:04:21+00:00",
+   "title_original": "呵护税期走款 央行开展7002亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "be68da4a5802680c"
   },
   {
    "source_id": "investing_live",
@@ -11150,24 +11168,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3c3fc0a5361dcc7f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中华网财经",
-   "title_en": "To protect money withdrawals during tax period, the central bank launches 700.2 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yQXhjUlNLYjZMNnhxVVQtSzFLbVAzQmwtbWczdUVyZlFadlg5RlItRjUxV3VHcnhJZDlmamNKV1NwSlFFekZRcFREY2ZITHhqRGpidzZGYks5alNEZ3lmR3dDZG12ZzBxQkotUEM5QU8tSmc?oc=5",
-   "published_utc": "2026-11-19T01:12:09+00:00",
-   "title_original": "呵护税期走款 央行开展7002亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7fe093c4c1a49372"
   },
   {
    "source_id": "gn_tw_digitimes",

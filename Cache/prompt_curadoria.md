@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T01:22:42.157293+00:00
+Última coleta: 2026-11-25T01:32:05.583837+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -17,13 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] S. Korea's consumer goods exports hit record high amid Korean culture boom
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
   - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
   - [china] The central bank will carry out 800 billion yuan MLF operation
   - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
-  - [japan] Japan’s key services inflation gauge hits 36-year high
   - [china] The latest release from the central bank! 500 billion + 800 billion
   - [japan] Interest Rate (November 24 2026)
   - [korea] Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T01:22:42+00:00",
+      "published_utc": "2026-11-25T01:32:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
