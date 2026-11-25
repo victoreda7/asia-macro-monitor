@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T11:02:42.436853+00:00
+Última coleta: 2026-11-25T11:12:41.153573+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          946
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [taiwan] Texas comptroller backs US$354 million tax break for TSMC
   - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
   - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
+  - [china] China’s Surprise Soyoil Export Boom Cools as India Turns to Palm
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [korea] Clash over end to AI memory boom heats up, roiling Korean chip stocks
   - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
-  - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T11:02:42+00:00",
+      "published_utc": "2026-11-25T11:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
