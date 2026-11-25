@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T11:52:41.626058+00:00
+Última coleta: 2026-11-25T12:02:45.134738+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          944
-  🇨🇳 China          1004
+  🇯🇵 Japão          943
+  🇨🇳 China          1005
   🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [china] Taxman can be China's next GDP growth engine
+  - [china] The Logistics Report: China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies — WSJ Newsl
+  - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [japan] $1.6bn real estate development in Tokyo's Shibuya wins key approval
   - [taiwan] TIER expects U.S. tariffs on Taiwan goods not to top 15%
   - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026(For JGB Market Special Participants)
   - [china] China's YMTC boosted by Samsung and SK Hynix adopting its memory technology
-  - [taiwan] Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares
-  - [korea] Amazon Autos expanding to UK in 2027 with Hyundai
-  - [taiwan] TSMC sees AI inference fueling chip demand for years
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T11:52:41+00:00",
+      "published_utc": "2026-11-25T12:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
