@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T21:32:42.603807+00:00",
- "collected_at_utc": "2026-11-25T21:32:42.603807+00:00",
+ "generated_at_utc": "2026-11-25T21:42:42.392979+00:00",
+ "collected_at_utc": "2026-11-25T21:42:42.392979+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 934,
-  "china": 1009,
-  "taiwan": 343,
+  "china": 1010,
+  "taiwan": 342,
   "korea": 714
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T21:21:44+00:00"
+   "newest": "2026-11-25T21:32:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T06:26:53+09:00"
+   "newest": "2026-11-26T06:35:30+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T21:31:07+00:00"
+   "newest": "2026-11-25T21:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T20:12:50+00:00"
+   "newest": "2026-11-25T21:23:11+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK",
+   "url": "https://www.tradingview.com/news/DJN_DN20261125007646_20261125007659:0-csts-has-operating-subsidiaries-in-hong-kong-and-mainland-china-including-travel-agency-connexus-travel-hk/",
+   "published_utc": "2026-11-25T21:40:00+00:00",
+   "title_original": "CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5ccaa010e2164b98"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -51832,23 +51849,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7fa49c4844b0fab8"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan Q3 GDP growth hits 14.36%, highest in 48 years",
-   "url": "https://focustaiwan.tw/business/202610300021",
-   "published_utc": "2026-10-30T11:49:31+00:00",
-   "title_original": "Taiwan Q3 GDP growth hits 14.36%, highest in 48 years",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1eaf676956236542"
   },
   {
    "source_id": "manual_ia",
