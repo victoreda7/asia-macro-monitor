@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T06:03:08.732830+00:00",
- "collected_at_utc": "2026-11-25T06:03:08.732830+00:00",
+ "generated_at_utc": "2026-11-25T06:12:43.381650+00:00",
+ "collected_at_utc": "2026-11-25T06:12:43.381650+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 959,
+  "japan": 956,
   "china": 1001,
-  "taiwan": 337,
-  "korea": 703
+  "taiwan": 339,
+  "korea": 704
  },
- "elapsed_s": 56.0,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:44:46+00:00"
+   "newest": "2026-11-25T05:58:34+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 163,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-25T06:00:25+00:00"
+   "newest": "2026-11-25T06:00:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T05:36:51+00:00"
+   "newest": "2026-11-25T06:00:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-24T20:35:38+00:00"
+   "newest": "2026-11-25T05:50:37+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:56:15+00:00"
+   "newest": "2026-11-25T03:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:06:34+00:00"
+   "newest": "2026-11-25T01:44:52+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T00:24:00+00:00"
+   "newest": "2026-11-24T09:39:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T14:36:29+09:00"
+   "newest": "2026-11-25T15:10:31+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T06:02:47+00:00"
+   "newest": "2026-11-25T06:11:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:45:12+00:00"
+   "newest": "2026-11-25T05:40:38+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,74 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
+   "published_utc": "2026-11-25T06:12:42.245462+00:00",
+   "title_original": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1c1fcf0e47d1dcef"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Business Line",
+   "title_en": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
+   "url": "https://www.tradingview.com/news/moodys:fdca5e1e76622:0-huang-boost-fades-quickly-as-ai-fears-sink-tsmc-sk-hynix-shares/",
+   "published_utc": "2026-11-25T06:09:12+00:00",
+   "title_original": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "907c2e41015506a9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Amazon Autos expanding to UK in 2027 with Hyundai",
+   "url": "https://www.tradingview.com/news/seekingalpha:1826addfb094b:0-amazon-autos-expanding-to-uk-in-2027-with-hyundai/",
+   "published_utc": "2026-11-25T06:04:51+00:00",
+   "title_original": "Amazon Autos expanding to UK in 2027 with Hyundai",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "def6236fd14998d8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC sees AI inference fueling chip demand for years",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmxVZTQzSHlBN0FGVmx4TWZkdTNuNEs4TS1SeW5yX0VYRVA5YURHbGpvTlU5eVRIX3FmUzNDQlI4ODktLVE3Zm4tZGM0VUpLanpQTV9PQzdqZ2VUUnYwMXFfM2UxNkx6VG1hNlM2cXRCZURTVE5vTmY1dGt1elp6YnFPVHhpWWtpMklRRERsZWVndw?oc=5",
+   "published_utc": "2026-11-25T05:58:34+00:00",
+   "title_original": "TSMC sees AI inference fueling chip demand for years",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "26a21cf756ece085"
+  },
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
@@ -1507,6 +1575,24 @@
    "id": "836fabe35e60e976"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZU3VWb0lMbG5tTHdiQmE0MGt0TE5Ya3Y2UXRPUTJXTUUtMnh3dVB1RE9xZHg5Yy04dEFIdnhiOTVPci1nbkxWdFl3RDNfVDBDQnExcFZpVkhoX3lBQzk5Qw?oc=5",
+   "published_utc": "2026-11-24T21:42:49+00:00",
+   "title_original": "8000亿元MLF+5000亿元逆回购 央行长短“组合拳”今日落地",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26d65a707c8b4b05"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars",
@@ -1820,6 +1906,24 @@
    "id": "7470c9e212563365"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WSElKWFVRUFlUNDdYdGtKQzM5NmlqRDFOWEZmTEg1VFJ5TktxemdqbER3aFdBaWt1eTlFR1dSbmtuZ0dmaXFiRGVxQXlUd1N1Wk5wY2kwd2F1dlg0bElSYlFDdw?oc=5",
+   "published_utc": "2026-11-24T14:26:15+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "debf9457c22fd086"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "Japan Government Keeps Gradual Economic Recovery Outlook;Notes Sluggish Consumer Spending amid Rising Costs, Warns of Inflationary Impact of Iran War",
@@ -2007,24 +2111,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2618,24 +2704,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "Bond market closes | The central bank will launch a 500 billion seven-day reverse repurchase operation tomorrow, and the yields on government bonds will rise and fall.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWY5TUJiWFJDR0FDYnZCUVFhRG5hN2FFZnRyYUZfVEZCYjhseWtrSTNmLWYwNHhQSzNEU2YwT21wM1d0T1FqaWdKcVlzQTBieWFMb2Q4QWRvSGxWZDM1SVdabjFBYTJzMnUwRWpHd0M3NjNTNS01aUFvTEY0cGRoeVE2dThvUTQ0N0h3?oc=5",
@@ -2773,6 +2841,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -10888,7 +10974,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -10900,7 +10986,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "894e406afb4c4cea"
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51791,94 +51877,6 @@
    "live_wire": false,
    "manual": false,
    "id": "df49295b8e949126"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 115 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGxTVWZfYWV2Y0hEV2d3WW5CMDFIWTBHd3h1VzZGVjgtR1pFMHo1dWItc2ZSbmJOOUxqOHQ3VVNVTXR4Y1Q1MWlvVXhvWkxCMkZRbC1kVE51YTdvV2pwcWFuNnBEZjhVREtaelJGZEJPaDdCbWhyXzlvLXNNR25seFlTZ29DZllYWkhVNWYxZG01bk9OWVY1bzVzUXY1WmJzMkFmUmN4ZWplM1hsa081S1pCZXF5cmMtZGxVQlh4aTAza2MycWZUTS1rX0R1bkFJY2pqSERLZFUzb1UzenM3MVRjTmVGRldzbGx2ZXBSbjBjVmNscjdtcXE5OHlBX3ZaMGxnck5qeW5sZUpDTkItMA?oc=5",
-   "published_utc": "2026-10-30T08:21:01+00:00",
-   "title_original": "央行开展1150亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "998b4683943b14b8"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3h0TFB0SVlMbFNPQVE2bGE4ZllsT29XUGR1Mkt5eHZKeXk1WDh2OWhxSFF3aXMyWm5oUzhjZC1EbWxJUTZ3c1FWS2pPZENLdHNPaUlUM1h4V2tEdmVFX0lMWGZrMTRpR3Y1SGpmbUhPUUVQUVotNGFOWlpBcklfSlMwN3QzQU50dldHQldUWkNWRG5jZWxMRzlfNmlOOFF5XzlWVHl3WnY3dEg4?oc=5",
-   "published_utc": "2026-10-30T08:19:47+00:00",
-   "title_original": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "790b224abc2222fa"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Audi cuts 2026 outlook on China weakness, price pressure",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmJYWDRaRXNWRm5hdEk2QUtRR3NYZ1NuYVJtZ2hTUW9kb1ZBaGc2eFZ0Q2Vub3cxdmRhNjhlbGxPMGgxZEpQVm5nMmc1TWR3LTJCUDF0THZsemF2T3RkVlpkVGlaMDJ0OWlMYmo4d1c1Vm9mdmlzT3VNNUxycWprMmFBalozOXJnZzVkRXVnU2pmb1phcjlxZlo4eGtIOUZhZm5LREw5cVE?oc=5",
-   "published_utc": "2026-10-30T08:19:43+00:00",
-   "title_original": "Audi cuts 2026 outlook on China weakness, price pressure",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "31cbc1976782a917"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Today's Oha Biz October 30th (Friday) What is the terminal rate (achieved interest rate)?",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68213",
-   "published_utc": "2026-10-30T08:16:52+00:00",
-   "title_original": "きょうのおはBiz10月30日(金) ターミナルレート(到達金利)とは",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b0f22f5756c70e9"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "BOJ keeps interest rates steady as expected; says CPI inflation now at 2% target By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFVEbkp2N21fTm00UkxfcFdYdlFKVVZSSU96Z0ZHN1NKVWhweURPcmtUcDNuNmJtcTJwdV90elZHS2gwNnJ4VWRGYW01S3kyNVhPQW5RRXhURm9iQzJkZmtTamI0WWdiZXB2c0x3MVE1d185dDR1ODFHVXp5YnQxLUhNWG53bjczUFZObU1XSjZOV2NHY1N1QWJRaXo2SGlTalg5UWF1V0VtVkk2VmttZnZjTVJMMk9Ub0tpSVdDTFBZTGN3RlE?oc=5",
-   "published_utc": "2026-10-30T08:06:36+00:00",
-   "title_original": "BOJ keeps interest rates steady as expected; says CPI inflation now at 2% target By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1f244f9ed325518"
   },
   {
    "source_id": "manual_ia",

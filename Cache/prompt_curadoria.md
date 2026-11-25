@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T06:03:08.732830+00:00
+Última coleta: 2026-11-25T06:12:43.381650+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          959
+  🇯🇵 Japão          956
   🇨🇳 China          1001
-  🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  703
+  🇹🇼 Taiwan         339
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [china] China's YMTC boosted by Samsung and SK Hynix adopting its memory technology
+  - [taiwan] Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares
+  - [korea] Amazon Autos expanding to UK in 2027 with Hyundai
+  - [taiwan] TSMC sees AI inference fueling chip demand for years
   - [korea] (LEAD) Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle
   - [japan] JGB yield curve steepens as market reassesses BOJ's rate hike path
   - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
   - [china] Important signal! 500 billion + 800 billion, the central bank takes action today
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
-  - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
-  - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
-  - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T06:03:08+00:00",
+      "published_utc": "2026-11-25T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
