@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T00:03:04.558250+00:00
+Última coleta: 2026-11-25T00:12:42.232535+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          975
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Average Contract Interest Rates on Loans and Discounts (Sept.)
   - [japan] Services Producer Price Index (Oct.)
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
+  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
@@ -31,7 +32,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi intends to support Japan's future finances with the huge proceeds from the sale of Ban
   - [japan] Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.
   - [korea] Credo Technology Group Holding, Navitas Semiconductor, SiTime, Rambus, and SK hynix stocks trade down, what yo
-  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [japan] Ibiden Stocks Soar 14.98% as AI Substrate Maker Leads Tokyo's Chip Rebound
   - [japan] Advantest Stocks Jump 12.45% as Tokyo Chip Testers Lead Huang Rebound
   - [china] Nvidia Faces Fresh China Chip Restrictions Despite Huang's Return
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T00:03:04+00:00",
+      "published_utc": "2026-11-25T00:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
