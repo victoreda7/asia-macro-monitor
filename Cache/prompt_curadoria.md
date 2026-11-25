@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T14:42:44.824595+00:00
+Última coleta: 2026-11-25T14:52:46.667009+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
-  🇨🇳 China          1011
+  🇯🇵 Japão          934
+  🇨🇳 China          1012
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
+  - [china] US Targets China, EU With New Tariffs Citing Overcapacity
   - [korea] LG Electronics Inc to divest 2% stake in Indian subsidiary
   - [korea] Korea to retain 15% tariff cap under new US tariff proposal
   - [china] Chinese AI firms face growing pressure from US chip rules - Information
@@ -37,7 +39,6 @@ Total: 3000 manchetes
   - [china] The Logistics Report: China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies — WSJ Newsl
   - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
   - [japan] $1.6bn real estate development in Tokyo's Shibuya wins key approval
-  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [taiwan] TIER expects U.S. tariffs on Taiwan goods not to top 15%
   - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
   - [korea] Clash over end of AI memory boom heats up, roiling Korean chip stocks
   - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
-  - [china] China's PVC exports face anti-dumping investigations in many places. China's utilization rate is expected to r
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T14:42:45+00:00",
+      "published_utc": "2026-11-25T14:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
