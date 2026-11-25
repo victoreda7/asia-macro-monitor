@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T06:56:31.082026+00:00
+Última coleta: 2026-11-25T07:03:44.692490+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          957
-  🇨🇳 China          1000
+  🇯🇵 Japão          956
+  🇨🇳 China          1001
   🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Politburo shrinks as graft crackdown spreads
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
   - [korea] The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026(For JGB Market Special Participants)
@@ -46,6 +47,7 @@ Total: 3000 manchetes
   - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026
   - [korea] North Korea expels Swiss representative over sanctions related to children's camp
+  - [korea] North Korea expels Swiss diplomat over sanctions weeks after office reopening
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
   - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Which prefecture has the highest food prices? 1st place in 2025 is Okinawa prefecture with 106.6, Tokyo is 3rd
   - [china] Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News
   - [china] China Blue Observation丨500 billion + 800 billion The central bank plays a "combination of long and short" meas
-  - [china] Taxman can be China's next GDP growth engine
-  - [japan] Rakuten Credit Risk Surges After Yen Bond Offering Scrapped
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T06:56:31+00:00",
+      "published_utc": "2026-11-25T07:03:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
