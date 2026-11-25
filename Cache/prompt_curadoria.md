@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T19:02:44.166278+00:00
+Última coleta: 2026-11-25T19:12:42.284691+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
+  🇯🇵 Japão          931
   🇨🇳 China          1011
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  714
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [korea] How a Bain-led deal made SK Hynix Kioxia's top shareholder
+  - [china] Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes
   - [china] U.S. Proposes Additional 20% Tariff on China Ahead of Trade Truce Deadline
   - [china] BIO: Local manufacturing, China expansion and H2 FY27 innovation lead the update
   - [china] Trump rebuilds tariff wall with new duties on China, Japan and others
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] US Targets China, EU With New Tariffs After Overcapacity Probe
   - [taiwan] TSMC asking for tax incentives at Texas fab suggests no AI slowdown: Wedbush
   - [china] Taxman can be China's next GDP growth engine
-  - [china] The Logistics Report: China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies — WSJ Newsl
-  - [china] 800 billion + 500 billion! The central bank's "combination punch" protects liquidity
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T19:02:44+00:00",
+      "published_utc": "2026-11-25T19:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

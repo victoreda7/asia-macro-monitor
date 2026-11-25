@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T19:02:44.166278+00:00",
- "collected_at_utc": "2026-11-25T19:02:44.166278+00:00",
+ "generated_at_utc": "2026-11-25T19:12:42.284691+00:00",
+ "collected_at_utc": "2026-11-25T19:12:42.284691+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 932,
+  "japan": 931,
   "china": 1011,
   "taiwan": 343,
-  "korea": 714
+  "korea": 715
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:00:00+00:00"
+   "newest": "2026-11-25T18:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T18:45:49+00:00"
+   "newest": "2026-11-25T19:04:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T18:42:25+00:00"
+   "newest": "2026-11-25T19:04:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T08:54:00+00:00"
+   "newest": "2026-11-25T17:37:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T00:24:00+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T11:54:44+00:00"
+   "newest": "2026-11-25T06:54:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T19:02:00+00:00"
+   "newest": "2026-11-25T19:10:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T12:33:50+00:00"
+   "newest": "2026-11-25T15:37:36+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:45:35+00:00"
+   "newest": "2026-11-23T06:23:23+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,42 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
+   "published_utc": "2026-11-25T19:12:41.522851+00:00",
+   "title_original": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "25a9495dec0164d8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes",
+   "url": "https://www.tradingview.com/news/stocktwits:45a0ce033094b:0-nvidia-chip-sellers-reportedly-scramble-for-new-buyers-as-us-tightens-china-export-loopholes/",
+   "published_utc": "2026-11-25T19:02:23+00:00",
+   "title_original": "Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1366f9c1f5962391"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -1526,23 +1562,6 @@
    "id": "221aa33c7968f5e0"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's Politburo shrinks as graft crackdown spreads",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47607C:0-china-s-politburo-shrinks-as-graft-crackdown-spreads/",
-   "published_utc": "2026-11-25T07:01:32+00:00",
-   "title_original": "China's Politburo shrinks as graft crackdown spreads",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "091dccd6c4fc7e05"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the month?",
@@ -2079,7 +2098,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVhSM281QzBIUHI0bVU2X2N0dmdKc0dRTldOZV8wU2NNSTZfWTR5NnNzdmhwRG1UX0VkdjVzNDlTYlNDYm1yZEJ1N1R0cjZyckZUZ0pvVWhld3NZczVwbFlsNEJmUy05RzdKangybjFLWHV6TXRpN0I3Z29ncjRubEpveUlIVWtYOWQ2VEt1bmtneEhlWHVCZDJrSEg5VVhDT3pNNExKM25xdWYzOWhR?oc=5",
    "published_utc": "2026-11-25T02:23:00+00:00",
@@ -3196,24 +3215,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -3337,7 +3338,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -3349,7 +3350,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3889,6 +3890,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -12058,7 +12077,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -12070,7 +12089,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "894e406afb4c4cea"
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51833,24 +51852,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fea51b2f3885748f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261030005371:0-japanese-yen-gains-modest-as-boj-rate-rise-prospects-well-priced-market-talk/",
-   "published_utc": "2026-10-30T11:21:00+00:00",
-   "title_original": "Japanese Yen Gains Modest as BOJ Rate-Rise Prospects Well Priced — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e5cb9be67ed6b79a"
   },
   {
    "source_id": "manual_ia",
