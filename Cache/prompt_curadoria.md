@@ -7,26 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T08:42:50.084354+00:00
+Última coleta: 2026-11-25T08:53:03.888902+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          950
-  🇨🇳 China          1005
-  🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  704
+  🇯🇵 Japão          946
+  🇨🇳 China          1006
+  🇹🇼 Taiwan         342
+  🇰🇷 Coreia do Sul  706
 
 ## O que já está no feed (não repita)
 
+  - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
+  - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
+  - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
+  - [korea] Clash over end of AI memory boom heats up, roiling Korean chip stocks
+  - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
   - [japan] Japanese Government Bonds Held by the Bank of Japan
+  - [china] China Dismisses US Tariff Prospect as ‘Political Maneuvering’
   - [taiwan] NTU team develops energy-efficient chips for on-device generative AI
   - [taiwan] Analysis: Nvidia leadership settled, but US export rules still cloud outlook for Taiwan server makers
   - [china] Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk
   - [taiwan] Manufacturers' business sentiment weakens amid AI concerns
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
   - [taiwan] Maintenance and component demand lift profits across Taiwan's aerospace supply chain
-  - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] China's Politburo shrinks as graft crackdown spreads
-  - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
   - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
   - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea May Opt for Hawkish Hold — Market Talk
   - [korea] Why is SK Hynix stock tumbling today?
   - [korea] Why is Samsung Electronics stock plunging today?
-  - [taiwan] Deputy Minister of Agriculture Hu Zhongyi: Taiwan’s rice is very competitive and is estimated to export nearly
-  - [china] MLF reverse repurchase portfolio operation, the central bank accurately regulates liquidity
-  - [japan] Japan not considering issuing new deficit-financing bonds for extra budget, TBS says
-  - [china] China Focus: China's manufacturing powerhouse deepens regional integration
-  - [china] China's yuan touches 3-week high but trade tension worries cap gains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T08:42:50+00:00",
+      "published_utc": "2026-11-25T08:53:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
