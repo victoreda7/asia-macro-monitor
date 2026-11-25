@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T07:42:42.891490+00:00
+Última coleta: 2026-11-25T07:52:43.270105+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          954
-  🇨🇳 China          1003
+  🇯🇵 Japão          953
+  🇨🇳 China          1005
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  705
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
   - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [china] China's Politburo shrinks as graft crackdown spreads
@@ -33,6 +34,7 @@ Total: 3000 manchetes
   - [japan] JGB yield curve steepens as market reassesses BOJ's rate hike path
   - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
+  - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] North Korea expels Swiss diplomat over sanctions weeks after office reopening
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
-  - [japan] Judgment on the prefecture's economy remains unchanged Bank of Japan Kochi Branch [Kochi] (RKC Kochi Broadcast
-  - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T07:42:43+00:00",
+      "published_utc": "2026-11-25T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T07:42:42.891490+00:00",
- "collected_at_utc": "2026-11-25T07:42:42.891490+00:00",
+ "generated_at_utc": "2026-11-25T07:52:43.270105+00:00",
+ "collected_at_utc": "2026-11-25T07:52:43.270105+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 954,
-  "china": 1003,
+  "japan": 953,
+  "china": 1005,
   "taiwan": 338,
-  "korea": 705
+  "korea": 704
  },
- "elapsed_s": 28.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:02:37+00:00"
+   "newest": "2026-11-25T06:11:27+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T07:30:30+00:00"
+   "newest": "2026-11-25T07:46:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T09:39:00+00:00"
+   "newest": "2026-11-24T23:20:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T07:41:49+00:00"
+   "newest": "2026-11-25T07:50:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:22:20+00:00"
+   "newest": "2026-11-25T06:23:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:58:04+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T07:11:50+00:00"
+   "newest": "2026-11-25T07:42:56+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261125001227:0-chinese-stock-losses-widen-as-semiconductor-stocks-weigh-market-talk/",
+   "published_utc": "2026-11-25T07:49:00+00:00",
+   "title_original": "Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8947018dbd74c3a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -619,6 +636,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1d51b36582e0cb38"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb3RzQUlpU3QySk1GR1o3TG1LUGJKZVNtTUdtaTFBb1R6enA4c0Uyb2pLVHBSRmswMWNRT2RRLTQ5YkdsUmJfSHpzY2J3UnpkdmlPNm4xZzMyZ01qMUUzWjI1a3ROQQ?oc=5",
+   "published_utc": "2026-11-25T05:34:37+00:00",
+   "title_original": "8000亿元MLF+5000亿元逆回购，央行长短“组合拳”11月25日落地",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "baf54932e196ff72"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1816,24 +1851,6 @@
    "live_wire": false,
    "manual": false,
    "id": "836fabe35e60e976"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZU3VWb0lMbG5tTHdiQmE0MGt0TE5Ya3Y2UXRPUTJXTUUtMnh3dVB1RE9xZHg5Yy04dEFIdnhiOTVPci1nbkxWdFl3RDNfVDBDQnExcFZpVkhoX3lBQzk5Qw?oc=5",
-   "published_utc": "2026-11-24T21:42:49+00:00",
-   "title_original": "8000亿元MLF+5000亿元逆回购 央行长短“组合拳”11月25日落地",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a56a42a9d1ff0ee0"
   },
   {
    "source_id": "nhk_economy",
@@ -3153,6 +3170,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1b21dda8043c89f2"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "Central Bank: Launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSE94UVl0bkJyMk9CV3RoVzR2VzJDZ0d2YS1xOTctLWlBNUdWWmw2cXd5ZDFmTURiWmFqX016bmpMZjc4VVZHMFcyM3JjV1pmY3ZuVm5lWFI1RHU0c1FNWklhWnVzd2pXdzhCa19NeDRmWm1kTlBZWGItSm40Z21kWkt0TldFM3BpWFVFMkllMA?oc=5",
+   "published_utc": "2026-11-24T09:06:22+00:00",
+   "title_original": "央行：11月25日开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9e9533d3b4b6355"
   },
   {
    "source_id": "tradingview_live",
@@ -5346,7 +5381,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launches 499.5 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ZTVEVWt6NXZKUW0tQW1CY3BucWlMZHdTdVp4dXZBYVlPeXd3STlXZGhwemkzSFlGUGc3SjE1NlFEME5Qb09zZ1R2dkM0QQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rbmJlcWIta2Rmbm5TRmo0VHdrZkxqSVp5c0xJVXR3Y3cwRXpGNUE2YlZ1ZmpPSmExdU1TRmJhVjhwYU5yUGVmZ2hnNGs0RkR1d3FlcGJhZEhjcXlxX1FmMVR3?oc=5",
    "published_utc": "2026-11-23T03:14:16+00:00",
    "title_original": "央行开展4995亿元隔夜逆回购操作",
    "region": "china",
@@ -5358,7 +5393,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1834e3da166896aa"
+   "id": "12a75acfca25700d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51836,40 +51871,6 @@
    "live_wire": false,
    "manual": false,
    "id": "04f849843544ea3e"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Theme from ‘Chief Detective’ rings out at late Choi Bool-am’s funeral... ‘first-generation jazz musician’ Ryu Bok-seong bids farewell with a performance",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPQjhVZEdpeDJYZC1aM1lWTTdVeVFDQjBRaE5UWlphcjdZWXpGQ1lyaDhFekVRSzh4R09kWExZRTJjUWFUNlRmdFBnVUg3MDVDc3hETzhn?oc=5",
-   "published_utc": "2026-10-30T09:07:56+00:00",
-   "title_original": "Theme from ‘Chief Detective’ rings out at late Choi Bool-am’s funeral... ‘first-generation jazz musician’ Ryu Bok-seong bids farewell with a performance",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e23b5791569a117"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Market moves ``as expected'' at Bank of Japan meeting, with limited movement even after announcement of accelerating ETF sales (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSnA3eDk3Y1FaRmgtQ1RXRENLdWdKTGZDQlhjNlNkemxBQnp0VXBiUVM2UnVMcm9nVTV4N1JBVkZfMnI3RHRCTTZhYmlLd0pXYUlQMk95dzZRQ3hfU0VIeEQ1TmV5THRrTnRFYXYwNnlZbGdJUWkwRUQwTWVmbGc?oc=5",
-   "published_utc": "2026-10-30T09:05:44+00:00",
-   "title_original": "日銀会合に市場は「予想通り」ETF売却加速の公表後も動きは限定的（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d14bacc316dcd41"
   },
   {
    "source_id": "manual_ia",
