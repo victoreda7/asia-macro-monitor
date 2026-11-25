@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T16:02:52.724073+00:00",
- "collected_at_utc": "2026-11-25T16:02:52.724073+00:00",
+ "generated_at_utc": "2026-11-25T16:23:08.889918+00:00",
+ "collected_at_utc": "2026-11-25T16:23:08.889918+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
-  "china": 1011,
-  "taiwan": 343,
-  "korea": 713
+  "japan": 935,
+  "china": 1009,
+  "taiwan": 342,
+  "korea": 714
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 55.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T14:24:59+00:00"
+   "newest": "2026-11-25T16:11:46+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T10:23:00+00:00"
+   "newest": "2026-11-25T16:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T15:53:08+00:00"
+   "newest": "2026-11-25T16:12:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:20:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T00:45:44+09:00"
+   "newest": "2026-11-26T01:21:46+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T16:02:07+00:00"
+   "newest": "2026-11-25T16:22:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T13:43:58+00:00"
+   "newest": "2026-11-25T13:50:34+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T15:21:00+00:00"
+   "newest": "2026-11-25T15:51:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -339,11 +339,80 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T10:32:44+00:00"
+   "newest": "2026-11-25T16:04:04+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Additional tariffs imposed on Japan and other countries due to rice overproduction, up to 15% in Japan including existing tax rate",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261126de81560",
+   "published_utc": "2026-11-25T16:21:46+00:00",
+   "title_original": "米 過剰生産で日本などに追加関税 既存税率含め日本最大15％に",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da78e143fcc40e67"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "US Targets China, EU With New Tariffs Citing Overcapacity",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
+   "published_utc": "2026-11-25T16:11:46+00:00",
+   "title_original": "US Targets China, EU With New Tariffs Citing Overcapacity",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "32c84378ad19241d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Crypto Briefing",
+   "title_en": "Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens",
+   "url": "https://www.tradingview.com/news/cryptobriefing:e5ef1dfc6094b:0-bitcoin-investors-urged-to-watch-japan-s-monetary-policy-as-the-boj-tightens/",
+   "published_utc": "2026-11-25T16:05:14+00:00",
+   "title_original": "Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "138c5e69b2309fc8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KBS 뉴스",
+   "title_en": "The Bank of Korea decides the base interest rate today (26th)... Should I raise it to 3.25% per year?",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRktacjdlNGEwemNLQWE1TXlEcEZqRHBqUDY2TmxlVG9jTF9OUjlUbXZmaXdXdzQ1Wjh4dGdYNHdoaHduaVZDdWhfLUpfb0Z4cmtLYXBmalR0eDg?oc=5",
+   "published_utc": "2026-11-25T16:04:04+00:00",
+   "title_original": "한은 오늘(26일) 기준 금리 결정…연 3.25%로 올릴까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfc623aa480047cc"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -429,23 +498,6 @@
    "live_wire": true,
    "manual": false,
    "id": "16df47f5161c3a64"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "US Targets China, EU With New Tariffs Citing Overcapacity",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
-   "published_utc": "2026-11-25T14:24:59+00:00",
-   "title_original": "US Targets China, EU With New Tariffs Citing Overcapacity",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "32c84378ad19241d"
   },
   {
    "source_id": "tradingview_live",
@@ -961,7 +1013,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "AI Chip Boom to See Won Build on Best Year in Almost a Decade",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUlpdHNJRUdKekF1dG83c2k2dlZkeEVQaHNZVXJPZGtRelRmc1hXMVJBLTl0dDJXWHVIeklrbGdzRUxDR195M1FudHJQMzBHbTNXRTNEMndFbE0xekt0ZGdLMGJUWmhZd19kMGtqOEx1S2l0cElkd3pWLWJOYXNaX1ZjbUtQVGFwcUFRUWtBVGVOOWVRNFVFV2VIR1RPMW5aUmliZGU4aUd5dDlaQkZPOVBR?oc=5",
    "published_utc": "2026-11-25T08:54:08+00:00",
@@ -1064,7 +1116,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
    "published_utc": "2026-11-25T08:26:54+00:00",
@@ -1834,23 +1886,6 @@
    "id": "f52bdccfc9a6a8ce"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46W00D:0-taiwan-government-in-close-contact-with-us-ahead-of-expected-tariff-announcement/",
-   "published_utc": "2026-11-25T03:17:19+00:00",
-   "title_original": "Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "89ec3035f513b148"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks' household mortgage lending rates up for 6th month in Oct.",
@@ -2274,7 +2309,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s Booming Exports Obscure Economic Strain at Home",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcy1XZVFtNF9ZTHNqeGNUZHBRTkw1SDlWbEMtTGpDS1FJY085WXNtMEFDSC1RT2xZVkhDMVk4cVotY3ZSU21oYlpLcUJRcFluTzBaN05kYThsTThFOFRLcHh0OHNmN3h3djk0M2pabEhybWVndi1OVWVxS2NrRWwxc2kzZjdmbTN0cFVSbnllY3JMTlBWWlNlZHdzdEd4X0VzdEIwU2E2SlJvN0hj?oc=5",
    "published_utc": "2026-11-25T00:00:00+00:00",
@@ -2626,7 +2661,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Bank of Korea Seen Resuming Rate Hikes as AI Boom Stokes Growth",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckhjMEI0ZTFqMlludWdDOUltWFhuM3U3SDJSeVZ0TGxTenc3VzRNTm9DNVp1ald2LU1fbmJJaUpmSE1mRzVaR2YzVkRaalZqU2RucjdTalhkeFNqYlJRbm9fX1cwYTBUWEFHOWR5c2VaMUhUWU9xV0h5dkhMSlJ5ZVRQNTJYMkRXOTNIakZCUm81RGJiVDhWSC1qLWRQX2hubXB0Ym5WY25FQ01NZk1JWlRzWFQ?oc=5",
    "published_utc": "2026-11-24T21:00:00+00:00",
@@ -3352,6 +3387,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "published_utc": "2026-11-24T10:45:38+00:00",
+   "title_original": "央行：11月25日将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "185164eda1a75342"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14dnA5OG9lenpTcnlsS1B1d2NEbUc0N2x3RTJFZENRTHlWVzZrcnB6OXNOeWN2aWN3Qy04RUtObmFJSThLY0llX3cwdlZtQQ?oc=5",
@@ -3453,24 +3506,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8852634697777158"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb3RzQUlpU3QySk1GR1o3TG1LUGJKZVNtTUdtaTFBb1R6enA4c0Uyb2pLVHBSRmswMWNRT2RRLTQ5YkdsUmJfSHpzY2J3UnpkdmlPNm4xZzMyZ01qMUUzWjI1a3ROQQ?oc=5",
-   "published_utc": "2026-11-24T10:20:17+00:00",
-   "title_original": "8000亿元MLF+5000亿元逆回购，央行长短“组合拳”11月25日落地",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "baf54932e196ff72"
   },
   {
    "source_id": "tradingview_live",
@@ -3699,24 +3734,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0c9cbd82953e7626"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
-   "published_utc": "2026-11-24T09:29:29+00:00",
-   "title_original": "央行：11月25日将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "50a6ca31e9d4299a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4154,6 +4171,24 @@
    "live_wire": false,
    "manual": false,
    "id": "03496b016e471dae"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” was launched on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eb3RzQUlpU3QySk1GR1o3TG1LUGJKZVNtTUdtaTFBb1R6enA4c0Uyb2pLVHBSRmswMWNRT2RRLTQ5YkdsUmJfSHpzY2J3UnpkdmlPNm4xZzMyZ01qMUUzWjI1a3ROQQ?oc=5",
+   "published_utc": "2026-11-24T08:11:12+00:00",
+   "title_original": "8000亿元MLF+5000亿元逆回购，央行长短“组合拳”11月25日落地",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "baf54932e196ff72"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -9814,7 +9849,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스드림",
    "title_en": "The attention of the Bank of Korea’s Monetary Policy Committee in November… Weighing down on interest rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbkJhcHFOaUlNaXBXVVkxdHFlU3owLTR3Q1FCckFrNUh4WnEyVktVUmxfZXMtVExSX1llUEdVenBKWi1yTjYtOWtVb01TT3J3RTVuUWlSVE9PLW5qMHJRR1E3bFNCcFNhZmfSAW5BVV95cUxNSnZ2TDhuU0lHSThycFpDTGdxZXdWTWxaX0k4c0lubUxIWXZkaVBzTTg3TGwxOGZUWm5uMjRYNi1VZkp0QjNJcFRDM2JzYUdBNXdjMS1haHhTU2tnc2U3aW5jRGxGRkJRbkNKdFh6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
    "published_utc": "2026-11-20T05:16:35+00:00",
    "title_original": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
    "region": "korea",
@@ -9826,7 +9861,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8866970f950f8cce"
+   "id": "1dadeea9b01c3e4a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51818,41 +51853,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f1c021c439d18328"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Memory Crunch Cements CXMT as China's Chip Champion — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261030005275:0-memory-crunch-cements-cxmt-as-china-s-chip-champion-update/",
-   "published_utc": "2026-10-30T11:13:00+00:00",
-   "title_original": "Memory Crunch Cements CXMT as China's Chip Champion — Update",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c36f51fe243250d7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank releases important information",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0LWZaMUlObjNjaGZxSVI0Z3NhRExsUWhvODVFUS1MZ0hXTXJVRFlRWFI0dzNyS05fTmJ5VDdiUG9JYmpTTk5ld2NQckhnM3p1clZCalZR?oc=5",
-   "published_utc": "2026-10-30T11:11:20+00:00",
-   "title_original": "央行发布重要信息",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf90970ea1b26b31"
   },
   {
    "source_id": "manual_ia",

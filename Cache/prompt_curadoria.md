@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T16:02:52.724073+00:00
+Última coleta: 2026-11-25T16:23:08.889918+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
-  🇨🇳 China          1011
-  🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  713
+  🇯🇵 Japão          935
+  🇨🇳 China          1009
+  🇹🇼 Taiwan         342
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [japan] Additional tariffs imposed on Japan and other countries due to rice overproduction, up to 15% in Japan includi
+  - [china] US Targets China, EU With New Tariffs Citing Overcapacity
+  - [japan] Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens
+  - [korea] The Bank of Korea decides the base interest rate today (26th)... Should I raise it to 3.25% per year?
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock plunging today?
   - [taiwan] TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List
   - [korea] Samsung Electronics Stocks Plunge 9.87%, Market Value Drops Below 1,000 Trillion Won
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
-  - [china] US Targets China, EU With New Tariffs Citing Overcapacity
   - [korea] LG Electronics Inc to divest 2% stake in Indian subsidiary
   - [korea] Korea to retain 15% tariff cap under new US tariff proposal
   - [china] Chinese AI firms face growing pressure from US chip rules - Information
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Texas comptroller backs US$354 million tax break for TSMC
   - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
   - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
-  - [china] China’s Surprise Soyoil Export Boom Cools as India Turns to Palm
-  - [korea] Clash over end to AI memory boom heats up, roiling Korean chip stocks
-  - [korea] The National Assembly will review next year's "Future Response Fund" budget, which amounts to around..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T16:02:52+00:00",
+      "published_utc": "2026-11-25T16:23:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
