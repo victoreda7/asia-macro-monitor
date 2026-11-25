@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T10:12:41.906645+00:00
+Última coleta: 2026-11-25T10:18:51.217771+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          946
@@ -37,7 +37,6 @@ Total: 3000 manchetes
   - [taiwan] Manufacturers' business sentiment weakens amid AI concerns
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
   - [taiwan] Maintenance and component demand lift profits across Taiwan's aerospace supply chain
-  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [china] China's Politburo shrinks as graft crackdown spreads
   - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows
+  - [japan] Indicators for Core CPI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T10:12:42+00:00",
+      "published_utc": "2026-11-25T10:18:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
