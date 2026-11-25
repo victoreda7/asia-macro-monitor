@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T16:23:08.889918+00:00
+Última coleta: 2026-11-25T16:32:52.652561+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
-  🇨🇳 China          1009
-  🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  714
+  🇯🇵 Japão          934
+  🇨🇳 China          1007
+  🇹🇼 Taiwan         344
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan seeks supply chain mandate for chips, other critical goods
+  - [taiwan] Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal
   - [japan] Additional tariffs imposed on Japan and other countries due to rice overproduction, up to 15% in Japan includi
+  - [korea] SK hynix stock trades down, here is why
   - [china] US Targets China, EU With New Tariffs Citing Overcapacity
   - [japan] Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens
   - [korea] The Bank of Korea decides the base interest rate today (26th)... Should I raise it to 3.25% per year?
+  - [taiwan] Business sentiment cautious: TIER
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock plunging today?
   - [taiwan] TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List
   - [korea] Samsung Electronics Stocks Plunge 9.87%, Market Value Drops Below 1,000 Trillion Won
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] My home loan interest rate is a concern due to the Bank of Japan's interest rate hike. ``My repayments haven't
   - [japan] [There are also benefits that NISA does not have! iDeCo Complete Guide] Who will benefit from the revision? / 
   - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
-  - [china] USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes
-  - [taiwan] Texas comptroller backs US$354 million tax break for TSMC
-  - [japan] The site of the former Bank of Japan Kanazawa branch will be opened to the public from May 22, 2027 Collection
-  - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T16:23:09+00:00",
+      "published_utc": "2026-11-25T16:32:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
