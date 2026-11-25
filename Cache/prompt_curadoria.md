@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T13:12:43.424092+00:00
+Última coleta: 2026-11-25T13:22:43.873881+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          943
-  🇨🇳 China          1005
+  🇯🇵 Japão          942
+  🇨🇳 China          1006
   🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [china] China Southern Airlines Subsidiary Orders 50 Boeing Aircraft For $7.4 Bln
+  - [china] Trump admin proposes new tariffs on 14 trading partners, 20% on China - report
   - [taiwan] TSMC asking for tax incentives at Texas fab suggests no AI slowdown: Wedbush
   - [japan] Japan to draft 2nd supplementary budget for urgent needs
   - [china] Taxman can be China's next GDP growth engine
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
   - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
-  - [japan] Japan’s key services inflation gauge hits 36-year high
-  - [korea] The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T13:12:43+00:00",
+      "published_utc": "2026-11-25T13:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
