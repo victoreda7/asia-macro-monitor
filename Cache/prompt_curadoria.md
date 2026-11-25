@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T22:04:33.049993+00:00
+Última coleta: 2026-11-25T22:12:42.562237+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
+  🇯🇵 Japão          933
   🇨🇳 China          1010
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  714
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Loan balance decreases for the first time in 24 years, Hiroshima City Credit Union's ``strongest management'' 
   - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017, advance opening,
   - [japan] <Legal employment rate raised to 2.7%> Is it true that a reporter infiltrates the site of an ``employment supp
+  - [korea] The last Monetary Policy Committee of the year... Interest rate will be raised to 3.25% and growth outlook wil
   - [japan] The collapse of the illusion that "the Republican Party is Japan's ally on the trade front"...The sad reality 
   - [china] LEARN MORE-How China gained access to Nvidia's AI chips despite rules to prevent it
   - [japan] Japan's Preferred Networks sows seeds of physical AI with robots, software and chips
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea to retain 15% tariff cap under new US tariff proposal
   - [china] Chinese AI firms face growing pressure from US chip rules - Information
   - [korea] Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD
-  - [korea] Seoul Semiconductor Begins WICOP Pixel Mass Production
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T22:04:33+00:00",
+      "published_utc": "2026-11-25T22:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
