@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T13:52:42.678959+00:00
+Última coleta: 2026-11-25T14:02:41.921856+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          939
-  🇨🇳 China          1009
-  🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  708
+  🇯🇵 Japão          937
+  🇨🇳 China          1010
+  🇹🇼 Taiwan         343
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD
+  - [korea] Seoul Semiconductor Begins WICOP Pixel Mass Production
+  - [china] Trump's China tariff math: 20%, times two if talks go sour
   - [china] USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING N
+  - [china] USTR says latest US tariffs mostly align with trade deals with China, others
   - [china] USTR GREER Q&A/CNBC: PROPOSED SECTION 301 TARIFF RATE FOR CHINA SOMEWHAT ADDITIVE BUT PAIRED WITH PROPOSED EXE
   - [china] Could potential US tariffs put the US-China trade truce at risk?
   - [china] U.S. Set to Raise Tariffs on China, EU and Others — WSJ
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [china] China Dismisses US Tariff Prospect as ‘Political Maneuvering’
   - [taiwan] NTU team develops energy-efficient chips for on-device generative AI
-  - [taiwan] Analysis: Nvidia leadership settled, but US export rules still cloud outlook for Taiwan server makers
-  - [china] Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk
-  - [taiwan] Manufacturers' business sentiment weakens amid AI concerns
-  - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T13:52:42+00:00",
+      "published_utc": "2026-11-25T14:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
