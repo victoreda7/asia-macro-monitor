@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T22:42:47.601634+00:00",
- "collected_at_utc": "2026-11-25T22:42:47.601634+00:00",
+ "generated_at_utc": "2026-11-25T22:52:43.263727+00:00",
+ "collected_at_utc": "2026-11-25T22:52:43.263727+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 932,
-  "china": 1010,
+  "china": 1009,
   "taiwan": 343,
-  "korea": 715
+  "korea": 716
  },
- "elapsed_s": 28.5,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T19:29:00+00:00"
+   "newest": "2026-11-25T18:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:42:33+00:00"
+   "newest": "2026-11-25T07:25:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T22:41:15+00:00"
+   "newest": "2026-11-25T22:45:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T22:12:26+00:00"
+   "newest": "2026-11-25T22:24:57+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T06:14:25+00:00"
+   "newest": "2026-11-25T01:44:52+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T07:12:47+09:00"
+   "newest": "2026-11-26T07:46:21+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T16:00:00+00:00"
+   "newest": "2026-11-25T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T22:41:20+00:00"
+   "newest": "2026-11-25T22:50:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:58:04+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "South Korea Rate Decision On Tap For Thursday",
+   "url": "https://www.tradingview.com/news/dpa_afx:e24327711378d:0-south-korea-rate-decision-on-tap-for-thursday/",
+   "published_utc": "2026-11-25T22:49:10+00:00",
+   "title_original": "South Korea Rate Decision On Tap For Thursday",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "47273f2e7754dadc"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "지이코노미",
@@ -1441,23 +1458,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6768472ab7197114"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes",
-   "url": "https://www.tradingview.com/news/stocktwits:3bab9c9b1094b:0-usar-crml-uamy-mp-stocks-drop-premarket-china-extends-mineral-export-pause-amid-looming-us-tariff-hikes/",
-   "published_utc": "2026-11-25T09:33:52+00:00",
-   "title_original": "USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "91f0cdc1cfaf3d60"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -9515,25 +9515,6 @@
    "id": "82972832f41ab999"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버 프리미엄콘텐츠",
-   "title_en": "“If you raise interest rates, prices will immediately go down?” Monetary policy lag",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOU5tTDdMcUlsN3NWSEg4UnVnQTFjcmJLTzhsSWExM2RFUXNVZE9yQ0ZsbmFBdWUzc3ZnQVJuTmlYcEVvQmxmMm8xS2xfa19xMktLU2Y4cktvdUNQNDhGRVFKM1JuY2xHdWg2RnBwWnk3bXp5VGhkMWdHZFhVakRiV0FkRGZpa01CbnBmeGlJOGNBeFN6SnQ0YVBhWQ?oc=5",
-   "published_utc": "2026-11-20T10:07:22+00:00",
-   "title_original": "「금리를 올리면 물가가 바로 내려간다?」 통화정책의 시차",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef62540b13be4c9c"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "​​[Industry reorganization] What does it mean for ANA to make Air Do & Solaseed a wholly owned subsidiary? Is there a possibility of adjusting the number of flights in cooperation with JAL? / Strengthening air cargo that also carries semiconductor-related goods / Domestic flight price increases have progressed rapidly this year / Impact of “deterioration in service” that received criticism | Business | Toyo Keizai Online",
@@ -9654,6 +9635,25 @@
    "live_wire": false,
    "manual": false,
    "id": "bc75bf76c876e4e7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "네이버 프리미엄콘텐츠",
+   "title_en": "“If you raise interest rates, prices will immediately go down?” Monetary policy lag",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOU5tTDdMcUlsN3NWSEg4UnVnQTFjcmJLTzhsSWExM2RFUXNVZE9yQ0ZsbmFBdWUzc3ZnQVJuTmlYcEVvQmxmMm8xS2xfa19xMktLU2Y4cktvdUNQNDhGRVFKM1JuY2xHdWg2RnBwWnk3bXp5VGhkMWdHZFhVakRiV0FkRGZpa01CbnBmeGlJOGNBeFN6SnQ0YVBhWQ?oc=5",
+   "published_utc": "2026-11-20T09:00:00+00:00",
+   "title_original": "「금리를 올리면 물가가 바로 내려간다?」 통화정책의 시차",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef62540b13be4c9c"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -28909,23 +28909,6 @@
    "id": "7c552a88f9155933"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Nvidia security probe puts Taiwan supply chain orders under scrutiny",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3FvY3YzMXBpQ21jMm1vX3JScEk0RUk1Rnd4ZjdkQ2hQQjFhV2J0UWxqc1M0MzdlNloyS3hfZzlIZUZtMW9KeXU0aVl2VXk3UWNjNGljZWdaQmxtN1EtZ1MyaC00bkF0cE1KUkZfRjk2ejF4cmRET2hiLVBRamllMGdMLURmWnFnRFFjcGJsaUNYNEFMWThEcldzMmZjc3ZtWVZmelN3?oc=5",
-   "published_utc": "2026-11-11T08:00:00+00:00",
-   "title_original": "Nvidia security probe puts Taiwan supply chain orders under scrutiny",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "af0a2a2ada331a7f"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares turn higher after weak start amid inflation woes",
@@ -28941,6 +28924,23 @@
    "live_wire": false,
    "manual": false,
    "id": "04f0f42f9fff71ee"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Nvidia security probe puts Taiwan supply chain orders under scrutiny",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3FvY3YzMXBpQ21jMm1vX3JScEk0RUk1Rnd4ZjdkQ2hQQjFhV2J0UWxqc1M0MzdlNloyS3hfZzlIZUZtMW9KeXU0aVl2VXk3UWNjNGljZWdaQmxtN1EtZ1MyaC00bkF0cE1KUkZfRjk2ejF4cmRET2hiLVBRamllMGdMLURmWnFnRFFjcGJsaUNYNEFMWThEcldzMmZjc3ZtWVZmelN3?oc=5",
+   "published_utc": "2026-11-11T08:00:00+00:00",
+   "title_original": "Nvidia security probe puts Taiwan supply chain orders under scrutiny",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "af0a2a2ada331a7f"
   },
   {
    "source_id": "gn_kr_yonhap",
