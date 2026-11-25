@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T23:22:43.403481+00:00
+Última coleta: 2026-11-25T23:32:42.330428+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          932
-  🇨🇳 China          1008
-  🇹🇼 Taiwan         343
+  🇨🇳 China          1007
+  🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
   - [korea] [Issue Check] The Bank of Korea's last Monetary Policy Committee of the year... Interest rate likely to rise t
   - [korea] South Korea Rate Decision On Tap For Thursday
   - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Increasing interest burden in th
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [china] Trump propõe novas tarifas contra China, UE e outros 12 parceiros
   - [china] US Targets China, EU, India With New Tariff Proposal — Greer Says China's 20% Rate To Be Added To Older Duties
-  - [korea] LG Electronics Inc to divest 2% stake in Indian subsidiary
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T23:22:43+00:00",
+      "published_utc": "2026-11-25T23:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
