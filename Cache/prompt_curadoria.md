@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T19:42:55.325705+00:00
+Última coleta: 2026-11-25T19:52:42.184761+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
@@ -17,7 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] How China got access to Nvidia's AI chips despite rules to stop them
+  - [china] Explainer-How China got access to Nvidia’s AI chips despite rules to stop them
   - [korea] How a Bain-led deal made SK Hynix Kioxia's top shareholder
   - [china] Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes
   - [china] U.S. Proposes Additional 20% Tariff on China Ahead of Trade Truce Deadline
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T19:42:55+00:00",
+      "published_utc": "2026-11-25T19:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

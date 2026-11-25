@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-25T19:42:55.325705+00:00",
- "collected_at_utc": "2026-11-25T19:42:55.325705+00:00",
+ "generated_at_utc": "2026-11-25T19:52:42.184761+00:00",
+ "collected_at_utc": "2026-11-25T19:52:42.184761+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 343,
   "korea": 714
  },
- "elapsed_s": 33.2,
+ "elapsed_s": 28.7,
  "sources": [
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resultados) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T19:39:03+00:00"
+   "newest": "2026-11-25T19:42:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T19:18:24+00:00"
+   "newest": "2026-11-25T19:36:49+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -155,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -219,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:55:31+00:00"
+   "newest": "2026-11-25T19:32:35+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T19:42:20+00:00"
+   "newest": "2026-11-25T19:52:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T15:37:36+00:00"
+   "newest": "2026-11-25T18:30:38+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +307,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:58:04+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-11-25T15:51:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -342,17 +342,15 @@
    "newest": "2026-11-25T16:04:04+00:00"
   }
  ],
- "falhas_seguidas": {
-  "gn_tw_cna": 1
- },
+ "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "How China got access to Nvidia's AI chips despite rules to stop them",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4750S2:0-how-china-got-access-to-nvidia-s-ai-chips-despite-rules-to-stop-them/",
-   "published_utc": "2026-11-25T19:30:00+00:00",
-   "title_original": "How China got access to Nvidia's AI chips despite rules to stop them",
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them",
+   "url": "https://www.investing.com/news/economic-indicators/explainerhow-china-got-access-to-nvidias-ai-chips-despite-rules-to-stop-them-5051383",
+   "published_utc": "2026-11-25T19:42:22+00:00",
+   "title_original": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them",
    "region": "china",
    "topics": [
     "industrial"
@@ -361,7 +359,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "458e2359a0fdb4bc"
+   "id": "6e1b2429cf671448"
   },
   {
    "source_id": "nikkei_asia",
