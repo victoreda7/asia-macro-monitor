@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T11:32:51.722409+00:00
+Última coleta: 2026-11-25T11:42:43.562256+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          945
+  🇯🇵 Japão          944
   🇨🇳 China          1004
-  🇹🇼 Taiwan         343
+  🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TIER expects U.S. tariffs on Taiwan goods not to top 15%
   - [china] Analysis-Jensen Huang’s return to Nvidia fuels Washington fight over China’s chip access
+  - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
   - [china] China Merchants China Direct Investments Says Tian Zheng Agreed To Contribute Capital Of Rmb30 Million To Yuan
   - [japan] My home loan interest rate is a concern due to the Bank of Japan's interest rate hike. ``My repayments haven't
+  - [china] Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25
   - [japan] [There are also benefits that NISA does not have! iDeCo Complete Guide] Who will benefit from the revision? / 
   - [japan] Advance utilization of the former Bank of Japan Kanazawa branch site "Machinowa Korinbo" will begin use from M
   - [china] USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes
@@ -33,6 +36,7 @@ Total: 3000 manchetes
   - [taiwan] Zhang Jianyi: It is estimated that the central bank will consider raising interest rates by half a point in De
   - [korea] Clash over end of AI memory boom heats up, roiling Korean chip stocks
   - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
+  - [china] China's PVC exports face anti-dumping investigations in many places. China's utilization rate is expected to r
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [china] China Dismisses US Tariff Prospect as ‘Political Maneuvering’
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares
   - [korea] Amazon Autos expanding to UK in 2027 with Hyundai
   - [taiwan] TSMC sees AI inference fueling chip demand for years
-  - [korea] (LEAD) Hanwha Aerospace secures export rights for KM3 amphibious bridging vehicle
-  - [japan] JGB yield curve steepens as market reassesses BOJ's rate hike path
-  - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
-  - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T11:32:51+00:00",
+      "published_utc": "2026-11-25T11:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
