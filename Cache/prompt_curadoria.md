@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T07:03:44.692490+00:00
+Última coleta: 2026-11-25T07:12:40.725654+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          956
-  🇨🇳 China          1001
+  🇨🇳 China          1002
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  705
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
   - [china] China's Politburo shrinks as graft crackdown spreads
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
+  - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
+  - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] The last Monetary Policy Committee D-1 of the year... The Bank of Korea's base interest rate is likely to be '
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026(For JGB Market Special Participants)
   - [china] China's YMTC boosted by Samsung and SK Hynix adopting its memory technology
@@ -32,6 +34,7 @@ Total: 3000 manchetes
   - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
+  - [japan] Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows
   - [japan] Indicators for Core CPI
   - [china] China's plastics export boom fades as stockpiles run down, feedstock costs climb
   - [korea] (LEAD) Banks' household mortgage lending rates hit over 14-yr high in Oct.
@@ -49,14 +52,11 @@ Total: 3000 manchetes
   - [korea] North Korea expels Swiss representative over sanctions related to children's camp
   - [korea] North Korea expels Swiss diplomat over sanctions weeks after office reopening
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
-  - [japan] Japan’s key services inflation gauge hits 36-year high
   - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
   - [japan] Judgment on the prefecture's economy remains unchanged Bank of Japan Kochi Branch [Kochi] (RKC Kochi Broadcast
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [japan] Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related sto
   - [japan] Which prefecture has the highest food prices? 1st place in 2025 is Okinawa prefecture with 106.6, Tokyo is 3rd
-  - [china] Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News
-  - [china] China Blue Observation丨500 billion + 800 billion The central bank plays a "combination of long and short" meas
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T07:03:44+00:00",
+      "published_utc": "2026-11-25T07:12:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

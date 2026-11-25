@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T07:03:44.692490+00:00",
- "collected_at_utc": "2026-11-25T07:03:44.692490+00:00",
+ "generated_at_utc": "2026-11-25T07:12:40.725654+00:00",
+ "collected_at_utc": "2026-11-25T07:12:40.725654+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 956,
-  "china": 1001,
+  "china": 1002,
   "taiwan": 338,
-  "korea": 705
+  "korea": 704
  },
- "elapsed_s": 90.8,
+ "elapsed_s": 28.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T04:03:00+00:00"
+   "newest": "2026-11-25T05:03:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:58:34+00:00"
+   "newest": "2026-11-25T06:45:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T06:58:31+00:00"
+   "newest": "2026-11-25T07:00:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T06:09:29+00:00"
+   "newest": "2026-11-25T06:43:07+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T03:38:00+00:00"
+   "newest": "2026-11-25T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:51:07+00:00"
+   "newest": "2026-11-25T07:02:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T00:24:00+00:00"
+   "newest": "2026-11-24T09:39:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T07:02:20+00:00"
+   "newest": "2026-11-25T07:11:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:45:35+00:00"
+   "newest": "2026-11-25T06:58:04+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -377,6 +377,40 @@
    "live_wire": true,
    "manual": false,
    "id": "e09b20d72a0123a7"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUktzNkxNRXg0My1rSXA3ZDJpOGgwZW9IRWhVdUFtb3FFdVBoLVJmSVVNc3VpM1FjLVNUMmJhQVNoYk43TzhsSHROeXVybURGdl91djA5aWNHdUZhaUFTSTdLYWtxMXNheTlKb3dlYmdJMTZjTlQwT3JNdVNGSDlzSmhjQmR2SmYxZF9tdF81NnY5S3ZILXZSc1RCTVk5djJkVFFPZDFBdE1MVmJkX2NPUDVIUUFpaW8?oc=5",
+   "published_utc": "2026-11-25T06:45:00+00:00",
+   "title_original": "Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cd087c58c189702e"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s key services inflation gauge hits 36-year high",
+   "url": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-spikes-in-october-5049407",
+   "published_utc": "2026-11-25T06:43:07+00:00",
+   "title_original": "Japan’s key services inflation gauge hits 36-year high",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c281d5cc81c4ad8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -602,6 +636,23 @@
    "live_wire": true,
    "manual": false,
    "id": "75a003b8f3158eb5"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEZLYVhJVzFVMXQ1YlJabVNTYmVhSm9adGQ2STB2VGFITG1DNHpOMWtUMVFnTkozS3hfY0RRaklPNEJqNktTWXNDb3BtaE5BU0Q5ejJPVXVVUDZWUGR4akdiRkhOR2JmcVdWQ0pCTFZqSF9LdW5SdVdlTW84SnFnZDFNNFRXTUM5SFZrMVRqMkhHUDZ0ejZEMzk2VmtHblRYTUkyaHR1anlndXkwbVRWclRvckU?oc=5",
+   "published_utc": "2026-11-25T05:03:00+00:00",
+   "title_original": "Japan Firms Say Rate Hikes Are Starting to Bite, New Study Shows",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "492fbc3ffac747e0"
   },
   {
    "source_id": "boj_whatsnew",
@@ -893,23 +944,6 @@
    "live_wire": true,
    "manual": false,
    "id": "89ec3035f513b148"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan’s key services inflation gauge hits 36-year high",
-   "url": "https://www.investing.com/news/economy-news/japans-corporate-services-inflation-spikes-in-october-5049407",
-   "published_utc": "2026-11-25T03:12:53+00:00",
-   "title_original": "Japan’s key services inflation gauge hits 36-year high",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c281d5cc81c4ad8"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -1485,6 +1519,23 @@
    "id": "f82b92317b593cda"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s Booming Exports Obscure Economic Strain at Home",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcy1XZVFtNF9ZTHNqeGNUZHBRTkw1SDlWbEMtTGpDS1FJY085WXNtMEFDSC1RT2xZVkhDMVk4cVotY3ZSU21oYlpLcUJRcFluTzBaN05kYThsTThFOFRLcHh0OHNmN3h3djk0M2pabEhybWVndi1OVWVxS2NrRWwxc2kzZjdmbTN0cFVSbnllY3JMTlBWWlNlZHdzdEd4X0VzdEIwU2E2SlJvN0hj?oc=5",
+   "published_utc": "2026-11-25T00:00:00+00:00",
+   "title_original": "China’s Booming Exports Obscure Economic Strain at Home",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b789f5484bd36cb"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Average Contract Interest Rates on Loans and Discounts (Sept.)",
@@ -1854,8 +1905,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -1869,7 +1920,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -51822,59 +51873,6 @@
    "live_wire": false,
    "manual": false,
    "id": "49f9693891e79eb2"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Why did the Bank of Japan aim for 2%? Adjust the economy and prices by moving interest rates",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dk5jYTFJQWdtNllNRE9FRElNRE5hQ0lib1pVX3NkTm1wcm1US05TMlRDTnp6WktwSnZyNGtCUmFqa1NvSGJsSlF1bUpyOGN6UEdrdlYzbDdTbTJ2Y0Z6ZmZURl9ELTNHYWhKaGlvNXpLbDB0OGVnaE9UY2w5SzQ?oc=5",
-   "published_utc": "2026-10-30T09:00:29+00:00",
-   "title_original": "日銀はなぜ「2％」を目指したの？ 金利を動かして、景気と物価を調整する",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fbb0809effe433dd"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "AI Darling Taiwan Extends Economic Growth Run Unseen Since 1987",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnhQMWtEUEs2aEJ5UF9LanNiRktuOHhReFNmeVIyTlhKRUdLMUpkeTBRZHpTMFllSlR0NzZNTGdMLUQzaEYxRXpXSnhrY2Q1RU1GaXFUcVBvcEU0WXAzblVJdGZXdkNnZFZDVjZJZmhMRGVRVGZHQkhfR2hhNnJvaU9zUjNKeVRKNy13QVQtM3JjMkNWaEY2dFpEQzByVlR2dXdpaUZXLWc2RlBfc1VkSkduWQ?oc=5",
-   "published_utc": "2026-10-30T08:46:44+00:00",
-   "title_original": "AI Darling Taiwan Extends Economic Growth Run Unseen Since 1987",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e18856090f43b9a9"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YeHBaNndJY19JY0VDTm5Sd3h1UWtya0pwMTBBdHNuVnduSWMwWDBMR2FsaE5YbkE1M0ZHOVBIZi1qN3RvY0NHTUdvS0h1RzdXQjRr?oc=5",
-   "published_utc": "2026-10-30T08:45:34+00:00",
-   "title_original": "The National Assembly has begun reviewing the 2027 budget, which is worth 821 trillion won. Next yea..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "daa3abe37bd8d74b"
   },
   {
    "source_id": "manual_ia",
