@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T05:42:43.101377+00:00
+Última coleta: 2026-11-25T05:52:40.542557+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
+  🇯🇵 Japão          960
   🇨🇳 China          1001
-  🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  701
+  🇹🇼 Taiwan         337
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB yield curve steepens as market reassesses BOJ's rate hike path
+  - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
+  - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Indicators for Core CPI
   - [china] China's plastics export boom fades as stockpiles run down, feedstock costs climb
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
   - [korea] The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b..
   - [china] The Philadelphia Semiconductor Index fell nearly 8%; the central bank will launch an 800 billion yuan MLF oper
-  - [korea] S. Korea's consumer goods exports hit record high amid Korean culture boom
-  - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
-  - [japan] Bank of Japan Accounts (November 20)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T05:42:43+00:00",
+      "published_utc": "2026-11-25T05:52:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

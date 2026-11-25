@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T05:42:43.101377+00:00",
- "collected_at_utc": "2026-11-25T05:42:43.101377+00:00",
+ "generated_at_utc": "2026-11-25T05:52:40.542557+00:00",
+ "collected_at_utc": "2026-11-25T05:52:40.542557+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 962,
+  "japan": 960,
   "china": 1001,
-  "taiwan": 336,
-  "korea": 701
+  "taiwan": 337,
+  "korea": 702
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 47,
+   "count": 48,
    "error": "",
-   "newest": "2026-11-25T12:15:25+08:00"
+   "newest": "2026-11-25T13:34:29+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T05:18:34+00:00"
+   "newest": "2026-11-25T05:38:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-25T05:06:24+00:00"
+   "newest": "2026-11-25T05:36:51+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:06:43+00:00"
+   "newest": "2026-11-25T05:51:07+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T05:20:59+00:00"
+   "newest": "2026-11-25T05:48:51+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T05:39:00+00:00"
+   "newest": "2026-11-25T05:51:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T04:20:00+00:00"
+   "newest": "2026-11-25T05:45:31+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-25T02:37:57+00:00"
+   "newest": "2026-11-25T05:42:06+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T02:13:01+00:00"
+   "newest": "2026-11-25T05:45:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,58 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "JGB yield curve steepens as market reassesses BOJ's rate hike path",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4750M5:0-jgb-yield-curve-steepens-as-market-reassesses-boj-s-rate-hike-path/",
+   "published_utc": "2026-11-25T05:44:39+00:00",
+   "title_original": "JGB yield curve steepens as market reassesses BOJ's rate hike path",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8739f1a0fc1c0857"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92bkZNRmdGRVV3cEV1d0RZV3ZpcnFhUElsdVpMLW1BbTExMTdEa1RhOWVQRTZBbDJjN1NDdmZSa19KRXFCSFJPU1QwVWMzU0dGY0w4?oc=5",
+   "published_utc": "2026-11-25T05:40:38+00:00",
+   "title_original": "Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1beea2d31478288"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "TSMC confirms Texas tax abatement filing, investment under review",
+   "url": "https://focustaiwan.tw/business/202611250007",
+   "published_utc": "2026-11-25T05:34:29+00:00",
+   "title_original": "TSMC confirms Texas tax abatement filing, investment under review",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a5f206dcf85fa5e4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1923,24 +1975,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The latest announcement from the central bank: it will carry out 800 billion yuan MLF operations",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmNVLVphVS1wNVdONjl1c3RSNk5DdVR4UktIei1EVlludllTYlNfdEFXcmZDSElzb2pmRDFXcVdpdDBJVERtTDRLM25CX3ZxWktpUnVTRG9sOElNSVBtUUhYellNdUtpdXdBalNuYzlKY05Edk5oX0pBc2RHLUdscVRLcVVDTTRL?oc=5",
@@ -2686,6 +2720,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -10819,7 +10871,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -10831,7 +10883,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "894e406afb4c4cea"
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51828,61 +51880,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0de14dd207f5f201"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHhWNTJxNEh3XzdsQlJFam9PVEhYd0hVeGs3OXFLTjZ5TVBqU1h3dW04T2FCZ1ZNdkJYclE5ak5ad0YxbFB3S0Jfam1PYUhhY2xLTnY5V3hfU2dTZjUzWnZUTEFEZmF0M3BzUE43bTZKZGZhZ0Uwc3VMWHJiaXJQQ0RfZnMtM29ES05jajVXNmdaUklvTV9yVVBkV0VDMlFINlVGdk1BN2hBa0FSdFJOVjVSUDJEWkRJRUxEZ3l3?oc=5",
-   "published_utc": "2026-10-30T07:55:36+00:00",
-   "title_original": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55596517241c6b76"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor: Focus on fixing 2% inflation, sustainable and stable realization \"not yet\" Policy decisions, awareness of upside risks (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkxaMUVPMThYSTIzcV82QUVTT1lBc0xNcUR1NEZJZy1yV182SXBSVGpLQ0lUZFQ5WlZIcDRuSFgxT1pHSGhyRy1zODl0TjV6NkR0OV9NdFd2alpXNEhnRkRnbXRPbGl2ZHBXUzItRGo4cHRvdzVfMl9zS1poZUp4OWVIa2NZNW4xVFNidzZR?oc=5",
-   "published_utc": "2026-10-30T07:31:42+00:00",
-   "title_original": "日銀総裁、物価2％定着へ軸足 持続・安定的な実現「まだ」 政策判断、上振れリスク意識 (時事通信)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8a025233d0f13b88"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor says that the 2% target is \"generally consistent\" with the underlying price index still stable and sustainable (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaUwtQmEwZHJQOVdRT21MM01CLXVYTkM2TjY0NXd6eG0xOFlOTkNiSjJsdzdaZThnSUUxZjlHcjB4b1ZZZlllR2NZV2lQVzRpbHYySFo0enp3dEoyUC1pQWc4LXg5QTB3dUUzSDcxaGVoVGlrVDJvbTl2WWN1VUU?oc=5",
-   "published_utc": "2026-10-30T07:31:42+00:00",
-   "title_original": "日銀総裁、2％目標と「おおむね整合的」 基調物価、持続的・安定的達成まだ（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1c1c32302083fd12"
   },
   {
    "source_id": "manual_ia",
