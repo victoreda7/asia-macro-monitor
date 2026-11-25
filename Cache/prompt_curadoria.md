@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T06:12:43.381650+00:00
+Última coleta: 2026-11-25T06:22:42.210602+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          956
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Auction Result of 40-Year JGBs on November 25, 2026(For JGB Market Special Participants)
   - [china] China's YMTC boosted by Samsung and SK Hynix adopting its memory technology
   - [taiwan] Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares
   - [korea] Amazon Autos expanding to UK in 2027 with Hyundai
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [japan] JGB yield curve steepens as market reassesses BOJ's rate hike path
   - [korea] Chuncheon City drew up a budget plan for next year worth 1.8554 trillion won and submitted it to the..
   - [korea] 54% of bond market workers say, “The Bank of Korea Monetary Policy Committee will raise the base interest rate
+  - [china] 800 billion yuan MLF + 500 billion yuan reverse repurchase, the central bank’s long-term “combination punch” w
   - [taiwan] TSMC confirms Texas tax abatement filing, investment under review
   - [japan] Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990
   - [japan] Indicators for Core CPI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan dollar and South Korean won lead decline in Asian FX
   - [china] On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
-  - [china] Important signal! 500 billion + 800 billion, the central bank takes action today
-  - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T06:12:43+00:00",
+      "published_utc": "2026-11-25T06:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
