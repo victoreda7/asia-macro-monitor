@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T05:12:49.027276+00:00
+Última coleta: 2026-11-25T05:22:41.768137+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
+  🇯🇵 Japão          963
   🇨🇳 China          1001
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  699
+  🇰🇷 Coreia do Sul  700
 
 ## O que já está no feed (não repita)
 
   - [japan] Indicators for Core CPI
   - [china] China's plastics export boom fades as stockpiles run down, feedstock costs climb
+  - [korea] (LEAD) Banks' household mortgage lending rates hit over 14-yr high in Oct.
   - [korea] Bank of Korea May Opt for Hawkish Hold — Market Talk
   - [korea] Why is SK Hynix stock tumbling today?
   - [korea] Why is Samsung Electronics stock plunging today?
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [china] China Focus: China's manufacturing powerhouse deepens regional integration
   - [china] China's yuan touches 3-week high but trade tension worries cap gains
   - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
+  - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
   - [japan] Auction Result of 40-Year JGBs on November 25, 2026
   - [korea] North Korea expels Swiss representative over sanctions related to children's camp
   - [taiwan] Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement
@@ -46,7 +48,6 @@ Total: 3000 manchetes
   - [china] Important signal! 500 billion + 800 billion, the central bank takes action today
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
   - [korea] AI Chip Boom to See Won Build on Best Year in Almost a Decade
-  - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
   - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
   - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
   - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
-  - [taiwan] Taiwan accelerates domestic drone procurement with unlocked defense budgets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T05:12:49+00:00",
+      "published_utc": "2026-11-25T05:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
