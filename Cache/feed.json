@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T01:13:09.060161+00:00",
- "collected_at_utc": "2026-11-25T01:13:09.060161+00:00",
+ "generated_at_utc": "2026-11-25T01:22:42.157293+00:00",
+ "collected_at_utc": "2026-11-25T01:22:42.157293+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 973,
-  "china": 994,
-  "taiwan": 339,
+  "china": 995,
+  "taiwan": 338,
   "korea": 694
  },
- "elapsed_s": 55.9,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T01:00:00+00:00"
+   "newest": "2026-11-24T15:08:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-11-24T13:02:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-25T01:01:02+00:00"
+   "newest": "2026-11-25T01:12:27+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T00:59:34+00:00"
+   "newest": "2026-11-25T01:12:55+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T00:24:00+00:00"
+   "newest": "2026-11-24T09:39:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T01:30:00+00:00"
+   "newest": "2026-11-24T02:44:14+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-24T23:36:46+00:00"
+   "newest": "2026-11-25T01:17:18+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T21:29:40+00:00"
+   "newest": "2026-11-25T00:23:04+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:23:23+00:00"
+   "newest": "2026-11-25T01:16:27+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:39:04+00:00"
+   "newest": "2026-11-25T01:17:53+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "S. Korea's consumer goods exports hit record high amid Korean culture boom",
+   "url": "https://www.koreaherald.com/article/10948487",
+   "published_utc": "2026-11-25T01:12:55+00:00",
+   "title_original": "S. Korea's consumer goods exports hit record high amid Korean culture boom",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e883564c5004a85"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -672,24 +689,6 @@
    "id": "d345812d89fb25fa"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, \"Limited to cases where it is truly necessary, such as disaster response\" (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Ym9HYjg2VXpVY2ROYWVxSTNyS0RtcXpPQUxRb1ZReFVINDMwZXAyUEtsTVgxXzZXbEI0czJ1QTRWa25ZU2lFa0drVUF1LW1zT2VOTXFYSkxkTjRaZ1B6c2JrRXc3ODJCWHVWSHdseDVybk1YWU5IRXJYT1YzV1E?oc=5",
-   "published_utc": "2026-11-24T23:34:34+00:00",
-   "title_original": "今年度第2次補正予算案編成を指示「災害対応など真に必要な場合に限定」高市総理（TBS NEWS DIG Powered by JNN）",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d81fa05ce94cd6b7"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse repurchase and an 800 billion yuan MLF operation; the Ministry of Innovation and Development of 6G launched a provincial coordinated pilot, and 8 provinces and cities were approved",
@@ -885,8 +884,8 @@
    "id": "87038f08758aee6a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -900,7 +899,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -1056,6 +1055,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7470c9e212563365"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WSElKWFVRUFlUNDdYdGtKQzM5NmlqRDFOWEZmTEg1VFJ5TktxemdqbER3aFdBaWt1eTlFR1dSbmtuZ0dmaXFiRGVxQXlUd1N1Wk5wY2kwd2F1dlg0bElSYlFDdw?oc=5",
+   "published_utc": "2026-11-24T14:26:15+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "debf9457c22fd086"
   },
   {
    "source_id": "tradingview_live",
@@ -1385,6 +1402,23 @@
    "id": "ddc2d690de6bf82a"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China’s cobalt firms race to beat DR Congo’s export ban on battery material",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWlFqZTE1NzRhbW1kejFKakZuUlRSaGtVU3d5aVhaLWlpcGV3LXptZjROUkpmREVwTDFzeXItZ1B6SUVOSjVENWdZN3RzOUw3TE92VHhHUElmLUJMR1FIeDVHSno1NVE1bVU5WGdJR29Ncm1iTmE2U1pjSXJEcDZubkJpdEc2R1pUT1pUb2ZFLVlVcjBtZUxRQzRoOE1La2poVzRVWW5fZFVNeS1DbmhHRGpoV1plbEtRNFAxS0EzTjRDMy1JWUFjVjgxaVTSAcwBQVVfeXFMUDBSRkJJZzZpeV80MFhPSUdlMmc5MW11a1FqeFFySk9MTF9kcFBCa2s5ZTJSVno2ODFuejZDRTRPX0ZKTDRLa1VRTUNNZDdOZE0zbU1mZU0wblk2eXYwczVYZVlQZUFvZE9NN2g2aDk2c3FJMHFBTXZicjdUOVNGWDZIdTRva0RsREtUUjZUUjhUMG5fczk2eWRjYUo2NUZ0dGx2Vzc3TFN3elYwdlI0MEdxanFBX2IzbzZDM1Etd0p3WFhxcGJOYWJNbXMt?oc=5",
+   "published_utc": "2026-11-24T12:00:05+00:00",
+   "title_original": "China’s cobalt firms race to beat DR Congo’s export ban on battery material",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "46bffff62921e265"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
@@ -1610,6 +1644,24 @@
    "id": "226311cf2535775c"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, \"Limited to cases where it is truly necessary, such as disaster response\" (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Ym9HYjg2VXpVY2ROYWVxSTNyS0RtcXpPQUxRb1ZReFVINDMwZXAyUEtsTVgxXzZXbEI0czJ1QTRWa25ZU2lFa0drVUF1LW1zT2VOTXFYSkxkTjRaZ1B6c2JrRXc3ODJCWHVWSHdseDVybk1YWU5IRXJYT1YzV1E?oc=5",
+   "published_utc": "2026-11-24T10:24:52+00:00",
+   "title_original": "今年度第2次補正予算案編成を指示「災害対応など真に必要な場合に限定」高市総理（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d81fa05ce94cd6b7"
+  },
+  {
    "source_id": "gn_asia_ft",
    "source_name": "Financial Times",
    "title_en": "China extends pause in controls on critical mineral exports to US",
@@ -1800,24 +1852,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7c8dca0001fef26c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2730,7 +2764,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Kagoshima Branch holds press conference that the prefecture's economy is \"moderately recovering\"",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90R3JUQ2Nuay1xTUZIZVdJWUFuVHNuRXBqb3pSX3FMMElsZjhlOFA0M0xxRmRKaHRpSklvTGJEZG1rXzJsXzFrdml0bFh4QVZnYmJMV1ZLdVhFN3Z4WU5UeHV5a3ZoZnU4X0J4akVqZDJjTV9ndEd1T1o5bGplQWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOE1jOEtmeTdncTNzSVFzQkMzR2ZsMFBldVhfS1N2ME5PNWNsYWxwQmp6bkl3TUJLSmV0QUNVUERXaWExYVh5ZW5pdTI2eU9DWlVpYUpPQjJNN2xNbTRVQi1VMGpCUEh3bGJHdmhWNHdFNEJscWp6RFFrYmx2MHVCTW5DTUxaT1RXbHRUcUpB?oc=5",
    "published_utc": "2026-11-24T02:56:01+00:00",
    "title_original": "日銀鹿児島支店が会見 県内の景気「緩やかに回復」",
    "region": "japan",
@@ -2742,7 +2776,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "930f8245f519d422"
+   "id": "d519d76434a7f11f"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7930,8 +7964,8 @@
    "id": "3837affcb00cf3b4"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Meiji Restoration “Abolition of tax system to promote wage increases for small and medium-sized enterprises” tax reform next year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78949",
    "published_utc": "2026-11-20T05:24:00+00:00",
@@ -7945,7 +7979,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13946413cb6bb187"
+   "id": "34280918d56c89eb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -8171,8 +8205,8 @@
    "id": "9ba1c9cb93e2e75b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: JT’s huge loss “will not affect growth investment”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78903",
    "published_utc": "2026-11-20T03:24:00+00:00",
@@ -8185,7 +8219,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bfe83cd56025ffc8"
+   "id": "c4e921bfb5438683"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51858,42 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "27c1ee9a8cb947d0"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
-   "title_en": "Japan maintains base interest rate at 1.25%... “Achieved 2% inflation target”, encouraged by additional increase",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTc0UnRsdmV4a3o0bnJqVHczS2UxVWpadm12Zzg0YTBkZElzT3lxNEI5UEVfS2FPeGtWNV94RXF5bUlPUEwxQTBtZmw3MnI3UUhTRUp1REpYS3ZPc3BvY01idWtFQkZjUkdQUUlaN2QtRFNSRUtESUJKZXRXQ1BVS2Rwbkh3SDJZZ2diTmRR?oc=5",
-   "published_utc": "2026-10-30T04:57:24+00:00",
-   "title_original": "日 기준금리 1.25%로 유지…\"물가 목표 2% 달성\" 추가 인상에 힘 실려",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b56e208337c86e16"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan's manufacturing sector stays in fast-growth mode in September",
-   "url": "https://focustaiwan.tw/business/202610300007",
-   "published_utc": "2026-10-30T04:54:54+00:00",
-   "title_original": "Taiwan's manufacturing sector stays in fast-growth mode in September",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a8c529826cc2bc14"
   },
   {
    "source_id": "manual_ia",

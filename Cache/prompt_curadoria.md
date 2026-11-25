@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T01:13:09.060161+00:00
+Última coleta: 2026-11-25T01:22:42.157293+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
-  🇨🇳 China          994
-  🇹🇼 Taiwan         339
+  🇨🇳 China          995
+  🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea's consumer goods exports hit record high amid Korean culture boom
   - [taiwan] TSMC Falls 6.05%; Foxconn Technology Falls 7.3%
   - [japan] Bank of Japan Accounts (November 20)
   - [china] CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise
@@ -36,7 +37,6 @@ Total: 3000 manchetes
   - [korea] 21 out of 23 economists say, “The Bank of Korea will raise the base interest rate”｜Global Money Club
   - [japan] JPMorgan: Yen Depreciation Pressure to Persist in 2027 Despite Improved Fundamentals
   - [china] China Probes Fourth Politburo Member in Major Leadership Shakeup
-  - [japan] Prime Minister Takaichi instructs the formulation of the second supplementary budget for this fiscal year, "Li
   - [china] Yangguang Financial Morning Post (November 25) | The central bank launched a 500 billion yuan 7-day reverse re
   - [japan] Ex-BOJ Board Member Sees Rate Reaching 2% by Mid-2027
   - [korea] Betting on the last interest rate hike?... Foreigners purchase large amounts of government bond futures ahead 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T01:13:09+00:00",
+      "published_utc": "2026-11-25T01:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
