@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T08:12:42.420924+00:00
+Última coleta: 2026-11-25T08:22:42.565683+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          952
-  🇨🇳 China          1004
-  🇹🇼 Taiwan         340
+  🇯🇵 Japão          950
+  🇨🇳 China          1005
+  🇹🇼 Taiwan         341
   🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
   - [japan] Japanese Government Bonds Held by the Bank of Japan
+  - [taiwan] NTU team develops energy-efficient chips for on-device generative AI
   - [taiwan] Analysis: Nvidia leadership settled, but US export rules still cloud outlook for Taiwan server makers
   - [china] Chinese Stock Losses Widen as Semiconductor Stocks Weigh — Market Talk
+  - [taiwan] Manufacturers' business sentiment weakens amid AI concerns
   - [korea] Kospi Falls to 10-Month Low as Chip Stock Selloff Resumes — Market Talk
   - [taiwan] Maintenance and component demand lift profits across Taiwan's aerospace supply chain
   - [china] Central Bank: 800 billion yuan MLF operation will be carried out on November 25
   - [china] China's Politburo shrinks as graft crackdown spreads
+  - [china] China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says
   - [china] MLF's continuous net withdrawals, what kind of signal does the 7-day reverse repo release at the end of the mo
   - [japan] Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share
   - [taiwan] Taipower to pour NT$109.6 billion into grid for TSMC-led chip boom in southern Taiwan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan not considering issuing new deficit-financing bonds for extra budget, TBS says
   - [china] China Focus: China's manufacturing powerhouse deepens regional integration
   - [china] China's yuan touches 3-week high but trade tension worries cap gains
-  - [china] The central bank launched a 516 billion yuan overnight reverse repurchase operation today
-  - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
-  - [japan] Auction Result of 40-Year JGBs on November 25, 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T08:12:42+00:00",
+      "published_utc": "2026-11-25T08:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

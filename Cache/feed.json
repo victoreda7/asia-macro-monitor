@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-25T08:12:42.420924+00:00",
- "collected_at_utc": "2026-11-25T08:12:42.420924+00:00",
+ "generated_at_utc": "2026-11-25T08:22:42.565683+00:00",
+ "collected_at_utc": "2026-11-25T08:22:42.565683+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 952,
-  "china": 1004,
-  "taiwan": 340,
+  "japan": 950,
+  "china": 1005,
+  "taiwan": 341,
   "korea": 704
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:07:00+00:00"
+   "newest": "2026-11-25T06:59:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:11:27+00:00"
+   "newest": "2026-11-25T06:04:34+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 51,
+   "count": 56,
    "error": "",
-   "newest": "2026-11-25T14:27:36+08:00"
+   "newest": "2026-11-25T16:10:49+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 162,
    "error": "",
-   "newest": "2026-11-25T07:54:22+00:00"
+   "newest": "2026-11-25T08:16:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-25T07:59:26+00:00"
+   "newest": "2026-11-25T08:15:51+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-24T23:20:00+00:00"
+   "newest": "2026-11-23T00:24:00+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-25T15:59:06+09:00"
+   "newest": "2026-11-25T17:14:55+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-25T08:12:00+00:00"
+   "newest": "2026-11-25T08:20:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:45:31+00:00"
+   "newest": "2026-11-25T08:17:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T07:15:34+00:00"
+   "newest": "2026-11-25T07:10:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:58:04+00:00"
+   "newest": "2026-11-25T05:45:35+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -362,6 +362,23 @@
    "id": "cd9d29a025619143"
   },
   {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "NTU team develops energy-efficient chips for on-device generative AI",
+   "url": "https://focustaiwan.tw/sci-tech/202611250014",
+   "published_utc": "2026-11-25T07:52:47+00:00",
+   "title_original": "NTU team develops energy-efficient chips for on-device generative AI",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "172fda58965069ba"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: Nvidia leadership settled, but US export rules still cloud outlook for Taiwan server makers",
@@ -394,6 +411,24 @@
    "live_wire": true,
    "manual": false,
    "id": "c8947018dbd74c3a"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Manufacturers' business sentiment weakens amid AI concerns",
+   "url": "https://focustaiwan.tw/business/202611250013",
+   "published_utc": "2026-11-25T07:33:44+00:00",
+   "title_original": "Manufacturers' business sentiment weakens amid AI concerns",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "50583491b9d196cf"
   },
   {
    "source_id": "tradingview_live",
@@ -463,6 +498,23 @@
    "live_wire": true,
    "manual": false,
    "id": "091dccd6c4fc7e05"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXNHUkhmNU9qNlc5SUphend6U184Y1FWa1AtemhrWlBhRUw0elViZG1YTVFxMHZkME03YXlqUk9LSFVaMGI5enZwelJZVlhHWDdFcXEwLVYwMUZEOW5COURWMG5VcWhIbERGcUVrWWtlN181TEdpcGNJZkpqSUhuY2c5OXh4SW9DYlJ2XzNFRjVYS0FjNlRsM3FhNkFfZms5enA0V0h5TFNGOVduY2pLdA?oc=5",
+   "published_utc": "2026-11-25T06:59:00+00:00",
+   "title_original": "China, US Set for ‘New Chapter’ of Trade Talks, Ex-Official Says",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3d094e665fc3acad"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2061,8 +2113,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -2076,7 +2128,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "tradingview_live",
@@ -2439,24 +2491,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de92cd28e2ed089b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3151,6 +3185,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -5449,7 +5501,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launches 499.5 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40ZTVEVWt6NXZKUW0tQW1CY3BucWlMZHdTdVp4dXZBYVlPeXd3STlXZGhwemkzSFlGUGc3SjE1NlFEME5Qb09zZ1R2dkM0QQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rbmJlcWIta2Rmbm5TRmo0VHdrZkxqSVp5c0xJVXR3Y3cwRXpGNUE2YlZ1ZmpPSmExdU1TRmJhVjhwYU5yUGVmZ2hnNGs0RkR1d3FlcGJhZEhjcXlxX1FmMVR3?oc=5",
    "published_utc": "2026-11-23T03:14:16+00:00",
    "title_original": "央行开展4995亿元隔夜逆回购操作",
    "region": "china",
@@ -5461,7 +5513,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1834e3da166896aa"
+   "id": "12a75acfca25700d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -11284,7 +11336,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -11296,7 +11348,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "894e406afb4c4cea"
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -18493,24 +18545,6 @@
    "id": "7ddd02cc4a182e90"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnI5bWdXbF9qNEI1emRKaXJ6MXozdFE5THZKbUJyNVg5QmRHekN2SnZXZXRrbG55NVlNSmpfQ0NTWF92Y0N3cTY2Unc3cC12RW83d1o0c0hHbTJLaFM0T08wR1h3RTNxSUNMeDM5VzJ2enhRMEtwblRCdzlyVjhBUVJQeDdoNVFaWHpONTg1OVQ3ekN2QUxMRDlOUDdzaTRvTHJfZENVbF9hc2Y0aHoxbUQ2dUFqcEZzeVh3eDk0MFJKblppdlE1MnFR?oc=5",
-   "published_utc": "2026-11-16T08:00:00+00:00",
-   "title_original": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cdca3f09fe1b64f2"
-  },
-  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "The added value of industries above designated size increased by 4.8% in October 2026",
@@ -19337,6 +19371,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0df00d1b30cd6d31"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnI5bWdXbF9qNEI1emRKaXJ6MXozdFE5THZKbUJyNVg5QmRHekN2SnZXZXRrbG55NVlNSmpfQ0NTWF92Y0N3cTY2Unc3cC12RW83d1o0c0hHbTJLaFM0T08wR1h3RTNxSUNMeDM5VzJ2enhRMEtwblRCdzlyVjhBUVJQeDdoNVFaWHpONTg1OVQ3ekN2QUxMRDlOUDdzaTRvTHJfZENVbF9hc2Y0aHoxbUQ2dUFqcEZzeVh3eDk0MFJKblppdlE1MnFR?oc=5",
+   "published_utc": "2026-11-16T03:20:55+00:00",
+   "title_original": "Japan Q3 GDP unexpectedly shrinks as slowing exports, weak spending weigh By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cdca3f09fe1b64f2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51815,60 +51867,6 @@
    "live_wire": false,
    "manual": false,
    "id": "744af785cec60aba"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "Taiwan's ICT export market ranked third in the world last year, and computers and peripheral equipment jumped to second place.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuMXQ4OWhhQ181UE5WaTVPMHlaMWVfdjBMMlVTQUZ5cTBGZWI5czI1dWwtdHo2MmFTUEJ6LWNteUI1d0FjNFlyMmNNdUFaR3NXWmxSX2UzNzI5RFUxbEE?oc=5",
-   "published_utc": "2026-10-30T09:31:00+00:00",
-   "title_original": "台灣去年ICT出口市占全球第3 電腦及周邊設備躍居第2",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "74cff3182cbff81f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan ETF sale, Finance Minister Katayama ``Considering how to handle the increase'' (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zNThyRV9hbDdJTjdYTkZodUlTc29QQXlqQXFDX1AtNkRLaHJLdkQ0MGhxMUFPdHB5WGNRTXM2WW1SeGZDY1dVblJiRDhYSWFYQzFnMGdzMk5TRFcxX2s0MV9WcHQ1TndEa2hmalNtVzRzb0JkQk5nT3AtQXBUS3M?oc=5",
-   "published_utc": "2026-10-30T09:23:44+00:00",
-   "title_original": "日銀ＥＴＦ売却、片山財務相「増加分の取り扱い今後検討」（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d63ef7b23f40a2b"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Illustration] Bank of Japan Governor says that the 2% target is “generally consistent” = key price inflation has not yet been achieved in a sustainable and stable manner (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PczFlMVk4UXB6ejBBYlkwV0wyTW52djBTMkNsREhyVkpvdERWMElfeFFKbV9lckpzbW1Jd0FPMURjLW1sbktZVHdyUnJnVllmS0lzRy1iSGVzeFM4S3J2c0RYTjA5Smd3d3J0ZGt5Vkx5TTdVY242czlkTG5Fa1E?oc=5",
-   "published_utc": "2026-10-30T09:20:07+00:00",
-   "title_original": "【図解】日銀総裁、2％目標と「おおむね整合的」＝基調物価、持続的・安定的達成まだ（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "14088373ccdf0aff"
   },
   {
    "source_id": "manual_ia",
