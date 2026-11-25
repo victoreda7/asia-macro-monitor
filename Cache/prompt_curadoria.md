@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-25T03:02:42.592341+00:00
+Última coleta: 2026-11-25T03:12:42.890941+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          966
-  🇨🇳 China          1001
-  🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  694
+  🇯🇵 Japão          965
+  🇨🇳 China          1002
+  🇹🇼 Taiwan         338
+  🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [korea] Banks' household mortgage lending rates up for 6th month in Oct.
   - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
   - [japan] Nikkei average stock price drops by more than 2,100 yen at one point, selling mainly semiconductor-related sto
   - [china] Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [china] On November 25, the central bank launched a 617 billion yuan overnight reverse repurchase operation.
   - [japan] Long-Term JGB Yields Fall Amid Chip Stock Selloffs — Market Talk
   - [china] CHINA PBOC CONDUCTS CNY617 BLN VIA O/N REVERSE REPO WEDS
+  - [china] Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year
   - [japan] "US Tariffs and Japan's Price Index" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7088 WEDS VS 6.7111
   - [china] The central bank launched a 617 billion yuan overnight reverse repurchase operation today
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launches seven-day reverse repurchase and MLF shrinks and continues
   - [korea] [Today’s economic news] Bank of Korea interest rate hike imminent… … Banking sector, non-performing loan manag
   - [china] EU restricts Chinese-made hybrid cars due to rapid imports, including Japanese-made cars
-  - [china] In 2027, the rules of the world will change significantly...The US-China-Russia summit meeting was not ``empty
-  - [japan] Why do companies choose the "employment support business" despite constant criticism of "separation of people 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-25T03:02:42+00:00",
+      "published_utc": "2026-11-25T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
