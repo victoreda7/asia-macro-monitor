@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T08:32:43.052350+00:00
+Última coleta: 2026-11-26T08:42:50.918424+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          915
-  🇨🇳 China          981
+  🇯🇵 Japão          917
+  🇨🇳 China          980
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  768
+  🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
+  - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
   - [china] China hits back at Trump tariff threat
   - [korea] How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan member Tamura: ``React swiftly, such as accelerating the pace of interest rate hikes.'' The ``ne
   - [taiwan] Agricultural minister says no new U.S. tariffs on 322 Taiwan products
   - [japan] BOJ's net income shrinks as interest payments on excess reserves grow
+  - [japan] Miyagi Prefectural Assembly November regular meeting submits general account supplementary budget bill of appr
   - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
   - [korea] [Issue & People] Bank of Korea raises base interest rate to 3.25%... Next year’s growth forecast has been sign
   - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK raises 2027 growth outlook to 4.1%, lifts key rate to 3.25%
   - [taiwan] Taiwan confident of keeping 15% tariffs under Trump's new proposal
   - [korea] Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook
-  - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
-  - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T08:32:43+00:00",
+      "published_utc": "2026-11-26T08:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
