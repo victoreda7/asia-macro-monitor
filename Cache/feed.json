@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T00:03:12.833305+00:00",
- "collected_at_utc": "2026-11-26T00:03:12.833305+00:00",
+ "generated_at_utc": "2026-11-26T00:12:42.870801+00:00",
+ "collected_at_utc": "2026-11-26T00:12:42.870801+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 930,
-  "china": 1006,
+  "japan": 931,
+  "china": 1005,
   "taiwan": 344,
   "korea": 720
  },
- "elapsed_s": 60.5,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:28:00+00:00"
+   "newest": "2026-11-25T19:29:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T07:25:00+00:00"
+   "newest": "2026-11-25T00:42:33+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 163,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-25T23:46:06+00:00"
+   "newest": "2026-11-26T00:00:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:34:37+00:00"
+   "newest": "2026-11-25T11:54:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T11:30:54+00:00"
+   "newest": "2026-11-25T18:23:37+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T00:01:01+00:00"
+   "newest": "2026-11-26T00:10:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T20:55:31+00:00"
+   "newest": "2026-11-25T22:45:30+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-26T08:30:00+09:00"
+   "newest": "2026-11-26T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,11 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T23:25:07+00:00"
+   "newest": "2026-11-26T00:07:25+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울경제TV",
+   "title_en": "The Bank of Korea is likely to raise the base interest rate by 3.25% today... Growth forecasts are likely to be raised as well.",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtRWdHd0ttdEZDVFR6N2lKZV9yRkJka1hIYnk5VGJhVi02Ujk1MHlxZnBPUWVwNTdiUUpTV2VxcmlFTVU4Q1JJc3A3dERoYVRQQ21jbG9OU0Q4Sk10Ty1Pb0NQUk8?oc=5",
+   "published_utc": "2026-11-26T00:07:25+00:00",
+   "title_original": "한은, 오늘 기준금리 3.25% 인상 유력…성장률 전망도 상향할 듯",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b24c84f592571dd9"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -414,6 +432,24 @@
    "live_wire": true,
    "manual": false,
    "id": "47273f2e7754dadc"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "``Nikkei average of 1 million yen'' is not a pipe dream. “Surprising grounds” revealed by an investment professional from the Bank of Japan (Diamond Online)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9STkM3RU41MkswaG9FLWVFM0tuNzU3Wk40SGtxOEpxei1Ga194d3gwZDJvaktQRmd3VUJGM0hQeEJqdzJCWmpUZDFlRlpSRTFzVlZLczBzeDYyMXZNaHdzeXpXUW9oT29vUnRYOWplWnVleXRsMl92d0ZEM0s3bHM?oc=5",
+   "published_utc": "2026-11-25T22:45:30+00:00",
+   "title_original": "「日経平均100万円」は夢物語ではない。日銀出身の投資プロが明かす「驚きの根拠」（ダイヤモンド・オンライン）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "de1a9783aa289136"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2233,23 +2269,6 @@
    "id": "f52bdccfc9a6a8ce"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan to draft 2nd supplementary budget for urgent needs",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02OUtDNjBXbVJETHJUaVNLU3RjMldJQ1VHMW5ORjF6LS10Sm8tRWdMZXBVTDlWRGJoNlY1U0VPa0k5cjZKU3RpaVZYUTVnZ2VZcGNIVjhORXJURlo3UzJaQUhITQ?oc=5",
-   "published_utc": "2026-11-25T03:03:58+00:00",
-   "title_original": "Japan to draft 2nd supplementary budget for urgent needs",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "221aa33c7968f5e0"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks' household mortgage lending rates up for 6th month in Oct.",
@@ -2531,6 +2550,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9e883564c5004a85"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan to draft 2nd supplementary budget for urgent needs",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02OUtDNjBXbVJETHJUaVNLU3RjMldJQ1VHMW5ORjF6LS10Sm8tRWdMZXBVTDlWRGJoNlY1U0VPa0k5cjZKU3RpaVZYUTVnZ2VZcGNIVjhORXJURlo3UzJaQUhITQ?oc=5",
+   "published_utc": "2026-11-25T01:03:58+00:00",
+   "title_original": "Japan to draft 2nd supplementary budget for urgent needs",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "221aa33c7968f5e0"
   },
   {
    "source_id": "boj_whatsnew",
@@ -3112,8 +3148,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -3127,7 +3163,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3510,6 +3546,24 @@
    "id": "de92cd28e2ed089b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -3633,7 +3687,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -3645,7 +3699,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ebeb58740ddd2edc"
+   "id": "85389ed73c9fb172"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4083,24 +4137,6 @@
    "id": "7c8dca0001fef26c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -4203,24 +4239,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -4588,6 +4606,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
+   "published_utc": "2026-11-24T08:00:00+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -51816,40 +51852,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9967f0d88ed4dd60"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46G1NK:0-chongqing-afari-technology-q3-net-loss-at-1-8-million-yuan/",
-   "published_utc": "2026-10-30T13:21:14+00:00",
-   "title_original": "Chongqing Afari Technology Q3 Net Loss At 1.8 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f2bf31bff27bbcb3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:8d0800a37a64d:0-hyundai-motor-company-stock-12-month-price-target-cut-to-krw-552483-87-implies-89-upside/",
-   "published_utc": "2026-10-30T13:20:00+00:00",
-   "title_original": "Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 552483.87, Implies 89% Upside",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "43d30fc4b06485fd"
   },
   {
    "source_id": "manual_ia",

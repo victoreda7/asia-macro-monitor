@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T00:03:12.833305+00:00
+Última coleta: 2026-11-26T00:12:42.870801+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          1006
+  🇯🇵 Japão          931
+  🇨🇳 China          1005
   🇹🇼 Taiwan         344
   🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
+  - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Growth forecasts are likely to b
   - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
   - [korea] The Bank of Korea's Monetary Policy Committee decides on the base interest rate today... Resumption of hikes, 
   - [korea] [Issue Check] The Bank of Korea's last Monetary Policy Committee of the year... Interest rate likely to rise t
   - [korea] South Korea Rate Decision On Tap For Thursday
+  - [japan] ``Nikkei average of 1 million yen'' is not a pipe dream. “Surprising grounds” revealed by an investment profes
   - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Increasing interest burden in th
   - [korea] [News Pick] Bank of Korea decides base interest rate today, likely to ‘raise’
   - [china] CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Business sentiment cautious: TIER
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock plunging today?
   - [taiwan] TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List
-  - [korea] Samsung Electronics Stocks Plunge 9.87%, Market Value Drops Below 1,000 Trillion Won
-  - [china] EU sets caps on Chinese, Korean hybrid car imports; impact on Hyundai, Kia seen limited
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T00:03:13+00:00",
+      "published_utc": "2026-11-26T00:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
