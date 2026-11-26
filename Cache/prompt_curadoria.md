@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T07:22:48.273691+00:00
+Última coleta: 2026-11-26T07:33:18.984733+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          914
-  🇨🇳 China          983
+  🇯🇵 Japão          912
+  🇨🇳 China          985
   🇹🇼 Taiwan         334
   🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
+  - [korea] S. Korean won gains slightly against U.S. dollar after BOK hikes key rate
+  - [china] Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
   - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc To 3,701 Yen From 3,700 Yen, Filing Shows
   - [china] US restrictions on chips and strict measures against distillation threaten the development of AI models in Chi
-  - [china] US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
+  - [korea] (News Focus) Chip boom prompts BOK to deliver 3rd rate hike, revise up 2027 forecast
   - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
+  - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
   - [korea] South Korean shares rebound from 10-month low; rate hike caps gains
   - [japan] BOJ's net income shrinks as interest payment on excess reserves grow
   - [korea] Korea stands by industrial policy after US tariff proposal
@@ -29,6 +33,7 @@ Total: 3000 manchetes
   - [korea] Due to high growth rate and inflation, the Bank of Korea raises the base interest rate to 3.25% (comprehensive
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [korea] After taking a breather, the Bank of Korea raised its base interest rate to 3.25%... the upper end of austerit
+  - [taiwan] Vice premier outlines tariffs, support for U.S. investments by Taiwan firms
   - [china] China Braces for Tariff Hike After US Announcement
   - [china] Powertrain subsidiaries of China's FAW, GAC forge supply chain partnership
   - [japan] BOJ policymaker signals chance of faster-paced interest rate hikes
@@ -41,6 +46,7 @@ Total: 3000 manchetes
   - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
   - [japan] Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards
   - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
+  - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
   - [china] Yuan holds steady near three-week high despite tariff risk
   - [china] China shares flat as markets struggle to shake off tariff risks
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
   - [korea] [Video] Gangwon Boosts Agri-Food Export Cooperation
   - [japan] Honda re-imported Acura to be released next month
-  - [japan] Japan Protests New US Tariff Rate, Allegation of Excess Capacity
-  - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
-  - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
-  - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
-  - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
-  - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T07:22:48+00:00",
+      "published_utc": "2026-11-26T07:33:19+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
