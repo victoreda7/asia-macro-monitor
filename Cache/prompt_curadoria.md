@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T05:32:44.063416+00:00
+Última coleta: 2026-11-26T05:42:45.480174+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
-  🇨🇳 China          983
-  🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  769
+  🇯🇵 Japão          913
+  🇨🇳 China          982
+  🇹🇼 Taiwan         334
+  🇰🇷 Coreia do Sul  771
 
 ## O que já está no feed (não repita)
 
+  - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
+  - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
+  - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
   - [china] China Braces for Tariff Hike After US Announcement
   - [china] Yuan holds steady near three-week high despite tariff risk
   - [china] China shares flat as markets struggle to shake off tariff risks
@@ -47,16 +50,13 @@ Total: 3000 manchetes
   - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
   - [japan] Japanese yield curve steepens as markets reprice BOJ rate outlook
   - [korea] U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips
+  - [korea] Bank of Korea raises base interest rate to 3.25%... Impact of semiconductor boom and high inflation
   - [japan] ``Reacting swiftly'' to rising prices, Bank of Japan Councilor Tamura says, accelerating rate hike pace (Asahi
   - [china] Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports
   - [korea] (URGENT) S. Korea's nominal GDP expected to top 3,000 tln won in 2026, 700 tln won from chip sector: BOK gov.
   - [japan] Bank of Japan council member Naoki Tamura ``responds quickly, including accelerating the pace of interest rate
   - [japan] Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards
   - [japan] BOJ member Tamura wants to raise interest rates further towards neutral interest rates “as soon as possible” (
-  - [china] China, Hong Kong shares shrug off tariff risk to edge up from multimonth lows
-  - [korea] (URGENT) Recent stock market correction likely to affect private consumption: BOK gov.
-  - [korea] (URGENT) Inflation expected to reach target inflation of 2 pct in 2028: BOK gov.
-  - [korea] BOK Gov: To Take Action Until Inflation Converges Toward Target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T05:32:44+00:00",
+      "published_utc": "2026-11-26T05:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
