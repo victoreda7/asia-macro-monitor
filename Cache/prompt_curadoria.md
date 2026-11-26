@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T07:42:41.749609+00:00
+Última coleta: 2026-11-26T07:52:45.289484+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
@@ -17,9 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
   - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
   - [korea] S. Korean won gains slightly against U.S. dollar after BOK hikes key rate
   - [china] Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
+  - [japan] Hawkish Bank of Japan member seeks quick rate hikes on inflation
   - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc To 3,701 Yen From 3,700 Yen, Filing Shows
   - [china] US restrictions on chips and strict measures against distillation threaten the development of AI models in Chi
   - [korea] (News Focus) Chip boom prompts BOK to deliver 3rd rate hike, revise up 2027 forecast
@@ -38,13 +40,11 @@ Total: 3000 manchetes
   - [china] Powertrain subsidiaries of China's FAW, GAC forge supply chain partnership
   - [japan] BOJ policymaker signals chance of faster-paced interest rate hikes
   - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
-  - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
   - [korea] BOK raises rate to 3.25% as chip boom fuels inflation concerns
   - [taiwan] Taiwan confident of keeping 15% tariffs under Trump's new proposal
   - [korea] Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
   - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
-  - [japan] Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards
   - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [korea] Dollar steady after strong PCE data, won firms as BOK hikes interest rates
   - [korea] South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises
   - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
+  - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
   - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
   - [korea] [Video] Gangwon Boosts Agri-Food Export Cooperation
-  - [japan] Honda re-imported Acura to be released next month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T07:42:41+00:00",
+      "published_utc": "2026-11-26T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-26T07:42:41.749609+00:00",
- "collected_at_utc": "2026-11-26T07:42:41.749609+00:00",
+ "generated_at_utc": "2026-11-26T07:52:45.289484+00:00",
+ "collected_at_utc": "2026-11-26T07:52:45.289484+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T07:33:32+00:00"
+   "newest": "2026-11-26T07:44:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T07:32:16+00:00"
+   "newest": "2026-11-26T07:51:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T06:34:07+00:00"
+   "newest": "2026-11-26T03:33:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T05:43:01+00:00"
+   "newest": "2026-11-26T07:16:32+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T06:08:00+00:00"
+   "newest": "2026-11-26T04:45:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:22:44+00:00"
+   "newest": "2026-11-26T07:25:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261126000999:0-boj-tamura-s-remarks-reinforce-case-for-december-rate-hike-market-talk/",
+   "published_utc": "2026-11-26T07:45:00+00:00",
+   "title_original": "BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "70045c42c00c03ea"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -395,6 +412,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e841eb76bf43ca54"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "Hawkish Bank of Japan member seeks quick rate hikes on inflation",
+   "url": "https://www.tradingview.com/news/cnbctv:0e0a4e8f6094b:0/",
+   "published_utc": "2026-11-26T07:21:54+00:00",
+   "title_original": "Hawkish Bank of Japan member seeks quick rate hikes on inflation",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4b459c6698c2651c"
   },
   {
    "source_id": "tradingview_live",
@@ -712,24 +747,6 @@
    "id": "0e917e8b8c932f41"
   },
   {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP forecast for this year to 3.9%.",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TOWRBTWI4RGZJNlVhQndoRTBRTjRncUtuR3FISnNrNDBVUjZIZjdydkp3bkRYN3ZLc1pDbUM1WUVoek4ycnRBLW85bndELUxmVGo5TGVWdFMwMDF0Z3lN?oc=5",
-   "published_utc": "2026-11-26T06:08:00+00:00",
-   "title_original": "韓國央行升息1碼至3.25%創2年新高 上調今年GDP預估值至3.9%",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c0c9413555272db2"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "BOK raises rate to 3.25% as chip boom fuels inflation concerns",
@@ -816,23 +833,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3eb6ff35baddeeeb"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards neutral interest rates \"as soon as possible\" (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54UXdEU05PUDBxNFFBV1JOUGdabU1mTXNZamNOblI5bFRfSWE0T05VQTZjVjhmSUsyMmRCeWpiTnN2ekt3dW85VFl5WE1sVUdzcWFtWFJiTWtXQ3FyUldSTHEyUFFHUWlLV2Z3b1RDRWhEY0NRLXF6ZktZNXVqdVU?oc=5",
-   "published_utc": "2026-11-26T05:43:01+00:00",
-   "title_original": "日銀の田村審議委員、中立金利に「少しでも早く」 追加利上げに意欲（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "beadfb35df766362"
   },
   {
    "source_id": "korea_herald_biz",
@@ -991,6 +991,24 @@
    "live_wire": false,
    "manual": false,
    "id": "82d920ddb65b6751"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP forecast for this year to 3.9%.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TOWRBTWI4RGZJNlVhQndoRTBRTjRncUtuR3FISnNrNDBVUjZIZjdydkp3bkRYN3ZLc1pDbUM1WUVoek4ycnRBLW85bndELUxmVGo5TGVWdFMwMDF0Z3lN?oc=5",
+   "published_utc": "2026-11-26T04:37:00+00:00",
+   "title_original": "韓國央行升息1碼至3.25%創2年新高 上調今年GDP預估值至3.9%",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c0c9413555272db2"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1508,6 +1526,23 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards neutral interest rates \"as soon as possible\" (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54UXdEU05PUDBxNFFBV1JOUGdabU1mTXNZamNOblI5bFRfSWE0T05VQTZjVjhmSUsyMmRCeWpiTnN2ekt3dW85VFl5WE1sVUdzcWFtWFJiTWtXQ3FyUldSTHEyUFFHUWlLV2Z3b1RDRWhEY0NRLXF6ZktZNXVqdVU?oc=5",
+   "published_utc": "2026-11-26T02:37:44+00:00",
+   "title_original": "日銀の田村審議委員、中立金利に「少しでも早く」 追加利上げに意欲（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "beadfb35df766362"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "BOJ member Tamura wants to raise interest rates further towards neutral interest rates “as soon as possible” (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54UXdEU05PUDBxNFFBV1JOUGdabU1mTXNZamNOblI5bFRfSWE0T05VQTZjVjhmSUsyMmRCeWpiTnN2ekt3dW85VFl5WE1sVUdzcWFtWFJiTWtXQ3FyUldSTHEyUFFHUWlLV2Z3b1RDRWhEY0NRLXF6ZktZNXVqdVU?oc=5",
    "published_utc": "2026-11-26T02:37:44+00:00",
@@ -1632,24 +1667,6 @@
    "id": "be7dc6379f792849"
   },
   {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Bank of Korea raises interest rates amid AI chip boom",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5",
-   "published_utc": "2026-11-26T02:26:15+00:00",
-   "title_original": "Bank of Korea raises interest rates amid AI chip boom",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "88ec8481c8d1b7e1"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Bank of Korea Gov: Inflation to Remain Above Target Through 2027",
@@ -1753,6 +1770,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6cdb31a3c335f919"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국보험신문",
+   "title_en": "Bank of Korea raises base interest rate to 3.25%... “Response to prices and economy”",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rUDdWSlItaUhOd3pSR1hObm5MZ1BVTzFhTFAybllXWndxT1ozWVd5dHh1ZE9RamFrb3dleTF0UlFsYUVmMzZvSDl6VnpBNVZxV2pwZGdXeFp5UU1uMGVsVjdxNExLdTFzendB0gFvQVVfeXFMUDF3aFA4MGtiSEltNTJBdEtubDZHY0JIUHZFSlpGTXF4LUpNTWhlbWtYTnlSS0FtenZPRVNydWlyY3ozdEFLUEhrcUZWdzd6SnZ6R1ZieC1GSFJPalM0bkFabHh1akpacjVjQ1hHUHdJ?oc=5",
+   "published_utc": "2026-11-26T02:07:41+00:00",
+   "title_original": "한은, 기준금리 3.25%로 인상… “물가·경기 대응”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef6bf8c0ef93726f"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2001,22 +2036,22 @@
    "id": "92e1f40efbe25c58"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Long-Term JGB Yields Rise as Chip Stocks Rebound — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261125008635:0-long-term-jgb-yields-rise-as-chip-stocks-rebound-market-talk/",
-   "published_utc": "2026-11-26T01:46:00+00:00",
-   "title_original": "Long-Term JGB Yields Rise as Chip Stocks Rebound — Market Talk",
-   "region": "japan",
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "Bank of Korea raises interest rates amid AI chip boom",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5",
+   "published_utc": "2026-11-26T01:47:50+00:00",
+   "title_original": "Bank of Korea raises interest rates amid AI chip boom",
+   "region": "korea",
    "topics": [
-    "fiscal",
+    "monetary",
     "industrial"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "beca97aa298e884d"
+   "id": "88ec8481c8d1b7e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2124,6 +2159,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5b37e2a0eeefcf41"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "더나은미래",
+   "title_en": "Bank of Korea raises base interest rate by 0.25% point... Third time this year",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IZ05jUDFzZXBzeW9yWVpiRzFsMGtGTUtfc0JsTDNOY0kyQ1B6WVozbmd1VjRlbjQ5SlJhRk9GOWY0Y1JQUFl1VkZCbU5oTG10emc?oc=5",
+   "published_utc": "2026-11-26T01:37:00+00:00",
+   "title_original": "한국은행, 기준금리 0.25%포인트 인상…올해만 세 번째",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c36c2f985a7e33d5"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2542,41 +2594,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3414a47f494d500a"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "전자신문",
-   "title_en": "The Bank of Korea raises the base interest rate to 3.25%... austerity again",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tVUl1ZC1HN1Yxd0xlbGlPVElvd3l1RDd6VW5KZUtUbF8zMmVZaVNWZ1VUZzBWRnRlRGF6U0hLT0lhcVljQXVGb1pkQ3lodw?oc=5",
-   "published_utc": "2026-11-26T00:56:44+00:00",
-   "title_original": "한은, 기준금리 3.25%로 인상…다시 긴축",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5172bb49a974fcba"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "서울뉴스통신",
-   "title_en": "Bank of Korea raises base interest rate to 3.25% per annum... Economic growth rate expected to be 3.9% this year",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jNEdTRFRTSjRZREs1U3FULUwzN1FrbnBVMWZhbVlwQnN0d05wVHRoWVd6WlJhTzIyZXpDeVNuWHp4Q3BTdDd1RTlBeWFWWFNMbnRhVVktcHUyVkdGTG1DQmhnaHRFbHFSU2k0?oc=5",
-   "published_utc": "2026-11-26T00:55:00+00:00",
-   "title_original": "한국은행, 기준금리 연 3.25%로 인상…올해 경제성장률 3.9% 전망",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f583773229d7b583"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5630,8 +5647,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -5645,7 +5662,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51877,23 +51894,6 @@
    "live_wire": false,
    "manual": false,
    "id": "27284b1d58500e11"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Says Ready to Take Steps for Stable FX Market",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1lPdWZRSl9ObzYzaE53dVQxLTdSekwzc2JqNEhPRVNLX2o3bzJoRFN3MlV6cEQ3RUI1UlVINlRqVnFWRS1GY0hhbXZ3c2lzVmRFMG1lZ1R3SkhnUXhwTFhpYXA0d3BUVDMydnpwZVh1TUdKTWplY2RGR0dKdmo0bGlfM3BKb1V2Y08yanlNQWplVXI3OUItZm9mbTByamE4b0RnZWxHNUhpdXZLZjZZSmFWVQ?oc=5",
-   "published_utc": "2026-11-02T01:22:00+00:00",
-   "title_original": "Japan’s Katayama Says Ready to Take Steps for Stable FX Market",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e90ed43f4865882a"
   },
   {
    "source_id": "manual_ia",
