@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T00:22:40.399460+00:00
+Última coleta: 2026-11-26T00:33:14.006399+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          1005
+  🇨🇳 China          1004
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  720
+  🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
 
+  - [japan] Interest Rate (November 25 2026)
   - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Growth forecasts are likely to b
   - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
   - [korea] The Bank of Korea's Monetary Policy Committee decides on the base interest rate today... Resumption of hikes, 
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [korea] [News Pick] Bank of Korea decides base interest rate today, likely to ‘raise’
   - [china] CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK
   - [japan] Loan balance decreases for the first time in 24 years, Hiroshima City Credit Union's ``strongest management'' 
+  - [korea] In the last November of this year, the Bank of Korea Monetary Policy Committee... Expected interest rate hike
   - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017, advance opening,
   - [japan] <Legal employment rate raised to 2.7%> Is it true that a reporter infiltrates the site of an ``employment supp
   - [korea] The last Monetary Policy Committee of the year... Interest rate will be raised to 3.25% and growth outlook wil
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix stock trades down, here is why
   - [japan] Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens
   - [korea] The Bank of Korea decides the base interest rate today (26th)... Should I raise it to 3.25% per year?
-  - [taiwan] Business sentiment cautious: TIER
-  - [taiwan] Why is Taiwan Semiconductor Manufacturing stock plunging today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T00:22:40+00:00",
+      "published_utc": "2026-11-26T00:33:14+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
