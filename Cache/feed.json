@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T22:32:51.872929+00:00",
- "collected_at_utc": "2026-11-26T22:32:51.872929+00:00",
+ "generated_at_utc": "2026-11-26T22:42:42.079909+00:00",
+ "collected_at_utc": "2026-11-26T22:42:42.079909+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 922,
-  "china": 979,
+  "china": 978,
   "taiwan": 338,
-  "korea": 761
+  "korea": 762
  },
- "elapsed_s": 31.7,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T11:07:00+00:00"
+   "newest": "2026-11-26T20:42:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T11:48:45+00:00"
+   "newest": "2026-11-25T05:34:37+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T22:32:24+00:00"
+   "newest": "2026-11-26T22:39:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T11:12:00+00:00"
+   "newest": "2026-11-26T22:36:35+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T22:13:00+00:00"
+   "newest": "2026-11-26T20:55:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-27T07:00:00+09:00"
+   "newest": "2026-11-27T07:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -377,6 +377,24 @@
    "live_wire": false,
    "manual": false,
    "id": "bc3e1e2a0e0d1871"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "전자신문",
+   "title_en": "The Bank of Korea raises the base interest rate by 0.25% point to 3.25% per annum... The growth rate for this year and next year has been significantly increased to 3.9% and 4.1%.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2RWFsd29FbnhYRDU4TkJqZG96Vko0TVp6SkREby1vbVRQUGlZVkw5VHNTZG9Jb3dSXzBRQmtLQ1p0TnVRVDNxM1cyU3hXdw?oc=5",
+   "published_utc": "2026-11-26T21:43:50+00:00",
+   "title_original": "한은, 기준금리 연 3.25%로 0.25%p 인상…올해·내년 성장률 3.9%·4.1%로 대폭 상향",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b60146975b98e6a0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2381,7 +2399,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Japan Protests New US Tariff Rate, Allegation of Excess Capacity",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlAtT3dPUUQ5T3YxTVBXWjA5Y0ZKdUtJZEp5dlVpaDhlTExVNnNVTk0yT014eWhoX3R0TEc4V0l5aTk5ZjNHOWdhUU5aQzlRYUZRSkU2RGlYM1NRS212NjY2bDUxMVVLSy1CUXBjQTd4b0xsM0JLYnJZTnFaNGltQW5YSkJReGZxZ1J2V2U1X2hBQTU5Q2h3SGlnMGtJRkhBUXd3QkpPS1BuRGJTX2U4akFpT0g?oc=5",
    "published_utc": "2026-11-26T04:19:00+00:00",
@@ -3129,24 +3147,6 @@
    "live_wire": false,
    "manual": false,
    "id": "842a14acbc874ab6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조세일보",
-   "title_en": "[Full text] Bank of Korea Monetary Policy Committee resolution on monetary policy direction for November",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1URjNfcXpSbHRkdnlVODhmMDl1ZDlzT2dRc3BrSlEwVkI0ZVFMdDk4TnEwUExkOGluVEltLWpidDQ2UHo3eTJ3aGNKNERnTHV4dE5XTlJXcElrc2g0N0RzQVVkNTlVeTJscEJsYjdtVQ?oc=5",
-   "published_utc": "2026-11-26T01:39:13+00:00",
-   "title_original": "[전문] 한국은행 금통위 11월 통화정책방향 의결문",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "870b20c14b60f592"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6998,24 +6998,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -7139,7 +7121,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -7151,7 +7133,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7709,6 +7691,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -10177,6 +10177,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ca4147ce4d413fe2"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Experts see BOK raising key rate by 25bp on November 26",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5Zm9rdnpuVVBkVHEtZlI0WnphRklpZFVUSjBzSnFBc3FlYVItdklYRUVNLUprT051VDJPTUxONnQ2bDFERWQ1OVhkOUUzNmF4R2YzcE1ndw?oc=5",
+   "published_utc": "2026-11-23T02:34:02+00:00",
+   "title_original": "Experts see BOK raising key rate by 25bp on November 26",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ae0c51d370b00c55"
   },
   {
    "source_id": "toyo_keizai",
@@ -48977,24 +48994,6 @@
    "id": "37b63c577e3f0995"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0SE9iZ2tQZC14SUNQVFk0QjFfWHB1cDJTU0hyRkprRkVLNVduRS1STFY1WmZ4eVAyT2doajh1dEw0dzY4Q2d2Q0dzSmRyZGozQlJqVjZUYWZELS1aS2N0SzBGbERIa0NSVE9lQnRSSQ?oc=5",
-   "published_utc": "2026-11-03T11:09:00+00:00",
-   "title_original": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c82ca9d3c103c641"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Steps in to Boost Stocks, Cool Off Yuan",
@@ -49477,6 +49476,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6b9142ae6b360635"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0SE9iZ2tQZC14SUNQVFk0QjFfWHB1cDJTU0hyRkprRkVLNVduRS1STFY1WmZ4eVAyT2doajh1dEw0dzY4Q2d2Q0dzSmRyZGozQlJqVjZUYWZELS1aS2N0SzBGbERIa0NSVE9lQnRSSQ?oc=5",
+   "published_utc": "2026-11-03T08:00:00+00:00",
+   "title_original": "S.Korea’s used-car export boom buckles under strong won, Middle East war",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c82ca9d3c103c641"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51865,23 +51882,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9d5ce2c2df6b8876"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券市场周刊",
-   "title_en": "The central bank’s interest rate regulation is facing major changes, and the asset pricing coordinates need to be recalibrated",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lSTlJUDM4eHN1dS1PaTJRdnVULVJ3QnNnMEdOSXBpSkhnaDdFR2hWeWRWbG16dWVkNEpmUUhUWTNhdEQwb3FKcXdtb0piblZlRWU1cUJySDdFNDdfTEJ2OU9QQW1Ndw?oc=5",
-   "published_utc": "2026-11-02T06:09:00+00:00",
-   "title_original": "央行利率调控迎大变革，资产定价坐标待重校",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "22c1c6745538dbd2"
   },
   {
    "source_id": "manual_ia",
