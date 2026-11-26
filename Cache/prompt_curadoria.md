@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T04:53:16.508384+00:00
+Última coleta: 2026-11-26T05:04:54.954175+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
+  🇯🇵 Japão          912
   🇨🇳 China          981
-  🇹🇼 Taiwan         338
+  🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  770
 
 ## O que já está no feed (não repita)
 
+  - [china] China shares flat as markets struggle to shake off tariff risks
+  - [korea] Asia FX: won muted after BOK hikes rates, dollar steady
   - [korea] South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises
+  - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
   - [japan] Honda re-imported Acura to be released next month
   - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
   - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
@@ -40,6 +43,7 @@ Total: 3000 manchetes
   - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
   - [japan] Japanese yield curve steepens as markets reprice BOJ rate outlook
   - [korea] U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips
+  - [japan] ``Reacting swiftly'' to rising prices, Bank of Japan Councilor Tamura says, accelerating rate hike pace (Asahi
   - [china] Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports
   - [korea] (URGENT) S. Korea's nominal GDP expected to top 3,000 tln won in 2026, 700 tln won from chip sector: BOK gov.
   - [japan] Bank of Japan council member Naoki Tamura ``responds quickly, including accelerating the pace of interest rate
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK raises rate to 3.25% as chip boom lifts growth outlook
   - [korea] Bank of Korea raises interest rates amid AI chip boom
   - [korea] Bank of Korea Gov: Inflation to Remain Above Target Through 2027
-  - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
-  - [taiwan] Taiwan says it is confident it will maintain tariffs previously agreed with the US
-  - [korea] The Bank of Korea raises the base interest rate by 3.25% per year... Next year’s growth rate increased signifi
-  - [korea] (2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T04:53:16+00:00",
+      "published_utc": "2026-11-26T05:04:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
