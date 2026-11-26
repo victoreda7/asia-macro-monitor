@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T09:12:48.026619+00:00
+Última coleta: 2026-11-26T09:22:46.152503+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          918
+  🇯🇵 Japão          920
   🇨🇳 China          978
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  769
+  🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
+  - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
+  - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
   - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
   - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
@@ -51,12 +54,9 @@ Total: 3000 manchetes
   - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
   - [korea] South Korean shares rebound from 10-month low; rate hike caps gains
   - [japan] BOJ's net income shrinks as interest payment on excess reserves grow
+  - [korea] Bank of Korea raises interest rates amid AI chip boom
   - [korea] Korea stands by industrial policy after US tariff proposal
   - [japan] Stock price rise, buyback movement in AI/semiconductor related stocks
-  - [korea] BOK keeps door open to another rate hike, lifts 2027 growth outlook to six-year high
-  - [korea] Due to high growth rate and inflation, the Bank of Korea raises the base interest rate to 3.25% (comprehensive
-  - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
-  - [korea] After taking a breather, the Bank of Korea raised its base interest rate to 3.25%... the upper end of austerit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T09:12:48+00:00",
+      "published_utc": "2026-11-26T09:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
