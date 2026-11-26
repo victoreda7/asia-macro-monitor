@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T03:22:43.908562+00:00
+Última coleta: 2026-11-26T03:32:59.807926+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
-  🇨🇳 China          982
+  🇯🇵 Japão          911
+  🇨🇳 China          983
   🇹🇼 Taiwan         339
   🇰🇷 Coreia do Sul  767
 
@@ -32,13 +32,16 @@ Total: 3000 manchetes
   - [japan] BOJ member Tamura wants to raise interest rates further towards neutral interest rates “as soon as possible” (
   - [china] China, Hong Kong shares shrug off tariff risk to edge up from multimonth lows
   - [korea] (URGENT) Recent stock market correction likely to affect private consumption: BOK gov.
+  - [korea] (URGENT) Inflation expected to reach target inflation of 2 pct in 2028: BOK gov.
   - [korea] BOK Gov: To Take Action Until Inflation Converges Toward Target
   - [korea] BOK Gov: Expect Inflation to Approach Target in 2028
+  - [korea] Bank of Korea raises interest rates amid AI chip boom
   - [korea] Bank of Korea Gov: Inflation to Remain Above Target Through 2027
   - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
   - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
   - [taiwan] Taiwan says it is confident it will maintain tariffs previously agreed with the US
   - [korea] The Bank of Korea raises the base interest rate by 3.25% per year... Next year’s growth rate increased signifi
+  - [china] China Braces for Tariff Hike After US Announcement
   - [korea] (2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
@@ -51,12 +54,9 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
   - [japan] Policy interest rate to be brought to neutral level as soon as possible, ``react swiftly'' to signs of upward 
   - [japan] BOJ's Tamura Urges Timely Rate Hikes, Bolstering Case for December Move
+  - [korea] [eKeyword] 3.25% increase in base interest rate, what is the impact on loan interest rates and prices? |
   - [korea] BOK: All Board Members Leave Door Open to More Rate Increases Over Next Six Months
   - [korea] BOK: Sees Core Inflation Averaging 2.6% in 2026 and 2027, Up From 2.5% for Both Years
-  - [korea] BOK raises rates as expected, lifts growth outlook on AI-driven chip boom
-  - [korea] BOK: Two Board Members Favored Holding Rates, While Five Supported Hike
-  - [korea] Bank of Korea: Rate Decision Wasn't Unanimous
-  - [japan] Long-Term JGB Yields Rise as Chip Stocks Rebound — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T03:22:44+00:00",
+      "published_utc": "2026-11-26T03:33:00+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
