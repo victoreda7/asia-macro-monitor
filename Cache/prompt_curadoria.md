@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T21:32:41.921141+00:00
+Última coleta: 2026-11-26T21:42:50.418745+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          978
+  🇯🇵 Japão          923
+  🇨🇳 China          979
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [china] Trump-Xi summits unlikely to solve China's rare-earth licensing maze
   - [japan] Condominium prices continue to decline...still clear evidence that the "real estate bubble" is not over | Life
+  - [china] Monthly report on commodity housing sales price index
   - [taiwan] Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [china] Nissan poised to import cars from China to Japan for first time
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan, unrealized ETF gain of 76 trillion yen, record high, September interim results (Kyodo News)
   - [china] DPC Dash - Domino's Pizza China Scales Supply Chain Network to Drive Disciplined Store Expansion and Nationwid
   - [korea] There are concerns about a contraction in real estate market transactions due to the Bank of Korea’s interest 
-  - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron - report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T21:32:42+00:00",
+      "published_utc": "2026-11-26T21:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
