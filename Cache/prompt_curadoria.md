@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T08:52:44.407770+00:00
+Última coleta: 2026-11-26T09:04:42.655367+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          916
+  🇯🇵 Japão          917
   🇨🇳 China          979
-  🇹🇼 Taiwan         336
+  🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
   - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
   - [china] New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ
   - [korea] The Ministry of Finance and Economy announced on the 26th that it has decided not to issue governmen..
+  - [japan] Japan may raise short-term bond issuance if FY2027 debt sales increase, official says
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
   - [china] China hits back at Trump tariff threat
@@ -30,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”
   - [japan] Bank of Japan member Tamura: ``React swiftly, such as accelerating the pace of interest rate hikes.'' The ``ne
   - [taiwan] Agricultural minister says no new U.S. tariffs on 322 Taiwan products
+  - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
   - [japan] BOJ's net income shrinks as interest payments on excess reserves grow
   - [japan] BOJ's net income shrinks on higher interest payments on reserves
   - [japan] Miyagi Prefectural Assembly November regular meeting submits general account supplementary budget bill of appr
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [korea] After taking a breather, the Bank of Korea raised its base interest rate to 3.25%... the upper end of austerit
   - [taiwan] Vice premier outlines tariffs, support for U.S. investments by Taiwan firms
-  - [china] Powertrain subsidiaries of China's FAW, GAC forge supply chain partnership
-  - [japan] BOJ policymaker signals chance of faster-paced interest rate hikes
-  - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T08:52:44+00:00",
+      "published_utc": "2026-11-26T09:04:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
