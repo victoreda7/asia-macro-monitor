@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T09:04:42.655367+00:00
+Última coleta: 2026-11-26T09:12:48.026619+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
-  🇨🇳 China          979
+  🇯🇵 Japão          918
+  🇨🇳 China          978
   🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
   - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
   - [china] New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Due to high growth rate and inflation, the Bank of Korea raises the base interest rate to 3.25% (comprehensive
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [korea] After taking a breather, the Bank of Korea raised its base interest rate to 3.25%... the upper end of austerit
-  - [taiwan] Vice premier outlines tariffs, support for U.S. investments by Taiwan firms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T09:04:42+00:00",
+      "published_utc": "2026-11-26T09:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
