@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T01:22:42.930353+00:00",
- "collected_at_utc": "2026-11-26T01:22:42.930353+00:00",
+ "generated_at_utc": "2026-11-26T01:32:43.391322+00:00",
+ "collected_at_utc": "2026-11-26T01:32:43.391322+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 915,
-  "china": 987,
+  "china": 984,
   "taiwan": 341,
-  "korea": 757
+  "korea": 760
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T06:07:00+00:00"
+   "newest": "2026-11-26T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T01:11:15+00:00"
+   "newest": "2026-11-26T01:18:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-26T00:06:21+00:00"
+   "newest": "2026-11-26T01:18:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T00:57:09+00:00"
+   "newest": "2026-11-25T08:54:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T14:08:57+00:00"
+   "newest": "2026-11-26T01:17:06+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T09:30:00+09:00"
+   "newest": "2026-11-26T10:30:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T01:21:00+00:00"
+   "newest": "2026-11-26T01:31:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:07:04+00:00"
+   "newest": "2026-11-25T13:34:32+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:08:13+00:00"
+   "newest": "2026-11-26T01:20:39+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,11 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:10:00+00:00"
+   "newest": "2026-11-26T01:13:14+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Announcement of 10-year JGBs to Be Issued in December 2026",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/announcement/auct20261126e.htm",
+   "published_utc": "2026-11-26T01:30:00+00:00",
+   "title_original": "Announcement of 10-year JGBs to Be Issued in December 2026",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c0175f53decb4d5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Dec 3",
+   "url": "https://www.tradingview.com/news/DJN_DN20261125008597:0-japan-mof-to-auction-y2-6t-of-10-year-govt-bonds-dec-3/",
+   "published_utc": "2026-11-26T01:30:00+00:00",
+   "title_original": "Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Dec 3",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2a72c2c4924f01d2"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -363,6 +397,24 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares rise over 2% as central bank raises growth forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47700S:0-south-korean-shares-rise-over-2-as-central-bank-raises-growth-forecasts/",
+   "published_utc": "2026-11-26T01:22:22+00:00",
+   "title_original": "South Korean shares rise over 2% as central bank raises growth forecasts",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2e03c3e0486c0626"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Bank of Korea Delivers What May Be Its Last Hike of This Cycle — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261125008575:0-bank-of-korea-delivers-what-may-be-its-last-hike-of-this-cycle-market-talk/",
@@ -377,6 +429,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c6f4dca2cafc9864"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ’s Tamura signals chance of faster-pace interest rate hikes",
+   "url": "https://www.investing.com/news/economy-news/bojs-tamura-signals-chance-of-fasterpace-interest-rate-hikes-5051855",
+   "published_utc": "2026-11-26T01:18:18+00:00",
+   "title_original": "BOJ’s Tamura signals chance of faster-pace interest rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35cec52c25a89796"
   },
   {
    "source_id": "korea_herald_biz",
@@ -415,8 +484,25 @@
    "id": "4884f895916beac3"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
+   "source_id": "gn_kr_bok",
+   "source_name": "매일일보",
+   "title_en": "Bank of Korea raises base interest rate from 3.00% to 3.25%... last hike of the year",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoTGl6SFpRT25XMVdfZDFFM19uUGx5ekMycjY3ajFuWG9OcTQ3MHB4VTRLVHc5SEJQNVpTRGpDby1kLVZIcDZYVU1SanRzSFZ6UFJKdV9razE4TWczRFJjZjExNGw?oc=5",
+   "published_utc": "2026-11-26T01:13:14+00:00",
+   "title_original": "한은, 기준금리 3.00%→3.25% 인상…올해 마지막 인상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c5b2b383d7cac15e"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Bank of Korea hikes interest rates to 2-yr high",
    "url": "https://www.investing.com/news/economy-news/bank-of-korea-hikes-interest-rates-to-2yr-high-5051846",
    "published_utc": "2026-11-26T01:10:58+00:00",
@@ -427,9 +513,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "434eee0137b2d878"
+   "id": "7d23d16f3a13a0cf"
   },
   {
    "source_id": "gn_kr_bok",
@@ -465,23 +551,6 @@
    "live_wire": false,
    "manual": false,
    "id": "553dddf14e8017d4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ's Tamura signals chance of faster-pace interest rate hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N03T:0-boj-s-tamura-signals-chance-of-faster-pace-interest-rate-hikes/",
-   "published_utc": "2026-11-26T01:08:01+00:00",
-   "title_original": "BOJ's Tamura signals chance of faster-pace interest rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "00c9e6f899ece379"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1042,6 +1111,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d1343ec9f7eb7fc9"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "Chosunbiz",
+   "title_en": "Bank of Korea, base interest rate increased from 3% to 3.25%",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWdpNE1XTVNucXhPbjJiTHdpazZRSG5YMFZiZHBTSGRnUHctRXFPOGRoTTg5RVBQekJLUkttVTJpdHBLVlh5dUlfdTdpOGduUm1PbVUtQ2thV2Z5RlUyUVpSOGJjWVRlVmhrbUtsLVgtV1QtNlYzcnBOM2xCQ0FRemJwTmgwd9IBmgFBVV95cUxQaGZYdXc5N2hMWDY1d2Q1VlNyQ1RFQTNaZzkwcGhHN2IxbmNkWm81dmN5WlJfd0kyQVNEVkdWU3JJanIxYWpTMEhTR3VHbjl1RUZCSGNHUmZpcEhCci1QY3ppVTlEX1E4YUNpYS1rTkRxeGwwMktXX0F1NEFtbTZtN3RjeGVmNG5RbE9qM2tzcldXVTltSF8tb05R?oc=5",
+   "published_utc": "2026-11-26T00:50:00+00:00",
+   "title_original": "한국은행, 기준금리 3% → 3.25% 인상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a8b3878f7928395"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3301,6 +3387,23 @@
    "id": "4b2ab95c20ad6700"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "N.Korea expels Swiss diplomat over sanctions | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fNVh0MFlzblJRYUhER2RidVdfOXZ2Vm5oX19tNUh2X2ZxZ2k1RldyN3cxUVp0bzZyc29CTXlweEZBVU5VV2VkaFlOX3FPd2M0dzZaanZMSk5tZlBXU2dJOWF4OA?oc=5",
+   "published_utc": "2026-11-25T01:41:13+00:00",
+   "title_original": "N.Korea expels Swiss diplomat over sanctions | NHK WORLD-JAPAN News",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2da7060c393e894a"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "\"US Tariffs and Japan's Price Index\" Today's Bonds by Cow and Bear (Column) November 25, 2026 (Hiroyuki Kubota) - Expert",
@@ -3475,23 +3578,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fba721fbf74e55ab"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "N.Korea expels Swiss diplomat over sanctions | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fNVh0MFlzblJRYUhER2RidVdfOXZ2Vm5oX19tNUh2X2ZxZ2k1RldyN3cxUVp0bzZyc29CTXlweEZBVU5VV2VkaFlOX3FPd2M0dzZaanZMSk5tZlBXU2dJOWF4OA?oc=5",
-   "published_utc": "2026-11-25T00:41:13+00:00",
-   "title_original": "N.Korea expels Swiss diplomat over sanctions | NHK WORLD-JAPAN News",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2da7060c393e894a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -22198,23 +22284,6 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
-   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
-   "published_utc": "2026-11-15T23:20:51+00:00",
-   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "350419b2852113c9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
    "title_en": "Eternal Materials' semiconductor packaging materials turn profitable",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHhHc1pSTVF3LVhrWnNlaXFvZUcwcjZGTGhoRm9YbkRKaEUzU2tQZnExME10U2ZuY0M2QWZMQUZuMl9YNWx1MkJKVUIzNGtILU85T09hdy1DanF1UlVXZW5NR0sycEd1cDZrdkxjZTZxT3JBc2g2RzdqUXBnRzM3WFMweFhnOG9obURuUXQ4eU1MTGxkV0ZtN1hxVHdyOEJ0OEE?oc=5",
    "published_utc": "2026-11-15T23:16:57+00:00",
@@ -25183,6 +25252,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4c2078d4781d628d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51777,91 +51863,6 @@
    "live_wire": false,
    "manual": false,
    "id": "42d57d87d32aad5f"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Beijing blasts US ban on device testing in China, warns of supply chain hit",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGpxNGVJbUZrZDVpU2ZRY1dMRVFuak9Ua2JienR4ZFRMRVhYb1JHYldKOUtKY3dSTDdiZkVNMUNHUG9Oc2ZuUEFPNzlBQm1sX2N0Vzh6c1Zlb3hKNUJzVDRiVEMtRndwbWZRVUlUMGhuQlI1UmREVHJ2ZUtIYm0wQmJoUVgyUlVoajhBRFF1M0xrbXhKbEJoa2lrUFdIajRldEtWeWpnT2Z1NURVdXI1VTIwYkNGV2pJU3VJcUpxOFlZVG1LU1dILWtzVdIBywFBVV95cUxQektDMkNGZGtFdzI4OW45cEo2cjdUb28tNFdKLUczejdZVGJRY0dwTkczM2NLT0RnRHZLZ1NZZkJabTFjLXpaZ19FX0xvdUNpRldWQTdYWWliczMtQm4tTVRfTklyMkU0WDNYYnBDUGRxbndCTzR2U0RzdGE4XzBXXzdkMFByZDU2bVVtUEVtb21mNGh1M3RTbHppLUVxSm5IWnRLaEM3a3NqQ3R4eUk1U01LNDg0LU1GQzF4cWhCUm1XYWlJcmxpdHU2UQ?oc=5",
-   "published_utc": "2026-10-31T06:01:12+00:00",
-   "title_original": "Beijing blasts US ban on device testing in China, warns of supply chain hit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5bac5bb302f222b5"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "3 agencies identified for procuring drones said to contain Chinese-made chips",
-   "url": "https://focustaiwan.tw/politics/202610310006",
-   "published_utc": "2026-10-31T05:26:04+00:00",
-   "title_original": "3 agencies identified for procuring drones said to contain Chinese-made chips",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "57082496bdde4404"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "One AI rule book: chip expert urges shared standards across China, US models",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaExicjFMLUVYOEpJbkd1eXZGZzJUUVpVVk9QN1hBODZNcnFJMTVjV3hFZ2JpVngtZkxYcUFkZS1ZZE9XSFVDdkhqZDVhZ2ZuR3R0QWtEY2o1UHU2YUhzY0VBWm4ybUI4NHd4VU1KMU9fcDVMTUUxNDVpN191VnJxdHB4Zmtqa1Vhd2o1alpyTkJfa2NKRHduUldSTmJpdHJ3VWZaUjREZWVpb2ZLcUpTSkpTN2N1Z3pCaWJsUzFn?oc=5",
-   "published_utc": "2026-10-31T05:00:10+00:00",
-   "title_original": "One AI rule book: chip expert urges shared standards across China, US models",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3e7b9fbdabfc5245"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYm8tR29GNkVBMXBzZ0ZmMkdNSDJra1RKYmE3amJHUzNTQi1DOE44MC1NOFE1ME1kQmFBUXlxc1d6R25VYjUtaXczSEw2czZwdVhFbWFfbVRWbWdvTkhpbndpcHhxNk1aMWxjY1BQbFUxbTltLXk3eUZFZW8zTmdqWlNZNWtCcVZZWmpTT29VSjBzV21kX3EyQTZOZ3FFOVkzck9INUNDSjN3TG02QmxYRG9fMHBScldUVFVvTnU2bEE?oc=5",
-   "published_utc": "2026-10-31T04:24:06+00:00",
-   "title_original": "BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5cfdecad5ad63c01"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans",
-   "url": "https://www.investing.com/news/economy-news/boj-speeds-up-etf-sales-potentially-boosting-funding-for-takaichis-plans-4989085",
-   "published_utc": "2026-10-31T04:10:50+00:00",
-   "title_original": "BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e83a7a916952f2a0"
   },
   {
    "source_id": "manual_ia",

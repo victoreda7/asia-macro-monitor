@@ -7,24 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T01:22:42.930353+00:00
+Última coleta: 2026-11-26T01:32:43.391322+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          915
-  🇨🇳 China          987
+  🇨🇳 China          984
   🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  757
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [japan] Announcement of 10-year JGBs to Be Issued in December 2026
+  - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Dec 3
   - [korea] Bank of Korea hikes rate to 3.25% against backdrop of strong economy
+  - [korea] South Korean shares rise over 2% as central bank raises growth forecasts
   - [korea] Bank of Korea Delivers What May Be Its Last Hike of This Cycle — Market Talk
+  - [japan] BOJ’s Tamura signals chance of faster-pace interest rate hikes
   - [korea] BOK revises up S. Korea's 2026 growth outlook to 3.9%, 4.1% for 2027
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth
+  - [korea] Bank of Korea raises base interest rate from 3.00% to 3.25%... last hike of the year
   - [korea] Bank of Korea hikes interest rates to 2-yr high
   - [korea] Bank of Korea raises interest rate to highest level in two years
   - [korea] (LEAD) BOK raises key rate to 3.25 pct to curb inflationary pressure
-  - [japan] BOJ's Tamura signals chance of faster-pace interest rate hikes
   - [korea] BOK raises rate to 3.25% in final hike of year
   - [korea] Bank of Korea raises base interest rate to 3.25%... Increase resumes after one month
   - [korea] [Breaking News] Bank of Korea lowers base interest rate to 3.25% per annum... Third raise this year
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] [Breaking News] Bank of Korea base interest rate increase by 0.25%p... 3.25% per annum
   - [korea] [Breaking News] The Bank of Korea's Monetary Policy Committee raises the base interest rate to 3.25%... Growth
   - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25%p... 3.25% per annum
-  - [korea] [Breaking News] Bank of Korea raises base interest rate from 3% to 3.25% per annum
-  - [korea] [Breaking News] Bank of Korea raises base interest rate… 3.25% per annum decision
-  - [korea] [Breaking News] Bank of Korea raises base interest rate from 3% to 3.25%
-  - [korea] [Breaking News] Bank of Korea raises base interest rate… 3.00%→3.25%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T01:22:43+00:00",
+      "published_utc": "2026-11-26T01:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
