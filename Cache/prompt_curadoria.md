@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T21:42:50.418745+00:00
+Última coleta: 2026-11-26T21:50:30.814502+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
+  - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
   - [china] Trump-Xi summits unlikely to solve China's rare-earth licensing maze
   - [japan] Condominium prices continue to decline...still clear evidence that the "real estate bubble" is not over | Life
   - [china] Monthly report on commodity housing sales price index
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T21:42:50+00:00",
+      "published_utc": "2026-11-26T21:50:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
