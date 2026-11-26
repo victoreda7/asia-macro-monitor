@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T02:02:41.739635+00:00
+Última coleta: 2026-11-26T02:13:06.033811+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
+  🇯🇵 Japão          918
   🇨🇳 China          980
   🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  764
+  🇰🇷 Coreia do Sul  763
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7096 THURS VS 6.7088
+  - [korea] [Full text] Bank of Korea Monetary Policy Committee’s monetary policy direction for November
+  - [japan] Bank of Japan's interest rate hike "will be slow and hasty": Councilor Tamura says the environment remains acc
   - [japan] BOJ's Tamura Urges Timely Rate Hikes, Bolstering Case for December Move
   - [korea] BOK: All Board Members Leave Door Open to More Rate Increases Over Next Six Months
   - [korea] BOK: Sees Core Inflation Averaging 2.6% in 2026 and 2027, Up From 2.5% for Both Years
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's central bank raises rates, upgrades 2027 growth outlook
   - [korea] South Korea's central bank resumes tightening with quarter-point hike
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... austerity again
-  - [korea] Bank of Korea raises base interest rate to 3.25% per annum... Economic growth rate expected to be 3.9% this ye
-  - [korea] [Breaking News] The Bank of Korea raises its base interest rate by 0.25%p... 3.25% per annum in 2 years
-  - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25% to 3.25% per annum
-  - [korea] BOK revises up S. Korea's 2026 growth outlook to 3.9 pct, 4.1 pct for 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T02:02:41+00:00",
+      "published_utc": "2026-11-26T02:13:06+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
