@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T07:52:45.289484+00:00
+Última coleta: 2026-11-26T08:02:42.490452+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
+  🇯🇵 Japão          913
   🇨🇳 China          985
   🇹🇼 Taiwan         334
-  🇰🇷 Coreia do Sul  769
+  🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ's net income shrinks as interest payments on excess reserves grow
   - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
   - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
   - [korea] S. Korean won gains slightly against U.S. dollar after BOK hikes key rate
@@ -29,6 +30,7 @@ Total: 3000 manchetes
   - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
   - [korea] South Korean shares rebound from 10-month low; rate hike caps gains
   - [japan] BOJ's net income shrinks as interest payment on excess reserves grow
+  - [korea] Bank of Korea raises interest rates amid AI chip boom
   - [korea] Korea stands by industrial policy after US tariff proposal
   - [japan] Stock price rise, buyback movement in AI/semiconductor related stocks
   - [korea] BOK keeps door open to another rate hike, lifts 2027 growth outlook to six-year high
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises
   - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
   - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
-  - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
-  - [korea] [Video] Gangwon Boosts Agri-Food Export Cooperation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T07:52:45+00:00",
+      "published_utc": "2026-11-26T08:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
