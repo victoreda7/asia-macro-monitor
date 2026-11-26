@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T17:33:04.392702+00:00
+Última coleta: 2026-11-26T17:42:43.263467+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea raises base interest rate to 3.25%... Third time in the second half of the year
   - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
   - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
+  - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [taiwan] What to know about the latest U.S. tariff proposals for Taiwan
   - [china] China’s low interest rate comes with high stakes
@@ -55,7 +56,6 @@ Total: 3000 manchetes
   - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
   - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
   - [korea] [Better Future Economic Briefing] Bank of Korea base interest rate hike of 0.25% point, third time this year..
-  - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T17:33:04+00:00",
+      "published_utc": "2026-11-26T17:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
