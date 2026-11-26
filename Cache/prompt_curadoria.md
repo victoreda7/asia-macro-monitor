@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T03:12:41.341564+00:00
+Última coleta: 2026-11-26T03:22:43.908562+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          913
+  🇯🇵 Japão          912
   🇨🇳 China          982
-  🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  765
+  🇹🇼 Taiwan         339
+  🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year
+  - [china] Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei 
+  - [korea] The Bank of Korea raises the base interest rate to 3.25% per annum... Growth rate expected to be 4.1% next yea
+  - [korea] BOK Gov: See Private Consumption Growing 2.4% in 2027, Faster Than in 2026
+  - [korea] BOK Gov: IT Boom May Take Time to Translate Into Private Consumption
   - [korea] (URGENT) BOK chief sees improvement in S. Korea's potential growth rate
   - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
   - [taiwan] US proposes new tariffs on 14 trading partners, including Taiwan, China
@@ -33,6 +38,7 @@ Total: 3000 manchetes
   - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
   - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
   - [taiwan] Taiwan says it is confident it will maintain tariffs previously agreed with the US
+  - [korea] The Bank of Korea raises the base interest rate by 3.25% per year... Next year’s growth rate increased signifi
   - [korea] (2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK: Two Board Members Favored Holding Rates, While Five Supported Hike
   - [korea] Bank of Korea: Rate Decision Wasn't Unanimous
   - [japan] Long-Term JGB Yields Rise as Chip Stocks Rebound — Market Talk
-  - [korea] Bank of Korea raises base interest rate to 3.25%... Growth forecast for next year raised to 4.1%
-  - [china] On November 26, the central bank launched a 571.5 billion yuan overnight reverse repurchase operation.
-  - [korea] [Full text] Bank of Korea Monetary Policy Committee resolution on monetary policy direction for November
-  - [korea] Full text of BOK statement on monetary policy decision in Nov.
-  - [korea] (URGENT) Rate hike decision in Nov. was not unanimous; 2 dissenting members: BOK
-  - [korea] Base interest rate increase: It has risen to 3.25%. How much will my loan interest rate rise?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T03:12:41+00:00",
+      "published_utc": "2026-11-26T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
