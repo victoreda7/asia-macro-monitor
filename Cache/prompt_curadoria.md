@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T06:02:41.995567+00:00
+Última coleta: 2026-11-26T06:12:43.227027+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          913
+  🇯🇵 Japão          912
   🇨🇳 China          981
   🇹🇼 Taiwan         334
-  🇰🇷 Coreia do Sul  772
+  🇰🇷 Coreia do Sul  773
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK raises rate to 3.25% as chip boom fuels inflation concerns
   - [korea] Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
   - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] ``Reacting swiftly'' to rising prices, Bank of Japan Councilor Tamura says, accelerating rate hike pace (Asahi
   - [china] Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports
   - [korea] (URGENT) S. Korea's nominal GDP expected to top 3,000 tln won in 2026, 700 tln won from chip sector: BOK gov.
-  - [japan] Bank of Japan council member Naoki Tamura ``responds quickly, including accelerating the pace of interest rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T06:02:42+00:00",
+      "published_utc": "2026-11-26T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

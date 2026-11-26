@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T06:02:41.995567+00:00",
- "collected_at_utc": "2026-11-26T06:02:41.995567+00:00",
+ "generated_at_utc": "2026-11-26T06:12:43.227027+00:00",
+ "collected_at_utc": "2026-11-26T06:12:43.227027+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 913,
+  "japan": 912,
   "china": 981,
   "taiwan": 334,
-  "korea": 772
+  "korea": 773
  },
- "elapsed_s": 28.4,
+ "elapsed_s": 28.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T05:59:16+00:00"
+   "newest": "2026-11-26T06:00:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-26T05:40:23+00:00"
+   "newest": "2026-11-26T06:08:34+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:35:00+00:00"
+   "newest": "2026-11-26T01:05:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T06:02:03+00:00"
+   "newest": "2026-11-26T06:12:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,25 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "BOK raises rate to 3.25% as chip boom fuels inflation concerns",
+   "url": "https://www.koreaherald.com/article/10950549",
+   "published_utc": "2026-11-26T06:05:51+00:00",
+   "title_original": "BOK raises rate to 3.25% as chip boom fuels inflation concerns",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "41cd51c03f24a5cf"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -4786,23 +4805,6 @@
    "id": "6fb2d446240e94f6"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan to draft 2nd supplementary budget for urgent needs",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02OUtDNjBXbVJETHJUaVNLU3RjMldJQ1VHMW5ORjF6LS10Sm8tRWdMZXBVTDlWRGJoNlY1U0VPa0k5cjZKU3RpaVZYUTVnZ2VZcGNIVjhORXJURlo3UzJaQUhITQ?oc=5",
-   "published_utc": "2026-11-25T00:03:58+00:00",
-   "title_original": "Japan to draft 2nd supplementary budget for urgent needs",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "221aa33c7968f5e0"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "비즈니스포스트",
    "title_en": "SK Securities \"The Monetary Policy Committee's base interest rate is expected to rise to 3.25% in November, and 3.50% in February next year.\"",
@@ -5312,6 +5314,23 @@
    "live_wire": true,
    "manual": false,
    "id": "9a143e615969f0e7"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan to draft 2nd supplementary budget for urgent needs",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02OUtDNjBXbVJETHJUaVNLU3RjMldJQ1VHMW5ORjF6LS10Sm8tRWdMZXBVTDlWRGJoNlY1U0VPa0k5cjZKU3RpaVZYUTVnZ2VZcGNIVjhORXJURlo3UzJaQUhITQ?oc=5",
+   "published_utc": "2026-11-24T19:03:58+00:00",
+   "title_original": "Japan to draft 2nd supplementary budget for urgent needs",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "221aa33c7968f5e0"
   },
   {
    "source_id": "tradingview_live",
@@ -51873,24 +51892,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6a39160223677708"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill Ruling party: “Consults for vote” Opposition: “Prime Minister to attend”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291",
-   "published_utc": "2026-11-01T19:29:00+00:00",
-   "title_original": "消費税減税法案 与党“採決に向け協議を”野党“首相出席を”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7893eb1f6f63b5c5"
   },
   {
    "source_id": "manual_ia",
