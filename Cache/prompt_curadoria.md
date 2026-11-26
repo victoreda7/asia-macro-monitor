@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T11:42:53.512087+00:00
+Última coleta: 2026-11-26T11:52:43.398060+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
   - [japan] Personal information of 3.11 million people leaked due to unauthorized access to Mitsui Fudosan app
+  - [china] Barclays downgrades European forklift makers as Chinese imports jump 51% in Q3
   - [japan] Yomiuri: Toyota to Sell U.S.-Built Camry in Japan to Ease Trade Tensions
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
   - [japan] BOJ policymaker calls for faster rate hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
   - [korea] How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia
   - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
-  - [japan] Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T11:42:53+00:00",
+      "published_utc": "2026-11-26T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
