@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T04:24:24.376507+00:00",
- "collected_at_utc": "2026-11-26T04:24:24.376507+00:00",
+ "generated_at_utc": "2026-11-26T04:32:42.880230+00:00",
+ "collected_at_utc": "2026-11-26T04:32:42.880230+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 913,
-  "china": 982,
-  "taiwan": 337,
-  "korea": 768
+  "japan": 912,
+  "china": 981,
+  "taiwan": 338,
+  "korea": 769
  },
- "elapsed_s": 126.7,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:00:00+00:00"
+   "newest": "2026-11-26T04:23:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -73,7 +73,7 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 163,
    "error": "",
    "newest": "2026-11-26T04:18:41+00:00"
   },
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-26T03:55:28+00:00"
+   "newest": "2026-11-26T04:18:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-11-24T17:30:00+09:00"
+   "newest": "2026-11-26T10:40:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T00:34:00+00:00"
+   "newest": "2026-11-26T00:49:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T12:58:05+09:00"
+   "newest": "2026-11-26T12:58:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T12:58:05+09:00"
+   "newest": "2026-11-26T13:30:50+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T19:58:15+00:00"
+   "newest": "2026-11-25T11:54:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T04:23:00+00:00"
+   "newest": "2026-11-26T04:30:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-26T02:26:05+00:00"
+   "newest": "2026-11-26T04:25:06+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,42 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Honda re-imported Acura to be released next month",
+   "url": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
+   "published_utc": "2026-11-26T04:25:06+00:00",
+   "title_original": "ホンダ 逆輸入のアキュラ来月発売",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e4b7294dd046e9d1"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
+   "url": "https://www.investing.com/news/economy-news/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook-5051906",
+   "published_utc": "2026-11-26T04:18:41+00:00",
+   "title_original": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7448972a8c731289"
+  },
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
@@ -840,6 +876,26 @@
    "id": "afa6e56e28f93e49"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "BOK raises rate to 3.25% as chip boom lifts growth outlook",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Sd19TZV9ueFZzbWZhOWYxMWJlZ1V4Zi1UU2NsQ3Y0VnJDMGM5VlpVNENvN2NZU2M0bGE2RUkxZFQ2V0h5aEZjQ0hLV3FuaEVXeTU0Sw?oc=5",
+   "published_utc": "2026-11-26T02:26:47+00:00",
+   "title_original": "BOK raises rate to 3.25% as chip boom lifts growth outlook",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "be7dc6379f792849"
+  },
+  {
    "source_id": "gn_asia_ft",
    "source_name": "Financial Times",
    "title_en": "Bank of Korea raises interest rates amid AI chip boom",
@@ -874,25 +930,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9027f30ee5fa1d95"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
-   "url": "https://www.investing.com/news/economy-news/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook-5051906",
-   "published_utc": "2026-11-26T02:24:57+00:00",
-   "title_original": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7448972a8c731289"
   },
   {
    "source_id": "investing_econ",
@@ -1066,24 +1103,6 @@
    "live_wire": false,
    "manual": false,
    "id": "06f0ec598968d465"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경향신문",
-   "title_en": "[Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... Next year’s growth rate is raised to 4.1%",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYjMzLXZKa0FWOHZPOXJVN015Mk9KMFBWVmEycjdpY2tnUkt1LVhoaXNmcEJXSWw4Rk1GcW9uRE4tcFpFUFUwSTVNQkNENjl5bGdjNjVfaUhSd9IBX0FVX3lxTE0wekFmem5ENkx2YmJPTHY0VnIycGtDakpCcVl0UjlSYjNpaVlzdE5qbEdVZFJ0dG82d19YRXF5R1hlTU1VYlVPenRDQzh6Vlg4SUxpcF8yWW5MblZqLU8w?oc=5",
-   "published_utc": "2026-11-26T02:03:00+00:00",
-   "title_original": "[속보]한은, 기준금리 연 3.25%로 인상···내년 성장률 4.1%로 상향",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a13c8541006c7779"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1667,6 +1686,23 @@
    "id": "cad0c3e06c5e13f0"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The Bank of Korea (BOK) has tightened monetary tightening again by raising its key interest rate fur..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nNDVwWDdJMHdyZVY2UzV2SmF6TGpGczh1UzNqSDZvUFpiMC14ODBhb1VoOFE0X0JzTkQ0Q2c4VVRGb0VuQ0dFLWZaUGh0dWtzbWc?oc=5",
+   "published_utc": "2026-11-26T01:04:32+00:00",
+   "title_original": "The Bank of Korea (BOK) has tightened monetary tightening again by raising its key interest rate fur..",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a5ceaa0ac193a7d"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "헤럴드경제",
    "title_en": "Bank of Korea raises base interest rate to 3.25%... Increase resumes after one month",
@@ -2035,6 +2071,25 @@
    "live_wire": false,
    "manual": false,
    "id": "826b34bc07eedd3c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "JTBC",
+   "title_en": "Due to the semiconductor boom, prices are in the late 2% range... The Bank of Korea raises the base interest rate again to 3.25% per year.",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUFNCano5WTdBb3BLRGpEUjNJMTl1RF80Y2poMGRfS1pvRjNUUjUyeHFfUTRzWUhhRDNIdzVxT1A2S09WQVprdFFYb3BmMFRULXNRRA?oc=5",
+   "published_utc": "2026-11-26T00:51:00+00:00",
+   "title_original": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f57a48b0c7fb6a04"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -14948,6 +15003,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3b33b0ad4d30ffc6"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "UBright eyes semiconductor, passive components, smart acoustics growth",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUV6TFJEeUZsRnlEVGsydFpqZkp1NV9mVDJ5M3dPT3VRY2dsZUdoa0d1YmxFcmFDXzdXNUMxTE9SeWZESVJfeFRUYlVLeTVyZzQ3Uko0RWMtc3dRN1pZTVJEWlJnTmZkVHprdmFQSkQtOVRjZzFyY3lkTHQzazVmVVFVbjlDNjNjcHdQVk1ZaklTWWlxckRmell2UnYwZGxBNE9n?oc=5",
+   "published_utc": "2026-11-19T04:29:32+00:00",
+   "title_original": "UBright eyes semiconductor, passive components, smart acoustics growth",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "869056dbe2a33a4d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51815,77 +51887,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aedf9093f7452d60"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Maebashi Branch September Tankan flat at +15 for third consecutive period (Gunma TV)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkJTSklqa3RWS3NhaXU4WTNmMFEyRnNGZWhaVl82VjJLOXJhMmNGekUtVUlwbXdmSU9nR1NCVjhfdm80LUpHNW1abS1vSDJ4R3dhXzBBUThlWnVkTWwzVnF2VXFqZUU2ZURmZF9uclpWYVpoM0I4NEVIM3BxZDJSUF9IVmNWZ0U0WWhIUUtB?oc=5",
-   "published_utc": "2026-11-01T09:42:21+00:00",
-   "title_original": "日銀前橋支店 ９月短観 ３期連続プラス１５で横ばい (群馬テレビ)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eef7feefb5d5aa66"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网财经",
-   "title_en": "Tomorrow, the central bank will make important adjustments! A look at next week’s major financial events",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1MDFPLTBpdjl6T1NRWUtZcUtnT2ZEYXczWWJPN1BpSmw1a1Z5TjlVMHowQkRlMkNYcFNGbkJRUkRhOEktNmE1Z19sMnM3S1BL?oc=5",
-   "published_utc": "2026-11-01T09:37:40+00:00",
-   "title_original": "明天，央行重要调整！下周财经大事一览",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fcfc7381cee9bd96"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi “approaches opposition parties for passage of consumption tax reduction bill”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261101de69181",
-   "published_utc": "2026-11-01T08:21:00+00:00",
-   "title_original": "自民 小林政調会長 消費税減税法案“成立向け野党に働きかけ”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "32f8886fbbffa407"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpMnRDeFh1S3pGZWticVJwbnliVktIYzRva2lmMF9xcXlaQnpkWTJDSVlrZXZlMUxjTjFMV2MtbjBLaE4wRGxWZzhNMTFVRVgyVU1sOVRWRVhKOHF6YlJuZDRpbWJoR0pwend0ZWlGcU1IZ0xxVW1FX3R6NVFkams?oc=5",
-   "published_utc": "2026-11-01T08:20:00+00:00",
-   "title_original": "Korea Investment & SBI Holdings plan 10 tn yen fund to build AI data centers in Japan",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0021a32cc18f7af4"
   },
   {
    "source_id": "manual_ia",

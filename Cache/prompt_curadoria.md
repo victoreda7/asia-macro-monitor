@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T04:24:24.376507+00:00
+Última coleta: 2026-11-26T04:32:42.880230+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          913
-  🇨🇳 China          982
-  🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  768
+  🇯🇵 Japão          912
+  🇨🇳 China          981
+  🇹🇼 Taiwan         338
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [japan] Honda re-imported Acura to be released next month
+  - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
   - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
   - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
@@ -45,9 +47,9 @@ Total: 3000 manchetes
   - [korea] (URGENT) Inflation expected to reach target inflation of 2 pct in 2028: BOK gov.
   - [korea] BOK Gov: To Take Action Until Inflation Converges Toward Target
   - [korea] BOK Gov: Expect Inflation to Approach Target in 2028
+  - [korea] BOK raises rate to 3.25% as chip boom lifts growth outlook
   - [korea] Bank of Korea raises interest rates amid AI chip boom
   - [korea] Bank of Korea Gov: Inflation to Remain Above Target Through 2027
-  - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
   - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
   - [taiwan] Taiwan says it is confident it will maintain tariffs previously agreed with the US
   - [korea] The Bank of Korea raises the base interest rate by 3.25% per year... Next year’s growth rate increased signifi
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
   - [korea] There are a series of experiences in the online real estate community that this year's comprehensive..
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7096 THURS VS 6.7088
-  - [korea] Samsung Electronics, SK hynix rebound as U.S. chip stocks recover
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T04:24:24+00:00",
+      "published_utc": "2026-11-26T04:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
