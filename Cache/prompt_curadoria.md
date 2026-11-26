@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T08:42:50.918424+00:00
+Última coleta: 2026-11-26T08:52:44.407770+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
-  🇨🇳 China          980
+  🇯🇵 Japão          916
+  🇨🇳 China          979
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  767
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
+  - [china] New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ
+  - [korea] The Ministry of Finance and Economy announced on the 26th that it has decided not to issue governmen..
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
   - [china] China hits back at Trump tariff threat
@@ -28,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan member Tamura: ``React swiftly, such as accelerating the pace of interest rate hikes.'' The ``ne
   - [taiwan] Agricultural minister says no new U.S. tariffs on 322 Taiwan products
   - [japan] BOJ's net income shrinks as interest payments on excess reserves grow
+  - [japan] BOJ's net income shrinks on higher interest payments on reserves
   - [japan] Miyagi Prefectural Assembly November regular meeting submits general account supplementary budget bill of appr
   - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
   - [korea] [Issue & People] Bank of Korea raises base interest rate to 3.25%... Next year’s growth forecast has been sign
@@ -43,7 +47,6 @@ Total: 3000 manchetes
   - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
   - [korea] South Korean shares rebound from 10-month low; rate hike caps gains
   - [japan] BOJ's net income shrinks as interest payment on excess reserves grow
-  - [korea] Bank of Korea raises interest rates amid AI chip boom
   - [korea] Korea stands by industrial policy after US tariff proposal
   - [japan] Stock price rise, buyback movement in AI/semiconductor related stocks
   - [korea] BOK keeps door open to another rate hike, lifts 2027 growth outlook to six-year high
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Powertrain subsidiaries of China's FAW, GAC forge supply chain partnership
   - [japan] BOJ policymaker signals chance of faster-paced interest rate hikes
   - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
-  - [korea] BOK raises 2027 growth outlook to 4.1%, lifts key rate to 3.25%
-  - [taiwan] Taiwan confident of keeping 15% tariffs under Trump's new proposal
-  - [korea] Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T08:42:51+00:00",
+      "published_utc": "2026-11-26T08:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
