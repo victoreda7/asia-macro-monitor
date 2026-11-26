@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T13:32:47.656470+00:00
+Última coleta: 2026-11-26T13:42:42.557502+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
   🇨🇳 China          976
-  🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  765
+  🇹🇼 Taiwan         336
+  🇰🇷 Coreia do Sul  764
 
 ## O que já está no feed (não repita)
 
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
+  - [taiwan] What to know about the latest U.S. tariff proposals for Taiwan
   - [china] China’s low interest rate comes with high stakes
   - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
   - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
   - [china] New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
-  - [korea] The Ministry of Finance and Economy announced on the 26th that it has decided not to issue governmen..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T13:32:47+00:00",
+      "published_utc": "2026-11-26T13:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
