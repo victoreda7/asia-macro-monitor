@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T13:02:43.447749+00:00
+Última coleta: 2026-11-26T13:12:51.023304+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
+  🇯🇵 Japão          924
   🇨🇳 China          976
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  766
+  🇰🇷 Coreia do Sul  765
 
 ## O que já está no feed (não repita)
 
@@ -49,6 +49,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
   - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
+  - [japan] 高市総理はマーシャル諸島共和国のヒルダ・Ｃ・ハイネ大統領と首脳会談を行いました
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [korea] The Ministry of Finance and Economy announced on the 26th that it has decided not to issue governmen..
-  - [japan] Japan may raise short-term bond issuance if FY2027 debt sales increase, official says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T13:02:43+00:00",
+      "published_utc": "2026-11-26T13:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
