@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T09:53:00.971467+00:00
+Última coleta: 2026-11-26T10:02:57.707876+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
@@ -17,11 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Could EU delisting of Chinese firm pave way for wider sanctions relief?
   - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron
   - [china] DPC Dash - Domino's Pizza China Scales Supply Chain Network to Drive Disciplined Store Expansion and Nationwid
   - [china] China Braces for Tariff Hike After US Announcement
   - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
   - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
+  - [korea] [더나은미래 경제브리핑] 한국은행 기준금리 0.25%포인트 인상, 올해 들어 세 번째...홈플러스 재개장 석 달 만에 ‘셧다운’, 27일부터 영업 중단
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
@@ -37,7 +39,6 @@ Total: 3000 manchetes
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
   - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
-  - [china] China hits back at Trump tariff threat
   - [korea] How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia
   - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
   - [japan] Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc To 3,701 Yen From 3,700 Yen, Filing Shows
   - [china] US restrictions on chips and strict measures against distillation threaten the development of AI models in Chi
   - [korea] (News Focus) Chip boom prompts BOK to deliver 3rd rate hike, revise up 2027 forecast
-  - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T09:53:01+00:00",
+      "published_utc": "2026-11-26T10:02:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
