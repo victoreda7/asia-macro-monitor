@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T12:03:08.337229+00:00
+Última coleta: 2026-11-26T12:08:38.640595+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
-  🇨🇳 China          975
+  🇯🇵 Japão          924
+  🇨🇳 China          976
   🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  765
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] China’s low interest rate comes with high stakes
   - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
+  - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
   - [japan] Personal information of 3.11 million people leaked due to unauthorized access to Mitsui Fudosan app
   - [china] Barclays downgrades European forklift makers as Chinese imports jump 51% in Q3
   - [japan] BOJ policymaker calls for faster rate hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
   - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
-  - [korea] How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T12:03:08+00:00",
+      "published_utc": "2026-11-26T12:08:38+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
