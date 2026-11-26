@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T19:22:42.174168+00:00
+Última coleta: 2026-11-26T19:32:41.682370+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
   🇨🇳 China          977
-  🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  761
+  🇹🇼 Taiwan         338
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [china] Nissan poised to import cars from China to Japan for first time
   - [china] China Rejects U.S. Proposal for Additional 20% Tariff
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan gains 323.4 billion yen on ETF sales and 76 trillion yen in unrealized gain, the highest ever in
   - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
   - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
-  - [korea] [Better Future Economic Briefing] Bank of Korea base interest rate hike of 0.25% point, third time this year..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T19:22:42+00:00",
+      "published_utc": "2026-11-26T19:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
