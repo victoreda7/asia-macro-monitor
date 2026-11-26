@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T00:42:44.136806+00:00
+Última coleta: 2026-11-26T00:52:48.033765+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          1004
+  🇨🇳 China          1001
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  721
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Breaking News] Bank of Korea raises base interest rate… 3.00%→3.25%
+  - [korea] US proposes excess capacity tariffs on S. Korean goods within agreed 15 pct ceiling
+  - [korea] Bank of Korea decides base interest rate today, weighs on ‘raise’
+  - [korea] KOSPI starts to rise in the 1% range... Pay attention to whether the Bank of Korea will raise its base interes
   - [japan] Interest Rate (November 25 2026)
   - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Growth forecasts are likely to b
   - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Seeks Supply Chain Mandate For Chips, Other Critical Goods, Nikkei Reports
   - [japan] Japan seeks supply chain mandate for chips, other critical goods
   - [taiwan] Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal
-  - [japan] Additional tariffs imposed on Japan and other countries due to rice overproduction, up to 15% in Japan includi
-  - [korea] SK hynix stock trades down, here is why
-  - [japan] Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens
-  - [korea] The Bank of Korea decides the base interest rate today (26th)... Should I raise it to 3.25% per year?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T00:42:44+00:00",
+      "published_utc": "2026-11-26T00:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
