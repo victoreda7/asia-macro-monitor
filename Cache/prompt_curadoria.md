@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T02:13:06.033811+00:00
+Última coleta: 2026-11-26T02:22:43.998109+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          918
-  🇨🇳 China          980
+  🇯🇵 Japão          917
+  🇨🇳 China          978
   🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  763
+  🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [korea] (2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
+  - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
+  - [korea] There are a series of experiences in the online real estate community that this year's comprehensive..
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7096 THURS VS 6.7088
   - [korea] [Full text] Bank of Korea Monetary Policy Committee’s monetary policy direction for November
   - [japan] Bank of Japan's interest rate hike "will be slow and hasty": Councilor Tamura says the environment remains acc
@@ -29,13 +32,16 @@ Total: 3000 manchetes
   - [korea] Bank of Korea: Rate Decision Wasn't Unanimous
   - [japan] Long-Term JGB Yields Rise as Chip Stocks Rebound — Market Talk
   - [japan] BOJ’s Tamura signals chance of faster-pace interest rate hikes
+  - [korea] Bank of Korea raises base interest rate to 3.25%... Growth forecast for next year raised to 4.1%
   - [korea] [Full text] Bank of Korea Monetary Policy Committee resolution on monetary policy direction for November
   - [korea] Full text of BOK statement on monetary policy decision in Nov.
   - [korea] (URGENT) Rate hike decision in Nov. was not unanimous; 2 dissenting members: BOK
   - [korea] Base interest rate increase: It has risen to 3.25%. How much will my loan interest rate rise?
   - [japan] Announcement of 10-year JGBs to Be Issued in December 2026
   - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Dec 3
+  - [china] The central bank launched a 571.5 billion yuan overnight reverse repurchase operation today
   - [korea] Bank of Korea raises base interest rate by 0.25% point... 3.25% per annum
+  - [korea] (LEAD) BOK sharply raises 2027 growth forecast to 4.1 pct on AI chip boom
   - [korea] Bank of Korea hikes rate to 3.25% against backdrop of strong economy
   - [korea] South Korean shares rise over 2% as central bank raises growth forecasts
   - [korea] Bank of Korea Delivers What May Be Its Last Hike of This Cycle — Market Talk
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] [Breaking News] Bank of Korea lowers base interest rate to 3.25% per annum... Third raise this year
   - [korea] BOK raises key rate to 3.25 pct
   - [korea] Bank of Korea raises base interest rate by 0.25%p... At 3.25% per year (1 step)
-  - [japan] Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)
-  - [korea] Bank of Korea raises base interest rate to 3.25%... Third austerity this year alone
-  - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25% point to 3.25% per annum
-  - [korea] South Korea's central bank raises rates, upgrades 2027 growth outlook
-  - [korea] South Korea's central bank resumes tightening with quarter-point hike
-  - [korea] The Bank of Korea raises the base interest rate to 3.25%... austerity again
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T02:13:06+00:00",
+      "published_utc": "2026-11-26T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

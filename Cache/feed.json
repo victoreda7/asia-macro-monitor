@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T02:13:06.033811+00:00",
- "collected_at_utc": "2026-11-26T02:13:06.033811+00:00",
+ "generated_at_utc": "2026-11-26T02:22:43.998109+00:00",
+ "collected_at_utc": "2026-11-26T02:22:43.998109+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 918,
-  "china": 980,
+  "japan": 917,
+  "china": 978,
   "taiwan": 339,
-  "korea": 763
+  "korea": 766
  },
- "elapsed_s": 51.9,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-11-25T12:30:00+00:00"
   },
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T14:08:57+00:00"
+   "newest": "2026-11-26T01:07:50+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-26T01:38:49+00:00"
+   "newest": "2026-11-26T02:13:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-23T00:24:00+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T06:54:00+00:00"
+   "newest": "2026-11-26T01:26:27+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-26T01:56:41+00:00"
+   "newest": "2026-11-26T02:19:09+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:37:49+00:00"
+   "newest": "2026-11-26T02:13:08+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:06:36+00:00"
+   "newest": "2026-11-26T02:07:29+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,11 +339,46 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:03:57+00:00"
+   "newest": "2026-11-26T02:10:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZFNuUkZCWEFWcS1kMk8zUTBjd01iSG1HOU9keUtocEVXejl2ZXhyMkpMUWtiYU0wQkFQT25fT29FanhjczItenA2UmJOMTFOY3RqOXl4MWlUQQ?oc=5",
+   "published_utc": "2026-11-26T02:13:08+00:00",
+   "title_original": "(2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b08604eb4eaf58b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한겨레",
+   "title_en": "The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kaWJkTjM5bmJlYUh1RFVHbWdhSTdLOVRLY2oxTDZhNFE0QTJMTzlLV0VoSGVpRmg3NVZoYUR2dWVra0VIdnEtakJTUFR1N0IwbzBETlBNNXRMMTlRYUlmUFcyb2xsVGJXMWhjbWVDM09tZw?oc=5",
+   "published_utc": "2026-11-26T02:10:00+00:00",
+   "title_original": "한은, 기준금리 0.25%p 인상…2년 만에 연 3.25%",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc3e1e2a0e0d1871"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -360,6 +395,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6cdb31a3c335f919"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "There are a series of experiences in the online real estate community that this year's comprehensive..",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxVUp1aVdUUE1hUW9hVXVsSWVyNkY1eXR0cU13ck5UTjhUVUhnTFZ2TmFickdiYk1OZHNtZzlRbWQ3MkVINGZLUklwelJtSEhxOW4zMzBn?oc=5",
+   "published_utc": "2026-11-26T02:07:29+00:00",
+   "title_original": "There are a series of experiences in the online real estate community that this year's comprehensive..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "058b7a6bfe858e0a"
   },
   {
    "source_id": "tradingview_live",
@@ -556,6 +608,25 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "헤럴드경제",
+   "title_en": "Bank of Korea raises base interest rate to 3.25%... Growth forecast for next year raised to 4.1%",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CWjE1R3l0NERZQURaclNpaVRpMW0tRTgzcVBKMTJLY3BiODBWTk5IRE9mM2lHMmU5U1kxS1c5cXppTnVoMjJBNWMtd0g1M0JFZW9WbEFkYw?oc=5",
+   "published_utc": "2026-11-26T01:42:10+00:00",
+   "title_original": "한국은행, 기준금리 3.25%로 인상…내년 성장률 전망 4.1%로 높여",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "be9b8d6a30908c43"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "조세일보",
    "title_en": "[Full text] Bank of Korea Monetary Policy Committee resolution on monetary policy direction for November",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1URjNfcXpSbHRkdnlVODhmMDl1ZDlzT2dRc3BrSlEwVkI0ZVFMdDk4TnEwUExkOGluVEltLWpidDQ2UHo3eTJ3aGNKNERnTHV4dE5XTlJXcElrc2g0N0RzQVVkNTlVeTJscEJsYjdtVQ?oc=5",
@@ -659,6 +730,24 @@
    "id": "2a72c2c4924f01d2"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 571.5 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84STU1ek1iV0Y3SF9Rb0J5YkwtamZMTndsNDhNSG9GZXNld3VOM09mODFuS1lIblRwdnppNDZvN1BNdmEzVURsZ1pyQkpZUl9RNzhRemRUUkNfdE1FeEsyMkF3?oc=5",
+   "published_utc": "2026-11-26T01:26:27+00:00",
+   "title_original": "央行今日开展5715亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "717acaf5c31ed336"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "BBS불교방송",
    "title_en": "Bank of Korea raises base interest rate by 0.25% point... 3.25% per annum",
@@ -674,6 +763,26 @@
    "live_wire": false,
    "manual": false,
    "id": "7b0c2c29e157820c"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) BOK sharply raises 2027 growth forecast to 4.1 pct on AI chip boom",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81Q2ZaQXkzOFZuMDV4VkQ2N05zMERLckZkU0ZaSjl5WVd1SkRuZDZmVXVSUVluSGpHSGdfUlY5aXJvYllzMVRkdXZNclBWMnEtUlJKd1lOZ3dRUQ?oc=5",
+   "published_utc": "2026-11-26T01:23:20+00:00",
+   "title_original": "(LEAD) BOK sharply raises 2027 growth forecast to 4.1 pct on AI chip boom",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ccea18dc21849c2b"
   },
   {
    "source_id": "nikkei_asia",
@@ -1393,40 +1502,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3658fb529cff5340"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경향신문",
-   "title_en": "[Breaking News] Bank of Korea raises base interest rate from 3% to 3.25% per annum",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeW11UEJkblpxMWktbzdnTTVhUXRfamF1cVVFTDFKVGFJV0dRWW5nZmNOWEk3eTRpWTk3ZTBxVHg2eGtKRFR6UUpKTkJ3TGJycHZwdXlxdWJGUzZzUTVQdnhhMmNuQlh3MFphdUFNaHExS2UwajFrallwVUg4a2JCcGlWNEhmSjltNFRMcEdSVmdzd2k2TFZ2WXlJRzlNeTRZVm82OHNEY2xjTUpp0gFfQVVfeXFMTTB6QWZ6bkQ2THZiYk9MdjRWcjJwa0NqSkJxWXRSOVJiM2lpWXN0TmpsR1VkUnR0bzZ3X1hFcXlHWGVNTVViVU96dENDOHpWWDhJTGlwXzJZbkxuVmotTzA?oc=5",
-   "published_utc": "2026-11-26T00:50:00+00:00",
-   "title_original": "[속보]한은, 기준금리 연 3%→3.25%로 인상",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6a8e923fd16707fe"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스TV",
-   "title_en": "[Breaking News] Bank of Korea raises base interest rate… 3.25% per annum decision",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmS0JRVkJlRm5zTUxvdDRMY040WWtidk92YkpyckFpZGp6MkJNcWtuT1JrZTlJNHNVTGNpSml0Um83UGdGeldFem5zNk1SZk8tVWpRTzU0dVVvZmNXQ0FJTE5kLWttWXc?oc=5",
-   "published_utc": "2026-11-26T00:50:00+00:00",
-   "title_original": "[속보] 한국은행, 기준금리 인상…연 3.25% 결정",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2da9b3c0f66f1379"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4319,8 +4394,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -4334,7 +4409,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4717,6 +4792,24 @@
    "id": "de92cd28e2ed089b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -4840,7 +4933,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -4852,7 +4945,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ebeb58740ddd2edc"
+   "id": "85389ed73c9fb172"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5290,24 +5383,6 @@
    "id": "7c8dca0001fef26c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -5410,24 +5485,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -5795,6 +5852,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
+   "published_utc": "2026-11-24T08:00:00+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -13614,7 +13689,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -13626,7 +13701,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "55af98a494c201f9"
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -22513,23 +22588,6 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
-   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
-   "published_utc": "2026-11-15T23:20:51+00:00",
-   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "350419b2852113c9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
    "title_en": "Eternal Materials' semiconductor packaging materials turn profitable",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHhHc1pSTVF3LVhrWnNlaXFvZUcwcjZGTGhoRm9YbkRKaEUzU2tQZnExME10U2ZuY0M2QWZMQUZuMl9YNWx1MkJKVUIzNGtILU85T09hdy1DanF1UlVXZW5NR0sycEd1cDZrdkxjZTZxT3JBc2g2RzdqUXBnRzM3WFMweFhnOG9obURuUXQ4eU1MTGxkV0ZtN1hxVHdyOEJ0OEE?oc=5",
    "published_utc": "2026-11-15T23:16:57+00:00",
@@ -25498,6 +25556,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4c2078d4781d628d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51802,75 +51877,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b4c7c2f2cb6e3f48"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
-   "published_utc": "2026-10-31T16:17:17+00:00",
-   "title_original": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c31455c03b09281"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Drone firm raided over Chinese chips",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4OXVVaEJzWWdiNy16bUVyaXpFMFQ0VjV6VkYwUHhXVW1jWHdDQ0dnWTFYWnJ6ak1jSXpzaFhJcE5lWklVNHZTLXJHNHJNRmRzb3I2ZXh1amxxTjAyWUhkY3ZBV3MxUHVVRWpJQjlHQVJneDJWNW8yNkF3?oc=5",
-   "published_utc": "2026-10-31T16:00:00+00:00",
-   "title_original": "Drone firm raided over Chinese chips",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "84d75c415cb44861"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan weighs taxing real estate rental operators living overseas",
-   "url": "https://asia.nikkei.com/business/markets/property/japan-weighs-taxing-real-estate-rental-operators-living-overseas",
-   "published_utc": "2026-10-31T15:22:42.279661+00:00",
-   "title_original": "Japan weighs taxing real estate rental operators living overseas",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "90f1848d9cbbe35c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "[Weekly Bond Market Watch] The central bank continued to shrink MLF by 200 billion yuan in October, and Fitch raised the viability rating of the six major state-owned banks.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYnZvRUIwOTMzWlNNMlZuOFJQNFVkRHJKTUVHcnUzdWVxNll5anFabllicTd4b1o0MU9HdE1saGlRckUyQ1hBVUVMY2JqQ3I0ZDRYWnV3?oc=5",
-   "published_utc": "2026-10-31T10:42:00+00:00",
-   "title_original": "【每周债市看点】央行10月MLF缩量续作2000亿元，惠誉上调国有六大行生存力评级",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "503f607ad77312a6"
   },
   {
    "source_id": "manual_ia",
