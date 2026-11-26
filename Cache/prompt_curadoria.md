@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T02:22:43.998109+00:00
+Última coleta: 2026-11-26T02:32:48.588222+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
+  🇯🇵 Japão          912
   🇨🇳 China          978
-  🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  766
+  🇹🇼 Taiwan         340
+  🇰🇷 Coreia do Sul  770
 
 ## O que já está no feed (não repita)
 
+  - [korea] (URGENT) Recent stock market correction likely to affect private consumption: BOK gov.
+  - [korea] BOK Gov: To Take Action Until Inflation Converges Toward Target
+  - [korea] BOK Gov: Expect Inflation to Approach Target in 2028
+  - [korea] Bank of Korea Gov: Inflation to Remain Above Target Through 2027
+  - [taiwan] Taiwan says it is confident it will maintain tariffs previously agreed with the US
   - [korea] (2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea hikes interest rates to 2-yr high
   - [korea] Bank of Korea raises interest rate to highest level in two years
   - [korea] (LEAD) BOK raises key rate to 3.25 pct to curb inflationary pressure
-  - [korea] BOK raises rate to 3.25% in final hike of year
-  - [korea] Bank of Korea raises base interest rate to 3.25%... Increase resumes after one month
-  - [korea] [Breaking News] Bank of Korea lowers base interest rate to 3.25% per annum... Third raise this year
-  - [korea] BOK raises key rate to 3.25 pct
-  - [korea] Bank of Korea raises base interest rate by 0.25%p... At 3.25% per year (1 step)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T02:22:44+00:00",
+      "published_utc": "2026-11-26T02:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
