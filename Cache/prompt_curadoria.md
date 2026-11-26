@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T08:02:42.490452+00:00
+Última coleta: 2026-11-26T08:12:52.368144+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          913
-  🇨🇳 China          985
-  🇹🇼 Taiwan         334
-  🇰🇷 Coreia do Sul  768
+  🇨🇳 China          983
+  🇹🇼 Taiwan         335
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
   - [japan] BOJ's net income shrinks as interest payments on excess reserves grow
   - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
+  - [korea] [Issue & People] Bank of Korea raises base interest rate to 3.25%... Next year’s growth forecast has been sign
   - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
   - [korea] S. Korean won gains slightly against U.S. dollar after BOK hikes key rate
   - [china] Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [china] US restrictions on chips and strict measures against distillation threaten the development of AI models in Chi
   - [korea] (News Focus) Chip boom prompts BOK to deliver 3rd rate hike, revise up 2027 forecast
   - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
+  - [taiwan] Commentary: Taiwan supply chains monitor Trump's potential interference with Nvidia
   - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
   - [korea] South Korean shares rebound from 10-month low; rate hike caps gains
   - [japan] BOJ's net income shrinks as interest payment on excess reserves grow
@@ -48,15 +50,13 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
   - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
   - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
+  - [korea] (2nd LD) BOK sharply raises 2027 growth forecast to 4.1 pct on AI chip boom
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
   - [china] Yuan holds steady near three-week high despite tariff risk
   - [china] China shares flat as markets struggle to shake off tariff risks
   - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [korea] Dollar steady after strong PCE data, won firms as BOK hikes interest rates
-  - [korea] South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises
-  - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
-  - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T08:02:42+00:00",
+      "published_utc": "2026-11-26T08:12:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
