@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T04:12:49.464814+00:00
+Última coleta: 2026-11-26T04:24:24.376507+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          913
-  🇨🇳 China          983
+  🇨🇳 China          982
   🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  767
+  🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
   - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
   - [china] China Braces for Tariff Hike After US Announcement
   - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
   - [korea] [Photo] Bank of Korea monetary policy direction press conference
+  - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
   - [korea] BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year
   - [china] Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei 
   - [korea] The Bank of Korea raises the base interest rate to 3.25% per annum... Growth rate expected to be 4.1% next yea
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] There are a series of experiences in the online real estate community that this year's comprehensive..
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7096 THURS VS 6.7088
   - [korea] Samsung Electronics, SK hynix rebound as U.S. chip stocks recover
-  - [korea] [Full text] Bank of Korea Monetary Policy Committee’s monetary policy direction for November
-  - [korea] [Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... Next year’s growth rate is raise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T04:12:49+00:00",
+      "published_utc": "2026-11-26T04:24:24+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

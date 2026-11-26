@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T04:12:49.464814+00:00",
- "collected_at_utc": "2026-11-26T04:12:49.464814+00:00",
+ "generated_at_utc": "2026-11-26T04:24:24.376507+00:00",
+ "collected_at_utc": "2026-11-26T04:24:24.376507+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 913,
-  "china": 983,
+  "china": 982,
   "taiwan": 337,
-  "korea": 767
+  "korea": 768
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 126.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T03:45:44+00:00"
+   "newest": "2026-11-26T04:08:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -73,9 +73,9 @@
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 163,
+   "count": 10,
    "error": "",
-   "newest": "2026-11-26T04:00:56+00:00"
+   "newest": "2026-11-26T04:18:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T21:58:37+00:00"
+   "newest": "2026-11-25T22:20:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:07:59+00:00"
+   "newest": "2026-11-26T01:53:13+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T00:49:00+00:00"
+   "newest": "2026-11-25T00:34:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:42:00+00:00"
+   "newest": "2026-11-25T19:58:15+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T04:11:27+00:00"
+   "newest": "2026-11-26T04:23:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:38:22+00:00"
+   "newest": "2026-11-26T03:55:05+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T03:00:02+00:00"
+   "newest": "2026-11-26T04:17:23+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJN0REM0ZDSW1VQW9tbXMxSzJHcnZFeHdyNkxQdFpLYzR1dWF4QU1CaThaN2RadnlkZXRxZkoydUlFZDFWUm9CWXdMMnBWV1drNWZWQ2xSUkR2UQ?oc=5",
+   "published_utc": "2026-11-26T04:17:23+00:00",
+   "title_original": "(3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "16aefdadc8ea0282"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -447,6 +465,24 @@
    "live_wire": false,
    "manual": false,
    "id": "30e5bf209af03965"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTAzSnF0UXZLcGIzQnV0VXoxU2x5UF9Vb1JqNGtuVENiTGg0Z1FMNno4dTZRcVNFR1BHUE81QTg4QWpZOXdxbnhUb2RDT0VWbTBBM1dVVUUwTUh5M20zNHp0SmNkS0hMYUZBazZ2c09pNWdvMTdQa0NCRWNpZDdZRGFXME8zcnU1akZOWmNxcVZhOS1LS0pkdnpiaHdBa20yWVVtcWJfNlBwU0VGeGtXNHV3?oc=5",
+   "published_utc": "2026-11-26T03:25:00+00:00",
+   "title_original": "Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "82d920ddb65b6751"
   },
   {
    "source_id": "tradingview_live",
@@ -1065,24 +1101,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43efd0ab14a608af"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTAzSnF0UXZLcGIzQnV0VXoxU2x5UF9Vb1JqNGtuVENiTGg0Z1FMNno4dTZRcVNFR1BHUE81QTg4QWpZOXdxbnhUb2RDT0VWbTBBM1dVVUUwTUh5M20zNHp0SmNkS0hMYUZBazZ2c09pNWdvMTdQa0NCRWNpZDdZRGFXME8zcnU1akZOWmNxcVZhOS1LS0pkdnpiaHdBa20yWVVtcWJfNlBwU0VGeGtXNHV3?oc=5",
-   "published_utc": "2026-11-26T02:02:00+00:00",
-   "title_original": "Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "82d920ddb65b6751"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4944,8 +4962,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -4959,7 +4977,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5953,7 +5971,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
    "published_utc": "2026-11-24T09:29:29+00:00",
    "title_original": "央行：11月25日将开展8000亿元MLF操作",
    "region": "china",
@@ -5965,7 +5983,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50a6ca31e9d4299a"
+   "id": "185164eda1a75342"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51868,23 +51886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0021a32cc18f7af4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets",
-   "url": "https://www.tradingview.com/news/binance_news:b4ea7dfb5094b:0-pboc-and-csrc-to-meet-tomorrow-on-tools-to-support-capital-markets/",
-   "published_utc": "2026-11-01T07:41:24+00:00",
-   "title_original": "PBOC and CSRC to Meet Tomorrow on Tools to Support Capital Markets",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "19c3ac281c7f71dd"
   },
   {
    "source_id": "manual_ia",
