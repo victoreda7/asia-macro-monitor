@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T16:12:42.353800+00:00",
- "collected_at_utc": "2026-11-26T16:12:42.353800+00:00",
+ "generated_at_utc": "2026-11-26T16:22:41.579252+00:00",
+ "collected_at_utc": "2026-11-26T16:22:41.579252+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 926,
-  "china": 975,
+  "china": 976,
   "taiwan": 336,
-  "korea": 763
+  "korea": 762
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 28.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T15:35:05+00:00"
+   "newest": "2026-11-26T16:10:04+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T12:52:24+00:00"
+   "newest": "2026-11-26T14:08:02+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T16:00:00+00:00"
+   "newest": "2026-11-25T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T16:11:28+00:00"
+   "newest": "2026-11-26T16:21:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:40:55+00:00"
+   "newest": "2026-11-26T07:28:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rented To Chinese Companies - CNBC",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47712W:0-chip-sellers-have-told-neoclouds-they-won-t-supply-nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-chinese-companies-cnbc/",
+   "published_utc": "2026-11-26T16:05:03+00:00",
+   "title_original": "Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rented To Chinese Companies - CNBC",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a15fc3a7ed6174d7"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "경상일보",
@@ -1873,24 +1890,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e075247a05dd02dd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook",
-   "url": "https://www.tradingview.com/news/seekingalpha:ed9f7e3f5094b:0-bank-of-korea-lifts-base-rate-by-25-bps-to-3-25-and-upgrades-gdp-outlook/",
-   "published_utc": "2026-11-26T05:55:25+00:00",
-   "title_original": "Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "13088bb479935ff2"
   },
   {
    "source_id": "mof_jp",

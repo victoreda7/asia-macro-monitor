@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T16:12:42.353800+00:00
+Última coleta: 2026-11-26T16:22:41.579252+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          975
+  🇨🇳 China          976
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  763
+  🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [china] Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rente
   - [korea] Bank of Korea raises base interest rate to 3.25%... Third time in the second half of the year
   - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
   - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
   - [japan] Prime Minister Takaichi held a summit meeting with President Hilda C. Heine of the Republic of the Marshall Is
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
-  - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T16:12:42+00:00",
+      "published_utc": "2026-11-26T16:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
