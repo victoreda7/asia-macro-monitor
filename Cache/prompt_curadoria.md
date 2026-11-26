@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T17:02:42.371077+00:00
+Última coleta: 2026-11-26T17:12:41.920338+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          927
+  🇯🇵 Japão          926
   🇨🇳 China          976
-  🇹🇼 Taiwan         335
+  🇹🇼 Taiwan         336
   🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Data Preview: Forecasters See Stable Jobless Rate in October Report as Job Market Holds Firm
   - [japan] Japan Data Preview: Solid Department Store Sales to Propel Retail Sales in October Report
   - [japan] Japan Data Forecast: Exports, AI Buildout to Lift Industrial Output in October Report
   - [china] Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rente
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
-  - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T17:02:42+00:00",
+      "published_utc": "2026-11-26T17:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
