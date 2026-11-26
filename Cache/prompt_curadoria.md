@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T08:12:52.368144+00:00
+Última coleta: 2026-11-26T08:22:49.824715+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          913
-  🇨🇳 China          983
-  🇹🇼 Taiwan         335
+  🇯🇵 Japão          914
+  🇨🇳 China          981
+  🇹🇼 Taiwan         336
   🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [china] China Braces for Tariff Hike After US Announcement
+  - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
+  - [japan] Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”
+  - [taiwan] Agricultural minister says no new U.S. tariffs on 322 Taiwan products
   - [japan] BOJ's net income shrinks as interest payments on excess reserves grow
   - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
   - [korea] [Issue & People] Bank of Korea raises base interest rate to 3.25%... Next year’s growth forecast has been sign
@@ -40,7 +44,6 @@ Total: 3000 manchetes
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [korea] After taking a breather, the Bank of Korea raised its base interest rate to 3.25%... the upper end of austerit
   - [taiwan] Vice premier outlines tariffs, support for U.S. investments by Taiwan firms
-  - [china] China Braces for Tariff Hike After US Announcement
   - [china] Powertrain subsidiaries of China's FAW, GAC forge supply chain partnership
   - [japan] BOJ policymaker signals chance of faster-paced interest rate hikes
   - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
   - [china] Yuan holds steady near three-week high despite tariff risk
-  - [china] China shares flat as markets struggle to shake off tariff risks
-  - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
-  - [korea] Dollar steady after strong PCE data, won firms as BOK hikes interest rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T08:12:52+00:00",
+      "published_utc": "2026-11-26T08:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
