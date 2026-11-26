@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T16:52:43.428025+00:00
+Última coleta: 2026-11-26T17:02:42.371077+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          977
+  🇯🇵 Japão          927
+  🇨🇳 China          976
   🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  762
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Data Preview: Solid Department Store Sales to Propel Retail Sales in October Report
   - [japan] Japan Data Forecast: Exports, AI Buildout to Lift Industrial Output in October Report
   - [china] Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rente
   - [korea] Bank of Korea raises base interest rate to 3.25%... Third time in the second half of the year
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
   - [japan] Personal information of 3.11 million people leaked due to unauthorized access to Mitsui Fudosan app
   - [china] Barclays downgrades European forklift makers as Chinese imports jump 51% in Q3
-  - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [japan] BOJ policymaker calls for faster rate hikes
   - [japan] Yomiuri: Toyota to Sell U.S.-Built Camry in Japan to Ease Trade Tensions
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
@@ -52,11 +52,11 @@ Total: 3000 manchetes
   - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
   - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
   - [korea] [Better Future Economic Briefing] Bank of Korea base interest rate hike of 0.25% point, third time this year..
+  - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
   - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
-  - [japan] Prime Minister Takaichi held a summit meeting with President Hilda C. Heine of the Republic of the Marshall Is
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T16:52:43+00:00",
+      "published_utc": "2026-11-26T17:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
