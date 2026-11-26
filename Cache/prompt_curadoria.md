@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T05:12:43.565204+00:00
+Última coleta: 2026-11-26T05:22:49.472021+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
-  🇨🇳 China          981
-  🇹🇼 Taiwan         337
+  🇨🇳 China          982
+  🇹🇼 Taiwan         336
   🇰🇷 Coreia do Sul  770
 
 ## O que já está no feed (não repita)
 
+  - [china] China Braces for Tariff Hike After US Announcement
+  - [china] Yuan holds steady near three-week high despite tariff risk
   - [china] China shares flat as markets struggle to shake off tariff risks
+  - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [korea] Asia FX: won muted after BOK hikes rates, dollar steady
   - [korea] South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises
+  - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
   - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
   - [korea] [Video] Gangwon Boosts Agri-Food Export Cooperation
   - [japan] Honda re-imported Acura to be released next month
@@ -27,12 +31,10 @@ Total: 3000 manchetes
   - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
   - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
-  - [china] China Braces for Tariff Hike After US Announcement
   - [china] Trump’s China Tariffs Raise Threat of New Test for Trade Truce
   - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
   - [korea] [Photo] Bank of Korea monetary policy direction press conference
-  - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
   - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
   - [korea] BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year
   - [china] Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] (URGENT) Inflation expected to reach target inflation of 2 pct in 2028: BOK gov.
   - [korea] BOK Gov: To Take Action Until Inflation Converges Toward Target
   - [korea] BOK Gov: Expect Inflation to Approach Target in 2028
-  - [korea] BOK raises rate to 3.25% as chip boom lifts growth outlook
-  - [korea] Bank of Korea raises interest rates amid AI chip boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T05:12:43+00:00",
+      "published_utc": "2026-11-26T05:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
