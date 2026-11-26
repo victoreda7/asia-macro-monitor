@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T02:42:40.945374+00:00",
- "collected_at_utc": "2026-11-26T02:42:40.945374+00:00",
+ "generated_at_utc": "2026-11-26T02:45:19.071069+00:00",
+ "collected_at_utc": "2026-11-26T02:45:19.071069+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 911,
-  "china": 980,
+  "japan": 913,
+  "china": 982,
   "taiwan": 340,
-  "korea": 769
+  "korea": 765
  },
- "elapsed_s": 28.7,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 46,
+   "count": 48,
    "error": "",
-   "newest": "2026-11-25T20:54:12+08:00"
+   "newest": "2026-11-26T10:06:34+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T02:33:16+00:00"
+   "newest": "2026-11-26T02:41:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:53:13+00:00"
+   "newest": "2026-11-26T02:07:59+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:07:50+00:00"
+   "newest": "2026-11-25T14:08:57+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T10:07:06+09:00"
+   "newest": "2026-11-26T11:42:21+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:23:37+00:00"
+   "newest": "2026-11-25T23:30:23+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T02:41:00+00:00"
+   "newest": "2026-11-26T02:43:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T21:31:51+00:00"
+   "newest": "2026-11-26T00:37:32+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T13:34:32+00:00"
+   "newest": "2026-11-26T02:37:44+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
+   "published_utc": "2026-11-26T02:41:46+00:00",
+   "title_original": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0a77aa53d781d114"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "中立金利に「少しでも早く」 追加利上げに意欲 田村日銀委員（時事通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54UXdEU05PUDBxNFFBV1JOUGdabU1mTXNZamNOblI5bFRfSWE0T05VQTZjVjhmSUsyMmRCeWpiTnN2ekt3dW85VFl5WE1sVUdzcWFtWFJiTWtXQ3FyUldSTHEyUFFHUWlLV2Z3b1RDRWhEY0NRLXF6ZktZNXVqdVU?oc=5",
+   "published_utc": "2026-11-26T02:37:44+00:00",
+   "title_original": "中立金利に「少しでも早く」 追加利上げに意欲 田村日銀委員（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "040dfce2f26bc1d7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -432,6 +467,25 @@
    "live_wire": true,
    "manual": false,
    "id": "9027f30ee5fa1d95"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
+   "url": "https://www.investing.com/news/economy-news/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook-5051906",
+   "published_utc": "2026-11-26T02:24:57+00:00",
+   "title_original": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "31be91ff6d3664af"
   },
   {
    "source_id": "tradingview_live",
@@ -587,6 +641,24 @@
    "live_wire": false,
    "manual": false,
    "id": "43efd0ab14a608af"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "政策金利は早期に中立水準へ、物価上振れの兆しに「俊敏な反応を」＝田村日銀委員（ロイター）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSm1lX014UXFCc2ltcGg4bXY4TzhfTllxMDNmMWVHTXJobVZKMkRwUkFSZlQ0a1RqRjlwSWxCcDBRaHVnWmEtczd0OVlqNnF5SGcwaDJZMkRIUTllOWZidEIyeDllN2JyLVlzQkZxWDRRS0JfUHNWOGRyV1UtS3c?oc=5",
+   "published_utc": "2026-11-26T01:59:06+00:00",
+   "title_original": "政策金利は早期に中立水準へ、物価上振れの兆しに「俊敏な反応を」＝田村日銀委員（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3534b8cb7ce1e4f"
   },
   {
    "source_id": "tradingview_live",
@@ -1235,25 +1307,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3414a47f494d500a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea's central bank raises rates, upgrades 2027 growth outlook",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47607Z:0-south-korea-s-central-bank-raises-rates-upgrades-2027-growth-outlook/",
-   "published_utc": "2026-11-26T00:59:25+00:00",
-   "title_original": "South Korea's central bank raises rates, upgrades 2027 growth outlook",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8ef79a0acc6a21d8"
   },
   {
    "source_id": "tradingview_live",
@@ -2044,6 +2097,23 @@
    "live_wire": false,
    "manual": false,
    "id": "32c84378ad19241d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "北京商报",
+   "title_en": "精准调控流动性，避免资金面过度波动，央行公开市场操作打出“组合拳”",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HME5MLVMxd00taTN5QUVnV3pLUUJuaVNEWGdFSGZncDVqYjlETTQ2VnBaVnEyTmJlWDR3R1VWODlFUmJqMTFzSC03ZnVrZ3BXbVVaejJ6ekxtX2xWNFE?oc=5",
+   "published_utc": "2026-11-25T19:58:15+00:00",
+   "title_original": "精准调控流动性，避免资金面过度波动，央行公开市场操作打出“组合拳”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c0979c7f8c30e833"
   },
   {
    "source_id": "investing_live",
@@ -4537,8 +4607,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -4552,7 +4622,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -22731,23 +22801,6 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
-   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
-   "published_utc": "2026-11-15T23:20:51+00:00",
-   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "350419b2852113c9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
    "title_en": "Eternal Materials' semiconductor packaging materials turn profitable",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHhHc1pSTVF3LVhrWnNlaXFvZUcwcjZGTGhoRm9YbkRKaEUzU2tQZnExME10U2ZuY0M2QWZMQUZuMl9YNWx1MkJKVUIzNGtILU85T09hdy1DanF1UlVXZW5NR0sycEd1cDZrdkxjZTZxT3JBc2g2RzdqUXBnRzM3WFMweFhnOG9obURuUXQ4eU1MTGxkV0ZtN1hxVHdyOEJ0OEE?oc=5",
    "published_utc": "2026-11-15T23:16:57+00:00",
@@ -25716,6 +25769,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4c2078d4781d628d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "published_utc": "2026-11-13T08:00:00+00:00",
+   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51810,76 +51880,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c8ea0580f878d218"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ",
-   "url": "https://www.tradingview.com/news/DJN_DN20261031000955:0-south-korea-s-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-wsj/",
-   "published_utc": "2026-11-01T00:42:00+00:00",
-   "title_original": "South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer — WSJ",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6bbec9016028fb77"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QNDcwSXhZTHpFZzF1VFJXeldjbXVQZjVTaTZQQ3FWcE9UUERGYy1KS3RTSmdmR2N4SHdDWDlMM3YyREc3ZFpoZ1YzOFU2RjRHV1hOdlJhbnJRdw?oc=5",
-   "published_utc": "2026-11-01T00:34:35+00:00",
-   "title_original": "(LEAD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe3398d12ae5ea0b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea exports nearly double in October, strongest growth since 1974",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46I001:0-south-korea-exports-nearly-double-in-october-strongest-growth-since-1974/",
-   "published_utc": "2026-11-01T00:32:08+00:00",
-   "title_original": "South Korea exports nearly double in October, strongest growth since 1974",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "29b6285ca43dc405"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Import Growth Below Forecasts",
-   "url": "https://www.tradingview.com/news/te_news:596993:0-south-korea-import-growth-below-forecasts/",
-   "published_utc": "2026-11-01T00:14:19+00:00",
-   "title_original": "South Korea Import Growth Below Forecasts",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3d1a33b5d2f64306"
   },
   {
    "source_id": "manual_ia",
