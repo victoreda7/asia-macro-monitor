@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T23:22:42.642303+00:00
+Última coleta: 2026-11-26T23:32:46.619272+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          977
+  🇯🇵 Japão          924
+  🇨🇳 China          976
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo Nov core CPI rises 2.9% yr/yr
   - [japan] Nvidia suspends exports to four Southeast Asian countries Western media
   - [taiwan] Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%
   - [taiwan] Hackers target Taiwan's semiconductor supply chain, fishing and food sectors
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Councilor Tamura: ``There are cases where a judgment on the financial environment can be made in
   - [japan] Candriam Stays Long Yen, Returns to Neutral in Euro — Market Talk
   - [china] Could EU delisting of Chinese firm pave way for wider sanctions relief?
-  - [china] China shares steady as markets seek to overcome tariff pessimism
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T23:22:42+00:00",
+      "published_utc": "2026-11-26T23:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
