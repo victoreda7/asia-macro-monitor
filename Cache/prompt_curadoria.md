@@ -7,23 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T10:02:57.707876+00:00
+Última coleta: 2026-11-26T10:12:43.833225+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          979
+  🇨🇳 China          978
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  766
+  🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
   - [china] Could EU delisting of Chinese firm pave way for wider sanctions relief?
-  - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron
+  - [china] China shares steady as markets seek to overcome tariff pessimism
+  - [korea] SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring
   - [china] DPC Dash - Domino's Pizza China Scales Supply Chain Network to Drive Disciplined Store Expansion and Nationwid
+  - [korea] There are concerns about a contraction in real estate market transactions due to the Bank of Korea’s interest 
+  - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron - report
+  - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron
   - [china] China Braces for Tariff Hike After US Announcement
   - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
   - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
-  - [korea] [더나은미래 경제브리핑] 한국은행 기준금리 0.25%포인트 인상, 올해 들어 세 번째...홈플러스 재개장 석 달 만에 ‘셧다운’, 27일부터 영업 중단
+  - [korea] [Better Future Economic Briefing] Bank of Korea base interest rate hike of 0.25% point, third time this year..
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
   - [korea] S. Korean won gains slightly against U.S. dollar after BOK hikes key rate
   - [china] Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
-  - [japan] Hawkish Bank of Japan member seeks quick rate hikes on inflation
-  - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc To 3,701 Yen From 3,700 Yen, Filing Shows
-  - [china] US restrictions on chips and strict measures against distillation threaten the development of AI models in Chi
-  - [korea] (News Focus) Chip boom prompts BOK to deliver 3rd rate hike, revise up 2027 forecast
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T10:02:57+00:00",
+      "published_utc": "2026-11-26T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
