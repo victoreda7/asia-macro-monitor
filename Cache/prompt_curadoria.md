@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T06:42:52.601166+00:00
+Última coleta: 2026-11-26T06:52:42.049506+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          914
@@ -17,7 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Braces for Tariff Hike After US Announcement
   - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
+  - [japan] BOJ policymaker signals chance of faster-paced interest rate hikes
   - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
   - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
   - [korea] BOK raises rate to 3.25% as chip boom fuels inflation concerns
@@ -28,11 +30,10 @@ Total: 3000 manchetes
   - [japan] Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards
   - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
   - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
-  - [china] China Braces for Tariff Hike After US Announcement
   - [china] Yuan holds steady near three-week high despite tariff risk
   - [china] China shares flat as markets struggle to shake off tariff risks
   - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
-  - [korea] Asia FX: won muted after BOK hikes rates, dollar steady
+  - [korea] Dollar steady after strong PCE data, won firms as BOK hikes interest rates
   - [korea] South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises
   - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
   - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK Gov: See Private Consumption Growing 2.4% in 2027, Faster Than in 2026
   - [korea] BOK Gov: IT Boom May Take Time to Translate Into Private Consumption
   - [korea] The Bank of Korea raises the base interest rate to 3.25%… “Next year’s growth rate will be 4.1%”
-  - [korea] (URGENT) BOK chief sees improvement in S. Korea's potential growth rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T06:42:52+00:00",
+      "published_utc": "2026-11-26T06:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
