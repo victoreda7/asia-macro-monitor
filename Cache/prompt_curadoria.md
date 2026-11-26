@@ -7,18 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T06:52:42.049506+00:00
+Última coleta: 2026-11-26T07:02:45.934220+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          914
-  🇨🇳 China          981
+  🇯🇵 Japão          913
+  🇨🇳 China          980
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  770
+  🇰🇷 Coreia do Sul  772
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea stands by industrial policy after US tariff proposal
+  - [japan] Stock price rise, buyback movement in AI/semiconductor related stocks
+  - [korea] BOK keeps door open to another rate hike, lifts 2027 growth outlook to six-year high
+  - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
+  - [korea] After taking a breather, the Bank of Korea raised its base interest rate to 3.25%... the upper end of austerit
   - [china] China Braces for Tariff Hike After US Announcement
   - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
+  - [china] Powertrain subsidiaries of China's FAW, GAC forge supply chain partnership
   - [japan] BOJ policymaker signals chance of faster-paced interest rate hikes
   - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
   - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
   - [korea] [Photo] Bank of Korea monetary policy direction press conference
   - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
-  - [korea] BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year
-  - [china] Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei 
-  - [korea] The Bank of Korea raises the base interest rate to 3.25% per annum... Growth rate expected to be 4.1% next yea
-  - [korea] BOK Gov: See Private Consumption Growing 2.4% in 2027, Faster Than in 2026
-  - [korea] BOK Gov: IT Boom May Take Time to Translate Into Private Consumption
-  - [korea] The Bank of Korea raises the base interest rate to 3.25%… “Next year’s growth rate will be 4.1%”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T06:52:42+00:00",
+      "published_utc": "2026-11-26T07:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
