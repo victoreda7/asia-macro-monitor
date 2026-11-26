@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T05:22:49.472021+00:00
+Última coleta: 2026-11-26T05:32:44.063416+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
-  🇨🇳 China          982
+  🇨🇳 China          983
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  770
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
   - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
+  - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [china] Trump’s China Tariffs Raise Threat of New Test for Trade Truce
   - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] (URGENT) Recent stock market correction likely to affect private consumption: BOK gov.
   - [korea] (URGENT) Inflation expected to reach target inflation of 2 pct in 2028: BOK gov.
   - [korea] BOK Gov: To Take Action Until Inflation Converges Toward Target
-  - [korea] BOK Gov: Expect Inflation to Approach Target in 2028
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T05:22:49+00:00",
+      "published_utc": "2026-11-26T05:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
