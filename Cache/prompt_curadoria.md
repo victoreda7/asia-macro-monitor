@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T20:52:41.992614+00:00
+Última coleta: 2026-11-26T21:02:42.329209+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [china] Trump-Xi summits unlikely to solve China's rare-earth licensing maze
   - [japan] Condominium prices continue to decline...still clear evidence that the "real estate bubble" is not over | Life
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] DPC Dash - Domino's Pizza China Scales Supply Chain Network to Drive Disciplined Store Expansion and Nationwid
   - [korea] There are concerns about a contraction in real estate market transactions due to the Bank of Korea’s interest 
   - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron - report
-  - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T20:52:42+00:00",
+      "published_utc": "2026-11-26T21:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
