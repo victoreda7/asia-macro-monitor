@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T10:12:43.833225+00:00
+Última coleta: 2026-11-26T10:22:50.180330+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          920
+  🇯🇵 Japão          921
   🇨🇳 China          978
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  767
+  🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron - report
   - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron
   - [china] China Braces for Tariff Hike After US Announcement
+  - [japan] Bank of Japan gains 323.4 billion yen on ETF sales and 76 trillion yen in unrealized gain, the highest ever in
   - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
   - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
   - [korea] [Better Future Economic Briefing] Bank of Korea base interest rate hike of 0.25% point, third time this year..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Issue & People] Bank of Korea raises base interest rate to 3.25%... Next year’s growth forecast has been sign
   - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
   - [korea] S. Korean won gains slightly against U.S. dollar after BOK hikes key rate
-  - [china] Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T10:12:44+00:00",
+      "published_utc": "2026-11-26T10:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
