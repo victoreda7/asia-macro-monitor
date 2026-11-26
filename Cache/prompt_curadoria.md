@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T12:52:42.021673+00:00
+Última coleta: 2026-11-26T13:02:43.447749+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [china] China’s low interest rate comes with high stakes
   - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
   - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [korea] The Ministry of Finance and Economy announced on the 26th that it has decided not to issue governmen..
   - [japan] Japan may raise short-term bond issuance if FY2027 debt sales increase, official says
-  - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T12:52:42+00:00",
+      "published_utc": "2026-11-26T13:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
