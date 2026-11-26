@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T03:52:41.946676+00:00",
- "collected_at_utc": "2026-11-26T03:52:41.946676+00:00",
+ "generated_at_utc": "2026-11-26T04:05:01.614021+00:00",
+ "collected_at_utc": "2026-11-26T04:05:01.614021+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 911,
+  "japan": 912,
   "china": 983,
-  "taiwan": 339,
+  "taiwan": 338,
   "korea": 767
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 168.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:26:15+00:00"
+   "newest": "2026-11-26T03:36:35+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 48,
+   "count": 50,
    "error": "",
-   "newest": "2026-11-26T10:06:34+08:00"
+   "newest": "2026-11-26T11:25:39+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T03:30:57+00:00"
+   "newest": "2026-11-26T03:55:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:07:59+00:00"
+   "newest": "2026-11-26T01:53:13+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T12:48:20+09:00"
+   "newest": "2026-11-26T12:58:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T12:09:42+09:00"
+   "newest": "2026-11-26T12:58:05+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T11:54:44+00:00"
+   "newest": "2026-11-25T05:34:37+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:52:52+00:00"
+   "newest": "2026-11-25T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T03:51:26+00:00"
+   "newest": "2026-11-26T04:03:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-26T12:00:00+09:00"
+   "newest": "2026-11-26T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "BOJ’s Tamura flags faster pace of rate hikes amid inflation risk",
+   "url": "https://www.investing.com/news/economy-news/bojs-tamura-flags-faster-pace-of-rate-hikes-amid-inflation-risk-5051988",
+   "published_utc": "2026-11-26T03:55:28+00:00",
+   "title_original": "BOJ’s Tamura flags faster pace of rate hikes amid inflation risk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "165c2c1119286667"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762D4:0-china-vanke-is-seeking-another-extension-on-a-yuan-bond-due-next-month-bloomberg-news/",
+   "published_utc": "2026-11-26T03:52:56+00:00",
+   "title_original": "China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ef1899b81dedcea5"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg",
@@ -394,6 +429,24 @@
    "live_wire": false,
    "manual": false,
    "id": "fc96629afad63630"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴데일리 경제",
+   "title_en": "[Photo] Bank of Korea monetary policy direction press conference",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52bWNkejZ2cUhmWC1OYUIzX2dSZlBTWWtwR2dBVHo3WWFaWHhpLXVEaUxrUU1jWG5zMlRRV3YzcEViSjRHNEhDWmFydE1XMHNFcVQzQWpZSHBXZ0NDZVRFSXJoZWdadm92TVpRSEQ4RnIzNkdLMHNzZEJqQdIBgAFBVV95cUxNZE5zQ3JKd2YxQ3MtQm4wZ0J5WGVSdkgzd29HWkhRY3dMRFhxMFFpOXFwRGg0UUZCTU1VZlI3V0FjUUF2UHBlTjkwZDg0Y2MxdWhvWUtjeXg2ZkVWeld0Z2NTYjQxeGxSd0xIdFlqZ3Q4X0J4QVhBT3BrdXdqclludg?oc=5",
+   "published_utc": "2026-11-26T03:25:00+00:00",
+   "title_original": "[포토] 한국은행 통화정책방향 기자간담회",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "30e5bf209af03965"
   },
   {
    "source_id": "tradingview_live",
@@ -519,23 +572,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bb63f93f7787ebf8"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "US proposes new tariffs on 14 trading partners, including Taiwan, China",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15SWdzZE12d3BTX2NwazVQclJqS1BIS0YzWFF4RDBMeGpuQ2ctenFlYVM0b1o4d0lJWWhiRHdudWJ5M2FUdDlZUENhZVljamFCa2ZFek5fQUFnMTI1Sks1cDJ2SGgtNkVHc3o2bDJ0NnBHSllBWXdIZw?oc=5",
-   "published_utc": "2026-11-26T02:52:52+00:00",
-   "title_original": "US proposes new tariffs on 14 trading partners, including Taiwan, China",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "562afb1043f43042"
   },
   {
    "source_id": "tradingview_live",
@@ -1987,23 +2023,6 @@
    "id": "b7d79755d6b19cae"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "[Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... “This is the third time this year alone”",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nT2tJTUtUbkRESW9yWVRoeGFaMVVXM0p3Q1dWM2RvRldyRGFlWGtFbW9VZ1NhclQzREdVbE05cENMbnplbTNKa0xVd2lsemlnZFE?oc=5",
-   "published_utc": "2026-11-26T00:50:38+00:00",
-   "title_original": "[속보] 한은, 기준금리 연 3.25%로 인상…“올해만 세 번째 올려”",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "edcad9edbd42141e"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "US proposes excess capacity tariffs on S. Korean goods within agreed 15 pct ceiling",
@@ -2730,6 +2749,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cfc623aa480047cc"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "US proposes new tariffs on 14 trading partners, including Taiwan, China",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15SWdzZE12d3BTX2NwazVQclJqS1BIS0YzWFF4RDBMeGpuQ2ctenFlYVM0b1o4d0lJWWhiRHdudWJ5M2FUdDlZUENhZVljamFCa2ZFek5fQUFnMTI1Sks1cDJ2SGgtNkVHc3o2bDJ0NnBHSllBWXdIZw?oc=5",
+   "published_utc": "2026-11-25T16:00:00+00:00",
+   "title_original": "US proposes new tariffs on 14 trading partners, including Taiwan, China",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "562afb1043f43042"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -4894,8 +4930,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -4909,7 +4945,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5292,24 +5328,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -5433,7 +5451,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -5445,7 +5463,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5865,6 +5883,24 @@
    "id": "7c8dca0001fef26c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
+   "published_utc": "2026-11-24T09:34:34+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e76ede17ef3679"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -5985,6 +6021,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -6352,24 +6406,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
-   "published_utc": "2026-11-24T08:00:00+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -14189,7 +14225,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -14201,7 +14237,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "894e406afb4c4cea"
+   "id": "55af98a494c201f9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51852,40 +51888,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b6b393e32deb7ed3"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTVPSWpIcmszeC1VUENlYVQyV1BSZmJzTzg0U1pvbktYZE5NWmhKMFE4QWJab3o0M0Q3UWJwV2xfWFBHYXFEbTIzRDdOTWpValNCZnJkTElKQWlnelJKRlp1QlpIU2k0d2dyQ3hjcDgxWW1ycy1pcy0ybk9ISndkY1ZPSzdEb2ZKTXpDNmpqVkVqRGQzV3c?oc=5",
-   "published_utc": "2026-11-01T07:00:00+00:00",
-   "title_original": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "301a203e663fc682"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "China’s soaring chemical exports threaten new trade war front",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVVIM21ybXBWenJzZkRET2ZJRmh3dWNrQXFGN1ItTDczR2RFNklpV1hwNHlvN2VPeWo0LVVxbk45RFQ2Y1IzaHZwa2dBUm9fMXUtdExYa29ucnh1dTlPcWdzc1BnMjhxRHFFZF9LemR6bDhueFpsTVAwZFctM18zTFppbFA?oc=5",
-   "published_utc": "2026-11-01T07:00:00+00:00",
-   "title_original": "China’s soaring chemical exports threaten new trade war front",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "df2b989e59d14b9d"
   },
   {
    "source_id": "manual_ia",

@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T03:52:41.946676+00:00
+Última coleta: 2026-11-26T04:05:01.614021+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
+  🇯🇵 Japão          912
   🇨🇳 China          983
-  🇹🇼 Taiwan         339
+  🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
+  - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
   - [china] China Braces for Tariff Hike After US Announcement
   - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
+  - [korea] [Photo] Bank of Korea monetary policy direction press conference
   - [korea] BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year
   - [china] Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei 
   - [korea] The Bank of Korea raises the base interest rate to 3.25% per annum... Growth rate expected to be 4.1% next yea
@@ -27,7 +30,6 @@ Total: 3000 manchetes
   - [korea] BOK Gov: IT Boom May Take Time to Translate Into Private Consumption
   - [korea] (URGENT) BOK chief sees improvement in S. Korea's potential growth rate
   - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
-  - [taiwan] US proposes new tariffs on 14 trading partners, including Taiwan, China
   - [japan] Japanese yield curve steepens as markets reprice BOJ rate outlook
   - [korea] U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips
   - [china] Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] [Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... Next year’s growth rate is raise
   - [japan] Bank of Japan's interest rate hike "will be slow and hasty": Councilor Tamura says the environment remains acc
   - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
-  - [japan] Policy interest rate to be brought to neutral level as soon as possible, ``react swiftly'' to signs of upward 
-  - [japan] BOJ's Tamura Urges Timely Rate Hikes, Bolstering Case for December Move
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T03:52:42+00:00",
+      "published_utc": "2026-11-26T04:05:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
