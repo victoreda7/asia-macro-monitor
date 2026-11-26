@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T05:04:54.954175+00:00
+Última coleta: 2026-11-26T05:12:43.565204+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Asia FX: won muted after BOK hikes rates, dollar steady
   - [korea] South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises
   - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
+  - [korea] [Video] Gangwon Boosts Agri-Food Export Cooperation
   - [japan] Honda re-imported Acura to be released next month
   - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
   - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK Gov: Expect Inflation to Approach Target in 2028
   - [korea] BOK raises rate to 3.25% as chip boom lifts growth outlook
   - [korea] Bank of Korea raises interest rates amid AI chip boom
-  - [korea] Bank of Korea Gov: Inflation to Remain Above Target Through 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T05:04:55+00:00",
+      "published_utc": "2026-11-26T05:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
