@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T21:50:30.814502+00:00
+Última coleta: 2026-11-26T21:52:41.887735+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
   - [china] Trump-Xi summits unlikely to solve China's rare-earth licensing maze
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring
   - [japan] Bank of Japan, unrealized ETF gain of 76 trillion yen, record high, September interim results (Kyodo News)
   - [china] DPC Dash - Domino's Pizza China Scales Supply Chain Network to Drive Disciplined Store Expansion and Nationwid
-  - [korea] There are concerns about a contraction in real estate market transactions due to the Bank of Korea’s interest 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T21:50:31+00:00",
+      "published_utc": "2026-11-26T21:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
