@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T04:32:42.880230+00:00
+Última coleta: 2026-11-26T04:42:44.363859+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
-  🇨🇳 China          981
+  🇯🇵 Japão          911
+  🇨🇳 China          982
   🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  769
 
@@ -23,10 +23,12 @@ Total: 3000 manchetes
   - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
   - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
   - [china] China Braces for Tariff Hike After US Announcement
+  - [china] Trump’s China Tariffs Raise Threat of New Test for Trade Truce
   - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
   - [korea] [Photo] Bank of Korea monetary policy direction press conference
   - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
+  - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
   - [korea] BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year
   - [china] Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei 
   - [korea] The Bank of Korea raises the base interest rate to 3.25% per annum... Growth rate expected to be 4.1% next yea
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea raises the base interest rate by 3.25% per year... Next year’s growth rate increased signifi
   - [korea] (2nd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
-  - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
-  - [korea] There are a series of experiences in the online real estate community that this year's comprehensive..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T04:32:43+00:00",
+      "published_utc": "2026-11-26T04:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
