@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T20:42:52.520531+00:00
+Última coleta: 2026-11-26T20:52:41.992614+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [china] Trump-Xi summits unlikely to solve China's rare-earth licensing maze
   - [japan] Condominium prices continue to decline...still clear evidence that the "real estate bubble" is not over | Life
   - [taiwan] Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout
@@ -43,6 +44,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
   - [china] Why Russia’s farm exports to China are booming despite US trade thaw
   - [japan] Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)
+  - [korea] The Bank of Korea raises the base interest rate to 3.25%... Third raise this year
   - [korea] The Bank of Korea raises its base interest rate and significantly raises its growth forecast. “Focus on price 
   - [korea] Bank of Korea raises base interest rate by 0.25% to 3.25%
   - [japan] Bank of Japan Councilor Tamura: ``There are cases where a judgment on the financial environment can be made in
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] There are concerns about a contraction in real estate market transactions due to the Bank of Korea’s interest 
   - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron - report
   - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron
-  - [china] China Braces for Tariff Hike After US Announcement
-  - [japan] Bank of Japan gains 323.4 billion yen on ETF sales and 76 trillion yen in unrealized gain, the highest ever in
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T20:42:52+00:00",
+      "published_utc": "2026-11-26T20:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

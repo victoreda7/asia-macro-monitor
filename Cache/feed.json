@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-26T20:42:52.520531+00:00",
- "collected_at_utc": "2026-11-26T20:42:52.520531+00:00",
+ "generated_at_utc": "2026-11-26T20:52:41.992614+00:00",
+ "collected_at_utc": "2026-11-26T20:52:41.992614+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 338,
   "korea": 759
  },
- "elapsed_s": 33.7,
+ "elapsed_s": 29.4,
  "sources": [
-  {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 0,
-   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T15:12:00+00:00"
+   "newest": "2026-11-26T20:42:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -190,6 +174,22 @@
    "newest": "2026-11-26T13:21:34+00:00"
   },
   {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-27T04:45:08+09:00"
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 60,
+   "error": "",
+   "newest": "2026-11-26T21:37:02+09:00"
+  },
+  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T11:48:45+00:00"
+   "newest": "2026-11-26T20:38:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:28:07+00:00"
+   "newest": "2026-11-26T07:40:55+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -342,11 +342,25 @@
    "newest": "2026-11-26T15:00:00+00:00"
   }
  ],
- "falhas_seguidas": {
-  "nhk_politics": 1,
-  "nhk_economy": 1
- },
+ "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国经营网",
+   "title_en": "800 billion MLF + 500 billion reverse repurchase, the central bank's \"combination punch\" accurately protects liquidity",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkaHhleXl2Z1hhYTRhaWtFN0c2MWx3TE5jZF94LUg5d1NrajMzbFF4SDl1ZHAxZ0pvU1I2N1ZsZjJBVkNsWExyaV9sSzE0X1d4RnJwMm45a19aTWx0bEgxTTZn?oc=5",
+   "published_utc": "2026-11-26T20:38:00+00:00",
+   "title_original": "8000亿MLF+5000亿逆回购 央行“组合拳”精准呵护流动性",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "50eb716f12369c05"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -779,9 +793,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaGVFMTExSS1RMjhYYmVxMlpVQ1dvQjlRSlgyZjlfR2RCa1F6QXYwZkpUd2p4eXhGUzZRckhpSWxta2Z0TGZhMHZ1SGdBRDJLUV90eHBZWFRrM2xja01VS0dYZEtBVkhlYnQwRmVfbTV0QzIzc2kxaHhZRFQtXzA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEFaVmEyMUtpQjlGSzI1V1E2QldnY0ZsLUZZUHBjZGl5UzlxY1dmTERKOW9aNVFyLUNlV05YU19GNGpPZ1AzSFlBUkMteWJVeUdKWVdPNENQMmU2Wk5UWmxoVXNROUwtU05xU0I4cHU5UW5MQWJoQlZscGJRX3UzSTdmdEVxY09pT3ZvLW9R?oc=5",
    "published_utc": "2026-11-26T10:54:16+00:00",
-   "title_original": "日銀・審議委員が利上げに前向き（ABEMA TIMES）",
+   "title_original": "日銀・審議委員が利上げに前向き (ABEMA TIMES)",
    "region": "japan",
    "topics": [
     "monetary"
@@ -790,7 +804,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bbaa8d0a17879560"
+   "id": "f3295d170039740c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "경북일보",
+   "title_en": "The Bank of Korea raises the base interest rate to 3.25%... Third raise this year",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IZEVsalhmNDFZREpaQUdrcVc4YjBmTGVIS3hGaVJpS2E1TUhoYUxkWWU1R0RJeUEweDlSNjBRaEJIY0dwRmlXSzFoLWg3UEx5VHFJN2ZsUTR5alZQXzB5cmxWdXhGV3ZSWFh5eXhVaw?oc=5",
+   "published_utc": "2026-11-26T10:50:42+00:00",
+   "title_original": "한은, 기준금리 3.25%로 올려…올해 세 번째 인상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d4977c28b197b83c"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1435,8 +1466,8 @@
    "id": "8c45a5cace6b7684"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -1449,7 +1480,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3082,23 +3113,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c36c2f985a7e33d5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버페이 머니스토리",
-   "title_en": "Base interest rate increase: It has risen to 3.25%. How much will my loan interest rate rise?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GV2t0ZUdzaVJWcVUwcFA1SUcwaFE5VGxyMkU5emM0YTNpMmVQM01ydDA4cnRfc2ZFV2psLWdEX0pMaGdwN0RiZC1MMDA3LW1OQng0a3Juel9RUQ?oc=5",
-   "published_utc": "2026-11-26T01:36:28+00:00",
-   "title_original": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a86effa6099ecc0f"
   },
   {
    "source_id": "mof_jp",
@@ -6483,8 +6497,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -6498,7 +6512,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6881,24 +6895,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -7022,7 +7018,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -7034,7 +7030,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7471,6 +7467,24 @@
    "id": "7c8dca0001fef26c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
+   "published_utc": "2026-11-24T09:34:34+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e76ede17ef3679"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -7574,6 +7588,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -7941,24 +7973,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
-   "published_utc": "2026-11-24T08:00:00+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -51875,24 +51889,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c800d6a6dcf888e0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 541 billion yuan overnight reverse repurchase operation on November 2, with a net withdrawal of 515 billion yuan that day_Company News_Finance",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kenJPU08zMV90di1YRENfeVNLcVhlTzF4UTlSSVgtTllIZ1Z1Wll4X3k3V1NES3BWV2ZNZDRvX0dCOWx4YVFGRmUxUnA4WWktNXFOYThwQkhpMUtTeU9fbg?oc=5",
-   "published_utc": "2026-11-02T05:45:00+00:00",
-   "title_original": "央行11月2日开展5410亿元隔夜逆回购操作当日净回笼5150亿元_公司新闻_财经",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9a83c57f1d8904b"
   },
   {
    "source_id": "manual_ia",
