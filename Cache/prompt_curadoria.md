@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T14:42:42.363761+00:00
+Última coleta: 2026-11-26T14:52:52.485425+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
+  🇯🇵 Japão          926
   🇨🇳 China          975
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  764
+  🇰🇷 Coreia do Sul  763
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
   - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [taiwan] What to know about the latest U.S. tariff proposals for Taiwan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
   - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
-  - [china] New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T14:42:42+00:00",
+      "published_utc": "2026-11-26T14:52:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
