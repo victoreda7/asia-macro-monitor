@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T02:45:19.071069+00:00",
- "collected_at_utc": "2026-11-26T02:45:19.071069+00:00",
+ "generated_at_utc": "2026-11-26T02:52:45.510673+00:00",
+ "collected_at_utc": "2026-11-26T02:52:45.510673+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 913,
+  "japan": 915,
   "china": 982,
-  "taiwan": 340,
-  "korea": 765
+  "taiwan": 339,
+  "korea": 764
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:00:00+00:00"
+   "newest": "2026-11-23T06:07:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-26T01:54:20+00:00"
+   "newest": "2026-11-26T02:36:51+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:07:59+00:00"
+   "newest": "2026-11-26T01:53:13+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T14:08:57+00:00"
+   "newest": "2026-11-26T01:07:50+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-26T02:35:16+00:00"
+   "newest": "2026-11-26T02:44:24+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T12:23:28+00:00"
+   "newest": "2026-11-13T08:00:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T11:10:26+09:00"
+   "newest": "2026-11-26T11:45:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:42:00+00:00"
+   "newest": "2026-11-25T11:54:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T02:43:51+00:00"
+   "newest": "2026-11-26T02:51:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japanese yield curve steepens as markets reprice BOJ rate outlook",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4761W1:0-japanese-yield-curve-steepens-as-markets-reprice-boj-rate-outlook/",
+   "published_utc": "2026-11-26T02:51:17+00:00",
+   "title_original": "Japanese yield curve steepens as markets reprice BOJ rate outlook",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b9b5c133a5f90724"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
@@ -365,7 +382,7 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "中立金利に「少しでも早く」 追加利上げに意欲 田村日銀委員（時事通信）",
+   "title_en": "BOJ member Tamura wants to raise interest rates further towards neutral interest rates “as soon as possible” (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54UXdEU05PUDBxNFFBV1JOUGdabU1mTXNZamNOblI5bFRfSWE0T05VQTZjVjhmSUsyMmRCeWpiTnN2ekt3dW85VFl5WE1sVUdzcWFtWFJiTWtXQ3FyUldSTHEyUFFHUWlLV2Z3b1RDRWhEY0NRLXF6ZktZNXVqdVU?oc=5",
    "published_utc": "2026-11-26T02:37:44+00:00",
    "title_original": "中立金利に「少しでも早く」 追加利上げに意欲 田村日銀委員（時事通信）",
@@ -374,7 +391,7 @@
     "monetary"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "040dfce2f26bc1d7"
@@ -469,8 +486,8 @@
    "id": "9027f30ee5fa1d95"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
    "url": "https://www.investing.com/news/economy-news/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook-5051906",
    "published_utc": "2026-11-26T02:24:57+00:00",
@@ -483,9 +500,26 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "31be91ff6d3664af"
+   "id": "7448972a8c731289"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Taiwan says it is confident of keeping previously agreed tariffs with US",
+   "url": "https://www.investing.com/news/economy-news/taiwan-says-it-is-confident-of-keeping-previously-agreed-tariffs-with-us-5051750",
+   "published_utc": "2026-11-26T02:24:25+00:00",
+   "title_original": "Taiwan says it is confident of keeping previously agreed tariffs with US",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d5acf86df457943f"
   },
   {
    "source_id": "tradingview_live",
@@ -626,6 +660,24 @@
    "id": "06f0ec598968d465"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "경향신문",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... Next year’s growth rate is raised to 4.1%",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYjMzLXZKa0FWOHZPOXJVN015Mk9KMFBWVmEycjdpY2tnUkt1LVhoaXNmcEJXSWw4Rk1GcW9uRE4tcFpFUFUwSTVNQkNENjl5bGdjNjVfaUhSd9IBX0FVX3lxTE0wekFmem5ENkx2YmJPTHY0VnIycGtDakpCcVl0UjlSYjNpaVlzdE5qbEdVZFJ0dG82d19YRXF5R1hlTU1VYlVPenRDQzh6Vlg4SUxpcF8yWW5MblZqLU8w?oc=5",
+   "published_utc": "2026-11-26T02:03:00+00:00",
+   "title_original": "[속보]한은, 기준금리 연 3.25%로 인상···내년 성장률 4.1%로 상향",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a13c8541006c7779"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan's interest rate hike \"will be slow and hasty\": Councilor Tamura says the environment remains accommodative (Kyodo News)",
@@ -645,7 +697,7 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "政策金利は早期に中立水準へ、物価上振れの兆しに「俊敏な反応を」＝田村日銀委員（ロイター）",
+   "title_en": "Policy interest rate to be brought to neutral level as soon as possible, ``react swiftly'' to signs of upward movement in prices - Bank of Japan member Tamura (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSm1lX014UXFCc2ltcGg4bXY4TzhfTllxMDNmMWVHTXJobVZKMkRwUkFSZlQ0a1RqRjlwSWxCcDBRaHVnWmEtczd0OVlqNnF5SGcwaDJZMkRIUTllOWZidEIyeDllN2JyLVlzQkZxWDRRS0JfUHNWOGRyV1UtS3c?oc=5",
    "published_utc": "2026-11-26T01:59:06+00:00",
    "title_original": "政策金利は早期に中立水準へ、物価上振れの兆しに「俊敏な反応を」＝田村日銀委員（ロイター）",
@@ -655,7 +707,7 @@
     "inflation"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "e3534b8cb7ce1e4f"
@@ -907,6 +959,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a86effa6099ecc0f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ policymaker signals chance of faster-pace interest rate hikes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477012:0-boj-policymaker-signals-chance-of-faster-pace-interest-rate-hikes/",
+   "published_utc": "2026-11-26T01:35:37+00:00",
+   "title_original": "BOJ policymaker signals chance of faster-pace interest rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d191bbda29d4b009"
   },
   {
    "source_id": "mof_jp",
@@ -1542,6 +1612,25 @@
   {
    "source_id": "gn_kr_bok",
    "source_name": "MBC 뉴스",
+   "title_en": "The Bank of Korea raises its base interest rate to 3.25% and also raises its growth forecast for next year to 4.1%.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PR3NYY3pocEltSjZtY1pGS01JQ0M5Z25Cbnh5aGxMY3c0ajl0ZDlHcjRTRUxDYlplYzVsNFZ4QWllc2hIYzN4NUtkS0NlZlcwbVRjZlZTR3Fsa0tWbjMtWGltTkNKQzZKc2V3UWRIbm5nTTFv0gF0QVVfeXFMT1BSbHpoQ2hIa214MlBta2hoVHNGYnFpamlIX3Jua04wd2thYzdSWUVITFVXNUR5cEhNVl9lSFhQdWZ0NUNDYXVnWVN0b1FsZDZ6aXJuaXhBbzU4WUYyd25UNmdOekYxTXd6Ul84Y3dkUWwwX0Y?oc=5",
+   "published_utc": "2026-11-26T00:51:09+00:00",
+   "title_original": "한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "826b34bc07eedd3c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "MBC 뉴스",
    "title_en": "[Breaking News] Bank of Korea raises base interest rate to 3.25% and raises next year’s growth forecast to 4.1%",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PR3NYY3pocEltSjZtY1pGS01JQ0M5Z25Cbnh5aGxMY3c0ajl0ZDlHcjRTRUxDYlplYzVsNFZ4QWllc2hIYzN4NUtkS0NlZlcwbVRjZlZTR3Fsa0tWbjMtWGltTkNKQzZKc2V3UWRIbm5nTTFv0gF0QVVfeXFMT1BSbHpoQ2hIa214MlBta2hoVHNGYnFpamlIX3Jua04wd2thYzdSWUVITFVXNUR5cEhNVl9lSFhQdWZ0NUNDYXVnWVN0b1FsZDZ6aXJuaXhBbzU4WUYyd25UNmdOekYxTXd6Ul84Y3dkUWwwX0Y?oc=5",
    "published_utc": "2026-11-26T00:51:09+00:00",
@@ -1576,6 +1665,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f57a48b0c7fb6a04"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "BOK Hikes Rate on Stubborn Inflation as AI Boom Drives Growth",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTAzSnF0UXZLcGIzQnV0VXoxU2x5UF9Vb1JqNGtuVENiTGg0Z1FMNno4dTZRcVNFR1BHUE81QTg4QWpZOXdxbnhUb2RDT0VWbTBBM1dVVUUwTUh5M20zNHp0SmNkS0hMYUZBazZ2c09pNWdvMTdQa0NCRWNpZDdZRGFXME8zcnU1akZOWmNxcVZhOS1LS0pkdnpiaHdBa20yWVVtcWJfNlBwU0VGeGtXNHV3?oc=5",
+   "published_utc": "2026-11-26T00:50:53+00:00",
+   "title_original": "BOK Hikes Rate on Stubborn Inflation as AI Boom Drives Growth",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7d79755d6b19cae"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1663,43 +1770,6 @@
    "id": "b62ceccf247850b1"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
-   "title_en": "[Breaking News] The Bank of Korea's Monetary Policy Committee raises the base interest rate to 3.25%... Growth forecast significantly raised",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWt5aUFEV1RlNTY0dWxuSnFlQ01Xdl96QkZKSnd6eXdDSlRYSDVMeFZNem16MjBiSERxa0YwMVFtYms3NWd4cmdsa2oza2JKSU9RaGxUaTVRNlN3bktKZEYtdXNvVy1TNHlMYk81eTZKTXFlOC1sUUJfVGlSdFpMaVk1SnEyV3BnZkJSeGN3?oc=5",
-   "published_utc": "2026-11-26T00:50:00+00:00",
-   "title_original": "[속보] 한은 금통위, 기준금리 3.25%로 인상…성장률 전망 크게 올려",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "54ce02aa34abc7d1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경향신문",
-   "title_en": "[Breaking News] Bank of Korea raises base interest rate to 3.25% per year... expected to grow 4.1% next year",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYjMzLXZKa0FWOHZPOXJVN015Mk9KMFBWVmEycjdpY2tnUkt1LVhoaXNmcEJXSWw4Rk1GcW9uRE4tcFpFUFUwSTVNQkNENjl5bGdjNjVfaUhSdw?oc=5",
-   "published_utc": "2026-11-26T00:50:00+00:00",
-   "title_original": "[속보]한은, 기준금리 연 3.25%로 인상···내년 성장률 4.1%로 전망",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4cbaa035313f83ce"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "US proposes excess capacity tariffs on S. Korean goods within agreed 15 pct ceiling",
@@ -1750,23 +1820,6 @@
    "live_wire": false,
    "manual": false,
    "id": "286c4efa629c28ae"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Taiwan says it is confident of keeping previously agreed tariffs with US",
-   "url": "https://www.investing.com/news/economy-news/taiwan-says-it-is-confident-of-keeping-previously-agreed-tariffs-with-us-5051750",
-   "published_utc": "2026-11-25T23:37:08+00:00",
-   "title_original": "Taiwan says it is confident of keeping previously agreed tariffs with US",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5acf86df457943f"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2101,7 +2154,7 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "北京商报",
-   "title_en": "精准调控流动性，避免资金面过度波动，央行公开市场操作打出“组合拳”",
+   "title_en": "To accurately regulate liquidity and avoid excessive fluctuations in funds, the central bank uses a \"combination punch\" in its open market operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HME5MLVMxd00taTN5QUVnV3pLUUJuaVNEWGdFSGZncDVqYjlETTQ2VnBaVnEyTmJlWDR3R1VWODlFUmJqMTFzSC03ZnVrZ3BXbVVaejJ6ekxtX2xWNFE?oc=5",
    "published_utc": "2026-11-25T19:58:15+00:00",
    "title_original": "精准调控流动性，避免资金面过度波动，央行公开市场操作打出“组合拳”",
@@ -2110,7 +2163,7 @@
     "monetary"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "c0979c7f8c30e833"
@@ -4607,8 +4660,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -4622,7 +4675,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5300,24 +5353,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
-   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
-   "published_utc": "2026-11-24T10:45:38+00:00",
-   "title_original": "央行：11月25日将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "185164eda1a75342"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched an 800 billion yuan MLF operation on November 25 for a period of one year",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14dnA5OG9lenpTcnlsS1B1d2NEbUc0N2x3RTJFZENRTHlWVzZrcnB6OXNOeWN2aWN3Qy04RUtObmFJSThLY0llX3cwdlZtQQ?oc=5",
@@ -5629,6 +5664,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0c9cbd82953e7626"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
+   "published_utc": "2026-11-24T09:29:29+00:00",
+   "title_original": "央行：11月25日将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "50a6ca31e9d4299a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51828,58 +51881,6 @@
    "live_wire": false,
    "manual": false,
    "id": "79b28ed21fc5fb39"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "South Korea exports nearly double in October on AI investment boom",
-   "url": "https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
-   "published_utc": "2026-11-01T01:30:22+00:00",
-   "title_original": "South Korea exports nearly double in October on AI investment boom",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dbc52bf93175a34c"
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "source_name": "UDN",
-   "title_en": "Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zUUItaDhRcE8wQjQ1Smc1MVFiOWJTMHltMUQwLTZLdy1SQktROWZYTEFBak1FYngyTnluY1ZjYzRBdElIYnhWNkxBMzhLelNF?oc=5",
-   "published_utc": "2026-11-01T01:07:26+00:00",
-   "title_original": "Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "511876bf524c21b6"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales",
-   "url": "https://www.koreaherald.com/article/10921544",
-   "published_utc": "2026-11-01T00:57:00+00:00",
-   "title_original": "S. Korea's monthly exports hit $115.3b in Oct. on strong chip sales",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8ea0580f878d218"
   },
   {
    "source_id": "manual_ia",
