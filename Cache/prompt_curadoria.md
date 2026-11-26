@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T11:32:59.074849+00:00
+Última coleta: 2026-11-26T11:42:53.512087+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
-  🇨🇳 China          976
+  🇯🇵 Japão          925
+  🇨🇳 China          975
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  766
+  🇰🇷 Coreia do Sul  765
 
 ## O que já está no feed (não repita)
 
+  - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
+  - [japan] Personal information of 3.11 million people leaked due to unauthorized access to Mitsui Fudosan app
+  - [japan] Yomiuri: Toyota to Sell U.S.-Built Camry in Japan to Ease Trade Tensions
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
   - [japan] BOJ policymaker calls for faster rate hikes
   - [japan] Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia
   - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
   - [japan] Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk
-  - [japan] Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”
-  - [japan] Bank of Japan member Tamura: ``React swiftly, such as accelerating the pace of interest rate hikes.'' The ``ne
-  - [taiwan] Agricultural minister says no new U.S. tariffs on 322 Taiwan products
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T11:32:59+00:00",
+      "published_utc": "2026-11-26T11:42:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
