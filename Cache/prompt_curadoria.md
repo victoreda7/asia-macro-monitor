@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T05:42:45.480174+00:00
+Última coleta: 2026-11-26T05:52:44.546080+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          913
@@ -17,8 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
+  - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
+  - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
   - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
   - [china] China Braces for Tariff Hike After US Announcement
   - [china] Yuan holds steady near three-week high despite tariff risk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] (URGENT) S. Korea's nominal GDP expected to top 3,000 tln won in 2026, 700 tln won from chip sector: BOK gov.
   - [japan] Bank of Japan council member Naoki Tamura ``responds quickly, including accelerating the pace of interest rate
   - [japan] Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards
-  - [japan] BOJ member Tamura wants to raise interest rates further towards neutral interest rates “as soon as possible” (
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T05:42:45+00:00",
+      "published_utc": "2026-11-26T05:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
