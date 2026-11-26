@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T22:52:49.719934+00:00
+Última coleta: 2026-11-26T23:02:42.205684+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nvidia suspends exports to four Southeast Asian countries Western media
   - [taiwan] Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%
   - [taiwan] Hackers target Taiwan's semiconductor supply chain, fishing and food sectors
   - [japan] Adjustments being made to extend the gift tax exemption for funds used to purchase a home
@@ -39,7 +40,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea raises base interest rate to 3.25%... Third time in the second half of the year
   - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
   - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
-  - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [taiwan] What to know about the latest U.S. tariff proposals for Taiwan
   - [china] China’s low interest rate comes with high stakes
   - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T22:52:49+00:00",
+      "published_utc": "2026-11-26T23:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
