@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T07:12:46.048021+00:00
+Última coleta: 2026-11-26T07:22:48.273691+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          913
-  🇨🇳 China          980
-  🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  772
+  🇯🇵 Japão          914
+  🇨🇳 China          983
+  🇹🇼 Taiwan         334
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc To 3,701 Yen From 3,700 Yen, Filing Shows
+  - [china] US restrictions on chips and strict measures against distillation threaten the development of AI models in Chi
+  - [china] US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
   - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
   - [korea] South Korean shares rebound from 10-month low; rate hike caps gains
+  - [japan] BOJ's net income shrinks as interest payment on excess reserves grow
   - [korea] Korea stands by industrial policy after US tariff proposal
   - [japan] Stock price rise, buyback movement in AI/semiconductor related stocks
   - [korea] BOK keeps door open to another rate hike, lifts 2027 growth outlook to six-year high
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
   - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
-  - [china] Trump’s China Tariffs Raise Threat of New Test for Trade Truce
-  - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
-  - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
-  - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T07:12:46+00:00",
+      "published_utc": "2026-11-26T07:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
