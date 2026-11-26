@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T16:32:44.664691+00:00
+Última coleta: 2026-11-26T16:42:42.145506+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Data Forecast: Exports, AI Buildout to Lift Industrial Output in October Report
   - [china] Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rente
   - [korea] Bank of Korea raises base interest rate to 3.25%... Third time in the second half of the year
   - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
   - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
   - [japan] Prime Minister Takaichi held a summit meeting with President Hilda C. Heine of the Republic of the Marshall Is
-  - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T16:32:44+00:00",
+      "published_utc": "2026-11-26T16:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
