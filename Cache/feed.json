@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T04:42:44.363859+00:00",
- "collected_at_utc": "2026-11-26T04:42:44.363859+00:00",
+ "generated_at_utc": "2026-11-26T04:53:16.508384+00:00",
+ "collected_at_utc": "2026-11-26T04:53:16.508384+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 911,
-  "china": 982,
+  "china": 981,
   "taiwan": 338,
-  "korea": 769
+  "korea": 770
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 60.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T04:18:41+00:00"
+   "newest": "2026-11-26T04:22:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T21:58:37+00:00"
+   "newest": "2026-11-25T22:20:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T12:58:00+09:00"
+   "newest": "2026-11-26T13:51:08+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T13:30:50+09:00"
+   "newest": "2026-11-26T13:48:12+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T23:31:00+00:00"
+   "newest": "2026-11-26T03:38:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T04:40:26+00:00"
+   "newest": "2026-11-26T04:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:38:22+00:00"
+   "newest": "2026-11-26T03:55:05+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-11-26T04:25:06+00:00"
+   "newest": "2026-11-26T04:43:40+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,24 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "South Korea's central bank raises interest rates for the third time this year, aiming to curb price rises",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261126de81753",
+   "published_utc": "2026-11-26T04:48:12+00:00",
+   "title_original": "韓国の中央銀行ことし3回目の利上げ 物価上昇抑えるねらい",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfc913aac02d31fc"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -1928,24 +1946,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "스트레이트뉴스",
-   "title_en": "[Breaking News] Bank of Korea’s Monetary Policy Committee ‘raises’ base interest rate by 3.25% in November",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fTXd6SEtNNHFFNXdhSllBWldNVlh2dm5sREVTcmYyQ0g4d2RBdlNaS0pmVW5hZFdKRHRvMHRuZndGSEljWmc5Wjlob3NZWWtacmVDanIxU3VnalE3MFk3eEJwV1NuREs0M2JDX3dZN3haNDFiR1BF0gF3QVVfeXFMTl9Nd3pIS000cUU1d2FKWUFaV01WWHZ2bmxERVNyZjJDSDh3ZEF2U1pLSmZVbmFkV0pEdG8wdG5md0ZISWNaZzlaOWhvc1lZa1pyZUNqcjFTdWdqUTcwWTd4QnBXU25ESzQzYkNfd1k3eFo0MWJHUEU?oc=5",
-   "published_utc": "2026-11-26T00:54:16+00:00",
-   "title_original": "[속보] 한국은행 11월 금통위, 기준금리 3.25% ‘인상’",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aada2da218112c09"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "한겨레",
    "title_en": "[Breaking News] The Bank of Korea raises its base interest rate by 0.25%p... 3.25% per annum in 2 years",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kaWJkTjM5bmJlYUh1RFVHbWdhSTdLOVRLY2oxTDZhNFE0QTJMTzlLV0VoSGVpRmg3NVZoYUR2dWVra0VIdnEtakJTUFR1N0IwbzBETlBNNXRMMTlRYUlmUFcyb2xsVGJXMWhjbWVDM09tZw?oc=5",
@@ -2069,6 +2069,24 @@
    "live_wire": false,
    "manual": false,
    "id": "cce01bb3f7a6e210"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "스트레이트뉴스",
+   "title_en": "[Breaking News] Bank of Korea’s Monetary Policy Committee ‘raises’ base interest rate by 3.25% in November",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BVE9OM2trYm4wRnZWLXJoVjFGVTg2TWZfZGRfZFJQRWpzVzVEX2xicFltUi1MdC1nZ2F3VmRRTXNaWFM5ZWVUME5GSkotYTFDdXRBaG00UXd0S0RJS2E1cmlPUjZ5WWZZeC1pTV91R1FBUzTSAXdBVV95cUxOX013ekhLTTRxRTV3YUpZQVpXTVZYdnZubERFU3JmMkNIOHdkQXZTWktKZlVuYWRXSkR0bzB0bmZ3RkhJY1pnOVo5aG9zWVlrWnJlQ2pyMVN1Z2pRNzBZN3hCcFdTbkRLNDNiQ193WTd4WjQxYkdQRQ?oc=5",
+   "published_utc": "2026-11-26T00:51:49+00:00",
+   "title_original": "[속보] 한국은행 11월 금통위, 기준금리 3.25% ‘인상’",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4eacd09e8d172d66"
   },
   {
    "source_id": "gn_kr_bok",
@@ -5031,8 +5049,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -5046,7 +5064,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51866,23 +51884,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ef7c1e4f81ed7eea"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's BYD extends sales growth streak on strong exports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46I024:0-china-s-byd-extends-sales-growth-streak-on-strong-exports/",
-   "published_utc": "2026-11-01T10:18:27+00:00",
-   "title_original": "China's BYD extends sales growth streak on strong exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2d201faa6219edb2"
   },
   {
    "source_id": "manual_ia",
