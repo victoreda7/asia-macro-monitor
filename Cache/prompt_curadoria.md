@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T18:52:44.156373+00:00
+Última coleta: 2026-11-26T19:02:43.706722+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [china] Nissan poised to import cars from China to Japan for first time
   - [china] China Rejects U.S. Proposal for Additional 20% Tariff
   - [korea] Nvidia, Kioxia team on AI server memory as alternative to South Korean chips
@@ -28,7 +29,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
   - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
   - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
-  - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
   - [taiwan] What to know about the latest U.S. tariff proposals for Taiwan
   - [china] China’s low interest rate comes with high stakes
   - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T18:52:44+00:00",
+      "published_utc": "2026-11-26T19:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
