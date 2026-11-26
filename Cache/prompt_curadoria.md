@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T06:32:43.951914+00:00
+Última coleta: 2026-11-26T06:42:52.601166+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
+  🇯🇵 Japão          914
   🇨🇳 China          981
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  772
+  🇰🇷 Coreia do Sul  770
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
   - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
   - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
   - [korea] BOK raises rate to 3.25% as chip boom fuels inflation concerns
@@ -44,6 +45,7 @@ Total: 3000 manchetes
   - [china] China Vanke Is Seeking Another Extension On A Yuan Bond Due Next Month - Bloomberg News
   - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [china] Trump’s China Tariffs Raise Threat of New Test for Trade Truce
+  - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
   - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
   - [korea] The Bank of Korea raises the base interest rate to 3.25%... Leave open the possibility of 3.75% next year
   - [korea] [Photo] Bank of Korea monetary policy direction press conference
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK Gov: IT Boom May Take Time to Translate Into Private Consumption
   - [korea] The Bank of Korea raises the base interest rate to 3.25%… “Next year’s growth rate will be 4.1%”
   - [korea] (URGENT) BOK chief sees improvement in S. Korea's potential growth rate
-  - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
-  - [japan] Japanese yield curve steepens as markets reprice BOJ rate outlook
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T06:32:44+00:00",
+      "published_utc": "2026-11-26T06:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
