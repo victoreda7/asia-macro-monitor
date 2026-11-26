@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T03:32:59.807926+00:00
+Última coleta: 2026-11-26T03:42:42.167073+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          911
+  🇯🇵 Japão          910
   🇨🇳 China          983
   🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  767
+  🇰🇷 Coreia do Sul  768
 
 ## O que já está no feed (não repita)
 
+  - [korea] Some said that the nominal GDP, which was around 2,600 trillion won last year, will far exceed 3,000..
   - [korea] BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year
   - [china] Nissan Motor Planning To Import And Sell Plug-In Hybrid Vehicles Produced By China JV In Japan Market, Nikkei 
   - [korea] The Bank of Korea raises the base interest rate to 3.25% per annum... Growth rate expected to be 4.1% next yea
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ's Tamura Urges Timely Rate Hikes, Bolstering Case for December Move
   - [korea] [eKeyword] 3.25% increase in base interest rate, what is the impact on loan interest rates and prices? |
   - [korea] BOK: All Board Members Leave Door Open to More Rate Increases Over Next Six Months
-  - [korea] BOK: Sees Core Inflation Averaging 2.6% in 2026 and 2027, Up From 2.5% for Both Years
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T03:33:00+00:00",
+      "published_utc": "2026-11-26T03:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
