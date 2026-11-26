@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T06:12:43.227027+00:00
+Última coleta: 2026-11-26T06:23:05.673597+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
@@ -17,10 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
+  - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
   - [korea] BOK raises rate to 3.25% as chip boom fuels inflation concerns
   - [korea] Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
   - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
+  - [japan] Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards
   - [korea] Xiaomi shipments plunge 29% as Samsung holds lead amid memory crunch
   - [japan] In the US, there are ``three signs'' of monetary tightening due to rising prices, steady growth and employment
   - [china] China Braces for Tariff Hike After US Announcement
@@ -33,6 +36,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea raises interest rates to 2-year high, AI exports drive upward revision of economic forecasts | I
   - [korea] [Video] Gangwon Boosts Agri-Food Export Cooperation
   - [japan] Honda re-imported Acura to be released next month
+  - [japan] Japan Protests New US Tariff Rate, Allegation of Excess Capacity
   - [korea] South Korea’s central bank raises rates, upgrades 2027 growth outlook
   - [korea] (3rd LD) BOK raises key rate to 3.25 pct amid strong growth, inflation, revises up 2027 forecast to 4.1 pct
   - [japan] BOJ’s Tamura flags faster pace of rate hikes amid inflation risk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
   - [japan] Japanese yield curve steepens as markets reprice BOJ rate outlook
   - [korea] U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips
-  - [korea] Bank of Korea raises base interest rate to 3.25%... Impact of semiconductor boom and high inflation
-  - [japan] ``Reacting swiftly'' to rising prices, Bank of Japan Councilor Tamura says, accelerating rate hike pace (Asahi
-  - [china] Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports
-  - [korea] (URGENT) S. Korea's nominal GDP expected to top 3,000 tln won in 2026, 700 tln won from chip sector: BOK gov.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T06:12:43+00:00",
+      "published_utc": "2026-11-26T06:23:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
