@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T00:12:42.870801+00:00
+Última coleta: 2026-11-26T00:22:40.399460+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [china] Explainer-How China got access to Nvidia’s AI chips despite rules to stop them
   - [korea] How a Bain-led deal made SK Hynix Kioxia's top shareholder
   - [china] Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes
+  - [china] Chips and Rare Earths Keep the US-China Truce Fragile
   - [china] U.S. Proposes Additional 20% Tariff on China Ahead of Trade Truce Deadline
   - [china] BIO: Local manufacturing, China expansion and H2 FY27 innovation lead the update
   - [china] Trump rebuilds tariff wall with new duties on China, Japan and others
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea decides the base interest rate today (26th)... Should I raise it to 3.25% per year?
   - [taiwan] Business sentiment cautious: TIER
   - [taiwan] Why is Taiwan Semiconductor Manufacturing stock plunging today?
-  - [taiwan] TSMC Stocks Slide 6.65% as Taiwan Lands on US Tariff List
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T00:12:43+00:00",
+      "published_utc": "2026-11-26T00:22:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
