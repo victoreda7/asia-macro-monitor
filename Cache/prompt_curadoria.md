@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T13:12:51.023304+00:00
+Última coleta: 2026-11-26T13:22:44.904549+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -49,7 +49,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
   - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
-  - [japan] 高市総理はマーシャル諸島共和国のヒルダ・Ｃ・ハイネ大統領と首脳会談を行いました
+  - [japan] Prime Minister Takaichi held a summit meeting with President Hilda C. Heine of the Republic of the Marshall Is
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T13:12:51+00:00",
+      "published_utc": "2026-11-26T13:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
