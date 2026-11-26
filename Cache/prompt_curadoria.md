@@ -7,36 +7,43 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T09:42:48.839745+00:00
+Última coleta: 2026-11-26T09:53:00.971467+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          920
-  🇨🇳 China          978
+  🇨🇳 China          979
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  767
+  🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron
+  - [china] DPC Dash - Domino's Pizza China Scales Supply Chain Network to Drive Disciplined Store Expansion and Nationwid
+  - [china] China Braces for Tariff Hike After US Announcement
+  - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
+  - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
   - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
   - [japan] Bank of Japan ETF valuation gain expands to 76 trillion yen, but valuation loss on government bonds expands to
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
+  - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
+  - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
   - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
   - [china] New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ
+  - [china] Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat
   - [korea] The Ministry of Finance and Economy announced on the 26th that it has decided not to issue governmen..
   - [japan] Japan may raise short-term bond issuance if FY2027 debt sales increase, official says
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
+  - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
   - [china] China hits back at Trump tariff threat
   - [korea] How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia
-  - [china] China Braces for Tariff Hike After US Announcement
   - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
   - [japan] Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk
   - [japan] Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”
   - [japan] Bank of Japan member Tamura: ``React swiftly, such as accelerating the pace of interest rate hikes.'' The ``ne
   - [taiwan] Agricultural minister says no new U.S. tariffs on 322 Taiwan products
-  - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
   - [japan] BOJ's net income shrinks as interest payments on excess reserves grow
   - [japan] BOJ's net income shrinks on higher interest payments on reserves
   - [japan] Miyagi Prefectural Assembly November regular meeting submits general account supplementary budget bill of appr
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [china] US restrictions on chips and strict measures against distillation threaten the development of AI models in Chi
   - [korea] (News Focus) Chip boom prompts BOK to deliver 3rd rate hike, revise up 2027 forecast
   - [japan] Bank of Japan member Tamura: “Inflation rates should be fixed at 2%, raise interest rate to neutral rate as so
-  - [taiwan] Commentary: Taiwan supply chains monitor Trump's potential interference with Nvidia
-  - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
-  - [korea] South Korean shares rebound from 10-month low; rate hike caps gains
-  - [japan] BOJ's net income shrinks as interest payment on excess reserves grow
-  - [korea] Bank of Korea raises interest rates amid AI chip boom
-  - [korea] Korea stands by industrial policy after US tariff proposal
-  - [japan] Stock price rise, buyback movement in AI/semiconductor related stocks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T09:42:49+00:00",
+      "published_utc": "2026-11-26T09:53:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
