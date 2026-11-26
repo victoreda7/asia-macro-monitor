@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T15:12:42.550555+00:00
+Última coleta: 2026-11-26T15:22:49.916870+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -32,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
   - [china] Why Russia’s farm exports to China are booming despite US trade thaw
   - [japan] Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)
+  - [korea] The Bank of Korea raises its base interest rate and significantly raises its growth forecast. “Focus on price 
   - [korea] Bank of Korea raises base interest rate by 0.25% to 3.25%
   - [japan] Bank of Japan Councilor Tamura: ``There are cases where a judgment on the financial environment can be made in
   - [japan] Candriam Stays Long Yen, Returns to Neutral in Euro — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
   - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
-  - [korea] The number of people subject to comprehensive real estate tax this year increased by 190,000 in a ye..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T15:12:42+00:00",
+      "published_utc": "2026-11-26T15:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
