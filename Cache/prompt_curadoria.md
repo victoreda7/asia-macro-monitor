@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T23:13:09.035822+00:00
+Última coleta: 2026-11-26T23:22:42.642303+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          978
+  🇯🇵 Japão          923
+  🇨🇳 China          977
   🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  760
 
@@ -21,7 +21,6 @@ Total: 3000 manchetes
   - [taiwan] Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%
   - [taiwan] Hackers target Taiwan's semiconductor supply chain, fishing and food sectors
   - [japan] Adjustments being made to extend the gift tax exemption for funds used to purchase a home
-  - [korea] The Bank of Korea raises the base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [korea] The Bank of Korea raises the base interest rate by 0.25% point to 3.25% per annum... The growth rate for this 
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Councilor Tamura: ``There are cases where a judgment on the financial environment can be made in
   - [japan] Candriam Stays Long Yen, Returns to Neutral in Euro — Market Talk
   - [china] Could EU delisting of Chinese firm pave way for wider sanctions relief?
+  - [china] China shares steady as markets seek to overcome tariff pessimism
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T23:13:09+00:00",
+      "published_utc": "2026-11-26T23:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
