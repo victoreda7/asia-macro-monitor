@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T15:32:48.396575+00:00
+Última coleta: 2026-11-26T15:42:45.746929+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea raises base interest rate to 3.25%... Third time in the second half of the year
   - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
   - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
   - [korea] White House's Coupang broadside alarms Seoul as US weighs 25% tariffs
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi held a summit meeting with President Hilda C. Heine of the Republic of the Marshall Is
   - [china] Southeast Asia No Longer a Tariff-Safe Alternative to China — Market Talk
   - [taiwan] U.S. dollar closes sharply lower on Taipei forex market
-  - [china] Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T15:32:48+00:00",
+      "published_utc": "2026-11-26T15:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
