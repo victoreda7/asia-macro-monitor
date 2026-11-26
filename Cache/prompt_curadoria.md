@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T12:43:54.740607+00:00
+Última coleta: 2026-11-26T12:52:42.021673+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          975
+  🇯🇵 Japão          923
+  🇨🇳 China          976
   🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  766
 
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [japan] BOJ policymaker calls for faster rate hikes
   - [japan] Yomiuri: Toyota to Sell U.S.-Built Camry in Japan to Ease Trade Tensions
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
+  - [china] Why Russia’s farm exports to China are booming despite US trade thaw
   - [japan] Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)
   - [korea] Bank of Korea raises base interest rate by 0.25% to 3.25%
   - [japan] Bank of Japan Councilor Tamura: ``There are cases where a judgment on the financial environment can be made in
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Ministry of Finance and Economy announced on the 26th that it has decided not to issue governmen..
   - [japan] Japan may raise short-term bond issuance if FY2027 debt sales increase, official says
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
-  - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T12:43:54+00:00",
+      "published_utc": "2026-11-26T12:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
