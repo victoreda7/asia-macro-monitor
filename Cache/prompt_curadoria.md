@@ -7,17 +7,39 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T00:52:48.033765+00:00
+Última coleta: 2026-11-26T01:03:36.426619+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
-  🇨🇳 China          1001
-  🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  724
+  🇯🇵 Japão          921
+  🇨🇳 China          994
+  🇹🇼 Taiwan         343
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth
+  - [japan] Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)
+  - [korea] Bank of Korea raises base interest rate to 3.25%... Third austerity this year alone
+  - [korea] South Korea's central bank resumes tightening with quarter-point hike
+  - [korea] BOK raises rates as expected, lifts growth outlook on AI-driven chip boom
+  - [korea] Bank of Korea raises base interest rate to 3.25% per annum... Economic growth rate expected to be 3.9% this ye
+  - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25% to 3.25% per annum
+  - [korea] BOK revises up S. Korea's 2026 growth outlook to 3.9 pct, 4.1 pct for 2027
+  - [korea] Semiconductor boom and price burden... Bank of Korea raises base interest rate to 3.25% (comprehensive)
+  - [korea] BOK raises key rate to 3.25 pct to curb inflationary pressure
+  - [korea] [Breaking News] Bank of Korea’s Monetary Policy Committee ‘raises’ base interest rate by 3.25% in November
+  - [korea] (URGENT) BOK raises key rate to 3.25 pct to curb inflationary pressure
+  - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25% point to 3.25% per annum
+  - [korea] [Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... “This is the third time this yea
+  - [korea] [Breaking News] Bank of Korea raises base interest rate... 3.25% per annum
+  - [korea] [Breaking News] Bank of Korea, base interest rate of 3.25% per annum... 25bp increase - Money Today
+  - [korea] [1st step] Bank of Korea raises base interest rate by 0.25%p to 3.25% per annum
+  - [korea] [Breaking News] The Bank of Korea's Monetary Policy Committee raises the base interest rate to 3.25%... Growth
+  - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25%p... 3.25% per annum
+  - [korea] [Breaking News] Bank of Korea raises base interest rate from 3% to 3.25% per annum
+  - [korea] [Breaking News] Bank of Korea raises base interest rate… 3.25% per annum decision
   - [korea] [Breaking News] Bank of Korea raises base interest rate… 3.00%→3.25%
+  - [korea] [Photo News] Bank of Korea Monetary Policy Committee held... base interest rate raised to 3.25%
   - [korea] US proposes excess capacity tariffs on S. Korean goods within agreed 15 pct ceiling
   - [korea] Bank of Korea decides base interest rate today, weighs on ‘raise’
   - [korea] KOSPI starts to rise in the 1% range... Pay attention to whether the Bank of Korea will raise its base interes
@@ -34,29 +56,7 @@ Total: 3000 manchetes
   - [japan] Loan balance decreases for the first time in 24 years, Hiroshima City Credit Union's ``strongest management'' 
   - [korea] In the last November of this year, the Bank of Korea Monetary Policy Committee... Expected interest rate hike
   - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017, advance opening,
-  - [japan] <Legal employment rate raised to 2.7%> Is it true that a reporter infiltrates the site of an ``employment supp
-  - [korea] The last Monetary Policy Committee of the year... Interest rate will be raised to 3.25% and growth outlook wil
-  - [japan] The collapse of the illusion that "the Republican Party is Japan's ally on the trade front"...The sad reality 
-  - [china] LEARN MORE-How China gained access to Nvidia's AI chips despite rules to prevent it
-  - [japan] Japan's Preferred Networks sows seeds of physical AI with robots, software and chips
-  - [japan] Yen, Swiss franc gain as dollar slips in volatile AI-driven session
-  - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017 Pre-opening, May 
-  - [china] Huang back at Nvidia as China builds own chip production system
-  - [china] US Targets China, EU With New Tariffs Citing Overcapacity
-  - [china] Explainer-How China got access to Nvidia’s AI chips despite rules to stop them
-  - [korea] How a Bain-led deal made SK Hynix Kioxia's top shareholder
-  - [china] Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes
-  - [china] Chips and Rare Earths Keep the US-China Truce Fragile
-  - [china] U.S. Proposes Additional 20% Tariff on China Ahead of Trade Truce Deadline
-  - [china] BIO: Local manufacturing, China expansion and H2 FY27 innovation lead the update
-  - [china] Trump rebuilds tariff wall with new duties on China, Japan and others
-  - [china] Nvidia Sellers Seek New Buyers As US Curbs China AI Chip Access - CNBC
-  - [china] Trump administration proposes new tariffs on 14 economies, including EU and China
-  - [korea] SK hynix Stocks Sink 11.05% Despite 80% Operating Margin
-  - [china] China Wan Tong Yuan (Holdings) Says No Progress On Construction Approvals For Cemetery JV Project
-  - [japan] Japan Seeks Supply Chain Mandate For Chips, Other Critical Goods, Nikkei Reports
-  - [japan] Japan seeks supply chain mandate for chips, other critical goods
-  - [taiwan] Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal
+  - [japan] Is it true that a reporter infiltrates the site of an ``employment support business'' for people with disabili
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T00:52:48+00:00",
+      "published_utc": "2026-11-26T01:03:36+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

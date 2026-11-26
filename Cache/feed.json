@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-11-26T00:52:48.033765+00:00",
- "collected_at_utc": "2026-11-26T00:52:48.033765+00:00",
+ "generated_at_utc": "2026-11-26T01:03:36.426619+00:00",
+ "collected_at_utc": "2026-11-26T01:03:36.426619+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 931,
-  "china": 1001,
-  "taiwan": 344,
-  "korea": 724
+  "japan": 921,
+  "china": 994,
+  "taiwan": 343,
+  "korea": 742
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 82.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 45,
+   "count": 46,
    "error": "",
-   "newest": "2026-11-25T17:00:00+09:00"
+   "newest": "2026-11-26T10:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:00:00+00:00"
+   "newest": "2026-11-25T19:29:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T00:42:19+00:00"
+   "newest": "2026-11-26T00:57:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T22:20:00+00:00"
+   "newest": "2026-11-25T19:52:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T00:39:06+00:00"
+   "newest": "2026-11-26T00:57:09+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T00:51:25+00:00"
+   "newest": "2026-11-26T01:02:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:45:35+00:00"
+   "newest": "2026-11-26T00:53:13+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-26T09:30:00+09:00"
+   "newest": "2026-11-26T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,11 +339,382 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T00:50:00+00:00"
+   "newest": "2026-11-26T01:00:00+00:00"
   }
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth",
+   "url": "https://www.tradingview.com/news/DJN_DN20261125008440:0-bank-of-korea-resumes-rate-hikes-as-ai-boom-fuels-growth/",
+   "published_utc": "2026-11-26T01:02:00+00:00",
+   "title_original": "Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aa8451121dd1ef0e"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261126a.htm",
+   "published_utc": "2026-11-26T01:00:00+00:00",
+   "title_original": "Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a2c3a89a2c7a7d4e"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "주간조선",
+   "title_en": "Bank of Korea raises base interest rate to 3.25%... Third austerity this year alone",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ub1FvdEVIdXFwb29LQTVFVkFXMFdQUy1MaTNaV3VrdjdOQXlHcUJPdjhfYUZCMUc5S0FrU3lEQXdHZlZ5OGJhNjFJUjV4NmZlU0NVWXQ3OXZVdWtjTDFxYzhmdzM3WTd5UjNv?oc=5",
+   "published_utc": "2026-11-26T01:00:00+00:00",
+   "title_original": "한은, 기준금리 3.25%로 인상…올해만 세 번째 긴축",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1182465f052970d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea's central bank resumes tightening with quarter-point hike",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47607Z:0-south-korea-s-central-bank-resumes-tightening-with-quarter-point-hike/",
+   "published_utc": "2026-11-26T00:59:25+00:00",
+   "title_original": "South Korea's central bank resumes tightening with quarter-point hike",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "72598481f30f596b"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "BOK raises rates as expected, lifts growth outlook on AI-driven chip boom",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JQVk4cUtOZmU5dlQ1dGp2d2JQS3NNMjZfdlJ1MU1GVlRGSEdjZzR1dENTYlBFMXZUR19mVnRlQ1dtTGNNT2hEMS1OSXRJOGNEUHc3SDcyV043MFVpSXROYzBTbVY?oc=5",
+   "published_utc": "2026-11-26T00:57:09+00:00",
+   "title_original": "BOK raises rates as expected, lifts growth outlook on AI-driven chip boom",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8b13ea886f2fe019"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울뉴스통신",
+   "title_en": "Bank of Korea raises base interest rate to 3.25% per annum... Economic growth rate expected to be 3.9% this year",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jNEdTRFRTSjRZREs1U3FULUwzN1FrbnBVMWZhbVlwQnN0d05wVHRoWVd6WlJhTzIyZXpDeVNuWHp4Q3BTdDd1RTlBeWFWWFNMbnRhVVktcHUyVkdGTG1DQmhnaHRFbHFSU2k0?oc=5",
+   "published_utc": "2026-11-26T00:55:00+00:00",
+   "title_original": "한국은행, 기준금리 연 3.25%로 인상…올해 경제성장률 3.9% 전망",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f583773229d7b583"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate by 0.25% to 3.25% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NVXdqanBRdjZzVnI1Q3cxQlFEa0lRS1FEbjh5cjNUZ1pKNDlNQTVNMk9BMFRPNXAxMURqRDlYVkdpUmozTGNSQ185eThERHA0QzZKRExoYkZsUQ?oc=5",
+   "published_utc": "2026-11-26T00:53:37+00:00",
+   "title_original": "[속보] 한국은행, 기준금리 연 3.25%로 0.25%P 인상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a6ac3a6f730825b8"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK revises up S. Korea's 2026 growth outlook to 3.9 pct, 4.1 pct for 2027",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LSTJ6akdrSXNUOERlYVpWdXhuYnFFaEE0XzJLNV9Ua3pPSWtyRVR5LTcyOWpvWGFWRnpudkpTMm1nWjZ4blBra2pLX1ROaDNjSlZ5Z0pkSU1VUQ?oc=5",
+   "published_utc": "2026-11-26T00:53:13+00:00",
+   "title_original": "BOK revises up S. Korea's 2026 growth outlook to 3.9 pct, 4.1 pct for 2027",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "75fa0bce817dce65"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Semiconductor boom and price burden... Bank of Korea raises base interest rate to 3.25% (comprehensive)",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyVjQ5a2pZQkZiQnFEQTRnVFRjVkxkVVVjNVNSZHhfdEdxcWZpOE94Q01tbGxTaS1EMzhLQmE4cWRUUTJfN1JVV3V0bk5sVTM1SkotTTR5cnk1dEHSAWBBVV95cUxPc21aSGtsRkhCWk5qcUN0V1o3SUFxNXFhRTlHMjVtMkdUVG1CZENjdHRqcFk2UXRBNkdIUjVWYWFXU0l0S3ZUYWw1eHpFVWZHMGFIM0NtZXJJN2FpTzUtcV8?oc=5",
+   "published_utc": "2026-11-26T00:52:12+00:00",
+   "title_original": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상(종합)",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "efb5ba06e0f6eb53"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK raises key rate to 3.25 pct to curb inflationary pressure",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUTZ4bzBwLUpIOEFRUGMwdlc0YWgwUkljRVJRMTB5Ylk1MHNfNEwxMHJQem9nTjVkNWpsenhzRlk0RGF0Q3hXdV9NbGMzc1N6VzZ1VWp3bERrdw?oc=5",
+   "published_utc": "2026-11-26T00:51:59+00:00",
+   "title_original": "BOK raises key rate to 3.25 pct to curb inflationary pressure",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cce01bb3f7a6e210"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "스트레이트뉴스",
+   "title_en": "[Breaking News] Bank of Korea’s Monetary Policy Committee ‘raises’ base interest rate by 3.25% in November",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BVE9OM2trYm4wRnZWLXJoVjFGVTg2TWZfZGRfZFJQRWpzVzVEX2xicFltUi1MdC1nZ2F3VmRRTXNaWFM5ZWVUME5GSkotYTFDdXRBaG00UXd0S0RJS2E1cmlPUjZ5WWZZeC1pTV91R1FBUzTSAXdBVV95cUxOX013ekhLTTRxRTV3YUpZQVpXTVZYdnZubERFU3JmMkNIOHdkQXZTWktKZlVuYWRXSkR0bzB0bmZ3RkhJY1pnOVo5aG9zWVlrWnJlQ2pyMVN1Z2pRNzBZN3hCcFdTbkRLNDNiQ193WTd4WjQxYkdQRQ?oc=5",
+   "published_utc": "2026-11-26T00:51:49+00:00",
+   "title_original": "[속보] 한국은행 11월 금통위, 기준금리 3.25% ‘인상’",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4eacd09e8d172d66"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) BOK raises key rate to 3.25 pct to curb inflationary pressure",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yOHQtU3FmWVV6Q29QWHh3SHFiUXRndnhScEFlYzg5dXZHUEo4RkZJOWpMM2JjaEhpZmVTV2dkdmFVdzFmS1JnUzRPejV1aWNjSTZaTjhyaS05Zw?oc=5",
+   "published_utc": "2026-11-26T00:51:23+00:00",
+   "title_original": "(URGENT) BOK raises key rate to 3.25 pct to curb inflationary pressure",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c5c81c131f330c8b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "JTBC",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate by 0.25% point to 3.25% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUFNCano5WTdBb3BLRGpEUjNJMTl1RF80Y2poMGRfS1pvRjNUUjUyeHFfUTRzWUhhRDNIdzVxT1A2S09WQVprdFFYb3BmMFRULXNRRA?oc=5",
+   "published_utc": "2026-11-26T00:51:00+00:00",
+   "title_original": "[속보] 한은, 기준금리 연 3.25%로 0.25%p 인상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aef8a46ea3e38e2d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... “This is the third time this year alone”",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nT2tJTUtUbkRESW9yWVRoeGFaMVVXM0p3Q1dWM2RvRldyRGFlWGtFbW9VZ1NhclQzREdVbE05cENMbnplbTNKa0xVd2lsemlnZFE?oc=5",
+   "published_utc": "2026-11-26T00:50:38+00:00",
+   "title_original": "[속보] 한은, 기준금리 연 3.25%로 인상…“올해만 세 번째 올려”",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "edcad9edbd42141e"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴시스",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate... 3.25% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TVBhSWprYmtCYTk0ZnBGVWhiUklubTYxOG5TV1Z6NmJ0MU1SVmtnY0wxUlpVN3NhWFNaOXJpalh3LVRwU01CUjhBLWNOZW12MmxiTUpER2x4c2VTUHJ1WW1n?oc=5",
+   "published_utc": "2026-11-26T00:50:23+00:00",
+   "title_original": "[속보]한국은행, 기준금리 인상…연 3.25%",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "88586ea7b3336b8e"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "머니투데이",
+   "title_en": "[Breaking News] Bank of Korea, base interest rate of 3.25% per annum... 25bp increase - Money Today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2LWN6Q01STGctT3owblNBLUpVZ2NKbTExU1JCUWFBYmVLeVQ3M1JDWnhnU0NDdW5FYkJvbk52THFuRDlBVU1WMUhldExuYmQ5S0ZQUDFFRlhkdjZLYm9MVFNaaGdydGh6SXBDVUgwNGlwTnlmRUR4M9IBfkFVX3lxTE0yUGZqMHI4ZVlCZ0RVUjFfdjhiX3JzXzdJNTRWeGdubzNGRk1LejdRV1gtVUl2X3V6YktiUkU0aHczOWpxQUltdDhVSVVCb0l2M0NkajBJWEJIWE90c1ZjZG1DRjRvZU56M1p6VWFySGVkS2lqM0dYclhkR1ZZUQ?oc=5",
+   "published_utc": "2026-11-26T00:50:22+00:00",
+   "title_original": "[속보] 한국은행, 기준금리 연 3.25%…25bp 인상 - 머니투데이",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9a137369dc7da28"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "[1st step] Bank of Korea raises base interest rate by 0.25%p to 3.25% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01X0VwU1pCeDJmd1JYdlJkYVFoYkktU3RvUVRpZFg1LWkwMkE0OHZvY0x0RjYwdWVBOHRPY0VmdjBlbTYtcTZ6dnhlRkVsUGZ4WUh3LXduSmpSN3fSAWBBVV95cUxOYS1BMTFNSkY1SXNJczJjZ2M3R0FXTlFBcHp2eVZHQUlNVVYweUJSLVQyc21WMFBWZzNudGlwbXBnN0VveGR1VUJOcVk2Q3Q2ME51Q1QzUUFBX2k0MDBxaDA?oc=5",
+   "published_utc": "2026-11-26T00:50:06+00:00",
+   "title_original": "[1보] 한은, 기준금리 연 3.25%로 0.25%p 인상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e5c524acc15c7230"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "[Breaking News] The Bank of Korea's Monetary Policy Committee raises the base interest rate to 3.25%... Growth forecast significantly raised",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWt5aUFEV1RlNTY0dWxuSnFlQ01Xdl96QkZKSnd6eXdDSlRYSDVMeFZNem16MjBiSERxa0YwMVFtYms3NWd4cmdsa2oza2JKSU9RaGxUaTVRNlN3bktKZEYtdXNvVy1TNHlMYk81eTZKTXFlOC1sUUJfVGlSdFpMaVk1SnEyV3BnZkJSeGN3?oc=5",
+   "published_utc": "2026-11-26T00:50:00+00:00",
+   "title_original": "[속보] 한은 금통위, 기준금리 3.25%로 인상…성장률 전망 크게 올려",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "54ce02aa34abc7d1"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KBS 뉴스",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate by 0.25%p... 3.25% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qSnJONXBfbnlPNGp2YnVGVnRYNkZGSER4UEpPbFJoOUlUMTFoSUsxWjBSUnMyOEZydUhqOTBFVFZYTElZNkx6Ukg5QTRLbnBaR1lILWFRTkFDb1k?oc=5",
+   "published_utc": "2026-11-26T00:50:00+00:00",
+   "title_original": "[속보] 한은, 기준금리 0.25%p 인상…연 3.25%",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3658fb529cff5340"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "경향신문",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate from 3% to 3.25% per annum",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeW11UEJkblpxMWktbzdnTTVhUXRfamF1cVVFTDFKVGFJV0dRWW5nZmNOWEk3eTRpWTk3ZTBxVHg2eGtKRFR6UUpKTkJ3TGJycHZwdXlxdWJGUzZzUTVQdnhhMmNuQlh3MFphdUFNaHExS2UwajFrallwVUg4a2JCcGlWNEhmSjltNFRMcEdSVmdzd2k2TFZ2WXlJRzlNeTRZVm82OHNEY2xjTUpp0gFfQVVfeXFMTTB6QWZ6bkQ2THZiYk9MdjRWcjJwa0NqSkJxWXRSOVJiM2lpWXN0TmpsR1VkUnR0bzZ3X1hFcXlHWGVNTVViVU96dENDOHpWWDhJTGlwXzJZbkxuVmotTzA?oc=5",
+   "published_utc": "2026-11-26T00:50:00+00:00",
+   "title_original": "[속보]한은, 기준금리 연 3%→3.25%로 인상",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6a8e923fd16707fe"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스TV",
+   "title_en": "[Breaking News] Bank of Korea raises base interest rate… 3.25% per annum decision",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmS0JRVkJlRm5zTUxvdDRMY040WWtidk92YkpyckFpZGp6MkJNcWtuT1JrZTlJNHNVTGNpSml0Um83UGdGeldFem5zNk1SZk8tVWpRTzU0dVVvZmNXQ0FJTE5kLWttWXc?oc=5",
+   "published_utc": "2026-11-26T00:50:00+00:00",
+   "title_original": "[속보] 한국은행, 기준금리 인상…연 3.25% 결정",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2da9b3c0f66f1379"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "한겨레",
@@ -360,6 +731,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d1343ec9f7eb7fc9"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "BBS불교방송",
+   "title_en": "[Photo News] Bank of Korea Monetary Policy Committee held... base interest rate raised to 3.25%",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZQmptbHcyXzV5QmZ6WlZRUEJ1cWZacC1hOWVyRTFHQ2MxQ203a2k2Y1k5SFV3RTd6VFFjOHl0c1pnQUNGakl5ZjRoaWlJZHNaQmpmQ2V1dTkxaDJVMUJrcjdMZEhmZ2d2bFVj?oc=5",
+   "published_utc": "2026-11-26T00:48:36+00:00",
+   "title_original": "[포토뉴스]한국은행 금통위 개최...기준금리 3.25%로 인상",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4e94190d6870432f"
   },
   {
    "source_id": "korea_herald_biz",
@@ -557,7 +946,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "MBC 뉴스",
    "title_en": "[News Pick] Bank of Korea decides base interest rate today, likely to ‘raise’",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qR2x6Vll1Um1felZtR0dNQVhJakZOeG1Ib0x6UlRKV3BFaTF1Q3pxOTNMVTlMeEFkdll1NktjTFJoV2RCNFJiVXkzWmlfSEVWRGg1YTBabXVES21pU0Y5MkFrcktxMHBWY2pLdHNjXzFOQUtKdENQUXlB0gF6QVVfeXFMT0t1UGhKVDdlZjJqeFVlNTdXRDRCUUsyTG5YRTBUZDNSZ3gyWkpvbDJ2a1ZaSjd0ekdYNmVwWTBIeVZoNTRJZDVsdlFRcWwyUzBVUzJtTXpsNnJDWklWdThnYlBXT1VsZnZLd1c0alpUYlp5S2I0RTlaTXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LdVBoSlQ3ZWYyanhVZTU3V0Q0QlFLMkxuWEUwVGQzUmd4MlpKb2wydmtWWko3dHpHWDZlcFkwSHlWaDU0SWQ1bHZRUXFsMlMwVVMybU16bDZyQ1pJVnU4Z2JQV09VbGZ2S3dXNGpaVGJaeUtiNEU5Wk130gF6QVVfeXFMT0t1UGhKVDdlZjJqeFVlNTdXRDRCUUsyTG5YRTBUZDNSZ3gyWkpvbDJ2a1ZaSjd0ekdYNmVwWTBIeVZoNTRJZDVsdlFRcWwyUzBVUzJtTXpsNnJDWklWdThnYlBXT1VsZnZLd1c0alpUYlp5S2I0RTlaTXc?oc=5",
    "published_utc": "2026-11-25T21:56:41+00:00",
    "title_original": "[뉴스픽] 한국은행, 오늘 기준금리 결정‥'인상'할 듯",
    "region": "korea",
@@ -568,7 +957,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0d9064a3bd3eced6"
+   "id": "ea54182f8eb91703"
   },
   {
    "source_id": "tradingview_live",
@@ -642,7 +1031,7 @@
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
-   "title_en": "<Legal employment rate raised to 2.7%> Is it true that a reporter infiltrates the site of an ``employment support business'' for people with disabilities and criticizes them for ``separation'' and ``representation''? | Business | Toyo Keizai Online",
+   "title_en": "Is it true that a reporter infiltrates the site of an ``employment support business'' for people with disabilities and criticizes them for ``separation'' and ``representation''? | Business | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/962776?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-11-25T20:50:00+00:00",
    "title_original": "〈法定雇用率2.7％に引き上げ〉障害者｢雇用支援ビジネス｣の現場に記者が潜入､｢隔離｣｢代行｣などの批判は本当なのか？ | ビジネス | 東洋経済オンライン",
@@ -21463,6 +21852,23 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
+   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
+   "published_utc": "2026-11-15T23:20:51+00:00",
+   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "350419b2852113c9"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
    "title_en": "Eternal Materials' semiconductor packaging materials turn profitable",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHhHc1pSTVF3LVhrWnNlaXFvZUcwcjZGTGhoRm9YbkRKaEUzU2tQZnExME10U2ZuY0M2QWZMQUZuMl9YNWx1MkJKVUIzNGtILU85T09hdy1DanF1UlVXZW5NR0sycEd1cDZrdkxjZTZxT3JBc2g2RzdqUXBnRzM3WFMweFhnOG9obURuUXQ4eU1MTGxkV0ZtN1hxVHdyOEJ0OEE?oc=5",
    "published_utc": "2026-11-15T23:16:57+00:00",
@@ -24431,23 +24837,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4c2078d4781d628d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5",
-   "published_utc": "2026-11-13T08:00:00+00:00",
-   "title_original": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "350419b2852113c9"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51473,387 +51862,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5fc7d360e961becc"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "NY foreign exchange market = Yen rises for 3rd day, Bank of Japan leaves interest rates unchanged, emphasizes ``hawkish'' stance (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rakp4Tk5tdHdFcnBxcWdoQ1VGMXA2anNVVTJoQThJVmxfMVRTeUZXTE1RWnRqVDJyd1RpNENQLXpKTXhib1R2ZXZiTEtTbkZWSnJLVjNBY3BjR0VYYndrSjJyMVRpMk9XNkk4NXhLOF9ZclJTbG9UMXZULUMxVTg?oc=5",
-   "published_utc": "2026-10-30T20:53:44+00:00",
-   "title_original": "ＮＹ外為市場＝円3日続伸、日銀が金利据え置き 「タカ派」姿勢強調（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b65450646bdf889"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Interest rates rise due to coreweave shock... What will happen to the Nikkei Stock Average, which fell sharply in October, and the focus after the US midterm elections | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/962885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-30T20:45:00+00:00",
-   "title_original": "コアウィーブ･ショックに金利上昇…10月に大きく下げた日経平均株価の行方とアメリカ中間選挙後の焦点 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "675357cd20fc4a1c"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749",
-   "published_utc": "2026-10-30T20:44:36+00:00",
-   "title_original": "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b6d389a681f1aaed"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan announces “underlying inflation rate” to reach 2%; ability to suppress upward swings in prices and maintain stability (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMnhUd2ROUU9fVUYxVU1tRzBaY1NnQW1LTFE5aFdnck90UTd6OXBTdGRmcUpneWdjMVBlLVgxbDEtOWo1bnJPWXdCN1pSWV9DZzl3MmpveEVaVzVTN2NXRGRVWkl5cUQ5d3BPdGxLRjgycGktNXFBRjVlSmdUMkk?oc=5",
-   "published_utc": "2026-10-30T20:37:24+00:00",
-   "title_original": "日銀 「基調的な物価上昇率」2％到達を表明 物価の上振れ抑えて安定へ問われる手腕（TBS NEWS DIG Powered by JNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a134e4debdb75a2d"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen set for third straight daily gain against dollar after BOJ holds rates",
-   "url": "https://www.investing.com/news/economy-news/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar-4985701",
-   "published_utc": "2026-10-30T20:37:12+00:00",
-   "title_original": "Yen set for third straight daily gain against dollar after BOJ holds rates",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "24832489fbef0892"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Foxconn unveils 3 EVs to grow contract manufacturing business",
-   "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/foxconn-unveils-3-evs-to-grow-contract-manufacturing-business",
-   "published_utc": "2026-10-30T20:22:43.159155+00:00",
-   "title_original": "Foxconn unveils 3 EVs to grow contract manufacturing business",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3738766455ae7f68"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Ruling party looks for voting schedule on consumption tax reduction bill Opposition party urges Prime Minister Takaichi to attend",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261031de68800",
-   "published_utc": "2026-10-30T20:03:40+00:00",
-   "title_original": "消費税減税法案 与党 採決日程探る 野党“高市首相出席を”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "544fdcceadb4431a"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Bank of Japan will shift focus to fixation once prices reach 2%; focus on how to proceed with interest rate hikes",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261031de68799",
-   "published_utc": "2026-10-30T20:01:25+00:00",
-   "title_original": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e66f47dd711e7ad6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Samsung Stocks Decline 3% With Semiconductor Profit Concentration in Focus",
-   "url": "https://www.tradingview.com/news/gurufocus:1a49c02d1094b:0-samsung-stocks-decline-3-with-semiconductor-profit-concentration-in-focus/",
-   "published_utc": "2026-10-30T19:41:24+00:00",
-   "title_original": "Samsung Stocks Decline 3% With Semiconductor Profit Concentration in Focus",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3e0b2a197d70a1b2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus",
-   "url": "https://www.tradingview.com/news/gurufocus:5d533ab1e094b:0-sk-hynix-stocks-decline-7-1-with-long-term-memory-contracts-in-focus/",
-   "published_utc": "2026-10-30T19:38:53+00:00",
-   "title_original": "SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0215fc8060d64b11"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 549580.65, Implies 88% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:8d0800a37a64d:0-hyundai-motor-company-stock-12-month-price-target-cut-to-krw-549580-65-implies-88-upside/",
-   "published_utc": "2026-10-30T19:20:00+00:00",
-   "title_original": "Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 549580.65, Implies 88% Upside",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6ec20c70a5566539"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlRFdi1IRV9BSmJkcDdGLTZxMkNBaHVIZUYxYjFsbFpTYnh5Wm14ZDdCWUppdXRPWUtvUWlhbHRUaHlLVHpMRlpFRFpwdXRJdXNMY2NEOWdTaEQtcHZMZGZDTlc4ZXJCWkctdE9vQVJMN2c1UjVQVGhEVXJ1SVdPUTByd3V6SEpXVkt3X1BQbDZFdHkxY2g2TVQ2ZmhsZGNBSVR3c2xWYWU3Qzc4enJpRENoTmR5TnNoQjZUSmdfVl8?oc=5",
-   "published_utc": "2026-10-30T18:03:00+00:00",
-   "title_original": "Chinese Inverter Makers Reassess U.S. Business as Restrictions Tighten",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b19211ceb3e56e0e"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan's Omron eyes India as export base for blood pressure monitors",
-   "url": "https://asia.nikkei.com/business/health-care/japan-s-omron-eyes-india-as-export-base-for-blood-pressure-monitors",
-   "published_utc": "2026-10-30T17:32:42.539673+00:00",
-   "title_original": "Japan's Omron eyes India as export base for blood pressure monitors",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "571fe017d1cb0799"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan's price increase rate reaches 2% for the first time in 14 years 1,500 food items will have price increases in November (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZWlCNHJHZS1hdWZEa1N0SXNtNTBnVmktMzZMdHR6R1VZQVhvdE9OTjhoMVdNeGQzQ19xNlJHbkFXMlRtdUFrUWRRMFFCU2RhUWxGRDA3MTgzNGtDSzRObEZKTWl4SG1BSUhuZWp5ay05bEsySU1iVmJENmdBQmc?oc=5",
-   "published_utc": "2026-10-30T17:25:05+00:00",
-   "title_original": "日銀 物価上昇率「2％に到達」 14年目で初の実現 11月の食品値上げ1500品目（TBS NEWS DIG Powered by JNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6d2cf81859542a12"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan's Sojitz to import rare earth yttrium from Malaysia",
-   "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-sojitz-to-import-rare-earth-yttrium-from-malaysia",
-   "published_utc": "2026-10-30T17:12:44.998942+00:00",
-   "title_original": "Japan's Sojitz to import rare earth yttrium from Malaysia",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b1bcbe4ea051ffc6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Focus Observation | Why can the 1.25% overnight reverse repurchase rate be understood as an interest rate cut?",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDFJRDJpMXY1a0FlY2ZhQUt3U21EdTNkbjhxanhGYnBnMjM1aDd5ai1VbEozbzFjWTFvbF9uazFXVnVuTm1UVzVmZExOYmExSlVWNzBYNGdnRkQzZEhpdG9BbF9TQndDN0lpTWJ4YnBxM0NTLW9pNlFaS2ZfTENBQ1p4LVNRN19rekE?oc=5",
-   "published_utc": "2026-10-30T17:02:32+00:00",
-   "title_original": "焦点观察 | 1.25%的隔夜逆回购利率，为何能理解为降息？",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "181092b11d9f5b2b"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China's State Council studies guiding principles of key Party plenum",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OelBtNjRnN3FsQ1A0Uk8tNGFtRDg0TUJXMnV6cFB0UGtqSHZneWJ0MV9HUUFKWkxhS0FZd0tGd3JDMnZGanBRcTUwUzQ0THlVVnNYbXg0MVpsRVFFMHVwNDlJMEpIQVd2Z2lCdVpHY3YtQ0hFRDcybW5zOFQ?oc=5",
-   "published_utc": "2026-10-30T16:37:15+00:00",
-   "title_original": "China's State Council studies guiding principles of key Party plenum",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fa72ad5a3513d6cf"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Electric Two-Wheeler Exports Jump 38% on Latin America, Africa Demand",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1ZqTm5GRTluMUhkRFFDNER2X2Q0cXZOYTIyMnNzZmhfVWJ5RGdWWFhSTjNHYWVOVE1RLUR2QXVEdGFob2VIVEpYM3pIZjJxenNWX0lyczVPakdHcFhfZ3p6NEMxdUgzcjN0MEFRcUw1OU9vVUd6UTVqaE53cHFjU2RTbG1DQ01IUlMtaFNzVE5WNFVDV1pFdjBtMDFaNjl5MEo4YzNBc1d5clBKMUl6Rm5XN2ozZV94Tjk4QzQwNWhOR3JVcHJwcQ?oc=5",
-   "published_utc": "2026-10-30T16:32:00+00:00",
-   "title_original": "China’s Electric Two-Wheeler Exports Jump 38% on Latin America, Africa Demand",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cb0ea7ed40dcc4e9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Weyerhaeuser expects to triple China log shipments in fourth quarter",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46G13A:0-weyerhaeuser-expects-to-triple-china-log-shipments-in-fourth-quarter/",
-   "published_utc": "2026-10-30T16:30:01+00:00",
-   "title_original": "Weyerhaeuser expects to triple China log shipments in fourth quarter",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dc9adf4d9cc938d2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:8ac5877d43878:0-byd-company-limited-class-a-stock-12-month-price-target-cut-to-cny-107-97-implies-31-upside/",
-   "published_utc": "2026-10-30T16:20:00+00:00",
-   "title_original": "BYD Company Limited Class A Stock 12‑Month Price Target Cut to CNY 107.97, Implies 31% Upside",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "09e4b2c223b35518"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit",
-   "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4392589:0-panasonic-ai-demand-lifts-fy-2027-aop-forecast-to-jpy-780-billion-as-all-segments-post-record-q2-profit/",
-   "published_utc": "2026-10-30T16:09:03+00:00",
-   "title_original": "Panasonic: AI demand lifts FY 2027 AOP forecast to JPY 780 billion as all segments post record Q2 profit",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2aa8da2ee31756c5"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Legislative Yuan stiffens penalties on drug driving",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vV0Ffc0VSOUVGTnJfWFU1bUF4VGpicFMxWnhhWG9pb3RzRjNPOGhRWTNnMWowRE0tcmNVVzBpWmdRSDNENUZ5Q1daX3o4X2haUnlINW1UNExPTC1NbFR4eHZXNWlTWEJOaXI0eU1nclkxUDhHSVRWaA?oc=5",
-   "published_utc": "2026-10-30T16:00:00+00:00",
-   "title_original": "Legislative Yuan stiffens penalties on drug driving",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e7a627d0cf52304b"
   },
   {
    "source_id": "manual_ia",
