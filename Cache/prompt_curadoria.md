@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T06:23:05.673597+00:00
+Última coleta: 2026-11-26T06:32:43.951914+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
   🇨🇳 China          981
-  🇹🇼 Taiwan         334
-  🇰🇷 Coreia do Sul  773
+  🇹🇼 Taiwan         335
+  🇰🇷 Coreia do Sul  772
 
 ## O que já está no feed (não repita)
 
   - [japan] Short-dated JGB yields rise as equity rebound revives BOJ hike bets
   - [korea] The Bank of Korea raised interest rates by 1 percentage point to 3.25%, a two-year high, and raised its GDP fo
   - [korea] BOK raises rate to 3.25% as chip boom fuels inflation concerns
+  - [taiwan] Taiwan confident of keeping 15% tariffs under Trump's new proposal
   - [korea] Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth — Update
   - [japan] The ASEAN+3 Finance and Central Bank Deputies’ Meeting, November 25–26, 2026
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] (URGENT) BOK chief sees improvement in S. Korea's potential growth rate
   - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
   - [japan] Japanese yield curve steepens as markets reprice BOJ rate outlook
-  - [korea] U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T06:23:05+00:00",
+      "published_utc": "2026-11-26T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
