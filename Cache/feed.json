@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-11-26T20:32:43.290193+00:00",
- "collected_at_utc": "2026-11-26T20:32:43.290193+00:00",
+ "generated_at_utc": "2026-11-26T20:42:52.520531+00:00",
+ "collected_at_utc": "2026-11-26T20:42:52.520531+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,24 @@
   "taiwan": 338,
   "korea": 759
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 33.7,
  "sources": [
+  {
+   "source_id": "nhk_politics",
+   "name": "NHK 政治",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
+  {
+   "source_id": "nhk_economy",
+   "name": "NHK 経済",
+   "ok": true,
+   "count": 0,
+   "error": "falha pontual (sem resposta) — tenta de novo na próxima coleta",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T17:23:00+00:00"
+   "newest": "2026-11-26T15:12:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +67,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T12:00:09+00:00"
+   "newest": "2026-11-26T18:28:26+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +91,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-26T20:22:52+00:00"
+   "newest": "2026-11-26T20:37:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -174,22 +190,6 @@
    "newest": "2026-11-26T13:21:34+00:00"
   },
   {
-   "source_id": "nhk_politics",
-   "name": "NHK 政治",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-27T04:45:08+09:00"
-  },
-  {
-   "source_id": "nhk_economy",
-   "name": "NHK 経済",
-   "ok": true,
-   "count": 60,
-   "error": "",
-   "newest": "2026-11-26T21:37:02+09:00"
-  },
-  {
    "source_id": "nikkei_asia",
    "name": "Nikkei Asia",
    "ok": true,
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T03:51:03+00:00"
+   "newest": "2026-11-26T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T20:25:23+00:00"
+   "newest": "2026-11-26T20:38:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T18:52:41+00:00"
+   "newest": "2026-11-26T15:45:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-27T05:15:00+09:00"
+   "newest": "2026-11-27T05:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -342,7 +342,10 @@
    "newest": "2026-11-26T15:00:00+00:00"
   }
  ],
- "falhas_seguidas": {},
+ "falhas_seguidas": {
+  "nhk_politics": 1,
+  "nhk_economy": 1
+ },
  "items": [
   {
    "source_id": "nikkei_asia",
@@ -776,9 +779,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEFaVmEyMUtpQjlGSzI1V1E2QldnY0ZsLUZZUHBjZGl5UzlxY1dmTERKOW9aNVFyLUNlV05YU19GNGpPZ1AzSFlBUkMteWJVeUdKWVdPNENQMmU2Wk5UWmxoVXNROUwtU05xU0I4cHU5UW5MQWJoQlZscGJRX3UzSTdmdEVxY09pT3ZvLW9R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PaGVFMTExSS1RMjhYYmVxMlpVQ1dvQjlRSlgyZjlfR2RCa1F6QXYwZkpUd2p4eXhGUzZRckhpSWxta2Z0TGZhMHZ1SGdBRDJLUV90eHBZWFRrM2xja01VS0dYZEtBVkhlYnQwRmVfbTV0QzIzc2kxaHhZRFQtXzA?oc=5",
    "published_utc": "2026-11-26T10:54:16+00:00",
-   "title_original": "日銀・審議委員が利上げに前向き (ABEMA TIMES)",
+   "title_original": "日銀・審議委員が利上げに前向き（ABEMA TIMES）",
    "region": "japan",
    "topics": [
     "monetary"
@@ -787,7 +790,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f3295d170039740c"
+   "id": "bbaa8d0a17879560"
   },
   {
    "source_id": "gn_kr_bok",
