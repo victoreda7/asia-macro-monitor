@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T10:42:44.907230+00:00
+Última coleta: 2026-11-26T10:52:42.731706+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -46,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
   - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
   - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
+  - [china] China hits back at Trump tariff threat
   - [korea] How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia
   - [korea] The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?
   - [japan] Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ's net income shrinks on higher interest payments on reserves
   - [japan] Miyagi Prefectural Assembly November regular meeting submits general account supplementary budget bill of appr
   - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
-  - [korea] [Issue & People] Bank of Korea raises base interest rate to 3.25%... Next year’s growth forecast has been sign
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T10:42:45+00:00",
+      "published_utc": "2026-11-26T10:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
