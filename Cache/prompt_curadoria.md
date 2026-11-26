@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T11:12:58.451559+00:00
+Última coleta: 2026-11-26T11:23:43.840761+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
   - [japan] BOJ policymaker calls for faster rate hikes
   - [japan] Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)
   - [korea] Bank of Korea raises base interest rate by 0.25% to 3.25%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk
   - [japan] Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”
   - [japan] Bank of Japan member Tamura: ``React swiftly, such as accelerating the pace of interest rate hikes.'' The ``ne
-  - [taiwan] Agricultural minister says no new U.S. tariffs on 322 Taiwan products
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T11:12:58+00:00",
+      "published_utc": "2026-11-26T11:23:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
