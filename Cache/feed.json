@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T23:42:43.573724+00:00",
- "collected_at_utc": "2026-11-26T23:42:43.573724+00:00",
+ "generated_at_utc": "2026-11-26T23:52:41.649246+00:00",
+ "collected_at_utc": "2026-11-26T23:52:41.649246+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 924,
-  "china": 976,
-  "taiwan": 340,
-  "korea": 760
+  "japan": 930,
+  "china": 973,
+  "taiwan": 339,
+  "korea": 758
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 28.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-26T23:31:47+00:00"
+   "newest": "2026-11-26T23:44:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T20:30:01+00:00"
+   "newest": "2026-11-26T06:01:42+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T14:45:00+09:00"
+   "newest": "2026-11-27T08:50:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:58:25+00:00"
+   "newest": "2026-11-26T07:57:22+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T23:42:00+00:00"
+   "newest": "2026-11-26T23:51:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T22:36:35+00:00"
+   "newest": "2026-11-26T23:44:17+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T08:09:46+00:00"
+   "newest": "2026-11-26T07:28:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T11:34:27+00:00"
+   "newest": "2026-11-26T22:23:30+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,6 +344,160 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play",
+   "url": "https://www.tradingview.com/news/DJN_DN20261126004137:0-tokyo-inflation-accelerated-keeping-boj-rate-hike-in-play/",
+   "published_utc": "2026-11-26T23:51:00+00:00",
+   "title_original": "Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d0da547e4a22ec74"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
+   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+   "published_utc": "2026-11-26T23:50:00+00:00",
+   "title_original": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4dd1bb53a4b0f5b"
+  },
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Trade Statistics (First 10 Days of November 2026 [Provisional])",
+   "url": "https://www.mof.go.jp/outside_link/20261126113848.html",
+   "published_utc": "2026-11-26T23:50:00+00:00",
+   "title_original": "Trade Statistics (First 10 Days of November 2026 [Provisional])",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8cacaaa795289fbf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "JAPAN NOV TOKYO CORE-CORE CPI +2.5% Y/Y; OCT +2.6%",
+   "url": "https://www.tradingview.com/news/dpa_afx:856aaa9106cad:0-japan-nov-tokyo-core-core-cpi-2-5-y-y-oct-2-6/",
+   "published_utc": "2026-11-26T23:48:16+00:00",
+   "title_original": "JAPAN NOV TOKYO CORE-CORE CPI +2.5% Y/Y; OCT +2.6%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2fd5028cecb9e4f7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%",
+   "url": "https://www.tradingview.com/news/dpa_afx:414a013bb3713:0-mni-japan-nov-tokyo-core-cpi-2-9-y-y-oct-2-6/",
+   "published_utc": "2026-11-26T23:48:07+00:00",
+   "title_original": "MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e472080a1a12483d"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWt2a29HWVNtUnZuZTRJdHl3RDlvUklPTldoTkFDYzNhM05qdWhMQjhfSWFlZFF5YkFYZ3p2amdWZHR1VVFGdjRuY3RXUTRkTTd5UV9Wcnk2bENjeWdRUkFEM3B3YVBQVTNXOFhDT3dxN3UwdkRJOTBfVmlwV29VUlFnMWFxX0pWWGZoQm1n?oc=5",
+   "published_utc": "2026-11-26T23:44:17+00:00",
+   "title_original": "11月の東京物価2.9％上昇（共同通信）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b0aaa25ee0dc35d6"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
+   "url": "https://www.investing.com/news/economic-indicators/tokyo-cpi-firms-in-nov-core-inflation-slightly-misses-expectations-5052758",
+   "published_utc": "2026-11-26T23:44:16+00:00",
+   "title_original": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b75a8ec33ebb7ba6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT",
+   "url": "https://www.tradingview.com/news/macenews:3cd1aaaf2094b:0-japan-nov-tokyo-cpi-processed-food-3-1-0-73-point-vs-3-0-0-71-point-in-oct/",
+   "published_utc": "2026-11-26T23:43:00+00:00",
+   "title_original": "JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7ce73940f6a53c6e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT",
+   "url": "https://www.tradingview.com/news/macenews:4d193e8af094b:0-japan-nov-tokyo-cpi-energy-9-5-y-y-0-43-point-contribution-vs-2-2-0-09-point-in-oct/",
+   "published_utc": "2026-11-26T23:42:00+00:00",
+   "title_original": "JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b2cfbc9ba6cdccee"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -1501,23 +1655,6 @@
    "id": "96d3f4f06345c3ae"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ",
-   "url": "https://www.tradingview.com/news/DJN_DN20261126001320:0-new-tariffs-on-china-could-undermine-trade-truce-with-u-s-wsj/",
-   "published_utc": "2026-11-26T08:42:00+00:00",
-   "title_original": "New Tariffs on China Could Undermine Trade Truce with U.S. — WSJ",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "89157582912aed04"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg",
    "title_en": "Trump Aims to Keep Leverage Over Xi With 40% China Tariff Threat",
@@ -1550,41 +1687,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bfaa1e984e3ae188"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan may raise short-term bond issuance if FY2027 debt sales increase, official says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N03Z:0-japan-may-raise-short-term-bond-issuance-if-fy2027-debt-sales-increase-official-says/",
-   "published_utc": "2026-11-26T08:39:19+00:00",
-   "title_original": "Japan may raise short-term bond issuance if FY2027 debt sales increase, official says",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b21768fa932330a5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261126001295:0-aggressive-fed-tightening-japan-fiscal-response-could-push-boj-rates-above-2-market-talk/",
-   "published_utc": "2026-11-26T08:37:00+00:00",
-   "title_original": "Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d21e00d35e20bae3"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1638,6 +1740,23 @@
    "id": "8281f2cee2304172"
   },
   {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "China hits back at Trump tariff threat",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
+   "published_utc": "2026-11-26T08:19:05+00:00",
+   "title_original": "China hits back at Trump tariff threat",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67fe07b53b7e93ab"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "BOK keeps door open to another rate hike, lifts 2027 growth outlook to six-year high",
@@ -1657,23 +1776,6 @@
    "id": "674daeb34b42d3ab"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Valor Economico",
-   "title_en": "How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia",
-   "url": "https://www.tradingview.com/news/moodys:8c3712ae35a1e:0/",
-   "published_utc": "2026-11-26T08:17:01+00:00",
-   "title_original": "Como um acordo com a Bain Capital tornou a SK Hynix a principal acionista da concorrente Kioxia",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "3e70119005b74f52"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "네이버페이 머니스토리",
    "title_en": "The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?",
@@ -1691,25 +1793,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261126001126:0-mitsubishi-ufj-raises-boj-terminal-rate-forecast-to-2-market-talk/",
-   "published_utc": "2026-11-26T08:15:00+00:00",
-   "title_original": "Mitsubishi UFJ Raises BOJ Terminal Rate Forecast to 2% — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8c45a5cace6b7684"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -1722,7 +1807,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea to accelerate EV conversion for rental, leased cars with subsidies",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91X2hKLTNwUGtranhTX09UNVowTUIxRGVlbTVuOHJwdHNyNXpGdnRibnFwZFloVFVxQlRvOWVDNGFkXzN3Z25XUkhteWt3Q3I2aFhGU19UVU9nU1ZmVGEteVpwdjRpMnRhWTU4blNyVTM5cW5kMWJv?oc=5",
+   "published_utc": "2026-11-26T08:14:00+00:00",
+   "title_original": "South Korea to accelerate EV conversion for rental, leased cars with subsidies",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4517f6819fceaca2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2006,23 +2108,6 @@
    "id": "766f7fd6b60a50aa"
   },
   {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "China hits back at Trump tariff threat",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
-   "published_utc": "2026-11-26T06:57:10+00:00",
-   "title_original": "China hits back at Trump tariff threat",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67fe07b53b7e93ab"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "세상을 바꾸는 시민언론 민들레",
    "title_en": "The Bank of Korea raised its benchmark interest rate... Additional hikes also suggested",
@@ -2091,6 +2176,24 @@
    "live_wire": false,
    "manual": false,
    "id": "bb56f0c33f821fc5"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ?oc=5",
+   "published_utc": "2026-11-26T06:41:00+00:00",
+   "title_original": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "42a8bf93d768653a"
   },
   {
    "source_id": "investing_econ",
@@ -6670,8 +6773,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -6685,7 +6788,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6775,7 +6878,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "US Readies Tariff Hike on China, EU Goods as Soon as Tuesday",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3RsSGwydkRvZkItUUlRQUxrS1RfZ3dJNV85NnJIYl9yclIxQXdxMElGNmQwVW56TENkU3duY3lnaXAyV0Q0elhEZXdVQlJsZTg0czUyM0Q3RHJUbjdyUjhBcmNyRW1La1RPVU1PemkzNFh0X1FrTC05M1RPRk1lWm9ja3ZiaUFQVUV5MmwzOHRGenNDNjdHUmtiMFlfNUZIOEM0OE05V0V4aDRKZGdZ?oc=5",
    "published_utc": "2026-11-24T16:16:51+00:00",
@@ -7068,24 +7171,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -7209,7 +7294,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -7221,7 +7306,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7779,6 +7864,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -17143,23 +17246,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8c09a1dc9543d86f"
-  },
-  {
-   "source_id": "mof_jp",
-   "source_name": "MOF Japan",
-   "title_en": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
-   "url": "https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
-   "published_utc": "2026-11-18T23:50:00+00:00",
-   "title_original": "International Transactions in Securities (Weekly; based on reports from designated major investors)",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4dd1bb53a4b0f5b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51797,91 +51883,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2408ee3211a93681"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Central Bank Likely to Keep Policy Rate Unchanged Through 2027 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261102000852:0-china-s-central-bank-likely-to-keep-policy-rate-unchanged-through-2027-market-talk/",
-   "published_utc": "2026-11-02T07:24:00+00:00",
-   "title_original": "China's Central Bank Likely to Keep Policy Rate Unchanged Through 2027 — Market Talk",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ec4dc6e256b63f32"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:f821cf3c18221:0-cnooc-limited-class-a-stock-12-month-price-target-raised-to-cny-42-52-implies-18-upside/",
-   "published_utc": "2026-11-02T07:20:00+00:00",
-   "title_original": "CNOOC Limited Class A Stock 12‑Month Price Target Raised to CNY 42.52, Implies 18% Upside",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ea5c64e348ca7a2b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "“Domestic and export sales both slump”: Renault Korea Co., Ltd. sells 5,503 vehicles in October, down 23.6% year on year",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QclJUSGgwNXNydFpuUU9oU183cFF6LWlCZm04ZE1IVWJPVjBRSDZRd0xzcFM5bVZDeE1lMnJUVTJwNzh0QWc5YjdEajZZVVZwV3Ew?oc=5",
-   "published_utc": "2026-11-02T07:09:30+00:00",
-   "title_original": "“Domestic and export sales both slump”: Renault Korea Co., Ltd. sells 5,503 vehicles in October, down 23.6% year on year",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9297e3a69de28b55"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVElucnFOSElYNTk1dy11RjNfRHlYdTcyRUt3X2lsdjJHNmdjdHVLTFNScTRzOGdURkVnUU0tU2EwVVJoU3o3SVVZZnNGMkF3eWQ1WWR2d1A2cmNsOWlOQ041ZVRuNFQzUE5OQ2hselBNTnk1bEcxY0s5VUQyUW5zZW04TmE5N0xYV0ItMXFfRzE2LS1oU0FYanAyUkFSaElIRVBz?oc=5",
-   "published_utc": "2026-11-02T07:00:00+00:00",
-   "title_original": "BenQ Materials targets premium displays and medical growth, seeks semiconductor materials breakthrough",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a2bec6a44ad6acf5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea urges cryptocurrency exchanges to tighten security",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46J0EX:0-south-korea-urges-cryptocurrency-exchanges-to-tighten-security/",
-   "published_utc": "2026-11-02T06:55:42+00:00",
-   "title_original": "South Korea urges cryptocurrency exchanges to tighten security",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2f9a5a41034bd86b"
   },
   {
    "source_id": "manual_ia",

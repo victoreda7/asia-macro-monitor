@@ -7,16 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T23:42:43.573724+00:00
+Última coleta: 2026-11-26T23:52:41.649246+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          976
-  🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  760
+  🇯🇵 Japão          930
+  🇨🇳 China          973
+  🇹🇼 Taiwan         339
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play
+  - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
+  - [japan] Trade Statistics (First 10 Days of November 2026 [Provisional])
+  - [japan] JAPAN NOV TOKYO CORE-CORE CPI +2.5% Y/Y; OCT +2.6%
+  - [japan] MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%
+  - [japan] Tokyo prices rose 2.9% in November (Kyodo News)
+  - [japan] Tokyo CPI firms in Nov, core inflation slightly misses expectations
+  - [japan] JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT
+  - [japan] JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT
   - [japan] JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST
   - [japan] Core inflation in Japan's capital accelerates in November
   - [japan] JAPAN NOV TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.5% Y/Y (OCT +2.6%); MEDIAN FORECAST +2.8% (range: +2.
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
   - [taiwan] What to know about the latest U.S. tariff proposals for Taiwan
   - [china] China’s low interest rate comes with high stakes
-  - [china] Bayer to Invest Up to $549 Million in China Drug Manufacturing Site
-  - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
-  - [japan] Personal information of 3.11 million people leaked due to unauthorized access to Mitsui Fudosan app
-  - [china] Barclays downgrades European forklift makers as Chinese imports jump 51% in Q3
-  - [japan] BOJ policymaker calls for faster rate hikes
-  - [japan] Yomiuri: Toyota to Sell U.S.-Built Camry in Japan to Ease Trade Tensions
-  - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
-  - [china] Why Russia’s farm exports to China are booming despite US trade thaw
-  - [japan] Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T23:42:43+00:00",
+      "published_utc": "2026-11-26T23:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
