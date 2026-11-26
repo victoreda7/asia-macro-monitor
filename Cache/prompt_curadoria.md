@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T12:12:45.321688+00:00
+Última coleta: 2026-11-26T12:22:43.592219+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          923
+  🇯🇵 Japão          924
   🇨🇳 China          975
-  🇹🇼 Taiwan         336
+  🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
   - [japan] Personal information of 3.11 million people leaked due to unauthorized access to Mitsui Fudosan app
   - [china] Barclays downgrades European forklift makers as Chinese imports jump 51% in Q3
+  - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [japan] BOJ policymaker calls for faster rate hikes
   - [japan] Yomiuri: Toyota to Sell U.S.-Built Camry in Japan to Ease Trade Tensions
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan may raise short-term bond issuance if FY2027 debt sales increase, official says
   - [japan] Aggressive Fed Tightening, Japan Fiscal Response Could Push BOJ Rates Above 2% — Market Talk
   - [japan] Japan Life Insurers Complicate Yen Fight With Record Low Hedging: JPY/USD
-  - [japan] Bank of Japan member Tamura: ``A quick response such as accelerating the pace of interest rate hikes'' believe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T12:12:45+00:00",
+      "published_utc": "2026-11-26T12:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
