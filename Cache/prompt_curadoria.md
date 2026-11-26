@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T02:32:48.588222+00:00
+Última coleta: 2026-11-26T02:42:40.945374+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
-  🇨🇳 China          978
+  🇯🇵 Japão          911
+  🇨🇳 China          980
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  770
+  🇰🇷 Coreia do Sul  769
 
 ## O que já está no feed (não repita)
 
+  - [china] China, Hong Kong shares shrug off tariff risk to edge up from multimonth lows
   - [korea] (URGENT) Recent stock market correction likely to affect private consumption: BOK gov.
   - [korea] BOK Gov: To Take Action Until Inflation Converges Toward Target
   - [korea] BOK Gov: Expect Inflation to Approach Target in 2028
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY571.5 BLN VIA O/N REVERSE REPO THURS
   - [korea] There are a series of experiences in the online real estate community that this year's comprehensive..
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7096 THURS VS 6.7088
+  - [korea] Samsung Electronics, SK hynix rebound as U.S. chip stocks recover
   - [korea] [Full text] Bank of Korea Monetary Policy Committee’s monetary policy direction for November
   - [japan] Bank of Japan's interest rate hike "will be slow and hasty": Councilor Tamura says the environment remains acc
   - [japan] BOJ's Tamura Urges Timely Rate Hikes, Bolstering Case for December Move
@@ -38,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Long-Term JGB Yields Rise as Chip Stocks Rebound — Market Talk
   - [japan] BOJ’s Tamura signals chance of faster-pace interest rate hikes
   - [korea] Bank of Korea raises base interest rate to 3.25%... Growth forecast for next year raised to 4.1%
+  - [china] On November 26, the central bank launched a 571.5 billion yuan overnight reverse repurchase operation.
   - [korea] [Full text] Bank of Korea Monetary Policy Committee resolution on monetary policy direction for November
   - [korea] Full text of BOK statement on monetary policy decision in Nov.
   - [korea] (URGENT) Rate hike decision in Nov. was not unanimous; 2 dissenting members: BOK
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth
   - [japan] Bank of Japan councilor says interest rate hike will be slow and hasty (Kyodo News)
   - [korea] Bank of Korea raises base interest rate from 3.00% to 3.25%... last hike of the year
-  - [korea] Bank of Korea hikes interest rates to 2-yr high
-  - [korea] Bank of Korea raises interest rate to highest level in two years
-  - [korea] (LEAD) BOK raises key rate to 3.25 pct to curb inflationary pressure
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T02:32:48+00:00",
+      "published_utc": "2026-11-26T02:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
