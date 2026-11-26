@@ -7,29 +7,38 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T01:03:36.426619+00:00
+Última coleta: 2026-11-26T01:13:32.675408+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          994
-  🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  742
+  🇯🇵 Japão          918
+  🇨🇳 China          992
+  🇹🇼 Taiwan         340
+  🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [korea] (LEAD) BOK raises key rate to 3.25 pct to curb inflationary pressure
+  - [korea] BOK raises rate to 3.25% in final hike of year
+  - [korea] Bank of Korea raises base interest rate to 3.25%... Increase resumes after one month
+  - [korea] [Breaking News] Bank of Korea lowers base interest rate to 3.25% per annum... Third raise this year
+  - [korea] BOK raises key rate to 3.25 pct
   - [korea] Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth
   - [japan] Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)
   - [korea] Bank of Korea raises base interest rate to 3.25%... Third austerity this year alone
+  - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25% point to 3.25% per annum
   - [korea] South Korea's central bank resumes tightening with quarter-point hike
   - [korea] BOK raises rates as expected, lifts growth outlook on AI-driven chip boom
   - [korea] Bank of Korea raises base interest rate to 3.25% per annum... Economic growth rate expected to be 3.9% this ye
+  - [korea] [Breaking News] The Bank of Korea raises its base interest rate by 0.25%p... 3.25% per annum in 2 years
   - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25% to 3.25% per annum
   - [korea] BOK revises up S. Korea's 2026 growth outlook to 3.9 pct, 4.1 pct for 2027
+  - [korea] (URGENT) BOK revises up S. Korea's 2026 growth outlook to 3.9 pct, 4.1 pct for 2027
   - [korea] Semiconductor boom and price burden... Bank of Korea raises base interest rate to 3.25% (comprehensive)
+  - [korea] [Breaking News] Bank of Korea raises base interest rate for the first time in three months... from 3% to 3.25%
   - [korea] BOK raises key rate to 3.25 pct to curb inflationary pressure
   - [korea] [Breaking News] Bank of Korea’s Monetary Policy Committee ‘raises’ base interest rate by 3.25% in November
+  - [korea] [Breaking News] Bank of Korea raises base interest rate from 3.0 → 3.25% per annum
   - [korea] (URGENT) BOK raises key rate to 3.25 pct to curb inflationary pressure
-  - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25% point to 3.25% per annum
   - [korea] [Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... “This is the third time this yea
   - [korea] [Breaking News] Bank of Korea raises base interest rate... 3.25% per annum
   - [korea] [Breaking News] Bank of Korea, base interest rate of 3.25% per annum... 25bp increase - Money Today
@@ -38,25 +47,16 @@ Total: 3000 manchetes
   - [korea] [Breaking News] Bank of Korea raises base interest rate by 0.25%p... 3.25% per annum
   - [korea] [Breaking News] Bank of Korea raises base interest rate from 3% to 3.25% per annum
   - [korea] [Breaking News] Bank of Korea raises base interest rate… 3.25% per annum decision
+  - [korea] [Breaking News] Bank of Korea raises base interest rate from 3% to 3.25%
   - [korea] [Breaking News] Bank of Korea raises base interest rate… 3.00%→3.25%
   - [korea] [Photo News] Bank of Korea Monetary Policy Committee held... base interest rate raised to 3.25%
   - [korea] US proposes excess capacity tariffs on S. Korean goods within agreed 15 pct ceiling
   - [korea] Bank of Korea decides base interest rate today, weighs on ‘raise’
   - [korea] KOSPI starts to rise in the 1% range... Pay attention to whether the Bank of Korea will raise its base interes
+  - [japan] A friend told me, ``Prices are cheap in Vietnam, so you can live pretty well on just 10,000 yen.'' How many da
   - [japan] Interest Rate (November 25 2026)
   - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Growth forecasts are likely to b
   - [taiwan] Taiwan says it is confident of keeping previously agreed tariffs with US
-  - [korea] The Bank of Korea's Monetary Policy Committee decides on the base interest rate today... Resumption of hikes, 
-  - [korea] [Issue Check] The Bank of Korea's last Monetary Policy Committee of the year... Interest rate likely to rise t
-  - [korea] South Korea Rate Decision On Tap For Thursday
-  - [japan] ``Nikkei average of 1 million yen'' is not a pipe dream. “Surprising grounds” revealed by an investment profes
-  - [korea] The Bank of Korea is likely to raise the base interest rate by 3.25% today... Increasing interest burden in th
-  - [korea] [News Pick] Bank of Korea decides base interest rate today, likely to ‘raise’
-  - [china] CSTS Has Operating Subsidiaries in Hong Kong and Mainland China, Including Travel Agency Connexus Travel HK
-  - [japan] Loan balance decreases for the first time in 24 years, Hiroshima City Credit Union's ``strongest management'' 
-  - [korea] In the last November of this year, the Bank of Korea Monetary Policy Committee... Expected interest rate hike
-  - [japan] Full-scale development of the former Bank of Japan Kanazawa branch to be discussed in FY2017, advance opening,
-  - [japan] Is it true that a reporter infiltrates the site of an ``employment support business'' for people with disabili
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T01:03:36+00:00",
+      "published_utc": "2026-11-26T01:13:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
