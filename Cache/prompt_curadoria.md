@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T10:22:50.180330+00:00
+Última coleta: 2026-11-26T10:32:43.521746+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
-  🇨🇳 China          978
+  🇯🇵 Japão          923
+  🇨🇳 China          976
   🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  766
 
 ## O que já está no feed (não repita)
 
+  - [japan] Candriam Stays Long Yen, Returns to Neutral in Euro — Market Talk
   - [china] Could EU delisting of Chinese firm pave way for wider sanctions relief?
   - [china] China shares steady as markets seek to overcome tariff pessimism
   - [korea] SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring
+  - [japan] Bank of Japan, unrealized ETF gain of 76 trillion yen, record high, September interim results (Kyodo News)
   - [china] DPC Dash - Domino's Pizza China Scales Supply Chain Network to Drive Disciplined Store Expansion and Nationwid
   - [korea] There are concerns about a contraction in real estate market transactions due to the Bank of Korea’s interest 
   - [korea] Huawei eyes AI memory market dominated by Samsung, SK Hynix, Micron - report
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Miyagi Prefectural Assembly November regular meeting submits general account supplementary budget bill of appr
   - [japan] BOJ Tamura's Remarks Reinforce Case for December Rate Hike — Market Talk
   - [korea] [Issue & People] Bank of Korea raises base interest rate to 3.25%... Next year’s growth forecast has been sign
-  - [china] Asia rejects basis of new Trump tariffs as US gathers China ammunition
-  - [korea] S. Korean won gains slightly against U.S. dollar after BOK hikes key rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T10:22:50+00:00",
+      "published_utc": "2026-11-26T10:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

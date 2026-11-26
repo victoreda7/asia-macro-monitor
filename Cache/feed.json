@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T10:22:50.180330+00:00",
- "collected_at_utc": "2026-11-26T10:22:50.180330+00:00",
+ "generated_at_utc": "2026-11-26T10:32:43.521746+00:00",
+ "collected_at_utc": "2026-11-26T10:32:43.521746+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 921,
-  "china": 978,
+  "japan": 923,
+  "china": 976,
   "taiwan": 335,
   "korea": 766
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T08:06:00+00:00"
+   "newest": "2026-11-26T08:03:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T10:10:17+00:00"
+   "newest": "2026-11-26T10:17:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T09:19:00+00:00"
+   "newest": "2026-11-26T08:38:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-26T18:55:49+09:00"
+   "newest": "2026-11-26T19:22:55+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:19:00+00:00"
+   "newest": "2026-11-26T09:41:22+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T05:03:00+00:00"
+   "newest": "2026-11-26T09:41:22+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:30:00+00:00"
+   "newest": "2026-11-26T09:26:20+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T10:21:01+00:00"
+   "newest": "2026-11-26T09:41:22+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T00:30:08+00:00"
+   "newest": "2026-11-26T04:00:20+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T10:22:21+00:00"
+   "newest": "2026-11-26T10:32:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:40:55+00:00"
+   "newest": "2026-11-26T07:28:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Candriam Stays Long Yen, Returns to Neutral in Euro — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261126002017:0-candriam-stays-long-yen-returns-to-neutral-in-euro-market-talk/",
+   "published_utc": "2026-11-26T10:27:00+00:00",
+   "title_original": "Candriam Stays Long Yen, Returns to Neutral in Euro — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c9125109dd33b684"
+  },
   {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
@@ -394,6 +411,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9e31e8c8231b3e2d"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan, unrealized ETF gain of 76 trillion yen, record high, September interim results (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVEZ0QWlWc3JQQjAwM2ZRWXJDMW1IRUFQdG9Yei1pY1paWU90MGNJZUxkaDh0SjNmSjJmTjVFdTZGR2NScjdlenQ3MGFFZ3VmeGVINllvTV9PYzlodkZNTG1jdXFpYWp0Tkp5eDNWenpjdjBQalEySDBhUXdJanM?oc=5",
+   "published_utc": "2026-11-26T09:56:39+00:00",
+   "title_original": "日銀、ETF含み益76兆円 過去最大、9月中間決算（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "794e6822e34d1a9e"
   },
   {
    "source_id": "tradingview_live",
@@ -862,8 +897,8 @@
    "id": "8c45a5cace6b7684"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -876,7 +911,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -950,7 +985,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Miyagi Prefectural Assembly November regular meeting submits general account supplementary budget bill of approximately 12.4 billion yen including measures against high prices (KHB East Japan Broadcasting)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSDcyYVRkb2pKVU5kQzlMUDllaVdZY0VVSmhqdGhXdHNYT0lOTGxqdDZPazBPdXY1ZWxUZ080SVpIdVVVcEl4RGhiWlh1akdXQU1jaGFRRnVPRXFHNF81NlE5VXRmYTdnOUljdGlYUFBzb0s2LV9qeUJ2RnBlV3M?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeG1zeUg4T2szZTNybkFfeFAxNnJCU3o5bmFXdjVZS3F1U2VmaXR5S0tlRjVQOExyVl9Ya29HUnJLTmVncEpVYUF5U3pENTlDNmxBM3BYWXhGbHNOVDlQYTJ1bUtJX0YxSUpHeFFkQWcwR21oS3VhWFlLR2JaWUFHX3B0WVNIOGllZTM1NWxn?oc=5",
    "published_utc": "2026-11-26T07:50:26+00:00",
    "title_original": "物価高対策など約１２４億円の一般会計補正予算案を提出 宮城県議会１１月定例会（khb東日本放送）",
    "region": "japan",
@@ -964,7 +999,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "360ab378dea4a2ef"
+   "id": "5b3167f00a131a1b"
   },
   {
    "source_id": "tradingview_live",
@@ -2010,24 +2045,6 @@
    "id": "30e5bf209af03965"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year",
-   "url": "https://www.tradingview.com/news/DJN_DN20261125008718_20261125008791:0-bok-gov-chip-companies-operating-profits-estimated-at-krw700t-this-year/",
-   "published_utc": "2026-11-26T03:12:00+00:00",
-   "title_original": "BOK Gov: Chip Companies' Operating Profits Estimated at KRW700T This Year",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f61d7afd37c05b9d"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "MBC 뉴스",
    "title_en": "The Bank of Korea raises the base interest rate to 3.25%… “Next year’s growth rate will be 4.1%”",
@@ -2933,6 +2950,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a2c3a89a2c7a7d4e"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "BOK raises base rate by 25 bps to 3.25% as expected",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGZ4ajJzLU5oLXdIVy1SU1lPX0kzaTBGZ1VrY2k0M0NhU00zY2l5bkxsb3JKb2xfTWlzc0FSOTByR0xBeWkybFZDZVhDY3hkb3ZYeC1RRVdwMVI3cmJyNEktVXdkVXpQa1BTZjVXVUU2THVTZ2p1OEtmazhEXzJIemJVblZxREVtQVdURWpR?oc=5",
+   "published_utc": "2026-11-26T00:58:00+00:00",
+   "title_original": "BOK raises base rate by 25 bps to 3.25% as expected",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0e74043fde164485"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6003,8 +6037,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -6018,7 +6052,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51865,42 +51899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3181488f0b6ef9ed"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launches 541 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GSjNleXNQazJYSUV4dWRuMnlEQ3lkSWR3QmtPZGVGRFJFQV9xNVRteGpmWFVlNVhJeXl5bW1Kb1lidzlIS3VFTHc5OHRMSGdEOU1VVUgtOUluRkpiOUJHXw?oc=5",
-   "published_utc": "2026-11-02T02:53:07+00:00",
-   "title_original": "央行开展5410亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "abfa2808f2fbac64"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国基金报",
-   "title_en": "The central bank launched a 541 billion yuan overnight reverse repurchase operation in the open market, with an operating interest rate of 1.25%.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55WkppeDVIVEs2cVdDQjN4eFU2bTdZblJBMXhTNWxoNjE2eldkNl9XZy1CNVhXSm01ZEFVZWZhdldoYUlSalBpc3JvR0RmNXhjRVpNLVhXeEZaeWtwTlktdTBiaWxOZTdTVjlFLUFJZTV0QjcybEQ2MFV3?oc=5",
-   "published_utc": "2026-11-02T02:50:00+00:00",
-   "title_original": "央行公开市场开展5410亿元隔夜逆回购操作，操作利率为1.25%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "818cd097a5ea38ee"
   },
   {
    "source_id": "manual_ia",
