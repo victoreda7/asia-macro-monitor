@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T17:12:41.920338+00:00
+Última coleta: 2026-11-26T17:22:43.995968+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Nvidia, Kioxia team on AI server memory as alternative to South Korean chips
   - [japan] Japan Data Preview: Forecasters See Stable Jobless Rate in October Report as Job Market Holds Firm
   - [japan] Japan Data Preview: Solid Department Store Sales to Propel Retail Sales in October Report
   - [japan] Japan Data Forecast: Exports, AI Buildout to Lift Industrial Output in October Report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
   - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
-  - [japan] Tepco To Invest Total Of 10.2 Trillion Yen By Fiscal Year 2035 In Power Grids, Nuclear Power Plants That Will 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T17:12:42+00:00",
+      "published_utc": "2026-11-26T17:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
