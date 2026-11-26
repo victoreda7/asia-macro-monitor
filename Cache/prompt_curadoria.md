@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T23:32:46.619272+00:00
+Última coleta: 2026-11-26T23:42:43.573724+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          924
@@ -17,6 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST
+  - [japan] Core inflation in Japan's capital accelerates in November
+  - [japan] JAPAN NOV TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.5% Y/Y (OCT +2.6%); MEDIAN FORECAST +2.8% (range: +2.
+  - [japan] JAPAN NOV TOKYO TOTAL CPI +2.8% Y/Y (OCT REVISED DOWN TO +2.7% FROM +2.8%); MEDIAN FORECAST +3.0% Y/Y (RANGE: 
+  - [japan] JAPAN NOV TOKYO CORE CPI (EX-FRESH FOOD) +2.9% Y/Y (OCT +2.6%), MEDIAN FORECAST +2.9% (RANGE: +2.8% TO +3.1%)
   - [japan] Tokyo Nov core CPI rises 2.9% yr/yr
   - [japan] Nvidia suspends exports to four Southeast Asian countries Western media
   - [taiwan] Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%
@@ -25,6 +30,7 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea raises the base interest rate by 0.25% point to 3.25% per annum... The growth rate for this 
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [japan] <On-site Report Part 2> ``I don't want to rely on welfare anymore'' ``What can I master here?'' The true feeli
+  - [china] 800 billion MLF + 500 billion reverse repurchase central bank's "combination punch" accurately protects liquid
   - [china] Trump-Xi summits unlikely to solve China's rare-earth licensing maze
   - [japan] Condominium prices continue to decline...still clear evidence that the "real estate bubble" is not over | Life
   - [china] Monthly report on commodity housing sales price index
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Councilor Tamura: ``Toward a neutral level'' Appeals for the need for additional interest rate h
   - [china] Why Russia’s farm exports to China are booming despite US trade thaw
   - [japan] Bank of Japan council members are positive about raising interest rates (ABEMA TIMES)
-  - [korea] The Bank of Korea raises the base interest rate to 3.25%... Third raise this year
-  - [korea] The Bank of Korea raises its base interest rate and significantly raises its growth forecast. “Focus on price 
-  - [korea] Bank of Korea raises base interest rate by 0.25% to 3.25%
-  - [japan] Bank of Japan Councilor Tamura: ``There are cases where a judgment on the financial environment can be made in
-  - [japan] Candriam Stays Long Yen, Returns to Neutral in Euro — Market Talk
-  - [china] Could EU delisting of Chinese firm pave way for wider sanctions relief?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T23:32:46+00:00",
+      "published_utc": "2026-11-26T23:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
