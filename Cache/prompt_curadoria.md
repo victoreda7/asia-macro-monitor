@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T17:22:43.995968+00:00
+Última coleta: 2026-11-26T17:33:04.392702+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          926
-  🇨🇳 China          976
+  🇨🇳 China          977
   🇹🇼 Taiwan         336
-  🇰🇷 Coreia do Sul  762
+  🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] China Rejects U.S. Proposal for Additional 20% Tariff
   - [korea] Nvidia, Kioxia team on AI server memory as alternative to South Korean chips
   - [japan] Japan Data Preview: Forecasters See Stable Jobless Rate in October Report as Job Market Holds Firm
   - [japan] Japan Data Preview: Solid Department Store Sales to Propel Retail Sales in October Report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Better Future Economic Briefing] Bank of Korea base interest rate hike of 0.25% point, third time this year..
   - [japan] BOJ policymaker calls for faster rate hikes | NHK WORLD-JAPAN News
   - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
-  - [korea] Bank of Korea May Hold Off on Raising Rates at January Meeting — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T17:22:44+00:00",
+      "published_utc": "2026-11-26T17:33:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
