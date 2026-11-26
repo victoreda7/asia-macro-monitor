@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-26T04:05:01.614021+00:00",
- "collected_at_utc": "2026-11-26T04:05:01.614021+00:00",
+ "generated_at_utc": "2026-11-26T04:12:49.464814+00:00",
+ "collected_at_utc": "2026-11-26T04:12:49.464814+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 912,
+  "japan": 913,
   "china": 983,
-  "taiwan": 338,
+  "taiwan": 337,
   "korea": 767
  },
- "elapsed_s": 168.6,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 163,
    "error": "",
-   "newest": "2026-11-26T03:55:28+00:00"
+   "newest": "2026-11-26T04:00:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-26T02:54:34+00:00"
+   "newest": "2026-11-26T03:55:28+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T22:20:00+00:00"
+   "newest": "2026-11-25T21:58:37+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T01:53:13+00:00"
+   "newest": "2026-11-26T02:07:59+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T05:34:37+00:00"
+   "newest": "2026-11-26T01:42:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T04:03:11+00:00"
+   "newest": "2026-11-26T04:11:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T02:37:44+00:00"
+   "newest": "2026-11-26T02:38:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,8 +345,8 @@
  "falhas_seguidas": {},
  "items": [
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "BOJ’s Tamura flags faster pace of rate hikes amid inflation risk",
    "url": "https://www.investing.com/news/economy-news/bojs-tamura-flags-faster-pace-of-rate-hikes-amid-inflation-risk-5051988",
    "published_utc": "2026-11-26T03:55:28+00:00",
@@ -358,9 +358,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "165c2c1119286667"
+   "id": "2a9995af36464003"
   },
   {
    "source_id": "tradingview_live",
@@ -538,6 +538,24 @@
    "id": "7c6a61b4b32bb534"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "MBC 뉴스",
+   "title_en": "The Bank of Korea raises the base interest rate to 3.25%… “Next year’s growth rate will be 4.1%”",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Wmt0OF8wQnFoWnlYQ1kzVTlGTUJyN0lUQzc0OEd4VVYyVnUzX0Zyb1l6bFFXWUZfZHNyaEs3cW1ndmtoSndsZFJoQkhvSFJ1c2ZmOHo4aVp0TGdzYXJYRnN0bzVlWWlJTjlScjYtckZDV081UTNVNtIBeEFVX3lxTE4tVVFiRjZfYmxtRHdMWHd2b0dRLU9OUnA5emFVWDJUOEVzb1JyV1dFYXdySHJBd0VqMUVuVDRjd3l4VGpUOVkxR0Rxc3ZHZE14NWMxUkc1b1k0TGh1TEVTOEo1cHB2Z2lZenZtUUQtTGpkTndTdTFZcg?oc=5",
+   "published_utc": "2026-11-26T03:04:11+00:00",
+   "title_original": "한은, 기준금리 3.25%로 인상‥\"내년 성장률 4.1%\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "83c115f37a9ec319"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) BOK chief sees improvement in S. Korea's potential growth rate",
@@ -644,6 +662,23 @@
    "live_wire": false,
    "manual": false,
    "id": "617474d76782cacb"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan council member Naoki Tamura ``responds quickly, including accelerating the pace of interest rate hikes,'' and takes a positive stance toward further rate hikes... Speech in Kofu (Yomiuri Shimbun Online)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0ZnB6dml5NlNLSHdEclNNUS1HNUlERW9yVGRsOXFUYmpvaFU4NU9wSlhrRTJwM0ktOHBaRm1WUGhiMERmU3pXQ1dPZlFjTXA1NEpMSjRxQlE0SlZiLVJUOWpEblE5T1B6c0lQUEZYVzVQT2t6UlVOTlEyY0w2d28?oc=5",
+   "published_utc": "2026-11-26T02:38:22+00:00",
+   "title_original": "日銀の田村直樹審議委員「利上げペース加速など俊敏に対応」、追加利上げに前向き姿勢…甲府で講演（読売新聞オンライン）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37982101e6ada388"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1208,6 +1243,23 @@
    "live_wire": true,
    "manual": false,
    "id": "beca97aa298e884d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KBC광주방송",
+   "title_en": "Bank of Korea raises base interest rate to 3.25%... three times in the second half of the year alone",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZmtMV2lRNUpLVVlsUXVzRVR6RGQ0ZjJOQUFlaFpkcmRlVmlvNDF6Ylp5dzA3OEJXOS1ZUEtCbW51WUhPM1Y1VS1YS2h1ZlBNTjVWV0lqZXFzY2VZSmVxRg?oc=5",
+   "published_utc": "2026-11-26T01:45:01+00:00",
+   "title_original": "한은, 기준금리 3.25%로 인상...하반기에만 세 차례",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "395d434c90141913"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1965,44 +2017,6 @@
    "live_wire": false,
    "manual": false,
    "id": "826b34bc07eedd3c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "MBC 뉴스",
-   "title_en": "[Breaking News] Bank of Korea raises base interest rate to 3.25% and raises next year’s growth forecast to 4.1%",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PR3NYY3pocEltSjZtY1pGS01JQ0M5Z25Cbnh5aGxMY3c0ajl0ZDlHcjRTRUxDYlplYzVsNFZ4QWllc2hIYzN4NUtkS0NlZlcwbVRjZlZTR3Fsa0tWbjMtWGltTkNKQzZKc2V3UWRIbm5nTTFv0gF0QVVfeXFMT1BSbHpoQ2hIa214MlBta2hoVHNGYnFpamlIX3Jua04wd2thYzdSWUVITFVXNUR5cEhNVl9lSFhQdWZ0NUNDYXVnWVN0b1FsZDZ6aXJuaXhBbzU4WUYyd25UNmdOekYxTXd6Ul84Y3dkUWwwX0Y?oc=5",
-   "published_utc": "2026-11-26T00:51:09+00:00",
-   "title_original": "[속보] 한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "63c21755976e5ca0"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "JTBC",
-   "title_en": "Due to the semiconductor boom, prices are in the late 2% range... The Bank of Korea raises the base interest rate again to 3.25% per year.",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUFNCano5WTdBb3BLRGpEUjNJMTl1RF80Y2poMGRfS1pvRjNUUjUyeHFfUTRzWUhhRDNIdzVxT1A2S09WQVprdFFYb3BmMFRULXNRRA?oc=5",
-   "published_utc": "2026-11-26T00:51:00+00:00",
-   "title_original": "반도체 호황에 물가는 2%대 후반…한은, 기준금리 또 올려 연 3.25%",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f57a48b0c7fb6a04"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -5328,6 +5342,24 @@
    "id": "de92cd28e2ed089b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -5451,7 +5483,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -5463,7 +5495,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ebeb58740ddd2edc"
+   "id": "85389ed73c9fb172"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5883,24 +5915,6 @@
    "id": "7c8dca0001fef26c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -6021,24 +6035,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -6406,6 +6402,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富网",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
+   "published_utc": "2026-11-24T08:00:00+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -9354,6 +9368,23 @@
    "id": "6873f8dd0311ea79"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
+   "published_utc": "2026-11-22T08:00:00+00:00",
+   "title_original": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dccfe61c0fe2e6a6"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "手机网易网",
    "title_en": "As the RMB exchange rate strengthens, how many more U.S. dollars can be exchanged for the central bank's increase in the foreign exchange deposit requirement rate by 300,000 yuan?",
@@ -11560,23 +11591,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ef62540b13be4c9c"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
-   "published_utc": "2026-11-20T08:44:00+00:00",
-   "title_original": "EXCLUSIVE Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dccfe61c0fe2e6a6"
   },
   {
    "source_id": "gn_kr_mk",
@@ -14225,7 +14239,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富网",
    "title_en": "The central bank launches 714 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZR25WbHM1ZWFGZGgzRnlSN2ZvNERIVi1KMlZaOGJ3RXE1MW9OSV9TWEx0SUhHajdUWmNEZHBkWmNmaEw5b1hnMDhtWWVWcWo1TnYyUUxrRnZ4QTluLWRoZlc1SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oc0NUTUJBcU5wNEU2WXM2d1U5cXdMLWVQcXZPQlZ4UTVacUZqVWRORGhVYlpyYjdSX09sb3pCQmgxQzdTOENQemZicXplaTcwTlNYV2VkMzFZb0tsMmR0aklkUVRadw?oc=5",
    "published_utc": "2026-11-19T09:41:26+00:00",
    "title_original": "央行开展7140亿元隔夜逆回购操作",
    "region": "china",
@@ -14237,7 +14251,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "55af98a494c201f9"
+   "id": "894e406afb4c4cea"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51871,23 +51885,6 @@
    "live_wire": true,
    "manual": false,
    "id": "19c3ac281c7f71dd"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnBCOXMyYjlrWFZlNFZrbjFqRmlQQlJoazhTUmhmOWdBZVRQSTFHekJKM2NBbUp1R1loU2I4bzJNa0VQY2YtbjhNc0phZzNwZjJTUlQ1MTZudnBxcndzdUtzVEpVM1Y3c1Y1aHFZb0lsdWRlbHgtY3ZSZlcwZGwwRFFEZjc0cmtnbnVqLVFRWFdyamVNRnllOU5DellDdVlGdXBJ?oc=5",
-   "published_utc": "2026-11-01T07:00:00+00:00",
-   "title_original": "The 20% problem: why Taiwan's imported equipment parts still carry 70% of the cost",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b6b393e32deb7ed3"
   },
   {
    "source_id": "manual_ia",

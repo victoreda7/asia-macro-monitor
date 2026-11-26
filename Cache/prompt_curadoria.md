@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T04:05:01.614021+00:00
+Última coleta: 2026-11-26T04:12:49.464814+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
+  🇯🇵 Japão          913
   🇨🇳 China          983
-  🇹🇼 Taiwan         338
+  🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  767
 
 ## O que já está no feed (não repita)
@@ -28,12 +28,14 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea raises the base interest rate to 3.25% per annum... Growth rate expected to be 4.1% next yea
   - [korea] BOK Gov: See Private Consumption Growing 2.4% in 2027, Faster Than in 2026
   - [korea] BOK Gov: IT Boom May Take Time to Translate Into Private Consumption
+  - [korea] The Bank of Korea raises the base interest rate to 3.25%… “Next year’s growth rate will be 4.1%”
   - [korea] (URGENT) BOK chief sees improvement in S. Korea's potential growth rate
   - [japan] BOJ policymaker signals chance of faster-pace interest rate hikes
   - [japan] Japanese yield curve steepens as markets reprice BOJ rate outlook
   - [korea] U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips
   - [china] Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports
   - [korea] (URGENT) S. Korea's nominal GDP expected to top 3,000 tln won in 2026, 700 tln won from chip sector: BOK gov.
+  - [japan] Bank of Japan council member Naoki Tamura ``responds quickly, including accelerating the pace of interest rate
   - [japan] Bank of Japan's Tamura, a member of the Bank of Japan's Council, wants to raise interest rates further towards
   - [japan] BOJ member Tamura wants to raise interest rates further towards neutral interest rates “as soon as possible” (
   - [china] China, Hong Kong shares shrug off tariff risk to edge up from multimonth lows
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics, SK hynix rebound as U.S. chip stocks recover
   - [korea] [Full text] Bank of Korea Monetary Policy Committee’s monetary policy direction for November
   - [korea] [Breaking News] Bank of Korea raises base interest rate to 3.25% per annum... Next year’s growth rate is raise
-  - [japan] Bank of Japan's interest rate hike "will be slow and hasty": Councilor Tamura says the environment remains acc
-  - [korea] Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T04:05:01+00:00",
+      "published_utc": "2026-11-26T04:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
