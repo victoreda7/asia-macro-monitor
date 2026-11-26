@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T18:33:14.535610+00:00
+Última coleta: 2026-11-26T18:42:40.603568+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          925
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Nissan poised to import cars from China to Japan for first time
   - [china] China Rejects U.S. Proposal for Additional 20% Tariff
   - [korea] Nvidia, Kioxia team on AI server memory as alternative to South Korean chips
   - [japan] Japan Data Preview: Forecasters See Stable Jobless Rate in October Report as Job Market Holds Firm
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Power Construction Corporation Of China Jan-Oct New Contracts Signed Totalled 883.4 Billion Yuan
   - [japan] Bank of Japan ETFs record unrealized gains of 76 trillion yen at end of September, interim results (Jiji Press
   - [korea] [Better Future Economic Briefing] Bank of Korea base interest rate hike of 0.25% point, third time this year..
-  - [japan] Japan may raise shorter-term bond issuance if FY2027 debt sales increase
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T18:33:14+00:00",
+      "published_utc": "2026-11-26T18:42:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
