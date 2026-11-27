@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T21:12:42.567597+00:00
+Última coleta: 2026-11-27T21:22:41.494805+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          950
@@ -26,7 +26,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
   - [japan] NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 753.33, Implies 11% Upside
-  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [china] China's auto exports to rise 50% amid intensifying competition at home
   - [japan] Japan Week Ahead: October Factory Output, Retail Sales Likely to Show Solid Start to Final Quarter of 2026
   - [china] Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access
@@ -52,6 +51,7 @@ Total: 3000 manchetes
   - [china] NVIDIA Blackwell chips surface at China site tied to Megaspeed - Bloomberg
   - [china] EU launches anti-dumping probe into China, Singapore sustainable aviation fuel imports
   - [japan] Electricity charges for December usage drop at 10 major companies due to resumption of government subsidies
+  - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [taiwan] Taiwan's 2026 GDP growth forecast raised to 13.28%, highest since 1978
   - [china] CMST Development Plans To Register 4 Billion Yuan Debt Financing Instruments
   - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T21:12:42+00:00",
+      "published_utc": "2026-11-27T21:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
