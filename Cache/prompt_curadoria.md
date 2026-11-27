@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T16:52:42.894284+00:00
+Última coleta: 2026-11-27T17:03:03.969682+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          945
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
   - [korea] Midday Need to Know: Brazil stocks surge, SK Hynix boosts buybacks & more
   - [japan] Japan's data center subsidies to weigh local impact as backlash grows
   - [china] German Companies in China Adapt to Persistent Price Pressure
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
   - [china] UBS Cites Experts that Rising Social Security Costs Pressure Intermediaries; Shenzhen Rent Uptick Supports Hom
   - [china] Jiangsu Shemar Electric Plans To Invest Up To 510 Million Yuan In Project
-  - [china] Commentary: China’s Consumption Problem Needs Cash for Households, Not Subsidies for Producers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T16:52:43+00:00",
+      "published_utc": "2026-11-27T17:03:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
