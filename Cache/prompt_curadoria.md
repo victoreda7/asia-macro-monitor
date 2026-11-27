@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T00:22:41.819332+00:00
+Última coleta: 2026-11-27T00:34:49.653361+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
+  🇯🇵 Japão          934
   🇨🇳 China          971
-  🇹🇼 Taiwan         337
-  🇰🇷 Coreia do Sul  760
+  🇹🇼 Taiwan         336
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [japan] Interest Rate (November 26 2026)
   - [korea] South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk
   - [korea] Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports
   - [japan] November consumer price index for Tokyo's 23 wards increased by 2.9% compared to the same month last year
+  - [japan] Tokyo prices rose 2.9% in November; growth rate expanded, staying at the 2% level for three consecutive months
   - [japan] Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
   - [japan] Trade Statistics (First 10 Days of November 2026 [Provisional])
@@ -40,6 +42,7 @@ Total: 3000 manchetes
   - [china] Euro Set for Biggest Drop in Two Decades Against Yuan This Year
   - [taiwan] Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%
   - [taiwan] Hackers target Taiwan's semiconductor supply chain, fishing and food sectors
+  - [japan] AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls
   - [japan] Adjustments being made to extend the gift tax exemption for funds used to purchase a home
   - [korea] The Bank of Korea raises the base interest rate by 0.25% point to 3.25% per annum... The growth rate for this 
   - [china] 800 billion MLF + 500 billion reverse repurchase, the central bank's "combination punch" accurately protects l
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Rejects U.S. Proposal for Additional 20% Tariff
   - [korea] Nvidia, Kioxia team on AI server memory as alternative to South Korean chips
   - [japan] Japan Data Preview: Forecasters See Stable Jobless Rate in October Report as Job Market Holds Firm
-  - [japan] Japan Data Preview: Solid Department Store Sales to Propel Retail Sales in October Report
-  - [japan] Japan Data Forecast: Exports, AI Buildout to Lift Industrial Output in October Report
-  - [china] Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rente
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T00:22:42+00:00",
+      "published_utc": "2026-11-27T00:34:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
