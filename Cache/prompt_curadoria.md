@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T03:12:47.177338+00:00
+Última coleta: 2026-11-27T03:22:42.878519+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
-  🇨🇳 China          967
+  🇨🇳 China          966
   🇹🇼 Taiwan         334
-  🇰🇷 Coreia do Sul  756
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] Finance Minister Katayama plans to focus the supplementary budget on necessary measures
+  - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
   - [korea] Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk
   - [japan] Consumer price index for November in Tokyo's 23 wards increased by 2.9% compared to the same month last year
   - [china] China warns of retaliation after Trump administration proposes new tariffs alleging overcapacity
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [china] The test of corporate compliance under the technological competition between the United States and China KPMG:
   - [japan] Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data — Market Talk
   - [japan] Even if the Bank of Japan raises interest rates, the yen's depreciation hell won't end... Why isn't the yen be
+  - [korea] The government will create an investment fund specializing in aerospace worth more than 200 billion
   - [japan] Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December
   - [japan] Risk of Yen Weakening Against Dollar Appears Limited — Market Talk
   - [japan] BOJ calls for safeguards against digital money, AI risks
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN NOV TOKYO CORE-CORE CPI +2.5% Y/Y; OCT +2.6%
   - [japan] MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%
   - [japan] Tokyo prices rose 2.9% in November (Kyodo News)
-  - [japan] Tokyo CPI firms in Nov, core inflation slightly misses expectations
-  - [japan] JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT
-  - [japan] BREAKING NEWS: Consumer inflation in Tokyo accelerates to 2.9% in Nov.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T03:12:47+00:00",
+      "published_utc": "2026-11-27T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
