@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T07:22:45.177404+00:00",
- "collected_at_utc": "2026-11-27T07:22:45.177404+00:00",
+ "generated_at_utc": "2026-11-27T07:32:47.927555+00:00",
+ "collected_at_utc": "2026-11-27T07:32:47.927555+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 948,
-  "china": 975,
+  "japan": 949,
+  "china": 976,
   "taiwan": 331,
-  "korea": 746
+  "korea": 744
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 35.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T06:58:16+00:00"
+   "newest": "2026-11-27T07:24:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-11-27T06:58:16+00:00"
+   "newest": "2026-11-27T07:12:17+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T06:35:20+00:00"
+   "newest": "2026-11-27T07:21:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-11-27T06:51:03+00:00"
+   "newest": "2026-11-27T07:28:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T02:18:44+00:00"
+   "newest": "2026-11-27T07:22:29+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T03:00:00+00:00"
+   "newest": "2026-11-27T01:36:36+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T07:20:00+00:00"
+   "newest": "2026-11-27T07:31:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T05:30:30+00:00"
+   "newest": "2026-11-27T07:25:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T06:20:15+00:00"
+   "newest": "2026-11-27T07:19:59+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,91 @@
  "falhas_seguidas": {},
  "items": [
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China's State Council appoints, removes officials",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5scWkyRUVTWXVKN0ZPWGl1dVJIYUV0QV9VSGItLWRlakhNWFE3cnFWMmRma3Z3RHI4Z1RLd1QyNDB5cWlHb0M3Y0VpWnRCUjl1R2ltY2g1V3JDOEVnYXRhRFpPUFpUYzViaW1aNGE5SklFeHY4dzVMMUJiNjg?oc=5",
+   "published_utc": "2026-11-27T07:25:00+00:00",
+   "title_original": "China's State Council appoints, removes officials",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d4b78a48e3d5d7cd"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261127000892:0-new-u-s-tariffs-unlikely-to-derail-u-s-china-economic-relations-market-talk/",
+   "published_utc": "2026-11-27T07:24:00+00:00",
+   "title_original": "New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0ab46b84b1610484"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "School bullying in Japan hit record high in fiscal 2025",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xXzJnTjhrSHBuREtKZTY1UmdTSFplVnhqZnFpSDVsLWU0dllYZXpWQmVjX3VmVmpCdjhxSW1MVldZNUVqNnVzOERmbC1ycmViWkd3bnRNeUVNT3JNbklXRXlwYw?oc=5",
+   "published_utc": "2026-11-27T07:22:29+00:00",
+   "title_original": "School bullying in Japan hit record high in fiscal 2025",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a2d15bde5bd5effb"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Huawei, Kioxia challenge Samsung, SK hynix’s HBM dominance",
+   "url": "https://www.koreaherald.com/article/10952102",
+   "published_utc": "2026-11-27T07:22:26+00:00",
+   "title_original": "Huawei, Kioxia challenge Samsung, SK hynix’s HBM dominance",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee73bab1a0a5eb84"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s factory slump likely extends to November despite solid exports",
+   "url": "https://www.investing.com/news/economic-indicators/chinas-factory-slump-likely-extends-to-november-despite-solid-exports-5053040",
+   "published_utc": "2026-11-27T07:18:34+00:00",
+   "title_original": "China’s factory slump likely extends to November despite solid exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "298dbcd49a814d07"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Stock price rises due to buyback of AI/semiconductor related stocks, price rises by more than 1,200 yen",
@@ -361,6 +446,23 @@
    "live_wire": false,
    "manual": false,
    "id": "89904c0d6e813b9a"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Analysis-Trump’s new tariffs aim to prise global trade from China’s grip",
+   "url": "https://www.investing.com/news/economy-news/analysistrumps-new-tariffs-aim-to-prise-global-trade-from-chinas-grip-5053032",
+   "published_utc": "2026-11-27T07:12:17+00:00",
+   "title_original": "Analysis-Trump’s new tariffs aim to prise global trade from China’s grip",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ab30141e6990f561"
   },
   {
    "source_id": "tradingview_live",
@@ -1538,6 +1640,23 @@
    "id": "e472080a1a12483d"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWt2a29HWVNtUnZuZTRJdHl3RDlvUklPTldoTkFDYzNhM05qdWhMQjhfSWFlZFF5YkFYZ3p2amdWZHR1VVFGdjRuY3RXUTRkTTd5UV9Wcnk2bENjeWdRUkFEM3B3YVBQVTNXOFhDT3dxN3UwdkRJOTBfVmlwV29VUlFnMWFxX0pWWGZoQm1n?oc=5",
+   "published_utc": "2026-11-26T23:44:17+00:00",
+   "title_original": "11月の東京物価2.9％上昇（共同通信）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b0aaa25ee0dc35d6"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
@@ -1622,23 +1741,6 @@
    "live_wire": false,
    "manual": false,
    "id": "176a9018c32c9172"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX1RUMl8yOUdkajZSb0lRdUNlODVsOW9RMnV2RWNQcUg0Q2pKeDlLVmlNSXc5ZHJ1dTRJZjZMdUNEREFaV2l3NjBaaG1nX1FCangzeWt3UkpJNWpBRlcxbHV3RHVtSkltZjh2RDlFNXBoTXR5VVhlRmF4aURMZDQ?oc=5",
-   "published_utc": "2026-11-26T23:41:35+00:00",
-   "title_original": "11月の東京物価2.9％上昇（共同通信）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "94b23fedab2a29cf"
   },
   {
    "source_id": "tradingview_live",
@@ -3316,23 +3418,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f6e0b890e2b90f3a"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Analysis-Trump’s new tariffs aim to prise global trade from China’s grip",
-   "url": "https://www.investing.com/news/economy-news/analysistrumps-new-tariffs-aim-to-prise-global-trade-from-chinas-grip-5052139",
-   "published_utc": "2026-11-26T07:06:25+00:00",
-   "title_original": "Analysis-Trump’s new tariffs aim to prise global trade from China’s grip",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "38b0117836df8b13"
   },
   {
    "source_id": "korea_herald_biz",
@@ -8502,24 +8587,6 @@
    "id": "de92cd28e2ed089b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
-   "published_utc": "2026-11-24T13:00:19+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7a825b334904b45"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -8643,7 +8710,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -8655,7 +8722,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "85389ed73c9fb172"
+   "id": "ebeb58740ddd2edc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -9074,6 +9141,24 @@
    "id": "7c8dca0001fef26c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
+   "published_utc": "2026-11-24T09:34:34+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1e76ede17ef3679"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -9177,6 +9262,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
+   "published_utc": "2026-11-24T09:24:24+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -9544,24 +9647,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
-   "published_utc": "2026-11-24T08:00:00+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -51799,94 +51884,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f99b2803b5c46502"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK sees consumer inflation remaining near 3 pct in Nov.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GMFM5dmxqamNLM3d2ak5sUmRlSEQwR0RBTHh6WUV2NW44UUV5RjhuWmZRMTdXb2xSV3NXTExHWW9UYXN5YTRUR1VJbzBNX0E0WnhtRTU0U0NjQQ?oc=5",
-   "published_utc": "2026-11-03T01:10:01+00:00",
-   "title_original": "BOK sees consumer inflation remaining near 3 pct in Nov.",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c1275dd53b50311"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "“It’s scary to even eat pork belly once” Prices are still high… The Bank of Korea is more inclined to raise the base interest rate [Money What’s New]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KU1k0UHBJWWgtOVJISEJOdUp0YXVJX0ItMXlHYWpVVnVPajBBLVZsVDcybFBmZ1lrQWJsa0ZIMzRKRmxsZ1pwRHVwNzhuRTZ1Vko4MHBB?oc=5",
-   "published_utc": "2026-11-03T01:01:23+00:00",
-   "title_original": "“삼겹살 한번 먹기도 무섭다” 물가 여전히 높아…한은 기준금리 인상으로 더 기운다 [머니뭐니]",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7344f1f15c23a2ef"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China to raise forex deposit reserve ratio to 6% starting November 15",
-   "url": "https://www.investing.com/news/economy-news/china-to-raise-forex-deposit-reserve-ratio-to-6-starting-november-15-4993312",
-   "published_utc": "2026-11-03T01:00:23+00:00",
-   "title_original": "China to raise forex deposit reserve ratio to 6% starting November 15",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f290e5182e05215"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China to raise FX reserve requirement to slow yuan's rally",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDB4ZFZKQmtlWTg4RlI1Tng1by1TNV9FMlZCSkFERGc1VmlndWxsUG5kNWFvemN0YXg2VmRneGNvTVh2YU9GdXRlTjJVRXZ3eE82UlZBS1Y5YWJOOUVMQk05elJZRVR6cDBnd3U2eGxHNUZtNFJsR3hqb294LWpHMDh5VmtZUnlPZTZjWFRhMDM3d19ya1pHbW54ZzZZay1uTmkxZlV2NFliV0s2blFSSU9qSTZYTnJi?oc=5",
-   "published_utc": "2026-11-03T00:55:00+00:00",
-   "title_original": "China to raise FX reserve requirement to slow yuan's rally",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "326c7079ce54f286"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "South Korea Inflation Holds Firm, Bolstering Case for More Hikes",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeEplWmVaRnNwMEdCWjVhSTkxN2RiZkRiM1FJbTNwNkRKU1pUS2JiVmxtZjh5Tjl5dk1DcWxhamhERnlxT2lEcThMNFRWd3Q2cURncTdtVHhkYTFscEVFWEprOWdDNlVFbGJYMldSeTBnUXZZM1lrUXRza0JUU0xnQ2RpTG80aXE3Tk1iM3MweUk4UWwtVjlyMVF0eXpVOElIMUhSaU9iakJOMFZ1U21HaE1jU3E?oc=5",
-   "published_utc": "2026-11-03T00:16:00+00:00",
-   "title_original": "South Korea Inflation Holds Firm, Bolstering Case for More Hikes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "80ffccb2d01dd946"
   },
   {
    "source_id": "manual_ia",

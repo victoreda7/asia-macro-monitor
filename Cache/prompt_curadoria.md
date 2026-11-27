@@ -7,17 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T07:22:45.177404+00:00
+Última coleta: 2026-11-27T07:32:47.927555+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          948
-  🇨🇳 China          975
+  🇯🇵 Japão          949
+  🇨🇳 China          976
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  746
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [china] China's State Council appoints, removes officials
+  - [china] New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk
+  - [japan] School bullying in Japan hit record high in fiscal 2025
+  - [korea] Huawei, Kioxia challenge Samsung, SK hynix’s HBM dominance
+  - [china] China’s factory slump likely extends to November despite solid exports
   - [japan] Stock price rises due to buyback of AI/semiconductor related stocks, price rises by more than 1,200 yen
+  - [china] Analysis-Trump’s new tariffs aim to prise global trade from China’s grip
   - [japan] Bank of Japan Warns Stablecoins and Tokenization Threaten Financial Stability
   - [china] China stocks, yuan rally after Beijing vows stronger market support
   - [china] Nvidia, neoclouds in focus as chip sellers rule out Chinese renters
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [china] China warns of retaliation after Trump administration proposes new tariffs alleging overcapacity
   - [china] China warns of retaliation after Trump administration proposes new tariffs over overcapacity
   - [japan] Tokyo Core CPI Rises to 2.9% YoY; December BoJ Rate Hike Expected
-  - [japan] Japan Inflation Likely to Accelerate on Energy, Food — Market Talk
-  - [japan] Japan short-term yields gain as inflation bolsters rate-hike bets
-  - [china] China industrial profits growth rises 20%, at 5-month high
-  - [china] China’s Industrial Profits Jump at Fastest Pace in Five Months
-  - [japan] Bank of Japan Councilor Tamura praises Yamanashi Prefecture's economy as "rich in nature and high technology" 
-  - [china] The test of corporate compliance under the technological competition between the United States and China KPMG:
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T07:22:45+00:00",
+      "published_utc": "2026-11-27T07:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
