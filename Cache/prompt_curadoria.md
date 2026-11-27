@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T01:52:43.020112+00:00
+Última coleta: 2026-11-27T02:02:41.615895+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          940
-  🇨🇳 China          971
+  🇨🇳 China          969
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
   - [china] From January to October 2026, profits of industrial enterprises above designated size nationwide increased by 
   - [japan] Japan MOF To Auction Y3.1T Of TD-Bills Dec 4
+  - [korea] Samsung revamps chip division to speed next-gen development
   - [china] The central bank launched a 794 billion overnight reverse repurchase operation, with a net investment of 222.5
   - [japan] Central bank money an anchor of trust in diversifying monetary system, BOJ official says
   - [japan] Interest Rate (November 26 2026)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Hackers target Taiwan's semiconductor supply chain, fishing and food sectors
   - [japan] AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls
   - [japan] Adjustments being made to extend the gift tax exemption for funds used to purchase a home
-  - [korea] The Bank of Korea raises the base interest rate by 0.25% point to 3.25% per annum... The growth rate for this 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T01:52:43+00:00",
+      "published_utc": "2026-11-27T02:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
