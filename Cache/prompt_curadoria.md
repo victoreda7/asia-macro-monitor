@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T03:32:58.526191+00:00
+Última coleta: 2026-11-27T03:42:42.063573+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          944
+  🇯🇵 Japão          945
   🇨🇳 China          965
-  🇹🇼 Taiwan         334
+  🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] Result of Liquidity Enhancement Auction on November 27, 2026(For JGB Market Special Participants)
   - [japan] Nikkei Stock Average rises due to buybacks of AI/semiconductor related stocks
   - [japan] Finance Minister Katayama plans to focus the supplementary budget on necessary measures
   - [china] The central bank's reverse repurchase operation net withdrawn 45.5 billion! Dividend low-volatility ETF Huatai
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Trade Statistics (First 10 Days of November 2026 [Provisional])
   - [japan] Core inflation in Japan’s capital accelerates in November
   - [japan] JAPAN NOV TOKYO CORE-CORE CPI +2.5% Y/Y; OCT +2.6%
-  - [japan] MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T03:32:58+00:00",
+      "published_utc": "2026-11-27T03:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T03:32:58.526191+00:00",
- "collected_at_utc": "2026-11-27T03:32:58.526191+00:00",
+ "generated_at_utc": "2026-11-27T03:42:42.063573+00:00",
+ "collected_at_utc": "2026-11-27T03:42:42.063573+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 944,
+  "japan": 945,
   "china": 965,
-  "taiwan": 334,
+  "taiwan": 333,
   "korea": 757
  },
- "elapsed_s": 42.6,
+ "elapsed_s": 28.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T01:39:24+00:00"
+   "newest": "2026-11-27T02:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T12:30:00+09:00"
+   "newest": "2026-11-27T12:35:00+09:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T02:30:34+00:00"
+   "newest": "2026-11-27T03:29:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T22:08:29+00:00"
+   "newest": "2026-11-27T02:42:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "mof_jp",
+   "source_name": "MOF Japan",
+   "title_en": "Result of Liquidity Enhancement Auction on November 27, 2026(For JGB Market Special Participants)",
+   "url": "https://www.mof.go.jp/english/policy/jgbs/auction/calendar/eresul/eresul20261127.htm",
+   "published_utc": "2026-11-27T03:35:00+00:00",
+   "title_original": "Result of Liquidity Enhancement Auction on November 27, 2026(For JGB Market Special Participants)",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62b16e503168694c"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1039,23 +1056,6 @@
    "id": "e472080a1a12483d"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWt2a29HWVNtUnZuZTRJdHl3RDlvUklPTldoTkFDYzNhM05qdWhMQjhfSWFlZFF5YkFYZ3p2amdWZHR1VVFGdjRuY3RXUTRkTTd5UV9Wcnk2bENjeWdRUkFEM3B3YVBQVTNXOFhDT3dxN3UwdkRJOTBfVmlwV29VUlFnMWFxX0pWWGZoQm1n?oc=5",
-   "published_utc": "2026-11-26T23:44:17+00:00",
-   "title_original": "11月の東京物価2.9％上昇（共同通信）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b0aaa25ee0dc35d6"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
@@ -1122,6 +1122,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b2cfbc9ba6cdccee"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX1RUMl8yOUdkajZSb0lRdUNlODVsOW9RMnV2RWNQcUg0Q2pKeDlLVmlNSXc5ZHJ1dTRJZjZMdUNEREFaV2l3NjBaaG1nX1FCangzeWt3UkpJNWpBRlcxbHV3RHVtSkltZjh2RDlFNXBoTXR5VVhlRmF4aURMZDQ?oc=5",
+   "published_utc": "2026-11-26T23:41:35+00:00",
+   "title_original": "11月の東京物価2.9％上昇（共同通信）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94b23fedab2a29cf"
   },
   {
    "source_id": "tradingview_live",
@@ -2470,8 +2487,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -2484,7 +2501,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7501,8 +7518,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -7516,7 +7533,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51869,23 +51886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f24168b9f6c8c92f"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan's October manufacturing activity in expansion but momentum eases",
-   "url": "https://focustaiwan.tw/business/202611020023",
-   "published_utc": "2026-11-02T12:34:41+00:00",
-   "title_original": "Taiwan's October manufacturing activity in expansion but momentum eases",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0751835d882097c2"
   },
   {
    "source_id": "manual_ia",
