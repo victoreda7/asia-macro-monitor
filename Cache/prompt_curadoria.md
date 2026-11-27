@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T02:52:59.090374+00:00
+Última coleta: 2026-11-27T03:02:42.566540+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          944
-  🇨🇳 China          968
+  🇨🇳 China          967
   🇹🇼 Taiwan         334
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk
+  - [japan] Consumer price index for November in Tokyo's 23 wards increased by 2.9% compared to the same month last year
+  - [china] China warns of retaliation after Trump administration proposes new tariffs alleging overcapacity
   - [china] China warns of retaliation after Trump administration proposes new tariffs over overcapacity
   - [japan] Tokyo Core CPI Rises to 2.9% YoY; December BoJ Rate Hike Expected
   - [japan] Japan Inflation Likely to Accelerate on Energy, Food — Market Talk
@@ -43,7 +46,6 @@ Total: 3000 manchetes
   - [japan] Interest Rate (November 26 2026)
   - [korea] South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk
   - [korea] Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports
-  - [japan] November consumer price index for Tokyo's 23 wards increased by 2.9% compared to the same month last year
   - [japan] Tokyo prices rose 2.9% in November; growth rate expanded, staying at the 2% level for three consecutive months
   - [japan] Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo CPI firms in Nov, core inflation slightly misses expectations
   - [japan] JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT
   - [japan] BREAKING NEWS: Consumer inflation in Tokyo accelerates to 2.9% in Nov.
-  - [japan] JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT
-  - [japan] JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T02:52:59+00:00",
+      "published_utc": "2026-11-27T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
