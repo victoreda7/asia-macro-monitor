@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T20:02:43.088031+00:00
+Última coleta: 2026-11-27T20:12:43.700844+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          947
-  🇨🇳 China          972
-  🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  742
+  🇯🇵 Japão          948
+  🇨🇳 China          973
+  🇹🇼 Taiwan         338
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [china] Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery
+  - [japan] The cost was surprisingly high... The true nature of the "ominous dissonance" between the Liberal Democratic P
   - [taiwan] TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List
   - [korea] SK hynix Stocks Jump 5.41% as 100 Trillion Won Payout Plan Sinks In
   - [korea] Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes
@@ -34,7 +36,6 @@ Total: 3000 manchetes
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
   - [china] Aluminum Corporation Of China Says Guinea Subsidiary Signs EPC Contract With China Aluminum International Engi
-  - [japan] School bullying in Japan hit record high in fiscal 2025 | NHK WORLD-JAPAN News
   - [japan] School bullying in Japan hit record high in fiscal 2025
   - [china] EU weighs tighter export controls to prevent battery waste going to China
   - [korea] Samsung revamps chip division to sharpen its AI edge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] House of Councilors consumption tax reduction bill ruling and opposition parties agree to hold question and an
   - [china] China State Construction Engineering Corp Secures Projects Totalling 14.6 Billion Yuan
   - [china] China's major stock indexes surge, chip shares rally
-  - [china] Xiaocaiyuan International Holding Says It Resolved To Pay A Special Dividend Of RMB 0.4292 Per Share
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T20:02:43+00:00",
+      "published_utc": "2026-11-27T20:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
