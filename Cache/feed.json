@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-11-27T00:12:41.540152+00:00",
- "collected_at_utc": "2026-11-27T00:12:41.540152+00:00",
+ "generated_at_utc": "2026-11-27T00:22:41.819332+00:00",
+ "collected_at_utc": "2026-11-27T00:22:41.819332+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 931,
+  "japan": 932,
   "china": 971,
-  "taiwan": 339,
-  "korea": 759
+  "taiwan": 337,
+  "korea": 760
  },
  "elapsed_s": 28.8,
  "sources": [
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T18:07:43+00:00"
+   "newest": "2026-11-26T23:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T20:42:00+00:00"
+   "newest": "2026-11-26T11:07:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T00:01:22+00:00"
+   "newest": "2026-11-27T00:15:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T00:01:00+00:00"
+   "newest": "2026-11-27T00:20:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T21:51:54+00:00"
+   "newest": "2026-11-26T18:52:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T22:08:29+00:00"
+   "newest": "2026-11-26T07:28:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,41 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261126004201:0-south-korea-s-november-exports-likely-accelerated-on-brisk-chip-demand-market-talk/",
+   "published_utc": "2026-11-27T00:20:00+00:00",
+   "title_original": "South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "12b97c1b2cf6a1c8"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports",
+   "url": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-adopt-chinas-ymtc-memory-technology-nikkei-reports-5052784",
+   "published_utc": "2026-11-27T00:15:53+00:00",
+   "title_original": "Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3a9a5b56ed9182f9"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -552,6 +587,24 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Core inflation in Tokyo hits 16-month high, bolsters case for BOJ hike",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770CG:0-core-inflation-in-tokyo-hits-16-month-high-bolsters-case-for-boj-hike/",
+   "published_utc": "2026-11-26T23:38:36+00:00",
+   "title_original": "Core inflation in Tokyo hits 16-month high, bolsters case for BOJ hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c031ce56a6f50db4"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "JAPAN NOV TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.5% Y/Y (OCT +2.6%); MEDIAN FORECAST +2.8% (range: +2.7% TO +2.9%)",
    "url": "https://www.tradingview.com/news/macenews:3f3467c5a094b:0-japan-nov-tokyo-core-core-cpi-ex-fresh-food-energy-2-5-y-y-oct-2-6-median-forecast-2-8-range-2-7-to-2-9/",
@@ -634,6 +687,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e91034e09feb23ee"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmRfdlhSS0pHcURIQUdHekg4SHFIU3NxN3RVZVUzX2xFaXBsZ2wtalFHSUJQUU1qOWdPaVF6eHRSYW5kV3AzaERxdlFyeUMzajlsckw1eDFyMl80YjV3Ri1WSTlmQnhaUFFDbU5iejhsRW05MENMODdPVGhyeHBXTVZzbzZaLUdPbkQ3dlltQ090RTN0STNpQzROZUJiUUFzSm9Ld0VJZzZHcGpiUmN0WkZHemE?oc=5",
+   "published_utc": "2026-11-26T23:00:00+00:00",
+   "title_original": "Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a727d5932ad00a82"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1793,23 +1863,6 @@
    "id": "674daeb34b42d3ab"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Valor Economico",
-   "title_en": "How a deal with Bain Capital made SK Hynix the main shareholder of competitor Kioxia",
-   "url": "https://www.tradingview.com/news/moodys:8c3712ae35a1e:0/",
-   "published_utc": "2026-11-26T08:17:01+00:00",
-   "title_original": "Como um acordo com a Bain Capital tornou a SK Hynix a principal acionista da concorrente Kioxia",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "3e70119005b74f52"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "네이버페이 머니스토리",
    "title_en": "The Bank of Korea raised its base interest rate to 3.25%. Why did it choose to raise it this time?",
@@ -1827,8 +1880,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -1841,7 +1894,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2090,24 +2143,6 @@
    "id": "38b0117836df8b13"
   },
   {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Bank of Korea raises interest rates amid AI chip boom",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5",
-   "published_utc": "2026-11-26T07:00:55+00:00",
-   "title_original": "Bank of Korea raises interest rates amid AI chip boom",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "88ec8481c8d1b7e1"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Korea stands by industrial policy after US tariff proposal",
@@ -2213,7 +2248,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ?oc=5",
    "published_utc": "2026-11-26T06:41:00+00:00",
@@ -3300,6 +3335,24 @@
    "live_wire": false,
    "manual": false,
    "id": "92e1f40efbe25c58"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "Bank of Korea raises interest rates amid AI chip boom",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5",
+   "published_utc": "2026-11-26T01:47:50+00:00",
+   "title_original": "Bank of Korea raises interest rates amid AI chip boom",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "88ec8481c8d1b7e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6807,8 +6860,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -6822,7 +6875,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -7205,6 +7258,24 @@
    "id": "de92cd28e2ed089b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -7328,7 +7399,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -7340,7 +7411,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ebeb58740ddd2edc"
+   "id": "85389ed73c9fb172"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7831,9 +7902,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "东方财富网",
    "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
    "published_utc": "2026-11-24T09:29:29+00:00",
    "title_original": "央行：11月25日将开展8000亿元MLF操作",
    "region": "china",
@@ -7845,7 +7916,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50a6ca31e9d4299a"
+   "id": "185164eda1a75342"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -7898,24 +7969,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -18315,6 +18368,23 @@
    "id": "4962f77e3067625c"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENW9CUl9hWU5UVzc2azhmSE1LN2xSV2sydUNpU29ncFREY1VJSjF3c1FZRlZVVUVFUU9oLXZRYVdlRHh1NzFYWWdXbFpMNHlhLXFLR1NQWQ?oc=5",
+   "published_utc": "2026-11-18T08:00:00+00:00",
+   "title_original": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e4d7e7c395c72ae7"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Lawmakers unfreeze 50 MND budget items totaling US$38.2 million",
@@ -18886,23 +18956,6 @@
    "live_wire": false,
    "manual": false,
    "id": "615121e94ee56b1b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENW9CUl9hWU5UVzc2azhmSE1LN2xSV2sydUNpU29ncFREY1VJSjF3c1FZRlZVVUVFUU9oLXZRYVdlRHh1NzFYWWdXbFpMNHlhLXFLR1NQWQ?oc=5",
-   "published_utc": "2026-11-18T02:23:36+00:00",
-   "title_original": "Samsung Electronics, SK hynix surge as Nvidia eases AI investment concerns",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e4d7e7c395c72ae7"
   },
   {
    "source_id": "nhk_economy",
@@ -51832,57 +51885,6 @@
    "live_wire": false,
    "manual": false,
    "id": "459a36136d9e63ff"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbllyZFBJUG1iem81UlUzenBjdmd4NVpwMlRXT0UzUENaTHhWdTg4RHd1OFduZGhnRTJCd1VNby1lWTJUSGMydXFRYS1qYUpIZDBkck1PZW1mUUpEYVY1cXZsQlhUYzBVQzhrY1FhNGN3M0FzZ1lNNUNDMnhHWVMwMFlzd0J3U1NTOHNVRjZNQWpyOEVZWC1iaThwQmlWcmM?oc=5",
-   "published_utc": "2026-11-02T08:00:00+00:00",
-   "title_original": "Rebuilding the American edge: How TSMC is driving US manufacturing and economic opportunity",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d26f9da1ae6f1354"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
-   "published_utc": "2026-11-02T08:00:00+00:00",
-   "title_original": "Musk may let TSMC run his Texas chip fab as his do-it-alone plan stalls",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b6663326de63589"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Shifts Main Policy Rate to Overnight Reverse Repo Rate",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3FQTXdJaHBsWWtlZFM0RWNUMG1RYlFrTlpKMHN4cWhYay1xbGQyMFZhSDVXaVhHNkRUWEpqN2ZOYUxsZy02dHp4Y1B1MVRuZnV4VThNbUtnZHdOMGpRdklWcVZndFJ1aUgzcFUybEozUURVUXU3djd6SU5YOFNFdzVibWZXajBBWmdCdnFhal9uNDRZYzZkUHlzclkxczc4X3BmSnNzRzhmNlN2UDhFck9wWlBIQQ?oc=5",
-   "published_utc": "2026-11-02T08:00:00+00:00",
-   "title_original": "China Shifts Main Policy Rate to Overnight Reverse Repo Rate",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4c52e74b00ada20"
   },
   {
    "source_id": "manual_ia",

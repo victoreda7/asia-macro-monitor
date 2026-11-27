@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T00:12:41.540152+00:00
+Última coleta: 2026-11-27T00:22:41.819332+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          932
   🇨🇳 China          971
-  🇹🇼 Taiwan         339
-  🇰🇷 Coreia do Sul  759
+  🇹🇼 Taiwan         337
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk
+  - [korea] Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports
   - [japan] November consumer price index for Tokyo's 23 wards increased by 2.9% compared to the same month last year
   - [japan] Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play
   - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
@@ -29,11 +31,13 @@ Total: 3000 manchetes
   - [japan] JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT
   - [japan] Tokyo prices rose 2.9% in November (Kyodo News)
   - [japan] JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST
+  - [japan] Core inflation in Tokyo hits 16-month high, bolsters case for BOJ hike
   - [japan] JAPAN NOV TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.5% Y/Y (OCT +2.6%); MEDIAN FORECAST +2.8% (range: +2.
   - [japan] JAPAN NOV TOKYO TOTAL CPI +2.8% Y/Y (OCT REVISED DOWN TO +2.7% FROM +2.8%); MEDIAN FORECAST +3.0% Y/Y (RANGE: 
   - [japan] JAPAN NOV TOKYO CORE CPI (EX-FRESH FOOD) +2.9% Y/Y (OCT +2.6%), MEDIAN FORECAST +2.9% (RANGE: +2.8% TO +3.1%)
   - [japan] Tokyo Nov core CPI rises 2.9% yr/yr
   - [japan] Nvidia suspends exports to four Southeast Asian countries Western media
+  - [china] Euro Set for Biggest Drop in Two Decades Against Yuan This Year
   - [taiwan] Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%
   - [taiwan] Hackers target Taiwan's semiconductor supply chain, fishing and food sectors
   - [japan] Adjustments being made to extend the gift tax exemption for funds used to purchase a home
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Data Preview: Solid Department Store Sales to Propel Retail Sales in October Report
   - [japan] Japan Data Forecast: Exports, AI Buildout to Lift Industrial Output in October Report
   - [china] Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rente
-  - [korea] Bank of Korea raises base interest rate to 3.25%... Third time in the second half of the year
-  - [japan] Japanese Yen Lifted by Safe-Haven Demand — Market Talk
-  - [japan] Japan-Marshal summit meeting confirms expansion of cooperation in security field, etc.
-  - [taiwan] What to know about the latest U.S. tariff proposals for Taiwan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T00:12:41+00:00",
+      "published_utc": "2026-11-27T00:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
