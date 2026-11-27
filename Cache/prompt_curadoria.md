@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T18:32:48.512903+00:00
+Última coleta: 2026-11-27T18:42:41.496008+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          947
-  🇨🇳 China          972
+  🇨🇳 China          973
   🇹🇼 Taiwan         338
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [china] China's auto exports to rise 50% amid intensifying competition at home
   - [japan] Japan Week Ahead: October Factory Output, Retail Sales Likely to Show Solid Start to Final Quarter of 2026
   - [china] Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access
   - [china] The Week Ahead (Nov. 30-Dec. 6): Nasdaq Extends Trading, EU Caps Chinese Hybrid Imports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] DSC partners with JAPANCARS to expand China’s used car exports
   - [taiwan] AI is still in short supply. The General Accounting Office estimates that exports will hit a new high of US$1 
   - [china] Kweichow Moutai To Distribute Cash Dividend Of 25.6 Yuan Per Share
-  - [taiwan] Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T18:32:48+00:00",
+      "published_utc": "2026-11-27T18:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
