@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-26T23:52:41.649246+00:00
+Última coleta: 2026-11-27T00:02:43.051706+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          930
@@ -22,10 +22,10 @@ Total: 3000 manchetes
   - [japan] Trade Statistics (First 10 Days of November 2026 [Provisional])
   - [japan] JAPAN NOV TOKYO CORE-CORE CPI +2.5% Y/Y; OCT +2.6%
   - [japan] MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%
-  - [japan] Tokyo prices rose 2.9% in November (Kyodo News)
   - [japan] Tokyo CPI firms in Nov, core inflation slightly misses expectations
   - [japan] JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT
   - [japan] JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT
+  - [japan] Tokyo prices rose 2.9% in November (Kyodo News)
   - [japan] JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST
   - [japan] Core inflation in Japan's capital accelerates in November
   - [japan] JAPAN NOV TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.5% Y/Y (OCT +2.6%); MEDIAN FORECAST +2.8% (range: +2.
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-26T23:52:41+00:00",
+      "published_utc": "2026-11-27T00:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

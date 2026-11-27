@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-26T23:52:41.649246+00:00",
- "collected_at_utc": "2026-11-26T23:52:41.649246+00:00",
+ "generated_at_utc": "2026-11-27T00:02:43.051706+00:00",
+ "collected_at_utc": "2026-11-27T00:02:43.051706+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 339,
   "korea": 758
  },
- "elapsed_s": 28.9,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-26T23:44:16+00:00"
+   "newest": "2026-11-26T23:48:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T16:42:50+00:00"
+   "newest": "2026-11-25T18:37:49+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-26T23:51:21+00:00"
+   "newest": "2026-11-27T00:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T23:44:17+00:00"
+   "newest": "2026-11-26T23:42:16+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -431,23 +431,6 @@
    "id": "e472080a1a12483d"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWt2a29HWVNtUnZuZTRJdHl3RDlvUklPTldoTkFDYzNhM05qdWhMQjhfSWFlZFF5YkFYZ3p2amdWZHR1VVFGdjRuY3RXUTRkTTd5UV9Wcnk2bENjeWdRUkFEM3B3YVBQVTNXOFhDT3dxN3UwdkRJOTBfVmlwV29VUlFnMWFxX0pWWGZoQm1n?oc=5",
-   "published_utc": "2026-11-26T23:44:17+00:00",
-   "title_original": "11月の東京物価2.9％上昇（共同通信）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b0aaa25ee0dc35d6"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
@@ -497,6 +480,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b2cfbc9ba6cdccee"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX1RUMl8yOUdkajZSb0lRdUNlODVsOW9RMnV2RWNQcUg0Q2pKeDlLVmlNSXc5ZHJ1dTRJZjZMdUNEREFaV2l3NjBaaG1nX1FCangzeWt3UkpJNWpBRlcxbHV3RHVtSkltZjh2RDlFNXBoTXR5VVhlRmF4aURMZDQ?oc=5",
+   "published_utc": "2026-11-26T23:41:35+00:00",
+   "title_original": "11月の東京物価2.9％上昇（共同通信）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94b23fedab2a29cf"
   },
   {
    "source_id": "tradingview_live",
@@ -1793,8 +1793,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -1807,7 +1807,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "984f302a111a267b"
+   "id": "2f3e69c4a17301be"
   },
   {
    "source_id": "gn_kr_ked",
@@ -6773,8 +6773,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -6788,7 +6788,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "47d0ded3307f0151"
+   "id": "91ec4ad2eb523a4f"
   },
   {
    "source_id": "gn_tw_digitimes",
