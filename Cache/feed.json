@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-11-27T04:03:17.685201+00:00",
- "collected_at_utc": "2026-11-27T04:03:17.685201+00:00",
+ "generated_at_utc": "2026-11-27T04:12:44.555300+00:00",
+ "collected_at_utc": "2026-11-27T04:12:44.555300+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 945,
-  "china": 966,
+  "japan": 947,
+  "china": 964,
   "taiwan": 333,
   "korea": 756
  },
- "elapsed_s": 47.0,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T07:57:31+00:00"
+   "newest": "2026-11-27T01:21:23+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,17 +65,17 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 43,
+   "count": 46,
    "error": "",
-   "newest": "2026-11-27T09:11:42+08:00"
+   "newest": "2026-11-27T11:32:52+08:00"
   },
   {
    "source_id": "investing_live",
    "name": "Investing (ao vivo)",
    "ok": true,
-   "count": 10,
+   "count": 164,
    "error": "",
-   "newest": "2026-11-27T03:44:19+00:00"
+   "newest": "2026-11-27T04:06:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T01:39:24+00:00"
+   "newest": "2026-11-27T02:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-25T18:37:49+00:00"
+   "newest": "2026-11-25T16:42:50+00:00"
   },
   {
    "source_id": "mof_jp",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-11-27T12:51:49+09:00"
+   "newest": "2026-11-27T13:09:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T04:02:13+00:00"
+   "newest": "2026-11-27T04:12:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T02:42:07+00:00"
+   "newest": "2026-11-27T00:01:32+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-11-27T12:00:00+09:00"
+   "newest": "2026-11-27T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,58 @@
  ],
  "falhas_seguidas": {},
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan eases on tariff fears despite four-year fixing high",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47808C:0-yuan-eases-on-tariff-fears-despite-four-year-fixing-high/",
+   "published_utc": "2026-11-27T04:09:18+00:00",
+   "title_original": "Yuan eases on tariff fears despite four-year fixing high",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b8b58e025c0b4988"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Core Inflation Expected to Hover Near 2% in Early FY2027 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261126004536:0-japan-core-inflation-expected-to-hover-near-2-in-early-fy2027-market-talk/",
+   "published_utc": "2026-11-27T04:09:00+00:00",
+   "title_original": "Japan Core Inflation Expected to Hover Near 2% in Early FY2027 — Market Talk",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e6df7b4ec8392a30"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Core Inflation Likely at 2.6% in November, Barclays Says — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261126004530:0-japan-core-inflation-likely-at-2-6-in-november-barclays-says-market-talk/",
+   "published_utc": "2026-11-27T04:04:00+00:00",
+   "title_original": "Japan Core Inflation Likely at 2.6% in November, Barclays Says — Market Talk",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1cb212832f4ff41c"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -640,7 +692,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Even if the Bank of Japan raises interest rates, the yen's depreciation hell won't end... Why isn't the yen being bought even though mortgages are difficult? (Diamond Online)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qa1VodnA1cHVLemI3dmN0YUF2X24yNVNJUmpEaGVQNUswZWNIV0dkeEZVUGdwdEg1a2FNN2lJUXpyLTlwalBCTHk3M2tqcTJfVkFoaVNCdDZUQXdaVzl0SVQ4MHhsYXpMM2dKNVJiMTE4ZVhBUGdNNnRGV3dmWWs?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSlBMRzdaLTJtOW8tM25HUExLZzRmaXBNSkRfQUx1cG9XcnpmdE5VcDJRY296Rm5UaHJPR280MEtnYWlEMDRuaU9RMGx6d1N3amV6enhVOGRrTzV0N01reHYxcFA5QV9sSUFpbkRWOUlPT0lqVW9qUFFlam1VWFZJOGxSSjU4SlJz?oc=5",
    "published_utc": "2026-11-27T02:00:32+00:00",
    "title_original": "日銀利上げでも円安地獄が終わらない…住宅ローンは苦しいのになぜ円は買われない？（ダイヤモンド・オンライン）",
    "region": "japan",
@@ -653,7 +705,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2d9ca02661bef780"
+   "id": "7c33c4a2ade46868"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1557,7 +1609,7 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
-   "title_en": "规模以上工业生产月度报告",
+   "title_en": "Monthly report on industrial production above designated size",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZU3dwdjlWYXFuV1pHdFBEOVlDSWFNNGZLZnY5VFU4UjNObXhPUkp4MF9YUEpWbmtKV0M1VVAzd2pHbElHR3ZZd09WMEw2Ym5OSFY4THNleUFfR2phR2RYQzRGUWpTVnVsWGhqb1BkQQ?oc=5",
    "published_utc": "2026-11-26T18:38:58+00:00",
    "title_original": "规模以上工业生产月度报告",
@@ -1566,7 +1618,7 @@
     "activity"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "97d6c6fd1608e22d"
@@ -51834,58 +51886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "33ff1bb530d16521"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Shanghai Iluvatar Corex Semiconductor Says Cumulative Chip Shipments Exceeded 80,000 Units For Ten Months",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46J11I:0-shanghai-iluvatar-corex-semiconductor-says-cumulative-chip-shipments-exceeded-80-000-units-for-ten-months/",
-   "published_utc": "2026-11-02T15:28:51+00:00",
-   "title_original": "Shanghai Iluvatar Corex Semiconductor Says Cumulative Chip Shipments Exceeded 80,000 Units For Ten Months",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "55733155a08cf131"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "China's exports of chemical products surge, U.S. think tank: May trigger new trade conflict | Cross-Strait",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XeUhwSkNkMGVLal9UN0g1cFBTaEgxVzFaRzF1TUV1YUg0dG43TTJDN0tzZUNRVlpxdTFiYWc1eHFfajNVS0VwZ0hLYk5GLTFuWjJSRVlHZ1k5RVZaNnc?oc=5",
-   "published_utc": "2026-11-02T15:09:00+00:00",
-   "title_original": "中國化工產品出口激增美智庫：恐引發新貿易衝突| 兩岸",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd2baf396858df37"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "‘Queen of the Chinese’, drone war fears, cancer drug on sale: 7 US-China relations reads",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3372493/queen-chinese-drone-war-fears-cancer-drug-sale-7-us-china-relations-reads",
-   "published_utc": "2026-11-02T14:00:33+00:00",
-   "title_original": "‘Queen of the Chinese’, drone war fears, cancer drug on sale: 7 US-China relations reads",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "86cca291698aa00f"
   },
   {
    "source_id": "manual_ia",

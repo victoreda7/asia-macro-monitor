@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T04:03:17.685201+00:00
+Última coleta: 2026-11-27T04:12:44.555300+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          945
-  🇨🇳 China          966
+  🇯🇵 Japão          947
+  🇨🇳 China          964
   🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan eases on tariff fears despite four-year fixing high
+  - [japan] Japan Core Inflation Expected to Hover Near 2% in Early FY2027 — Market Talk
+  - [japan] Japan Core Inflation Likely at 2.6% in November, Barclays Says — Market Talk
   - [japan] Consumer price index for Tokyo's 23 wards rose 2.9% in November, exceeding 2% for 3 consecutive months (TV Asa
   - [japan] Result of Liquidity Enhancement Auction on November 27, 2026(For JGB Market Special Participants)
   - [japan] Nikkei Stock Average rises due to buybacks of AI/semiconductor related stocks
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's November Exports Likely Accelerated on Brisk Chip Demand — Market Talk
   - [korea] Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports
   - [japan] Tokyo prices rose 2.9% in November; growth rate expanded, staying at the 2% level for three consecutive months
-  - [japan] Tokyo Inflation Accelerated, Keeping BOJ Rate Hike in Play
-  - [japan] International Transactions in Securities (Weekly; based on reports from designated major investors)
-  - [japan] Trade Statistics (First 10 Days of November 2026 [Provisional])
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T04:03:17+00:00",
+      "published_utc": "2026-11-27T04:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
