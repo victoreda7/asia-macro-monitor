@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-27T07:32:47.927555+00:00",
- "collected_at_utc": "2026-11-27T07:32:47.927555+00:00",
+ "generated_at_utc": "2026-11-27T07:43:37.745658+00:00",
+ "collected_at_utc": "2026-11-27T07:43:37.745658+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 331,
   "korea": 744
  },
- "elapsed_s": 35.4,
+ "elapsed_s": 84.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T04:31:57+00:00"
+   "newest": "2026-11-27T07:29:06+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 46,
+   "count": 50,
    "error": "",
-   "newest": "2026-11-27T11:32:52+08:00"
+   "newest": "2026-11-27T15:26:05+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 164,
    "error": "",
-   "newest": "2026-11-27T07:24:07+00:00"
+   "newest": "2026-11-27T07:41:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T04:49:39+00:00"
+   "newest": "2026-11-27T03:20:28+00:00"
   },
   {
    "source_id": "ked_global",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T01:36:36+00:00"
+   "newest": "2026-11-27T03:00:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-11-27T07:31:36+00:00"
+   "newest": "2026-11-27T07:41:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T07:19:59+00:00"
+   "newest": "2026-11-27T06:20:15+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-27T04:59:00+00:00"
+   "newest": "2026-11-27T07:26:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-11-26T10:50:42+00:00"
+   "newest": "2026-11-27T01:37:00+00:00"
   }
  ],
  "falhas_seguidas": {},
@@ -719,6 +719,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8e94891c8732dc67"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan machinery makers see limited impact from proposed U.S. tariffs",
+   "url": "https://focustaiwan.tw/business/202611270007",
+   "published_utc": "2026-11-27T05:18:58+00:00",
+   "title_original": "Taiwan machinery makers see limited impact from proposed U.S. tariffs",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "525e03fa6ed4b525"
   },
   {
    "source_id": "investing_live",
@@ -1274,6 +1291,23 @@
    "id": "7b1884aeb1f8b1c9"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "KBS 뉴스",
+   "title_en": "Kim Min-seok, “The Bank of Korea’s standard interest rate increase is a burden on the common people… Mobilizing the party to go all-in on people’s livelihood politics.”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xVFdKQTRLUTJaUXI3aWRtUUpSbTNrWDBTV0RDODBzZDFQMnlpMlBmUjJ3V3lGVDBYMW56S25yUHRRNkxMSlQ1SXh1RGUwWE04bHFlNW9qbUo5U1k?oc=5",
+   "published_utc": "2026-11-27T01:37:00+00:00",
+   "title_original": "김민석 “한국은행 기준 금리 인상에 서민 부담…당력 동원해 민생 정치 올인”",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6afab42efc00ad9"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "同花顺财经",
    "title_en": "Central Bank: On November 27, it launched a 794 billion yuan overnight reverse repurchase operation",
@@ -1640,23 +1674,6 @@
    "id": "e472080a1a12483d"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWt2a29HWVNtUnZuZTRJdHl3RDlvUklPTldoTkFDYzNhM05qdWhMQjhfSWFlZFF5YkFYZ3p2amdWZHR1VVFGdjRuY3RXUTRkTTd5UV9Wcnk2bENjeWdRUkFEM3B3YVBQVTNXOFhDT3dxN3UwdkRJOTBfVmlwV29VUlFnMWFxX0pWWGZoQm1n?oc=5",
-   "published_utc": "2026-11-26T23:44:17+00:00",
-   "title_original": "11月の東京物価2.9％上昇（共同通信）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b0aaa25ee0dc35d6"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
@@ -1741,6 +1758,23 @@
    "live_wire": false,
    "manual": false,
    "id": "176a9018c32c9172"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Tokyo prices rose 2.9% in November (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX1RUMl8yOUdkajZSb0lRdUNlODVsOW9RMnV2RWNQcUg0Q2pKeDlLVmlNSXc5ZHJ1dTRJZjZMdUNEREFaV2l3NjBaaG1nX1FCangzeWt3UkpJNWpBRlcxbHV3RHVtSkltZjh2RDlFNXBoTXR5VVhlRmF4aURMZDQ?oc=5",
+   "published_utc": "2026-11-26T23:41:35+00:00",
+   "title_original": "11月の東京物価2.9％上昇（共同通信）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94b23fedab2a29cf"
   },
   {
    "source_id": "tradingview_live",
@@ -3140,8 +3174,8 @@
    "id": "33d3d6f1142e1e9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi will revise the tax system next year “to promote investment and lead to growth”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261126de81902",
    "published_utc": "2026-11-26T08:14:00+00:00",
@@ -3154,7 +3188,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2f3e69c4a17301be"
+   "id": "984f302a111a267b"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8172,8 +8206,8 @@
    "id": "30bc1e8f69757367"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Formulation of second supplementary budget plan expected to be limited to Kumamoto earthquake recovery, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261125de80904",
    "published_utc": "2026-11-24T20:38:00+00:00",
@@ -8187,7 +8221,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "91ec4ad2eb523a4f"
+   "id": "47d0ded3307f0151"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -8587,6 +8621,24 @@
    "id": "de92cd28e2ed089b"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUJkbWhkcWNkWXBoOU44SzVKSzFPTjRqM0xhVV93THpBeUE3ZlFJeGZzT05oSHZlSHpaUVhxZ2JULVM5WGVEUDFyUEJNSDF4dXJuUjR0eDFaWUNCUHc?oc=5",
+   "published_utc": "2026-11-24T13:00:19+00:00",
+   "title_original": "央行将开展8000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7a825b334904b45"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Yen Falls Amid Global AI Sector Revival",
@@ -8710,7 +8762,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank recently announced that it will carry out 800 billion yuan of MLF operations",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZFMkdHRG95MnJLU3JDTTBCaUIwQmpVRHZTcmZ4UFYzcXhmelNPd3MxanFDZUJDbVhGQWxmT2xWMEpxbWF3RmwxWWp0UHpsQjlhRU9pNXVISWdSX1U2RjNCMWIzM1gxZ1FFZ0swTmxYZkh4djlGSGR2YVZtN2pjdlBxZkZoTTEwRWJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXVTbUk4bjBaWmpDeVNXdGd1U3BNSkptNktObkxGcjZmMFM0S0dHd2UxYXA5XzZYSmVrTmlOaG1nUVByVmVKcm9hRGRnQTJnR2o1MDdmbFZEc0lsYUtSdHN1V3QwYldqVzBLZHptN2M0TDF4TkhSblJpT3NXR1g1dGY0c1FuMk9z?oc=5",
    "published_utc": "2026-11-24T11:57:56+00:00",
    "title_original": "央行最新宣布，将开展8000亿元MLF操作",
    "region": "china",
@@ -8722,7 +8774,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ebeb58740ddd2edc"
+   "id": "85389ed73c9fb172"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -9141,24 +9193,6 @@
    "id": "7c8dca0001fef26c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN1U4VV9qTGIyd2FzZGhDYXZySU1pRE9ndlhvcWxTdnFGeWVuNlRiMWNKNDNkNDE0Yi0tYTRrVVNINXBBSm1lVldhcVViTDBEcWRHU2k0LXpVUEs4MmdpWA?oc=5",
-   "published_utc": "2026-11-24T09:34:34+00:00",
-   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1e76ede17ef3679"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC eyes US$22.6 billion Texas campus for 2nm chips",
@@ -9197,7 +9231,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on November 25",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kOXpaUGV3RE8xdzRZajJseXlSTGtiQW1YckJEYzcxM2VzVEN0cUUwTWVPbUtPMFRfYW5VNlJaYTNLemV0WHhfNFM0eUV2ZGo0eUNPSXIyTHNOZTc5T1ZUSUs3WkJOdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UENvd2dBNmhaNldHeUViVmdvQVhKSXNKQWZGSjJ1SHZId0M5aVhNSGpHN0gtdjdMY0NMRGNSQ3JrTmlFMGVWV0IwQlFGYTQwN3U0ZWlIMkY5X1UwQ3hFWA?oc=5",
    "published_utc": "2026-11-24T09:29:29+00:00",
    "title_original": "央行：11月25日将开展8000亿元MLF操作",
    "region": "china",
@@ -9209,7 +9243,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "185164eda1a75342"
+   "id": "50a6ca31e9d4299a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9262,24 +9296,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8361c2d8d19ff598"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZ1BGR25ub3N4YmtENzlwNWR2YzdlSDRvU3p5VzRXelhnMlhPNGtBclhaYjdMVklWWV8yYVpUcGJFUV82Q19pbGNlYWdqVE1uN0o0THJfYV9lWThHSzB4SGtSTG9PSmJvY2c?oc=5",
-   "published_utc": "2026-11-24T09:24:24+00:00",
-   "title_original": "央行将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16c7f7c4ddc6591f"
   },
   {
    "source_id": "tradingview_live",
@@ -9647,6 +9663,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf9c875b2192dbd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Will launch 500 billion yuan 7-day reverse repurchase operation on November 25",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX3Rtb3VBZ3d4QmU0WVYzZHA0OUxXODB3dmJfYmVWZ0RhWkJDN0xQX3pqck9WdFhvX1lTMW56VHVENmZ3UjdWSFRZdWUtY1JEd1JJRFRsaTZZMnU4NnlzZjdXbnBYQQ?oc=5",
+   "published_utc": "2026-11-24T08:00:00+00:00",
+   "title_original": "央行：11月25日将开展5000亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e0e651fb9f70ac6"
   },
   {
    "source_id": "focus_taiwan",
@@ -16962,6 +16996,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d194caf33b549423"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China Became Dubai’s Largest Source of Vehicle Imports in 2025",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczFyNHdMWmtJTVU1bWYxcGp3VTBnUUtxZEhndjhyVnpFeHlWNXh2VFlHbnpMclI3RWxwODNBTEs0NXNKdHVVdFdKZFIwVTdGNncybHdoT0RYMFpST3JlRHdQWDE5OXdJUGpzbi1XUDZmYlBjMzc3cW9VOEk1a1dvZU5TS3BOLXFvUHBUTXZuckZBeWlJcm4wX3h6dGw1aHRlSHBHWHBOcHF0YlRmM2FueDVGUQ?oc=5",
+   "published_utc": "2026-11-19T15:38:00+00:00",
+   "title_original": "China Became Dubai’s Largest Source of Vehicle Imports in 2025",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e67800600c173d69"
   },
   {
    "source_id": "investing_live",
@@ -51830,60 +51881,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c6bbe5402e785a42"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "BOK sees consumer inflation remaining near 3% in Nov.",
-   "url": "https://www.koreaherald.com/article/10923755",
-   "published_utc": "2026-11-03T01:21:04+00:00",
-   "title_original": "BOK sees consumer inflation remaining near 3% in Nov.",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0cd8eb315ec7eed0"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "High inventories threaten Taiwan manufacturing PMI expansion",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1pOY25NMWIzekJiTFpHSTU3WW5KN2FXVElENWtrX0tLVFpCR000alNLN2NNYmUyZXNUbFdPRkk5X2ZFSllpbXUyLW5IZlJ4dkNqcE1RVmxDdEc5S3FQZm50OE5ROUpnajZaY1lLdmczejFIS0VOdVU5bi05WEk4dkpfdkE1S3ZCRWlwLWJBVkpBOVZ5b0k3bW5XbzE?oc=5",
-   "published_utc": "2026-11-03T01:15:29+00:00",
-   "title_original": "High inventories threaten Taiwan manufacturing PMI expansion",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "03588db5494337cb"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVl3aHZtWlhyajlpU1RkRk1fbkhKT2JSQnVoV3dxa0U4bm1tWGRUUHI0d2d6amg0VDlMa0d1UUdIRnVFdkhlUllTLUNZNjk1UlNZUW1jbGNJT0lTZjZTQ195SU9DZXlxUU1scE5jZFZES0ZhRWo1WGxQaTlZYnV4TzJBbVNOWjhsT25MNU9tZHB5N3JubExtM2dJLXJXRWhuM3ZpUzBNREJjeEpQWkJTakNhS05UUktzTHhvODVrVDNLdGxhWjFN?oc=5",
-   "published_utc": "2026-11-03T01:13:12+00:00",
-   "title_original": "PBOC to raise banks’ forex reserve requirements amid yuan appreciation pressure",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f99b2803b5c46502"
   },
   {
    "source_id": "manual_ia",

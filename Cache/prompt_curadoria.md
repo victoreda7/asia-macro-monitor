@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T07:32:47.927555+00:00
+Última coleta: 2026-11-27T07:43:37.745658+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          949
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [china] 1st LD: Chinese premier chairs State Council executive meeting
   - [china] Chinese premier chairs State Council executive meeting
   - [korea] Korea’s future fund must not come at the cost of fiscal discipline
+  - [taiwan] Taiwan machinery makers see limited impact from proposed U.S. tariffs
   - [korea] South Korea November exports seen posting fastest growth in over 50 years on AI chip surge: Reuters poll
   - [china] Commentary: Brazil’s Lesson for China — GDP Isn’t Everything
   - [japan] (BOJ Review) Developments in JGB Market-Making Business by Securities Companies
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumer price index for November in Tokyo's 23 wards increased by 2.9% compared to the same month last year
   - [china] China warns of retaliation after Trump administration proposes new tariffs alleging overcapacity
   - [china] China warns of retaliation after Trump administration proposes new tariffs over overcapacity
-  - [japan] Tokyo Core CPI Rises to 2.9% YoY; December BoJ Rate Hike Expected
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T07:32:48+00:00",
+      "published_utc": "2026-11-27T07:43:37+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
