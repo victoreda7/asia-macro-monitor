@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T15:32:48.718240+00:00
+Última coleta: 2026-11-27T15:42:45.189723+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          943
   🇨🇳 China          972
-  🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  742
+  🇹🇼 Taiwan         342
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix increases buybacks following recent share skid: report
   - [korea] Micron, SK Hynix and SanDisk Stocks Rise — What's the Verdict on Demand?
   - [china] Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang
   - [japan] Liberal Democratic Party Vice President Aso, Foreign Minister Motegi and others meet to pass consumption tax r
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Raises 2026 Growth Forecasts as AI Exports Surge
   - [china] Euro Set for Biggest Drop in Two Decades Against Yuan This Year
   - [korea] Sk Hynix Solidigm Reviewing Various Options To Expand Production Capacity, But Nothing Decided Yet On Reported
-  - [japan] Tax exemption for donations of funds for home purchase to be extended and expanded LDP Executive Committee
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T15:32:48+00:00",
+      "published_utc": "2026-11-27T15:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
