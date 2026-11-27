@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-11-27T10:57:38.064477+00:00
+Última coleta: 2026-11-27T11:03:03.900296+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          944
-  🇨🇳 China          971
+  🇨🇳 China          970
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  742
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why South Korea’s chip boom is now a US tariff trap as a US$350b pledge looms
+  - [china] Zhifei Biological Products Says Manufacturing Registration Application For Semaglutide Injection For Weight Ma
   - [japan] Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’
   - [japan] House of Councilors consumption tax reduction bill ruling and opposition parties agree to hold question and an
   - [china] China State Construction Engineering Corp Secures Projects Totalling 14.6 Billion Yuan
+  - [china] China's major stock indexes surge, chip shares rally
   - [china] Xiaocaiyuan International Holding Says It Resolved To Pay A Special Dividend Of RMB 0.4292 Per Share
   - [china] China central bank cuts subscription thresholds for big-denomination deposit products from March
   - [china] U.S. Tech Restrictions More Pressing Challenge to China Than Tariffs — Market Talk
@@ -29,7 +32,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern
   - [china] Guangdong Songfa Ceramics' Subsidiary To Invest About 17 Billion Yuan In Project
   - [china] 2nd LD-Writethru: China's major stock indexes surge, chip shares rally
-  - [china] China's major stock indexes surge, chip shares rally
   - [china] UBS Cites Experts that Rising Social Security Costs Pressure Intermediaries; Shenzhen Rent Uptick Supports Hom
   - [china] Jiangsu Shemar Electric Plans To Invest Up To 510 Million Yuan In Project
   - [china] Commentary: China’s Consumption Problem Needs Cash for Households, Not Subsidies for Producers
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO
   - [china] China's State Council appoints, removes officials
   - [china] New U.S. Tariffs Unlikely to Derail U.S.-China Economic Relations — Market Talk
-  - [taiwan] TSMC's A14 ready for chip design
-  - [japan] School bullying in Japan hit record high in fiscal 2025
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-11-27T10:57:38+00:00",
+      "published_utc": "2026-11-27T11:03:04+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
